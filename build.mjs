@@ -12,22 +12,23 @@ await clean()
 await build()
 
 async function clean() {
-    await fsp.rmdir('./public', { recursive: true })
+    await fsp.rmdir('./docs', { recursive: true }).catch(() => {})
+    await fsp.mkdir('./docs', { recursive: true })
 }
 
 async function copyRootFiles() {
     const files = await fsp.glob('./source/root/**.*')
     for await (const file of files) {
-        await fsp.mkdir('./public/' + file.replace(/^.*\//, '').split('/').slice(0, -1).join('/'), { recursive: true })
-        await fsp.copyFile(file, `./public/${file.replace(/^.*\//, '')}`)
+        await fsp.mkdir('./docs/' + file.replace(/^.*\//, '').split('/').slice(0, -1).join('/'), { recursive: true })
+        await fsp.copyFile(file, `./docs/${file.replace(/^.*\//, '')}`)
     }
 }
 
 async function buildIndex({ blog_data }) {
     const template = pug.compileFile('./source/template/index.pug')
     const html = template({ blog_data })
-    await fsp.mkdir('./public', { recursive: true })
-    await fsp.writeFile('./public/index.html', html)
+    await fsp.mkdir('./docs', { recursive: true })
+    await fsp.writeFile('./docs/index.html', html)
 }
 
 async function build() {
@@ -46,8 +47,8 @@ async function buildBlog() {
         const html = marked(body)
         const output = pug.renderFile('./source/template/blog.pug', { attributes, body: html })
         let datestring = attributes.date.toISOString().replace(/\..+/, '').slice(0, 10).replace(/-/g, '/')
-        await fsp.mkdir(`./public/${datestring}/${attributes.slug}`, { recursive: true })
-        await fsp.writeFile(`./public/${datestring}/${attributes.slug}/index.html`, output)
+        await fsp.mkdir(`./docs/${datestring}/${attributes.slug}`, { recursive: true })
+        await fsp.writeFile(`./docs/${datestring}/${attributes.slug}/index.html`, output)
         blog_data.push({ title: attributes.title, date: datestring, slug: attributes.slug, link: `/${datestring}/${attributes.slug}` })
     }
     return blog_data
