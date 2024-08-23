@@ -10,6 +10,7 @@ body
     a(href='/')
       span.small-logo We are the university
   section.banner.banner-small
+    div.date #{attributes.date.toISOString().replace(/\..+/, '').slice(0, 10).replace(/-/g, '/').slice(0,10)}
     h1= attributes.title
     span.author
       a(attributes.author_url)=attributes.author
