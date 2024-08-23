@@ -12,13 +12,16 @@ await clean()
 await build()
 
 async function clean() {
-    await fsp.rmdir('./docs', { recursive: true }).catch(() => {})
+    await fsp.rmdir('./docs', { recursive: true }).catch(() => { })
     await fsp.mkdir('./docs', { recursive: true })
 }
 
 async function copyRootFiles() {
-    const files = await fsp.glob('./source/root/**.*')
+    const files = await fsp.glob('./source/root/**/**')
     for await (const file of files) {
+        // filter out directories
+        if ((await fsp.stat(file)).isDirectory()) continue
+        console.log(`Copying ${file}, ${file.replace(/^.*\//, '')}`)
         await fsp.mkdir('./docs/' + file.replace(/^.*\//, '').split('/').slice(0, -1).join('/'), { recursive: true })
         await fsp.copyFile(file, `./docs/${file.replace(/^.*\//, '')}`)
     }
