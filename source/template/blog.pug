@@ -1,0 +1,16 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  title #{attributes.title} – WATU
+  link(rel='stylesheet' href='/reset.css')
+  link(rel='stylesheet' href='/style.css')
+body 
+  nav
+    a(href='/')
+      span.small-logo We are the university
+  section.banner.banner-small
+    h1= attributes.title
+    span.author
+      a(attributes.author_url)=attributes.author
+  section.body !{body}

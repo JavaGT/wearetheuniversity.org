@@ -1,0 +1,104 @@
+---
+title: Provost Invite To Forum
+slug: provost-invite-to-forum
+date: 2024-08-16
+source: https://burn-it.github.io/Disorientation/small-classes/resources/
+author: Concerned Students
+author_url: https://burn-it.github.io/Disorientation/small-classes
+---
+16 August 2024
+Professor Valerie Linton, Provost
+CC: Professor Dawn Freshwater, Vice-Chancellor
+Waipapa Taumata Rau – University of Auckland
+22 Princes Street,
+Auckland CBD, Auckland 1010
+Subject: Course cutting student forum, 22nd August 2:30 pm, HSB (B201) Foyer
+Tēnā koe Valerie,
+As students at Waipapa Taumata Rau – University of Auckland, we have concerns
+regarding central University’s ‘accelerated “optimisation” and “rationalisation” related
+to the ongoing Curriculum Framework Transformation’ of courses and programmes
+across our institution. In short, the student body has been left no choice but to
+interpret central University management’s actions as being ‘course cuts’.
+As a sign of good faith and to help alleviate anxiety, confusion and, at times,
+indignation from across the University community, we would ask that you attend a
+student-led open forum. As the Vice-Chancellor’s academic representative, we would
+appreciate your attendance and cooperation in our hosting of a forum on Thursday,
+22 August, 2:30–3:30 pm, in the foyer of the new HSB building (Level 4, B201).
+Regardless of your attendance, we shall be inviting all members of the University
+community to attend this event and have signalled to the AUSA our desire to co-host
+as a sign of unity. We respect AUSA’s role of representing the student body in
+consultation and decision-making with the University. It is our intention to show unity
+as students and ensure a productive discussion regarding potential mass changes to
+curriculum, teaching and learning outcomes.
+The purpose of this forum is to provide an opportunity for affected community
+members to better understand the rationale behind these changes. Such changes
+regarding this ‘optimisation’ and ‘rationalisation’ process have not been well-
+expressed by central University governance.
+The Student Charter guides and informs our letter to you, and any future actions that
+may occur due to the University's central management decision-making processes.
+We feel that you have not fulfilled your role in ensuring partnership in decision-
+making, including acknowledging and acting consistently with Te Tiriti o Waitangi. It
+will negatively impact Māori and Pasifika students, staff and the broader community
+if many of the courses in scope are eventually cut.
+We recognise that interpretations of the Student Charter are at times hotly-debated;
+such time would be better spent engaging in meaningful consultation and
+collaboration with students and staff. Your attendance at our hui would be most
+appreciated to ensure this.
+It must be noted that should you decide not to attend our meeting on Thursday; we
+shall take proportionate action to these course cuts at Mānawa Mai—the University
+open day on Saturday next week (24 August)—by providing respectful and
+constructive feedback, as per the Student Charter. We simply wish for student voices
+to be heard and potential concerns alleviated.
+We aim to ensure meaningful and constructive dialogue regarding an issue of mass
+importance to the student body, University community, and tertiary sector as a whole.
+We look forward to hearing from you in due course.
+Naku noa,
+Nā Concerned Students.
+Relevant sections of the Student Charter, as follows:
+This Student Charter sets out the principles underpinning the relationship between
+you and the University of Auckland. It recognises the expectations you have of the
+University, and in turn, that the University has of you.
+Our University is a research-led community of teaching and learning. A community of
+teaching and learning, however, is about more than just the pursuit of higher
+education. Our University is here to enable you to develop the skills, values and
+attributes to be active contributors and leaders in our diverse society; to understand
+and respect the significance of Te Tiriti o Waitangi; and to engage with opportunities
+to enrich yourself and others.
+This Student Charter serves as a standard with which your actions, and the
+University’s actions and policy framework, should be consistent. A meaningful, good
+faith commitment to the expectations of this Charter by all staff and students is
+fundamental to creating a great University experience for all.
+What you can expect from the University
+You can expect that the University will:
+• Make every endeavour to provide clear, timely and accurate information to
+you about:
+o University policies and procedures;
+o Programmes of study, courses, and their assessment requirements.
+• Provide opportunities for you to represent your views, and the views of other
+students, in a way that emphasises partnership in decision-making by:
+o Consulting with students before major decisions affecting students are
+made;
+o Valuing and responding to student feedback;
+o Supporting student representatives and associations to be effective in
+their roles.
+• Acknowledge and act consistently with the principles of the Treaty of Waitangi.
+• Recognise that it has a duty to support and provide, as best it can, for your
+health, safety and well-being.
+• Enable you to make complaints, without being disadvantaged, by ensuring
+that you:
+o Are kept informed about the process, outcome, and reasons for any
+decision in a timely manner;
+o Have the right to be heard;
+o Are treated respectfully, fairly and impartially.
+What the University can expect from you
+The University can expect that you will:
+• Recognise that your rights to freedom of expression come with a shared
+responsibility to maintain an environment that respects and acknowledges the
+rights of others.
+• Acknowledge and value that the University is a diverse and inclusive
+community.
+• Acknowledge and do your part to act consistently with the principles of the
+Treaty of Waitangi.
+• Make yourself aware of and follow the University’s policies and procedures.
+• Participate positively in the life and activities of the University including by
+providing respectful and constructive feedback.

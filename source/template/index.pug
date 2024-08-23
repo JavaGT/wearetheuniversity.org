@@ -1,0 +1,27 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  title We are the university
+  link(rel='stylesheet' href='/reset.css')
+  link(rel='stylesheet' href='/style.css')
+section.banner
+  h1.logo We are the university
+  h2.subtitle Student Activism in Aotearoa
+  p
+    | A hub for universities and their futures run by 
+    a(target='_blank' href='https://javagrant.com')
+      | Java
+      | Grant
+    sup
+      abbr(title='Hosted, linked, and blogged content is not endorsed.') ^
+section
+  h1.center Contents
+  ul.contents
+    for item in blog_data
+      li
+        a(href=item.link)
+            span
+                | #{item.title}
+            span
+                | #{item.date}

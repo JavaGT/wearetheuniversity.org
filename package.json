@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "marked": "^14.0.0",
+    "pug": "^3.0.3"
+  }
+}
