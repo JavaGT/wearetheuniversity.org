@@ -17,6 +17,7 @@ html {
     --color-background: #f5f5f5;
     --text-primary-inverse: #000407;
     --text-highlight: rgb(108, 27, 67);
+    --text-tint: #072f4d;
     font-family: var(--body-font);
     background-color: var(--color-background);
 }
@@ -27,12 +28,12 @@ body {
 
 @media (prefers-color-scheme: dark) {
     html {
-
         --color-tint: #fff2;
         --color-primary: #04090d;
         --color-background: #131618;
         --text-primary-inverse: #eee;
         --text-highlight: #79c3ff;
+        --text-tint: #3ea2dc;
     }
 }
 
@@ -99,6 +100,12 @@ section h1 {
     text-transform: uppercase;
     font-style: italic;
     font-weight: 900;
+    color: var(--text-primary-inverse);
+}
+
+.logo:hover,
+.small-logo:hover {
+    color: var(--text-highlight);
 }
 
 nav {
@@ -171,10 +178,6 @@ abbr:hover::after {
 }
 
 
-a:hover {
-    color: var(--text-highlight);
-}
-
 section.body {
     max-width: 800px;
     margin: 0 auto;
@@ -187,4 +190,20 @@ section.body {
 .notice {
     border: 1px solid var(--text-highlight);
     padding: 0.5rem 1rem;
+}
+
+.notice ul {
+    padding-left: 0.6rem;
+}
+
+a {
+    color: var(--text-highlight);
+}
+
+a:hover {
+    color: var(--text-primary-inverse);
+}
+
+strong {
+    color: var(--text-tint);
 }
