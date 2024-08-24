@@ -6,7 +6,8 @@ author: anonymous
 ---
 <button onclick="window.print()" style="display: block; margin: 0 auto;">PRINT THIS PAGE</button>
 
-# Management is playing dirty. [AWAITING FACT CHECK, can you confirm this? Message us [Insta](www.instagram.com/wearetheuniversity), [Email](mailto:java@javagrant.com)]
+# Management is playing dirty. 
+##### [AWAITING FACT CHECK, can you confirm this? Message us [Insta](www.instagram.com/wearetheuniversity), [Email](mailto:java@javagrant.com)]
 Please contact everyone you possibly can to make sure they are aware of the [upcoming special meeting of Senate](/2024/08/22/dawn-freshwater-all-staff-email/) on Tuesday 27th August. **Everyone needs to know that this is not the usual senate process,** management are requiring it be **in-person only and no proxy voting**. This is a **deliberate and blatent tactic** relying on those who signed the open letter to be away to skirt usual accountability. Vice Chancellor Dawn Freshwater frequently holds online meetings for Senate and Council.
 
 ## Students
