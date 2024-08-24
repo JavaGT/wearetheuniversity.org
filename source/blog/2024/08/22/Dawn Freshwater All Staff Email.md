@@ -1,6 +1,6 @@
 ---
-title: Admin Comms Dawn Freshwater All Staff Email
-slug: admin-comms-dawn-freshwater-all-staff-email
+title: Dawn Freshwater All Staff Email
+slug: dawn-freshwater-all-staff-email
 date: 2024-08-22
 source: staff mailing list
 author: Dawn Freshwater (Vice Chancellor, University of Auckland)

@@ -81,8 +81,12 @@ body {
 }
 
 section {
-    padding: 4rem min(5rem, 2vw);
+    padding: 2rem min(5rem, 2vw);
     color: var(--text-primary-inverse);
+}
+
+section h1 {
+    font-size: 2em;
 }
 
 .center {
@@ -174,4 +178,13 @@ a:hover {
 section.body {
     max-width: 800px;
     margin: 0 auto;
+}
+
+.notices {
+    margin: 0 auto;
+}
+
+.notice {
+    border: 1px solid var(--text-highlight);
+    padding: 0.5rem 1rem;
 }

@@ -5,23 +5,40 @@ head
   title We are the university
   link(rel='stylesheet' href='/reset.css')
   link(rel='stylesheet' href='/style.css')
-section.banner
-  h1.logo We are the university
-  h2.subtitle Student Activism in Aotearoa
-  p
-    | Notes for criticaly thinking about universities and their futures maintained by 
-    a(target='_blank' href='https://javagrant.com')
-      | Java
-      | Grant
-    sup
-      abbr(title='Hosted, linked, and blogged content is not endorsed.') ^
-section
-  h1.center Contents
-  ul.contents
-    for item in blog_data
-      li
-        a(href=item.link)
-            span
-                | #{item.title}
-            span
-                | #{item.date}
+body 
+  section.banner
+    h1.logo We are the university
+    h2.subtitle Student Activism in Aotearoa
+    p
+      | Notes for criticaly thinking about universities maintained by 
+      a(target='_blank' href='https://javagrant.com')
+        | Java
+        | Grant
+      sup
+        abbr(title='Hosted, linked, and blogged content is not endorsed.') ^
+  section(style='background-color: #fff1;')
+    // using new css grid 2024 make a multi column layout using flex
+    h1 Notices
+    div(style='display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); grid-gap: 1em;')
+      div.notice
+        h3
+          | Open Forum Feedback
+        p
+          | Please #[a(href="https://forms.gle/BH5h3s5VT21Lwqpd9", target="_blank") provide feedback on the student-led open forum].
+      div.notice
+        h3 
+          | Senate Meeting
+        p
+          | 
+  
+
+  section
+    h1.center Contents
+    ul.contents
+      for item in blog_data
+        li
+          a(href=item.link)
+              span
+                  | #{item.title}
+              span
+                  | #{item.date}
