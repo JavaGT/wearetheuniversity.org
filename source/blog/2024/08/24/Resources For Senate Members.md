@@ -6,9 +6,12 @@ author: anonymous
 ---
 <button onclick="window.print()" style="display: block; margin: 0 auto;">PRINT THIS PAGE</button>
 
-# Management is playing dirty. 
-Please contact everyone you possibly can to make sure they are aware of the [upcoming special meeting of Senate](/2024/08/22/dawn-freshwater-all-staff-email/) on Tuesday 27th August. **Everyone needs to know that this is not the usual senate process,** management are requiring it be **in-person only and no proxy voting**. This is a **deliberate and blatent tactic** relying on those who signed the open letter to be away to skirt usual accountability. Vice Chancellor Dawn Freshwater frequently holds online meetings for Senate and Council.
-**Management is attempting to make it more difficult than usual to participate**. While details continue to be negotiated with organisers for the special meeting, this is further evident of **a fast-track mentality** and with little warning, **senate members need to be prepared to show in person**.
+# Management is attempting to make it more difficult than usual for Senate to participate
+Please contact everyone you possibly can to make sure they are aware of the [upcoming special meeting of Senate](/2024/08/22/dawn-freshwater-all-staff-email/) on Tuesday 27th August. 
+
+**Management are requiring the senate meeting be in-person only and no proxy voting, this is not the usual senate process, this is a deliberate and blatent tactic to skirt usual accountability**. Vice Chancellor Dawn Freshwater frequently holds online meetings for Senate and Council.
+
+While details continue to be negotiated with organisers for the special meeting, this is further evident of **a fast-track mentality** and with little warning, **senate members need to be prepared to show in person**.
 
 ## Students
 Share this page with other students, as well as teachers, friends, and media. We need to make sure that everyone knows what is happening. Particularly, **members of senate need to know that their in-person attendance is crucial**.
