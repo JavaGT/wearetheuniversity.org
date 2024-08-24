@@ -207,3 +207,30 @@ a:hover {
 strong {
     color: var(--text-tint);
 }
+
+
+@media print {
+    html {
+        font-size: 0.9rem;
+    }
+
+    button[onclick="window.print()"] {
+        display: none !important;
+    }
+
+    nav {
+        position: absolute;
+        text-align: center;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    h1,
+    h2,
+    h3 {
+        font-size: 1.4em;
+        margin: 0.8rem 0;
+    }
+}
