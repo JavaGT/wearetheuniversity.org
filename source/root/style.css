@@ -234,3 +234,10 @@ strong {
         margin: 0.8rem 0;
     }
 }
+
+mark {
+    background-color: var(--color-tint);
+    color: var(--text-primary-inverse);
+    border: 1px solid var(--text-tint);
+    padding: 0 0.3em;
+}

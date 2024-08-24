@@ -11,7 +11,7 @@ Please contact everyone you possibly can to make sure they are aware of the [upc
 
 **Management are requiring the senate meeting be in-person only and no proxy voting, this is not the usual senate process, this is a deliberate and blatent tactic to skirt usual accountability**. Vice Chancellor Dawn Freshwater frequently holds online meetings for Senate and Council.
 
-While details continue to be negotiated with organisers for the special meeting, this is further evident of **a fast-track mentality** and with little warning, **senate members need to be prepared to show in person**.
+While details continue to be negotiated with organisers for the special meeting, this is further evident of **a fast-track mentality** and with little warning, <mark>**senate members need to be prepared to show in person**</mark>.
 
 ## Students
 Share this page with other students, as well as teachers, friends, and media. We need to make sure that everyone knows what is happening. Particularly, **members of senate need to know that their in-person attendance is crucial**.
