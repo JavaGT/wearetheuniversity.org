@@ -233,6 +233,10 @@ strong {
         font-size: 1.4em;
         margin: 0.8rem 0;
     }
+
+    .page-break {
+        page-break-after: always;
+    }
 }
 
 mark {

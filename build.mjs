@@ -38,6 +38,35 @@ async function build() {
     await copyRootFiles()
     const blog_data = await buildBlog()
     await buildIndex({ blog_data })
+    await buildRss({ blog_data })
+}
+
+async function buildRss({ blog_data }) {
+    console.log('Building RSS feed')
+    const items = blog_data.sort((a, b) => new Date(b.date) - new Date(a.date));
+    const xml = `<?xml version="1.0" encoding="UTF-8" ?>
+      <rss version="2.0">
+        <channel>
+          <title>We Are The University</title>
+          <link>https://wearetheuniversity.org</link>
+          <description>Reclaiming our universities</description>
+          <language>en-us</language>
+          <pubDate>${items[0].date}</pubDate>
+          <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+          <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+          <generator>JavaScript ES6</generator>
+          ${items.map(item => `
+          <item>
+            <title><![CDATA[${item.title}]]></title>
+            <link>${item.link}</link>
+            <description><![CDATA[${item.description || "No description provided"}]]></description>
+            <pubDate>${item.date}</pubDate>
+            <guid isPermaLink="true">${item.link}</guid>
+          </item>`).join('')}
+        </channel>
+      </rss>`;
+    await fsp.mkdir('./docs', { recursive: true })
+    await fsp.writeFile('./docs/rss.xml', xml)
 }
 
 async function buildBlog() {
