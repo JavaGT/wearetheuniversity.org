@@ -25,5 +25,9 @@ We have compiled a list of resources to support thoughtful discussion and decisi
     - "**I do not feel fully informed** and the student emails we receive are almost a copy/paste of the staff emails with **no real explanation** of the decisions being made"
     - "Instead of coming clean and clarifying and setting the record straight about what's actually happening, faculty **management has chosen to clarify things in meetings behind closed doors** and not allay the (very real) concerns of rank and file students and staff. **the students should NOT have to create a forum to demand answers**"
     - "It's good that the uni (at this stage ...) is saying at least that they hope to protect Maori, Pacific and local content. However, little is known about WHO is making the final decision and on WHAT basis"
+
+TODO: Key points here
 - [The Student Charter](https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-policies-and-guidelines/student-charter.html)
   - This Student Charter sets out the principles underpinning the relationship between you and the University of Auckland.
+- [Taumata Teitei](https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/strategic-plan.html)
+  - [Copy here](https://www.auckland.ac.nz/assets/about-us/the-university/official-publications/strategic-plan/2021-2030/taumata-teitei-vision-2030-and-strategic-plan-2025.pdf)
