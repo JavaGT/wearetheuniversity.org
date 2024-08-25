@@ -35,35 +35,35 @@ We have compiled a list of resources to support thoughtful discussion and decisi
 
 <div class="page-break"></div>
 
-### [The Student Charter](https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-policies-and-guidelines/student-charter.html)
-- This Student Charter sets out the principles underpinning the relationship between you and the University of Auckland, promising to:  
+### [The Student Charter](https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-policies-and-guidelines/student-charter.html) sets out the principles underpinning the relationship between students and the University of Auckland
+The Student Charter promises management will:
   * "make every endeavour to provide clear, timely and accurate information to you about:  
     * "University policies and procedures;"  
-      * Management has not provided any information to students about how restructuring procedures are carried out, what courses will be cut, how many, on what basis.  
-      * All information students have found out has been either after faculty were given tight deadlines to make decisions, or after decisions have been made. This is hardly "timely."  
+      * **Management has not provided any information to students about how restructuring procedures are carried out, what courses will be cut, how many, on what basis**.  
+      * **All information students have found out has been either after faculty were given tight deadlines to make decisions, or after decisions have been made**. This is hardly "timely."  
     * "programmes of study, courses, and their assessment requirements;"  
-      * Any course changes, regardless of how strongly the Provost insists on us "still \[being\] able to complete \[our\] programmes," will affect our programmes of study. Management has not given us any information about how our programmes will be affected.  
+      * Any course changes, regardless of how strongly the Provost insists on us "still \[being\] able to complete \[our\] programmes," **will affect our programmes of study**. Management has not given us any information about how our programmes will be affected.  
     * "academic, welfare and student experience support services;"   
-      * The combination of faculties will have profound impacts on previously-separated support services, the past experience of centralisation of student support services into StudentHubs — where previously an Arts Students Centre existed in the case of the Arts Faculty, a service much more respected than StudentHubs by students’ testimonies — gives us insights into how these might affect us.  
-      * Management has not provided students with any information on this by their own accord.  
+      * The combination of faculties will have profound impacts on previously-separated support services, **the poor experience of centralisation of student support post-StudentHubs** — where previously dedicated faculty Students Centres were much more supported by students’ testimonies — gives us insights into **management's poor decision making reguarding centralisation**.
+      *** All information has been pried from management, not provided to students proactively**.
     * "educational options that meet your needs;"   
-      * See above section about pedagogical value of small courses, and programmes of study.  
+      * See above section about **pedagogical value of small courses, and programmes of study**.  
   * "provide opportunities for you to represent your views, and the views of other students, in a way that emphasises partnership in decision-making by:"  
     * "consulting with students before major decisions affecting students are made;"  
-      * The management has not provided any details for the proposed cuts, what we know students have derived themselves with the support of concerned staff.  
-      * The Provost vaguely gestures at "student engagement" with the restructuring process, but refuses to answer when asked directly whether students have been consulted.  
-      * Justifications of cuts are broad, vague, and inconsistent.  
-    * "valuing and responding to student feedback;"  
-      * Students have been provided no means to communicate feedback to the management directly about the cuts.  
-      * There is no lack of student feedback ([https://burn-it.github.io/Disorientation/small-classes/](https://burn-it.github.io/Disorientation/small-classes/)), but the management refuses to take them into account.  
+      * Again, management has not provided any details for the proposed cuts, what we know students have derived themselves with the support of concerned staff. 
+      * **Management's justifications are consistenly changing, broad, and vague**.  
+    * "valuing and responding to student feedback;"
+      * **Students have been provided no means to communicate feedback to the management directly about the cuts**. This again has had to be devloped by students in-spite of managment's disenfranchisement of students.  
+      * [There is no lack of student feedback](https://burn-it.github.io/Disorientation/small-classes/), but the management refuses formally recognise it.
   * "recognise that it has a duty to support and provide, as best it can, for your health, safety and wellbeing."  
-    * The rapidity and uncertainty around management decisions have been anxiety-inducing to say the least. Given the vague and deeply unsatisfactory answers the Provost gave at the forum, the management is evidently uninterested in alleviating this anxiety.  
+    * The **rapidity and uncertainty around management decisions** have been anxiety-inducing to say the least. Given the vague and deeply unsatisfactory answers the Provost gave at the forum, the **management is evidently uninterested in alleviating this anxiety**.
   * "enable you to make complaints, without being disadvantaged, by ensuring that you:"  
     * "are kept informed about the process, outcome, and reasons for any decision in a timely manner;"  
     * "have the right to be heard;"  
-    * "are treated respectfully, fairly and impartially."  
+    * "are treated respectfully, fairly and impartially."
+      * While these clauses refer to the complaints process, **management has not provided any information about how students can make complaints about the cuts**.
   * "ensure that all staff are aware of and follow the University’s policies and procedures"  
-    * It is questionable whether management is aware of the Student Charter
+    * **It is questionable whether management is aware of the Student Charter**
 
 ### [Taumata Teitei](https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/strategic-plan.html)
 - [Copy here](https://www.auckland.ac.nz/assets/about-us/the-university/official-publications/strategic-plan/2021-2030/taumata-teitei-vision-2030-and-strategic-plan-2025.pdf)
