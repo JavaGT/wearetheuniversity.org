@@ -5,7 +5,9 @@ date: 2024-08-26
 ---
 
 From: email@wearetheuniversity.org
+
 To: (some) Members of Senate
+
 date: 2024-08-26 10:39AM
 
 ---
@@ -26,4 +28,5 @@ https://wearetheuniversity.org/2024/08/24/resources-for-senate-members/
 This page is designed to be printed to take along to the Senate meeting if desired.
 
 Thank you for listening.
+
 – We Are The University.
