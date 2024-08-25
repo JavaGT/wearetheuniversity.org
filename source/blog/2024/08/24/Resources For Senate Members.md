@@ -11,7 +11,7 @@ author: anonymous
 * Management's newly added requirements, in-person only, no proxy votes, set up to stop Senate from speaking out against course cuts
 * Please tell fellow Senate members they need to show up, in-person
 
-# Management is attempting to make it more difficult than usual for Senate to participate
+# Increased difficulty to participate in Senate meeting
 Please contact everyone you possibly can to make sure they are aware of the [upcoming special meeting of Senate](/2024/08/22/dawn-freshwater-all-staff-email/) on Tuesday 27th August. "The Senate's **statutory authority derives from the Education Act**, which empowers Council to establish an Academic Board (in the case of this University the Academic Board is called Senate) **to Advise the Council on matters relating to courses of study** or training, awards, and other academic matters." [- The role of Senate](https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/governance-and-committees/committees/senate.html)
 
 **Management are requiring the senate meeting be in-person only and no proxy voting, this is not the usual senate process, this is a deliberate and blatant tactic to skirt usual accountability** by taking advantage of changed habits post-covid and schedules during the mid-semester break. While during Covid alerts meetings could be online, there has been a reversion to in-person only. Vice Chancellor Dawn Freshwater frequently holds online meetings for Senate and Council.
