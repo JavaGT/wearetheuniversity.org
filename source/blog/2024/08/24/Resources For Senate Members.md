@@ -16,7 +16,7 @@ Please contact everyone you possibly can to make sure they are aware of the [upc
 
 **Management are requiring the senate meeting be in-person only and no proxy voting, this is not the usual senate process, this is a deliberate and blatant tactic to skirt usual accountability** by taking advantage of changed habits post-covid and schedules during the mid-semester break. While during Covid alerts meetings could be online, there has been a reversion to in-person only. Vice Chancellor Dawn Freshwater frequently holds online meetings for Senate and Council.
 
-While details continue to be negotiated with organisers for the special meeting, this is further evident of **a fast-track mentality** and with little warning. It is likely this meeting is in person only and **no proxy voting in spite of its timing and its urgency** <mark>**senate members need to be prepared to show in person**</mark>.
+While details continue to be negotiated with organisers for the special meeting, this is further evident of **a fast-track mentality** and with little warning. We understand this meeting is **in person only and no proxy voting in spite of its timing and its urgency**. <mark>**Senate members need to be prepared to show in person.**</mark>
 
 ## Students
 Share this page with other students, as well as teachers, friends, and media. Us students need to make sure that everyone knows what is happening. Particularly, **members of senate need to know that their in-person attendance is crucial**.
