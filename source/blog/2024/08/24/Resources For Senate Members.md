@@ -17,7 +17,7 @@ While details continue to be negotiated with organisers for the special meeting,
 Share this page with other students, as well as teachers, friends, and media. We need to make sure that everyone knows what is happening. Particularly, **members of senate need to know that their in-person attendance is crucial**.
 
 ## Members of Senate
-Please, for the wellbeing of the university, **attend the meeting**, take notes, and leak info to staff, students, and press. **We need you to be there**. **Please encourage your colleagues to attend as well**.
+Please, for the wellbeing of the university, **attend the meeting**, take notes, and leak info to staff, students, and press. **We the students need you to be there**, as do the staff who run these courses and the public who benefit from them. **Please encourage your colleagues to attend as well**.
 We have compiled a list of resources to support thoughtful discussion and decision-making. Please review the following resources before the meeting:
 
 <div class="page-break"></div>
