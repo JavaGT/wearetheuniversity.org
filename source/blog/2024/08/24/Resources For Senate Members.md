@@ -22,7 +22,7 @@ While details continue to be negotiated with organisers for the special meeting,
 Share this page with other students, as well as teachers, friends, and media. Us students need to make sure that everyone knows what is happening. Particularly, **members of senate need to know that their in-person attendance is crucial**.
 
 ## Members of Senate
-Please, for the wellbeing of the university, **attend the meeting**, take notes, and leak info to staff, students, and press. **We the students need you to be there**, as do the staff who run these courses and the public who benefit from them. **Please encourage your colleagues to attend as well**.
+Please, for the wellbeing of the university, **attend the meeting**, take notes, and leak info to staff, students, and press. **Students and staff need you to be there**, as do the staff who run these courses and the public who benefit from them. **Please encourage your colleagues to attend as well**.
 We have compiled a list of resources to support thoughtful discussion and decision-making. Please review the following resources before the meeting:
 
 <div class="page-break"></div>
@@ -51,7 +51,7 @@ The Student Charter promises management will: **"make every endeavour to provide
 * The combination of faculties will have profound impacts on previously-separated support services, **the poor experience of centralisation of student support post-StudentHubs** — where previously dedicated faculty Students Centres were much more supported by students’ testimonies — gives us insights into **management's poor decision making reguarding centralisation**.
 * **All information has been pried from management, not provided to students proactively**.
 #### "educational options that meet your needs;"   
-See above section about **pedagogical value of small courses, and programmes of study**.  
+* See above section about **pedagogical value of small courses, and programmes of study**.  
 #### "provide opportunities for you to represent your views, and the views of other students, in a way that emphasises partnership in decision-making by:"  
 "consulting with students before major decisions affecting students are made;"  
 * Again, management has not provided any details for the proposed cuts, what we know students have derived themselves with the support of concerned staff. 
