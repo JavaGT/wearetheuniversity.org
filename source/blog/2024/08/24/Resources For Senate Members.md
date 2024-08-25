@@ -9,12 +9,12 @@ author: anonymous
 # Management is attempting to make it more difficult than usual for Senate to participate
 Please contact everyone you possibly can to make sure they are aware of the [upcoming special meeting of Senate](/2024/08/22/dawn-freshwater-all-staff-email/) on Tuesday 27th August. "The Senate's **statutory authority derives from the Education Act**, which empowers Council to establish an Academic Board (in the case of this University the Academic Board is called Senate) **to Advise the Council on matters relating to courses of study** or training, awards, and other academic matters." [- The role of Senate](https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/governance-and-committees/committees/senate.html)
 
-**Management are requiring the senate meeting be in-person only and no proxy voting, this is not the usual senate process, this is a deliberate and blatant tactic to skirt usual accountability**. While during Covid meetings could be online, there has been a reversion to in-person only. Vice Chancellor Dawn Freshwater frequently holds online meetings for Senate and Council.
+**Management are requiring the senate meeting be in-person only and no proxy voting, this is not the usual senate process, this is a deliberate and blatant tactic to skirt usual accountability** by taking advantage of changed habits post-covid and schedules during the mid-semester break. While during Covid alerts meetings could be online, there has been a reversion to in-person only. Vice Chancellor Dawn Freshwater frequently holds online meetings for Senate and Council.
 
 While details continue to be negotiated with organisers for the special meeting, this is further evident of **a fast-track mentality** and with little warning. It is likely this meeting is in person only and **no proxy voting in spite of its timing and its urgency** <mark>**senate members need to be prepared to show in person**</mark>.
 
 ## Students
-Share this page with other students, as well as teachers, friends, and media. We need to make sure that everyone knows what is happening. Particularly, **members of senate need to know that their in-person attendance is crucial**.
+Share this page with other students, as well as teachers, friends, and media. Us students need to make sure that everyone knows what is happening. Particularly, **members of senate need to know that their in-person attendance is crucial**.
 
 ## Members of Senate
 Please, for the wellbeing of the university, **attend the meeting**, take notes, and leak info to staff, students, and press. **We the students need you to be there**, as do the staff who run these courses and the public who benefit from them. **Please encourage your colleagues to attend as well**.
