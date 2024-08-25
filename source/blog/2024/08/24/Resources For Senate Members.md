@@ -6,6 +6,11 @@ author: anonymous
 ---
 <button onclick="window.print()" style="display: block; margin: 0 auto;">PRINT THIS PAGE</button>
 
+# Summary
+* Students need you to physically attend the special Senate meeting on Tuesday the 27th of August
+* Management's newly added requirements, in-person only, no proxy votes, set up to stop Senate from speaking out against course cuts
+* Please tell fellow Senate members they need to show up, in-person
+
 # Management is attempting to make it more difficult than usual for Senate to participate
 Please contact everyone you possibly can to make sure they are aware of the [upcoming special meeting of Senate](/2024/08/22/dawn-freshwater-all-staff-email/) on Tuesday 27th August. "The Senate's **statutory authority derives from the Education Act**, which empowers Council to establish an Academic Board (in the case of this University the Academic Board is called Senate) **to Advise the Council on matters relating to courses of study** or training, awards, and other academic matters." [- The role of Senate](https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/governance-and-committees/committees/senate.html)
 
