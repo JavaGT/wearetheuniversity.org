@@ -25,8 +25,6 @@ Share this page with other students, as well as teachers, friends, and media. Us
 Please, for the wellbeing of the university, **attend the meeting**, take notes, and leak info to staff, students, and press. **Students and staff need you to be there**, as do the staff who run these courses and the public who benefit from them. **Please encourage your colleagues to attend as well**.
 We have compiled a list of resources to support thoughtful discussion and decision-making. Please review the following resources before the meeting:
 
-<div class="page-break"></div>
-
 ## Community Feedback
 ### [Student feedback regarding the pedagogical value of small courses (220+ submissions)](https://burn-it.github.io/Disorientation/small-classes/all/)
   - "I love small courses! They offer opportunities to build communities, engage with lecturers, and dive deeper into subject material through interactive class conversations and activities. **I also feel more supported** as a student when I'm in a small course, because **the lecturers care about me**. This motivates me to attend class, put effort in on assignments, and engage more deeply and critically with course material."
@@ -37,8 +35,6 @@ We have compiled a list of resources to support thoughtful discussion and decisi
   - "**I do not feel fully informed** and the student emails we receive are almost a copy/paste of the staff emails with **no real explanation** of the decisions being made"
   - "Instead of coming clean and clarifying and setting the record straight about what's actually happening, faculty **management has chosen to clarify things in meetings behind closed doors** and not allay the (very real) concerns of rank and file students and staff. **the students should NOT have to create a forum to demand answers**"
   - "It's good that the uni (at this stage ...) is saying at least that they hope to protect Maori, Pacific and local content. However, little is known about WHO is making the final decision and on WHAT basis"
-
-<div class="page-break"></div>
 
 ### [The Student Charter](https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-policies-and-guidelines/student-charter.html) sets out the principles underpinning the relationship between students and the University of Auckland
 The Student Charter promises management will: **"make every endeavour to provide clear, timely and accurate information to you about:**
