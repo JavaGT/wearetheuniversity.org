@@ -27,7 +27,7 @@ One department head emailed his colleagues saying those courses in scope for rev
 
 Academics also questioned the review’s tight timeframe – and why it wasn’t discussed at the university’s previous council meeting.
 
-The university, meanwhile, has insisted the review is part of normal practice and rejects the suggestion it’s looking to cut all courses with lower student numbers.
+The university **[we reject this language used by Jamie Morton at the Herald. We affirm the identityf of the univsity belongs with the students and staff. This action was taken by management]**, meanwhile, has insisted the review is part of normal practice and rejects the suggestion it’s looking to cut all courses with lower student numbers.
 
 The changes were coming ahead of a planned shift for 2026, when new transdisciplinary courses would start being rolled out.
 
