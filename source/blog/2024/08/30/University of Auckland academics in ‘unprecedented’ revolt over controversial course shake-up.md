@@ -66,7 +66,7 @@ AUSA president Alan Shaker said the main frustration was how the process had bee
 
 University of Auckland vice-chancellor Dawn Freshwater.
 
-Shaker said the university^1 had given assurances it wasn’t going to decimate its smaller courses, which the AUSA would be “strongly opposed” to.
+Shaker said the university**^1** had given assurances it wasn’t going to decimate its smaller courses, which the AUSA would be “strongly opposed” to.
 **[1) Managemenet]**
 
 He also said the association would have rather seen the senate vote to pause the course review process only, rather than the whole curriculum transformation programme.
