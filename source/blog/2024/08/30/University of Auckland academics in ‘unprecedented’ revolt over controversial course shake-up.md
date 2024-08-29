@@ -8,6 +8,8 @@ author: Jamie Morton
 
 [Original article has photo and video content.](https://www.nzherald.co.nz/nz/university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up/ODXSAEWSHFHFLLPR73HWSOEMTE/)
 
+**Highlights and [additional comments] are added by We Are The University.**
+
 ---
 
 Auckland University students address course cuts at open forum
@@ -17,7 +19,7 @@ Vice-chancellor Dawn Freshwater said the review aims to remove duplication and b
 The Tertiary Education Union and students voiced frustrations over communication and potential impact on smaller courses.
 A rare stand-off between bosses and academics at the country’s largest university has taken a dramatic turn, with professors staging an emergency vote to try to block a controversial course shake-up.
 
-One University of Auckland professor has called the move unprecedented – and a clear message to vice-chancellor Dawn Freshwater that the process has gone “off the rails”.
+One University of Auckland professor has called the move **unprecedented** – and a clear message to vice-chancellor Dawn Freshwater that **the process has gone “off the rails”**.
 
 The flare-up began this month when faculty heads were told of a new proposal to review the university’s offerings, with smaller postgraduate and undergraduate courses in scope.
 
@@ -25,9 +27,10 @@ It was met with widespread alarm that a raft of courses across multiple facultie
 
 One department head emailed his colleagues saying those courses in scope for review would need a “clear justification” to be retained.
 
-Academics also questioned the review’s tight timeframe – and why it wasn’t discussed at the university’s previous council meeting.
+**Academics also questioned the review’s tight timeframe – and why it wasn’t discussed at the university’s previous council meeting**.
 
-The university **[we reject this language used by Jamie Morton at the Herald. We affirm the identity of the university belongs with the students and staff. This insistance came from management.]**, meanwhile, has insisted the review is part of normal practice and rejects the suggestion it’s looking to cut all courses with lower student numbers.
+The university, meanwhile, has insisted the review is part of normal practice and rejects the suggestion it’s looking to cut all courses with lower student numbers.
+**[We reject this language used by Jamie Morton at the Herald. We affirm the identity of the university belongs with the students and staff. This insistance came from management.]**
 
 The changes were coming ahead of a planned shift for 2026, when new transdisciplinary courses would start being rolled out.
 
@@ -39,19 +42,19 @@ Notes provided to the Herald explained the motion was based on documents and ema
 
 It’d also been suggested the review was partly driven by a need to slash specialist teaching at undergraduate and postgraduate levels – which often came with small course sizes – to make space for generalist teaching at levels of more than 100 students.
 
-“We think that moving with such speed could lead to unintended negative consequences for accredited degrees and the quality of education we deliver,” the notes said.
+“We think that **moving with such speed could lead to unintended negative consequences for accredited degrees and the quality of education we deliver**,” the notes said.
 
 “Pausing the process needs to happen to allow time for faculty to properly consider the best course of action, given that our primary pedagogic responsibility remains to the students we are tasked with teaching in our areas of disciplinary expertise.”
 
-One professor told the Herald that while the vote didn’t compel the university’s council to hit pause, it was nonetheless a rare and significant step.
+One professor told the Herald that while **the vote didn’t compel the university’s council to hit pause, it was nonetheless a rare and significant step**.
 
 “I can’t think of any precedent for this in any New Zealand university and it sends a strong message to council that this process has gone off the rails.”
 
-Another said the vote highlighted the scale of the current disconnect between the university’s academics and administration.
+Another said **the vote highlighted the scale of the current disconnect between the university’s academics and administration**.
 
-“It was really quite a remarkable event: there was huge attendance, with no seats left in the room, and right in the middle of mid-term break.”
+“It was really quite a remarkable event: **there was huge attendance, with no seats left in the room, and right in the middle of mid-term break.**”
 
-The academic said some faculty members had even raised the notion of a vote of no confidence in the university’s leadership, but expected the issues could be resolved before that happened.
+The academic said some **faculty members had even raised the notion of a vote of no confidence in the university’s leadership**, but expected the issues could be resolved before that happened.
 
 “I think if it’s not addressed in some sensical way, with a decent amount of communication and discussion, then this could escalate further.”
 
@@ -63,8 +66,6 @@ The Tertiary Education Union (TEU) and Auckland University Students’ Associati
 AUSA president Alan Shaker said the main frustration was how the process had been communicated to students.
 
 “The feeling amongst the student body at the moment is a lot of confusion and anxiety.”
-
-University of Auckland vice-chancellor Dawn Freshwater.
 
 Shaker said the university had given assurances it wasn’t going to decimate its smaller courses, which the AUSA would be “strongly opposed” to.
 **[University management has given assurances. The university including staff and students continue to be uncertain and concerned]**
