@@ -36,6 +36,9 @@ The changes were coming ahead of a planned shift for 2026, when new transdiscipl
 
 After concerned students gathered for a rally last Thursday, professors this week called an emergency meeting of the university’s senate – a body made up of top faculty members that advises the council on academic matters. While the senate can make recommendations, the final decision on the likes of courses and curriculum sits with the council.
 
+![Helen Schnabel, a global studies student, speaks at last week's rally at the University of Auckland's quad. Photo / Sylvie Whinray](https://www.nzherald.co.nz/resizer/v2/SYDL4GVFXZAW3OVKVPPKBJ2DKQ.jpg?auth=9fa334f380a64acf700b6d691d946edaa35922a648337cddc5dbbb1f803dd9b7&width=1440&height=960&quality=70&smart=true)
+Helen Schnabel, a global studies student, speaks at last week's rally at the University of Auckland's quad. Photo / Sylvie Whinray
+
 Rather than vote to stop the course review, the senate went further and voted overwhelmingly in favour of pausing a wider ongoing programme to transform the university’s curriculum framework.
 
 Notes provided to the Herald explained the motion was based on documents and emails indicating the course review was an expedited process and “not business as usual”.
@@ -66,6 +69,9 @@ The Tertiary Education Union (TEU) and Auckland University Students’ Associati
 AUSA president Alan Shaker said the main frustration was how the process had been communicated to students.
 
 “The feeling amongst the student body at the moment is a lot of confusion and anxiety.”
+
+![University of Auckland vice-chancellor Dawn Freshwater.](https://www.nzherald.co.nz/resizer/v2/XRJM7QVX5REH5J3NMH4HMIFI5I.jpg?auth=b7015370d5f3c3f15e1d4554622148c5973fcd5583c1d58b6453fb4814b64214&width=1440&height=962&quality=70&smart=true)
+University of Auckland vice-chancellor Dawn Freshwater.
 
 Shaker said the university had given assurances it wasn’t going to decimate its smaller courses, which the AUSA would be “strongly opposed” to.
 **[University management has given assurances. The university including staff and students continue to be uncertain and concerned]**
