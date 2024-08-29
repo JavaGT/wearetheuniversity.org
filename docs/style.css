@@ -239,6 +239,10 @@ strong {
     }
 }
 
+em {
+    color: var(--text-tint);
+}
+
 mark {
     background-color: var(--color-tint);
     color: var(--text-primary-inverse);
