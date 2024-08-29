@@ -6,7 +6,7 @@ source: https://www.nzherald.co.nz/nz/university-of-auckland-academics-in-unprec
 author: Jamie Morton
 ---
 
-[Original article has video content.](https://www.nzherald.co.nz/nz/university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up/ODXSAEWSHFHFLLPR73HWSOEMTE/)
+[Original article has photo and video content.](https://www.nzherald.co.nz/nz/university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up/ODXSAEWSHFHFLLPR73HWSOEMTE/)
 
 ---
 
@@ -33,8 +33,6 @@ The changes were coming ahead of a planned shift for 2026, when new transdiscipl
 
 After concerned students gathered for a rally last Thursday, professors this week called an emergency meeting of the university’s senate – a body made up of top faculty members that advises the council on academic matters. While the senate can make recommendations, the final decision on the likes of courses and curriculum sits with the council.
 
-Helen Schnabel, a global studies student, speaks at last week's rally at the University of Auckland's quad. Photo / Sylvie Whinray
-
 Rather than vote to stop the course review, the senate went further and voted overwhelmingly in favour of pausing a wider ongoing programme to transform the university’s curriculum framework.
 
 Notes provided to the Herald explained the motion was based on documents and emails indicating the course review was an expedited process and “not business as usual”.
@@ -60,6 +58,7 @@ The academic said some faculty members had even raised the notion of a vote of n
 The Tertiary Education Union (TEU) and Auckland University Students’ Association (AUSA) have also voiced their frustrations.
 
 “[The university] has the opportunity now to put this to a halt and do the right thing,” said TEU organiser Nicole Wallace, adding the union would otherwise consider its own options.
+**[Again, we reject this language inserted by the author. It should read "[University management] has..."]**
 
 AUSA president Alan Shaker said the main frustration was how the process had been communicated to students.
 
@@ -67,7 +66,8 @@ AUSA president Alan Shaker said the main frustration was how the process had bee
 
 University of Auckland vice-chancellor Dawn Freshwater.
 
-Shaker said the university had given assurances it wasn’t going to decimate its smaller courses, which the AUSA would be “strongly opposed” to.
+Shaker said the university* had given assurances it wasn’t going to decimate its smaller courses, which the AUSA would be “strongly opposed” to.
+**[Managemenet*]**
 
 He also said the association would have rather seen the senate vote to pause the course review process only, rather than the whole curriculum transformation programme.
 
