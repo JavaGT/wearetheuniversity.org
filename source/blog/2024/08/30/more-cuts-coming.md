@@ -33,5 +33,5 @@ Based on some [recent leaks](/2024/08/29/university-of-auckland-all-staff-forum-
 - "Immigration New Zealand's rationale for increasing student visa fees by 90% is that it simply brings us up roughly to par with our main competitors."
 - "So yes, it's disappointing that we've increased our fees by that much, our visa fees."
 - "We are looking forward to the next, the first priority coming through the internationalisation framework, being the international recruitment strategy."
-- - "The Australian cap is a bit misleading because it's taking them to pre-pandemic numbers in 2019, but what it's actually doing is it's an increase of 15% in 2025."
+- "The Australian cap is a bit misleading because it's taking them to pre-pandemic numbers in 2019, but what it's actually doing is it's an increase of 15% in 2025."
   - **The increase in Australia's student cap concerns the Universty's international student market share, yet again viewing international students as cash cows rather than the campus-enriching, knowledge-sharing community they are.**
