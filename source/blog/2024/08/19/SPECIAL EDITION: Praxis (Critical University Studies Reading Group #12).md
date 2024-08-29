@@ -8,7 +8,9 @@ author_url: https://javagrant.com
 ---
 
 2024/08/19
+
 SPECIAL EDITION: Praxis (Critical University Studies Reading Group #12)
+
 Kia ora Koutou!
 
  
@@ -42,8 +44,12 @@ If you're looking for some reading to get up to speed with the situation at the 
 Attached PDFs
 [Student Charter](https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-policies-and-guidelines/student-charter.html)
 
+---
+
 2024/08/20
 Thanks for the readings attached and below, Java. It is so good (heart-warming actually) to see the student-led action on this issue. I’ll be there.
+
+---
 
 2024/08/19
 Sorry I can’t make it Java but really excited to see all the work you are doing!
