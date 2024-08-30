@@ -15,7 +15,7 @@ Based on some [recent leaks](/2024/08/29/university-of-auckland-all-staff-forum-
 - "We have started some analysis and planning around how we could **reduce our professional staffing costs by 15 million** against our 2024 levels by 2026."
 - "We certainly don't want to put any pressures on key parts of our university and student research and staff areas in particular, but recognise that we do have some **urgency** that we do need to get on and develop and implement these plans."
   - **Why is it always so urgent? Did you not realise the numbers aren't adding up before or after [refusing to collaborate with the TEU to secure more funding](https://teu.ac.nz/news/teu-seeks-tripartite-talks-again/)? Urgency leads to quick decisions, poor/no consultation, and decreased quality of core functions!**
-  - **We are seeing a pattern of management fast-tracking process to avoid scrutiny and only justified by claims that, when examined say they made poor decisions and we now must suffer the concequences. How about we get management that doesn't make poor decisions?**
+  - **We are seeing a pattern of management fast-tracking process to avoid scrutiny and only justified by claims that, when examined say they made poor decisions and we now must suffer the consequences. How about we get management that doesn't make poor decisions?**
 
 ## Cuts to Courses
 - "I think this refers to the work that PDDC Provost, Deans and Directors meeting has initiated just asking faculty to look at the portfolio of courses and programs."

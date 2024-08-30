@@ -3,7 +3,7 @@ title: Leaking Information
 slug: leak
 ---
 
-Lack of transparency, use of obfuscating language, and the suppression of information is used by management to hinder accountability and impede the ability of staff and students to make informed decisions. Leaking information exposes wrongdoing, promote transparency, and holds our institutions accountable. 
+Lack of transparency, use of obfuscating language, and the suppression of information is used by management to hinder accountability and impede the ability of staff and students to make informed decisions. Leaking information exposes wrongdoing, promotes transparency, and holds our institutions accountable. 
 
 Leaking information has risks, including legal consequences and personal repercussions. However there are strategies to mitigate discovery or allow others to take the burden.
 
