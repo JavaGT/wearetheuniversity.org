@@ -85,8 +85,11 @@ section {
     padding: 2rem min(5rem, 2vw);
     color: var(--text-primary-inverse);
 }
+.text-left {
+    text-align: left;
+}
 
-section>p {
+.tight {
     max-width: 800px;
     margin: 0 auto;
 }
