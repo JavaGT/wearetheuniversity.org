@@ -17,6 +17,10 @@ Quick tips:
 - Verify the accuracy of the information before leaking. Inaccurate information can undermine credibility and cause harm.
 - Alternatively provide the limitations of your knowledge or the information you are sharing - rumor is okay if it is clear that it is a rumor, this can impower us to investigate further.
 
+Contact:
+- [email@wearetheuniversity.org](mailto:email@wearetheuniversity.org)
+- [Instagram](https://www.instagram.com/wearetheuniversity/)
+
 # Legal
 ## Academic Freedom
 Students and staff are protected by the Education Act 2020, which enshrines academic freedom, protecting the freedom of academic staff and students to engage in research. If you would like to participate in research about the university, you are protected by this act. [Many people at the University of Auckland study and have ongoing research projects about universities](/scholars).
