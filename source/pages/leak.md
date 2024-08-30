@@ -25,9 +25,9 @@ Contact:
 ## Academic Freedom
 Students and staff are protected by the Education Act 2020, which enshrines academic freedom, protecting the freedom of academic staff and students to engage in research. If you would like to participate in research about the university, you are protected by this act. [Many people at the University of Auckland study and have ongoing research projects about universities](/scholars).
 
-[Critical University Studies Reading Group](https://javagrant.com/blog/critical-university-studies-reading-group/)
-[School of Critical Studies in Education](https://www.auckland.ac.nz/en/education/about-the-faculty/our-schools-and-departments/school-of-critical-studies-in-education.html)
-[SOCIOL 709 – Special Topic: Sociology of Universities](https://www.artsfaculty.auckland.ac.nz/courses/?Subject=SOCIOL&Number=709&Year=2024)
+- [Critical University Studies Reading Group](https://javagrant.com/blog/critical-university-studies-reading-group/)
+- [School of Critical Studies in Education](https://www.auckland.ac.nz/en/education/about-the-faculty/our-schools-and-departments/school-of-critical-studies-in-education.html)
+- [SOCIOL 709 – Special Topic: Sociology of Universities](https://www.artsfaculty.auckland.ac.nz/courses/?Subject=SOCIOL&Number=709&Year=2024)
 
 
 #### 267 Academic freedom and institutional autonomy of institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology)
