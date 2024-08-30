@@ -3,7 +3,7 @@ title: Staff Opinions on Course Cuts
 slug: staff-opinions-cuts
 date: 2024-08-30
 source: https://padlet.com/teuuoacm/faculty-course-cutting-gxg4jh0vc4bxjlwu
-author: Anon
+author: Anonymous
 ---
 
 It is clear staff don't feel heard and are frustrated with the lack of transparency and communication from the university. Here are some of the comments staff have made on the course cuts:
