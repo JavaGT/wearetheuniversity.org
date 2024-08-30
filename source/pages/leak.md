@@ -29,8 +29,7 @@ Students and staff are protected by the Education Act 2020, which enshrines acad
 - [School of Critical Studies in Education](https://www.auckland.ac.nz/en/education/about-the-faculty/our-schools-and-departments/school-of-critical-studies-in-education.html)
 - [SOCIOL 709 – Special Topic: Sociology of Universities](https://www.artsfaculty.auckland.ac.nz/courses/?Subject=SOCIOL&Number=709&Year=2024)
 
-
-#### 267 Academic freedom and institutional autonomy of institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology)
+### 267 Academic freedom and institutional autonomy of institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology)
 - (1) It is the intention of Parliament in enacting the provisions of this Act relating to universities and wānanga that academic freedom and the autonomy of those institutions are preserved and enhanced.
 - (2) In exercising their academic freedom and autonomy, institutions must act in a manner that is consistent with—
     - (a) the need for institutions to maintain the highest ethical standards and the need to permit public scrutiny to ensure the maintenance of those standards; and
@@ -43,3 +42,6 @@ Students and staff are protected by the Education Act 2020, which enshrines acad
     - (d) the freedom of the institution and its staff to teach and assess students in the manner that they consider best promotes learning:
     - (e) the freedom of the institution through its chief executive to appoint its own staff.
 - (5) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology (for which section 318 provides).
+
+### Whistleblower Protection
+[See here for more information about the Protected Disclosures (Protection of Whistleblowers) Act 2022](https://www.business.govt.nz/news/whistleblower-law-changes)
