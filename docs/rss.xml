@@ -6,7 +6,7 @@
           <description>Reclaiming our universities</description>
           <language>en-us</language>
           <pubDate>2024/08/30</pubDate>
-          <lastBuildDate>Fri, 30 Aug 2024 09:46:32 GMT</lastBuildDate>
+          <lastBuildDate>Fri, 30 Aug 2024 11:18:32 GMT</lastBuildDate>
           <docs>http://blogs.law.harvard.edu/tech/rss</docs>
           <generator>JavaScript ES6</generator>
           
@@ -23,6 +23,13 @@
             <description><![CDATA[No description provided]]></description>
             <pubDate>2024/08/30</pubDate>
             <guid isPermaLink="true">/2024/08/30/more-cuts-coming</guid>
+          </item>
+          <item>
+            <title><![CDATA[Staff Opinions on Course Cuts]]></title>
+            <link>/2024/08/30/staff-opinions-cuts</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/08/30</pubDate>
+            <guid isPermaLink="true">/2024/08/30/staff-opinions-cuts</guid>
           </item>
           <item>
             <title><![CDATA[Notes on Adam Cragie's 'Are We The University? A Rupture of the Political Opportunity Structure']]></title>
