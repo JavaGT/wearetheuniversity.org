@@ -6,6 +6,7 @@ slug: scholars
 Some critical university scholars at the University of Auckland:
 
 https://profiles.auckland.ac.nz/java-grant
+https://javagrant.com
 
 https://sereananaepi.com
 https://profiles.auckland.ac.nz/s-naepi
