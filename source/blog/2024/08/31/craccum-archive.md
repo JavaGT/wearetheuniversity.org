@@ -2462,8 +2462,8 @@ There is work to still be done here.
 - [Theatre Q&A; - Odyssey](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7829 "Theatre Q&A - Odyssey")
 - [Music - The Best Music of 2014 (So Far)](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7827 "Music - The Best Music of 2014 (So Far)")
 - [Music - InFinnite Talent](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7824 "Music - InFinnite Talent")
-# 2015
-## March
+## 2015
+### March
 - [Jordan’s Editorial – I Fail Sometimes.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/jordans-editorial-i-fail-sometimes)
 - [Denton’s Editorial – Fashion, or how to best hide the flab.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/dentons-editorial-fashion-or-how-to-best-hide-the-flab)
 - [News In Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-5)
@@ -2604,7 +2604,7 @@ There is work to still be done here.
 - [Book – The Enchanted, By Rene Denfeld](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-the-enchanted-by-rene-denfeld)
 - [Theatre Interview – Michael Hurst, Director of Summer Shakespeare](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/theatre-interview-michael-hurst-director-of-summer-shakespeare)
 - [Arts – Something Creepy This Way Comes: A Review of Gibb’s Farm](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-something-creepy-this-way-comes-a-review-of-gibbs-farm)
-## April
+### April
 - [Mourning the Non-Existent](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/mourning-the-non-existent)
 - [Disappointment](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/disappointment)
 - [News – Bomb Plot For “Too Soon” Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-bomb-plot-for-too-soon-party)
@@ -2678,7 +2678,7 @@ There is work to still be done here.
 - [Film – When Harry Met Sally (1989)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-when-harry-met-sally-1989)
 - [Film – Insurgent (2015)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/film-insurgent-2015)
 - [Top 10 – Reasons for the 10kgs you will gain after leaving high school (A kilo by kilo breakdown)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-reasons-for-the-10kgs-you-will-gain-after-leaving-high-school-a-kilo-by-kilo-breakdown)
-## May
+### May
 - [Pissed Often](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/pissed-often)
 - [I Know Why The Caged Dog Whines](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/i-know-why-the-caged-dog-whines)
 - [News In Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-10)
@@ -2820,7 +2820,7 @@ There is work to still be done here.
 - [Television – Utopia](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/television-utopia)
 - [Comedy, Kiwis, and Cellular Devices: An Interview with Dai Henwood](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/comedy-kiwis-and-cellular-devices-an-interview-with-dai-henwood)
 - [Top Ten – Things to do during gaps](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-things-to-do-during-gaps)
-## June
+### June
 - [News – NZ New Flag Designs Confirmed](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-nz-new-flag-designs-confirmed)
 - [News – Campbell Live Replaced With Keeping Up With The Campbells](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-campbell-live-replaced-with-keeping-up-with-the-campbells)
 - [News – David Cameron Uses George Orwell’s 1984 As Manual](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-david-cameron-uses-george-orwells-1984-as-manual)
@@ -2887,7 +2887,7 @@ There is work to still be done here.
 - [Music Comment – Guide to Punk](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-comment-guide-to-punk)
 - [Video Game – Ori and the Blind Forest](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/video-game-ori-and-the-blind-forest)
 - [Top Ten Things You Thought Would’ve Stopped After High-School.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-things-you-thought-wouldve-stopped-after-high-school)
-## July
+### July
 - [Arts Editorial – Picking Up The Pitchfork](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-picking-up-the-pitchfork)
 - [Film Review – Learning to Drive](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-learning-to-drive)
 - [Film Review – Ted 2](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-ted-2)
@@ -2899,7 +2899,7 @@ There is work to still be done here.
 - [Video Game Review – Her Story](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/video-game-review-her-story)
 - [Arts Comment – An Evening With Haruki Murakami](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/arts-comment-an-evening-with-haruki-murakami)
 - [Top 10 Best First World Problems at Auckland University](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-best-first-world-problems-at-auckland-university)
-## August
+### August
 - [Mister Misogyny](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/mister-misogyny)
 - [Just Ewan me: An encounter with Auckland’s Kim — sorry, King — of Coffee.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/taking-the-puss/just-ewan-me-an-encounter-with-aucklands-kim-sorry-king-of-coffee)
 - [Celestial North Korea](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/celestial-north-korea)
@@ -2971,7 +2971,7 @@ There is work to still be done here.
 - [Tall Poppy Syndrome](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/tall-poppy-syndrome)
 - [Can I have a large Mocha with a side of embarrassment?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-can-i-have-a-large-mocha-with-a-side-of-embarrassment)
 - [Lifestyle – Eden Noodles](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/lifestyle-eden-noodles)
-## September
+### September
 - [Transphobic, and why I’m not. But also, goodbye.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/transphobic-and-why-im-not-but-also-goodbye)
 - [The Waitress’ Tail](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-waitress-tail)
 - [Sex Supply and Sex Demand](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/sex-supply-and-sex-demand)
@@ -3065,7 +3065,7 @@ There is work to still be done here.
 - [Heralding the End of the World](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/heralding-the-end-of-the-world)
 - [The Wolfpack (2015)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/the-wolfpack)
 - [Wild Tales (2014)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/wild-tales-2014)
-## December
+### December
 - [Shouts and Whispers](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/shouts-and-whispers)
 - [Homelessness](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/columns/homelessness)
 - [Rock ‘n’ Role-Modelling](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/commentary/rock-n-role-modelling)
