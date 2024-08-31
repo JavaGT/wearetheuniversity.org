@@ -213,7 +213,8 @@ a:hover {
     color: var(--text-primary-inverse);
 }
 
-strong {
+strong,
+strong a {
     color: var(--text-tint);
 }
 
