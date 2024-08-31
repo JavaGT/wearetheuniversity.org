@@ -85,6 +85,7 @@ section {
     padding: 2rem min(5rem, 2vw);
     color: var(--text-primary-inverse);
 }
+
 .text-left {
     text-align: left;
 }
@@ -256,4 +257,17 @@ mark {
     color: var(--text-primary-inverse);
     border: 1px solid var(--text-tint);
     padding: 0 0.3em;
+}
+
+.question-and-answers {}
+
+.question-and-answers .question {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    /* pin to top of screen when scrolled past */
+    display: block;
+    position: sticky;
+    top: var(--nav-height);
+    background: var(--color-primary);
+    padding: 0.3rem;
 }
