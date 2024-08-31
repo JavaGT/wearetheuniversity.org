@@ -11,6 +11,8 @@ I've composed working internet archive links for the issues I could find.
 
 There is work to still be done here.
 
+<script src="/table-of-contents.js"></script>
+
 ## 2012
 ### Issue 00 2012
 - [Editorial](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=151 "Editorial")
@@ -2463,7 +2465,7 @@ There is work to still be done here.
 - [Music - The Best Music of 2014 (So Far)](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7827 "Music - The Best Music of 2014 (So Far)")
 - [Music - InFinnite Talent](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7824 "Music - InFinnite Talent")
 ## 2015
-### March
+### March 2015
 - [Jordan’s Editorial – I Fail Sometimes.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/jordans-editorial-i-fail-sometimes)
 - [Denton’s Editorial – Fashion, or how to best hide the flab.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/dentons-editorial-fashion-or-how-to-best-hide-the-flab)
 - [News In Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-5)
@@ -2604,7 +2606,7 @@ There is work to still be done here.
 - [Book – The Enchanted, By Rene Denfeld](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-the-enchanted-by-rene-denfeld)
 - [Theatre Interview – Michael Hurst, Director of Summer Shakespeare](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/theatre-interview-michael-hurst-director-of-summer-shakespeare)
 - [Arts – Something Creepy This Way Comes: A Review of Gibb’s Farm](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-something-creepy-this-way-comes-a-review-of-gibbs-farm)
-### April
+### April 2015
 - [Mourning the Non-Existent](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/mourning-the-non-existent)
 - [Disappointment](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/disappointment)
 - [News – Bomb Plot For “Too Soon” Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-bomb-plot-for-too-soon-party)
@@ -2678,7 +2680,7 @@ There is work to still be done here.
 - [Film – When Harry Met Sally (1989)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-when-harry-met-sally-1989)
 - [Film – Insurgent (2015)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/film-insurgent-2015)
 - [Top 10 – Reasons for the 10kgs you will gain after leaving high school (A kilo by kilo breakdown)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-reasons-for-the-10kgs-you-will-gain-after-leaving-high-school-a-kilo-by-kilo-breakdown)
-### May
+### May 2015
 - [Pissed Often](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/pissed-often)
 - [I Know Why The Caged Dog Whines](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/i-know-why-the-caged-dog-whines)
 - [News In Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-10)
@@ -2820,7 +2822,7 @@ There is work to still be done here.
 - [Television – Utopia](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/television-utopia)
 - [Comedy, Kiwis, and Cellular Devices: An Interview with Dai Henwood](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/comedy-kiwis-and-cellular-devices-an-interview-with-dai-henwood)
 - [Top Ten – Things to do during gaps](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-things-to-do-during-gaps)
-### June
+### June 2015
 - [News – NZ New Flag Designs Confirmed](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-nz-new-flag-designs-confirmed)
 - [News – Campbell Live Replaced With Keeping Up With The Campbells](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-campbell-live-replaced-with-keeping-up-with-the-campbells)
 - [News – David Cameron Uses George Orwell’s 1984 As Manual](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-david-cameron-uses-george-orwells-1984-as-manual)
@@ -2887,7 +2889,7 @@ There is work to still be done here.
 - [Music Comment – Guide to Punk](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-comment-guide-to-punk)
 - [Video Game – Ori and the Blind Forest](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/video-game-ori-and-the-blind-forest)
 - [Top Ten Things You Thought Would’ve Stopped After High-School.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-things-you-thought-wouldve-stopped-after-high-school)
-### July
+### July 2015
 - [Arts Editorial – Picking Up The Pitchfork](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-picking-up-the-pitchfork)
 - [Film Review – Learning to Drive](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-learning-to-drive)
 - [Film Review – Ted 2](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-ted-2)
@@ -2899,7 +2901,7 @@ There is work to still be done here.
 - [Video Game Review – Her Story](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/video-game-review-her-story)
 - [Arts Comment – An Evening With Haruki Murakami](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/arts-comment-an-evening-with-haruki-murakami)
 - [Top 10 Best First World Problems at Auckland University](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-best-first-world-problems-at-auckland-university)
-### August
+### August 2015
 - [Mister Misogyny](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/mister-misogyny)
 - [Just Ewan me: An encounter with Auckland’s Kim — sorry, King — of Coffee.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/taking-the-puss/just-ewan-me-an-encounter-with-aucklands-kim-sorry-king-of-coffee)
 - [Celestial North Korea](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/celestial-north-korea)
@@ -2971,7 +2973,7 @@ There is work to still be done here.
 - [Tall Poppy Syndrome](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/tall-poppy-syndrome)
 - [Can I have a large Mocha with a side of embarrassment?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-can-i-have-a-large-mocha-with-a-side-of-embarrassment)
 - [Lifestyle – Eden Noodles](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/lifestyle-eden-noodles)
-### September
+### September 2015
 - [Transphobic, and why I’m not. But also, goodbye.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/transphobic-and-why-im-not-but-also-goodbye)
 - [The Waitress’ Tail](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-waitress-tail)
 - [Sex Supply and Sex Demand](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/sex-supply-and-sex-demand)
@@ -3065,10 +3067,3590 @@ There is work to still be done here.
 - [Heralding the End of the World](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/heralding-the-end-of-the-world)
 - [The Wolfpack (2015)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/the-wolfpack)
 - [Wild Tales (2014)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/wild-tales-2014)
-### December
+
+### December 2015
 - [Shouts and Whispers](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/shouts-and-whispers)
 - [Homelessness](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/columns/homelessness)
 - [Rock ‘n’ Role-Modelling](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/commentary/rock-n-role-modelling)
 - [On Inspiration](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/commentary/on-inspiration)
 - [The Balancing Act](https://web.archive.org/web/20160205065217/http://craccum.ausa.auckland.ac.nz/commentary/the-balancing-act)
 - [Student Culture in Canterbury](https://web.archive.org/web/20160205065217/http://craccum.ausa.auckland.ac.nz/commentary/student-culture-in-canterbury)
+
+## 2016
+
+### [Issue 01 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-01-2016.pdf)
+- release the craccen
+- LACTOSE INTOLERANT WHERE ARE THE BREASTFEEDING FACILITIES AT THE SATELLITE CAMPUSES?
+- GET CHANGE FOR YOUR BUS FARE AUCKLAND TRANSPORT OVERHAULS TICKETING ON BUSES AND TRAINS
+- #ONBREAK NOT PROUD
+- #ONBREAK LABOUR’S TERTIARY EDUCATION PLAN FREEBIES FOR THE CLASS OF 2019
+- lifestyle
+- WHAT’S ON
+- AGONY AUNTIES
+- THE AUCKLAND UNIVERSITY POWDER ROOM SOCIETY TOILET REVIEW
+- HOUSEPLANTS ON A BUDGET
+- CHEAT’S GNOCCHI
+- EYE ON THE GRIND: WHERE TO GET YOUR FIX NEAR CAMPUS
+- FASHION ON CAMPUS
+- ausa From Your AUSA Media Officer
+- Meet the Executive
+- Starting a new chapter?
+- Clear things up
+- AUSA Notices
+- culture shock
+- don’t go chasing waterfalls
+- Back in Cracc
+- some cool story about the debauchery of youth
+- Adore Life
+- No Logo
+- Dungeons & Dragons
+- Zayn: the Artiste
+- The List
+- #OscarsSoIrrelevant?
+- The Oscars Race: Will Leo Win?
+- columns Hobbit on Tour
+- Sex, Drugs and Electoral Rolls
+- Debunking Romanticism
+- Left a Little Disappointed: An Ode to John Stewart
+- The ‘Othering’ of the San Bernardino Attackers
+- The Stars Are Going Out
+- AUSA Outdoor Summer Shakespeare presents
+- the people to blame.
+- RECYCLE YOUR USED TEXTBOOKS FOR CASH!!!
+
+### [Issue 02 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-02-2016.pdf)
+- meet the fuckers
+- WHERE WOULD YOUR COEDITOR TAKE SOMEONE ON A FIRST DATE?
+- CAITLIN
+- MARK
+- WHAT IS YOUR COEDITOR'S MOST IRRITATING HABIT?
+- WHAT IS YOUR COEDITOR'S MOST USED SWEAR WORD? IF PUBLISHABLE
+- WHAT WOULD YOUR COEDITOR DO IF THEY WASHED UP ON A DESERT ISLAND?
+- WHO WOULD BE YOUR COEDITOR'S CELEBRITY HALL PASS?
+- WHAT IS THE MOST EMBARRASSING THING YOU HAVE EVER WITNESSED YOUR COEDITOR DOING?
+- news
+- LABOUR INTENSIVE
+- DAVID SHEARER
+- WHEN DID YOU FIRST GET INTO POLITICS?
+WHAT DO YOU THINK NEW ZEA LAND’S CURRENT ROLE IS AS A POLITICAL BODY WHEN IT COMES TO CONFLICTS IN THE - MIDDLE EAST?
+- DAVID CUNLIFFE
+- C: I ACTUALLY DON’T HAVE ANY QUESTIONS PREPARED FOR YOU.
+- TALK TO ME ABOUT LABOUR PARTY’S NEW EDUCATION POLICY!
+- PHIL GOFF
+- WHAT DO YOU THINK THE MOST IMPORTANT ISSUE IS FOR PEOPLE RUNNING FOR MAYOR?
+- UH, COULD YOU SUBSTANTIATE THAT A LITTLE BIT?
+- NATIONAL STUDENT DEBT PASSED $15 BILLION DOLLARS THIS MONTH...
+- ANDREW LITTLE
+- C: GIVE ME A SALES PITCH FOR LABOUR’S NEW POLICY FOR THREE YEARS OF FREE STUDENT EDUCA TION.
+- THE NAME GAME
+- DR RANGINUI WALKER IN MEMORIAM
+- UN-BEERABLE STUDENTS PROTEST RORT
+- AUCKLAND HAS SHIT WEATHER, SURPRISE
+- lifestyle
+- WHAT’S ON 7TH  13TH MARCH
+- AGONY AUNTIES
+- A SURVIVAL GUIDE TO: 1+ HOUR TIMETABLE BREAKS
+- DIY NOSEW CARRIER BAG
+- FASHION ON CAMPUS
+- George Fraser Gallery (25a Princes St)
+- THE CRACCUM GUIDE TO THE METRO GUIDE TO AUCKLAND’S CHEAP EATS
+- ausa From the Media Offi cer
+- Are you an international student?
+- WHAT IS THE INTERNATIONAL STU DENT’S OFFICER?
+- WHO CAN RUN TO BE INTERNATION AL STUDENTS’ OFFICER?
+- WHAT’S THE PROCESS FOR BECOM ING INTERNATIONAL STUDENTS’ OFFICER?
+- WE’D LOVE TO HEAR FROM YOU!
+- Tickets available from EventFinda!
+- Blood Drive
+- Become a Class Representative!
+- We offer free support, advice and information to all students.
+- Interview With The President
+- OK, FIRST THINGS FIRST: SHOOT, SHAG, MARRY. HILLARY CLINTON. DAVID CUNLIFFE. JUSTIN TRUDEAU.
+- SINCE YOU’VE STUDIED A LOT OF HISTORY, FAVOURITE HISTORICAL MOMENT?
+- SPOKEN LIKE A TRUE STUDENT ADVOCATE... SPEAKING OF, WHICH BEER DO YOU ADVOCATE FOR?
+- OK, BUT MOST CONSUMED?
+- WHO’S YOU FAVOURED US PRESIDEN TIAL CANDIDATE?
+- WHAT DO YOU RECKON IS THE MOST CRINGEWORTHY DONALD TRUMP MOMENT?
+- SPEAKING OF CONSPIRACY, I HEARD
+- YOUR MIDDLE NAME WAS NOR MANKIRK ARDERN?
+- YOU ARE THE PRESIDENT.
+- creative writing
+- victoria
+- risqué business
+- AFFIRMATIVE
+- this house supports the intensification of auckland
+- NEGATIVE
+- All the men and women merely players
+- the price of adaptation
+- Don’t Cry, Work.
+- I Like It When You Sleep For You Are So Beautiful Yet So Unaware Of It
+- Family Dinner: Volume 2
+- Much Ado About Nothing
+- Concussion
+- The Expanse
+- It's Always Sunny in Philadelphia
+- My Top 5 Renditions of Movie Themes
+- Harry Potter Music (Indian Tribute) - Tusher Lall
+- The Best of the Coen Brothers
+- Howl’s Moving Castle Theme (Murtagh Remix) - Joe Hisashi
+- Indiana Jones Theme Song (8 Bit Remix Cover Version) - 8 Bit Universe
+- Jurassic Park Acapella (Feat. Peter Hollens) - The Warp Zone
+- He’s a Pirate (Remix) - DJ AG
+- HOBBIT ON TOUR
+- columns
+- The Number 7 Wire
+- Why We Fight
+- GHETTO
+- One Layman’s Skepticism of Psychology
+- Why Are We Here?
+- So, What Do We Know About Therapy?
+- Positivism and Beyond
+- AUSA Outdoor Summer Shakespeare presents
+- the people to blame.
+- AN ECONOMICS DEGREE YOU DON'T NEED TO SEE THE VALUE
+- Win your money back! *
+
+### [Issue 03 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-03-2016.pdf)
+- mark vs. kim k
+- letters to the editor
+- news
+- PLEASE FOR THE LOVE OF GOD HELP ME
+- news
+- OUR ONE HEADLINE WITHOUT A DUMB JOKE
+- TRANS-PACIFIC PARTNERSHIP DISAGREEMENT
+- PRO LIFERS ARE EVIL FUCK PRO LIFE A MEASURED OPINION
+- news
+- We offer free support, advice and information to all students.
+- lifestyle
+- WHAT’S ON: 1420 MARCH
+- AGONY AUNTIES
+- “OH BOY! A SPOOKHOUSE”
+- EASY VEGE LASAGNE
+- Ingredients
+- HAPPY HOURS, HAPPY WALLETS
+- UPCOMING EXHIBITIONS
+- Also opening this week in wider Auckland:
+- Artspace: THE BILL with Fiona Clark: For Collective Unconscious, March 12 - 22 April.
+- FASHION ON CAMPUS
+- Photography by Holly Burgess 
+- ausa From the Media Officer
+- BLOOD DRIVE
+- BYELECTION
+- LOCKERS!
+- AUTUMN GENERAL MEETING
+- Are you that someone?
+- 1 CHECK IN.
+- 2 CALL IT AS YOU SEE IT.
+- 3 GET INVOLVED.
+- 4 GET HELP.
+- kendrick lamar
+- Shakey Graves
+- INTERVIEW BY JACK ADAMS
+- FIRST OFF, HOW’D YOU GET THE NAME SHAKEY GRAVES?
+- Q&A With Caleb from Broods
+YOU’VE PLAYED AT SOME INCREDIBLE FESTIVALS OVER THE LAST COUPLE OF YEARS. WHICH ONE HAS STOOD OUT AS A - FAVOURITE, AND WHY?
+YOUR BLUES-FOLK HYBRID MUST HAVE HAD SOME INFLUENCES OVER THE YEARS. IS THERE ANYTHING IN PARTICULAR YOU - LISTEN TO NOW, OR HAVE LISTENED TO, THAT INSPIRED YOUR SOUND TODAY?
+- AUCKLAND CITY LIMITS HAS ITS ROOTS IN MUSIC FESTIVALS IN TEXAS.
+THIS MUST’VE CHANGED OVER THE YEARS. NAMES SUCH AS SHAPESHIFTER AND KENDRICK LAMAR ARE FAR FROM THE BLUES OF - THE NATIONAL AND YOURSELF.
+- THIS CAN’T BE A POSITIVE DIRECTION FOR MUSIC? IS IT NOT ABOUT THE MUSIC THESE DAYS?
+- HOW HAS BEING ON THE ROAD,TOURING ALL OVER THE WORLD, AFFECTED THE LYRICS/SOUND OF YOUR NEW MATERIAL?
+- WHO ARE YOU EXCITED TO SEE AT AUCKLAND CITY LIMITS?
+- Dave Leaupepe from Gang of Youths
+- Dave Leaupepe really fucking hates music festivals.
+- Q&A with MAALA
+THERE ARE SOME VERY AESTHETICALLY-PLEASING PICTURES ON YOUR INSTAGRAM THAT HAVE BEEN HINTING AT NEW MUSIC. - WHAT IS YOUR WRITING PROCESS? DO YOU WRITE ALONE OR WITH OTHERS?
+WE’RE VERY EXCITED TO SEE YOUR SET AT AUCKLAND CITY LIMITS, AND HOMEGROWN LATER ON IN THE YEAR. DO YOU - APPROACH A FESTIVAL SET DIFFERENT-LY FROM A SOLO GIG?
+- WHO WOULD HEADLINE AT YOUR DREAM FESTIVAL?
+- JUST BECAUSE WE’RE CURIOUS – WHERE DOES THE NAME MAALA COME FROM?
+- One in the hand, two in the bush
+- the controversial film festival at the academy cinemas
+- Salò or the 120 Days of Sodom
+- Freaks
+- The Holy Mountain
+- I Spit On Your Grave
+- The Devils
+- Eye in the Sky
+- Gods of Egypt
+- George in the Park
+- Making a Murderer and the Role of the Documentary
+- Shefita: when you find what you didn’t know you needed
+- J.D. Salinger
+- Nine Stories
+- Raise High the Roof Beam, Caretakers and Shining: An Introduction
+- Annie and Sheldon
+- Rage
+- Stephen King Goes to the Movies
+- Everything, as per usual, began with a terrible idea at some pre’s.
+- columns
+- The Humans Are Dead
+- Allied Preoccupation
+- Liberal Dialogues
+- Jackson lights a cigarette. He starts to smoke it. Sam waits for him to go through this ritual.
+- (Spell-)Check Your Privallage
+- Sam doesn’t want to reply immediately. He sips his coffee. He squints into the distance.
+- Sam shrugs and nods his head.
+- After This Nothing Happened
+- the people to blame.
+- A Tote for Everybody...
+
+### [Issue 04 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-04-2016.pdf)
+- Sausage Sizzle. Democracy. Hot Cross Buns.
+- you’ve got male!
+- news
+- GENERAL MEETING “DEMOCRCY IS GOOD” SAYS AUSA PREZ.
+- MARCH MADNESS PUBLIC TRANSPORT CRUMBLES UNDER THE PRESSURE
+- S.H.A.G
+- BLACK CAPS MIGHT DO OKAY NATION LOSES ITS MIND
+- lifestyle
+- WHAT’S ON
+- AGONY AUNTIES
+- PREZZIES ON A BUDGET <$20
+- ASSASSIN'S PASSION CUPCAKE RECIPE
+- UPCOMING EXHIBITIONS
+- FASHION ON CAMPUS
+- ausa
+- From the Media Officer
+- Noticeboard
+- BLOOD DRIVE
+- AGM
+- BYELECTION
+- LOST PROPERTY SALE!
+- Lighten Your Load
+- The Long Lost Min Q Interview
+- Where was it?
+- What about wine and beer?
+- ausa What’s Up In the Clubs?
+- ~ 23RD MARCH - THOMAS ROSE (LIVE) ~23RD MARCH - THOMAS ROSE (LIVE) ~
+- whole lotta love and underage sex
+- browntown
+- Phil Goff
+- John Palino
+- Adam Holland
+- Penny Bright
+- arts
+- in worship of defecation, dead bodies and all things indecent
+- We Can Do Anything
+- Post Pop Depression
+- 10 Cloverfield Lane
+- TED 2016
+- House of Cards
+- Check This Shit Out
+- It Follows
+- The Power of Gower
+- Hugh will be Granted Firth place?
+- Austenian Prowess
+- On-Screen Kissing Technique
+- is column began the day I sat down in my first lecture in England.
+- columns
+- Sacred Cows: A – Z
+- Here are things that people rate really highly that I think are overrated:
+- That’s So Arbitrary
+- SEX, DRUGS & ELECTORAL ROLLS
+- CONRAD GRIMSHAW RETURNS
+- Tonga016noRegrets: Part I
+- I MAY BE WRONG ABOUT BITS OF THIS
+- Money as a Creature of the State
+- Hippies to Haters: why baby boomers are the worst generation
+- T H U R s D A Y 2 4 T H M A R C H
+- the people to blame.
+- Make your notes interesting!
+
+### [Issue 05 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-05-2016.pdf)
+- mork and miso
+- news
+- REFEREN-DUMB EDITORS ROLL OUT “DEMO-CRAZY” PUN, AGAIN.
+- MINIMUM RAGE THE SECOND MOST CONTROVERSIAL 50 CENT
+- ONE HAND GIVETH, THE OTHER TAKETH AWAY
+- HOUSING GROUSING
+- lifestyle
+- WHAT'S ON 4TH10TH APRIL
+- AGONY AUNTIES
+- AUCKLAND UNIVERSITY POWDER ROOM SOCIETY’S TOILET REVIEW
+- INNER CITY LUNCH DEALS
+- FASHION ON CAMPUS
+- THE CRACCUM GUIDE TO THE METRO GUIDE TO AUCKLAND’S CHEAP EATS: SRI PINANG
+- From the Media Officer
+- Noticeboard
+- EcoFest
+- ‘The Flat’
+- Student Members for MCT
+- We need to elect these students!
+- AUSA At Queer Quad!
+- ausa An Interview With Sarah ‘Shandy’ Butterfield
+- WHAT THE FUCK IS A SHANDY?
+- SHOOT. SHAG. MARRY. DAVID CAMER ON. THE QUEEN. COLIN FIRTH.
+- YOU WANT TO MARRY YOURSELF?
+- I HEAR YOU LOVE RAP, WHAT’S YOUR FAVOURITE KENDRICK LAMAR SONG?
+- IS SWIMMING POOLS ABOUT A A POOL PARTY OR B ALCOHOLISM?
+- WHAT’S THE BEST THING YOU’VE
+- EVER CROCHETED?
+- WHY DO YOU LIKE DONALD TRUMP ON FACEBOOK?
+- YOU LIKE WATCHING A TRAIN WRECK?
+- HILLARY OR BERNIE?
+- Are you that someone?
+- 1 CHECK IN.
+- 2 CALL IT AS YOU SEE IT.
+- 3 GET INVOLVED.
+- 4 GET HELP.
+- crisis in our backyard
+- Clear things up
+- let’s get physical
+- stumped by trump?
+- arts
+- the desired and the desirer
+- Batman v Superman: Dawn of Justice
+- Zootopia
+- River of Fundament
+- You and I
+- Mind of Mine
+- Balls
+- Endless Worlds Most Beautiful; or The Author’s Immortality Machine
+- The Switch
+- Denyce Su’a – Mastering Her Craft
+- Assimilation Week: England
+- Update
+- The Pop Culture Wars
+- Flag It
+- Playing A Trump Card
+- Last Night: Or Why I Write for a Student Publication
+- Cuts to the Arts: Stupid or Sinister?
+- Notes From the Future, Beware of the Dogs
+- Artists
+- Contributor of the Week
+- New Paperblanks now in store!
+
+### [Issue 06 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-06-2016.pdf)
+- Come dressed in many colours... Leave in just one!
+- overhurt @ university of auckland
+- People on who comment on posts are complete fuckwits.
+- news
+- THE FOLLOW ON THE ALBERT PARK ATTACKS
+- TRUMP BERNING UP HIS CHANCES AT THE OVAL OFFICE
+- BASIC INCOME ISSUE HAS NO BASIC OUTCOME
+- THE TOP 5 THINGS WE LEARNT LAST WEEK
+- 4. Albert Park is not a place you want to be after dark. Also, the internet fosters racism.
+- lifestyle
+- WHAT’S ON APRIL 11TH  17TH
+- AGONY AUNTIES
+- Domain & Ayr
+- COLLECTIVE READING LIST
+- Ka Whawhai Tonu Matou - Struggle Without End by Ranginui Walker:
+- Big Beat
+- On Humour by Simon Critchley
+- UPCOMING EXHIBITIONS
+- THE CRACCUM GUIDE TO THE METRO GUIDE TO AUCKLAND’S CHEAP EATS: RAMEN TAKARA
+- From the Media Officer
+- Run for AUSA.
+- Reclaim Our Park
+- ausa
+- Maybe like 2 hours of making spreadsheets and 28 hours of doing [other] stuff .
+- I didn’t watch Pokémon. My Mum thought it was weird, so I just have to have faith in Will’s choice.
+- No. Do I constantly feel like I’m in Shadows bar? Yes.
+I like Gin & Tonics... We have lots of tonic at our flat, because I always buy them just in case we don’t - have any. We always end up with half bottles of flat tonic...
+- No, but I’ve been well and truly scared off by members who have.
+- Clear things up
+- something wicked this way comes
+- Lighten Your Load
+- this house looks forward to a world with sex robots
+- AFFIRMATIVE
+- NEGATIVE
+- finding art in the sciences & truth in the arts
+- arts
+- a nightmare on film street
+- Everything You’ve Come to Expect
+- RuPaul’s Drag Race
+- The Path
+- Hunt for the Wilderpeople
+- John Cleese and Eric Idle: Together at Last... For the Very First Time
+- Cheap as chips: cinema deals
+- Do Film Critics Matter?
+- Outrageous Fortune: Taking your roots from the ground to your bed
+- The Swede Sounds of Scandinavian Pop
+- RECOMMENDED SONGS: SNOW BRIGADE, INTRO-DUCING PALACE PLAYERS, SPECIAL, COMFORTING SOUNDS
+- RECOMMENDED SONGS: LIKE YOU, HANG OUT IN HAZE, EASIER
+- RECOMMENDED SONGS: BELLADONNA, BEAU-TYPROOF, STRANGE COLOUR BLUE
+-  CHRISTY BURROWS
+- Movies My Dad Recommends
+- Labouring the Point
+- The Good, The Bad, and The High-Grossing
+- Sex, Drugs & Electoral Rolls: Thirty Xanatos Pileup
+- Playing Catchup
+- How the Republicans Win
+- Life Is Too Long: Tess Tickle Performs
+- Calendars, diaries and wallplanners all 25% off RRP*
+
+### [Issue 07 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-07-2016b.pdf)
+- abort mission
+- news
+- CURTAIN CALL? ALL THE WORLD’S A STAGE EXCEPT THE MAIDMENT
+- VICIOUS CYCLE OF CRIME WHEELIE BAD SITUATION AT UOA
+- TO BE (FOR TWO MORE WEEKS) GLOBE GETS AN EXTENDED SEASON
+- IM-PRESS-IVE AUCKLAND UNIVERSITY LEAVES COMPETITORS DE-PRESS-ED
+- RAIL BIG CHANGES CONSTRUCTION BEGINS ON THE CRL
+- lifestyle
+- WHAT TO DO WITH TWENTY BUCKS THIS WEEK
+- MY COLLECTION
+- NO LONGER LISTLESS IN LIM'S
+- INTRODUCING THE AUCKLAND UNIVERSITY OPSHOPPING SOCIETY
+- CRACCUM CRAFT
+- AGONY AUNTIES
+- FASHION ON CAMPUS
+- FROM THE MEDIA OFFICER
+- AUSA NEWS
+- PRIDE WEEK IS HERE!
+- 1 STREET CHANT
+- ausa Interview with the WROs – Diana and Aditi
+- WHAT’S YOUR FAVORITE TYPE OF CUPCAKE?
+- ADITI. SHOOT. SHAG. MARRY. EMMA WATSON. MALALA YOUSAFZAI. PRI YANKA CHOPRA.
+- DO YOU TWO SUPPORT HELEN CLARK’S BID FOR UN SG?
+- DO YOU THINK YOU WILL RUN FOR UN SG AT SOME POINT IN THE FUTURE?
+- DO YOU TWO HAVE ANY COMMENTS ON US POLITICS?
+- AND NZ POLITICS, ARE YOU NOW OR HAVE EITHER OF YOU EVER BEEN A MEMBER OF THE LABOUR PARTY?
+- DO YOU HAVE A COMMENT ON THE POKÉMON THAT WILL HAS ASSIGNED YOU?
+- CAN YOU TELL ME A BIT ABOUT WOMENSPACE?
+- hotline fling
+- the echo
+- Run for AUSA.
+- arts
+- on pj harvey and being yourself
+- Hope Six Demolition Project
+- The VVitch
+- The Jungle Book
+- Sticky Fingers
+- Stardew Valley
+- no-one has to die
+- I Will Be Nothing Without Your Love
+- I Married a Witch
+- WWMRD?
+- HIS INSTAGRAM ACCOUNT
+- HIS POLITICAL ACTIVISM
+- HE’S A COOL DAD
+- HE’S RIDICULOUSLY TALENTED
+- HE’S A FANBOY, TOO
+- Why Lawyers Are Sad
+- GUEST COLUMN WITH ARTHUR GUY
+- Panama Papers
+- SEX, DRUGS & ELECTORAL ROLLS
+- Kings Arms Open For Housing Development
+- The Town Square Problem
+- From Auckland with Suspicion
+- MARDI GRAS PARTY
+- the people to blame.
+- Baileys Prize - 2016 Shortlist
+
+### [Issue 08 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-08-2016b.pdf)
+- romeo, rome-oh no the pop up globe is closing
+- news
+- BEATING OFF
+- BY-ELECTION SET TO ATTRACT AT LEAST 0.2% OF STUDENT POPULATION
+- NATIONAL LANDS THEMSELVES IN SHIT
+- YOUTH CLINIC FACES CLOSURE
+- THE FIVE THINGS WE LEARNED THIS WEEK
+- lifestyle
+- WHAT’S ON 2  8 MAY
+- AGONY AUNTS
+- NATURE CALLS
+- Central City
+- 3) e Parnell Rose Gardens
+- 4) North Head, Devonport
+- 5) Sentinel Rd Beach and Home Bay
+- 6) ree Kings Domain
+- Further Out
+- 8) Manakau Heads
+- 9) Waitakere Ranges bush walks
+- 10) Bethell’s Beach/sand dunes
+- AUCKLAND POWDER ROOM SOCIETY’S TOILET REVIEW
+- COPING WITH ANXIETY
+- GENERAL INFORMATION
+- FASHION ON CAMPUS
+- ausa
+- FROM THE MEDIA OFFICER
+- AUSA NEWS
+- AUSA NOTICEBOARD
+- INTERVIEW WITH THE MEDIA OFFICER - ZAVARA FARQUHAR
+Why do you like asking people about their lives so much? Are you trying to live vicariously through them to - fill some kind of void in your own life?
+- So at least you don’t pretend that you’re doing law ‘for the community’?
+- Are you now or have you ever been a member of the Labour Party?
+- Really. Why.
+- Shoot, Shag, Marry – Kim Dotcom, Laila Harre, Hone Harawira
+- So you’re a racist gold-digger
+What’s your stance on the US Presidential Election? Hillary or Bernie? Donald or Ted? Who’s going to win in - November?
+- Would you rather have as President of the United States? Donald Trump or Joseph Kony?
+- What do you think of the Pokemon I’ve assigned you?
+- What has been the most rewarding part of being on the AUSA Executive so far?
+- WHY SHOULD I VOTE IN THE AUSA BY-ELECTION?
+- CULTURE & ARTS OFFICER
+- gag order
+- i bless the children down in africa
+- W T F
+- overpopulation from over-copulation
+- This is Arts related, I promise
+- good night, sweet prince
+- Trágame Tierra
+- Overwatch
+- Maya Angelou: And Still I Rise
+- Stream Team
+- NETFLIX NZ
+- Compatible devices
+- LIGHTBOX
+- Compatible devices
+- NEON
+- Compatible devices
+- Black Forest: Hansel and Gretel and the 420 Witch
+- Nish Kumar
+- Coac-hella Fashionable
+- Rose Matafeo and Nish Kumar
+- Hey there! How are you?
+- Yeah I’m from Wellington, so I’m not very good with these places.
+- For this year’s Comedy Fest you’re performing “Valley of the LOLS”, is that right?
+- So your demographic audience is 24 year old women with anxieties.
+- So what have you learnt as a 24 year old woman?
+- Any shows you’re especially keen to see?
+I just spent the entire morning watching sketches from Funny Girls... How do you come up with an idea for a - sketch?
+- So is Funny Girls coming back?
+- Have you been watching e Bachelor NZ?
+- Do you still keep in contact with Tim, Matt and Connor from U Live?
+- Have you had any awkward meetings with famous people?
+- I loved the interview with you and Amy Poehler.
+- is is your second time coming to New Zealand, right? So what have you learnt about New Zealanders?
+- Now what can we expect for your show at this year’s Comedy Fest?
+- Your face was used for the Internet Meme ‘Confused Muslim,’ what was that like?
+Did you get people coming up to you like “Oh you’re that internet meme” and you were like “Noooo... I’m a - comedian...”
+In your stand-up, you talk a lot about your experiences as a British Asian. Do you use stand-up as a - platform to discuss race?
+- Following that thread, do you think there is a line between humour and political correctness?
+- Do you think being British Asian also influenced the humour you have now?
+- And have you got any plans for exploring Auckland?
+- HOBBIT ON TOUR
+- Reflections of a BA veteran
+- BLACKFACE
+- SEX, DRUGS & ELECTORAL ROLLS
+- Caught Up on Canon
+- The Charity Game
+- LIFE IS TOO LONG
+- The Art of the Bantz (UoA Edition)
+- A Bantz Guide to Campus:
+- AUSA
+- AULSS
+- WE WEAR IT TO PROTECT US ALL
+- Baileys Prize Free Tea Tasting!
+
+### [Issue 09 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-09-2016b.pdf)
+- Clear things up
+- guest editorial
+- news
+- WELDON RESIGNS AFTER HILARY-OUS FUCK-UP
+- ONLINE VOTING CALLED OFF(LINE)
+- TOP 5 THINGS WE LEARNT THIS WEEK
+- FINAL FACTS
+- lifestyle
+- WHAT’S ON MAY 9  15TH
+- TRACING STEPS ON AN EMPTY DANCEFLOOR
+- AGONY AUNTS
+- HOW NOT TO BE A FAUXMINIST
+- FASHION ON CAMPUS
+- FROM THE MEDIA OFFICER
+- AUSA Noticeboard
+- MAORI GRADUATION
+- DISCOUNT LOCKERS
+- GET SET WITH THE NEW EVALUATIONS TOOL!
+- NEW CEREAL!
+- Interview with Grafton 2.0
+- ...RIGHT... YOU USE THE TERM “RATA” QUITE FREQUENTLY... WHAT IS A “RATA”?
+- ARE YOU CURRENTLY OR HAVE YOU EVER BEEN A MEMBER OF THE LA BOUR PARTY?
+- WHO’S GOING TO BE THE NEXT PRESIDENT OF THE UNITED STATES? #REALTALK
+- IS HILLARY A RATA OR A RATA?
+- DO YOU HAVE A COMMENT ABOUT THE POKÉMON WILL ASSIGNED YOU?
+- SHOOT. SHAG. MARRY. KHIA. HILLARY. GOLDUCK.
+- YOU COULD JUST MARRY WILL?
+- YOUR POSITION ON THE EXECUTIVE IS GRAFTON REP  WHAT’S YOUR FA VOURITE THING ABOUT GRAFTON?
+- IF GRAFTON IS SO GREAT, WHAT ARE YOU DOING TO MAKE IT BETTER?
+- MYTHBUSTING
+- THERE ARE ONLY TWO SEXES, MALE AND FEMALE.
+- BUT GENDER AND SEX ARE THE SAME THING!
+- IF GENDER IS A SOCIAL CONSTRUCT, THEN BEING TRANS IS A CHOICE.
+- NONBINARY GENDERS ARE A NEW THING.
+- THERE AREN’T THAT MANY T&GD PEOPLE, SO WHY SHOULD WE WOR RY?
+- BUT I DON’T KNOW ANY T&GD PEOPLE!
+- WHY DO SOME PEOPLE CHANGE GENDER WITH TIME, OR DECIDE TO COME OUT LATER IN LIFE?
+- SO YOU JUST NEED TO HAVE SURGERY AND THEN BE HAPPY?
+- WHICH TOILETS DO YOU USE?
+- BUT THIS ALL MEANS YOU CAN’T HAVE A NORMAL LIFE WITH FAMI LIES, RIGHT?
+- YOU’RE ALL SO BRAVE!
+- THIS ALL SOUNDS SO COMPLEX! WHAT DO YOU WANT ME TO DO?
+- References
+- Further Reading
+- let them eat cake?
+- EQUITY OFFICE – TE ARA TAUTIKA
+- broken pride
+- putting the t in lgbti+
+- Lighten Your Load
+- arts
+- anna calvi’s debut album
+- The Switch
+- Black Sabbath at Vector Area
+- Hyper Light Drifter
+- Game of Thrones Season Six Premiere
+- Captain America: Civil War
+- God’s Not Dead 2
+- Paolo Rotondo
+- THREE OF THE MAIN CHARACTERS IN
+- WHAT INSPIRED THE STORYLINE?
+THERE’S NO HAPPY ENDING FOR THE KIDS AT THE END OF THE FILM. WE’RE LEFT ASKING WHAT HAPPENS NEXT. WHY DID - YOU END IT LIKE THAT?
+- YOU’VE WORKED IN BOTH FILMS AND TV SHOWS. WHICH DO YOU PREFER?
+- WOULD YOU MAKE A FILM ON A MICRO-BUDGET AGAIN?
+- Les-being human
+- Troye Sivan: a young creative in the gay community
+- ORPHAN BLACK
+- NEW GIRL
+- THE WALKING DEAD
+- columns
+- HOBBIT ON TOUR
+- SEX, DRUGS & ELECTORAL ROLLS
+- On Becoming 'The Law & Order Candidate'
+- No Country for Old Methods
+- The Case Against Godlessness
+- Improv(e)ise: Premium Octane Existence
+- No Child Left Behind
+- the people to blame.
+- Great Graduation Gifts!
+
+### [Issue 10 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-10-2016b.pdf)
+- a rose by any other name would still stink real bad
+- An Apology
+- letters to the editor
+- news
+- YOUR COUCH PULLS OUT AND SO DOES AUSA AUSA WITHDRAWS FROM NZUSA
+- MOUSTACHE ON CAMPUS
+-  Please fucking vote
+- THE OTHERS:
+- Tyrone Raumati Mark omas
+- ALREADY LOST:
+- TOP FIVE
+- STUDENT ALLOWANCES SLIDE
+- lifestyle
+- WHAT’S ON 16  22 MAY
+- AGONY AUNTS
+- THE UOA FAIR TRADE CLUB PRESENTS SAMPLING SQUAD  KOKAKO
+- SOOOSH FIX
+- SOCKS AND SANDALS. SACRILEGE?
+- UPCOMING EXHIBITIONS
+- FASHION ON CAMPUS
+- Lighten Your Load
+- FIRST THINGS FIRST  HOW IS YOUR QUEST FOR THE ULTIMATE BIKINI PHOTO GOING?
+- YOU’RE AN EX AUSA WOMEN’S RIGHTS OFFICER. WHAT WOULD YOU SAY IS THE LEAST FEMINIST THING YOU’VE DONE?
+- ARE YOU NOW, OR HAVE YOU EVER BEEN A MEMBER OF THE LABOUR PARTY?
+- LET’S BE HONEST, YOU’RE ONLY ONE OF THE ROUGHLY 75% OF THE ELEC TORATE THAT THE LABOUR PARTY HAS ALIENATED.
+- WHAT ARE YOUR THOUGHTS ON THE POKEMON THAT YOU GOT ASSIGNED?
+- YOUR FRINGE IS AMAZING. WHAT BLACK MAGIC DO YOU DO TO KEEP IT SO PERFECT?
+- JESUS CHRIST.
+- LAST, BUT NOT LEAST: IF YOU COULD ICE ANYTHING ON A CUPCAKE, WHAT WOULD IT BE?
+- IS THAT TRANSMISOGYNIST?
+- ausa
+- AUSA GIVES NOTICE OF WITHDRAWAL FROM NEW ZEALAND UNION OF STUDENTS’ASSOCIATIONS
+- ON THE PRO LIFE CLUB
+- fifty, thrifty and thriving?
+- the artful dodgers
+- AFFIRMATIVE
+- NEGATIVE
+- arts
+- jessica jones aka survivor
+- spanish film festival 2016
+- Volcano
+- Food & Shelter
+- Embrace of the Serpent
+- Dark Souls 3
+- Spotlight
+- The Colour in Anything
+- The Five Essential Studio Ghibli Films
+- Louis Theroux and the Art of Discomfort
+- HOBBIT ON TOUR
+- Exchange Ratings: The Guide
+- Kingston University
+- University of East Anglia
+- University of Leeds
+- Mother’s Day
+- Of Broken Backs and Broken Media
+- Life is Too Long, Isn’t It?
+- SEX, DRUGS & ELECTORAL ROLLS
+- The Power of Myth in Politics
+- The Number Games
+- Flip-Flopping
+- the people to blame.
+- Book of the Month
+
+### [Issue 11 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-11-2016b.pdf)
+- balls
+- FEATURES EDITOR DRUNK AS A SKUNK. PIDDLER ON THE ROOF:
+- ARTS EDITOR HARRY POTTER AND THE ONE THAT ALMOST SHAT HER SELF IN THE LINE FOR PHOTOS:
+- COEDITOR W/ VAGINA:
+- COEDITOR W/OUT VAGINA:
+- news
+- TOP FIVE THINGS WE LEARNT THIS WEEK
+- SMELLS FISHY
+- POLITICS WEAK
+- Over all the key takeaways were:
+- lifestyle
+- WHAT’S ON 23  29 MAY
+- AGONY AUNTIES
+- CRACCUM CRAFT WELL IT BEATS STUDYING BOOK SCULPTURES
+- You will need:
+- Optional:
+- How to do:
+1. Open your book at centre and lay it as flat as you can (break or weaken the spine) with the pages facing - up.
+- 2. Start folding the pages. ere are several ways of doing this, depending on what sculpture you want
+- a) e Triangle Fold
+- b) Slice shape
+- c) Diamond
+- d) Flower
+- 3. Paint and/or bedazzle with glitter if you wish.
+- AUCKLAND UNIVERSITY POWDER ROOM SOCIETY’S TOILET REVIEW OF THE WEEK
+- FASHION ON CAMPUS
+- KITSCH GARDEN
+- From the President
+- AUSA NEWS
+- What’s on at AUSA?
+- STRESS LESS WITH AUSA!
+- CALLING ALL BANDS, MUSICIANS, SINGERSONGWRITERS TO... THE SHADOWS SESSIONS
+- ausa Meet the Tamaki Representative
+- IS THERE ANY REASON THAT WHEN YOU GET DRUNK, PEOPLE FONDLY REFER TO YOU AS ‘CRAZY AUNT’ CERVANTEE?
+- WHAT WORK HAVE YOU BEEN DOING ON TAMAKI CAMPUS?
+- ARE YOU NOW, OR HAVE YOU EVER BEEN A MEMBER OF THE LABOUR PARTY?
+- WHAT ARE YOUR THOUGHTS ON THE POKEMON THAT WILL ASSIGNED YOU?
+- ANY OTHER COMMENTS?
+- THAT’S SO SAD...
+- We offer free support, advice and information to all students.
+- full of sound and fury, signifying nothing:
+- morality: the best policy?
+- arts
+- CWCville and Me
+- A Moon Shaped Pool
+- Cat Power
+- The Angry Birds Movie
+- Lighten Your Load
+- favourite films
+- Inglourious Basterds
+- You didn't say the goddamn rendezvous was in a fuckin' basement
+- The Dark Knight
+- And the villain we deserve
+- Balto
+- “Can someone write a Spotlight on journo films that aren’t Spotlight?”
+- columns What Even Is New Zealand?
+- Caveat Emptor
+- Berning Sanders
+- Some Things Never Change
+- the people to blame.
+- Clear things up
+- Decomposition Books are back!
+
+### [Issue 12 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-12-2016b.pdf)
+- GERMAN LANGUAGE COURSES
+- study-leave me alone
+- news
+- DICK SMITH MINISTER UNDER FIRE FOR HOUSING COMMENTS
+- FART AIR AUCKLAND GETS A WHIFF OF CULTURE
+- TAXING TIMES POLITICAL BUTTHEADS BUTT HEADS OVER CUTS
+- MENTAL HELP INCREASE IN ACCESS TO MENTAL HEALTH SERVICES
+- THE TOP FIVE THINGS WE LEARNT THIS WEEK
+- 3. ere is no longer any grace period on
+- 4. e new University website is now live.
+- lifestyle
+- WHAT’S ON 30 MAY  5 JUNE
+- AGONY AUNTIES
+- A SERIOUS CASE OF THE SHAKES: A SALT AND PEPPER SHAKER COLLECTOR SHARES HER STORY
+- LE UNI STUDENT BY NEWSINCERITYMEMESX0X
+- BIKRAM YOGA BRITOMART REVIEW
+- THE CRACCUM GUIDE TO THE METRO GUIDE TO AUCKLAND’S CHEAP EATS: CHINOISERIE
+- FASHION ON CAMPUS
+- FROM THE MEDIA OFFICER
+- What’s Up in the Clubs?!
+- Meet the Clubs and Societies Officer
+- WHAT CLUBS DO YOU BELONG TO?
+- ARE YOU NOW, OR HAVE YOU EVER BEEN A MEMBER OF THE LABOUR PARTY?
+- YOU AND AUSA PRESIDENT WILL MATTHEWS GO WAY BACK  CARE TO EXPLAIN HOW YOU MET?
+- THIS IS YOUR SECOND YEAR ON THE EXEC, WHAT HAVE YOU LEARNED IN YOUR TIME ON THE EXEC?
+- SHOOT. SHAG. MARRY. GRANT ROB ERTSON. JOHN KEY. CAPTAIN VON TRAPP.
+- PREFERRED PRESIDENT OF THE UNITED STATES?
+- We offer free support, advice and information to all students.
+- acc help not harm – remove the barriers!
+- stimulate your mind in Europe graduate at Auckland
+- tales of tinderella
+- it’s getting hot in here
+- a road trip through the kiwi mind
+- PROLOGUE TO A PRELUDE
+- PRELUDE
+- LUDE
+- INTERLUDE
+- RELUDE
+- AFTERLUDE
+- James McAvoyeur
+- seven hundred and fifty words in defense of babe: pig in the city
+- Bangers to bang out when you’re learning guitar
+- Modern Family
+- Veep
+- Preacher
+- The Division
+- X-Men: Apocalypse
+- Books in the Public Domain
+- Dracula ‒ Bram Stoker
+- Pride and Prejudice ‒ Jane Austen
+- Great Expectations ‒ Charles Dickens
+- Jane Eyre ‒ Charlotte Brontë
+- “What the Fuck is Going on Here?” and Other Questions Regarding the X-Men Film Franchise
+- TIMELINE B  XMEN: DAYS OF FU TURE PAST AND XMEN: APOCALYPSE
+- A Guide to Good Local Bands
+- JAKOB
+- Ghostbusters & Remakes: An Honest Look
+- SCARED OF GIRLS
+- MERMAIDENS
+- CONNAN MOCKASIN
+- THE NAENAE EXPRESS
+- columns I Miss The Old Kanye: Defending The Indefensible
+- SEX, DRUGS & ELECTORAL ROLLS:
+- Anti-Social Media
+- The Conversation
+- GOAL STATUS
+- GOAL
+- GOAL STATUS
+- GOAL STATUS
+- GOAL STATUS
+- GOAL
+- What It Means to be Dead
+- Sending A Budget Down the Coal Mine
+- LIFE IS TOO LONG
+- Semester Happy Dream Time
+- Abarrane: Ikr!
+- the people to blame.
+- Clear things up
+- Crime at UBS
+
+### [Issue 12 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-12-2016b.pdf)
+- GERMAN LANGUAGE COURSES
+- study-leave me alone
+- news
+- DICK SMITH MINISTER UNDER FIRE FOR HOUSING COMMENTS
+- FART AIR AUCKLAND GETS A WHIFF OF CULTURE
+- TAXING TIMES POLITICAL BUTTHEADS BUTT HEADS OVER CUTS
+- MENTAL HELP INCREASE IN ACCESS TO MENTAL HEALTH SERVICES
+- THE TOP FIVE THINGS WE LEARNT THIS WEEK
+- 3. ere is no longer any grace period on
+- 4. e new University website is now live.
+- lifestyle
+- WHAT’S ON 30 MAY  5 JUNE
+- AGONY AUNTIES
+- A SERIOUS CASE OF THE SHAKES: A SALT AND PEPPER SHAKER COLLECTOR SHARES HER STORY
+- LE UNI STUDENT BY NEWSINCERITYMEMESX0X
+- BIKRAM YOGA BRITOMART REVIEW
+- THE CRACCUM GUIDE TO THE METRO GUIDE TO AUCKLAND’S CHEAP EATS: CHINOISERIE
+- FASHION ON CAMPUS
+- FROM THE MEDIA OFFICER
+- What’s Up in the Clubs?!
+- Meet the Clubs and Societies Officer
+- WHAT CLUBS DO YOU BELONG TO?
+- ARE YOU NOW, OR HAVE YOU EVER BEEN A MEMBER OF THE LABOUR PARTY?
+- YOU AND AUSA PRESIDENT WILL MATTHEWS GO WAY BACK  CARE TO EXPLAIN HOW YOU MET?
+- THIS IS YOUR SECOND YEAR ON THE EXEC, WHAT HAVE YOU LEARNED IN YOUR TIME ON THE EXEC?
+- SHOOT. SHAG. MARRY. GRANT ROB ERTSON. JOHN KEY. CAPTAIN VON TRAPP.
+- PREFERRED PRESIDENT OF THE UNITED STATES?
+- We offer free support, advice and information to all students.
+- acc help not harm – remove the barriers!
+- stimulate your mind in Europe graduate at Auckland
+- tales of tinderella
+- it’s getting hot in here
+- a road trip through the kiwi mind
+- PROLOGUE TO A PRELUDE
+- PRELUDE
+- LUDE
+- INTERLUDE
+- RELUDE
+- AFTERLUDE
+- James McAvoyeur
+- seven hundred and fifty words in defense of babe: pig in the city
+- Bangers to bang out when you’re learning guitar
+- Modern Family
+- Veep
+- Preacher
+- The Division
+- X-Men: Apocalypse
+- Books in the Public Domain
+- Dracula ‒ Bram Stoker
+- Pride and Prejudice ‒ Jane Austen
+- Great Expectations ‒ Charles Dickens
+- Jane Eyre ‒ Charlotte Brontë
+- “What the Fuck is Going on Here?” and Other Questions Regarding the X-Men Film Franchise
+- TIMELINE B  XMEN: DAYS OF FU TURE PAST AND XMEN: APOCALYPSE
+- A Guide to Good Local Bands
+- JAKOB
+- Ghostbusters & Remakes: An Honest Look
+- SCARED OF GIRLS
+- MERMAIDENS
+- CONNAN MOCKASIN
+- THE NAENAE EXPRESS
+- columns I Miss The Old Kanye: Defending The Indefensible
+- SEX, DRUGS & ELECTORAL ROLLS:
+- Anti-Social Media
+- The Conversation
+- GOAL STATUS
+- GOAL
+- GOAL STATUS
+- GOAL STATUS
+- GOAL STATUS
+- GOAL
+- What It Means to be Dead
+- Sending A Budget Down the Coal Mine
+- LIFE IS TOO LONG
+- Semester Happy Dream Time
+- Abarrane: Ikr!
+- the people to blame.
+- Clear things up
+- Crime at UBS
+
+### [Issue 13 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-13-2016b.pdf)
+- semYESter two
+- news
+- DOUBLE DIPPED HAVEN’T STUDENTS SUFFERED ENOUGH
+- UNIVERSADY UGHKKFDHSDKFH
+- FLU SHOT
+- lifestyle
+- WHAT’S ON 18  24 JULY
+- WHENEVER I WAKE UP
+- POEM BY BRONTE HERON
+- AUCKLAND UNIVERSITY POWDER ROOM SOCIETY’S TOILET REVIEW  THE ARTS 2 GROUND LEVEL TOILETS
+- ausa
+- FROM THE PRESIDENT
+- AUSA NEWS
+- RUN IN THE AUSA ELECTIONS!
+- WHAT POSITIONS ARE AVAILABLE?
+- STUDENTS AND STAFF FROM REFUGEE BACKGROUNDS
+- AUSA CELEBRATES OUR 125TH AN-NIVERSARY
+- the exec-utioners
+- WHAT EXACTLY IS THIS?
+- ...AND WHY SHOULD I CARE?
+- WILL MATTHEWS
+- ISOBEL GLEDHILL
+- PENELOPE JONES
+- RACHEL BURNETT
+- DEAN CUTFIELD
+- SARAH BUTTERFIELD
+- DIANA QIU & ADITI GORASIA
+- Level of ‘take-themselves-too-seriously’:
+- JESSICA PALAIRET
+- Level of ‘takes-herself-too-seriously’:
+- ZAVARA FARQUHAR
+- MIN KYU JUNG
+- CERVANTÉE WILD
+- CONOR O’HANLON
+- CYRUS LUI
+- PACIFIC ISLAND STUDENTS OFFICER
+- this house would ban all cosmetic procedures to alter one's racial appearance
+- AFFIRMATIVE
+- NEGATIVE
+- in defence of the fence
+- arts
+- (Spoilers for Orange is the New Black season four follow).
+- The Neon Demon
+- Finding Dory
+- Let’s Marathon
+- The New Zealand International Film Festival
+- Beware the Slenderman
+- DIR. IRENE TAYLOR BRODSKY
+- e Handmaiden
+- DIR. PARK CHAN-WOOK
+- Apple Pie
+- DIR. SAM HAMILTON (NZ)
+- Certain Women
+- DIR. KELLY REICHARDT
+- High-Rise
+- DIR. BEN WHEATLEY
+- A Quiet Passion
+- DIR. TERENCE DAVIES
+- Midnight Special
+- DIR. JEFF NICHOLS
+- The Cracc-sters Send Their Regards
+- 1. SANSA STARK
+- Editors’ Essentials
+- What was the first album you ever bought?
+- CAITLIN
+- ANDREW
+- MARK
+- SAMANTHA
+- WINIFRED
+- CATRIONA
+- HANNAH
+- JORDAN
+- Brexiting: Lies, Idiocy, and A Lot Of Things Being On Fire (All At Once)
+- Undercover With The Jocks
+- The Five Stages of Staring
+- Mayorly Interested
+- SEX, DRUGS & ELECTORAL ROLLS
+- LIFE IS TOO LONG
+- the people to blame.
+
+### [Issue 14 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-14-2016b.pdf)
+- fairfucked?
+- news
+- MAYOR WATCH [LIKE BAYWATCH, GEDDIT?]
+- UNITARY PLAN
+- FIRST DEBATE
+- AUSA NOM NOM NOMS NOMINATIONS HAVE OPENED FOR AUSA’S 2017 EXECUTIVE COMMITTEE.
+- THE TOP 5 POLITICAL EVENTS YOU MAY HAVE MISSED
+- 1. A New Zealand MP ran over a protester.
+- lifestyle
+- WHAT’S ON 2531 JULY
+- AGONY AUNTIES
+- BRUNCHING ON A BUDGET
+- FASHION ON CAMPUS
+- MINESTRONE SOUP
+- LOOP GROOP
+- What’s the origin of Loop Groop
+- How did you learn to work with bikes
+- For a cyclist who doesn’t know much about bikes, do you think it is fairly easy to learn the basics
+- And people can bring their bikes to you when they need help learning how to fix it
+Do you think that Auckland as a city is becoming more aware of alternative forms of transport, including - cycling
+- Any last message for the students of University of Auckland
+- ausa
+- WHAT ARE THE CHANGES?
+- WHAT'S THE RATIONALE?
+- DEMOCRACY SAUSAGES
+- Student Forum Now At 1.15pm On Wednesdays
+- AUSA Executive Nominations
+- We Need You: Food Drive 2016
+- Get 10% Off At Shadows
+- Notice is hereby given of an AUSA SPECIAL GENERAL MEETING
+- CHANGES TO TREASURER
+- OFFICER POSITIONS:
+- PORTFOLIO POSITIONS:
+- CHANGES TO QUEER RIGHTS OFFICER
+- Run in the AUSA elections!
+- So why should I run?
+- ADVOCACY AND REPRESENTATION
+- EVENTS
+- WELFARE
+- I’m interested – what’s next?
+- ausa Interview With Daddy Dean*
+- ABOUT THAT, ELECTIONS ARE COM ING UP  WHY SHOULD PEOPLE RUN FOR TREASURER?
+- ARE YOU AN IDEALIST WITHOUT IDEAS?
+- LIKE?
+- WHAT’S A GLOBAL RESOURCE REPA RATIONS PAYMENTS SYSTEM?
+- SORRY I ASKED... WHAT DOES TREAS URER ACTUALLY DO?
+- WHAT’S THE WEIRDEST THING THAT’S CROPPED UP AND THAT YOU’VE HAD TO SORT OUT?
+- ARE YOU NOW OR HAVE YOU EVER BEEN A MEMBER OF LABOUR PARTY?
+- HAVE YOU BEEN FOLLOWING THE US ELECTIONS ON FOX?
+- PERSIAN IS THE POKÉMON WILL ASSIGNED YOU, DO YOU HAVE ANY COMMENTS ABOUT THAT?
+- Create a Co-QRO!
+- inspire to conspire
+- it’s all in good humour
+- Rekt-oplasm
+- Trek: Voyager
+- Beware the Slenderman
+- The Handmaiden
+- Ants on a Shrimp
+- Parson James at St Mary’s Cathedral Church
+- The Circus
+- Teens of Denial
+- Marie Antoinette
+- 2. Dressing Political Women:
+- Five Fictional Podcasts to Listen to in the Dark
+- THE BLACK TAPES
+- WELCOME TO NIGHT VALE
+- LIMETOWN
+- WE’RE ALIVE
+- ALICE ISN’T DEAD
+- A Guide to Underrated Romcoms
+- Stuck in Love (2012)
+- What If (2013)
+- Life After Beth (2014)
+- Hello My Name is Doris (2015)
+- What’s Your Number (2011)
+- Will Anything Stop Pokémon GO?
+- CAITLIN
+- Angus, ongs & Perfect Snogging
+- CATRIONA
+- SAMANTHA
+- WINIFRED
+- HANNAH
+- FELIXE
+- Sex and the City
+- MARK
+- A Love Poem For A Honey Badger
+- SEX, DRUGS & ELECTORAL ROLLS
+- The Monsters Within
+- The Nation, The Team
+- LIFE IS TOO LONG
+- Autists In a World Gone Mad
+- Lighten Your Load
+- the people to blame.
+- BRENDAN LOVEGROVE
+
+### [Issue 15 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-15-2016b.pdf)
+- navy blues
+- news
+- OH,THE HUMANITIES
+- SHOOTING GALLERY
+- SHE BLINDED ME WITH SCIENCE, BUILDING
+- THE TOP 5 (POSITIVE) STORIES YOU MIGHT HAVE MISSED.
+- 2. ere is going to be a Lego Batman movie.
+- SKYPATH
+- DEBATE
+- UNITARY PLAN
+- lifestyle
+- WHAT’S ON 1  7 AUGUST
+- THE UOA FAIR TRADE CLUB PRESENTS: SAMPLING SQUAD  NGOPI
+- AGONY AUNTIES
+- A FIRSTHAND GUIDE TO SECONDHAND SHOPPING
+- Jo’s Stall Bric ‘a’ Brac (598 Great North Road, Grey Lynn)
+- Mangere St Vincent de Paul (32 Coronation
+- Road)
+- Dove Shop (185 Apirana Ave)
+- Hospice Shop (17 Delta Ave, New Lynn)
+- FASHION ON CAMPUS
+- SHAKSHUKA / BAKED EGGS
+- ausa
+- AUSA Noticeboard Special General Harry Potter Week Meeting
+- Cultural Week
+- Nominations for the AUSA Executive
+- Notice is hereby given of an
+- FROM THE MO
+- Notice is hereby given of an AUSA SPECIAL GENERAL MEETING
+- CHANGES TO TREASURER
+- OFFICER POSITIONS:
+- PORTFOLIO POSITIONS:
+- CHANGES TO QUEER RIGHTS OFFICER
+- ausa Interview with Yilong “Party” Wang
+WHAT ARE SOME THINGS THAT YOU THINK A DOMESTIC STUDENT DOESN’T THINK ABOUT WHEREAS AN INTERNATIONAL STUDENT - DOES?
+- AS INTERNATIONAL STUDENTS’ OFFICER, WHAT ARE YOU HOPING TO ACHIEVE IN YOUR ROLE?
+- WHAT DO YOU THINK WE CAN DO TO CREATE THAT FRIENDLY COMMUNI TY?
+- YOU CAME INTO AUSA LATER ON IN SEMESTER ONE, WHAT WERE YOUR FIRST IMPRESSIONS OF THE ORGAN IZATION?
+- ANY COMMENTS ABOUT THE POKÉMON WILL ASSIGNED YOU?
+- HAVE YOU CAUGHT A CHARMANDER YET?
+- Submissions Open for Kate
+- final fantasy?
+- Hey everyone, Brie Larson liked my tweet
+- THE WONDER WOMAN TRAILER IS A BANGER
+- LITTLE GIRLS COSPLAYED AS REY FROM THE FORCE AWAKENS; THE WORLD IS A BEAUTIFUL PLACE
+- EDDIE REDMAYNE IS AN ANGEL, TOO GOOD FOR THIS WORLD, TOO PURE
+- MARVEL IS KILLING THE CASTING GAME
+- TAIKA WAITITI’S THOR FILM IS PROBABLY GOING TO BE HILARIOUS
+- teenage mutant ninja crybabies
+- How’d It Go?
+- Boners of the Heart
+- Lights Out
+- Everybody Wants Some!!
+- Weiner
+- Captain Fantastic
+- Freetown Sound
+- Summer 08
+- Flash! Ah-ahh!
+- Harry Potter and the Top Ten NOTPs
+- MARK
+- Atlas Shrugged
+- CAITLIN
+- HANNAH
+- Anna Karenina
+- CATRIONA
+- SAMANTHA
+- New Zealand: A (Guesstimated) Recap Of The Previous 6 Months
+- SEX, DRUGS & ELECTORAL ROLLS
+- The New Fault-Line In Politics – Globalists Versus The Rest
+- Are We Being Racist To Taylor Swift?
+- Language Matters
+- Cigarettes and Disappointments Or A Story In The Night
+- the people to blame.
+- Editors
+- Subeditor
+- Designer
+- Section Editors
+- Writers
+- Cover Artist
+- Artists
+- Contributor of the Week
+- Editorial Office
+- Advertising
+- facebook.com/CraccumMagazine twitter.com/CraccumMag www.craccum.co.nz
+- Lighten Your Load
+- Get a Free Tote Bag with every Lonely Planet purchase *
+
+### [Issue 16 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-16-2016b.pdf)
+- feed your mind in the USA graduate at Auckland
+- editorial
+- everything is not as it themes
+- news
+- NIGHTMAYORS OF A NEWS EDITOR PLEASE JUST FUCKING VOTE
+- LOCAL POLITICKING
+- HOUSINGMATES
+- MASSDEBATE
+- THE TOP FIVE CRAZY THINGS THAT DONALD TRUMP HAS SAID
+- lifestyle
+- JAYWALKING: A NECESSARY THRILL
+- AGONY AUNTIES
+- Aunty Agnes
+- Aunty Ethel
+- SIMPLE APPS FOR OVERWHELMING WORLD NEWS
+- WHAT’S ON 8  14 AUGUST
+- FASHION ON CAMPUS
+- ausa Interview with Anoushka (CAO)
+- WHY DID YOU RUN FOR CAO?
+- WHAT ARE YOU LOOKING FORWARD TO MOST ABOUT CULTURAL WEEK?
+- WHAT IS THE MOST SURPRISING THING YOU’VE FOUND ABOUT BEING
+- ON THE AUSA EXECUTIVE?
+- ARE YOU NOW OR HAVE YOU EVER BEEN A MEMBER OF THE LABOUR PARTY?
+- THOUGHTS ON THE POKÉMON YOU’VE BEEN ASSIGNED?
+- SCARED OF GIRLS, PAPRIKA
+- copacabana ain’t coping
+- this house believes that all tertiary institutions should be secular
+- AFFIRMATIVE
+- NEGATIVE
+- Poetry Night
+- Take it t-easy
+- Peppermint tea with e King’s Speech
+- A chai latte with e Holiday
+- English breakfast tea with Crazy, Stupid, Love
+- Black coffee with Spotlight
+- Green tea with Se7en
+- A hot toddy with Inside Llewyn Davis
+- Chamomile tea with Pride & Prejudice
+- A hot chocolate with Jurassic Park
+- Mulled wine with Lord of the Rings: Return of the King at the end of a LOTR marathon
+- Jason Bourne
+- The Rehearsal
+- Hooligan Sparrow
+- The BFG
+- Stranger Things
+- Elevate your mood, dude
+- the day my bum went psycho
+- BUMLESS BODIES
+- BASED ON A TRUE STORY?
+- THE KISSER: WEIRD OR NAH?
+- BUM FIGHTING ABILITIES
+- Smile Like You Mean It, Dammit!
+- Presenting: Buffy the Vampire Slayer
+- Editors’ Essentials
+- CATRIONA
+- FELIXE
+- Gwen Stefani
+- MARK
+- ABBA
+- CAITLIN
+- Johnny Cash
+- WINIFRED
+- HANNAH
+- Simon & Garfunkel
+- SAMANTHA
+- ANDREW
+- Dead or Alive
+- columns
+- HOBBIT ON TOUR
+- SEX, DRUGS & ELECTORAL ROLLS
+- Champagne Problems
+- Lighten Your Load
+- the people to blame.
+- BOOK YOUR TICKET TO THE ULTIMATE FASHION EXPERIENCE
+- Free Tea Tasting!
+
+### [Issue 17 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-17-2016b.pdf)
+- craccum has raging election
+- GUY WHO JUST CAME TO THE QUAD TO GET BUTTER CHICKEN CHIPS AND WANTS TO BE LEFT THE FUCK ALONE: What’s
+- GWJCTTQTGBCCAWTBLTFA: Um, okay.
+- news
+- LABOURING THE POINT
+- THE TOP FIVE REASONS HOSTING THE OLYMPIC GAMES IS A BAD IDEA
+- HUMAN(ITIES) RESOURCES
+- QUESTIONING THE PLAN
+- lifestyle
+- WHAT’S ON 1522 AUGUST
+- FASHION ON CAMPUS
+- AVOIDING THE CAR OR, HERE ARE SOME DATE IDEAS
+- OPSHOP EVALUATION: PAPER BAG PRINCESS
+- VEGAN DREAMS ARE MADE OF THIS... AQUAFABA
+- Meringues
+- AGONY AUNTIES
+- election blurbs
+- Bigger and Better Events
+- World Class Representation
+- AUSA Rewards
+- Constitutional Reform
+- Executive Reorganisation
+- Events Management
+- CLUBS & SOCIETIES OFFICER
+- CULTURE & ARTS OFFICER
+- GRAFTON REPRESENTATIVE
+- MEDIA OFFICER
+- QUEER RIGHTS OFFICER
+- STUDENT FORUM CHAIR
+- TAMAKI REPRESENTATIVE
+- CRACCUM EDITOR
+- We offer free support, advice and information to all students.
+- ars gratia artis: art for art’s sake, part one
+- a candid date with the candidates
+- CATRIONA AND SAMANTHA
+- ANDREW
+- ANDREW
+- ANDREW
+- SAMANTHA
+- IF YOUR OPPONENTS WERE MOVIE VILLAINS, WHO WOULD THEY BE?
+- ANDREW
+- SAMANTHA & CATRIONA
+- ANDREW
+- CATRIONA
+- ANDREW
+- ANDREW
+- CAITLIN
+- ANDREW
+- SAMANTHA
+- CATRIONA
+- SAMANTHA
+- SAMANTHA
+- WHY DO YOU ACTUALLY WANT TO EDIT THE MAG?
+- SAMANTHA
+- ANDREW
+- SAMANTHA
+- Why “Forever in Blue Jeans” is the greatest song ever written and why I will fight anyone who disagrees
+- Money talks, but it don’t sing and dance, and it don’t walk.
+- Long as I can have you here with me, I’d much rather be forever in blue jeans.
+- Suicide Squad
+- Roadtrip
+- Net-flick over to the Kids section
+- Daddy Day Care
+- Scooby-Doo
+- Agent Cody Banks
+- Spirit: Stallion of the Cimarron
+- Three Animated Shows You Should Be Watching
+- VOLTRON: LEGENDARY DEFENDER
+- D.GRAY-MAN: HALLOW
+- BOJACK HORSEMAN
+- Flatbush ZOMBiES
+- Levi Patel and Suren Unka
+- DID YOU HAVE ANY MAIN INFLUENC ES OR INSPIRATIONS WHEN MAKING
+- LP + SU
+- LP + SU
+- HAS MAKING MUSIC TOGETHER CHANGED YOUR APPRECIATION OF OTHER MUSIC AND STYLES?
+- WHAT DO YOU GUYS FIND MOST RE WARDING ABOUT MAKING MUSIC?
+- ANY ADVICE TO ANYONE WHO WANTS TO GET INTO MAKING MU SIC?
+- LP + SU
+- Five albums to listen to from start to finish that are just really good
+- Bloom – Beach House (2012)
+- Rid of Me – PJ Harvey (1993)
+- Grace – Jeff Buckley (1994)
+- Heaven or Las Vegas – Cocteau Twins (1990)
+- LP1 – FKA Twigs (2014)
+- Obituary
+- I’m With The Band
+- SEX, DRUGS & ELECTORAL ROLLS
+- Mental Health & Politics: Tarred, Feathered & Straightjacketed
+- Mo’ Democracy, Mo’ Problems
+- Courting the Courts
+- ausa What’s on @AUSA?
+- SUBMISSIONS FOR KATE MAGAZINE OPEN NOW!
+- PLASTIC DIET, OPSOC AND THE UOA FAIR TRADE CLUB PRESENTS: CLOTHES SWAP
+- EQUITY OFFICE “GOING ABOVE AND BEYOND” FOR STUDENTS FROM REFUGEE BACKGROUNDS
+- NOTICE OF CONSTITUTIONAL CHANGES FOR WGM
+- CHANGES TO TREASURER
+- CHANGES TO QUEER RIGHTS OFFICER
+- CHANGES TO STUDENT FORUM
+- Who Will Be Your Next Welfare Vice-President?
+- Lighten Your Load
+- It’s our
+
+### [Issue 18 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-18-2016c.pdf)
+- here’s why the rio olympics have been a highly worthwhile and meaningful experience
+- news
+- NIGHTMARE ON HYDE STREET
+- UOA HAS HALF-ASSED RESPONSE TO HOMOPHOBIC HARASSMENT
+- DEJA V-UNITARY PLAN NEWS ED ROLLS OUT HIS FAVOURITE TOPIC, AGAIN
+- UCSA FORCED TO CROWDFUND
+- WOMEN SET TO TAKE OVER THE PLANET IN WORLDWIDE GYM CONSPIRACY
+- COMMUNICABLE DEGREES
+- lifestyle
+- WHAT’S ON 22  28 AUGUST
+- FASHION ON CAMPUS
+- IN DEFENCE OF WATER
+- THE EASIEST ICECREAM YOU WILL EVER MAKE
+- 2 LARGE FROZEN BANANAS ½ CAN OF COCONUT CREAM
+- THE UOA FAIR TRADE CLUB PRESENTS: SAMPLING SQUAD  CAFFE PRIMA
+- AGONY AUNTIES
+- ausa News from AUSA
+- UNIVERSAL BASIC INCOME PUBLIC MEETING
+- WELCOME BACK THE BUDGIE MEAL...
+- SUBMISSIONS FOR KATE MAGAZINE OPEN NOW!
+- AUSA BATTLE OF THE BANDS!
+- ausa 125th Anniversary Funciton
+- The HUB
+- DID YOU KNOW WE CAN HELP YOU WITH
+- TENANCY
+- EMPLOYMENT
+- Notice of Constitutional Changes for WGM
+- CHANGES TO TREASURER
+- WEDNESDAY @ 1PM
+- a fraction more friction
+- PHRESH OUT THE RUNWAY
+- arts
+- Comic, but not all that funny
+- No Man’s Sky
+- No Man's Sky: Music for an Infinite Universe
+- Harry Potter and The Cursed Child
+- Stephen King
+- Esi Edugyan
+- To Kill a Mockingbird
+- Harper Lee
+- John Steinbeck
+- Wool
+- A Clockwork Orange
+- Anthony Burgess
+- Chimamanda Ngozi Adichie
+- The Beautiful and the Damned
+- The 5 Essential Stanley Kubrick Films
+- 2001: A SPACE ODYSSEY
+- DR STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB
+- FULL METAL JACKET
+- THE SHINING
+- A CLOCKWORK ORANGE
+- The Soothing Seduction of Suffering
+- The Hunger
+- Debating the Healthiness of High Schools
+- columns
+- It’s All a Lie: a nihilist’s sermon
+- Out
+- On The Vast Right-Wing Conspiracy To Take Back Auckland
+- The Departing of the Party
+- the people to blame.
+- BOOK YOUR TICKET TO THE ULTIMATE FASHION EXPERIENCE
+- BIG, BIG
+
+### [Issue 19 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-19-2016b.pdf)
+- We offer free support, advice and information to all students.
+- bureaucrats, bureaucrats, everywhere, but not a drop to drink
+- July 2016
+- September 2016
+- news
+- LET’S GET MAY-O-RAL, MAY-O-RAL
+- Issue One: Debates
+- Issue Two: Policy Announcements
+- On the transport front
+- On the housing front
+- Issue Three: Voting Soon
+- NIKKI KAYE TAKES LEAVE AFTER BREAST CANCER DIAGNOSIS
+- Part One: Lincoln University
+- Part Two: Unitec
+- Part Three: University Of Canterbury
+- UNIVERSITY OF AUCKLAND IS RANK(ED HIGHLY)
+- ausa From the President
+- INTRODUCING YOUR NEW AUSA EXECUTIVE!
+- EYE ON AUSA  WHAT HAVE YOUR STUDENT REPRESENTATIVES BEEN UP TO RECENTLY?
+- What’s happening on campus?
+- WOMENSFEST 2016 IS COMING!
+- BASIC INCOME NEW ZEALAND PUB LIC MEETING!
+- WELCOME BACK THE BUDGIE MEAL!
+- ausa Where Is Your Money Going?
+- SUMMARY
+- RECOMMENDATIONS
+- lifestyle
+- What do I want? Where do I stand?
+- FASHION OFF CAMPUS
+- HOW TO DRESS FOR SPRING
+- 1. Denim Mini
+- 2. Satin Bomber Jacket
+- 4. Slip-On Vans
+- befriending ben: a snap story
+- What is Ben up to these days
+- this house supports kanye 2020
+- Affirmative
+- Negative
+- the heroine we deserve
+- WHAT ARE YOUR FIVE FAVOURITE THINGS, I.E. ALBUMS, BOOKS OR MOVIES?
+- WHAT DO YOU DO WHEN YOU’RE NOT DOING THIS?
+- YOU’VE PROBABLY BEEN ASKED THIS SO MANY TIMES, BUT WHAT IN SPIRED YOU TO RUN FOR MAYOR?
+- OF COURSE PEOPLE BRING UP YOUR AGE ALL THE TIME. WHAT’S THE DEAL WITH OLD PEOPLE?
+- WHAT’S THE MOST VALUABLE LES SON THAT YOU’VE TAKEN FROM THIS WHOLE EXPERIENCE?
+- HAVE YOU HAD ANY PARTICULARLY STRANGE OR AWFUL ENCOUNTERS?
+- AH. SO IN TERMS OF GETTING RE SPECT, HAS THAT BEEN A BIT OF A STRUGGLE?
+- HAS ANYTHING ABOUT AUCKLAND SURPRISED YOU THROUGHOUT THIS PROCESS?
+- FINAL THOUGHTS ON THE TITLE OF ‘MAYOR’, AND WHAT IT MEANS TO BE ‘FOR AUCKLAND’.
+- The Other Barone Boy
+- king’s cross and the stripper’s scowl
+- The Wheat Bix Kids
+- Kubo and the Two Strings
+- War Dogs
+- 22, A Million
+- Total Depravity
+- ten pieces of media that everyone should consume
+- Francis Ford Coppola
+- Quentin Tarantino
+- Howl’s Moving Castle (2004)
+- Hayao Miyazaki
+- Jacob Aaron Estes
+- Be Kind, Rewind (2008)
+- (Arts Editor’s note: we acknowledge that Mel Gibson is now pretty much just an ass)
+- The Darjeeling Limited (2007)
+- Wes Anderson
+- Morgan Spurlock
+- The Royal Tenenbaums (2001)
+- Wes Anderson
+- Alex Gibney
+- Indie Makeup Brands to Support with Your Dollar
+- Shiro Cosmetics
+- Bésame Cosmetics
+- LBCC Historical
+- Relationship Advice with Aunty Eloise
+- But you need to –
+- But I-
+- SEX, DRUGS & ELECTORAL ROLLS
+- A Fair Go For Unsafe Convictions
+- At The Show
+- Trump Tower
+
+### [Issue 23 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-23-2016b.pdf)
+- editorial
+- talent quest
+- AUCKLAND POSTGRADUATE INFORMATION EVENING
+- news
+- 2 CULTS 2 CAMPUS
+- We offer free support, advice and information to all students.
+- NEWS EDITOR READS A LENGTHY REPORT. PLEASE READ THIS SUMMARY SO HE DOESN’T FEEL SAD AND ALONE.
+- PART ONE: RETURN OF INTEREST ON STUDENT LOANS
+- PART TWO: “STUDENT FOCUSED” INSTITUTIONS
+- MASSEY’S MESSY ORIGINS
+- lifestyle
+- ROUND TWO: WHAT’S IN YOUR BAG?
+- THE AUPRS TOILET REVIEW KATE EDGER BUILDING LEVEL 2 TOILETS
+- General Information
+- FLAT OF THE WEEK
+- Highlights and lowlights of the physical space?
+- Do you have flat roles?
+- Any flat traditions?
+- What TV shows are you watching?
+- Felixe: I have heard of this, but what is it exactly?
+- What do you like about your neighbourhood and do you have any neighbours worthy of a mention?
+- AGONY AUNTIES
+- AUSA Presents: Stress Less Study Week
+- Get SET for semester two evaluations!
+- Battle of the Bands
+- i am woman, hear me roar
+- ...And Justice For All
+- The Magnificent Seven
+- Luke Cage
+- Dreams
+- A Seat at the Table
+- 22, A Million
+- I Had A Dream That You Were Mine
+- Six Must-See Docos 1. Blackfish (2013)
+- 2. Cartel Land (2015)
+- 4. Virunga (2014)
+- 5. Bowling for Columbine (2002)
+- 6. The Black Panthers: Vanguard of a Revolution (2015)
+- The Best Period Dramas, Period.
+- Pride & Prejudice (2005)
+- Jane Eyre (2011)
+- Shakespeare in Love (1998)
+- Amazing Grace (2006)
+- Bright Star (2009)
+- Atonement (2007)
+- Belle (2013)
+- Others to look out for:
+- Becoming Jane
+- Top Seven Uses for This Column
+- Choose Your Own Adventure
+- Go to (2).
+- Brash
+- PREMIUM APARTMENTS COMING SOON
+- the people to blame.
+- Check out our gorgeous range of children’s picture books
+
+### [Issue 24 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-24-2016.pdf)
+- i am not afraid to keep on living, i am not afraid to walk this world alone
+- news
+- YOU AND ME GOT A WHOLE LOTTA HISTORY
+- SEXUAL ASSAULT IGNORED IN AUSTRALIAN UNIVERSITIES
+- TO FEE OR NOT TO FEE
+- OPINION: PATRICK’S SPORT SOAPBOX
+- lifestyle
+- WHAT’S ON 17-23 OCTOBER
+- WHAT’S YOUR SCENT?
+- Danielle Taylor Bachelor of Arts/Bachelor of Commerce:
+- AGONY AUNTIES
+- MAGIC NO-RISE BREAD RECIPE!
+- Ingredients:
+- Instructions:
+- AUSA – 2016 In Review
+- ausa
+- SOME PEOPLE TO THANK
+- ausa On the 19th of October your fees will rise.
+- Stress Less Study Week
+- CHILL OUT ZONE
+- FREE BRUNCH
+- FREE FRUIT
+- END OF DAZE
+- craccum 2016: a year in review by the numbers looking back in retrospect
+- SEVEN
+- SEVEN
+- THREE THOUSAND, FOUR HUNDRED AND SEVENTY FOUR
+- A WHOLE LOTTA
+- wicked games
+- arts
+- Mark, sighing
+- Caitlin, surveying Symonds St, gathers the strength to farewell her co-editor
+- Mark, wearily trudging after her
+- Mark, in a whisper
+- Mark, coughing
+- Caitlin, with a tear
+- Westworld
+- Scorpion
+- Revolution Radio
+- local tunes
+- Graeme James
+- What have you been up to lately on the music front
+- How did you get into music? What was your first record purchase
+- Did you ever imagine yourself being a musician
+- What musicians do you admire? Why
+- What are you main inspirations and why? What feelings/experiences inspired the lyrics?
+- What was the experience of busking like? Did you ever imagine you’d end up doing that?
+- What do you find most rewarding about performing/making music
+- What’s your writing process like
+- What musical advice would you give to anyone interested in pursuing music
+- A Girl Named Mo
+- How did you guys each get into music? How’d you come to be in a band together
+- Mo, how would you describe being a woman and the lead singer of a band
+- What future plans do you have
+- Tell us a little about your lyrics
+- How has it been working with the Fly My Pretties collective
+- What is your intention when making music?
+- What are your future plans
+- Ills Winter
+- How did you get into music
+- Where does the name “Ills Winter” come from?
+- How would you describe Duchess of Whispers?
+- Bailey Wiley
+- How did you get into music?
+- How do you find performing and singing your lyrics
+- What is it like being a female artist in the music industry? Has this had any impact on your work?
+- Who or what inspires you, both musically and lyrically
+- How do you find performing and singing rather personal lyrics
+- What is your intention when making music
+- What are your future plans
+- How has it been working with the Fly My Pretties collective
+- What are your future plans
+- Now That’s What I Call Debt
+- My Favourite Albums Of 2016 (So Far)
+- 4. Anderson .Paak – Malibu
+- 2016’s Best TV Shows
+- Narcos Season Two
+- And the Oscar goes to... who?
+- A Massive, Filthy, Furious Brexit Rant
+- SEX, DRUGS & ELECTORAL ROLLS
+- Post-scripts, Postludiums, and Electoral Post-Mortems
+- The Last Column
+- We Need to Talk About the Clowns
+- the people to blame.
+- Editors
+- Subeditor
+- Designer
+- Section Editors
+- Cover Artist
+- Writers
+- Artists
+- Contributor of the Week
+- Editorial Office
+- Advertising
+- facebook.com/CraccumMagazine twitter.com/CraccumMag www.craccum.co.nz
+- 360° Auckland Abroad
+- Get Organised, Study in Style
+
+## 2017
+### [Issue 01 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-01-2017.pdf)
+- Catriona Britton
+- La La Land: The University Edition
+- “European Students Association” Given O-Week Stall
+- By Eloise Sims
+- Safe Zone Returns For O-Week
+- By Michael Calderwood
+- OGGB Parking Fees More Than Double
+- By Nikki Addison and Eloise Sims
+- English Down, Winston Up: We Officially Live In 2003
+- By Jack Gradwell
+- Activism Abroad
+- WHAT ARE YOU STUDYING AT AUCKLAND UNI, AND WHY DID YOU CHOOSE UCB?
+WHAT WAS IT LIKE BEING IN THE US—AND PARTICULARLY IN UCB—WHEN DONALD TRUMP WAS INAUGURATED? AND HOW IS IT - NOW?
+WHAT IS THE GENERAL MOOD ON CAMPUS TOWARDS THE PROTESTORS? ARE THEY SEEN AS ANARCHIST TROUBLEMAKERS, OR MORE - HEROIC FIGURES?
+- HOW DOES LIVING IN THE US RIGHT NOW COMPARE TO NEW ZEALAND?
+- NEWS
+- Corrections Charges Close To $10,000 for Official Information Act Request
+- By Laura Kvigstad
+- 54% Of Kiwis Are Pro-Choice
+- By Eloise Sims
+- COMMUNITY
+- WHAT DO YOU PLAN ON DOING TO HONOUR TE TIRITI Ō WAITANGI IF YOU’RE ELECTED INTO GOV-ERNMENT?
+- WHAT DO YOU THINK IS THE BIGGEST ISSUE WE’RE FACING RIGHT NOW?
+- The Truth On Racism In Aotearoa
+- Auckland Pride Parade 2017
+- Shakti New Zealand
+- What’s On
+- Party in the Park with Marshmello
+- Auckland Safe Zone
+- Frankie Cosmos at REC
+- Auckland Fringe Festival
+- Guide To... Surviving Uni
+- Top 5... Coffee Places Near UoA
+- eighthirty | 35 High St
+- Federal Delicatessen | 86 Federal St
+- Miller’s | 31 Cross St
+- Scarecrow | 33 Victoria St
+- Craven ‘A’ | 4 Saint Paul St
+- Thy eternal summer shall not fade
+- CAN YOU DESCRIBE YOUR PRODUCTION IN ONE SENTENCE?
+- WHO DO YOU PLAY? WHAT DO YOU LIKE/DISLIKE ABOUT YOUR CHARACTER?
+- TALK ABOUT AS YOU LIKE IT. WHY IS IT IMPORTANT, WHAT DO YOU LIKE ABOUT IT?
+- WHAT DO YOU LIKE BEST ABOUT YOUR VERSION OF
+- ANYTHING SPECIAL YOU CAN TELL US ABOUT?
+- WHAT’S IT LIKE PERFORMING OUTDOORS, IN AN AUCKLAND SUMMER?
+- HOW DO YOU FEEL ABOUT SHAKESPEARE, AND WHY?
+- WHAT DO YOU THINK SHAKESPEARE WOULD BE DOING IN TODAY’S TIMES?
+- FAVOURITE AS YOU LIKE IT QUOTE?
+- AND FINALLY, WHY SHOULD PEOPLE COME SEE SUMMER SHAKESPEARE’S AS YOU LIKE IT?
+- As You Like It runs from the 14 th –11 th March 2017. Student tickets are $20, with ID.
+- Unichem Campus Pharmacy
+- Interview by Eloise Sims
+SO WE DID A BIT OF RESEARCH, AND WE NOTICED THAT STUFF CALLED YOU THE KIWI JOHN OLIVER— DID YOU FEEL A BIT - STOKED ABOUT THAT?
+- WHAT A DUDE.
+- YOU REMEMBER EXACTLY WHERE YOU WERE AT THE HISTORIC MOMENT JOHN CAMPBELL REPLIED TO YOU.
+- WHAT DO YOU ATTRIBUTE THAT SUCCESS WITH YOUR NEW STUFF TO?
+- IT SAYS A LOT ABOUT HOW MANY PEOPLE NEED THAT ECONOMICS 101 CLASS.
+- IN A WORLD WHERE TRUMP IS A REAL AND TERRI-FYING THING—
+- “Sincerity is coming back into fashion. Everyone’s getting a bit tired of sarcastic, ironic, smug people.”
+- THAT SOUNDED LIKE AN AVRIL LAVIGNE QUOTE.
+- IT’S THAT AVRIL LAVIGNE IS THE NEW CHRIST?
+WELL, LIKE OUR VERY OWN CHLÖE SWARBRICK UP IN AUCKLAND. IS IT CHALLENGING THE WHOLE IDEA THAT POLITICIANS - ARE TERRIBLE IDIOTS?
+- SO ARE YOU IN FACT LIVING PROOF THAT STUDY-ING AT AUCKLAND CAN ACTUALLY GET YOU A JOB?
+- THIS IS GOING TO GIVE EVERYONE AT AUCKLAND UNI SO MUCH HOPE.
+LIVE YOUR LIFE. IMAGINING TIME, BUDGET AND SO ON WASN’T AN ISSUE, WHAT IS THE NUMBER ONE THING YOU’D LIKE - WHITE MAN BEHIND A DESK TO COVER?
+- NEITHER.
+- WHAT CAN WE EXPECT FROM WMBAD IN 2017?
+- WE’VE HAD NOWHERE NEAR ENOUGH WITH BILL ENGLISH.
+- BUT ALSO, OF COURSE, YOU HAVE TO COVER THE ELECTION!
+- SO MOVING ON—CAMERON SLATER. LET’S JUST TALK ABOUT CAMERON SLATER AND YOUR LOVE FOR HIM.
+- JUST LET IT RIP.
+- IS THAT THE NEXT BIG THING FOR WMBAD? FINALLY MEETING CAMERON SLATER FOR A HUG?
+- I WANT TO ARRANGE THIS.
+- DEAR CAMERON SLATER, YOU ARE ENOUGH.
+- A satire by Malinna Liang
+- Melania & The Star-Spangled Ban-Non
+- Amateur Hour
+- Rhapsodising and Taxonomising
+- How to Talk About Sport
+- The Blues To Not Do Too Badly (Maybe)
+- The Year Ahead
+- The Warriors To Make The Top 8 (Maybe)
+- By Popular Demand
+- An Introduction
+“...works destined to exist in the popular culture space tend to slip under the radar of higher-level - discussion.”
+- Quarter-Life Crisis
+- Self-Examination and Public Masturbation
+- Don’t run across my lawn! My life is full of regret
+- MOONLIGHT HAD ACTUALLY WON BEST PICTURE
+- Through the smoke and past the mirrors
+- ARTS SPOTLIGHT
+- Songs to soothe our existential pain
+- The equiTy Office – Te ArA TAuTikA
+- About U
+- The Orbiting Human Circus (of the Air)
+- Mimicry
+- Revolt. She Said. Revolt Again.
+- Are You Sure?
+- Issue One Quiz
+- Easy (one point)
+- Medium (two points)
+- Hard (three points)
+- Herald’s Heroes
+- the people to blame.
+### [Issue 02 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-02-2017.pdf)
+- Catriona Britton
+- Out, out, brief candle
+- University Staff To Strike on March 13th
+- Police Investigate Burger King Assault
+- Forget Salt and Vinegar—Let’s Talk About Computer Chips
+- Foreign Investors Versus Graduate Students: The Fight For a Home
+- NEWS
+- Conservatives in Conserva-Tiff with DebSoc
+- Business School Gets $2.6 Million Investment
+- The AUESA Scandal: A Reflection
+- Is Blood Thicker Than Prejudice?
+- Fast Fashion: Quitting The Habit
+- How can I reduce my impact?
+- Vote for fair working conditions with your dollar:
+- Charity/Organisation Of The Week:
+- HELP
+- Art+Feminism Wiki Edit-a-thon
+- What’s On
+- Thelma and Louise
+- As You Like It
+- The Encounter
+- Power Plant
+- Guide To... Free Things to Do in AKL
+- Textbook Tips & Tricks
+- The Boat That Rocked a Union
+- Out of left field?
+- Amateur Hour
+- Trying to Fill the Charisma Gap
+- Recommendations
+- How to Talk About Sport
+- The Black Stats
+- By Popular Demand
+- Ode to Pokémon: Pokémon as a Product of Post-War Japanese Trauma
+- Quarter-Life Crisis
+- Risky Business
+- Running for cover: a list of lies valid excuses to get you out of any situation With Anoushka Maharaj
+- Wake Up, You Need to Make Money
+- Words By Yasmin Brown
+- “Don’t Fuck With Our Dreams” — The Smith Street Band
+- “Nobody Really Cares If You Don’t Go to the Party” — Courtney Barnett
+- “Even My Dad Does Sometimes” — Ed Sheeran
+- “I’m Not Okay (I Promise)” — My Chemical Romance
+- “Hold Me Down” — Halsey
+- “Viper Strike” — Highly Suspect
+- “Could Be Worse” — Lower Than Atlantis
+- “Alphabet Boy” — Melanie Martinez
+- “Art School Wannabe” — Sorority Noise
+- “Ode To Sleep” — twenty one pilots
+- “Free” — Broods
+- Give ‘em the ol’ razzle dazzle
+- Words By Rachel Buckman
+- Sweet/Vicious
+- Riverdale
+- Logan
+- Whareama — Moses
+- T2 Trainspotting
+- Their Finest
+- EASY SUDOKU
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- the people to blame.
+- Lighten Your Load
+### [Issue 03 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-03-2017.pdf)
+- Catriona Britton
+- Being mind-full
+- Actually—It’s Also a Woman’s Job
+- Not Just Aunty Helen With Better Hair
+- Generation Z—A Conservative Shift?
+- Prisoner Tied To Bed For 37 Nights In Paremoremo
+- NEWS
+- Domestic Violence Bill Passes First Reading
+- “Racist” Flyers Dropped In Auckland Letterboxes
+- Living The Dream: Smashed Avo In Feilding
+- Cordiality, Chris Hipkins, And Copious Bodily Harm: The DebSoc Debate
+- COMMUNITY
+- In Conversation With: Winston Peters
+SO I GUESS I’LL START WITH WHAT’S MOST REL-EVANT TO OUR READERS. WHAT POLICIES DOES NEW ZEALAND FIRST HAVE - IN PLACE TO HELP STUDENTS?
+- WHAT DO YOU THINK OF BILL ENGLISH’S DECISION TO ABOLISH THE POSITION OF HOUSING MINISTER?
+ARE THERE ANY MISCONCEPTIONS SURROUNDING YOUR PARTY THAT YOU’D LIKE TO CLEAR UP—WHAT WOULD YOU LIKE - POTENTIAL VOTERS TO KNOW ABOUT NEW ZEALAND FIRST?
+- LET’S SAY YOU BECOME PRIME MINISTER THIS ELEC-TION—WHAT’S THE FIRST ISSUE THAT YOU’D WANT TO ADDRESS?
+- WOULD YOU COMMENT ON WHAT YOU THINK OF DONALD TRUMP?
+- DO YOU HAVE ANY FINAL WORDS FOR OUR READ-ERS?
+- An Open Letter To The UNICEF Guy: Thanks For The Guilt Trip
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- Arcee Rapper’s Single Release Party
+- Beer Yoga
+- ANTARCTICA - while you were sleeping
+- Horror
+- Guide To... Autumn Fashion Trends
+- Dancing Till Dawn: Boogie Spots in Auckland
+- Fashion on Campus
+- I Carry Your Boners With Me (I Carry Them In My Heart)
+- S: WE REALLY LOVE BONERS OF THE HEART. HOW DID THE PODCAST COME ABOUT?
+- R: I MEAN, YOU’RE IN THE MILK SKETCHES, SO—
+- R: DON’T DOWNPLAY IT.
+- S: WHICH IS GREAT, FOR US. WE’RE REALLY GLAD.
+- S: “THIS IS GOING TO BE GOOD CONTENT.”
+- R: “WHY AREN’T WE RECORDING RIGHT NOW?!”
+- R: BUT YOU CAME BACK TO THE BONERS OF THE HEART FORMAT FOR SEASON THREE?
+- R & S: YEAH.
+- R: AND THEN SO YOU CAME BACK HERE—
+- R: RIGHT.
+- S: YEAH, NICE. I THINK WE’RE ALL AFTER A GOOD SLEEP IN.
+- R: HE’S PRETTY MAINSTREAM.
+- R: WOULD YOU LIKE TO TELL US THE STORY BEHIND MIKE MCROBERTS?
+- R: THIS WASN’T AFTER HE WAS RUNNING THE AUCKLAND MARATHON?
+- R: WOULD YOU LIKE TO GIVE US A WOMAN?
+- Educating minds
+- Welcome back to uni folks!
+- WE MADE IT THROUGH O WEEK!
+- Andrew’s Lifelong Labour of Love
+- Amateur Hour
+- Youth, Life and the Big Shitty
+- How to Talk About Sport
+- racetrack trying to become a horrible struggling ok
+- By Popular Demand
+- Ode to Harry Potter: How J.K. Rowling Weaponises Her Creation
+- Quarter-Life Crisis
+- I Promise I’m Not Crazy, Would You Like A Ginger Slice?
+- Bitches get stuff done
+- We are never, ever getting back together
+- Words by Yasmin Brown
+- John Tucker Must Die
+- She’s The Man
+- 13 Going on 30
+- Bridget Jones’ Diary
+- Forgetting Sarah Marshall
+- Hidden Figures
+- All Bi Myself
+- YOU GUYS HAD A MOSTLY FEMALE CAST AND CREW. THAT’S PRETTY BADASS.
+- FAVOURITE MOMENT ON SET?
+- WHAT WERE SOME OF THE DIFFICULTIES YOU ENCOUNTERED DURING THE PRODUCTION OF ALL BI MYSELF?
+- YOU PRODUCED THE SERIES FOR YOUR MASTERS OF SCREEN PRODUCTION. WHAT WAS THAT EXPE-RIENCE LIKE?
+THE SERIES’ INCORPORATION OF TECHNOLOGY IS REALLY CLEVER. WAS THIS SOMETHING YOU WANTED TO SPECIFICALLY DRAW - ATTENTION TO?
+- YOUR FIRST EPISODE IS NOW LIVE. WHAT’S THE FEED-BACK BEEN LIKE SO FAR?
+- THE SECOND EPISODE COMES OUT IN APRIL. ARE YOU PLANNING TO CONTINUE WITH THE SERIES AFTER THAT?
+- AND WHAT ARE YOUR NEXT STEPS, NOW YOUR MA IS OVER?
+- Lighten Your Load
+- A not-so-comical look at the origins of Riverdale
+- Words by Daniel Vernon
+- Third of May / Ōdaigahara
+- Horizon: Zero Dawn
+- Thank God for Jokes
+- “Bad and Boujee”
+- “Shape of You”
+- “Something Just Like This”
+- “That’s What I Like”
+- “Greenlight”
+- Kisses and Quizzes
+- We offer free support, advice and information to all students.
+- the people to blame.
+### [Issue 04 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-04-2017.pdf)
+- Catriona Britton
+- In Virginia, high school football is a way of life
+- The Family Carers Case Resurfaces
+- AULSS Seeking Sign-Ups From First-Year Law Students
+- “I Have A Dream To Be Worse Than Hitler” Says AUT European Students Association Prez
+- NEWS
+- Half of all Aucklanders blame Asian investors for housing prices
+- 1200 Teachers Strike For Fair Pay At UoA
+- Ketamine—Party Drug to Antidepressant?
+- COMMUNITY
+- An American In Auckland
+- Policy vs. The Politician
+- CHARITY/ORGANISATION OF THE WEEK
+- Lighten Your Load
+- The Rebirth of Māori Representation in Pop Culture
+“...it can be downright exhausting to see such prominent Māori entertainers lay to waste an exciting new - platform with century-old problems.”
+- Satellites, Pie-endulums, and Everything In Between
+IF THIS INTERVIEW AND THE SHOW HASN’T GIVEN IT AWAY ALREADY, YOU’RE A SCIENCE COMMUNICATOR! WHAT DO YOU FIND - TO BE THE MOST REWARDING ABOUT THIS?
+- ESPECIALLY IF PEOPLE DON’T HAVE THE TECHNICAL BACKGROUND, IT’S STILL JUST INCREDIBLE TO HEAR ABOUT.
+- HAVE YOU ALWAYS BEEN THIS INTERESTED IN SPACE SCIENCE?
+- YEAH AND I GUESS NOT MANY PEOPLE THINK THAT ART AND SCIENCE CAN BE COM-BINED LIKE THAT!
+- CAN YOU TELL US A LITTLE ABOUT THE SOLAR ORBITER PROJECT THAT YOU’VE BEEN WORKING ON?
+- IT MUST BE AMAZING TO BE A PART OF THAT!
+ON THE SUBJECT OF STARS, HAVE YOU CONSIDERED WORKING ON ANY RESEARCH RELATING TO THE NEWLY DISCOVERED - TRAPPIST-1?
+YEAH, IT’S REALLY EXCITING TO SEE WHERE THAT’S GOING TO GO—IF WE GET ALL OF THAT INFORMATION IN OUR LIFETIME - AS WELL!
+- WHAT’S BEEN YOUR FAVOURITE PROJECT TO DATE?
+- THAT DEFINITELY SOUNDS WORTH IT DESPITE THE NOCTURNAL LIFESTYLE!
+YEAH, THE UNIVERSITY OF AUCKLAND IS JUST ABOUT TO LAUNCH A PROPOSAL PRO-GRAMME FOR DESIGNING A MISSION FOR A - CUBESAT.
+- YEAH! AND ACTUALLY THE WINNING PRO-POSAL GETS TO GO ON AND BUILD IT AND LAUNCH IT!
+- rewards
+- AUSA REWARDS IS HERE!
+- FREE SOFT DRINK WITH EVERY MAIN ORDERED
+- FREE UPSIZE ON COMBO 1-12
+- 50% OFF DELIVERY
+- 40% OFF GENERAL DENTAL
+- 10% OFF DENTAL TREATMENT
+- NEW USERS RECEIVE A FIRST FREE TRIP UP TO THE VALUE OF $20
+- LIFESTYLE
+- What’s On
+- Hungry for Punk
+- Carmen with L’Arlésienne
+- Bailey Wiley x Miloux Single Release Party
+- Four Days of Fashion
+- The Raw Comedy Quest
+- Little Bird Unbakery
+- Dealing with Stress
+- Search and Destroy
+- Whangaparaoa Salvation Army
+- Helensville Hospice
+- Dominion Road Salvation Army
+- Albany Hospice
+- Are we already ghosts before we die?
+- An interview with Josh Thomson from Gary of the Pacific
+YOU’VE WORKED WITH THE DOWNLOW CONCEPT BEFORE. DID THEY JUST CALL YOU UP AND ASK IF YOU WANTED TO PLAY GARY? - OR WAS THIS DECIDED LONG BEFORE?
+- WHAT IS GARY LIKE?
+- DO YOU LOVE ANYTHING ABOUT GARY?
+- IF YOU COULD PLAY ANY OTHER CHARACTER IN THE FILM, WHO WOULD IT BE?
+- I CAN IMAGINE IT WAS A GREAT TIME ON SET.
+- DID YOU FIND YOURSELF DRIFTING FROM THE SCRIPT WHILE FILMING?
+- THERE ARE A COUPLE OF CRINGE/AWKWARD MOMENTS IN THE FILM. WHAT WAS THE MOST AWKWARD FOR YOU TO FILM?
+- ARTS REVIEWS
+- The Salesman
+- Amy Schumer: The Leather Special
+- Rostered On
+- It’s Always Sunny in Philadelphia, Season 12
+- The Body Laid Bare: Masterpieces from Tate
+- FICTION
+- RECOMMENDATION
+- NOTABLE
+- POPULAR CULTURE
+- RECOMMENDATION
+- NOTABLE
+- POLITICS
+- RECOMMENDATION
+- NOTABLE
+- DOCUMENTARY
+- RECOMMENDATION
+- NOTABLE
+- INTERVIEWS
+- RECOMMENDATION
+- NOTABLE
+- We offer free support, advice and information to all students.
+- Amateur Hour
+- Stuff You
+- How to Talk About Sport
+- Super (average) Rugby (format): An Open Letter to SANZAAR
+- By Popular Demand
+- Ode to Night Vale: How Welcome to Night Vale Combats Depression
+- Quarter-Life Crisis
+- Dirty Old Town
+- Party for 24 hours straight.
+- Hey, are you going to B’s birthday party?
+- EASY SUDOKU
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- MEDIUM (TWO POINTS)
+- HARD (THREE POINTS)
+- the people to blame.
+### [Issue 05 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-05-2017.pdf)
+- Catriona Britton
+- Water we doing?!
+- Anti-Fascism Group Forms On Campus
+- Māori Party Surge In Polls
+- Law School Gender Report Raises Concerns of Sexist Rhetoric
+- NEWS
+- Down in the Drumpfs
+- COMMUNITY
+- In Conversation With: James Shaw
+SO WHILE YOU WERE LIVING OVER IN LONDON, HOW DID YOU FIND LOCAL POLITICS IN LONDON COMPARED TO LOCAL - POLITICS HERE?
+DURING THE ELECTION, HOW DOES THE GREEN PARTY PLAN TO EXPAND ITS VOTER BASE WITH-OUT JUST POACHING VOTERS - FROM LABOUR?
+HOW WOULD YOU RESPOND TO THE PERCEPTION THAT HAVING A COALITION GOVERNMENT ISN’T AS STRONG AS A SINGLE-PARTY - GOVERNMENT?
+- DID YOU CONSIDER NOT STANDING CANDIDATES IN ANY OTHER ELECTORATES?
+DO YOU THINK THERE WOULD BE ANY CIRCUM-STANCES WHERE YOU COULD WORK WITH NA-TIONAL SO THAT THERE IS AT LEAST - SOME INPUT FROM AN ENVIRONMENTAL PARTY?
+WHERE DO YOU SEE THE FUTURE OF THE GREEN PARTY? YOU’VE MOVED AWAY FROM YOUR ACTIVIST ROOTS AS YOU’VE BECOME - MORE MAIN-STREAM—HOW DO YOU SEE THAT DEVELOPING?
+- Fighting Prejudice: It Starts With You
+- By Danielle Parshotam
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- Caravãna Sun
+- Ben & Jerry’s Free Cone Day
+- Anzac Eve
+- Weave
+- Chromacon
+- Bee Aware
+- By Grace Hood-Edwards
+- Pita Bread Pizza
+- TOP 5... Vegan Eats
+- Misters
+- 12 WYNDHAM STREET
+- Lord of the Fries
+- Il buco
+- Revive Cafe
+- Giapo
+- HOW TO MESS UP YOUR LIFE
+- DRINKING
+- TOBACCO
+- DANCING
+- FLIRTING
+- Kia ora!
+- AUSA’S Eggcellent Easter
+- This house supports raising the superannuation age to 67 by 2031
+- Affirmative
+- Negative
+- All Codes Lead to Rome
+- Liberal snowflakes are melting in the street*
+- A Potted, Truncated, Brief, and Probably Just Oversimplified and Incorrect History of Irony-on-TV
+- Lighten Your Load
+- ARTS REVIEWS
+- Peer Gynt [recycled]
+- The Weight of These Wings
+- Power Rangers
+- Dave Chappelle Netflix Comedy Specials
+- Mass Effect: Andromeda
+- The Most Banging Episodes of Buzzfeed Unsolved
+- 5. The Spirits of the Whaley House
+- 4. The Bizarre Toxic Death of Gloria Ramirez
+- 3. The Chilling Exorcism of Anneliese Michel
+- 2. The Strange Disappearance of D.B. Cooper
+- 1. The Mysterious Disappearance of the Sodder Children
+- ARTS SPOTLIGHT
+- Jackie Chan Is Not My F*cking Dad
+- Chungking Express (1994)
+- Yi Yi (2000)
+- One Million Yen Girl (2008)
+- Ten Years (2015)
+- Handmaiden (2016)
+- Wired In
+- Getting the Party Started
+- How to Talk About Sport
+- Backing the Black Craps
+- By Popular Demand
+- Ode to Portal: How Portal Counters Our Growing Algorithmic Culture
+- Quarter-Life Crisis
+- I Said Yes!
+- EASY SUDOKU
+- MEDIUM (TWO POINTS)
+- the people to blame.
+- Baileys Women’s Prize for Fiction
+### [Issue 06 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-06-2017.pdf)
+- Catriona Britton
+- What is it with chicks and horses, huh?
+- Auckland Motels Given $1.3 Million To House Homeless
+- Greens Propose “Public Interest” Journalism Fund
+- Massey Professor In The Fight Against Superbugs
+- Scott Kuggelejin Selected for Black Caps Squad After Rape Trial
+- Sex Ed In Schools Audited After Wellington College Scandal
+- “Academics Pressured To Ignore Cheating”—Survey
+- UoA Football’s Promising Pre-season
+- Sweaty Fingers and Chocolate Dildos: The MCC Debate
+- In Conversation With: RainbowYOUTH
+- CAN YOU TELL US A BIT ABOUT THE ORGANISA-TION AND WHAT YOU GUYS DO?
+2017 IS AN ELECTION YEAR. WHAT KIND OF POLI-CIES WOULD YOU LIKE TO SEE POLITICAL PARTIES PUT IN PLACE TO - SUPPORT MEMBERS OF THE RAINBOW COMMUNITY?
+- WHAT ARE SOME OF THE INITIATIVES AND SER-VICES THAT RAINBOWYOUTH PROVIDES THAT YOU ARE MOST PROUD OF?
+- WHAT ARE SOME WAYS OUR READERS CAN SUP-PORT RAINBOWYOUTH?
+- WAYS TO SUPPORT RAINBOWYOUTH
+- We Should All Be Feminists
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- Mary Poppins
+- Waiheke International Jazz Festival
+- Record Store Day
+- Safari Night
+- Vegan Food Fair
+- Making the Most Out of Uni
+- Peanut Butter Brownie Sandwiches
+- Fight the Flu!
+- Fashion on Campus
+- Gig Venues
+- The Wine Cellar
+- Studio The Venue
+- Kings Arms Tavern
+- Shadows
+- A Peak Behind the Curtain
+- Got a legal problem e.g. Tenancy or Employment?
+- This House Supports Jacinda Ardern for Labour Leader in the 2017 Election
+- Affirmative
+- Negative
+- THE PLAYBOY THAT WANTS TO SETTLE DOWN
+- Arts Editorial Damn it! I can’t find my driving moccasins anywhere!
+- I’m Sorry, We Didn’t Get Chinese Takeaway
+- BEFORE WE START, DID SOMEONE ACTUALLY SAY “I’M SORRY, WE DIDN’T GET CHINESE TAKEAWAY” TO YOU AT A SHOW?
+- WERE YOU INVOLVED WITH THE INDEPENDENT MUSIC SCENE ALREADY BEFORE BEING SENT TO NEW ZEALAND?
+- WHAT WERE YOUR FIRST THOUGHTS LANDING IN AUCKLAND? WAS IT COMPLETELY DIFFERENT TO MALAYSIA?
+- TELL ME A BIT ABOUT YOUR BACKGROUND.
+- WHAT WAS THE FIRST GIG YOU WENT TO? DID IT FEEL DIFFERENT GOING TO ONE IN A FOREIGN PLACE?
+- SO DID IT BECOME A MORE INCLUSIVE SPACE FOR PEOPLE OF COLOUR OVER TIME?
+I’VE ALWAYS FOUND THAT THE CROWD THAT GO TO GIGS LOVE TO OBJECTIFY ASIAN CULTURE. WERE THERE INSTANCES WHERE - YOU’VE FELT THAT WAY TOO?
+- SO YOU’VE BEEN AROUND FOR A WHILE IN THE MUSIC SCENE, WHAT CAN YOU CONCLUDE FROM IT?
+- Lighten Your Load
+- Adele Live
+- Beauty and the Beast
+- Life
+- Legion
+- Rick and Morty: Season Three, Episode One
+- Missing Richard Simmons
+- Turn up the volume!
+- CAN YOU GIVE A BRIEF DESCRIPTION ABOUT WHAT THE VOLUME EXHIBITION SHOWCASES?
+- WHAT’S SO IMPORTANT ABOUT HAVING THIS KIND OF EXHIBITION?
+- WHAT HAS YOUR ROLE BEEN WITH CREATING THE EXHIBITION AND WHAT HAS IT ENTAILED?
+- HOW LONG WAS THE PROCESS OF CREATING THIS EXHIBITION FROM INITIAL IDEA TO THE END PRODUCT?
+- WHAT DO YOU THINK WAS THE MOST CHALLENG-ING PART OF THE PROCESS?
+- WHAT WAS THE REACTION FROM NEW ZEALAND MUSICIANS YOU APPROACHED? WERE THEY COOPERATIVE?
+- DO YOU KNOW IF ANY MUSICIANS HAVE DO-NATED THEIR OBJECTS PERMANENTLY TO THE MUSEUM?
+- HOW IMPORTANT HAS THE ELEMENT OF AU-DIENCE-OBJECT INTERACTION BEEN IN THIS EXHIBITION?
+- THIS IS A PRETTY LOADED QUESTION, BUT WHAT SETS NEW ZEALAND MUSIC APART FROM THE REST OF THE WORLD?
+WHAT ERA OF NEW ZEALAND MUSIC DO YOU CONSIDER THE MOST INFLUENTIAL IN SHAPING WHO WE ARE TODAY, BOTH - CULTURALLY AND MUSICALLY?
+- WHAT IS YOUR HOPE FOR CONTINUING TO SHOW-CASE OUR MUSIC HISTORY ONCE THIS EXHIBITION HAS ENDED?
+- WHAT NOT TO DO IN A CAFE
+- BY ALANA MISSELBROOK
+- FIONA’S FEATURES
+- Taiwanese and New Zealand Students Association
+- Education and Social Work Students Association
+- University of Auckland Glee Club
+- WHAT’S GOING ON AT AUSA?
+- We need a new Administrative Vice President!
+- AUSA’s Eggcelent Easter!
+- Are you a budding writer?
+- Contribute to Queer Craccum!
+- Do you want to be a part of Kate Magazine?
+- AUSA REWARD SPOTLIGHT
+- 50% off at Player’s Paradise
+- Wired In
+- How to Talk About Sport
+- 1 Actual typo on the Super Rugby website.
+- 3 Because a waratah is a flower, geddit?
+- Amateur Hour
+- Quarter-Life Crisis
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- the people to blame.
+- We have moved! (Downstairs)*
+### [Issue 07 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-07-2017.pdf)
+- SHAPE YOUR CAREER SHAPE OUR CITY
+- Catriona Britton
+- Channels of Change
+- NZ News Junkies More Likely To Be Islamophobic—Study
+- “Tertiary Education A Financial Struggle For Many”— NZUSA Report
+- Pharmac Refuses To Subsidise Tampons and Pads
+- UOA Charging $570 For Med School’s Email Access
+- World Politics Wrap Up
+- So, who votes for these guys anyway?
+- National: Old, rich and white?
+- Labour: Godless feminists? The working class?
+- NZ First: Old, white and racist?
+- Green: The party of poor students?
+- Public or Private: What Should Parents Choose?
+- “So bad, even introverts are here”—Science Marches Held Around The World
+- Thanks, but no thanks!
+- Introducing: Robogals
+- CHARITY/ORGANISATION OF THE WEEK
+- Upcoming Community Events
+- What’s On
+- Devising Group
+- NZ International Comedy Festival 2017
+- Dance-O-Mat
+- Down to Clown
+- Surviving Winter
+- How to Make Choice Cheese Rolls
+- Method
+- VITALI-TEA
+- Jason’s Books
+- 16 O’CONNELL ST
+- Hard to Find Books
+- Dominion Books
+- UNDER COVER: UNCOVERING THE NZSAS
+- Helping you look after
+- SLASH AND BERM
+- PREVENTING BERMICIDE
+- Cheap Laughs
+- BEST UNDER $15
+- Melanie Bracewell
+- James Roque
+- BEST UNDER $20
+- Angella Dravid
+- Scott W Long
+- TELL ME ABOUT YOUR SHOW.
+- WHY DID YOU START DOING STAND-UP?
+- DID YOUR FIRST GIG GO WELL?
+- BEST UNDER $25
+- The Fan Brigade
+- Rhys Mathewson
+- HOW DID YOU GET YOUR START IN COMEDY?
+- WHY IS YOUR SHOW CALLED RHYS CLASSIC?
+- WHAT’S RHYS CLASSIC ABOUT?
+- IS IT GOING TO BE POLITICAL?
+- THAT'S WHAT JIMI JACKSON IS.
+- YOU WON THE FRED AWARD LAST YEAR; ARE YOU HOPING FOR A REPEAT?
+- HOW WAS YOUR EXPERIENCE AT THE UNIVERSITY OF AUCKLAND?
+- YOU'VE SPENT TIME OVERSEAS. DO YOU THINK YOU'LL STAY IN NEW ZEALAND NOW?
+- HOW LONG DO YOU THINK IT WILL TAKE NEW ZEALAND TO GET TO THAT LEVEL?
+- INTERNATIONAL ACTS
+- I would give my life for Baby Groot: A note to the galactic empire that will inevitably detain me in future
+- Drowned in Moonlight, Strangled By My Own Bra: A Belated Love Letter to Carrie Fisher
+- She gave us the gift of Gary Fisher
+- Emotional Creature: The Secret Life of Girls around the World
+- The Fate of the Furious
+- Doctor Who: Series 10, Episode 1
+- Suck
+- A Longform Review: Colossal
+- Pride Week!
+- Do You Need Urgent Dental Care?
+- Wired In
+- By Popular Demand
+- Ode to Hamilton Part I: How to Build Ideas Through Music
+- Amateur Hour
+- A Man Says a Thing About Feminism
+- Quarter-Life Crisis
+- Gone Girl
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- the people to blame.
+- International students don’t forget your spectacle allowance!
+### [Issue 08 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-08-2017.pdf)
+- WORLD ON SALE
+- Guest Editorial
+- AUT Introduces All–Gender Toilets
+- Winston Said Something Racist Again, Take A Shot
+- Budget Cuts Crippling Youth Mental Health Support
+- Waikato Uni Slashing Humanities Staff
+- So What The Fuck Is Really Going On? Trump’s Syrian Foray
+- Rainbow Bridge
+- Rainbow Resources On Campus
+- FURTHER INFORMATION
+- CHARITY/ORGANISATION OF THE WEEK
+- Upcoming Community Events
+- What’s On
+- West Side Story
+- Urzila Carlson
+- The Comedy of Errors
+- The Body Laid Bare
+- Being LGBTQ+ at Auckland Uni
+- How to Make a Rad Rainbow Cake
+- Method
+- The Literal Closet
+- Proud Purchases
+- Family Bar
+- The Eagle Bar
+- Caluzzi Bar and Cabaret
+- Twist Club
+- Encore Entertainment
+- HOT LESBIANS IN ADS ARE SLOWLY KILLING US
+- FOR (STRAIGHT) WOMEN: “HOT LESBIANS” ARE JUST A FASHION
+- HEY, MEDIA! STOP IT! THAT’S ENOUGH!
+- THE UNSEEN TEENAGERS
+- SILENCE MAY NOT BE GOLDEN
+- EQUITY OFFICE – TE ARA TAUTIKA
+- Restricting the Rainbow
+- If I want to be Senator by the time I’m 30, I’ve got to stop dicking around!
+- The Rise of LGBTQ+ Issues in Mainstream Music
+- Heart Basel
+- HUMANZ
+- Personal Shopper
+- Persona 5
+- Pride Week Film Recommendations
+- The Way He Looks
+- Imagine Me and You
+- The Handmaiden
+- Big Eden
+- Wired In
+- On an Island in the Sun
+- By Popular Demand
+- Ode to X-Men: HowX-Men Portrays Social Change
+- Amateur Hour
+- Anxiety Type 2: Geo-Political (etc.)
+- Anxiety Type 3: Global
+- How to Talk About Sport
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- MEDIUM (TWO POINTS)
+- HARD (THREE POINTS)
+- Herald’s Heroes
+- Baby’s bottom sudoku
+- the people to blame.
+- Mum hard to impress?
+### [Issue 09 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-09-2017.pdf)
+- Catriona Britton
+- The Name’s Hole, Ass Hole
+- _ win a pair of _ SNAPCHAT SPECTACLES
+- NEWS
+- World Politics Wrap
+- AUSTRALIA
+- UNITED KINGDOM
+- SOUTH KOREA
+- FRANCE
+- Government Purchases Four Submarine-Killer Planes
+- Tinder: Helping UoA Students Cope With Loneliness?
+- On Santa, Penguins, Global Warming, Russian Submarines, Donald Trump and... You
+- UoA Football: The Mid-Season Roundup
+- New Zealanders Take a Stand Against Homelessness
+- Student Advocacy Network 2017
+- Seek, Receive and Impart: The State of Free Speech in New Zealand
+- Finding Sanctuary With Animals
+- What’s On
+- Ha the Unclear
+- Jordan Luck Band
+- Poparazzi Quiz
+- 2017 Official Music Month Summit
+- 90’s Club Night
+- Having a Successful Night Out
+- The Best Crumble Ever
+- Alcoholly
+- Seasonal Sweet-things
+- Fashion on Campus
+- Te Henga Walkway
+- Mercer Bay Track
+- Mt Tamahunga
+- Wairoa Loop Track
+- Tiri Tiri Track
+- DONALD TRUMP ALWAYS STARTS FIVE SENTENCES AT ONCE (And Other Wisdoms For The Aspiring Writer)
+- THE POLITICS OF LOVE
+- Do You Need Urgent Dental Care?
+- A GUIDE TO THE AUCKLAND WRITERS FESTIVAL
+- Not All White People *
+- Bondage: A Tricky Dilemma
+- Tom Hardy
+- Charlie Hunnam
+- Tom Hiddleston
+- Idris Elba
+- James McAvoy
+- Morningside
+- In Transit
+- Dislawderly
+- Everybody
+- Othello
+- ANZAC Day Tree Planting Event
+- Social Innovation New Zealand
+- FIONA’S FEATURES
+- Sustainability Network
+- UoA Buskers Festival
+- Quarter-Life Crisis
+- By Popular Demand
+- 13 Reasons Why: The Ethics of Suicide Media
+- Amateur Hour
+- Penal Dysfunction
+- How to Talk About Sport
+- DON’T TAKE DRUGS, KIDS, OR YOU’LL NEVER PLAY FOR THE KIWIS; but if you want to beat a guy up then go for gold
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- the people to blame.
+- Click, click, click, type, type, click and collect
+### [Issue 10 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-10-2017.pdf)
+- Top Countries For Migrant Workers Caucasian— NZ Herald Data
+- Otago Uni Student Convicted Of Underage Sex Offence
+- Bill English: The Man Ran-Walked Away With My Heart
+- Minister Shuts Down Call For Mental Health Review
+- New Policies, New Look—New Labour?
+- World News Wrap
+- Back Up In The Air
+- COMMUNITY
+- Winston Peters’ policies are racist; so why are politicians so afraid to say it?
+- By Ginny W
+- Rebecca Hallas looks at our lacklustre approach to gender and sexuality in NZ schools
+- ABOUT BIRDS & BEES
+- THEY WANT YOU!
+- LIFESTYLE
+- What’s On
+- Like Sex
+- The Stolen Flowers of Auckland
+- Stir Fried IX
+- Tiki Taane Mahuta
+- An Ode to the Turtleneck
+- By Olivia Chrisp
+- Misters
+- 12 WYNDHAM ST
+- By Nikki Addison
+- A Simple Veggie Stir-Fry
+- Method
+- Sal Valentine and the Babyshakes
+- Raiza Biza
+- The Gramophone Band
+- The Miltones
+- David Dallas
+- YELLOW PERIL, YELLOW FEVER
+- Avoiding the Glitterati
+- The Kids Aren’t Alright: An Interview With the Director of Like Sex
+- CAN YOU TELL US ABOUT THE PLAY?
+- IT’S EPISODIC. WHAT EXACTLY DOES THAT MEAN?
+- CAN YOU TALK ABOUT WHY A SHOW ABOUT SEX AND SEXUAL POLITICS IS NECESSARY IN TODAY’S TIMES?
+SO THIS IS A PLAY BASED AROUND HIGH SCHOOL-ERS, AND TEENAGE PERCEPTIONS OF SEX. WILL IT RESONATE WITH - STUDENT AUDIENCES?
+- HOW DID YOU GET INVOLVED IN LIKE SEX?
+- SO AM I RIGHT IN SAYING THIS IS YOUR DIRECTO-RIAL DEBUT? WHAT IS THAT LIKE?
+- WHERE DO YOU HOPE TO GO FROM HERE?
+- WHAT’S IMPORTANT TO YOU AS A DIRECTOR? WHAT STORIES DO YOU WANT TO TELL?
+YOU’RE THE FOUNDER OF PROUDLY ASIAN THEATRE. WHAT IS THAT, AND WHY DID YOU CREATE IT? WHAT DOES IT DO, AND - WHY IS IT IMPORTANT?
+- SO EXPOSED THEATRE IS ALL ABOUT OFFERING OPPORTUNITIES TO NEW GRADUATES. WHAT IS THE CAST LIKE?
+- AND FINALLY, WHY SHOULD WE COME SEE LIKE SEX?
+- USE PROMO CODE “SEXCODE” FOR A DISCOUNT ON TICKETS. ONLY 50 AVAILABLE.
+- Get Out
+- Common Kings
+- Master of None
+- Comedy Fest 2017
+- Powerplant
+- Harry Styles
+- Fanfare: Art and Inclusion in Welcome to Night Vale
+- Pride Week
+- Quarter-Life Crisis
+- Time After Time
+- By Popular Demand
+- Ode to Hamilton Part II: Why Hamilton Wouldn’t Exist Without Hip-Hop
+- Wired In
+- Stop in the Name of Love
+- How to Talk About Sport
+- Here’s How Bernie Can Still Win The Presidency!
+- Baby’s bottom sudoku
+- MEDIUM (TWO POINTS)
+- HARD (THREE POINTS)
+- the people to blame.
+- Do You Need Urgent Dental Care?
+### [Issue 11 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-11-2017.pdf)
+- The F-Word
+- Auckland Business School Shut Down For Plagiarism
+- “The Final Back-Up” Global Seed Vault Under Threat From Climate Change
+- More Than Half Of All Students Broke—Survey
+- Unpaid Work Trials: Screwing Workers Over?
+- “HACKERMAN!”—The Future of Cyberwarfare?
+- The Week in Trump
+- Amateur Historian Potentially Stole Māori Remains To Make False Claims
+- Introducing: Shakti Youth
+- WHO ARE SHAKTI YOUTH? CAN YOU TELL US WHAT KIND OF ISSUES SHAKTI YOUTH FOCUSES ON?
+- HOW DID THE YOUTH UNIT START?
+- WHY ONLY CERTAIN ETHNIC GROUPS? ARE WHITE PEOPLE ALLOWED TO JOIN?
+- WHAT IS SHAKTI YOUTH’S STANCE ON TINO RAN-GATIRATANGA?
+- YOU MENTIONED BEFORE THAT SHAKTI YOUTH WILL BE HAVING A MARCH. WHAT IS THIS ABOUT? AND WHY IS IT HAPPENING?
+I SAW THAT SHAKTI’S WELLINGTON REFUGE WAS RECENTLY FEATURED IN THE NEWS. CAN YOU TELL US A BIT MORE ABOUT - THAT?
+WHY DO WE NEED ORGANISATIONS LIKE SHAKTI YOUTH IN THE COMMUNITY? DURING THE INTERVIEW, SHAKTI YOUTH MEMBERS - DISCUSSED PERSONAL EXPERIENCES TO ANSWER THIS QUESTION.
+- What’s On
+- $5 Mystery Box Milkshakes
+- Sal & the Babyshakes EP Release
+- The Faustus Project
+- Doc Edge Film Festival
+- Jyoti Morningstar
+- WHAT INSPIRED YOU TO CREATE WE-AR?
+- CAN YOU EXPLAIN WHAT AN “ETHICAL” CLOTHING BRAND IS?
+- YOU PRODUCE THE CLOTHING IN BALI. HOW DOES THIS LOCATION CONNECT TO WE-AR’S VALUES?
+YOU DESCRIBE WE-AR AS BEING “BORN FROM A YOGIC PHILOSOPHY”. CAN YOU DESCRIBE THIS PHI-LOSOPHY? WHY IS YOGA - SO IMPORTANT TO YOU AND YOUR BRAND?
+WE-AR IS ONE OF THE PIONEERING BRANDS OF NEW ZEALAND’S GROWING SUSTAINABLE FASHION INDUS-TRY. HOW DO YOU - FEEL ABOUT OUR SUSTAINABLE FASHION INDUSTRY TODAY?
+DO YOU HAVE ANY ADVICE FOR PEOPLE PASSIONATE ABOUT ETHICAL SHOPPING AND SUSTAINABILITY IN GENERAL, AS - OP-POSED TO FASHION SPECIFICALLY?
+- YOU’VE JUST LAUNCHED A NEW AUTUMN/WINTER COLLECTION, “RHYME”. WHAT WAS THE GOAL BEHIND THIS LINE?
+- DO YOU HAVE A FAVOURITE PIECE FROM THE COL-LECTION?
+- ALCOHOLLY
+- By Grace Hood-Edwards
+- Top 5...
+- Moustache
+- Al’s Deli
+- Little Bird Unbakery
+- Cereal Killa
+- Grill & Shakes
+- PUSSY GRABS BACK
+- MY DATE WITH DAVID SEYMOUR
+- AN ACTOR’S WORST NIGHTMARE
+- WHAT INSPIRED YOU TO ATTEMPT THIS PLAY, OR THIS EXPERIMENT?
+- WHO ARE SOME OF THE PEOPLE YOU’RE GETTING TO PLAY FAUSTUS? WHY THEM? HOW MANY DIFFERENT FAUSTUS’?
+- ARE YOU NERVOUS ABOUT THE RUN?
+- EXCITED IN A NERVOUS WAY. BUT YOU HAVE NO IDEA WHAT’S GOING TO HAPPEN THOUGH?
+- YOU’RE RUNNING IT AT THE BASEMENT. WHAT IS THAT LIKE AS A THEATRE SPACE?
+- INTERVIEW
+- DO YOU HAVE AN AESTHETIC FOR THE PLAY?
+- WHAT DO YOU THINK OF MARLOWE? DOES HE MEASURE UP TO SHAKESPEARE?
+THE ORIGINAL FAUSTUS MAKES A DEAL WITH THE DEVIL FOR UNLIMITED MONEY, POWER, WOMEN AND GLORY. CAN YOU - EXPLAIN A BIT OF THAT?
+- DO YOU RELATE IN ANY WAY?
+- WHY SHOULD AUDIENCES COME SEE THE FAUS-TUS PROJECT?
+THE FAUSTUS PROJECT RUNS FROM 30TH MAY–3RD JUNE AT THE BASEMENT THEATRE. BOOK $18 & $20, OR $15 CHEAP - WEDNESDAY TICKETS ONLINE.
+- We still have a lot to look forward to—like The Bachelorette NZ
+- With Anoushka Maharaj
+- Casey: The guy who is obviously just there to promote his band
+- Rob: the slightly racist one who only ever makes backhanded compliments
+- Jesse (aka “Big Jezza”): the dudebro who is probably only there for the free food and alcohol
+- Xander: The burgeoning serial killer (because there’s always one)
+- Jeff Jr.: The farmer’s son who is incredibly dull but at least he’s not a murderer
+- Logan: The fuckboy who thinks poor people brought poverty upon themselves
+- David Seymour’s Top Five Essential House Party Bangers
+- By Mark Fullerton
+- Track One: “My House”—Kids of 88
+- Track Two: “Taxman”—The Beatles
+- Track Three: “The Trees”—Rush
+- Track Four: “Vote For ACT”—The Eversons
+- Track Five: “She Will Be Loved”—Maroon 5, Songs About Jane (2002)
+- Ryan Adams
+- The Total ME-tox: How to Ditch Your Diet, Move Your Body, & Love
+- Roadkill
+- “Strip That Down”
+- Amadeus
+- Auckland Writers Festival 2017
+- ARTS INTERVIEW
+- An Interview with Mermaidens
+- SO WHERE DOES THE BAND DRAW ITS INFLUENC-ES FROM?
+- AT THE END OF MARCH THIS YEAR YOU RELEASED THE NEW SINGLE “LIZARD”. WHAT’S THE MEAN-ING BEHIND THIS SONG?
+- IS THERE AN UPCOMING ALBUM? CAN YOU TELL US A BIT MORE ABOUT IT?
+I SEE THAT THE BAND HAS BEEN PLAYING QUITE FREQUENTLY IN AUCKLAND OVER THE YEARS. HOW DOES THE WELLINGTON - MUSIC SCENE DIFFER TO HERE?
+SO I UNDERSTAND ALL OF THIS IS PART OF MER-MAIDEN’S SATSUMA TOUR. “SATSUMA” IS THE JAPANESE WORD FOR A TYPE - OF CITRUS FRUIT, SO HOW DID ALL OF YOU COME TO THIS NAME?
+FINISHING OFF, WHAT ARE SOME SONGS MER-MAIDENS HAVE BEEN LISTENING TO LATELY AND WOULD RECOMMEND TO ALL OF - US?
+YOU CAN BUY TICKETS TO SEE MERMAIDENS LIVE AT THE BORDERLINE FESTIVAL OR AT THEIR OWN SHOW THROUGH - UNDERTHERADAR ONLINE.
+- BACKBENCHES
+- AUSA POLITICS WEEK CARNIVAL
+- BROKE STUDENTS’ BRUNCH
+- THE GREAT ANNUAL DEBATE: THE MILLENNIALS EDITION
+- Friday at 7pm
+- WHAT?
+- WHEN?
+- WHY?
+- The Opportunities Party as Bel.
+- United Future as Monique. Who?
+- Quarter-Life Crisis
+- Sock It To Me
+- Invest in some socks.
+- Amateur Hour
+- Epilogue
+- Recommendations:
+- Wired In
+- Sign of the Times
+- How to Talk About Sport
+- The Lions are coming! The Lions are coming!
+- HORROR IN HAMILTON: MCKENZIE OUT
+- COMETH THE MAN, COMETH THE HOUR
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- MEDIUM (TWO POINTS)
+- HARD (THREE POINTS)
+- the people to blame.
+- It’s winter. Must be time to curl up with a cuppa and a good book!
+### [Issue 12 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-12-2017.pdf)
+- NEWS
+- Students Occupy ClockTower To Protest Fossil Fuels Investment
+- Tenants Should Foot Up For Landlord’s Insurance: New Bill
+- New Zealand (Finally) Joins The Space Race
+- Internet Party To Stand In 2017 Election
+- More Evidence for Urgent Mental Health Services Review
+- What Does The Budget Mean For Students?
+- Local Man Yells At Moon, Adamant That “Being White In Labour Party Tough”
+- New Zealand.
+- Sports—Yay!
+- Tikanga Māori: Missing from immigration debate
+- Pay Equity: More Than Just Equal Pay
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- Wolfmother
+- Mind Games Festival
+- Matariki Dawn
+- Beers Without Borders
+- Auckland Festival of Photography
+- Eco Living
+- 15- Minute Bean and Chorizo Mingle
+- ALCOHOLLY
+- Kitekite Falls
+- Karekare Falls
+- Oakley Creek Falls
+- Vivian Falls
+- Hunua Falls
+- CAUSING A FLAP
+- 360° Auckland Abroad Add the world to your degree
+- MONEY TALKS
+- THE FUTURE IS FEMINIST
+- Nine-Nine!
+- With Anoushka Maharaj
+- Ladies and gentlemen, we have ourselves a homicide
+- By Samantha Gianotti
+- Twin Peaks
+- Pirates of the Caribbean: Dead Men Tell No Tales
+- Sampha
+- Stir Fried IX
+- Teenage Emotions
+- The sound of silence
+- Quarter-Life Crisis
+- Unplugged
+- Love Actually.
+- Go off the grid.
+- Amateur Hour
+- Farcebook Part II: Me, Myself, And You
+- Wired In
+- (Don’t Want) No Scrubs
+- By Popular Demand
+- Ode to Hamilton Part III: How Hamilton Breaks Its Own Rules
+- Kisses and Quizzes
+- Baby’s bottom sudoku
+- EASY (ONE POINT)
+- MEDIUM (TWO POINTS)
+- the people to blame.
+- AUCKLANDUNIVERSITYSTUDENTS’ASSOCIATIONandTHEUNIVERSITYOFAUCKLANDpresent...
+- Get exam ready at UBS!
+### [Issue 13 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-13-2017.pdf)
+- Square
+- Oval
+- Round
+- Triangle
+- Heart
+- EDITORIAL
+- Cracc a Cold One
+- Kate Edger and HSB Courtyard Getting Serious Foodie Upgrades
+- AUSA Pays To Stay
+- MORE NON-RELIGIOUS IN NEW ZEALAND THAN AUSTRALIA
+- Migration Crackdown Could Lead To Economic Slump: Study
+- Beyond The America’s Cup: The Sport You Missed Over The Break
+- Inside Chechnya—A Human Rights Wasteland
+- 360° Auckland Abroad Add the world to your degree
+- COMMUNITY
+- What is Emotional Abuse?
+YEAH TOTALLY. ARE THERE ANY COMMON RED FLAGS YOU’VE NOTICED THAT COME UP WHICH PEOPLE TYPICALLY DON’T - RECOGNISE AS BEING ABUSIVE?
+- I ALSO WANTED TO ASK ABOUT YOUR EXPERI-
+ENCE GOING THROUGH THE LIVE THE DREAM PROGRAMME (LIVETHEDREAM.ORG.NZ) AND MAYBE HOW THAT GAVE YOU THE TOOLS - TO START PREPAIR NZ?
+- DO YOU OFTEN FIND WHEN YOU WORK WITH THESE GIRLS THAT THEIR SELF-ESTEEM IS LOW?
+- WHEN YOU SPEAK AT FESTIVAL FOR THE FUTURE, WHAT ARE YOU HOPING PEOPLE LEAVE YOUR TALK WITH?
+- DO YOU HAVE ANY GENERAL TIPS OR DAY-TO-DAY THINGS THAT OUR READERS CAN DO TO LOVE THEM-SELVES A BIT MORE?
+- Zinefest!
+- LIFESTYLE
+- What's On
+- Wildlife Photographer of the Year
+- World Press Photo Exhibition
+- NZ International Film Festival
+- Auckland Food Show
+- Galaxy Bear
+- Zinefest
+- Mastering Hump Day: Wednesdays Espresso Bar
+- Easiest, Ultimate White Bread
+- Top 5...
+- Local Parks Cornwall Park
+- Auckland Domain
+- Western Springs
+- Albert Park
+- Dove-Myer Robinson Park
+- FEAT DRAX PROJECT
+- FEATUREISSUE 3, 1937
+- ISSUE 10, 1957
+- ISSUE 1, 1977
+- ISSUE 1, 1997
+- Starting a new chapter?
+- An animated super-pig changed my life
+- 1 By pretentious and arguably short-sighted articles like
+- An Interview with .hans.
+- HEY HANJU, TELL ME ABOUT YOURSELF AND HOW YOU GOT STARTED?
+- HAVE YOU BEEN INTO RAP FOR A WHILE NOW? WHO ARE YOUR INFLUENCES?
+YOU MENTIONED YOU GREW UP ON THE NORTH SHORE. I KNOW IT’S A PLACE WITH LOTS OF EAST ASIAN INFLUENCES. IS - THIS SOMETHING THAT INSPIRES YOU AS AN ARTIST?
+- WHAT ARE YOUR THOUGHTS ON TRENDING EAST ASIAN RAPPERS?
+A LOT OF EAST ASIAN HIP-HOP ARTISTS HAVE BEEN ACCUSED OF APPROPRIATING BLACK CUL-TURE. HOW DO YOU FEEL ABOUT - THIS?
+YOU TALKED ABOUT REPRESENTING EAST ASIAN CULTURE EARLIER ON. SO HOW DOES YOUR IDENTITY AND BACKGROUND PLAY A - ROLE IN YOUR MUSIC?
+- WHERE DID YOU LEARN MUSIC PRODUCTION? WAS IT SELF-TAUGHT?
+AS A PERSON OF COLOUR, WHAT ARE YOUR THOUGHTS TOWARDS REPRESENTATION IN THE NEW ZEALAND MUSIC INDUSTRY? HAS - IT BEEN DIFFICULT FOR YOUR MUSIC TO BE RECOGNISED?
+- WHAT ARE SOME SONGS YOU’VE BEEN LISTENING TO LATELY THAT YOU CAN RECOMMEND TO US?
+- The Miltones
+- “Pine and Clover”
+- Friends From College
+- “Stay on the Grind”: An Interview with Strangely Arousing
+- SO YOU WEREN’T HUNGOVER?
+- WHAT SORT OF INFLUENCES WENT INTO THIS? DID YOU HAVE DIFFERENT THINGS THAT INSPIRED YOU?
+- WOW. HOW DID YOU GET THROUGH THAT? WAS THERE ANY DRAMA?
+- AUSA
+- NOTICES
+- NOTICE IS HEREBY GIVEN OF AN AUSA SPECIAL GENERAL MEETING
+- US LEADERSHIP TOUR 2018
+- Introducing AUSA Online Referenda
+- WHAT IS AUSA ONLINE REFERENDA?
+- WHY DOES AUSA ONLINE REFERENDA MATTER?
+- HOW WILL I KNOW THE PROS AND CONS FOR EACH REFERENDA QUESTION?
+- KEY DATES
+- Quarter-Life Crisis
+- Cracc City Bitch Cracc Cracc City Bitch
+- Do something you will tell your children about one day.
+- To my children, on what Craccum taught me:
+- Amateur Hour
+- Craccstotelian Virtue Theory
+- How to Talk About Sport
+- THE TRY-IONS
+- On this tour safeguarding the future of the Lions:
+- On the draw:
+- On Beauden kicking instead of Jordie, even though Jordie kicks instead of Beauden for the Hurricanes:
+- YAY-MERICA’S CUP
+- CHAMPIONS (OF TRYING THEIR BEST) TROPHY
+- NBA FINAL-LY THAT SHIT FINISHED.
+- By Popular Demand
+- Ode to Community: The Show That Endured the Harshness of Television
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- HARD (THREE POINTS)
+- Herald’s Heroes
+- the people to blame.
+- New name. Same DNA.
+### [Issue 14 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-14-2017.pdf)
+- Catriona Britton
+- AUS-EH?
+- The Barclay Scandal: Everything You Need To Know
+- Greens Publish New Welfare Policies
+- AUSA In Women’s Rights Officers Voting Debacle
+- Billboards Up, Boots On
+- Synthetic Cannabis Epidemic Gripping Auckland
+- Sausage Rolls, Lamingtons and an 11 Grand Book: Get Ed-ucated
+- New Survey Blames Suicide Rates On Poverty
+- Citizenship, Shitizenship
+- Introducing: Your New Innovation Hub
+- NOTICES
+- US LEADERSHIP TOUR 2018
+- ASEAN Night 2017
+- Student Services Online (SSO) is changing!!!!
+- AUSA Online Referenda
+- KEY DATES
+- #IAmMetiria
+- An opinion by Rebecca Hallas
+- A lonely, poor student in a capitalist, therein fairly evil world
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- Being Chinese in Aotearoa
+- One Night of Queen
+- Looking at Stuff in Clouds
+- Famous Movie Foods Night
+- Spring Style
+- The Best Water Ever
+- Food Makes Us Happy
+- Top 5... City Fringe Cafés
+- Kokako
+- Cali
+- Rad
+- Spilt Milk
+- Rosie
+- SEEING THE SOUNDSCAPE
+- Lighten Your Load
+- Political Murder?
+- THE RUSSIAN INCIDENT: A PLAY IN THREE PARTS
+- I think I love my hometown
+- With Anoushka Maharaj
+- Welcome to the O.C., bitch
+- By Nikki Addison
+- 1. The Seth Cohen:
+- Baby Driver
+- Lust For Life
+- Mura Masa
+- Out In The Storm
+- Patti Cake$
+- Looking at Stuff in Clouds
+- The Return Of Sex, Drugs And Electoral Rolls
+- Terrorise Your Elected Representative
+- Amateur Hour
+- Student Weirdness
+- How to Talk About Sport
+- We Made The Rules Of The America’s Cup, So You Don’t Have To!
+- By Popular Demand
+- Ode to Emojis Part I: Fun Little Pictures, Phenomenology, and You
+- Baby’s bottom sudoku
+- the people to blame.
+- TUESDAY
+- INTRODUCTORY PRICES!
+### [Issue 15 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-15-2017.pdf)
+- Catriona Britton
+- Valar morgulis
+- Womb! There It Is
+- Cracks Forming In The Greens-Labour Consensus
+- Where’s Alina? A Defence of New Zealand
+- Who Run The World: Girls
+- National Government Admits Incompetence, Surprises Nobody
+- NEWS
+- Understanding Privatised Healthcare
+- Government Comes Under Fire for Visa Issues
+- All Rise, Queen Jacinda
+- Boris Johnson Visits NZ: Another Brit Fleeing Brexit
+- The War Machine on Campus
+- By Auckland Peace Action
+- Weapons Investment
+- Weapons Research
+- New Zealand & the Global Arms Trade
+- Why Should I Bother Voting For A Third Party?
+- By Rebecca Hallas
+- Why should I bother voting for a third party? They won’t win anyway!
+- CHARITY/ORGANISATION OF THE WEEK
+- Vote Equal Pay 2017!
+- Refugees Welcome!
+- What’s On
+- Kanohi Ki Te Kanohi: Poetry
+- The Experiment 2017
+- The Effect
+- Auckland Tertiary Policy Conference
+- “Rhapsody in Blue”
+- Essential Apps for Every Student
+- OneNote/Evernote
+- Apple/Android/Windows | Free
+- Sleep Cycle Alarm Clock
+- Apple/Android | Free
+- Office Lens
+- Apple/Android/Windows | Free
+- Dropbox/Box
+- Apple/Android/Windows | Free
+- Wunderlist
+- Apple/Android/Windows | Free
+- Bestie, Saint Kevins Arcade
+- Homemade Tortilla Chips
+- Top 5... Local Mexican Eateries
+- Mexico
+- Mexican Café
+- Frida Cocina
+- Dos Amigos
+- Little Mexico
+- A LAMENT FOR THE GREEN PARTY
+- Party Organisation
+- Old Policies—The Good, The Bad, and The Nonsensical
+- The Silent Struggle
+- He Tohu: A Declaration, A Treaty, A Petition
+- RUN FOR THE 2018 AUSA EXECUTIVE
+- A concept: hot boys talking politics
+- With Anoushka Maharaj
+- Classic reads for your winter needs
+- The Catcher in the Rye by J.D. Salinger
+- The Beautiful and the Damned by F. Scott Fitzgerald
+- Milk and Honey by Rupi Kaur
+- South of the Border, West of the Sun by Haruki Murakami
+- To The Bone
+- The Love Witch
+- The Beguiled
+- A Ghost Story
+- Spiderman: Homecoming
+- The Best Albums of 2017 (So Far)
+- HELEN’S PICKS
+- Jay Som – Everybody Works
+- Japanese Breakfast – Soft Sounds From Another Planet
+- CHRIS’S PICKS
+- Lorde – Melodrama
+- AUSA
+- US LEADERSHIP TOUR 2018
+- Womensfest 2017
+- Amateur Hour
+- An Inappropriate Question
+- Quarter-Life Crisis
+- Erasebook
+- Sanitise your social media profiles.
+- How to Talk About Sport
+- Things That Are Called Sports That Are Not Sports
+- BOXING
+- DRESSAGE
+- BOBSLEIGH
+- LUGE
+- SKELETON
+- CHESS
+- SQUASH
+- By Popular Demand
+- Ode to Emojis Part II: Navigating the Racial Politics of Emojis
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- the people to blame.
+- TUESDAY
+- Relive all the Harry Potter magic with these awesome new editions and gift ideas
+### [Issue 16 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-16-2017.pdf)
+- Catriona Britton
+- Balls Up
+- The (Unofficial) History of AUESA
+- Postgraduate Students Want To Merge with AUSA
+- Name-Dropping Feminism: The Women’s Choice Election Forum Kicks Off
+- Journalistic Freefall? How “Clickbait” News Is Taking Over Social Media
+- NZ And UK Unveil New Anti-Climate Change Transport Plans
+- Housing Costs Now Take Up Majority of Kiwi Wages
+- Jacinda Ardern could make the difference for Labour, but only if the Party changes with the Leader
+- COMMUNITY
+- Tackling Rape Culture at University
+- WHAT ARE THE PROBLEMS?
+- THE UNIVERSITY ENVIRONMENT
+- LENIENT SENTENCES
+- WHITE MALE PRIVILEGE
+- SPEAKING UP
+- THE STATISTICS
+- WHAT CAN WE DO?
+- THE ROOT OF THE PROBLEM
+- CONSENT EDUCATION
+- STOP VICTIM BLAMING
+- THE LAW
+- CHARITY/ORGANISATION OF THE WEEK
+- Plastic Diet Boot Camp!
+- What’s On
+- The Pickle King
+- Italian Short Film Night
+- Fa’aafa
+- Auckland Law Revue: Case in Pointe
+- Boho-ifying Your Room
+- Helping out with your hangover!
+- Summery Sangria
+- Top 5... Places for Brunch
+- L’Assiette
+- Circus Circus
+- Remedy Coffee
+- Oaken
+- Scullery
+- I Know It Was You
+- Lighten Your Load
+- Weet-Bix is Fucking Great
+- All Hail the Gacha Revolution
+- I’m a lot of fun at parties
+- The Cluster Will Live On
+- Super Dark Times
+- The Killing of a Sacred Deer
+- Dunkirk
+- My Year With Helen
+- Black Marks on the White Page
+- A Bone To Pick With To The Bone
+- THE ORGANISERS
+- THE TEAM BEHIND THE ORGANISERS THAT NO ONE EVER ACKNOWLEDGES
+- AUSA was Ballin’
+- SATURDAY 5 AUGUST - IT’S THE DAY OF THE BALL
+- AUSA Online Referenda
+- Amateur Hour
+- Political Party, or A Cheap Shot
+- By Popular Demand
+- How to Talk About Sport
+- Sadboi Savea, And Other Sporting Jokes That Went On Way Too Long
+- THE WARRIORS
+- ANY GAME OF
+- AMERICAN FOOTBALL EVER
+- GOLF IN NEW ZEALAND
+- THIS COLUMN
+- JUSTIN MARSHALL
+- Guest Who
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- HARD (THREE POINTS)
+- the people to blame.
+- The Man Booker Prize Long list 2017
+### [Issue 17 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-17-2017.pdf)
+- Catriona Britton
+- Giving a Shit
+- NZUSA Launches New Youth Vote Campaign
+- Will Philanthropy Save Auckland From Its Housing Crisis?
+- Medical Students Fighting to Finish Degrees
+- The Lifeline Debacle
+- Have Your Say... AUSA Online Referendum
+- Studies First—Football Freestyling Later
+- Big Brother
+- Farewell Metiria
+- CHARITY/ORGANISATION OF THE WEEK
+- Child Poverty Action Group!
+- What’s On
+- The Hunting Ground
+- A Streetcar Named Desire
+- National Poetry Day
+- Taste of Terror Tour
+- Sprucing Up Your Student Room
+- Little & Friday,
+- Spring Gardening
+- A Waffle Iron-Free Waffle Recipe
+- Top 5... Cocktails
+- Mojito
+- Old Fashioned
+- Espresso Martini
+- Margarita
+- Negroni
+- FINDING FEMINISM WITH JOSIE & T
+- Even before I had started writing this, I could feel her taking control of what I said about her...
+- GETTING INKED
+- THE FIGHT FOR IHUMĀTAO
+- Timeline of historic disputes over the land at Ihumātao:
+- PRESIDENT
+- ADMINISTRATIVE VICE-PRESIDENT
+- 2018 AUSA Election Blurbs
+- EDUCATION VICE-PRESIDENT
+- WELFARE VICE-PRESIDENT
+- TREASURER
+- CULTURE & COMMUNICATIONS OFFICER
+- ENVIRONMENTAL AFFAIRS OFFICER (2018)
+- GRAFTON REPRESENTATIVE
+- INTERNATIONAL STUDENTS’ OFFICER
+- POLITICAL ENGAGEMENT OFFICER
+- QUEER RIGHTS OFFICER
+- STUDENT ENGAGEMENT OFFICER
+- WOMEN’S RIGHTS OFFICER
+- CRACCUM EDITOR
+- ENVIRONMENTAL AFFAIRS OFFICER (2017)
+- Self-care routine: drink water, eat three meals a day, punch Nazis with your friends
+- “OMG” & “Havana”
+- Midnight Sun
+- Valerian and the City of A Thousand Planets
+- Kedi
+- Annabelle: Creation
+- Getting to Know Indian Ink
+- SO, INDIAN INK’S CURRENT SHOW IS CALLED THE PICKLE KING—TELL US A BIT MORE ABOUT THAT.
+- INDIAN INK HAS BEEN PRETTY BUSY THIS YEAR. HOW MANY SHOWS DO YOU DO?
+- INDIAN INK DEALS WITH SOME HEAVIER TOPICS. HAS IT BEEN HARD TO GET PEOPLE ON BOARD WITH SOME OF THE IDEAS?
+- YOU ALSO INCORPORATE HUMOUR INTO YOUR SHOWS TO PORTRAY THESE IDEAS. HOW HAS THE RESPONSE BEEN SO FAR?
+- I Think I'm Quite Ready For Another Adventure
+- OFFICIAL NOTICES
+- ASEAN Night Summary
+- Amateur Hour
+- I'm Never Quite Sure
+- Quarter-Life Crisis
+- I Walk Through the Valley of the Shadows of Death
+- Become a connoisseur in something.
+- Day One: “Yeast Infection”
+- Day Two: “Don’t Fart in the Elevator”
+- Day Three: “Revenge of the Riblets”
+- How to Talk About Sport
+- Why Does SKY TV Insist On Being Such A Digital Douchebag?
+- Baby’s bottom sudoku
+- Herald’s Heroes
+- the people to blame.
+### [Issue 18 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-18-2017.pdf)
+- On Family & Reading Habits by Catriona
+- On Craccum & My Mum by Catriona
+- On Unrequited Love & Kindness by Catriona
+- Labour Unveil Controversial New Water Policy
+- Charlottesville, Change and Casual Racism: What’s Next for the US?
+- Teenagers Violently Sexually Assaulted on Train
+- New Fruit and Veg Stall at Quad Marketplace
+- NEWS
+- Preacher Sparks Hate Speech Row
+- So What The Fuck Is Actually Going On In Australian Politics?
+- Calls for Comprehensive Consent Education
+- ProLife Auckland—Where Has It Been, Where Is It Going
+- New Zealand Animal Law Association: 2017 Conference
+- By Kari Schmidt
+- Like Minds, Like Mine: Conversations for Change
+- By Claudia Russell
+- CHARITY/ORGANISATION OF THE WEEK
+- Leaders Debate
+- What’s On
+- Hug A Pug
+- Women of Influence Forum
+- Mexico de mis Sabores
+- Chinese Food Tour
+- Festival Fashion
+- Fairy Cakes for all
+- Mini-Break Madness
+- The Botanist,
+- Top 5... Juice/ Smoothie Bars
+- Organic Mechanic
+- Tank
+- Sip Kitchen
+- Wedge Juice Bar
+- CeresFresh Market
+- The Divided State of Us
+“And while the battle cry of our heroes has been to fight hate with love, I must remind you that love is not passivity, it is not compliance, it is not having your worth determined by another person, it is not - allowing yourself to be crushed into non-existence. Love and fury can coexist.”
+- Hold the system to account
+- But what about the immigrants?
+- Reflections (On Life) Behind The Windscreen Of A Sigma
+- One woman riot (vol. 1)
+- With Anoushka Maharaj
+- The Soundtrack Of StudyLink
+- ARTS REVIEWS
+- Ocean Alley @ Studio
+- How Did We Get So Dark?
+- stardustexhalemarrakechdreams Zhu
+- Come Over When You’re Sober Pt. 1
+- “I Like The Way You Mov(i)e” – BodyRockers (2005)
+- Studio Ghibli Film Festival
+- A Ghost Story at Academy Cinemas
+- Flashback Fridays at Event Cinemas
+- Our Most Inexhaustible Source of Magic
+- Be a Human Book!
+- Attention all international students!
+- OFFICIAL NOTICES
+- By Popular Demand
+- Ode to Found Footage Horror
+- Wildest Police Videos
+- How to Talk About Sport
+- Hockey Is My Life. I Can't Run Away With You. Who Would Take Care Of The Pucks?
+- The Disaffiliation Situation
+- FOR DISAFFILIATION
+- AGAINST DISAFFILIATION
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- HARD (THREE POINTS)
+- the people to blame.
+- Don’t forget Father’s Day Sunday 3rd September
+### [Issue 19 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-19-2017.pdf)
+- Catriona Britton
+- A deep-seated issue
+- NEWS
+- How Each Party’s Policies Will Affect Auckland Students
+- Green:
+- Labour:
+- National:
+- ACT:
+- NZ First:
+- A Eulogy for The Green Party
+- How the Meme Vote will determine the election. Seriously.
+- Ardern Proposes Removing Abortion from Crimes Act
+- Government Reveals Lifeline Cuts
+- YOU VOTE EVERY DAY.
+- FAST TRACK YOUR CAREER IN POLITICS OR GOVERNMENT
+- The World Is Screwed: A Foul-Mouthed Guide to North Korea
+- Family First Deregistered From Charities Board
+- COMMUNITY
+- In Conversation With: Lady Heeni Phillips-Williams
+- WHAT IS THE HISTORY BEHIND THE SIR PETER WILLIAMS QC PENAL REFORM LEAGUE?
+- WHAT IS THE LEAGUE’S MISSION?
+- HOW DOES THE LEAGUE DIFFER FROM THE HOW-ARD LEAGUE?
+- WHAT HAS THE LEAGUE FOCUSED ON THIS YEAR AND WHAT WILL IT BE FOCUSING ON FOR THE REST OF THE YEAR?
+- WHAT DO YOU CONSIDER THE MOST PRESSING ISSUE THAT NEEDS ADDRESSING CONCERNING THE MĀORI PENAL POPULATION?
+- WHAT DO YOU CONSIDER ARE THE KEY SYSTEMIC ISSUES IN OUR JUSTICE SYSTEM THAT MAY PUT MĀORI AT A DISADVANTAGE?
+- WHAT DO YOU THINK OF NATIONAL’S “BOOT CAMP” POLICY FOR YOUNG OFFENDERS?
+- HOW CAN STUDENTS GET MORE INVOLVED WITH PENAL REFORM ISSUES?
+- Why Te Reo Māori should be compulsory in schools
+- CHARITY / ORGANISATION OF THE WEEK
+- Intuitive Flow Yoga and Oro Atua Māori Sound Healing session!
+- What’s On
+- That Bloody Woman
+- The Chocolate and Coffee Show 2017
+- Bacchae: Fuse
+- Photography interview: Erica Sinclair
+- WHAT INITIALLY DREW YOU TO PHOTOGRAPHY AND WHAT MADE YOU WANT TO PURSUE IT AS A CAREER?
+- HOW DID YOU BEGIN TO FORGE THIS CAREER?
+YOU SAY ON YOUR WEBSITE THAT YOUR FAVOURITE THING ABOUT PHOTOGRAPHY IS TELLING STORIES OF MĀORI CULTURE. WHY - IS THIS YOUR FAVOURITE THING TO DO?
+IS THERE A PARTICULAR ASPECT OF MĀORI CULTURE YOU ESPECIALLY ENJOY PHOTOGRAPHING/FEEL IT IS IMPORTANT TO - PHOTOGRAPH?
+- A LOT OF YOUR PHOTOS ARE OF PEOPLE. DO YOU PREFER TO SHOOT PEOPLE RATHER THAN SCENERY?
+DO YOU HAVE ANY ADVICE FOR BUDDING ARTISTS AND PHOTOGRAPHERS, OR FOR MĀORI ARTISTS AND PHOTOGRAPHERS IN - PARTICULAR?
+- FINALLY, WHAT’S NEXT FOR YOU AND YOUR WORK?
+- Gienipha Tutaki
+- WHAT INSPIRED YOU TO BECOME A FASHION DESIGNER?
+HOW WOULD YOU DESCRIBE THE STYLE OF YOUR DESIGNS? IF THEY ARE INFLUENCED BY YOUR MĀORI HERITAGE, HOW DID YOU - INCORPORATE THIS INTO YOUR WORK?
+YOUR COLLECTION ALSO PLAYS ON THE PAST AND PRESENT, MODERNISING TRADITIONAL LOOKS. WHY WAS THIS IMPORTANT TO - YOU?
+THERE IS QUITE A MUTED TONE TO YOUR COL-LECTION, WITH NATURAL COLOURS AND DREAMY SILHOUETTES. WHAT WAS THE - REASON FOR THIS?
+- THIS YEAR MARKS YOUR FIRST YEAR AT NZ FASHION WEEK. WHAT WAS YOUR VISION FOR YOUR SHOW?
+- LASTLY, WHAT’S NEXT FOR YOU AND YOUR DE-SIGNS?
+- Te Waihou Walkway
+- Waitangi Treaty Grounds
+- Mount Manaia
+- Waiotapu Geothermal Park
+- Tāne Mahuta
+- The Revitalisation of Te Reo Māori
+- “So are you Māori or...?”
+- Kava ceremony (Opening)
+- Culture and Arts Week
+- The Great University Gallery Guide
+- Projectspace Gallery , Elam School of Fine Arts (Ground Floor, Main Fine Arts Building, 20 Whitaker Place)
+- George Fraser Gallery, Princes Street (25a Princes St, Auckland Central)
+- Gus Fisher Gallery , Shortland Street (The Kenneth Myers Centre, 74 Shortland Street)
+- Welcome to the Losers’ Club
+- NGARO
+- WHAT IS THE BASIC PREMISE BEHIND NGARO?
+NGARO IS DESCRIBED AS A MULTI-MEDIA WORK. CAN YOU TELL US WHAT THIS MEANS, AND HOW IS IT SHOWN IN THE - PERFORMANCE?
+- HOW WAS THE IDEA FOR NGARO FORMED?
+- HOW DID THE COLLABORATION EMERGE WITH PADDY FREE AND RONA NGAHUIA OSBORNE?
+- CAN YOU EXPLAIN HOW MĀORI PERSPECTIVES OF MENTAL HEALTH MAY DIFFER FROM WESTERN PERSPECTIVES?
+- WHAT CAN CREATIVITY DO TO RELIEVE SYMPTOMS OF MENTAL HEALTH?
+- How prominent are Māori voices and perspectives in the Aotearoa New Zealand dance scene?
+I WONDERED HOW THE IDEA OF TRANSLATING THE FILM INTO TE REO CAME ABOUT, AND HOW WERE YOU APPROACHED TO BE A - PART OF THE PROCESS?
+- Moana Reo Māori
+- WHAT WAS THE TRANSLATION PROCESS LIKE? DID YOU ALL TACKLE EACH SCENE COLLABORATIVELY?
+- COULD YOU TALK ABOUT YOUR VIEW ON THE IMPORTANCE OF BRINGING TE REO INTO THE MAINSTREAM OF POPULAR CULTURE?
+ARE THERE ANY UPCOMING PROJECTS SIMILAR TO THE TRANSLATION OF MOANA THAT YOU ARE INVOLVED IN, OR ANY THAT - YOU WOULD LIKE TO SEE COME ABOUT?
+- Matilda: The Musical
+- Decent Exposure
+- Forced Witness
+- Saturation II
+- Girls Trip
+- Hellblade: Senua’s Sacrifice
+- We Adore Amy Shark
+- YOUR BIG HIT HAS BEEN “ADORE”. WAS THERE A SPECIFIC INSPIRATION, OR A STORY BEHIND THAT SONG?
+- YEAH, ABSOLUTELY! SO, WHAT’S YOUR SORT OF PROCESS WHEN IT COMES TO LYRIC WRITING?
+- RIGHT, BECAUSE YOU’VE BEEN ALL OVER LATELY, ON TOUR. HOW’S THAT BEEN?
+YEAH, ABSOLUTELY. I WAS WONDERING, IF YOU WERE MAKING ANOTHER ALBUM, WHO WOULD BE YOUR ABSOLUTE DREAM COLLAB - TO BE SONG-WRITING AND SINGING WITH?
+- YOUR NEW ZEALAND SHOW IS COMING UP, OF COURSE—ARE YOU LOOKING FORWARD TO
+- Amateur Hour
+- A Column Formerly Titled “The Jacinda Defect”, Now Titled “A Confusion of Dunces”
+- By Popular Demand
+- Ode to Moana Reo Māori: How Language Dances with Culture
+- How to Talk About Sport
+- The Māori-Only All Blacks
+- 1 – Kane Hames: Joe Moody is fine, but looks like an overgrown man baby.
+- 3 – Ben May: Seems decent, I guess. 1
+- Quarter-Life Crisis
+- Kore rawa e rawaka te reo kotahi
+- Baby’s bottom sudoku
+- HARD (THREE POINTS)
+- Herald’s Heroes
+- the people to blame.
+### [Issue 21 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-21-2017.pdf)
+- Catriona Britton
+- All the President’s Men
+- “TOP” Of The Food Chain?
+- Auckland Experiences Fuel Crisis
+- Māori Party Wiped Out of Parliament
+- How Will Child Poverty Look Under A New Government?
+- The Rohingya Refugee Crisis
+- Paula Bennett criticised after campaign text
+- UoA Women Take Out AFF Cup
+- Child Poverty Action Group
+In the wake of the election, it has become clear that child poverty is one of the biggest issues facing New - Zealand. Rebecca Hallas had a chat with Child Poverty Action Group
+- HOW DID CPAG GET STARTED?
+- WHAT ARE YOUR GOALS?
+- CAN YOU TALK A BIT ABOUT THE CPAG V AG CASE AND WHAT YOU ACCOMPLISHED?
+DID ANY OF THE POLITICAL PARTIES THIS ELEC-TION HAVE POLICIES YOU SUPPORT? IF NOT, WHAT KINDS OF POLICIES - WOULD YOU HAVE LIKED TO SEE THEM PROMOTE?
+- HOW CAN OUR READERS GET INVOLVED WITH CPAG?
+- What the loss of the Māori Party means for New Zealand
+- An opinion by Rebecca Hallas
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- Trams Remembered
+- Sassy Best Friend
+- Youthline Dinner Series
+- Oktoberfest
+- Flower Power
+- Lemon cake
+- Shop Kiwiana!
+- Top 5 Markets
+- Coatesville Markets
+- La Cigale French Markets
+- Avondale Markets
+- Matakana Farmers’ Market
+- Cross Street Market
+- Craccum Creative Writing Competition
+- Amtrak
+- Aphotic
+- SECOND PLACE PROSE
+- How To Become a Writer
+- ausa CAI Grants
+- Held Court
+- THIRD PLACE PROSE
+- Bracing for the worst
+- Syria
+- Everybody wants to rule the world
+- With Anoushka Maharaj
+- Bill’s Bangers
+- Jacinda’s Jams
+- Shaw’s Serenades
+- David’s Ditties
+- Winnie’s Winners
+- The Cat Pack
+- Annie Lennox (from Eurythmics)
+- Bono (from U2)
+- Michael Jackson
+- Elton John
+- ARTS REVIEWS
+- Kingsman: The Golden Circle
+- mother!
+- Waiting for Morning to Come
+- Half-Light
+- Comic Books to Blockbuster Films: A Cinematic Marvel
+- By Dario Davidson
+- AUSA
+- AUSA October Online Referenda
+- KEY DATES
+- Amateur Hour
+- Ummm, errr, column
+- By Popular Demand
+- Ode to Blade Runner: How We Got over the Crisis of Conscience
+- How to Talk About Sport
+- Sporty Bites
+- Black Ferns Not As Blacklisted As Everyone Thought
+- Fuck The All Blacks
+- “Racing the Storm: The Story of the Mobile Bay Sailing Disaster” – Smithsonian Mag
+- “The Fallout From Sportswriting's Filthiest Fuck-Up” – Deadspin
+- Quarter-Life Crisis
+- Please Look After This Columnist Thank You
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- HARD (THREE POINTS)
+- Herald’s Heroes
+- the people to blame.
+- MAKE SPACE FOR SCIENCE FICTION...
+### [Issue 22 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-22-2017.pdf)
+- Catriona Britton
+- We the People
+- Auckland Council Agrees to Māori Seats “In Principle”
+- Philanthropist Donates Over $1 Million To THE Uni
+- Who Is “Craccum Sucks”?
+- Submissions on Equal Pay Bill Now Open
+- AUSA REFERENDUM QUESTION DEEMED UNCONSTITUTIONAL
+- Synthetic Pot Is “Overwhelming” New Zealand Customs
+- Who Polices the Policemen?
+- Nationalism, Europe and its Future
+- The 1.5 Generation and Asian Political Representation
+- An opinion by Janna Tay
+- By Josie Adams
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- GLOW
+- LATE 2017
+- New Telepathics Single Release Party
+- Diwali Festival 2017
+- Guide to City Travellin’
+- DIY Bath Bombs
+- Gifts on a Budget
+- Britomart Country Club
+- TOP 5 Cycle Tracks in AKL
+- Te Ara Tehuna Estuary Cycleway
+- Te Ara Whiti
+- Tamaki Drive Cycle Route
+- Wattle Downs Cycle Ride
+- Pakuranga Rotary Shared Path
+- Nasty Women and Lipstick on Pigs
+- ausa CAI Grants
+- Reflections on the Pursuit of Academia
+- Youth does not discredit you
+- People actually want to hear what you have to say if you are brave enough to say it
+- Prepare to be questioned
+- Regardless of age we’re bound together by a passion for what we do
+- Apply, apply, apply
+- HISTORY HAS ITS EYES ON YOU
+- Enter: A Constitution for Aotearoa New Zealand
+- America’s past is our present
+- SEX WEEK
+- I’m like the Joan Cusack character in the romantic comedy of your life
+- The mother! of all metaphors
+- Mimicry 3
+- Pleasuredome
+- American Assassin
+- “Homemade Dynamite (Remix)”
+- Scream
+- “Rockstar”
+- Student Notices
+- Attention all international students!
+- AUSA October Online Referenda
+- KEY DATES:
+- AUPISA Turns 20 This Month!
+- AUSA Presents: Sex Week
+- SEXPO
+- WEDNESDAY 11 OCTOBER, 10AM - 3PM QUAD, CITY CAMPUS
+- EROTIC FAN FICTION READING
+- FRIDAY 13 OCTOBER, 4PM - 5:30PM GARDEN ROOM, SHADOWS BAR, CITY CAMPUS
+- By Popular Demand
+- Ode to Game of Thrones: Experiencing the No Spoiler Zone
+- How to Talk About Sport
+- S-PO-RT-LITICAL
+- Quarter-Life Crisis
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- Herald’s Heroes
+- the people to blame.
+- 2018 Paper Blanks Diaries
+### [Issue 23 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-23-2017.pdf)
+- Catriona Britton
+- Hitting for six
+- UoA Research Says Bisexual Women “Invisible” In High Schools
+- Auckland Uni Botches Graduation Ceremony
+- “Lack Of Financial Support” To Blame For Enrolment Decline
+- Auckland Café Found To Be Ripping Off Migrant Workers
+- “Thoughts and Prayers” Do Nothing For Vegas Killings
+- NEWS
+- Catalonian Independence: Is Spain Only One Country?
+- I Don’t Ever Want To Hear White Nerd Boys Shame Me For Liking Frappuccinos Ever Again, You Weird Man-Babies
+- P R E S E N T S
+- COMMUNITY
+- In Conversation With: Fossil Free UoA
+- WHAT IS THE CONCEPT OF DIVESTMENT FROM FOSSIL FUELS?
+WHAT IS THE SIGNIFICANCE OF DIVESTMENT IN THE CONTEXT OF A TERTIARY INSTITUTION, SUCH AS THE UNIVERSITY OF - AUCKLAND, IN THE WIDER FIGHT AGAINST CLIMATE CHANGE?
+- Everybody Eats
+- CHARITY/ORGANISATION OF THE WEEK
+- Flood the Campus
+- What's On
+- Pleasuredome The Musical
+- Armageddon Expo
+- The Little Mermaid
+- Punky Reggae Party
+- Spicy Vegetarian Stir-fry
+- Get on the hobby-horse!
+- By Grace Hood-Edwards
+- Doing Summer the Kiwi Way GUIDE TO:
+- Be Mindful
+- Top 5 Breweries
+- Hallertau
+- Brothers Beer
+- Liberty Brewing Co
+- Sweat Shop Brew Kitchen
+- Beer Spot
+- In Defence of Letters
+- ausa CAI Grants
+- WILL THE REAL SLIM SHADY PLEASE STAND UP?
+- SEAN SPICER GOES TO THE OSCARS, 2018
+- 8:47 AM, 1 DAY BEFORE
+- 11:32 AM, 1 DAY BEFORE
+- 1:19 PM, 1 DAY BEFORE
+- 2:23 PM, 1 DAY BEFORE
+- 2:24 PM, 1 DAY BEFORE
+- 2:25 PM, 1 DAY BEFORE
+- 4:49 PM, 1 DAY BEFORE
+- 11:39 AM, DAY OF
+- 12:40 PM, DAY OF
+- 12:55 PM, DAY OF
+- 1:30 PM, DAY OF
+- 2:13 PM, DAY OF
+- 3:59 PM, DAY OF
+- 6:45 PM, NIGHT OF
+- 8:39 PM, NIGHT OF
+- 8:58 PM, NIGHT OF
+- 11:29 PM, NIGHT OF
+- 4:21 AM, MORNING AFTER
+- Get schwifty
+- With Anoushka Maharaj
+- TEDx meets UoA: An Interview with Sharndré Kushor
+- TELL ME A BIT ABOUT YOURSELF SINCE WE LAST SAW EACH OTHER IN HIGH SCHOOL. DID YOU CONTINUE STUDYING?
+- WHAT DOES CRIMSON EDUCATION DO AND WHAT WAS THE GREATEST INSPIRATION BEHIND THE COMPANY?
+- DID YOUR UPBRINGING PLAY A BIG ROLE IN YOUR CHOICE TO ENTER THE EDUCATION SECTOR?
+HOW DOES IT FEEL BEING UNDER 30 AND ALREADY LEADING A GLOBAL COMPANY? ARE THERE CHALLENGES YOU FACE FROM THE - AGE GAP?
+AS A WOMAN OF COLOUR DID THIS MAKE A DIFFERENCE TO YOUR EXPERIENCES WITHIN THE INDUSTRY? WHO ARE SOME PEOPLE - YOU LOOK UP TO?
+- WHAT ADVICE WOULD YOU GIVE TO YOUNG WOMEN OUT THERE?
+- TELL US ABOUT YOUR FUTURE PLANS.
+- American Vandal
+- Tell Me You Love Me
+- Being So Normal
+- P R E S E N T S
+- ARTS FEATURE
+- Blade Runner 2049 and the Next Generation Sequel
+- By Popular Demand
+- Ode to Doctor Who: What is a Female Doctor?
+- Quarter-Life Crisis
+- Wanderlost: A Visual Saga
+- Point your finger at a map and go there.
+- How to Talk About Sport
+- Boys Will Be Boys Behaving Badly
+- ausa Financial Hardship Grants
+- Baby’s bottom sudoku
+- MEDIUM (TWO POINTS)
+- HARD (THREE POINTS)
+- Herald’s Heroes
+- the people to blame.
+- October New Releases
+### [Issue 24 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-24-2017.pdf)
+- Catriona Britton
+- And the Fellowship of the Ring, Though Eternally Bound by Friendship and Love, Was Ended
+- “Bird Of The Year” Hacked (Again)
+- NEWS
+- Fees Are Going To Rise (Again)
+- Craccum Actually Won Something (So Keep Paying Us, Jesus Christ)
+- Otago Uni Cutting Jobs
+- Referendum Proposes Stripping Section Editors of Pay
+- Saying “Bonjour” to Weird New Zealand Politics
+- “Five Eyes” Paranoid Over Chinese Government Intrusion in Western Universities
+- Older White Male Has A Stroke At Local K-Mart After Realising that Immigrants Exist
+- We Are Beneficiaries
+- WHAT DID YOU HOPE TO ACHIEVE THROUGH VI-SUALISING THESE STORIES THROUGH ARTWORK?
+- HOW CAN PEOPLE GET INVOLVED WITH YOUR CAUSE?
+- Creating a Fairer, Safer and Just New Zealand
+- Zero Waste Approach!
+- Mt Eden Wellbeing Market!
+- LIFESTYLE
+- Speakeasy
+- Mexfestival
+- Show Me Shorts Film Festival
+- Summer sips and snacks
+- Restaurant Review: Oaken
+- 130 Quay St, Britomart
+- Guide to: Summer Break
+- Music Festival Top Tips
+- SUNCREAM
+- TOP 5 SANDWICH JOINTS
+- Fort Greene
+- Hero Sandwich House
+- Pastrami & Rye
+- Swanson’s Sandwich Bar
+- The Store
+- Happy Craccum to all, and to all a good night!
+- FOUR THOUSAND, TWO HUNDRED AND TWELVE
+- FIVE
+- FIVE HUNDRED AND FIVE THOUSAND AND SIXTEEN
+- ONE HUNDRED AND EIGHTY SEVEN
+- TWO HUNDRED AND SIXTY NINE
+- TWENTY-TWO
+- TWO HUNDRED AND FIFTY ONE
+- THIRTY-EIGHT
+- FORTY-ONE
+- SEVENTY-ONE
+- ONE HUNDRED AND SIXTEEN
+- THIRTY-TWO
+- TWO
+- THREE
+- GIVE HOPE! LEGALISE DOPE!
+- P R E S E N T S
+- GIVE IT THE BOOT!
+- Myth: Military training provides motivation
+- Myth: Military training promotes respect for authority
+- Myth: Military training promotes respect for others
+- Myth: Military training develops honesty
+- Myth: Military instructors provide good role models
+- Myth: The military is an untapped resource waiting to be put to use
+- Myth: Military training is more than just push-ups
+- Truly there is no such thing as finality
+- With Anoushka Maharaj
+- My Playing-Card Poet
+- But she didn’t really look for adventure
+- Not like she did when she was younger
+- Finally her story began to draw to its narrative end
+- ARTS REVIEWS
+- MASSEDUCTION
+- The Foreigner
+- Big Mouth
+- Lotta Sea Lice
+- Geostorm
+“F” Is For Friends Who Do Stuff Together, “U” Is For You And Me, “N” Is For Anywhere And Anytime At All Down - Here In The Deep, Blue Sea
+- The TC Williams Titans
+- The Boston Globe Spotlight Team
+- Woodward and Bernstein
+- The 1988 Winter Olympics Jamaican Bobsled Team
+- Dracula’s Lament
+- The Hundred Acre Wood Family
+- By Popular Demand
+- A Conclusion
+- Amateur Hour
+- #metoo
+- Quarter-Life Crisis
+- Closing Time
+- How to Talk About Sport
+- What Next?
+- ausa Financial Hardship Grants
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- MEDIUM (TWO POINTS)
+- HARD (THREE POINTS)
+- Herald’s Heroes
+- the people to blame.
+- 360 International
+- Stand out from the crowd!
+- Interested in semester long exchange?
+- There’s still time to ace your exams!

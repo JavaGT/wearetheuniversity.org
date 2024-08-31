@@ -1,12 +1,7 @@
 import fsp from 'fs/promises';
 import parse from 'front-matter';
-// use npm module marked
 import { marked } from 'marked';
 import pug from 'pug';
-import { url } from 'inspector';
-// or const { marked } = require('marked');
-
-const html = marked.parse('# Marked in Node.js\n\nRendered by **marked**.');
 
 await clean()
 await build()
