@@ -4683,7 +4683,7 @@ Thankfully, the Salient Archive is an existing project covering from 2004 to 201
 - **[We are [locked in] the University [library]](http://salientarchive.com/archives/We-are-locked-in-the-University-library-2-10-2011.html)**
 - [Welfare Officer](http://salientarchive.com/archives/Welfare-Officer-2-10-2011.html)
 - [What is our democracy for?](http://salientarchive.com/archives/What-is-our-democracy-for-2-10-2011.html)
-- [Why We Should Care About Occupy Wall Street](http://salientarchive.com/archives/Why-We-Should-Care-About-Occupy-Wall-Street-10-10-2011.html)
+- **[Why We Should Care About Occupy Wall Street](http://salientarchive.com/archives/Why-We-Should-Care-About-Occupy-Wall-Street-10-10-2011.html)**
 - [Wellington Campaign For MMP on why you should vote for MMP on 26 November](http://salientarchive.com/archives/Wellington-Campaign-For-MMP-on-why-you-should-vote-for-MMP-on-26-November-29-10-2011.html)
 - [Win Win](http://salientarchive.com/archives/Win-Win-6-10-2011.html)
 # 2012

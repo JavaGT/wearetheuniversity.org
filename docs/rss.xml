@@ -6,7 +6,7 @@
           <description>Reclaiming our universities</description>
           <language>en-us</language>
           <pubDate>2024/09/01</pubDate>
-          <lastBuildDate>Sun, 01 Sep 2024 20:50:48 GMT</lastBuildDate>
+          <lastBuildDate>Sun, 01 Sep 2024 21:12:44 GMT</lastBuildDate>
           <docs>http://blogs.law.harvard.edu/tech/rss</docs>
           <generator>JavaScript ES6</generator>
           
@@ -296,6 +296,13 @@
             <description><![CDATA[No description provided]]></description>
             <pubDate>2011/12/10</pubDate>
             <guid isPermaLink="true">/2011/12/10/vote-2011</guid>
+          </item>
+          <item>
+            <title><![CDATA[Contesting the University]]></title>
+            <link>/2011/12/02/contesting-the-university</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2011/12/02</pubDate>
+            <guid isPermaLink="true">/2011/12/02/contesting-the-university</guid>
           </item>
           <item>
             <title><![CDATA[National’s tertiary education policy visionless]]></title>

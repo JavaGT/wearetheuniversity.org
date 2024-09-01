@@ -130,7 +130,7 @@ There is work to still be done here.
 - **[The Coming Insurrection](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=317)**
 - **[An Anxious Activist](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=315)**
 - [The Unsane Musings of an Autistic Mind](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=311)
-- [Occupation Theory](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=309)
+- **[Occupation Theory](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=309)**
 - **[Theory Turns to Practice](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=306)**
 - **[A Legal Guide to Reclamation](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=304)**
 - **[The Complete Guide to Successful University Administration](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=302)**
