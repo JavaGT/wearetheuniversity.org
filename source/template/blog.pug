@@ -13,6 +13,10 @@ body
   section.banner.banner-small
     div.date #{['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][attributes.date.getDay()]} #{attributes.date.toISOString().replace(/\..+/, '').slice(0, 10).replace(/-/g, '/').slice(0,10)}
     h1= attributes.title
-    span.author
-      a(attributes.author_url)=attributes.author
+    if attributes.author
+      div.author
+        a(href=attributes.author_url||'#')=attributes.author
+    if attributes.source 
+      div.source
+        a(href=attributes.source)=attributes.source_name||'Source'
   section.body !{body}

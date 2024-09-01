@@ -5,11 +5,18 @@
           <link>https://wearetheuniversity.org</link>
           <description>Reclaiming our universities</description>
           <language>en-us</language>
-          <pubDate>2024/08/31</pubDate>
-          <lastBuildDate>Sat, 31 Aug 2024 12:48:56 GMT</lastBuildDate>
+          <pubDate>2024/09/01</pubDate>
+          <lastBuildDate>Sun, 01 Sep 2024 20:50:48 GMT</lastBuildDate>
           <docs>http://blogs.law.harvard.edu/tech/rss</docs>
           <generator>JavaScript ES6</generator>
           
+          <item>
+            <title><![CDATA[Salient Archive]]></title>
+            <link>/2024/09/01/salient-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/01</pubDate>
+            <guid isPermaLink="true">/2024/09/01/salient-archive</guid>
+          </item>
           <item>
             <title><![CDATA[Craccum Archive]]></title>
             <link>/2024/08/31/craccum-archive</link>
@@ -221,6 +228,13 @@
             <guid isPermaLink="true">/2024/07/01/optimisation-of-our-courses-and-programmes</guid>
           </item>
           <item>
+            <title><![CDATA[Alternative Strategic Plan]]></title>
+            <link>/2012/03/13/altplan</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2012/03/13</pubDate>
+            <guid isPermaLink="true">/2012/03/13/altplan</guid>
+          </item>
+          <item>
             <title><![CDATA[A Brief History of Student Debt]]></title>
             <link>/2012/03/02/a-brief-history-of-student-debt</link>
             <description><![CDATA[No description provided]]></description>
@@ -296,6 +310,27 @@
             <description><![CDATA[No description provided]]></description>
             <pubDate>2011/11/17</pubDate>
             <guid isPermaLink="true">/2011/11/17/demand-a-better-future-updates</guid>
+          </item>
+          <item>
+            <title><![CDATA[Media Release – 30th September 2011]]></title>
+            <link>/2011/09/30/media-release-30th-september-2011</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2011/09/30</pubDate>
+            <guid isPermaLink="true">/2011/09/30/media-release-30th-september-2011</guid>
+          </item>
+          <item>
+            <title><![CDATA[Students in Auckland plan rally]]></title>
+            <link>/2011/09/26/students-in-auckland-plan-rally</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2011/09/26</pubDate>
+            <guid isPermaLink="true">/2011/09/26/students-in-auckland-plan-rally</guid>
+          </item>
+          <item>
+            <title><![CDATA[Media Release – 17th September 2011 @ 17:17]]></title>
+            <link>/2011/09/17/media-release-17th-september-2011</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2011/09/17</pubDate>
+            <guid isPermaLink="true">/2011/09/17/media-release-17th-september-2011</guid>
           </item>
         </channel>
       </rss>

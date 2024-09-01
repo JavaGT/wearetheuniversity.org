@@ -2,7 +2,8 @@
 title: Craccum Archive
 slug: craccum-archive
 date: 2024-08-31
-source: web.archive.org
+source: https://web.archive.org
+source_name: Wayback Machine
 author: Java Grant
 ---
 
@@ -876,8 +877,8 @@ There is work to still be done here.
 - [Letters To The Editor](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2589)
 - [Horrorscopes](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2587)
 - [Nearly Doc Craig - This Week: Craig Tries his Hand at Mythbusting!](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2584)
-- [In 1973... Nazis Support Tour](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2581)
-- [News - Quad-State Solution?](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2578)
+- **[In 1973... Nazis Support Tour](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2581)**
+- **[News - Quad-State Solution?](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2578)**
 - **[News - NZ Universities being sued for copyright infringement](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2576)**
 - [News - WTF? New Zealand dealing arms to Colombia?](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2574)
 - [From the Blogosphere - Julie Fairey](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2572)
