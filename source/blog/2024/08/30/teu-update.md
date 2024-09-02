@@ -6,7 +6,7 @@ author: Barry Hughes
 ---
 
 WHOA. This is interesting.
-It would seem that some solidarity busting is going on. Management knows that students support staff and have expliicitly told staff to not communicate with students regarding upcoming cuts to professional staff.
+It would seem that some solidarity busting is going on. Management knows that students support staff and have explicitly told staff to not communicate with students regarding upcoming cuts to professional staff.
 **"It would also not be appropriate for staff to engage with students or involve them in any responses or process relating to the proposal"**
 
 Also management is using two different inflation rates to justify their actions. One for staff pay and one for their own costs.
