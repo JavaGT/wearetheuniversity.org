@@ -12,7 +12,6 @@ It would seem that some solidarity busting is going on. Management knows that st
 Also management is using two different inflation rates to justify their actions. One for staff pay and one for their own costs.
 SUSS AF.
 
-
 Additional bolding has been provided for emphasis.
 *Original bolding.*
 **Additional bolding by Java.**
