@@ -6,7 +6,7 @@
           <description>Reclaiming our universities</description>
           <language>en-us</language>
           <pubDate>2024/09/01</pubDate>
-          <lastBuildDate>Sun, 01 Sep 2024 21:23:06 GMT</lastBuildDate>
+          <lastBuildDate>Mon, 02 Sep 2024 03:17:25 GMT</lastBuildDate>
           <docs>http://blogs.law.harvard.edu/tech/rss</docs>
           <generator>JavaScript ES6</generator>
           
@@ -58,6 +58,13 @@
             <description><![CDATA[No description provided]]></description>
             <pubDate>2024/08/30</pubDate>
             <guid isPermaLink="true">/2024/08/30/staff-opinions-cuts</guid>
+          </item>
+          <item>
+            <title><![CDATA[TEU Update Email]]></title>
+            <link>/2024/08/30/teu-update</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/08/30</pubDate>
+            <guid isPermaLink="true">/2024/08/30/teu-update</guid>
           </item>
           <item>
             <title><![CDATA[Notes on Adam Cragie's 'Are We The University? A Rupture of the Political Opportunity Structure']]></title>
