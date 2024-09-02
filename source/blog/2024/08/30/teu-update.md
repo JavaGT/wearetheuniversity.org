@@ -13,7 +13,9 @@ Also management is using two different inflation rates to justify their actions.
 SUSS AF.
 
 Additional bolding has been provided for emphasis.
+
 *Original bolding.*
+
 **Additional bolding by Java.**
 ---
 
