@@ -16,9 +16,10 @@ async function copyRootFiles() {
   for await (const file of files) {
     // filter out directories
     if ((await fsp.stat(file)).isDirectory()) continue
-    console.log(`Copying ${file}, ${file.replace(/^.*\//, '')}`)
-    await fsp.mkdir('./docs/' + file.replace(/^.*\//, '').split('/').slice(0, -1).join('/'), { recursive: true })
-    await fsp.copyFile(file, `./docs/${file.replace(/^.*\//, '')}`)
+    console.log(`Copying ${file}, ./${file.replace('source/root/', 'docs/')}`)
+    await fsp.mkdir('./docs/' + file.replace('source/root/', '').split('/').slice(0, -1).join('/'), { recursive: true })
+    // await fsp.copyFile(file, `./docs/${file.replace(/^.*\//, '')}`)
+    await fsp.copyFile(file, `./${file.replace('source/root/', 'docs/')}`)
   }
 }
 
