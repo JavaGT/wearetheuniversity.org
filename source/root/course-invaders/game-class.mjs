@@ -163,7 +163,7 @@ export class Game {
         }
 
         // draw instructions
-        const instructions = 'Use arrow keys to move and space to shoot,\nor touch the sides of the screen to mmove and shoot';
+        const instructions = 'Use arrow keys to move and space to shoot,\nor touch the sides of the screen to move and shoot';
         this.ctx.fillStyle = 'rgba(255, 255, 255, 0.5)';
         this.ctx.font = '20px Arial';
         this.ctx.textAlign = 'center';
