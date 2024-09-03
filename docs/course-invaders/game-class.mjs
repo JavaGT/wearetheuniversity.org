@@ -162,6 +162,15 @@ export class Game {
             this.ctx.fillRect(this.canvas.width / 2 + x * i * 10, this.canvas.height / 2 + y * i * 10, 1, 1);
         }
 
+        // draw instructions
+        const instructions = 'Use arrow keys to move and space to shoot,\nor touch the sides of the screen to mmove and shoot';
+        this.ctx.fillStyle = 'rgba(255, 255, 255, 0.5)';
+        this.ctx.font = '20px Arial';
+        this.ctx.textAlign = 'center';
+        instructions.split('\n').forEach((line, i) => {
+            this.ctx.fillText(line, this.canvas.width / 2, this.canvas.height - 100 + i * 30);
+        });
+
         this.player.draw(this.ctx);
         this.bullets.forEach(bullet => bullet.draw(this.ctx));
         this.aliens.forEach(row => row.forEach(alien => alien.draw(this.ctx)));

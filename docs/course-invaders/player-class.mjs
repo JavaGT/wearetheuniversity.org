@@ -5,7 +5,7 @@ export class Player {
         this.width = 50;
         this.height = 50;
         this.speed = 5;
-        this.sprite = '/player.webp'; // Replace with your custom URL
+        this.sprite = './player.webp'; // Replace with your custom URL
         this.img = new Image();
         this.img.src = this.sprite;
 
