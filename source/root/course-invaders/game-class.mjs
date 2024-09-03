@@ -112,6 +112,23 @@ export class Game {
     }
 
     update() {
+        // if no aliens game over message
+        if (this.aliens.length === 0) {
+            this.isGameOver = true;
+            this.ctx.fillStyle = 'white';
+            this.ctx.font = '40px Arial';
+            this.ctx.textAlign = 'center';
+            this.ctx.fillText('You Win!', this.canvas.width / 2, this.canvas.height / 2);
+            this.ctx.fillText('Students have been saved from all that choice', this.canvas.width / 2, this.canvas.height / 2 + 50);
+        }
+        if (this.aliens.some(row => row.some(alien => alien.y > this.canvas.height - 100))) {
+            this.isGameOver = true;
+            this.ctx.fillStyle = 'white';
+            this.ctx.font = '40px Arial';
+            this.ctx.textAlign = 'center';
+            this.ctx.fillText('Game Over.', this.canvas.width / 2, this.canvas.height / 2);
+            this.ctx.fillText(' You didn\'t cut enough courses and the students are educated in subjects they love.', this.canvas.width / 2, this.canvas.height / 2 + 50);
+        }
         if (this.isGameOver) return;
 
         this.bullets.forEach((bullet, index) => {
