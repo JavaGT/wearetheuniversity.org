@@ -23,6 +23,7 @@ It's a lot to consider. If you would like help be in touch with us and let us kn
 
 Contact:
 - [email@wearetheuniversity.org](mailto:email@wearetheuniversity.org)
+  - Reminder: use a personal email address, not your work/study email address.
 - [Instagram](https://www.instagram.com/wearetheuniversity/)
 
 # Legal
