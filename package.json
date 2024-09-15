@@ -2,7 +2,7 @@
   "dependencies": {
     "front-matter": "^4.0.2",
     "marked": "^14.0.0",
-    "marked-toc": "^0.3.0",
+    "marked-toc": "^0.1.1",
     "pug": "^3.0.3"
   }
 }
