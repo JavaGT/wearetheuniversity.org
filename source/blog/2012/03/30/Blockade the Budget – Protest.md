@@ -1,0 +1,16 @@
+---
+title: Blockade the Budget – Protest
+slug: blockade-the-budget-protest
+date: 2012-03-30
+source: https://web.archive.org/web/20130208031103/http://wearetheuniversity.org.nz/2012/03/30/blockade/
+author: Anonymous
+---
+
+[https://www.facebook.com/events/172083019584218/](https://web.archive.org/web/20130208031103/https://www.facebook.com/events/172083019584218/)
+
+The National Government is planning to attack Students with this year’s budget. The Black Budget adds to the already reigning view that education should be run like a business. It will affect current students, ex-students and potential future students by limiting allowances to the first four years of study (with no exceptions to longer degrees or postgrad study), by freezing the parental income threshold to get the allowance (so even less students can get it), and increasing the repayment rate from 10% to 12%. We have had enough of the short sighted, mindless politics of austerity that limit who gets access to tertiary education and that see us paying rent to a generation that had everything they are taking from us.
+
+We are calling for students in Aotearoa to fight back against education cuts, just as students all over the world have. We will be protesting against the budget at the University of Auckland on the 24th of May, the day the Black Budget is released, and we invite students from everywhere to join us in resisting the scapegoat politics of a terminally ideological government. This is an issue for all New Zealanders, investment in education is essential for the growth of a healthy society and this budget is penalising already-struggling students.
+
+“We, students, teachers, researchers, workers, politicians, parents…, call for a transformation to the current fees, loans and repayment system in tertiary education. We do not need small reforms, we need structural change. When the government and the elite insist that the only way to fund education is indebtedness, we say that education is a human right and a social necessity. We say that targeting citizen-students who cannot pay and landing them with crippling debt, is a violation of the principles of equality and freedom that our country is supposedly built on. We say that democracy demands educated and creative people, and that these changes, and the fees and loans system as it already stands, impoverish nearly every citizen who decides to pursue tertiary education. We say that the current government and the elite are destabilizing our country and mindlessly trading our future for their own privileged present.”  
+The above statement is supported by the Council of Trade Unions, the Service and Food Workers Union, the Mana movement, Socialist Aotearoa, Auckland Action Against Poverty…
