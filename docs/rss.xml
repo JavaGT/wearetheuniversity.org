@@ -5,11 +5,116 @@
           <link>https://wearetheuniversity.org</link>
           <description>Reclaiming our universities</description>
           <language>en-us</language>
-          <pubDate>2024/09/01</pubDate>
-          <lastBuildDate>Mon, 16 Sep 2024 02:32:57 GMT</lastBuildDate>
+          <pubDate>2024/09/16</pubDate>
+          <lastBuildDate>Tue, 17 Sep 2024 03:57:24 GMT</lastBuildDate>
           <docs>http://blogs.law.harvard.edu/tech/rss</docs>
           <generator>JavaScript ES6</generator>
           
+          <item>
+            <title><![CDATA[Anything Goes Archive]]></title>
+            <link>/2024/09/16/anything-goes-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/anything-goes-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[Bug Archive]]></title>
+            <link>/2024/09/16/bug-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/bug-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[Canta Archive]]></title>
+            <link>/2024/09/16/canta-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/canta-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[Chaff Archive]]></title>
+            <link>/2024/09/16/chaff-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/chaff-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[Debate Archive]]></title>
+            <link>/2024/09/16/debate-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/debate-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[Gyro Archive]]></title>
+            <link>/2024/09/16/gyro-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/gyro-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[In Unison Archive]]></title>
+            <link>/2024/09/16/in-unison-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/in-unison-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[Magneto Archive]]></title>
+            <link>/2024/09/16/magneto-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/magneto-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[Massive Archive]]></title>
+            <link>/2024/09/16/massive-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/massive-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[Nexus Archive]]></title>
+            <link>/2024/09/16/nexus-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/nexus-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[Off Campus Archive]]></title>
+            <link>/2024/09/16/off-campus-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/off-campus-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[RAM Archive]]></title>
+            <link>/2024/09/16/undefined</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/undefined</guid>
+          </item>
+          <item>
+            <title><![CDATA[Satellite Archive]]></title>
+            <link>/2024/09/16/satellite-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/satellite-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[Te Pararē Archive]]></title>
+            <link>/2024/09/16/te-parare-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/16</pubDate>
+            <guid isPermaLink="true">/2024/09/16/te-parare-archive</guid>
+          </item>
+          <item>
+            <title><![CDATA[Gyro Archive]]></title>
+            <link>/2024/09/01/gyro-archive</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/01</pubDate>
+            <guid isPermaLink="true">/2024/09/01/gyro-archive</guid>
+          </item>
           <item>
             <title><![CDATA[Original Ethos]]></title>
             <link>/2024/09/01/original-ethos</link>
@@ -424,11 +529,18 @@
             <guid isPermaLink="true">/2018/06/26/fees-free-were-getting-it-all-wrong</guid>
           </item>
           <item>
-            <title><![CDATA[‘Successive parliaments have stifled student voice’ – NZUSA]]></title>
-            <link>/2018/06/21/successive-parliaments-have-stifled-student-voice--nzusa</link>
+            <title><![CDATA[Thank you for your interest in Gyro]]></title>
+            <link>/2018/06/21/thank-you-for-your-interest-in-gyro</link>
             <description><![CDATA[No description provided]]></description>
             <pubDate>2018/06/21</pubDate>
-            <guid isPermaLink="true">/2018/06/21/successive-parliaments-have-stifled-student-voice--nzusa</guid>
+            <guid isPermaLink="true">/2018/06/21/thank-you-for-your-interest-in-gyro</guid>
+          </item>
+          <item>
+            <title><![CDATA[‘Successive parliaments have stifled student voice’ – NZUSA]]></title>
+            <link>/2018/06/21/successive-parliaments-have-stifled-student-voice-nzusa</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2018/06/21</pubDate>
+            <guid isPermaLink="true">/2018/06/21/successive-parliaments-have-stifled-student-voice-nzusa</guid>
           </item>
           <item>
             <title><![CDATA[Budget 2018: Let’s Work Together]]></title>
@@ -695,6 +807,20 @@
             <description><![CDATA[No description provided]]></description>
             <pubDate>2012/03/02</pubDate>
             <guid isPermaLink="true">/2012/03/02/response-to-paul-holmes</guid>
+          </item>
+          <item>
+            <title><![CDATA[Craccum Letters]]></title>
+            <link>/2012/03/01/craccum-letters</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2012/03/01</pubDate>
+            <guid isPermaLink="true">/2012/03/01/craccum-letters</guid>
+          </item>
+          <item>
+            <title><![CDATA[Craccum Editorial]]></title>
+            <link>/2012/03/01/craccum-editorial</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2012/03/01</pubDate>
+            <guid isPermaLink="true">/2012/03/01/craccum-editorial</guid>
           </item>
           <item>
             <title><![CDATA[Teach In 01/03/12]]></title>

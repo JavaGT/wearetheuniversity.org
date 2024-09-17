@@ -5,9 +5,12 @@ date: 2024-09-01
 source: http://salientarchive.com/
 source_name: Salient Archive
 author: Java Grant
+completion: 0.8
 ---
 
 Thankfully, the Salient Archive is an existing project covering from 2004 to 2019, unlike Craccum which lacks a central archive. Thank you to the maintainers.
+
+TODO: https://issuu.com/salientmagazine
 
 <script src="/table-of-contents.js"></script>
 
