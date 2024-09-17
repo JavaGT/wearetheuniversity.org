@@ -36,6 +36,7 @@ async function build() {
   await buildIndex({ blog_data })
   await buildRss({ blog_data })
   await buildPages()
+  await buildTranscripts()
 }
 
 async function buildRss({ blog_data }) {
@@ -95,3 +96,41 @@ async function buildPages() {
     await fsp.writeFile(`./docs/${attributes.slug}/index.html`, output)
   }
 }
+
+async function buildTranscripts() {
+  const folders = await fsp.glob('./source/transcripts/*')
+  // for each folder open index.json
+  for await (const folder of folders) {
+    const index = JSON.parse(await fsp.readFile(`${folder}/index.json`, 'utf8'))
+    // for each item in index.json
+    for (const item of index.items) {
+      // render the transcript.pug file
+      // transcript is contained in a json file in the same folder named after the guid
+      // console.log((await fsp.readFile(`${folder}/${item.guid}.json`, 'utf8')))
+      console.log(`Building transcript for ${item.guid}`)
+      const output = pug.renderFile('./source/template/transcript.pug', {
+        attributes: {
+          title: item.title,
+          author: item.author,
+          date: new Date(item.pubDate)
+        },
+        body: `<audio src="${item.enclosure.link}" controls></audio><br> ${item.content}<br><table border="1"><thead><tr><th>Timestamp</th><th>Caption</th></tr></thead><tbody>${JSON.parse((await fsp.readFile(`${folder}/${item.guid}.json`, 'utf8'))).map(x => `<tr><td class="timestamp" data-value="${x[1]}"><button>${Math.floor(x[0]/1000)}s</button></td><td class="caption">${x[2]}</td></tr>`).join('')}</tbody></table><script>document.body.addEventListener('click', e => { if (e.target.classList.contains('timestamp') || e.target.parentElement.classList.contains('timestamp')) { const timestamp = e.target.closest('td').dataset.value || e.target.closest('td').parentElement.dataset.value; document.querySelector('audio').currentTime = timestamp / 1000; } })</script>`
+        // <code>${JSON.parse(await fsp.readFile(`${folder}/${item.guid}.json`, 'utf8')).map(x => `<span class="timestamp">${x[1]}ms</span><span class="caption">${x[2]}</span>`).join('<br>')}</code>
+      })
+      // write the transcript to the docs folder
+      await fsp.mkdir(`./docs/${folder.replace('source/', '')}`, { recursive: true })
+      await fsp.writeFile(`./docs/${folder.replace('source/', '')}/${item.guid}.html`, output)
+    }
+    const output = pug.renderFile('./source/template/transcript.pug', {
+      attributes: {
+        title: index.feed.title,
+        author: index.feed.author,
+      },
+      body: index.items.map(item => `<a href="${item.guid}.html">${item.title}</a><br>`).join('')
+    })
+    // write the index page to the docs folder
+    await fsp.mkdir(`./docs/${folder.replace('source/', '')}`, { recursive: true })
+    await fsp.writeFile(`./docs/${folder.replace('source/', '')}/index.html`, output)
+  }
+}
+

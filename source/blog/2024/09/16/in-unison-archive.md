@@ -3,7 +3,7 @@ title: In Unison Archive
 slug: in-unison-archive
 date: 2024-09-16
 source: https://issuu.com/inunison
-source_name: Satellite Magazine
+source_name: In Unison Magazine
 author: Java Grant
 completion: 0.1
 ---

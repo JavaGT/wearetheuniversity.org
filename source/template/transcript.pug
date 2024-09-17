@@ -1,0 +1,31 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  title #{attributes.title} – WATU
+  link(rel='stylesheet' href='/reset.css')
+  link(rel='stylesheet' href='/style.css')
+  meta(property='og:image' content='https://wearetheuniversity.org/social.jpg')
+  meta(property='og:image:type' content='image/jpeg')
+  meta(property='og:image:width' content='1920')
+  meta(property='og:image:height' content='1080')
+  link(rel='apple-touch-icon' sizes='180x180' href='/apple-touch-icon.png')
+  link(rel='icon' type='image/png' sizes='32x32' href='/favicon-32x32.png')
+  link(rel='icon' type='image/png' sizes='16x16' href='/favicon-16x16.png')
+  link(rel='manifest' href='/site.webmanifest')
+body 
+  nav
+    a(href='/')
+      span.small-logo We are the university
+      //- <svg style="color: red;" height="15" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M128 0C92.7 0 64 28.7 64 64l0 96 64 0 0-96 226.7 0L384 93.3l0 66.7 64 0 0-66.7c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0L128 0zM384 352l0 32 0 64-256 0 0-64 0-16 0-16 256 0zm64 32l32 0c17.7 0 32-14.3 32-32l0-96c0-35.3-28.7-64-64-64L64 192c-35.3 0-64 28.7-64 64l0 96c0 17.7 14.3 32 32 32l32 0 0 64c0 35.3 28.7 64 64 64l256 0c35.3 0 64-28.7 64-64l0-64zM432 248a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/></svg>
+  section.banner.banner-small
+    if attributes.date
+      div.date #{['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][attributes.date.getDay()]} #{attributes.date.toISOString().replace(/\..+/, '').slice(0, 10).replace(/-/g, '/').slice(0,10)}
+    h1= attributes.title
+    if attributes.author
+      span.author
+        a(href=attributes.author_url)=attributes.author
+    if attributes.source 
+      span.source
+        a(href=attributes.source)=attributes.source_name||'Source'
+  section.body !{body}
