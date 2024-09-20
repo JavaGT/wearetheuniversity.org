@@ -31,36 +31,33 @@ Their book titles demonstrate their focus on stoking culture wars between staff 
 - [PSA have written about ATLAS here](https://www.psa.org.nz/our-voice/understanding-atlas-how-a-right-wing-network-is-building-global-influence/).
 - [The University of Bath's Tobacco Control Research Group have written about ATLAS here](https://tobaccotactics.org/article/atlas-network/)
 - [Atlas Network Wikipedia Page](https://en.wikipedia.org/wiki/Atlas_Network)
-
-- Atlas Network [...] is a non-governmental 501(c)(3) organization based in the United States that provides training, networking, and grants for libertarian, free-market, and conservative groups around the world.[4][5][6]
-- **Notable members of Atlas Network include [...] the New Zealand Taxpayers' Union**.[11][12][13]
-- Margaret Thatcher, F. A. Hayek, and Milton Friedman, all friends of Fisher, formally endorsed the organization.[9][16]
-- Initially comprising only Fisher's think tanks, Atlas Network grew to include many others, including those affiliated with the [Koch family](https://en.wikipedia.org/wiki/Koch_family).
-- The rapid growth of Atlas, now arguably the largest think tank network in the world, was partly **prompted by challenges to fossil fuel interests from governmental efforts against climate change**, Bryan S. Turner suggests.[31]
-- According to The Guardian, **more than a fifth of Atlas Network affiliates worldwide had either opposed tobacco controls or taken tobacco donations**.[32][33][34]
-- A 2017 paper in the International Journal of Health Planning and Management said that **Atlas Network "channeled funding from tobacco corporations to think tank actors to produce publications supportive of industry positions."**[35]
-- The University of Bath's Tobacco Control Research Group said **Atlas Network "appears to have played a particular role in helping the tobacco industry oppose tobacco control measures in Latin America"** during the 1990s.[36]
-- **Atlas Network has been linked to oil and gas producers, and to efforts opposing initiatives by governments and activists on climate change**.[37][38][39][31] 
-- It collaborated with the Macdonald-Laurier Institute of Canada in **a push for oil and gas development on Indigenous land**, according to documents described in The Guardian.[40] 
-- Its affiliates in Canada have "extensive and deepening board interlocks" involving the **fossil fuel industry, other policy groups, and academia, and are "a reactionary current" against most climate actions**, Nicolas Graham wrote in the Canadian Review of Sociology.[41]
-- An article in The New Republic blamed Atlas Network for its **partners' efforts in some countries to criminalize climate protesting**, particularly in Germany,[11] although Atlas Network has said it supports free speech for climate protestors.[42]
-- Some academics have described Atlas as **an "oil-industry-funded transnational network"[37] and "the predominant vehicle for fossil capital's global mobilization against climate science and policy"**,[43] and its affiliates as being **"partly funded by Koch and allied capitalists, with heavy support from fossil fuel-based fortunes"**.[31]
-
-- The Intercept, The Guardian, and The New Republic have described **Atlas Network as having ties to right-wing and conservative movements, including the administration of Donald Trump in the United States, Brexit in the United Kingdom, and anti-government protests in Latin America**.[4][44][11] 
-- An article in International Affairs analyzing 52 Atlas partners said that "while some Atlas-affiliated partners show readiness to confront the threat of nationalist and authoritarian societal mobilization, **others conceive it as a tactical or strategic opportunity to advance free market causes**".[45] 
-- **In Brazil, Atlas Network had a role in the "Free Brazil" movement in 2014 that led to the rise of Jair Bolsonaro**, and it sponsors the Liberty Forum where policies of Luiz Inácio Lula da Silva were opposed.[11][46]
-
-- Atlas Network was linked to an online campaign that used fake accounts against the Cuban government during the 2021 Cuban protests, according to disinformation expert Julián Macías Tovar. Tovar, cited in The Guardian, also said that **Atlas Network members' Twitter accounts had been involved in bot or troll center campaigns during the 2019 Bolivian political crisis, the 2021 Ecuadorian general election, and the 2021 Peruvian general election**.[47]
-- Philadelphia Magazine described Atlas Network as **"supporting free-market approaches to eliminating poverty and noted for its refutation of climate change and defense of the tobacco industry."**[34]
-- In New Zealand, **Atlas Network has partnered with the free-market think tank New Zealand Taxpayers' Union**.[12]
-- The leader of New Zealand's libertarian ACT party, **David Seymour, once worked for the Atlas Network-affiliated Frontier Centre for Public Policy in Canada**.[78]
-- **Atlas chair Debbi Gibbs' father helped found the ACT party.[78]**
-- According to Atlas Network, its grants fund coaching, networking, pitch competitions, award programs, and other "ambitious projects for **policy change**."[10]
-- It has received **major funding from Koch family foundations** including the Charles Koch Foundation and the Charles Koch Institute,[4] along with Koch-affiliated funds such as Donors Trust.
-- Research by the activist website DeSmog said A**tlas Network had received millions of dollars from Koch-affiliated groups, the ExxonMobil Foundation, and the Sarah Scaife Foundation**.[11]
-- **As of 2005, Atlas Network had received $440,000 from ExxonMobil itself.[95]**
-- Of **Atlas Network partners, 57% in the United States received funding from the tobacco industry between 1990 and 2000**.[35] Analysis in the International Journal of Health Planning and Management in 2016 said that a lack of transparency and data about think tank funding had made it difficult to ascertain the amounts of tobacco industry funding to Atlas Network and partners since 2003.[35]
-- **As of 2020, Atlas Network had assets of $15,450,264.[97]**
+  - Atlas Network [...] is a non-governmental 501(c)(3) organization based in the United States that provides training, networking, and grants for libertarian, free-market, and conservative groups around the world.[4][5][6]
+  - **Notable members of Atlas Network include [...] the New Zealand Taxpayers' Union**.[11][12][13]
+  - Margaret Thatcher, F. A. Hayek, and Milton Friedman, all friends of Fisher, formally endorsed the organization.[9][16]
+  - Initially comprising only Fisher's think tanks, Atlas Network grew to include many others, including those affiliated with the [Koch family](https://en.wikipedia.org/wiki/Koch_family).
+  - The rapid growth of Atlas, now arguably the largest think tank network in the world, was partly **prompted by challenges to fossil fuel interests from governmental efforts against climate change**, Bryan S. Turner suggests.[31]
+  - According to The Guardian, **more than a fifth of Atlas Network affiliates worldwide had either opposed tobacco controls or taken tobacco donations**.[32][33][34]
+  - A 2017 paper in the International Journal of Health Planning and Management said that **Atlas Network "channeled funding from tobacco corporations to think tank actors to produce publications supportive of industry positions."**[35]
+  - The University of Bath's Tobacco Control Research Group said **Atlas Network "appears to have played a particular role in helping the tobacco industry oppose tobacco control measures in Latin America"** during the 1990s.[36]
+  - **Atlas Network has been linked to oil and gas producers, and to efforts opposing initiatives by governments and activists on climate change**.[37][38][39][31] 
+  - It collaborated with the Macdonald-Laurier Institute of Canada in **a push for oil and gas development on Indigenous land**, according to documents described in The Guardian.[40] 
+  - Its affiliates in Canada have "extensive and deepening board interlocks" involving the **fossil fuel industry, other policy groups, and academia, and are "a reactionary current" against most climate actions**, Nicolas Graham wrote in the Canadian Review of Sociology.[41]
+  - An article in The New Republic blamed Atlas Network for its **partners' efforts in some countries to criminalize climate protesting**, particularly in Germany,[11] although Atlas Network has said it supports free speech for climate protestors.[42]
+  - Some academics have described Atlas as **an "oil-industry-funded transnational network"[37] and "the predominant vehicle for fossil capital's global mobilization against climate science and policy"**,[43] and its affiliates as being **"partly funded by Koch and allied capitalists, with heavy support from fossil fuel-based fortunes"**.[31]
+  - The Intercept, The Guardian, and The New Republic have described **Atlas Network as having ties to right-wing and conservative movements, including the administration of Donald Trump in the United States, Brexit in the United Kingdom, and anti-government protests in Latin America**.[4][44][11] 
+  - An article in International Affairs analyzing 52 Atlas partners said that "while some Atlas-affiliated partners show readiness to confront the threat of nationalist and authoritarian societal mobilization, **others conceive it as a tactical or strategic opportunity to advance free market causes**".[45] 
+  - **In Brazil, Atlas Network had a role in the "Free Brazil" movement in 2014 that led to the rise of Jair Bolsonaro**, and it sponsors the Liberty Forum where policies of Luiz Inácio Lula da Silva were opposed.[11][46]
+  - Atlas Network was linked to an online campaign that used fake accounts against the Cuban government during the 2021 Cuban protests, according to disinformation expert Julián Macías Tovar. Tovar, cited in The Guardian, also said that **Atlas Network members' Twitter accounts had been involved in bot or troll center campaigns during the 2019 Bolivian political crisis, the 2021 Ecuadorian general election, and the 2021 Peruvian general election**.[47]
+  - Philadelphia Magazine described Atlas Network as **"supporting free-market approaches to eliminating poverty and noted for its refutation of climate change and defense of the tobacco industry."**[34]
+  - In New Zealand, **Atlas Network has partnered with the free-market think tank New Zealand Taxpayers' Union**.[12]
+  - The leader of New Zealand's libertarian ACT party, **David Seymour, once worked for the Atlas Network-affiliated Frontier Centre for Public Policy in Canada**.[78]
+  - **Atlas chair Debbi Gibbs' father helped found the ACT party.[78]**
+  - According to Atlas Network, its grants fund coaching, networking, pitch competitions, award programs, and other "ambitious projects for **policy change**."[10]
+  - It has received **major funding from Koch family foundations** including the Charles Koch Foundation and the Charles Koch Institute,[4] along with Koch-affiliated funds such as Donors Trust.
+  - Research by the activist website DeSmog said A**tlas Network had received millions of dollars from Koch-affiliated groups, the ExxonMobil Foundation, and the Sarah Scaife Foundation**.[11]
+  - **As of 2005, Atlas Network had received $440,000 from ExxonMobil itself.[95]**
+  - Of **Atlas Network partners, 57% in the United States received funding from the tobacco industry between 1990 and 2000**.[35] Analysis in the International Journal of Health Planning and Management in 2016 said that a lack of transparency and data about think tank funding had made it difficult to ascertain the amounts of tobacco industry funding to Atlas Network and partners since 2003.[35]
+  - **As of 2020, Atlas Network had assets of $15,450,264.[97]**
 
 # Koch family
 
