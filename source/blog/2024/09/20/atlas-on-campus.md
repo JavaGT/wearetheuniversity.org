@@ -8,8 +8,16 @@ author: We Are The University
 
 <script src="/table-of-contents.js"></script>
 
+The NZSIS threat report names foreign influence targeting academic institutions, concerningly limiting scope to state and state affiliated actors. There is increasing influence of private organisations in universities astroturfing their views to weaken the NZ state and university institution.
+
 # [Students for Liberty](https://en.wikipedia.org/wiki/Students_for_Liberty)
-SFL is a member of Atlas Network and they are invading our campus. They are part of a libertarian organization that stokes culture-wars and climate change denial in order to keep politicians which cut taxes in power – particularly taxes on **tobacco industries**. They intend to use our campus and people to do it and **they are VERY WELL FUNDED.** They are not the university. We are. If they want to try claim our identity as students they will have to fight us for it.
+SFL is a member of Atlas Network and they are invading our campus. They are part of a libertarian organization that stokes culture-wars and climate change denial in order to keep politicians which cut taxes in power – particularly taxes on **oil and tobacco industries**. They intend to use our campus and people to do it and **they are VERY WELL FUNDED.** They are not the university. We are. If they want to try claim our identity as students they will have to fight us for it.
+
+A threat to the university is a threat to us all, Students for Liberty are anti-university as outlined by their very own books and the university is one of the few institutions still capable of holding austerity governments to account.
+
+Let it be clear. They may *hire* university students, but they are not the university and they do not care for this institution, or the people who work so hard at it, or the communities they serve.
+
+We are the university, and we will not be bought by tobacco lobbyists.
 
 ![Students for Liberty](/media/sfl-event.jpg)
 
