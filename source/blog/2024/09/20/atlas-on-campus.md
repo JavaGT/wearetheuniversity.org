@@ -12,6 +12,9 @@ author: We Are The University
 ![Students for Liberty](/media/sfl-event.jpg)
 SFL is a member of Atlas Network and they are invading our campus. They are part of a libertarian organization that stokes culture-wars and climate change denial in order to keep politicians which cut taxes in power – particularly taxes on **tobacco industries**. They intend to use our campus and people to do it and **they are VERY WELL FUNDED.** They are not the university. We are. If they want to try claim our identity as students they will have to fight us for it.
 
+# An introduction to Think Tanks
+I recommend [Tom Nicholas' video on Think Tanks (42min)](https://www.youtube.com/watch?v=3n3Hq7XSBjA)
+
 ---
 
 Here is some information about SFL and both the Atlas Network and the Koch family that fund them:
