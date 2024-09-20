@@ -28,6 +28,8 @@ From the [SFL Wikipedia Page](https://en.wikipedia.org/wiki/Students_for_Liberty
 Their book titles demonstrate their focus on stoking culture wars between staff and students in order to promote bullshit ideologies of individualism: "The Economics of Freedom: What Your Professor Won't Tell You", "The Morality of Capitalism: What Your Professors Won't Tell You", "After the Welfare State, and Why Liberty"
 
 # ATLAS Network
+ATLAS is an international oil, gas, tobacco lobby group – essentially thye take money from those who profit from the destruction of our communities and planet, and funnel that into manipulating politics so we have less and less of a say in it.
+
 - [PSA have written about ATLAS here](https://www.psa.org.nz/our-voice/understanding-atlas-how-a-right-wing-network-is-building-global-influence/).
 - [The University of Bath's Tobacco Control Research Group have written about ATLAS here](https://tobaccotactics.org/article/atlas-network/)
 - [Atlas Network Wikipedia Page](https://en.wikipedia.org/wiki/Atlas_Network)
