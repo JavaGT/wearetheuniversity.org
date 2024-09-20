@@ -6,6 +6,8 @@ date: 2024-09-20
 author: We Are The University
 ---
 
+<script src="/table-of-contents.js"></script>
+
 # [Students for Liberty](https://en.wikipedia.org/wiki/Students_for_Liberty)
 ![Students for Liberty](/media/sfl-event.jpg)
 SFL is a member of Atlas Network and they are invading our campus. They are part of a libertarian organization that stokes culture-wars and climate change denial in order to keep politicians which cut taxes in power – particularly taxes on **tobacco industries**. They intend to use our campus and people to do it and **they are VERY WELL FUNDED.** They are not the university. We are. If they want to try claim our identity as students they will have to fight us for it.
