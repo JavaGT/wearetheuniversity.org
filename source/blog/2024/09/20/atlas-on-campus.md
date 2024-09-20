@@ -12,21 +12,27 @@ SFL is a member of Atlas Network and they are invading our campus. They are part
 
 ---
 
-Here is some information about the Atlas Network and the Koch family that fund them:
+Here is some information about SFL and both the Atlas Network and the Koch family that fund them:
 
-# [SFL Wikipedia Page](https://en.wikipedia.org/wiki/Students_for_Liberty)
+# Students for Liberty
+From the [SFL Wikipedia Page](https://en.wikipedia.org/wiki/Students_for_Liberty).
 > - Le Monde and The Investigative Desk described SFL as "**a key organisation in the Koch system**" of groups.[12] SFL is a **partner in the Atlas Network**.
 > - The organization **has received financial support from billionaires David Koch and Charles Koch** and related groups such as the Cato Institute.[47] According to Le Monde and The Investigative Desk, **Students for Liberty has not formally disclosed its funders since 2016**.[12]
 
 Their book titles demonstrate their focus on stoking culture wars between staff and students in order to promote bullshit ideologies of individualism: "The Economics of Freedom: What Your Professor Won't Tell You", "The Morality of Capitalism: What Your Professors Won't Tell You", "After the Welfare State, and Why Liberty"
 
-[Atlas Network Wikipedia Page](https://en.wikipedia.org/wiki/Atlas_Network)
+# ATLAS Network
+- [PSA have written about ATLAS here](https://www.psa.org.nz/our-voice/understanding-atlas-how-a-right-wing-network-is-building-global-influence/).
+- [The University of Bath's Tobacco Control Research Group have written about ATLAS here](https://tobaccotactics.org/article/atlas-network/)
+- [Atlas Network Wikipedia Page](https://en.wikipedia.org/wiki/Atlas_Network)
 > - Atlas Network [...] is a non-governmental 501(c)(3) organization based in the United States that provides training, networking, and grants for libertarian, free-market, and conservative groups around the world.[4][5][6]
 > - **Notable members of Atlas Network include [...] the New Zealand Taxpayers' Union**.[11][12][13]
 > - Margaret Thatcher, F. A. Hayek, and Milton Friedman, all friends of Fisher, formally endorsed the organization.[9][16]
 > - Initially comprising only Fisher's think tanks, Atlas Network grew to include many others, including those affiliated with the [Koch family](https://en.wikipedia.org/wiki/Koch_family).
 > - The rapid growth of Atlas, now arguably the largest think tank network in the world, was partly **prompted by challenges to fossil fuel interests from governmental efforts against climate change**, Bryan S. Turner suggests.[31]
-> - According to The Guardian, **more than a fifth of Atlas Network affiliates worldwide had either opposed tobacco controls or taken tobacco donations**.[32][33][34] A 2017 paper in the International Journal of Health Planning and Management said that **Atlas Network "channeled funding from tobacco corporations to think tank actors to produce publications supportive of industry positions."**[35] The University of Bath's Tobacco Control Research Group said **Atlas Network "appears to have played a particular role in helping the tobacco industry oppose tobacco control measures in Latin America"** during the 1990s.[36] **In 2022, Le Monde identified 17 Atlas Network partners engaged in lobbying and advocacy for "tobacco harm reduction," which supports vaping as a substitute for smoking.**[33]
+> - According to The Guardian, **more than a fifth of Atlas Network affiliates worldwide had either opposed tobacco controls or taken tobacco donations**.[32][33][34]
+> - A 2017 paper in the International Journal of Health Planning and Management said that **Atlas Network "channeled funding from tobacco corporations to think tank actors to produce publications supportive of industry positions."**[35]
+> - The University of Bath's Tobacco Control Research Group said **Atlas Network "appears to have played a particular role in helping the tobacco industry oppose tobacco control measures in Latin America"** during the 1990s.[36]
 > - **Atlas Network has been linked to oil and gas producers, and to efforts opposing initiatives by governments and activists on climate change**.[37][38][39][31] 
 > - It collaborated with the Macdonald-Laurier Institute of Canada in **a push for oil and gas development on Indigenous land**, according to documents described in The Guardian.[40] 
 > - Its affiliates in Canada have "extensive and deepening board interlocks" involving the **fossil fuel industry, other policy groups, and academia, and are "a reactionary current" against most climate actions**, Nicolas Graham wrote in the Canadian Review of Sociology.[41]
@@ -49,7 +55,8 @@ Their book titles demonstrate their focus on stoking culture wars between staff 
 > - Of **Atlas Network partners, 57% in the United States received funding from the tobacco industry between 1990 and 2000**.[35] Analysis in the International Journal of Health Planning and Management in 2016 said that a lack of transparency and data about think tank funding had made it difficult to ascertain the amounts of tobacco industry funding to Atlas Network and partners since 2003.[35]
 > - **As of 2020, Atlas Network had assets of $15,450,264.[97]**
 
-# [Koch family Wikipedia Page](https://en.wikipedia.org/wiki/Koch_family)
+# Koch family
+[Koch family Wikipedia Page](https://en.wikipedia.org/wiki/Koch_family)
 > - Bill Koch [...] particularly opposing the Obama administration's **climate change** program
 > - Brothers Charles and David who have become famous for their activity in American politics [...]. 
 > - Through their family foundations, the brothers contributed to 34 political and policy organizations
