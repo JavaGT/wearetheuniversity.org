@@ -59,6 +59,9 @@ Their book titles demonstrate their focus on stoking culture wars between staff 
 - **As of 2020, Atlas Network had assets of $15,450,264.[97]**
 
 # Koch family
+
+I will note here one of the key organisations of the Koch family, the Heritage Foundation, is the same organisation behind [Project 2025](https://en.wikipedia.org/wiki/Project_2025).
+
 [Koch family Wikipedia Page](https://en.wikipedia.org/wiki/Koch_family)
 - Bill Koch [...] particularly opposing the Obama administration's **climate change** program
 - Brothers Charles and David who have become famous for their activity in American politics [...]. 
