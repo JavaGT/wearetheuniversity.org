@@ -5,11 +5,18 @@
           <link>https://wearetheuniversity.org</link>
           <description>Reclaiming our universities</description>
           <language>en-us</language>
-          <pubDate>2024/09/16</pubDate>
-          <lastBuildDate>Tue, 17 Sep 2024 11:45:17 GMT</lastBuildDate>
+          <pubDate>2024/09/20</pubDate>
+          <lastBuildDate>Fri, 20 Sep 2024 05:44:11 GMT</lastBuildDate>
           <docs>http://blogs.law.harvard.edu/tech/rss</docs>
           <generator>JavaScript ES6</generator>
           
+          <item>
+            <title><![CDATA[ATLAS on campus]]></title>
+            <link>/2024/09/20/atlas-on-campus</link>
+            <description><![CDATA[No description provided]]></description>
+            <pubDate>2024/09/20</pubDate>
+            <guid isPermaLink="true">/2024/09/20/atlas-on-campus</guid>
+          </item>
           <item>
             <title><![CDATA[Anything Goes Archive]]></title>
             <link>/2024/09/16/anything-goes-archive</link>

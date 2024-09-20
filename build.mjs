@@ -74,6 +74,8 @@ async function buildBlog() {
     console.log(`Building ${file}`)
     const content = await fsp.readFile(file, 'utf8')
     const { attributes, body } = parse(content)
+    // if attributes.hidden is true, skip this file
+    if (attributes.hidden) continue
     const html = marked(body)
     const output = pug.renderFile('./source/template/blog.pug', { attributes, body: html })
     let datestring = attributes.date.toISOString().replace(/\..+/, '').slice(0, 10).replace(/-/g, '/')
@@ -90,6 +92,8 @@ async function buildPages() {
     console.log(`Building ${file}`)
     const content = await fsp.readFile(file, 'utf8')
     const { attributes, body } = parse(content)
+    // if attributes.hidden is true, skip this file
+    if (attributes.hidden) continue
     const html = marked(body)
     const output = pug.renderFile('./source/template/page.pug', { attributes, body: html })
     await fsp.mkdir(`./docs/${attributes.slug}`, { recursive: true })
