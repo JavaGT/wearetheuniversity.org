@@ -278,3 +278,21 @@ p img {
     box-sizing: border-box;
     max-width: calc(100% - 2rem);
 }
+
+nav .socials {
+    margin-left: 1rem;
+    transform: translateY(0.1rem);
+    display: inline-block;
+}
+
+.socials {
+    color: var(--text-primary-inverse);
+}
+
+.socials a {
+    margin: 0 0.3rem;
+}
+
+.socials svg {
+    fill: currentColor;
+}
