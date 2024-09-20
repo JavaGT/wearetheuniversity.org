@@ -272,3 +272,9 @@ mark {
     background: var(--color-primary);
     padding: 0.3rem;
 }
+
+p img {
+    margin: 1rem;
+    box-sizing: border-box;
+    max-width: calc(100% - 2rem);
+}
