@@ -86,3 +86,14 @@ I will note here one of the key organisations of the Koch family, the Heritage F
 - Anthropogenic **climate change skeptic Willie Soon received more than $500,000 from the Charles G. Koch Charitable Foundation and a trust used by the Kochs**.
 - The primary recipients of Koch contributions, including Americans for Prosperity, The Heritage Foundation, and the Manhattan Institute, **actively oppose clean energy and carbon legislation and are skeptical of climate science**.
 - In fact, the Koch brothers were involved in the first known gathering of climate change skeptics in 1991. Organized by the Cato Institute, **the meeting shifted the position of the Republican Party on climate change**. While George H. W. Bush had still supported research into global warming under the Global Change Research Act of 1990, **acceptance of scientific evidence on climate change began to weaken due to the Koch family's influence**.
+
+# More notes on atlas
+- https://x.com/DrJeremyWalker/status/1755839545348886728
+  - ATLAS NZ UPDATE: Not only is ACT an Atlas Network founded party, but Finance Minister Nicola Willis & Energy Minister Simeon Brown have direct connections to the oil & gas lobby and Atlas units NZI and NZTU, showing clear motive to attack Te Tiriti & rewrite it for oil & gas.
+- https://www.reddit.com/r/newzealand/comments/1alk4wc/david_seymour_lies_about_his_ties_to_the_atlas/
+  - Man who has worked directly for Atlas members, whose friends and political buddies are Atlas members, and whose party was founded by an Atlas member, denies that he has anything to do with Atlas and says actually Atlas doesn't exist lol
+  - https://www.reddit.com/r/newzealand/comments/1alk4wc/comment/kpfkza9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+  - https://www.reddit.com/r/newzealand/comments/1alk4wc/comment/kpgh4hh/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+- https://web.archive.org/web/20240208071701/https://www.act.org.nz/speech_the_emergencies_labour_should_have_declared
+  - "Then the Global Index of Economic Mentality was released in November by my old friends at the Atlas Network. Atlas is an umbrella organisation for free market think tanks all over the world. It is based in Washington, DC, and chaired by a New Zealander, Debbi Gibbs."
+- https://www.psa.org.nz/our-voice/understanding-atlas-how-a-right-wing-network-is-building-global-influence/
