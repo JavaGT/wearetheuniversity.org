@@ -6,6 +6,8 @@ date: 2024-09-26
 author: We Are The University
 ---
 
+![Strike!](/media/strike.jpg)
+
 Today's strike was awesome. We had a great turnout of students and staff, and we were able to show the university management that we are united in our opposition to their attacks on our working conditions and their way of doing things.
 
 The functions of the university rest on the shoulders of students and staff and staff, after cuts to their numbers, cuts to their resources, and attacks against students and staff's intellectual autonomy, we are now being offered a real-terms paycut by university management.
