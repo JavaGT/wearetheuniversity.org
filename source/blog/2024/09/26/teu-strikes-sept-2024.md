@@ -12,7 +12,9 @@ Today's strike was awesome. We had a great turnout of students and staff, and we
 
 The functions of the university rest on the shoulders of students and staff and staff, after cuts to their numbers, cuts to their resources, and attacks against students and staff's intellectual autonomy, we are now being offered a real-terms paycut by university management.
 
-Well we said no. Students and staff reject the exploitation of our ranks and we will show you the importance of our labour.
+Well we said no. Students and staff reject the exploitation of our ranks and have shown you the importance of our labour!
+
+---
 
 The Tertiary Education Union and PSA called a strike across Waipapa Taumata Rau, Te Kunenga ki Pūrehuroa, Te Whare Wānanga o Waitaha, and Te Whare Wānaka o Aoraki (Auckland, Massey, Canterbury, Lincoln).
 
