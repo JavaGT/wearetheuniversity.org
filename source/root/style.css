@@ -99,7 +99,8 @@ section h1 {
     font-size: 2em;
 }
 
-.center {
+.center,
+.text-center {
     text-align: center;
 }
 
