@@ -7,14 +7,17 @@ slug: photos
 
 Photographs documenting the history of the University of Auckland including buildings, people, events and equipment. The majority of photographs were taken by university photographers from the 1960s onwards
 
-# [The University of Auckland Living Wage Network (Facebook)](https://www.facebook.com/UoALivingWageNetwork/photos)
+---
 
 # [Sack Pat Walsh (Facebook)](https://www.facebook.com/SackPatWalsh/photos)
 
-# [Students for Participatory Democracy (Facebook)](https://www.facebook.com/studentsforparticipatorydemocracy/photos)
+---
 
 # [TEU University of Auckland Branch (Facebook)](https://www.facebook.com/teuuoa/photos_by)
 # [TEU Otago (Facebook)](https://www.facebook.com/TEUOtago/photos_by)
+# [The University of Auckland Living Wage Network (Facebook)](https://www.facebook.com/UoALivingWageNetwork/photos)
+
+---
 
 # [We Are The University Auckland (Facebook)](https://www.facebook.com/WearetheUniversityAkl/photos_by)
 # [Blockade the Budget (Facebook)](https://www.facebook.com/BlockadeTheBudget/photos_by)
@@ -24,10 +27,14 @@ Photographs documenting the history of the University of Auckland including buil
 # [A New University (Facebook)](https://www.facebook.com/anewuniversitynz/photos_by)
 # [Save UoA Fine Arts Library from Closing (Facebook)](https://www.facebook.com/profile.php?id=100069587863402&sk=photos_by)
 # [Demand A Better Future (Facebook)](https://www.facebook.com/demandabetterfuture/photos)
+# [Students for Participatory Democracy (Facebook)](https://www.facebook.com/studentsforparticipatorydemocracy/photos)
+
+---
 
 # [NO MORE EXCUSES NZ (Facebook)](https://www.facebook.com/nomorexcusesnz/photos)
 # [NZUSA - New Zealand Union of Students' Associations (Facebook)](https://www.facebook.com/NZUSA/photos_by)
 
+---
 
 # Extra
 ## Aotearoa
