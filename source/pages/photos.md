@@ -7,6 +7,8 @@ slug: photos
 
 Photographs documenting the history of the University of Auckland including buildings, people, events and equipment. The majority of photographs were taken by university photographers from the 1960s onwards
 
+# [We Are The University Flickr](https://www.flickr.com/photos/67852624@N02/)
+
 ---
 
 # [Sack Pat Walsh (Facebook)](https://www.facebook.com/SackPatWalsh/photos)
