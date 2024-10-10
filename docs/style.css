@@ -9,7 +9,7 @@
 html {
     --nav-height: 1.8rem;
     --logo-font: 'Arial Black';
-    --body-font: 'Montserrat';
+    --body-font: 'Montserrat', 'Arial';
     /* --color-primary: #eee; */
     /* --color-background: #94bbd6; */
     --color-tint: #0002;
@@ -219,37 +219,6 @@ strong a {
     color: var(--text-tint);
 }
 
-
-@media print {
-    html {
-        font-size: 0.9rem;
-    }
-
-    button[onclick="window.print()"] {
-        display: none !important;
-    }
-
-    nav {
-        position: absolute;
-        text-align: center;
-    }
-
-    a {
-        text-decoration: none;
-    }
-
-    h1,
-    h2,
-    h3 {
-        font-size: 1.4em;
-        margin: 0.8rem 0;
-    }
-
-    .page-break {
-        page-break-after: always;
-    }
-}
-
 em {
     color: var(--text-tint);
 }
@@ -296,4 +265,40 @@ nav .socials {
 
 .socials svg {
     fill: currentColor;
+}
+
+
+@media print {
+    html {
+        font-size: 0.9rem;
+    }
+
+    button[onclick="window.print()"] {
+        display: none !important;
+    }
+
+    nav {
+        position: absolute;
+        text-align: center;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    h1,
+    h2,
+    h3 {
+        font-size: 1.4em;
+        margin: 0.8rem 0;
+    }
+
+    .page-break {
+        page-break-after: always;
+    }
+
+    nav .socials,
+    .socials {
+        display: none;
+    }
 }
