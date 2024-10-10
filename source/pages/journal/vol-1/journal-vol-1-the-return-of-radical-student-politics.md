@@ -1,6 +1,6 @@
 ---
 
-title: "THE RETURN OF RADICAL STUDENT POLITICS: ARE WE UP TO THE CHALLENGE?"
+title: "The Return Of Radical Student Politics: Are We Up To The Challenge?"
 author: "Postgraduate Anthropology student at the University of Auckland"
 date: 2011
 slug: journal/vol-1/the-return-of-radical-student-politics
