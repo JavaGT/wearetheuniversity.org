@@ -35,9 +35,6 @@ Such a transformation does not take place overnight. It involves an often imper-
 
 Of course the university can continue under capitalism, in name if not in concept.
 
-![Barricades in the library basement at Auckland]()
-Barricades in the library basement at Auckland
-
 But no matter how deplorable the situation is at present, capitalism, which is not a regime but a tendency, has not yet completed its game. If we look to the UK, where student fees have now risen to £9,000 per year and state funding for anything but the most narrowly conceived technosciences has been cut almost completely, then we can see one vision of the future. University administrators surely mean well when they seek to increase funding for the university, although when they complain that their hands are tied by the govern- ment this complaint seems to be motivated by a will to unleash the pure and relentless logic of capital on us all. This goes well beyond attempts to tamper with conditions in the collective contract, as it involves a fundamental realignment of priorities and the categories though which we evaluate those priorities.
 
 I returned to the University of Auckland earlier this year after a dozen years in Europe, and have been again and again impressed by the ability, vitality and commitment of the student body. I hear the frustration of students, not merely about their debts, but about restrictions on content, the lack of space for critical interchange and beyond this their concern about the lack of participation in the governance of the university. I can also see what students promise. We could all walk out, whether to make a killing in the city, to head abroad with no intention of returning, or to establish a university elsewhere based on entirely different premises and principles. Such are options to us all. For my part, I propose that we stay, and we make this the kind of place that we collectively want it to be, for us and for future generations.
