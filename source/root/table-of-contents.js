@@ -2,25 +2,82 @@ let currentScript = document.currentScript;
 // wait for page to load
 document.addEventListener('DOMContentLoaded', function () {
     // generate a table of contents
-    var toc = document.createElement('div');
-    toc.innerHTML = '<h2>Table of Contents</h2>';
-    var ul = document.createElement(currentScript.getAttribute('list') || 'ul');
-    ul.style.columnCount = currentScript.getAttribute('columns') || 3;
+    var tocElementWrapper = document.createElement('div');
+    tocElementWrapper.innerHTML = '<h2>Table of Contents</h2>';
+
+
     var include = currentScript.getAttribute('include') || 'h1, h2, h3, h4, h5, h6';
-    var exclude = currentScript.getAttribute('exclude');
-    var headings = [...document.querySelectorAll(include)]
+    var exclude = currentScript.getAttribute('exclude') || '.banner *';
+    var listOfAllHeadings = [...document.querySelectorAll(include)]
         .filter(heading => !exclude || !heading.matches(exclude));
-    for (var i = 0; i < headings.length; i++) {
-        var heading = headings[i];
-        heading.id = 'heading-' + i;
+
+    // create a list element
+    var listKind = currentScript.getAttribute('list') || 'ul';
+    var rootListElement = document.createElement(listKind);
+    rootListElement.style.columnCount = currentScript.getAttribute('columns') || 3;
+    tocElementWrapper.appendChild(rootListElement);
+
+    var currentDepth = 1;
+    var currentListElement = rootListElement;
+
+    listOfAllHeadings.forEach((heading, i) => {
+        var level = parseInt(heading.tagName.slice(1));
+        while (level > currentDepth) {
+            // var newLi = document.createElement('li');
+            var newList = document.createElement(listKind);
+            (currentListElement.lastChild ? currentListElement.lastChild : currentListElement).appendChild(newList);
+            // newLi.appendChild(newList);
+            currentListElement = newList;
+            currentDepth++;
+        }
+        while (level < currentDepth) {
+            currentListElement = currentListElement.parentElement.parentElement;
+            currentDepth--;
+        }
+
+        heading.id = heading.id || 'heading-' + i;
+
         var li = document.createElement('li');
         var a = document.createElement('a');
         a.href = '#' + heading.id;
         a.textContent = heading.textContent;
         li.appendChild(a);
-        ul.appendChild(li);
-    }
-    toc.appendChild(ul);
+        currentListElement.appendChild(li);
+    });
+
+    // var ul = document.createElement(currentScript.getAttribute('list') || 'ul');
+    // ul.style.columnCount = currentScript.getAttribute('columns') || 3;
+    // var tocLevels = {};
+    // headings.forEach(heading => {
+    //     var level = heading.tagName.toLowerCase();
+    //     if (!tocLevels[level]) {
+    //         tocLevels[level] = [];
+    //     }
+    //     tocLevels[level].push(heading);
+    // });
+    // Object.keys(tocLevels).forEach(level => {
+    //     var li = document.createElement('li');
+    //     var heading = tocLevels[level][0];
+    //     heading.id = 'heading-' + level;
+    //     var a = document.createElement('a');
+    //     a.href = '#' + heading.id;
+    //     a.textContent = heading.textContent;
+    //     li.appendChild(a);
+    //     var sublist = document.createElement('ul');
+    //     tocLevels[level].slice(1).forEach(subheading => {
+    //         var subli = document.createElement('li');
+    //         var suba = document.createElement('a');
+    //         suba.href = '#' + subheading.id;
+    //         suba.textContent = subheading.textContent;
+    //         subli.appendChild(suba);
+    //         sublist.appendChild(subli);
+    //     });
+    //     li.appendChild(sublist);
+    //     ul.appendChild(li);
+    // });
+
+    tocElementWrapper.appendChild(rootListElement);
+
     // place after this script element
-    currentScript.insertAdjacentElement('afterend', toc);
+    currentScript.insertAdjacentElement('afterend', tocElementWrapper);
 });
