@@ -4,9 +4,12 @@ document.addEventListener('DOMContentLoaded', function () {
     // generate a table of contents
     var toc = document.createElement('div');
     toc.innerHTML = '<h2>Table of Contents</h2>';
-    var ul = document.createElement('ul');
-    ul.style.columnCount = 3;
-    var headings = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+    var ul = document.createElement(currentScript.getAttribute('list') || 'ul');
+    ul.style.columnCount = currentScript.getAttribute('columns') || 3;
+    var include = currentScript.getAttribute('include') || 'h1, h2, h3, h4, h5, h6';
+    var exclude = currentScript.getAttribute('exclude');
+    var headings = [...document.querySelectorAll(include)]
+        .filter(heading => !exclude || !heading.matches(exclude));
     for (var i = 0; i < headings.length; i++) {
         var heading = headings[i];
         heading.id = 'heading-' + i;

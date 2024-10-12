@@ -55,6 +55,10 @@ body {
     /* border-bottom: 0.1px dashed #444; */
 }
 
+li {
+    margin: 0.4rem;
+}
+
 .contents li:nth-child(2n) {
     background: #81818118
 }
@@ -209,6 +213,11 @@ section.body {
 a {
     color: var(--text-highlight);
 }
+
+a:not(:has(*)):not([href^="#"]) {
+    line-break: anywhere;
+}
+
 
 a:hover {
     color: var(--text-primary-inverse);
