@@ -1,6 +1,6 @@
 ---
 title: Debate Archive
-slug: debate-archive
+slug: student-magazine-archives/debate
 date: 2024-09-16
 source: https://www.debatemag.com/
 source_name: Debate Magazine

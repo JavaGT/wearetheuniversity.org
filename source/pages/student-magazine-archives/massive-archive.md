@@ -1,6 +1,6 @@
 ---
 title: Massive Archive
-slug: massive-archive
+slug: student-magazine-archives/massive
 date: 2024-09-16
 source: https://issuu.com/massivemagazine/
 source_name: Massive Magazine – Issuu

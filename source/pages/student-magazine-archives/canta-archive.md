@@ -1,6 +1,6 @@
 ---
 title: Canta Archive
-slug: canta-archive
+slug: student-magazine-archives/canta
 date: 2024-09-16
 source: https://issuu.com/cantaiscool
 source_name: Canta Magazine

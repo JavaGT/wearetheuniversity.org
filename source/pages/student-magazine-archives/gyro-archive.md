@@ -1,6 +1,6 @@
 ---
 title: Gyro Archive
-slug: gyro-archive
+slug: student-magazine-archives/gyro
 date: 2024-09-16
 source: https://web.archive.org/web/20100602105204/http://www.gyro.org.nz/archives.php
 source_name: Gyro – archive.org

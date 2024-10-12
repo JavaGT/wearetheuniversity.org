@@ -1,6 +1,6 @@
 ---
 title: Nexus Archive
-slug: nexus-archive
+slug: student-magazine-archives/nexus
 date: 2024-09-16
 source: https://issuu.com/nexusmag
 source_name: Nexus Mag – Issuu

@@ -1,6 +1,6 @@
 ---
 title: Te Pararē Archive
-slug: te-parare-archive
+slug: student-magazine-archives/te-parare
 date: 2024-09-16
 source: https://www.temanaakonga.org.nz/teparare
 source_name: Te Mana Ākonga

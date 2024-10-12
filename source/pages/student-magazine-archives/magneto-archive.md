@@ -1,6 +1,6 @@
 ---
 title: Magneto Archive
-slug: magneto-archive
+slug: student-magazine-archives/magneto
 date: 2024-09-16
 source: https://magnetomagazine.wordpress.com/
 source_name: Magneto Magazine

@@ -1,6 +1,6 @@
 ---
 title: Salient Archive
-slug: salient-archive
+slug: student-magazine-archives/salient
 date: 2024-09-01
 source: http://salientarchive.com/
 source_name: Salient Archive

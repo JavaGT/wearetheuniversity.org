@@ -1,6 +1,6 @@
 ---
 title: Satellite Archive
-slug: satellite-archive
+slug: student-magazine-archives/satellite
 date: 2024-09-16
 source: https://web.archive.org/web/20130206230904/http://www.satellite.ac.nz/issue-pdfs/
 source_name: Satellite Magazine

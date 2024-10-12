@@ -1,6 +1,6 @@
 ---
 title: Bug Archive
-slug: bug-archive
+slug: student-magazine-archives/bug
 date: 2024-09-16
 source: https://tamiro.massey.ac.nz/nodes/browse/?meta=eyIxMjU3IjpbIkVhcndpZ1wvVGFja2xlXC9RdWVyeVwvQnVnIl19
 source_name: Massey University Library

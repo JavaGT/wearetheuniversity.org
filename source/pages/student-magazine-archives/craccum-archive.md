@@ -1,6 +1,6 @@
 ---
 title: Craccum Archive
-slug: craccum-archive
+slug: student-magazine-archives/craccum
 date: 2024-08-31
 source: https://web.archive.org
 source_name: Wayback Machine
