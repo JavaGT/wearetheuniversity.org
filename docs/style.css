@@ -7,7 +7,7 @@
 }
 
 html {
-    --nav-height: 1.8rem;
+    --nav-height: 2.4rem;
     --logo-font: 'Arial Black';
     --body-font: 'Montserrat', 'Arial';
     /* --color-primary: #eee; */
@@ -83,6 +83,7 @@ li {
 
 body {
     margin: 0;
+    margin-bottom: 30vh;
 }
 
 section {
@@ -101,6 +102,7 @@ section {
 
 section h1 {
     font-size: 2em;
+    /* margin-top: 5rem; */
 }
 
 .center,
@@ -214,7 +216,7 @@ a {
     color: var(--text-highlight);
 }
 
-a:not(:has(*)):not([href^="#"]) {
+a:not(:has(*)):not([href^="#"]):not(h1 a):not(h2 a):not(h3 a):not(h4 a):not(h5 a):not(h6 a) {
     line-break: anywhere;
 }
 
@@ -256,6 +258,7 @@ p img {
     margin: 1rem;
     box-sizing: border-box;
     max-width: calc(100% - 2rem);
+    max-height: 50vh;
 }
 
 nav .socials {
@@ -310,4 +313,11 @@ nav .socials {
     .socials {
         display: none;
     }
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: var(--text-tint);
+    margin: 2rem 0;
 }
