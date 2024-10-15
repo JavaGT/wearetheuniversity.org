@@ -1,0 +1,111 @@
+---
+title: "Racism Policy not yet official, say AUSA"
+slug: racism-policy-not-yet-official-say-ausa
+date: 2009-05-20
+source: https://www.scoop.co.nz/stories/PO0905/S00268/racism-policy-not-yet-official-say-ausa.htm
+source-name: Scoop
+author: Auckland University Students Association
+author-slug: auckland-university-students-association
+---
+<div class="story-top">
+           <h1>Racism Policy not yet official, say AUSA</h1>
+
+           <span class="byline"><b>Wednesday, 20 May 2009,  5:20 pm</b><br>
+             <b>Press Release: <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a></b></span>
+
+         </div>
+
+	 <p>
+         <b>Media Release – 20 May 2009 – For Immediate
+Use</b></p><p><b>Racism Policy not yet official, say
+AUSA</b></p><p>A motion passed at an Auckland University
+students’ forum today, labelling National Party
+by-election candidate Melissa Lee racist, is not yet
+official AUSA policy, says Darcy Peacock, President of the
+Auckland University Students’ Association.</p><p>While a
+Student Forum labeled Ms. Lee racist, such meetings can only
+recommend resolutions to the students’ association
+executive for approval. </p><p>“Lively debate at Student
+Forums is common, and the process to consider these motions
+is robust,” said AUSA President Darcy Peacock. “Clearly,
+many students were unhappy with the comments made by Lee and
+came to the quad today to make their opinions heard”
+Peacock added. </p><p>With speeches from Labour, National, ACT
+and Greens, some students heckled Lee throughout the debate
+and an election sign was captured by activists.
+</p><p>“Policies approved by the Student Forum are submitted
+to the student executive for discussion and further
+approval” said AUSA Administrative Vice President Joe
+McCrory.  </p><p>“While students led a very heated debate on
+the statement made last week by Ms. Lee, the Association
+executive has not yet considered the policy”, added
+Peacock. </p><p>“AUSA will be seeking further input from
+student groups before making an official statement on our
+position” Peacock concluded.
+</p><p>ENDS<br>
+</p><div class="article-left-box-wrapper"><div class="article-left-box">
+        
+
+
+
+
+<div class="headline-right"><div id="in-cont" style="background:white;">
+ <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
+
+  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
+@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
+<!-- /1688062/Scoop_Super-Rectangle -->
+   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
+</script>
+   </div>
+
+  </div> 
+</div>
+</div>
+
+</div></div>
+<!-- LINKS REMOVED 
+ SUB:0 URL:PO0905/S00268/racism-policy-not-yet-official-say-ausa.htm -->
+<p>
+<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
+  LINKS NOT REMOVED 
+  SUB:0
+  URL:PO0905/S00268/racism-policy-not-yet-official-say-ausa.htm
+ -->
+         <br>
+</p><div id="story-footer" style="padding:20px 0;">
+<!-- /1688062/Scoop_Story-Footer -->
+<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-6'); });
+  </script>
+</div>
+</div>
+<!--
+<div id="byline-block">
+<style> a.supporter:hover {background:#EC4438!important;} 
+@media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}</style>
+<div class="byline-block byline-block-light" style="background-color:#ebebeb; font-size:16px; line-height:22px; font-weight:normal; border: 1px solid #f55a3f; width: -webkit-fill-available;">
+<h4>Did you know Scoop has an Ethical Paywall?</h4>
+<p>If you're using Scoop for work, your organisation needs to pay a small license fee with Scoop Pro. We think that's fair, because your organisation is benefiting from using our news resources. In return, we'll also give your team access to pro news tools and keep Scoop free for personal use, because public access to news is important!<br /><br />
+ <a class="supporter" href="https://pro.scoop.co.nz/?from=SFPro23" target="_blank" style="background: #f55a3f; color: #ffffff!important; border-radius: 2px; padding: 5px 12px 6px 12px;font-weight:normal;">Go to Scoop Pro</a>  
+<a style="color:#1e1e1e;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=SFPro23" target="_blank"><u>Find out more</u></a></p> 
+</div>
+</div> -->
+<!-- Pro Individual -->
+<div id="byline-block">
+<style> a.supporter:hover {background:#EC4438!important;} 
+@media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}</style>
+<div class="byline-block byline-block-light" style="background-color:#fff; font-size:16px; line-height:22px; font-weight:normal; border: 1px solid #f55a3f; width: -webkit-fill-available;">
+<h3 style="margin-top:0px;">Are you licensed for Scoop?</h3>
+<p> Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop without a regular paywall. Join today with plans starting from just $11 per month, and start using Scoop like a Pro.<br><br>
+ <a class="supporter" href="https://pro.scoop.co.nz/Individual/?from=ProIn24" target="_blank" style="background: #f55a3f; color: #ffffff!important; border-radius: 2px; display: unset; border:none; padding: 5px 12px 6px 12px;font-weight:normal;">Join Pro Individual</a>  
+<a style="color:#1e1e1e;display: unset; border:none;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24" target="_blank"><u>Find out more</u></a></p> 
+</div>
+</div>
+
+
+<div id="byline-block"><div class="byline-block byline-block-light">Find more from <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a> on InfoPages.</div></div>
+         <div class="cleaner">&nbsp;</div>

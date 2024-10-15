@@ -5,6 +5,7 @@ slug: election-day-exams-restrict-voting-accessibility
 source: https://www.scoop.co.nz/stories/PO2009/S00073/election-day-exams-restrict-voting-accessibility.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Election Day Exams Restrict Voting Accessibility</h1>

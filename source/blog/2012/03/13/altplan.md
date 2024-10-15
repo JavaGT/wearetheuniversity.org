@@ -4,6 +4,7 @@ slug: altplan
 date: 2012-03-13
 source: https://web.archive.org/web/20120313201715/http://wearetheuniversity.org.nz/altplan/
 author: We Are The University
+author-slug: we-are-the-university
 ---
 
 Date is the date the page was archived by the Wayback Machine.

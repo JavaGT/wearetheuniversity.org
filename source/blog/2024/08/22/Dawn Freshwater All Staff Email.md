@@ -4,6 +4,7 @@ slug: dawn-freshwater-all-staff-email
 date: 2024-08-22
 source: staff mailing list
 author: Dawn Freshwater (Vice Chancellor, University of Auckland)
+author-slug: dawn-freshwater
 ---
 
 Thu 22-Aug-24

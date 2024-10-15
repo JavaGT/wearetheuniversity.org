@@ -5,7 +5,8 @@ date: 2024-08-02
 source: https://www.reddit.com/r/universityofauckland/comments/1ei17pq/are_you_in_a_small_course_course_cuts_are_being/
 mirrored: 2024-08-24
 author: /u/Squashy_ending
-author_url: https://www.reddit.com/user/Squashy_ending
+author-url: https://www.reddit.com/user/Squashy_ending
+author-slug: squashy-ending
 ---
 
 

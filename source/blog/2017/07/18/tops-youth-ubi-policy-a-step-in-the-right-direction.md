@@ -5,6 +5,7 @@ slug: tops-youth-ubi-policy-a-step-in-the-right-direction
 source: https://www.scoop.co.nz/stories/PO1707/S00252/tops-youth-ubi-policy-a-step-in-the-right-direction.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>TOP’s youth UBI policy a step in the right direction</h1>

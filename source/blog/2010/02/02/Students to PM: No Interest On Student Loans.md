@@ -5,6 +5,7 @@ date: 2010-02-02
 source: https://www.scoop.co.nz/stories/ED1002/S00005.htm
 source_name: Scoop
 author: New Zealand Union of Students Associations
+author-slug: nzusa
 ---
 
 Students call on Prime Minister to reaffirm no interest on student loans

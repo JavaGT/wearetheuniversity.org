@@ -4,6 +4,7 @@ slug: student-led-open-forum-minutes
 date: 2024-08-24
 source: https://docs.google.com/document/d/1aWoM7d5Ju061BHejOfWT172LtuaWtFxW9-A2-YxX6ro/edit
 author: anonymous
+author-slug: anonymous
 ---
 *As the recorder, the following notes are written without bias, from a neutral perspective.*
 

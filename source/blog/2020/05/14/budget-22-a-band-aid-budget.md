@@ -5,6 +5,7 @@ slug: budget-22-a-band-aid-budget
 source: https://www.scoop.co.nz/stories/PO2005/S00203/budget-2020-a-band-aid-budget.htm
 source_name: Scoop
 author: NZ Union of Students' Associations
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Budget 2020: A Band-Aid Budget</h1>

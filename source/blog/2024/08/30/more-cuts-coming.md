@@ -4,6 +4,7 @@ slug: more-cuts-coming
 date: 2024-08-30
 # source: university-of-auckland-all-staff-forum-29th-august-2024
 author: Java Grant
+author-slug: java-grant
 ---
 
 Based on some [recent leaks](/2024/08/29/university-of-auckland-all-staff-forum-29th-august-2024) it is apparent there are more cuts on their way at The University of Auckland beyond the ones students and staff are already kicking up a fuss about.

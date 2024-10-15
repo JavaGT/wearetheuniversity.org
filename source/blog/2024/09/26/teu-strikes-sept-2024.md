@@ -4,6 +4,7 @@ subtitle: Students show up in force to support striking staff
 slug: teu-strikes-sept-2024
 date: 2024-09-26
 author: We Are The University
+author-slug: we-are-the-university
 ---
 
 ![Strike!](/media/strike.jpg)

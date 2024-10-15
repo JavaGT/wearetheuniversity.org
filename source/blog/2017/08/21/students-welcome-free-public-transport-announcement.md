@@ -5,6 +5,7 @@ slug: students-welcome-free-public-transport-announcement
 source: https://www.scoop.co.nz/stories/PO1708/S00408/students-welcome-free-public-transport-announcement.htm
 source_name: Scoop
 author: NZ Union of Students' Associations
+author-slug: nz-union-of-students-associations
 ---
 <div class="story-top">
            <h1>Students welcome free public transport announcement</h1>

@@ -3,6 +3,8 @@ title: Optimisation of our courses and programmes
 slug: optimisation-of-our-courses-and-programmes
 date: 2024-07-01
 source: private communications
+author: unknown
+author-slug: unknown
 ---
 
 

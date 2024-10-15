@@ -4,6 +4,7 @@ subtitle:
 slug: rally-agains-course-cuts
 date: 2024-10-09
 author: We Are The University
+author-slug: we-are-the-university
 ---
 
 ![Rally Graphic](/media/rally.png)

@@ -5,6 +5,7 @@ slug: nzusa-joins-the-global-student-forum
 source: https://www.scoop.co.nz/stories/PO2111/S00096/nzusa-joins-the-global-student-forum.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>NZUSA Joins The Global Student Forum</h1>

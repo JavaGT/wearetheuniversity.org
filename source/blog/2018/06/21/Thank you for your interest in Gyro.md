@@ -5,6 +5,7 @@ date: 2018-06-21
 source: https://www.facebook.com/GyroExtra/posts/pfbid02Ddu4EAisUwqsDW4WkxwuVtYRSf5U7zGz9JRSvzPw8j4rsjkUKkpiKuveNfbmpNLfl
 source_name: Facebook - Gyro
 author: Gyro
+author-slug: gyro
 ---
 <div class="story-top">
            <h1>‘Successive parliaments have stifled student voice’ – NZUSA</h1>

@@ -5,6 +5,7 @@ slug: vocational-education-students-must-be-the-centre
 source: https://www.scoop.co.nz/stories/ED1902/S00035/vocational-education-students-must-be-the-centre.htm
 source_name: Scoop
 author: NZ Union of Students' Associations
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Vocational Education - 'students must be the centre'</h1>

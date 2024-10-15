@@ -5,6 +5,7 @@ slug: greens-policy-would-improve-tertiary-students-lives
 source: https://www.scoop.co.nz/stories/PO1709/S00232/greens-policy-would-improve-tertiary-students-lives.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Greens’ policy would improve tertiary students’ lives</h1>

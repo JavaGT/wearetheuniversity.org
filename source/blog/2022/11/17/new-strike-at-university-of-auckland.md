@@ -1,0 +1,77 @@
+---
+title: "New Strike At University Of Auckland"
+slug: new-strike-at-university-of-auckland
+date: 2022-11-17
+source: https://www.scoop.co.nz/stories/PO2211/S00113/new-strike-at-university-of-auckland.htm
+source-name: Scoop
+author: Tertiary Education Union
+author-slug: tertiary-education-union
+---
+<div class="story-top">
+           <h1>New Strike At University Of Auckland</h1>
+
+           <span class="byline"><b>Thursday, 17 November 2022, 12:28 pm</b><br>
+             <b>Press Release: <a href="https://info.scoop.co.nz/Tertiary_Education_Union">Tertiary Education Union</a></b></span>
+
+         </div>
+
+	 <p>
+         </p><p>Professional (non-academic) staff at The University of
+Auckland | Waipapa Taumata Rau who are members of Te Hautū
+Kahurangi | Tertiary Education Union have commenced a
+week-long strike.</p><p>The strike is a ban on working more
+than the ordinary hours of work defined in the collective
+agreement from 8:30 this morning until 5pm on Thursday 24
+November. This strike is in addition to a ban on entering
+and releasing student marks or course marks into any student
+management system that commenced at 7pm on Monday.</p><p>TEU
+Kaiwhakahaere | Organiser Adam Craigie says “our members
+are only contracted and paid to work 37.5 hours per week,
+yet this is rarely adhered to, if ever. This strike will
+shine a light on an important underlying issue in the
+current dispute.”</p><p>“Universities function on an
+enormous amount of goodwill. In the aftermath of over a
+decade of restructuring that has seen hundreds of staff
+leave but the work they did remaining, our members have been
+struggling to do more and more on top of the full-time jobs
+they already had. Then COVID-19 hit and significantly
+increased workloads again.”</p><p>“This has left them at
+and beyond breaking point with little real empathy from
+senior management who are now telling them they are not
+worth a pay rise that keeps the value of their pay up with
+inflation when that is the minimum they
+deserve.”</p><p>“Enough is
+enough.”</p>
+<div class="article-left-box-wrapper"><div class="article-left-box">
+        
+
+
+
+
+<div class="headline-right"><div id="in-cont" style="background:white;">
+ <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
+
+  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
+@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
+<!-- /1688062/Scoop_Super-Rectangle -->
+   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
+</script>
+   </div>
+
+  </div> 
+</div>
+</div>
+
+</div></div>
+<!-- LINKS REMOVED 
+ SUB:0 URL:PO2211/S00113/new-strike-at-university-of-auckland.htm -->
+<p>
+<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
+  LINKS NOT REMOVED 
+  SUB:0
+  URL:PO2211/S00113/new-strike-at-university-of-auckland.htm
+ -->
+         </p><div id="byline-block"><div class="byline-block byline-block-light">Find more from <a href="https://info.scoop.co.nz/Tertiary_Education_Union">Tertiary Education Union</a> on InfoPages.</div></div>
+         <div class="cleaner">&nbsp;</div>

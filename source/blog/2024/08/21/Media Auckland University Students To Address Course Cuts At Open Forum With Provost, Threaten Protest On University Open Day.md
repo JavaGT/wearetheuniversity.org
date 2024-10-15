@@ -3,6 +3,8 @@ title: Auckland University Students To Address Course Cuts At Open Forum With Pr
 slug: auckland-university-students-to-address-course-cuts-at-open-forum-with-provost-threaten-protest-on-university-open-day
 date: 2024-08-21
 source: https://www.scoop.co.nz/stories/ED2408/S00045/auckland-university-students-to-address-course-cuts-at-open-forum-with-provost-threaten-protest-on-university-open-day.htm
+author: We Are The University
+author-slug: we-are-the-university
 ---
 
 

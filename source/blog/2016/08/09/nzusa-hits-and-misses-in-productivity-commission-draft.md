@@ -5,6 +5,7 @@ slug: nzusa-hits-and-misses-in-productivity-commission-draft
 source: https://www.scoop.co.nz/stories/PO1609/S00370/nzusa-hits-and-misses-in-productivity-commission-draft.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>NZUSA: Hits and Misses in Productivity Commission Draft</h1>

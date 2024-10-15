@@ -3,8 +3,9 @@ title: AUSA Invite To Forum
 slug: ausa-invite-to-forum
 date: 2024-08-16
 source: https://burn-it.github.io/Disorientation/small-classes/resources/
-author: Concerned Students
+author: We Are The University (formerly Concerned Students)
 author_url: https://burn-it.github.io/Disorientation/small-classes/
+author-slug: we-are-the-university
 ---
 16 August 2024
 Auckland University Student Association

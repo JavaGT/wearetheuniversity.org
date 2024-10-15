@@ -2,6 +2,8 @@
 title: Email to Senate Members
 slug: email-to-senate-members
 date: 2024-08-26
+author: We Are The University
+author-slug: we-are-the-university
 ---
 
 From: email@wearetheuniversity.org

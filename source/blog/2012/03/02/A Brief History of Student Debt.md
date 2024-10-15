@@ -3,7 +3,8 @@ title: A Brief History of Student Debt
 slug: a-brief-history-of-student-debt
 date: 2012-03-02
 source: https://web.archive.org/web/20130208081805/http://wearetheuniversity.org.nz/2012/03/02/a-brief-history-of-student-debt/
-author: Anonymous
+author: We Are The University
+author-slug: we-are-the-university
 ---
 Student debt is a normal part of studying right? Wrong! Until 1989 not only were there no university fees, but most students were given a living grant – they were paid to study. That means that of the generation that is in power now, the politicians and the university Vice Chancellors of New Zealand, virtually all of them got to study without the burden of a snowballing loan and got to start their careers with zero debt. Makes you wonder where the fuck the Minister for Tertiary Education, Steven Joyce, gets off saying that students should stop complaining, “keep your heads down,” and take $30,000+ of debt on the chin.
 

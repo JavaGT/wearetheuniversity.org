@@ -5,6 +5,7 @@ date: 2010-07-28
 source: https://www.scoop.co.nz/stories/ED1007/S00100/students-agree-with-pm-student-debts-a-disaster.htm
 source_name: Scoop
 author: New Zealand Union of Students Associations
+author-slug: nzusa
 ---
 
 **Students agree with PM – student debt is a disaster**

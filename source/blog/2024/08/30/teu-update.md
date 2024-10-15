@@ -3,6 +3,7 @@ title: TEU Update Email
 slug: teu-update
 date: 2024-08-30
 author: Barry Hughes
+author-slug: barry-hughes
 ---
 
 WHOA. This is interesting.

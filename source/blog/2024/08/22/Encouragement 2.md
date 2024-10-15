@@ -4,6 +4,7 @@ slug: encouragement-2
 date: 2024-08-22
 source: private communications
 author: anonymous
+author-slug: anonymous
 ---
 
 Hi Java, 

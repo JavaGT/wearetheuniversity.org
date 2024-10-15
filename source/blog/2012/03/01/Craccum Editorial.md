@@ -4,6 +4,7 @@ slug: craccum-letters
 date: 2012-03-01
 source: https://web.archive.org/web/20130210042854/http://craccum.ausa.auckland.ac.nz/?p=82
 author: Anonymous
+author-slug: anonymous
 ---
 
 Dear Craccum,

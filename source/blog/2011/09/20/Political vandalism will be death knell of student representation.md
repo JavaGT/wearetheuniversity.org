@@ -5,6 +5,7 @@ date: 2011-09-20
 source: https://www.stuff.co.nz/the-press/opinion/columnists/chris-trotter/5652798/Political-vandalism-will-be-death-knell-of-student-representation
 source_name: Stuff
 author: Chris Trotter
+author-slug: chris-trotter
 ---
 
 Longer ago than I care to compute, I made the decision to "go to varsity" and become a student. It meant becoming part of a large, complex, exciting and intensely stimulating community. There was nothing "compulsory" about the process, I could exit the university at any time. The problem was, if you weren't part of the university, you couldn't be a student.

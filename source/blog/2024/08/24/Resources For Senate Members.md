@@ -3,6 +3,7 @@ title: Resources For Senate Members
 slug: resources-for-senate-members
 date: 2024-08-24
 author: anonymous
+author-slug: anonymous
 ---
 <button onclick="window.print()" style="display: block; margin: 0 auto;">PRINT THIS PAGE</button>
 

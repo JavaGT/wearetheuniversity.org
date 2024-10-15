@@ -4,6 +4,7 @@ slug: reclamation-theory-into-practice
 date: 2012-03-18
 source: https://web.archive.org/web/20130208031310/http://wearetheuniversity.org.nz/2012/03/18/reclamation-theory-into-practice/
 author: Johnny Truant
+author-slug: johnny-truant
 ---
 
 **Plan a Campaign:**

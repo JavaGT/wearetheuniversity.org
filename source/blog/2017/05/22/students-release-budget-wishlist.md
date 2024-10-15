@@ -5,6 +5,7 @@ slug: students-release-budget-wishlist
 source: https://www.scoop.co.nz/stories/PO1705/S00284/students-release-budget-wishlist.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Students release Budget wishlist</h1>

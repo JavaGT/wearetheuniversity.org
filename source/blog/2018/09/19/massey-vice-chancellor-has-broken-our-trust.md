@@ -5,6 +5,7 @@ slug: massey-vice-chancellor-has-broken-our-trust
 source: https://www.scoop.co.nz/stories/ED1809/S00048/massey-vice-chancellor-has-broken-our-trust.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Massey Vice-Chancellor has broken our trust</h1>

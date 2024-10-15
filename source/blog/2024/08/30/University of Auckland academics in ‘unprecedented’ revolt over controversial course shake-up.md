@@ -4,6 +4,7 @@ slug: university-of-auckland-academics-in-unprecedented-revolt-over-controversia
 date: 2024-08-30
 source: https://www.nzherald.co.nz/nz/university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up/ODXSAEWSHFHFLLPR73HWSOEMTE/
 author: Jamie Morton
+author-slug: jamie-morton
 ---
 
 [Original article has photo and video content.](https://www.nzherald.co.nz/nz/university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up/ODXSAEWSHFHFLLPR73HWSOEMTE/)

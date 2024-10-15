@@ -5,6 +5,7 @@ date: 2024-09-01
 source: https://web.archive.org/web/20130208030939/http://wearetheuniversity.org.nz/ethos/
 source_name: wearetheuniversity.org.nz (archived)
 author: We Are The University
+author-slug: we-are-the-university
 ---
 
 We are a community of students and staff who are committed to the University as a site of intellectual expansion and academic freedom. We believe the University should function as the ‘critic and conscience of society’ and as an open space for expression of dissent. The escalating profit-driven and market-oriented agenda of the University over the last thirty years has eroded these principles.

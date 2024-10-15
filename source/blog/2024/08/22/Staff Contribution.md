@@ -4,6 +4,7 @@ slug: staff-contribution
 date: 2024-08-22
 source: private communications
 author: anonymous
+author-slug: anonymous
 ---
 In her messages to staff she calls the is this proposal "slightly" different from past practice. How is it so when all faculties have simultaneously been charged with the task of urgently identifying courses that can be disappeared, combined, or offered in alternate years? How so when it is an unprecedented overhaul of what students learn, how they learn, where they learn?
 • Students deserve to be more thoroughly briefed and presented with the case for it because it will impact their academic choices and prospects. Including whether to stay.

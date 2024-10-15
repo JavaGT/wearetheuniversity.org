@@ -4,5 +4,6 @@ subtitle: University Management Half-asses Consultation Again
 slug: pick-a-lane
 date: 2024-09-19
 author: We Are The University
+author-slug: we-are-the-university
 hidden: true
 ---

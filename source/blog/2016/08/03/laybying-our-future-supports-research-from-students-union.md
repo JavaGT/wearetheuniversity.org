@@ -5,6 +5,7 @@ slug: laybying-our-future-supports-research-from-students-union
 source: https://www.scoop.co.nz/stories/ED1608/S00005/laybying-our-future-supports-research-from-students-union.htm
 source_name: Scoop
 author: NZ Union of Students' Associations
+author-slug: nz-union-of-students-associations
 ---
 <div class="story-top">
            <h1>‘Laybying our Future’ supports research from Students Union</h1>

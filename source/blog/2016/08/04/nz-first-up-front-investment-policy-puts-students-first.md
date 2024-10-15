@@ -5,6 +5,7 @@ slug: nz-first-up-front-investment-policy-puts-students-first
 source: https://www.scoop.co.nz/stories/PO1609/S00031/nz-first-up-front-investment-policy-puts-students-first.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
     <h1>NZ First Up Front Investment Policy Puts Students First</h1>

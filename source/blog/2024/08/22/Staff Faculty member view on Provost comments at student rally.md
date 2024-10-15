@@ -4,7 +4,8 @@ slug: faculty-member-view-on-provost-comments-at-student-rally
 date: 2024-08-22
 source: https://www.reddit.com/r/universityofauckland/comments/1eygxvk/faculty_member_view_on_provost_comments_at
 author: u/EuphoricScale7466
-author_url: https://www.reddit.com/user/EuphoricScale7466
+author-url: https://www.reddit.com/user/EuphoricScale7466
+author-slug: euphoricscale7466
 ---
 
 # Faculty member view on Provost comments at student rally

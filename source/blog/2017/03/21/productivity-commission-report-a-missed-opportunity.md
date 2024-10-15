@@ -5,6 +5,7 @@ slug: productivity-commission-report-a-missed-opportunity
 source: https://www.scoop.co.nz/stories/ED1703/S00079/productivity-commission-report-a-missed-opportunity.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Productivity Commission Report a Missed Opportunity</h1>

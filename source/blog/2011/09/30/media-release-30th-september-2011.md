@@ -5,6 +5,7 @@ date: 2011-09-30
 source: https://web.archive.org/web/20130208031040/http://wearetheuniversity.org.nz/press-releases/media-release-30th-september-2011/
 source_name: wearetheuniversity.org.nz (archived)
 author: We Are The University
+author-slug: we-are-the-university
 ---
 
 **Media Release – 30th September 2011**

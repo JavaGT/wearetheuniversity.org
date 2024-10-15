@@ -4,6 +4,7 @@ slug: folk-the-ports
 date: 2012-04-01
 source: https://www.facebook.com/events/261769683907613/
 author: Nicola Owen
+author-slug: nicola-owen
 ---
 
 # Folk the Ports - Solidarity with the wharfies - musical fundraiser

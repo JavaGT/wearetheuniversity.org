@@ -5,6 +5,7 @@ date: 2010-12-18
 source: https://www.nzherald.co.nz/nz/students-pay-high-price-for-freedom/HFX3NQ6OP4HOWJGOP3XBVI2DJU/?c_id=1&objectid=10694942
 source_name: New Zealand Herald
 author: Unknown
+author-slug: unknown
 ---
 
 Universal or voluntary membership? That was the question put to tertiary students in 1999 after the National Government passed a law insisting they choose how they should belong to their student association.  

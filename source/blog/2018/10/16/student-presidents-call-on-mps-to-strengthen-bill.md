@@ -5,6 +5,7 @@ slug: student-presidents-call-on-mps-to-strengthen-bill
 source: https://www.scoop.co.nz/stories/PO1810/S00220/student-presidents-call-on-mps-to-strengthen-bill.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Student presidents call on MPs to strengthen Bill</h1>

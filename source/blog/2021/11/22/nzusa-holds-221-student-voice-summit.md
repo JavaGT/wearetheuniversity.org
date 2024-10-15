@@ -5,6 +5,7 @@ slug: nzusa-holds-221-student-voice-summit
 source: https://www.scoop.co.nz/stories/ED2111/S00043/nzusa-holds-2021-student-voice-summit.htm
 source_name: Scoop
 author: NZ Union of Students' Associations
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>NZUSA Holds 2021 Student Voice Summit</h1>

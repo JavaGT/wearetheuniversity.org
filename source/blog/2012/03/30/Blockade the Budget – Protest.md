@@ -3,7 +3,8 @@ title: Blockade the Budget – Protest
 slug: blockade-the-budget-protest
 date: 2012-03-30
 source: https://web.archive.org/web/20130208031103/http://wearetheuniversity.org.nz/2012/03/30/blockade/
-author: Anonymous
+author: Blockade the Budget
+author-slug: blockade-the-budget
 ---
 
 [https://www.facebook.com/events/172083019584218/](https://web.archive.org/web/20130208031103/https://www.facebook.com/events/172083019584218/)

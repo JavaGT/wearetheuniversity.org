@@ -5,6 +5,7 @@ slug: students-welcome-loan-limit-extension
 source: https://www.scoop.co.nz/stories/PO1807/S00006/students-welcome-loan-limit-extension.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Students welcome loan limit extension</h1>

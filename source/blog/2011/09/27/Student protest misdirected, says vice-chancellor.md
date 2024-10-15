@@ -5,6 +5,7 @@ date: 2011-09-27
 source: https://www.rnz.co.nz/news/national/86264/student-protest-misdirected,-says-vice-chancellor
 source_name: Radio New Zealand 
 author: Unknown
+author-slug: unknown
 ---
 
 <audio src="https://podcast.radionz.co.nz/ckpt/ckpt-20110926-1727-protestors_lock_themselves_in_at_auckland_university-048.mp3" controls>

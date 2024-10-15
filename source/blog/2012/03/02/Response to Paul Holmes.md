@@ -4,6 +4,7 @@ slug: response-to-paul-holmes
 date: 2012-03-02
 source: https://web.archive.org/web/20130208081850/http://wearetheuniversity.org.nz/2012/03/02/363/
 author: Nathalie Jaques
+author-slug: nathalie-jaques
 ---
 
 Nathalie Jaques

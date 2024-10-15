@@ -2,6 +2,8 @@
 title: Student Led Open Forum Writeup
 slug: student-led-open-forum-writeup
 date: 2024-08-24
+author: We Are The University
+author-slug: we-are-the-university
 ---
 # Student Led Open Forum Writeup
 

@@ -4,6 +4,7 @@ slug: university-of-auckland-all-staff-forum-29th-august-2024
 date: 2024-08-29
 source: https://pastebin.com/kfq2M4Ex
 author: Anonymous
+author-slug: anonymous
 ---
 
 The below transcript is from an All Staff Zoom meeting at the University of Auckland. The meeting was held on 29th of August 2024.

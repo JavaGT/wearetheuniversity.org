@@ -5,6 +5,7 @@ slug: fees-free-were-getting-it-all-wrong
 source: https://www.scoop.co.nz/stories/ED1806/S00071/fees-free-were-getting-it-all-wrong.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
     <h1> Fees-free: we’re getting it all wrong</h1>

@@ -5,6 +5,7 @@ slug: more-could-be-done-to-alleviate-housing-desperation
 source: https://www.scoop.co.nz/stories/PO1901/S00071/more-could-be-done-to-alleviate-housing-desperation.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>More could be done to alleviate housing desperation</h1>

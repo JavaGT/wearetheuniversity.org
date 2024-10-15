@@ -5,6 +5,7 @@ slug: budget-218-lets-work-together
 source: https://www.scoop.co.nz/stories/ED1805/S00040/budget-2018-lets-work-together.htm
 source_name: Scoop
 author: NZ Union of Students' Associations
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Budget 2018: Let’s Work Together</h1>

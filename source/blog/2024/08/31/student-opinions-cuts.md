@@ -4,6 +4,7 @@ slug: student-opinions-cuts
 date: 2024-08-31
 source: https://burn-it.github.io/Disorientation/small-classes/all/
 author: Anonymous
+author-slug: anonymous
 ---
 
 It is clear students don't feel heard and are frustrated with the lack of transparency and communication from the university. Here are some of the comments students have made on the course cuts:

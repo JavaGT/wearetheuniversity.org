@@ -5,6 +5,7 @@ slug: no-prospectus-nzusa-teu-and-teaga-launch-precarious-academic-work-survey
 source: https://www.scoop.co.nz/stories/PO2109/S00184/no-prospectus-nzusa-teu-and-teaga-launch-precarious-academic-work-survey.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
     <h1>No Prospect[u]s: NZUSA, TEU And TEAGA Launch Precarious Academic Work Survey</h1>

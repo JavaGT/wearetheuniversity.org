@@ -5,6 +5,7 @@ slug: wins-for-some-students-poverty-for-others
 source: https://www.scoop.co.nz/stories/ED2105/S00042/wins-for-some-students-poverty-for-others.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Wins For Some Students, Poverty For Others</h1>

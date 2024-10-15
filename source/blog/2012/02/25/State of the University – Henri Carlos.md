@@ -4,6 +4,7 @@ slug: state-of-the-university
 date: 2012-02-25
 source: https://web.archive.org/web/20130208081927/http://wearetheuniversity.org.nz/2012/02/25/state-of-the-university-henri-carlos/
 author: Henri Carlos
+author-slug: henri-carlos
 ---
 
 In 1914 Walter Benjamin wrote a shrewd little treatise on the poverty of student life under capitalism. He argued that the university was nothing more than a factory of future workers, that student life is a frigid and soulless production line of dutiful young subjects eager to fit themselves into some idle part of the world and start making a dime for the man. He wrote ‘uncritical and spineless acquiescence…is an essential feature of student life’ and that ‘the perversion of the creative spirit into the vocational spirit, which we see at work everywhere, has taken possession of the universities as a whole and has isolated them from the nonofficial, creative life of the mind’.

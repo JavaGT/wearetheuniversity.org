@@ -4,7 +4,8 @@ slug: controversial-auckland-uni-course-shake-up-sparks-emergency-staff-student-
 date: 2024-08-22
 source: https://www.nzherald.co.nz/nz/controversial-auckland-uni-course-shake-up-sparks-emergency-staff-student-meetings/6KFSFD4WHRCOPB4XF67T6Z33EU/
 author: Jamie Morton
-author_url: https://www.nzherald.co.nz/author/jamie-morton/
+author-url: https://www.nzherald.co.nz/author/jamie-morton/
+author-slug: jamie-morton
 ---
 
 # Controversial Auckland Uni course shake-up sparks emergency staff, student meetings

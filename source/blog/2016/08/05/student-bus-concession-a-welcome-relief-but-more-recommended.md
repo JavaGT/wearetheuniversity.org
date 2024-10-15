@@ -5,6 +5,7 @@ slug: student-bus-concession-a-welcome-relief-but-more-recommended
 source: https://www.scoop.co.nz/stories/PO1608/S00063/student-bus-concession-a-welcome-relief-but-more-recommended.htm
 source_name: Scoop
 author: NZ Union of Students' Associations
+author-slug: nz-union-of-students-associations
 ---
 <div class="story-top">
            <h1>Student Bus Concession a Welcome Relief but More Recommended</h1>

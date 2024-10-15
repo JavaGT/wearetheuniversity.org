@@ -5,6 +5,7 @@ date: 2011-09-17
 source: https://web.archive.org/web/20130208031048/http://wearetheuniversity.org.nz/press-releases/media-release-17th-september-2011/
 source_name: wearetheuniversity.org.nz (archived)
 author: We Are The University
+author-slug: we-are-the-university
 ---
 
 **Media Release – 17th September 2011 @ 17:17**

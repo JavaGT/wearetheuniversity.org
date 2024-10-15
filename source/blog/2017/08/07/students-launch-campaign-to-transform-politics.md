@@ -5,6 +5,7 @@ slug: students-launch-campaign-to-transform-politics
 source: https://www.scoop.co.nz/stories/PO1708/S00118/students-launch-campaign-to-transform-politics.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Students launch campaign to transform politics</h1>

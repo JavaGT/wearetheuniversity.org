@@ -5,6 +5,7 @@ slug: nzusa-supports-the-call-to-raise-income-support-to-unlock-whnau-and-indivi
 source: https://www.scoop.co.nz/stories/PO2012/S00080/nzusa-supports-the-call-to-raise-income-support-to-unlock-whanau-and-individuals-from-poverty-before-christmas.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>NZUSA Supports The Call To Raise Income Support To Unlock Whānau And Individuals From Poverty Before Christmas</h1>

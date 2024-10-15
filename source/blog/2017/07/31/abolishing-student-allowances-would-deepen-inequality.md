@@ -5,6 +5,7 @@ slug: abolishing-student-allowances-would-deepen-inequality
 source: https://www.scoop.co.nz/stories/ED1707/S00099/abolishing-student-allowances-would-deepen-inequality.htm
 source_name: Scoop
 author: NZ Union of Students' Associations
+author-slug: nz-union-of-students-associations
 ---
 <div class="story-top">
            <h1>Abolishing Student Allowances Would Deepen Inequality</h1>

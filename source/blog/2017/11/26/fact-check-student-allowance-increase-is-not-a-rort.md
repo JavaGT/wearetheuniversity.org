@@ -5,6 +5,7 @@ slug: fact-check-student-allowance-increase-is-not-a-rort
 source: https://www.scoop.co.nz/stories/PO1711/S00307/fact-check-student-allowance-increase-is-not-a-rort.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Fact check: Student Allowance increase is not a rort</h1>

@@ -3,7 +3,8 @@ title: UoA Activism Week
 slug: uoa-activism-week
 date: 2012-03-30
 source: https://web.archive.org/web/20130208031139/http://wearetheuniversity.org.nz/2012/03/30/save-our-port-com/
-author: Anonymous
+author: We Are The University
+author-slug: we-are-the-university
 ---
 
 

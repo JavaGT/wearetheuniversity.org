@@ -5,6 +5,7 @@ slug: students-say-new-zealand-needs-humanities
 source: https://www.scoop.co.nz/stories/ED1702/S00065/students-say-new-zealand-needs-humanities.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Students say New Zealand needs humanities</h1>

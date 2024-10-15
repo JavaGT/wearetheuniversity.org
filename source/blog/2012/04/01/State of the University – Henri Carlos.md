@@ -4,6 +4,7 @@ slug: teach-in-ports-of-auckland-dispute-and-the-assault-against-workers
 date: 2012-04-01
 source: https://www.facebook.com/events/268430969909652/
 author: Jai Bentley-Payne
+author-slug: jai-bentley-payne
 ---
 
 # Teach-in: Ports of Auckland Dispute and the Assault Against Workers

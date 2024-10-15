@@ -4,6 +4,7 @@ slug: encouragement-3
 date: 2024-08-22
 source: private communications
 author: anonymous
+author-slug: anonymous
 ---
 
 Great job gang!

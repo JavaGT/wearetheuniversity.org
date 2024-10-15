@@ -5,6 +5,7 @@ date: 2024-08-07
 source: TEU Auckland Mailing List
 author: Nicole Wallace (TEU Organiser)
 author_url: https://teu.ac.nz/
+author-slug: nicole-wallace
 ---
 7 August 2024
 Professor Dawn Freshwater

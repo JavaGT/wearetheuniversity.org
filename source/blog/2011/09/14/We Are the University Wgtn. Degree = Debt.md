@@ -5,9 +5,9 @@ date: 2011-09-14
 source: https://www.youtube.com/watch?v=F7NC9KVcYQs
 source_name: squeakels (youtube)
 author: We Are The University WGTN
+author-slug: we-are-the-university-wellington
 ---
-
-[Short video of protest](https://www.youtube.com/watch?v=F7NC9KVcYQs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F7NC9KVcYQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Do A Degree, What do you get? Debt! Debt! Debt! Debt!
 

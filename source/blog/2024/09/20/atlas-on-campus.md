@@ -4,6 +4,7 @@ subtitle: A global conspiracy to influence our student politics
 slug: atlas-on-campus
 date: 2024-09-20
 author: We Are The University
+author-slug: we-are-the-university
 ---
 
 <script src="/table-of-contents.js"></script>

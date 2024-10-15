@@ -4,6 +4,7 @@ slug: the-figure-of-the-student
 date: 2012-03-18
 source: https://web.archive.org/web/20130208081703/http://wearetheuniversity.org.nz/2012/03/18/the-figure-of-the-student/
 author: Guy Cohn
+author-slug: guy-cohn
 ---
 
 

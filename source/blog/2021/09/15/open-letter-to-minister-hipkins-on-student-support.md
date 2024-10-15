@@ -5,6 +5,7 @@ slug: open-letter-to-minister-hipkins-on-student-support
 source: https://www.scoop.co.nz/stories/PO2109/S00060/open-letter-to-minister-hipkins-on-student-support.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Open Letter to Minister Hipkins on Student Support</h1>

@@ -4,6 +4,7 @@ slug: suggested-literature
 date: 2024-08-20
 source: private communications
 author: anonymous
+author-slug: anonymous
 ---
 
 

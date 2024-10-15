@@ -5,6 +5,7 @@ slug: commitment-to-student-centred-tertiary-education-needs-teeth
 source: https://www.scoop.co.nz/stories/ED1707/S00090/commitment-to-student-centred-tertiary-education-needs-teeth.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Commitment to student-centred tertiary education needs teeth</h1>

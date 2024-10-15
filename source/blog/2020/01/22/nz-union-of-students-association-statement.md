@@ -5,6 +5,7 @@ slug: nz-union-of-students-association-statement
 source: https://www.scoop.co.nz/stories/PO2001/S00068/nz-union-of-students-association-statement.htm
 source_name: Scoop
 author: NZ Union of Students' Associations
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>NZ Union of Students' Association statement </h1>

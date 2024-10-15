@@ -1,0 +1,159 @@
+---
+title: "AUSA to lodge police complaint over Rice visit"
+slug: ausa-to-lodge-police-complaint-over-rice-visit
+date: 2008-07-25
+source: https://www.scoop.co.nz/stories/PO0807/S00304/ausa-to-lodge-police-complaint-over-rice-visit.htm
+source-name: Scoop
+author: Auckland University Students Association
+author-slug: auckland-university-students-association
+---
+<div class="story-top">
+           <h1>AUSA to lodge police complaint over Rice visit</h1>
+
+           <span class="byline"><b>Friday, 25 July 2008,  9:32 am</b><br>
+             <b>Press Release: <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a></b></span>
+
+         </div>
+
+	 <p>
+         Media Release – 25 July 2008 – For Immediate
+Use</p><p><b>AUSA to lodge police complaint over Rice
+visit</b></p><p>Representatives of the Auckland University
+Students’ Association (AUSA) will lodge a formal complaint
+over United States Secretary of State Condoleezza Rice at
+the Auckland Central Police station at 2.30pm this
+afternoon.</p><p>Yesterday AUSA offered any Auckland University
+student a $5000 reward if they are able to make a successful
+citizen's arrest of United States Secretary of State
+Condoleezza Rice during her visit to Auckland this weekend,
+for her role in overseeing the illegal invasion and
+continued occupation of Iraq.</p><p>“While we still hope an
+Auckland University student might be able to make a
+successful citizen’s arrest of Rice, we are also pursuing
+official channels available to us to have this war criminal
+arrested,” said AUSA President David Do.</p><p>“Student
+associations in New Zealand have a long history of being
+involved in fighting for global justice, dating back to
+student involvement in the 1981 anti-Springbok tour protests
+and the US war in Indochina in the 1960s and 1970s. By
+opposing Rice’s visit and seeking her arrest we seek to
+continue that proud tradition,” says David Do.</p><p>“We
+believe that Rice’s involvement in the authorisation of
+the torture of suspected terrorists is a crime under two
+separate New Zealand statutes, the Geneva Conventions Act
+1958 and the Crimes of Torture Act 1989*, and are asking the
+New Zealand Police to arrest and prosecute Rice for her
+involvement in these crimes,” says AUSA International
+Affairs Officer Omar Hamed. 
+</p><div class="article-left-box-wrapper"><div class="article-left-box">
+        
+
+
+
+
+<div class="headline-right"><div id="in-cont" style="background:white;">
+ <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
+
+  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
+@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
+<!-- /1688062/Scoop_Super-Rectangle -->
+   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
+</script>
+   </div>
+
+  </div> 
+</div>
+</div>
+
+</div></div>
+<p>“Rice’s authorisation of
+the use of physical torture of suspected terrorists
+including simulated drowning (waterboarding) and physical
+assaults would make Rice liable to be prosecuted and
+sentenced to up to fourteen years under New Zealand law. We
+hope the Police act swiftly to bring to justice someone
+whose crimes stretch across oceans,” concluded Mr Hamed. 
+</p><p>ENDS</p><p>*Supplementary notes of these statutes are
+attached.</p><p></p><p><b>Supplementary information about relevant
+New Zealand statutes</b></p><p><b>Geneva Conventions Act 1958,
+Section 3(1)</b></p><p>“Any person who in New Zealand or
+elsewhere commits, or aids or abets or procures the
+commission by another person of, a grave breach of any of
+the Conventions or of the First Protocol is guilty of an
+indictable
+offence.”</p><p>http://www.legislation.govt.nz/act/public/1958/0019/latest/DLM318045.html#DLM318045</p><p><b>Crimes
+of Torture Act 1989, part 1, section 4</b></p><p>Jurisdiction in
+respect of acts of torture</p><p>No proceedings for an offence
+against any of the provisions of section 3 of this Act shall
+be brought unless—<br>(a) The person to be charged is a
+New Zealand citizen; or<br>(b) The person to be charged is
+present in New Zealand; or<br>(c) The act or omission
+constituting the offence charged is alleged to have occurred
+in New Zealand or on board a ship or an aircraft that is
+registered in New
+Zealand.</p><p>http://www.legislation.govt.nz/act/public/1989/0106/latest/DLM192847.html#DLM192847</p><p><b>News
+story: ‘Sources: Top Bush Advisors Approved 'Enhanced
+Interrogation'</b><br>http://abcnews.go.com/print?id=4583256</p><p><i>“The
+most senior Bush administration officials discussed and
+approved specific details of how high-value al Qaeda
+suspects would be interrogated by the Central Intelligence
+Agency…</i><br><i></i><br><i>…The so-called Principals
+who participated in the meetings also approved the use of
+"combined" interrogation techniques -- using different
+techniques during interrogations, instead of using one
+method at a time -- on terrorist suspects who proved
+difficult to break…</i><br><i></i><br><i>…the Principals
+Committee included Vice President Cheney, former National
+Security Advisor Condoleezza Rice, Defense Secretary Donald
+Rumsfeld and Secretary of State Colin Powell, as well as CIA
+Director George Tenet and Attorney General John
+Ashcroft…As the national security adviser, Rice chaired
+the meetings…</i><br><i></i><br><i>…Critics at home and
+abroad have harshly criticized the interrogation program,
+which pushed the limits of international law and, they say,
+condoned
+torture.”</i><br><!-- LINKS REMOVED 
+ SUB:0 URL:PO0807/S00304/ausa-to-lodge-police-complaint-over-rice-visit.htm -->
+</p><p>
+<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
+  LINKS NOT REMOVED 
+  SUB:0
+  URL:PO0807/S00304/ausa-to-lodge-police-complaint-over-rice-visit.htm
+ -->
+         <br>
+</p><div id="story-footer" style="padding:20px 0;">
+<!-- /1688062/Scoop_Story-Footer -->
+<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-6'); });
+  </script>
+</div>
+</div>
+<!--
+<div id="byline-block">
+<style> a.supporter:hover {background:#EC4438!important;} 
+@media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}</style>
+<div class="byline-block byline-block-light" style="background-color:#ebebeb; font-size:16px; line-height:22px; font-weight:normal; border: 1px solid #f55a3f; width: -webkit-fill-available;">
+<h4>Did you know Scoop has an Ethical Paywall?</h4>
+<p>If you're using Scoop for work, your organisation needs to pay a small license fee with Scoop Pro. We think that's fair, because your organisation is benefiting from using our news resources. In return, we'll also give your team access to pro news tools and keep Scoop free for personal use, because public access to news is important!<br /><br />
+ <a class="supporter" href="https://pro.scoop.co.nz/?from=SFPro23" target="_blank" style="background: #f55a3f; color: #ffffff!important; border-radius: 2px; padding: 5px 12px 6px 12px;font-weight:normal;">Go to Scoop Pro</a>  
+<a style="color:#1e1e1e;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=SFPro23" target="_blank"><u>Find out more</u></a></p> 
+</div>
+</div> -->
+<!-- Pro Individual -->
+<div id="byline-block">
+<style> a.supporter:hover {background:#EC4438!important;} 
+@media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}</style>
+<div class="byline-block byline-block-light" style="background-color:#fff; font-size:16px; line-height:22px; font-weight:normal; border: 1px solid #f55a3f; width: -webkit-fill-available;">
+<h3 style="margin-top:0px;">Are you licensed for Scoop?</h3>
+<p> Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop without a regular paywall. Join today with plans starting from just $11 per month, and start using Scoop like a Pro.<br><br>
+ <a class="supporter" href="https://pro.scoop.co.nz/Individual/?from=ProIn24" target="_blank" style="background: #f55a3f; color: #ffffff!important; border-radius: 2px; display: unset; border:none; padding: 5px 12px 6px 12px;font-weight:normal;">Join Pro Individual</a>  
+<a style="color:#1e1e1e;display: unset; border:none;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24" target="_blank"><u>Find out more</u></a></p> 
+</div>
+</div>
+
+
+<div id="byline-block"><div class="byline-block byline-block-light">Find more from <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a> on InfoPages.</div></div>
+         <div class="cleaner">&nbsp;</div>

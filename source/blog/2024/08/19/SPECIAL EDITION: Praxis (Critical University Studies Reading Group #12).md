@@ -4,7 +4,8 @@ slug: special-edition-praxis-critical-university-studies-reading-group-12
 date: 2024-08-19
 source: Reading Group Mailing List
 author: Java Grant
-author_url: https://javagrant.com
+author-url: https://javagrant.com
+author-slug: java-grant
 ---
 
 2024/08/19

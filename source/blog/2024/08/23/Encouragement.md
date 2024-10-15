@@ -4,6 +4,7 @@ slug: encouragement
 date: 2024-08-23
 source: private communications
 author: anonymous
+author-slug: anonymous
 ---
 Kia ora, Java.
 

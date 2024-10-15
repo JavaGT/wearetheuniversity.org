@@ -5,7 +5,7 @@ date: 1973-12-01
 source: https://senate.oregonstate.edu/sites/senate.oregonstate.edu/files/faculty_forum_papers_faculty_senate_oregon_state_university.pdf
 source_name: December 1973 OSU Faculty Forum Papers
 author: Lafe Harter
-
+author-slug: lafe-harter
 ---
 
 While many of our colleagues are eager to embrace collective bargaining, a number hold back. They ask, "We, bargain with the University? Preposterous! We are the University!"

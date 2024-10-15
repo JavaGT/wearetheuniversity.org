@@ -5,6 +5,7 @@ slug: tertiary-student-support-package-fails-to-support-students
 source: https://www.scoop.co.nz/stories/PO2004/S00114/tertiary-student-support-package-fails-to-support-students.htm
 source_name: Scoop
 author: NZUSA
+author-slug: nzusa
 ---
 <div class="story-top">
            <h1>Tertiary Student Support Package Fails To Support Students</h1>

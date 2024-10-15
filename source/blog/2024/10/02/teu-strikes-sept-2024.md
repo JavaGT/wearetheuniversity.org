@@ -4,6 +4,7 @@ subtitle:
 slug: NZCTU-stand-up-event-oct-2024
 date: 2024-10-02
 author: Stand Up
+author-slug: stand-up
 ---
 
 NZCTU (specifically the representative structure for young workers called Stand Up) got in touch and they're planning to do an event on campus October 17th to talk about the union movement’s strategy leading up to the next election.
