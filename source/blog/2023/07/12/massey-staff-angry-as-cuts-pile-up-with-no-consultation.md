@@ -46,6 +46,6 @@ yet, this has not occurred.”</p>
 <p>“The Vice-Chancellor
 must immediately stop these cuts, engage with staff, and
 work with TEU and the government towards a more constructive
-alternative.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+alternative.”</p>
+
+<p></p>

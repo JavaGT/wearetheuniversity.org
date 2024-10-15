@@ -1,8 +1,8 @@
 ---
 title: "TEU launches funding paper ahead of budget"
-slug: teu-launches-funding-paper-ahead-of-budget
+slug: teu-launches-funding-paper-ahe
 date: 2014-05-08
-source: https://www.scoop.co.nz/stories/ED1405/S00043/teu-launches-funding-paper-ahead-of-budget.htm
+source: https://www.scoop.co.nz/stories/ED1405/S00043/teu-launches-funding-paper-ahe
 source-name: Scoop
 author: Tertiary Education Union
 author-slug: tertiary-education-union
@@ -47,8 +47,7 @@ had adjusted for inflation that 2009 figure of $4.6 billion
 would now be $5 billion. Treasury forecasts that tertiary
 education spending will remain nearly flat until at least
 2018 while inflation will rise another 11 percent by the end
-of 2018.
-</p>
+of 2018.<p>
 
 <p>Over a similar period (2009 to 2012), the number
 of actual student places (not funded student places) grew by
@@ -73,9 +72,6 @@ at:<br>Unitec marae Te Noho
 Kotahitanga<br>Auckland<br>1.30pm<br>Friday, 9 May
 2014</p>
 
-<p>Ends
-</p>
+<p>Ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

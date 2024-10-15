@@ -46,6 +46,5 @@ Zealand’s world class tertiary education system”, said
 Dr
 Grey.</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 

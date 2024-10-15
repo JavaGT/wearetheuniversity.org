@@ -39,7 +39,7 @@ private companies.</p>
 
 <p>TEU national president Dr Sandra Grey
 says funding pressures are leading the ministry to abandon a
-commitment to broad-based, equitable and accessible
+commitment to bro
 education.</p>
 
 <p>"The ministry's narrow focus on picking winners
@@ -56,9 +56,6 @@ priority' areas, as defined by government, is a fundamental
 threat to academic
 freedom."</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

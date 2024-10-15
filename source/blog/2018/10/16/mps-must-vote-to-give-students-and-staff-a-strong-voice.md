@@ -42,8 +42,7 @@ councils as part of his push to make tertiary education
 institutions more like businesses in their operations has
 contributed to a massive decline in the input that staff
 could make to decision-making at their place of
-work.
-</p>
+work.<p>
 
 <p>“Since coming into office, the new government has
 recognised the importance of student and staff expertise in

@@ -9,7 +9,9 @@ author-slug: tertiary-education-union
 ---
 
 <p><strong>Will code silence
-scientists?</strong></p><p><strong>Will code
+scientists?</strong></p>
+
+<p><strong>Will code
 silence scientists?</strong><br>The Association of
 Scientists wants to hear from scientists and other academics
 about a government plan to develop a new code of practice
@@ -33,8 +35,8 @@ for falling rankings</strong><br>The acting chair of
 Universities New Zealand, Professor Harlene Hayne, has hit
 out at the government funding cuts, saying they are driving
 New Zealand universities down the global ranking
-tables.<br>Read more…</p><p>ends</p>
+tables.<br>Read more…</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ends</p>
+
+<p></p>

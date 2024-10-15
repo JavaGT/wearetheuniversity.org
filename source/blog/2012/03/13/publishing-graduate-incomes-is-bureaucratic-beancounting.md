@@ -36,7 +36,7 @@ graduates. And we know the biggest determinant of
 someone’s income is how much his or her parents earned. We
 have no need for data to be published on this."</p>
 
-<p> "If the
+<p>"If the
 minister really wants to collect this data and make good use
 of it, he should be sending it on to the Department of
 Labour and employers, pressuring them to do something about
@@ -44,6 +44,6 @@ those areas where the wages and salaries of qualified and
 skilled New Zealanders are too low," said Dr
 Grey</p>
 
-<p>ends</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ends</p>
+
+<p></p>

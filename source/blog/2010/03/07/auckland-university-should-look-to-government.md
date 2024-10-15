@@ -38,9 +38,6 @@ people who work there is not a cost<br>but a high paying
 investment," said Ms Riggs.</p>
 
 <p>ENDS
-<br>
-</p>
+<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

@@ -12,7 +12,7 @@ author-slug: nzusa
 changes, too, are mostly reflective of the way the Aotearoa
 student population is evolving.</p>
 
-<p> “With a much greater
+<p>“With a much greater
 pool of Māori and Pacific students in the tertiary
 education sector than previously, it is great that the
 Government is taking a focus on this, likewise with disabled
@@ -44,11 +44,6 @@ couple of months to ensure it is students that are driving
 the discussion on this
 topic.</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         
-
-</p>
+<p></p>

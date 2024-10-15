@@ -45,6 +45,6 @@ by the collective agreement.</p>
 <p>The
 full Employment Relations Authority determination can be
 found
-here.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+here.</p>
+
+<p></p>

@@ -878,7 +878,7 @@ There is work to still be done here.
 - [Horrorscopes](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2587)
 - [Nearly Doc Craig - This Week: Craig Tries his Hand at Mythbusting!](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2584)
 - **[In 1973... Nazis Support Tour](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2581)**
-- **[News - Quad-State Solution?](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2578)**
+- **[News - Qu
 - **[News - NZ Universities being sued for copyright infringement](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2576)**
 - [News - WTF? New Zealand dealing arms to Colombia?](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2574)
 - [From the Blogosphere - Julie Fairey](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2572)
@@ -1121,7 +1121,7 @@ There is work to still be done here.
 - [Bier Essentials - Speight's Golden Pale Ale](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3095)
 - [Keepin' It Real with Conny G Dawg - Robots at War, Robots in Bed](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3093)
 - [Unsane Musings - The Distant Future, The Year 2000](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3091)
-- [(Nearly) Doc Craig - Tales of Medical Bad-Assery](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3089)
+- [(Nearly) Doc Craig - Tales of Medical B
 - [The Style 101](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3087)
 - [Feature - Robo Boogie](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3085)
 - [Interview - Cleverbot](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3083)
@@ -2478,7 +2478,7 @@ There is work to still be done here.
 - [News – Carlos Craig Becomes Honorary University Fellow](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-carlos-craig-becomes-honorary-university-fellow)
 - **[News – Interview with Andrew Little](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-interview-with-andrew-little)**
 - [News – John Key The Lone Wolf In Fight Against ISIS](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-john-key-the-lone-wolf-in-fight-against-isis)
-- [Opening Night with Connie G](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/opening-night-with-connie-g)
+- [Opening Night with Connie G](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [The Addict and the Immigrant Take On Kingsland](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-take-on-kingsland)
 - [Invidious: Intended to offend – What a Drag.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-what-a-drag)
 - [Kant or Won’t? Black Humour](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-black-humour)
@@ -2514,7 +2514,7 @@ There is work to still be done here.
 - [News – Auckland Council Tackles HOP Card Concession Misuse](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/8258)
 - **[News – Key Tells Andrew Little To Stop Being A “Sissy”](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-key-tells-andrew-little-to-stop-being-a-sissy)**
 - [Interview with David Shearer](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-david-shearer)
-- [Respect with Connie G](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/respect-with-connie-g)
+- [Respect with Connie G](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [The Addict and the Immigrant… Drink at Home Because they’ve Run out of Money](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-drink-at-home-because-theyve-run-out-of-money)
 - [Invidious: Intended to offend – Not a Happy Gay](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-not-a-happy-gay)
 - [Kant or Won’t? Ethical Skid Marks](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-ethical-skid-marks)
@@ -2536,7 +2536,7 @@ There is work to still be done here.
 - [Film – Kingsman: The Secret Service](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-kingsman-the-secret-service)
 - [Book – Religion for Atheists, Alain de Botton](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-religion-for-atheists-alain-de-botton)
 - [Podcast – The Flop House](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/podcast-the-flop-house)
-- [Book – The Narrow Road to the Deep North, Richard Flanagan](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-the-narrow-road-to-the-deep-north-richard-flanagan)
+- [Book – The Narrow Road to the Deep North, Richard Flanagan](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-the-narrow-ro
 - [Theatre – One Night Stand: great ideas, poor follow through.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/theatre-one-night-stand-great-ideas-poor-follow-through)
 - [Blogging – On the self-indulgence of (travel) blogging](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/blogging-on-the-self-indulgence-of-travel-blogging)
 - [Top 10 – Best Awkward Conversation Starters](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-best-awkward-conversation-starters)
@@ -2547,11 +2547,11 @@ There is work to still be done here.
 - **[News – Pre-Med Student Not Suicidal Following Failure](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-pre-med-student-not-suicidal-following-failure)**
 - [News – Taylor-Made For Harry Styles](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-taylor-made-for-harry-styles)
 - [News – Link Between Murder And Singing Voice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-link-between-murder-and-singing-voice)
-- **[News – John Key To Lead Labour Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-john-key-to-lead-labour-party)**
+- **[News – John Key To Lead Labour Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-john-key-to-le
 - [Quotes of O-Week](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/quotes-of-o-week)
 - [Interview with Darroch Ball](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-darroch-ball)
 - [Kant or Won’t? If you could go back in time and kill any historical figure, who would it be?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-if-you-could-go-back-in-time-and-kill-any-historical-figure-who-would-it-be)
-- [Connie G – The Job Market](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/connie-g-the-job-market)
+- [Connie G – The Job Market](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [The Addict and the Immigrant… Take on Ponsonby](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-take-on-ponsonby)
 - [NTM Presents… Te Arawa iwi forge the way forward](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/ntm-presents-te-arawa-iwi-forge-the-way-forward)
 - [Glitter and Cludge – Radical Drama?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-radical-drama)
@@ -2560,7 +2560,7 @@ There is work to still be done here.
 - [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice)
 - [Factories Of Desire: ISIL And Fundamentalism](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/factories-of-desire-isil-and-fundamentalism)
 - **[Wrong Decision for Wrong Reasons](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/wrong-decision-for-wrong-reasons)**
-- [The Good, The Bad and The Art: The Atavistic Endeavour of the Modern Pranksters](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-good-the-bad-and-the-art-the-atavistic-endeavour-of-the-modern-pranksters)
+- [The Good, The Bad and The Art: The Atavistic Endeavour of the Modern Pranksters](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-good-the-b
 - [On Dissection: Shouldn’t You Have The Choice?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/on-dissection-shouldnt-you-have-the-choice)
 - [Lifestyle – Booty Camp](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-booty-camp)
 - [Lifestyle – To Lift or Not to Lift: The musings of a gym rat](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-to-lift-or-not-to-lift-the-musings-of-a-gym-rat)
@@ -2585,7 +2585,7 @@ There is work to still be done here.
 - [News – Russell Norman Seeks Greener Pastures](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-russell-norman-seeks-greener-pastures)
 - [News – Thirteen year old turns homo after withdrawing money from ‘GAYTM’](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-thirteen-year-old-turns-homo-after-withdrawing-money-from-gaytm)
 - [News – Terrorists Stumped By Cameron’s Encryption Ban](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-terrorists-stumped-by-camerons-encryption-ban)
-- [Connie G – Parekura Bay](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/connie-g-parekura-bay)
+- [Connie G – Parekura Bay](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [My First Column](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/my-first-column)
 - [The Addict and the Immigrant – Take on K-Road](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-take-on-k-road)
 - [Kant or Won’t? The Return of Roko Basilisk](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-the-return-of-roko-basilisk)
@@ -2614,7 +2614,7 @@ There is work to still be done here.
 - **[Interview with Jacinda Ardern](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-jacinda-ardern)**
 - **[News – Cuts On Funding Hit Humanities Departments Hardest](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-cuts-on-funding-hit-humanities-departments-hardest)**
 - [News – Royal Baby Is Boy And Girl](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-royal-baby-is-boy-and-girl)
-- [Travel Diary with Conrad Grimshaw](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/travel-diary-with-conrad-grimshaw)
+- [Travel Diary with Conrad Grimshaw](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [Invidious: Intended to offend – Good Gam-Match-Sport](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-good-gam-match-sport)
 - [The Addict and the Immigrant Take on Wynyard Quarter](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-take-on-wynyard-quarter)
 - **[Justfeministthings](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/justfeministthings)**
@@ -2654,7 +2654,7 @@ There is work to still be done here.
 - [News – Cyclone Pam Goes On Date With Cyclone Jim](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-cyclone-pam-goes-on-date-with-cyclone-jim)
 - **[Interview with Judith Collins](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-judith-collins)**
 - [News – The Bachelor NZ: Finding Harry His Kiwi Bride](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-the-bachelor-nz-finding-harry-his-kiwi-bride)
-- [Coonie G – Malaysian Night](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/coonie-g-malaysian-night)
+- [Coonie G – Malaysian Night](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [The Addict and the Immigrant – Go for a feed.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-go-for-a-feed)
 - [Invidious: Intended to offend – X-traordinarily Poor Taste.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-x-traordinarily-poor-taste)
 - [Kant or Won’t? – Don’t Drink the Cool Aid.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-dont-drink-the-cool-aid)
@@ -2727,7 +2727,7 @@ There is work to still be done here.
 - [News – Putin Having A Gay Ole’ Time](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-putin-having-a-gay-ole-time)
 - [News – Wellington Phoenix Eyeing Top U.S. Prospect](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-wellington-phoenix-eyeing-top-u-s-prospect)
 - [News – Baby Born, Survives Childbirth](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-baby-born-survives-childbirth)
-- [Conrad Grimshaw – Living With My Bitches #live](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/conrad-grimshaw-living-with-my-bitches-live)
+- [Conrad Grimshaw – Living With My Bitches #live](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - **[Just Feminist Things – Mens Rights](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/just-feminist-things-mens-rights)**
 - [Kant or Won’t? Welcome to Forever](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-welcome-to-forever)
 - [Glitter and Cludge – Email Anxiety](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-email-anxiety)
@@ -2769,7 +2769,7 @@ There is work to still be done here.
 - [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-7)
 - [A Very Very Queer Community](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/a-very-very-queer-community)
 - [Queer Rights](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/queer-rights)
-- [The Departure of a K-Road Icon](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-departure-of-a-k-road-icon)
+- [The Departure of a K-Road Icon](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-departure-of-a-k-ro
 - **[Queerness and the ability to be apolitical: A Diatribe](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/queerness-and-the-ability-to-be-apolitical-a-diatribe)**
 - [Lifestyle – Fashion (non)sense](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-fashion-nonsense)
 - [Lifestyle – Suits and the City](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-suits-and-the-city)
@@ -2797,7 +2797,7 @@ There is work to still be done here.
 - [News – Cuts in Police Force Budget Hits Wannabe Teenagers Hardest](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-cuts-in-police-force-budget-hits-wannabe-teenagers-hardest)
 - [News – TV3 To Axe The News](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-tv3-to-axe-the-news)
 - [News – Winston Bites Back](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-winston-bites-back)
-- [Conrad Grimshaw – Shirt Hell](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/conrad-grimshaw-shirt-hell)
+- [Conrad Grimshaw – Shirt Hell](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [Invidious: Intended to offend – Responding to the Responses of the Response](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-responding-to-the-responses-of-the-response)
 - [Just Feminist Things – Libra](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/just-feminist-things-libra)
 - [Kant or Won’t? – How does that make you feel?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-how-does-that-make-you-feel)
@@ -2806,7 +2806,7 @@ There is work to still be done here.
 - [Debate – This House Believes That schools in the USA should teach rap lyrics as part of their English literature curriculum](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/debate/debate-this-house-believes-that-schools-in-the-usa-should-teach-rap-lyrics-as-part-of-their-english-literature-curriculum)
 - [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-6)
 - [Feature – Charlie and the Great Glass Ceiling](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-charlie-and-the-great-glass-ceiling)
-- [Feature – Bad Rep, Good Rap: In Defence of Kanye West](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-bad-rep-good-rap-in-defence-of-kanye-west)
+- [Feature – Bad Rep, Good Rap: In Defence of Kanye West](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-b
 - [Feature – The Growing Plastic Pandemic and the Plastic Bottle Kayak Experience](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-the-growing-plastic-pandemic-and-the-plastic-bottle-kayak-experience)
 - [Feature – If It Bleeds, It Leads](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-if-it-bleeds-it-leads)
 - [Lifestyle – Saving Grace: Goalkeeping](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-saving-grace-goalkeeping)
@@ -2831,7 +2831,7 @@ There is work to still be done here.
 - [News – Ireland To Legalise Bestiality, Incest And Paedophilia](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-ireland-to-legalise-bestiality-incest-and-paedophilia)
 - **[News – Interview With Nikki Kaye](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-interview-with-nikki-kaye)**
 - **[News – Interview with Paula Bennett](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-interview-with-paula-bennett)**
-- [An Ending with Conrad Grimshaw](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/an-ending-with-conrad-grimshaw)
+- [An Ending with Conrad Grimshaw](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - **[Auckland feminist takes break from worrying about serious worldwide issues regarding sex and gender to discuss less serious but totally blown out of proportion matter](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/just-feminist-things-auckland-feminist-takes-break-from-worrying-about-serious-worldwide-issues-regarding-sex-and-gender-to-discuss-less-serious-but-totally-blown-out-of-proportion-matter**)
 - [Invidious: Intended to offend – The Problem With Polemics](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-the-problem-with-polemics)
 - [The Addict and the Immigrant take on NZ’s Most Romantic Destinations (aka. The Boys are Back)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-take-on-nzs-most-romantic-destinations-aka-the-boys-are-back)
@@ -2847,7 +2847,7 @@ There is work to still be done here.
 - [Lifestyle – Let the (procrasti)games begin](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-let-the-procrastigames-begin)
 - [Café Review – Chuffed](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/cafe-review-chuffed)
 - [Arts Editorial – By Any Other Name](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-by-any-other-name)
-- [Film Review – Mad Max: Fury Road](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-mad-max-fury-road)
+- [Film Review – Mad Max: Fury Road](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-m
 - [Film Comment – Pitch Perfect 2](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-comment-pitch-perfect-2)
 - [Comedy Review – An Evening With Noel Fielding](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/comedy-review-an-evening-with-noel-fielding)
 - [Concert Review – Jamie McDell in Twelvie Heaven](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/concert-review-jamie-mcdell-in-twelvie-heaven)
@@ -2865,9 +2865,9 @@ There is work to still be done here.
 - [News – Harry-Mania Took Over Country](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-harry-mania-took-over-country)
 - **[Interview With David Seymour](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-david-seymour)**
 - **[News – Len Brown Rationalises Rate Hike](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-len-brown-rationalises-rate-hike)**
-- [Snow on the Desert Road with conrad Grimshaw](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/snow-on-the-desert-road-with-conrad-grimshaw)
+- [Snow on the Desert Road with conrad Grimshaw](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [A Straight White Female on Straight White Males](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/a-straight-white-female-on-straight-white-males)
-- [Invidious: Intended to offend – Don’t Read This](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-dont-read-this)
+- [Invidious: Intended to offend – Don’t Read This](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-dont-re
 - [Taking the Puss – Don’t Forget to Root, My Friend](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/taking-the-puss/taking-the-puss-dont-forget-to-root-my-friend)
 - **[Glitter and Cludge – Student Services My Ass](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-student-services-my-ass)**
 - [Kant or Won’t? I am You](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-i-am-you)
@@ -2883,7 +2883,7 @@ There is work to still be done here.
 - [Arts Editorial – Guilty Pleasures](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-guilty-pleasures)
 - [Film Review – Slow West](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-slow-west)
 - [Film Re-review – Jurassic Park (1993)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-re-review-jurassic-park-1993)
-- [Comedy Festival Review – Head Goes Bang – Jamie Bowen](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/comedy-festival-review-head-goes-bang-jamie-bowen)
+- [Comedy Festival Review – Head Goes Bang – Jamie Bowen](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/comedy-festival-review-he
 - [Comedy Festival Review – The Late Show](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/comedy-festival-review-the-late-show)
 - [Album Review – The Magic Whip – Blur](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/album-review-the-magic-whip-blur)
 - [Art Exhibition Review – Billy Apple: The Artist Has To Live Like Everybody Else](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/art-exhibition-review-billy-apple-the-artist-has-to-live-like-everybody-else)
@@ -2897,7 +2897,7 @@ There is work to still be done here.
 - [Film Review – Inside Out](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-inside-out)
 - [Album Review – We Are for the Wild Places](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/album-review-we-are-for-the-wild-places)
 - [True Detective (Season Two)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/true-detective-season-two)
-- [Broad City](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/broad-city-tv)
+- [Broad City](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/bro
 - [Arts Comment – Putting A Price on Art](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/arts-comment-putting-a-price-on-art)
 - [Video Game Review – Her Story](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/video-game-review-her-story)
 - [Arts Comment – An Evening With Haruki Murakami](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/arts-comment-an-evening-with-haruki-murakami)
@@ -2908,12 +2908,12 @@ There is work to still be done here.
 - [Celestial North Korea](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/celestial-north-korea)
 - [Weird and Easy Ways to Get Rid of the Wage Gap](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/the-wage-gap)
 - [Like You Just Don’t Care](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/like-you-just-dont-care)
-- [The Garden Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/the-garden-party)
+- [The Garden Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [Attack The Straight White Male](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/3-attack-the-straight-white-male-e)
 - [Something noisy this way fucks](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/something-noisy-this-way-fucks)
 - [From Putin With Love](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/from-putin-with-love)
 - **[Free the Nipple](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/free-the-nipple)**
-- **[Auckland’s Railways](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/aucklands-railways-the-good-the-bad-and-the-ugly)**
+- **[Auckland’s Railways](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/aucklands-railways-the-good-the-b
 - [Shake your (Taylor) feather](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/shake-your-taylor-feather)
 - [Gym Buddies worth Avoiding](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/gym-buddies-worth-avoiding)
 - **[The dress standards at UoA are too high](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/the-dress-standards-at-uoa-are-too-high)**
@@ -2948,11 +2948,11 @@ There is work to still be done here.
 - **[WTF did I just read?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/wtf-did-i-just-read)**
 - [Monsters of History](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/monsters-of-history)
 - [So Now I’m A Racist](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/so-now-im-a-racist)
-- **[Bad Feminists?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/bad-feminists)**
+- **[Bad Feminists?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/b
 - [Bi Semester Toilet Review](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge/bi-semester-toilet-review)
 - [The Hypocrisy of T-Swiz](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/3-the-hypocrisy-of-t-swiz-e)
 - [Out of Opinions and Nowhere to Go](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/out-of-opinions-and-nowhere-to-go)
-- [Clown Town](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/clown-town-with-conrad-grimshaw)
+- [Clown Town](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [Wrongsplaining](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/wrongsplaining)
 - [The Death of Jung](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/the-death-of-jung)
 - [Unsane Musings](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/unsane-musings-11-2)
@@ -3004,7 +3004,7 @@ There is work to still be done here.
 - [Hanging Out After Class](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/hanging-out-after-class)
 - [Twister Reality](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/twister-reality)
 - [Trans Shitlord](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/trans-shitlord)
-- [Joynt Venture](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/joynt-venture)
+- [Joynt Venture](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - **[Beyond Profit and Privatisation](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/beyond-profit-and-privatisation)**
 - **[Unethical Ethics](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/unethical-ethics)**
 - [Ralph’s](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/ralphs)
@@ -3024,9 +3024,9 @@ There is work to still be done here.
 - [What social smoking is really doing to you](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/what-social-smoking-is-really-doing-to-you)
 - [Which chocolate 90s Disney rapper should you date?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/which-chocolate-90s-disney-rapper-should-you-date)
 - [“Drinking is a very serious business”](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/paul-henry)
-- [To Lad or Not To Lad](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/to-lad-or-not-to-lad)
+- [To Lad or Not To Lad](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/to-l
 - **[Up the Cracc, or Student Politics at UoA](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/up-the-cracc-or-student-politics-at-uoa)**
-- [Revue Review](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/revue-review)
+- [Revue Review](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [Why Charities Are Shit](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/why-charities-are-shit)
 - [Happy Now](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/happy-now)
 - [Problems Schroblems](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/problems-schroblems)
@@ -3056,7 +3056,7 @@ There is work to still be done here.
 - [Restaurant Review: Ngopi](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/restaurant-review-ngopi)
 - [To paint a verb](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/to-paint-a-verb)
 - [City of the Broke](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/city-of-the-broke)
-- [Last Night’s Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/last-nights-party)
+- [Last Night’s Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [It seems to me like you’re the expert Lena](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/it-seems-to-me-like-youre-the-expert-lena)
 - [Top 10 Conversations Overheard at UoA](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-conversations-overheard-at-uoa)
 - [Mobile Orchestra](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/mobile-orchestra)
@@ -3070,7 +3070,7 @@ There is work to still be done here.
 - [Wild Tales (2014)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/wild-tales-2014)
 
 ### December 2015
-- [Shouts and Whispers](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/columns/conrad-grimshaw/shouts-and-whispers)
+- [Shouts and Whispers](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/columns/conr
 - [Homelessness](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/columns/homelessness)
 - [Rock ‘n’ Role-Modelling](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/commentary/rock-n-role-modelling)
 - [On Inspiration](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/commentary/on-inspiration)

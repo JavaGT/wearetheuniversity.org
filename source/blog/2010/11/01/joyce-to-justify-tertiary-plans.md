@@ -52,9 +52,6 @@ federal secretary, 9.15am, Tues 9 Nov), and Carolyn Allport
 to attend any of these
 speeches.</p>
 
-<p>ends<br>
-</p>
+<p>ends<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

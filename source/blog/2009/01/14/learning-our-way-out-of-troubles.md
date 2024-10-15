@@ -46,9 +46,8 @@ will be one of his best tools for making sure that New
 Zealand is well positioned to climb above global financial
 troubles.”</p>
 
-<p><br>Ends</p><p>&nbsp;
-</p>
+<p><br>Ends</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>&nbsp;<p>
+
+<p></p>

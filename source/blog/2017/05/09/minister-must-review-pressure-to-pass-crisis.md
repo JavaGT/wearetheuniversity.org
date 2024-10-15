@@ -51,8 +51,7 @@ university.”</p>
 internal compulsory items from our course. Now all
 assessment items are no longer compulsory. This was done
 with the rationale that more passes means more
-funding.”
-</p>
+funding.”<p>
 
 <p>Publication of the dossier coincides with the
 expected first reading this week of a controversial law that
@@ -92,17 +91,13 @@ succeed."</strong></p>
 
 <p><strong>--ENDS--</strong></p>
 
-<p>Note:
-</p>
+<p>Note:<p>
 
 <p>[2] The State of the Sector survey was first published in
 March 2017. The report presented the findings from the
 survey but not the individual comments that were received.
 The dossier also includes anonymous comments sent to the TEU
 since publication of the survey. For a copy of the survey
-visit http://teu.ac.nz/wp-content/uploads/2017/05/Education-Under-Pressure-2017.pdf
-</p>
+visit http://teu.ac.nz/wp-content/uploads/2017/05/Education-Under-Pressure-2017.pdf<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

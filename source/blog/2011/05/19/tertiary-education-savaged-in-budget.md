@@ -17,7 +17,7 @@ budget</strong></p>
 <p>The Finance Minister Bill English said
 today that the government would invest about $3 billion into
 health and education alone. However, the reality is that
-tertiary education funding has been savaged. </p>
+tertiary education funding has been savaged.<p>
 
 <p>The Budget
 Economic and Fiscal Update shows total spending on tertiary
@@ -43,6 +43,5 @@ continue to rise beyond the reach of the people we most want
 to give the chance to
 learn."</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 

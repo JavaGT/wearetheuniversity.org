@@ -71,6 +71,4 @@ not negotiating this year, while Te Whare Wānanga o Waikato
 set of negotiations following their recent negotiations
 campaign.</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

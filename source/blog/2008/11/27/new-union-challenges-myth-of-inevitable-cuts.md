@@ -23,8 +23,7 @@ cutting down public education,” says Tangi Tipene, TEU
 Co-President. “If we are to survive the oncoming economic
 bad weather we need to invest in teaching quality, research,
 and accessibility. All New Zealanders need the opportunities
-that tertiary education can provide to weather the storm.”
-</p>
+that tertiary education can provide to weather the storm.”<p>
 
 <p>TEU responded quickly to the challenge the Tertiary
 Education Commission’s chief executive, Professor Roy
@@ -47,9 +46,6 @@ that we see public education not as a cost to be trimmed but
 as a tool to solve the problem,” Dr Montgomery
 added.</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

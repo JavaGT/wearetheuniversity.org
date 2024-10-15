@@ -18,8 +18,7 @@ university's failure to negotiate with its staff. Their
 protest is part of escalating industrial action by the
 academics to get their vice chancellor to listen to them.</p>
 
-<p>
-Time: 5.45pm (the dinner starts at 6.15pm)<br> Venue: Alumni
+<p>Time: 5.45pm (the dinner starts at 6.15pm)<br> Venue: Alumni
 Marquee, Old Government House Lawn<br> Corner Waterloo
 Quadrant and Princes Street</p>
 
@@ -47,6 +46,5 @@ their students the best education they can.</p>
 conditions being defended by academic staff are not
 privileges or perks – they relate directly to ensuring
 quality education and research at the
-university."
-</p>
+university."<p>
 

@@ -42,7 +42,7 @@ rate from 10 percent to 12 percent. We have had enough of
 the short sighted, mindless politics of austerity that limit
 who gets access to tertiary education and that see us paying
 rent to a generation that had everything they are taking
-from us." </p>
+from us."<p>
 
 <p>TEU will have analysis and comment on Budget
 2012, as well as links to coverage of tertiary
@@ -55,8 +55,7 @@ education</b></p>
 <p>The government's announcement that it wants
 to introduce performance pay into the education sector flies
 in the face of research and good practice says TEU national
-president Sandra Grey.
-</p>
+president Sandra Grey.<p>
 
 <p>"Most of the credible evidence
 shows that performance pay in any sector, but especially in
@@ -78,12 +77,12 @@ deter some people from pursuing certain professions.
 Therefore, the best use of money as a motivator, at least
 for complex work, is to compensate people fairly and to try
 to take the issue of money off the table.  That means paying
-healthy base salaries…" </p>
+healthy base salaries…"<p>
 
 <p>Dr Grey said performance pay
 for education would be a harmful idea for education in New
 Zealand, including for academic, general/allied staff and
-for students in tertiary education. </p>
+for students in tertiary education.<p>
 
 <p>Management researcher
 Alfie Kohn says performance pay makes employees feel that
@@ -156,7 +155,7 @@ we are to be successful."</p>
 universities' million dollar surpluses back in
 staff</b><br>Tertiary institutions are releasing their 2011
 annual reports and, despite falling government funding, most
-fared well financially. </p>
+fared well financially.<p>
 
 <p>TEU's national secretary Sharn
 Riggs says this bodes well for collective agreement
@@ -235,9 +234,6 @@ Inquiry into Insecure Work, <i>Lives on hold: Unlocking the
 potential of Australia's workforce</i>, is available
 here.</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

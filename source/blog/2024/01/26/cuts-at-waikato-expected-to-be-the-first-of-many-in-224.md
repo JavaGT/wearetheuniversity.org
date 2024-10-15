@@ -53,6 +53,6 @@ medical school that it will be stretched to deliver. It
 would be well advised to ditch that idea and focus on
 maintaining the programmes it already runs and the staff who
 deliver
-them.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+them.”</p>
+
+<p></p>

@@ -40,6 +40,6 @@ far outweigh the time they would have spent participating in
 this strike. Actions such as this might be designed to break
 our members but instead it will strengthen their resolve to
 continue pushing for a real pay
-rise.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+rise.”</p>
+
+<p></p>

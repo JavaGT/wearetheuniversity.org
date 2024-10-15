@@ -47,9 +47,6 @@ academic Dr Mike Joy and end its business relationship with
 Unsworth Saunders immediately. Other tertiary education
 institutions that have a business relationship with Unsworth
 Saunders should do so
-too."<br>ends
-</p>
+too."<br>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

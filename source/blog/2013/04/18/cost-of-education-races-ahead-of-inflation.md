@@ -1,8 +1,8 @@
 ---
 title: "Cost Of Education Races Ahead Of Inflation"
-slug: cost-of-education-races-ahead-of-inflation
+slug: cost-of-education-races-ahe
 date: 2013-04-18
-source: https://www.scoop.co.nz/stories/ED1304/S00121/cost-of-education-races-ahead-of-inflation.htm
+source: https://www.scoop.co.nz/stories/ED1304/S00121/cost-of-education-races-ahe
 source-name: Scoop
 author: Tertiary Education Union
 author-slug: tertiary-education-union
@@ -45,7 +45,7 @@ people have a right as citizens to an education. Education
 gives the power to change people’s lives, and the
 opportunities a community needs to thrive. It improves
 health, democracy, culture, and equality in our
-communities.” </p>
+communities.”<p>
 
 <p>“So it’s not fair when hundreds of
 thousands of our students and future students are burdened
@@ -54,9 +54,6 @@ because of the threat of debts they cannot afford,” said
 Lesley
 Francey.</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

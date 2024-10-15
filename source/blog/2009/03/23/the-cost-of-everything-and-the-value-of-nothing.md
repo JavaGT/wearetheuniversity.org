@@ -23,7 +23,7 @@ an important chance for workers to spend time with their
 family, their friends and their community. Schools,
 community groups, churches and families all rely on holidays
 to allow them to spend time with the workers in their
-lives.”  </p>
+lives.”<p>
 
 <p>“A law that allows companies to encourage
 workers to sell holidays for cash would tell workers that we
@@ -39,13 +39,10 @@ communities.”</p>
 <p>“Sadly some companies will misuse this
 law to trade holidays for cash if it is introduced, and
 those workers with the least financial ability to resist
-will be hurt the most.”  </p>
+will be hurt the most.”<p>
 
 <p>http://www.teu.ac.nz</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

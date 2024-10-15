@@ -17,7 +17,7 @@ staff to watch for foreign agents</p>
 Intelligence Service (SIS) has been approaching universities
 seeking their help to prevent foreign states getting their
 hands on technology associated with weapons of mass
-destruction. </p>
+destruction.<p>
 
 <p>Director of the SIS, Dr Warren Tucker, sent
 a letter dated 6 November to various university managers. In
@@ -25,7 +25,7 @@ it he notes that the SIS recently met with the New Zealand
 Vice-Chancellors’ Committee, and sought the
 vice-chancellors’ help in alerting the SIS to any
 ‘illicit science’ relating to the proliferation of
-weapons of mass destruction.  </p>
+weapons of mass destruction.<p>
 
 <p>An accompanying brochure,
 called ‘A Guide to Weapons of Mass Destruction: Your role
@@ -47,8 +47,7 @@ agency. But such a practice would undermine the legislated
 autonomy of our institutions, including the guarantee of
 academic freedom. It also may lead to some members of the
 academic community being targeted because of their religion,
-nationality, or ethnicity.” 
-</p>
+nationality, or ethnicity.”<p>
 
 <p>“If any tertiary staff
 member sees something they suspect is illegal they should
@@ -68,9 +67,6 @@ had learned their lesson, if belatedly, then – both
 clearly have very short
 memories.”</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

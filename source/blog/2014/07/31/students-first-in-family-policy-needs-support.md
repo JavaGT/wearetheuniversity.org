@@ -8,7 +8,7 @@ author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
 
-<p>Students' first-in-family policy needs support </p>
+<p>Students' first-in-family policy needs support<p>
 
 <p><br>Free
 education for the first person in a family to undertake
@@ -32,9 +32,6 @@ families into tertiary education and sign up to it new
 before the
 election.</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

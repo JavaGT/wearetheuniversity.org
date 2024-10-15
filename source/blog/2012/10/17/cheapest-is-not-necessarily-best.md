@@ -14,7 +14,7 @@ institutions received funding to provide level 1 and 2 tertiary
 education courses next year show that the Tertiary
 Education Commission is favouring those providers that have
 promised to deliver the course for the cheapest, rather than
-those which proposed to offer high quality courses.  </p>
+those which proposed to offer high quality courses.<p>
 
 <p>TEU
 national president Sandra Grey says that we should not
@@ -27,13 +27,13 @@ polytechnics out of eighteen and only one wananga would
 receive funding to tender funding to teach level 1-2 course
 next year, but 17 for profit private providers would get
 funding that had previously gone to publicly owned
-polytechnics. </p>
+polytechnics.<p>
 
 <p>Today, when the commission released more
 information about the successful tenders, it is clear that
 one of the deciding factors was the ability of an
 institution to teach its course more cheaply than its
-competitors. </p>
+competitors.<p>
 
 <p>"If this competitive funding model continues
 not only will we see more and more public eduction money in
@@ -42,6 +42,6 @@ Grey, "but we will also see a downward spiral in quality as
 polytechnics and wananga respond to the expectations of the
 tertiary education quality and design courses that are cheap
 rather than high
-quality."</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+quality."</p>
+
+<p></p>

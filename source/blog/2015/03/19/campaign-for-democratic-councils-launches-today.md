@@ -32,6 +32,6 @@ independent staff and student representation is so crucial
 ministerial
 appointees.”</p>
 
-<p>ends</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ends</p>
+
+<p></p>

@@ -38,6 +38,6 @@ to keep taking strike action until this changes."</p>
 <p>The
 strike will commence at 7am on Friday November 11 and end at
 5pm on Tuesday November
-15.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+15.</p>
+
+<p></p>

@@ -38,8 +38,7 @@ students and staff, he says. Sadly, this bill is likely to
 be counterproductive to the government’s stated goals of
 increasing long-term security for New Zealand. Professor
 Jackson is a leading scholar in the field of critical
-terrorism studies.
-</p>
+terrorism studies.<p>
 
 <p>Massey University’s Associate
 Professor Jeff Sluka says the bill is completely
@@ -62,9 +61,8 @@ proper oversight and not abuse their position. Until then,
 there should be no increase in the powers or resources of
 these agencies." Dr Small's research areas include civil
 liberties, the rule of law and the war on
-terror.</p><p>ends
-</p>
+terror.</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ends<p>
+
+<p></p>

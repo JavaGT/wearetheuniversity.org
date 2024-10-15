@@ -9,7 +9,9 @@ author-slug: tertiary-education-union
 ---
 
 <p><br>Tertiary Education Union<br>30 November
-2012</p><p>Funding experiment leads to education providers
+2012</p>
+
+<p>Funding experiment leads to education providers
 with no teaching materials</p>
 
 <p>It seems that the Tertiary
@@ -51,9 +53,6 @@ experience of these programmes, no classrooms and no
 materials," said TEU National President Sandra
 Grey.</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

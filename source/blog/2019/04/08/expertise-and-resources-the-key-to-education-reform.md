@@ -40,8 +40,7 @@ by cabinet.”</p>
 <p>Gilchrist says polytechnic chief executives
 have continued to review courses and student services in
 order to trim budgets even as the system-wide review is
-conducted.
-</p>
+conducted.<p>
 
 <p>“In some communities we will have no
 on-campus provision left on which to build a coordinated

@@ -77,6 +77,4 @@ towards supporting mātauranga Māori but the funding gap
 between universities and wānanga is not
 equitable.”</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

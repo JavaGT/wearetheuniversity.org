@@ -56,6 +56,5 @@ good research because of blinkered government ideology,”
 she
 says.</p>
 
-<p>ends
-</p>
+<p>ends<p>
 

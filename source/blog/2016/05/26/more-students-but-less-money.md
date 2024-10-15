@@ -28,7 +28,7 @@ cuts are doing to tertiary education.</p>
 
 <p>NZUSA president
 Linsey Higgins says students are currently living in
-poverty. </p>
+poverty.<p>
 
 <p>“Students are living in slums or couch surfing
 from friend to friend. Students can't afford to
@@ -45,7 +45,7 @@ students from accessing education."</p>
 
 <p>TEU president Sandra
 Grey says students’ learning suffers when they are
-struggling to pay day-to-day bills. </p>
+struggling to pay day-to-day bills.<p>
 
 <p>“The increase in
 students and the cut in funding will be borne by staff
@@ -56,6 +56,5 @@ have been papering over the gaps caused by underfunding
 since 2009, they can't keep making up the shortfall in
 funding."</p>
 
-<p>ends
-</p>
+<p>ends<p>
 

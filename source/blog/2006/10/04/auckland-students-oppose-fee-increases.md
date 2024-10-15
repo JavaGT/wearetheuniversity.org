@@ -7,20 +7,16 @@ source-name: Scoop
 author: Auckland University Students Association
 author-slug: auckland-university-students-association
 ---
-<div class="story-top">
-           <h1>Auckland Students Oppose Fee Increases</h1>
 
-           <span class="byline"><b>Wednesday,  4 October 2006,  1:50 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a></b></span>
+<p>Auckland Students Oppose Fee Increases</p>
 
-         </div>
-
-	 <p>
-         Auckland Students Oppose Fee Increases</p><p>The Auckland
+<p>The Auckland
 University Students Association (AUSA) today signalled their
 opposition to the University's intention to increase
 domestic tuition fees for 2007, with the launch of their
-"Fight the Fees" campaign. </p><p>The University of Auckland
+"Fight the Fees" campaign.<p>
+
+<p>The University of Auckland
 Council are due to consider a vote to increase fees for
 2007, across both undergraduate and postgraduate courses, at
 their next meeting on Monday 16 October at 4pm. Students
@@ -28,7 +24,9 @@ will be protesting the fee increases at that meeting. AUSA
 President Dan Bidois said that AUSA would be campaigning
 solidly over the next two weeks to highlight the problems
 with raising tuition fees as the solution to an increase in
-University costs.</p><p>"AUSA recognises that the University's
+University costs.</p>
+
+<p>"AUSA recognises that the University's
 costs are increasing at a rate higher than the Government is
 funding them. The University has indicated that their costs
 will rise by margins greater than 5% in 2007, while the
@@ -36,7 +34,9 @@ Government has only committed to a 2.5% increase in funding
 for that same period" said Mr Bidois. "As a result, the
 University is facing a substantial deficit, manifesting in
 budget cuts and staff redundancies across several
-faculties", he added.</p><p>"However, students at the University
+faculties", he added.</p>
+
+<p>"However, students at the University
 of Auckland already pay the highest tuition fees in the
 country. Students are burdened with meeting those fees,
 along with the higher costs associated with living in the
@@ -49,8 +49,7 @@ Sector. We call on the Government to step up to its
 responsibility to fund Universities in a meaningful way,
 allowing them to create and contribute knowledge to our
 community without unnecessarily burdening our students and
-our graduates with financial hardship."
-</p>
+our graduates with financial hardship."<p>
 <p>AUSA Education
 Vice President Xavier Goldie urged the University Council
 and the Vice Chancellor Stuart McCutcheon to work more
@@ -58,7 +57,9 @@ closely with other Tertiary sector organisations such as
 AUSA, the New Zealand Union of Students Associations (NZUSA)
 and the Association of University Staff (AUS) to pressure
 the Government to increase their commitment to quality
-University teaching and excellent research.</p><p>"With the new
+University teaching and excellent research.</p>
+
+<p>"With the new
 landscape of the Tertiary sector unfolding as a result of
 funding reforms, there are significant opportunities to make
 important gains a more equitably and sustainably resourced
@@ -68,7 +69,9 @@ faith with NZUSA and AUS to promote the concerns of the
 sector to the Government. Students, staff, academics and
 Management are all in this together; none of us want to see
 the decline in productivity and quality that underfunding
-invariably brings", he added.</p><p>"Raising student fees are
+invariably brings", he added.</p>
+
+<p>"Raising student fees are
 not an innovative, sustainable or long term strategy for
 dealing with revenue-cost disparities. They are a drop in
 the bucket of what is truly needed for our excellent
@@ -77,16 +80,13 @@ sector, and they only serve to increase student hardship",
 he continued. "It's time for a bold, fresh new approach to
 the problems that the University faces, and that can only be
 achieved by collaboration between all those stakeholders -
-staff, students and management - within the sector."</p><p>ENDS
-</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+staff, students and management - within the sector."</p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+<p>ENDS<p>
+
+
+
+
 <!--
 
 

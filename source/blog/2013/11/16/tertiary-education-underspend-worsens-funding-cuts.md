@@ -41,9 +41,6 @@ those cuts even deeper by doling out only part of the money
 it sets aside to help students
 learn."</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

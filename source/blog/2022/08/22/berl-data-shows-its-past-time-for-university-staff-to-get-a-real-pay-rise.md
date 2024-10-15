@@ -80,6 +80,4 @@ statements’ – can be viewed
 and downloaded
 here.</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

@@ -25,8 +25,6 @@ support for what it is - an increase to meet basic needs.
 Any suggestion that it will create a rort is totally
 refutable.’</p>
 
-<p><br>ENDS</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         
+<p><br>ENDS</p>
 
-</p>
+<p></p>

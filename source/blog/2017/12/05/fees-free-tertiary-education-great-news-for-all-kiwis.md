@@ -44,6 +44,5 @@ careers later in life, learning new skills or finding your
 passion, tertiary education will be a more realistic
 option.”</p>
 
-<p>--ENDS--
-</p>
+<p>--ENDS--<p>
 

@@ -42,8 +42,7 @@ politicians.</p>
 evidence they want to hear. An overwhelming majority of
 climate scientists and academics say there this is a real,
 measurable, and urgent issue that we need to address. It is
-not speculative.”
-</p>
+not speculative.”<p>
 
 <p>Grey says the current government has a
 poor record denigrating scientists and academics with whom
@@ -55,9 +54,6 @@ change.</p>
 Civic Square on 28 November,
 1pm.</p>
 
-<p><br>ends
-</p>
+<p><br>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

@@ -7,16 +7,8 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Universities starved in Budget</h1>
 
-           <span class="byline"><b>Thursday, 27 May 2004,  4:47 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         <img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">Universities starved in
+<p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">Universities starved in
 Budget<br>Universities have been a big loser in today’s
 Budget, according to the Association of University Staff
 (AUS). Universities will receive a funding increase of 3.2%
@@ -56,30 +48,33 @@ issues facing the sector,” he said. <br>Dr Rosenberg said it
 was time the Government differentiated its policy on
 universities and funded them in a manner which enabled them
 meet their specific role as it has begun to do for community
-childcare centers and public polytechnics in the Budget.
+childcare centers and public polytechnics in the Budget.<p>
+<p>Ends</p>
 
-</p>
-<p>Ends</p><p>For further information please contact</p><p>Dr Bill
+<p>For further information please contact</p>
+
+<p>Dr Bill
 Rosenberg					<br>National President, AUS				<br>Phone	(03)
 364 2801 (work)				<br>(03) 332 8525 (home)	 					<br>021
 680 475 (mobile) 						<br>Email
-	bill.rosenberg@canterbury.ac.nz	</p><p>Helen Kelly, <br>General
+	bill.rosenberg@canterbury.ac.nz<p>
+
+<p>Helen Kelly, <br>General
 Secretary, Association of University Staff (AUS)		<br>Phone
 	(04) 915 6691 (work)	<br>(04) 385 3153 (home)		<br>027 436
-6308 (mobile) 	<br>Email:  helen.kelly@aus.ac.nz</p><p><br>The
+6308 (mobile) 	<br>Email:  helen.kelly@aus.ac.nz</p>
+
+<p><br>The
 Association of University Staff<br>PO Box 11 767 Wellington,
 New Zealand<br>Phone +64 4 915 6690        Fax +64 4 915
 6699        Email:
-national.office@aus.ac.nz</p><p><br>
-</p><p>
+national.office@aus.ac.nz</p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
+
 <!--
 
 

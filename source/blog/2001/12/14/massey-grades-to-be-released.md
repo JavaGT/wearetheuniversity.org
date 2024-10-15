@@ -7,22 +7,18 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Massey grades to be released</h1>
 
-           <span class="byline"><b>Friday, 14 December 2001,  4:44 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         <img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>Massey Combined Union
+<p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>Massey Combined Union
 negotiators have today sent a message to union members
 authorising the release of grades following the receipt of
 an improved offer from management in the areas of salary,
-casualisation and workloads.</p><p>The willingness of the
+casualisation and workloads.</p>
+
+<p>The willingness of the
 employer to return to the negotiating table over the last
-two days has been welcomed by union staff at Massey. </p><p>"The
+two days has been welcomed by union staff at Massey.<p>
+
+<p>"The
 main improvements include the reduction of the period in
 which staff are truly casual.  This change will
 significantly increase the number of staff eligible for
@@ -30,11 +26,15 @@ coverage of our collective agreement, and the terms and
 conditions contained within it.  Needless to say, this will
 mean a number of significant improvements to the current
 working conditions for the large number of casual members of
-staff" said Combined Union Spokesperson</p><p>"Employer has
+staff" said Combined Union Spokesperson</p>
+
+<p>"Employer has
 demonstrated a real commitment to working with union
 representatives to ensure that all staff have safe and
 reasonable workloads.  These workloads will be closely
-monitored by a joint union/employer team" </p><p>"The most
+monitored by a joint union/employer team"<p>
+
+<p>"The most
 significant improvement in the salary offer was the
 commitment to apply the increases to printed salary scales
 for general staff.  This has been a bone of contention for a
@@ -43,37 +43,16 @@ sum payment will be applied as an across the board increase
 on the printed and paid rates for all staff in April 2002. 
 There is also a commitment to pass on any additional
 government funding over a certain percent to staff in 2003"
-said Peter Blakey
-</p><div class="article-left-box-wrapper"><div class="article-left-box">
-        
-
-
-
-
-<div class="headline-right"><div id="in-cont" style="background:white;">
- <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-
-  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
-@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
-<!-- /1688062/Scoop_Super-Rectangle -->
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-</script>
-   </div>
-
-  </div> 
-</div>
-</div>
-
-</div></div>
+said Peter Blakey<p>
 <p>"Perhaps one of the most important
 commitments for our university in the long term is the
 establishment of joint union/employer taskforces which will
 make specific recommendations for improved salary levels and
 related staff development opportunities.  The work of these
 taskforces will inform the university's financial planning
-for the medium to long term" said Peter Blakey</p><p>"In
+for the medium to long term" said Peter Blakey</p>
+
+<p>"In
 addition we will co ordinate the formation of a National
 University Academic Staff Coalition comprising equal
 representation from unions and employers.  This coalition
@@ -82,36 +61,32 @@ benchmarking of academic salaries, opportunities and
 performance in teaching and research; advocate directly to
 Government to achieve international competitiveness of
 salaries and conditions for academic staff" said Peter
-Blakey</p><p>"We are concerned that the release of grades will
+Blakey</p>
+
+<p>"We are concerned that the release of grades will
 put pressure on support staff who now have the unenviable
 task of processing the large number of outstanding grades
 before Christmas and are pleased with the assurance that no
 undue pressure will be put on general staff.  We have been
 told that extra resources will be made available to
 departments who need additional support" said Peter
-Blakey.</p><p>"The negotiating team judged that this improved
+Blakey.</p>
+
+<p>"The negotiating team judged that this improved
 offer warranted a good will gesture from union members and
 so we have authorised the release of grades.  This improved
 offer will now form the basis of further negotiations in the
-New Year" said Peter Blakey.</p><p>For further comment please
+New Year" said Peter Blakey.</p>
+
+<p>For further comment please
 phone Peter Blakey on 021 660
-930</p><p><!-- LINKS REMOVED 
- SUB:0 URL:ED0112/S00018/massey-grades-to-be-released.htm -->
-</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
-  LINKS NOT REMOVED 
-  SUB:0
-  URL:ED0112/S00018/massey-grades-to-be-released.htm
- -->
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
-<!-- /1688062/Scoop_Story-Footer -->
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-6'); });
-  </script>
-</div>
-</div>
+930</p>
+
+<p></p>
+
+
+
+
 <!--
 <div id="byline-block">
 <style> a.supporter:hover {background:#EC4438!important;} 
@@ -123,18 +98,9 @@ phone Peter Blakey on 021 660
 <a style="color:#1e1e1e;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=SFPro23" target="_blank"><u>Find out more</u></a></p> 
 </div>
 </div> -->
-<!-- Pro Individual -->
-<div id="byline-block">
-<style> a.supporter:hover {background:#EC4438!important;} 
-@media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}</style>
-<div class="byline-block byline-block-light" style="background-color:#fff; font-size:16px; line-height:22px; font-weight:normal; border: 1px solid #f55a3f; width: -webkit-fill-available;">
-<h3 style="margin-top:0px;">Are you licensed for Scoop?</h3>
-<p> Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop without a regular paywall. Join today with plans starting from just $11 per month, and start using Scoop like a Pro.<br><br>
- <a class="supporter" href="https://pro.scoop.co.nz/Individual/?from=ProIn24" target="_blank" style="background: #f55a3f; color: #ffffff!important; border-radius: 2px; display: unset; border:none; padding: 5px 12px 6px 12px;font-weight:normal;">Join Pro Individual</a>  
-<a style="color:#1e1e1e;display: unset; border:none;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24" target="_blank"><u>Find out more</u></a></p> 
-</div>
-</div>
 
 
-<div id="byline-block"><div class="byline-block byline-block-light">Find more from <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a> on InfoPages.</div></div>
-         <div class="cleaner">&nbsp;</div>
+
+
+
+         

@@ -23,10 +23,10 @@ shows extreme inequality between ethnicities. People of
 European ethnicity had a median net worth of $114,000,
 compared with $23,000 for people of Māori ethnicity,
 $12,000 for Pacific people, and $33,000 for the Asian ethnic
-group. </p>
+group.<p>
 
-<p> Riggs says part of the cause for this
-destabilising inequality is student loans. </p>
+<p>Riggs says part of the cause for this
+destabilising inequality is student loans.<p>
 
 <p>Young people
 (aged 15–24) had the lowest individual median net worth of
@@ -34,8 +34,7 @@ any age group – just $1,000. The most common debt for
 young people is education loans.</p>
 
 <p>Riggs says student loans
-place huge financial pressure on people on low incomes.
-</p>
+place huge financial pressure on people on low incomes.<p>
 
 <p>“It is much harder for non-Pākehā people to grow
 their wealth during their life when they are saddled with
@@ -64,9 +63,7 @@ education debt (table 2.04).</p>
 
 <p>Riggs says New Zealand has to
 cut the cost of education if it wants to restore a more
-equal and balanced society. 
-</p>
+equal and balanced society.<p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 

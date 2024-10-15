@@ -7,40 +7,38 @@ source-name: Scoop
 author: NZUSA
 author-slug: nzusa
 ---
-<div class="story-top">
-           <h1>Wins For Some Students, Poverty For Others</h1>
-
-           <a href="http://www.students.org.nz"><img class="byline-logo" src="https://img.scoop.co.nz/stories/images/1511/new_nzusa_logo_green.small.png" alt="NZUSA - New Zealand Union of Students' Associations" border="0"></a>
-<span class="byline"><b>Thursday, 20 May 2021,  3:30 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/NZUSA">NZUSA</a></b></span>
-
-         </div>
-
-	 <p>
-         </p><p>The New Zealand Union of Students’ Associations (NZUSA)
+<p>The New Zealand Union of Students’ Associations (NZUSA)
 believes that Budget 2021 is a missed opportunity to support
 all students in Aotearoa. The reintroduction of the Training
 Incentive Allowance will aid 16,000 students who have,
 historically, been failed. However, NZUSA National President
 Andrew Lessells says that many have missed out as
 “postgrad and mature students are still expected to live
-on food parcels”.</p><p>While the Student Allowance will
+on food parcels”.</p>
+
+<p>While the Student Allowance will
 increase by $25 in 2022, this does not keep track with main
 benefit increases. Lessells says “students facing hardship
 have yet again been forgotten. Students deserve better than
 being treated as second class citizens forced to borrow to
-survive”.</p><p>The increase in Vocational Education
+survive”.</p>
+
+<p>The increase in Vocational Education
 funding is welcomed and could revolutionise the sector.
 NZUSA has fought hard with the Tertiary Education Union
 (TEU) to ensure that there is enough funding to make the
 Reform of Vocational Education a success. But it is
 bittersweet that Universities under real financial pressure
-see no real increases.</p><p>“Universities are having the
+see no real increases.</p>
+
+<p>“Universities are having the
 biggest growth in a generation, but funding simply doesn’t
 reflect this. Staff in the sector are overworked and burning
 out in droves. They need real wage increases and more
 support from Government which is completely missing” says
-TEU National President Tina Smith.</p><p>The extension of
+TEU National President Tina Smith.</p>
+
+<p>The extension of
 the COVID-19 Learner Hardship Fund (HAFL) is promising,
 however $5.8 million is a drop in the ocean for students
 struggling to keep their heads above water. “We’re
@@ -48,55 +46,27 @@ extremely disappointed that there is no significant funding
 to student wellbeing, given the Governments’ commitment to
 the Code of Learner Wellbeing and Safety which will place
 real costs and pressure on staff and students in the
-sector” says Lessells.</p><p>Overall Budget 2021 is a win
+sector” says Lessells.</p>
+
+<p>Overall Budget 2021 is a win
 for the sector, but students expected and deserve far more.
 They deserve to be able to afford to
 live.</p>
-<div class="article-left-box-wrapper"><div class="article-left-box">
-        
 
 
-
-
-<div class="headline-right"><div id="in-cont" style="background:white;">
- <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-
-  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
-@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
-<!-- /1688062/Scoop_Super-Rectangle -->
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-</script>
-   </div>
-
-  </div> 
-</div>
-</div>
-
-</div></div>
-
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
-  LINKS NOT REMOVED 
-  SUB:1
-  URL:ED2105/S00042/wins-for-some-students-poverty-for-others.htm
- -->
-         
-
-</p><div id="byline-block">
+<p><p><div id="byline-block">
 <div class="byline-block">
 
 
 <h1 class="byline-block"><a href="https://info.scoop.co.nz/NZUSA_-_New_Zealand_Union_of_Students'_Associations">NZUSA - New Zealand Union of Students' Associations</a></h1>
  <a href="http://www.students.org.nz"><img class="byline-block-img" src="https://img.scoop.co.nz/stories/images/1511/new_nzusa_logo_green.large.png" alt="NZUSA - New Zealand Union of Students' Associations" align="right" border="0"></a>
 
- <p><b>We stand for opportunity, for all.</b></p>
- <p>NZUSA is the New Zealand Union of Students' Associations, the national body that represents New Zealand's students' associations and the interests of New Zealand's 400,000 students at universities, polytechnics and in trades training. 
+<p><b>We stand for opportunity, for all.</b></p>
+<p>NZUSA is the New Zealand Union of Students' Associations, the national body that represents New Zealand's students' associations and the interests of New Zealand's 400,000 students at universities, polytechnics and in trades training. 
 <br><br>
 We conduct original research, advocate to Government and through the media, and support New Zealand's students' associations to be more effective on behalf of their members. We advocate alongside Te Mana Akonga – The National Māori Students' Association, and Tertiary Women New Zealand – The NZUSA Women's Caucus.
 <br><br>
-Since 1929, we've believed in a society rich in opportunity, where anyone from anywhere can become any thing. We support accessible, affordable quality public tertiary education. </p>
+Since 1929, we've believed in a society rich in opportunity, where anyone from anywhere can become any thing. We support accessible, affordable quality public tertiary education.<p>
 
 
 
@@ -147,4 +117,4 @@ Since 1929, we've believed in a society rich in opportunity, where anyone from a
 </div>
 </div><!--/byline-block-->
 
-         <div class="cleaner">&nbsp;</div>
+         

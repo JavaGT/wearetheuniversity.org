@@ -45,8 +45,7 @@ end up turning away", said Dr Grey.</p>
 wants value for its investment why does it let institutions
 compete amongst themselves with our money. Advertising is
 not the best way to give students important information
-about education and career choices."
-</p>
+about education and career choices."<p>
 
 <p>"While these figures
 should be read with caution because of the wide and varying
@@ -113,9 +112,6 @@ advertising</p>
 <p>•	Postgraduate
 costs</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

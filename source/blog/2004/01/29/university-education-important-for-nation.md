@@ -7,35 +7,41 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>University Education Important For Nation</h1>
 
-           <span class="byline"><b>Thursday, 29 January 2004,  2:09 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p>Association of University Staff - Media Release</p>
 
-         </div>
-
-	 <p>
-         Association of University Staff - Media Release</p><p>Attn
+<p>Attn
 Education Reporter <br>Thursday, 29 January
-2004</p><p>University education important for
-nation</p><p>University education and research are vitally
+2004</p>
+
+<p>University education important for
+nation</p>
+
+<p>University education and research are vitally
 important to the development of New Zealand's future
 economic and social development according to the Association
-of University Staff (AUS).</p><p>AUS National President, Dr Bill
+of University Staff (AUS).</p>
+
+<p>AUS National President, Dr Bill
 Rosenberg, has raised concerns about a media release from
 the Tertiary Education Commission (TEC) this week in which
 the TEC Chair, Dr Andrew West encouraged secondary school
 students and their parents to view a study path which leads
-into vocational, instead of academic education.  </p><p>Dr
+into vocational, instead of academic education.<p>
+
+<p>Dr
 Rosenberg said he found Dr West's logic extraordinary when
 he said that "having a high percentage of the population
 with degrees does not necessarily lead to increased economic
 prosperity" in his call for increasing the vocational skill
-mix in education. </p><p>"This misses the real point which is
+mix in education.<p>
+
+<p>"This misses the real point which is
 that economic prosperity is most unlikely without high
 numbers of our population being educated to degree level",
-said Dr Rosenberg.</p><p>"Dr West has obviously overlooked that
+said Dr Rosenberg.</p>
+
+<p>"Dr West has obviously overlooked that
 universities produce New Zealand's doctors, dentists,
 engineers, scientists and entrepreneurs, all of whom
 contribute directly to New Zealand's economic growth," he
@@ -45,13 +51,14 @@ environment, and there is increasing international evidence
 that economic development falters without this underpinning.
 Similarly, university research is fundamental to economic
 development and is consistent with the Government's
-focus."
-</p>
+focus."<p>
 <p>"Relative to other countries, New Zealand still
 has a low percentage of university qualified people in its
 workforce," said Dr Rosenberg. "Only 14 per cent of our
 workforce has a university qualification, compared to 19 per
-cent of the Australian workforce". (OECD data 2001) </p><p>Dr
+cent of the Australian workforce". (OECD data 2001)<p>
+
+<p>Dr
 Rosenberg said that he while he agreed it is essential that
 our tertiary education system provides for a wide range of
 educational and training needs and that vocational education
@@ -59,16 +66,13 @@ should be more respected as an option than is currently the
 case, "the TEC would be better employed promoting the whole
 the whole of the tertiary sector. These statements raise
 concerns that it does not have an even-handed view," he
-said.</p><p>ENDS<br>
-</p><p>
+said.</p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p>ENDS<br><p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
 <!--
 
 

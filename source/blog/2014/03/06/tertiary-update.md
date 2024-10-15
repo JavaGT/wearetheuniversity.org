@@ -52,8 +52,7 @@ allocated based on external research income, from 15 to 20
 percent of the total PBRF fund. He also wants to reward
 research organisations that attract external research
 income. He says 'this places a higher value on research that
-meets user needs'.
-</p>
+meets user needs'.<p>
 
 <p>[Read more…]</p>
 
@@ -92,9 +91,6 @@ violence in the world of work.</p>
 <p>[Read
 more…]</p>
 
-<p><br>ends<br>
-</p>
+<p><br>ends<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

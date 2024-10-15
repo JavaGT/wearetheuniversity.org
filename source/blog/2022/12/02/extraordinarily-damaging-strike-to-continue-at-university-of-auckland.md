@@ -52,6 +52,6 @@ staff.”</p>
 students started
 a petition on Wednesday, in support of staff strike
 action, which has already attracted over 500
-signatures.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+signatures.</p>
+
+<p></p>

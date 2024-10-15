@@ -9,8 +9,7 @@ author-slug: uni-workers-for-palestine
 ---
 <p>Press Release – Uni Workers for Palestine</p>
 
-<p>The open letter comes three weeks after ethical investment charity Mindful Money has called on fund managers to be more transparent, citing figures which show that $60 million in New Zealanders KiwiSaver money is invested in global arms manufacturers.<span id="more-177364"></span>
-</p><p class="block">14 August 2024</p>
+<p>The open letter comes three weeks after ethical investment charity Mindful Money has called on fund managers to be more transparent, citing figures which show that $60 million in New Zealanders KiwiSaver money is invested in global arms manufacturers.<span id="more-177364"></span><p><p class="block">14 August 2024</p>
 
 <p>Three hundred and seventy-eight staff and community members from New Zealand Universities have signed an open letter calling on the board of the <a target="_blank" rel="noopener noreferrer" href="https://www.unisaver.co.nz/">UniSaver Limited</a> to review its investment strategies and fund holdings. The letter raises concerns about potential breaches of international humanitarian law, stating that ‘UniSaver’s reported list of holdings includes entities which are invested in and benefit from the illegal military occupation of Palestinian territories, as well as the genocidal war on Gaza’.</p>
 
@@ -32,6 +31,5 @@ author-slug: uni-workers-for-palestine
 <li>Outline a clear plan for divestment where immediate termination is not possible, and</li>
 <li>Develop policy measures to ensure its financial and investment strategies are in keeping with the internationally recognised BDS framework.</li>
 </ol>
-<p>
-Content Sourced from <a href="http://www.scoop.co.nz/">scoop.co.nz</a><br>
+<p>Content Sourced from <a href="http://www.scoop.co.nz/">scoop.co.nz</a><br>
 <a href="http://www.scoop.co.nz/stories/ED202408/S00037.htm">Original url</a></p>

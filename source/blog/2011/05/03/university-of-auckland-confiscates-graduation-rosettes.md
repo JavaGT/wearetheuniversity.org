@@ -9,7 +9,7 @@ author-slug: tertiary-education-union
 ---
 
 <p><b>University of Auckland Confiscates Graduation
-Rosettes</b> <i><b></b></i> </p>
+Rosettes</b> <i><b></b></i><p>
 
 <p>Staff and students were
 shocked yesterday at the Law and Arts Graduation ceremony
@@ -54,6 +54,5 @@ ordered not to.</p>
 academic staff wore the rosettes during the
 ceremony.</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 

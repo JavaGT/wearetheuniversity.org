@@ -7,16 +7,8 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Pay settlement at VUW</h1>
 
-           <span class="byline"><b>Thursday,  1 July 2004,  4:42 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         Pay settlement at Victoria University<br>General
+<p>Pay settlement at Victoria University<br>General
 (non-academic) staff at Victoria University of Wellington
 (VUW) today voted to accept a new pay offer from the
 University. Acceptance of the offer, which was for a  3
@@ -38,24 +30,23 @@ in improving the offer,” said Mr Quinn. “Union participation
 is at an all-time high, and staff have the confidence that
 if need be they can repeat an effective industrial action
 campaign in the future if salary claims are not addressed in
-a satisfactory manner.”</p><p>Ends</p><p>Tony Quinn, AUS Victoria
+a satisfactory manner.”</p>
+
+<p>Ends</p>
+
+<p>Tony Quinn, AUS Victoria
 University Branch<br>Phone 	(04) 477 0539 (home)<br>	(04)
-463 6187 (work)<br>Email	tony.quinn@vuw.ac.nz</p><p>Jeff Rowe,
+463 6187 (work)<br>Email	tony.quinn@vuw.ac.nz</p>
+
+<p>Jeff Rowe,
 Industrial Officer AUS<br>Phone 	(04) 380
 9212	(home)<br>	(04) 915 6692 (work)	<br>021 375 670
 (mobile)<br>Email:
-jeff.rowe@aus.ac.nz<br>
-</p>
+jeff.rowe@aus.ac.nz<br><p>
 
-<p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
 <!--
 
 

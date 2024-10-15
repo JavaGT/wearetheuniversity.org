@@ -8,7 +8,9 @@ author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
 
-<p>Tertiary strategy is narrow and limiting</p><p>Tertiary
+<p>Tertiary strategy is narrow and limiting</p>
+
+<p>Tertiary
 education should support New Zealand businesses, and it
 already does. However, that role cannot come at the expense
 of the other duties tertiary education has to our
@@ -47,9 +49,6 @@ for businesses that have failed to invest in skills training
 or research and
 development.”</p>
 
-<p>Ends
-</p>
+<p>Ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

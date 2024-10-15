@@ -58,6 +58,5 @@ of, and dismisses publicly-owned options on the basis of
 guesses and
 assumptions.”</p>
 
-<p>ends
-</p>
+<p>ends<p>
 

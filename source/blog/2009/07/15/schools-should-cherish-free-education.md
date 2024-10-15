@@ -35,7 +35,7 @@ Hopefully the minister’s investigation goes wider than one
 school.  Voluntary school donations of this type are like
 rust that one day grows into school fees, and eventually
 into a private education system that lets some students
-climb to the top while others miss out.”  </p>
+climb to the top while others miss out.”<p>
 
 <p>“If school
 boards don’t want their students or parents encumbered
@@ -49,9 +49,6 @@ they can because it doesn’t last once you turn 19,”
 concluded
 Day.</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

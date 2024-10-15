@@ -38,6 +38,6 @@ the cost of living is so high.”</p>
 <p>TEU members will
 gather at the Viewing Gallery in the Rec Centre for a rally
 at 1pm on Thursday 13 October and strike until
-5pm.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+5pm.</p>
+
+<p></p>

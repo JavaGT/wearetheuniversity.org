@@ -56,11 +56,6 @@ Said Andrew Lessels, President of the EIT Students’
 Association
 Younited.</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         
-
-</p>
+<p></p>

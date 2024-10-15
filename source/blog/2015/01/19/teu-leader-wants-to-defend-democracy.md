@@ -45,6 +45,6 @@ students at Whitireia NZ and Phil Edwards, Academic Leader
 at Otago Polytechnic’s School of Sport and
 Adventure.</p>
 
-<p>ENDS</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ENDS</p>
+
+<p></p>

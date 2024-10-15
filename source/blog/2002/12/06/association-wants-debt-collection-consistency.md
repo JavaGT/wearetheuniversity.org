@@ -7,49 +7,59 @@ source-name: Scoop
 author: Auckland University Students Association
 author-slug: auckland-university-students-association
 ---
-<div class="story-top">
-           <h1>Association Wants Debt Collection Consistency</h1>
 
-           <span class="byline"><b>Friday,  6 December 2002,  3:11 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a></b></span>
+<p>Press Release - For Immediate Use</p>
 
-         </div>
+<p></p>
 
-	 <p>
-         Press Release - For Immediate Use</p><p></p><p>The Governments
+<p>The Governments
 decision not to pursue what could amount to millions of
 dollars in bad debts arising from inefficiencies in the
 student allowance scheme has been met with concern by
-student leaders. </p><p>The President of the Auckland University
+student leaders.<p>
+
+<p>The President of the Auckland University
 Students Association, Mr Ross Burns, this afternoon
 questioned the decision in the light of the ongoing debate
 over the lack of student access to the Emergency
-Unemployment Benefit. </p><p>"While the Government continually
+Unemployment Benefit.<p>
+
+<p>"While the Government continually
 blames a lack of money for its ongoing refusal to allow the
 majority of students to access the Emergency Unemployment
 Benefit over the summer, they are willing to let the actions
 of a small minority of individuals cost the country millions
-of dollars without punishment" said Mr Burns. </p><p>The AUSA
+of dollars without punishment" said Mr Burns.<p>
+
+<p>The AUSA
 President went on to comment that, in failing to pursue this
 money, the Government was effectively allowing a situation
 where a small group have been able to able profit
 handsomely, while many students struggle through the summer
-months living hand to mouth.</p><p></p><p>For further comment,
-please contact </p><p>Ross Burns</p><p>President</p><p>Auckland
-University Students Association</p><p>021 656
-795</p><p>prez@auckland.ac.nz</p><p>
-<br>
-</p>
+months living hand to mouth.</p>
 
-<p>
+<p></p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p>For further comment,
+please contact<p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+<p>Ross Burns</p>
+
+<p>President</p>
+
+<p>Auckland
+University Students Association</p>
+
+<p>021 656
+795</p>
+
+<p>prez@auckland.ac.nz</p>
+
+
+
+
+
+
 <!--
 
 

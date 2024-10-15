@@ -12,7 +12,7 @@ author-slug: tertiary-education-union
 
 <p>Media
 release – 19 October 2018<br>Tertiary Education Union - Te
-Hautū Kahurangi o Aotearoa<br> </p>
+Hautū Kahurangi o Aotearoa<br><p>
 
 <p>AUT strike</p>
 
@@ -44,22 +44,20 @@ a university to do.</p>
 
 <p>Recently over a thousand staff and
 students signed a petition calling on the Vice Chancellor to
-pay staff the Living Wage.<br> 
-</p>
+pay staff the Living Wage.<br><p>
 
 <p>For two weeks, union
 members will not be releasing student marks to AUT. The TEU
 has notified the student union of its plans and has told
 them that AUT can ensure the release of marks by agreeing to
-what the union is asking for.<br> </p>
+what the union is asking for.<br><p>
 
 <p>Irena Brorens, the
 national industrial officer of the TEU, and lead advocate
 for negotiations at AUT, said: “What we’re talking about
 here are the people who make studying at AUT possible. Every
 person at the university makes a huge contribution to the
-quality teaching and learning AUT is known for”.<br>
-</p>
+quality teaching and learning AUT is known for”.<br><p>
 
 <p>ENDS</p>
 

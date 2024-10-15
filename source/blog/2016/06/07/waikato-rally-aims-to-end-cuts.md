@@ -52,6 +52,5 @@ Waikato Village Green (beside the shops)<br>Date: Wednesday
 8 June<br>Time:
 1pm</p>
 
-<p>ends
-</p>
+<p>ends<p>
 

@@ -32,7 +32,7 @@ tertiary education should be accessible to all on the basis
 of ability not wallet size.  If the government really wants
 more people to study then why not pay for it directly rather
 than telling people they should first spend a year or so in
-the military.” </p>
+the military.”<p>
 
 <p>“No disrespect to the territorials –
 the professional work our armed forces do around the world
@@ -42,9 +42,6 @@ growing student fees that government encourages tertiary
 education institutions to
 charge.”</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

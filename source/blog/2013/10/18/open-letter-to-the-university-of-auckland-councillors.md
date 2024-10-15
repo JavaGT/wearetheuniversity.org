@@ -9,17 +9,13 @@ source-name: Scoop
 author: Reclaim UOA
 author-slug: reclaim-uoa
 ---
-<div class="story-top">
-           <h1>Open Letter to the University Of Auckland Councillors</h1>
 
-           <span class="byline"><b>Friday, 18 October 2013,  1:22 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Reclaim_UOA">Reclaim UOA</a></b></span>
+<p><b>Open Letter to the University Of Auckland
+Councillors</b></p>
 
-         </div>
+<p>Dear Council Members,</p>
 
-	 <p>
-         <b>Open Letter to the University Of Auckland
-Councillors</b></p><p>Dear Council Members,</p><p>In 1989 tertiary
+<p>In 1989 tertiary
 education ceased to be free. What started out as $125 per
 year is now around $7,000. You, as council members, have
 decided time and time again to raise fees by the statutory
@@ -33,7 +29,9 @@ manage on a day to day basis without borrowing money. This
 is not an adequate foundation for the future of this
 country. If fees continue to rise, our future will be
 defined by greater financial woes, a culture of debt and
-lack of meaningful education.</p><p>Student loans, or any form
+lack of meaningful education.</p>
+
+<p>Student loans, or any form
 of paid tertiary education forces students to treat
 education like an investment. This is problematic because it
 means only degrees with a high 'return' are prioritised. We
@@ -42,7 +40,9 @@ Universities are supposed to be the critical conscience of
 society; a university run on a profit model will never be
 able to fulfill this role. Privatisation of the cost of
 education contradicts the socialisation of its
-benefits.</p><p>The situation for postgraduate students is worst
+benefits.</p>
+
+<p>The situation for postgraduate students is worst
 of all. They are seeing their student allowances cut and can
 look forward to harsher penalties in the event they can't
 pay back their loan on time. Increasing debt places an undue
@@ -54,8 +54,7 @@ is short-sighted and frankly disrespectful to target such a
 group simply because of our relatively weak position,
 especially when our main intention is to improve society.
 Students should no longer be the victims of draconian
-austerity measures.
-</p>
+austerity measures.<p>
 <p>You, as council members, have the
 opportunity to relieve this pressure for students. We urge
 you, as a whole, to cut back on unnecessary capital
@@ -64,18 +63,19 @@ without cutting staff or pay. Fight with the government over
 its funding policies and allocate existing funds more
 responsibly. There are plenty of countries around the world
 who operate with free education systems and there is no
-reason why New Zealand cannot be one of them.</p><p>Yours
-always,</p><p>Reclaim UoA, the Students of the University of
-Auckland<br>Twitter: @ReclaimUoa, Facebook: https://www.facebook.com/ReclaimUoA</p><p>ENDS
-</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+reason why New Zealand cannot be one of them.</p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+<p>Yours
+always,</p>
+
+<p>Reclaim UoA, the Students of the University of
+Auckland<br>Twitter: @ReclaimUoa, Facebook: https://www.facebook.com/ReclaimUoA</p>
+
+<p>ENDS<p>
+
+
+
+
 <!--
 
 

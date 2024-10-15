@@ -8,7 +8,4 @@ author: NZUSA
 author-slug: nzusa
 ---
 
-<p><a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         
-
-</p>
+<p></p>

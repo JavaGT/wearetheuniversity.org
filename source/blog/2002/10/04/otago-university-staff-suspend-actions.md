@@ -7,57 +7,67 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Otago University staff suspend actions</h1>
 
-           <span class="byline"><b>Friday,  4 October 2002,  4:09 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>Attention<br>Education
+and Industrial Reporters	4 October 2002</p>
 
-         </div>
+<p></p>
 
-	 <p>
-         <img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>Attention<br>Education
-and Industrial Reporters	4 October 2002</p><p></p><p></p><p>OTAGO
+<p></p>
+
+<p>OTAGO
 UNIVERSITY STAFF SUSPEND ACTIONS IN HOPE OF IMPROVED OFFER
-AFTER TUESDAY’S COUNCIL</p><p>Academic and General Staff at the
+AFTER TUESDAY’S COUNCIL</p>
+
+<p>Academic and General Staff at the
 University of Otago have agreed to suspend rolling stoppages
 and the imposition of work to rule until after the
-University Council meets on Tuesday afternoon, 8 October. 
-</p><p>The Vice-Chancellor, Dr. Graeme Fogelberg, has signalled
+University Council meets on Tuesday afternoon, 8 October.<p>
+
+<p>The Vice-Chancellor, Dr. Graeme Fogelberg, has signalled
 that he is not prepared to negotiate further until after
 that meeting.  As a gesture of goodwill and as an assurance
 to Council members that the unions wish to continue talks,
 all actions except the withholding of financial reports have
-been suspended through to Tuesday evening.</p><p>Dr. Shef
+been suspended through to Tuesday evening.</p>
+
+<p>Dr. Shef
 Rogers, the combined unions’ spokesperson, indicated that
 rolling stoppages over the past two weeks had clearly caused
 difficulties for the university management.  “We have no
 desire to harm the university’s reputation or its functions,
 and wish to return to meaningful discussions as soon as
-possible.”  </p><p>Union members will be asked to join Council
+possible.”<p>
+
+<p>Union members will be asked to join Council
 members for a brown bag lunch on the Registry lawn at 1 pm
 on Tuesday, and to attend the public section of the Council
-meeting starting at 2:15.  </p><p>“We think,” reported Dr.
+meeting starting at 2:15.<p>
+
+<p>“We think,” reported Dr.
 Rogers, “that both sides understand the issues and recognise
 that this dispute needs to move toward settlement.  We hope
 that the Council and the Vice-Chancellor can agree on a new
 offer that will see all of us back in discussions quickly,
 in line with the Senate resolutions passed last
-week.”</p><p>END</p><p>Contact Details:</p><p>Dr. Shef Rogers, Combined
+week.”</p>
+
+<p>END</p>
+
+<p>Contact Details:</p>
+
+<p>Dr. Shef Rogers, Combined
 Unions’ spokeperson  479-8892; home 473-0527<br>Mark Ryan,
 co-advocate, 474-7400 or
-025-915-138</p><p></p><p>
-</p>
+025-915-138</p>
 
-<p>
+<p></p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p></p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
 <!--
 
 

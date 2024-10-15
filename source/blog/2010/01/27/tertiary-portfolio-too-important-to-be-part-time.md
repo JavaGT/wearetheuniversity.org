@@ -15,7 +15,7 @@ part-time job</b></p>
 tertiary education confirms that tertiary education is too
 big a job for a minister who already carries other
 significant portfolios, said TEU national president Dr Tom
-Ryan.  </p>
+Ryan.<p>
 
 <p>"We welcome Mr Joyce to his new role as minister
 of tertiary education, and hope that he sees it as his most
@@ -23,7 +23,7 @@ substantial portfolio. Tertiary education has a crucial role
 to play in enriching our economy and our society. The
 government's goals to increase productivity and
 opportunities for young New Zealanders are linked to how
-well our tertiary education system performs."  </p>
+well our tertiary education system performs."<p>
 
 <p>Mr Joyce
 faces challenging times as he picks up this portfolio –
@@ -43,10 +43,6 @@ opportunities and access for new students, and who will
 drive innovative blue skies research. We wish Mr Joyce luck
 with this task," concluded Dr Ryan.</p>
 
-<p>ENDS
+<p>ENDS<p>
 
-</p>
-
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

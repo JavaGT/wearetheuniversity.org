@@ -51,6 +51,5 @@ Grey, TEU national president, 021 844 176<br>•	Stephen
 Day, TEU communications officer, 021 2900
 734</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 

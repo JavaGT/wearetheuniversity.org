@@ -25,8 +25,6 @@ Governance framework of the New Zealand Institute of Skills
 and Technology. This is our
 opportunity'.</p>
 
-<p>ENDS</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         
+<p>ENDS</p>
 
-</p>
+<p></p>

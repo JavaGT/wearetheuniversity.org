@@ -7,95 +7,100 @@ source-name: Scoop
 author: NZUSA
 author-slug: nzusa
 ---
-<div class="story-top">
-           <h1>Students welcome loan limit extension</h1>
 
-           <a href="http://www.students.org.nz"><img class="byline-logo" src="https://img.scoop.co.nz/stories/images/1511/new_nzusa_logo_green.small.png" alt="NZUSA - New Zealand Union of Students' Associations" border="0"></a>
-<span class="byline"><b>Monday,  2 July 2018, 10:00 am</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/NZUSA">NZUSA</a></b></span>
+<p>2 July 2018</p>
 
-         </div>
+<p></p>
 
-	 <p>
-         2 July 2018</p><p> </p><p>Students welcome loan limit extension</p><p>
-</p><p>The New Zealand Union of Students’ Associations (NZUSA)
+<p>Students welcome loan limit extension</p>
+
+<p></p>
+
+<p>The New Zealand Union of Students’ Associations (NZUSA)
 has welcomed the Government’s announcement today that they
 will extend the student loan borrowing cap for long
-undergraduate courses.</p><p> </p><p>‘This doesn’t just benefit
+undergraduate courses.</p>
+
+<p></p>
+
+<p>‘This doesn’t just benefit
 students, but also benefits the health and wellbeing of New
 Zealand. Allowing our future doctors, vets and dentists to
 finish their studies is a no-brainer,’ says National
-President Jonathan Gee.</p><p> </p><p>Caitlin Barlow-Groome,
+President Jonathan Gee.</p>
+
+<p></p>
+
+<p>Caitlin Barlow-Groome,
 President of the Otago University Students’ Association
 (OUSA), says that this announcement is great news for her
-students.</p><p> </p><p>‘Otago University has one of the two
+students.</p>
+
+<p></p>
+
+<p>‘Otago University has one of the two
 medical schools in the country, along with dentistry. This
 announcement is great for these students, especially if
 they’ve hit the student loan cap due to completing another
 degree before getting into these competitive
-programmes.’</p><p> </p><p>Gee says that the decision is likely to
+programmes.’</p>
+
+<p></p>
+
+<p>Gee says that the decision is likely to
 result in greater equity for students wanting to enter
-certain health professions.</p><p> </p><p>‘We have heard stories
+certain health professions.</p>
+
+<p></p>
+
+<p>‘We have heard stories
 of students from disadvantaged backgrounds take a little
 longer to realise their dreams of entering programmes like
 medicine. They shouldn’t be denied their dreams simply due
-to an arbitrary cap.’</p><p> </p><p>‘Students have been calling
+to an arbitrary cap.’</p>
+
+<p></p>
+
+<p>‘Students have been calling
 for this extension for some time. We’re glad the
 Government has heard that call and kept its election
-promise.’</p><p> </p><p>Gee says, however, there is still more to
-be done to remove unfair barriers to education.</p><p>
-</p><p>‘This Government has made a commitment to a
+promise.’</p>
+
+<p></p>
+
+<p>Gee says, however, there is still more to
+be done to remove unfair barriers to education.</p>
+
+<p></p>
+
+<p>‘This Government has made a commitment to a
 barrier-free education. We hope that the Government
 continues to keep its word and remove other barriers such as
 restoring the postgraduate allowance, which was also an
-election promise.’</p><p> </p><p>“Our students are anxiously
-waiting.’</p><p>
-</p><p>ENDS
-</p><div class="article-left-box-wrapper"><div class="article-left-box">
-        
+election promise.’</p>
 
+<p></p>
 
+<p>“Our students are anxiously
+waiting.’</p>
 
+<p></p>
 
-<div class="headline-right"><div id="in-cont" style="background:white;">
- <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
+<p>ENDS<p>
 
-  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
-@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
-<!-- /1688062/Scoop_Super-Rectangle -->
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-</script>
-   </div>
-
-  </div> 
-</div>
-</div>
-
-</div></div>
-
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
-  LINKS NOT REMOVED 
-  SUB:1
-  URL:PO1807/S00006/students-welcome-loan-limit-extension.htm
- -->
-         
-
-</p><div id="byline-block">
+<p><p><div id="byline-block">
 <div class="byline-block">
 
 
 <h1 class="byline-block"><a href="https://info.scoop.co.nz/NZUSA_-_New_Zealand_Union_of_Students'_Associations">NZUSA - New Zealand Union of Students' Associations</a></h1>
  <a href="http://www.students.org.nz"><img class="byline-block-img" src="https://img.scoop.co.nz/stories/images/1511/new_nzusa_logo_green.large.png" alt="NZUSA - New Zealand Union of Students' Associations" align="right" border="0"></a>
 
- <p><b>We stand for opportunity, for all.</b></p>
- <p>NZUSA is the New Zealand Union of Students' Associations, the national body that represents New Zealand's students' associations and the interests of New Zealand's 400,000 students at universities, polytechnics and in trades training. 
+<p><b>We stand for opportunity, for all.</b></p>
+<p>NZUSA is the New Zealand Union of Students' Associations, the national body that represents New Zealand's students' associations and the interests of New Zealand's 400,000 students at universities, polytechnics and in trades training. 
 <br><br>
 We conduct original research, advocate to Government and through the media, and support New Zealand's students' associations to be more effective on behalf of their members. We advocate alongside Te Mana Akonga – The National Māori Students' Association, and Tertiary Women New Zealand – The NZUSA Women's Caucus.
 <br><br>
-Since 1929, we've believed in a society rich in opportunity, where anyone from anywhere can become any thing. We support accessible, affordable quality public tertiary education. </p>
+Since 1929, we've believed in a society rich in opportunity, where anyone from anywhere can become any thing. We support accessible, affordable quality public tertiary education.<p>
 
 
 
@@ -146,4 +151,4 @@ Since 1929, we've believed in a society rich in opportunity, where anyone from a
 </div>
 </div><!--/byline-block-->
 
-         <div class="cleaner">&nbsp;</div>
+         

@@ -25,13 +25,12 @@ private charter school.</p>
 <p>Dr Grey says Victoria’s
 expression of interest to run a charter school raises
 worrying questions about what direction the university has
-for education. </p>
+for education.<p>
 
 <p>“If it has innovative new ideas for
 education, why is it not already teaching and promoting
 those ideas in our existing public schools through research
-and teacher education at its own Faculty of Education.”
-</p>
+and teacher education at its own Faculty of Education.”<p>
 
 <p>“New Zealand has a high quality public education
 system, from early childhood right through to adult and
@@ -44,9 +43,6 @@ improving education for all New Zealanders to focus instead
 on rewarding private, for-profit companies. Victoria should
 not involve itself in legitimising this attack on quality
 public education,” said Dr
-Grey.
-</p>
+Grey.<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

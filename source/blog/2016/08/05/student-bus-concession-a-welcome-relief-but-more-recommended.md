@@ -12,15 +12,13 @@ author-slug: nz-union-of-students-associations
 is an important first step NZUSA, and encourages this (and
 all) regional councils to implement a strategy that allows
 for the implementation of free transport for all tertiary
-students in their region. </p>
+students in their region.<p>
 
 <p>“Free public transport breaks
 down one of the barriers that stops students getting to
 their classes. If we can break down these barriers we will
 give students a greater opportunity to succeed at a higher
-level and be better prepared graduates.” </p>
+level and be better prepared graduates.”<p>
 
-<p>ENDS
-
-</p>
+<p>ENDS<p>
 

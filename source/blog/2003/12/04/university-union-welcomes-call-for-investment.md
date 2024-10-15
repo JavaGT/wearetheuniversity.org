@@ -7,16 +7,8 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>University union welcomes call for investment</h1>
 
-           <span class="byline"><b>Thursday,  4 December 2003,  4:07 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         <img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">The Association of
+<p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">The Association of
 University Staff (AUS today welcomed the statement from the
 Associate Minister of Education (Tertiary) Steve Maharey
 that more investment is needed in the university system.
@@ -50,23 +42,20 @@ within the system could “flourish and contribute to an
 improved sector performance”.<br>In response to questions,
 Mr. Maharey said that the establishment and compliance costs
 would also reduce with the on-going implementation of the
-Performance-based Research Fund. </p><p>Ends</p><p>For further
+Performance-based Research Fund.<p>
+
+<p>Ends</p>
+
+<p>For further
 information please contact<br>Dr Bill
 Rosenberg					<br>National President, AUS				<br>Phone 	(03)
 364 2801 (work)				<br>(03) 332 8525 (home)	 					<br>021
 680 475 (mobile) 						<br>Email
-	bill.rosenberg@canterbury.ac.nz	<br>
-</p>
+	bill.rosenberg@canterbury.ac.nz	<br><p>
 
-<p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
 <!--
 
 

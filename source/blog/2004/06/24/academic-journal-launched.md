@@ -7,16 +7,8 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Academic journal launched</h1>
 
-           <span class="byline"><b>Thursday, 24 June 2004,  2:07 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         Academic journal launched<br>The Association of University
+<p>Academic journal launched<br>The Association of University
 Staff (AUS) has launched an electronic journal, The New
 Zealand Journal of Tertiary Education Policy – Nga
 matauranga hikohiko o Aotearoa, which is intended to provide
@@ -49,23 +41,24 @@ last quarter of 2004, and is planned to have a focus on the
 Performance-Based Research Fund and its future implications
 and effects. <br>The journal, with full editorial details,
 can now be viewed on line at:
-<br>www.aus.ac.nz/publications/Ejournal/Titlepage_issue1.htm</p><p>Ends</p><p>For
-further information of comment please contact:</p><p>Neville
+<br>www.aus.ac.nz/publications/Ejournal/Titlepage_issue1.htm</p>
+
+<p>Ends</p>
+
+<p>For
+further information of comment please contact:</p>
+
+<p>Neville
 Blampied<br>Executive Editor<br>New Zealand Journal of
 Tertiary Education Policy<br>Phone 	(03) 3642 199
 (work)<br>	(03) 960 7176
-(home)<br>Email	neville.blampied@canterbury.ac.nz</p><p>
-</p>
+(home)<br>Email	neville.blampied@canterbury.ac.nz</p>
 
-<p>
+<p></p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
 <!--
 
 

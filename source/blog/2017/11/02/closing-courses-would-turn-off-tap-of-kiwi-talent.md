@@ -9,7 +9,9 @@ author-slug: tertiary-education-union
 ---
 
 <p>Closing internationally recognised courses would turn off
-tap of Kiwi talent </p><p><br>Plans announced by University
+tap of Kiwi talent<p>
+
+<p><br>Plans announced by University
 of Otago management this week to shut down New Zealand’s
 only comprehensive bachelors to doctorate degree
 qualification in clothing and textiles science would
@@ -55,9 +57,6 @@ future. Perhaps then management will hear just how important
 these qualifications are to New
 Zealand.”</p>
 
-<p>--ENDS--
-</p>
+<p>--ENDS--<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

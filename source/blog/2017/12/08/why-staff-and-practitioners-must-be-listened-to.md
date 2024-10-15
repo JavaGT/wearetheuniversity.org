@@ -49,8 +49,7 @@ capabilities of many newly graduated teachers as they enter
 the profession.” It also said that from 2000 to 2015, New
 Zealand has witnessed a decline in performance “in the
 critical areas of reading, mathematics and
-science".
-</p>
+science".<p>
 
 <p>Earlier this week a global study found that the average
 reading level of Kiwi 10-year-olds has dropped to its lowest
@@ -71,5 +70,9 @@ qualifications, the people who deliver the training
 day-in-day-out must be listened to. They know the profession
 better than anyone, and had their expertise been listened to
 at the time then this disappointing report could have been
-avoided,” Riggs said.</p><p>1.	A copy of the ERO report can
-be accessed here</p><p><br>ends</p>
+avoided,” Riggs said.</p>
+
+<p>1.	A copy of the ERO report can
+be accessed here</p>
+
+<p><br>ends</p>

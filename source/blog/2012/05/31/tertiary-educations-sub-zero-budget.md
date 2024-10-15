@@ -51,8 +51,7 @@ it published last week: (a) to improve education outcomes
 for Māori learners, Pasifika learners, learners with
 special education needs and learners from low socio-economic
 backgrounds, and (b) to maximise the contribution of
-education to the economy.
-</p>
+education to the economy.<p>
 
 <p>[Read
 more...]</p>
@@ -121,13 +120,14 @@ Quality Category information</p>
 
 <p>[Read more...]</p>
 
-<p><br>		Friend on Facebook </p>
+<p><br>		Friend on Facebook<p>
 
-<p>	Follow
-on Twitter </p>
+<p>Follow
+on Twitter<p>
 
-<p>	Forward to a Friend
-</p><p><br><strong>Other news </strong></p>
+<p>Forward to a Friend<p>
+
+<p><br><strong>Other news </strong></p>
 
 <p>A $40 annual fee on
 student loans has been introduced with little publicity, in
@@ -177,12 +177,8 @@ Schleicher, deputy director for education at the OECD.</p>
 <p>This work is licensed
 under a Creative Commons
 Attribution-NonCommercial-ShareAlike 3.0 New Zealand
-License.  2012 Tertiary Education Union
-</p>
+License.  2012 Tertiary Education Union<p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

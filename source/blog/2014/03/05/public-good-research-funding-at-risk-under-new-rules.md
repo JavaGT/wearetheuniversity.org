@@ -52,6 +52,4 @@ may be more important. And the only way it will be funded is
 publicly through the PBRF
 system.”</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

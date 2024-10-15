@@ -46,12 +46,8 @@ dollars it needs to be very aware that it does not let its
 other role, teaching, suffer. Academics need good
 professional development opportunities and support to become
 good researchers, not punishments for failing to live up to
-overly ambitious targets,” concluded Ms Cormack. 
-</p>
+overly ambitious targets,” concluded Ms Cormack.<p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

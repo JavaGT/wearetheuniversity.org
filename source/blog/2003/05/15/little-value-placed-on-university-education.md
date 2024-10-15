@@ -7,16 +7,8 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Little value placed on university education</h1>
 
-           <span class="byline"><b>Thursday, 15 May 2003,  4:39 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         <img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">Funding for universities,
+<p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">Funding for universities,
 announced in today’s Budget, shows that the Government
 continues to place little value on university education. New
 Zealand universities will remain funded at significantly
@@ -46,23 +38,20 @@ increases in other areas of the education sector, it is
 clear that universities are treated as the poor relation.
 “<br>Dr Rosenberg welcomed the announcement that $150,000 to
 be used in the first phase of a review of the tertiary
-education workforce.</p><p>Ends</p><p>For further information or
+education workforce.</p>
+
+<p>Ends</p>
+
+<p>For further information or
 comment please contact:<br>Dr Bill
 Rosenberg						<br>National President, Association of
 University Staff					<br>Ph (03) 364 2801 (work)	(03) 332
 8525 (home)		 021 680 475 (mobile) 	<br>Email
-bill.rosenberg@canterbury.ac.nz	<br>
-</p>
+bill.rosenberg@canterbury.ac.nz	<br><p>
 
-<p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
 <!--
 
 

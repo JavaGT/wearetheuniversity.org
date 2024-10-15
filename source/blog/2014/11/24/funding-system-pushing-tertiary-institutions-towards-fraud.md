@@ -43,9 +43,8 @@ culprits and remove them from the system. Then he and his
 officials must take action to minimise the pressure on
 institutions to cheat. A good funding system should reward
 quality and collaboration, not cheating," said Lesley
-Francey.</p><p>ends
-</p>
+Francey.</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ends<p>
+
+<p></p>

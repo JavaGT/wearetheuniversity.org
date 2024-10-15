@@ -7,51 +7,45 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>University negotiations heading for mediation</h1>
 
-           <span class="byline"><b>Wednesday, 17 March 2004, 11:35 am</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p><br>University negotiations heading for mediation</p>
 
-         </div>
-
-	 <p>
-         <br>University negotiations heading for mediation</p><p> An
+<p>An
 industrial mediator has been brought in to try and break an
 impasse between university employers and unions after
 attempts to negotiate new national collective employment
-agreements across the sector reached an impasse.</p><p>  At stop
+agreements across the sector reached an impasse.</p>
+
+<p>At stop
 work meetings held over the last two weeks, university staff
 comprehensively rejected salary offers of between 2% and
 2.8% made by the employers to renew current enterprise-based
 collective employment agreements. The university employers
-have  refused to agree to national collective agreements.</p><p>
-Staff are currently engaged in low level protest activity
+have  refused to agree to national collective agreements.</p>
+
+<p>Staff are currently engaged in low level protest activity
 which is concentrated at sending a message to Government and
 their employers that significant salary increases and
 national collective employment agreements are needed in the
 university sector, and must be funded by Government. The
 protest action, which began yesterday, will continue until
-the end of next week.   </p><p>Combined university unions'
+the end of next week.<p>
+
+<p>Combined university unions'
 advocate, Association of University Staff Industrial Officer
 Jeff Rowe, said that unless significant progress is made, a
 recommendation will be made to union members to take up to
 ten days strike action. Support for such action was
-foreshadowed at recent meetings.</p><p>  Mediation is scheduled
+foreshadowed at recent meetings.</p>
+
+<p>Mediation is scheduled
 to take place in Wellington on Tuesday 23 and Wednesday 24
 March.     
-<br>
-</p>
+<br><p>
 
-<p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
 <!--
 
 

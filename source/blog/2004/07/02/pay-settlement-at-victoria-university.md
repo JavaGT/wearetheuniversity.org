@@ -7,31 +7,31 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Pay settlement at Victoria University</h1>
 
-           <span class="byline"><b>Friday,  2 July 2004,  8:32 am</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p><br>Pay settlement at Victoria University</p>
 
-         </div>
-
-	 <p>
-         <br>Pay settlement at Victoria University</p><p>General
+<p>General
 (non-academic) staff at Victoria University of Wellington
 (VUW) today voted to accept a new pay offer from the
 University. Acceptance of the offer, which was for a  3
 percent salary increase  from 1 May 2004, brings to an end a
 six week dispute which saw VUW general staff take strike
 action and threaten a University-wide shut-down during the
-first week of second semester enrolments.</p><p>General staff
+first week of second semester enrolments.</p>
+
+<p>General staff
 have been claiming a 4 percent pay rise, in line with their
-academic colleagues.</p><p>Association of University Staff (AUS)
+academic colleagues.</p>
+
+<p>Association of University Staff (AUS)
 general staff spokesperson, Tony Quinn, said that the
 improvements in salary offer came as a direct result of
 industrial action. "The strike on Monday 31 May resulted in
 the employer's offer being increased from 2.2 percent to 2.5
 percent, and the threat of a "first-week shutdown" raised
-that offer further to the current 3 percent."</p><p>"While union
+that offer further to the current 3 percent."</p>
+
+<p>"While union
 members remain unhappy about the disparity with their
 academic colleagues, they are delighted with their success
 in improving the offer," said Mr Quinn. "Union participation
@@ -39,18 +39,11 @@ is at an all-time high, and staff have the confidence that
 if need be they can repeat an effective industrial action
 campaign in the future if salary claims are not addressed in
 a satisfactory manner." 
-<br>
-</p>
+<br><p>
 
-<p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
 <!--
 
 

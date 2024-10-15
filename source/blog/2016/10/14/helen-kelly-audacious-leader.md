@@ -55,8 +55,7 @@ tripartite sector group of employers working people and the
 government. The group’s sole purpose was apportioning
 government money to lift the salaries of people working in
 universities. This it did between 2006 and 2008, until the
-new National Party-led government shut it down.
-</p>
+new National Party-led government shut it down.<p>
 
 <p>Kelly also
 pushed AUS to develop its General Staff Manifesto. This
@@ -98,6 +97,5 @@ Dylan.</p>
 union members and admirers in the Tertiary Education
 Union.</p>
 
-<p>ends
-</p>
+<p>ends<p>
 

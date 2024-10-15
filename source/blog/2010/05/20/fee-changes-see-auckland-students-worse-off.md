@@ -7,54 +7,53 @@ source-name: Scoop
 author: Auckland University Students Association
 author-slug: auckland-university-students-association
 ---
-<div class="story-top">
-           <h1>Fee changes see Auckland students worse off</h1>
 
-           <span class="byline"><b>Thursday, 20 May 2010,  4:32 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a></b></span>
+<p><b>Student fee changes see Auckland students worse off
+</b></p>
 
-         </div>
-
-	 <p>
-         <b>Student fee changes see Auckland students worse off
-</b></p><p>University of Auckland students will be
+<p>University of Auckland students will be
 disadvantaged by the tertiary education changes highlighted
 in the Budget today, and will end up paying substantially
-more for their courses. </p><p>The 2010 budget has removed
+more for their courses.<p>
+
+<p>The 2010 budget has removed
 the fee and course cost maxima system, replacing it with an
-annual fee movement level set at four percent. </p><p>“Previously, the numerical cap had protected Auckland
+annual fee movement level set at four percent.<p>
+
+<p>“Previously, the numerical cap had protected Auckland
 students, because we were already charging the highest fee
 possible, meaning annual rises have been less than five
 percent. This has kept the cost of tertiary education low,
 making it accessible for a wide range of people to
 participate” said Alex Nelder, Auckland University
-Students’ Association (AUSA) Education Vice President.</p><p>“Auckland University students already pay the highest
+Students’ Association (AUSA) Education Vice President.</p>
+
+<p>“Auckland University students already pay the highest
 student fees in New Zealand and these changes will further
 increase the debt burden on our students” said Mr. Nelder.
 “The four percent threshold appears small, yet the fees
 for a first year student in a conjoint Law and Arts degree
-will have increased by 20 percent at completion.”</p><p>“Student debt will reach 20 billion dollars by 2022
+will have increased by 20 percent at completion.”</p>
+
+<p>“Student debt will reach 20 billion dollars by 2022
 – these changes will further serve to pass the buck of
 under funding in the tertiary sector onto students, and will
 contribute to the already massive debt burden on students
-and graduates in New Zealand” said Mr. Nelder.</p><p>“The Government urgently needs to address the high
+and graduates in New Zealand” said Mr. Nelder.</p>
+
+<p>“The Government urgently needs to address the high
 level of student debt in this country, before student fees
 become so high that only the few can participate. New
 Zealand needs to become an innovative, highly educated and
 high skilled population. These changes undermine this goal
 and will invariably shut more people out of education,”
-said AUSA President Elliott Blade.</p><p>ENDS<br>
-</p>
+said AUSA President Elliott Blade.</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p>ENDS<br><p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
 <!--
 
 

@@ -55,9 +55,6 @@ value to people who have different experiences and
 backgrounds to their
 own."</p>
 
-<p><br>ends
-</p>
+<p><br>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

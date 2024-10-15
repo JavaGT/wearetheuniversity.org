@@ -53,6 +53,6 @@ vice-chancellor of the University of Auckland, earning
 $50,00 more than the head of
 Treasury."</p>
 
-<p>ENDS</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ENDS</p>
+
+<p></p>

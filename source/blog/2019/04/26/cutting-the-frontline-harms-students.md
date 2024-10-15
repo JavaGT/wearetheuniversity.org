@@ -64,6 +64,6 @@ they are listening to staff and students.</p>
 and students in Maori studies successfully opposed their
 department being subsumed into new divisions set up to
 ‘streamline’ reporting to the Vice
-Chancellor.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+Chancellor.</p>
+
+<p></p>

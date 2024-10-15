@@ -9,7 +9,7 @@ author-slug: tertiary-education-union
 ---
 
 <p>Decision to scrap National’s flawed pay equity bill a
-positive step </p>
+positive step<p>
 
 <p>Tertiary Education Union - Te Hautū
 Kahurangi o Aotearoa</p>
@@ -54,9 +54,6 @@ the networks we are part of to provide a strong independent
 voice supporting those changes, where
 possible.”</p>
 
-<p>--ENDS--
-</p>
+<p>--ENDS--<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

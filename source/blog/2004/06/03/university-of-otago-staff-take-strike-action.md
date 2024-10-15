@@ -7,16 +7,8 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>University of Otago staff take strike action</h1>
 
-           <span class="byline"><b>Thursday,  3 June 2004,  4:05 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         <img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">Academic and general staff
+<p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">Academic and general staff
 at the University of Otago walked off the job this afternoon
 in protest at salary offers made by the University to renew
 collective employment agreements. More than 400 staff took
@@ -55,29 +47,35 @@ staff gave the unions’ bargaining team power to call further
 “rolling action”, including withholding exam marks. <br>The
 unions have advised the University that they remain open to
 negotiation and prepared to engage in mediation. The
-University has declined mediation.
-</p>
-<p>Ends</p><p>For further
-information or comment please contact:</p><p>Dr. Shef Rogers,
+University has declined mediation.<p>
+<p>Ends</p>
+
+<p>For further
+information or comment please contact:</p>
+
+<p>Dr. Shef Rogers,
 AUS Branch President   03 4730 527 (home)<br>               
-	03 479 8892 (work)</p><p>Shaun Scott, AUS Branch Organiser     
+	03 479 8892 (work)</p>
+
+<p>Shaun Scott, AUS Branch Organiser     
 03 479 5492 (work)<br>                                	03
-467 5017 home</p><p>Keith McFadyen, PSA Organiser           03
+467 5017 home</p>
+
+<p>Keith McFadyen, PSA Organiser           03
 474 7400 (work)<br>                                       
 03 4811 333 (home)<br>                                      
-027 444 8913 (mobile)</p><p>Marty Braithwaite, AUS National
+027 444 8913 (mobile)</p>
+
+<p>Marty Braithwaite, AUS National
 Office	04 915 2680 (work)<br>					04 977 8529
 (home)<br>					027 2747 795
-(mobile)</p><p>
-</p><p>
+(mobile)</p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p></p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
 <!--
 
 

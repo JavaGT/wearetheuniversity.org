@@ -50,11 +50,6 @@ students' associations from universities and polytechnics
 around the
 country.</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         
-
-</p>
+<p></p>

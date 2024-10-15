@@ -47,8 +47,7 @@ while in return are only offered  the equivalent of 1.66%
 
 <p>TEU and PSA members at the meeting today decided to
 reject the offer and move to a strike ballot in the New
-Year.
-</p>
+Year.<p>
 
 <p>“No one wants to accept this pitiful pay offer and
 nobody relishes the prospect of having to take strike action
@@ -63,9 +62,6 @@ remain keen to work together. We hope that management can
 understand our determination here, and improve their
 offer”.</p>
 
-<p>ends<br>
-</p>
+<p>ends<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

@@ -36,13 +36,12 @@ how in Latin America, excluding Brazil, nearly 80 percent of
 academics are so-called “taxi-cab” professors. That is,
 they get jobs on a temporary and often per-course basis and
 are forced to shuttle between different institutions in an
-attempt to earn a living. </p>
+attempt to earn a living.<p>
 
 <p>[Read more...]</p>
 
 <p><strong>Academic freedom
-is a campaign not a right</strong>
-</p>
+is a campaign not a right</strong><p>
 
 <p>Tomorrow is World
 Teachers’ Day and Academic Freedom Day but, sadly,
@@ -147,9 +146,6 @@ Technology Sydney UTS deputy vice-chancellor Shirley
 Alexander said - the
 Conversation</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

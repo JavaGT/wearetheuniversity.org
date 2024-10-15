@@ -35,6 +35,5 @@ students’ associations from universities and polytechnics
 around the
 country.</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 

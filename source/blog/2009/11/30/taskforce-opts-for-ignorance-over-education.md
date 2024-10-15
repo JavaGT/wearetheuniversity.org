@@ -47,9 +47,6 @@ taskforce has taken very little notice of the 'lucky'
 country it is supposedly trying to emulate," said Dr
 Ryan.</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

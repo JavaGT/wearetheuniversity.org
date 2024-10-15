@@ -27,6 +27,7 @@ that the best anti-poverty programme is education. Tertiary
 education results in more stable work, better health over
 time, reduced incarceration rates and higher employment.
 Greater tertiary education participation is ultimately good
-for New Zealand. We can do better.’</p><p>ENDS
-</p>
+for New Zealand. We can do better.’</p>
+
+<p>ENDS<p>
 

@@ -7,20 +7,14 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Policy Initiatives on Tertiray Staffing Welcome</h1>
 
-           <span class="byline"><b>Tuesday,  2 July 2002,  5:21 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         <img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>Association of
+<p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>Association of
 University Staff (AUS) National President Dr Grant Duncan
 welcomed the announcement today by the Minister for Tertiary
 Education, Steve Maharey, of a strategic review and plan for
-the tertiary education workforce.</p><p>“This Labour policy
+the tertiary education workforce.</p>
+
+<p>“This Labour policy
 recognises that Government must ensure that the tertiary
 education workforce is sustainable.  The staffing issues in
 the universities have been neglected for too long. 
@@ -33,7 +27,9 @@ staff they need.  This policy will enable the sector to work
 together with the Tertiary Education Commission to address
 the situation, and it will reinforce the role of Government
 in ensuring that universities are adequately funded to meet
-true staffing costs,” said Dr Duncan.</p><p>Dr Duncan said AUS
+true staffing costs,” said Dr Duncan.</p>
+
+<p>Dr Duncan said AUS
 also welcomed a number of other initiatives in the policy,
 including setting funding levels for institutions on a
 three-year cycle, focussing attention on the training and
@@ -41,8 +37,7 @@ development of tertiary-level teachers, increasing the
 number of Centres of Research Excellence, increasing funding
 available for the Performance-Based Research Fund and
 introducing a pool of funding to enable new researchers to
-begin their research careers. 
-</p>
+begin their research careers.<p>
 <p>“The main problem in the
 university sector is a lack of funding from the Government
 to the institutions.  Since 1990 AUS has been warning that
@@ -55,19 +50,18 @@ can’t have high-quality university education and research
 without the development of a high-quality professional
 workforce. It looks like we are now getting some active
 recognition of that from the Minister, and this will be
-welcomed by AUS members.”</p><p><br>Contact:<br>Dr Grant Duncan,
+welcomed by AUS members.”</p>
+
+<p><br>Contact:<br>Dr Grant Duncan,
 AUS National President, 09 443 9700 ext 9086 [day], 021 680
 475 or  Helen Kelly, AUS General Secretary, 04 9156691, 027
-4366308</p><p>
-</p><p>
+4366308</p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p></p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
 <!--
 
 

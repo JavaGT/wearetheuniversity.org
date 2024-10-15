@@ -45,8 +45,7 @@ viable career choice. We stay in our jobs because we love
 what we do, but that shouldn’t be an excuse for the
 tertiary sector to ignore the clear discrepancy in our pay
 when compared to similar roles traditionally dominated by
-men.”
-</p>
+men.”<p>
 
 <p>From here, the eight university employers are
 now required by law (Equal Pay Act 1972) to consider the
@@ -60,6 +59,4 @@ the true value of the work covered by the claim and,
 finally, to set an equitable level of
 remuneration.</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

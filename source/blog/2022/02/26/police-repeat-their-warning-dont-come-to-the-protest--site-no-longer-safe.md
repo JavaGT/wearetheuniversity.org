@@ -12,8 +12,7 @@ Police continue to urge people not to travel to Wellington this weekend if they 
 
 <p><span id="more-142830"></span></p>
 
-<p>
-We are aware of a number of protesters planning to join the protest this weekend and urge people to stay away from an occupation site that is no longer a safe environment for families and children.</p>
+<p>We are aware of a number of protesters planning to join the protest this weekend and urge people to stay away from an occupation site that is no longer a safe environment for families and children.</p>
 
 <p>Police are conducting reassurance patrols at Pipitea Marae and with residents who live within the perimeter of the protest today. There will continue to be a visible Police presence at the protest and surrounding areas.</p>
 
@@ -26,8 +25,7 @@ We are aware of a number of protesters planning to join the protest this weekend
 <p>News from NZ Police – February 25<br>
 Police are warning those thinking about travelling to Wellington to participate in the unlawful protest this weekend – don’t.</p>
 
-<p>
-Assistant Commissioner Richard Chambers says: “While the vast majority of Wellington is open for business and functioning relatively normally, the protest activity around Parliament grounds is unwelcome and having an unreasonably negative impact on residents, workers and students.</p>
+<p>Assistant Commissioner Richard Chambers says: “While the vast majority of Wellington is open for business and functioning relatively normally, the protest activity around Parliament grounds is unwelcome and having an unreasonably negative impact on residents, workers and students.</p>
 
 <p>“We have made substantial progress over the last week to contain and restrict the movement of vehicles. Around 300 vehicles now remain inside the enclosed protest area after a significant number of protesters packed up and left this week. Parliament grounds remain closed.</p>
 
@@ -55,6 +53,5 @@ Assistant Commissioner Richard Chambers says: “While the vast majority of Well
 
 <p>“Police encourage everyone to enjoy Wellington for the right reasons this weekend.”</p>
 
-<p>
-Content Sourced from <a href="http://www.scoop.co.nz/">scoop.co.nz</a><br>
+<p>Content Sourced from <a href="http://www.scoop.co.nz/">scoop.co.nz</a><br>
 <a href="http://www.scoop.co.nz/stories/AK202202/S00506.htm">Original url</a></p>

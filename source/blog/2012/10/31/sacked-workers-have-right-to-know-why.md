@@ -49,6 +49,6 @@ employees, they should be allowed to see all their own
 personal information, and information about why they are
 being sacked. Otherwise they have no way of knowing if they
 are being treated fairly or not," said Nanette
-Cormack.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+Cormack.</p>
+
+<p></p>

@@ -41,8 +41,8 @@ However tertiary institutions will find that their
 opportunity to recruit excellent overseas candidates
 diminishes, because academics will be unwilling to risk
 moving here with such uncertainty around their continued
-employment."</p><p>ENDS</p>
+employment."</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ENDS</p>
+
+<p></p>

@@ -68,9 +68,6 @@ cake at 12noon<br>•	The Open Polytechnic will be doing the
 same at
 10.00am</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

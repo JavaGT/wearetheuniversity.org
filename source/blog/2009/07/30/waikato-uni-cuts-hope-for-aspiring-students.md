@@ -47,8 +47,7 @@ Statement of Tertiary Education Priorities to focus on
 degree-level and postgraduate teaching. This direction,
 combined with an increase in enrolments, has led to
 entry-level courses and foundation studies programmes that
-help students move on to degree study being cut.&nbsp;
-</p>
+help students move on to degree study being cut.&nbsp;<p>
 
 <p>TEU
 president Dr Tom Ryan says this means that at the University
@@ -70,9 +69,6 @@ proposal.</p>
 
 <p>Ends</p>
 
-<p><br>&nbsp;
-</p>
+<p><br>&nbsp;<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

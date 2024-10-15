@@ -13,7 +13,7 @@ Power is back on in all buildings on the Kelburn campus. <span id="more-163942">
 <p>News from VUW – 5pm – September 19<br>
 We received an update from Wellington Electricity this afternoon, and we are anticipating power will be restored this evening.</p>
 
-<p>We have been informed there will be 15 minute power outage when power is restored. We expect this to happen sometime between 8 pm and midnight.  </p>
+<p>We have been informed there will be 15 minute power outage when power is restored. We expect this to happen sometime between 8 pm and midnight.<p>
 
 <p>We know course coordinators have in some cases made alternate arrangements for tomorrow’s learning and teaching activity — we do not want to disrupt these.</p>
 
@@ -21,7 +21,7 @@ We received an update from Wellington Electricity this afternoon, and we are ant
 To ensure the continued health and safety of our community, Rankine Brown is now closed for the remainder of today, Thursday 19 September. This is a result of a short-term generator issue.</p>
 
 <p>News from VUW – midday<br>
-A power outage continues to impact the University’s Kelburn campus, and generators are operating in a number of buildings. </p>
+A power outage continues to impact the University’s Kelburn campus, and generators are operating in a number of buildings.<p>
 
 <p>The University and Wellington Electricity are working closely to maintain a consistent power supply for the campus. We are pleased at the progress being made this morning.</p>
 
@@ -44,14 +44,14 @@ A power outage continues to impact the University’s Kelburn campus, and genera
 
 <p>It’s important to note:</p>
 
-<p>    Students will continue to receive triage for health appointments by our nursing team.<br>
+<p>Students will continue to receive triage for health appointments by our nursing team.<br>
     Same day medical and counselling appointments at Kelburn are still available.</p>
 
 <p>You can still move through the Kelburn campus, including through buildings that are closed, but power may be intermittent and there may only be emergency lighting. Please take care.</p>
 
 <p>Update 8.30 am 19 September</p>
 
-<p> Wellington Electricity has commenced digging in the Tim Beaglehole Courtyard to fix issues with underground services.</p>
+<p>Wellington Electricity has commenced digging in the Tim Beaglehole Courtyard to fix issues with underground services.</p>
 
 <p>A decision has been made to cancel all in-person teaching, learning, and research in Cotton and MacLaurin until 1 pm. Mauri Ora—Student Health and Counselling will be running four hours of clinics this morning, and you should have been contacted if you have an appointment. University Recreation on the Kelburn campus is closed today.</p>
 
@@ -75,7 +75,7 @@ A power outage continues to impact the University’s Kelburn campus, and genera
 
 <p>The following buildings are closed for safety and security reasons, while generators are installed. If you are still on campus in one of the buildings listed below this evening and don’t have classes, please make arrangements to head home or study from elsewhere.</p>
 
-<p>    Student Union Building<br>
+<p>Student Union Building<br>
     Rankine Brown (the Library)<br>
     Old Kirk and Kirk, and<br>
     The Hub.</p>
@@ -83,7 +83,7 @@ A power outage continues to impact the University’s Kelburn campus, and genera
 <p>All other buildings are operational. Any interruption to timetabled classes will be communicated by your school or course coordinator.</p>
 
 <p>Wellington.Scoop – September 18<br>
-Electricity was cut in parts of Kelburn, including Victoria University, just before midday today. </p>
+Electricity was cut in parts of Kelburn, including Victoria University, just before midday today.<p>
 
 <p>Wellington Electricity said the streets without power were<br>
 Fairlie Terrace, Kelburn<br>
@@ -95,4 +95,4 @@ Waiteata Road, Kelburn</p>
 
 <p>It said it hoped to restore the power supply by 2.50pm.</p>
 
-<p>It could not explain the cause of the power cut. </p>
+<p>It could not explain the cause of the power cut.<p>

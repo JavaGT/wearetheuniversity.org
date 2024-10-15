@@ -16,7 +16,9 @@ Pūrehuroa | Massey University, Te Whare Wānanga o Waitaha
 | The University of Canterbury and Te Whare Wānaka o Aoraki
 | Lincoln University will take action in response to
 inadequate pay offers and employer refusals to ensure all
-staff are paid above the Living Wage.</p></blockquote><p>Te
+staff are paid above the Living Wage.</p></blockquote>
+
+<p>Te
 Pou Ahurei Takirua – Ahumahi | Assistant National
 Secretary – Industrial, Daniel Benson-Guiu, says the
 strikes should come as no surprise to employers. “Pay
@@ -66,6 +68,4 @@ Building.</p>
 Ivey
 Hall.</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

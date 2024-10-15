@@ -1,7 +1,6 @@
 ---
 title: "Massey to hire staff for good - not just 90 days"
-slug: massey-to-hire-staff-for-good---
-not-just-9-days
+slug: massey-to-hire-staff-for-good-not-just-90-days
 date: 2010-10-21
 source: https://www.scoop.co.nz/stories/ED1010/S00088/massey-to-hire-staff-for-good-not-just-90-days.htm
 source-name: Scoop
@@ -45,8 +44,8 @@ negotiations was to keep their existing fair work rights.
 This result is the outcome of union members and employers
 doing what the usually do – working productively together
 for a better workplace," said Ms
-Cormack.</p><p>ENDS</p>
+Cormack.</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ENDS</p>
+
+<p></p>

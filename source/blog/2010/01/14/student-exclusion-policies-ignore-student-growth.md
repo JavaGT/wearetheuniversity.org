@@ -16,18 +16,18 @@ Ministry of Education are wilfully ignoring an increase in
 potential students says TEU national president, Dr Tom
 Ryan.</p>
 
-<p> Dr Ryan's comments follow news that Massey
+<p>Dr Ryan's comments follow news that Massey
 University and the universities of Canterbury and Otago are
 all toughening their student enrolment standards.</p>
 
-<p> "The
+<p>"The
 Ministry and universities both know that there is a baby
 boom-blip of 18 and 19 year olds currently trying to get
 into tertiary education. There is pressure for places. The
 current rhetoric about excluding underperforming students
 ignores the reality."</p>
 
-<p> "It is not just under-performing
+<p>"It is not just under-performing
 students who are missing out, but young people who genuinely
 want the chance to study and better themselves. If we want
 to meet the minister's goals of increasing New Zealand's
@@ -42,12 +42,8 @@ education are too precious to pass up by pretending that the
 only people being excluded are not up to the task. We need
 more funding, more access, and more opportunities for our
 young people. Instead we are seeing funding cuts and fewer
-opportunities," concluded Dr Ryan.
-</p>
+opportunities," concluded Dr Ryan.<p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

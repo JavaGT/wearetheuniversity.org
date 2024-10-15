@@ -11,7 +11,9 @@ author-slug: tertiary-education-union
 <p>25 November 2015<br>Tertiary Education Union</p>
 
 <p>Tertiary
-education cuts are the important stat</p><p>Cherry picking statistics from the
+education cuts are the important stat</p>
+
+<p>Cherry picking statistics from the
 latest OECD education survey doesn’t hide significant cuts
 in education spending says TEU national president Sandra
 Grey.</p>
@@ -45,8 +47,7 @@ spin their case.</p>
 instance, we could highlight the report shows that New
 Zealand spends over US$1000 per student less on tertiary
 education than the OECD average and US$3000 less per student
-on tertiary education than Australia (p 211)."
-</p>
+on tertiary education than Australia (p 211)."<p>
 
 <p>"But other
 New Zealanders need to be wary because comparing education
@@ -60,9 +61,6 @@ address the significant underfunding of tertiary education,
 which is harming students and teachers’
 well-being.</p>
 
-<p><br>ends
-</p>
+<p><br>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

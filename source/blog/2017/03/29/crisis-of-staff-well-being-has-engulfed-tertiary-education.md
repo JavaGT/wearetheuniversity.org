@@ -48,8 +48,7 @@ last ten years:</p>
 
 <p>· The pressure to pass a higher
 percentage of students to meet government targets has become
-worse for 63 percent of over 1,000 survey respondents
-</p>
+worse for 63 percent of over 1,000 survey respondents<p>
 
 <p>·
 The pressure to dedicate less time to teaching has become
@@ -141,6 +140,6 @@ of Work and Wellington in the Tertiary Education Sector
 
 <p>4.	The
 Education (Tertiary Education and Other Matters) Amendment
-Bill is available at https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/document/BILL_72305/education-tertiary-education-and-other-matters-amendment</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+Bill is available at https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/document/BILL_72305/education-tertiary-education-and-other-matters-amendment</p>
+
+<p></p>

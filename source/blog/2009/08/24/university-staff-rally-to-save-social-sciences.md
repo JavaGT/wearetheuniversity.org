@@ -31,14 +31,14 @@ city.</p>
 <p>There are now over 100 graduates holding the
 MA (Applied) in Social Science Research all of whom have
 worked closely with government agencies and community or
-voluntary organisations during their study. </p>
+voluntary organisations during their study.<p>
 
 <p>Tertiary Education Union organiser, Michael Gilchrist,
 says that SSR graduates are much in demand, especially among
 community organisations and government departments here in
 Wellington. “They have the leadership and critical
 thinking skills that epitomise the ideals Victoria
-University has for its graduates.” </p>
+University has for its graduates.”<p>
 
 <p>“While the
 university is facing some real budgetary constraints, we
@@ -52,6 +52,6 @@ Gilchrist.</p>
 Tuesday 25 August in the Hunter Courtyard (the Quad if wet)
 at Kelburn campus.</p>
 
-<p>ENDS</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ENDS</p>
+
+<p></p>

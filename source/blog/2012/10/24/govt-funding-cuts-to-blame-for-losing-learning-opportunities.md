@@ -30,7 +30,7 @@ quality of the education on offer.</p>
 
 <p>TEU president Sandra
 Grey says that the government is abandoning learners when
-they most need help. </p>
+they most need help.<p>
 
 <p>"The government's policy is driving
 first-time learners, second-chance learners and people in
@@ -47,6 +47,6 @@ Tertiary Education Steven Joyce, needs to let people know
 when he will review this competitive funding experiment, and
 what criteria he will use measure this review,” said
 Sandra
-Grey.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+Grey.</p>
+
+<p></p>

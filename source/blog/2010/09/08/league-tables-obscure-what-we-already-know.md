@@ -46,9 +46,6 @@ unnecessary, and undeserved, hit to their reputation from
 which it will be hard to
 recover.</p>
 
-<p><br>ENDS
-</p>
+<p><br>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

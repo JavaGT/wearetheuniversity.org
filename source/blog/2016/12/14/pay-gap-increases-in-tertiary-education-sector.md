@@ -52,24 +52,21 @@ Tertiary Education Institutions in New Zealand. However, in
 no way does this justify an average pay increase over and
 above the rest of the sector’s workforce, without whom the
 provision of tertiary education simply would not be
-possible.
-</p>
+possible.<p>
 
 <p>“The SCC report shows that Chief Executive pay
 in the tertiary education sector is increasing at a rate
 completely out of step with that of other TEI staff. As
 such, the gap between the highest and lowest paid continues
 to widen, serving only to increase inequality in the sector.
-Th sector-wide pay gap must </p>
+Th sector-wide pay gap must<p>
 
 <p>"We even have the absurd
 situation in TEIs, such at the University of Auckland, where
 some staff are denied the living wage whilst the Chief
-Executive enjoys a $30,000 pay rise. </p>
+Executive enjoys a $30,000 pay rise.<p>
 
 <p>“The TEU
 challenges all TEIs in future to provide a flat rate pay
-increase to all staff, including Chief Executives.”
-
-</p>
+increase to all staff, including Chief Executives.”<p>
 

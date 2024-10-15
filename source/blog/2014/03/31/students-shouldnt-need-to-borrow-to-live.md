@@ -51,8 +51,7 @@ blueprint on tertiary education governance, on Tuesday
 afternoon to a panel of tertiary education spokespeople
 including Dave Clendon (Greens), Hone Harawira (Mana),
 Tracey Martin (NZ First), and Grant Robertson
-(Labour).
-</p>
+(Labour).<p>
 
 <p><b>Details:</b><br>•	DATE Tues 1
 April<br>•	TIME 3.45pm<br>•	VENUE St Johns Church,
@@ -64,9 +63,6 @@ tertiary education. The third and fourth documents, launched
 on 1 April cover students and governance. All documents are
 available at http://teu.ac.nz/blueprint</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

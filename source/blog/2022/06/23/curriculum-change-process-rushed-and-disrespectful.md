@@ -50,6 +50,6 @@ communities.”</p>
 time so that staff in the tertiary education sector, who
 know the value of working together, can ensure the best
 learning outcomes for all
-akonga.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+akonga.</p>
+
+<p></p>

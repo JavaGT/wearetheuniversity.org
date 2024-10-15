@@ -46,9 +46,6 @@ pragmatic student association membership legislation to
 pander to the ideologues of the ACT
 Party."</p>
 
-<p>ends<br>
-</p>
+<p>ends<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

@@ -47,8 +47,7 @@ everyone has access to tertiary education that is public,
 local and focusing on learning – but about negotiating
 collectively for salaries and conditions that recognise the
 time, energy and skill put in by the staff that make our
-tertiary institutions great places to study.
-</p>
+tertiary institutions great places to study.<p>
 
 <p>Next year is
 about continuing this momentum and working together to make

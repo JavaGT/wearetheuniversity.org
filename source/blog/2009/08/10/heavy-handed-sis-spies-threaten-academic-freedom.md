@@ -15,8 +15,7 @@ threaten academic freedom</p>
 
 <p>“We cannot afford to have a
 society where the SIS is spying on academics who are simply
-doing their job,” says TEU president Dr Tom Ryan. 
-</p>
+doing their job,” says TEU president Dr Tom Ryan.<p>
 
 <p>“News that a highly-respected University of Auckland
 professor of law Jane Kelsey has been spied on by the SIS
@@ -33,7 +32,7 @@ appears to have been spying on her simply because of her
 views on our country’s economic and trade policies rather
 than any real concern that she might pose a physical or
 military risk. And much of the spying appears to have
-occurred in her university workplace.”  </p>
+occurred in her university workplace.”<p>
 
 <p>“We’ll be
 talking to other university stakeholders, especially
@@ -44,9 +43,6 @@ legal protections for academic freedom clearly are
 inadequate,” said Dr
 Ryan.</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

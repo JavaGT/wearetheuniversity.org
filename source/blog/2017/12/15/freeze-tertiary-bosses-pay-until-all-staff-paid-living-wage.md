@@ -9,7 +9,9 @@ author-slug: tertiary-education-union
 ---
 
 <p>Freeze tertiary bosses’ pay until all staff paid the
-Living Wage</p><p>The Tertiary Education Union (TEU) said
+Living Wage</p>
+
+<p>The Tertiary Education Union (TEU) said
 today that the State Services Commission (SSC) should take
 steps to reduce the imbalance in pay between
 Vice-Chancellors and Chief Executives and other staff of

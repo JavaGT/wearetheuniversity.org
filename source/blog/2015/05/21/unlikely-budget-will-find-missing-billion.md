@@ -49,8 +49,7 @@ university students looms</p>
 <p>A global test for university
 students could soon be a reality, with the OECD asking
 member countries to decide by Sunday next week whether to
-participate in a worldwide implementation.
-</p>
+participate in a worldwide implementation.<p>
 
 <p>Read more…</p>
 
@@ -62,9 +61,8 @@ Labour Party's Future of Work commission into Auckland
 University this week.</p>
 
 <p>Read
-more…</p><p>ends
-</p>
+more…</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ends<p>
+
+<p></p>

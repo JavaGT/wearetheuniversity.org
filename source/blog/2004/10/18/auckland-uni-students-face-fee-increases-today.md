@@ -7,41 +7,49 @@ source-name: Scoop
 author: Auckland University Students Association
 author-slug: auckland-university-students-association
 ---
-<div class="story-top">
-           <h1>Auckland Uni Students face fee increases today</h1>
 
-           <span class="byline"><b>Monday, 18 October 2004, 11:26 am</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a></b></span>
+<p>Auckland University Students face fee increases today.</p>
 
-         </div>
+<p></p>
 
-	 <p>
-         Auckland University Students face fee increases today.</p><p>
-</p><p>The University of Auckland Council meeting to increase
+<p>The University of Auckland Council meeting to increase
 fees is Today (Monday 18th October) in the Music Theatre
-number 6 Symonds Street at 4pm.</p><p> </p><p>University of Auckland
+number 6 Symonds Street at 4pm.</p>
+
+<p></p>
+
+<p>University of Auckland
 Students will be attending the meeting to show their disgust
-at the proposed increases.</p><p> </p><p>“I cannot talk about the
+at the proposed increases.</p>
+
+<p></p>
+
+<p>“I cannot talk about the
 exact proposed increases but they are big, bigger than last
 year, and will be crippling to students next year and in the
-long term”  Said AUSA president Kate Sutton</p><p> </p><p>The AUSA
+long term”  Said AUSA president Kate Sutton</p>
+
+<p></p>
+
+<p>The AUSA
 is encouraging all students and interested public to attend
-and see the fee setting discussion take place.</p><p> </p><p>“It is
+and see the fee setting discussion take place.</p>
+
+<p></p>
+
+<p>“It is
 so important that the councillors see the people that they
 are responsible too. Then maybe they will understand the
 debt that real students are facing and its negative
-effects.” Sutton ended.</p><p> </p><p>
-</p>
+effects.” Sutton ended.</p>
 
-<p>
+<p></p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p></p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
 <!--
 
 

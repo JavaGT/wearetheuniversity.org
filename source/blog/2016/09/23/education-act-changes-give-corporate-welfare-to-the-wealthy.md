@@ -48,6 +48,5 @@ system. These changes undermine our public education and
 transfer public money to wealthy people who want to get
 wealthier."</p>
 
-<p><br>ends
-</p>
+<p><br>ends<p>
 

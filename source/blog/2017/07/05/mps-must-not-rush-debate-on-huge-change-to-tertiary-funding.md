@@ -43,8 +43,7 @@ and instead want a tertiary education sector that is public,
 local and focused on teaching and learning [3]. Trying to
 pass the law before the election would not allow for enough
 time to consider this wide range of views, the letter
-says.
-</p>
+says.<p>
 
 <p>Sharn Riggs, national secretary of the Tertiary
 Education Union (TEU), said: "<strong>National is rushing to
@@ -127,7 +126,6 @@ https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/document/BILL
 <p>3.	More
 than 4,700 people have also signed a petition to Paul
 Goldsmith MP, Tertiary Education Minister, opposing the bill
-http://www.together.org.nz/keep_it_public
-</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+http://www.together.org.nz/keep_it_public<p>
+
+<p></p>

@@ -58,9 +58,6 @@ their collective agreements on reasonable terms in an
 atmosphere of collegiality. It is clear that those employers
 see the value of engaging in meaningful negotiations with
 unions representing their employees," says Dr
-Taillon.<br>ends<br>
-</p>
+Taillon.<br>ends<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

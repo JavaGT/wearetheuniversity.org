@@ -42,6 +42,6 @@ resourcing.</p>
 address this by fronting up to meet with staff and work to
 value and invest in the crucial work that administrative
 workers
-do.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+do.”</p>
+
+<p></p>

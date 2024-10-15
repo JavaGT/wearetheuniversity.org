@@ -43,6 +43,6 @@ inflation when that is the minimum they
 deserve.”</p>
 
 <p>“Enough is
-enough.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+enough.”</p>
+
+<p></p>

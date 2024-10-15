@@ -53,6 +53,5 @@ raise wages for people who do such important jobs in our
 communities," says
 Grey.</p>
 
-<p>ends
-</p>
+<p>ends<p>
 

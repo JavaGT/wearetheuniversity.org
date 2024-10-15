@@ -40,8 +40,8 @@ requesting that the matter be put before the council," said
 Dr Ryan. "And, until the council makes a decision no action
 should be taken to discontinue delivery of the primary
 teaching programme from the Ruawharo site in the Hawkes
-Bay."</p><p>ENDS</p>
+Bay."</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ENDS</p>
+
+<p></p>

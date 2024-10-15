@@ -41,9 +41,6 @@ contribute to the betterment of their families, the wider
 community, and our struggling economy," said Dr
 Ryan.</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

@@ -47,8 +47,7 @@ Grey. WITT is the first polytechnic to speak out about the
 funding , telling the <i>Taranaki Daily News</i> this
 morning that Taranaki's unique Māori dialect may soon be
 extinct with the loss of foundation-level funding to the
-polytechnic.
-</p>
+polytechnic.<p>
 
 <p>[Read more...]</p>
 
@@ -148,9 +147,6 @@ after the government agreed to a pay raise and funding boost
 education as a public good and the disappearance of public
 intellectuals - Counterpunch</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

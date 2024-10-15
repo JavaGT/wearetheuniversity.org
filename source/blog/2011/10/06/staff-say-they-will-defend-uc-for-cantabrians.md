@@ -44,8 +44,7 @@ programmes - where we may be able to, instead of having
 twelve flavours, have eight flavours. We may require staff
 to teach four courses instead of three courses. But the
 impact on the actual programmes we offer will be quite
-modest."
-</p>
+modest."<p>
 
 <p>"These are staff who are very committed to their
 university and their city,” said TEU national president
@@ -64,7 +63,7 @@ week:</b></p>
 education <br>2.	<br>3.	TEU opposes Aoraki closures across South
 Island <br>4.	<br>5.	Government spinning wrong story from crises
 not sure this makes sense <br>6.	<br>7.	Academics disagree on Freedom Day
-<br>8.	<br>9.	Other news <br>10.	</p>
+<br>8.	<br>9.	Other news <br>10.<p>
 
 <p><b>Massey proposes
 end to undergraduate teacher education</b></p>
@@ -191,11 +190,11 @@ tragedy, and now another international financial crisis - to
 spin a story of 'there is no alternative' to cuts.  The
 government has held, then cut, spending when a more generous
 programme was affordable and could have held down
-unemployment and prevented stagnation. </p>
+unemployment and prevented stagnation.<p>
 
 <p>Dr Rosenberg says
 delays in rebuilding Christchurch and further turmoil
-overseas are now looking likely. </p>
+overseas are now looking likely.<p>
 
 <p>"The government will try
 to spin the same story: these are beyond its control; the
@@ -216,7 +215,7 @@ programme but is failing to build the excitement that would
 attract people to this unique opportunity to get new skills
 when jobs will be plentiful – in a great project. Too much
 of the work will go to skilled workers from overseas rather
-than developing our own skills." </p>
+than developing our own skills."<p>
 
 <p><b>Academics disagree on
 Freedom Day </b></p>
@@ -248,8 +247,7 @@ launched International Academic Freedom Day on 1 February in
 2009 and have had three years of holding successful events.
 Their International Academic Freedom Day is linked to the
 publication (as close as records give us) of John Stuart
-Mill's <i>'On Liberty'</i>, which was 1 February 1859.
-</p>
+Mill's <i>'On Liberty'</i>, which was 1 February 1859.<p>
 
 <p>Meanwhile a third International Academic Freedom Day is
 held on  what used to be 'Darwin Day', Charles Darwin's birthday
@@ -287,6 +285,5 @@ Times</i></p>
 
 <p>ENDS</p>
 
-<p><br>
-</p>
+
 

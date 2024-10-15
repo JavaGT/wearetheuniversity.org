@@ -24,7 +24,7 @@ of entire programmes and majors at the University of
 Canterbury. We warned you last year that, without your
 intervention and support, many staff at the university would
 lose their jobs, and students would lose the opportunity to
-study the courses that inspire them. </p>
+study the courses that inspire them.<p>
 
 <p>That travesty, of
 course closures and job losses, is now imminent. However, we
@@ -43,7 +43,7 @@ get back on its feet.</p>
 
 <p>We are ready to work with you to
 make sure that people throughout the Canterbury region have
-the opportunity to learn. </p>
+the opportunity to learn.<p>
 
 <p><b>Yours
 sincerely,</b></p>
@@ -76,9 +76,6 @@ Unitec<br>Stuart Larsen, Lincoln University<br>Susan
 Bennett, Wintec<br>Teresa La Rooy, University of
 Otago</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

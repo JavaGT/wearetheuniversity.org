@@ -14,7 +14,9 @@ author-slug: tertiary-education-union
 o Aotearoa</p>
 
 <p>Victoria's new council needs democratic
-accountability</p><p>Victoria University's proposed new
+accountability</p>
+
+<p>Victoria University's proposed new
 council will lack independence if it does not allow staff
 and students to elect representatives says TEU national
 president Sandra Grey.</p>
@@ -58,9 +60,6 @@ writing that all staff and students have the right to elect
 council
 representatives."</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

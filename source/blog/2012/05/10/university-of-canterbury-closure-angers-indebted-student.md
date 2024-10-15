@@ -36,8 +36,7 @@ notes:</p>
 <p>"[T]he issue at the moment, the document goes on to
 say, is not that Arts courses are weak or unsustainable, but
 that the College of Arts offers more courses than it can
-support on current and projected income."
-</p>
+support on current and projected income."<p>
 
 <p>"In short: there
 is nothing wrong with the affected courses but someone or
@@ -53,9 +52,6 @@ order. Essentially, the filed papers charge the university
 with not following its own rules around academic
 process.</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

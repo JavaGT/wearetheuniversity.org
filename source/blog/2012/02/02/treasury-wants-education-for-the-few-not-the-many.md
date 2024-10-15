@@ -14,7 +14,7 @@ education for the few not the many</strong></p>
 
 <p>TEU national
 president Dr Sandra Grey says Treasury’s advice about
-tertiary education is misplaced and simplistic.  </p>
+tertiary education is misplaced and simplistic.<p>
 
 <p>“There
 is no evidence that shifting funding to favour younger
@@ -31,7 +31,7 @@ ministers, which was released today.</p>
 <p>“Treasury
 thinks it can pick winners and invest only in them. This
 denies opportunities to all other ordinary New
-Zealanders,” said Dr Grey. </p>
+Zealanders,” said Dr Grey.<p>
 
 <p>Dr Grey says Treasury’s
 desire to shift research funding to favour research that
@@ -47,7 +47,6 @@ companies.</p>
 <p>“If Treasury wants a vibrant growing economy
 and communities, it needs to invest equitably in all types
 of education and research,. “ said Dr
-Grey.<br><strong></strong><br>
-</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+Grey.<br><strong></strong><br><p>
+
+<p></p>

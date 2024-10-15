@@ -19,7 +19,7 @@ SPACE</p>
 and other groups urging the vice-chancellor of Auckland
 University to step in and reverse a decision that allows a
 group promoting white supremacy to spread racist messages as
-part of orientation week. </p>
+part of orientation week.<p>
 
 <p>The TEU is among a range
 of organisations appalled by a decision of the
@@ -27,7 +27,7 @@ university’s Campus Life department to grant the
 ‘Auckland University European Students' Association’ a
 stall in orientation week. Slogans and material posted on
 the group's Facebook page strongly point towards an
-objective of promoting ‘white pride’.  </p>
+objective of promoting ‘white pride’.<p>
 
 <p>The
 Auckland University Students’ Association (AUSA) has
@@ -50,8 +50,7 @@ control of student affairs away from students. It is clear
 from the imagery used (now removed) on the group’s
 Facebook page that these are people that promote white
 supremacy. There is no place for a group such as this in the
-university community.</strong>
-</p>
+university community.</strong><p>
 
 <p><strong>“Like the
 students' association we respect the importance of free

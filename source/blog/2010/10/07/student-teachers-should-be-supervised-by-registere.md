@@ -19,14 +19,14 @@ TEU national president, Dr Tom Ryan.</p>
 <p>TEU has welcomed the
 council's new approval, review and monitoring processes,
 saying is good to see that the council has listened to the
-views of actual teacher educators.  </p>
+views of actual teacher educators.<p>
 
 <p>Dr Ryan says that in
 recent years TEU has had concerns that some academic staff
 in initial teacher education providers who do not have
 formal teaching qualifications have been pressured by
 institutions into supervising student teachers on their
-placement. </p>
+placement.<p>
 
 <p>"Teaching is an applied professional
 qualification where practice are just as important as
@@ -34,6 +34,8 @@ research. We would not expect academics who lack a nursing
 qualification to be supervising student nurses in hospitals.
 Likewise, it is only reasonable that student teachers doing
 practicums with children should be supervised by registered
-teachers."</p><p>ENDS</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+teachers."</p>
+
+<p>ENDS</p>
+
+<p></p>

@@ -12,7 +12,7 @@ author-slug: nz-union-of-students-associations
 living in Auckland, is eligible for $177.03 per week as a
 beneficiary or student allowance recipient, plus a maximum
 of $145 in Accommodation Supplement or $40 in Accommodation
-Benefit.  </p>
+Benefit.<p>
 
 <p>‘Where is the incentive to go into tertiary
 study if it involves forgoing $320 cash from a benefit in
@@ -30,8 +30,6 @@ organisation is owned by students’ associations from
 universities and polytechnics across the
 country.</p>
 
-<p><br>ENDS</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         
+<p><br>ENDS</p>
 
-</p>
+<p></p>

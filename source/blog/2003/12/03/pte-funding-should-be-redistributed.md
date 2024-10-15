@@ -7,16 +7,8 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>PTE funding should be redistributed</h1>
 
-           <span class="byline"><b>Wednesday,  3 December 2003,  5:36 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         <img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">Unspent private tertiary
+<p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">Unspent private tertiary
 funding should be redistributed in the public sector<br>More
 than $19 million in unspent funding in the private tertiary
 education sector should be reinvested in the public tertiary
@@ -51,23 +43,22 @@ institutions are much more accountable for the quality of
 their courses but are systematically underfunded,” said Dr
 Rosenberg. “The $19 million would have been better used to
 double the amount of new money the government put into the
-performance based research fund this year”.</p><p>Ends</p><p>For
+performance based research fund this year”.</p>
+
+<p>Ends</p>
+
+<p>For
 further information please contact<br>Dr Bill Rosenberg,
 National President, AUS				<br>Phone 	(03) 364 2801
 (work)	<br>03) 332 8525 (home)	 <br>021 680 475 (mobile)
 			<br>Email
-	bill.rosenberg@canterbury.ac.nz	</p><p>
-</p>
+	bill.rosenberg@canterbury.ac.nz<p>
 
-<p>
+<p></p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
 <!--
 
 

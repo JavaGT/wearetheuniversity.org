@@ -7,16 +7,7 @@ source-name: Scoop
 author: Joint Press Release
 author-slug: joint-press-release
 ---
-<div class="story-top">
-           <h1>US Diplomat Leaves 15 Minutes Into Her Victoria University Lecture After Peaceful Protests By Students And Activists</h1>
-
-           <span class="byline"><b>Friday,  8 March 2024,  1:49 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Joint_Press_Release">Joint Press Release</a></b></span>
-
-         </div>
-
-	 <p>
-         </p><p>Students and activist groups today protested a planned
+<p>Students and activist groups today protested a planned
 lecture by the USA’s Under Secretary of State for Arms
 Control and International Security, Dr. Bonnie Jenkins, at
 the Victoria University of Wellington (VUW). Dr. Jenkins is
@@ -28,7 +19,9 @@ Peace Action Wellington rallied around 150 people, mostly
 students, outside the university venue in Pipitea to protest
 further collaborations with the USA. This action was
 particularly prescient in light of the ongoing US-funded
-genocide in Gaza.</p><p>Simultaneously, a peaceful protest
+genocide in Gaza.</p>
+
+<p>Simultaneously, a peaceful protest
 was undertaken inside the lecture hall. An activist began
 the lecture by calling for “a moment of silence for all
 the Palestinians killed by the US-funded genocide in
@@ -39,7 +32,9 @@ and said “Karetao o te Kāwana kakīwhero!” (“Puppets
 of this redneck government.") quoting the women's Super
 Rugby Aupiki team Hurricanes Poua’s revamped
 haka. “Mai te awa ki te moana (From the river to the
-sea), free free Palestine!”</p><p>Dr. Jenkins was ushered
+sea), free free Palestine!”</p>
+
+<p>Dr. Jenkins was ushered
 away for the second time, and subsequently a couple of
 activists took to speaking and playing an informative video
 about how AUKUS represents US imperialism. When organisers
@@ -56,7 +51,9 @@ for Palestine organiser. “We are now at the juncture of
 tightening relations with settler colonies who will only
 destroy more lives, more homes and more lands and waters. We
 want no part in this. We want no part in
-AUKUS.”</p><p>Jenkins’ lecture was organised by Victoria
+AUKUS.”</p>
+
+<p>Jenkins’ lecture was organised by Victoria
 University’s Centre for Strategic Studies, and claimed to
 address “security challenges in the 21st century”.
 Valerie Morse, an organiser with Peace Action Wellington,
@@ -64,18 +61,14 @@ says: “Experts on foreign policy and regional diplomacy
 have done careful research on the disastrous consequences of
 involving ourselves with AUKUS. Te Moana-nui-a-Kiwa is not a
 nuclear testing ground and sacrifice zone for US
-wars.”</p><p>Videos
+wars.”</p>
+
+<p>Videos
 of the peaceful protest actions can be found in this Google
 drive.</p>
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
 <!--
 
 

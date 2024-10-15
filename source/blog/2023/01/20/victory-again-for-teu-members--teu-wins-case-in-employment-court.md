@@ -52,6 +52,6 @@ agreement)”</p>
 
 <p>The full
 judgement can be found here - Full
-judgement</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+judgement</p>
+
+<p></p>

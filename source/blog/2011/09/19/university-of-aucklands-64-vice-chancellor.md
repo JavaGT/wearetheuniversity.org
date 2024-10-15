@@ -18,7 +18,7 @@ Auckland's boss Stuart McCutcheon received an increase in
 his remuneration of between $40,000-$60,000, according to
 data released by the State Services Commission. The
 vice-chancellor now has a remuneration package of between
-$640,000 and $649,999. </p>
+$640,000 and $649,999.<p>
 
 <p>TEU national president Sandra Grey
 says Professor McCutcheon was the third highest paid public
@@ -26,7 +26,7 @@ sector employee in New Zealand.</p>
 
 <p>"The 6-10 percent increase
 in his remuneration package is more than the salary for an
-entire staff member." </p>
+entire staff member."<p>
 
 <p>"Many academic staff have gone
 without a pay rise all year because they will not agree to

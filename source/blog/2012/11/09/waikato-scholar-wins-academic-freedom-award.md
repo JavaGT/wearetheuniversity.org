@@ -40,8 +40,7 @@ He has also continued his academic activism as a public
 speaker and in the media, and has provided academic
 leadership speaking out publicly, but always exercising his
 academic freedom in a responsible manner – using sound
-research evidence and argument.
-</p>
+research evidence and argument.<p>
 
 <p>TEU national president
 Sandra Grey says the new awards recognise the intrinsic
@@ -63,9 +62,6 @@ Wellington<br>•	<strong>Date</strong>: Monday 12
 November<br>•	<strong>Time</strong>: 6pm to
 7:30pm</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

@@ -55,6 +55,6 @@ universities draw staff from.”</p>
 <p>“While we
 congratulate the government for making a good call today, a
 lot of significant challenges
-remain.”<br>&nbsp;</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+remain.”<br>&nbsp;</p>
+
+<p></p>

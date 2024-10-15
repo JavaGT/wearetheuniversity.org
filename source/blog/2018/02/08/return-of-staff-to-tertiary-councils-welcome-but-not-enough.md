@@ -44,8 +44,7 @@ institutions and the local community are collectively
 responsible for decisions about the teaching, learning and
 research that is carried out at our institutions, and it is
 great to have a government that has finally
-listened.</strong>
-</p>
+listened.</strong><p>
 
 <p><strong>“Whilst the government should
 be congratulated for taking this step, it is important to

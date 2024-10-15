@@ -46,15 +46,14 @@ entirely.”</p>
 <p>The draft Tertiary Education Strategy gives
 us hope that this government sees education as being about
 whole people with needs for both academic and pastoral
-support.
-</p>
+support.<p>
 
 <p>“That hope will fade fast unless, as  a matter
 of urgency, the government moves to transform our funding
 model to reflect the laudable priorities in the draft
 Tertiary Education Strategy. Research into the State of the Sector
 shows that the goodwill of staff, their ability to do more
-and more with less, has almost run out.” </p>
+and more with less, has almost run out.”<p>
 
 <p>Gilchrist says
 there needs to be additional investment in the tertiary
@@ -76,7 +75,7 @@ centre of the system;</p>
 learning while working;</p>
 
 <p>•	the emphasis on te reo and
-tikanga Māori; </p>
+tikanga Māori;<p>
 
 <p>•	including the arts and humanities in
 the tertairy education strategy as a necessity not
@@ -91,13 +90,12 @@ and recognising teaching skills and
 training;</p>
 
 <p>•	enhancing the ability of research to focus
-on well-being in New Zealand; and, </p>
+on well-being in New Zealand; and,<p>
 
 <p>•	an holistic view
 of the education system from early childhood through to
-tertiary level
-</p>
+tertiary level<p>
 
-<p>ends</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ends</p>
+
+<p></p>

@@ -8,7 +8,7 @@ author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
 
-<p> A new report launched today by the Tertiary
+<p>A new report launched today by the Tertiary
 Education Union (TEU) at Manukau Institute of Technology
 (MIT) calls on Education Minister Chris Hipkins to restore a decade of lost tertiary education
 funding to at least 2.7 per cent of GDP by 2021, and to
@@ -60,8 +60,7 @@ multiple public good benefits to a quality tertiary
 education sector (5), so it should be funded to the degree
 necessary to provide an accessible, equitable, and inclusive
 tertiary education system that contributes to the social and
-economic well-being of New Zealand.
-</p>
+economic well-being of New Zealand.<p>
 
 <p><strong>“While
 further work needs to be done to cost fees-free tertiary
@@ -156,6 +155,5 @@ no more than five times that of the lowest salary, and use
 this as a pre-requisite for receiving public
 funding.</p>
 
-<p><br>ends
-</p>
+<p><br>ends<p>
 

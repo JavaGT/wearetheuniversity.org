@@ -47,8 +47,7 @@ student well-being. The recommendations we have published
 today set out a plan for exactly this. They are the ideas
 staff want to see the new Education Minister Chris Hipkins
 and his team put in place to improve tertiary education for
-the benefit of us all.”</strong>
-</p>
+the benefit of us all.”</strong><p>
 
 <p>Recommendations in the
 TEU’s briefing include the following, some of which could
@@ -89,5 +88,4 @@ Editors</strong></p>
 
 <p>1. A copy of <i>Critic, Conscience and
 Community: A briefing to the incoming Education Minister
-</i>is available online at http://teu.ac.nz/wp-content/uploads/2017/10/Briefing-to-the-Incoming-Minister.pdf
-</p>
+</i>is available online at http://teu.ac.nz/wp-content/uploads/2017/10/Briefing-to-the-Incoming-Minister.pdf<p>

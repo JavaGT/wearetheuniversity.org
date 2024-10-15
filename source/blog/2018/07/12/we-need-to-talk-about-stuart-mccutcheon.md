@@ -44,8 +44,7 @@ communications to students advising them that a complaint
 has been made about their participation in a legitimate
 protest about the recent Libraries and Learning Services
 review. The email says University management is no longer
-prepared to meet with students about the review.
-</p>
+prepared to meet with students about the review.<p>
 
 <p>Sandra
 Grey, national president of the TEU, said: <strong>“It’s

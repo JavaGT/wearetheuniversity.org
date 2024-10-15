@@ -55,9 +55,6 @@ improve international competitiveness but money to spend on
 advertising for international students
 increases.</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

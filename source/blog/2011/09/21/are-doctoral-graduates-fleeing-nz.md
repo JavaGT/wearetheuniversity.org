@@ -45,6 +45,5 @@ enough to hire new academics. Many academics are nearing
 retirement age and we could soon have a severe workforce
 shortage because we have not done enough to bring new, young
 academics into our institutions,” said Dr
-Grey.<br>ends
-</p>
+Grey.<br>ends<p>
 

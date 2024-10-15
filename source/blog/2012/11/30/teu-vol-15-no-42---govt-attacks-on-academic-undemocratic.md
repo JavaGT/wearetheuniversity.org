@@ -1,7 +1,6 @@
 ---
 title: "TEU Vol 15 No 42 - Govt attacks on academic ‘undemocratic'"
-slug: teu-vol-15-no-42---
-govt-attacks-on-academic-undemocratic
+slug: teu-vol-15-no-42-govt-attacks-on-academic-undemocratic
 date: 2012-11-30
 source: https://www.scoop.co.nz/stories/ED1211/S00225/teu-vol-15-no-42-govt-attacks-on-academic-undemocratic.htm
 source-name: Scoop
@@ -44,8 +43,7 @@ class</strong><br><strong></strong><br>Bahraini teacher Hana
 Husien was in tears this week as she told unions around the
 world how government forces arrested, assaulted and abused
 students from her classroom, after they protested for
-democracy in her country.
-</p>
+democracy in her country.<p>
 
 <p>[Read more...]</p>
 
@@ -104,9 +102,6 @@ saying “They’ve really gone off the reservation today.
 That’s poor.” – Te Ururoa
 Flavell</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

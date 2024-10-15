@@ -9,7 +9,9 @@ author-slug: tertiary-education-union
 ---
 
 <p><br>Tertiary Education Union - Te Hautū Kahurangi o
-Aotearoa</p><p><strong>Good, but could do better. That’s
+Aotearoa</p>
+
+<p><strong>Good, but could do better. That’s
 the verdict of the Tertiary Education Union after six months
 of government efforts to reform the tertiary education
 sector.</strong><strong></strong></p>
@@ -41,8 +43,7 @@ conference, the Minister did back down from this statement,
 he needs to go further and make a clear statement that a
 Labour-led government will not pursue reforms that would
 undermine working conditions in the tertiary education
-sector.
-</p>
+sector.<p>
 
 <p>Sandra Grey, national president of the Tertiary
 Education Union, said: <strong>“Chris Hipkins’ genuine

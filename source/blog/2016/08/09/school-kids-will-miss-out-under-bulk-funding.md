@@ -12,7 +12,9 @@ author-slug: tertiary-education-union
 Aotearoa<br>9 August 2016</p>
 
 <p>School kids will miss out under
-bulk funding</p><p>The government’s global funding plans
+bulk funding</p>
+
+<p>The government’s global funding plans
 for primary and secondary schools could force class sizes to
 rise, says TEU national secretary Sharn Riggs.</p>
 
@@ -39,6 +41,5 @@ what bulk funding is like. Bulk funding has failed in the
 past and it will fail
 again.”</p>
 
-<p>ends
-</p>
+<p>ends<p>
 

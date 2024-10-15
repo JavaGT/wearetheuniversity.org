@@ -43,7 +43,7 @@ Property Services. As well as outsourcing its cleaners, the
 university also intends to disestablish an electrical
 coordinator, an electrician and a systems administrator. The
 proposal establishes four new positions and makes changes to
-eight other existing jobs.  </p>
+eight other existing jobs.<p>
 
 <p>Cindy Doull says the decision
 is particularly significant for some long-serving
@@ -54,9 +54,6 @@ so distraught, and do not want to work for anyone else. They
 felt that they had no
 choice.”</p>
 
-<p>Ends
-</p>
+<p>Ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

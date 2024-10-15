@@ -29,7 +29,7 @@ Services coalition.</p>
 <p>“We are very pleased to be
 part of this coalition of public groups who support the
 current law and the work student associations do,” says
-NZUSA co-President David Do. </p>
+NZUSA co-President David Do.<p>
 
 <p>“Roger Douglas’
 bill will put the quality of education for hundreds of
@@ -52,8 +52,7 @@ student life previously provided by student associations, or
 a reduction in the quality of their education because
 institutions will be forced to divert funding from core
 business (teaching and research) to maintain services
-currently provided by student associations. 
-</p>
+currently provided by student associations.<p>
 
 <p>“We
 need to save our services from this Bill because the
@@ -73,11 +72,6 @@ national representative body for tertiary students and has
 been advocating on student issues since
 1929.</p>
 
-<p>ENDS<br>+
-</p>
+<p>ENDS<br>+<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         
-
-</p>
+<p></p>

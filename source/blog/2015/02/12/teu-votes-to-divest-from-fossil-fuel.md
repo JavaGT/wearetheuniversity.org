@@ -16,7 +16,7 @@ the message yesterday from Tertiary Education Union
 representatives from around New Zealand to their union’s
 governing council.</p>
 
-<p> TEU’s council will meet next week to
+<p>TEU’s council will meet next week to
 vote on whether to adopt a fossil fuel divestment policy it
 has drafted with the support of 350 Aotearoa. But yesterday union
 representatives from nearly all New Zealand’s
@@ -47,9 +47,6 @@ Victoria University of Wellington’s lead, and divest from
 companies that profit from fossil
 fuels.”</p>
 
-<p><br>ends
-</p>
+<p><br>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

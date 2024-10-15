@@ -8,7 +8,9 @@ author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
 
-<p>Tertiary Update</p><p><br>Zero-hour agreements
+<p>Tertiary Update</p>
+
+<p><br>Zero-hour agreements
 gone</p>
 
 <p>Political parties across the spectrum are celebrating
@@ -52,8 +54,7 @@ agreement.</p>
 <p>Read more….</p>
 
 <p>Coming out now safer for
-TEU members
-</p>
+TEU members<p>
 
 <p>Coming out is not a single act but a process
 they goes on and on, each new iteration bringing a new
@@ -72,6 +73,5 @@ who engage with the public.</p>
 <p>Read
 more…</p>
 
-<p><br>ends
-</p>
+<p><br>ends<p>
 

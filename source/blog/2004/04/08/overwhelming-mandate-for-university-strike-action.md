@@ -7,16 +7,8 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Overwhelming mandate for university strike action</h1>
 
-           <span class="byline"><b>Thursday,  8 April 2004,  1:07 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         <img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">Union members at New Zealand
+<p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">Union members at New Zealand
 universities have voted to take up to five days strike
 action in support of pay claims and new national collective
 employment agreements for academic and general staff.
@@ -64,27 +56,27 @@ ballot, the unions have written to the universities inviting
 further negotiations in an attempt to try and resolve the
 dispute.<br>The universities affected are Auckland, Waikato,
 Massey, Victoria, Canterbury, Lincoln and
-Otago.
-</p>
+Otago.<p>
 <p>Ends<br>For further information or comment please
 contact:<br>Helen Kelly, General Secretary, Association of
 University Staff (AUS)<br>Ph (04)915 6691 (work)		(04) 385
 3153		027 4366 308 (mob)<br>Email
-Helen.kelly@aus.ac.nz</p><p>Jeff Rowe, Advocate, Association of
+Helen.kelly@aus.ac.nz</p>
+
+<p>Jeff Rowe, Advocate, Association of
 University Staff (AUS)		<br>Ph (04) 915 6692 (work)	(04) 380
 9212 (home)	021 375 670 (mobile) 	<br>email: 
-jeff.rowe@aus.ac.nz</p><p>Further background information can be
+jeff.rowe@aus.ac.nz</p>
+
+<p>Further background information can be
 found on the AUS website:
-www.aus.ac.nz</p><p>
-</p><p>
+www.aus.ac.nz</p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p></p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
 <!--
 
 

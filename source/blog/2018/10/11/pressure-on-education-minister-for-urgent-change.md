@@ -45,8 +45,7 @@ decision-making, and lack of student and staff input in
 decision-making leads to some institutions needing external
 help just to keep the doors open. Staff are increasingly
 worried that unless urgent changes are made, these
-commissioner appointments will not be the last.
-</p>
+commissioner appointments will not be the last.<p>
 
 <p>Sandra
 Grey, national president of the TEU, said: “Let’s be
@@ -75,6 +74,5 @@ urgent reform of the funding model and institutional
 governance is not made a
 priority.”</p>
 
-<p>--ENDS--
-</p>
+<p>--ENDS--<p>
 

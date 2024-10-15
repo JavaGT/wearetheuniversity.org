@@ -41,6 +41,6 @@ Chancellor, attached to the petition, states:
 “Redundancies of AUT staff has and will negatively impact
 our study progress and quality, our mental health, and our
 motivation to continue our careers at
-AUT.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+AUT.”</p>
+
+<p></p>

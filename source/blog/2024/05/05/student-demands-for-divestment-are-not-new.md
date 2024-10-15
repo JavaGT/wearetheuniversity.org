@@ -43,6 +43,5 @@ author-slug: independent-media-institute
 
 <p><i>This article was produced by </i><a target="_blank" rel="noopener noreferrer" href="https://u36605228.ct.sendgrid.net/ls/click?upn=u001.irwnA1ZB8N-2BHNL3jUmYY-2BFH7-2B890eq7B4TYN9OBfEskeVkvEb71zqMb9NYTTs7ETho3s3UvUN1QQv-2BW80GF1eg-3D-3DvrPD_pIbxPfpDI69aAybPrpOfg2qk668hyntwP4Bju9c-2FBUHmqzagKPMobPYCfWZv8yYQFLEHKv4R7adUtz1UX8-2BCLmwHWzp4auxY1wXJA8EPvti99RMwf1zeEDPmmPiD3GVMn1I9wnTbExt9g0FAV-2BZjVADBi4yV084yBiQ6a2qr-2BecJ7S01dt-2FrY8Hs-2B3Ro3XAzDect-2B-2FVeXPJISaOjgi-2B-2BAIq6YOkO2XxDizAjDqU6wUSdghO31oQJAr-2B-2Bh7tws7FGtxQZIHYTCWma7we4XptHLDZJqjPwN2P-2FVVtqDgcpHFe3pDIm8EVEf1tajXQDK9X7DzUqzDsTnsmme088I381C2LLPB7Rpt5ZkURS-2B0z1P-2Bqg9oGNYP2PO1h1rhZkSrl5idCX2-2BrVtPZE8tn-2BIEzvFleYW3H9jla9khNIIv-2FKDaXUanxL7gpkwKoh58sr2QBFYnkxAlhPU-2BpxmIz9yflde9VElbKxf3uhZJhzXq-2Bcoi9YMVdLJ9xaj-2BKeYQP79u8anTvOyehfqyxVb2ST4gDR86MPvReUJeYYpfgo0XBY4C-2BdeqnndkuHnnKa-2BFqaI7NMGWuLZjKgBMZbk7SCZBSFBCOCWhG5W8QtIJOdjT087KBiOKhG-2FBau2pSGkDRt4-2BcPSCTbsvPxIaqVH8t1ewsIQZYr88QjsDJmLAJWv3yQ7QjpMjzuQHoMKEFCj61znMRTrzLvkw3XnQMlmBTruN3bkw94rzsDiB-2BN9QV-2FuF4EP8XypCxKbDH9i-2BCJLjGWC3G25cddTF1pr4MV6feidIY0S-2BNI-2FuC7MW-2BaVS9wuASH5uQ-3D"><i>Economy for All</i></a><i>, a project of the Independent Media Institute.</i></p>
 
-<p>
-Content Sourced from <a href="http://www.scoop.co.nz/">scoop.co.nz</a><br>
+<p>Content Sourced from <a href="http://www.scoop.co.nz/">scoop.co.nz</a><br>
 <a href="http://www.scoop.co.nz/stories/WO202405/S00058.htm">Original url</a></p>

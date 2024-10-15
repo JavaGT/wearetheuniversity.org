@@ -7,41 +7,49 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>University unions &amp; employers to meet</h1>
 
-           <span class="byline"><b>Tuesday,  9 September 2003, 11:28 am</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p>University unions &amp; employers to meet</p>
 
-         </div>
-
-	 <p>
-         University unions &amp; employers to meet</p><p>University unions
+<p>University unions
 and employers will meet in Wellington on Wednesday this week
 for discussions prior to the formal commencement of national
 collective agreement bargaining in the university sector
-later in the month.</p><p>It follows the announcement last week
+later in the month.</p>
+
+<p>It follows the announcement last week
 that university unions are to claim a salary increase of 10%
 per annum over the next three years for academic staff and
 10% in 2004 for general (non-academic) staff plus increases
 in job evaluation alignments to the higher quartiles of the
-salary market.</p><p>The union and employer parties are
+salary market.</p>
+
+<p>The union and employer parties are
 expecting to arrange dates for bargaining and to formalise
-bargaining protocols at the meeting. </p><p>AUS Industrial
+bargaining protocols at the meeting.<p>
+
+<p>AUS Industrial
 Officer Jeff Rowe has been named as the lead advocate for
 the unions. He will be assisted by Jenny Chapman from the
 Association of Staff in Tertiary Education (ASTE) and Mark
 Ryan (PSA), and a team of 12 staff from the seven
-universities cited as parties to the negotiations.</p><p>The
+universities cited as parties to the negotiations.</p>
+
+<p>The
 unions are seeking national collective employment agreements
 for academic and general staff, as part of an effort to
 ensure the long term sustainability of high-quality
-university education in New Zealand.</p><p>Association of
+university education in New Zealand.</p>
+
+<p>Association of
 University Staff National President, Dr Bill Rosenberg, said
 that cuts in real funding to universities over the last 12
 years had not only eroded the pay and working conditions of
 staff, but were also increasingly affecting the quality of
-education for students. </p><p></p><p> Dr Rosenberg said that staff
+education for students.<p>
+
+<p></p>
+
+<p>Dr Rosenberg said that staff
 are the crucial factor in determining the quality of
 university education scholarship and research. “Higher
 workloads, reduced opportunity for research and a decaying
@@ -49,18 +57,11 @@ university infrastructure have combined to provide a serious
 threat to the credibility and reputation of New Zealand
 universities. We are determined that this must be
 rectified,” he said
-<br>
-</p>
+<br><p>
 
-<p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
 <!--
 
 

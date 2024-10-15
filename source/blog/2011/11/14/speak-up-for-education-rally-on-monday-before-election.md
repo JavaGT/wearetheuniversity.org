@@ -8,19 +8,18 @@ author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
 
-<p>Speak Up for Education rally on Monday before election
-</p>
+<p>Speak Up for Education rally on Monday before election<p>
 
 <p>Hundreds of teachers and students will converge on
 Wellington's Cuba Mall on the Monday before the election to
-tell politicians it is time to speak up for education. </p>
+tell politicians it is time to speak up for education.<p>
 
 <p>-
-Cuba Mall - 21 November - 5pm - 5.45pm </p>
+Cuba Mall - 21 November - 5pm - 5.45pm<p>
 
 <p>TEU's singing
 National President Dr Sandra Grey and her band Tolley and
-the Folly-Dollies will lead a line-up that includes: </p>
+the Folly-Dollies will lead a line-up that includes:<p>
 
 <p>-
 Louise Green, principal of Khandallah School (tambourines).
@@ -35,15 +34,12 @@ student president David Do (ukelele). Despite growing
 student numbers tertiary education has had its funding cut
 each budget under this government and more cuts are
 forecast. - Actor and theatre producer Julia Truscott will
-MC the event. </p>
+MC the event.<p>
 
 <p>"We'll be loud and we'll be singing. We'll
 be telling politicians of all persuasions and predilections
-that it is time to speak up for education," says Dr Grey. 
-</p>
+that it is time to speak up for education," says Dr Grey.<p>
 
 <p>"Education is not a cost or a burden - it is the best
-investment we can make in our people, young and old."
-
-</p>
+investment we can make in our people, young and old."<p>
 

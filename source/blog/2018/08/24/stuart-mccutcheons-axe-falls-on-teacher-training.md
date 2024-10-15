@@ -47,8 +47,7 @@ Every teacher, every child, every parent, uncle, aunty,
 grandparent and friend that came out on Wednesday to show
 their support for our incredible teachers proved just how
 much our public education system matters to New
-Zealanders.
-</p>
+Zealanders.<p>
 
 <p>Nanette Cormack, Deputy Secretary of the
 Tertiary Education Union (TEU), said:“Rebuilding the

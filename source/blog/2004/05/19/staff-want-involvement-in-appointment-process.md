@@ -7,30 +7,34 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Staff want involvement in appointment process</h1>
 
-           <span class="byline"><b>Wednesday, 19 May 2004, 12:56 am</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p>Association of University Staff - Media Release</p>
 
-         </div>
+<p>Wednesday,
+19 May 2004</p>
 
-	 <p>
-         Association of University Staff - Media Release</p><p>Wednesday,
-19 May 2004</p><p>University staff call for greater involvement
-in appointment process</p><p>University staff have called for
+<p>University staff call for greater involvement
+in appointment process</p>
+
+<p>University staff have called for
 increased involvement in the appointment processes for new
 vice-chancellors after the Association of University Staff
 (AUS) was excluded from any participation in the selection
 of a new vice-chancellor for the University of
-Auckland.</p><p>It is understood that interviews for the
+Auckland.</p>
+
+<p>It is understood that interviews for the
 vice-chancellorship have been completed and an offer of
-appointment made to one of the applicants.</p><p>The National
+appointment made to one of the applicants.</p>
+
+<p>The National
 President of the AUS Dr Bill Rosenberg said that university
 councils are empowered by statute to seek advice from
 relevant parties and may invite appropriate people to be
 involved in either an examination of the applications or in
-the Council's deliberations for such an appointment.</p><p>AUS
+the Council's deliberations for such an appointment.</p>
+
+<p>AUS
 Branch President Associate Professor Wills said the
 University of Auckland Council had only allowed the
 involvement of a small group of staff after its initial
@@ -45,8 +49,7 @@ prevented from briefing candidates on staff concerns at a
 time when a delicate industrial situation exists and
 Auckland staff have not yet ratified a collective employment
 agreement with the administration after backing down from a
-national strike."
-</p>
+national strike."<p>
 <p>"It is both logical and reasonable to
 consult widely and involve staff in such an appointment,
 given that the vice-chancellor is to be the university's
@@ -54,24 +57,29 @@ senior academic leader and senior manager," said Associate
 Professor Wills. He said a vice-chancellor requires the
 confidence and support of all staff, and it had been the
 usual practice in New Zealand universities to involve staff
-and AUS widely in the process.</p><p>The appointment process at
+and AUS widely in the process.</p>
+
+<p>The appointment process at
 the University of Auckland can be contrasted with that at
 Oxford University in England, where Dr John Hood is soon to
 take up the Vice-Chancellorship .  His appointment was
-subject to ratification by the staff.</p><p>Dr Rosenberg and
+subject to ratification by the staff.</p>
+
+<p>Dr Rosenberg and
 Associate Professor Wills called on the Chancellor and
 University Council to consult with staff and the AUS to
 establish a policy on future appointment processes for new
-vice-chancellors.</p><p>Ends</p><p></p><p>
-</p><p>
+vice-chancellors.</p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p>Ends</p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+<p></p>
+
+<p></p>
+
+
+
+
 <!--
 
 

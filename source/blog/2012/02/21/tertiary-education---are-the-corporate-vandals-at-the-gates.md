@@ -1,7 +1,6 @@
 ---
 title: "Tertiary education - are the corporate vandals at the gates?"
-slug: tertiary-education---
-are-the-corporate-vandals-at-the-gates
+slug: tertiary-education-are-the-corporate-vandals-at-the-gates
 date: 2012-02-21
 source: https://www.scoop.co.nz/stories/ED1202/S00092/tertiary-education-are-the-corporate-vandals-at-the-gates.htm
 source-name: Scoop
@@ -80,9 +79,6 @@ Tertiary Education Union Te Haut? Kahurangi o Aotearoa is
 organising Mr Robinson’s
 visit.</p>
 
-<p><br>ENDS<br>
-</p>
+<p><br>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

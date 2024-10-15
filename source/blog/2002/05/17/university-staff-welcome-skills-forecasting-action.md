@@ -7,23 +7,21 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>University staff welcome skills forecasting action</h1>
 
-           <span class="byline"><b>Friday, 17 May 2002,  1:30 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>Media Release<br>17 May
+2002 <br>Attention Education Reporters</p>
 
-         </div>
+<p>University staff
+welcome skills forecasting action plan</p>
 
-	 <p>
-         <img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>Media Release<br>17 May
-2002 <br>Attention Education Reporters</p><p>University staff
-welcome skills forecasting action plan</p><p><br>The Association
+<p><br>The Association
 of University Staff (AUS) has welcomed the Government’s
 pre-Budget announcement of $11.6m for a skills forecasting
 action plan. ‘AUS has lobbied for such an approach to
 labour-market information consistently over the last
-decade,’ said AUS National President, Dr Grant Duncan.</p><p>Dr
+decade,’ said AUS National President, Dr Grant Duncan.</p>
+
+<p>Dr
 Duncan stressed that New Zealand’s university workforce, a
 key source of education and training for the nation’s wider
 workforce, urgently requires forecasting analysis. ‘The
@@ -36,36 +34,40 @@ significant proportion of its academic workforce.
 Additionally, salaries are not high enough to retain the
 best people, and loans and debt are discouraging young
 talented students from completing the higher degrees needed
-for academic jobs.’</p><p>Dr Duncan stated that better
+for academic jobs.’</p>
+
+<p>Dr Duncan stated that better
 information about future labour-market needs is essential
 for long-term human-resources strategies and provision in
-the university sector.</p><p>He emphasised, however, that
+the university sector.</p>
+
+<p>He emphasised, however, that
 because it takes 3 to 5 years or more for a university
 student to graduate and become available for employment, the
 universities could not be expected to respond rapidly to
-short-term skills shortages.
-</p>
+short-term skills shortages.<p>
 <p>‘A university education
 provides a broad, generic and critical approach to life-long
 learning. It develops the person for participation in
 society and employment in a variety of ways,’ said Dr
-Duncan.</p><p>‘The link between vocational skills and higher
+Duncan.</p>
+
+<p>‘The link between vocational skills and higher
 education needs to be viewed in a wider context. Many
 remarkable and creative careers have begun from educational
 backgrounds that may not appear to be immediately relevant
-to later achievements.’</p><p><br>Contact:<br>Dr Grant Duncan,
+to later achievements.’</p>
+
+<p><br>Contact:<br>Dr Grant Duncan,
 AUS National President,  021 680 475<br>Margaret Ledgerton,
 AUS Policy Analyst, 04 915
-6695</p><p>
-</p><p>
+6695</p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p></p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
 <!--
 
 

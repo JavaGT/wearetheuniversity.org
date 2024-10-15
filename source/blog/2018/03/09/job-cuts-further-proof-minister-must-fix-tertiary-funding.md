@@ -9,7 +9,9 @@ author-slug: tertiary-education-union
 ---
 
 <p>Tertiary Education Union - Te Hautū Kahurangi o
-Aotearoa</p><p>Toi-Ohomai job cuts further proof Minister
+Aotearoa</p>
+
+<p>Toi-Ohomai job cuts further proof Minister
 must fix tertiary funding model</p>
 
 <p><br>Plans announced today
@@ -47,8 +49,7 @@ rules are based on meeting narrow, market-based metrics that
 ignore the huge contribution institutions like Toi-Ohomai
 make to their communities. The Minister has been told by
 sector leaders, staff and students that this model needs to
-change, now’s the time to make it happen.
-</p>
+change, now’s the time to make it happen.<p>
 
 <p>“Public
 institutions like Toi-Ohomai are responsible for some of the
@@ -62,6 +63,5 @@ community we will do as much as we can to urge Dr. Fourie to
 revisit these
 plans.”</p>
 
-<p>--ENDS--
-</p>
+<p>--ENDS--<p>
 

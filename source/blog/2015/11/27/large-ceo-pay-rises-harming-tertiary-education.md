@@ -64,9 +64,6 @@ taking pay rises that they are not willing to offer to the
 people who work for
 them.”</p>
 
-<p><br>ends
-</p>
+<p><br>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

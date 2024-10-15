@@ -53,9 +53,6 @@ culture of decades past? Their most important job is simply
 to teach and research, not to waffle on in meaningless
 business-speak."</p>
 
-<p><br>ENDS
-</p>
+<p><br>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

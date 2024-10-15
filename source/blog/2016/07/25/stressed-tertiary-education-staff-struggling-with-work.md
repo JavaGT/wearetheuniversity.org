@@ -47,6 +47,5 @@ decisions that affect them and their students. No one is
 listening to
 them.”</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 

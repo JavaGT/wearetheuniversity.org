@@ -43,8 +43,7 @@ learning new skills or finding their passion, ITPs are there
 to support them on their way. A priority for the Minister
 must be to make sure ITPs stay broadly and deeply connected
 to the communities, both regional and urban, in which they
-are placed.
-</p>
+are placed.<p>
 
 <p>“More than this, the hard-working teaching
 and allied staff in ITPs play a crucial role in helping us
@@ -81,9 +80,6 @@ adopt the recommendations in the TEU’s recent report
 Funding the
 Future</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

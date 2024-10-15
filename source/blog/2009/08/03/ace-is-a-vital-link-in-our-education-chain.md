@@ -15,7 +15,7 @@ chain</b></p>
 <p>Tertiary Education Union national secretary
 Sharn Riggs is offering her support to those who will be
 rallying this week to oppose cuts to adult and community
-education.   </p>
+education.<p>
 
 <p>“Adult and community education has not
 only seen its funding savagely cut, it has been marginalised
@@ -32,7 +32,7 @@ Moroccan cookery might be the minister of education’s idea
 of a hobby, but for many people the classes that teach these
 skills are important links to people in their communities
 and ideas in our culture and other cultures that they might
-otherwise never meet.”  </p>
+otherwise never meet.”<p>
 
 <p>“Education is a democratic
 tool that exposes us to new ideas, new people and new
@@ -46,9 +46,6 @@ High School and Onslow High School at on their march to
 parliament tomorrow at
 2.15pm.</p>
 
-<p>Ends
-</p>
+<p>Ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

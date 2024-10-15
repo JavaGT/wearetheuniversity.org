@@ -35,7 +35,7 @@ that the scheme was to be closely integrated with five new
 trades academies around the country, but four of these
 academies are not yet up and running. The Minister of
 Education, Anne Tolley, has only just called for expressions
-of interest to establish them. </p>
+of interest to establish them.<p>
 
 <p>“There are a number of
 already well-established programmes that address the link
@@ -43,8 +43,7 @@ between secondary and tertiary education, such as STAR, that
 the minister could support instead to ensure they continue
 to provide a quality service to students. Polytechnics also
 could help but enrolments in most of them are already up
-near the the limit of their student cap”, said Dr Ryan.
-</p>
+near the the limit of their student cap”, said Dr Ryan.<p>
 
 <p>“New Zealand has an integrated and respected public
 education system that stretches from early childhood to
@@ -54,9 +53,6 @@ students simply because officialdom wants them out of the
 school gates but off the
 streets.”</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

@@ -47,6 +47,6 @@ as if it has already passed. Let’s reject this approach
 and instead work for a public education system that suits
 the needs of the students it serves and the staff who
 deliver
-it.”<br>--ENDS--</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+it.”<br>--ENDS--</p>
+
+<p></p>

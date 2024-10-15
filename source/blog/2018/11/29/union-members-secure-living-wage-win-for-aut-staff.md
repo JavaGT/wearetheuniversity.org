@@ -38,8 +38,7 @@ includes a one-year term and a 10 week union-only benefit
 – yet again demonstrating what the TEU can do when people
 working in institutions and across Aotearoa New Zealand come
 together to improve tertiary education for the benefit of us
-all.
-</p>
+all.<p>
 
 <p>Irena Brorens, the TEU’s lead advocate for AUT and
 national industrial officer, said:<strong>“This agreement

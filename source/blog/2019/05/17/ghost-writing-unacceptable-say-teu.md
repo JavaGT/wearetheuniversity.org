@@ -43,8 +43,7 @@ discuss ways of developing such a response.</p>
 also look at the systemic pressures highlighted in the latest research into the state of the public
 tertiary education sector with regard to ongoing attacks
 on the profesional integrity of staff,’ says
-Gilchrist.
-</p>
+Gilchrist.<p>
 
 <p>The discovery of the extent of this problem is
 a challenge that we should not ignore – it is also an
@@ -56,6 +55,6 @@ customers and competing for their enrolment fees.</p>
 <p>That in
 turn will improve the standing of our university system,
 both here and
-overseas.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+overseas.</p>
+
+<p></p>

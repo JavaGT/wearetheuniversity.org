@@ -51,6 +51,6 @@ feet.”</p>
 <p>“The minister needs to slow down and talk
 this through with the sector before she goes any further or
 this will blow up in her
-face.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+face.”</p>
+
+<p></p>

@@ -52,8 +52,7 @@ substantially invest in the well-being of our students,
 communities, and environment by putting new money into
 tertiary education. The sector is just going to keep
 crumbling with funding that barely recognises the cost of
-education inflation.”
-</p>
+education inflation.”<p>
 
 <p>“The government is staying very
 safely inside the current fiscal responsibility targets. It
@@ -72,9 +71,6 @@ yesterday, the staff in the tertiary education sector have
 no more to
 give.”</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

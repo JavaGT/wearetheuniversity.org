@@ -30,6 +30,6 @@ will go ahead as planned.</p>
 <p>TEU has been advised that
 AUT will not take action to suspend, and members’ pay will
 be unaffected during the strike on
-Thursday.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+Thursday.</p>
+
+<p></p>

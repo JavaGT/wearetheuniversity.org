@@ -9,7 +9,7 @@ author-slug: green-party
 ---
 <p>Press Release – Green Party</p>
 
-<p> The Green Party is today welcoming news that the Government will ensure much needed funding for the tertiary sector. Were proud to have worked with the Tertiary Education Union, Student Associations and Minister Tinettis office to have helped …<span id="more-166463"></span></p>
+<p>The Green Party is today welcoming news that the Government will ensure much needed funding for the tertiary sector. Were proud to have worked with the Tertiary Education Union, Student Associations and Minister Tinettis office to have helped …<span id="more-166463"></span></p>
 
 <p>The Green Party is today welcoming news that the Government will ensure much needed funding for the tertiary sector.</p>
 
@@ -27,6 +27,5 @@ author-slug: green-party
 
 <p>“We’re looking forward to continuing constructive work with the Minister, staff and students to ensure we invest in education as the public good that it is,” says Chlöe Swarbrick.</p>
 
-<p>
-Content Sourced from <a href="http://www.scoop.co.nz/">scoop.co.nz</a><br>
+<p>Content Sourced from <a href="http://www.scoop.co.nz/">scoop.co.nz</a><br>
 <a href="http://www.scoop.co.nz/stories/PA202306/S00173.htm">Original url</a></p>

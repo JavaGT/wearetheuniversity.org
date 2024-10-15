@@ -12,7 +12,7 @@ author-slug: nzusa
 work has influenced my studies - I have less time and even
 though my jobs are flexible, I still have to put in more
 work for them in order to get the job done and get paid”
-she says.  </p>
+she says.<p>
 
 <p>“If the post graduate allowance was
 reinstated, I wouldn't have to work - I could use my time to
@@ -22,10 +22,9 @@ the post graduate allowance, but the cost of tertiary
 education or living costs in New Zealand hasn't decreased
 either. It feels like New Zealand is purposely turning into
 an elitist country, that I can't afford to stay in even
-though I'm a New Zealand citizen.” </p>
+though I'm a New Zealand citizen.”<p>
 
 <p>NZUSA
 President Isabella Lenihan-Ikin says, “the reinstatement
 of post graduate student allowance is a vital step towards a
-barrier free education for all New Zealanders.”
-</p>
+barrier free education for all New Zealanders.”<p>

@@ -7,16 +7,8 @@ source-name: Scoop
 author: Fightback
 author-slug: fightback
 ---
-<div class="story-top">
-           <h1>Fightback’s Pre-History in the New Zealand Left</h1>
 
-           <span class="byline"><b>Monday,  3 December 2018, 10:57 am</b><br>
-             <b>Article: <a href="https://info.scoop.co.nz/Fightback">Fightback</a></b></span>
-
-         </div>
-
-	 <p>
-         <i>Since Fightback’s analysis and articles have been
+<p><i>Since Fightback’s analysis and articles have been
 getting more attention from international comrades, we
 regular get questions asking what “tradition” or
 organisational pedigree we belong to – are we Trotskyists,
@@ -26,7 +18,9 @@ background is. We feel, though, that this is a source of
 pride rather than embarrassment – in intellectual
 tendencies as with animals, hybridity often leads to vigour,
 while a “pure” pedigree is another word for
-inbreeding!</i></p><p>Fightback traces most of its ancestry back
+inbreeding!</i></p>
+
+<p>Fightback traces most of its ancestry back
 to the original Communist Party of New Zealand, founded
 in 1921. During the splits in between the various
 Communist-led states of the 1950s-1970s, the CPNZ
@@ -34,7 +28,9 @@ distinguished itself by being the only CP in an advanced
 capitalist country to side with China against the Soviet
 Union; and was even more unique in siding with Enver
 Hoxha’s Albania after its split with China in the late
-1970s.</p><p>The paradox of taking such a hard-line
+1970s.</p>
+
+<p>The paradox of taking such a hard-line
 “Stalinist”/”anti-revisionist” line was that the
 CPNZ’s brand of “Hoxhaism” was forthright in
 condemning both the USSR and China as imperialist countries,
@@ -45,8 +41,7 @@ analysis (not dissimilar to that of another ex-Hoxhaist
 party in the US, the Communist Voice Organization) that
 all the so-called Communist countries had in fact been
 state-capitalist bureaucratic dictatorships since the time
-of Stalin.
-</p>
+of Stalin.<p>
 <p>This formerly super-Stalinist party had
 therefore came to the same conclusion as several tendencies
 coming out of the Trotskyist tradition. In a huge historical
@@ -61,7 +56,9 @@ tendency, in that it steered a very independent course from
 the London “mothership”, and at various times included
 members openly identifying with different Marxist trends,
 including from an “orthodox” Fourth Internationalist
-background.</p><p>Meanwhile, CPNZ veteran Ray Nunes had led a
+background.</p>
+
+<p>Meanwhile, CPNZ veteran Ray Nunes had led a
 split in 1990 to form the Workers’ Party of New Zealand,
 which described itself as “Marxist-Leninist, pro-Mao but
 not Maoist”. Over the years it continued CPNZ tradition by
@@ -72,7 +69,9 @@ not Trotskyist” group around the magazine
 <i>revolution</i>. (Some documents from the WPNZ before and
 after its fusion with <i>revolution</i> can be found on the
 Encyclopedia of Anti-Revisionism
-Online.)</p><p>Both parties reached a crisis in 2011-2012.
+Online.)</p>
+
+<p>Both parties reached a crisis in 2011-2012.
 Socialist Worker had broken with the authority of the
 British SWP, but could not come to a consensus on a new
 political line and strategy, and decided to wind itself up
@@ -80,7 +79,9 @@ in 2012. Meanwhile, the former leading group of the Workers
 Party – from both “Mao-ish” and “Trotsky-ish”
 tendencies – had decided that building a Leninist party in
 New Zealand’s contemporary conditions was impossible, and
-had quit in 2011.</p><p>At that point, after decades of
+had quit in 2011.</p>
+
+<p>At that point, after decades of
 hostility, several former members of Socialist Worker
 realised that they had a lot in common with the remaining
 Workers Party members – in particular commitment to a
@@ -88,16 +89,13 @@ non-dogmatic revolutionary socialism, which combined
 activists coming from several different Marxist traditions
 and sought an analysis unique to Aotearoa/NZ’s conditions.
 The combined organisation renamed itself Fightback in
-2013.</p><p><br>
-</p><p>
+2013.</p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
+
 <!--
 
 

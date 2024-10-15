@@ -9,7 +9,9 @@ author-slug: tertiary-education-union
 ---
 
 <p>Tertiary Education Union - Te Hautū Kahurangi o
-Aotearoa</p><p>Labour’s Promise Puts Future of Public
+Aotearoa</p>
+
+<p>Labour’s Promise Puts Future of Public
 Tertiary Education on the Ballot Paper</p>
 
 <p>Labour’s promise
@@ -45,8 +47,7 @@ chaos to institutions and cuts to departments. Three more
 years of National’s failed approach poses a serious threat
 to education in rural and regional communities where
 institutes of technology and polytechnics are already losing
-out to for-profit providers.
-</p>
+out to for-profit providers.<p>
 
 <p>“Tertiary education belongs
 to all of us, because it benefits all of us. It must be an
@@ -58,6 +59,6 @@ there is an opportunity to vote for a change that will
 benefit us
 all.”</p>
 
-<p>--ENDS--</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>--ENDS--</p>
+
+<p></p>

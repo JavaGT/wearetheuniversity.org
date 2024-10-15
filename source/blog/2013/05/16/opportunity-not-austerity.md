@@ -41,9 +41,6 @@ yet another in a series of nasty budgets, which chooses
 austerity over
 opportunity.”</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

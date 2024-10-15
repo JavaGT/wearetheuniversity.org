@@ -34,7 +34,7 @@ genuinely negotiate with union members.</p>
 constantly tells us that they are unable to talk to us about
 pay until after they set their budgets in October. By then
 it’s too late as important funding decisions have already
-been made.” </p>
+been made.”<p>
 
 <p>“Workers expect to be in the mix when
 money is being allocated by the university, not after the
@@ -54,6 +54,5 @@ genuine negotiation,” Giordani says.</p>
 opened on Monday 5 September and will close on Friday 9
 September.</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 

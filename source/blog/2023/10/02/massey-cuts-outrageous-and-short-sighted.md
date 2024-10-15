@@ -52,6 +52,6 @@ areas.”</p>
 of the sector need to stop and wait for the funding review
 to run its course before continuing to make short-sighted
 decisions such as these
-ones.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+ones.”</p>
+
+<p></p>

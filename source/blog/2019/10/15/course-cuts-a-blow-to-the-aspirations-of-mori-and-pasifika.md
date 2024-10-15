@@ -8,7 +8,9 @@ author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
 
-<p><br>15 October 2019 </p><p>Course cuts in South Auckland
+<p><br>15 October 2019<p>
+
+<p>Course cuts in South Auckland
 another blow to the aspirations of Māori <br>TEU members at
 MIT and nationally are condemning the cuts proposed for
 tertiary education provision in South Auckland. Cuts they
@@ -58,9 +60,6 @@ Technology to meet the needs of learners, whānau, hapū,
 iwi, communities, and industries,” says
 Wātene.</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

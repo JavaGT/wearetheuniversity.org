@@ -23,8 +23,6 @@ sure to have a sustainable ITP sector that is working
 towards equity of educational opportunity, and truly
 functioning as ‘society’s great leveller’.</p>
 
-<p>ENDS</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         
+<p>ENDS</p>
 
-</p>
+<p></p>

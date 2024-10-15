@@ -35,9 +35,6 @@ in keep student fees down, lowering class sizes or bring
 high quality research and teaching to the people of
 Otago.”</p>
 
-<p><br>ENDS<br>
-</p>
+<p><br>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

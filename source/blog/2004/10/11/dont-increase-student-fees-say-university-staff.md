@@ -7,31 +7,31 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Don't Increase Student Fees Say University Staff</h1>
 
-           <span class="byline"><b>Monday, 11 October 2004,  3:33 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p>Don't increase student fees say university staff</p>
 
-         </div>
-
-	 <p>
-         Don't increase student fees say university staff</p><p>The
+<p>The
 Association of University Staff (AUS) has called on other
 New Zealand universities to follow the lead of Massey
 University by not increasing student tuition fees for 2005.
 The Massey University Council voted last week, by seven
 votes to six, to reject recommendations by University
-management to increase tuition fees by 5 percent.</p><p>The call
+management to increase tuition fees by 5 percent.</p>
+
+<p>The call
 from AUS follows a proposal from Waikato University's
 Finance Committee to increase tuition fees by between 3.39
 and 3.48 percent for next year. This proposal will be
 considered at the University Council meeting next
-month.</p><p>AUS General Secretary, Helen Kelly, said that
+month.</p>
+
+<p>AUS General Secretary, Helen Kelly, said that
 increasing student fees would add to existing student debt,
 which had already reached an intolerable level, or would
 further limit the participation of students in university
-education.</p><p>Ms Kelly said that further public investment
+education.</p>
+
+<p>Ms Kelly said that further public investment
 was needed in the university sector, and this was well
 illustrated by Waikato University's statement that it needs
 an additional $4.5 million next year simply to keep pace
@@ -39,14 +39,15 @@ with rising costs. "Waikato University needs to join with
 Massey and other universities to pressure government to
 increase funding to meet these costs. Placing more debt on
 students will not solve the long term problem of
-underfunding."</p><p>Government funding of universities per
+underfunding."</p>
+
+<p>Government funding of universities per
 student has declined by 21 percent in real (inflation
 adjusted) terms over the decade to 2002, and New Zealand's
 public investment in tertiary education is now lower than
 the average for other OECD countries as a proportion of GDP.
 It is significantly lower than in Australia and the United
-States.
-</p>
+States.<p>
 <p>"It is clear is that Government needs to boost
 funding rather than leaving tertiary institutions having to
 consider further increasing student tuition fees," said Ms
@@ -54,20 +55,22 @@ Kelly. "Fees must be kept as low as possible, but in order
 for that to happen funding needs to be seriously addressed.
 The Government can well afford this with a $7 billion budget
 surplus, and the spending would fit in well with its
-economic and social strategies."</p><p>Auckland, Waikato,
+economic and social strategies."</p>
+
+<p>Auckland, Waikato,
 Canterbury, Lincoln and Otago universities and the Auckland
 University of Technology are due to set their 2005 fees over
-the next two months</p><p>Ends</p><p></p><p>
-<br>
-</p><p>
+the next two months</p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p>Ends</p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+<p></p>
+
+
+
+
+
+
 <!--
 
 

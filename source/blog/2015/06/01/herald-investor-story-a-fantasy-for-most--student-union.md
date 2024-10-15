@@ -10,7 +10,7 @@ author-slug: nzusa
 
 <p><strong>Herald investor story a fantasy for most – student
 union</strong><br>01 June 2015<br>Media Release: New Zealand
-Union of Students’ Associations </p>
+Union of Students’ Associations<p>
 
 <p>Reading today’s
 <i>New Zealand Herald</i> will be a slap in the face for
@@ -48,8 +48,7 @@ about $50,000 in the red.</p>
 <p>Mr McCourt says most students
 work an average of 17 hours a week, in addition to full-time
 study. But the opportunity to work full-time, even at
-nights, was not available to everyone.
-</p>
+nights, was not available to everyone.<p>
 
 <p>“If you’re on a
 nursing, teaching or medical placement, you can’t do that
@@ -91,8 +90,6 @@ Employment’s bond database. Student work hour figures are
 taken from the NZUSA Tertiary Student Income and Expenditure
 Survey 2014.</i><i></i></p>
 
-<p>ENDS</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         
+<p>ENDS</p>
 
-</p>
+<p></p>

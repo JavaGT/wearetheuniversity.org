@@ -52,6 +52,6 @@ figures were the ones the university itself supplied and
 used to formulate its own proposal. We call for urgent
 engagement between Massey University and the TEU to take our
 proposal seriously and work together to save
-sciences.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+sciences.”</p>
+
+<p></p>

@@ -45,6 +45,8 @@ funding in the tertiary education sector," said Dr Ryan.
 performance - helping and supporting students to learn,
 rather than risk New Zealand losing good staff and potential
 new
-students."</p><p>ENDS</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+students."</p>
+
+<p>ENDS</p>
+
+<p></p>

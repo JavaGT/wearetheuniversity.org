@@ -1,15 +1,14 @@
 ---
 title: "Widespread Budget Cuts Don't Spare Education"
-slug: widespread-budget-cuts-dont-spare-education
+slug: widespre
 date: 2011-03-22
-source: https://www.scoop.co.nz/stories/PO1103/S00209/widespread-budget-cuts-dont-spare-education.htm
+source: https://www.scoop.co.nz/stories/PO1103/S00209/widespre
 source-name: Scoop
 author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
 
-<p><b>Widespread Budget Cuts Don't Spare Education</b> <b></b>
-</p>
+<p><b>Widespread Budget Cuts Don't Spare Education</b> <b></b><p>
 
 <p>The government's plan to cut everything except health and
 education is foolhardy says TEU national president Dr Sandra
@@ -44,6 +43,5 @@ investing in opportunities and strengthening our communities
 with strong public services," said Dr
 Grey.</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 

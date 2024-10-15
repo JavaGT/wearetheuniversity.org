@@ -23,11 +23,8 @@ round of climate related strikes in New Zealand this year
 and are set for the 27th September. Organisers are widening
 the focus beyond school students, welcoming and encouraging
 all groups and individuals to stand for urgent climate
-action.</i></p><p><br>ends
-</p>
+action.</i></p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         
+<p><br>ends<p>
 
-</p>
+<p></p>

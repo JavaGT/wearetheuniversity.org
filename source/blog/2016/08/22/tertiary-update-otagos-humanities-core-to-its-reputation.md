@@ -54,8 +54,7 @@ year.</p>
 
 <p>Tertiary education minister Steven Joyce opened the
 campus only five years ago calling it "a crucial part in the
-next stage of the country's economic growth".
-</p>
+next stage of the country's economic growth".<p>
 
 <p>Read more…</p>
 

@@ -7,93 +7,68 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Academic Boards and Academic Freedom</h1>
 
-           <span class="byline"><b>Monday, 13 March 2000,  8:23 am</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         <img align="left" width="65" height="65" src="http://www.aus.ac.nz/graphics/auslogo.gif" alt="AUS website" border="0"><br>Dr Donald Savage, a
+<p><img align="left" width="65" height="65" src="http://www.aus.ac.nz/graphics/auslogo.gif" alt="AUS website" border="0"><br>Dr Donald Savage, a
 Canadian higher education consultant and former adviser to
 UNESCO, has completed his inquiry into academic freedom in
 New Zealand for the Association of University Staff (AUS). 
 His report includes some strong recommendations relating to
-the role and function of academic boards.</p><p>Dr Savage
+the role and function of academic boards.</p>
+
+<p>Dr Savage
 stresses the importance of staff and community involvement
 in university governance for the protection of academic
 freedom.  “Self-governing structures such as academic boards
 play a key role in the defence of academic freedom,” says Dr
-Savage.</p><p>Dr Savage recommends that academic boards should
+Savage.</p>
+
+<p>Dr Savage recommends that academic boards should
 be consulted by Vice-Chancellors and Councils on all
 significant matters that touch on the academic enterprise,
-including restructuring of academic faculties.</p><p>AUS
+including restructuring of academic faculties.</p>
+
+<p>AUS
 National President, Neville Blampied, welcomed Dr Savage’s
 recommendations. “They support the decision of the Hamilton
 High Court in 1999 which found that restructuring proposals
 put forward by Vice-Chancellor, Bryan Gould, were not a
 management prerogative, but were the responsibility of the
 Waikato University Council after taking advice from the
-academic board.”</p><p>“AUS intends to ensure that
+academic board.”</p>
+
+<p>“AUS intends to ensure that
 academic boards are restored to their rightful place in
 collegial decision making,” said Neville Blampied, “and that
 the boards continue to be comprised of a majority of
-academic staff not in senior management positions.
-</p><div class="article-left-box-wrapper"><div class="article-left-box">
-        
-
-
-
-
-<div class="headline-right"><div id="in-cont" style="background:white;">
- <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-
-  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
-@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
-<!-- /1688062/Scoop_Super-Rectangle -->
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-</script>
-   </div>
-
-  </div> 
-</div>
-</div>
-
-</div></div>
+academic staff not in senior management positions.<p>
 <p>“In
 doing so, we will seriously consider creative ideas, such as
 Dr Savage’s recommendation that the academic board be
 chaired by an independent person (rather than the
-Vice-Chancellor as at present).</p><p>“We also agree with
+Vice-Chancellor as at present).</p>
+
+<p>“We also agree with
 Dr Savage that academic boards must also be fully involved
 in financial decisions that have an impact upon academic
-quality.</p><p>“The freedom of university staff to
+quality.</p>
+
+<p>“The freedom of university staff to
 develop, debate and publicise new and potentially
 controversial ideas is a vital contribution to the knowledge
-society,” said Neville Blampied.</p><p></p><p>Neville
-Blampied<br>National President</p><p>03 364 2199  (wk)   021 680
+society,” said Neville Blampied.</p>
+
+<p></p>
+
+<p>Neville
+Blampied<br>National President</p>
+
+<p>03 364 2199  (wk)   021 680
 475
-<br><!-- LINKS REMOVED 
- SUB:0 URL:ED0003/S00021/academic-boards-and-academic-freedom.htm -->
-</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
-  LINKS NOT REMOVED 
-  SUB:0
-  URL:ED0003/S00021/academic-boards-and-academic-freedom.htm
- -->
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
-<!-- /1688062/Scoop_Story-Footer -->
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-6'); });
-  </script>
-</div>
-</div>
+<br><p>
+
+
+
+
 <!--
 <div id="byline-block">
 <style> a.supporter:hover {background:#EC4438!important;} 
@@ -105,18 +80,9 @@ Blampied<br>National President</p><p>03 364 2199  (wk)   021 680
 <a style="color:#1e1e1e;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=SFPro23" target="_blank"><u>Find out more</u></a></p> 
 </div>
 </div> -->
-<!-- Pro Individual -->
-<div id="byline-block">
-<style> a.supporter:hover {background:#EC4438!important;} 
-@media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}</style>
-<div class="byline-block byline-block-light" style="background-color:#fff; font-size:16px; line-height:22px; font-weight:normal; border: 1px solid #f55a3f; width: -webkit-fill-available;">
-<h3 style="margin-top:0px;">Are you licensed for Scoop?</h3>
-<p> Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop without a regular paywall. Join today with plans starting from just $11 per month, and start using Scoop like a Pro.<br><br>
- <a class="supporter" href="https://pro.scoop.co.nz/Individual/?from=ProIn24" target="_blank" style="background: #f55a3f; color: #ffffff!important; border-radius: 2px; display: unset; border:none; padding: 5px 12px 6px 12px;font-weight:normal;">Join Pro Individual</a>  
-<a style="color:#1e1e1e;display: unset; border:none;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24" target="_blank"><u>Find out more</u></a></p> 
-</div>
-</div>
 
 
-<div id="byline-block"><div class="byline-block byline-block-light">Find more from <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a> on InfoPages.</div></div>
-         <div class="cleaner">&nbsp;</div>
+
+
+
+         

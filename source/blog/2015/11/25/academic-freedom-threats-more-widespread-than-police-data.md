@@ -1,8 +1,8 @@
 ---
 title: "Academic freedom threats more widespread than police data"
-slug: academic-freedom-threats-more-widespread-than-police-data
+slug: academic-freedom-threats-more-widespre
 date: 2015-11-25
-source: https://www.scoop.co.nz/stories/PO1511/S00388/academic-freedom-threats-more-widespread-than-police-data.htm
+source: https://www.scoop.co.nz/stories/PO1511/S00388/academic-freedom-threats-more-widespre
 source-name: Scoop
 author: Tertiary Education Union
 author-slug: tertiary-education-union
@@ -10,8 +10,12 @@ author-slug: tertiary-education-union
 
 <p>25 November 2015</p>
 
-<p>Tertiary Education Union</p><p>Academic
-freedom threats more widespread than police data</p><p>The
+<p>Tertiary Education Union</p>
+
+<p>Academic
+freedom threats more widespread than police data</p>
+
+<p>The
 case of the police withholding data from Dr Gilbert is a
 breach of academic freedom but not an isolated one, says TEU
 national president Dr Sandra Grey.</p>
@@ -39,7 +43,7 @@ they need to make decisions.</p>
 debate and good policy making, research results need to be
 public.  Where public interest is at stake, an academic
 needs to release work publicly - no matter who funds the
-research.” </p>
+research.”<p>
 
 <p>Grey advises researchers not to take
 contracts with strong gag clauses such as the one the police
@@ -59,9 +63,6 @@ conscience if public agencies are actively discouraging
 research that does not suit their public
 image.”</p>
 
-<p><br>ends
-</p>
+<p><br>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

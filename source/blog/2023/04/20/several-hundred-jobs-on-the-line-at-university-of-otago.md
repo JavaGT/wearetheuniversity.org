@@ -49,6 +49,6 @@ government in a tripartite forum to argue for the
 university sector our country deserves and would benefit
 greatly from. We repeat that call again today, before more
 highly valuable staff are forced to walk out the
-door.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+door.”</p>
+
+<p></p>

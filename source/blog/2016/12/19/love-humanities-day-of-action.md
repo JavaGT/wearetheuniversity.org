@@ -14,11 +14,11 @@ author-slug: tertiary-education-union
 Tertiary Education Union will hold a national day of action
 highlighting the benefits of teaching and learning
 humanities, arts, social sciences and fine arts in New
-Zealand. </p>
+Zealand.<p>
 
 <p>Centred on a day long “teach-in” at the
 University of Otago, TEU members will host a range of
-exciting activities across the country. </p>
+exciting activities across the country.<p>
 
 <p>Events will
 highlight the valuable contribution teachers, researchers,
@@ -32,13 +32,12 @@ art, poetry, music, public lectures and much more.</p>
 
 <p>A full
 list of events happening around the country will be
-announced early in the New Year. </p>
+announced early in the New Year.<p>
 
 <p>Everyone at the TEU
 wishes you a very happy holiday and looks forward to working
 with you again in 2017. Tertiary Update will return on 19
-January. </p>
+January.<p>
 
 <p>Before the summer break, this week's Tertiary
-Update recaps the year’s most read stories.
-</p>
+Update recaps the year’s most read stories.<p>

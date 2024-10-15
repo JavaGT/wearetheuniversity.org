@@ -42,7 +42,7 @@ espouse so strongly.”</p>
 <p>“The vice chancellor
 should read his own speeches more carefully.  At this time
 we need staff like this more than ever,” said TEU’s
-Massey branch president, Barry Foster.  </p>
+Massey branch president, Barry Foster.<p>
 
 <p>“New
 Zealand’s economic, environmental, and social future is
@@ -51,9 +51,6 @@ sciences. Is Massey intimidated by the proposed
 Lincoln-AgResearch merger? Have we now given up competing in
 that field?” Mr. Foster asked.</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

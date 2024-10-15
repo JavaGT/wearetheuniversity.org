@@ -18,7 +18,7 @@ keep their war out of Palestine's schools and tertiary
 education institutions. The TEU condemns yesterday’s
 deadly bombing of a Gaza school and the earlier the use of
 Gaza’s Islamic University and the Training College as
-targets for Israeli bomb attacks. </p>
+targets for Israeli bomb attacks.<p>
 
 <p>Yesterday’s attack on
 a school in Jabaliya refugee camp reportedly killed 30 and
@@ -56,9 +56,6 @@ moral control over the war if it attacks the home of higher
 learning in
 Gaza.”</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

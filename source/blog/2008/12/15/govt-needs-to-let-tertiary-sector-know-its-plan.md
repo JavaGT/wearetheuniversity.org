@@ -8,9 +8,9 @@ author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
 
-<p>Media Release </p>
+<p>Media Release<p>
 
-<p>15 December 2008 </p>
+<p>15 December 2008<p>
 
 <p>Govt needs to let
 tertiary education sector know its plan</p>
@@ -49,9 +49,6 @@ answered is does this government see a role for TEC at all,
 and, if not, what is its alternative.”</p>
 
 <p>ENDS
-<br>
-</p>
+<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

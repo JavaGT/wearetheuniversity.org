@@ -55,6 +55,6 @@ academic and financial of the changes they are proposing",
 Mr Gilchrist
 concluded.</p>
 
-<p>ENDS</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ENDS</p>
+
+<p></p>

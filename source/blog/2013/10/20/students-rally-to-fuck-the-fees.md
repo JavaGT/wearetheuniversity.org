@@ -9,28 +9,30 @@ source-name: Scoop
 author: Reclaim UOA
 author-slug: reclaim-uoa
 ---
-<div class="story-top">
-           <h1>Students Rally to F**k the Fees!</h1>
 
-           <span class="byline"><b>Sunday, 20 October 2013,  2:51 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Reclaim_UOA">Reclaim UOA</a></b></span>
+<p><strong>Students Rally to F**k the Fees!</strong></p>
 
-         </div>
+<p>PRESS
+RELEASE: Reclaim UoA</p>
 
-	 <p>
-         <strong>Students Rally to F**k the Fees!</strong></p><p>PRESS
-RELEASE: Reclaim UoA</p><p>20 October 2013</p><p>At 3pm on Monday
+<p>20 October 2013</p>
+
+<p>At 3pm on Monday
 the 21st of October, University of Auckland students will
 rally to oppose a 4% tuition fee rise. Students are
 frustrated by the University’s year after year lack of
 consideration of student welfare by increasing fees
-regardless of economic conditions.</p><p>Student debt in New
+regardless of economic conditions.</p>
+
+<p>Student debt in New
 Zealand has surpassed $13 billion and will continue to rise
 because of underfunding by successive governments in
 Wellington. NZ currently spends 23% less per student than
 the OECD average. Students strongly oppose the need to look
 for corporate funding because of this funding shortfall as
-this compromises academic integrity. </p><p>Reclaim UoA
+this compromises academic integrity.<p>
+
+<p>Reclaim UoA
 spokesperson Mikaela Hunt says, ‘Students are suffering
 under the weight of their debt. Currently, students and
 graduates are forced to repay their student loan at a level
@@ -39,27 +41,26 @@ harshest repayment rate in the world, with twelve cents from
 every dollar taken from every pay cheque. This is grossly
 unfair, as the current tertiary education minister, and
 almost all other members of parliament, benefited from a
-fully funded tertiary education system.’</p><p>The University
+fully funded tertiary education system.’</p>
+
+<p>The University
 of Auckland’s decision to further indebt students is
 unforgivable and completely avoidable. The Vice-Chancellor,
 Stuart McCutcheon, is currently NZ’s highest paid public
 official, earning $660,000 per year and has spent billions
-on questionable capital investments in his tenure.</p><p>Reclaim
+on questionable capital investments in his tenure.</p>
+
+<p>Reclaim
 UoA encourages all members of the public who believe in the
 societal benefit of tertiary education to join us in
 protest. Together, we can reclaim the
-university.</p><p>ENDS
-</p>
+university.</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p>ENDS<p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
 <!--
 
 

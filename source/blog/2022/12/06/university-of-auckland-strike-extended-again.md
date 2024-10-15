@@ -24,6 +24,6 @@ gathered over 800 signatures.</p>
 comments on the strike from TEU Kaiwhakahaere | Organiser
 Nicole Wallace can
 be found
-here.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+here.</p>
+
+<p></p>

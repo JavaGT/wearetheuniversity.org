@@ -18,7 +18,7 @@ staff and students from university councils
 <p>Parliament voted last night to remove the legal
 right of staff and students to have democratically elected
 representatives on their governing university and wānanga
-councils.  </p>
+councils.<p>
 
 <p>Government MPs passed the Education Amendment
 Bill, which has been opposed by an overwhelming number of
@@ -46,6 +46,6 @@ know that despite the government's efforts to put councils
 in the hands of ministerial appointees and business
 executives, universities and wānanga still want their staff
 and students to have a voice on their
-councils.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+councils.”</p>
+
+<p></p>

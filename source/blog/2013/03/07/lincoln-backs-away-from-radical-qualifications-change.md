@@ -43,7 +43,7 @@ disciplines is one employers particularly value.”</p>
 is disappointing that the university will not have
 substantial specialist IT in the majority of its degrees. 
 Given the minister’s stated priority for science and IT
-this is a surprise.”  </p>
+this is a surprise.”<p>
 
 <p>Lesley Francey says the
 university’s change of position indicates the power of
@@ -57,9 +57,6 @@ can feel proud to see their comments from that submission
 reflected throughout Lincoln’s feedback
 document.”</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

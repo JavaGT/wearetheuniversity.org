@@ -1,8 +1,8 @@
 ---
 title: "TEU Delegation Will Head To Parliament"
-slug: teu-delegation-will-head-to-parliament
+slug: teu-delegation-will-he
 date: 2022-11-07
-source: https://www.scoop.co.nz/stories/ED2211/S00018/teu-delegation-will-head-to-parliament.htm
+source: https://www.scoop.co.nz/stories/ED2211/S00018/teu-delegation-will-he
 source-name: Scoop
 author: Tertiary Education Union
 author-slug: tertiary-education-union
@@ -59,6 +59,4 @@ not entering grades. The rally begins at 11:50am on
 Parliament’s
 lawn.</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

@@ -48,9 +48,6 @@ faculties of education. He does not deserve credibility from
 our public education system, which he has not yet
 earned.”</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

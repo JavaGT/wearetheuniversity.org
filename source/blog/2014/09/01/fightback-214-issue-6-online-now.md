@@ -7,16 +7,8 @@ source-name: Scoop
 author: Fightback
 author-slug: fightback
 ---
-<div class="story-top">
-           <h1>Fightback 2014 issue #6 online now</h1>
 
-           <span class="byline"><b>Monday,  1 September 2014,  9:23 am</b><br>
-             <b>Article: <a href="https://info.scoop.co.nz/Fightback">Fightback</a></b></span>
-
-         </div>
-
-	 <p>
-         <strong></strong></p><center><h3><strong>Fightback 2014 issue #6 online
+<p><strong></strong></p><center><h3><strong>Fightback 2014 issue #6 online
 now</strong><br></h3> by <a href="http://fightback.org.nz/author/hugefan/" target="_blank">Fightback Admin</a><br>1 September 2014
 </center><a href="http://fightback.org.nz/2014/08/29/fightback-2014-issue-6-online-now/" target="_blank"></a><p>This special, expanded election
 edition of <i>Fightback</i> magazine comes at what seems to
@@ -26,7 +18,9 @@ corrupt relations between National Party cabinet ministers
 and the tabloid attack blog “Whale Oil”, are still
 reverberating. Labour and the left opposition parties want
 answers; John Key is stonewalling, and even the conservative
-press seem to realise something has gone wrong.</p><p>Daphne
+press seem to realise something has gone wrong.</p>
+
+<p>Daphne
 Lawless' contribution discusses this in terms of
 “anti-politics from above” in New Zealand – a
 neoliberal-inspired political strategy to use smear and
@@ -40,8 +34,7 @@ cheerful frontman, who plays at being an “ordinary
 bloke” who just happened to make $50 million in currency
 speculation. Meanwhile, big corporates dictate policy, and
 cronies and friends like Cameron Slater and Jason Ede play
-the politics of personal destruction.
-</p>
+the politics of personal destruction.<p>
 <p>Will Hager's
 revelation of the naked face of attack politics behind
 National's carefully bland façade damage their prospects
@@ -58,7 +51,9 @@ Party, this can only be because the Greens themselves have
 moved inside the “big tent” of accepting neoliberal
 corporate politics – the left wing of the establishment,
 the party of comfortable but socially conscious small
-business and successful professionals.</p><p>So under what
+business and successful professionals.</p>
+
+<p>So under what
 circumstances can a socialist organisation like Fightback
 – pushing for a fundamental transformation of relations of
 work, production and power throughout society – support an
@@ -71,7 +66,9 @@ able to keep working because it is a democratic party –
 when the leadership is wrong, it is willing to listen to
 activists; and because no real change in Aotearoa-New
 Zealand is possible without the most intimate involvement of
-the tangata whenua.</p><p>But to some degree MANA represents
+the tangata whenua.</p>
+
+<p>But to some degree MANA represents
 “traditional” constituencies for the radical left. The
 Internet Party, in contrast, aims at the young and the
 wired. Although funded by Kim Dotcom, the party is led by
@@ -83,7 +80,9 @@ socialist programme, these young people – according to
 Pierard – have a strong belief in civil liberties, social
 equality, freedom of information and an antipathy to
 corporate power. Traditional politics has had nothing to say
-to them until now.</p><p>It is precisely the Internet Party and
+to them until now.</p>
+
+<p>It is precisely the Internet Party and
 MANA Movement's constituencies which the strategy of Whale
 Oil and his co-thinkers want to keep out of politics
 altogether. They want electoral choice restricted to, at the
@@ -94,17 +93,14 @@ showing five MPs to be elected from this alliance, this is
 the best chance since the 1990s for those excluded from the
 “rock-star” neoliberal economy to vote for an
 alternative. Fightback encourages all readers to take that
-chance.</p><p><a href="https://workerspartynz.files.wordpress.com/2014/08/fightback-2014-issue-6.pdf" target="_blank">Fightback 2014 Issue
-#6</a>
-</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+chance.</p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+<p><a href="https://workerspartynz.files.wordpress.com/2014/08/fightback-2014-issue-6.pdf" target="_blank">Fightback 2014 Issue
+#6</a><p>
+
+
+
+
 <!--
 
 

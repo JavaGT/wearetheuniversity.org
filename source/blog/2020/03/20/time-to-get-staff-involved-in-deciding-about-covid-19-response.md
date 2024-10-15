@@ -45,8 +45,7 @@ barring any specific outbreaks. We don’t believe that
 either institutions or staff unions should be
 second-guessing this expert guidance – especially given
 that it is informed by advice from many of our
-members.’
-</p>
+members.’<p>
 
 <p>Gilchrist notes the announcement today by
 Victoria University calling for institutions to be guided by

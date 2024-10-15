@@ -7,16 +7,8 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Green light for national bargaining in varsities</h1>
 
-           <span class="byline"><b>Friday, 11 July 2003, 11:35 am</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         <img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"> Green light for national
+<p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"> Green light for national
 salary bargaining in universities<br>University staff have
 voted overwhelmingly to support the negotiation of national
 collective employment agreements in the 2003 bargaining
@@ -25,40 +17,45 @@ basis, endorsed a recommendation by the Association of
 University Staff (AUS) to move from enterprise based
 bargaining at each university campus to the negotiation of
 one national collective agreement for academic staff and one
-national collective agreement for general staff. </p><p>1216
+national collective agreement for general staff.<p>
+
+<p>1216
 (86.8%) of the 1402 academic staff who participated in the
 ballot voted in support of the proposal, and 1165 (85.5%) of
 the 1362 general staff who participated also voted to
-support national bargaining. </p><p>It means that bargaining
+support national bargaining.<p>
+
+<p>It means that bargaining
 with the universities will be initiated by mid-August and it
 is anticipated that negotiations will commence shortly after
-then.</p><p>AUS National President, Dr Bill Rosenberg, said he
+then.</p>
+
+<p>AUS National President, Dr Bill Rosenberg, said he
 was delighted at the result. “The high number of those
 voting and the high level of support for the proposal give
 AUS a very clear mandate to enter national bargaining with
 university employers, and we look forward to engaging in
-constructive dialogue with them. </p><p>“It also shows that
+constructive dialogue with them.<p>
+
+<p>“It also shows that
 university staff appreciate the very clear link between
 funding and salary levels, and support the view that the
 government has a responsibility to significantly increase
-funding into the sector.”</p><p>Dr Rosenberg said he expected
+funding into the sector.”</p>
+
+<p>Dr Rosenberg said he expected
 university employers to respect the strong wish of staff to
-bargain on a national basis.</p><p>For further information
+bargain on a national basis.</p>
+
+<p>For further information
 please contact<br>Dr Bill Rosenberg, <br>National President,
 AUS						<br>Phone 	(03) 364 2801 (work)				<br>(03) 332
 8525 (home)	 					<br>Email
-	bill.rosenberg@canterbury.ac.nz<br>
-</p>
+	bill.rosenberg@canterbury.ac.nz<br><p>
 
-<p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
 <!--
 
 

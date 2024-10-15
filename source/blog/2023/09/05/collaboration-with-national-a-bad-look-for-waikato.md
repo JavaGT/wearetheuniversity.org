@@ -1,8 +1,8 @@
 ---
 title: "Collaboration With National A Bad Look For Waikato"
-slug: collaboration-with-national-a-bad-look-for-waikato
+slug: collaboration-with-national-a-b
 date: 2023-09-05
-source: https://www.scoop.co.nz/stories/ED2309/S00008/collaboration-with-national-a-bad-look-for-waikato.htm
+source: https://www.scoop.co.nz/stories/ED2309/S00008/collaboration-with-national-a-b
 source-name: Scoop
 author: Tertiary Education Union
 author-slug: tertiary-education-union
@@ -72,6 +72,4 @@ that is required by law to be the critic and conscience of
 society; and centred on evidence-based teaching and
 research.”</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

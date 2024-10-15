@@ -7,28 +7,30 @@ source-name: Scoop
 author: Auckland University Students Association
 author-slug: auckland-university-students-association
 ---
-<div class="story-top">
-           <h1>Student protest against library closures</h1>
 
-           <span class="byline"><b>Friday, 27 April 2018,  6:50 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a></b></span>
+<p>Student protest against library closures calling on the
+Government to better fund the Arts</p>
 
-         </div>
-
-	 <p>
-         Student protest against library closures calling on the
-Government to better fund the Arts</p><p>Almost 1000 students
+<p>Almost 1000 students
 plan to attend the Rally against the closure of five
-libraries at the University of Auckland. </p><p>The students
+libraries at the University of Auckland.<p>
+
+<p>The students
 will be delivering a petition to the Vice Chancellor, which
 already has 4000 signatures on Monday at 12pm outside the
-General Library. </p><p>“Students’ response to this proposal
+General Library.<p>
+
+<p>“Students’ response to this proposal
 shows how angry and concerned we are” says Education
-Vice-President, Jessica Palairet.</p><p>“Libraries are at the
+Vice-President, Jessica Palairet.</p>
+
+<p>“Libraries are at the
 heart of our University. They provide spaces for students to
 study, specialists to help with research and essay writing,
 and access to some of the best collections in the Southern
-Hemisphere”. </p><p>“We shouldn’t have to protest about
+Hemisphere”.<p>
+
+<p>“We shouldn’t have to protest about
 the University taking away fundamental resources. But the
 fact they are doing it without proper student consultation
 makes it even more important that we do”, says Palairet.
@@ -36,64 +38,37 @@ makes it even more important that we do”, says Palairet.
 we can’t submit on the proposal. This isn’t good enough.
 The lack of any formal student consultation is locking out
 the voices of those who will be most affected by these
-proposed changes - students!”</p><p>“The Proposal to shut
+proposed changes - students!”</p>
+
+<p>“The Proposal to shut
 down libraries represents a wider problem with the way
 Universities are funded. A free first year doesn’t matter
 if Universities aren’t funded enough to provide students
-with quality library resources.”</p><p>“Further, we want the
+with quality library resources.”</p>
+
+<p>“Further, we want the
 Government to stop prioritising Stem subjects at the expense
 of the Arts. While the University builds new science
 buildings and extravagant new gyms, the Arts and our
 libraries are being consistently underfunded”, says
-Palairet. 
-</p><div class="article-left-box-wrapper"><div class="article-left-box">
-        
-
-
-
-
-<div class="headline-right"><div id="in-cont" style="background:white;">
- <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-
-  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
-@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
-<!-- /1688062/Scoop_Super-Rectangle -->
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-</script>
-   </div>
-
-  </div> 
-</div>
-</div>
-
-</div></div>
+Palairet.<p>
 <p>“We’re calling on the Government to
 respond. They need to put their money where their mouth is,
 and better fund Universities and the Arts. The current
 ‘bums on seats’ and research-orientated model isn’t
-working.”</p><p>“Cutting costs shouldn’t come at the
-expense of our education”.</p><p>The rally against the library
+working.”</p>
+
+<p>“Cutting costs shouldn’t come at the
+expense of our education”.</p>
+
+<p>The rally against the library
 closures will be held at 12pm outside the General Library on
 Alfred Street. We welcome any media enquiries.
-<br><!-- LINKS REMOVED 
- SUB:0 URL:ED1804/S00063/student-protest-against-library-closures.htm -->
-</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
-  LINKS NOT REMOVED 
-  SUB:0
-  URL:ED1804/S00063/student-protest-against-library-closures.htm
- -->
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
-<!-- /1688062/Scoop_Story-Footer -->
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-6'); });
-  </script>
-</div>
-</div>
+<br><p>
+
+
+
+
 <!--
 <div id="byline-block">
 <style> a.supporter:hover {background:#EC4438!important;} 
@@ -105,18 +80,9 @@ Alfred Street. We welcome any media enquiries.
 <a style="color:#1e1e1e;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=SFPro23" target="_blank"><u>Find out more</u></a></p> 
 </div>
 </div> -->
-<!-- Pro Individual -->
-<div id="byline-block">
-<style> a.supporter:hover {background:#EC4438!important;} 
-@media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}</style>
-<div class="byline-block byline-block-light" style="background-color:#fff; font-size:16px; line-height:22px; font-weight:normal; border: 1px solid #f55a3f; width: -webkit-fill-available;">
-<h3 style="margin-top:0px;">Are you licensed for Scoop?</h3>
-<p> Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop without a regular paywall. Join today with plans starting from just $11 per month, and start using Scoop like a Pro.<br><br>
- <a class="supporter" href="https://pro.scoop.co.nz/Individual/?from=ProIn24" target="_blank" style="background: #f55a3f; color: #ffffff!important; border-radius: 2px; display: unset; border:none; padding: 5px 12px 6px 12px;font-weight:normal;">Join Pro Individual</a>  
-<a style="color:#1e1e1e;display: unset; border:none;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24" target="_blank"><u>Find out more</u></a></p> 
-</div>
-</div>
 
 
-<div id="byline-block"><div class="byline-block byline-block-light">Find more from <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a> on InfoPages.</div></div>
-         <div class="cleaner">&nbsp;</div>
+
+
+
+         

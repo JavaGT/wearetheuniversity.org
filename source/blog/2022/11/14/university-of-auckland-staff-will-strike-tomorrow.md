@@ -44,6 +44,6 @@ University of Auckland Clock Tower on Princes Street at noon
 today.</p>
 
 <p>The strike notice ends at 7pm on Friday 18
-November.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+November.</p>
+
+<p></p>

@@ -7,19 +7,13 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>AUS Tertiary Update Special Budget edition</h1>
 
-           <span class="byline"><b>Friday, 24 May 2002,  9:46 am</b><br>
-             <b>Opinion: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         <br><a href="http://www.aus.ac.nz "><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">AUS Tertiary Update<br>Special Budget 2002
+<p><br><a href="http://www.aus.ac.nz "><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">AUS Tertiary Update<br>Special Budget 2002
 edition				24 May
 2002<br>************************************************************<br>Welcome
-to this special Budget edition of AUS Tertiary Update</a></p><p><a href="http://www.aus.ac.nz ">KEY
+to this special Budget edition of AUS Tertiary Update</a></p>
+
+<p><a href="http://www.aus.ac.nz ">KEY
 BUDGET POINTS FOR UNIVERSITIES<br>The main points of
 interest for the university sector in this year's Budget
 include:<br>„h A 4.5% increase in the level of government
@@ -58,7 +52,7 @@ in funding capital investment in the public sector.
   <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
 @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
 
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
+   <div id="div-gpt-" style="padding: 0 20px 0 0; text-align: center;">
 <script>
 
 </script>
@@ -70,7 +64,9 @@ in funding capital investment in the public sector.
 
 </a></div></div><a href="http://www.aus.ac.nz ">
 <p>Comment on the Budget from the university
-sector</p><p>UNIVERSITY STAFF SEE POSITIVE DEVELOPMENTS <br>The
+sector</p>
+
+<p>UNIVERSITY STAFF SEE POSITIVE DEVELOPMENTS <br>The
 Association of University Staff (AUS) says the new funding
 formula to be introduced from 2004 is a profound change and
 hopes it will mark a turning point for tertiary education in
@@ -117,7 +113,9 @@ academics who are in the early stages of their career and
 who may find it difficult to initiate research projects
 while managing high teaching workloads. Women academics have
 also been disadvantaged by similar schemes in other
-countries.</p><p>SECTOR STILL NEEDS MORE MONEY<br>On funding
+countries.</p>
+
+<p>SECTOR STILL NEEDS MORE MONEY<br>On funding
 levels, AUS says the 4.5% increase in the government subsidy
 per student announced yesterday is a small improvement, but
 not enough.  There is still a long way to go to even return
@@ -138,7 +136,9 @@ increases of 12% in the government¡¦s tuition subsidy over
 three years to make any real progress in rebuilding
 institutional capacity and bringing investment in the
 universities and their staff up to internationally
-comparable levels.</p><p>BRIGHTER OUTLOOK FOR SALARIES
+comparable levels.</p>
+
+<p>BRIGHTER OUTLOOK FOR SALARIES
 POST-BUDGET<br>Even though the level of funding is not
 enough to replenish university coffers after more than a
 decade of underfunding, AUS believes the 4.5% increase
@@ -167,21 +167,18 @@ all, salaries are the biggest budget item for universities."
 AUS supports the idea of a national collective agreement and
 a more centralised bargaining process for university
 salaries, but to date the government has refused to discuss
-the idea.
-</p><p>***************************************************************************<br>AUS
+the idea.<p>
+
+<p>***************************************************************************<br>AUS
 Tertiary Update is produced weekly on Thursdays and
 distributed freely to members of the union and others. Back
 issues are archived on the AUS website:
 <http: www.aus.ac.nz.="" direct="" enquiries="" to="" rob="" crozier,="" aus="" general="" secretary.="" email:="" rob.crozier@aus.ac.nz.="" <br="">
 </http:></p></a><p><a href="http://www.aus.ac.nz ">
 </a>
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+         <br><p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
 <!--
 
 

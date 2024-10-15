@@ -16,7 +16,7 @@ author-slug: tertiary-education-union
 2011</p>
 
 <p><b>'Business as Usual' Not Realistic for Canterbury
-Academics</b> <b></b> </p>
+Academics</b> <b></b><p>
 
 <p>The Tertiary Education Commission
 has told academics today at the University of Canterbury,
@@ -27,7 +27,7 @@ commission uses to allocate research money to tertiary
 institutions. It is worth tens of millions of dollars to
 individual institutions and requires academics to submit
 portfolios of their research upon which their institution is
-ranked, and then funded. </p>
+ranked, and then funded.<p>
 
 <p>TEU has argued since the
 Canterbury earthquake in September that academics based in
@@ -54,6 +54,5 @@ the last eight months and have them submit quality
 evaluations as per
 normal."</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 

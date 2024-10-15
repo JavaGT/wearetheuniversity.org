@@ -7,16 +7,10 @@ source-name: Scoop
 author: Auckland University Students Association
 author-slug: auckland-university-students-association
 ---
-<div class="story-top">
-           <h1>International Students “Cash Cows”</h1>
 
-           <span class="byline"><b>Wednesday, 23 August 2006, 11:14 am</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a></b></span>
+<p>International Students “Cash Cows”</p>
 
-         </div>
-
-	 <p>
-         International Students “Cash Cows”</p><p>The University of
+<p>The University of
 Auckland Council voted this week to increase international
 student fees for 2007 by 5%, with the exception of
 international students doing medicine who will have to pay
@@ -25,13 +19,16 @@ University Students’ Association (AUSA) President Dan
 Bidois said that “we’re unhappy with the outcome given
 the current environment where international students are
 already burdened with huge financial costs as it
-is.”</p><p>International students pay an average of $20,000 in
+is.”</p>
+
+<p>International students pay an average of $20,000 in
 tuition fees to study at The University of Auckland.  On top
 of that international students face living expenses, medical
 and health insurance costs, a student services levy,
 building levy, internet charges and additional course
-related costs such as text books and stationary. 
-</p><p>“There’s a common misconception that international
+related costs such as text books and stationary.<p>
+
+<p>“There’s a common misconception that international
 students are rich and have money to burn”, said AUSA
 Education Vice President Xavier Goldie.  “It is clear to
 us that they are not particularly wealthy, with their
@@ -39,7 +36,9 @@ families either saving for years or taking out loans to pay
 for their children’s education.  Many international
 students take up extra part-time work just to cover their
 tuition fees and end up living on 2 minute noodles for
-dinner”, Mr Goldie added.</p><p>Mr Bidois added that he
+dinner”, Mr Goldie added.</p>
+
+<p>Mr Bidois added that he
 wasn’t surprised with Councils decision to increase fees
 even more for international students.  “There’s a common
 feeling among international students that they get treated
@@ -49,23 +48,20 @@ university’s finances.  Given that international
 enrolments at The University of Auckland were down by almost
 18% this year, it seemed almost a given that the university
 would use this argument to simply raise fees even more”,
-Mr Bidois Added. </p><p>Mr Goldie added that AUSA was concerned
+Mr Bidois Added.<p>
+
+<p>Mr Goldie added that AUSA was concerned
 that the increased fees would deter more students than it
 would bring in.  “Eventually The University of Auckland
 may be looking at a situation where the ‘cash cow’
 leaves for greener
-pastures.”</p><p>ENDS
-</p>
+pastures.”</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p>ENDS<p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
 <!--
 
 

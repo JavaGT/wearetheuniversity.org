@@ -42,8 +42,7 @@ tertiary education sector. The Minister should be
 congratulated for recognising the challenges facing our
 public institutions and for stepping up to support them
 whilst we work together to solve the mess left by the last
-National Government.
-</p>
+National Government.<p>
 
 <p>“We have been saying for years that
 the funding system is broken and we are pleased that the
@@ -71,6 +70,5 @@ institutions that National has made reliant on fees from
 international students, the TEU
 said.</p>
 
-<p>--ENDS--
-</p>
+<p>--ENDS--<p>
 

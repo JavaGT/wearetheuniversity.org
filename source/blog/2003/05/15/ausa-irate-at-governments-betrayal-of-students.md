@@ -7,20 +7,15 @@ source-name: Scoop
 author: Auckland University Students Association
 author-slug: auckland-university-students-association
 ---
-<div class="story-top">
-           <h1>AUSA irate at Government’s betrayal of students</h1>
 
-           <span class="byline"><b>Thursday, 15 May 2003,  4:19 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a></b></span>
+<p><br>AUSA irate at Government’s betrayal of students</p>
 
-         </div>
-
-	 <p>
-         <br>AUSA irate at Government’s betrayal of students</p><p>  The
+<p>The
 Auckland University Students Association today expressed its
 surprise and disgust at the scale of fee increases heralded
-by the introduction of fees maxima in today’s budget.
-</p><p>Having reviewed the fees that students will be charged in
+by the introduction of fees maxima in today’s budget.<p>
+
+<p>Having reviewed the fees that students will be charged in
 each of the University’s departments next year, and
 contrasting them to previous figures, AUSA Education Vice
 President Kate Sutton admitted that this year’s budget “may
@@ -28,29 +23,26 @@ well rival some of the excesses of National Party in its
 heyday.” Budget announcements point to increases in nearly
 all of the courses at the University of Auckland, with some
 of the University’s most popular courses expected to rise by
-more than a quarter.</p><p>“It is so rich that at the same time
+more than a quarter.</p>
+
+<p>“It is so rich that at the same time
 as Government and Business are desperately encouraging
 students to embrace technology subjects such Science and
 Engineering, the Government turns around and hammers
 students in these areas with massive cost increases” Ms
-Sutton continued angrily.</p><p>While students at the University
+Sutton continued angrily.</p>
+
+<p>While students at the University
 of Auckland will be hard hit by this initiative, Ms Sutton
 also expressed concern and outrage for the impact this is
 likely to have on students in the nations other tertiary
 providers, whose fees have mostly been traditionally lower
 than in Auckland, and who will be hit even harder.    
-<br>
-</p>
+<br><p>
 
-<p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
 <!--
 
 

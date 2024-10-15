@@ -8,7 +8,7 @@ author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
 
-<p> Media Release</p>
+<p>Media Release</p>
 
 <p>Tertiary Education Union</p>
 
@@ -45,6 +45,5 @@ polytechnics with less money to spend on their core jobs of
 education and research."</p>
 
 <p>ends
-<br>
-</p>
+<br><p>
 

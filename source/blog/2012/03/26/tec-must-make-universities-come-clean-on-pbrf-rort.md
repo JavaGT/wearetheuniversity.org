@@ -22,8 +22,7 @@ national president Dr Sandra Grey. Universities are gaming
 the performance-based approach to research funding (PBRF),
 which funds tertiary education institutions based on
 individual staff research performance, research degree
-completions and the level of external income received. 
-</p>
+completions and the level of external income received.<p>
 
 <p>Victoria University's Dr Martin Lally has claimed that
 the university has varied or sought to vary the employment
@@ -66,6 +65,6 @@ investigation to ensure no universities are rorting public
 funding in this
 way."</p>
 
-<p>ENDS</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ENDS</p>
+
+<p></p>

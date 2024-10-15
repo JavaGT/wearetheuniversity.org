@@ -36,6 +36,6 @@ better resourcing.</p>
 Vice-Chancellor Jan Thomas needs to front up and listen to
 staff, stop cutting jobs, and instead work to fully resource
 and support the essential work of these invaluable
-staff.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+staff.”</p>
+
+<p></p>

@@ -7,16 +7,8 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>AUS Tertiary Update</h1>
 
-           <span class="byline"><b>Thursday, 27 November 2008,  9:44 am</b><br>
-             <b>Column: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         Right diagnosis, wrong cure<br>The New Zealand
+<p>Right diagnosis, wrong cure<br>The New Zealand
 Vice-Chancellors’ Committee (NZVCC), representing the
 country’s eight universities, has released overnight a
 “nine-point plan” for government policy in the sector.
@@ -72,30 +64,7 @@ concluded.<br>Education minister Anne Tolley is reported in
 the Dominion Post as rejecting the vice-chancellors’
 attempt “to seize control of student fees” and has
 reaffirmed the government’s election-campaign commitment
-to the fee-maxima policy.
-</p><div class="article-left-box-wrapper"><div class="article-left-box">
-        
-
-
-
-
-<div class="headline-right"><div id="in-cont" style="background:white;">
- <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-
-  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
-@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
-<!-- /1688062/Scoop_Super-Rectangle -->
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-</script>
-   </div>
-
-  </div> 
-</div>
-</div>
-
-</div></div>
+to the fee-maxima policy.<p>
 <p>Also in Tertiary Update this
 week<br>1.	Union salary rights supported by ERA<br>2.	New
 union signed and sealed<br>3.	More evidence of PBRF
@@ -104,7 +73,9 @@ hard-drinking<br>5.	New ranking scheme for
 Europe<br>6.	Challenges remain for scholars in
 Iraq<br>7.	Give us the service we pay for, say
 students<br>8.	Will electric professors dream of virtual
-tenure?<br>9.	Neither pelf nor privilege ...</p><p>Union salary
+tenure?<br>9.	Neither pelf nor privilege ...</p>
+
+<p>Union salary
 rights supported by ERA<br>A challenge by Victoria
 University professor of economics and finance, Roger Bowden,
 against the university’s decision to award him a lower
@@ -146,7 +117,9 @@ research programmes or collaborate with his colleagues
 because he was seldom on campus. He believed that Professor
 Bowden was no longer developing new programmes and noted
 that he supervised only one PhD student and had a relatively
-light workload compared with other professors.</p><p>New union
+light workload compared with other professors.</p>
+
+<p>New union
 signed and sealed<br>In the culmination of a protracted
 series of individual steps, the formation of the new
 Tertiary Education Union was finally and irrevocably
@@ -180,7 +153,9 @@ University of Auckland, Vicki-Lee Tyacke from UCOL,
 Palmerston North, and Joneen Walker from the College of
 Education, University of Otago. The women’s vice-president
 and hui-ā-motu representative will be elected in the new
-year.</p><p>More evidence of PBRF
+year.</p>
+
+<p>More evidence of PBRF
 “game-playing”<br>Reservations about aspects of the
 operation of the Performance-Based Research Fund expressed
 by Dr Jonathan Adams in his recent independent strategic
@@ -218,7 +193,9 @@ added. “The Tertiary Education Commission’s inability to
 control such manipulation means that the PBRF is rapidly
 becoming a source of employment-relations problems, and the
 new TEU will be forced to respond aggressively to
-this.”.</p><p>Survey finds students hard-drinking<br>A recent
+this.”.</p>
+
+<p>Survey finds students hard-drinking<br>A recent
 survey of the drinking habits of New Zealand university
 students appears to provide some statistical support for the
 popular image of a hard- and heavy-drinking lifestyle. The
@@ -247,7 +224,9 @@ to say that all students are like this. We certainly accept
 that there’s an element of heavy drinking within the
 student body, but also within the wider society as well, and
 I think it’s an issue that society at large needs to
-acknowledge,” he said.</p><p>World Watch<br>New ranking scheme
+acknowledge,” he said.</p>
+
+<p>World Watch<br>New ranking scheme
 for Europe<br>The European Union is planning to launch its
 own international higher-education rankings, with emphasis
 on helping students make informed choices about where to
@@ -281,7 +260,9 @@ languages, subject areas, profiles, student services,
 research, and teaching quality. CHE is among the projects
 which are giving an important contribution towards this
 objective.”<br>From Jane Marshall in University World
-News</p><p>Challenges remain for scholars in Iraq<br>Two of
+News</p>
+
+<p>Challenges remain for scholars in Iraq<br>Two of
 three scholars invited from Iraq to share analysis of
 academic conditions there could not get visas to attend this
 week’s meeting of the Middle East Studies Association held
@@ -313,7 +294,9 @@ hostility”. Even the wider academic curriculum cannot
 offer a diversity of interests or values to students, he
 said, noting that degrees are “cookie cutter” by design
 and leave no room for electives.<br>From Inside Higher
-Ed</p><p>Give us the service we pay for, say students<br>The
+Ed</p>
+
+<p>Give us the service we pay for, say students<br>The
 traditional undergraduate experience of huddling for warmth
 around a one-bar heater and eating baked beans from the tin
 is apparently being threatened by a new breed of student.
@@ -348,7 +331,9 @@ library with all the books they need, when they need them,
 especially when they’re paying substantially for it.
 It’s part of an increasing cultural awareness of
 service,” Professor Lang concluded.<br>From Nicola
-Woodcock and Jack Malvern in The Times</p><p>Will electric
+Woodcock and Jack Malvern in The Times</p>
+
+<p>Will electric
 professors dream of virtual tenure?<br>Last month at the
 NASA-Ames Research Center, a group of top scientists and
 business leaders gathered to plan a new university devoted
@@ -382,7 +367,9 @@ Intelligence, a private organisation promoting Dr
 Kurzweil’s ideas. Computers will become better at teaching
 than most human professors are once artificial intelligence
 exceeds the abilities of people, he argues.<br>From Jeffrey
-R Young in the Chronicle of Higher Education</p><p>Neither pelf
+R Young in the Chronicle of Higher Education</p>
+
+<p>Neither pelf
 nor privilege ...<br>Academics may typically be motivated
 more by love of learning than money, but few are known to
 have negotiated their salary downwards. However, the actions
@@ -418,31 +405,25 @@ can’t do that, I'm a republican.’ And when his then
 vice-chancellor asked him to reconsider for the sake of the
 university, he said, ‘No, no, my friends wouldn’t speak
 to me!’”<br>From John Gill in Times Higher
-Education</p><p>More international news<br>More international
+Education</p>
+
+<p>More international news<br>More international
 news can be found on University World
-News:<br>http://www.universityworldnews.com</p><p>AUS Tertiary
+News:<br>http://www.universityworldnews.com</p>
+
+<p>AUS Tertiary
 Update is published weekly on Thursdays and distributed
 freely to members of the Association of University Staff and
 others. Back issues are available on the AUS website:
 www.aus.ac.nz. Direct inquiries should be made to the
 editor, email:
-editor@aus.ac.nz</p><p><!-- LINKS REMOVED 
- SUB:0 URL:ED0811/S00075/aus-tertiary-update.htm -->
-</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
-  LINKS NOT REMOVED 
-  SUB:0
-  URL:ED0811/S00075/aus-tertiary-update.htm
- -->
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
-<!-- /1688062/Scoop_Story-Footer -->
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-6'); });
-  </script>
-</div>
-</div>
+editor@aus.ac.nz</p>
+
+<p></p>
+
+
+
+
 <!--
 <div id="byline-block">
 <style> a.supporter:hover {background:#EC4438!important;} 
@@ -454,18 +435,9 @@ editor@aus.ac.nz</p><p><!-- LINKS REMOVED
 <a style="color:#1e1e1e;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=SFPro23" target="_blank"><u>Find out more</u></a></p> 
 </div>
 </div> -->
-<!-- Pro Individual -->
-<div id="byline-block">
-<style> a.supporter:hover {background:#EC4438!important;} 
-@media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}</style>
-<div class="byline-block byline-block-light" style="background-color:#fff; font-size:16px; line-height:22px; font-weight:normal; border: 1px solid #f55a3f; width: -webkit-fill-available;">
-<h3 style="margin-top:0px;">Are you licensed for Scoop?</h3>
-<p> Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop without a regular paywall. Join today with plans starting from just $11 per month, and start using Scoop like a Pro.<br><br>
- <a class="supporter" href="https://pro.scoop.co.nz/Individual/?from=ProIn24" target="_blank" style="background: #f55a3f; color: #ffffff!important; border-radius: 2px; display: unset; border:none; padding: 5px 12px 6px 12px;font-weight:normal;">Join Pro Individual</a>  
-<a style="color:#1e1e1e;display: unset; border:none;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24" target="_blank"><u>Find out more</u></a></p> 
-</div>
-</div>
 
 
-<div id="byline-block"><div class="byline-block byline-block-light">Find more from <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a> on InfoPages.</div></div>
-         <div class="cleaner">&nbsp;</div>
+
+
+
+         

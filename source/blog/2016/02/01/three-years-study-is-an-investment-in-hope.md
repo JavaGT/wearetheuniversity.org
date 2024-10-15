@@ -26,8 +26,7 @@ than a burden.</p>
 <p>"Three years of free education is a big
 ticket item but it will have an even bigger return for New
 Zealanders because they will have the freedom to pursue the
-dreams, careers and passions that inspire them," says Grey.
-</p>
+dreams, careers and passions that inspire them," says Grey.<p>
 
 <p>"It has been a long time since anyone has talked about
 investing money in tertiary education for the good of
@@ -36,12 +35,11 @@ benefit of business," says Grey.</p>
 
 <p>"This policy will help
 people get jobs but it will also help them give back to
-their communities and inspire their families."  </p>
+their communities and inspire their families."<p>
 
 <p>"That’s
 a big step in the right
 direction."</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 

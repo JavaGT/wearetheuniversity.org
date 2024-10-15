@@ -54,8 +54,7 @@ Gilchrist.</p>
 academic – who are in the laboratories, workshops, lecture
 theatres, libraries, and workplaces with students –
 education is a public good that everyone benefits
-from.
-</p>
+from.<p>
 
 <p>You only need to think about an average day to see
 how important tertiary education is to us. You get clean
@@ -68,6 +67,6 @@ polytechnic.”</p>
 
 <p>Gilchrist says “Now is the time for us
 all to agree on a funding model that delivers on that public
-good.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+good.”</p>
+
+<p></p>

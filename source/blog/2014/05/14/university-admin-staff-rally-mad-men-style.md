@@ -1,8 +1,8 @@
 ---
 title: "University admin staff rally 'Mad Men' style"
-slug: university-admin-staff-rally-mad-men-style
+slug: university-admin-staff-rally-m
 date: 2014-05-14
-source: https://www.scoop.co.nz/stories/PO1405/S00223/university-admin-staff-rally-mad-men-style.htm
+source: https://www.scoop.co.nz/stories/PO1405/S00223/university-admin-staff-rally-m
 source-name: Scoop
 author: Tertiary Education Union
 author-slug: tertiary-education-union
@@ -42,9 +42,6 @@ outside the vice-chancellor's office in the Registry
 Building's Alfred Nathan House, at 12:30pm, 16
 May.</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

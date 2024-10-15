@@ -45,6 +45,6 @@ Entrance of The Atrium</p>
 Glass Pyramid)</p>
 
 <p>Manawatu:
-Concourse</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+Concourse</p>
+
+<p></p>

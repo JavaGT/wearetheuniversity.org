@@ -7,32 +7,34 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Vice-Chancellor jeopardises University Salaries</h1>
 
-           <span class="byline"><b>Wednesday, 22 June 2005,  2:46 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p>22 June 2005</p>
 
-         </div>
+<p>Vice-Chancellor jeopardises University
+Salaries Group</p>
 
-	 <p>
-         22 June 2005</p><p>Vice-Chancellor jeopardises University
-Salaries Group</p><p>The University of Auckland Branch of the
+<p>The University of Auckland Branch of the
 Association of University Staff (AUS) says is of serious
 concern that Auckland's Vice-Chancellor wishes to broaden
 the agenda of the University Salaries Group (USG), which is
 being established by the Minister of Education, to include
-all university funding issues. </p><p>The Minister announced
+all university funding issues.<p>
+
+<p>The Minister announced
 last week that he is setting up the University Salaries
 Group to consider and resolve issues around salaries in the
-university sector. </p><p>AUS Auckland Branch President,
+university sector.<p>
+
+<p>AUS Auckland Branch President,
 Associate Professor Peter Wills, said that salaries make up
 approximately 56% of that University's expenditure, and
 represent the most pressing issue for both AUS members and
 the Government, as demonstrated by the establishment of the
 USG. "Therefore, it is disappointing that the
 Vice-Chancellor is publicly jeopardising the USG
-initiative," he said. </p><p>"While the Vice-Chancellor is
+initiative," he said.<p>
+
+<p>"While the Vice-Chancellor is
 critical of the unions for having a narrow focus on
 improving salaries, it is the unions' view that salaries
 have suffered at the expense of other priorities for the
@@ -40,64 +42,43 @@ last 15 years, both here and at other universities, and it
 is now time for university employers, in cooperation with
 the government, to formulate a proper, long-term solution to
 the problem for the benefit of both staff and fee-paying
-students," said Associate Professor Wills.</p><p>"The union has
+students," said Associate Professor Wills.</p>
+
+<p>"The union has
 "won" the establishment of the tripartite salaries group. In
 terms of the battle to improve the position of university
 staff it is the most significant development for as long as
-many of us can remember," said Associate Professor Wills.
-
-</p><div class="article-left-box-wrapper"><div class="article-left-box">
-        
-
-
-
-
-<div class="headline-right"><div id="in-cont" style="background:white;">
- <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-
-  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
-@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
-<!-- /1688062/Scoop_Super-Rectangle -->
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-</script>
-   </div>
-
-  </div> 
-</div>
-</div>
-
-</div></div>
+many of us can remember," said Associate Professor Wills.<p>
 <p>"As a union we are also keen to address issues such as
 staff/student ratios, and improving the quality of teaching
 and research facilities and equipment, but when the
 Government acknowledges that university salaries are a major
 problem and creates a forum to discuss and resolve the
 relevant issues, then everything should be done to use that
-limited opportunity to the maximum." </p><p>Associate Professor
+limited opportunity to the maximum."<p>
+
+<p>Associate Professor
 Wills said he urged the Vice-Chancellor and the University
 Council not to squander the opportunity in front of us by
 trying to change the Government's mind about what it will
 talk about, now that we finally have a hard-earned agreement
-on the issue of salaries. </p><p>ENDS</p><p></p><p></p><p></p><p></p><p>
-<br><!-- LINKS REMOVED 
- SUB:0 URL:ED0506/S00062/vice-chancellor-jeopardises-university-salaries.htm -->
-</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
-  LINKS NOT REMOVED 
-  SUB:0
-  URL:ED0506/S00062/vice-chancellor-jeopardises-university-salaries.htm
- -->
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
-<!-- /1688062/Scoop_Story-Footer -->
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-6'); });
-  </script>
-</div>
-</div>
+on the issue of salaries.<p>
+
+<p>ENDS</p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+
+
+
+
+
 <!--
 <div id="byline-block">
 <style> a.supporter:hover {background:#EC4438!important;} 
@@ -109,18 +90,9 @@ on the issue of salaries. </p><p>ENDS</p><p></p><p></p><p></p><p></p><p>
 <a style="color:#1e1e1e;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=SFPro23" target="_blank"><u>Find out more</u></a></p> 
 </div>
 </div> -->
-<!-- Pro Individual -->
-<div id="byline-block">
-<style> a.supporter:hover {background:#EC4438!important;} 
-@media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}</style>
-<div class="byline-block byline-block-light" style="background-color:#fff; font-size:16px; line-height:22px; font-weight:normal; border: 1px solid #f55a3f; width: -webkit-fill-available;">
-<h3 style="margin-top:0px;">Are you licensed for Scoop?</h3>
-<p> Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop without a regular paywall. Join today with plans starting from just $11 per month, and start using Scoop like a Pro.<br><br>
- <a class="supporter" href="https://pro.scoop.co.nz/Individual/?from=ProIn24" target="_blank" style="background: #f55a3f; color: #ffffff!important; border-radius: 2px; display: unset; border:none; padding: 5px 12px 6px 12px;font-weight:normal;">Join Pro Individual</a>  
-<a style="color:#1e1e1e;display: unset; border:none;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24" target="_blank"><u>Find out more</u></a></p> 
-</div>
-</div>
 
 
-<div id="byline-block"><div class="byline-block byline-block-light">Find more from <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a> on InfoPages.</div></div>
-         <div class="cleaner">&nbsp;</div>
+
+
+
+         

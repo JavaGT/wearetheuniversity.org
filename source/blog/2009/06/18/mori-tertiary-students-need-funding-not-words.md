@@ -11,7 +11,7 @@ author-slug: tertiary-education-union
 <p>Media Release<br>18 June 2009</p>
 
 <p>Māori tertiary students
-need funding, not words </p>
+need funding, not words<p>
 
 <p>“Minister of Māori affairs, Dr
 Pita Sharples is right to open up a debate about the low
@@ -32,7 +32,7 @@ private training establishments.</p>
 Māori students will be foremost amongst those hurt by these
 cutbacks. The cuts also will reduce even further the number
 of Māori students progressing on from the secondary
-sector”, said Dr Ryan. </p>
+sector”, said Dr Ryan.<p>
 
 <p>“Māori staff working in the
 tertiary sector also are going to be negatively affected by
@@ -54,12 +54,8 @@ staff.”</p>
 issue is funding. Māori and other under-represented groups
 can be given the chance to avoid unemployment and under
 achievement by government investment in our tertiary
-education system.”
-</p>
+education system.”<p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

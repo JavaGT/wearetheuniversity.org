@@ -43,8 +43,7 @@ communication, they are imbued with ideologies, culture,
 history and symbols. From celebrating the enormous
 contribution Pasifika languages have made to life in New
 Zealand, through to welcoming migrants from all around the
-world, languages have shaped our modern lives.
-</p>
+world, languages have shaped our modern lives.<p>
 
 <p>Nanette
 Cormack, Deputy Secretary of the Tertiary Education Union
@@ -76,6 +75,5 @@ benefits learning subjects like a foreign language bring to
 us
 all.”</p>
 
-<p>--ENDS--
-</p>
+<p>--ENDS--<p>
 

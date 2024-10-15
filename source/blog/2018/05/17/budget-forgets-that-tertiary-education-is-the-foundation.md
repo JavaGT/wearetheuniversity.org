@@ -9,7 +9,7 @@ author-slug: tertiary-education-union
 ---
 
 <p>Budget forgets that tertiary education is the foundation of
-the future  </p>
+the future<p>
 
 <p>Prime Minister Jacinda Ardern’s aspiration
 that this Budget provides a foundation for the future has
@@ -22,7 +22,7 @@ more houses, extend low cost GP visits, invest in rebuilding
 the health system, and ensure we have enough teachers to
 inspire our kids. However, the TEU has been left wondering
 how it is possible to meet these commitments without a fully
-funded, accessible tertiary education sector. </p>
+funded, accessible tertiary education sector.<p>
 
 <p>People
 working in the tertiary sector are the foundation of the
@@ -40,8 +40,7 @@ is calling on the Minister for Education to urgently come
 forward with a plan to work with the sector to change the
 tertiary education funding model over the next 12 months, so
 that next year’s Budget does provide a genuine foundation
-for the future. 
-</p>
+for the future.<p>
 
 <p>Sandra Grey, national president of the
 Tertiary Education Union, said: “The Prime Minister has
@@ -54,7 +53,7 @@ children cannot be supported without trained social workers.
 Tertiary education is what connects these vital professions
 to the commitments in this Budget, and the better New
 Zealand the Prime Minister is so passionate about. Yet the
-sector seems to have been forgotten. </p>
+sector seems to have been forgotten.<p>
 
 <p>“Labour is at risk
 of going into the next election having fulfilled its
@@ -69,6 +68,5 @@ we desperately need. The Minister needs to work with us to
 make that
 happen.”</p>
 
-<p>--ENDS--
-</p>
+<p>--ENDS--<p>
 

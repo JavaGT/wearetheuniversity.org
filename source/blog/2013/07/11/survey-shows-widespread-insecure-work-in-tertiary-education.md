@@ -1,8 +1,8 @@
 ---
 title: "Survey shows widespread insecure work in tertiary education"
-slug: survey-shows-widespread-insecure-work-in-tertiary-education
+slug: survey-shows-widespre
 date: 2013-07-11
-source: https://www.scoop.co.nz/stories/ED1307/S00060/survey-shows-widespread-insecure-work-in-tertiary-education.htm
+source: https://www.scoop.co.nz/stories/ED1307/S00060/survey-shows-widespre
 source-name: Scoop
 author: Tertiary Education Union
 author-slug: tertiary-education-union
@@ -57,9 +57,6 @@ one fixed-term agreement to the next - often teaching the
 same course or doing the same job year-in,
 year-out.”</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

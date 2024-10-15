@@ -8,7 +8,9 @@ author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
 
-<p>Cuts to Māori research centre a travesty</p><p><br>Cutting
+<p>Cuts to Māori research centre a travesty</p>
+
+<p><br>Cutting
 the funding to Ngā Pae o te Maramatanga centre of research
 excellence is a travesty and tragedy says Dr Margaret
 Taurere.</p>
@@ -47,9 +49,6 @@ politicians at 5pm at Te Puna ō Te Mātauranga Marae to
 express their
 concerns.</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

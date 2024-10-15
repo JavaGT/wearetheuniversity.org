@@ -49,8 +49,7 @@ than we have seen in the past.”</p>
 <p>TEU National
 President Michael Gilchrist notes that Professor Freshwater
 has a strong background in strategic planning and
-change.
-</p>
+change.<p>
 
 <p>The chancellor has stated that Freshwater is
 a “passionate advocate for values-led and inclusive
@@ -68,9 +67,6 @@ as entirely inappropriate for a public institution of such
 importance to our community as the University of Auckland .
 We hope that Professor Freshwater will fully embrace genuine
 student and staff input into the future shape of the
-university.<br>
-</p>
+university.<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

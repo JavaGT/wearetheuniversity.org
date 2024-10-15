@@ -7,33 +7,37 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>"First-week shutdown" planned at Victoria</h1>
 
-           <span class="byline"><b>Monday, 21 June 2004,  1:39 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p>Thursday, 17 June 2004</p>
 
-         </div>
+<p>"First-week shutdown" planned at
+Victoria</p>
 
-	 <p>
-         Thursday, 17 June 2004</p><p>"First-week shutdown" planned at
-Victoria</p><p>General (non-academic) staff at Victoria
+<p>General (non-academic) staff at Victoria
 University of Wellington (VUW) have approved a comprehensive
 campaign of industrial action aimed at completely shutting
 down the administration of the university for the first week
 of its second teaching trimester which begins on 12
-July.</p><p>General staff at VUW have rejected a pay offer of a
+July.</p>
+
+<p>General staff at VUW have rejected a pay offer of a
 2.5% increase with an additional $350 one-off payment, and
 are seeking a 4% increase in line with their academic
-colleagues.</p><p>The plan of action, entitled "first-week
+colleagues.</p>
+
+<p>The plan of action, entitled "first-week
 shutdown" will comprise a comprehensive build-up of action
 including a communications black-out, withholding exam
 grades and refusing to process enrolments. That will be
 complemented with rolling strike action (or lightning
 strikes), and sustained strike action in selected key
-areas.</p><p>Academic staff have promised that they will provide
+areas.</p>
+
+<p>Academic staff have promised that they will provide
 financial and practical support for the
-action.</p><p>Association of University Staff (AUS) general
+action.</p>
+
+<p>Association of University Staff (AUS) general
 staff spokesperson, Tony Quinn, said general staff at VUW
 did not accept the Vice-Chancellor's view that they are
 worth less than those at other universities around the
@@ -41,26 +45,31 @@ country. "All others have been offered a salary increase of
 at least 3%," he said. "That is why we have had to adopt a
 plan of action that will, unfortunately, go beyond the usual
 protest and result in serious and sustained
-disruption."</p><p>"General staff at VUW will not be categorised
+disruption."</p>
+
+<p>"General staff at VUW will not be categorised
 as second-class employees by accepting lower salary
 increases than everywhere else in the sector," said Mr
 Quinn. "We will be asking students and the public to support
 us by encouraging the Vice-Chancellor to give general staff
-the salary recognition (and dignity) they deserve."</p><p>Mr
+the salary recognition (and dignity) they deserve."</p>
+
+<p>Mr
 Quinn said that informal discussions would continue with the
 University in the hope that agreement could be reached
-before the July disruption.</p><p>ENDS</p><p></p><p></p><p>
-</p>
+before the July disruption.</p>
 
-<p>
+<p>ENDS</p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p></p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+<p></p>
+
+<p></p>
+
+
+
+
 <!--
 
 

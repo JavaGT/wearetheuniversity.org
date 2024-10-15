@@ -23,8 +23,7 @@ national president Sandra Grey.</p>
 <p><br>A Tertiary Education
 Commission report released today <http: teu.ac.nz="" lists="" lt.php?id="YEUOCAYADVUHRAwAGAELBVo%3D"></http:></p>
 
-<p>
-on financial performance of tertiary education institutions
+<p>on financial performance of tertiary education institutions
 shows that publicly funded universities, w nanga and
 polytechnics are all generating surpluses significantly
 greater than the 3 percent of revenue that the commission
@@ -50,6 +49,5 @@ government a false justification for its relentless on-going
 budget cuts to tertiary education
 funding."</p>
 
-<p>ends
-</p>
+<p>ends<p>
 

@@ -41,8 +41,7 @@ year who will almost certainly be asking themselves if the
 course they want to study will be affected. If the plan is
 to cut expenditure on staffing, this cannot be achieved
 without affecting students’ education, the TEU
-warned.
-</p>
+warned.<p>
 
 <p>Nanette Cormack, deputy secretary of the TEU,
 said: <strong>“It beggars belief that the employer would

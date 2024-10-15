@@ -13,8 +13,7 @@ author-slug: nzusa
 
 <p><span id="more-128264"></span></p>
 
-<p>
-The campaign was released at a cocktail evening at the Foxglove Restaurant as part of the NZUSA National Conference 2023, and was attended by various representatives from the political parties, tertiary sector leaders, and civil society actors.</p>
+<p>The campaign was released at a cocktail evening at the Foxglove Restaurant as part of the NZUSA National Conference 2023, and was attended by various representatives from the political parties, tertiary sector leaders, and civil society actors.</p>
 
 <p>“No More Excuses!” presented three policy areas by students across the country, focusing on: authentic acknowledgement of Te Tiriti o Waitangi; a debt free future for students; and partnership between tertiary education, the Government, and students.</p>
 
@@ -34,6 +33,5 @@ The campaign was released at a cocktail evening at the Foxglove Restaurant as pa
 
 <p>The “No More Excuses!” campaign will continue until the day of the General Elections on the 14th of October. Student associations across the country will hold activations for the campaign on their campuses, to bring attention to the policy areas and requests to the political parties.</p>
 
-<p>
-Content Sourced from <a href="http://www.scoop.co.nz/">scoop.co.nz</a><br>
+<p>Content Sourced from <a href="http://www.scoop.co.nz/">scoop.co.nz</a><br>
 <a href="http://www.scoop.co.nz/stories/PO202308/S00060.htm">Original url</a></p>

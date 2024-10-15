@@ -29,7 +29,7 @@ institutions now are unconcerned about those students who
 never turn up to class. “Staff call these students
 ‘ghosts’ because they simply never see them. In some
 first-year courses, ‘ghosts’ can comprise over 10% of
-total enrolments”, said Dr Ryan. </p>
+total enrolments”, said Dr Ryan.<p>
 
 <p>“Often it is
 only the course teachers and support staff who make an
@@ -46,7 +46,7 @@ attributes the high non-completion rate in New Zealand
 tertiary institutions to the relatively large number of
 part-time students, and to a significant number of students
 changing their programmes of study part way through to
-something different from what they had started.  </p>
+something different from what they had started.<p>
 
 <p>“But this doesn’t paint the full picture,” argues
 Dr Ryan.  “While those are important factors, the other
@@ -54,11 +54,8 @@ issue to consider is the financial imperatives on our
 institutions to get students into courses, any courses. 
 Students are missing out because they are not getting the
 institutional advice and support when they take up study –
-and when they disappear”.  </p>
+and when they disappear”.<p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

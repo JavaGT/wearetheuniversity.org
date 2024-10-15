@@ -52,6 +52,6 @@ campaign is all about.”</p>
 
 <p>Learn
 more about #WhatSocietyThinksIDo
-here.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+here.</p>
+
+<p></p>

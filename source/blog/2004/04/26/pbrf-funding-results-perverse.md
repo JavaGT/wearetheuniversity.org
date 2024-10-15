@@ -7,60 +7,70 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>PBRF funding results "perverse"</h1>
 
-           <span class="byline"><b>Monday, 26 April 2004,  1:57 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p>Media Release</p>
 
-         </div>
+<p>26 April 2004</p>
 
-	 <p>
-         Media Release</p><p> 26 April 2004</p><p>PBRF funding results
-"perverse"</p><p>The changes in research funding to universities
+<p>PBRF funding results
+"perverse"</p>
+
+<p>The changes in research funding to universities
 in response to their Performance Based Research Fund (PBRF)
 results have been "perverse" says the Association of
-University Staff (AUS).</p><p>"The PBRF appears to reward
+University Staff (AUS).</p>
+
+<p>"The PBRF appears to reward
 high-cost subjects and the ability to attract external
 research income more than it rewards high quality scores. It
 may also reflect a bias against research students in the new
 funding regime," said AUS National President Dr Bill
 Rosenberg, commenting on the results announced last week by
-the Tertiary Education Commission (TEC).</p><p>For example,
+the Tertiary Education Commission (TEC).</p>
+
+<p>For example,
 Lincoln University will receive the second-highest
 percentage increase in funding among the seven universities
 despite being the second lowest ranked university by quality
 score. Yet Canterbury received the third-lowest increase in
 funding (less than the increase in the total PBRF) despite
-being second-highest ranked.</p><p>In Canterbury's case this is
+being second-highest ranked.</p>
+
+<p>In Canterbury's case this is
 apparently because it is particularly strong in the number
 of research students it attracts. Since the funding being
 phased out is based on student numbers, it lost more funding
-than it gained.</p><p>This raises the question: will the new
+than it gained.</p>
+
+<p>This raises the question: will the new
 regime discourage universities from attracting research
-students?</p><p>Otago, which came fourth in the rankings,
+students?</p>
+
+<p>Otago, which came fourth in the rankings,
 received the highest percentage increase, and Auckland, top
-ranked, received third-highest percentage increase.</p><p>"The
+ranked, received third-highest percentage increase.</p>
+
+<p>"The
 scheme appears to reward high-cost subjects and the ability
 to attract external research income - which is not available
 to researchers in many subject areas - more than it rewards
 high quality scores", said Dr Rosenberg. "Is that what its
-designers intended?"</p><p>[Note: the information on which this
+designers intended?"</p>
+
+<p>[Note: the information on which this
 release is based is in Table 8.4 on page 80 of the Tertiary
 Education Commission's report on the PBRF
-results.]</p><p>Ends</p><p></p><p>
-<br>
-</p>
+results.]</p>
 
-<p>
+<p>Ends</p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p></p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
+
+
+
 <!--
 
 

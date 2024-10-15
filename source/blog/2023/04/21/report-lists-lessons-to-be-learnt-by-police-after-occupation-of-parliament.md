@@ -72,7 +72,7 @@ The Independent Police Conduct Authority has today released its review of the po
 
 <p>The Authority has made a number of recommendations to help Police improve public order policing, which are attached. These include that Police:</p>
 
-<p> –   propose to Government that there be a multi-agency review of the laws governing a public order event such as this;<br>
+<p>–   propose to Government that there be a multi-agency review of the laws governing a public order event such as this;<br>
  –   urgently purchase more hard body armour;<br>
   –  develop their operating model for public order policing as a matter of priority, and ensure that it addresses the lessons learned from this event; and<br>
  –   develop standard operating procedures for policing the Parliamentary precincts, including scenario planning with partner agencies.</p>

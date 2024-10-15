@@ -83,7 +83,7 @@ Flew, Terry. “Letting Go of Neo-Liberalism (with some help from Michel Foucaul
 
 Foucault, Michel. The Birth of Biopolitics : Lectures at the Collège De France, 1978-79. Ed. Senellart, Michel. trans. Burchell, Graham. New York: Palgrave Macmillan, 2008.
 
-Harris, Malcolm. “Bad Education.” n+1 (2011). 2 September 2011 <http://nplusonemag.com/bad-education>.
+Harris, Malcolm. “Bad Education.” n+1 (2011). 2 September 2011 <http://nplusonemag.com/b
 
 Kelsey, Jane. “The Denationalization of Money: Embedded Neo-Liberalism and the Risks of Implosion.” Social & Legal Studies 12.2 (2003): 155-76.
 

@@ -9,7 +9,7 @@ author-slug: unite-union
 ---
 <p>Press Release – Unite Union</p>
 
-<p> Unite Union has offered professional advice and assistance to any Freyberg student facing disciplinary action over the recent protest at the school. A school strike and protest in 2006 over youth rates drew very similar criticism at the time. In …<span id="more-171739"></span></p>
+<p>Unite Union has offered professional advice and assistance to any Freyberg student facing disciplinary action over the recent protest at the school. A school strike and protest in 2006 over youth rates drew very similar criticism at the time. In …<span id="more-171739"></span></p>
 
 <p>Unite Union has offered professional advice and assistance to any Freyberg student facing disciplinary action over the recent protest at the school.</p>
 
@@ -23,6 +23,5 @@ author-slug: unite-union
 
 <p>Any student or their whānau needing support or advice can contact Unite Union on Free Phone 0800 286 483 (0800 2 UNITE) or email support@unite.org.nz</p>
 
-<p>
-Content Sourced from <a href="http://www.scoop.co.nz/">scoop.co.nz</a><br>
+<p>Content Sourced from <a href="http://www.scoop.co.nz/">scoop.co.nz</a><br>
 <a href="http://www.scoop.co.nz/stories/ED202403/S00024.htm">Original url</a></p>

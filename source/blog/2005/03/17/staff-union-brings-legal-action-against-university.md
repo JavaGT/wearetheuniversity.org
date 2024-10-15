@@ -7,16 +7,8 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Staff union brings legal action against University</h1>
 
-           <span class="byline"><b>Thursday, 17 March 2005,  2:54 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
-
-         </div>
-
-	 <p>
-         The Association of University Staff (AUS) is taking legal
+<p>The Association of University Staff (AUS) is taking legal
 action against the University of Auckland’s Vice-Chancellor,
 Stuart McCutcheon, after he failed to show up at a
 preliminary national employment agreement negotiation
@@ -61,26 +53,24 @@ week.<br>Meanwhile, representatives of the other six
 universities met with union representatives on Tuesday and
 have drafted a protocol around which to proceed with
 national bargaining. Formal negotiations are due to get
-under way in April.
-</p>
-<p>Ends</p><p>For further information please
+under way in April.<p>
+<p>Ends</p>
+
+<p>For further information please
 contact<br>Professor Nigel Haworth					<br>AUS National
 President					<br>Phone	(09) 373 7599, extension 85235
 (work) <br>(09) 376 6359	(home)					<br>Mobile	021 637
 599			<br>Email
-	president@aus.ac.nz	<br>	n.haworth@auckland.ac.nz			<br>or</p><p>Marty
+	president@aus.ac.nz	<br>	n.haworth@auckland.ac.nz			<br>or</p>
+
+<p>Marty
 Braithwaite<br>AUS Communications Officer<br>Phone 027 2747
 795 (mobile)<br>Email
-marty.braithwaite@aus.ac.nz<br>
-</p><p>
+marty.braithwaite@aus.ac.nz<br><p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
 <!--
 
 

@@ -14,7 +14,9 @@ author-slug: tertiary-education-union
 2019</p>
 
 <p><strong>Pulling together the only way now for the
-sake of students and the country</strong></p><p><br>The
+sake of students and the country</strong></p>
+
+<p><br>The
 announcement today that the government will proceed with
 unifying the vocational education and training sector will
 only succeed if the promise to recognise academic, general,
@@ -49,8 +51,7 @@ system”. “Students, their whanau, communities, industry,
 and employers need to know there is a stable baseline of
 provision wherever you live,” says Riggs, “this is what
 has been missing up until now and what a coordinated system
-can deliver.”
-</p>
+can deliver.”<p>
 
 <p>TEU Vice President Sarah Proctor-Thomson
 says a major win has been the decision to legislate roles
@@ -118,6 +119,4 @@ as we provide more education opportunities for communities
 around New
 Zealand.</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

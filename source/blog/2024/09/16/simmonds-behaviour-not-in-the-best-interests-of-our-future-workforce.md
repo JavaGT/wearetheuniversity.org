@@ -35,7 +35,9 @@ concerning that the Minister is interfering with how the
 sector is run by ignoring advice from officials,
 foreshadowing job cuts and asset sales, and pushing students
 towards online delivery whether it works for them or
-not.”</p></blockquote><p>“We have repeatedly asked for
+not.”</p></blockquote>
+
+<p>“We have repeatedly asked for
 the information we need for our members to understand what
 is being proposed and give meaningful, constructive feedback
 but the Minister is refusing to respond directly to us as
@@ -50,6 +52,6 @@ the Chief Executive of a small regional Polytechnic. If she
 can’t act in the best interests of the entire tertiary
 education sector and Aotearoa’s future workforce then she
 should be moved aside for someone who
-can.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+can.”</p>
+
+<p></p>

@@ -19,11 +19,11 @@ went on to say "it is highly unlikely that there will be any
 significant cash injections in the foreseeable future,"
 Today Mr Joyce the minister of transport lauded his
 government's investment of $10 billion dollars of new
-spending over ten years into roads. </p>
+spending over ten years into roads.<p>
 
 <p>TEU national
 President Dr Tom Ryan says this disparity of investment is
-perplexing.  </p>
+perplexing.<p>
 
 <p>"Last year the government cut over $100
 million of direct funding to tertiary institutions and there
@@ -33,8 +33,7 @@ Ryan.</p>
 <p>"It's for someone else to say whether a bit of
 tarmac is going to promote productivity and deal with the
 pay differential between NZ and Australia as successfully as
-investing in our world class tertiary education system."
-</p>
+investing in our world class tertiary education system."<p>
 
 <p>"I do wonder how the minister of tertiary education and
 of transport can tell one audience there is no money and
@@ -44,9 +43,6 @@ economic growth and productivity, and then actually only
 directing resources in one direction," said Dr
 Ryan.</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

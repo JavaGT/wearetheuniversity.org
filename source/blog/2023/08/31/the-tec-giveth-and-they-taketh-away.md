@@ -40,6 +40,6 @@ education providers cut staff, and cut courses, then they
 should see the faces of the people impacted by their
 choices. I’ll be there to remind them of the mess
 they’ll leave if we’re cut
-away.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+away.”</p>
+
+<p></p>

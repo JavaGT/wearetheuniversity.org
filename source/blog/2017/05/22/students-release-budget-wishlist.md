@@ -11,7 +11,7 @@ author-slug: nzusa
 </strong><p><strong> </strong>People with
 student loans must repay 12c in the dollar once they start
 earning $19,136, less than 60% of the annual salary for a
-minimum wage earner. </p>
+minimum wage earner.<p>
 
 <p>Replace it with an Australian-style
 progressive repayment system so that those on lower incomes
@@ -54,8 +54,6 @@ costs and necessary educational materials.</p>
 national voice of students in tertiary education. The
 organisation is governed by students’ associations from
 universities and polytechnics around the
-country.<br><strong>ENDS</strong></p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         
+country.<br><strong>ENDS</strong></p>
 
-</p>
+<p></p>

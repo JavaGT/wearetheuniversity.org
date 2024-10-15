@@ -26,5 +26,4 @@ author-slug: nzusa
     income that can be read here: <a target="_blank" rel="noopener noreferrer"
         href="https://www.students.org.nz/uei">https://www.students.org.nz/uei</a></p>
 
-<p>
-    <a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a></p>
+<p></p>

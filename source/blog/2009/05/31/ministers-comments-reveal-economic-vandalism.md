@@ -19,7 +19,7 @@ Reveal Economic Vandalism</p>
 <p>Minister of Education Anne
 Tolley has shown not just a lack of empathy but a failure to
 understand economics according to TEU national secretary
-Sharn Riggs. </p>
+Sharn Riggs.<p>
 
 <p>Yesterday (Friday), after Tairawhiti
 polytechnic revealed it had lost about $2 million of its $16
@@ -61,9 +61,6 @@ minister and this government actually couldn't care less
 about regional New Zealand,” says Ms
 Riggs.</p>
 
-<p>ends<br>
-</p>
+<p>ends<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

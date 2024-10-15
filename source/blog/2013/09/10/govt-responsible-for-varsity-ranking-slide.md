@@ -38,9 +38,6 @@ and tutorials, more administrative workload that takes time
 away from research and teaching, and stagnant
 pay.”</p>
 
-<p><br>ends<br>
-</p>
+<p><br>ends<br><p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

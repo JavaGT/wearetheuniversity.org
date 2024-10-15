@@ -7,28 +7,30 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Staff protest rally at University of Auckland</h1>
 
-           <span class="byline"><b>Monday, 14 March 2005,  3:44 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p>Staff protest rally at University of Auckland</p>
 
-         </div>
-
-	 <p>
-         Staff protest rally at University of Auckland</p><p>A protest
+<p>A protest
 rally will be held outside the University of Auckland
 Registry, Princess St., Auckland between 12 noon and 2.00 pm
-on Tuesday 15 March 2005.</p><p>This relates to the actions of
+on Tuesday 15 March 2005.</p>
+
+<p>This relates to the actions of
 the University’s Vice-Chancellor, Professor Stuart
 McCutcheon who has refused to enter bargaining for national
 collective employment agreements for university staff and,
 in a move which is seen by the Association of University
 Staff as an attack on the unions, has offered non-union
 staff at the University a salary increase of 4.5
-percent.</p><p>The media release below, sent out Friday,
-contains further details.</p><p><b> Auckland attempts to scuttle
-national university wage bargaining</b></p><p>Staff members at
+percent.</p>
+
+<p>The media release below, sent out Friday,
+contains further details.</p>
+
+<p><b> Auckland attempts to scuttle
+national university wage bargaining</b></p>
+
+<p>Staff members at
 the University of Auckland are furious at their
 Vice-Chancellor's attempts to scuttle national collective
 bargaining by offering non-union staff a 4.5 percent salary
@@ -36,27 +38,32 @@ increase on the eve of union negotiations. The
 Vice-Chancellor, Stuart McCutcheon, has also refused to
 enter national bargaining negotiations with the university
 unions, saying that he will only negotiate an Auckland
-University agreement. </p><p>Non-union staff members at the
+University agreement.<p>
+
+<p>Non-union staff members at the
 University of Auckland were today offered the 4.5 percent
 pay rise, effective from 1 May 2005, without any negotiation
 and without notice to the unions. Those staff will be given
 the pay rise unless they specifically inform the University
-they do not wish to receive it. </p><p>Speaking on behalf of the
+they do not wish to receive it.<p>
+
+<p>Speaking on behalf of the
 combined university unions, the Association of University
 Staff (AUS) National President, Professor Nigel Haworth,
 said that the refusal of University of Auckland to enter
 national multi-employer bargaining compromised the sector's
 collective ability to resolve the long-standing underfunding
 of New Zealand universities and the consequent inadequate
-salary levels. 
-</p>
+salary levels.<p>
 <p>“The union views the offer to non-union
 staff as a clearly calculated attempt by Stuart McCutcheon
 to undermine the proposed national bargaining with unions,”
 said Professor Haworth. “It is a direct attack on the choice
 of that University's staff to belong to and bargain through
 a union, and is exceptionally poor employment practice. It
-is also a clear breach of good faith.” </p><p>Professor Haworth
+is also a clear breach of good faith.”<p>
+
+<p>Professor Haworth
 said that the Vice-Chancellor's action was more questionable
 given that he had not indicated his intentions in an open
 and frank discussion about bargaining with AUS officials
@@ -66,26 +73,25 @@ this is an extraordinary way to respond to his
 responsibilities,” he said. “His actions are in direct
 contravention to the Government's expectations and
 intentions in terms of building good employment
-relationships and collective bargaining.” </p><p>Professor
+relationships and collective bargaining.”<p>
+
+<p>Professor
 Haworth also warned that the actions of the Vice-Chancellor
 were destined to lead to industrial unrest at Auckland .
 “The Government has acknowledged that universities have
 missed out on their share of public funding, and that
 salaries have suffered as a result. We will not stand back
 and let Stuart McCutcheon undermine the collective sectoral
-approach to resolving funding and salary problems,” he said
-</p><p>National discussions between university employers and
-unions are scheduled to get underway on 15 March.
-</p><p>ENDS<br>
-</p><p>
+approach to resolving funding and salary problems,” he said<p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+<p>National discussions between university employers and
+unions are scheduled to get underway on 15 March.<p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+<p>ENDS<br><p>
+
+
+
+
 <!--
 
 

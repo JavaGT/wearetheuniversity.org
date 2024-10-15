@@ -37,8 +37,7 @@ cash-strapped institutions continue to look at ways to slash
 costs to deal with the flawed approach of the previous
 government, including cutting courses, and this year alone
 instigating more than 130 reviews covering all aspects of
-tertiary provision.
-</p>
+tertiary provision.<p>
 
 <p>Sandra Grey, national president of the
 Tertiary Education Union, said: <strong>“Tertiary

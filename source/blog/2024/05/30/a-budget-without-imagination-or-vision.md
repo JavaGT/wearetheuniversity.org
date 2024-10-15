@@ -58,6 +58,6 @@ Budget, our workers are worse off, our students are worse
 off, our employers are worse off, and our institutions are
 worse off. We all need to join the fight-back and stand up
 for our
-future.”</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+future.”</p>
+
+<p></p>

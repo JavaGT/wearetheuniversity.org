@@ -63,6 +63,5 @@ Gisborne</p>
 
 <p>•	11:00am</p>
 
-<p>ENDS
-</p>
+<p>ENDS<p>
 

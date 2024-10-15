@@ -27,6 +27,6 @@ be found here.</p>
 are also undertaking a ban on working more than the ordinary
 hours of work defined in the collective agreement, which
 was announced
-yesterday.</p><p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+yesterday.</p>
+
+<p></p>

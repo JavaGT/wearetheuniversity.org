@@ -39,8 +39,8 @@ managers in the sector as a justification for proposing pay
 restraints on a completely different group of workers - on
 ordinary working people in the tertiary education sector
 that are earning an average New Zealand salary," said Ms
-Riggs.</p><p>ENDS</p>
+Riggs.</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p>ENDS</p>
+
+<p></p>

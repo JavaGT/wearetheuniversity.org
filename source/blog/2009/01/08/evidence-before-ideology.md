@@ -36,8 +36,7 @@ development and they should not be excluded from the process
 because a government is in a hurry or the evidence does not
 suit the ideology of the day. Academics and researchers
 obviously have many varying political opinions but the
-advice they provide is all based upon research.” 
-</p>
+advice they provide is all based upon research.”<p>
 
 <p>“There has been lots of research into the efficacy of
 home detention and parole that can help the government with
@@ -46,12 +45,8 @@ favour of the style of rushed legislation we saw before
 Christmas.  For instance it would be hard to find an
 academic in the field of labour law on any side of the
 political spectrum who would say that the 90 Day Probation
-Law was a well thought out piece of legislation.” 
-</p>
+Law was a well thought out piece of legislation.”<p>
 
-<p><br>ENDS
-</p>
+<p><br>ENDS<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

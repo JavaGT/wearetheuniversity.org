@@ -62,9 +62,6 @@ have the right to stand for a council seat alongside our
 academic
 colleagues.”</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

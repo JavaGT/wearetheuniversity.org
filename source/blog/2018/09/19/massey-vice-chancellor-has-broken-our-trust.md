@@ -27,6 +27,7 @@ Massey’s students’ associations in their call for their
 University Council to clarify its stance on funding
 independent students’ associations. The Vice-Chancellor
 has broken the trust we have with our institutions, and we
-want to rebuild that.’</p><p>ENDS
-</p>
+want to rebuild that.’</p>
+
+<p>ENDS<p>
 

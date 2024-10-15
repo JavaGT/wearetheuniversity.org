@@ -7,25 +7,23 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>University Union Supports Four Weeks Holiday</h1>
 
-           <span class="byline"><b>Friday,  8 November 2002, 12:05 am</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>University Union Urges
+Support for Four Weeks Holiday</p>
 
-         </div>
-
-	 <p>
-         <img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>University Union Urges
-Support for Four Weeks Holiday</p><p>The Association of
+<p>The Association of
 University Staff (AUS) today urged all members of the
 Government to support the call for increased annual holidays
-for all workers.</p><p>Association President, Dr Grant Duncan,
+for all workers.</p>
+
+<p>Association President, Dr Grant Duncan,
 said today that the Association believed it timely that
 Progressive Coalition MP, Matt Robson’s, private member’s
 Bill which seeks to increase the minimum annual holiday
 entitlement from three weeks to four is to be considered by
-Parliament.</p><p>“While many university employees presently
+Parliament.</p>
+
+<p>“While many university employees presently
 have four weeks annual leave, there are still some
 university and many private sector employees who only have
 the current statutory minimum of three weeks”, said Dr
@@ -33,7 +31,9 @@ Duncan. “At a time when workloads and productivity are
 increasing, three weeks is no longer a sufficient holiday
 entitlement. An average academic staff member now works 53
 hours per week, a level which is not sustainable without
-additional leave.”</p><p>Dr Duncan said the Association was
+additional leave.”</p>
+
+<p>Dr Duncan said the Association was
 concerned by statements attributed to the Associate Minister
 of Education, Steve Maharey, prior to the general election,
 that Labour did not want to see holidays increased. In
@@ -41,21 +41,22 @@ calling on Labour and United Future MPs to support Matt
 Robson’s bill, Dr Duncan said that employers had shown they
 could not be relied upon to increase leave entitlements, and
 it was up to Government to provide that
-leadership.</p><p>Ends</p><p>For further information call</p><p>Dr Grant
+leadership.</p>
+
+<p>Ends</p>
+
+<p>For further information call</p>
+
+<p>Dr Grant
 Duncan, AUS National President<br>Ph 04 915 6690<br>Mobile
 021 680
-475</p><p>
-</p>
+475</p>
 
-<p>
+<p></p>
 
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
+
 <!--
 
 

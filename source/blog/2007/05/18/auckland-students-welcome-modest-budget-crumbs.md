@@ -7,89 +7,68 @@ source-name: Scoop
 author: Auckland University Students Association
 author-slug: auckland-university-students-association
 ---
-<div class="story-top">
-           <h1>Auckland students welcome modest Budget crumbs</h1>
 
-           <span class="byline"><b>Friday, 18 May 2007, 12:18 am</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a></b></span>
+<p>www.ausa.auckland.ac.nz</p>
 
-         </div>
+<p>Media Release – 18 May 2007 -
+For Immediate Use</p>
 
-	 <p>
-         www.ausa.auckland.ac.nz</p><p>Media Release – 18 May 2007 -
-For Immediate Use</p><p>Auckland students welcome modest Budget
-crumbs</p><p>Auckland students welcomed yesterday’s Budget
+<p>Auckland students welcome modest Budget
+crumbs</p>
+
+<p>Auckland students welcomed yesterday’s Budget
 announcement to increase access to full student allowances
 as a step in the right direction, as well as increased
 funding to ensure universities can retain high-quality
-teaching and research staff.</p><p>“While any movement on
+teaching and research staff.</p>
+
+<p>“While any movement on
 allowances is welcome, a ‘full’ student allowance barely
 covers the necessary rent and living costs in a city like
-Auckland,” says AUSA President Lesieli Oliver.
-</p><p>“Today’s Budget announcement falls far short of
+Auckland,” says AUSA President Lesieli Oliver.<p>
+
+<p>“Today’s Budget announcement falls far short of
 ensuring all students are adequately supported while
 studying, without having to borrow living costs off their
 student loan or resorting to long hours of part-time work,
-just to pay for rent and food.”</p><p>Labour promised last
+just to pay for rent and food.”</p>
+
+<p>Labour promised last
 election that they would ensure that 50% of full time
 students would receive allowances; it is currently less than
 30%. AUSA calls on the government to honour its manifesto
-promise.</p><p>There is also increased funding to help retain
+promise.</p>
+
+<p>There is also increased funding to help retain
 and attract top-quality staff, and allow universities to
-concentrate on their strengths</p><p>“Our students are justly
+concentrate on their strengths</p>
+
+<p>“Our students are justly
 proud of the quality of education they receive at a top
 university like the University of Auckland. It’s good to
 see that some government funding has focused on quality,”
-says AUSA Education Vice President David Do.</p><p>“Students
+says AUSA Education Vice President David Do.</p>
+
+<p>“Students
 were badly affected by staff strikes in 2005, so its
 pleasing to see positive funding outcomes from collaboration
-through the Tripartite Forum.”</p><p>“Nevertheless, having
+through the Tripartite Forum.”</p>
+
+<p>“Nevertheless, having
 the best teachers doesn’t mean a thing if you’re too
-hungry and tired to learn.”</p><p>No substantial
+hungry and tired to learn.”</p>
+
+<p>No substantial
 above-inflation increase in university funding was announced
 in the Budget - this will most likely lead to continued
 tuition fee rises for students at the end of this
-year.</p><p>ENDS
-</p><div class="article-left-box-wrapper"><div class="article-left-box">
-        
+year.</p>
+
+<p>ENDS<p>
 
 
 
 
-<div class="headline-right"><div id="in-cont" style="background:white;">
- <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-
-  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
-@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
-<!-- /1688062/Scoop_Super-Rectangle -->
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-</script>
-   </div>
-
-  </div> 
-</div>
-</div>
-
-</div></div>
-<!-- LINKS REMOVED 
- SUB:0 URL:ED0705/S00076/auckland-students-welcome-modest-budget-crumbs.htm -->
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
-  LINKS NOT REMOVED 
-  SUB:0
-  URL:ED0705/S00076/auckland-students-welcome-modest-budget-crumbs.htm
- -->
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
-<!-- /1688062/Scoop_Story-Footer -->
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-6'); });
-  </script>
-</div>
-</div>
 <!--
 <div id="byline-block">
 <style> a.supporter:hover {background:#EC4438!important;} 
@@ -101,18 +80,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4');
 <a style="color:#1e1e1e;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=SFPro23" target="_blank"><u>Find out more</u></a></p> 
 </div>
 </div> -->
-<!-- Pro Individual -->
-<div id="byline-block">
-<style> a.supporter:hover {background:#EC4438!important;} 
-@media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}</style>
-<div class="byline-block byline-block-light" style="background-color:#fff; font-size:16px; line-height:22px; font-weight:normal; border: 1px solid #f55a3f; width: -webkit-fill-available;">
-<h3 style="margin-top:0px;">Are you licensed for Scoop?</h3>
-<p> Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop without a regular paywall. Join today with plans starting from just $11 per month, and start using Scoop like a Pro.<br><br>
- <a class="supporter" href="https://pro.scoop.co.nz/Individual/?from=ProIn24" target="_blank" style="background: #f55a3f; color: #ffffff!important; border-radius: 2px; display: unset; border:none; padding: 5px 12px 6px 12px;font-weight:normal;">Join Pro Individual</a>  
-<a style="color:#1e1e1e;display: unset; border:none;" href="https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24" target="_blank"><u>Find out more</u></a></p> 
-</div>
-</div>
 
 
-<div id="byline-block"><div class="byline-block byline-block-light">Find more from <a href="https://info.scoop.co.nz/Auckland_University_Students_Association">Auckland University Students Association</a> on InfoPages.</div></div>
-         <div class="cleaner">&nbsp;</div>
+
+
+
+         

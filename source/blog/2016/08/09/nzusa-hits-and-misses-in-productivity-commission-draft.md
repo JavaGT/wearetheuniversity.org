@@ -12,8 +12,7 @@ author-slug: nzusa
 hesitant about giving students a large sum of money to chose
 their education pathway, which looks like privatisation.</p>
 
-<p>
-"We believe that students should instead be regarded as
+<p>"We believe that students should instead be regarded as
 experts in learning and heard and heeded at all levels of
 tertiary institutions. If students are given an education
 grant and poor careers advice and poor student voice systems
@@ -31,6 +30,5 @@ with the Productivity Commission to work towards a final
 report that meets the best interests of
 students."</p>
 
-<p>ENDS<br>
-</p>
+<p>ENDS<br><p>
 

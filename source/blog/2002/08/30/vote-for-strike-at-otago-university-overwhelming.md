@@ -7,29 +7,29 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<div class="story-top">
-           <h1>Vote for strike at Otago University 'Overwhelming'</h1>
 
-           <span class="byline"><b>Friday, 30 August 2002,  9:10 am</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Association_of_University_Staff">Association of University Staff</a></b></span>
+<p><a href="http://www.aus.ac.nz "><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">29 August
+2002</a></p>
 
-         </div>
+<p><a href="http://www.aus.ac.nz ">Vote for Strike at Otago University
+“Overwhelming”</a></p>
 
-	 <p>
-         <a href="http://www.aus.ac.nz "><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0">29 August
-2002</a></p><p><a href="http://www.aus.ac.nz ">Vote for Strike at Otago University
-“Overwhelming”</a></p><p><a href="http://www.aus.ac.nz ">679 members of the five combined unions at
+<p><a href="http://www.aus.ac.nz ">679 members of the five combined unions at
 Otago University attended stopwork meetings in Dunedin,
 Christchurch and Wellington over the past two days. Members
 of these unions represent academic, general and trades staff
-from throughout the institution.</a></p><p><a href="http://www.aus.ac.nz ">All three meetings
+from throughout the institution.</a></p>
+
+<p><a href="http://www.aus.ac.nz ">All three meetings
 discussed the breakdown in collective employment agreement
 negotiations, after the employer refused to move beyond a
 1.5% salary increase. Secret ballots were held to confirm
 strike action set for Monday 2 September and possible
 rolling stoppages to follow, if no significant progress is
 made, while the other four resolutions listed below were
-overwhelmingly endorsed by a show of hands.</a></p><p><a href="http://www.aus.ac.nz ">These
+overwhelmingly endorsed by a show of hands.</a></p>
+
+<p><a href="http://www.aus.ac.nz ">These
 resolutions are in addition to the withholding of exam
 questions which was agreed to by members at meetings last
 week. Exam questions are to be withheld until the offer from
@@ -57,7 +57,7 @@ budget.”
   <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
 @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
 
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
+   <div id="div-gpt-" style="padding: 0 20px 0 0; text-align: center;">
 <script>
 
 </script>
@@ -80,46 +80,61 @@ purpose is to ensure that Otago remains an outstanding
 educational institution.” A senior staff source, quoted in
 the Otago Daily Times today, said that the proposed action
 would: “…shut this place down when you consider that most of
-the permanent staff are involved.”</p><p>The Resolutions:</p><p>1.
+the permanent staff are involved.”</p>
+
+<p>The Resolutions:</p>
+
+<p>1.
 (Voted on by secret ballot). Members reconfirm our intention
 to strike from 12:15 pm Monday 2 September 2002 for a half
-day.<br>91% in favour; 9% against</p><p>2. The negotiating team
+day.<br>91% in favour; 9% against</p>
+
+<p>2. The negotiating team
 shall have the authority to issue dispensations from strike
 action where this is deemed appropriate.<br>99% in favour,
-two abstentions</p><p>3. No union member shall assist with
+two abstentions</p>
+
+<p>3. No union member shall assist with
 reporting staff participation or non-participation in any
 industrial action, but shall ignore such requests or return
 a notice stating that ' Due to current industrial action, I
 am unable to respond to your request.'<br>99% in favour,
-three abstentions</p><p>4. Should any member of these combined
+three abstentions</p>
+
+<p>4. Should any member of these combined
 unions be suspended by the employer for participating in
 industrial action, all members of these combined unions
 shall stop work immediately upon notification and not return
 to work until meetings have resolved on how to
-proceed.<br>99% in favour, two absentions</p><p>5. (Voted on by
+proceed.<br>99% in favour, two absentions</p>
+
+<p>5. (Voted on by
 secret ballot). Members authorise the combined unions
 negotiating team to plan and initiate rolling stoppages
 across all campuses with the intention of minimising notice
 and maximising disruption of employer activities.<br>91% in
-favour; 9% against, 1 abstentions (written on ballot)</p><p>6.
+favour; 9% against, 1 abstentions (written on ballot)</p>
+
+<p>6.
 If by Monday 9 September, no significant offer of increase
 has been made by the employer, the negotiating team is
 authorised to institute a work to rule in appropriate
-areas.<br>99% in favour, two absentions</p><p>Contact
-Persons:</p><p>Shef Rogers, Spokesperson for Combined
-Unions<br>479-8892; fax 479-8558; home phone 473-0527</p><p>Mark
+areas.<br>99% in favour, two absentions</p>
+
+<p>Contact
+Persons:</p>
+
+<p>Shef Rogers, Spokesperson for Combined
+Unions<br>479-8892; fax 479-8558; home phone 473-0527</p>
+
+<p>Mark
 Ryan, co-advocate for Combined Unions<br>Office03-474-7400;
 cell phone
-025-915-138<br>
-</p></a><p><a href="http://www.aus.ac.nz ">
+025-915-138<br><p></a><p><a href="http://www.aus.ac.nz ">
 </a>
-         <br>
-</p><div id="story-footer" style="padding:20px 0;">
+         <br><p>
 
-<div id="div-gpt-ad-1493962836337-6" style="min-width: 300px; min-height: 250px; text-align: center;"><div style="text-align:center; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-  
-</div>
-</div>
+
 <!--
 
 

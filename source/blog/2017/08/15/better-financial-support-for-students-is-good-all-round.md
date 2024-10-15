@@ -17,6 +17,7 @@ the country agrees.’</p>
 
 <p>‘It’s time for all parties
 to respond to this call. Better financial support is good
-for students, and good for the country.’</p><p>ENDS
-</p>
+for students, and good for the country.’</p>
+
+<p>ENDS<p>
 

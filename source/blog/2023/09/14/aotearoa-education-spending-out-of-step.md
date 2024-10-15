@@ -78,6 +78,4 @@ future of the tertiary sector and funding increases that are
 fairly allocated to staff
 costs.”</p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

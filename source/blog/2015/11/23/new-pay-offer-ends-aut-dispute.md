@@ -53,9 +53,6 @@ polytechnics across the rest of the country and also from
 AUT's students,” says
 Prince.</p>
 
-<p>ends
-</p>
+<p>ends<p>
 
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
-         </p>
+<p></p>

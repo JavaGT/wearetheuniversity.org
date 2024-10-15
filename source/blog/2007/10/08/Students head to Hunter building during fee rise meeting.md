@@ -1,6 +1,6 @@
 ---
 title: Students head to Hunter building during fee rise meeting
-slug: students-head-to-hunter-building-during-fee-rise-meeting
+slug: students-he
 date: 2010-10-08
 source: https://www.youtube.com/watch?v=Jd1Pji4Md1c
 source_name: SalientTV

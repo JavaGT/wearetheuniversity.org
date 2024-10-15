@@ -30,7 +30,7 @@ councils and one staff member of councils be required, with
 polytechs and universities given the option of having two
 staff representative if they want.</p>
 
-<p> “Who would you
+<p>“Who would you
 expect to hear from if you were making strategic decisions
 about what support and academic services are needed for
 today’s learners to ensure they remain engaged in their
@@ -44,8 +44,7 @@ majority of the membership made up of ministerial
 appointments and those with corporate expertise. If teaching
 and learning is to be at the heart of our tertiary education
 system, as it should be in order to deliver daily for all
-kiwis, parliament must act now.”
-</p>
+kiwis, parliament must act now.”<p>
 
 <p>NZTEU president Sandra
 Grey says the very significant failures in our tertiary
@@ -83,6 +82,5 @@ committee heard the strong submissions from TEU members on
 the need to increase the number of seats on polytechnic
 councils as well, though it has only recommended lifting to
 ten at
-most.
-</p>
+most.<p>
 
