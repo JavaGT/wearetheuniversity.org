@@ -6,8 +6,6 @@ source: https://web.archive.org/web/20130208031139/http://wearetheuniversity.org
 author: We Are The University
 author-slug: we-are-the-university
 ---
-
-
 Monday 14th  
 Workshop 1  
 Esperanto Society and UNANZ Presentation  

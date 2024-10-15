@@ -7,21 +7,15 @@ source-name: Scoop
 author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
-<div class="story-top">
-           <h1>Students Suffer While Vice Chancellor Sidesteps</h1>
 
-           <span class="byline"><b>Monday,  6 May 2024,  1:20 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Tertiary_Education_Union">Tertiary Education Union</a></b></span>
-
-         </div>
-
-	 <p>
-         </p><p>In an extraordinary step, Auditor-General John Ryan has
+<p>In an extraordinary step, Auditor-General John Ryan has
 written
 an open letter to Te Whare Wānanga o Waikato | The
 University of Waikato Chancellor Rt Hon Sir Anand Satyanand
 to make serious criticisms of the university’s procurement
-processes.</p><p>The Auditor General says his office has
+processes.</p>
+
+<p>The Auditor General says his office has
 “not been provided with any formal record, such as a
 business case or procurement plan (or equivalent document),
 that sets out the services that were needed and how the
@@ -29,17 +23,23 @@ procurement would be done. We have also not been provided
 with a satisfactory explanation or analysis and
 documentation to support the Vice-Chancellor’s view that
 the contractor was the only suitable option to deliver the
-services.”</p><p>Te Hautū Kahurangi | Tertiary Education
+services.”</p>
+
+<p>Te Hautū Kahurangi | Tertiary Education
 Union Kaiwhakahaere | Organiser Shane Vugler shares the
 Auditor General’s concerns. “Procurement policies and
 processes are there to protect universities and state sector
 organisations from accusations of corruption and/or
 reputational a damage from the perception of
-corruption.”</p><p>“When a Vice Chancellor uses his
+corruption.”</p>
+
+<p>“When a Vice Chancellor uses his
 power, as the Auditor General puts it, “to put the usual
 [procurement] processes to one side” then as a consequence
 he puts the university’s integrity and reputation at
-risk.”</p><p>“While the university continues to pay
+risk.”</p>
+
+<p>“While the university continues to pay
 Joyce Advisory Limited undisclosed sums of money for
 undocumented services and outcomes, he is cutting $6-7
 million out of the university’s personnel costs. These
@@ -48,45 +48,22 @@ able to deliver to students at the University of Waikato.
 They also significantly increase workloads of staff at a
 time when student numbers have increased
 significantly.”</p>
-<div class="article-left-box-wrapper"><div class="article-left-box">
-        
 
-
-
-
-<div class="headline-right"><div id="in-cont" style="background:white;">
- <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-
-  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
-@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
-<!-- /1688062/Scoop_Super-Rectangle -->
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-</script>
-   </div>
-
-  </div> 
-</div>
-</div>
-
-</div></div>
 <p>TEU members call on the Chancellor
 to take action, particularly in light of the Auditor
 General’s damning observation that “the University does
 not seem to appreciate that it is accountable to Parliament
 and the public for whether it has followed appropriate
-processes when spending public money.”</p><p>Vugler says
+processes when spending public money.”</p>
+
+<p>Vugler says
 “it’s time for the Vice Chancellor to be held
-accountable.”</p><p>TEU will follow up with the Minister,
+accountable.”</p>
+
+<p>TEU will follow up with the Minister,
 TEC and the Chancellor to clarify next
-steps.</p><!-- LINKS REMOVED 
- SUB:0 URL:ED2405/S00024/students-suffer-while-vice-chancellor-sidesteps.htm -->
+steps.</p>
+
 <p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
-  LINKS NOT REMOVED 
-  SUB:0
-  URL:ED2405/S00024/students-suffer-while-vice-chancellor-sidesteps.htm
- -->
-         </p><div id="byline-block"><div class="byline-block byline-block-light">Find more from <a href="https://info.scoop.co.nz/Tertiary_Education_Union">Tertiary Education Union</a> on InfoPages.</div></div>
-         <div class="cleaner">&nbsp;</div>
+<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
+         </p>

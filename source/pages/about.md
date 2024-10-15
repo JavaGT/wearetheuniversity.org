@@ -16,9 +16,5 @@ We are committed to:
 - No privatisation of education.
 - Education and research should be driven by the needs of people, not the interests of the market.
 - Management is not the University. 
-- Students, academics and workers all make this place what it is, and the truth is **we are not a product of the university, WE ARE THE UNIVERSITY!**
-
-
-
-# Whakapapa
+- Students, academics and workers all make this place what it is, and the truth is **we are not a product of the university, WE ARE THE UNIVERSITY!**# Whakapapa
 Photos of We Are The University early 2010s. https://www.flickr.com/photos/67852624@N02/with/6945443611

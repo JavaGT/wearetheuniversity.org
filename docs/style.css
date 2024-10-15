@@ -35,10 +35,7 @@ body {
         --text-highlight: #79c3ff;
         --text-tint: #d865f2;
     }
-}
-
-
-.subtitle {
+}.subtitle {
     font-family: var(--body-font)
 }
 
@@ -191,10 +188,7 @@ abbr:hover::after {
     padding: 0.5em;
     border-radius: 0 1rem 1rem 1rem;
     border: 1px solid var(--color-primary);
-}
-
-
-section.body {
+}section.body {
     max-width: 800px;
     margin: 0 auto;
 }
@@ -218,10 +212,7 @@ a {
 
 a:not(:has(*)):not([href^="#"]):not(h1 a):not(h2 a):not(h3 a):not(h4 a):not(h5 a):not(h6 a) {
     line-break: anywhere;
-}
-
-
-a:hover {
+}a:hover {
     color: var(--text-primary-inverse);
 }
 
@@ -277,10 +268,7 @@ nav .socials {
 
 .socials svg {
     fill: currentColor;
-}
-
-
-@media print {
+}@media print {
     html {
         font-size: 0.9rem;
     }

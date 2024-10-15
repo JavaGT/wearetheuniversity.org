@@ -59,10 +59,7 @@ Image by Owen Connors, undergraduate student at Elam School of Fine Arts, Auckla
 
 ---
 
-![Compiled by a History student at Auckland University](/media/vol1-radar.png)
-
-
----
+![Compiled by a History student at Auckland University](/media/vol1-radar.png)---
 
 # [Corporate Knowledge](/journals/vol-1/corporate-knowledge)
 ## Manon Revuelta, former undergraduate English student at Auckland University

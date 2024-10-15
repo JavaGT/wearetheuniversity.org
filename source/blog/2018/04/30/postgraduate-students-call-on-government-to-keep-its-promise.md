@@ -10,10 +10,7 @@ author-slug: sarah-robson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CX0aj1jM5bA?si=Nk_YK44uBA2okkkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hundreds of University of Auckland students and supporters protested today against the planned closure of several libraries over fears about what it will mean for their learning and research.
-
-
----
+Hundreds of University of Auckland students and supporters protested today against the planned closure of several libraries over fears about what it will mean for their learning and research.---
 
 many hundreds of University of Auckland
 students and supporters have rallied

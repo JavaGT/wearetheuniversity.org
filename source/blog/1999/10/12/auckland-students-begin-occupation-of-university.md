@@ -2,7 +2,6 @@
 title: "Auckland Students Begin Occupation Of University"
 slug: auckland-students-begin-occupation-of-university
 date: 1999-10-12
-path: 1999/October/12/auckland-students-begin-occupation-of-university
 source: https://m.scoop.co.nz/stories/AK9910/S00048/auckland-students-begin-occupation-of-university.htm
 source-name: Scoop
 author: Selwyn Manning - Scoop Auckland

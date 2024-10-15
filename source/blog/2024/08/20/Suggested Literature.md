@@ -6,8 +6,6 @@ source: private communications
 author: anonymous
 author-slug: anonymous
 ---
-
-
 [REDACTED] a reading I've assigned this week (see attached) has a section ("Vulnerability to Persuasion Tactics") that I think you'll find very relevant... 
 [REDACTED]
 

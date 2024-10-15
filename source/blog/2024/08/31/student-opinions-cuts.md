@@ -555,12 +555,7 @@ More fun than large courses, more engaging, better relationships with peers and 
 
 ---
 
-Really good and such a privileged opportunity to be in a small course where it is easier to connect with lecturers and Students. It gave me an opportunity to explore my research with interests (arts scholars) which you don't get much of that in another big courses. It has opened my mind to learning so much more of the world and understanding what postgrad potentially would be like. It has also formed a community which the in a massive university is really extremely difficult to find.
-
-
----
-
-
+Really good and such a privileged opportunity to be in a small course where it is easier to connect with lecturers and Students. It gave me an opportunity to explore my research with interests (arts scholars) which you don't get much of that in another big courses. It has opened my mind to learning so much more of the world and understanding what postgrad potentially would be like. It has also formed a community which the in a massive university is really extremely difficult to find.---
 They were far and away my favourite courses. I learnt the most, connected with my peers and the academic staff, and felt the most deeply connected to the university. I would not have stayed studying here for so long if I hadn't had that connection. These courses were the norm for me in my language classes and my Classics classes beyond stage I courses, and they are the reason I loved my degree. I would not have done postgrad without them. In postgrad, small classes allowed me to actually ask questions and engage with course material deeply, which meant I got good grades and kept studying. I also made lifelong friends and got to know the department lecturers well. I loved my small class experience, and the idea of other people not getting the same opportunities as me, when they should be absolutely safe-guarded in a tertiary institution, makes me furious.
 
 ---
@@ -1185,12 +1180,7 @@ They wouldn't, just signing for the good of others :)
 
 ---
 
-The proposed course cuts would be very stupid. I mainly do courses offered by the Faculty of Science, in some of the more popular majors, and small course cuts could limit my degree to a standard of education far below the world standard university which UoA claims to be. I want to take interesting advanced classes, and do the degree I want, not just the degree everyone else in my cohort does.
-
-
----
-
-
+The proposed course cuts would be very stupid. I mainly do courses offered by the Faculty of Science, in some of the more popular majors, and small course cuts could limit my degree to a standard of education far below the world standard university which UoA claims to be. I want to take interesting advanced classes, and do the degree I want, not just the degree everyone else in my cohort does.---
 The majority of the electives for my design degree had less than 80 people in them. The courses that I enjoyed the most, often had small numbers of students (with some classes having less than 30, and even less than 10 students enrolled in the class). If courses under 60 students were cut, a lot of the electives available would be cut, which would mean that students are unable to complete all their degree requirements within the three year time period (for BDes students) or 4+ year period (for conjoint students). This could completely change the structure of the design undergraduate program.
 
 ---
@@ -1291,12 +1281,7 @@ Wouldn't be able to finish. I already have almost had to drop my chinese degree 
 
 ---
 
-My whole degree consists of courses under 60 students.
-
-
----
-
-
+My whole degree consists of courses under 60 students.---
 Theology is already a small course with very little options to fill out this major. The proposed cuts would severely impact fulfilling this major, and thus make fulfilling my degree more difficult.
 
 ---
@@ -1325,18 +1310,8 @@ Former student
 
 ---
 
-Logic and Computation is a tiny degree that most people take as a double major. I doubt it would survive if the cuts happen.
-
-
----
-
-
-They would make my third/half my second year undoable. You simply cannot cover enough content in these courses. The University is making it certain it will get none of the great research benefits of having students affiliated with this university actually be good reasearchers that succeed in their fields.
-
-
----
-
-
+Logic and Computation is a tiny degree that most people take as a double major. I doubt it would survive if the cuts happen.---
+They would make my third/half my second year undoable. You simply cannot cover enough content in these courses. The University is making it certain it will get none of the great research benefits of having students affiliated with this university actually be good reasearchers that succeed in their fields.---
 Lack of cohesion and order, difficulty in planning the degree, and the disappearance of integral areas of study
 
 ---
@@ -1397,22 +1372,12 @@ Much more difficult, boring, and generic
 
 ---
 
-Potential affect to any post grad I might want to do.
-
-
----
-
-
+Potential affect to any post grad I might want to do.---
 It would give prevent me from being able to pursue Drama as a post-graduate it would also limit my choices in courses to take under my degree as an undergrad. This would make me lose passion in what I’m studying as I would no longer be able to focus on it with the specific niche in which I take these smaller classes. I would also feel like my study at UOA would end as soon as I get my undergraduate diploma and I would have to get a PHD or Masters at another University.
 
 ---
 
-Ruin the future education of the students that I teach by removing their access to niche and special ideas
-
-
----
-
-
+Ruin the future education of the students that I teach by removing their access to niche and special ideas---
 While I am close to finishing my undergraduate studies and these cuts will have little impact on my current programme, these cuts willl certainly make me think twice about whether UoA is the kind of place I would want to return to for post-grad. Sacrificing the quality of classes for quantities of students does not seem at all beneficial for educational outcomes, nor for the wellbeing of students or staff. These proposals will colour the UoA that I describe when asked to by prospective students and almost certainly keep me from pursuing further study here.
 
 ---
@@ -1429,12 +1394,7 @@ I would've had to choose much less interesting UG papers
 
 ---
 
-The cuts would limit the electives I could take within my course making it less enjoyable and ultimately, not worth it for some students.
-
-
----
-
-
+The cuts would limit the electives I could take within my course making it less enjoyable and ultimately, not worth it for some students.---
 I wouldn't be able to graduate anymore lmao. All my postgrade CS courses were tiny too, so no Honours degree. You know there's only 2 BAdvSci Hons students in their final year aye???!!!
 
 ---
@@ -1463,12 +1423,7 @@ courses that i have wanted to take as i have interest in them for my future care
 
 ---
 
-In Biology especially there are a lot of specialties and pathways. We start off in MASSIVE 300+ person courses and then as people split up to go down their pathways, classes get smaller and more applicable to the actual biological specialty you want to be employed in. Whether its Plant science, microbiology, genetics, Conservation ecology, Marine science Zoology etc.
-
-
----
-
-
+In Biology especially there are a lot of specialties and pathways. We start off in MASSIVE 300+ person courses and then as people split up to go down their pathways, classes get smaller and more applicable to the actual biological specialty you want to be employed in. Whether its Plant science, microbiology, genetics, Conservation ecology, Marine science Zoology etc.---
 The proposed course cuts would take away a majority of the classes I value and of which contributed significantly to the enjoyment and quality of my degree. In particular, I dislike how there has been little to no student consultation on this matter
 
 ---
@@ -1577,12 +1532,7 @@ Not any more as I dropped the conjoint earlier this year due to workload, but ta
 
 ---
 
-all of my art history classes this year have had considerably less than 60 people so I do not know what would happen to my classes if the cuts went through. and my media/film degree has already been altered due to cuts since registering at this university while it has more students in the courses any more alterations would be detrimental to that section of my degree
-
-
----
-
-
+all of my art history classes this year have had considerably less than 60 people so I do not know what would happen to my classes if the cuts went through. and my media/film degree has already been altered due to cuts since registering at this university while it has more students in the courses any more alterations would be detrimental to that section of my degree---
 I would mourn for the social lives of students to come.
 
 ---
@@ -1647,12 +1597,7 @@ I am a COPEX student and would not be able to continue my exchange and have to l
 
 ---
 
-It'd slim down an already not extensive selection of courses, and make it feel more bland and generalized. Feels less like a specialist, personally fulfilling education, more of a jump to \"I have a degree in _\"
-
-
----
-
-
+It'd slim down an already not extensive selection of courses, and make it feel more bland and generalized. Feels less like a specialist, personally fulfilling education, more of a jump to \"I have a degree in _\"---
 Fortunately, I am in my last year of art scholars but It would be a devastating thing to cut it for other students who are interested and wanting to be there and currently taking it. If cut it makes it even more harder for students to become part of a community and also further expand their knowledge aswell as research project opportunities.
 
 ---
@@ -1661,18 +1606,8 @@ It could cut the Classics department entirely, which would be a tragedy. So many
 
 ---
 
-With the proposed course cuts I would be unable to complete my Masters program and I would've been unable to complete my undergraduate degree (due to my Latin major). It is not acceptable to propose course cuts.
-
-
----
-
-
-In regards to drama, you physically cannot teach a practical drama class with more than about 20-30 students in it, and that it pushing it too. If you cannot teach a practical drama class, then your degree is severely lacking in any standards for what someone might consider sufficient in being awarded a degree in drama.
-
-
----
-
-
+With the proposed course cuts I would be unable to complete my Masters program and I would've been unable to complete my undergraduate degree (due to my Latin major). It is not acceptable to propose course cuts.---
+In regards to drama, you physically cannot teach a practical drama class with more than about 20-30 students in it, and that it pushing it too. If you cannot teach a practical drama class, then your degree is severely lacking in any standards for what someone might consider sufficient in being awarded a degree in drama.---
 A small number of courses to choose between would make the quality of the degree worse and devalue the student experience, as there will be less opportunities to specialise your degree making it harder to attain the knowledge/experience need for post-grade work or career paths. It was also reduce the potential for teachers to engage with students as most papers will have larger student numbers
 
 ---
@@ -1737,12 +1672,7 @@ In mathematics, almost all 3rd year papers have very small numbers because the d
 
 ---
 
-I am majoring in English and Philosophy, both of which already combine second and third year papers to be more efficient. This means there are not many options of which papers I can take to complete my majors, especially for English. Further, I've been really looking forward to reaching the later stages of courses, as smaller class sizes make for better learning and interaction with teaching staff.
-
-
----
-
-
+I am majoring in English and Philosophy, both of which already combine second and third year papers to be more efficient. This means there are not many options of which papers I can take to complete my majors, especially for English. Further, I've been really looking forward to reaching the later stages of courses, as smaller class sizes make for better learning and interaction with teaching staff.---
 Will not affect me much as my degree is one year, however if I study further, this will leave me with fewer options than there are.
 
 ---
@@ -1795,28 +1725,13 @@ It would basically get rid of my degree as almost all my courses are small
 
 ---
 
-Cutting Ancient History's language papers would produce significantly worse ancient historians. Learning Greek at uni has done wonders for my engagement with and understanding of larger courses.
-
-
----
-
-
+Cutting Ancient History's language papers would produce significantly worse ancient historians. Learning Greek at uni has done wonders for my engagement with and understanding of larger courses.---
 Greatly reduce choice, which is what I valued so highly and made me want to do a conjoint. If small courses were cut and I had less options in my arts degree I would probably just be forced to drop it. Furthermore, the extra choice helped logistically, there were a few politics papers and sociology papers that I wanted to take but couldn't due to them clashing with the mandatory and unmovable law courses. I assume this issue would get worse with less small courses.
 
 ---
 
-The course cuts would mean that I would have to spend more than 5-6 years completing my conjoint  Removing any courses under the new proposal would be very Unfair to those who have been waiting as it leaves people unable to complete degrees
-
-
----
-
-
-Most of the stage II and III science papers I have taken and will take, and all bar one of the arts papers I have taken so far were less than 60 people. These cuts would make it impossible to finish my degree, and remove any amount of choice I have in my papers.
-
-
----
-
-
+The course cuts would mean that I would have to spend more than 5-6 years completing my conjoint  Removing any courses under the new proposal would be very Unfair to those who have been waiting as it leaves people unable to complete degrees---
+Most of the stage II and III science papers I have taken and will take, and all bar one of the arts papers I have taken so far were less than 60 people. These cuts would make it impossible to finish my degree, and remove any amount of choice I have in my papers.---
 My whole degree would disappear if small courses were cut.
 
 ---
@@ -1877,12 +1792,7 @@ I want to continue learning Spanish, particularly in class as conversion with tu
 
 ---
 
-While these cuts possibly wouldn't affect me personally, I know that some of the courses I have taken over the course of my degree definitely had under 60 students. If these courses were cut, there would have been no feasible way to complete my qualification in the timeframe requirement for my programme.
-
-
----
-
-
+While these cuts possibly wouldn't affect me personally, I know that some of the courses I have taken over the course of my degree definitely had under 60 students. If these courses were cut, there would have been no feasible way to complete my qualification in the timeframe requirement for my programme.---
 I transferred to UOA this year after beginning my studies at AUT. I decided to transfer as AUT does not offer French as a language. I have nearly finished the required courses for my psych major but still need about 6 courses to finish my french major. This is about 1 year of study ( including some courses I plan to take in 2025 summer school).
 
 ---
@@ -1931,18 +1841,8 @@ Well I just wouldn’t be able to complete it
 
 ---
 
-They may hinder my options for post graduate study and limit arts classes/courses in general
-
-
----
-
-
-I quite literally cannot finish my degree if these courses are cut. Specifically Asian 303 and Chinese 301 are integral to my degree, as they are a lot of basis on my majors and are straight up required. I have no idea what I would do if these required courses are cut.
-
-
----
-
-
+They may hinder my options for post graduate study and limit arts classes/courses in general---
+I quite literally cannot finish my degree if these courses are cut. Specifically Asian 303 and Chinese 301 are integral to my degree, as they are a lot of basis on my majors and are straight up required. I have no idea what I would do if these required courses are cut.---
 I need to pass Asian 303 to graduate Asian Studies and if this course gets cut, I have absolutely no idea how to graduate.
 
 ---
@@ -2003,12 +1903,7 @@ They would limit my choices for course options, especially for the arts side of 
 
 ---
 
-For my Japanese and Drama degrees, this would affect my stage 2 and 3 options.
-
-
----
-
-
+For my Japanese and Drama degrees, this would affect my stage 2 and 3 options.---
 I enrolled in a Diploma in Languages because I was under the impression I will be able to do the papers required in the future, but if they are going to be cut then I will not be able to complete it. What is the point of offering a Diploma in Languages at the university if most of the courses available for it are going to be cut?
 
 ---
@@ -2045,12 +1940,7 @@ I could no longer statisfy my requirements on 300 level Phsyics papers and my Ca
 
 ---
 
-My degree would get fully affected, global studies is nothing without the small courses and without languages. Besides they are so essential for the outside world its ironic how they r cutting them. Also it looks really bad on the University to cut maori courses but at the same time promote maori inclusion in other areas.
-
-
----
-
-
+My degree would get fully affected, global studies is nothing without the small courses and without languages. Besides they are so essential for the outside world its ironic how they r cutting them. Also it looks really bad on the University to cut maori courses but at the same time promote maori inclusion in other areas.---
 I would have been unable to complete my BA and BA Hons with the proposed cuts. As an undergrad student, I struggled to do well in large courses. Had the proposed cuts occurred when I was in undergrad, they would have negatively impacted my chances at pursuing postgraduate studies.
 
 ---
@@ -2155,12 +2045,7 @@ Without small courses i wouldn’t have a degree. All of my favourite courses ha
 
 ---
 
-They would reduce the variety of courses I could take and subsequently narrow the degree to such an extent that it would barely be applicable to the specialty I chose. The variety of interesting courses available was the reason I decided to do a postgraduate diploma at UoA, so to hear that these offerings will be reduced is not only dismaying but downright disappointing. I understand that the university needs to make enough money to continue running, but perhaps the cuts that should be on the table are those of high level employees earning $750,000 in a year instead of the actual academic content available.
-
-
----
-
-
+They would reduce the variety of courses I could take and subsequently narrow the degree to such an extent that it would barely be applicable to the specialty I chose. The variety of interesting courses available was the reason I decided to do a postgraduate diploma at UoA, so to hear that these offerings will be reduced is not only dismaying but downright disappointing. I understand that the university needs to make enough money to continue running, but perhaps the cuts that should be on the table are those of high level employees earning $750,000 in a year instead of the actual academic content available.---
 I don’t think course cut is a good idea for affected students.
 
 ---
@@ -2197,12 +2082,7 @@ Probably not but is still good to have small course for others
 
 ---
 
-It would cut majority of GISCI papers and a significant portion of relevant geography papers in Bachelors. It would cut off any opportunity for me to pursue PostGrad in Environmental Science.
-
-
----
-
-
+It would cut majority of GISCI papers and a significant portion of relevant geography papers in Bachelors. It would cut off any opportunity for me to pursue PostGrad in Environmental Science.---
 While it may not affect me as much, I am worried that my friends doing arts courses may have to compromise their enjoyment of papers and conglomerate with a larger cohort with fewer chances of support. I worry about both majors, especially since geography, as both a science and arts major, may be affected by the restructuring. In my current position, I fear the cuts may risk reducing the market further than what it was for the skills I have gained, and I will lose the network of connections I have fostered throughout my years here.
 
 ---
@@ -2251,12 +2131,7 @@ it would make my experience much worse at uni, but I would graduate the same
 
 ---
 
-These cuts could affect my choices next year as third year Anthropology courses are being targeted. It’s really hard avoiding clashes with biology and I really want anthropology to be my main subject, this slashes could impact my chances of graduating with the choices I wanted.
-
-
----
-
-
+These cuts could affect my choices next year as third year Anthropology courses are being targeted. It’s really hard avoiding clashes with biology and I really want anthropology to be my main subject, this slashes could impact my chances of graduating with the choices I wanted.---
 My course options will become very limited
 
 ---

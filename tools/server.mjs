@@ -6,11 +6,7 @@ import { join } from 'path'
 import server from 'server'
 import fsp from 'fs/promises'
 const { get, post } = server.router;
-const { render, status } = server.reply;
-
-
-
-server({
+const { render, status } = server.reply; server({
     port: 8090, security: {
         csrf: false
     }
@@ -27,12 +23,12 @@ server({
         month = month.padStart(2, '0')
         const filePath = join('source', 'blog', year, month, day, `${title}.md`)
         // if file already exists, skip and log
-        try {
-            await readFile(filePath)
-            return status(400, `File already exists (skipping): ${filePath}`)
-        } catch (e) {
-            // file does not exist, continue
-        }
+        // try {
+        //     await readFile(filePath)
+        //     return status(400, `File already exists (skipping): ${filePath}`)
+        // } catch (e) {
+        //     // file does not exist, continue
+        // }
         // remove any line beginning with "date: "
         body = body.replace(/date: .*\n/, '')
         const content = body.replace(regex, `date: ${year}-${month}-${day}`)
@@ -78,10 +74,6 @@ server({
 //         res.writeHead(404)
 //         res.end('Not Found')
 //     }
-// })
-
-
-
-// server.listen(8090, () => {
+// })// server.listen(8090, () => {
 //     console.log('Server listening on port 8090')
 // })

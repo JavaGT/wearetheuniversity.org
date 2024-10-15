@@ -134,7 +134,8 @@ TODO: https://issuu.com/salientmagazine
 - [Who is John Kerry?](http://salientarchive.com/archives/Who-is-John-Kerry-22-03-2004.html)
 - [Why Watch the Media?](http://salientarchive.com/archives/Why-Watch-the-Media-8-03-2004.html)
 - [Witi Ihimaera](http://salientarchive.com/archives/Witi-Ihimaera-8-03-2004.html)
-- [Working title / most obvious pun: A Model Student](http://salientarchive.com/archives/Working-title---most-obvious-pun-A-Model-Student-15-03-2004.html)
+- [Working title / most obvious pun: A Model Student](http://salientarchive.com/archives/Working-title---
+most-obvious-pun-A-Model-Student-15-03-2004.html)
 - [Workout for Winter Wellbeing: Prevent common colds, influenza (flu) and meningitis](http://salientarchive.com/archives/Workout-for-Winter-Wellbeing-Prevent-common-colds-influenza-flu-and-meningitis-29-03-2004.html)
 - [You’re indigenous? – So What?!?!](http://salientarchive.com/archives/Youre-indigenous--So-What-22-03-2004.html)
 - [A Day in the Life](http://salientarchive.com/archives/A-Day-in-the-Life-5-04-2004.html)
@@ -408,7 +409,8 @@ TODO: https://issuu.com/salientmagazine
 - [Musical Island Boys: Nga Toa O Te Ao](http://salientarchive.com/archives/Musical-Island-Boys-Nga-Toa-O-Te-Ao-24-07-2006.html)
 - [My eyes are bleeding](http://salientarchive.com/archives/My-eyes-are-bleeding-10-07-2006.html)
 - [My eyes are bleeding: A terrible week to be a Dominion Post reader](http://salientarchive.com/archives/My-eyes-are-bleeding-A-terrible-week-to-be-a-Dominion-Post-reader-31-07-2006.html)
-- [my favourite my favourite writer… Fleur Adcock (1934- )](http://salientarchive.com/archives/my-favourite-my-favourite-writer-Fleur-Adcock-1934---17-07-2006.html)
+- [my favourite my favourite writer… Fleur Adcock (1934- )](http://salientarchive.com/archives/my-favourite-my-favourite-writer-Fleur-Adcock-1934---
+17-07-2006.html)
 - [My Life Hasn’t Been the Same Since Those Fags in Canada Were Allowed to Get Married](http://salientarchive.com/archives/My-Life-Hasnt-Been-the-Same-Since-Those-Fags-in-Canada-Were-Allowed-to-Get-Married-10-07-2006.html)
 - [New Superman Superpowers for ‘06](http://salientarchive.com/archives/New-Superman-Superpowers-for-06-10-07-2006.html)
 - **[New Tertiary Funding Model Applauded by most – Except the Nats](http://salientarchive.com/archives/New-Tertiary-Funding-Model-Applauded-by-most--Except-the-Nats-31-07-2006.html)**
@@ -437,7 +439,8 @@ TODO: https://issuu.com/salientmagazine
 - [Te Hokinga Ki Te Māhia](http://salientarchive.com/archives/Te-Hokinga-Ki-Te-Mhia-24-07-2006.html)
 - [Te Huinga Tauira](http://salientarchive.com/archives/Te-Huinga-Tauira-24-07-2006.html)
 - [Te Kaichakahaere O Ngai Tauira](http://salientarchive.com/archives/Te-Kaichakahaere-O-Ngai-Tauira-24-07-2006.html)
-- [TE KAWA A MĀUI / SCHOOL OF MĀORI STUDIES: Postgraduate Students](http://salientarchive.com/archives/TE-KAWA-A-MUI---SCHOOL-OF-MORI-STUDIES-Postgraduate-Students-24-07-2006.html)
+- [TE KAWA A MĀUI / SCHOOL OF MĀORI STUDIES: Postgraduate Students](http://salientarchive.com/archives/TE-KAWA-A-MUI---
+SCHOOL-OF-MORI-STUDIES-Postgraduate-Students-24-07-2006.html)
 - [Te Mura O Te Ahi](http://salientarchive.com/archives/Te-Mura-O-Te-Ahi-24-07-2006.html)
 - [Te Pouaka Whakaata Maori](http://salientarchive.com/archives/Te-Pouaka-Whakaata-Maori-24-07-2006.html)
 - [Te Wiki O Te Reo Maori](http://salientarchive.com/archives/Te-Wiki-O-Te-Reo-Maori-24-07-2006.html)
@@ -471,7 +474,8 @@ TODO: https://issuu.com/salientmagazine
 - [Yawn.](http://salientarchive.com/archives/Yawn-18-07-2006.html)
 - **[Yet Another VUWSA By-Election Called: Low voter turnout probable](http://salientarchive.com/archives/Yet-Another-VUWSA-By-Election-Called-Low-voter-turnout-probable-17-07-2006.html)**
 - **[Youth for peace: our future, here and now.](http://salientarchive.com/archives/Youth-for-peace-our-future-here-and-now-10-07-2006.html)**
-- [You’ve obviously fucked up your life when . . .](http://salientarchive.com/archives/Youve-obviously-fucked-up-your-life-when----10-07-2006.html)
+- [You’ve obviously fucked up your life when . . .](http://salientarchive.com/archives/Youve-obviously-fucked-up-your-life-when---
+-10-07-2006.html)
 - [All The Money Or The Simple Life, Honey](http://salientarchive.com/archives/All-The-Money-Or-The-Simple-Life-Honey-14-08-2006.html)
 - [At Least Dan Brown Can Spell](http://salientarchive.com/archives/At-Least-Dan-Brown-Can-Spell-7-08-2006.html)
 - [Bath House Fun](http://salientarchive.com/archives/Bath-House-Fun-8-08-2006.html)
@@ -664,7 +668,8 @@ TODO: https://issuu.com/salientmagazine
 - [Fifty Degrees Below](http://salientarchive.com/archives/Fifty-Degrees-Below-9-10-2006.html)
 - [!Forward Russia! – Give Me A Wall](http://salientarchive.com/archives/Forward-Russia--Give-Me-A-Wall-2-10-2006.html)
 - [Fuck Off James](http://salientarchive.com/archives/Fuck-Off-James-16-10-2006.html)
-- [Geoff Cochrane (1951- )](http://salientarchive.com/archives/Geoff-Cochrane-1951---9-10-2006.html)
+- [Geoff Cochrane (1951- )](http://salientarchive.com/archives/Geoff-Cochrane-1951---
+9-10-2006.html)
 - [Handle the Jandal](http://salientarchive.com/archives/Handle-the-Jandal-2-10-2006.html)
 - [Has Anyone Ever Found it Funny That Hunt Sounds a Little Like Cunt?](http://salientarchive.com/archives/Has-Anyone-Ever-Found-it-Funny-That-Hunt-Sounds-a-Little-Like-Cunt-9-10-2006.html)
 - [Hey, Play That Sad Walking Away Music From The Incredible Hulk…](http://salientarchive.com/archives/Hey-Play-That-Sad-Walking-Away-Music-From-The-Incredible-Hulk-16-10-2006.html)
@@ -678,8 +683,10 @@ TODO: https://issuu.com/salientmagazine
 - [News In Brief](http://salientarchive.com/archives/News-In-Brief-2-10-2006.html)
 - [The Final Word](http://salientarchive.com/archives/The-Final-Word-16-10-2006.html)
 - [I’m Actually Kind of Glad that the Koreans Have a Nuclear Warhead](http://salientarchive.com/archives/Im-Actually-Kind-of-Glad-that-the-Koreans-Have-a-Nuclear-Warhead-16-10-2006.html)
-- [Jo Randerson (1973- )](http://salientarchive.com/archives/Jo-Randerson-1973---2-10-2006.html)
-- [John Ashbery (1927- )](http://salientarchive.com/archives/John-Ashbery-1927---16-10-2006.html)
+- [Jo Randerson (1973- )](http://salientarchive.com/archives/Jo-Randerson-1973---
+2-10-2006.html)
+- [John Ashbery (1927- )](http://salientarchive.com/archives/John-Ashbery-1927---
+16-10-2006.html)
 - [Jonathan and Paper Dolls](http://salientarchive.com/archives/Jonathan-and-Paper-Dolls-9-10-2006.html)
 - [Junip – Black Refuge EP](http://salientarchive.com/archives/Junip--Black-Refuge-EP-2-10-2006.html)
 - [Know Your Enemy](http://salientarchive.com/archives/Know-Your-Enemy-9-10-2006.html)
@@ -2923,7 +2930,8 @@ TODO: https://issuu.com/salientmagazine
 - [LOL News!](http://salientarchive.com/archives/LOL-News-7-09-2009.html)
 - [Maxwell: Blacksummers’night](http://salientarchive.com/archives/Maxwell-Blacksummersnight-21-09-2009.html)
 - [Men: How to be a better lover: the interview](http://salientarchive.com/archives/Men-How-to-be-a-better-lover-the-interview-28-09-2009.html)
-- [Milkshakes McCaffrey   and the Perilous Points of Order](http://salientarchive.com/archives/Milkshakes-McCaffrey---and-the-Perilous-Points-of-Order-21-09-2009.html)
+- [Milkshakes McCaffrey   and the Perilous Points of Order](http://salientarchive.com/archives/Milkshakes-McCaffrey---
+and-the-Perilous-Points-of-Order-21-09-2009.html)
 - [Moon](http://salientarchive.com/archives/Moon-28-09-2009.html)
 - [New Zealand String Quartet](http://salientarchive.com/archives/New-Zealand-String-Quartet-21-09-2009.html)
 - [NZ Prisons—what’s going on in there?](http://salientarchive.com/archives/NZ-Prisonswhats-going-on-in-there-28-09-2009.html)
@@ -3162,7 +3170,8 @@ TODO: https://issuu.com/salientmagazine
 - [Learning to think](http://salientarchive.com/archives/Learning-to-think-22-03-2010.html)
 - [Leave your guns at home, Gerry](http://salientarchive.com/archives/Leave-your-guns-at-home-Gerry-8-03-2010.html)
 - [Liars—Sisterworld](http://salientarchive.com/archives/LiarsSisterworld-8-03-2010.html)
-- [Lindstrøm & Christabelle –  Real Life Is No Cool](http://salientarchive.com/archives/Lindstrm-&-Christabelle---Real-Life-Is-No-Cool-22-03-2010.html)
+- [Lindstrøm & Christabelle –  Real Life Is No Cool](http://salientarchive.com/archives/Lindstrm-&-Christabelle---
+Real-Life-Is-No-Cool-22-03-2010.html)
 - [LOL news](http://salientarchive.com/archives/LOL-news-1-03-2010.html)
 - [LOL news](http://salientarchive.com/archives/LOL-news-8-03-2010.html)
 - [Mao’s Last Dancer](http://salientarchive.com/archives/Maos-Last-Dancer-22-03-2010.html)
@@ -3228,7 +3237,8 @@ TODO: https://issuu.com/salientmagazine
 - [Uther Dean. Gazes starward. Tells you what to do.](http://salientarchive.com/archives/Uther-Dean-Gazes-starward-Tells-you-what-to-do-1-03-2010.html)
 - [Viognier](http://salientarchive.com/archives/Viognier-29-03-2010.html)
 - [VSM: 2010’s Most Contentious Acronym](http://salientarchive.com/archives/VSM-2010s-Most-Contentious-Acronym-8-03-2010.html)
-- [VSM / CSM Feature—Bonus DVD](http://salientarchive.com/archives/VSM---CSM-FeatureBonus-DVD-8-03-2010.html)
+- [VSM / CSM Feature—Bonus DVD](http://salientarchive.com/archives/VSM---
+CSM-FeatureBonus-DVD-8-03-2010.html)
 - [WCC to take smoke out of the (smaller) big smoke](http://salientarchive.com/archives/WCC-to-take-smoke-out-of-the-smaller-big-smoke-8-03-2010.html)
 - [Whip it — Whip it Good](http://salientarchive.com/archives/Whip-it--Whip-it-Good-29-03-2010.html)
 - [Who Killed Amanda Palmer?](http://salientarchive.com/archives/Who-Killed-Amanda-Palmer-17-03-2010.html)
@@ -3500,7 +3510,10 @@ TODO: https://issuu.com/salientmagazine
 - [Te Pire WAI262](http://salientarchive.com/archives/Te-Pire-WAI262-26-07-2010.html)
 - [That’s So Gay](http://salientarchive.com/archives/Thats-So-Gay-12-07-2010.html)
 - [The 2010 World Cup: Final Preparations](http://salientarchive.com/archives/The-2010-World-Cup-Final-Preparations-19-07-2010.html)
-- [The Ā – Ē – Ī – Ō – Ū of Where to Learn the Māori Language!](http://salientarchive.com/archives/The----------of-Where-to-Learn-the-Mori-Language-26-07-2010.html)
+- [The Ā – Ē – Ī – Ō – Ū of Where to Learn the Māori Language!](http://salientarchive.com/archives/The---
+---
+---
+-of-Where-to-Learn-the-Mori-Language-26-07-2010.html)
 - [The birth of modern contraception](http://salientarchive.com/archives/The-birth-of-modern-contraception-12-07-2010.html)
 - [This is my story—Susan Rose](http://salientarchive.com/archives/This-is-my-storySusan-Rose-26-07-2010.html)
 - [This Way of Life](http://salientarchive.com/archives/This-Way-of-Life-26-07-2010.html)
@@ -3519,7 +3532,8 @@ TODO: https://issuu.com/salientmagazine
 - [“Whaia te karamatamata, ki tōna tāpuhipuhitanga”](http://salientarchive.com/archives/Whaia-te-karamatamata-ki-tna-tpuhipuhitanga-26-07-2010.html)
 - [Whakaora i a tātau mahi!](http://salientarchive.com/archives/Whakaora-i-a-ttau-mahi-26-07-2010.html)
 - [Whiti—Toni Huata](http://salientarchive.com/archives/WhitiToni-Huata-26-07-2010.html)
-- [/\\/\\ /\\ Y /\\—M.I.A.](http://salientarchive.com/archives/-----Y--MIA-19-07-2010.html)
+- [/\\/\\ /\\ Y /\\—M.I.A.](http://salientarchive.com/archives/---
+--Y--MIA-19-07-2010.html)
 - [Young and Hungry 2010](http://salientarchive.com/archives/Young-and-Hungry-2010-19-07-2010.html)
 - [A response to ‘That’s So Gay’, 9 August](http://salientarchive.com/archives/A-response-to-Thats-So-Gay-9-August-16-08-2010.html)
 - [A Week of Emerson’s](http://salientarchive.com/archives/A-Week-of-Emersons-2-08-2010.html)
@@ -3709,7 +3723,8 @@ TODO: https://issuu.com/salientmagazine
 - [Salient rates: 90s fashion faux pas](http://salientarchive.com/archives/Salient-rates-90s-fashion-faux-pas-6-09-2010.html)
 - **[Salient rates: New Zealand universities](http://salientarchive.com/archives/Salient-rates-New-Zealand-universities-27-09-2010.html)**
 - [Sets: An interview](http://salientarchive.com/archives/Sets-An-interview-20-09-2010.html)
-- [Sharpie Crows Golf Course / Mass Grave EP](http://salientarchive.com/archives/Sharpie-Crows-Golf-Course---Mass-Grave-EP-6-09-2010.html)
+- [Sharpie Crows Golf Course / Mass Grave EP](http://salientarchive.com/archives/Sharpie-Crows-Golf-Course---
+Mass-Grave-EP-6-09-2010.html)
 - [Silver screen](http://salientarchive.com/archives/Silver-screen-27-09-2010.html)
 - [s&m](http://salientarchive.com/archives/s&m-13-09-2010.html)
 - **[Strength, unity and solidarity: collectives and activism in New Zealand](http://salientarchive.com/archives/Strength-unity-and-solidarity-collectives-and-activism-in-New-Zealand-20-09-2010.html)**
@@ -4385,7 +4400,8 @@ TODO: https://issuu.com/salientmagazine
 - [Harry Potter and the Deathly Hallows, Pt. 2](http://salientarchive.com/archives/Harry-Potter-and-the-Deathly-Hallows-Pt-2-8-08-2011.html)
 - [Hasbians, Matt Damon, and a Butch Octopus: Gays and The Media](http://salientarchive.com/archives/Hasbians-Matt-Damon-and-a-Butch-Octopus-Gays-and-The-Media-15-08-2011.html)
 - [Heartbeats](http://salientarchive.com/archives/Heartbeats-8-08-2011.html)
-- [I Am Offended Because –  Chewing the Fat](http://salientarchive.com/archives/I-Am-Offended-Because---Chewing-the-Fat-15-08-2011.html)
+- [I Am Offended Because –  Chewing the Fat](http://salientarchive.com/archives/I-Am-Offended-Because---
+Chewing-the-Fat-15-08-2011.html)
 - [I Am Offended Because… Five People to Wikipedia](http://salientarchive.com/archives/I-Am-Offended-Because-Five-People-to-Wikipedia-8-08-2011.html)
 - [Interview… Karl Stevens](http://salientarchive.com/archives/Interview-Karl-Stevens-1-08-2011.html)
 - [Interviews… I AM GIANT](http://salientarchive.com/archives/Interviews-I-AM-GIANT-1-08-2011.html)
@@ -4460,7 +4476,8 @@ TODO: https://issuu.com/salientmagazine
 - [Animal of the Week – Horned Lizards](http://salientarchive.com/archives/Animal-of-the-Week--Horned-Lizards-19-09-2011.html)
 - [Animal of the week- Patagonian Hare](http://salientarchive.com/archives/Animal-of-the-week--Patagonian-Hare-12-09-2011.html)
 - [Animal Of The Week – Sea Otter](http://salientarchive.com/archives/Animal-Of-The-Week--Sea-Otter-5-09-2011.html)
-- [Anomalous Materials –  Deus Ex:  Human Revolution](http://salientarchive.com/archives/Anomalous-Materials---Deus-Ex--Human-Revolution-19-09-2011.html)
+- [Anomalous Materials –  Deus Ex:  Human Revolution](http://salientarchive.com/archives/Anomalous-Materials---
+Deus-Ex--Human-Revolution-19-09-2011.html)
 - [Aotearoa Student Press Association Awards Results](http://salientarchive.com/archives/Aotearoa-Student-Press-Association-Awards-Results-25-09-2011.html)
 - [Are you ruining the Internet?](http://salientarchive.com/archives/Are-you-ruining-the-Internet-25-09-2011.html)
 - [Ask Constance](http://salientarchive.com/archives/Ask-Constance-5-09-2011.html)
@@ -4469,7 +4486,8 @@ TODO: https://issuu.com/salientmagazine
 - [Auntie Sharon’s Opinion On Love](http://salientarchive.com/archives/Auntie-Sharons-Opinion-On-Love-25-09-2011.html)
 - [Ban the Burqa?](http://salientarchive.com/archives/Ban-the-Burqa-25-09-2011.html)
 - [Beer Will Be Beer – Drinks from Across the Ditch](http://salientarchive.com/archives/Beer-Will-Be-Beer--Drinks-from-Across-the-Ditch-19-09-2011.html)
-- [Beer will be Beer –  Little Beer Quarter](http://salientarchive.com/archives/Beer-will-be-Beer---Little-Beer-Quarter-12-09-2011.html)
+- [Beer will be Beer –  Little Beer Quarter](http://salientarchive.com/archives/Beer-will-be-Beer---
+Little-Beer-Quarter-12-09-2011.html)
 - [Bent](http://salientarchive.com/archives/Bent-12-09-2011.html)
 - [How Gay are You?](http://salientarchive.com/archives/How-Gay-are-You-5-09-2011.html)
 - [Blame the Jews](http://salientarchive.com/archives/Blame-the-Jews-25-09-2011.html)
@@ -4518,7 +4536,8 @@ TODO: https://issuu.com/salientmagazine
 - [It’s not as Simple as just Boys and Girls](http://salientarchive.com/archives/Its-not-as-Simple-as-just-Boys-and-Girls-19-09-2011.html)
 - [John Hart talks about ‘Iron House’](http://salientarchive.com/archives/John-Hart-talks-about-Iron-House-5-09-2011.html)
 - **[Joyce had a good idea about Student Services Fees](http://salientarchive.com/archives/Joyce-had-a-good-idea-about-Student-Services-Fees-5-09-2011.html)**
-- [Laying Down the Law –  A game of two Halves](http://salientarchive.com/archives/Laying-Down-the-Law---A-game-of-two-Halves-19-09-2011.html)
+- [Laying Down the Law –  A game of two Halves](http://salientarchive.com/archives/Laying-Down-the-Law---
+A-game-of-two-Halves-19-09-2011.html)
 - [Laying Down The Law – Harsh Truths](http://salientarchive.com/archives/Laying-Down-The-Law--Harsh-Truths-12-09-2011.html)
 - [Let’s talk about the the clusterfuck that is The Sexual Education Curriculum](http://salientarchive.com/archives/Lets-talk-about-the-the-clusterfuck-that-is-The-Sexual-Education-Curriculum-25-09-2011.html)
 - [Levies: breaking whose bank?](http://salientarchive.com/archives/Levies-breaking-whose-bank-12-09-2011.html)
@@ -4614,7 +4633,8 @@ TODO: https://issuu.com/salientmagazine
 - [Ask Constance](http://salientarchive.com/archives/Ask-Constance-10-10-2011.html)
 - **[Be Rational and Protest](http://salientarchive.com/archives/Be-Rational-and-Protest-10-10-2011.html)**
 - [Beer Will Be Beer](http://salientarchive.com/archives/Beer-Will-Be-Beer-2-10-2011.html)
-- [Beer Will Be Beer –  Fuck Yeah](http://salientarchive.com/archives/Beer-Will-Be-Beer---Fuck-Yeah-10-10-2011.html)
+- [Beer Will Be Beer –  Fuck Yeah](http://salientarchive.com/archives/Beer-Will-Be-Beer---
+Fuck-Yeah-10-10-2011.html)
 - [Being a Terrori… PALESTINIAN and the importance of denouncing racial stereotypes](http://salientarchive.com/archives/Being-a-Terrori-PALESTINIAN-and-the-importance-of-denouncing-racial-stereotypes-10-10-2011.html)
 - [Bent](http://salientarchive.com/archives/Bent-10-10-2011.html)
 - [Big Love](http://salientarchive.com/archives/Big-Love-1-10-2011.html)
@@ -5045,7 +5065,8 @@ TODO: https://issuu.com/salientmagazine
 - [Review – Swans: The Seer](http://salientarchive.com/archives/Review--Swans-The-Seer-13-08-2012.html)
 - [Review – The Cabin In The Woods](http://salientarchive.com/archives/Review--The-Cabin-In-The-Woods-20-08-2012.html)
 - [Review – The City & The City](http://salientarchive.com/archives/Review--The-City-&-The-City-6-08-2012.html)
-- [Review – Victory At Point 209 / Ngarimu te Tohu Toa](http://salientarchive.com/archives/Review--Victory-At-Point-209---Ngarimu-te-Tohu-Toa-13-08-2012.html)
+- [Review – Victory At Point 209 / Ngarimu te Tohu Toa](http://salientarchive.com/archives/Review--Victory-At-Point-209---
+Ngarimu-te-Tohu-Toa-13-08-2012.html)
 - [Review – West End Girls](http://salientarchive.com/archives/Review--West-End-Girls-13-08-2012.html)
 - [Roxy Heart](http://salientarchive.com/archives/Roxy-Heart-6-08-2012.html)
 - [Roxy Heart](http://salientarchive.com/archives/Roxy-Heart-13-08-2012.html)
@@ -5694,7 +5715,8 @@ TODO: https://issuu.com/salientmagazine
 - [Brand-New Bio Building Being Built](http://salientarchive.com/archives/Brand-New-Bio-Building-Being-Built-3-03-2014.html)
 - [C B T](http://salientarchive.com/archives/C-B-T-31-03-2014.html)
 - [Cinema & Painting – Review](http://salientarchive.com/archives/Cinema-&-Painting--Review-10-03-2014.html)
-- [Clap Clap Riot: Nobody / Everybody Gig and Album Review](http://salientarchive.com/archives/Clap-Clap-Riot-Nobody---Everybody-Gig-and-Album-Review-17-03-2014.html)
+- [Clap Clap Riot: Nobody / Everybody Gig and Album Review](http://salientarchive.com/archives/Clap-Clap-Riot-Nobody---
+Everybody-Gig-and-Album-Review-17-03-2014.html)
 - [Come Fly With Me](http://salientarchive.com/archives/Come-Fly-With-Me-10-03-2014.html)
 - **[CoRE Funding Changes Ignore Core Problems](http://salientarchive.com/archives/CoRE-Funding-Changes-Ignore-Core-Problems-24-03-2014.html)**
 - **[Daniel Haines, NZUSA President](http://salientarchive.com/archives/Daniel-Haines-NZUSA-President-3-03-2014.html)**
@@ -6133,7 +6155,8 @@ TODO: https://issuu.com/salientmagazine
 - [Wells Takes Opportunity But Lions Can’t Convert… Again](http://salientarchive.com/archives/Wells-Takes-Opportunity-But-Lions-Cant-Convert-Again-28-09-2014.html)
 - **[What does justice mean to us in our everyday lives at university?](http://salientarchive.com/archives/What-does-justice-mean-to-us-in-our-everyday-lives-at-university-28-09-2014.html)**
 - [Why The Expendables 3 is the shit.](http://salientarchive.com/archives/Why-The-Expendables-3-is-the-shit-7-09-2014.html)
-- [Why you don’t have to vote / Why you should vote](http://salientarchive.com/archives/Why-you-dont-have-to-vote---Why-you-should-vote-14-09-2014.html)
+- [Why you don’t have to vote / Why you should vote](http://salientarchive.com/archives/Why-you-dont-have-to-vote---
+Why-you-should-vote-14-09-2014.html)
 - [5 Ways to increase sustainability in your life](http://salientarchive.com/archives/5-Ways-to-increase-sustainability-in-your-life-5-10-2014.html)
 - [A Lack of Hospitality](http://salientarchive.com/archives/A-Lack-of-Hospitality-12-10-2014.html)
 - [A meta-opinion](http://salientarchive.com/archives/A-meta-opinion-12-10-2014.html)
@@ -6962,7 +6985,8 @@ TODO: https://issuu.com/salientmagazine
 - [FEMINIST ANGST SUPPORT GROUP](http://salientarchive.com/archives/FEMINIST-ANGST-SUPPORT-GROUP-28-02-2016.html)
 - [Gathering Sky](http://salientarchive.com/archives/Gathering-Sky-28-02-2016.html)
 - [Get your rosaries, off my ovaries](http://salientarchive.com/archives/Get-your-rosaries-off-my-ovaries-28-02-2016.html)
-- [Going Up / Going Down](http://salientarchive.com/archives/Going-Up---Going-Down-28-02-2016.html)
+- [Going Up / Going Down](http://salientarchive.com/archives/Going-Up---
+Going-Down-28-02-2016.html)
 - [Guide to Wellington Music](http://salientarchive.com/archives/Guide-to-Wellington-Music-21-02-2016.html)
 - [HUMDINGERS](http://salientarchive.com/archives/HUMDINGERS-28-02-2016.html)
 - [Know your VUWSA](http://salientarchive.com/archives/Know-your-VUWSA-21-02-2016.html)
@@ -6980,7 +7004,8 @@ TODO: https://issuu.com/salientmagazine
 - [The Things We Miss](http://salientarchive.com/archives/The-Things-We-Miss-28-02-2016.html)
 - [Toga party a sweet success](http://salientarchive.com/archives/Toga-party-a-sweet-success-28-02-2016.html)
 - [VUWSA Services Guide](http://salientarchive.com/archives/VUWSA-Services-Guide-21-02-2016.html)
-- [VUWSA Women’s Group / Te Roopu Mana Wahine o Wikitoria](http://salientarchive.com/archives/VUWSA-Womens-Group---Te-Roopu-Mana-Wahine-o-Wikitoria-21-02-2016.html)
+- [VUWSA Women’s Group / Te Roopu Mana Wahine o Wikitoria](http://salientarchive.com/archives/VUWSA-Womens-Group---
+Te-Roopu-Mana-Wahine-o-Wikitoria-21-02-2016.html)
 - [What do the VUWSA exec do?](http://salientarchive.com/archives/What-do-the-VUWSA-exec-do-28-02-2016.html)
 - [YOUR VERY ACCURATE, VERY SPECIFIC, ANNUAL STUDENT HOROSCOPE](http://salientarchive.com/archives/YOUR-VERY-ACCURATE-VERY-SPECIFIC-ANNUAL-STUDENT-HOROSCOPE-28-02-2016.html)
 			
@@ -8130,7 +8155,10 @@ TODO: https://issuu.com/salientmagazine
 - [Guardians of the Galaxy Vol. 2 (2017)](http://salientarchive.com/archives/Guardians-of-the-Galaxy-Vol-2-2017-8-05-2017.html)
 - [Hand of God — Robert Askins](http://salientarchive.com/archives/Hand-of-God--Robert-Askins-8-05-2017.html)
 - [Hera Lindsay Bird — Hera Lindsay Bird](http://salientarchive.com/archives/Hera-Lindsay-Bird--Hera-Lindsay-Bird-22-05-2017.html)
-- [★ ° . .\u3000\u3000\u3000\u3000.\u3000☾ °☆ \u3000. * ● HOROSCOPES ★\u3000° :.\u3000 . • ○ ° ★\u3000 .\u3000 *\u3000.](http://salientarchive.com/archives/---u3000u3000u3000u3000u3000--u3000---HOROSCOPES-u3000-u3000-----u3000-u3000-u3000-1-05-2017.html)
+- [★ ° . .\u3000\u3000\u3000\u3000.\u3000☾ °☆ \u3000. * ● HOROSCOPES ★\u3000° :.\u3000 . • ○ ° ★\u3000 .\u3000 *\u3000.](http://salientarchive.com/archives/---
+u3000u3000u3000u3000u3000--u3000---
+HOROSCOPES-u3000-u3000---
+--u3000-u3000-u3000-1-05-2017.html)
 - [HOROSCOPES](http://salientarchive.com/archives/HOROSCOPES-15-05-2017.html)
 - [HOROSCOPES](http://salientarchive.com/archives/HOROSCOPES-29-05-2017.html)
 - [How do you spell that? The Little Known Effects of Mispronunciation](http://salientarchive.com/archives/How-do-you-spell-that-The-Little-Known-Effects-of-Mispronunciation-8-05-2017.html)
@@ -8341,7 +8369,8 @@ TODO: https://issuu.com/salientmagazine
 - [An anonymous prose (Queer Fear part 2)](http://salientarchive.com/archives/An-anonymous-prose-Queer-Fear-part-2-24-07-2017.html)
 - **[An Open Letter to the Vice-Chancellor](http://salientarchive.com/archives/An-Open-Letter-to-the-Vice-Chancellor-31-07-2017.html)**
 - [Androphobia: (noun) fear of men](http://salientarchive.com/archives/Androphobia-noun-fear-of-men-31-07-2017.html)
-- [Bad Feminist  — Roxane Gay](http://salientarchive.com/archives/Bad-Feminist---Roxane-Gay-31-07-2017.html)
+- [Bad Feminist  — Roxane Gay](http://salientarchive.com/archives/Bad-Feminist---
+Roxane-Gay-31-07-2017.html)
 - [Bogan Beautiful (The Musical)](http://salientarchive.com/archives/Bogan-Beautiful-The-Musical-17-07-2017.html)
 - [Boyd Wilson Walkway Set to be Renamed](http://salientarchive.com/archives/Boyd-Wilson-Walkway-Set-to-be-Renamed-17-07-2017.html)
 - [Candidates Debate](http://salientarchive.com/archives/Candidates-Debate-24-07-2017.html)
@@ -8461,7 +8490,8 @@ TODO: https://issuu.com/salientmagazine
 - [10 Things to Defend: Why 10 Things I Hate About You is a Secret Feminist Masterpiece](http://salientarchive.com/archives/10-Things-to-Defend-Why-10-Things-I-Hate-About-You-is-a-Secret-Feminist-Masterpiece-7-08-2017.html)
 - [A Call for Change](http://salientarchive.com/archives/A-Call-for-Change-21-08-2017.html)
 - [A Doll’s House — Katherine MacRae (adapted by Emily Perkins)](http://salientarchive.com/archives/A-Dolls-House--Katherine-MacRae-adapted-by-Emily-Perkins-14-08-2017.html)
-- [A Monster Calls —  J. A. Bayona](http://salientarchive.com/archives/A-Monster-Calls---J-A-Bayona-14-08-2017.html)
+- [A Monster Calls —  J. A. Bayona](http://salientarchive.com/archives/A-Monster-Calls---
+J-A-Bayona-14-08-2017.html)
 - [A Precarious Position: The State of Abortion Law in New Zealand](http://salientarchive.com/archives/A-Precarious-Position-The-State-of-Abortion-Law-in-New-Zealand-7-08-2017.html)
 - [ACC Campaign to Target Sexual Violence](http://salientarchive.com/archives/ACC-Campaign-to-Target-Sexual-Violence-21-08-2017.html)
 - [Access Denied](http://salientarchive.com/archives/Access-Denied-14-08-2017.html)
@@ -8513,7 +8543,8 @@ TODO: https://issuu.com/salientmagazine
 - [Losing Metiria](http://salientarchive.com/archives/Losing-Metiria-14-08-2017.html)
 - [Mauri Ora](http://salientarchive.com/archives/Mauri-Ora-21-08-2017.html)
 - [Minicry](http://salientarchive.com/archives/Minicry-7-08-2017.html)
-- [M’Lady —  Cassandra Tse](http://salientarchive.com/archives/MLady---Cassandra-Tse-21-08-2017.html)
+- [M’Lady —  Cassandra Tse](http://salientarchive.com/archives/MLady---
+Cassandra-Tse-21-08-2017.html)
 - [Moral Outrage: UFC v Boxing](http://salientarchive.com/archives/Moral-Outrage-UFC-v-Boxing-7-08-2017.html)
 - [MPs Attempt to Convince Pasifika People to Care About Them](http://salientarchive.com/archives/MPs-Attempt-to-Convince-Pasifika-People-to-Care-About-Them-7-08-2017.html)
 - [My Pineapple Soju Nights](http://salientarchive.com/archives/My-Pineapple-Soju-Nights-7-08-2017.html)
@@ -8550,7 +8581,8 @@ TODO: https://issuu.com/salientmagazine
 - [Te Ara Tauira](http://salientarchive.com/archives/Te-Ara-Tauira-7-08-2017.html)
 - [Te Ara Tauira](http://salientarchive.com/archives/Te-Ara-Tauira-14-08-2017.html)
 - [Te Ara Tauira](http://salientarchive.com/archives/Te-Ara-Tauira-21-08-2017.html)
-- [The Beast and Where It Lives… —  La Región Salvaje (2017)](http://salientarchive.com/archives/The-Beast-and-Where-It-Lives---La-Regin-Salvaje-2017-21-08-2017.html)
+- [The Beast and Where It Lives… —  La Región Salvaje (2017)](http://salientarchive.com/archives/The-Beast-and-Where-It-Lives---
+La-Regin-Salvaje-2017-21-08-2017.html)
 - [The Colour of Magic — Terry Pratchett](http://salientarchive.com/archives/The-Colour-of-Magic--Terry-Pratchett-14-08-2017.html)
 - [The Conception of Instant Noodles as an Allegory of Asian Development](http://salientarchive.com/archives/The-Conception-of-Instant-Noodles-as-an-Allegory-of-Asian-Development-21-08-2017.html)
 - [The Impossible Dream: Fairer Fares Update #394](http://salientarchive.com/archives/The-Impossible-Dream-Fairer-Fares-Update-#394-21-08-2017.html)
@@ -9305,7 +9337,8 @@ TODO: https://issuu.com/salientmagazine
 - [Mauri Ora](http://salientarchive.com/archives/Mauri-Ora-5-06-2018.html)
 - [Memes Are No Joke](http://salientarchive.com/archives/Memes-Are-No-Joke-5-06-2018.html)
 - [New Zealand Not Quite Paradise for Queer Asians](http://salientarchive.com/archives/New-Zealand-Not-Quite-Paradise-for-Queer-Asians-5-06-2018.html)
-- [NOTE TO LOUISE // SALLY: THE TRACK CHANGES THAT I MAKE INDEPENDENTLY ON THIS I WOULD LIKE TO BE PUBLISHED IN THE MAGAZINE FOR VISUAL EFFECT.](http://salientarchive.com/archives/NOTE-TO-LOUISE----SALLY-THE-TRACK-CHANGES-THAT-I-MAKE-INDEPENDENTLY-ON-THIS-I-WOULD-LIKE-TO-BE-PUBLISHED-IN-THE-MAGAZINE-FOR-VISUAL-EFFECT-5-06-2018.html)
+- [NOTE TO LOUISE // SALLY: THE TRACK CHANGES THAT I MAKE INDEPENDENTLY ON THIS I WOULD LIKE TO BE PUBLISHED IN THE MAGAZINE FOR VISUAL EFFECT.](http://salientarchive.com/archives/NOTE-TO-LOUISE---
+-SALLY-THE-TRACK-CHANGES-THAT-I-MAKE-INDEPENDENTLY-ON-THIS-I-WOULD-LIKE-TO-BE-PUBLISHED-IN-THE-MAGAZINE-FOR-VISUAL-EFFECT-5-06-2018.html)
 - [NT: Te Ara Tauira](http://salientarchive.com/archives/NT-Te-Ara-Tauira-5-06-2018.html)
 - [NZ Music Month](http://salientarchive.com/archives/NZ-Music-Month-5-06-2018.html)
 - [Philosoraptor](http://salientarchive.com/archives/Philosoraptor-5-06-2018.html)

@@ -3,10 +3,7 @@ let currentScript = document.currentScript;
 document.addEventListener('DOMContentLoaded', function () {
     // generate a table of contents
     var tocElementWrapper = document.createElement('div');
-    tocElementWrapper.innerHTML = '<h2>Table of Contents</h2>';
-
-
-    var include = currentScript.getAttribute('include') || 'h1, h2, h3, h4, h5, h6';
+    tocElementWrapper.innerHTML = '<h2>Table of Contents</h2>'; var include = currentScript.getAttribute('include') || 'h1, h2, h3, h4, h5, h6';
     var exclude = currentScript.getAttribute('exclude') || '.banner *';
     var listOfAllHeadings = [...document.querySelectorAll(include)]
         .filter(heading => !exclude || !heading.matches(exclude));

@@ -1,5 +1,5 @@
 ---
-title: "\"Repositioning is no position.\""
+title: ""Repositioning is no position.""
 slug: repositioning-is-no-position
 date: 2000-05-25
 source: https://www.scoop.co.nz/stories/ED0005/S00034/repositioning-is-no-position.htm

@@ -1,11 +1,11 @@
 ---
 title: "Budget 2018: Let’s Work Together"
-date: 2018-05-17
 slug: budget-218-lets-work-together
+date: 2018-05-17
 source: https://www.scoop.co.nz/stories/ED1805/S00040/budget-2018-lets-work-together.htm
-source_name: Scoop
+source-name: Scoop
 author: NZ Union of Students' Associations
-author-slug: nzusa
+author-slug: nz-union-of-students-associations
 ---
 <div class="story-top">
            <h1>Budget 2018: Let’s Work Together</h1>
@@ -55,7 +55,21 @@ New Zealand.’</p><p>ENDS</p><p>
 
 
 
-<div class="headline-right"></div>
+<div class="headline-right"><div id="in-cont" style="background:white;">
+ <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
+
+  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
+@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
+<!-- /1688062/Scoop_Super-Rectangle -->
+   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
+</script>
+   </div>
+
+  </div> 
+</div>
+</div>
 
 </div></div>
 

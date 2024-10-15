@@ -13,13 +13,14 @@ let months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'A
 let newMonths = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
 for (const file of list) {
     const [year, month, day, ...title] = file.split(':')
-    let newday = ''+day.padStart(2, '0')
+    let newday = '' + day.padStart(2, '0')
 
     // if file already exists, skip and log
     if (await fsp.stat(`./source/blog/${year}/${newMonths[months.indexOf(month)]}/${newday}/${title.join(':')}`).catch(() => false)) {
         console.log(`Failed to rename: ${year}/${newMonths[months.indexOf(month)]}/${newday}/${title.join(':')}`)
         console.log(`File already exists (skipping): ${year}/${newMonths[months.indexOf(month)]}/${newday}/${title.join(':')}`)
-        console.log('---')
+        console.log('---
+')
         continue
     }
 

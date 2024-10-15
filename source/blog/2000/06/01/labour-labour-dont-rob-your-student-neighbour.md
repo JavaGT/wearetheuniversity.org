@@ -1,5 +1,5 @@
 ---
-title: "Labour, Labour! Don't Rob Your Student Neighbour"
+title: "Labour, Labour! Don"t Rob Your Student Neighbour"
 slug: labour-labour-dont-rob-your-student-neighbour
 date: 2000-06-01
 source: https://www.scoop.co.nz/stories/ED0006/S00001/labour-labour-dont-rob-your-student-neighbour.htm

@@ -10,10 +10,7 @@ author-slug: salienttv
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3v6kjg22GgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Protest organisers talk to students at the fee rise protest on October 8, 2007 protesting Victoria University's proposed 10% fee rise.
-
-
----
+Protest organisers talk to students at the fee rise protest on October 8, 2007 protesting Victoria University's proposed 10% fee rise.---
 
 water
 over this way

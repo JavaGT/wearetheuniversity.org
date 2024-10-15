@@ -6,8 +6,6 @@ source: https://www.scoop.co.nz/stories/ED2408/S00045/auckland-university-studen
 author: We Are The University
 author-slug: we-are-the-university
 ---
-
-
 Auckland University Students To Address Course Cuts At Open Forum With Provost, Threaten Protest On University Open Day
 Wednesday, 21 August 2024, 6:18 pm
 Press Release: We are the University

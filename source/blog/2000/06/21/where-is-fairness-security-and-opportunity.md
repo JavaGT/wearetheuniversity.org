@@ -1,5 +1,5 @@
 ---
-title: "Where is \"fairness, security and opportunity\"?"
+title: "Where is "fairness, security and opportunity"?"
 slug: where-is-fairness-security-and-opportunity
 date: 2000-06-21
 source: https://www.scoop.co.nz/stories/ED0006/S00034/where-is-fairness-security-and-opportunity.htm

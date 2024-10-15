@@ -15,13 +15,7 @@ Quick tips:
 - Use of [Official Infomation Act (OIA)](https://fyi.org.nz) requests can expose information and protect the leaker.
 - You are welcome to meet up in person to share information.
 - Verify the accuracy of the information before leaking. Inaccurate information can undermine credibility and cause harm.
-- Alternatively provide the limitations of your knowledge or the information you are sharing - rumor is okay if it is clear that it is a rumor, this can impower us to investigate further.
-
-
-It's a lot to consider. If you would like help be in touch with us and let us know that you have information to leak, but would like assistance doing so safely.
-
-
-Contact:
+- Alternatively provide the limitations of your knowledge or the information you are sharing - rumor is okay if it is clear that it is a rumor, this can impower us to investigate further.It's a lot to consider. If you would like help be in touch with us and let us know that you have information to leak, but would like assistance doing so safely.Contact:
 - [email@wearetheuniversity.org](mailto:email@wearetheuniversity.org)
   - Reminder: use a personal email address, not your work/study email address.
 - [Instagram](https://www.instagram.com/wearetheuniversity/)

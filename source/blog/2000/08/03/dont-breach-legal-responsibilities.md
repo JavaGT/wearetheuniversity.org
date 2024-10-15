@@ -1,5 +1,5 @@
 ---
-title: "\"Don't breach legal responsibilities\""
+title: ""Don't breach legal responsibilities""
 slug: dont-breach-legal-responsibilities
 date: 2000-08-03
 source: https://www.scoop.co.nz/stories/ED0008/S00006/dont-breach-legal-responsibilities.htm

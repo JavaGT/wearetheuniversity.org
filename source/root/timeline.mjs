@@ -31,10 +31,7 @@ let eventKinds = data.reduce((acc, event) => {
 let groups = new vis.DataSet()
 Object.keys(eventKinds).forEach((kind, index) => {
     groups.add({ id: index, content: kind })
-})
-
-
-var items = new vis.DataSet();
+})var items = new vis.DataSet();
 for (var i = 0; i < data.length; i++) {
     var dataItem = data[i];
     console.log(dataItem)

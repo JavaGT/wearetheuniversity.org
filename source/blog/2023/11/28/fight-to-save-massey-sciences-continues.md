@@ -7,80 +7,51 @@ source-name: Scoop
 author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
-<div class="story-top">
-           <h1>Fight To Save Massey Sciences Continues</h1>
 
-           <span class="byline"><b>Tuesday, 28 November 2023,  1:51 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Tertiary_Education_Union">Tertiary Education Union</a></b></span>
-
-         </div>
-
-	 <p>
-         </p><p>Te Hautū Kahurangi | Tertiary Education Union members at
+<p>Te Hautū Kahurangi | Tertiary Education Union members at
 Te Kunenga ki Pūrehuroa | Massey University are outraged
 following yesterday’s release of a “Preliminary
 Decision” proposing to cut over 70 jobs from Natural
 Sciences, and Food and Advanced Technology – including
 axing Massey’s provision of Engineering
-entirely.</p><p>Vice Chancellor Jan Thomas oversaw the
+entirely.</p>
+
+<p>Vice Chancellor Jan Thomas oversaw the
 “preliminary decision” which, if implemented, would also
 end provision in Auckland for all courses offered in Natural
 Sciences and Food Technology, leaving an $150 million state
 of the art science and technology building that fully opened
 only a few months ago without a clear
-purpose.</p><p>Kaiwhakahaere | Organiser Ben Schmidt
+purpose.</p>
+
+<p>Kaiwhakahaere | Organiser Ben Schmidt
 describes the proposals as “short sighted and completely
 unnecessary,” while members continue fighting back against
-the proposed cuts.</p><p>“The new Government has stated
+the proposed cuts.</p>
+
+<p>“The new Government has stated
 they want to build an economy that enables wealth creation,
 maximises added value before exporting, invests in IT to
 promote economic growth and employment, and ensure high
 educational achievement which they say will lead to high
 value employment opportunities. Slashing jobs and courses in
 sciences and technology is deeply shortsighted and
-contradictory to these goals.”</p><p>“Food Technology,
+contradictory to these goals.”</p>
+
+<p>“Food Technology,
 Engineering, and Natural Sciences are essential for growing
 New Zealand’s economy and to be an attractive and
 sustainable tourist destination. Access to studying
 Engineering in the Manawatū is also important for regional
-economic growth and capacity building.”</p><p>“The
+economic growth and capacity building.”</p>
+
+<p>“The
 university have said the figures used by the TEU members in
 their alternate proposal were inaccurate, however these
 figures were the ones the university itself supplied and
 used to formulate its own proposal. We call for urgent
 engagement between Massey University and the TEU to take our
 proposal seriously and work together to save
-sciences.”</p>
-<div class="article-left-box-wrapper"><div class="article-left-box">
-        
-
-
-
-
-<div class="headline-right"><div id="in-cont" style="background:white;">
- <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-
-  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
-@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
-<!-- /1688062/Scoop_Super-Rectangle -->
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-</script>
-   </div>
-
-  </div> 
-</div>
-</div>
-
-</div></div>
-<!-- LINKS REMOVED 
- SUB:0 URL:ED2311/S00044/fight-to-save-massey-sciences-continues.htm -->
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
-  LINKS NOT REMOVED 
-  SUB:0
-  URL:ED2311/S00044/fight-to-save-massey-sciences-continues.htm
- -->
-         </p><div id="byline-block"><div class="byline-block byline-block-light">Find more from <a href="https://info.scoop.co.nz/Tertiary_Education_Union">Tertiary Education Union</a> on InfoPages.</div></div>
-         <div class="cleaner">&nbsp;</div>
+sciences.”</p><p>
+<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
+         </p>

@@ -9,10 +9,7 @@ author-url: https://docs.google.com/document/d/1smn9xkkKe-diV-n04BtaqRKep_vdANMr
 author-slug: members-of-the-university-of-auckland-senate
 ---
 
-Note: This document is set such that everyone with the link should have edit permission. So, just scroll down and type to add. However, I have now noticed that links that go through phones may be changed, and those may not be editable. The original link is:
-
-
-Plain-text:
+Note: This document is set such that everyone with the link should have edit permission. So, just scroll down and type to add. However, I have now noticed that links that go through phones may be changed, and those may not be editable. The original link is:Plain-text:
 https://docs.google.com/document/d/1smn9xkkKe-diV-n04BtaqRKep_vdANMrGgKjlk_MuSI/edit
 
 Live link:
@@ -20,10 +17,7 @@ https://docs.google.com/document/d/1smn9xkkKe-diV-n04BtaqRKep_vdANMrGgKjlk_MuSI/
 
 If you still can't access, or for anonymous addition, email names to n.matzke@auckland.ac.nz .
 
-[Update August 21: We are having an open meeting (Senate members, non-Senate members, any other interested parties):
-
-
-Friday, August 23, 3 pm in Room 109-B10 - Main Library.
+[Update August 21: We are having an open meeting (Senate members, non-Senate members, any other interested parties):Friday, August 23, 3 pm in Room 109-B10 - Main Library.
 
 Also, a special Senate meeting has just been called for Tuesday, August 27, 4-5 pm.]
 
@@ -53,10 +47,7 @@ Sincerely,
 Professor Anthony Poole, School of Biological Sciences, Faculty of Science
 Professor Natasha Hamilton-Hart, Department of Management and International Business, Faculty of Business and Economics
 Professor Quentin Atkinson, School of Psychology, Faculty ch of Science
-Professor Ananish Chaudhuri, Department of Economics, Faculty of Business and Economics
-
-
-Signatures from members of Senate
+Professor Ananish Chaudhuri, Department of Economics, Faculty of Business and EconomicsSignatures from members of Senate
 
 Title or rank and Name, School/Department, Faculty
 Professor Anthony Poole, School of Biological Sciences, Faculty of Science
@@ -150,10 +141,6 @@ Professor Dianne Brunton, School of Biological Sciences, Faculty of Science
 Associate Professor Jennifer Miles-Chan, School of Biological Sciences, Faculty of Science
 Professor Katie Fitzpatrick, School of Curriculum and Pedagogy, Faculty of Education and Social Work
 Associate Professor Phil Shane, School of Environment
-
-
-
-
 Signatures from non-members of Senate
 Title or rank and Name, School/Department, Faculty
 Ms Angela Tsai, School of Medical Sciences, Faculty of Medical and Health Sciences
@@ -310,14 +297,7 @@ Friedrich Voit, retired (Honorary Researcher), European Languages
 Maryam Madawi, Academic Quality Office, PVC-Education Office
 Mia-Mae Taitimu-Stevens. Māori Academic Engagement, Te Tumu Herenga | Libraries and Learning Services
 Dr Sarah Knight, School of Biological Sciences, Faculty of Science
-Daniel Harrison, School of Biological Sciences, Faculty of Science
-
-
-
-
-
-
-Names withheld on request (tabulated by Matzke)
+Daniel Harrison, School of Biological Sciences, Faculty of ScienceNames withheld on request (tabulated by Matzke)
 
 Senate members
 Professor, anonymous, Faculty of Science

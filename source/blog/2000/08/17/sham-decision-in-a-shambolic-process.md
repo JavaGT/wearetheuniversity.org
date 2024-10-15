@@ -1,5 +1,5 @@
 ---
-title: "\"Sham decision in a shambolic process\""
+title: ""Sham decision in a shambolic process""
 slug: sham-decision-in-a-shambolic-process
 date: 2000-08-17
 source: https://www.scoop.co.nz/stories/ED0008/S00031/sham-decision-in-a-shambolic-process.htm

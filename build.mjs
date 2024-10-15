@@ -120,8 +120,8 @@ async function buildTranscripts() {
           author: item.author,
           date: new Date(item.pubDate)
         },
-        body: `<audio src="${item.enclosure.link}" controls></audio><br> ${item.content}<br><table border="1"><thead><tr><th>Timestamp</th><th>Caption</th></tr></thead><tbody>${JSON.parse((await fsp.readFile(`${folder}/${item.guid}.json`, 'utf8'))).map(x => `<tr><td class="timestamp" data-value="${x[1]}"><button>${Math.floor(x[0]/1000)}s</button></td><td class="caption">${x[2]}</td></tr>`).join('')}</tbody></table><script>document.body.addEventListener('click', e => { if (e.target.classList.contains('timestamp') || e.target.parentElement.classList.contains('timestamp')) { const timestamp = e.target.closest('td').dataset.value || e.target.closest('td').parentElement.dataset.value; document.querySelector('audio').currentTime = timestamp / 1000; } })</script>`
-        // <code>${JSON.parse(await fsp.readFile(`${folder}/${item.guid}.json`, 'utf8')).map(x => `<span class="timestamp">${x[1]}ms</span><span class="caption">${x[2]}</span>`).join('<br>')}</code>
+        body: `<audio src="${item.enclosure.link}" controls></audio><br> ${item.content}<br><table border="1"><thead><tr><th>Timestamp</th><th>Caption</th></tr></thead><tbody>${JSON.parse((await fsp.readFile(`${folder}/${item.guid}.json`, 'utf8'))).map(x => `<tr><td class="timestamp" data-value="${x[1]}"><button>${Math.floor(x[0] / 1000)}s</button></td><td class="caption">${x[2]}</td></tr>`).join('')}</tbody></table><script>document.body.addEventListener('click', e => { if (e.target.classList.contains('timestamp') || e.target.parentElement.classList.contains('timestamp')) { const timestamp = e.target.closest('td').dataset.value || e.target.closest('td').parentElement.dataset.value; document.querySelector('audio').currentTime = timestamp / 1000; } })</script>`
+        // 
       })
       // write the transcript to the docs folder
       await fsp.mkdir(`./docs/${folder.replace('source/', '')}`, { recursive: true })

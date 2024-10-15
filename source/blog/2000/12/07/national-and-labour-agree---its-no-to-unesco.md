@@ -1,6 +1,6 @@
 ---
-title: "NATIONAL AND LABOUR AGREE - ITS \"NO\" TO UNESCO"
-slug: national-and-labour-agree-its-no-to-unesco
+title: "NATIONAL AND LABOUR AGREE - ITS "NO" TO UNESCO"
+slug: national-and-labour-agree---its-no-to-unesco
 date: 2000-12-07
 source: https://www.scoop.co.nz/stories/ED0012/S00005/national-and-labour-agree-its-no-to-unesco.htm
 source-name: Scoop

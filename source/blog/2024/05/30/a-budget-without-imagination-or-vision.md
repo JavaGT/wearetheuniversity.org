@@ -7,80 +7,57 @@ source-name: Scoop
 author: Tertiary Education Union
 author-slug: tertiary-education-union
 ---
-<div class="story-top">
-           <h1>A Budget Without Imagination Or Vision</h1>
 
-           <span class="byline"><b>Thursday, 30 May 2024,  4:46 pm</b><br>
-             <b>Press Release: <a href="https://info.scoop.co.nz/Tertiary_Education_Union">Tertiary Education Union</a></b></span>
-
-         </div>
-
-	 <p>
-         </p><p>Te Hautū Kahurangi | Tertiary Education Union is still
+<p>Te Hautū Kahurangi | Tertiary Education Union is still
 waiting for a Budget that will solve any of the real issues
-faced by the tertiary education sector.</p><p>Minister of
+faced by the tertiary education sector.</p>
+
+<p>Minister of
 Finance Nicola Willis talked a lot about reprioritisation in
-her Budget 2024 speech.</p><p>But Te Pou Ahurei | National
+her Budget 2024 speech.</p>
+
+<p>But Te Pou Ahurei | National
 Secretary Sandra Grey says “the Budget reprioritises the
 burden of keeping tertiary education funding in line with
 inflation onto students, with their fees set to increase by
 6% to offset a miserable 2.5% increase in SAC
-funding.”</p><p>“Along with the removal of fees free
+funding.”</p>
+
+<p>“Along with the removal of fees free
 from the first year of study, this is a Budget that will
 limit opportunities, block pathways, increase inequalities
 and remove the ability of many young people from low-income
 families to see a future for themselves – all to allow the
-sector to stand still.”</p><p>“This Budget lacks
+sector to stand still.”</p>
+
+<p>“This Budget lacks
 imagination and vision. It does nothing to deliver more well
 educated and highly skilled workers like builders, plumbers,
 hairdressers, mechanics, and engineers for our economic
-wellbeing.”</p><p>“Real cuts to funding over the next
+wellbeing.”</p>
+
+<p>“Real cuts to funding over the next
 three years will result in communities losing local
 provision. The abolition of Workforce Development Councils
 will remove employer voice from decisions that impact their
-future.”</p><p>“Our students who will be our future
+future.”</p>
+
+<p>“Our students who will be our future
 nurses and doctors will borrow more, our institutions will
 have fewer staff and the quality of education will continue
-to suffer.”</p><p>“The Minister seems to think moving
+to suffer.”</p>
+
+<p>“The Minister seems to think moving
 fees free to the final year of study will encourage
 completion. It won’t. What stops students from completing
 study is rent, food, transportation, need to work, and
-mental health.”</p><p>“In real terms, because of this
+mental health.”</p>
+
+<p>“In real terms, because of this
 Budget, our workers are worse off, our students are worse
 off, our employers are worse off, and our institutions are
 worse off. We all need to join the fight-back and stand up
 for our
-future.”</p>
-<div class="article-left-box-wrapper"><div class="article-left-box">
-        
-
-
-
-
-<div class="headline-right"><div id="in-cont" style="background:white;">
- <div id="txt1" style="text-align:left; font-size:14px; font-style: italic; color: grey; padding: 4px;">Advertisement - scroll to continue reading</div>
-
-  <div style="min-height:250px;min-width: 300px;"><style> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} 
-@media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}</style>
-<!-- /1688062/Scoop_Super-Rectangle -->
-   <div id="div-gpt-ad-1493962836337-4" style="padding: 0 20px 0 0; text-align: center;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-</script>
-   </div>
-
-  </div> 
-</div>
-</div>
-
-</div></div>
-<!-- LINKS REMOVED 
- SUB:0 URL:ED2405/S00103/a-budget-without-imagination-or-vision.htm -->
-<p>
-<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a><!-- 
-  LINKS NOT REMOVED 
-  SUB:0
-  URL:ED2405/S00103/a-budget-without-imagination-or-vision.htm
- -->
-         </p><div id="byline-block"><div class="byline-block byline-block-light">Find more from <a href="https://info.scoop.co.nz/Tertiary_Education_Union">Tertiary Education Union</a> on InfoPages.</div></div>
-         <div class="cleaner">&nbsp;</div>
+future.”</p><p>
+<a href="http://www.scoop.co.nz/about/terms.html" target="_blank"><span>© Scoop Media</span></a>
+         </p>
