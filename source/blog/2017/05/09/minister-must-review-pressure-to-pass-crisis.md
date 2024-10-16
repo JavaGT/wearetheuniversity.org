@@ -100,4 +100,3 @@ The dossier also includes anonymous comments sent to the TEU
 since publication of the survey. For a copy of the survey
 visit http://teu.ac.nz/wp-content/uploads/2017/05/Education-Under-Pressure-2017.pdf<p>
 
-<p></p>

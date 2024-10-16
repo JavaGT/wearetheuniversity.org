@@ -57,4 +57,3 @@ turn will improve the standing of our university system,
 both here and
 overseas.</p>
 
-<p></p>

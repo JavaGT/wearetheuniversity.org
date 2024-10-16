@@ -45,4 +45,3 @@ with this task," concluded Dr Ryan.</p>
 
 <p>ENDS<p>
 
-<p></p>

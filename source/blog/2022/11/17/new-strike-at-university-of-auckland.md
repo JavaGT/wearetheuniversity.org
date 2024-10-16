@@ -45,4 +45,3 @@ deserve.”</p>
 <p>“Enough is
 enough.”</p>
 
-<p></p>

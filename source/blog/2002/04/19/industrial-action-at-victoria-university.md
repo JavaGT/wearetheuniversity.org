@@ -7,7 +7,7 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<p></p>
+
 
 <p><br><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>Media Release<br>18 April 2002<br>Attention
 Education Reports:</p>

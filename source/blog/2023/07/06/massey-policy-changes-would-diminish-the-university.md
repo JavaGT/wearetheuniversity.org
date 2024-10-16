@@ -53,4 +53,3 @@ community must instead be at the heart of all decision
 making for the future of the
 University.”</p>
 
-<p></p>

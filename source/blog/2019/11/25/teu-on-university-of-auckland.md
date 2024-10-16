@@ -83,4 +83,3 @@ the actions in the first week of December and have vowed to
 keep going until they see a shift in the attitude of their
 employer.<br><p>
 
-<p></p>

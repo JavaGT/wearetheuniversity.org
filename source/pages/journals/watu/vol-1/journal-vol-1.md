@@ -1,6 +1,6 @@
 ---
 title: Journal Volume 1 (2011)
-slug: journals/vol-1
+slug: journals/nzjtep
 source: 
 date: 2011
 return_text: Journals

@@ -49,4 +49,3 @@ Law was a well thought out piece of legislation.”<p>
 
 <p><br>ENDS<p>
 
-<p></p>

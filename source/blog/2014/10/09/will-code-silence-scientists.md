@@ -39,4 +39,3 @@ tables.<br>Read more…</p>
 
 <p>ends</p>
 
-<p></p>

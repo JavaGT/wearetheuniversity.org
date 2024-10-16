@@ -47,7 +47,7 @@ years had not only eroded the pay and working conditions of
 staff, but were also increasingly affecting the quality of
 education for students.<p>
 
-<p></p>
+
 
 <p>Dr Rosenberg said that staff
 are the crucial factor in determining the quality of

@@ -59,4 +59,3 @@ not entering grades. The rally begins at 11:50am on
 Parliament’s
 lawn.</p>
 
-<p></p>

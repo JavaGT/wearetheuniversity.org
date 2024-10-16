@@ -41,4 +41,3 @@ might look in the mirror to see the types of accusations
 they are
 making.”</p>
 
-<p></p>

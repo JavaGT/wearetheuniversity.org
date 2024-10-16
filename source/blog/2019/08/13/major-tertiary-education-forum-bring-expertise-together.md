@@ -69,4 +69,3 @@ polytechnic.”</p>
 all to agree on a funding model that delivers on that public
 good.”</p>
 
-<p></p>

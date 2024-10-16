@@ -50,4 +50,3 @@ wait for better laws to be passed to do the right thing in
 the tertiary education sector. We can act
 now.”</p>
 
-<p></p>

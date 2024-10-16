@@ -48,16 +48,6 @@ between 2.0% and 4.0%, and have refused to agree to national
 collective employment agreements.</p>
 
 <p>Ends</p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-
-
-
 <!--
 
 

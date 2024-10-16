@@ -40,4 +40,3 @@ own internal downturn," said Dr Grey.</p>
 
 <p>ENDS<p>
 
-<p></p>

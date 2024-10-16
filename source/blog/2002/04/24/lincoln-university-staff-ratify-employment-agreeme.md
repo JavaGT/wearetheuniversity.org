@@ -7,16 +7,16 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<p></p>
 
-<p></p>
+
+
 
 <p>Media release<br>24 April 2002 <br>Attention
 Education and Industrial Reporters</p>
 
-<p></p>
 
-<p></p>
+
+
 
 <p>Lincoln
 University staff ratify employment agreement</p>
@@ -52,7 +52,7 @@ the underfunding of universities in a way that ensures staff
 do not continue to bear the cost of that declining
 funding."</p>
 
-<p></p>
+
 
 <p><br>Contact<br>Dr Jim McAloon <br>President
 <br>Lincoln Branch <br>Association of University Staff of
@@ -60,7 +60,7 @@ New Zealand <br>phone:  (03)3252811 extn 8926 wk <br>(03)
 3814093
 hm</p>
 
-<p></p>
+
 
 
 

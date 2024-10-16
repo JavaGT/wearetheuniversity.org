@@ -64,7 +64,7 @@ campus.</p>
 <p><br>“There is no room for racism in Aotearoa and
 no room for racism in our universities.”</p>
 
-<p></p>
+
 
 <p>Ends<p>
 

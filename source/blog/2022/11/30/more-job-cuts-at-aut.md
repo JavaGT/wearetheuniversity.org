@@ -43,4 +43,3 @@ our study progress and quality, our mental health, and our
 motivation to continue our careers at
 AUT.”</p>
 
-<p></p>

@@ -54,4 +54,3 @@ the cash for qualifications scam is available online at http://tvnz.co.nz/illega
 
 <p>ENDS<p>
 
-<p></p>

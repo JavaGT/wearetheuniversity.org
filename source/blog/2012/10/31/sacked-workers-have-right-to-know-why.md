@@ -51,4 +51,3 @@ being sacked. Otherwise they have no way of knowing if they
 are being treated fairly or not," said Nanette
 Cormack.</p>
 
-<p></p>

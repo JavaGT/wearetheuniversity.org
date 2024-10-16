@@ -54,4 +54,3 @@ speeches.</p>
 
 <p>ends<br><p>
 
-<p></p>

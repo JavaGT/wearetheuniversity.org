@@ -10,7 +10,7 @@ author-slug: auckland-university-students-association
 
 <p>18 October 2013</p>
 
-<p></p>
+
 
 <p>ALL COUNCIL MEMBERS<br>University of
 Auckland<br>Private Bag 92019<br>Auckland 1142</p>
@@ -91,7 +91,7 @@ large number of students have little choice but to utilise
 the Studylink Scheme to borrow money to pay for their
 education.</p>
 
-<p></p><table border="1"><tbody><tr><td>Year</td><td><strong>Percent
+<table border="1"><tbody><tr><td>Year</td><td><strong>Percent
 Increase</strong></td></tr><tr><td>2000</td><td>10.90%</td></tr><tr><td>2001</td><td>0.00%</td></tr><tr><td>2002</td><td>0.00%</td></tr><tr><td>2003</td><td>0.00%</td></tr><tr><td>2004</td><td>4.50%</td></tr><tr><td>2005</td><td>5.94%</td></tr><tr><td>2006</td><td>5.80%</td></tr><tr><td>2007</td><td>6.75%</td></tr><tr><td>2008</td><td>5.45%</td></tr><tr><td>2009</td><td>5.35%</td></tr><tr><td>2010</td><td>4.00%</td></tr><tr><td>2011</td><td>4.00%</td></tr><tr><td>2012</td><td>4.00%</td></tr></tbody></table><p>For
 some years, increases in student fees have compensated for
 the Government’s failure to increase funding annually at a
@@ -494,9 +494,9 @@ forced to pay increasing tuition fees.</p>
 
 <p>ENDS</p>
 
-<p></p>
 
-<p></p>
+
+
 
 
 

@@ -149,4 +149,3 @@ intellectuals - Counterpunch</p>
 
 <p>ENDS<br><p>
 
-<p></p>

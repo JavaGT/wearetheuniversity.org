@@ -11,9 +11,9 @@ author-slug: association-of-university-staff
 <p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>Attention<br>Education
 and Industrial Reporters	4 October 2002</p>
 
-<p></p>
 
-<p></p>
+
+
 
 <p>OTAGO
 UNIVERSITY STAFF SUSPEND ACTIONS IN HOPE OF IMPROVED OFFER
@@ -61,9 +61,9 @@ Unions’ spokeperson  479-8892; home 473-0527<br>Mark Ryan,
 co-advocate, 474-7400 or
 025-915-138</p>
 
-<p></p>
 
-<p></p>
+
+
 
 
 

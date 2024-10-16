@@ -29,4 +29,3 @@ hours of work defined in the collective agreement, which
 was announced
 yesterday.</p>
 
-<p></p>

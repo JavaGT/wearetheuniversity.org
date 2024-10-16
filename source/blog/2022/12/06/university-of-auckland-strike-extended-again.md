@@ -26,4 +26,3 @@ Nicole Wallace can
 be found
 here.</p>
 
-<p></p>

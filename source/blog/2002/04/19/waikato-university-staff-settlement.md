@@ -7,7 +7,7 @@ source-name: Scoop
 author: Association of University Staff
 author-slug: association-of-university-staff
 ---
-<p></p>
+
 
 <p><img align="left" width="85" height="85" src="http://www.aus.ac.nz/pictures/logo.gif" alt="AUS WEB SITE" border="0"><br>19 April 2002<br>Media Release<p>
 
@@ -45,7 +45,7 @@ shows how all parties in the negotiations have managed a
 settlement in the best interests of this campus and the
 community it serves."<p>
 
-<p></p>
+
 
 <p><br>Contact:<br>Dr. Stan Jones 
 <br>07 8562889 ext 8362 

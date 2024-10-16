@@ -13,7 +13,7 @@ Release</p>
 
 <p>Attention Education Reporters</p>
 
-<p></p>
+
 
 <p>University
 staff say ‘No’ to Heretaunga Campus</p>
@@ -62,7 +62,7 @@ provider applying to the Tertiary Education Commission for
 public funding if they should decide to begin recruiting
 domestic students in future years.</p>
 
-<p></p>
+
 
 <p>Contact:<br>Dr Grant
 Duncan, AUS National President<br>09 443 9700 ext 9086

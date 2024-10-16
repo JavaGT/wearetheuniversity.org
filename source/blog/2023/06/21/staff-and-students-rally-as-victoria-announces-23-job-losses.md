@@ -56,4 +56,3 @@ sustainable.”</p>
 To not act now is to not support tertiary
 education.”</p>
 
-<p></p>

@@ -45,4 +45,3 @@ not involve itself in legitimising this attack on quality
 public education,” said Dr
 Grey.<p>
 
-<p></p>

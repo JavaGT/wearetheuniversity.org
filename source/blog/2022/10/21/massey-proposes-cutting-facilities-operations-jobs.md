@@ -38,4 +38,3 @@ staff, stop cutting jobs, and instead work to fully resource
 and support the essential work of these invaluable
 staff.”</p>
 
-<p></p>

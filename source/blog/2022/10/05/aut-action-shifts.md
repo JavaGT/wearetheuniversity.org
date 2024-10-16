@@ -32,4 +32,3 @@ AUT will not take action to suspend, and members’ pay will
 be unaffected during the strike on
 Thursday.</p>
 
-<p></p>

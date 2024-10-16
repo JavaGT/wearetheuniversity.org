@@ -57,4 +57,3 @@ is hoped that this show of goodwill from TEU members will
 result in a return to the negotiation
 table.</p>
 
-<p></p>

@@ -11,7 +11,7 @@ author-slug: auckland-university-students-association
 <p><strong>University of Auckland Council to vote on fossil
 fuel divestment</strong></p>
 
-<p></p>
+
 
 <p>The University of Auckland
 could decide to divest its endowment funds from fossil fuel

@@ -47,4 +47,3 @@ full Employment Relations Authority determination can be
 found
 here.</p>
 
-<p></p>

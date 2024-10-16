@@ -50,4 +50,3 @@ earned.”</p>
 
 <p>ENDS<br><p>
 
-<p></p>

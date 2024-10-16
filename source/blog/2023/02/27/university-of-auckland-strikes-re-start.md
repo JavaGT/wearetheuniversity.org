@@ -73,4 +73,3 @@ from 1:30pm onwards on Wednesday and between 11am and 12
 midday on
 Thursday.</p>
 
-<p></p>

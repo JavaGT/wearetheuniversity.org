@@ -98,13 +98,3 @@ that education must be available for all without
 discrimination, accessible, publicly funded and free -Education
 International</p>
 
-
-
-
-
-
-
-
-
-
-

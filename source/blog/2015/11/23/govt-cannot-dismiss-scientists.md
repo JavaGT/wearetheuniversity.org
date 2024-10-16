@@ -56,4 +56,3 @@ Civic Square on 28 November,
 
 <p><br>ends<p>
 
-<p></p>

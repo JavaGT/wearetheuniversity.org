@@ -70,4 +70,3 @@ same at
 
 <p>ENDS<br><p>
 
-<p></p>

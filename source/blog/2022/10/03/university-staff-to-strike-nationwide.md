@@ -61,4 +61,3 @@ before it's too late.”</p>
 be issued later this week when the strikes are
 finalised.</p>
 
-<p></p>

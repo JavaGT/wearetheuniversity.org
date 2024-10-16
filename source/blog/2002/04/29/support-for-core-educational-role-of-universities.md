@@ -53,15 +53,15 @@ research. Universities would continue to be repositories of
 knowledge and to act as a critic and conscience of
 society.</p>
 
-<p></p>
+
 
 <p>Contact numbers for Dr Grant Duncan:		021 680
 475<br>						(09) 443 9773 (wk)<br>						(09) 361 3660
 (hm)</p>
 
-<p></p>
 
-<p></p>
+
+
 
 
 

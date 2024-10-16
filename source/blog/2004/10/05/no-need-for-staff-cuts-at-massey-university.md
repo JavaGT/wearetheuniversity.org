@@ -60,16 +60,6 @@ those salaries", said Mr Jones.</p>
 
 <p>ENDS</p>
 
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-
-
 
 <!--
 

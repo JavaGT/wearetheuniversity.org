@@ -63,4 +63,3 @@ staff to vote on strike action</p>
 bargaining
 underway</p>
 
-<p></p>

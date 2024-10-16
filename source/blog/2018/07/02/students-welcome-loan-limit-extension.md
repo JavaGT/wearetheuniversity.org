@@ -10,18 +10,18 @@ author-slug: nzusa
 
 <p>2 July 2018</p>
 
-<p></p>
+
 
 <p>Students welcome loan limit extension</p>
 
-<p></p>
+
 
 <p>The New Zealand Union of Students’ Associations (NZUSA)
 has welcomed the Government’s announcement today that they
 will extend the student loan borrowing cap for long
 undergraduate courses.</p>
 
-<p></p>
+
 
 <p>‘This doesn’t just benefit
 students, but also benefits the health and wellbeing of New
@@ -29,14 +29,14 @@ Zealand. Allowing our future doctors, vets and dentists to
 finish their studies is a no-brainer,’ says National
 President Jonathan Gee.</p>
 
-<p></p>
+
 
 <p>Caitlin Barlow-Groome,
 President of the Otago University Students’ Association
 (OUSA), says that this announcement is great news for her
 students.</p>
 
-<p></p>
+
 
 <p>‘Otago University has one of the two
 medical schools in the country, along with dentistry. This
@@ -45,13 +45,13 @@ they’ve hit the student loan cap due to completing another
 degree before getting into these competitive
 programmes.’</p>
 
-<p></p>
+
 
 <p>Gee says that the decision is likely to
 result in greater equity for students wanting to enter
 certain health professions.</p>
 
-<p></p>
+
 
 <p>‘We have heard stories
 of students from disadvantaged backgrounds take a little
@@ -59,19 +59,19 @@ longer to realise their dreams of entering programmes like
 medicine. They shouldn’t be denied their dreams simply due
 to an arbitrary cap.’</p>
 
-<p></p>
+
 
 <p>‘Students have been calling
 for this extension for some time. We’re glad the
 Government has heard that call and kept its election
 promise.’</p>
 
-<p></p>
+
 
 <p>Gee says, however, there is still more to
 be done to remove unfair barriers to education.</p>
 
-<p></p>
+
 
 <p>‘This Government has made a commitment to a
 barrier-free education. We hope that the Government
@@ -79,12 +79,12 @@ continues to keep its word and remove other barriers such as
 restoring the postgraduate allowance, which was also an
 election promise.’</p>
 
-<p></p>
+
 
 <p>“Our students are anxiously
 waiting.’</p>
 
-<p></p>
+
 
 <p>ENDS<p>
 
@@ -110,35 +110,17 @@ Since 1929, we've believed in a society rich in opportunity, where anyone from a
     <ul class="byline-contacts">
         
 
-    <li> Website - <a href="http://www.students.org.nz">www.students.org.nz</a></li>
+    <li> Website - <a href="http://www.students.org.nz">www.students.org.nz</a></li> 
 
+    <li> Twitter - <a href="https://www.twitter.com/studentsnz">@studentsnz</a></li> 
 
-        
+    <li> Email - <a href="mailto:president@students.org.nz">president@students.org.nz</a></li> 
 
-    <li> Twitter - <a href="https://www.twitter.com/studentsnz">@studentsnz</a></li>
+    <li> <a href="https://www.facebook.com/nzusa">Facebook</a></li> 
 
+    <li> Physical Address - Level 8 Education House, Wellington, 6011</li> 
 
-        
-
-    <li> Email - <a href="mailto:president@students.org.nz">president@students.org.nz</a></li>
-
-
-        
-
-    <li> <a href="https://www.facebook.com/nzusa">Facebook</a></li>
-
-
-        
-
-    <li> Physical Address - Level 8 Education House, Wellington, 6011</li>
-
-
-        
-
-    <li> Postal Address - PO Box 101091 Wellington</li>
-
-
-        
+    <li> Postal Address - PO Box 101091 Wellington</li> 
 
     <li> Phone - +64 27 868 4989</li>
 

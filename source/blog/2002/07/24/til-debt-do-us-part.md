@@ -7,7 +7,7 @@ source-name: Scoop
 author: Auckland University Students Association
 author-slug: auckland-university-students-association
 ---
-<p></p>
+
 
 <p>Media Release</p>
 
@@ -16,7 +16,7 @@ author-slug: auckland-university-students-association
 <p>For Immediate
 Use</p>
 
-<p></p>
+
 
 <p>‘Til Debt Do Us Part</p>
 
@@ -41,16 +41,16 @@ students are not forced into such drastic measures to avoid
 going into debt to pay for their food and rent,” concluded
 Ms Thompson.</p>
 
-<p></p>
+
 
 <p>ENDS</p>
 
-<p></p>
+
 
 <p>For further Information
 Contact:</p>
 
-<p></p>
+
 
 <p>Stephanie Thompson</p>
 

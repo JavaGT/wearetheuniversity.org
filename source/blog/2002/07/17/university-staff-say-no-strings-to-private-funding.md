@@ -71,14 +71,14 @@ attached to any private funding and university staff must be
 able to fulfil their obligation to conduct independent,
 publicly- available research.”</p>
 
-<p></p>
+
 
 <p>Contact: <br>Dr Grant
 Duncan, AUS National President<br>021 680 475, 09 443 9700
 ext
 9086</p>
 
-<p></p>
+
 
 
 

@@ -301,4 +301,3 @@ because individual sections will be limited in their ability
 to have individual book requirements - <em>Inside
 Higher Ed</em></p>
 
-<p></p>

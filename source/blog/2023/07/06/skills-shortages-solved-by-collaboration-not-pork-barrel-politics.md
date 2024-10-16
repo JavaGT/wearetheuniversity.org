@@ -59,4 +59,3 @@ decision making, not former National Party ministers and
 those wedded to old
 thinking.”</p>
 
-<p></p>

@@ -60,16 +60,6 @@ University in the hope that agreement could be reached
 before the July disruption.</p>
 
 <p>ENDS</p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-
-
-
 <!--
 
 

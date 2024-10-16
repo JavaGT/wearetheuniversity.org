@@ -58,4 +58,3 @@ normalise responsible dissent, and support academics to
 engage with the broader public in New Zealand,” said
 Heinemann.</p>
 
-<p></p>

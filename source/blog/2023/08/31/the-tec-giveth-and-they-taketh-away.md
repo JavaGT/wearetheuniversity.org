@@ -42,4 +42,3 @@ choices. I’ll be there to remind them of the mess
 they’ll leave if we’re cut
 away.”</p>
 
-<p></p>

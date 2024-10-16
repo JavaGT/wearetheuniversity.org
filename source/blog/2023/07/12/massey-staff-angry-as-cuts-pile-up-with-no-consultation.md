@@ -48,4 +48,3 @@ must immediately stop these cuts, engage with staff, and
 work with TEU and the government towards a more constructive
 alternative.”</p>
 
-<p></p>

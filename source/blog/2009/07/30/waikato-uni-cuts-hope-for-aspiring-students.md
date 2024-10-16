@@ -71,4 +71,3 @@ proposal.</p>
 
 <p><br>&nbsp;<p>
 
-<p></p>

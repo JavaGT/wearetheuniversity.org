@@ -44,4 +44,3 @@ tertiary education quality and design courses that are cheap
 rather than high
 quality."</p>
 
-<p></p>

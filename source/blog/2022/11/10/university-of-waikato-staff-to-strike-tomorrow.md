@@ -40,4 +40,3 @@ strike will commence at 7am on Friday November 11 and end at
 5pm on Tuesday November
 15.</p>
 
-<p></p>

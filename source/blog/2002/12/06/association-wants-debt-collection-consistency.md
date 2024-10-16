@@ -10,7 +10,7 @@ author-slug: auckland-university-students-association
 
 <p>Press Release - For Immediate Use</p>
 
-<p></p>
+
 
 <p>The Governments
 decision not to pursue what could amount to millions of
@@ -38,7 +38,7 @@ where a small group have been able to able profit
 handsomely, while many students struggle through the summer
 months living hand to mouth.</p>
 
-<p></p>
+
 
 <p>For further comment,
 please contact<p>

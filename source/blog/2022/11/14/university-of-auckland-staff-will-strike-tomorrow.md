@@ -46,4 +46,3 @@ today.</p>
 <p>The strike notice ends at 7pm on Friday 18
 November.</p>
 
-<p></p>

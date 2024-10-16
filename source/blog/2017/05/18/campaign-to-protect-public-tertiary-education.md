@@ -79,4 +79,3 @@ institution cited competition from for-profit providers as
 one reason why it is planning to close six
 courses.<br><p>
 
-<p></p>

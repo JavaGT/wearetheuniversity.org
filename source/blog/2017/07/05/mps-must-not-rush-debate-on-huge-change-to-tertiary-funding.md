@@ -128,4 +128,3 @@ than 4,700 people have also signed a petition to Paul
 Goldsmith MP, Tertiary Education Minister, opposing the bill
 http://www.together.org.nz/keep_it_public<p>
 
-<p></p>

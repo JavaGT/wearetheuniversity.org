@@ -66,4 +66,3 @@ department being subsumed into new divisions set up to
 ‘streamline’ reporting to the Vice
 Chancellor.</p>
 
-<p></p>

@@ -55,4 +55,3 @@ petition here, and the
 open letter
 here.</p>
 
-<p></p>

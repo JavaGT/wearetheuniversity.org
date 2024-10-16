@@ -43,7 +43,7 @@ and until this is recognised, the current policy of freezing
 fees must be seen as a very limited palliative
 measure.”</p>
 
-<p></p>
+
 
 <p>Contact</p>
 
@@ -51,7 +51,7 @@ measure.”</p>
 President, <br>021 680 475; 09 443 9700, ext
 9086</p>
 
-<p></p>
+
 
 
 

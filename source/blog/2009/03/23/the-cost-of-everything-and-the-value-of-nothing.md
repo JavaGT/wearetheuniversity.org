@@ -45,4 +45,3 @@ will be hurt the most.”<p>
 
 <p>ENDS<p>
 
-<p></p>

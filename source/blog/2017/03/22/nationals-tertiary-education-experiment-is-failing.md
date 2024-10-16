@@ -90,4 +90,3 @@ price we are forced to pay.”</p>
 Education (Tertiary Education and Other Matters) Amendment
 Bill is available at&nbsp;https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/document/BILL_72305/education-tertiary-education-and-other-matters-amendment<p>
 
-<p></p>

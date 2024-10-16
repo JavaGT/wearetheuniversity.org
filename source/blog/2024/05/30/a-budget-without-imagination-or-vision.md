@@ -60,4 +60,3 @@ worse off. We all need to join the fight-back and stand up
 for our
 future.”</p>
 
-<p></p>

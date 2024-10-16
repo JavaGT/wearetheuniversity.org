@@ -72,4 +72,3 @@ that is required by law to be the critic and conscience of
 society; and centred on evidence-based teaching and
 research.”</p>
 
-<p></p>

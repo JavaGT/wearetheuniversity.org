@@ -59,4 +59,3 @@ the true value of the work covered by the claim and,
 finally, to set an equitable level of
 remuneration.</p>
 
-<p></p>

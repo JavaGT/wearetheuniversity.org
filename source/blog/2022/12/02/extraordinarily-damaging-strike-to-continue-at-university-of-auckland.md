@@ -54,4 +54,3 @@ a petition on Wednesday, in support of staff strike
 action, which has already attracted over 500
 signatures.</p>
 
-<p></p>

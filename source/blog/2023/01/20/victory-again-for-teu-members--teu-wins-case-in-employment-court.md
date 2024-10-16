@@ -54,4 +54,3 @@ agreement)”</p>
 judgement can be found here - Full
 judgement</p>
 
-<p></p>

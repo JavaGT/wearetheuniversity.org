@@ -61,4 +61,3 @@ study."</p>
 
 <p><strong>ENDS</strong></p>
 
-<p></p>

@@ -65,4 +65,3 @@ available at http://teu.ac.nz/blueprint</p>
 
 <p>ENDS<p>
 
-<p></p>

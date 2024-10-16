@@ -52,4 +52,3 @@ know the value of working together, can ensure the best
 learning outcomes for all
 akonga.</p>
 
-<p></p>

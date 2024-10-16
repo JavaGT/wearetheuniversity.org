@@ -25,4 +25,3 @@ functioning as ‘society’s great leveller’.</p>
 
 <p>ENDS</p>
 
-<p></p>

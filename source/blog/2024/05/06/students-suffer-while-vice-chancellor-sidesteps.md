@@ -64,4 +64,3 @@ accountable.”</p>
 TEC and the Chancellor to clarify next
 steps.</p>
 
-<p></p>

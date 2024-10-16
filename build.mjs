@@ -84,7 +84,7 @@ async function buildBlog() {
     await fsp.writeFile(`./docs/${datestring}/${attributes.slug}/index.html`, output)
     blog_data.push({ title: attributes.title, date: datestring, slug: attributes.slug, link: `/${datestring}/${attributes.slug}` })
   }
-  return blog_data
+  return blog_data.sort((a, b) => new Date(b.date) - new Date(a.date));
 }
 
 async function buildPages() {

@@ -54,4 +54,3 @@ to run its course before continuing to make short-sighted
 decisions such as these
 ones.”</p>
 
-<p></p>

@@ -7,7 +7,7 @@ source-name: Scoop
 author: Auckland University Students Association
 author-slug: auckland-university-students-association
 ---
-<p></p>
+
 
 <p>Media Release</p>
 
@@ -16,7 +16,7 @@ author-slug: auckland-university-students-association
 <p>For Immediate
 Use</p>
 
-<p></p>
+
 
 <p>Budget Falls Short on Student Support</p>
 
@@ -43,16 +43,16 @@ through increasing access to allowances and lowering tuition
 fees can the government hope to make any real decreases in
 student debt,” concluded Ms Thompson.</p>
 
-<p></p>
+
 
 <p>ENDS</p>
 
-<p></p>
+
 
 <p>For
 further Information Contact:</p>
 
-<p></p>
+
 
 <p>Stephanie
 Thompson</p>

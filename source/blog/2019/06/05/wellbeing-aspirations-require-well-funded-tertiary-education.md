@@ -69,4 +69,3 @@ We hope that Professor Freshwater will fully embrace genuine
 student and staff input into the future shape of the
 university.<br><p>
 
-<p></p>

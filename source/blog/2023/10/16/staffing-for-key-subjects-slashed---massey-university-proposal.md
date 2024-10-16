@@ -50,4 +50,3 @@ rallying with students against these cuts 12:30PM Wednesday
 18 October at the Concourse, Manawatū Campus, Massey
 University.</p>
 
-<p></p>

@@ -56,4 +56,3 @@ organisation is governed by students’ associations from
 universities and polytechnics around the
 country.<br><strong>ENDS</strong></p>
 
-<p></p>

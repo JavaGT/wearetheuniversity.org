@@ -27,4 +27,3 @@ refutable.’</p>
 
 <p><br>ENDS</p>
 
-<p></p>

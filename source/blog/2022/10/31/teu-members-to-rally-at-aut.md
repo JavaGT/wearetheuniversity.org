@@ -46,4 +46,3 @@ on the Corner of Symonds and St Paul streets from 3-4pm on
 Monday 31st
 October.</p>
 
-<p></p>

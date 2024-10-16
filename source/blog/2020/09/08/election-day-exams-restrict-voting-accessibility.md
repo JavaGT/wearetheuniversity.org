@@ -64,35 +64,17 @@ Since 1929, we've believed in a society rich in opportunity, where anyone from a
     <ul class="byline-contacts">
         
 
-    <li> Website - <a href="http://www.students.org.nz">www.students.org.nz</a></li>
+    <li> Website - <a href="http://www.students.org.nz">www.students.org.nz</a></li> 
 
+    <li> Twitter - <a href="https://www.twitter.com/studentsnz">@studentsnz</a></li> 
 
-        
+    <li> Email - <a href="mailto:president@students.org.nz">president@students.org.nz</a></li> 
 
-    <li> Twitter - <a href="https://www.twitter.com/studentsnz">@studentsnz</a></li>
+    <li> <a href="https://www.facebook.com/nzusa">Facebook</a></li> 
 
+    <li> Physical Address - Level 8 Education House, Wellington, 6011</li> 
 
-        
-
-    <li> Email - <a href="mailto:president@students.org.nz">president@students.org.nz</a></li>
-
-
-        
-
-    <li> <a href="https://www.facebook.com/nzusa">Facebook</a></li>
-
-
-        
-
-    <li> Physical Address - Level 8 Education House, Wellington, 6011</li>
-
-
-        
-
-    <li> Postal Address - PO Box 101091 Wellington</li>
-
-
-        
+    <li> Postal Address - PO Box 101091 Wellington</li> 
 
     <li> Phone - +64 27 868 4989</li>
 

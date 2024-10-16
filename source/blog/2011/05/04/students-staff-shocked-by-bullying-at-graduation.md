@@ -10,7 +10,7 @@ author-slug: auckland-university-students-association
 
 <p>3 May 2011</p>
 
-<p></p><center><h3>Students and staff shocked by
+<center><h3>Students and staff shocked by
 University bullying at graduation</h3></center><p>Students
 and staff at the University of Auckland have been shocked
 this week by University staff threatening to block a top
@@ -59,16 +59,6 @@ from the University of Auckland for their disgraceful
 conduct,” McCrory concluded.<p>
 
 <p>ENDS</p>
-
-<p></p>
-
-<p></p>
-
-
-
-
-
-
 <!--
 
 

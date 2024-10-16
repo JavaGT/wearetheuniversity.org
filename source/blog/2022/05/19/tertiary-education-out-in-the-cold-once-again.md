@@ -70,4 +70,3 @@ sure that the education we’re engaging in is actually up
 to
 scratch.”</p>
 
-<p></p>

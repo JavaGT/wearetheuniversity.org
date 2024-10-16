@@ -65,4 +65,3 @@ the TEC should carry out an immediate investigation into the
 University of Waikato’s use of and payments to independent
 contractors."</p>
 
-<p></p>

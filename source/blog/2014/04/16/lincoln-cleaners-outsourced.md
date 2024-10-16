@@ -56,4 +56,3 @@ choice.”</p>
 
 <p>Ends<p>
 
-<p></p>

@@ -39,4 +39,3 @@ and students.”</p>
 do that we will be pleasantly
 surprised.”</p>
 
-<p></p>

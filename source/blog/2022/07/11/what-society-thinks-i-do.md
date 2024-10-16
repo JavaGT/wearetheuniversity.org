@@ -54,4 +54,3 @@ campaign is all about.”</p>
 more about #WhatSocietyThinksIDo
 here.</p>
 
-<p></p>

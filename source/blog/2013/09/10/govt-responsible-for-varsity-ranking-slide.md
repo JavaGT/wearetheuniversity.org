@@ -40,4 +40,3 @@ pay.”</p>
 
 <p><br>ends<br><p>
 
-<p></p>

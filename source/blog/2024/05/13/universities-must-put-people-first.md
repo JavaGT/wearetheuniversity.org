@@ -63,4 +63,3 @@ University of Technology have been in the process renewing
 their collective agreements since late last
 year.</p>
 
-<p></p>

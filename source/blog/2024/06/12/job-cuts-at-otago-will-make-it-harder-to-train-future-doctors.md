@@ -53,4 +53,3 @@ review immediately and work with staff on more sensible
 options for addressing the university’s financial
 pressures.”</p>
 
-<p></p>

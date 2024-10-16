@@ -42,4 +42,3 @@ our members but instead it will strengthen their resolve to
 continue pushing for a real pay
 rise.”</p>
 
-<p></p>

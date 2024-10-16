@@ -64,4 +64,3 @@ November<br>•	<strong>Time</strong>: 6pm to
 
 <p>ENDS<br><p>
 
-<p></p>

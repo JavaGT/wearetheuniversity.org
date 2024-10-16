@@ -67,4 +67,3 @@ University and University of Otago will decide whether or
 not to take strike action in an online ballot next
 week.</p>
 
-<p></p>

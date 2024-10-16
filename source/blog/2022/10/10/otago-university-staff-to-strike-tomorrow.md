@@ -56,4 +56,3 @@ University Union Lawn at University of Otago’s main campus
 at 12:30
 tomorrow.</p>
 
-<p></p>

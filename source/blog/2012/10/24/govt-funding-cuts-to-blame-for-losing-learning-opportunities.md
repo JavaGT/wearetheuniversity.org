@@ -49,4 +49,3 @@ what criteria he will use measure this review,” said
 Sandra
 Grey.</p>
 
-<p></p>

@@ -13,7 +13,7 @@ RELEASE</p>
 <p>Attention Education and Industrial
 Reporters</p>
 
-<p></p>
+
 
 <p>No lifting of industrial action say Otago
 University staff</p>
@@ -45,7 +45,7 @@ said Dr Rogers.</p>
 (work) 03 473 0527 (home)<br>Mark Ryan<br>03 474 7400
 [work]</p>
 
-<p></p>
+
 
 
 

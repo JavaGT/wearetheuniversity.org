@@ -59,4 +59,3 @@ continue to stand together, work together, and make
 decisions
 collectively.</p>
 
-<p></p>
