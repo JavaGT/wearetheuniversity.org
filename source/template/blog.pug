@@ -26,7 +26,8 @@ body
     h1= attributes.title
     if attributes.author
       div.author
-        a(href=attributes.author_url||'#')=attributes.author
+        a(href=attributes.author_url||'#')
+          span(class=`author-tag-${(attributes.author || "").toLowerCase().replace(/[\s\'\"]+/g, '-').replace(/[\(\)]/g, '')}`)=attributes.author
     if attributes.source 
       div.source
         a(href=attributes.source)=attributes.source_name||'Source'

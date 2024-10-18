@@ -114,11 +114,29 @@ body
   section
     h1.center Blog Posts #[a(href="/rss.xml", target="_blank", class="small-text") RSS]
     p.tight This section is slowly being updated to include all kinds of relevent back-dated content from archives and news outlets.
-    ul.contents
-      for item in blog_data
-        li
-          a(href=item.link)
-              span
-                  | #{item.title}
-              span
-                  | #{item.date}
+      
+    //- ul.contents
+    //-   for item in blog_data
+    //-     li
+    //-       a(href=item.link)
+    //-           span
+    //-               | #{item.author}
+    //-           span
+    //-               | #{item.title}
+    //-           span
+    //-               | #{item.date}
+    table.tight.alternating
+      thead
+        tr
+          th Date
+          th Title
+          th Author
+      tbody
+        for item in blog_data
+          tr
+            td.date #{item.date}
+            td.title
+              a(href=item.link)
+                | #{item.title}
+            td.author
+              span(class=`author-tag-${(item.author || "").toLowerCase().replace(/[\s\'\"]+/g, '-').replace(/[\(\)]/g, '')}`) #{item.author}

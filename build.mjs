@@ -82,7 +82,7 @@ async function buildBlog() {
     let datestring = attributes.date.toISOString().replace(/\..+/, '').slice(0, 10).replace(/-/g, '/')
     await fsp.mkdir(`./docs/${datestring}/${attributes.slug}`, { recursive: true })
     await fsp.writeFile(`./docs/${datestring}/${attributes.slug}/index.html`, output)
-    blog_data.push({ title: attributes.title, date: datestring, slug: attributes.slug, link: `/${datestring}/${attributes.slug}` })
+    blog_data.push({ title: attributes.title, date: datestring, slug: attributes.slug, link: `/${datestring}/${attributes.slug}`, author: attributes.author })
   }
   return blog_data.sort((a, b) => new Date(b.date) - new Date(a.date));
 }

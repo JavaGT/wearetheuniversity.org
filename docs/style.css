@@ -35,7 +35,9 @@ body {
         --text-highlight: #79c3ff;
         --text-tint: #d865f2;
     }
-}.subtitle {
+}
+
+.subtitle {
     font-family: var(--body-font)
 }
 
@@ -188,7 +190,9 @@ abbr:hover::after {
     padding: 0.5em;
     border-radius: 0 1rem 1rem 1rem;
     border: 1px solid var(--color-primary);
-}section.body {
+}
+
+section.body {
     max-width: 800px;
     margin: 0 auto;
 }
@@ -212,7 +216,9 @@ a {
 
 a:not(:has(*)):not([href^="#"]):not(h1 a):not(h2 a):not(h3 a):not(h4 a):not(h5 a):not(h6 a) {
     line-break: anywhere;
-}a:hover {
+}
+
+a:hover {
     color: var(--text-primary-inverse);
 }
 
@@ -268,7 +274,9 @@ nav .socials {
 
 .socials svg {
     fill: currentColor;
-}@media print {
+}
+
+@media print {
     html {
         font-size: 0.9rem;
     }
@@ -308,4 +316,289 @@ hr {
     height: 1px;
     background: var(--text-tint);
     margin: 2rem 0;
+}
+
+table.alternating tr:nth-child(2n) {
+    background: var(--color-tint);
+    border-collapse: collapse;
+}
+
+table td {
+    border: none !important;
+    padding: 0.3rem;
+    border-collapse: collapse;
+}
+
+table td.author {
+    text-align: right;
+}
+
+/* Reclaim UOA */
+/* We Are The University */
+/* We Are The University (formerly Concerned Students) */
+
+.author-tag-reclaim-uoa,
+.author-tag-we-are-the-university-formerly-concerned-students,
+.author-tag-we-are-the-university {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    border-radius: 1em;
+    padding: 0.6rem;
+    font-style: italic;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Tertiary Education Union */
+
+.author-tag-tertiary-education-union {
+    color: white;
+    font-weight: bold;
+    background-color: #ff5800;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Palestine Solidarity Network Aotearoa */
+/* Student Justice for Palestine Poneke */
+/* Uni Workers for Palestine */
+
+.author-tag-uni-workers-for-palestine,
+.author-tag-student-justice-for-palestine,
+.author-tag-student-justice-for-palestine-poneke,
+.author-tag-palestine-solidarity-network-aotearoa,
+.author-tag-palestinehumanrights {
+    color: white;
+    font-weight: bold;
+    /* gradient from red to green */
+    background: linear-gradient(90deg, #a90000, #007500);
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* NZCTU */
+
+.author-tag-stand-up,
+.author-tag-nzctu {
+    color: white;
+    font-weight: bold;
+    background-color: #cb1214;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Association of University Staff */
+
+.author-tag-association-of-university-staff {
+    color: white;
+    font-weight: bold;
+    background-color: #b80444;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Auckland University Students Association */
+
+.author-tag-auckland-university-students-association {
+    color: white;
+    font-weight: bold;
+    background-color: #2991d6;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Fightback */
+
+.author-tag-fightback {
+    color: white;
+    font-weight: bold;
+    background-color: #FF2400;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* NZUSA */
+/* New Zealand University Student Associations */
+/* NZ Union of Students' Associations */
+
+.author-tag-nzusa,
+.author-tag-new-zealand-union-of-students-associations,
+.author-tag-nz-union-of-students-associations {
+    color: white;
+    font-weight: bold;
+    background-color: hsl(90.73170732, 48.61660079%, 49.60784314%);
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* VUWSA */
+
+.author-tag-victoria-university-students-association,
+.author-tag-vuwsa {
+    color: white;
+    font-weight: bold;
+    background-color: #7dc244;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Fossil Free UoA */
+
+.author-tag-fossil-free-uoa {
+    color: white;
+    font-weight: bold;
+    background-color: rgb(255, 169, 2);
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* rnz */
+
+.author-tag-rnz {
+    color: white;
+    font-weight: bold;
+    background-color: rgb(210, 65, 65);
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* The University Without Conditions */
+
+.author-tag-the-university-without-conditions,
+.author-tag-university-without-conditions {
+    color: black;
+    font-weight: bold;
+    background-color: #fff;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* SalientTV */
+
+.author-tag-salienttv {
+    color: white;
+    font-weight: bold;
+    background-color: rgb(164, 47, 1);
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Peace Action Wellington  */
+
+.author-tag-peace-action-wellington {
+    color: white;
+    font-weight: bold;
+    background-color: #2b2b2b;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Unite Union */
+
+.author-tag-unite,
+.author-tag-unite-union {
+    color: white;
+    font-weight: bold;
+    background-color: rgb(238, 49, 36);
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Green Party */
+/* #00491E */
+
+.author-tag-greens,
+.author-tag-green-party {
+    color: white;
+    font-weight: bold;
+    background-color: #00491E;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* NZ Police */
+/* #00164B */
+
+.author-tag-nz-police {
+    color: white;
+    font-weight: bold;
+    background-color: #00164B;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Alliance (New Zealand political party) */
+/* New Zealand Alliance Party */
+/* #33CC66 & #c90006 */
+
+.author-tag-alliance,
+.author-tag-alliance-party,
+.author-tag-new-zealand-alliance-party {
+    color: white;
+    font-weight: bold;
+    background: linear-gradient(90deg, #33CC66, #c90006);
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Auckland Action Against Poverty */
+/* #D003AA */
+
+.author-tag-auckland-action-against-poverty {
+    color: white;
+    font-weight: bold;
+    background-color: #D003AA;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Blockade the Budget */
+/* #db5c2b */
+
+.author-tag-blockade-the-budget {
+    color: white;
+    font-weight: bold;
+    background-color: #db5c2b;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
 }
