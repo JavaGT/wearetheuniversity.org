@@ -366,7 +366,8 @@ table td.author {
 /* Palestine Solidarity Network Aotearoa */
 /* Student Justice for Palestine Poneke */
 /* Uni Workers for Palestine */
-
+/* Otago Students for Justice in Palestine */
+.author-tag-otago-students-for-justice-in-palestine,
 .author-tag-uni-workers-for-palestine,
 .author-tag-student-justice-for-palestine,
 .author-tag-student-justice-for-palestine-poneke,
@@ -597,6 +598,19 @@ table td.author {
     color: white;
     font-weight: bold;
     background-color: #db5c2b;
+    border-radius: 0.1em;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.8em;
+    display: inline-block;
+}
+
+/* Independent Media Institute */
+/* #aef0dd */
+
+.author-tag-independent-media-institute {
+    color: black;
+    font-weight: bold;
+    background-color: #aef0dd;
     border-radius: 0.1em;
     padding: 0.2rem 0.4rem;
     font-size: 0.8em;
