@@ -45,11 +45,3 @@ said Dr Rogers.</p>
 (work) 03 473 0527 (home)<br>Mark Ryan<br>03 474 7400
 [work]</p>
 
-
-
-
-
-
-<!--
-
-

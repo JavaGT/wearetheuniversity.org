@@ -97,10 +97,3 @@ chance.</p>
 
 <p><a href="https://workerspartynz.files.wordpress.com/2014/08/fightback-2014-issue-6.pdf" target="_blank">Fightback 2014 Issue
 #6</a><p>
-
-
-
-
-<!--
-
-

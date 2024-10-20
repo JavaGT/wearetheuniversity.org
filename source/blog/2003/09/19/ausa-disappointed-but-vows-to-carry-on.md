@@ -31,10 +31,3 @@ membership brings with it  distinct challenges but AUSA as a
 body will continue to champion the rights  of students as it
 has since its formation in 1891" 
 <br><p>
-
-
-
-
-<!--
-
-

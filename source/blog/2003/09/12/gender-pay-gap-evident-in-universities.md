@@ -69,10 +69,3 @@ helen.kelly@aus.ac.nz</p>
 <p>Elizabeth Poole,<br>AUS Women’s
 Vice President<br>Phone (03) 479-7841 or email
 elizabeth.poole@stonebow.otago.ac.nz<br><p>
-
-
-
-
-<!--
-
-

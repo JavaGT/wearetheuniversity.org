@@ -53,11 +53,3 @@ regarding academic freedom".<p>
 
 <p>ENDS</p>
 
-
-
-
-
-
-<!--
-
-

@@ -97,10 +97,3 @@ commemorative events for current
 students.</p>
 
 <p>ENDS<p>
-
-
-
-
-<!--
-
-

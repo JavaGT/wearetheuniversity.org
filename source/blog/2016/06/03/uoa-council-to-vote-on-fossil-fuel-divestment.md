@@ -69,10 +69,3 @@ that their money is not being used to fund climate
 change.”</p>
 
 <p>ENDS<p>
-
-
-
-
-<!--
-
-

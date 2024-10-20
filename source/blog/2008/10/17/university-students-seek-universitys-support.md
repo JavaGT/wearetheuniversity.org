@@ -80,10 +80,3 @@ support the introduction of a universal student
 allowance.</p>
 
 <p><br>ENDS<br><p>
-
-
-
-
-<!--
-
-

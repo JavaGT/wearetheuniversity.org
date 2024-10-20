@@ -48,10 +48,3 @@ making multi employer   bargaining the logical and efficient
 step to pursue in the next bargaining   round for both the
 union and the employers.      
 <br><p>
-
-
-
-
-<!--
-
-

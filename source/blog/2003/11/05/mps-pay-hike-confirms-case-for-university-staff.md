@@ -58,10 +58,3 @@ protection against increasing workloads.</p>
 <p>Negotiations
 resume in Wellington this week on Thursday 6 and Friday 7
 November.<br><p>
-
-
-
-
-<!--
-
-

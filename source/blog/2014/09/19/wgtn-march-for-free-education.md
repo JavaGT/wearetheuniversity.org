@@ -41,10 +41,3 @@ Tertiary Education Union.</p>
 <p>Campus Hub | 1pm | Friday 26th
 September<br>[Facebook
 event]<p>
-
-
-
-
-<!--
-
-

@@ -56,10 +56,3 @@ information, please contact <br>Jane Guise on 364-2987 ext
 7064, or 383 4725 (ah), or <br>Anthony Rimell on 364-2485 or
 337-9176
 (ah)<br><p>
-
-
-
-
-<!--
-
-

@@ -39,10 +39,3 @@ likely to have on students in the nations other tertiary
 providers, whose fees have mostly been traditionally lower
 than in Auckland, and who will be hit even harder.    
 <br><p>
-
-
-
-
-<!--
-
-

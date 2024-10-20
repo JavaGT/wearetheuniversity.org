@@ -79,11 +79,3 @@ Rosenberg					<br>National President, AUS				<br>Phone 	(03)
 475 (mobile) 						<br>Email
 	bill.rosenberg@canterbury.ac.nz<p>
 
-
-
-
-
-
-<!--
-
-

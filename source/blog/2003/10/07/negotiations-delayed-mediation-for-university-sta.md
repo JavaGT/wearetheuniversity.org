@@ -69,10 +69,3 @@ contact:<br>Jeff Rowe, Advocate, Association of University
 Staff (AUS)		<br>Ph (04) 915 6692 (work)	(04) 380 9212
 (home)	021 375 670 (mobile) 	<br>email: 
 jeff.rowe@aus.ac.nz<br><p>
-
-
-
-
-<!--
-
-

@@ -57,10 +57,3 @@ protest. Together, we can reclaim the
 university.</p>
 
 <p>ENDS<p>
-
-
-
-
-<!--
-
-

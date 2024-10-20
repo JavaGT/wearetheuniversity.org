@@ -33,10 +33,3 @@ students standing up for their rights to not be milked as
 cash cows to fund bigger and bigger surpluses for tertiary
 institutions.”  
 <br><p>
-
-
-
-
-<!--
-
-

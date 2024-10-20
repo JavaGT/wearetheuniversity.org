@@ -70,10 +70,3 @@ Kelly<br>General Secretary<br>Association of University
 Staff<br>Phone 	04 915 6691 (work)<br>	04 385 3135
 (home)<br>Mobile 027 436 6308<br>Email
 helen.kelly@aus.ac.nz<br><p>
-
-
-
-
-<!--
-
-

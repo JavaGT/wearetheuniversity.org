@@ -60,10 +60,3 @@ Duncan.</p>
 contact<br>Dr Grant Duncan, AUS National President<br>Ph 04
 915 6690		Mobile 021 680
 475<br><p>
-
-
-
-
-<!--
-
-

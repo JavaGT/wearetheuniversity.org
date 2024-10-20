@@ -49,10 +49,3 @@ look forward to a better relationship with the incoming
 Vice-Chancellor and working with him to resolve those
 long-standing salary disparities."  
 <br><p>
-
-
-
-
-<!--
-
-

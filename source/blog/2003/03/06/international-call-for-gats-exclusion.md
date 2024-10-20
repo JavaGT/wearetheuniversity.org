@@ -46,10 +46,3 @@ government has undermined our ability to protect public
 education by its extraordinary requests to other countries
 to open their education systems to foreign competition’, he
 said.<br>Ends<br><p>
-
-
-
-
-<!--
-
-

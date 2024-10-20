@@ -40,10 +40,3 @@ if need be they can repeat an effective industrial action
 campaign in the future if salary claims are not addressed in
 a satisfactory manner." 
 <br><p>
-
-
-
-
-<!--
-
-

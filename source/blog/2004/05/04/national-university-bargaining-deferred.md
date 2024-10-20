@@ -90,10 +90,3 @@ staff</p>
 <p>Otago:3.5% for academic staff and 2.5% for general
 staff (from 1 May)
 <br><p>
-
-
-
-
-<!--
-
-

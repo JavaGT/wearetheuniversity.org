@@ -39,10 +39,3 @@ we don’t do
 anything.”</p>
 
 <p>ENDS<p>
-
-
-
-
-<!--
-
-

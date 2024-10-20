@@ -56,10 +56,3 @@ Rosenberg					<br>National President, AUS						<br>Phone
 	(03) 364 2801 (work)				<br>(03) 332 8525 (home)	
 					<br>021 680 475 (mobile) 						<br>Email
 	bill.rosenberg@canterbury.ac.nz<br><p>
-
-
-
-
-<!--
-
-

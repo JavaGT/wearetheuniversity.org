@@ -65,11 +65,3 @@ infrastructure.</p>
 <p>*Education at a Glance, OECD
 2001</p>
 
-
-
-
-
-
-<!--
-
-

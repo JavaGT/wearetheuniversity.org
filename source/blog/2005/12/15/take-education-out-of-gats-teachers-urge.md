@@ -76,10 +76,3 @@ said Nxesi.</p>
 
 <p><br>A copy of the Education
 International statement can be located at:<br>(http://data.ei-ie.org/Common/GetFile.asp?ID=3193&amp;mfd=off&amp;LogonName=guest).<p>
-
-
-
-
-<!--
-
-

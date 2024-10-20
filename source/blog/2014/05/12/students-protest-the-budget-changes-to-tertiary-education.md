@@ -47,10 +47,3 @@ students to join him in protest on the 16th of May at
 Library.</p>
 
 <p>ENDS<p>
-
-
-
-
-<!--
-
-

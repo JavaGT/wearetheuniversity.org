@@ -53,10 +53,3 @@ President, AUS Otago branch<br>Phone 	(03) 479 8976
 Braithwaite<br>Phone	(04) 915 2680 (work)<br>	(04) 977 8529
 (home)<br>	027 2747 795
 (mobile<br>Email	marty.braithwaite@aus.ac.nz<br><p>
-
-
-
-
-<!--
-
-

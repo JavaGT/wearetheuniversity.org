@@ -30,10 +30,3 @@ clock
 tower.</p>
 
 <p>ENDS<p>
-
-
-
-
-<!--
-
-

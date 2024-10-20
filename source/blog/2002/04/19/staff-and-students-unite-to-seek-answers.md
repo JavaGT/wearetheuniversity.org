@@ -63,10 +63,3 @@ place at 12noon in the Hunter Courtyard at Victoria
 University.</p>
 
 <p>Ends<p>
-
-
-
-
-<!--
-
-

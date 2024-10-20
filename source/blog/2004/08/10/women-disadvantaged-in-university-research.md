@@ -77,10 +77,3 @@ information, including the statistical report, please
 contact:<br>Rebecca Matthews<br>Phone: 	04 915 6695
 (work)<br>Mobile 021 490 387<br>E-mail:
 rebecca.matthews@aus.ac.nz<br><p>
-
-
-
-
-<!--
-
-

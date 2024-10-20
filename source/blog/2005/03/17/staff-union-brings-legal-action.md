@@ -72,10 +72,3 @@ national bargaining. Formal negotiations are due to get
 under way in April.<p>
 
 <p>ENDS<p>
-
-
-
-
-<!--
-
-

@@ -68,10 +68,3 @@ President, Association of University Staff (AUS)		<br>Ph
 (03) 364 2801 (work)	(03) 332 8525 (home)		021 680 475
 (mobile) 	<br>Email
 bill.rosenberg@canterbury.ac.nz<br><p>
-
-
-
-
-<!--
-
-

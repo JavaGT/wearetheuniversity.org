@@ -2,6 +2,13 @@ import fsp from 'fs/promises';
 import parse from 'front-matter';
 import { marked } from 'marked';
 import pug from 'pug';
+// const postcss = require('postcss')
+// const cssnano = require('cssnano')
+// const htmlmin = require('html-minifier')
+import postcss from 'postcss';
+import cssnano from 'cssnano';
+import htmlmin from 'html-minifier';
+// npm install --save-dev postcss cssnano html-minifier
 
 await clean()
 await build()
@@ -17,6 +24,30 @@ async function copyRootFiles() {
     // filter out directories
     if ((await fsp.stat(file)).isDirectory()) continue
     console.log(`Copying ${file}, ./${file.replace('source/root/', 'docs/')}`)
+
+    // if css minify using postcss
+    if (file.endsWith('.css')) {
+      const css = await fsp.readFile(file, 'utf8')
+      const result = await postcss([cssnano]).process(css, { from: file })
+      await fsp.mkdir('./docs/' + file.replace('source/root/', '').split('/').slice(0, -1).join('/'), { recursive: true })
+      await fsp.writeFile(`./docs/${file.replace('source/root/', '')}`, result.css)
+      continue
+    }
+
+    // if html minify using html-minifier
+    if (file.endsWith('.html')) {
+      const html = await fsp.readFile(file, 'utf8')
+      const result = htmlmin.minify(html, {
+        collapseWhitespace: true,
+        removeComments: true,
+        minifyCSS: true,
+        minifyJS: true
+      })
+      await fsp.mkdir('./docs/' + file.replace('source/root/', '').split('/').slice(0, -1).join('/'), { recursive: true })
+      await fsp.writeFile(`./docs/${file.replace('source/root/', '')}`, result)
+      continue
+    }
+
     await fsp.mkdir('./docs/' + file.replace('source/root/', '').split('/').slice(0, -1).join('/'), { recursive: true })
     // await fsp.copyFile(file, `./docs/${file.replace(/^.*\//, '')}`)
     await fsp.copyFile(file, `./${file.replace('source/root/', 'docs/')}`)
@@ -25,9 +56,18 @@ async function copyRootFiles() {
 
 async function buildIndex({ blog_data }) {
   const template = pug.compileFile('./source/template/index.pug')
-  const html = template({ blog_data })
+  let output = template({ blog_data })
+
+  // minify the html using html-minifier
+  output = htmlmin.minify(output, {
+    collapseWhitespace: true,
+    removeComments: true,
+    minifyCSS: true,
+    minifyJS: true
+  })
+
   await fsp.mkdir('./docs', { recursive: true })
-  await fsp.writeFile('./docs/index.html', html)
+  await fsp.writeFile('./docs/index.html', output)
 }
 
 async function build() {
@@ -78,7 +118,14 @@ async function buildBlog() {
     if (attributes.hidden) continue
     if (attributes.completion && attributes.completion < 0.4) continue
     const html = marked(body)
-    const output = pug.renderFile('./source/template/blog.pug', { attributes, body: html })
+    let output = pug.renderFile('./source/template/blog.pug', { attributes, body: html })
+    // minify the html using html-minifier
+    output = htmlmin.minify(output, {
+      collapseWhitespace: true,
+      removeComments: true,
+      minifyCSS: true,
+      minifyJS: true
+    })
     let datestring = attributes.date.toISOString().replace(/\..+/, '').slice(0, 10).replace(/-/g, '/')
     await fsp.mkdir(`./docs/${datestring}/${attributes.slug}`, { recursive: true })
     await fsp.writeFile(`./docs/${datestring}/${attributes.slug}/index.html`, output)
@@ -97,7 +144,14 @@ async function buildPages() {
     if (attributes.hidden) continue
     if (attributes.completion && attributes.completion < 0.4) continue
     const html = marked(body)
-    const output = pug.renderFile('./source/template/page.pug', { attributes, body: html })
+    let output = pug.renderFile('./source/template/page.pug', { attributes, body: html })
+    // minify the html using html-minifier
+    output = htmlmin.minify(output, {
+      collapseWhitespace: true,
+      removeComments: true,
+      minifyCSS: true,
+      minifyJS: true
+    })
     await fsp.mkdir(`./docs/${attributes.slug}`, { recursive: true })
     await fsp.writeFile(`./docs/${attributes.slug}/index.html`, output)
   }
@@ -114,7 +168,7 @@ async function buildTranscripts() {
       // transcript is contained in a json file in the same folder named after the guid
       // console.log((await fsp.readFile(`${folder}/${item.guid}.json`, 'utf8')))
       console.log(`Building transcript for ${item.guid}`)
-      const output = pug.renderFile('./source/template/transcript.pug', {
+      let output = pug.renderFile('./source/template/transcript.pug', {
         attributes: {
           title: item.title,
           author: item.author,
@@ -123,6 +177,13 @@ async function buildTranscripts() {
         body: `<audio src="${item.enclosure.link}" controls></audio><br> ${item.content}<br><table border="1"><thead><tr><th>Timestamp</th><th>Caption</th></tr></thead><tbody>${JSON.parse((await fsp.readFile(`${folder}/${item.guid}.json`, 'utf8'))).map(x => `<tr><td class="timestamp" data-value="${x[1]}"><button>${Math.floor(x[0] / 1000)}s</button></td><td class="caption">${x[2]}</td></tr>`).join('')}</tbody></table><script>document.body.addEventListener('click', e => { if (e.target.classList.contains('timestamp') || e.target.parentElement.classList.contains('timestamp')) { const timestamp = e.target.closest('td').dataset.value || e.target.closest('td').parentElement.dataset.value; document.querySelector('audio').currentTime = timestamp / 1000; } })</script>`
         // 
       })
+      // minify the html using html-minifier
+      // output = htmlmin.minify(output, {
+      //   collapseWhitespace: true,
+      //   removeComments: true,
+      //   minifyCSS: true,
+      //   minifyJS: true
+      // })
       // write the transcript to the docs folder
       await fsp.mkdir(`./docs/${folder.replace('source/', '')}`, { recursive: true })
       await fsp.writeFile(`./docs/${folder.replace('source/', '')}/${item.guid}.html`, output)

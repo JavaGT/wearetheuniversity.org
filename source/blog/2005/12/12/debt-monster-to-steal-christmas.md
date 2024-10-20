@@ -70,10 +70,3 @@ student
 fees.</p>
 
 <p>ENDS<p>
-
-
-
-
-<!--
-
-

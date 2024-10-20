@@ -49,10 +49,3 @@ response to Dr Brash’s
 comments.</p>
 
 <p>ENDS<br><p>
-
-
-
-
-<!--
-
-

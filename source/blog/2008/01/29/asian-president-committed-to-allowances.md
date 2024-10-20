@@ -68,10 +68,3 @@ Chinese, Indian, Korean, Filipino, Japanese, Sri Lankan,
 Cambodian and Thai ancestries. David’s parents are Chinese
 and Vietnamese, and David was born in New
 Zealand.<p>
-
-
-
-
-<!--
-
-

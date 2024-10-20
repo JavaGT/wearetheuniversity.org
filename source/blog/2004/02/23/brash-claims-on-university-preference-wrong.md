@@ -48,10 +48,3 @@ counterparts and he questioned whether Dr Brash would attach
 other poorly considered conditions to funding if given the
 opportunity. 
 <br><p>
-
-
-
-
-<!--
-
-

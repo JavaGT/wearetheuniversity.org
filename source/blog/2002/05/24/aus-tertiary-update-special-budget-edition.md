@@ -173,12 +173,6 @@ the idea.<p>
 Tertiary Update is produced weekly on Thursdays and
 distributed freely to members of the union and others. Back
 issues are archived on the AUS website:
-<http: www.aus.ac.nz.="" direct="" enquiries="" to="" rob="" crozier,="" aus="" general="" secretary.="" email:="" rob.crozier@aus.ac.nz.="" <br="">
-</http:></p></a><p><a href="http://www.aus.ac.nz ">
-</a>
+</p></a><p><a href="http://www.aus.ac.nz "></a>
          <br><p>
-
-
-<!--
-
 

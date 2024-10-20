@@ -67,10 +67,3 @@ before the
 election.</p>
 
 <p>ENDS<p>
-
-
-
-
-<!--
-
-

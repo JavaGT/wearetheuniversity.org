@@ -57,10 +57,3 @@ contact<br>Harvey Jones<br>President, AUS Massey University
 Branch <br>Phone:	Work 06 356 9099 extension 2059<br>Home 06
 326 9189<br>Email:
 	h.jones@massey.ac.nz<br><p>
-
-
-
-
-<!--
-
-

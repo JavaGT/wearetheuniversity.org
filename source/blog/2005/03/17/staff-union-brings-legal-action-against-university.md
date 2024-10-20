@@ -67,10 +67,3 @@ President					<br>Phone	(09) 373 7599, extension 85235
 Braithwaite<br>AUS Communications Officer<br>Phone 027 2747
 795 (mobile)<br>Email
 marty.braithwaite@aus.ac.nz<br><p>
-
-
-
-
-<!--
-
-

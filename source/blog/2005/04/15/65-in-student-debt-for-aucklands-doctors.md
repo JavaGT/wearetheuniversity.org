@@ -58,10 +58,3 @@ Thomsen-Noa stated.</p>
 wonder two thirds of them are thinking about leaving the
 country." Mr Langton concluded.  
 <br><p>
-
-
-
-
-<!--
-
-

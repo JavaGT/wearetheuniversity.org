@@ -83,10 +83,3 @@ achieved by collaboration between all those stakeholders -
 staff, students and management - within the sector."</p>
 
 <p>ENDS<p>
-
-
-
-
-<!--
-
-

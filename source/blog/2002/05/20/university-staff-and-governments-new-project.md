@@ -63,6 +63,3 @@ to oversee the work of the new project.</p>
 Grant Duncan: 		AUS National President, 021 680 475<br>Rob
 Crozier:			AUS General Secretary, 04 915
 6691</p>
-<!--
-
-

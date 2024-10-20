@@ -63,10 +63,3 @@ with students in their day-to-day campus life. They ensure
 the smooth running of the entire University and should be
 treated in a manner which reflects that," he said. 
 <br><p>
-
-
-
-
-<!--
-
-

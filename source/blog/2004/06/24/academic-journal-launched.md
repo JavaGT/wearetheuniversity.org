@@ -54,11 +54,3 @@ Tertiary Education Policy<br>Phone 	(03) 3642 199
 (work)<br>	(03) 960 7176
 (home)<br>Email	neville.blampied@canterbury.ac.nz</p>
 
-
-
-
-
-
-<!--
-
-

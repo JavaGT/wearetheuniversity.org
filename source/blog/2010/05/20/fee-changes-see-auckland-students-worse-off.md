@@ -50,10 +50,3 @@ and will invariably shut more people out of education,”
 said AUSA President Elliott Blade.</p>
 
 <p>ENDS<br><p>
-
-
-
-
-<!--
-
-

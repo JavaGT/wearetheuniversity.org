@@ -66,9 +66,3 @@ wars.”</p>
 <p>Videos
 of the peaceful protest actions can be found in this Google
 drive.</p>
-
-
-
-<!--
-
-

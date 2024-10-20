@@ -82,10 +82,3 @@ please contact<br>Marty Braithwaite, Communications Officer,
 AUS<br>Ph (04) 915 2680 (work)	027 274 7795
 (mobile)<br>Email
 marty.braithwaite@aus.ac.nz<br><p>
-
-
-
-
-<!--
-
-

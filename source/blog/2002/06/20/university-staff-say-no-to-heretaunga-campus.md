@@ -69,11 +69,3 @@ Duncan, AUS National President<br>09 443 9700 ext 9086
 [day]<br>021 680
 475</p>
 
-
-
-
-
-
-<!--
-
-

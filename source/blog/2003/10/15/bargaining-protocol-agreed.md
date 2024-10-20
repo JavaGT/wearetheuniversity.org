@@ -52,10 +52,3 @@ year. They are 26 and 27 November (in Christchurch), 3 and 4
 December (in Wellington) and 15 and 16 December (in
 Hamilton).  
 <br><p>
-
-
-
-
-<!--
-
-

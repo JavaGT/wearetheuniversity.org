@@ -43,10 +43,3 @@ Industrial Officer AUS<br>Phone 	(04) 380
 9212	(home)<br>	(04) 915 6692 (work)	<br>021 375 670
 (mobile)<br>Email:
 jeff.rowe@aus.ac.nz<br><p>
-
-
-
-
-<!--
-
-

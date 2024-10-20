@@ -69,10 +69,3 @@ members of the public are encouraged to attend. Further
 details can be found here</strong></p>
 
 <p><br><strong>ENDS</strong><br><p>
-
-
-
-
-<!--
-
-
