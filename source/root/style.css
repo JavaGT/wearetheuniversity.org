@@ -616,3 +616,15 @@ table td.author {
     font-size: 0.8em;
     display: inline-block;
 }
+
+blockquote {
+    margin: 1rem;
+    /* background: var(--color-tint); */
+    padding: 1rem;
+    border-radius: 0.3rem;
+    outline: 1px solid var(--color-tint);
+}
+
+blockquote *:first-child {
+    margin-top: 0;
+}
