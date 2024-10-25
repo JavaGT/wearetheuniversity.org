@@ -182,7 +182,7 @@ export class Game {
             this.ctx.textAlign = 'center';
             this.ctx.fillText('You Win!', this.canvas.width / 2, this.canvas.height / 2);
             this.ctx.font = '15px Arial';
-            this.ctx.fillText('Students have been saved from all that choice', this.canvas.width / 2, this.canvas.height / 2 + 50);
+            this.ctx.fillText('Congraulations for meeting your KPIs, please refresh the page to move on to the next university.', this.canvas.width / 2, this.canvas.height / 2 + 50);
         }
         if (this.aliens.some(row => row.some(alien => alien.y > this.canvas.height - 100))) {
             this.isGameOver = true;

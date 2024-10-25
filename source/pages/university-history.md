@@ -6,7 +6,137 @@ slug: university-history
 <script src="/table-of-contents.js" columns="2"></script>
 
 
+## 1869
 
+> The University of Otago is New Zealand’s oldest university. In June 1870 the Otago Provincial Council passed the Otago University Ordinance, creating the University of Otago as a corporate body with powers to grant degrees in arts, medicine, law and music. The university opened in July 1871, with a staff of three professors.
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+
+## 1870
+> The University of New Zealand was established by statute in 1870, when only one university existed in New Zealand, the University of Otago. When institutions were established in Auckland, Canterbury and Wellington they became constituent colleges of the University; Otago, as its establishment predated that of the University of New Zealand, was allowed to retain the word 'university' in its title. This first national body was relatively small throughout its life, with few staff.
+
+## Sept 1870
+> The University of New Zealand was created by Act of Parliament and became the examining and degree-granting body for all New Zealand university institutions. Colleges were then established in Christchurch (Canterbury College, 1873), Auckland (1883) and Wellington (Victoria University College, 1897).
+> 
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## The New Zealand University
+> As well as being the examining and degree-granting body for all New Zealand university colleges, the University of New Zealand was also responsible for approving qualifications and, perhaps most importantly, for conducting examinations and marking papers. The early university community was small and relatively inexperienced; many professors saw themselves as teachers and resisted the idea of also being examiners. For these reasons, and to help ensure that New Zealand standards were on a par with those in the United Kingdom, papers were sent there for marking, so that many months passed from the time students sat an exam until the results were received. This practice continued for most of the life of the university and only ended with the Second World War; not only were there issues with sending papers into a war zone but many of the markers were employed in the war effort.
+> 
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 1961
+> Universities New Zealand (UNZ) in its current form (as the New Zealand Vice-Chancellors’ Committee (NZVCC)—the legal name of UNZ) dates to the 1989 Education Act; it was, however, created by the Education Act of 1961 as one of the successor bodies to the University of New Zealand, along with the University Grants Committee (UGC). UNZ  officially came into existence on 1 January 1962, but had operated informally from 1 January the previous year; indeed for 1961 all three organisations co-existed.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+> In its [(The University of New Zealand's)] last year of existence (1961) its budget for salaries was only £19,000—at a time when a professor earned £2,000 and a lecturer £1,000. Unlike most institutions with the word 'university' in their title, the University of New Zealand had no students to teach and indeed no academics to teach them. While the Vice-Chancellor was often an academic, this was a part-time role; one of the university's longest serving Vice-Chancellors, Sir Thomas Hunter, was also a professor of Philosophy at Victoria University College.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 1918
+> While only Otago was able to claim full university status, the colleges in Auckland, Canterbury and Wellington made periodic attempts to gain this, the first of these being in 1918.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 1925
+> A Royal Commission in 1925 considered making Auckland a full university, with Canterbury and Wellington remaining colleges within the University of New Zealand, while five years later another plan was to abolish the university and replace it with two independent universities. Despite occasional discussions over the next few years, the issue was only resolved with the Hughes Parry report of 1959, prepared by Professor (later Sir) David Hughes Parry, a former Vice-Chancellor of the University of London.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 1946
+> Before the Second World War little research was conducted in the universities, and indeed some saw research as a distraction from what they considered to be the principal activity of universities, teaching. (One College council chair even declared, “If a professor has time for research, it shows that he is not doing his job properly.”)  After the war this attitude changed, and research became an increasingly important role of universities.
+> 
+> In 1946, the Director of Education gave the University of New Zealand £10,000 for university research and it was this grant that the University Research Committee was formed to distribute. The Hughes Parry report recommended that the UGC expand this committee into a Postgraduate Scholarships and Research Grants Committee, with a much larger budget (£100,000). This committee consisted of the UGC chair, the Director-General of the Department of Scientific and Industrial Research and five university teachers (later expanded to seven once Massey and Waikato became universities). The committee made grants to all sections of the universities, except for medical and dental schools which had access to much larger sums distributed by the Medical Research Council (the forerunner of today’s Health Research Council).
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 1948
+> The UGC [(University Grants Committee)] that began life in 1961 was not in fact the first; one had been created by the University of New Zealand in 1948 “to enquire into the finances of University education in NZ and to advise the Government on these needs and on the application of any grants that may be made by Parliament towards them”.  This first UGC persuaded the government to adopt quinquennial funding and devised an allocation formula for the distribution of funding.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 1959 Hughes Parry report
+> The Hughes Parry report recommended that the University of New Zealand be abolished and four standalone universities be established. To ensure that national needs were met, he also recommended that a central national authority be established and made operational before the university was disestablished. This body, the University Grants Committee (UGC), was to be given financial as well as academic responsibility for the universities. To allow for a smooth transition, it was to come into being on 1 January 1961, one year before the university was to be disestablished.
+>
+> Although the Hughes Parry report made no recommendation as to a committee of Vice-Chancellors, it suggest they should meet regularly to exchange information, and the Act creating the UGC also set up the NZVCC. As with the UGC, it did not formally assume responsibilities until 1 January 1962, but started work the previous year.
+>
+> The UGC had eight members (all appointed by the government), a chair, three lay members and three academics from the (then four) universities. Under its Act, the UGC’s functions and powers were to:
+
+> 1. publish information on university education and research
+> 
+> 2. examine New Zealand’s needs for university research
+> 
+> 3. investigate the financial needs of the universities
+> 
+> 4. plan for university developments
+> 
+> 5. allocate government grant monies to the universities
+> 
+> 6. provide support for the Universities Entrance Board, the Curriculum Committee, the Research Committee, the Vice-Chancellors’ Committee and the Council of Legal Education.
+> 
+> These last functions took up much of the UGC’s time and some were to form the basis of the responsibilities given to the NZVCC by the 1989 Education Act.
+>
+> The UE Board (UEB), while not a subcommittee of the UGC, had its chair and five of its ten members appointed by the UGC. The UEB set and collected fees for the University Entrance examination and provided an important source of revenue for the UGC. Throughout the life of the UGC, examination fees accounted for about 75% of all the UGC’s income, though this was offset by substantial costs of employing markers, and stationery and postage charges. In all, approximately half of the salary costs incurred by those working in University House, where the UGC was located (and the site of the Ministry of Education’s head office in Bowen Street, Wellington) were for UEB work.
+> 
+> Towards the end of its existence, the University of New Zealand had set up a Curriculum Committee to try and ensure equivalence of standards between courses varying in content between and examined by the separate institutions (the Colleges) but offered as University of New Zealand degrees. Under the UGC, the Committee’s work was expanded to include a concern for the rational use of resources, the market need (and academic justification) for new courses and whether it was appropriate for one or more of the universities to offer them.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 1 Jan 1962
+> The University of New Zealand was disestablished and the four university colleges became full universities in their own right.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 1 Jan 1964
+> Two new universities were created, the University of Waikato and Massey University. The University of Waikato was established to cater for the needs of the area around Hamilton, now New Zealand’s fourth largest city. Massey University in Palmerston North began life as the New Zealand Agricultural College in 1926 (renamed Massey Agricultural College in 1927).
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 1966-1980s
+> The NZVCC—the legal name of the present Universities New Zealand—was set up to provide a forum for the Vice-Chancellors to discuss issues of common interest; the University of New Zealand and the UGC, while important bodies, were for the universities but not of them. The responsibility for servicing the NZVCC was left to the UGC, which provided part-time secretarial support. When the Vice-Chancellors considered what formal support was needed, it was on the assumption that only a few hours a week would be needed; “a retired person of senior government status” was seen as the most suitable appointment. It was not until 1966 that a permanent appointment was made, with an office provided at Victoria University of Wellington. In 1974 a conference of universities recommended that the NZVCC should play a more active and public role in promoting universities and their contribution, and an extra staff member was engaged. This situation was to continue until the late 1980s.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 1984 - 1990
+> The reforms of the 1984-90 Labour Government resulted in a major overhaul of the education system. The Education Act of 1989 abolished the UGC and the Department of Education, and set up the Ministry of Education and the New Zealand Qualifications Authority. While all tertiary institutions were given more autonomy, the control of funding (delivered as a bulk fund based on Equivalent Full Time Students) was given to the Ministry.
+> 
+> As with many reorganisations at the time, several functions were left without a home and several them were given to the NZVCC, which was given additional resources by the universities to cope with the new responsibilities.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+> The responsibilities given to the NZVCC after the UGC was wound up included academic approval of new courses, standards for entrance to the universities and monitoring overall academic quality. Another function was to administer a range of scholarships—currently over 30 —which involved publicising the scholarships as well as the selection and award process.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+> Although the research funds administered by the UGC were not transferred to the NZVCC, the universities were keen to ensure that the research functions of the universities were not forgotten and established a research committee to develop policy on system wide issues. 
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 1990
+> Lincoln University (near Christchurch in the South Island) was established, although like Massey University, it has a long history. A School of Agriculture was set up in Lincoln in 1878 and in 1896, as the renamed Canterbury Agricultural College, was given the right to award degrees through the University of New Zealand. Renamed Lincoln College in 1961, Lincoln became a constituent college of the University of Canterbury until it subsequently became a full and self-governing university.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 1990 - 2000
+> The rise in international education led to increases in resources and over the next ten years the secretariat grew steadily, with a staff of ten by the year 2000.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 2000
+> The Auckland University of Technology was established. Like Massey and Lincoln Universities it has a long history. Beginning life as the Auckland Technical School in 1895, in 1960 the secondary school and tertiary functions were separated, and the Auckland Technical Institute was set up. The Institute’s name was changed to the Auckland Institute of Technology in 1989 and changed its name again on 1 January 2000 when it gained university status.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 2010
+> The NZVCC begins operating under the name Universities New Zealand - Te Pōkai Tara.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+## 2016
+> Changes were made to the composition of university councils under the Education Act.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
 
 # Late 19th century (1800s)
 ## Stolen whenua
@@ -151,3 +281,10 @@ slug: university-history
 > In 2023, New Zealand’s universities are in crisis. Hundreds of redundancies have been announced across the sector, more loom, and entire departments are being cut or drastically restructured (Heagney, 2023). An emergency stimulation package announced by the government is expected to have little preventative effect (Tertiary Education Union [TEU], 2023). Universities and the government have blamed the COVID-19 recession for declining enrolments and an inability to increase funding (McNeilly, 2023). However, the TEU has drawn attention to the preceding decades of systematic underfunding and neoliberal governance canvassed above—between 2009-2018, cumulative tertiary underfunding amounted to an estimated $3.7 billion (Roper, 2023). The New Zealand Union of Students’ Associations (NZUSA) and Te Mana Ākonga have also connected these issues to neoliberal governance outside of tertiary education. With the phasing in of first-year free fees from 2018 unmatched by a sufficient increase in living support, inflation and a pre-existing housing crisis have ballooned living costs beyond sustainable levels for many students (NZUSA et al., 2022; Shaw, 2017). The treatment of students by universities during the pandemic lockdowns has also drawn ire, contributing to a sense of feeling undervalued for students (NZUSA et al., 2022). It seems that neoliberal universities may have dug their own grave—in a sector where the last four decades have instilled the primacy of higher education as an individual investment towards the good life, the production of neoliberal subjects appears to have been so effective that New Zealand’s universities simply cannot treat their customers well enough or offer a quality product such that students are taking their business elsewhere. A detailed understanding of how students have been and are governed into neoliberal subjectivity is critical to exploring student experiences of universities, particularly as the institutions themselves teeter on the precipice.
 > 
 > **Jack (2023, p.48)**
+
+## Contemporary
+> Growing recognition of the need for evidence of the importance of a university qualification has seen a further bolstering of resources in the last few years. Further details of what we do are in the Our functions and focus section found under About Universities New Zealand.
+>
+> Although a statutory body, Universities New Zealand receives no government funding and is financed by the universities from their own resources.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
