@@ -2,6 +2,7 @@ import fsp from 'fs/promises';
 import parse from 'front-matter';
 import { marked } from 'marked';
 import pug from 'pug';
+import path from 'path';
 // const postcss = require('postcss')
 // const cssnano = require('cssnano')
 // const htmlmin = require('html-minifier')
@@ -77,6 +78,61 @@ async function build() {
   await buildRss({ blog_data })
   await buildPages()
   await buildTranscripts()
+  await buildEncyclopedia()
+}
+
+function cleanEncyclopediaFilename(filename) {
+  return filename.replace(/ /g, '_').replace(/[^a-zA-Z0-9_\-]/g, '')
+}
+
+async function buildEncyclopedia() {
+
+  let list_of_all_entries = []
+
+  // get all the files in the wiki folder
+  const files = await fsp.glob('./source/encyclopedia/**/*.md')
+  // for each file, render it to html, processing the links with a function
+  for await (const file of files) {
+    const filename = path.basename(file, '.md')
+    const cleanFilename = cleanEncyclopediaFilename(filename)
+    console.log(`Building ${file}`)
+
+    let content = await fsp.readFile(file, 'utf8')
+    // look for links in the content with [[link|optional title]] and replace them with <a href="/wiki/link">optional title</a>
+    content = content.replace(/\[\[([^|\]]+)\|?([^\]]+)\]\]/g, (match, link, title) => {
+      const cleanLink = cleanEncyclopediaFilename(link)
+      return `<a href="/wiki/${cleanLink}">${title || link}</a>`
+    })
+
+
+    const html = marked(content)
+    // let output = html
+    let output = pug.renderFile('./source/template/blog.pug', { attributes: { title: filename, encyclopedia: true }, body: html })
+    // minify the html using html-minifier
+    output = htmlmin.minify(output, {
+      collapseWhitespace: true,
+      removeComments: true,
+      minifyCSS: true,
+      minifyJS: true
+    })
+
+    await fsp.mkdir(`./docs/encyclopedia/${cleanFilename}`, { recursive: true })
+    await fsp.writeFile(`./docs/encyclopedia/${cleanFilename}/index.html`, output)
+
+    list_of_all_entries.push({ title: filename, link: `/encyclopedia/${cleanFilename}` })
+  }
+
+  // render the index page
+  let output = pug.renderFile('./source/template/blog.pug', { attributes: { title: 'Encyclopedia', encyclopedia: true }, body: list_of_all_entries.map(entry => `<a href="${entry.link}">${entry.title}</a><br>`).join('') })
+  // minify the html using html-minifier
+  output = htmlmin.minify(output, {
+    collapseWhitespace: true,
+    removeComments: true,
+    minifyCSS: true,
+    minifyJS: true
+  })
+  await fsp.mkdir(`./docs/encyclopedia`, { recursive: true })
+  await fsp.writeFile(`./docs/encyclopedia/index.html`, output)
 }
 
 async function buildRss({ blog_data }) {

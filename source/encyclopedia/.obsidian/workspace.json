@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "86559827313a7ed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd42c3f24f10860e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf2df7709cfb25ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Te Ara Paerangi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d104330e530d325",
+    "type": "split",
+    "children": [
+      {
+        "id": "424d1cdb423f0b1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7550b92283b5f594",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57e861279dc8bf6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82fdb3ee43f42929",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9641d7440137257f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef6f8c609bea8c22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ae384aef78b84e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Te Ara Paerangi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47a7b1d77b2ef443",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Te Ara Paerangi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13c73712d4fa928f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34f5b5a8e2c9e639",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Te Ara Paerangi.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf2df7709cfb25ab",
+  "lastOpenFiles": [
+    "NACTNZF.md",
+    "Te Ara Paerangi.md",
+    "Sixth.md",
+    "government.md"
+  ]
+}
