@@ -5,34 +5,41 @@ slug: university-history
 
 <script src="/table-of-contents.js" columns="2"></script>
 
-
-## 1869
-
-> The University of Otago is New Zealand’s oldest university. In June 1870 the Otago Provincial Council passed the Otago University Ordinance, creating the University of Otago as a corporate body with powers to grant degrees in arts, medicine, law and music. The university opened in July 1871, with a staff of three professors.
+# The New Zealand University
+> As well as being the examining and degree-granting body for all New Zealand university colleges, the University of New Zealand was also responsible for approving qualifications and, perhaps most importantly, for conducting examinations and marking papers. The early university community was small and relatively inexperienced; many professors saw themselves as teachers and resisted the idea of also being examiners. For these reasons, and to help ensure that New Zealand standards were on a par with those in the United Kingdom, papers were sent there for marking, so that many months passed from the time students sat an exam until the results were received. This practice continued for most of the life of the university and only ended with the Second World War; not only were there issues with sending papers into a war zone but many of the markers were employed in the war effort.
+> 
 > [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
 
+# Late 19th century (1800s)
+
+## 1869
+> The University of Otago is New Zealand’s oldest university. In June 1870 the Otago Provincial Council passed the Otago University Ordinance, creating the University of Otago as a corporate body with powers to grant degrees in arts, medicine, law and music. The university opened in July 1871, with a staff of three professors.
+> 
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
 
 ## 1870
 > The University of New Zealand was established by statute in 1870, when only one university existed in New Zealand, the University of Otago. When institutions were established in Auckland, Canterbury and Wellington they became constituent colleges of the University; Otago, as its establishment predated that of the University of New Zealand, was allowed to retain the word 'university' in its title. This first national body was relatively small throughout its life, with few staff.
+> 
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
 
 ## Sept 1870
 > The University of New Zealand was created by Act of Parliament and became the examining and degree-granting body for all New Zealand university institutions. Colleges were then established in Christchurch (Canterbury College, 1873), Auckland (1883) and Wellington (Victoria University College, 1897).
 > 
 > [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
 
-## The New Zealand University
-> As well as being the examining and degree-granting body for all New Zealand university colleges, the University of New Zealand was also responsible for approving qualifications and, perhaps most importantly, for conducting examinations and marking papers. The early university community was small and relatively inexperienced; many professors saw themselves as teachers and resisted the idea of also being examiners. For these reasons, and to help ensure that New Zealand standards were on a par with those in the United Kingdom, papers were sent there for marking, so that many months passed from the time students sat an exam until the results were received. This practice continued for most of the life of the university and only ended with the Second World War; not only were there issues with sending papers into a war zone but many of the markers were employed in the war effort.
+## Stolen whenua
+> As with other settler states—namely the US, Canada, and Australia—higher education in New Zealand is “part of a nexus of power and governmentality shaped by a history of colonial invasion” (Kidman, 2020, p. 249). All bar two (AUT and Waikato) of New Zealand’s universities were built in the late 19th century and initially funded by income from government land reserves in order to deliver a curriculum servicing the needs of the settler-colonial state, and all eight remain physically occupying stolen whenua (Kidman, 1999; A. Smith et al., 2021).
 > 
-> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+> **Jack (2023, p.37)**
 
-## 1961
-> Universities New Zealand (UNZ) in its current form (as the New Zealand Vice-Chancellors’ Committee (NZVCC)—the legal name of UNZ) dates to the 1989 Education Act; it was, however, created by the Education Act of 1961 as one of the successor bodies to the University of New Zealand, along with the University Grants Committee (UGC). UNZ  officially came into existence on 1 January 1962, but had operated informally from 1 January the previous year; indeed for 1961 all three organisations co-existed.
->
-> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+### Connections to today
+> As such, New Zealand’s universities are rooted in colonial violence and efforts to secure the hegemonic power of the settler-colonial state by producing a particular settler workforce (and a particular Māori subject) (Kidman, 1999, 2020). Not yet dissimilar from this early function, New Zealand’s universities continue to maintain a racialised class divide within Aotearoa and enforce the onto-epistemological supremacy of white, Western knowledge and knowledge production (L. T. Smith, 2020). New Zealand’s universities were and still are institutions of settler-colonial capitalism. Neoliberalism can be understood as an ideological interlocutor of the contemporary settler-colonial state (Carey, 2016; Stein, 2022). The individualist market rationalism of neoliberal governmentality continues the state’s project of assimilation by using discourses of free choice and personal responsibility to cement the idea that colonisation has ended. This sensibility can, therefore, deny the possibility that structural racism or whiteness exists in either public or private institutions, masking the continued oppression of Indigenous and racialised people by making structural violence appear instead as the deserved consequence of poor personal choices (Yacobi & Tzfadia, 2017). This ideological interaction forms the university into a corporate machine that continues the original role of universities as a tool of capitalist, settler-colonial violence (Carey, 2016; Stein, 2022). Techniques like incorporating diversity discourses into strategic plans are operationalised to do this obscuring work (Ahmed, 2012; Carey, 2016). Further, as Mignolo (2012) writes, neoliberalism is not solely economic but a “new civilizing project” (p. 24)—neoliberalism and settler-colonialism inform the subjectification of individuals through the university, shaping which bodies and knowledge can exist within the institution and how they can do so (Ahmed, 2015). For instance, techniques like promoting very small numbers of Indigenous and racialised academics into the professoriate create a referential good institutional subject against whom others can be designated bad and governed into mimicking (Ahmed, 2015; Kidman, 2020; Naepi & Naepi, 2022). Neoliberalism allows settler-colonial universities to simultaneously negate their structure and any demands for change and capitalise on the presence of racialised bodies whilst moulding them into neoliberal subjects. Understanding the original colonial purposes of New Zealand’s universities and their more subtle neoliberal continuation provides an important context for analysing universities as institutions of neoliberal government. Examining other structuring ideologies of the university contextualises experiences specific to the Indigenous and racialised participants in this research. Further, it demonstrates that universities here were always, and remain, useful to the state for producing self-governing subjects in the interests of power. New Zealand’s white, settler-colonial, neoliberal universities are the intended products of oppressive power, explicitly designed to perform this normalising work. Tracing the development and effects of New Zealand’s universities as settler-colonial is beyond the scope of this thesis, [^11] nor is it my role as a Pākehā researcher to undertake research focused specifically on Indigenous and racialised (queer and LGBTQTakatāpui+) students in Aotearoa. Instead, this brief discussion reminds us that New Zealand’s universities have always been operants of normative power.
+> 
+> [^11]: See Kidman (1999) for a detailed history of pre-colonial and early colonial higher education in Aotearoa and the settler development of New Zealand’s universities. See Naepi & Leenen-Young (2021) for discussion of New Zealand’s ongoing colonial and imperial higher education in the Pacific.
+> 
+> **Jack (2023, p.37)**
 
-> In its [(The University of New Zealand's)] last year of existence (1961) its budget for salaries was only £19,000—at a time when a professor earned £2,000 and a lecturer £1,000. Unlike most institutions with the word 'university' in their title, the University of New Zealand had no students to teach and indeed no academics to teach them. While the Vice-Chancellor was often an academic, this was a part-time role; one of the university's longest serving Vice-Chancellors, Sir Thomas Hunter, was also a professor of Philosophy at Victoria University College.
->
-> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
 
 ## 1918
 > While only Otago was able to claim full university status, the colleges in Auckland, Canterbury and Wellington made periodic attempts to gain this, the first of these being in 1918.
@@ -83,6 +90,17 @@ slug: university-history
 >
 > [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
 
+
+## 1961
+> Universities New Zealand (UNZ) in its current form (as the New Zealand Vice-Chancellors’ Committee (NZVCC)—the legal name of UNZ) dates to the 1989 Education Act; it was, however, created by the Education Act of 1961 as one of the successor bodies to the University of New Zealand, along with the University Grants Committee (UGC). UNZ  officially came into existence on 1 January 1962, but had operated informally from 1 January the previous year; indeed for 1961 all three organisations co-existed.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+> In its [(The University of New Zealand's)] last year of existence (1961) its budget for salaries was only £19,000—at a time when a professor earned £2,000 and a lecturer £1,000. Unlike most institutions with the word 'university' in their title, the University of New Zealand had no students to teach and indeed no academics to teach them. While the Vice-Chancellor was often an academic, this was a part-time role; one of the university's longest serving Vice-Chancellors, Sir Thomas Hunter, was also a professor of Philosophy at Victoria University College.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+
 ## 1 Jan 1962
 > The University of New Zealand was disestablished and the four university colleges became full universities in their own right.
 >
@@ -93,10 +111,12 @@ slug: university-history
 >
 > [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
 
+
 ## 1966-1980s
 > The NZVCC—the legal name of the present Universities New Zealand—was set up to provide a forum for the Vice-Chancellors to discuss issues of common interest; the University of New Zealand and the UGC, while important bodies, were for the universities but not of them. The responsibility for servicing the NZVCC was left to the UGC, which provided part-time secretarial support. When the Vice-Chancellors considered what formal support was needed, it was on the assumption that only a few hours a week would be needed; “a retired person of senior government status” was seen as the most suitable appointment. It was not until 1966 that a permanent appointment was made, with an office provided at Victoria University of Wellington. In 1974 a conference of universities recommended that the NZVCC should play a more active and public role in promoting universities and their contribution, and an extra staff member was engaged. This situation was to continue until the late 1980s.
 >
 > [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
 
 ## 1984 - 1990
 > The reforms of the 1984-90 Labour Government resulted in a major overhaul of the education system. The Education Act of 1989 abolished the UGC and the Department of Education, and set up the Ministry of Education and the New Zealand Qualifications Authority. While all tertiary institutions were given more autonomy, the control of funding (delivered as a bulk fund based on Equivalent Full Time Students) was given to the Ministry.
@@ -112,45 +132,6 @@ slug: university-history
 > Although the research funds administered by the UGC were not transferred to the NZVCC, the universities were keen to ensure that the research functions of the universities were not forgotten and established a research committee to develop policy on system wide issues. 
 >
 > [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
-
-## 1990
-> Lincoln University (near Christchurch in the South Island) was established, although like Massey University, it has a long history. A School of Agriculture was set up in Lincoln in 1878 and in 1896, as the renamed Canterbury Agricultural College, was given the right to award degrees through the University of New Zealand. Renamed Lincoln College in 1961, Lincoln became a constituent college of the University of Canterbury until it subsequently became a full and self-governing university.
->
-> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
-
-## 1990 - 2000
-> The rise in international education led to increases in resources and over the next ten years the secretariat grew steadily, with a staff of ten by the year 2000.
->
-> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
-
-## 2000
-> The Auckland University of Technology was established. Like Massey and Lincoln Universities it has a long history. Beginning life as the Auckland Technical School in 1895, in 1960 the secondary school and tertiary functions were separated, and the Auckland Technical Institute was set up. The Institute’s name was changed to the Auckland Institute of Technology in 1989 and changed its name again on 1 January 2000 when it gained university status.
->
-> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
-
-## 2010
-> The NZVCC begins operating under the name Universities New Zealand - Te Pōkai Tara.
->
-> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
-
-## 2016
-> Changes were made to the composition of university councils under the Education Act.
->
-> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
-
-# Late 19th century (1800s)
-## Stolen whenua
-> As with other settler states—namely the US, Canada, and Australia—higher education in New Zealand is “part of a nexus of power and governmentality shaped by a history of colonial invasion” (Kidman, 2020, p. 249). All bar two (AUT and Waikato) of New Zealand’s universities were built in the late 19th century and initially funded by income from government land reserves in order to deliver a curriculum servicing the needs of the settler-colonial state, and all eight remain physically occupying stolen whenua (Kidman, 1999; A. Smith et al., 2021).
-> 
-> **Jack (2023, p.37)**
-
-### Connections to today
-> As such, New Zealand’s universities are rooted in colonial violence and efforts to secure the hegemonic power of the settler-colonial state by producing a particular settler workforce (and a particular Māori subject) (Kidman, 1999, 2020). Not yet dissimilar from this early function, New Zealand’s universities continue to maintain a racialised class divide within Aotearoa and enforce the onto-epistemological supremacy of white, Western knowledge and knowledge production (L. T. Smith, 2020). New Zealand’s universities were and still are institutions of settler-colonial capitalism. Neoliberalism can be understood as an ideological interlocutor of the contemporary settler-colonial state (Carey, 2016; Stein, 2022). The individualist market rationalism of neoliberal governmentality continues the state’s project of assimilation by using discourses of free choice and personal responsibility to cement the idea that colonisation has ended. This sensibility can, therefore, deny the possibility that structural racism or whiteness exists in either public or private institutions, masking the continued oppression of Indigenous and racialised people by making structural violence appear instead as the deserved consequence of poor personal choices (Yacobi & Tzfadia, 2017). This ideological interaction forms the university into a corporate machine that continues the original role of universities as a tool of capitalist, settler-colonial violence (Carey, 2016; Stein, 2022). Techniques like incorporating diversity discourses into strategic plans are operationalised to do this obscuring work (Ahmed, 2012; Carey, 2016). Further, as Mignolo (2012) writes, neoliberalism is not solely economic but a “new civilizing project” (p. 24)—neoliberalism and settler-colonialism inform the subjectification of individuals through the university, shaping which bodies and knowledge can exist within the institution and how they can do so (Ahmed, 2015). For instance, techniques like promoting very small numbers of Indigenous and racialised academics into the professoriate create a referential good institutional subject against whom others can be designated bad and governed into mimicking (Ahmed, 2015; Kidman, 2020; Naepi & Naepi, 2022). Neoliberalism allows settler-colonial universities to simultaneously negate their structure and any demands for change and capitalise on the presence of racialised bodies whilst moulding them into neoliberal subjects. Understanding the original colonial purposes of New Zealand’s universities and their more subtle neoliberal continuation provides an important context for analysing universities as institutions of neoliberal government. Examining other structuring ideologies of the university contextualises experiences specific to the Indigenous and racialised participants in this research. Further, it demonstrates that universities here were always, and remain, useful to the state for producing self-governing subjects in the interests of power. New Zealand’s white, settler-colonial, neoliberal universities are the intended products of oppressive power, explicitly designed to perform this normalising work. Tracing the development and effects of New Zealand’s universities as settler-colonial is beyond the scope of this thesis, [^11] nor is it my role as a Pākehā researcher to undertake research focused specifically on Indigenous and racialised (queer and LGBTQTakatāpui+) students in Aotearoa. Instead, this brief discussion reminds us that New Zealand’s universities have always been operants of normative power.
-> 
-> [^11]: See Kidman (1999) for a detailed history of pre-colonial and early colonial higher education in Aotearoa and the settler development of New Zealand’s universities. See Naepi & Leenen-Young (2021) for discussion of New Zealand’s ongoing colonial and imperial higher education in the Pacific.
-> 
-> **Jack (2023, p.37)**
-
 
 # 1984-1990
 ## Fourth Labour Government
@@ -207,7 +188,20 @@ slug: university-history
 > 
 > **Jack (2023, p.41)**
 
-# 1990-1999
+
+## 1990
+> Lincoln University (near Christchurch in the South Island) was established, although like Massey University, it has a long history. A School of Agriculture was set up in Lincoln in 1878 and in 1896, as the renamed Canterbury Agricultural College, was given the right to award degrees through the University of New Zealand. Renamed Lincoln College in 1961, Lincoln became a constituent college of the University of Canterbury until it subsequently became a full and self-governing university.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+
+# 1990-2000
+
+> The rise in international education led to increases in resources and over the next ten years the secretariat grew steadily, with a staff of ten by the year 2000.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
+
 ## Settling In: National, 1990-1999
 ### The fourth National government, Ruth Richardson's 'mother of all budgets'
 > The fourth National government, elected in 1990, accelerated and solidified New Zealand’s neoliberal restructuring. Finance Minister Ruth Richardson’s infamous ‘mother of all budgets’ was released in 1991, continuing the privatisation of state assets, dramatically slashing social welfare spending, and public institutions, including education, were fully introduced to the free market (Kelsey, 1997; Peters et al., 1992). In terms of higher education, the new government built upon the framework laid out by recent legislation and the Hawke report. Although the government would remain the primary financier of universities, it reduced this quite markedly, necessitating that universities turn towards private funding through ever-increasing fees and commercialisation. Forcing institutions to be more responsive to the market in this way was implemented to make universities more efficient and encourage their uptake of corporate managerialism (Olssen, 2002). Cost-cutting and uninhibited embrace of the free market were at the core of National’s tertiary policy.
@@ -239,6 +233,12 @@ slug: university-history
 > **Jack (2023, p.43)**
 
 # 2000 onwards
+
+## 2000
+> The Auckland University of Technology was established. Like Massey and Lincoln Universities it has a long history. Beginning life as the Auckland Technical School in 1895, in 1960 the secondary school and tertiary functions were separated, and the Auckland Technical Institute was set up. The Institute’s name was changed to the Auckland Institute of Technology in 1989 and changed its name again on 1 January 2000 when it gained university status.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
 > The following outline of neoliberal changes in New Zealand’s university system since 2000 is non-exhaustive, focusing specifically on moments that have fine-tuned the neoliberal government of students until the present day.
 > 
 > **Jack (2023, p.45)**
@@ -261,6 +261,12 @@ slug: university-history
 > 
 > **Jack (2023, p.45)**
 
+
+## 2010
+> The NZVCC begins operating under the name Universities New Zealand - Te Pōkai Tara.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
+
 ## 2011
 ### the Education (Freedom of Association) Amendment Act
 > As a surreptitious but effective means of cost-cutting across multiple fronts, the Education (Freedom of Association) Amendment Act 2011 [^16] introduced voluntary student union membership. The result was a massive decline in membership and a corresponding fall in union funding. Already financially precarious, the power of student unions as both advocacy groups and funders for other student organisations and services was undercut (Nissen & Hayward, 2016). Student groups vehemently opposed the bill, including queer students’ associations, who were aware that it would decrease their funding and thus the ability to organise community-building and political events on campus (GayNZ, 2010). The surgical dismantling of student collectivity, much like other union-busting activity, further individualises students and facilitates their further neoliberal regulation. In the wake of the bill being passed, the government slashed student allowance spending over the next five years and the loan repayment rate was increased, both with little meaningful opposition from increasingly atomised students (Nissen & Hayward, 2016).
@@ -268,6 +274,12 @@ slug: university-history
 > [^16]: Interestingly, the bill was sponsored by Roger Douglas, who was by this time a Member of Parliament for the ACT Party.
 > 
 > **Jack (2023, p.46)**
+
+
+## 2016
+> Changes were made to the composition of university councils under the Education Act.
+>
+> [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
 
 ## 2020
 ### The Education and Training Act 2020

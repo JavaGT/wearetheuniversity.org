@@ -1,0 +1,87 @@
+---
+title: "Responding to New Zealand’s Early Career Researcher Crisis During the Pandemic"
+slug: responding-to-new-zealands-early-career-researcher-crisis
+date: 2020-09-08
+source: https://scientists.org.nz/press-releases
+source-name: The New Zealand Association of Scientists
+author: The New Zealand Association of Scientists
+author-slug: the-new-zealand-association-of-scientists
+---
+
+8 September 2020
+Responding to New Zealand’s Early Career Researcher Crisis During the Pandemic
+The New Zealand Association of Scientists Council finds that analysis and evidence point to significant problems
+with early career paths in the science, research and innovation sector. Early in the pandemic, we spelled out how
+these early career researcher (ECR) issues would be exacerbated by travel restrictions and institutional budget
+cuts and might be mitigated1
+. Paths to solutions are now clearer and must be chosen.
+This issue matters because a nation’s success in science, research and innovation results in no small part from
+the drive, energy and ideas of early career researchers. Our early career paths must perform better to provide a
+workforce that keeps our industries and particularly our start-up innovation sector competitive in the
+transformations expected post-pandemic. Except for a few elite Rutherford post-doctoral fellows appointed on
+academic tracks each year, we have no systematic funding or measures of early career numbers or career path
+progression. Our 3-year PhDs are short by international standards, and often lack intersection with industry and
+the independence and leadership development needed to bridge into successful careers leading our sectors.
+The evidence for a very serious problem is high uncertainty in our national ability to even define how our early
+career research pathways are disrupted by the pandemic. In our recent panel2
+, all political parties acknowledged
+serious issues but lacked clear solutions. We need to create a functioning system largely from scratch, following
+the best international examples.
+What we know now includes:
+● New Zealand’s treatment of ‘post-docs’ is unusual internationally: we lack both the expected number of
+centrally funded fellowships, and a willingness to reduce institutional overheads to make post-docs cost-
+competitive with PhD students in new grants and projects.
+● No functional postdoctoral programme has existed since the old FRST post-doctoral scheme was eliminated3
+.
+● The “New and Emerging Researcher” category and incentive in PBRF showed a negligible effect suggesting
+a more systemic problem.
+● With no post-doctoral fellowship scheme, limited institutional career tracking schemes, and no functioning
+NZRIS, we lack a national system for tracking the career pipeline, or assessing impacts of a shock such as
+the pandemic on the availability of a future workforce in science, research and innovation. In short, we lack
+our own national evidence framework and are forced to combine overseas data with a growing basis for
+concern.
+1 https://scientists.org.nz/resources/Documents/PressReleases/NZAS-Statement-ScienceAsStimulus.pdf
+2 https://scientists.org.nz/news/9210641
+3 We note its elimination resulted from an error in analysis uncovered through OIA, leading to the incorrect conclusion it was
+not needed to maintain early career pipelines.● This lack of functional early career paths has exacerbated a serious diversity problem in academia, including
+gender disparity, under-representation of Māori and Pacifica in academia, and no progress in Māori or Pacifica
+representation in science over 12 years.
+● There are significant impacts of the pandemic on the scientific workforce’s productivity internationally, that
+vary substantially with gender.
+● Our institutions depend strongly on appointments from overseas during early career stages.
+We specifically highlight the following risks of a business-as-usual strategy:
+● We risk having a missing cohort in our science system in a decade’s time. This will impact on the training and
+mentoring of future generations of researchers.
+● The loss is not just for academia and research institutes, but perhaps more from industry, innovative start-ups
+and environmental governance sectors.
+● We already misunderstand the role played by post-doctoral researchers - it is not just their careers that are at
+stake. It is their value to the wider research system. The well-trained, focused, energetic researcher
+unencumbered by administration and wider duties is initially at the centre of vibrant, productive research
+teams. With their skills and networks from early career roles, we expect many to be engaged in dynamic
+careers in and beyond academia, that are essential to industry, innovation and government.
+● We risk further failure on Treaty obligations right when we have begun to understand the value of Māori and
+Pacifica representation in science, including science roles in government and industry.
+To have a strong, resilient economy and society across the next twenty years, we strongly recommend:
+● A system is needed to track early career paths from the entry to higher degrees (PhDs) through early career
+positions, in academia, research organisations, industry and government. Due to the length of New Zealand
+PhDs being shorter (three years) than most international counterparts, functional post-doctoral roles are likely
+to be critical in establishing future leaders and we need to know the pipeline is performing well and preserving
+diversity to provide a future workforce, including for the industry-driven innovation sector.
+● Two good alternatives for funding early career positions as a response to Covid-19 are:
+1. Restore a fellowship scheme resembling the discontinued FRST postdoctoral fellowships at a level
+of at least 50 new positions per year, and with mechanisms to improve links with industry and
+government, and paths into permanent positions.
+2. Fund research institutions to support at least 50 new early career path positions each year that
+improve the future workforce available for academic research, industry, and government, and report
+on the development of these paths.
+● Evaluate the total cost of a solution – likely to be a very small fraction of total science funding.
+● Compare to successful national systems, including but not limited to small advanced economies, to identify
+successful strategies delivering a well-trained workforce to academic research, industry and government.
+● Consider and continue to evaluate the appropriate institutional overheads or fellowship/incentive schemes
+(such as the PBRF multiplier) to ensure that post-doctoral roles are not out-competed by overtraining more
+doctoral students.
+We conclude by suggesting that the best combinations of these recommendations will be flexible to the need for
+rapid changes in the workforce in coming years, providing stable income for well-trained researchers, and able to
+provide sound statistics to manage the role of PhDs and post-docs in the research and innovation system.
+Contact: Professor Troy Baisden (President NZAS) ph: +64 7 838 4055 email: president@scientists.org.nz
+www.scientists.org.nz
