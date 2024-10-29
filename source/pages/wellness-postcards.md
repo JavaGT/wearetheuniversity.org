@@ -24,6 +24,12 @@ title: 'Make a Wellness Postcard'
         margin: 20px;
         padding: 10px;
     }
+    section.body {
+        max-width: 96vw !important;
+        display: flex;
+        flex-flow: wrap;
+        justify-content: space-around;
+    }
 </style>
 
 <div id="visual"></div>
@@ -39,13 +45,39 @@ title: 'Make a Wellness Postcard'
 
     document.getElementById('visual').appendChild(canvas);
 
+    // prpmopt selection
+    const prompts = [
+        "What wellness means to me...",
+        "Our new gym...",
+        "I feel well when...",
+        "Obstacles to my wellness include...",
+        "University managment..."
+    ];
+
+    // select interface for prompt
+    const label0 = document.createElement('label');
+    label0.textContent = 'Prompt';
+    document.getElementById('inputs').appendChild(label0);
+
+    const promptSelect = document.createElement('select');
+    promptSelect.onchange = () => {
+        renderPostcard();
+    }
+    document.getElementById('inputs').appendChild(promptSelect);
+
+    prompts.forEach((prompt) => {
+        const option = document.createElement('option');
+        option.value = prompt;
+        option.textContent = prompt;
+        promptSelect.appendChild(option);
+    });
+
     const label1 = document.createElement('label');
     label1.textContent = 'Message';
     document.getElementById('inputs').appendChild(label1);
     const textbox = document.createElement('textarea');
     textbox.innerHTML = ["Fair pay", "Good working conditions", "A sense of purpose", "A sense of belonging", "A sense of achievement"][Math.floor(Math.random() * 5)];
     textbox.oninput = () => {
-        console.log('input');
         renderPostcard();
     }
     document.getElementById('inputs').appendChild(textbox);
@@ -60,21 +92,68 @@ title: 'Make a Wellness Postcard'
     document.getElementById('inputs').appendChild(signedBy);
 
     // font selection
+    // const label3 = document.createElement('label');
+    // label3.textContent = 'Font';
+    // document.getElementById('inputs').appendChild(label3);
+
+    // const fontSelect = document.createElement('select');
+    // fontSelect.onchange = renderPostcard;
+    // document.getElementById('inputs').appendChild(fontSelect);
+
+    // const fonts = ['cursive', 'serif', 'fantasy', 'sans-serif', 'monospace'];
+    // fonts.forEach((font) => {
+    //     const option = document.createElement('option');
+    //     option.value = font;
+    //     option.textContent = font;
+    //     fontSelect.appendChild(option);
+    // });
+
+    // font selection using radio buttons
     const label3 = document.createElement('label');
     label3.textContent = 'Font';
     document.getElementById('inputs').appendChild(label3);
 
-    const fontSelect = document.createElement('select');
-    fontSelect.onchange = renderPostcard;
-    document.getElementById('inputs').appendChild(fontSelect);
+    const fontWrapper = document.createElement('div');
+    document.getElementById('inputs').appendChild(fontWrapper);
 
+    const fontInput = document.createElement('input');
+    fontInput.type = 'text';
+    fontInput.style.display = 'none';
+    fontInput.oninput = renderPostcard;
+    fontInput.value = 'monospace';
+    fontInput.onchange = () => {
+        const font = document.querySelector('input[name="font"]:checked');
+        font.checked = false;
+        renderPostcard();
+    }
+    document.getElementById('inputs').appendChild(fontInput);
+    
     const fonts = ['cursive', 'serif', 'fantasy', 'sans-serif', 'monospace'];
-    fonts.forEach((font) => {
-        const option = document.createElement('option');
-        option.value = font;
-        option.textContent = font;
-        fontSelect.appendChild(option);
+    fonts.forEach((font, i) => {
+        const input = document.createElement('input');
+        input.type = 'radio';
+        input.name = 'font';
+        input.value = font;
+        input.id = font;
+        input.onchange = () => {
+            fontInput.value = font;
+            renderPostcard();
+        }
+        if (i === 0) {
+            input.checked = true;
+            fontInput.value = font;
+        }
+        fontWrapper.appendChild(input);
+
+        const label = document.createElement('label');
+        label.textContent = font;
+        label.htmlFor = font;
+        fontWrapper.appendChild(label);
     });
+
+    // event listener for font selection
+    fontInput.onchange = renderPostcard;
+
 
     // font size
     const label4 = document.createElement('label');
@@ -130,10 +209,13 @@ title: 'Make a Wellness Postcard'
         ctx.shadowBlur = 8;
         ctx.shadowOffsetX = 3;
         ctx.shadowOffsetY = 3;
-        ctx.fillText('What wellness means to me...', 100, 550);
-        ctx.fillText('What wellness means to me...', 100, 550);
-        ctx.fillText('What wellness means to me...', 100, 550);
-        ctx.fillText('What wellness means to me...', 100, 550);
+        
+        // selected prompt
+        ctx.fillText(promptSelect.value, 100, 550);
+        ctx.fillText(promptSelect.value, 100, 550);
+        ctx.fillText(promptSelect.value, 100, 550);
+        ctx.fillText(promptSelect.value, 100, 550);
+
 
         // reset drop shadow
         ctx.shadowColor = 'transparent';
@@ -151,7 +233,7 @@ title: 'Make a Wellness Postcard'
         ctx.stroke();
         // draw lines for text on the back
         ctx.fillStyle = 'black';
-        ctx.font = fontSize.value + 'px ' + fontSelect.value;
+        ctx.font = fontSize.value + 'px ' + fontInput.value;
         for (let i = 0; i < 5; i++) {
             ctx.beginPath();
             ctx.moveTo(100, 850 + i * 50);
@@ -179,7 +261,16 @@ title: 'Make a Wellness Postcard'
         const name = signedBy.value || 'Anonymous';
         // right align
         ctx.textAlign = 'right';
+        // save current font
+        let currentFont = ctx.font;
+        // set fontsize to 46
+        console.log('font is', ctx.font);
+        ctx.font = '46px ' + ctx.font.split(' ')[2];
+        console.log('font is now', ctx.font);
         ctx.fillText('-' + name, 1100, 850 + 5 * 50 - 5);
+        // restore font
+        ctx.font = currentFont;
+        console.log('font restored', ctx.font);
         ctx.textAlign = 'left';
 
 
@@ -209,8 +300,8 @@ title: 'Make a Wellness Postcard'
         ctx.lineWidth = 2;
         ctx.font = 'bold 20px monospace';
         ctx.textAlign = 'right';
-        ctx.strokeText('https://wearetheuniversity.org/wellness-postcards/', 1200 - 100, 630*2 - 20);
-        ctx.fillText('https://wearetheuniversity.org/wellness-postcards/', 1200 - 100, 630*2 - 20);
+        ctx.strokeText('www.wearetheuniversity.org/wellness-postcards', 1200 - 100, 630*2 - 20);
+        ctx.fillText('www.wearetheuniversity.org/wellness-postcards', 1200 - 100, 630*2 - 20);
         ctx.textAlign = 'left';
     }
 </script>
