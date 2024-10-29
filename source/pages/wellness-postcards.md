@@ -1,5 +1,5 @@
 ---
-slug: 'wellbeing-postcards'
+slug: 'wellness-postcards'
 ---
 
 <style>
