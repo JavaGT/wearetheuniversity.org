@@ -99,9 +99,9 @@ async function buildEncyclopedia() {
 
     let content = await fsp.readFile(file, 'utf8')
     // look for links in the content with [[link|optional title]] and replace them with <a href="/wiki/link">optional title</a>
-    content = content.replace(/\[\[([^|\]]+)\|?([^\]]+)\]\]/g, (match, link, title) => {
+    content = content.replace(/\[\[([^|\]]+)\|?([^\]]+)?\]\]/g, (match, link, title) => {
       const cleanLink = cleanEncyclopediaFilename(link)
-      return `<a href="/wiki/${cleanLink}">${title || link}</a>`
+      return `<a href="/encyclopedia/${cleanLink}">${title || link}</a>`
     })
 
 
