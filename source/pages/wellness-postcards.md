@@ -23,6 +23,11 @@ title: 'Make a Wellness Postcard'
         gap: 10px;
         margin: 20px;
         padding: 10px;
+        background: cadetblue;
+        border-radius: 10px;
+    }
+    #inputs > * {
+        padding: 6px;
     }
     section.body {
         max-width: 96vw !important;
@@ -90,23 +95,6 @@ title: 'Make a Wellness Postcard'
     signedBy.placeholder = 'Anonymous';
     signedBy.oninput = renderPostcard;
     document.getElementById('inputs').appendChild(signedBy);
-
-    // font selection
-    // const label3 = document.createElement('label');
-    // label3.textContent = 'Font';
-    // document.getElementById('inputs').appendChild(label3);
-
-    // const fontSelect = document.createElement('select');
-    // fontSelect.onchange = renderPostcard;
-    // document.getElementById('inputs').appendChild(fontSelect);
-
-    // const fonts = ['cursive', 'serif', 'fantasy', 'sans-serif', 'monospace'];
-    // fonts.forEach((font) => {
-    //     const option = document.createElement('option');
-    //     option.value = font;
-    //     option.textContent = font;
-    //     fontSelect.appendChild(option);
-    // });
 
     // font selection using radio buttons
     const label3 = document.createElement('label');
