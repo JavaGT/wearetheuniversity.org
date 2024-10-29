@@ -43,7 +43,7 @@ slug: 'wellness-postcards'
     label1.textContent = 'Message';
     document.getElementById('inputs').appendChild(label1);
     const textbox = document.createElement('textarea');
-    textbox.innerHTML = 'This is the back of the postcard';
+    textbox.innerHTML = ["Fair pay", "Good working conditions", "A sense of purpose", "A sense of belonging", "A sense of achievement"][Math.floor(Math.random() * 5)];
     textbox.oninput = () => {
         console.log('input');
         renderPostcard();
@@ -127,9 +127,9 @@ slug: 'wellness-postcards'
         ctx.font = 'bold 46px monospace';
         // add drop shadow
         ctx.shadowColor = 'black';
-        ctx.shadowBlur = 10;
-        ctx.shadowOffsetX = 5;
-        ctx.shadowOffsetY = 5;
+        ctx.shadowBlur = 8;
+        ctx.shadowOffsetX = 3;
+        ctx.shadowOffsetY = 3;
         ctx.fillText('What wellness means to me...', 100, 550);
         ctx.fillText('What wellness means to me...', 100, 550);
         ctx.fillText('What wellness means to me...', 100, 550);
