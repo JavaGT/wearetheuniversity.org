@@ -1,5 +1,6 @@
 ---
 slug: 'wellness-postcards'
+title: 'Make a Wellness Postcard'
 ---
 
 <style>
@@ -25,7 +26,6 @@ slug: 'wellness-postcards'
     }
 </style>
 
-<h1>Make a Wellbeing Postcard</h1>
 <div id="visual"></div>
 <div id="inputs"></div>
 
@@ -199,5 +199,18 @@ slug: 'wellness-postcards'
         ctx.rotate(Math.PI / 40);
         ctx.drawImage(img, -130, -100, 250, 200);
         ctx.restore();
+
+        // add url to bottom of top half
+        // https://wearetheuniversity.org/wellness-postcards/
+
+        
+        ctx.fillStyle = 'black';
+        ctx.strokeStyle = 'white';
+        ctx.lineWidth = 2;
+        ctx.font = 'bold 20px monospace';
+        ctx.textAlign = 'right';
+        ctx.strokeText('https://wearetheuniversity.org/wellness-postcards/', 1200 - 100, 630*2 - 20);
+        ctx.fillText('https://wearetheuniversity.org/wellness-postcards/', 1200 - 100, 630*2 - 20);
+        ctx.textAlign = 'left';
     }
 </script>
