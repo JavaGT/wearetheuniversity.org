@@ -77,7 +77,6 @@ title: 'Make a Wellness Postcard'
 
     // radio buttons for image selection
     const imageWrapper = document.createElement('div');
-    document.getElementById('inputs').appendChild(imageWrapper);
 
     Object.keys(images).forEach((key, i) => {
         const input = document.createElement('input');
@@ -109,6 +108,7 @@ title: 'Make a Wellness Postcard'
         renderPostcard();
     }
     document.getElementById('inputs').appendChild(promptSelect);
+    document.getElementById('inputs').appendChild(imageWrapper);
 
     prompts.forEach((prompt) => {
         const option = document.createElement('option');
