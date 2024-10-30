@@ -633,6 +633,8 @@ blockquote *:first-child {
     padding: 1rem;
     display: flex;
     width: 100vw;
+    border-top: 2px solid var(--text-primary-inverse);
+    background-color: #0004;
 }
 
 .footer > ul {

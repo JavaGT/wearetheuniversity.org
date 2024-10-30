@@ -4,11 +4,6 @@ title: 'Make a Wellness Postcard'
 ---
 
 <style>
-    body {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
 
     canvas {
         border: 1px solid black;
@@ -31,14 +26,28 @@ title: 'Make a Wellness Postcard'
     }
     section.body {
         max-width: 96vw !important;
+        /* display: flex; */
+    }
+    .flex {
         display: flex;
         flex-flow: wrap;
-        justify-content: space-around;
+        justify-content: center;
+        align-items: center;
     }
 </style>
 
-<div id="visual"></div>
-<div id="inputs"></div>
+<div style="text-align:center; margin-bottom: 1.5rem">
+    <h3>Places to share your postcard</h3>
+    <a href="https://www.instagram.com">Instagram</a>
+    <a href="https://bsky.app">Bluesky</a>
+    <a href="https://www.twitter.com">Twitter</a>
+    <a href="https://www.facebook.com">Facebook</a>
+    <a href="https://www.linkedin.com">LinkedIn</a>
+</div>
+<div class="flex">
+    <div id="visual"></div>
+    <div id="inputs"></div>
+</div>
 
 
 <script type="module">
