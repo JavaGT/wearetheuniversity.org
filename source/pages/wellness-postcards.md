@@ -42,22 +42,90 @@ title: 'Make a Wellness Postcard'
 
 
 <script type="module">
-    // create a canvas which renders the postcard front and back
-    const canvas = document.createElement('canvas');
-    canvas.width = 1200;
-    canvas.height = 630 * 2;
-    const ctx = canvas.getContext('2d');
 
-    document.getElementById('visual').appendChild(canvas);
-
-    // prpmopt selection
-    const prompts = [
-        "What wellness means to me...",
-        "Our new gym...",
-        "I feel well when...",
-        "Obstacles to my wellness include...",
-        "University managment..."
-    ];
+    const data_structure = [
+        {
+            position: 0,
+            name: "Prompt",
+            type: "select",
+            options: [
+                "What wellness means to me...",
+                "Our new gym...",
+                "I feel well when...",
+                "Obstacles to my wellness include...",
+                "University managment..."
+            ]
+        },
+        {
+            position: 1,
+            name: "Message",
+            type: "textarea",
+            placeholder: "Message",
+            value: ["Fair pay", "Paid a living wage", "Good working conditions", "A sense of purpose", "A sense of belonging", "A sense of achievement"][Math.floor(Math.random() * 6)]
+        },
+        {
+            position: 2,
+            name: "Signed by",
+            type: "input",
+            placeholder: "Anonymous",
+            input: "text",
+            value: "Anonymous"
+        },
+        {
+            position: 3,
+            name: "Font",
+            type: "radio",
+            options: [
+                {name: "cursive"},
+                {name: "serif"},
+                {name: "fantasy"},
+                {name: "sans-serif"},
+                {name: "monospace"}
+            ]
+        },
+        {
+            position: 4,
+            name: "Font Size",
+            type: "input",
+            input: "number",
+            value: 46,
+            max: 46,
+            min: 30
+        },
+        {
+            position: 5,
+            name: "Image",
+            type: "radio",
+            options: [
+                {name: "rec-centre", src: '/media/well-rec-centre.jpeg'},
+                {name: "vic uni", src: '/media/vic-law-library.jpg'},
+                {name: "fruit", src: '/media/fruit.jpg'},
+                {name: "clocktower", src: '/media/clocktower.jpg'},
+            ]
+        },
+        {
+            position: 6,
+            name: "Permission",
+            type: "radio",
+            label: "Permission to share on the website?",
+            options: [
+                {name: "yes", value: "yes"},
+                {name: "yes (anonymised)", value: "yes-anon"},
+                {name: "no", value: "no"}
+            ]
+        },
+        {
+            position: 7,
+            name: "Save Image",
+            type: "button",
+            onclick: () => {
+                const link = document.createElement('a');
+                link.download = 'postcard.jpg';
+                link.href = canvas.toDataURL('image/jpeg');
+                link.click();
+            }
+        }
+    ]
 
     const images = {
         'rec-centre':  {src: '/media/well-rec-centre.jpeg'},
@@ -65,8 +133,7 @@ title: 'Make a Wellness Postcard'
         'fruit':  {src: '/media/fruit.jpg'},
         'clocktower':  {src: '/media/clocktower.jpg'},
     }
-    
-    // select image for prompt
+
     Object.keys(images).forEach((key) => {
         images[key].img = new Image();
         images[key].img.src = images[key].src;
@@ -75,149 +142,237 @@ title: 'Make a Wellness Postcard'
         }
     });
 
-    // radio buttons for image selection
-    const imageWrapper = document.createElement('div');
+    // build interface
 
-    Object.keys(images).forEach((key, i) => {
-        const input = document.createElement('input');
-        input.type = 'radio';
-        input.name = 'image';
-        input.value = key;
-        input.id = key;
-        input.onchange = () => {
-            renderPostcard();
-        }
-        if (i === 0) {
-            input.checked = true;
-        }
-        imageWrapper.appendChild(input);
-
+    data_structure.forEach((data) => {
         const label = document.createElement('label');
-        label.textContent = key;
-        label.htmlFor = key;
-        imageWrapper.appendChild(label);
+        label.textContent = data.label || data.name;
+        document.getElementById('inputs').appendChild(label);
+
+        const element = document.createElement(data.type);
+        element.name = data.name;
+        element.position = data.position;
+        element.value = data.value;
+        element.max = data.max;
+        element.min = data.min;
+        element.placeholder = data.placeholder;
+        element.oninput = element.onchange = renderPostcard
+        
+        if (data.type === "select") {
+            data.options.forEach((option) => {
+                const optionElement = document.createElement('option');
+                optionElement.value = option;
+                optionElement.textContent = option;
+                element.appendChild(optionElement);
+            });
+        } else if (data.type === "radio") {
+            data.options.forEach((option, i) => {
+                const input = document.createElement('input');
+                input.type = 'radio';
+                input.name = data.name;
+                input.value = option.value || option.name;
+                input.id = option.name;
+                input.onchange = renderPostcard
+                if (i === 0) {
+                    input.checked = true;
+                }
+                element.appendChild(input);
+
+                const label = document.createElement('label');
+                label.textContent = option.name;
+                label.htmlFor = option.name;
+                element.appendChild(label);
+            });
+        } else if (data.type === "button") {
+            element.onclick = data.onclick;
+            element.textContent = data.name;
+        } else if (data.type === "input") {
+            element.type = data.input;
+        }
+        document.getElementById('inputs').appendChild(element);
     });
 
-    // select interface for prompt
-    const label0 = document.createElement('label');
-    label0.textContent = 'Prompt';
-    document.getElementById('inputs').appendChild(label0);
+    // create a canvas which renders the postcard front and back
+    const canvas = document.createElement('canvas');
+    canvas.width = 1200;
+    canvas.height = 630 * 2;
+    const ctx = canvas.getContext('2d');
 
-    const promptSelect = document.createElement('select');
-    promptSelect.onchange = () => {
-        renderPostcard();
-    }
-    document.getElementById('inputs').appendChild(promptSelect);
-    document.getElementById('inputs').appendChild(imageWrapper);
+    document.getElementById('visual').appendChild(canvas);
 
-    prompts.forEach((prompt) => {
-        const option = document.createElement('option');
-        option.value = prompt;
-        option.textContent = prompt;
-        promptSelect.appendChild(option);
-    });
+    // // prpmopt selection
+    // const prompts = [
+    //     "What wellness means to me...",
+    //     "Our new gym...",
+    //     "I feel well when...",
+    //     "Obstacles to my wellness include...",
+    //     "University managment..."
+    // ];
 
-    const label1 = document.createElement('label');
-    label1.textContent = 'Message';
-    document.getElementById('inputs').appendChild(label1);
-    const textbox = document.createElement('textarea');
-    textbox.innerHTML = ["Fair pay", "Good working conditions", "A sense of purpose", "A sense of belonging", "A sense of achievement"][Math.floor(Math.random() * 5)];
-    textbox.oninput = () => {
-        renderPostcard();
-    }
-    document.getElementById('inputs').appendChild(textbox);
-
-    const label2 = document.createElement('label');
-    label2.textContent = 'Signed by';
-    document.getElementById('inputs').appendChild(label2);
-
-    const signedBy = document.createElement('input');
-    signedBy.placeholder = 'Anonymous';
-    signedBy.oninput = renderPostcard;
-    document.getElementById('inputs').appendChild(signedBy);
-
-    // font selection using radio buttons
-    const label3 = document.createElement('label');
-    label3.textContent = 'Font';
-    document.getElementById('inputs').appendChild(label3);
-
-    const fontWrapper = document.createElement('div');
-    document.getElementById('inputs').appendChild(fontWrapper);
-
-    const fontInput = document.createElement('input');
-    fontInput.type = 'text';
-    fontInput.style.display = 'none';
-    fontInput.oninput = renderPostcard;
-    fontInput.value = 'monospace';
-    fontInput.onchange = () => {
-        const font = document.querySelector('input[name="font"]:checked');
-        font.checked = false;
-        renderPostcard();
-    }
-    document.getElementById('inputs').appendChild(fontInput);
+    // const images = {
+    //     'rec-centre':  {src: '/media/well-rec-centre.jpeg'},
+    //     'vic uni':  {src: '/media/vic-law-library.jpg'},
+    //     'fruit':  {src: '/media/fruit.jpg'},
+    //     'clocktower':  {src: '/media/clocktower.jpg'},
+    // }
     
-    const fonts = ['cursive', 'serif', 'fantasy', 'sans-serif', 'monospace'];
-    fonts.forEach((font, i) => {
-        const input = document.createElement('input');
-        input.type = 'radio';
-        input.name = 'font';
-        input.value = font;
-        input.id = font;
-        input.onchange = () => {
-            fontInput.value = font;
-            renderPostcard();
-        }
-        if (i === 0) {
-            input.checked = true;
-            fontInput.value = font;
-        }
-        fontWrapper.appendChild(input);
+    // // select image for prompt
+    // Object.keys(images).forEach((key) => {
+    //     images[key].img = new Image();
+    //     images[key].img.src = images[key].src;
+    //     images[key].img.onload = () => {
+    //         renderPostcard();
+    //     }
+    // });
 
-        const label = document.createElement('label');
-        label.textContent = font;
-        label.htmlFor = font;
-        fontWrapper.appendChild(label);
-    });
+    // // radio buttons for image selection
+    // const imageWrapper = document.createElement('div');
 
-    // event listener for font selection
-    fontInput.onchange = renderPostcard;
+    // Object.keys(images).forEach((key, i) => {
+    //     const input = document.createElement('input');
+    //     input.type = 'radio';
+    //     input.name = 'image';
+    //     input.value = key;
+    //     input.id = key;
+    //     input.onchange = () => {
+    //         renderPostcard();
+    //     }
+    //     if (i === 0) {
+    //         input.checked = true;
+    //     }
+    //     imageWrapper.appendChild(input);
+
+    //     const label = document.createElement('label');
+    //     label.textContent = key;
+    //     label.htmlFor = key;
+    //     imageWrapper.appendChild(label);
+    // });
+
+    // // select interface for prompt
+    // const label0 = document.createElement('label');
+    // label0.textContent = 'Prompt';
+    // document.getElementById('inputs').appendChild(label0);
+
+    // const promptSelect = document.createElement('select');
+    // promptSelect.onchange = () => {
+    //     renderPostcard();
+    // }
+    // document.getElementById('inputs').appendChild(promptSelect);
+    // document.getElementById('inputs').appendChild(imageWrapper);
+
+    // prompts.forEach((prompt) => {
+    //     const option = document.createElement('option');
+    //     option.value = prompt;
+    //     option.textContent = prompt;
+    //     promptSelect.appendChild(option);
+    // });
+
+    // const label1 = document.createElement('label');
+    // label1.textContent = 'Message';
+    // document.getElementById('inputs').appendChild(label1);
+    // const textbox = document.createElement('textarea');
+    // textbox.innerHTML = ["Fair pay", "Good working conditions", "A sense of purpose", "A sense of belonging", "A sense of achievement"][Math.floor(Math.random() * 5)];
+    // textbox.oninput = () => {
+    //     renderPostcard();
+    // }
+    // document.getElementById('inputs').appendChild(textbox);
+
+    // const label2 = document.createElement('label');
+    // label2.textContent = 'Signed by';
+    // document.getElementById('inputs').appendChild(label2);
+
+    // const signedBy = document.createElement('input');
+    // signedBy.placeholder = 'Anonymous';
+    // signedBy.oninput = renderPostcard;
+    // document.getElementById('inputs').appendChild(signedBy);
+
+    // // font selection using radio buttons
+    // const label3 = document.createElement('label');
+    // label3.textContent = 'Font';
+    // document.getElementById('inputs').appendChild(label3);
+
+    // const fontWrapper = document.createElement('div');
+    // document.getElementById('inputs').appendChild(fontWrapper);
+
+    // const fontInput = document.createElement('input');
+    // fontInput.type = 'text';
+    // fontInput.style.display = 'none';
+    // fontInput.oninput = renderPostcard;
+    // fontInput.value = 'monospace';
+    // fontInput.onchange = () => {
+    //     const font = document.querySelector('input[name="font"]:checked');
+    //     font.checked = false;
+    //     renderPostcard();
+    // }
+    // document.getElementById('inputs').appendChild(fontInput);
+    
+    // const fonts = ['cursive', 'serif', 'fantasy', 'sans-serif', 'monospace'];
+    // fonts.forEach((font, i) => {
+    //     const input = document.createElement('input');
+    //     input.type = 'radio';
+    //     input.name = 'font';
+    //     input.value = font;
+    //     input.id = font;
+    //     input.onchange = () => {
+    //         fontInput.value = font;
+    //         renderPostcard();
+    //     }
+    //     if (i === 0) {
+    //         input.checked = true;
+    //         fontInput.value = font;
+    //     }
+    //     fontWrapper.appendChild(input);
+
+    //     const label = document.createElement('label');
+    //     label.textContent = font;
+    //     label.htmlFor = font;
+    //     fontWrapper.appendChild(label);
+    // });
+
+    // // event listener for font selection
+    // fontInput.onchange = renderPostcard;
 
 
-    // font size
-    const label4 = document.createElement('label');
-    label4.textContent = 'Font Size';
-    document.getElementById('inputs').appendChild(label4);
+    // // font size
+    // const label4 = document.createElement('label');
+    // label4.textContent = 'Font Size';
+    // document.getElementById('inputs').appendChild(label4);
 
-    const fontSize = document.createElement('input');
-    fontSize.type = 'number';
-    fontSize.value = 46;
-    fontSize.oninput = renderPostcard;
-    fontSize.max = 46;
-    fontSize.min = 30;
-    document.getElementById('inputs').appendChild(fontSize);
+    // const fontSize = document.createElement('input');
+    // fontSize.type = 'number';
+    // fontSize.value = 46;
+    // fontSize.oninput = renderPostcard;
+    // fontSize.max = 46;
+    // fontSize.min = 30;
+    // document.getElementById('inputs').appendChild(fontSize);
 
-    // save image (as jpg) button
-    const saveButton = document.createElement('button');
-    saveButton.textContent = 'Save Image';
-    saveButton.onclick = () => {
-        const link = document.createElement('a');
-        link.download = 'postcard.jpg';
-        link.href = canvas.toDataURL('image/jpeg');
-        link.click();
-    }
-    document.getElementById('inputs').appendChild(saveButton);
+    // // save image (as jpg) button
+    // const saveButton = document.createElement('button');
+    // saveButton.textContent = 'Save Image';
+    // saveButton.onclick = () => {
+    //     const link = document.createElement('a');
+    //     link.download = 'postcard.jpg';
+    //     link.href = canvas.toDataURL('image/jpeg');
+    //     link.click();
+    // }
+    // document.getElementById('inputs').appendChild(saveButton);
 
 
-    // draw stamp /assets/WATU-Stamp.png
-    const img = new Image();
-    img.src = '/media/WATU-Stamp.png';
-    img.onload = renderPostcard;
+    // // draw stamp /assets/WATU-Stamp.png
+    // const img = new Image();
+    // img.src = '/media/WATU-Stamp.png';
+    // img.onload = renderPostcard;
 
-    const recImg = new Image();
-    recImg.src = '/media/well-rec-centre.jpeg';
-    recImg.onload = renderPostcard;
+    // const recImg = new Image();
+    // recImg.src = '/media/well-rec-centre.jpeg';
+    // recImg.onload = renderPostcard;
+    const stampImg = new Image();
+    stampImg.src = '/media/WATU-Stamp.png';
+    stampImg.onload  = renderPostcard;
+
 
     renderPostcard();
+
 
     function renderPostcard() {
         // clear
@@ -227,7 +382,8 @@ title: 'Make a Wellness Postcard'
         // rec-centre.jpeg
         // draw image on top half
         // ctx.drawImage(recImg, 0, 0, 1200, 630);
-        ctx.drawImage(images[document.querySelector('input[name="image"]:checked').value].img, 0, 0, 1200, 630);
+        // ctx.drawImage(images[document.querySelector('input[name="image"]:checked').value].img, 0, 0, 1200, 630);
+        ctx.drawImage(images[document.querySelector('input[name="Image"]:checked').value].img, 0, 0, 1200, 630);
 
         // render "What wellness means to me" on the front
         ctx.fillStyle = 'white';
@@ -239,10 +395,11 @@ title: 'Make a Wellness Postcard'
         ctx.shadowOffsetY = 3;
         
         // selected prompt
-        ctx.fillText(promptSelect.value, 100, 550);
-        ctx.fillText(promptSelect.value, 100, 550);
-        ctx.fillText(promptSelect.value, 100, 550);
-        ctx.fillText(promptSelect.value, 100, 550);
+        ctx.fillText(document.querySelector('select[name="Prompt"]').value, 100, 550);
+        ctx.fillText(document.querySelector('select[name="Prompt"]').value, 100, 550);
+        ctx.fillText(document.querySelector('select[name="Prompt"]').value, 100, 550);
+        ctx.fillText(document.querySelector('select[name="Prompt"]').value, 100, 550);
+        ctx.fillText(document.querySelector('select[name="Prompt"]').value, 100, 550);
 
 
         // reset drop shadow
@@ -261,6 +418,8 @@ title: 'Make a Wellness Postcard'
         ctx.stroke();
         // draw lines for text on the back
         ctx.fillStyle = 'black';
+        const fontSize = document.querySelector('input[name="Font Size"]');
+        const fontInput = document.querySelector('input[name="Font"]:checked');
         ctx.font = fontSize.value + 'px ' + fontInput.value;
         for (let i = 0; i < 5; i++) {
             ctx.beginPath();
@@ -270,6 +429,7 @@ title: 'Make a Wellness Postcard'
             // render line of text
         }
 
+        const textbox = document.querySelector('[name="Message"]');
         let numberOfLines = Math.min(textbox.value.split('\n').length, 12)
 
         for (let i = 0; i < Math.min(numberOfLines, 12); i++) {
@@ -286,16 +446,21 @@ title: 'Make a Wellness Postcard'
         }
 
         // draw signed by
+        const signedBy = document.querySelector('[name="Signed by"]');
         const name = signedBy.value || 'Anonymous';
         // right align
         ctx.textAlign = 'right';
         // save current font
         let currentFont = ctx.font;
         // set fontsize to 46
-        console.log('font is', ctx.font);
+
+        console.log('original font is', currentFont);
         ctx.font = '46px ' + ctx.font.split(' ')[2];
+
         console.log('font is now', ctx.font);
+
         ctx.fillText('-' + name, 1100, 850 + 5 * 50 - 5);
+
         // restore font
         ctx.font = currentFont;
         console.log('font restored', ctx.font);
@@ -312,11 +477,11 @@ title: 'Make a Wellness Postcard'
         ctx.lineTo(800 + 150, 1200 - 550);
         ctx.stroke();
 
-
+        // Draw stamp
         ctx.save();
         ctx.translate(800 + 150 + 100, 1200 - 550 + 100);
         ctx.rotate(Math.PI / 40);
-        ctx.drawImage(img, -130, -100, 250, 200);
+        ctx.drawImage(stampImg, -130, -100, 250, 200);
         ctx.restore();
 
         // add url to bottom of top half
