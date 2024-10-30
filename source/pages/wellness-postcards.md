@@ -21,13 +21,13 @@ title: 'Make a Wellness Postcard'
         display: flex;
         flex-direction: column;
         gap: 10px;
-        margin: 20px;
+        margin: 0 5px;
         padding: 10px;
         background: cadetblue;
         border-radius: 10px;
     }
     #inputs > * {
-        padding: 6px;
+        padding: 2px;
     }
     section.body {
         max-width: 96vw !important;
@@ -58,6 +58,46 @@ title: 'Make a Wellness Postcard'
         "Obstacles to my wellness include...",
         "University managment..."
     ];
+
+    const images = {
+        'rec-centre':  {src: '/media/well-rec-centre.jpeg'},
+        'vic uni':  {src: '/media/vic-law-library.jpg'},
+        'fruit':  {src: '/media/fruit.jpg'},
+        'clocktower':  {src: '/media/clocktower.jpg'},
+    }
+    
+    // select image for prompt
+    Object.keys(images).forEach((key) => {
+        images[key].img = new Image();
+        images[key].img.src = images[key].src;
+        images[key].img.onload = () => {
+            renderPostcard();
+        }
+    });
+
+    // radio buttons for image selection
+    const imageWrapper = document.createElement('div');
+    document.getElementById('inputs').appendChild(imageWrapper);
+
+    Object.keys(images).forEach((key, i) => {
+        const input = document.createElement('input');
+        input.type = 'radio';
+        input.name = 'image';
+        input.value = key;
+        input.id = key;
+        input.onchange = () => {
+            renderPostcard();
+        }
+        if (i === 0) {
+            input.checked = true;
+        }
+        imageWrapper.appendChild(input);
+
+        const label = document.createElement('label');
+        label.textContent = key;
+        label.htmlFor = key;
+        imageWrapper.appendChild(label);
+    });
 
     // select interface for prompt
     const label0 = document.createElement('label');
@@ -173,7 +213,6 @@ title: 'Make a Wellness Postcard'
     img.src = '/media/WATU-Stamp.png';
     img.onload = renderPostcard;
 
-
     const recImg = new Image();
     recImg.src = '/media/well-rec-centre.jpeg';
     recImg.onload = renderPostcard;
@@ -187,7 +226,8 @@ title: 'Make a Wellness Postcard'
 
         // rec-centre.jpeg
         // draw image on top half
-        ctx.drawImage(recImg, 0, 0, 1200, 630);
+        // ctx.drawImage(recImg, 0, 0, 1200, 630);
+        ctx.drawImage(images[document.querySelector('input[name="image"]:checked').value].img, 0, 0, 1200, 630);
 
         // render "What wellness means to me" on the front
         ctx.fillStyle = 'white';
