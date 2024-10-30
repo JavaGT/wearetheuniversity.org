@@ -188,12 +188,20 @@ slug: university-history
 > 
 > **Jack (2023, p.41)**
 
+> Kassim-Lakha notes (in Hoyt and Hollister 2014: 1695): ‘Universities have an obligation to share their intellectual material resources with their immediate community and not simply to co-exist with them’. This role is recognized in the New Zealand Education Act of 1989 (Ministry of Education 1989: 160), which sets out that universities and other tertiary education interests will operate in ‘the national interest’. The sharing of intellectual resources involves the dissemination of research beyond universities, but is also tied to the very nature of the institutions and the learning experienced within them. As Christopherson, Gertler and Gray (2014: 214) note, the collective and civic role of universities ‘is manifested in diverse scholarly research agendas. But this civic role is also enacted because universities are the place where young people from diverse backgrounds come together to learn from and about one another and craft routes to new social and political values and identities’. If these are the moral purposes of tertiary education and the modes of operation of universities, then it is crucial that there is equality of access to the social and material goods produced within universities. Equality of access is closely linked to the second moral principle advanced by Wright – democracy in the form of self-determination. If we agree that universities are sites where new social and political values are created, where social and political critiques are developed and where new knowledge is produced, then we will be concerned to ensure there is autonomy (for institutions) and freedom (for scholars and students). Academic freedom is recognized in the New Zealand Education Act of 1989 (Ministry of Education 1989: 161), which sets out the freedom of academics to ‘question and test received wisdom’, to ‘state controversial or unpopular opinions’ and to regulate what is taught and how achievement is to be assessed. What is refected here is that the development of sound critiques of ‘received wisdom’ can only come if scholars are separated from the political, social and economic elite of the day. Autonomy and academic freedom are not just crucial for academic staff; they are important for students as, ironically, while they are learning the rules and regulations of a discipline and are being prepared for a productive life in their society, they are also learning resistance. It is the fourth ‘R’, so to speak, the one that universities don’t like to address, and it makes an unruly subject (Edelman Boren 2001: 7).
+>
+> Sandra Grey (2017, p. 277)
+
+
 
 ## 1990
 > Lincoln University (near Christchurch in the South Island) was established, although like Massey University, it has a long history. A School of Agriculture was set up in Lincoln in 1878 and in 1896, as the renamed Canterbury Agricultural College, was given the right to award degrees through the University of New Zealand. Renamed Lincoln College in 1961, Lincoln became a constituent college of the University of Canterbury until it subsequently became a full and self-governing university.
 >
 > [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
 
+> From the 1990s there has been an increase in line management within institutions and a ‘drift upwards’ in decision making from faculty to professional administrators (Gumport 2001 in Stewart 2010: 57). The ‘professionals’ interested in education are being dethroned in favour of ‘managers’ interested in ‘balanced books’ and ‘KPIs’(Karran 2007; Jones et al. 2012), though in New Zealand these are labelled educational performance indicators (EPIs) to make them appear more palatable. This is about reregulation, with tools such as performance development plans, staff satisfaction surveys, and research portfolios, creating a culture of performativity where the performance is measured against external benchmarks (Jesson 2012: 6).
+> 
+> Sandra Grey (2017, p. 281)
 
 # 1990-2000
 
@@ -234,6 +242,20 @@ slug: university-history
 
 # 2000 onwards
 
+> At the beginning of the twenty-frst century, New Zealand’s universities are dominated by auditing and accountability measures which serve to discipline academic staff and students. Government-funding levers and policy directives are being used to ensure that universities support economic and labour market growth. This economic focus is constraining attempts to fulfl the socially progressive goals of universities at the very time when such projects are sorely needed. The picture is one of institutions and their academics being robbed of the space to be engaged in projects which are not countable, auditable, measurable or commercializable. Called by Winter (1991) the ‘new higher education’ environment, these symptoms are found in universities across the OECD most commonly under the banner of managerialism (Fredman and Doughney 2012; Lorenz 2012; Trowler 2001). The diffculty faced by academic staff and students alike is how to resist the myriad of managerial and auditing techniques infusing daily life in universities and narrowing the purpose of tertiary education.
+>
+> **Sandra Grey (2017, p. 275)**
+
+> But over the last three decades successive New Zealand governments have sought to achieve a much closer alignment between the actions of tertiary education institutions and the goals of government (see, as an example, Ministry of Education 2008). Institutions must deliver material goods which generate a return for ‘NZ Inc’ (Jesson 2012; McLaughlin 2003; Zepke 2012).
+> 
+> The ‘steering’ over the last three decades has privileged commercial-
+ization and corporatization in New Zealand’s tertiary education sector,
+turning universities into tools for economic growth. This is refected in
+the government strategy documents: 
+> > There are three particular priorities that should shape the agenda for the sector: First is the drive to enhance New Zealand’s economic growth performance and raise labour productivity (Ministry of Education 2011: 3). [The goals are] … ensuring that the tertiary education system performs well, not just as its own system, but also as a part of the wider New Zealand economy … ensuring the system can adapt more quickly … addressing changing skill needs (Ministry of Business Innovation and Employment (MBIE) and Ministry of Education 2014: 7).
+>
+> **Sandra Grey (2017, p. 279)**
+
 ## 2000
 > The Auckland University of Technology was established. Like Massey and Lincoln Universities it has a long history. Beginning life as the Auckland Technical School in 1895, in 1960 the secondary school and tertiary functions were separated, and the Auckland Technical Institute was set up. The Institute’s name was changed to the Auckland Institute of Technology in 1989 and changed its name again on 1 January 2000 when it gained university status.
 >
@@ -255,7 +277,21 @@ slug: university-history
 > 
 > **Jack (2023, p.45)**
 
+## 2006
+> The problems in NHE have been well diagnosed internationally but we must continue to articulate them publicly so as to disrupt the power of NHE being taken for granted (Trowler 2001: 197). In New Zealand, for example, the Ministry of Education (MoE) states that the government’s approach, which links the ‘outputs’ of the tertiary education sector to goals of economic advancement and labour market productivity, is ‘accepted by the sector as the necessary way forward’ (Ministry of Education 2006: 17–18).
+>
+> Sandra Grey (2017, p. 278)
+
 ## 2008
+
+> The ‘economic focus’ of government policy leads to a narrowing of who gets to study, where and when – a clear attack on the principle of equality. In an environment of fscal constraint, New Zealand’s National-Party-led government has decided to ‘target’ its investment on learners aged between eighteen and twenty-fve (New Zealand Treasury 2011: 21) to drive higher economic returns for the taxpayers’ investment in education (Ministry of Education 2008: 11). Steering ensures the ‘right’ students are admitted to tertiary study: ‘There is little value for anyone if learners enrol in tertiary provision that they are unlikely to complete, or which lacks a clear progression to higher-level study’ (Ministry of Education 2011: 30). Mature students and those studying part-time have been increasingly excluded from tertiary studies through changes to student fnancing policies. The impact is dramatic. In 2008, before the government narrowed student fnancial support rules, there were 33,009 students over fifty-five years old in New Zealand’s tertiary education system; by 2014 the number had almost halved, to 18,927 (Joyce 2015)
+>
+> **Sandra Grey (2017, p. 275)**
+
+In New Zealand, the NHE agenda is based on short-term goals: ‘The focus [of the Tertiary Education Strategy] is much more explicitly on what the government expects the tertiary education system to contribute and the priority outcomes for the immediate future’ (Ministry of Education 2008: 4). Any future-oriented goals are inhibited by ‘austerity measures’ which have meant that fnancial resources in higher education are ‘more stringent and more contingent’ (Sharrock 2012: 324). In particular, the focus on mechanical effciency (the ratio of a system’s work output to its work input) (Lorenz 2012: 604) is undermining the sustainability of quality public tertiary education. For example, to cope with the cost of hiring additional senior staff to meet the mechanical effciency demands for more peer-reviewed publications, the Ministry of Education (2013) notes that New Zealand institutions have turned to using temporary and casualized contracts for low-level teaching academics in order to meet the rising student numbers that make up another mechanical effciency. This means that the university workforce profle in New Zealand is ageing and there are reduced opportunities for the quality mentoring and training of the next generation of academics.
+>
+> **Sandra Grey (2017, p. 284)**
+
 ### National reelected
 > When National was re-elected amidst the global financial crisis in 2008, their policy forefronted austerity through a series of incremental but meaningful changes. Able to justify an unwillingness to provide any significant funding increases for universities because of the economic downturn, the TES (2010-2015) amounted to a real terms decline in EFTS funding and student financial support (Roper, 2018). In their second term, with a corresponding focus on economic recovery, the TES (2014-2019) pivoted to achieving the workforce development required for globally competitive economic growth—funding increases were frozen for humanities enrolments and increased for STEM enrolments. The document’s suggestion that “tertiary education provides individuals and communities with the opportunity to improve their own social outcomes by gaining the skills they need to become successful and productive citizens” (Ministry of Education, 2014, p. 7) maintains the neoliberal conception of higher education by students and engineers the devaluing of non-vocational study, binding the idea of a successful, fulfilling life to productivity and wealth. Moreover, the consequent restructuring of underfunded departments reinforced the need for staff to prioritise neoliberal drivers rather than pedagogical ones to remain employable, reproducing the consumer-student.
 > 
@@ -268,13 +304,71 @@ slug: university-history
 > [Universities New Zealand](https://www.universitiesnz.ac.nz/about-university-sector/brief-history)
 
 ## 2011
-### the Education (Freedom of Association) Amendment Act
+
+> The changes with regard to who gets to study, what they study and where they study, has been accompanied by a narrowing of the research vision for New Zealand universities. A signifcant level of noncommercial research is carried out in universities in New Zealand but the government has made clear that it will ‘increase the incentives for research and tertiary education institutes to undertake more frm-relevant research and to transfer knowledge to frms’ (New Zealand Treasury 2011: 5). This narrow approach to research has been criticized by academics, including the Prime Minister’s Chief Science Advisor, Peter Gluckman: 
+> > I think New Zealand has ended up with too much end user involve- ment in the contestable funding system, in the way it’s set forward, which has led to much more short-termism in some of our research (Gluckman 2015).
+>
+> Sandra Grey (2017, p. 280)
+
+
+> The government’s approach to strategic planning and alignment of university outputs with government goals has also impacted upon another element of democracy – direct lobbying of the state with regard to the moral principles that should guide tertiary education policy and practice. Documentation from Universities New Zealand (the Vice Chancellors Committee) shows that the leaders of New Zealand’s universities are shying away from publicly ‘biting the hand that feeds them’. For example, the ‘Universities New Zealand Briefing:Contributing to Government Goals’ (Universities New Zealand 2011: 2) notes that universities are ‘uniquely well placed to partner with government in pursuit of these objectives [four government goals for the next four years]’. The focus on partnering with government to achieve economic outputs has become the dominant narrative in publicity releases of Universities New Zealand since 2008.2 Partnering with government, without setting clear moral principles for that partnership, is problematic for Universities New Zealand, as the NHE environment they are signing up to rules out of court any discussion about advancing the non-economic objectives of university activity.
+>
+> Sandra Grey (2017, p. 283)
+
+> One of the interstitial spaces that must be used to transform higher education is in redefning who the university is. Over the last few decades, when speaking of ‘the university’, academics, students, politicians and the public are often referring to the brand of an institution. What are needed are actions which highlight that it is academics, staff and students who are the institutions (this is set out in New Zealand’s Education Act). Certainly this was at the heart of actions carried out in 2011 and 2012 by students at the University of Auckland. The students’ multiple actions included a blockading a road (to protest at the government’s budget and its lack of attention to the issue of student support) and occupying the university library to try to make real the catchphrase‘we are the university’ (Carlos and Cohn 2014). These actions by groups of students, with the support of a handful of academics, reclaim for a moment the civic focus of the university and the democratic ideals underpinning this.
+>
+> Sandra Grey (2017, p. 289)
+
+### The Education (Freedom of Association) Amendment Act
 > As a surreptitious but effective means of cost-cutting across multiple fronts, the Education (Freedom of Association) Amendment Act 2011 [^16] introduced voluntary student union membership. The result was a massive decline in membership and a corresponding fall in union funding. Already financially precarious, the power of student unions as both advocacy groups and funders for other student organisations and services was undercut (Nissen & Hayward, 2016). Student groups vehemently opposed the bill, including queer students’ associations, who were aware that it would decrease their funding and thus the ability to organise community-building and political events on campus (GayNZ, 2010). The surgical dismantling of student collectivity, much like other union-busting activity, further individualises students and facilitates their further neoliberal regulation. In the wake of the bill being passed, the government slashed student allowance spending over the next five years and the loan repayment rate was increased, both with little meaningful opposition from increasingly atomised students (Nissen & Hayward, 2016).
 >
 > [^16]: Interestingly, the bill was sponsored by Roger Douglas, who was by this time a Member of Parliament for the ACT Party.
 > 
 > **Jack (2023, p.46)**
 
+>  In New Zealand, the spaces for academic staff involvement in decision making have come under attack over the last three decades. Academics and students, and their representative unions, are seen as ‘vested’ interests, seeking special advantages or ‘privileges’ for themselves that are contrary to the public interest and to the long-term prospects of the country (Mulgan 2004; Olson 1982). Purging tertiary institutions of their ‘vested interests’ has meant dismantling collegiality and academic staff participation in decision making (see Russell 2007: 113). The most signifcant acts to purge the ‘vested interest’ from New Zealand’s tertiary education sector have been made under the current conservative National-Party-led government. The frst was the move to make student association membership voluntary in 2011. After decades of compulsory student association membership, students now had to ‘opt in’ to the student association but they still had to pay the student services levy to their institutions, which was then ‘redistributed’ to service providers (often the student association). This move has decimated student activism on university campuses.
+>
+> Sandra Grey (2017, p. 283)
+
+## 2012
+> From time to time the ongoing attacks on the autonomy of universities have erupted publicly. For example, when the University of Auckland’s vice chancellor questioned the targeting of funding to engineering places, following the 2102 budget, and suggested that the institution would not strictly follow the rules set out, the response from the government was swift. The Minister for Tertiary Education Steven Joyce retorted: ‘If they want us to be more directive, I’m more than willing’ (see Collins 2012). This type of response has meant any challenge to the Minister’s approach for targeting in the sector has been short-lived.
+>
+> Sandra Grey (2017, p. 281)
+
+## 2013
+> New Zealand’s university staff are acutely aware of this reregulation and its disempowering effect. This was evident in a 2013 survey on the state of the tertiary education sector in New Zealand, completed by 2,931 academic and general staff working in the sector. A clear majority of respondents (88 percent) agreed with the statement that there was a top-down style of management at their institutions, with only 36.4 percent agreeing that there was a climate of collegiality in decision-making processes (Bentley, McLeod and Teo 2014: 14). Participants noted that: ‘Top-down hierarchical management is increasingly autocratic in its decision making process’ and ‘[s]enior staff and divisional heads actively clamp down on staff initiative, and do not let us lower creatures do anything without checking with them a million times’ (ibid.: 14). The 2013 survey also illustrated the impact of the managerial processes on ‘self-determination’: 39 percent of academic staff reported that their level of academic freedom was worse to some degree than when they joined the sector, and 41.9 percent said their opportunity to act as critic and conscience had declined (Bentley, McLeod and Teo 2014: 13). The ‘conformism’ and ‘constraint’ expressed in these survey results are evidence of how self-determination (democracy) is under strain due to both government policy approaches and managerial directives. As Marilyn Strathern noted: ‘The auditing of research and teaching outputs of universities promotes a standardization and normalization of practices fostering conformity which has direct consequences, and for many dire ones, for intellectual production’ (quoted in Dew 2004: 188).
+>
+> Sandra Grey (2017, p. 282)
+
+> the viable alternatives for tertiary education in New Zealand must be ones which defend equality, self-determination and sustainability. From the perspective of both TEU members and the New Zealand Union of Student Associations (NZUSA), the only viable alternative is one which is publicly funded and controlled. It does not take long to fnd this within the core claims of both student and academic staff associations. For example, the TEU document ‘Te Kaupapa Whairoanga’, sets out a clear vision for tertiary education: 
+> > We assert that tertiary education is a public good – the system belongs to all of us, we all contribute to it, and we are all responsible for it. Access to life-long learning in publicly funded tertiary education institutions is a basic right for all New Zealanders (Grey, Sedgwick and Scott 2013).
+>
+> Sandra Grey (2017, p. 285)
+
+
+> The New Zealand Education Act (1989) gives academics the right to challenge their own institution’s actions and policies. That same legislation also means that academic staff can reject the privatization of research by reclaiming and defending their place in public debate. The importance of the role of academics and students in public debate has led to the creation of Academic Freedom Aotearoa in 2013.3 Academics at the University of Auckland have set up a group to educate and train colleagues in their fundamental role of acting as the critic and conscience of society.
+>
+> Sandra Grey (2017, p. 289)
+
+## 2014
+
+> New Zealand academics can use their teaching spaces for generating agency for students. For example, debating with students about the collective rights and responsibilities encompassed in the critic and conscience function is a way of challenging the NHE environment and the economic focus imposed by government policy. This conversation can have surprising effects. In 2014, after discussing the importance of acting as the critic and conscience of society, students in a third-year social movement course at Victoria University of Wellington set up a new activist group – ‘Reclaim Vic’ – and organized ‘illegal’ demonstrations in the university’s student hub. The university required any group using the hub to seek the permission of the institution and to pay a bond, something the students rejected as evidence of how education had been commercialized and privatized.
+> 
+> Similarly, while government measures affect the operations of universities, academic members of staff have the agency to resist some of the trends. One is the commodifcation of our students and the transformation of them from students to ‘consumers’. Classrooms are still a domain in which academics and other teaching staff have considerable agency. It is a space that can be used to highlight to students that the public in New Zealand still pays for nearly three quarters of the cost of their education. A space in which academic staff can talk through and negotiate the social contract between student and teacher, student and the that fund them, and so on. A space in which we can acknowledge the crippling student debt generated by NHE policies, but also ensure that students see their role in higher education as being one of learning, not merely gaining a credential.
+>
+> Sandra Grey (2017, p. 288)
+
+## 2015
+> [The Voluntary Student Membership Bill] was followed, in 2015, with a government decision to remove the legislated right of academics and students to sit at the highest level of decision making – university councils.
+>
+> Sandra Grey (2017, p. 284)
+
+> NZUSA has similar claims in its vision documentation: 
+> > We believe every New Zealand child should have the opportunity to be anything they want to be. That means building a universal, accessible tertiary education system ready to support their dreams whether they choose university, polytechnic or trades training. We believe education is empowering, enlightening and liberating for individuals and our society. Education is inherently good for New Zealand and crucial to the strength, cohesion and advancement of our communities and democracy (New Zealand Union of Student Associations 2015). 
+>
+> These claims are not just those made by academic staff and student unions, but are embedded in the New Zealand Education Act of 1989, giving scope and room for them to be enacted across the sector. The Act includes as objects of tertiary education the provision of ‘high quality learning and research outcomes, equity of access, and innovation’ that contribute to ‘the development of cultural and intellectual life in New Zealand’ and ‘to the sustainable economic and social development of the nation’ (Ministry of Education 1989: Section 159AAA).
+>
+> Sandra Grey (2017, p. 285)
 
 ## 2016
 > Changes were made to the composition of university councils under the Education Act.
