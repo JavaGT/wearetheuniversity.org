@@ -144,3 +144,9 @@ body
                 | #{item.title}
             td.author
               span(class=`author-tag-${(item.author || "").toLowerCase().replace(/[\s\'\"]+/g, '-').replace(/[\(\)]/g, '')}`) #{item.author}
+  section.footer
+    ul
+      li
+        a(href='/') Home
+      li
+        a(href='/contact') Contact

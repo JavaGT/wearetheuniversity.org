@@ -82,7 +82,6 @@ li {
 
 body {
     margin: 0;
-    margin-bottom: 30vh;
 }
 
 section {
@@ -627,4 +626,24 @@ blockquote {
 
 blockquote *:first-child {
     margin-top: 0;
+}
+
+.footer {
+    margin-top: 1rem;
+    padding: 1rem;
+    display: flex;
+    width: 100vw;
+}
+
+.footer > ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer a {
+    color: var(--text-primary-inverse);
+}
+
+.footer a:hover {
+    color: var(--text-highlight);
 }
