@@ -282,7 +282,7 @@ document.getElementById('inputs').appendChild(form)
 images.forEach(image => {
     image.img = new Image()
     image.img.src = image.url
-    stamp.img.onload = () => renderPostcard(form, ctx)
+    image.img.onload = () => renderPostcard(form, ctx)
 })
 
 stamps.forEach(stamp => {
