@@ -32,6 +32,11 @@ title: 'Wellness Postcards'
     <div id="inputs"></div>
 </div>
 
+# Feedback form
+This is a just a prototype before we launch the real thing. Please let us know what you think by filling out this feedback form.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHfgMrPkx6-u1QVMzq-XX1i8Xx0zKbFDmzcn97BV8Eil5MrA/viewform?embedded=true" width="640" height="963" frameborder="0" marginheight="0" marginwidth="0" style="background-color: #eee;">Loading…</iframe>
+
 # What is a Wellness Postcard?
 These postcards are an opportunity to collectively express our feelings and experiences working in universities. They are a way to share our stories, our struggles, and our hopes for the future. They are a way to connect with others who are going through similar experiences, and to build a sense of community and solidarity. They are a way to remind ourselves that we are not alone, and that we are part of a movement for change. Please share your postcard on social media with the hashtag #universitywellness. Feel free to browse the postcards that others have shared.
 
