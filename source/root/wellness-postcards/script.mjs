@@ -1,22 +1,27 @@
 // Critical prompts for the union members to answer
 const prompts = [
+    // Positive
     "I am grateful for...",
-    "I am proud of...",
-    "I am happy about...",
     "I feel well when...",
-    "My employer makes me feel...",
-    "I worry for...",
     "The best part of my job is...",
-    "My sources of stress are...",
     "My sources of joy are...",
     "I feel supported when...",
-    "I don't feel supported when...",
-    "I feel heard when...",
-    "I feel seen when...",
     "I feel valued when...",
-    "I feel respected when...",
     "I feel safe when...",
-    "I feel included when..."
+    "I feel respected when...",
+
+    // Neutral
+    "My employer makes me feel...",
+    "My relationship to management is...",
+    "University leadership is...",
+    "My wellness is impacted by...",
+    
+    // Negative
+    "My sources of stress are...",
+    "I worry for...",
+    "I don't feel supported when...",
+    "Challenges I face are...",
+    "My safety is compromised when...",
 ]
 
 const images = [
