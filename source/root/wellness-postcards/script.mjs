@@ -49,7 +49,7 @@ const dataInput = [
     { label: 'Share email', optional: true, type: 'checkbox', options: ['TEU', 'WATU'], default: ['TEU', 'WATU'] },
     { label: 'Name', optional: true, type: 'text', placeholder: 'Haeata Waitī', default: '' },
     { label: 'Email', optional: true, type: 'email', placeholder: 'name@domain.com', default: '' },
-    { label: 'Submit', type: 'submit', default: 'Submit' }
+    { label: 'Submit', type: 'submit', default: 'Download' }
 ]
 
 function createForm(dataInput) {
