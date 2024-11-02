@@ -28,21 +28,11 @@ const images = [
     { url: './images/office.jpg', alt: 'Office' },
 ]
 
-images.forEach(image => {
-    image.img = new Image()
-    image.img.src = image.url
-})
-
 const stamps = [
     { url: './images/WATU-Stamp.png', alt: 'WATU Stamp' },
     { url: './images/TEU-Stamp.png', alt: 'TEU Stamp' },
     // { url: './images/TEU2-Stamp.png', alt: 'TEU Stamp 2' },
 ]
-
-stamps.forEach(stamp => {
-    stamp.img = new Image()
-    stamp.img.src = stamp.url
-})
 
 const dataInput = [
     { label: 'Prompt', optional: false, type: 'select', options: prompts, default: prompts[0] },
@@ -249,23 +239,6 @@ function renderPostcard(form, ctx) {
         ctx.fillText(line, 100 + jiggle + x_offset, 845 + (i - offset) * 50);
     });
 
-
-
-
-    // let numberOfLines = Math.min(message.split('\n').length, 12)
-
-    // for (let i = 0; i < Math.min(numberOfLines, 12); i++) {
-    //     let text = message.split('\n')[i] || '';
-
-    //     // take number of lines and if they are over 5, offset i by half the difference
-    //     let offset = 0;
-    //     if (numberOfLines > 5) {
-    //         offset = -Math.floor(((numberOfLines - 5) / 2))
-    //     }
-
-    //     ctx.fillText(text, 100, 850 + (i + offset) * 50 - 5);
-    // }
-
     ctx.textAlign = 'right';
     ctx.fillText('-' + (signed ? signed : "Anonymous"), 1100, 850 + 5 * 50 - 5);
     ctx.textAlign = 'left';
@@ -305,12 +278,22 @@ function renderPostcard(form, ctx) {
 const { ctx } = createPostcard()
 const form = createForm(dataInput)
 document.getElementById('inputs').appendChild(form)
-// document.body.appendChild(form)
 
-// form.addEventListener('change', () => renderPostcard(form, postcard))
+images.forEach(image => {
+    image.img = new Image()
+    image.img.src = image.url
+    stamp.img.onload = () => renderPostcard(form, ctx)
+})
+
+stamps.forEach(stamp => {
+    stamp.img = new Image()
+    stamp.img.src = stamp.url
+    stamp.img.onload = () => renderPostcard(form, ctx)
+})
 
 renderPostcard(form, ctx)
 setTimeout(() => renderPostcard(form, ctx), 100)
+setTimeout(() => renderPostcard(form, ctx), 1000)
 
 form.addEventListener('input', () => renderPostcard(form, ctx))
 form.addEventListener('submit', (event) => {
