@@ -1,6 +1,7 @@
 ---
 slug: 'wellness-postcards'
-title: 'Wellness Postcards (Unreleased, seeking feedback)'
+title: 'Wellness Postcards'
+socialImage: './images/social.jpg'
 ---
 
 
@@ -47,4 +48,11 @@ We Are The University is a revitalisation of a student activist group from the e
 # Who is the TEU?
 The Tertiary Education Union (TEU) is the union for many staff working in tertiary education in Aotearoa New Zealand. The TEU negotiates collective agreements, securing better salaries and working conditions, as well as providing support and advice to its members. The TEU is currently negotiating collective agreements at a few universities, including the University of Auckland.
 
+# Postcard Gallery
+Add yours by selecting "Share postcard to public gallery?"
+
+<div id="gallery"></div>
+
+
 <script src="script.mjs" type="module"></script>
+<script src="gallery.mjs" type="module"></script>

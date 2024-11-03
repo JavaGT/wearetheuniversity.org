@@ -24,20 +24,29 @@ const prompts = [
     "My safety is compromised when...",
 ]
 
-const images = [
+export const images = [
     { url: './images/rec-center.jpeg', alt: 'Recreation Center' },
     { url: './images/victoria-law-library.jpg', alt: 'Victoria Law Library' },
     { url: './images/bowl-of-fruit.jpg', alt: 'Bowl of Fruit' },
     { url: './images/beehive.png', alt: 'Beehive' },
     { url: './images/traffic.jpg', alt: 'Traffic' },
     { url: './images/office.jpg', alt: 'Office' },
-]
+].map(image => {
+    image.img = new Image()
+    image.img.src = image.url
+    image.img.onload = () => renderPostcard(form, ctx, {stamps, images})
+    return image
+})
 
-const stamps = [
+export const stamps = [
     { url: './images/WATU-Stamp.png', alt: 'WATU' },
     { url: './images/TEU-Stamp.png', alt: 'TEU' },
-    // { url: './images/TEU2-Stamp.png', alt: 'TEU Stamp 2' },
-]
+].map(stamp => {
+    stamp.img = new Image()
+    stamp.img.src = stamp.url
+    stamp.img.onload = () => renderPostcard(form, ctx, {stamps, images})
+    return stamp
+})
 
 const dataInput = [
     { label: 'Prompt', optional: false, type: 'select', options: prompts, default: prompts[0] },
@@ -103,7 +112,7 @@ function createForm(dataInput) {
     return form
 }
 
-function createPostcard() {
+export function createPostcard() {
     // create a canvas which renders the postcard front and back
     const canvas = document.createElement('canvas');
     canvas.width = 1200;
@@ -119,8 +128,9 @@ function createPostcard() {
     // stampImg.onload  = renderPostcard;
 }
 
-function renderPostcard(form, ctx) {
-    const formData = new FormData(form)
+export function renderPostcard(form, ctx, {stamps, images}) {
+    // if form is already formdata, skip this step
+    const formData = form instanceof FormData ? form : new FormData(form)
     const prompt = formData.get('prompt')
     const image = formData.get('image')
     const message = formData.get('message')
@@ -129,7 +139,7 @@ function renderPostcard(form, ctx) {
     const email = formData.get('email')
     const shareEmail = formData.getAll('share email')
     const identities = formData.getAll('identities')
-    console.log({ prompt, image, message, signed, name, email, shareEmail, identities })
+    // console.log({ prompt, image, message, signed, name, email, shareEmail, identities })
 
 
     // clear
@@ -260,7 +270,7 @@ function renderPostcard(form, ctx) {
     ctx.stroke();
 
     // Draw stamp
-    const stampImg = stamps.find(stamp => stamp.alt === formData.get('stamp')).img;
+    const stampImg = stamps.find(stamp => stamp.alt === formData.get('stamp'))?.img;
 
     ctx.save();
     ctx.translate(800 + 150 + 100, 1200 - 550 + 100);
@@ -285,23 +295,11 @@ const { ctx } = createPostcard()
 const form = createForm(dataInput)
 document.getElementById('inputs').appendChild(form)
 
-images.forEach(image => {
-    image.img = new Image()
-    image.img.src = image.url
-    image.img.onload = () => renderPostcard(form, ctx)
-})
+renderPostcard(form, ctx, {stamps, images})
+setTimeout(() => renderPostcard(form, ctx, {stamps, images}), 100)
+setTimeout(() => renderPostcard(form, ctx, {stamps, images}), 1000)
 
-stamps.forEach(stamp => {
-    stamp.img = new Image()
-    stamp.img.src = stamp.url
-    stamp.img.onload = () => renderPostcard(form, ctx)
-})
-
-renderPostcard(form, ctx)
-setTimeout(() => renderPostcard(form, ctx), 100)
-setTimeout(() => renderPostcard(form, ctx), 1000)
-
-form.addEventListener('input', () => renderPostcard(form, ctx))
+form.addEventListener('input', () => renderPostcard(form, ctx, {stamps, images}))
 form.addEventListener('submit', (event) => {
     event.preventDefault()
     renderPostcard(form, ctx)

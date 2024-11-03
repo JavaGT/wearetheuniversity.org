@@ -75,3 +75,17 @@ fieldset.fieldset-optional legend {
 label {
     text-wrap-mode: nowrap;
 }
+
+#gallery {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+#gallery img {
+    width: 12rem;
+    margin: 0.3rem;
+    border-radius: 0.4rem;
+    padding: 0.5rem;
+    background-color: #fff6;
+}
