@@ -15,7 +15,7 @@ const prompts = [
     "My relationship to management is...",
     "University leadership is...",
     "My wellness is impacted by...",
-    
+
     // Negative
     "My sources of stress are...",
     "I worry for...",
@@ -34,8 +34,8 @@ const images = [
 ]
 
 const stamps = [
-    { url: './images/WATU-Stamp.png', alt: 'WATU Stamp' },
-    { url: './images/TEU-Stamp.png', alt: 'TEU Stamp' },
+    { url: './images/WATU-Stamp.png', alt: 'WATU' },
+    { url: './images/TEU-Stamp.png', alt: 'TEU' },
     // { url: './images/TEU2-Stamp.png', alt: 'TEU Stamp 2' },
 ]
 
@@ -45,6 +45,7 @@ const dataInput = [
     { label: 'Message', optional: false, type: 'textarea', placeholder: 'Write your message here', default: '' },
     { label: 'Signed', optional: true, type: 'text', placeholder: 'Anonymous', default: '' },
     { label: 'Stamp', optional: false, type: 'radio', options: stamps.map(stamp => stamp.alt), default: stamps[0].alt },
+    { label: 'Share postcard to public gallery?', optional: false, type: 'radio', options: ['Yes', 'No'], default: 'Yes' },
     { label: 'Identities', optional: true, type: 'checkbox', options: ['Student', 'Staff', 'Alumni', 'Other'] },
     { label: 'Share email', optional: true, type: 'checkbox', options: ['TEU', 'WATU'], default: ['TEU', 'WATU'] },
     { label: 'Name', optional: true, type: 'text', placeholder: 'Haeata Waitī', default: '' },
@@ -155,7 +156,7 @@ function renderPostcard(form, ctx) {
 
     // draw a faint box behind the text
     ctx.fillStyle = 'rgba(0,0,0, 0.5)';
-    ctx.fillRect(100-10, 550 - 46-10, promptWidth + 20, 46 + 30);
+    ctx.fillRect(100 - 10, 550 - 46 - 10, promptWidth + 20, 46 + 30);
 
     ctx.fillStyle = 'white';
 
@@ -305,12 +306,116 @@ form.addEventListener('submit', (event) => {
     event.preventDefault()
     renderPostcard(form, ctx)
     // Save as jpg
-    const image = ctx.canvas.toDataURL('image/jpeg', 0.8)
+    const image_file = ctx.canvas.toDataURL('image/jpeg', 0.8)
     const a = document.createElement('a')
-    a.href = image
+    a.href = image_file
     a.download = 'wellness-postcard.jpg'
     a.click()
-
-
     // form.reset()
+
+    //  Check for permission to share with WATU & TEU
+    const formData = new FormData(form)
+    const sharePostcard = formData.get('Share postcard to public gallery?'.toLowerCase())
+
+    // pull out the data from the form
+    const prompt = formData.get('Prompt'.toLowerCase())
+    const image = formData.get('Image'.toLowerCase())
+    const message = formData.get('Message'.toLowerCase())
+    const signed = formData.get('Signed'.toLowerCase())
+    const name = formData.get('Name'.toLowerCase())
+    const email = formData.get('Email'.toLowerCase())
+    const shareEmail = formData.getAll('Share email'.toLowerCase())
+    const identities = formData.getAll('Identities'.toLowerCase())
+
+    const submission_id = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15)
+
+    const iframe = document.createElement('iframe')
+    iframe.style.display = 'none'
+    iframe.name = 'hidden_iframe'
+    document.body.appendChild(iframe)
+
+    if (message !== 'this is a test') {
+
+        // DRY version
+        const privateForm = document.createElement('form')
+        privateForm.action = 'https://docs.google.com/forms/d/e/1FAIpQLSfY3iQ3hR5elvIFrUhzAJYrAypbpeVWNFCd5VdIBoWAIMOuOw/formResponse'
+        privateForm.target = 'hidden_iframe'
+        privateForm.id = 'bootstrapForm'
+        privateForm.method = 'POST'
+        privateForm.style.display = 'none'
+            ;[
+                { name: 'entry.1571391080', type: 'textarea', value: JSON.stringify({ submission_id, prompt, image, message, signed, name, email, shareEmail, identities }) },
+                { name: 'fvv', type: 'hidden', value: '1' },
+                { name: 'fbzx', type: 'hidden', value: '-7941070824493946295' },
+                { name: 'pageHistory', type: 'hidden', value: '0' },
+                { name: 'btn-submit', type: 'submit', value: 'Submit' }
+            ].forEach(field => {
+                const input = document.createElement('input')
+                input.type = field.type
+                input.name = field.name
+                input.value = field.value
+                privateForm.appendChild(input)
+            })
+
+        document.body.appendChild(privateForm)
+        privateForm.submit()
+        console.log(privateForm)
+
+        setTimeout(() => {
+            if (sharePostcard === 'Yes') {
+                const publicForm = document.createElement('form')
+                publicForm.action = 'https://docs.google.com/forms/d/e/1FAIpQLSdxpEpEARq2Qz9uARTqkfKWEFfDKXh64IUoV8Mw8TwVfP8EQg/formResponse'
+                publicForm.target = 'hidden_iframe'
+                publicForm.id = 'bootstrapForm'
+                publicForm.method = 'POST'
+                publicForm.style.display = 'none'
+                    ;[
+                        { name: 'entry.406853500', type: 'textarea', value: JSON.stringify({ submission_id, prompt, image, message, signed }) },
+                        { name: 'fvv', type: 'hidden', value: '1' },
+                        { name: 'fbzx', type: 'hidden', value: '-4275759135674733626' },
+                        { name: 'pageHistory', type: 'hidden', value: '0' },
+                        { name: 'btn-submit', type: 'submit', value: 'Submit' }
+                    ].forEach(field => {
+                        const input = document.createElement('input')
+                        input.type = field.type
+                        input.name = field.name
+                        input.value = field.value
+                        publicForm.appendChild(input)
+                    })
+
+                document.body.appendChild(publicForm)
+                publicForm.submit()
+                console.log(publicForm)
+            }
+        }, 1000)
+
+    }
+
+    // display popup message thanking the user for their submission
+    // also link them to social media to share their postcard
+    // bluesky
+    // instagram
+    const popup = document.createElement('div')
+    popup.style.position = 'fixed'
+    popup.style.top = '50%'
+    popup.style.left = '50%'
+    popup.style.transform = 'translate(-50%, -50%)'
+    popup.style.backgroundColor = 'white'
+    popup.style.padding = '20px'
+    popup.style.border = '1px solid black'
+    popup.style.zIndex = '1000'
+    
+    popup.innerHTML = `
+        <button id="close-popup">Close</button>
+        <h2>Thank you for making a postcard!</h2>
+        <p>Your postcard has been saved to your downloads folder.</p>
+        <p>Share your postcard on social media:</p>
+        <a href="https://twitter.com/intent/tweet?url=https://wearetheuniversity.org/wellness-postcards&text=I just made a university wellness postcard! Check it out! #universitywellness @nzteu @wetheuniversity @TEU_UoA" target="_blank" rel="noopener noreferrer">Twitter</a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://wearetheuniversity.org/wellness-postcards" target="_blank" rel="noopener noreferrer">Facebook</a>
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://wearetheuniversity.org/wellness-postcards" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">Instagram</a>
+        <a href="https://bsky.app/intent/compose?text=I just made a university wellness postcard! Check it out! https://wearetheuniversity.org/wellness-postcards #universitywellness @wearetheuniversity.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a>
+    `
+    document.body.appendChild(popup)
+    popup.querySelector('#close-popup').addEventListener('click', () => popup.remove())
 })
