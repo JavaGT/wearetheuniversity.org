@@ -34,7 +34,7 @@ export const images = [
 ].map(image => {
     image.img = new Image()
     image.img.src = image.url
-    image.img.onload = () => renderPostcard(form, ctx, {stamps, images})
+    image.img.onload = () => renderPostcard(form, ctx, { stamps, images })
     return image
 })
 
@@ -44,7 +44,7 @@ export const stamps = [
 ].map(stamp => {
     stamp.img = new Image()
     stamp.img.src = stamp.url
-    stamp.img.onload = () => renderPostcard(form, ctx, {stamps, images})
+    stamp.img.onload = () => renderPostcard(form, ctx, { stamps, images })
     return stamp
 })
 
@@ -54,12 +54,14 @@ const dataInput = [
     { label: 'Message', optional: false, type: 'textarea', placeholder: 'Write your message here', default: '' },
     { label: 'Signed', optional: true, type: 'text', placeholder: 'Anonymous', default: '' },
     { label: 'Stamp', optional: false, type: 'radio', options: stamps.map(stamp => stamp.alt), default: stamps[0].alt },
+    { label: 'Privacy Statement', type: 'text', default: 'If you select to share, only your message, prompt, image selections, and signed name are included.' },
     { label: 'Share postcard to public gallery?', optional: false, type: 'radio', options: ['Yes', 'No'], default: 'Yes' },
     { label: 'Identities', optional: true, type: 'checkbox', options: ['Student', 'Staff', 'Alumni', 'Other'] },
+    { label: 'Privacy Statement', type: 'text', default: 'WATU and TEU hold optional personal data for contact regarding this campaign.' },
     { label: 'Share email', optional: true, type: 'checkbox', options: ['TEU', 'WATU'], default: ['TEU', 'WATU'] },
     { label: 'Name', optional: true, type: 'text', placeholder: 'Haeata Waitī', default: '' },
     { label: 'Email', optional: true, type: 'email', placeholder: 'name@domain.com', default: '' },
-    { label: 'Submit', type: 'submit', default: 'Download' }
+    { label: 'Submit', type: 'submit', default: 'Submit & Download' },
 ]
 
 function createForm(dataInput) {
@@ -73,6 +75,15 @@ function createForm(dataInput) {
         const legend = document.createElement('legend')
         legend.textContent = input.label
         set.appendChild(legend)
+
+        if (input.label === 'Privacy Statement') {
+            const p = document.createElement('span')
+            p.textContent = input.default
+            set.appendChild(p)
+            form.appendChild(set)
+            return;
+        }
+
         const inputField = input.type === 'text' || input.type === 'email' || input.type === 'submit' ? document.createElement('input') : document.createElement(input.type)
         if (input.type === 'text' || input.type === 'email' || input.type === 'submit') inputField.type = input.type
         inputField.name = input.label.toLowerCase()
@@ -128,7 +139,7 @@ export function createPostcard() {
     // stampImg.onload  = renderPostcard;
 }
 
-export function renderPostcard(form, ctx, {stamps, images}) {
+export function renderPostcard(form, ctx, { stamps, images }) {
     // if form is already formdata, skip this step
     const formData = form instanceof FormData ? form : new FormData(form)
     const prompt = formData.get('prompt')
@@ -295,14 +306,14 @@ const { ctx } = createPostcard()
 const form = createForm(dataInput)
 document.getElementById('inputs').appendChild(form)
 
-renderPostcard(form, ctx, {stamps, images})
-setTimeout(() => renderPostcard(form, ctx, {stamps, images}), 100)
-setTimeout(() => renderPostcard(form, ctx, {stamps, images}), 1000)
+renderPostcard(form, ctx, { stamps, images })
+setTimeout(() => renderPostcard(form, ctx, { stamps, images }), 100)
+setTimeout(() => renderPostcard(form, ctx, { stamps, images }), 1000)
 
-form.addEventListener('input', () => renderPostcard(form, ctx, {stamps, images}))
+form.addEventListener('input', () => renderPostcard(form, ctx, { stamps, images }))
 form.addEventListener('submit', (event) => {
     event.preventDefault()
-    renderPostcard(form, ctx, {stamps, images})
+    renderPostcard(form, ctx, { stamps, images })
     // Save as jpg
     const image_file = ctx.canvas.toDataURL('image/jpeg', 0.8)
     const a = document.createElement('a')
@@ -402,7 +413,7 @@ form.addEventListener('submit', (event) => {
     popup.style.padding = '20px'
     popup.style.border = '1px solid black'
     popup.style.zIndex = '1000'
-    
+
     popup.innerHTML = `
         <button id="close-popup">Close</button>
         <h2>Thank you for making a postcard!</h2>
