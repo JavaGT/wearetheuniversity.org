@@ -302,7 +302,7 @@ setTimeout(() => renderPostcard(form, ctx, {stamps, images}), 1000)
 form.addEventListener('input', () => renderPostcard(form, ctx, {stamps, images}))
 form.addEventListener('submit', (event) => {
     event.preventDefault()
-    renderPostcard(form, ctx)
+    renderPostcard(form, ctx, {stamps, images})
     // Save as jpg
     const image_file = ctx.canvas.toDataURL('image/jpeg', 0.8)
     const a = document.createElement('a')

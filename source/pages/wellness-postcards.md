@@ -2,6 +2,8 @@
 slug: 'wellness-postcards'
 title: 'Wellness Postcards'
 socialImage: './images/social.jpg'
+url: 'https://wearetheuniversity.org/wellness-postcards'
+description: 'Wellness postcards are an opportunity to collectively express our feelings and experiences working in universities.'
 ---
 
 
