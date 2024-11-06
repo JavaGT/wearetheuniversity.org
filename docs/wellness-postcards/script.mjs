@@ -54,14 +54,15 @@ const dataInput = [
     { label: 'Message', optional: false, type: 'textarea', placeholder: 'Write your message here', default: '' },
     { label: 'Signed', optional: true, type: 'text', placeholder: 'Anonymous', default: '' },
     { label: 'Stamp', optional: false, type: 'radio', options: stamps.map(stamp => stamp.alt), default: stamps[0].alt },
-    { label: 'Privacy Statement', type: 'text', default: 'If you select to share, only your message, prompt, image selections, and signed name are included.' },
+    { label: 'Privacy Statement', type: 'span', default: 'If you share to public gallery publicly, only your message, prompt, image selections, and signed name are included.' },
     { label: 'Share postcard to public gallery?', optional: false, type: 'radio', options: ['Yes', 'No'], default: 'Yes' },
     { label: 'Identities', optional: true, type: 'checkbox', options: ['Student', 'Staff', 'Alumni', 'Other'] },
-    { label: 'Privacy Statement', type: 'text', default: 'WATU and TEU hold optional personal data for contact regarding this campaign.' },
+    { label: 'Privacy Statement', type: 'span', default: 'WATU and TEU hold optional personal data for contact regarding this campaign.' },
     { label: 'Share email', optional: true, type: 'checkbox', options: ['TEU', 'WATU'], default: ['TEU', 'WATU'] },
     { label: 'Name', optional: true, type: 'text', placeholder: 'Haeata Waitī', default: '' },
     { label: 'Email', optional: true, type: 'email', placeholder: 'name@domain.com', default: '' },
     { label: 'Submit', type: 'submit', default: 'Submit & Download' },
+    { label: 'Feedback', type: 'span', default: 'Provide feedback, 2 questions.', href: 'https://docs.google.com/forms/d/e/1FAIpQLSeHfgMrPkx6-u1QVMzq-XX1i8Xx0zKbFDmzcn97BV8Eil5MrA/viewform' }
 ]
 
 function createForm(dataInput) {
@@ -76,8 +77,9 @@ function createForm(dataInput) {
         legend.textContent = input.label
         set.appendChild(legend)
 
-        if (input.label === 'Privacy Statement') {
-            const p = document.createElement('span')
+        if (input.type === 'span') {
+            const p = input.href ? document.createElement('a') : document.createElement('span')
+            if (input.href) p.href = input.href
             p.textContent = input.default
             set.appendChild(p)
             form.appendChild(set)

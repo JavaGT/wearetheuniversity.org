@@ -37,6 +37,10 @@ form {
     color: white;
 }
 
+form a {
+    color: white;
+}
+
 fieldset {
     border-color: #fff6;
     display: flex;
@@ -56,6 +60,7 @@ fieldset.fieldset-submit {
     border: none;
     padding: 0;
 }
+
 fieldset.fieldset-submit legend {
     display: none;
 }
@@ -81,11 +86,41 @@ label {
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
+    min-height: 16rem;
 }
+
 #gallery img {
-    width: 12rem;
+    border: 2px solid #0005;
+    background-color: #fff2;
+    width: 16rem;
     margin: 0.3rem;
     border-radius: 0.4rem;
     padding: 0.5rem;
-    background-color: #fff6;
+}
+
+.tight-two {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.tight-two svg {
+    width: 20rem;
+    min-height: 3rem;
+    margin: 0.3rem;
+    border-radius: 0.4rem;
+    padding: 0.5rem;
+    background-color: #fff2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 1rem auto;
+    max-width: 38rem;
 }

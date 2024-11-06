@@ -217,6 +217,10 @@ a:not(:has(*)):not([href^="#"]):not(h1 a):not(h2 a):not(h3 a):not(h4 a):not(h5 a
     line-break: anywhere;
 }
 
+p a {
+    line-break: auto !important;
+}
+
 a:hover {
     color: var(--text-primary-inverse);
 }
@@ -272,6 +276,7 @@ nav .socials {
 }
 
 .socials svg {
+    transform: translateY(4px);
     fill: currentColor;
 }
 
@@ -637,7 +642,7 @@ blockquote *:first-child {
     background-color: #0004;
 }
 
-.footer > ul {
+.footer>ul {
     list-style: none;
     padding: 0;
 }

@@ -18,7 +18,10 @@ canvas.style.display = 'none';
 
 // for (let i=0;i<10;i++) {
 // create a card for each row in the csv
-data.forEach(row => {
+data
+// randomize the order of the rows
+.sort((a, b) => Math.random() - 0.5)
+.forEach(row => {
     row = JSON.parse(row.JSON);
     if (!row.message?.trim()) return;
     const formdata = new FormData();
@@ -45,3 +48,6 @@ data.forEach(row => {
     img.id = row.submission_id
 });
 // }
+
+// remove the loading spinner id="gallery-loading"
+document.querySelector('#gallery-loading').remove();
