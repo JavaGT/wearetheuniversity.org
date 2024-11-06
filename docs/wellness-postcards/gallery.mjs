@@ -22,7 +22,7 @@ data
     // randomize the order of the rows
     .sort((a, b) => Math.random() - 0.5)
     .forEach(row => {
-        if (row.Remove.toLowerCase() === 'yes') {
+        if (row?.Remove.toLowerCase() === 'yes') {
             console.log('Skipping row', row);
             return
         }
@@ -67,14 +67,14 @@ data
 document.querySelector('#gallery-loading').remove();
 
 
-const hidewords = [
-    'communist',
-    'socialist',
-    'lazy',
-    'privliged',
-]
 
 function shouldHide(message) {
+    const hidewords = [
+        'communist',
+        'socialist',
+        'lazy',
+        'privliged',
+    ]
     for (const bad of hidewords) {
         if (message.toLowerCase().includes(bad)) {
             return true
