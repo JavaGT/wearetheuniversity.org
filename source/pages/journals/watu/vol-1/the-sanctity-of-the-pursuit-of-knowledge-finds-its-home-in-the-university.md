@@ -3,9 +3,9 @@
 title: "The Sanctity Of The Pursuit Of Knowledge Finds Its Home In The University"
 author: "Thomas Dykes, postgraduate Sociology student at Auckland University"
 date: 2011
-slug: journals/vol-1/the-sanctity-of-the-pursuit-of-knowledge-finds-its-home-in-the-university
+slug: journals/watu/vol-1/the-sanctity-of-the-pursuit-of-knowledge-finds-its-home-in-the-university
 return_text: We Are The University Vol. 1
-return_url: /journals/vol-1
+return_url: /journals/watu/vol-1
 
 ---
 

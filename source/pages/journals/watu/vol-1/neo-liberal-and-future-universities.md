@@ -3,7 +3,7 @@
 title: "Neo-liberal and Future Universities"
 author: "Danny Butt, lecturer at Elam School of Fine Arts and PhD candidate at Melbourne University"
 date: 2011
-slug: journals/vol-1/neo-liberal-and-future-universities
+slug: journals/watu/vol-1/neo-liberal-and-future-universities
 return_text: We Are The University Vol. 1
 return_url: /journals/vol-1
 

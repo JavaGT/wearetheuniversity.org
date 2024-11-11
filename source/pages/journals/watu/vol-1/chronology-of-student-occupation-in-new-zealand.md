@@ -3,9 +3,9 @@
 title: "Chronology Of Student Occupation In New Zealand"
 author: "Compiled by Robin Murphy, undergraduate Fine Arts and postgraduate Art History student at Auckland University"
 date: 2011
-slug: journals/vol-1/chronology-of-student-occupation-in-new-zealand
+slug: journals/watu/vol-1/chronology-of-student-occupation-in-new-zealand
 return_text: We Are The University Vol. 1
-return_url: /journals/vol-1
+return_url: /journals/watu/vol-1
 
 ---
 

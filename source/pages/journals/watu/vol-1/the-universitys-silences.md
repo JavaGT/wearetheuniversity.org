@@ -3,9 +3,9 @@
 title: "The University's Silences"
 author: "Miri Davidson, postgraduate Anthropology student at Auckland University"
 date: 2011
-slug: journals/vol-1/the-universitys-silences
+slug: journals/watu/vol-1/the-universitys-silences
 return_text: We Are The University Vol. 1
-return_url: /journals/vol-1
+return_url: /journals/watu/vol-1
 
 ---
 

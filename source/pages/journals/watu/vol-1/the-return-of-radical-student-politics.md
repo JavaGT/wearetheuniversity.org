@@ -3,9 +3,9 @@
 title: "The Return Of Radical Student Politics: Are We Up To The Challenge?"
 author: "Postgraduate Anthropology student at the University of Auckland"
 date: 2011
-slug: journals/vol-1/the-return-of-radical-student-politics
+slug: journals/watu/vol-1/the-return-of-radical-student-politics
 return_text: We Are The University Vol. 1
-return_url: /journals/vol-1
+return_url: /journals/watu/vol-1
 
 ---
 

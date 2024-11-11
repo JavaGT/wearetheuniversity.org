@@ -3,9 +3,9 @@
 title: "Corporate Knowledge"
 author: "Manon Revuelta, former undergraduate English student at Auckland University"
 date: 2011
-slug: journals/vol-1/corporate-knowledge
+slug: journals/watu/vol-1/corporate-knowledge
 return_text: We Are The University Vol. 1
-return_url: /journals/vol-1
+return_url: /journals/watu/vol-1
 
 ---
 

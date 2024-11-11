@@ -1,6 +1,6 @@
 ---
 title: Journal Volume 1 (2011)
-slug: journals/nzjtep
+slug: journals/watu/vol-1
 source: 
 date: 2011
 return_text: Journals
@@ -9,7 +9,7 @@ return_url: /journals
 
 <script src="/table-of-contents.js" include="h1" columns="2" exclude=".banner *" list="ol"></script>
 
-# [The Return Of Radical Student Politics: Are We Up To The Challenge?](/journals/vol-1/the-return-of-radical-student-politics)
+# [The Return Of Radical Student Politics: Are We Up To The Challenge?](/journals/watu/vol-1/the-return-of-radical-student-politics)
 ## Postgraduate Anthropology student at the University of Auckland
 
 ---
@@ -19,7 +19,7 @@ William Kim, undergraduate student at Elam School of Fine Arts, $ tick-tock-kach
 
 ---
 
-# [The University Under Capitalism](/journals/vol-1/the-university-under-capitalism)
+# [The University Under Capitalism](/journals/watu/vol-1/the-university-under-capitalism)
 ## Dr Campbell Jones, Senior Lecturer in Sociology at Auckland University
 
 ---
@@ -29,7 +29,7 @@ Barricades in the library basement at Auckland
 
 ---
 
-# [Chronology Of Student Occupation In New Zealand](/journals/vol-1/chronology-of-student-occupation-in-new-zealand)
+# [Chronology Of Student Occupation In New Zealand](/journals/watu/vol-1/chronology-of-student-occupation-in-new-zealand)
 ## Compiled by Robin Murphy, undergraduate Fine Arts and postgraduate Art History student at Auckland University
 
 ---
@@ -39,7 +39,7 @@ National Day of Action, 26 September 2011
 
 ---
 
-# [The Sanctity Of The Pursuit Of Knowledge Finds Its Home In The University](/journals/vol-1/the-sanctity-of-the-pursuit-of-knowledge-finds-its-home-in-the-university)
+# [The Sanctity Of The Pursuit Of Knowledge Finds Its Home In The University](/journals/watu/vol-1/the-sanctity-of-the-pursuit-of-knowledge-finds-its-home-in-the-university)
 ## Thomas Dykes, postgraduate Sociology student at Auckland University
 
 ---
@@ -49,7 +49,7 @@ Image by Owen Connors, under-graduate student at Elam School of 10 Fine Arts, Au
 
 ---
 
-# [The University’s Silences](/journals/vol-1/the-universitys-silences)
+# [The University’s Silences](/journals/watu/vol-1/the-universitys-silences)
 ## Miri Davidson, postgraduate Anthropology student at Auckland University
 
 ---
@@ -61,7 +61,7 @@ Image by Owen Connors, undergraduate student at Elam School of Fine Arts, Auckla
 
 ![Compiled by a History student at Auckland University](/media/vol1-radar.png)---
 
-# [Corporate Knowledge](/journals/vol-1/corporate-knowledge)
+# [Corporate Knowledge](/journals/watu/vol-1/corporate-knowledge)
 ## Manon Revuelta, former undergraduate English student at Auckland University
 
 ---
@@ -80,5 +80,5 @@ Grant Brookes and David Colyer
 
 ---
 
-# [Neo-Liberal And Future Universities](/journals/vol-1/neo-liberal-and-future-universities)
+# [Neo-Liberal And Future Universities](/journals/watu/vol-1/neo-liberal-and-future-universities)
 ## Danny Butt, lecturer at Elam School of Fine Arts and PhD candidate at Melbourne University

@@ -3,9 +3,9 @@
 title: "The University Under Capitalism"
 author: "Dr Campbell Jones, Senior Lecturer in Sociology at Auckland University"
 date: 2011
-slug: journals/vol-1/the-university-under-capitalism
+slug: journals/watu/vol-1/the-university-under-capitalism
 return_text: We Are The University Vol. 1
-return_url: /journals/vol-1
+return_url: /journals/watu/vol-1
 
 ---
 
