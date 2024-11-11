@@ -56,7 +56,8 @@ data
         img.style.cursor = 'pointer';
         img.addEventListener('click', () => {
             const win = window.open();
-            win.document.write(`<img src="${img.src}">`);
+            win.document.body.style.margin = 0;
+            win.document.write(`<img style="max-width:100vw;max-height:100vh" src="${img.src}">`);
         });
         // add id to the image
         img.id = row.submission_id
