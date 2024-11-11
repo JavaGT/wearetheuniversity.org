@@ -9,6 +9,10 @@ Photographs documenting the history of the University of Auckland including buil
 
 # [We Are The University Flickr](https://www.flickr.com/photos/67852624@N02/)
 
+# [NZ TEU Flickr](https://www.flickr.com/photos/teu/)
+# [NZ TEU Collections](https://www.flickr.com/photos/teu/collections/)
+# [The University of Auckland Graduation May 2011](https://www.flickr.com/photos/teu/albums/72157626635650002/)
+
 ---
 
 # [Sack Pat Walsh (Facebook)](https://www.facebook.com/SackPatWalsh/photos)

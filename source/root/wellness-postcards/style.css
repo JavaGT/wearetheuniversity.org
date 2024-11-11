@@ -43,8 +43,6 @@ form a {
 
 fieldset {
     border-color: #fff6;
-    display: flex;
-    flex-flow: column;
     padding: 0.2em;
 }
 
@@ -63,6 +61,10 @@ fieldset.fieldset-submit {
 
 fieldset.fieldset-submit legend {
     display: none;
+}
+
+fieldset.fieldset-submit input {
+    width: 100%;
 }
 
 fieldset.fieldset-optional legend::after {

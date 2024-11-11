@@ -1,36 +1,56 @@
 // Critical prompts for the union members to answer
 const prompts = [
-    // Positive
-    "I am grateful for...",
-    "I feel well when...",
-    "The best part of my job is...",
-    "My sources of joy are...",
-    "I feel supported when...",
-    "I feel valued when...",
-    "I feel safe when...",
-    "I feel respected when...",
-
     // Neutral
-    "My employer makes me feel...",
-    "My relationship to management is...",
-    "University leadership is...",
-    "My wellness is impacted by...",
+    "My job makes me feel...",
 
-    // Negative
+    // Positive
+    "My sources of joy are...",
+    "I am grateful for...",
+    
+    // Safety
+    "I feel safe when...",
+    "My safety is compromised when...",
+    
+    // Wellness
+    "I feel well when...",
+    "My wellness is impacted by...",
+    "I am able to support my family/whānau when...",
     "My sources of stress are...",
     "I worry for...",
+
+    
+    // Leadership
+    "My employer makes me feel...",
+    "University leadership is...",
+    "My relationship to management is...",
+    "I feel supported when...",
     "I don't feel supported when...",
-    "Challenges I face are...",
-    "My safety is compromised when...",
+    
+    // Relations
+    "I feel valued when...",
+    "I feel respected when...",
+    
+    // Desires
+    "I wish my job...",
+
+    // Negative
+    "Challenges I face...",
 ]
 
 export const images = [
-    { url: './images/rec-center.jpeg', alt: 'Recreation Center' },
-    { url: './images/victoria-law-library.jpg', alt: 'Victoria Law Library' },
+    { url: './images/rec-center.jpeg', alt: 'UOA Rec' },
+    { url: './images/victoria-law-library.jpg', alt: 'Vic Law' },
+    { url: './images/UC-1.png', alt: 'UC Leaves' },
+    { url: './images/UC-2.png', alt: 'UC Tea' },
+    { url: './images/AUT.jpeg', alt: 'AUT Tea' },
+    { url: './images/UOA.png', alt: 'UOA Jenga' },
+    { url: './images/Lincoln-1.png', alt: 'Lincoln Sunflower' },
+    { url: './images/Lincoln-2.png', alt: 'Lincoln Jenga' },
     { url: './images/bowl-of-fruit.jpg', alt: 'Bowl of Fruit' },
     { url: './images/beehive.png', alt: 'Beehive' },
     { url: './images/traffic.jpg', alt: 'Traffic' },
     { url: './images/office.jpg', alt: 'Office' },
+
 ].map(image => {
     image.img = new Image()
     image.img.src = image.url
@@ -72,6 +92,7 @@ function createForm(dataInput) {
     dataInput.forEach(input => {
         const set = document.createElement('fieldset')
         set.classList.add('fieldset-' + input.type.toLowerCase())
+        set.classList.add('fieldset-label-' + input.label.toLowerCase().replace(/\s+/g, '-'))
         if (input.optional) set.classList.add('fieldset-optional')
         const legend = document.createElement('legend')
         legend.textContent = input.label
