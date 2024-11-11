@@ -13,6 +13,37 @@ description: 'Create a wellness postcard to express your feelings and experience
     document.getElementById('js-warning').style.display = 'none';
 </script>
 
+<button style="display:block;margin:0 auto" class="open-about" onclick="document.getElementById('about').showModal()">About</button>
+<script>
+function dialogOnClick(event) {
+  if (event.target === document.querySelector('dialog')) {
+    document.querySelector('dialog').close();
+  }
+}
+</script>
+<dialog id="about" onclick="dialogOnClick(event)">
+    <button class="close" onclick="document.getElementById('about').close()">✕</button>
+    <h1>What is a Wellness Postcard?</h1>
+    <p>Are an opportunity to collectively express our feelings and experiences working in
+        universities. They are a way to share our stories, our struggles, and our hopes for the future. They are a
+        way to connect with others who are going through similar experiences, and to build a sense of community and
+        solidarity. They are a way to remind ourselves that we are not alone, and that we are part of a movement for
+        change. 
+    </p>
+    <h1>Why now? Why this?</h1>
+    <p>On the 25th of November, the University of Auckland Recreation and Wellness Centre is being opened. This is a
+        great opportunity to highlight the importance of wellness in universities, particularly in the context of
+        the current negotiations. While a gym is nice, making the claim that it is a solution to the wellness issues
+        faced by staff and students is disingenuous. The real issues are the social isolation of students, balancing
+        work and study, lack of connection across social boundries (undergrad-postgrad-academic-professional staff),
+        the increasing workloads, the lack of job security, and the erosion of academic freedom. These are the
+        issues that need to be addressed if we are to truly create a culture of wellness in our universities.</p>
+    <h1>What is WATU?</h1>
+    <p>We Are The University is a revitalisation of a student activist group from the early 2010s. We are a new group of students and staff who have borrowed the name to affirm the identity of universities in Aotearoa as belonging to the students and staff who work and study there–countering the narratives of Vice Chancellors and centralised administrations. We are committed to the idea that universities should be places of learning, research, and critical thinking, and that they should be free from the influence of corporate interests. Universities belong to the people and should be run for the benefit of the people. Want to get involved? Email us at <a href="mailto:email@wearetheuniversity.org">email@wearetheuniversity.org</a> or try us on instagram <a href="https://www.instagram.com/wearetheuniversity/">@wearetheuniversity</a> and blue sky <a href="https://bsky.app/profile/wearetheuniversity.bsky.social">@wearetheuniversity.bsky.social</a>.</p>
+    <h1>Who is the TEU?</h1>
+    <p>The Tertiary Education Union (TEU) is the union for many staff working in tertiary education in Aotearoa New Zealand. The TEU negotiates collective agreements, securing better salaries and working conditions, as well as providing support and advice to its members. The TEU is currently negotiating collective agreements at a few universities, including the University of Auckland.</p>
+</dialog>
+
 <div class="center tight-two" style="margin-bottom: 1.5rem;">
     <!-- <img src="/media/WATU-logo.svg" alt="We Are The University logo" style="display: inline-block; max-width: 16rem; max-height: 4rem; margin:0.2rem;" /> -->
     <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 883 46"><path d="M344 2722h30l-3 57 30-57h30l2 57 25-57h30l-48 103h-31l-2-65-34 65h-32l3-103Zm155 0h85l-6 22h-53l-4 16h49l-5 21h-49l-5 21h54l-5 23h-87l26-103Zm193 86h-36l-9 17h-33l65-103h34l13 103h-33l-1-17Zm-1-22-2-37-20 37h22Zm46 39 26-103h53l22 2c5 2 8 5 10 10 2 4 2 10 1 17-2 5-4 10-8 14-6 7-15 12-24 14l7 4 4 6 2 6 8 30h-36l-9-32-3-7c-2-2-5-3-8-3h-3l-10 42h-32Zm47-61h14l9-2 6-3 3-6c1-3 0-6-1-8l-11-2h-14l-6 21Zm90-42h85l-5 22h-53l-4 16h49l-5 21h-50l-5 21h55l-6 23h-86l25-103Zm145 0h97l-7 25h-32l-19 78h-32l19-78h-32l6-25Zm111 0h32l-9 36h35l9-36h32l-26 103h-32l10-42h-34l-11 42h-31l25-103Zm120 0h85l-5 22h-54l-4 16h50l-6 21h-49l-5 21h55l-6 23h-87l26-103Zm219 0h32l-16 61c-1 6-4 12-7 18-6 10-16 18-27 22-7 3-15 4-23 4l-17-1c-5-1-10-2-13-4l-9-9c-2-4-4-8-4-12 0-7 0-13 2-18l15-61h32l-16 63c-1 5-1 10 1 13 3 3 7 5 12 5 6 0 10-2 14-5s7-7 8-13l16-63Zm53 0h30l24 57 14-57h30l-25 103h-30l-25-57-14 57h-30l26-103Zm121 0h32l-26 103h-32l26-103Zm44 0h34l4 74 42-74h32l-64 103h-35l-13-103Zm122 0h86l-6 22h-53l-4 16h49l-5 21h-50l-5 21h55l-6 23h-86l25-103Zm79 103 26-103h53l22 2c4 2 8 5 10 10 2 4 2 10 0 17-1 5-3 10-7 14-6 8-15 12-25 14l8 4 6 12 8 30h-36l-9-32c-1-4-2-6-4-7-2-2-4-3-7-3h-3l-10 42h-32Zm47-61h14l8-2c3 0 5-1 6-3l4-6c1-3 0-6-1-8l-12-2h-14l-5 21Zm67 27 31-2 1 11c3 4 7 6 13 6 4 0 8-1 11-3s5-4 6-7c0-3 0-5-2-7s-7-4-15-6c-13-3-22-8-27-13-4-5-6-12-4-20 2-5 4-10 9-15 4-4 9-8 16-11 7-2 16-4 27-4 13 0 22 3 28 8 6 4 8 12 6 23l-30 2c0-5 0-8-3-10-2-3-5-4-9-4s-7 1-9 3c-3 1-4 3-4 5-1 2 0 4 1 5l9 4c14 3 23 6 28 9s9 7 10 11c2 5 2 10 1 15-2 7-5 13-10 19a67 67 0 0 1-45 17c-17 0-28-4-34-10-5-7-6-16-5-26Zm128-69h32l-25 103h-32l25-103Zm48 0h97l-7 25h-32l-20 78h-31l19-78h-33l7-25Zm101 0h35l12 35 29-35h36l-55 60-11 43h-32l11-43-25-60Z" style="fill:var(--text-primary-inverse)" transform="matrix(.43073 0 0 .43029 -147 -1170)"/></svg>
