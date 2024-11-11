@@ -6,11 +6,11 @@ const prompts = [
     // Positive
     "My sources of joy are...",
     "I am grateful for...",
-    
+
     // Safety
     "I feel safe when...",
     "My safety is compromised when...",
-    
+
     // Wellness
     "I feel well when...",
     "My wellness is impacted by...",
@@ -18,18 +18,18 @@ const prompts = [
     "My sources of stress are...",
     "I worry for...",
 
-    
+
     // Leadership
     "My employer makes me feel...",
     "University leadership is...",
     "My relationship to management is...",
     "I feel supported when...",
     "I don't feel supported when...",
-    
+
     // Relations
     "I feel valued when...",
     "I feel respected when...",
-    
+
     // Desires
     "I wish my job...",
 
@@ -38,33 +38,32 @@ const prompts = [
 ]
 
 export const images = [
-    { url: './images/rec-center.jpeg', alt: 'UOA Rec' },
-    { url: './images/victoria-law-library.jpg', alt: 'Vic Law' },
-    { url: './images/UC-1.png', alt: 'UC Leaves' },
-    { url: './images/UC-2.png', alt: 'UC Tea' },
-    { url: './images/AUT.jpeg', alt: 'AUT Tea' },
-    { url: './images/UOA.png', alt: 'UOA Jenga' },
-    { url: './images/Lincoln-1.png', alt: 'Lincoln Sunflower' },
-    { url: './images/Lincoln-2.png', alt: 'Lincoln Jenga' },
-    { url: './images/bowl-of-fruit.jpg', alt: 'Bowl of Fruit' },
-    { url: './images/beehive.png', alt: 'Beehive' },
-    { url: './images/traffic.jpg', alt: 'Traffic' },
-    { url: './images/office.jpg', alt: 'Office' },
+    { url: '/wellness-postcards/images/rec-center.jpeg', alt: 'UOA Rec' },
+    { url: '/wellness-postcards/images/victoria-law-library.jpg', alt: 'Vic Law' },
+    { url: '/wellness-postcards/images/UC-1.png', alt: 'UC Leaves' },
+    { url: '/wellness-postcards/images/UC-2.png', alt: 'UC Tea' },
+    { url: '/wellness-postcards/images/AUT.jpeg', alt: 'AUT Tea' },
+    { url: '/wellness-postcards/images/UOA.png', alt: 'UOA Jenga' },
+    { url: '/wellness-postcards/images/Lincoln-1.png', alt: 'Lincoln Sunflower' },
+    { url: '/wellness-postcards/images/Lincoln-2.png', alt: 'Lincoln Jenga' },
+    { url: '/wellness-postcards/images/bowl-of-fruit.jpg', alt: 'Bowl of Fruit' },
+    { url: '/wellness-postcards/images/beehive.png', alt: 'Beehive' },
+    { url: '/wellness-postcards/images/traffic.jpg', alt: 'Traffic' },
+    { url: '/wellness-postcards/images/office.jpg', alt: 'Office' },
 
 ].map(image => {
     image.img = new Image()
     image.img.src = image.url
-    image.img.onload = () => renderPostcard(form, ctx, { stamps, images })
+    // image.img.onload = () => renderPostcard(form, ctx, { stamps, images })
     return image
 })
 
 export const stamps = [
-    { url: './images/WATU-Stamp.png', alt: 'WATU' },
-    { url: './images/TEU-Stamp.png', alt: 'TEU' },
+    { url: '/wellness-postcards/images/WATU-Stamp.png', alt: 'WATU' },
+    { url: '/wellness-postcards/images/TEU-Stamp.png', alt: 'TEU' },
 ].map(stamp => {
     stamp.img = new Image()
     stamp.img.src = stamp.url
-    stamp.img.onload = () => renderPostcard(form, ctx, { stamps, images })
     return stamp
 })
 
@@ -153,7 +152,7 @@ export function createPostcard() {
     canvas.height = 630 * 2;
     const ctx = canvas.getContext('2d');
 
-    document.getElementById('visual').appendChild(canvas);
+    // document.getElementById('visual').appendChild(canvas);
 
     return { ctx, canvas };
 
@@ -184,7 +183,7 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     // draw image on top half
     // ctx.drawImage(recImg, 0, 0, 1200, 630);
     // ctx.drawImage(images[document.querySelector('input[name="image"]:checked').value].img, 0, 0, 1200, 630);
-    ctx.drawImage(images.find(img => img.alt === image).img, 0, 0, 1200, 630);
+    ctx.drawImage((images.find(img => img.alt === image) || images[0]).img, 0, 0, 1200, 630);
 
     // render "What wellness means to me" on the front
     ctx.fillStyle = 'white';
@@ -324,120 +323,127 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     ctx.fillText('www.wearetheuniversity.org/wellness-postcards', 1200 - 100, 630 * 2 - 20);
     ctx.textAlign = 'left';
 }
+export function run() {
 
-const { ctx } = createPostcard()
-const form = createForm(dataInput)
-document.getElementById('inputs').appendChild(form)
+    const { ctx, canvas } = createPostcard()
+    document.getElementById('visual').appendChild(canvas);
+    const form = createForm(dataInput)
+    document.getElementById('inputs').appendChild(form)
 
-renderPostcard(form, ctx, { stamps, images })
-setTimeout(() => renderPostcard(form, ctx, { stamps, images }), 100)
-setTimeout(() => renderPostcard(form, ctx, { stamps, images }), 1000)
+    // stamp.img.onload = () => renderPostcard(form, ctx, { stamps, images })
 
-form.addEventListener('input', () => renderPostcard(form, ctx, { stamps, images }))
-form.addEventListener('submit', (event) => {
-    event.preventDefault()
+    stamps.map(stamp => stamp.img.onload = () => renderPostcard(form, ctx, { stamps, images }))
+    images.map(image => image.img.onload = () => renderPostcard(form, ctx, { stamps, images }))
+
     renderPostcard(form, ctx, { stamps, images })
-    // Save as jpg
-    const image_file = ctx.canvas.toDataURL('image/jpeg', 0.8)
-    const a = document.createElement('a')
-    a.href = image_file
-    a.download = 'wellness-postcard.jpg'
-    a.click()
-    // form.reset()
+    setTimeout(() => renderPostcard(form, ctx, { stamps, images }), 100)
+    setTimeout(() => renderPostcard(form, ctx, { stamps, images }), 1000)
 
-    //  Check for permission to share with WATU & TEU
-    const formData = new FormData(form)
-    const sharePostcard = formData.get('Share postcard to public gallery?'.toLowerCase())
+    form.addEventListener('input', () => renderPostcard(form, ctx, { stamps, images }))
+    form.addEventListener('submit', (event) => {
+        event.preventDefault()
+        renderPostcard(form, ctx, { stamps, images })
+        // Save as jpg
+        const image_file = ctx.canvas.toDataURL('image/jpeg', 0.8)
+        const a = document.createElement('a')
+        a.href = image_file
+        a.download = 'wellness-postcard.jpg'
+        a.click()
+        // form.reset()
 
-    // pull out the data from the form
-    const prompt = formData.get('Prompt'.toLowerCase())
-    const image = formData.get('Image'.toLowerCase())
-    const message = formData.get('Message'.toLowerCase())
-    const signed = formData.get('Signed'.toLowerCase())
-    const name = formData.get('Name'.toLowerCase())
-    const email = formData.get('Email'.toLowerCase())
-    const shareEmail = formData.getAll('Share email'.toLowerCase())
-    const identities = formData.getAll('Identities'.toLowerCase())
+        //  Check for permission to share with WATU & TEU
+        const formData = new FormData(form)
+        const sharePostcard = formData.get('Share postcard to public gallery?'.toLowerCase())
 
-    const submission_id = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15)
+        // pull out the data from the form
+        const prompt = formData.get('Prompt'.toLowerCase())
+        const image = formData.get('Image'.toLowerCase())
+        const message = formData.get('Message'.toLowerCase())
+        const signed = formData.get('Signed'.toLowerCase())
+        const name = formData.get('Name'.toLowerCase())
+        const email = formData.get('Email'.toLowerCase())
+        const shareEmail = formData.getAll('Share email'.toLowerCase())
+        const identities = formData.getAll('Identities'.toLowerCase())
 
-    const iframe = document.createElement('iframe')
-    iframe.style.display = 'none'
-    iframe.name = 'hidden_iframe'
-    document.body.appendChild(iframe)
+        const submission_id = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15)
 
-    if (message !== 'this is a test') {
+        const iframe = document.createElement('iframe')
+        iframe.style.display = 'none'
+        iframe.name = 'hidden_iframe'
+        document.body.appendChild(iframe)
 
-        // DRY version
-        const privateForm = document.createElement('form')
-        privateForm.action = 'https://docs.google.com/forms/d/e/1FAIpQLSfY3iQ3hR5elvIFrUhzAJYrAypbpeVWNFCd5VdIBoWAIMOuOw/formResponse'
-        privateForm.target = 'hidden_iframe'
-        privateForm.id = 'bootstrapForm'
-        privateForm.method = 'POST'
-        privateForm.style.display = 'none'
-            ;[
-                { name: 'entry.1571391080', type: 'textarea', value: JSON.stringify({ submission_id, prompt, image, message, signed, name, email, shareEmail, identities }) },
-                { name: 'fvv', type: 'hidden', value: '1' },
-                { name: 'fbzx', type: 'hidden', value: '-7941070824493946295' },
-                { name: 'pageHistory', type: 'hidden', value: '0' },
-                { name: 'btn-submit', type: 'submit', value: 'Submit' }
-            ].forEach(field => {
-                const input = document.createElement('input')
-                input.type = field.type
-                input.name = field.name
-                input.value = field.value
-                privateForm.appendChild(input)
-            })
+        if (message !== 'this is a test') {
 
-        document.body.appendChild(privateForm)
-        privateForm.submit()
-        console.log(privateForm)
+            // DRY version
+            const privateForm = document.createElement('form')
+            privateForm.action = 'https://docs.google.com/forms/d/e/1FAIpQLSfY3iQ3hR5elvIFrUhzAJYrAypbpeVWNFCd5VdIBoWAIMOuOw/formResponse'
+            privateForm.target = 'hidden_iframe'
+            privateForm.id = 'bootstrapForm'
+            privateForm.method = 'POST'
+            privateForm.style.display = 'none'
+                ;[
+                    { name: 'entry.1571391080', type: 'textarea', value: JSON.stringify({ submission_id, prompt, image, message, signed, name, email, shareEmail, identities }) },
+                    { name: 'fvv', type: 'hidden', value: '1' },
+                    { name: 'fbzx', type: 'hidden', value: '-7941070824493946295' },
+                    { name: 'pageHistory', type: 'hidden', value: '0' },
+                    { name: 'btn-submit', type: 'submit', value: 'Submit' }
+                ].forEach(field => {
+                    const input = document.createElement('input')
+                    input.type = field.type
+                    input.name = field.name
+                    input.value = field.value
+                    privateForm.appendChild(input)
+                })
 
-        setTimeout(() => {
-            if (sharePostcard === 'Yes') {
-                const publicForm = document.createElement('form')
-                publicForm.action = 'https://docs.google.com/forms/d/e/1FAIpQLSdxpEpEARq2Qz9uARTqkfKWEFfDKXh64IUoV8Mw8TwVfP8EQg/formResponse'
-                publicForm.target = 'hidden_iframe'
-                publicForm.id = 'bootstrapForm'
-                publicForm.method = 'POST'
-                publicForm.style.display = 'none'
-                    ;[
-                        { name: 'entry.406853500', type: 'textarea', value: JSON.stringify({ submission_id, prompt, image, message, signed }) },
-                        { name: 'fvv', type: 'hidden', value: '1' },
-                        { name: 'fbzx', type: 'hidden', value: '-4275759135674733626' },
-                        { name: 'pageHistory', type: 'hidden', value: '0' },
-                        { name: 'btn-submit', type: 'submit', value: 'Submit' }
-                    ].forEach(field => {
-                        const input = document.createElement('input')
-                        input.type = field.type
-                        input.name = field.name
-                        input.value = field.value
-                        publicForm.appendChild(input)
-                    })
+            document.body.appendChild(privateForm)
+            privateForm.submit()
+            console.log(privateForm)
 
-                document.body.appendChild(publicForm)
-                publicForm.submit()
-                console.log(publicForm)
-            }
-        }, 1000)
+            setTimeout(() => {
+                if (sharePostcard === 'Yes') {
+                    const publicForm = document.createElement('form')
+                    publicForm.action = 'https://docs.google.com/forms/d/e/1FAIpQLSdxpEpEARq2Qz9uARTqkfKWEFfDKXh64IUoV8Mw8TwVfP8EQg/formResponse'
+                    publicForm.target = 'hidden_iframe'
+                    publicForm.id = 'bootstrapForm'
+                    publicForm.method = 'POST'
+                    publicForm.style.display = 'none'
+                        ;[
+                            { name: 'entry.406853500', type: 'textarea', value: JSON.stringify({ submission_id, prompt, image, message, signed }) },
+                            { name: 'fvv', type: 'hidden', value: '1' },
+                            { name: 'fbzx', type: 'hidden', value: '-4275759135674733626' },
+                            { name: 'pageHistory', type: 'hidden', value: '0' },
+                            { name: 'btn-submit', type: 'submit', value: 'Submit' }
+                        ].forEach(field => {
+                            const input = document.createElement('input')
+                            input.type = field.type
+                            input.name = field.name
+                            input.value = field.value
+                            publicForm.appendChild(input)
+                        })
 
-    }
+                    document.body.appendChild(publicForm)
+                    publicForm.submit()
+                    console.log(publicForm)
+                }
+            }, 1000)
 
-    // display popup message thanking the user for their submission
-    // also link them to social media to share their postcard
-    // bluesky
-    // instagram
-    const popup = document.createElement('div')
-    popup.style.position = 'fixed'
-    popup.style.top = '50%'
-    popup.style.left = '50%'
-    popup.style.transform = 'translate(-50%, -50%)'
-    popup.style.backgroundColor = 'white'
-    popup.style.padding = '20px'
-    popup.style.border = '1px solid black'
-    popup.style.zIndex = '1000'
+        }
 
-    popup.innerHTML = `
+        // display popup message thanking the user for their submission
+        // also link them to social media to share their postcard
+        // bluesky
+        // instagram
+        const popup = document.createElement('div')
+        popup.style.position = 'fixed'
+        popup.style.top = '50%'
+        popup.style.left = '50%'
+        popup.style.transform = 'translate(-50%, -50%)'
+        popup.style.backgroundColor = 'white'
+        popup.style.padding = '20px'
+        popup.style.border = '1px solid black'
+        popup.style.zIndex = '1000'
+
+        popup.innerHTML = `
         <button id="close-popup">Close</button>
         <h2>Thank you for making a postcard!</h2>
         <p>Your postcard has been saved to your downloads folder.</p>
@@ -448,6 +454,7 @@ form.addEventListener('submit', (event) => {
         <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">Instagram</a>
         <a href="https://bsky.app/intent/compose?text=I just made a university wellness postcard! Check it out! https://wearetheuniversity.org/wellness-postcards #universitywellness @wearetheuniversity.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a>
     `
-    document.body.appendChild(popup)
-    popup.querySelector('#close-popup').addEventListener('click', () => popup.remove())
-})
+        document.body.appendChild(popup)
+        popup.querySelector('#close-popup').addEventListener('click', () => popup.remove())
+    })
+}
