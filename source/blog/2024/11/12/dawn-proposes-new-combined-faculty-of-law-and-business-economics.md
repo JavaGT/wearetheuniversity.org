@@ -8,7 +8,7 @@ author: Dawn Freshwater
 author-slug: dawn-freshwater
 ---
 
-The following email has been sent to the all-staff email list at the University of Auckland. Dawn has finally refreshed her contract and is contracted another 5 years as Vice-Chancellor. Her ideology of consolidation and so-called efficiency has cost this institution valuable professional staff and countless years of insitutional knowledge. Our teams 'lucky enough' to have survived the last round of redundancies are now facing the prospect of another restructure.
+The following email has been sent to the all-staff email list at the University of Auckland. Dawn has finally refreshed her contract and is contracted another 5 years as Vice-Chancellor. Her ideology of consolidation and so-called efficiency has cost this institution valuable professional staff and countless years of institutional knowledge. Our teams 'lucky enough' to have survived the last round of redundancies are now facing the prospect of another restructure.
 This will not stand again. The arts faculty has been decimated, there are issues with timetabling, increased workloads for staff, decreased quality and definition of their education for students. It was fast-tracked for the arts, and we know it'll happen again.
 
 No more sham consultations. Stop steamrolling our people. *We* are the university.
