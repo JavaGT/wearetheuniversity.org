@@ -353,6 +353,7 @@ export function run() {
         const email = formData.get('Email'.toLowerCase())
         const shareEmail = formData.getAll('Share email'.toLowerCase())
         const identities = formData.getAll('Identities'.toLowerCase())
+        const stamp = formData.get('Stamp'.toLowerCase())
 
         const submission_id = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15)
 
@@ -371,7 +372,7 @@ export function run() {
             privateForm.method = 'POST'
             privateForm.style.display = 'none'
                 ;[
-                    { name: 'entry.1571391080', type: 'textarea', value: JSON.stringify({ submission_id, prompt, image, message, signed, name, email, shareEmail, identities }) },
+                    { name: 'entry.1571391080', type: 'textarea', value: JSON.stringify({ submission_id, prompt, image, message, signed, name, email, shareEmail, identities, stamp }) },
                     { name: 'fvv', type: 'hidden', value: '1' },
                     { name: 'fbzx', type: 'hidden', value: '-7941070824493946295' },
                     { name: 'pageHistory', type: 'hidden', value: '0' },
