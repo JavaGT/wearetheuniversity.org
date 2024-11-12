@@ -87,3 +87,101 @@ Source: [Reddit](https://www.reddit.com/r/universityofauckland/comments/1gpch80/
 > Follow my Instagram @ uoa_council_rep
 > 
 > I am still in the process of onboarding onto Council as my term does not formally begin until the 9th of December, 2024.
+
+# Thoughts from the community
+
+> hellooo!! i saw your recent post on the law faculty changes, and i wanted to dm my thoughts (as a law/arts student currently working in family law, having worked in criminal) 
+> - i am personally very worried this decision will encourage people (by the nature of the faculty) away from social advocacy pathways 
+> - corporate pathways are already heavily prioritised within the faculty and i fear this will only make it worse 
+> - i also worry that this will result in cuts to courses which are not corporate in nature/important subjects which are not necessarily tied to practice (e.g. family law, social welfare law, race and the law etc)
+
+> The Law School's buildings are leased, not owned by the University. Ending the lease would save money. The University wanted to rehouse the Law School in Old Government House — a very stupid idea that was successfully resisted by the Staff Common Room Club. I suppose they will find space somewhere in OGGB. The Library will disappear, just as the Fine Arts, Music, and Architecture and Planning Libraries did.
+> 
+> [u/Grand_Dragonfruit_13](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwq4sg1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+
+> It's a cost cutting thing.
+> 
+> The point is to cut the number of courses offered for small classes so to create the illusion of choice of courses offered they combine faculties so that the list of courses offered by a singular faculty is still flushed.
+> 
+> They did the same thing with design and engineering. Two very different degrees. Designers make it look pretty so that people want to buy it engineers figure out how to make it work. Its like saying architecture and civil engineering is basically the same thing.
+> 
+> Big classes means less teaching staff is needed so salaries to pay lecturers.
+>
+> [u/jmrkiwi](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpojki/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+>
+> Reply: I mean they basically did do that with architecture and civil engineering because architecture is also part of the merger with engineering
+> 
+> [u/Yoshieisawsim](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwprh1r/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+
+> They did this at UC, squished business into our law building and we lost our dedicated law library (sounds like a stupid whinge but there is no way to actually study in the main library, for noise and space).
+>
+> Kick up against it, we regretted our silence.
+>
+> [u/Primary-Bat-3491](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpnhex/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+
+> Does this mean they get to lay a bunch of people off? 
+> 
+> [u/IHaveAChairWawawewa]
+> 
+> That's what's happening with the Arts/CAI/Ed&SW merger, so likely. It's about cost cutting - merging means they have a way to cut professional staff jobs (and increase the workload for the ones remaining). 
+> 
+> [u/Brave_Salamander6219](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpumry/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+> The University seems to have a knack for seeking feedback and conducting consultation processes that don’t do anything or make any difference. Why doesn’t dawn save everyone’s time by shutting the survey monkey and doing whatever she wants because that is what’s going to happen regardless. Saw it already with Arts/EDSW/CAI.
+> 
+> [u/Sad_Soup_307](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpiitj/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+> 
+> Agree, the consultation period being in the middle of the marking period and then over the summer break for both staff and students feels like a dodgy move too. 
+> 
+> [u/No_Astronaut_7399](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpjozr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+> Dawn is insane. Is there really any demand for this?!
+> 
+> [u/k177777](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpif9a/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+> This is crazy. No one wanted this in arts, no one wants this here either. Students and staff are in a fizz rn.
+> 
+> https://www.instagram.com/p/DCQki9HzN_n/
+>
+> [u/WaterMistz](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpf327/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+> As someone who is studying towards degrees in both faculties, apart from the commercial law papers there is no crossover between the two whatsoever for a move like this to even make sense
+> 
+> All I can say is I'm glad I'm almost done with my studies bc this is a scummy move
+>
+> [u/Mordecai___](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpeldo/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+>
+> 1000% second this and on top, I now work in a commercial law firm. BUT LAW & BUSINESS ARE SO DIFFERENT. This is a terrible idea.
+> 
+> There are already problems in the law faculty with enrolling in papers, etc, and already a heavy commercial focus. As a BCom/Law student who wanted to go into corporate law, I did love the private law papers but the law school already needs more variety, this will just squash any variety it does have. So dumb. 
+> 
+> [u/iiivy_](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpjyrv/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+
+
+> And arts, fine arts, education and social work all together too. Just about the only two left unmerged so far are Science and Medical Science which I suspect is coming
+> 
+> [u/Yoshieisawsim](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpdx4e/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+> My mate works for Law, and said all the staff are pissed and completely against this. Dawns the only one who wants it
+> 
+> [No_Astronaut_7399](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpdaqg/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+
+> Absolutely fucking not. There aren't enough non-commercial law electives as is. Combining with the business school and making HALF of the faculty about private law is absolutely insane. The law school already tries to funnel people to big commercial law firms; this will just screw everyone with any kind of interest in criminal, family, environmental, international, or constitutional law.
+> 
+> Don't know what I expected tbh, not like the law school actually cares about anything other than making sure the big firms get their 200 applicants per year.
+> 
+> [u/Justheretolurkyall](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpamjv/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+
+> How does this benefit us as students? Is there something I'm missing or is "The proposed new arrangement is designed to retain and build on the unique identities and strengths of both faculties, ensuring the legacy and prominence of the Auckland Law School and Auckland Business School remain." just corporate jargon that means nothing?
+> 
+> [u/Teddy_Tonks-Lupin](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpa0nl/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+> The thing I’m thinking about is how they’ll manage the admin side of things ? So many law students already don’t manage to secure the electives they want because they fill up so fast and there are SO many students who do the business courses so it sounds like it’ll be a mess all around. Unless they’ve got a proper plan for how they’ll manage it all.
+> 
+> [u/minecraftgarnish](https://www.reddit.com/r/universityofauckland/comments/1gpch80/comment/lwpagd7/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
