@@ -4,37 +4,26 @@ const prompts = [
     "My job makes me feel...",
 
     // Positive
-    "My sources of joy are...",
     "I am grateful for...",
 
-    // Safety
-    "I feel safe when...",
-    "My safety is compromised when...",
-
     // Wellness
+    "I am able to support my family/whānau when...",
     "I feel well when...",
     "My wellness is impacted by...",
-    "I am able to support my family/whānau when...",
-    "My sources of stress are...",
-    "I worry for...",
-
+    "My sense of safety is...",
 
     // Leadership
     "My employer makes me feel...",
     "University leadership is...",
     "My relationship to management is...",
-    "I feel supported when...",
-    "I don't feel supported when...",
-
+    
     // Relations
+    "I feel supported when...",
     "I feel valued when...",
     "I feel respected when...",
 
     // Desires
     "I wish my job...",
-
-    // Negative
-    "Challenges I face...",
 ]
 
 export const images = [

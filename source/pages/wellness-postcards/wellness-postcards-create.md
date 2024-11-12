@@ -32,11 +32,8 @@ function dialogOnClick(event) {
 <dialog id="about" onclick="dialogOnClick(event)">
     <button class="close" onclick="document.getElementById('about').close()">✕</button>
     <h1>What is a Wellness Postcard?</h1>
-    <p>Are an opportunity to collectively express our feelings and experiences working in
-        universities. They are a way to share our stories, our struggles, and our hopes for the future. They are a
-        way to connect with others who are going through similar experiences, and to build a sense of community and
-        solidarity. They are a way to remind ourselves that we are not alone, and that we are part of a movement for
-        change. 
+    <p>Wellness postcards are an opportunity to collectively express our feelings and experiences working in
+        universities.
     </p>
     <h1>Why now? Why this?</h1>
     <p>On the 25th of November, the University of Auckland Recreation and Wellness Centre is being opened. This is a
@@ -48,8 +45,8 @@ function dialogOnClick(event) {
         issues that need to be addressed if we are to truly create a culture of wellness in our universities.</p>
     <h1>What is WATU?</h1>
     <p>We Are The University is a revitalisation of a student activist group from the early 2010s. We are a new group of students and staff who have borrowed the name to affirm the identity of universities in Aotearoa as belonging to the students and staff who work and study there–countering the narratives of Vice Chancellors and centralised administrations. We are committed to the idea that universities should be places of learning, research, and critical thinking, and that they should be free from the influence of corporate interests. Universities belong to the people and should be run for the benefit of the people. Want to get involved? Email us at <a href="mailto:email@wearetheuniversity.org">email@wearetheuniversity.org</a> or try us on instagram <a href="https://www.instagram.com/wearetheuniversity/">@wearetheuniversity</a> and blue sky <a href="https://bsky.app/profile/wearetheuniversity.bsky.social">@wearetheuniversity.bsky.social</a>.</p>
-    <h1>Who is the TEU?</h1>
-    <p>The Tertiary Education Union (TEU) is the union for many staff working in tertiary education in Aotearoa New Zealand. The TEU negotiates collective agreements, securing better salaries and working conditions, as well as providing support and advice to its members. The TEU is currently negotiating collective agreements at a few universities, including the University of Auckland.</p>
+    <h1>Who is the TEU – Te Hautū Kahurangi?</h1>
+    <p>The Tertiary Education Union – Te Hautū Kahurangi (TEU) is the union for many staff working in tertiary education in Aotearoa New Zealand. The TEU negotiates collective agreements, securing better salaries and working conditions, as well as providing support and advice to its members. The TEU is currently negotiating collective agreements at a few universities, including the University of Auckland.</p>
 </dialog>
 <a href=".." style="text-align:center; display: block; font-weight: bold;">See gallery</a>
 
