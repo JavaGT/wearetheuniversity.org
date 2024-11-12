@@ -19,8 +19,12 @@ canvas.style.display = 'none';
 // for (let i=0;i<10;i++) {
 // create a card for each row in the csv
 data
-    // randomize the order of the rows
-    .sort((a, b) => Math.random() - 0.5)
+    // randomize the order of the rows, but all the rows with signed  should be at the top
+    .sort((a, b) => {
+        if (a.signed && !b.signed) return -1;
+        if (!a.signed && b.signed) return 1;
+        return Math.random() - 0.5;
+    })
     .forEach(row => {
         if (row?.Remove.toLowerCase() === 'yes') {
             console.log('Skipping row', row);
