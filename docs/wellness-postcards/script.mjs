@@ -383,6 +383,7 @@ export function run() {
                     input.name = field.name
                     input.value = field.value
                     privateForm.appendChild(input)
+                    console.log(`Adding ${field.name} with value ${field.value}`)
                 })
 
             document.body.appendChild(privateForm)
@@ -398,7 +399,7 @@ export function run() {
                     publicForm.method = 'POST'
                     publicForm.style.display = 'none'
                         ;[
-                            { name: 'entry.406853500', type: 'textarea', value: JSON.stringify({ submission_id, prompt, image, message, signed }) },
+                            { name: 'entry.406853500', type: 'textarea', value: JSON.stringify({ submission_id, prompt, image, message, signed, stamp }) },
                             { name: 'fvv', type: 'hidden', value: '1' },
                             { name: 'fbzx', type: 'hidden', value: '-4275759135674733626' },
                             { name: 'pageHistory', type: 'hidden', value: '0' },
