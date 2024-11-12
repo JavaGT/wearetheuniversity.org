@@ -2,8 +2,8 @@
 title: "Breaking: Dawn Proposes New Combined Faculty of Law and Business & Economics"
 slug: dawn-proposes-new-combined-faculty-of-law-and-business-economics
 date: 2024-11-12
-source: Personal Communications
-source-name: Dawn Freshwater
+source:
+source-name:
 author: Dawn Freshwater
 author-slug: dawn-freshwater
 ---
