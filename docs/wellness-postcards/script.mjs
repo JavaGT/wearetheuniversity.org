@@ -62,10 +62,11 @@ const dataInput = [
     { label: 'Message', optional: false, type: 'textarea', placeholder: 'Write your message here', default: '' },
     { label: 'Signed', optional: true, type: 'text', placeholder: 'Anonymous', default: '' },
     { label: 'Stamp', optional: false, type: 'radio', options: stamps.map(stamp => stamp.alt), default: stamps[0].alt },
-    { label: 'Privacy Statement', type: 'span', default: 'If you share to public gallery publicly, only your message, prompt, image selections, and signed name are included.' },
+    { label: 'Privacy Statement', type: 'span', default: 'If you share to the public gallery, only your message, prompt, image selections, and signed name are included.' },
+    { label: 'Privacy Statement', type: 'span', default: 'If you share to the public gallery, You agree to your postcard to be used for other  promotional material for this campaign.' },
     { label: 'Share postcard to public gallery?', optional: false, type: 'radio', options: ['Yes', 'No'], default: 'Yes' },
     { label: 'Identities', optional: true, type: 'checkbox', options: ['Student', 'Staff', 'Alumni', 'Other'] },
-    { label: 'Privacy Statement', type: 'span', default: 'WATU and TEU hold optional personal data for contact regarding this campaign.' },
+    { label: 'Privacy Statement', type: 'span', default: 'You agree to share optional contact data with WATU and TEU such as your name and email, solely for communication about this campaign.  All personal data is securely stored and will not be shared with third parties except for necessary campaign support services. You have the right to access and correct your data. We will retain personal data only for the duration of this campaign and will securely delete it afterward. For any privacy concerns, please contact <a href="mailto:contact@wearetheuniversity.org">contact@wearetheuniversity.org</a>' },
     { label: 'Share email', optional: true, type: 'checkbox', options: ['TEU', 'WATU'], default: ['TEU', 'WATU'] },
     { label: 'Name', optional: true, type: 'text', placeholder: 'Haeata Waitī', default: '' },
     { label: 'Email', optional: true, type: 'email', placeholder: 'name@domain.com', default: '' },
@@ -89,7 +90,7 @@ function createForm(dataInput) {
         if (input.type === 'span') {
             const p = input.href ? document.createElement('a') : document.createElement('span')
             if (input.href) p.href = input.href
-            p.textContent = input.default
+            p.innerHTML = input.default
             set.appendChild(p)
             form.appendChild(set)
             return;
