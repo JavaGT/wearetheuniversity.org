@@ -54,6 +54,15 @@ data
         // append the postcard to the gallery
         const img = new Image();
         img.src = canvas.toDataURL();
+        if (row.stamp === 'WATU') {
+            // black background
+            img.style.backgroundColor = 'black';
+            img.style.border = '1px solid white';
+        }
+        if (row.stamp === 'TEU') {
+            // TEU branded
+            img.style.backgroundColor = '#ff5800'
+        }
         gallery.appendChild(img);
 
         // when image is clicked, open its dataurl in a new tab
