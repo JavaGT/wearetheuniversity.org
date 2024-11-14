@@ -92,7 +92,7 @@ label {
 }
 
 #gallery img {
-    border: 2px solid #0005;
+    /* border: 2px solid #0005; */
     background-color: #fff2;
     width: 20rem;
     margin: 0.3rem;
