@@ -16,7 +16,7 @@ html {
     --color-primary: #efefef;
     --color-background: #f5f5f5;
     --text-primary-inverse: #000407;
-    --text-highlight: rgb(108, 27, 67);
+    --text-highlight: #1596ff;
     --text-tint: #072f4d;
     font-family: var(--body-font);
     background-color: var(--color-background);

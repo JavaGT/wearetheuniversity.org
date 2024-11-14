@@ -57,7 +57,7 @@ data
         if (row.stamp === 'WATU') {
             // black background
             img.style.backgroundColor = 'black';
-            img.style.border = '2px solid white';
+            img.style.border = '2px solid #fffb';
         }
         if (row.stamp === 'TEU') {
             // TEU branded
