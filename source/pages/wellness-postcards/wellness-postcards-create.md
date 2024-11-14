@@ -1,7 +1,7 @@
 ---
 slug: 'wellness-postcards/create'
 title: 'Create a Wellness Postcard'
-socialImage: './images/social.jpg'
+socialImage: '../images/social.jpg'
 url: 'https://wearetheuniversity.org/wellness-postcards/create'
 description: 'Create a wellness postcard to express your feelings and experiences working in universities.'
 ---
