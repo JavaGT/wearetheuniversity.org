@@ -13,6 +13,7 @@ canvas {
     padding: 0.4em;
     border-radius: 0.4em;
     background: cadetblue;
+    max-width: 100%;
 }
 
 #inputs>* {
@@ -81,6 +82,7 @@ fieldset.fieldset-optional legend {
 
 label {
     text-wrap-mode: nowrap;
+    display: inline-block;
 }
 
 #gallery {
