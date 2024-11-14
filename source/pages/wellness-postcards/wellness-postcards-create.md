@@ -40,7 +40,7 @@ function dialogOnClick(event) {
         great opportunity to highlight the importance of wellness in universities, particularly in the context of
         the current negotiations. While a gym is nice, making the claim that it is a solution to the wellness issues
         faced by staff and students is disingenuous. The real issues are the social isolation of students, balancing
-        work and study, lack of connection across social boundries (undergrad-postgrad-academic-professional staff),
+        work and study, lack of connection across social boundaries (undergrad-postgrad-academic-professional staff),
         the increasing workloads, the lack of job security, and the erosion of academic freedom. These are the
         issues that need to be addressed if we are to truly create a culture of wellness in our universities.</p>
     <h1>What is WATU?</h1>

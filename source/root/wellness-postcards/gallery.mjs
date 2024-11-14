@@ -2,13 +2,18 @@
 import { csvParse } from "https://cdn.skypack.dev/d3-dsv@3";
 import { createPostcard, renderPostcard, stamps, images } from "./script.mjs";
 
+const gallery = document.querySelector('#gallery');
+
 // get csv and parse it in browser
 const csvUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRK60uZgiy1R8M3cPPXm3B512GgWSXRZF7iheQpISowPZNXPH_sppVi1kFWbRaZdoaFteKrMkZAzL0P/pub?output=csv';
-const csv = await fetch(csvUrl).then(response => response.text());
+const csv = await fetch(csvUrl).then(response => response.text()).catch(error => {
+    console.error('Error fetching csv', error);
+    gallery.innerHTML = 'Error fetching gallery data. Please try again later.';
+    throw error;
+})
 const data = csvParse(csv);
 
 // get the gallery container
-const gallery = document.querySelector('#gallery');
 
 
 
