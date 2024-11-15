@@ -13,11 +13,20 @@ canvas {
     padding: 0.4em;
     border-radius: 0.4em;
     background: cadetblue;
-    max-width: 100%;
+    max-width: min(100%, 30rem);
 }
 
 #inputs>* {
     padding: 2px;
+}
+
+#inputs textarea,
+#inputs input[type="text"] {
+    width: 100%;
+}
+
+#visual {
+    align-self: baseline;
 }
 
 section.body {
