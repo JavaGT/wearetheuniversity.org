@@ -48,7 +48,7 @@ function dialogOnClick(event) {
     <h1>Who is the TEU – Te Hautū Kahurangi?</h1>
     <p>The Tertiary Education Union – Te Hautū Kahurangi (TEU) is the union for many staff working in tertiary education in Aotearoa New Zealand. The TEU negotiates collective agreements, securing better salaries and working conditions, as well as providing support and advice to its members. The TEU is currently negotiating collective agreements at a few universities, including the University of Auckland.</p>
 </dialog>
-<a href=".." style="text-align:center; display: block; font-weight: bold;">See gallery</a>
+<a href=".." style="text-align:center; display: block; font-weight: bold; margin-bottom: 1rem;">See gallery</a>
 
 <div class="flex">
     <div id="visual"></div>
