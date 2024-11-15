@@ -21,7 +21,8 @@ canvas {
 }
 
 #inputs textarea,
-#inputs input[type="text"] {
+#inputs input[type="text"],
+#inputs input[type="email"] {
     width: 100%;
 }
 
