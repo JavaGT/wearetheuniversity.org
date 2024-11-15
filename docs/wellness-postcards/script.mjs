@@ -24,6 +24,7 @@ const prompts = [
 
     // Desires
     "I wish my job...",
+    "I wish my uni life...",
 ]
 
 export const images = [
@@ -88,7 +89,11 @@ function createForm(dataInput) {
 
         if (input.type === 'span') {
             const p = input.href ? document.createElement('a') : document.createElement('span')
-            if (input.href) p.href = input.href
+            if (input.href) {
+                p.href = input.href
+                p.target = '_blank'
+                p.rel = 'noopener noreferrer'
+            }
             p.innerHTML = input.default
             set.appendChild(p)
             form.appendChild(set)
