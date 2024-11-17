@@ -224,20 +224,11 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     ctx.lineTo(1200, 630);
     ctx.stroke();
 
-    // draw lines for text on the back
-    ctx.strokeStyle = 'lightgrey';
     // const fontSize = document.querySelector('input[name="Font Size"]');
     // const fontInput = document.querySelector('input[name="Font"]:checked');
     // ctx.font = fontSize.value + 'px ' + fontInput.value;
 
     ctx.font = '46px monospace';
-
-    for (let i = 0; i < 5; i++) {
-        ctx.beginPath();
-        ctx.moveTo(100, 850 + i * 50);
-        ctx.lineTo(700, 850 + i * 50);
-        ctx.stroke();
-    }
 
     ctx.strokeStyle = 'black';
     ctx.fillStyle = 'black';
@@ -245,11 +236,26 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     const numChars = message.length;
     let charactersPerLine = 60;
     // message holds 300 characters by default, if there are more, scale font size down in proportion
-    if (numChars > 180) {
-        ctx.font = Math.floor(46 * 180 / numChars) + 'px monospace';
+    let linespacing = 50;
+    if (numChars > 160) {
+        let fontSize = Math.floor(46 * 180 / (numChars / 1.2))
+        fontSize = Math.max(fontSize, 30)
+        fontSize = Math.min(fontSize, 46)
+        ctx.font = fontSize + 'px monospace';
+        linespacing = Math.floor(4 + (46 * 220 / numChars));
+        linespacing = Math.max(linespacing, 30);
+        linespacing = Math.min(linespacing, 50);
     }
     charactersPerLine = Math.floor(700 / ctx.measureText('M').width);
 
+    // draw lines for text on the back
+    ctx.strokeStyle = 'lightgrey';
+    for (let i = 0; i < 5; i++) {
+        ctx.beginPath();
+        ctx.moveTo(100, 850 + i * linespacing);
+        ctx.lineTo(700, 850 + i * linespacing);
+        ctx.stroke();
+    }
     // split message into lines, only split text on spaces
     // const lines = [];
     // let currentLine = '';
@@ -279,7 +285,6 @@ export function renderPostcard(form, ctx, { stamps, images }) {
         acc.push(currentLine);
         return acc;
     }, []);
-    
 
     // draw text on the back
     ctx.fillStyle = 'black';
@@ -297,7 +302,7 @@ export function renderPostcard(form, ctx, { stamps, images }) {
         const jiggle = (((i ** 7) % 4 * 4) - 4)
         const x_offset = Math.min(Math.floor((600 - lineWidth)), 0) / 20;
 
-        ctx.fillText(line, 100 + jiggle + x_offset, 845 + (i - offset) * 50);
+        ctx.fillText(line, 100 + jiggle + x_offset, 845 + (i - offset) * linespacing);
     });
 
     ctx.textAlign = 'right';
