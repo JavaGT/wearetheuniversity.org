@@ -251,17 +251,35 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     charactersPerLine = Math.floor(700 / ctx.measureText('M').width);
 
     // split message into lines, only split text on spaces
-    const lines = [];
-    let currentLine = '';
-    message.split(' ').forEach(word => {
-        if (currentLine.length + word.length < charactersPerLine) {
-            currentLine += word + ' ';
-        } else {
-            lines.push(currentLine);
-            currentLine = word + ' ';
-        }
-    });
-    lines.push(currentLine);
+    // const lines = [];
+    // let currentLine = '';
+    // message.split(' ').forEach(word => {
+    //     if (currentLine.length + word.length < charactersPerLine) {
+    //         currentLine += word + ' ';
+    //     } else {
+    //         lines.push(currentLine);
+    //         currentLine = word + ' ';
+    //     }
+    // });
+    // lines.push(currentLine);
+
+
+    // re-do adding forced line breaks with \n
+    const lines = message.split('\n').reduce((acc, line) => {
+        const words = line.split(' ');
+        let currentLine = '';
+        words.forEach(word => {
+            if (currentLine.length + word.length < charactersPerLine) {
+                currentLine += word + ' ';
+            } else {
+                acc.push(currentLine);
+                currentLine = word + ' ';
+            }
+        });
+        acc.push(currentLine);
+        return acc;
+    }, []);
+    
 
     // draw text on the back
     ctx.fillStyle = 'black';
@@ -449,6 +467,11 @@ export function run() {
         <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://wearetheuniversity.org/wellness-postcards" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">Instagram</a>
         <a href="https://bsky.app/intent/compose?text=I just made a university wellness postcard! Check it out! https://wearetheuniversity.org/wellness-postcards #universitywellness @wearetheuniversity.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a>
+
+        <h3>Don't forget alt text for your postcard image!</h3>
+        <p>Alt text is a description of the image for people who can't see it. It's important for accessibility. You can use the image description below:</p>
+        <p id="alt-text">A digital postcard with a photo of ${image} on the front and a message on the back. The message reads: "${prompt} ${message}". The postcard is signed "${signed}".</p>
+        <button onclick="navigator.clipboard.writeText(document.getElementById('alt-text').textContent)">Copy alt text</button>
     `
         document.body.appendChild(popup)
         popup.querySelector('#close-popup').addEventListener('click', () => popup.remove())

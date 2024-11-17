@@ -17,6 +17,16 @@ No more sham consultations. Stop steamrolling our people. *We* are the universit
 
 To our colleagues in Law and Business & Economics, we stand with you. [Be in touch](/contact) if you want to share your thoughts.
 
+# University information page
+[Link to page](https://www.auckland.ac.nz/en/news/notices/2024/proposed-new-faculty-business-economics-law.html)
+
+## Direct link to submit opinions
+[Link to submission form](https://auckland.au1.qualtrics.com/jfe/form/SV_88k5XTOGzmfgfAi)
+
+## Staff FAQs (For some reason behind a login wall)
+[Staff-focused Q&A on proposed new faculty arrangements: Business and Economics, Law](https://www.auckland.ac.nz/en/intranet/stay-informed/staff-communications/notices/proposed-new-faculty-business-economics-law-q-a.html)
+
+
 # Dawn's Email
 
 > all-staff-request@list.auckland.ac.nz on behalf of Dawn Freshwater<vice-chancellor@auckland.ac.nz>
