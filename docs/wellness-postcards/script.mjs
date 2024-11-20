@@ -158,7 +158,11 @@ export function createPostcard() {
 export function renderPostcard(form, ctx, { stamps, images }) {
     // if form is already formdata, skip this step
     const formData = form instanceof FormData ? form : new FormData(form)
-    const prompt = formData.get('prompt')
+    let prompt = formData.get('prompt')
+    // if  #blank in url then prompt = 'My job makes me feel...'
+    if (window.location.hash === '#blank') {
+        prompt = ''
+    }
     const image = formData.get('image')
     const message = formData.get('message')
     const signed = formData.get('signed')
@@ -194,6 +198,11 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     // draw a faint box behind the text
     ctx.fillStyle = 'rgba(0,0,0, 0.5)';
     ctx.fillRect(100 - 10, 550 - 46 - 10, promptWidth + 20, 46 + 30);
+    // if #blank then draw a white box to be written on, most of the width of the card
+    if (window.location.hash === '#blank') {
+        ctx.fillStyle = 'rgba(255,255,255, 0.75)';
+        ctx.fillRect(100 - 10, 550 - 46 - 10, 1200 - 200, 46 + 30);
+    }
 
     ctx.fillStyle = 'white';
 
@@ -306,7 +315,10 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     });
 
     ctx.textAlign = 'right';
-    ctx.fillText('-' + (signed ? signed : "Anonymous"), 1100, 850 + 5 * 50 - 5);
+    // if #blank no signed name
+    if (window.location.hash !== '#blank') {
+        ctx.fillText('-' + (signed ? signed : "Anonymous"), 1100, 850 + 5 * 50 - 5);
+    }
     ctx.textAlign = 'left';
 
     // draw a box on the right for stamp
