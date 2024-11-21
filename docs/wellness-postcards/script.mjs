@@ -478,7 +478,8 @@ export function run() {
         <button id="close-popup">Close</button>
         <h2>Thank you for making a postcard!</h2>
         <p>Your postcard has been saved to your downloads folder.</p>
-        <p>Share your postcard on social media:</p>
+        <h3>Share your postcard on social media:</h3>
+        <h2>#universtywellness</h2>
         <a href="https://twitter.com/intent/tweet?url=https://wearetheuniversity.org/wellness-postcards&text=I just made a university wellness postcard! Check it out! #universitywellness @nzteu @wetheuniversity @TEU_UoA" target="_blank" rel="noopener noreferrer">Twitter</a>
         <a href="https://www.facebook.com/sharer/sharer.php?u=https://wearetheuniversity.org/wellness-postcards" target="_blank" rel="noopener noreferrer">Facebook</a>
         <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://wearetheuniversity.org/wellness-postcards" target="_blank" rel="noopener noreferrer">LinkedIn</a>
@@ -487,7 +488,7 @@ export function run() {
 
         <h3>Don't forget alt text for your postcard image!</h3>
         <p>Alt text is a description of the image for people who can't see it. It's important for accessibility. You can use the image description below:</p>
-        <p id="alt-text">A digital postcard with a photo of ${image} on the front and a message on the back. The message reads: "${prompt} ${message}". The postcard is signed "${signed}".</p>
+        <p style="border: 1px solid rgba(0,0,0,0.4) id="alt-text">A digital postcard with a photo of ${image} on the front and a message on the back. The message reads: "${prompt} ${message}". The postcard is signed "${signed ? signed : "Anonymous"}".</p>
         <button onclick="navigator.clipboard.writeText(document.getElementById('alt-text').textContent)">Copy alt text</button>
     `
         document.body.appendChild(popup)
