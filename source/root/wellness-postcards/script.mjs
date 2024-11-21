@@ -246,6 +246,8 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     let charactersPerLine = 60;
     // message holds 300 characters by default, if there are more, scale font size down in proportion
     let linespacing = 50;
+    let text_x = 100;
+
     if (numChars > 160) {
         let fontSize = Math.floor(46 * 180 / (numChars / 1.2))
         fontSize = Math.max(fontSize, 30)
@@ -256,6 +258,10 @@ export function renderPostcard(form, ctx, { stamps, images }) {
         linespacing = Math.min(linespacing, 50);
     }
     charactersPerLine = Math.floor(700 / ctx.measureText('M').width);
+    if (numChars > 300) {
+        charactersPerLine = Math.floor(900 / ctx.measureText('M').width);
+        text_x -= 40;
+    }
 
     // draw lines for text on the back
     ctx.strokeStyle = 'lightgrey';
@@ -311,7 +317,7 @@ export function renderPostcard(form, ctx, { stamps, images }) {
         const jiggle = (((i ** 7) % 4 * 4) - 4)
         const x_offset = Math.min(Math.floor((600 - lineWidth)), 0) / 20;
 
-        ctx.fillText(line, 100 + jiggle + x_offset, 845 + (i - offset) * linespacing);
+        ctx.fillText(line, text_x + jiggle + x_offset, 845 + (i - offset) * linespacing);
     });
 
     ctx.textAlign = 'right';
