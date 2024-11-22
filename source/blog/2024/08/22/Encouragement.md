@@ -1,7 +1,7 @@
 ---
 title: Encouragement
 slug: encouragement
-date: 2024-08-23
+date: 2024-08-22
 source: private communications
 author: anonymous
 author-slug: anonymous
