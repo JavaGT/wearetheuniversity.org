@@ -193,7 +193,14 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     ctx.shadowOffsetY = 3;
 
     // measure prompt width
-    const promptWidth = ctx.measureText(prompt).width;
+    let promptWidth = ctx.measureText(prompt).width;
+    // if prompt is too long, scale down font size
+    if (promptWidth > 1200 - 200) {
+        const fontSize = Math.floor(46 * (1200 - 200) / promptWidth);
+        ctx.font = 'bold ' + fontSize + 'px monospace';
+        promptWidth = ctx.measureText(prompt).width;
+    }
+
 
     // draw a faint box behind the text
     ctx.fillStyle = 'rgba(0,0,0, 0.5)';
@@ -261,6 +268,12 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     if (numChars > 300) {
         charactersPerLine = Math.floor(900 / ctx.measureText('M').width);
         text_x -= 40;
+    }
+    if (numChars > 600) {
+        charactersPerLine = Math.floor(1000 / ctx.measureText('M').width);
+        text_x = 20;
+        let fontSize = 26
+        ctx.font = fontSize + 'px monospace';
     }
 
     // draw lines for text on the back
