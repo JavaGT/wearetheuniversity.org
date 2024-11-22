@@ -15,6 +15,5 @@ We are committed to reclaiming the University, we believe in
 - Free, accessible, and quality education
 - Political freedom, and democratic governance of the university
 - No privatisation of education
-- Education and research should be driven by the needs of people, not the interests of the market. 
-- Management is not the University.
-- Students, academics and workers all make this place what it is, and the truth is **we are not a product of the university,** WE ARE THE UNIVERSITY!
+
+Education and research should be driven by the needs of people, not the interests of the market. Management is not the University. Students, academics and workers all make this place what it is, and the truth is **we are not a product of the university,** WE ARE THE UNIVERSITY!
