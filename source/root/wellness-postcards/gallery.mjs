@@ -13,7 +13,7 @@ if (gallery) {
         gallery.innerHTML = 'Error fetching gallery data. Please try again later.';
         throw error;
     })
-    const data = csvParse(csv);
+    let data = csvParse(csv);
 
     // get the gallery container
 
@@ -25,13 +25,30 @@ if (gallery) {
 
     // for (let i=0;i<10;i++) {
     // create a card for each row in the csv
+
+    const unique_messages = new Set();
+    let current_message;
+    data = data.filter(row => {
+        try {
+            current_message = JSON.parse(row.JSON).message;
+            if (unique_messages.has(current_message)) {
+                return false
+            }
+            unique_messages.add(current_message);
+            return true
+        } catch (e) {
+            // console.error('Error parsing JSON', row.JSON);
+            return false
+        }
+    })
+
     data
         // randomize the order of the rows, but all the rows with signed  should be at the top
-        .sort((a, b) => {
-            if (a.signed && !b.signed) return -1;
-            if (!a.signed && b.signed) return 1;
-            return Math.random() - 0.5;
-        })
+        // .sort((a, b) => {
+        //     if (a.signed && !b.signed) return -1;
+        //     if (!a.signed && b.signed) return 1;
+        //     return Math.random() - 0.5;
+        // })
         .forEach(row => {
             if (row?.Remove.toLowerCase() === 'yes') {
                 console.log('Skipping row', row);
