@@ -1,5 +1,5 @@
 ---
-title: Great Showing at Teriary Education Strikes in Auckland
+title: Great Showing at Tertiary Education Strikes in Auckland
 subtitle: Students show up in force to support striking staff
 slug: teu-strikes-sept-2024
 date: 2024-09-26
