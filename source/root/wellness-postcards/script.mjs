@@ -155,7 +155,14 @@ export function createPostcard() {
     // stampImg.onload  = renderPostcard;
 }
 
+function urlParam(name, defaultValue) {
+    const url = new URL(window.location.href);
+    return url.searchParams.get(name) || defaultValue;
+}
+
 export function renderPostcard(form, ctx, { stamps, images }) {
+    // retrive scale from url params
+    let scale = urlParam('scale', 1)
     // if form is already formdata, skip this step
     const formData = form instanceof FormData ? form : new FormData(form)
     let prompt = formData.get('prompt')
@@ -172,31 +179,33 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     const identities = formData.getAll('identities')
     // console.log({ prompt, image, message, signed, name, email, shareEmail, identities })
 
+    ctx.canvas.width = 1200 * scale
+    ctx.canvas.height = 630 * 2 * scale
 
     // clear
     ctx.fillStyle = 'white';
-    ctx.fillRect(0, 0, 1200, 630 * 2);
+    ctx.fillRect(0, 0, 1200 * scale, 630 * 2 * scale);
 
     // rec-centre.jpeg
     // draw image on top half
     // ctx.drawImage(recImg, 0, 0, 1200, 630);
     // ctx.drawImage(images[document.querySelector('input[name="image"]:checked').value].img, 0, 0, 1200, 630);
-    ctx.drawImage((images.find(img => img.alt === image) || images[0]).img, 0, 0, 1200, 630);
+    ctx.drawImage((images.find(img => img.alt === image) || images[0]).img, 0, 0, 1200 * scale, 630 * scale);
 
     // render "What wellness means to me" on the front
     ctx.fillStyle = 'white';
-    ctx.font = 'bold 46px monospace';
+    ctx.font = 'bold ' + Math.floor(46 * scale) + 'px monospace';
     // add drop shadow
     ctx.shadowColor = 'black';
-    ctx.shadowBlur = 8;
-    ctx.shadowOffsetX = 3;
-    ctx.shadowOffsetY = 3;
+    ctx.shadowBlur = 8 * scale
+    ctx.shadowOffsetX = 3 * scale;
+    ctx.shadowOffsetY = 3 * scale;
 
     // measure prompt width
     let promptWidth = ctx.measureText(prompt).width;
     // if prompt is too long, scale down font size
-    if (promptWidth > 1200 - 200) {
-        const fontSize = Math.floor(46 * (1200 - 200) / promptWidth);
+    if (promptWidth > (1200 - 200) * scale) {
+        const fontSize = Math.floor((46 * (1200 - 200) / promptWidth) * scale);
         ctx.font = 'bold ' + fontSize + 'px monospace';
         promptWidth = ctx.measureText(prompt).width;
     }
@@ -204,21 +213,21 @@ export function renderPostcard(form, ctx, { stamps, images }) {
 
     // draw a faint box behind the text
     ctx.fillStyle = 'rgba(0,0,0, 0.5)';
-    ctx.fillRect(100 - 10, 550 - 46 - 10, promptWidth + 20, 46 + 30);
+    ctx.fillRect((100 - 10) * scale, (550 - 46 - 10) * scale, (promptWidth + 20) * scale, (46 + 30) * scale);
     // if #blank then draw a white box to be written on, most of the width of the card
     if (window.location.hash === '#blank') {
         ctx.fillStyle = 'rgba(255,255,255, 0.75)';
-        ctx.fillRect(100 - 10, 550 - 46 - 10, 1200 - 200, 46 + 30);
+        ctx.fillRect((100 - 10) * scale, (550 - 46 - 10) * scale, (1200 - 200) * scale, (46 + 30) * scale);
     }
 
     ctx.fillStyle = 'white';
 
     // selected prompt
-    ctx.fillText(prompt, 100, 550);
-    ctx.fillText(prompt, 100, 550);
-    ctx.fillText(prompt, 100, 550);
-    ctx.fillText(prompt, 100, 550);
-    ctx.fillText(prompt, 100, 550);
+    ctx.fillText(prompt, (100) * scale, (550) * scale);
+    ctx.fillText(prompt, (100) * scale, (550) * scale);
+    ctx.fillText(prompt, (100) * scale, (550) * scale);
+    ctx.fillText(prompt, (100) * scale, (550) * scale);
+    ctx.fillText(prompt, (100) * scale, (550) * scale);
     // ctx.fillText(document.querySelector('select[name="Prompt"]').value, 100, 550);
     // ctx.fillText(document.querySelector('select[name="Prompt"]').value, 100, 550);
     // ctx.fillText(document.querySelector('select[name="Prompt"]').value, 100, 550);
@@ -236,15 +245,18 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     ctx.fillStyle = 'black';
     ctx.strokeStyle = 'black';
     ctx.beginPath();
-    ctx.moveTo(0, 630);
-    ctx.lineTo(1200, 630);
+    ctx.moveTo(0, (630) * scale);
+    ctx.lineTo(1200, (630) * scale);
     ctx.stroke();
 
     // const fontSize = document.querySelector('input[name="Font Size"]');
     // const fontInput = document.querySelector('input[name="Font"]:checked');
     // ctx.font = fontSize.value + 'px ' + fontInput.value;
 
-    ctx.font = '46px monospace';
+
+    let fontnum = Math.floor(46 * scale)
+
+    ctx.font = fontnum + 'px monospace';
 
     ctx.strokeStyle = 'black';
     ctx.fillStyle = 'black';
@@ -252,27 +264,30 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     const numChars = message.length;
     let charactersPerLine = 60;
     // message holds 300 characters by default, if there are more, scale font size down in proportion
-    let linespacing = 50;
-    let text_x = 100;
+    let linespacing = 50 * scale;
+    let text_x = 100 * scale;
 
     if (numChars > 160) {
-        let fontSize = Math.floor(46 * 180 / (numChars / 1.2))
-        fontSize = Math.max(fontSize, 30)
-        fontSize = Math.min(fontSize, 46)
+        let fontSize = Math.floor(46 * 180 / (numChars / 1.2) * scale)
+        fontSize = Math.max(fontSize, 30 * scale)
+        fontSize = Math.min(fontSize, 46 * scale)
+        fontSize = Math.floor(fontSize)
         ctx.font = fontSize + 'px monospace';
-        linespacing = Math.floor(4 + (46 * 220 / numChars));
-        linespacing = Math.max(linespacing, 30);
-        linespacing = Math.min(linespacing, 50);
+        linespacing = Math.floor(4 + (46 * 220 / numChars) * scale);
+        linespacing = Math.max(linespacing, 30 * scale);
+        linespacing = Math.min(linespacing, 50 * scale);
+        linespacing = Math.floor(linespacing);
     }
-    charactersPerLine = Math.floor(700 / ctx.measureText('M').width);
+    charactersPerLine = Math.floor(700 * scale / ctx.measureText('M').width);
     if (numChars > 300) {
-        charactersPerLine = Math.floor(900 / ctx.measureText('M').width);
-        text_x -= 40;
+        charactersPerLine = Math.floor(900 * scale / ctx.measureText('M').width);
+        text_x -= 40 * scale;
     }
     if (numChars > 600) {
-        charactersPerLine = Math.floor(1000 / ctx.measureText('M').width);
-        text_x = 20;
-        let fontSize = 26
+        charactersPerLine = Math.floor(1000 * scale / ctx.measureText('M').width);
+        text_x = 20 * scale;
+        let fontSize = 26 * scale
+        fontSize = Math.floor(fontSize)
         ctx.font = fontSize + 'px monospace';
     }
 
@@ -280,8 +295,8 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     ctx.strokeStyle = 'lightgrey';
     for (let i = 0; i < 5; i++) {
         ctx.beginPath();
-        ctx.moveTo(100, 850 + i * linespacing);
-        ctx.lineTo(700, 850 + i * linespacing);
+        ctx.moveTo(100 * scale, (850 * scale) + i * linespacing);
+        ctx.lineTo(700 * scale, (850 * scale) + i * linespacing);
         ctx.stroke();
     }
     // split message into lines, only split text on spaces
@@ -327,36 +342,36 @@ export function renderPostcard(form, ctx, { stamps, images }) {
         // measure the width of the line
         const lineWidth = ctx.measureText(line).width;
         // draw the line with a slight offset, more offset for longer lines
-        const jiggle = (((i ** 7) % 4 * 4) - 4)
-        const x_offset = Math.min(Math.floor((600 - lineWidth)), 0) / 20;
+        const jiggle = Math.floor((((i ** 7) % 4 * 4) - 4) * scale)
+        const x_offset = Math.min(Math.floor((600 * scale - lineWidth)), 0) / 20;
 
-        ctx.fillText(line, text_x + jiggle + x_offset, 845 + (i - offset) * linespacing);
+        ctx.fillText(line, text_x + jiggle + x_offset, 845 * scale + (i - offset) * linespacing);
     });
 
     ctx.textAlign = 'right';
     // if #blank no signed name
     if (window.location.hash !== '#blank') {
-        ctx.fillText('-' + (signed ? signed : "Anonymous"), 1100, 850 + 5 * 50 - 5);
+        ctx.fillText('-' + (signed ? signed : "Anonymous"), 1100 * scale, (850 + (5 * 50) - 5) * scale);
     }
     ctx.textAlign = 'left';
 
     // draw a box on the right for stamp
     ctx.beginPath();
-    ctx.moveTo(800 + 150, 1200 - 550);
-    ctx.lineTo(800 + 150, 1200 - 550);
-    ctx.lineTo(1000 + 150, 1200 - 550);
-    ctx.lineTo(1000 + 150, 1400 - 550);
-    ctx.lineTo(800 + 150, 1400 - 550);
-    ctx.lineTo(800 + 150, 1200 - 550);
+    ctx.moveTo((800 + 150) * scale, (1200 - 550) * scale);
+    ctx.lineTo((800 + 150) * scale, (1200 - 550) * scale);
+    ctx.lineTo((1000 + 150) * scale, (1200 - 550) * scale);
+    ctx.lineTo((1000 + 150) * scale, (1400 - 550) * scale);
+    ctx.lineTo((800 + 150) * scale, (1400 - 550) * scale);
+    ctx.lineTo((800 + 150) * scale, (1200 - 550) * scale);
     ctx.stroke();
 
     // Draw stamp
     const stampImg = stamps.find(stamp => stamp.alt === formData.get('stamp'))?.img;
 
     ctx.save();
-    ctx.translate(800 + 150 + 100, 1200 - 550 + 100);
+    ctx.translate((800 + 150 + 100) * scale, (1200 - 550 + 100) * scale);
     ctx.rotate(Math.PI / 40);
-    ctx.drawImage(stampImg, -130, -100, 250, 200);
+    ctx.drawImage(stampImg, -130 * scale, -100 * scale, 250 * scale, 200 * scale);
     ctx.restore();
 
     // add url to bottom of top half
@@ -365,10 +380,10 @@ export function renderPostcard(form, ctx, { stamps, images }) {
     ctx.fillStyle = 'black';
     ctx.strokeStyle = 'white';
     ctx.lineWidth = 2;
-    ctx.font = 'bold 20px monospace';
+    ctx.font = 'bold ' + Math.floor(20 * scale) + 'px monospace';
     ctx.textAlign = 'right';
-    ctx.strokeText('www.wearetheuniversity.org/wellness-postcards', 1200 - 100, 630 * 2 - 20);
-    ctx.fillText('www.wearetheuniversity.org/wellness-postcards', 1200 - 100, 630 * 2 - 20);
+    ctx.strokeText('www.wearetheuniversity.org/wellness-postcards', (1200 - 100) * scale, (630 * 2 - 20) * scale);
+    ctx.fillText('www.wearetheuniversity.org/wellness-postcards', (1200 - 100) * scale, (630 * 2 - 20) * scale);
     ctx.textAlign = 'left';
 }
 export function run() {

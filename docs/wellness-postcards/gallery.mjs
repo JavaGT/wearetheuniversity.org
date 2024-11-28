@@ -17,8 +17,6 @@ if (gallery) {
 
     // get the gallery container
 
-
-
     // create a postcard renderer
     const { canvas, ctx } = createPostcard();
     canvas.style.display = 'none';
