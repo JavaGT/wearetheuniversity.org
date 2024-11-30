@@ -99,13 +99,23 @@ if (gallery) {
         });
     // }
 
+    // add images 1-57 to the gallery
+    for (let i = 1; i <= 45; i++) {
+        let el = document.createElement('img');
+        el.src = `./postcard-images/${i}.jpeg`;
+        gallery.appendChild(el);
+    }
+
+    // shell script to rename all jpeg files in a folder to numbers
+    // for i in *.jpeg; do mv "$i" "${i%.*}.jpeg"; done
+    // nodejs one liner to rename all files in a folder to numbers
+    // fs.readdirSync('.').forEach((f, i) => fs.renameSync(f, `${i}.jpeg`));
+
+
     // remove the loading spinner id="gallery-loading"
     document.querySelector('#gallery-loading').remove();
-
-
-
-
 }
+
 function shouldHide(message) {
     const hidewords = [
         'communist',
