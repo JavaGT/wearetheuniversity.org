@@ -99,7 +99,6 @@ if (gallery) {
         });
     // }
 
-    // add images 1-57 to the gallery
     for (let i = 1; i <= 45; i++) {
         let el = document.createElement('img');
         el.src = `./postcard-images/${i}.jpeg`;
