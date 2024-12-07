@@ -654,3 +654,17 @@ blockquote *:first-child {
 .footer a:hover {
     color: var(--text-highlight);
 }
+
+.box {
+    padding: 0.5rem;
+    border-radius: 0.05rem;
+    margin: 1rem;
+}
+
+.box.white-box {
+    background-color: white;
+    color: black;
+}
+.box.white-box a {
+    color: black;
+}
