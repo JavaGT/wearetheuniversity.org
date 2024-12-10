@@ -6,6 +6,8 @@ author: SAANZ
 author-slug: saanz
 ---
 
+[Source](/media/SAANZ Press Release on Marsden_10.12.2024.pdf)
+
 10th December 2024
 
 #### Press release
