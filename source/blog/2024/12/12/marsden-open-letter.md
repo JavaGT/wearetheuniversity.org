@@ -30,6 +30,7 @@ We are the university.
 
 
 #### More on the topic
+* [Suze Wilson – Cuts to research funding will lead the country on to the rocks](https://www.thepost.co.nz/nz-news/360515729/cuts-research-funding-will-lead-country-rocks)
 * [Shanti Mathias (The Spinoff) – The changes to research funding in Aotearoa, explained](https://thespinoff.co.nz/science/05-12-2024/the-changes-to-research-funding-in-aotearoa-explained/)
 * [Juliet Gerrard (The Spinoff) – Funding the whole pie](https://thespinoff.co.nz/society/05-12-2024/juliet-gerrard-funding-the-whole-pie)
 * [Anne Salmond (Newsroom) – Govt de-funding the mind](https://newsroom.co.nz/2024/12/05/anne-salmond-govt-de-funding-the-mind/)
