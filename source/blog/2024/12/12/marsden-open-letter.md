@@ -36,6 +36,8 @@ We are the university.
 * [Anne Salmond (Newsroom) – Govt de-funding the mind](https://newsroom.co.nz/2024/12/05/anne-salmond-govt-de-funding-the-mind/)
 * [Nicola Gaston (The Conversation) – Funding research for economic return sounds good, but that's not how science really works](https://theconversation.com/funding-research-for-economic-return-sounds-good-but-thats-not-how-science-really-works-245269)
 * [Tom Baker (Newsroom) – Marsden Fund cuts a win for convenient evidence](https://newsroom.co.nz/2024/12/06/marsden-fund-cuts-a-win-for-convenient-evidence/)
+* [Marsden Fund cuts will disproportionately affect Māori researchers – Expert Reaction](https://www.sciencemediacentre.co.nz/2024/12/10/marsden-fund-cuts-will-disproportionately-affect-maori-researchers-expert-reaction/)
+* [The Marsden Fund already provides economic returns, so don't break what isn't broken, Richard Easther argues](https://www.interest.co.nz/technology/131163/marsden-fund-already-provides-economic-returns-so-dont-break-what-isnt-broken)
 * [SAANZ Statement on the disbanding of the humanities and social sciences panels of the Marsden Fund](/2024/12/10/saanz-marsden-press-release/)
 * [RNZ – Government's Marsden Fund cuts all humanities, social sciences research funding slashed](https://www.rnz.co.nz/news/national/535669/government-s-marsden-fund-cuts-all-humanities-social-sciences-research-funding-slashed)
 * [Pretoria Gordon & Mary Argue (1 News) – Govt slashes Marsden Fund money for humanities, social sciences](https://www.1news.co.nz/2024/12/04/govt-slashes-marsden-fund-money-for-humanities-social-sciences/)
