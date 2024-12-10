@@ -1,0 +1,1714 @@
+{
+  "resource": [
+    {
+      "discoveryId": "1047886",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "doi": "10.4324/9781003431466-12",
+      "pagination": "165-177",
+      "parentTitle": "Contemporary Perspectives on Freud's Seduction Theory and Psychotherapy",
+      "publicationDate": {
+        "year": 2024,
+        "month": 8,
+        "day": 16,
+        "dateTime": "2024-08-16T00:00:00+12:00"
+      },
+      "publisher": "Taylor & Francis",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2024,
+        "month": 8,
+        "day": 16,
+        "dateTime": "2024-08-16T00:00:00+12:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 1047886,
+      "discoveryUrlId": "1047886",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Law and Legal Studies"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Legal Systems"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Creative Arts and Writing"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T02:37:56.3129721+13:00",
+      "title": "The Assault on Truth in the Academy"
+    },
+    {
+      "discoveryId": "973462",
+      "authors": [
+        {
+          "nameShortFormat": "McLeay R",
+          "firstNameLastName": "Roberto McLeay",
+          "fullName": "Roberto McLeay",
+          "resolvedUser": {
+            "objectId": 55657,
+            "discoveryId": "55657",
+            "discoveryUrlId": "roberto-mcleay"
+          }
+        },
+        {
+          "nameShortFormat": "Powell D",
+          "firstNameLastName": "Darren Powell",
+          "fullName": "Darren Powell",
+          "resolvedUser": {
+            "objectId": 21724,
+            "discoveryId": "21724",
+            "discoveryUrlId": "d-powell"
+          }
+        },
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "doi": "10.1080/09518398.2023.2233945",
+      "issn": "0951-8398",
+      "issue": "2",
+      "journal": "International Journal of Qualitative Studies in Education",
+      "pagination": "342-357",
+      "publicationDate": {
+        "year": 2024,
+        "month": 2,
+        "day": 7,
+        "dateTime": "2024-02-07T00:00:00+13:00"
+      },
+      "publisher": "Taylor & Francis",
+      "volume": "37",
+      "objectTypeDisplayName": "Journal article",
+      "objectTypeSortIndex": 12,
+      "date1": {
+        "year": 2024,
+        "month": 2,
+        "day": 7,
+        "dateTime": "2024-02-07T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [
+        21724
+      ],
+      "objectId": 973462,
+      "discoveryUrlId": "973462",
+      "linkedObjectIds": {
+        "users": [
+          55657,
+          37,
+          21724
+        ]
+      },
+      "labels": [
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Education"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Specialist studies in education"
+        },
+        {
+          "schemeDisplayName": "UK Health Research Classification System Research Activity Code",
+          "value": "1.2 Psychological and socioeconomic processes"
+        },
+        {
+          "schemeDisplayName": "UN Sustainable Development Goals",
+          "value": "4 Quality Education"
+        },
+        {
+          "value": "Social Sciences"
+        },
+        {
+          "value": "Education & Educational Research"
+        },
+        {
+          "value": "Emotions"
+        },
+        {
+          "value": "Foucault"
+        },
+        {
+          "value": "psy-professionals"
+        },
+        {
+          "value": "school"
+        },
+        {
+          "value": "wellbeing"
+        },
+        {
+          "value": "HEALTH-PROMOTION"
+        },
+        {
+          "value": "MENTAL-HEALTH"
+        },
+        {
+          "value": "EDUCATION"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Specialist Studies in Education"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Sociology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Education policy, sociology and philosophy"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Education systems"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-07T07:48:14.7001223+13:00",
+      "title": "Young people’s voices on emotions: a narrative inquiry"
+    },
+    {
+      "discoveryId": "868777",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BM",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce MZ Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        },
+        {
+          "nameShortFormat": "Hartmann R",
+          "firstNameLastName": "Rearna Hartmann",
+          "fullName": "Rearna Hartmann"
+        }
+      ],
+      "doi": "10.1177/14407833211043570",
+      "issn": "0004-8690",
+      "issue": "2",
+      "journal": "Journal of Sociology",
+      "pagination": "349-364",
+      "publicationDate": {
+        "year": 2023,
+        "month": 6,
+        "dateTime": "2023-06-01T00:00:00+12:00"
+      },
+      "publicUrl": "https://hdl.handle.net/2292/57420",
+      "publisher": "SAGE Publications",
+      "volume": "59",
+      "objectTypeDisplayName": "Journal article",
+      "objectTypeSortIndex": 12,
+      "date1": {
+        "year": 2023,
+        "month": 6,
+        "day": 1,
+        "dateTime": "2023-06-01T00:00:00+12:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 868777,
+      "discoveryUrlId": "868777",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Gender Studies"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Sociology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Human society"
+        },
+        {
+          "schemeDisplayName": "Research, Condition and Disease Categorization",
+          "value": "Women's Health"
+        },
+        {
+          "schemeDisplayName": "Research, Condition and Disease Categorization",
+          "value": "Mental Illness"
+        },
+        {
+          "schemeDisplayName": "Research, Condition and Disease Categorization",
+          "value": "Mental Health"
+        },
+        {
+          "schemeDisplayName": "Research, Condition and Disease Categorization",
+          "value": "Behavioral and Social Science"
+        },
+        {
+          "schemeDisplayName": "Research, Condition and Disease Categorization",
+          "value": "Brain Disorders"
+        },
+        {
+          "schemeDisplayName": "UK Health Research Classification System Health Category",
+          "value": "Mental health"
+        },
+        {
+          "schemeDisplayName": "UN Sustainable Development Goals",
+          "value": "3 Good Health and Well Being"
+        },
+        {
+          "schemeDisplayName": "UN Sustainable Development Goals",
+          "value": "5 Gender Equality"
+        },
+        {
+          "value": "Social Sciences"
+        },
+        {
+          "value": "Sociology"
+        },
+        {
+          "value": "capitalism"
+        },
+        {
+          "value": "gender"
+        },
+        {
+          "value": "labelling"
+        },
+        {
+          "value": "mental health"
+        },
+        {
+          "value": "neoliberalism"
+        },
+        {
+          "value": "patriarchy"
+        },
+        {
+          "value": "PREMENSTRUAL-SYNDROME"
+        },
+        {
+          "value": "DSM-5"
+        },
+        {
+          "value": "HETEROGENEITY"
+        },
+        {
+          "value": "CONSTRUCTIONS"
+        },
+        {
+          "value": "FEMININITY"
+        },
+        {
+          "value": "1606 Political Science"
+        },
+        {
+          "value": "1608 Sociology"
+        },
+        {
+          "value": "2002 Cultural Studies"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Political Science"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Sociology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Cultural Studies"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-07T07:05:43.0763573+13:00",
+      "title": "The ‘feminisation’ of psychiatric discourse: A Marxist analysis of women’s roles in neoliberal society"
+    },
+    {
+      "discoveryId": "960166",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "doi": "10.1007/978-3-030-83745-7_6",
+      "pagination": "129-145",
+      "parentTitle": "Troubled Persons Industries",
+      "publicationDate": {
+        "year": 2022,
+        "dateTime": "2022-01-01T00:00:00+13:00"
+      },
+      "publisher": "Springer Nature",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2022,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2022-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 960166,
+      "discoveryUrlId": "960166",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Clinical and Health Psychology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Psychology"
+        },
+        {
+          "schemeDisplayName": "Research, Condition and Disease Categorization",
+          "value": "Mental Illness"
+        },
+        {
+          "schemeDisplayName": "Research, Condition and Disease Categorization",
+          "value": "Mental Health"
+        },
+        {
+          "schemeDisplayName": "Research, Condition and Disease Categorization",
+          "value": "Brain Disorders"
+        },
+        {
+          "schemeDisplayName": "UK Health Research Classification System Health Category",
+          "value": "Mental health"
+        },
+        {
+          "schemeDisplayName": "UN Sustainable Development Goals",
+          "value": "3 Good Health and Well Being"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-07T08:58:48.3633490+13:00",
+      "title": "Psychiatric Expansion and the Rise of Workplace Mental Health Initiatives"
+    },
+    {
+      "discoveryId": "789520",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "doi": "10.1057/s41285-019-00126-9",
+      "issn": "1477-8211",
+      "issue": "2",
+      "journal": "Social Theory & Health",
+      "pagination": "201-204",
+      "publicationDate": {
+        "year": 2021,
+        "month": 6,
+        "dateTime": "2021-06-01T00:00:00+12:00"
+      },
+      "publisher": "Springer Nature",
+      "volume": "19",
+      "objectTypeDisplayName": "Journal article",
+      "objectTypeSortIndex": 12,
+      "date1": {
+        "year": 2019,
+        "month": 12,
+        "day": 2,
+        "dateTime": "2019-12-02T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 789520,
+      "discoveryUrlId": "789520",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Health services and systems"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Health Sciences"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Public health"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Human Society"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Sociology"
+        },
+        {
+          "value": "Social Sciences"
+        },
+        {
+          "value": "Social Sciences, Biomedical"
+        },
+        {
+          "value": "Biomedical Social Sciences"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Public Health and Health Services"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Anthropology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Sociology"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T02:10:15.9711645+13:00",
+      "title": "Health care beyond neoliberalism?"
+    },
+    {
+      "discoveryId": "793902",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "doi": "10.1057/s41285-020-00128-y",
+      "issn": "1477-8211",
+      "journal": "Social Theory & Health",
+      "pagination": "1",
+      "publicationDate": {
+        "year": 2020,
+        "month": 1,
+        "day": 23,
+        "dateTime": "2020-01-23T00:00:00+13:00"
+      },
+      "publisher": "Springer Nature",
+      "objectTypeDisplayName": "Journal article",
+      "objectTypeSortIndex": 12,
+      "date1": {
+        "year": 2020,
+        "month": 1,
+        "day": 23,
+        "dateTime": "2020-01-23T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 793902,
+      "discoveryUrlId": "793902",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Health services and systems"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Health Sciences"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Public health"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Human Society"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Sociology"
+        },
+        {
+          "schemeDisplayName": "UN Sustainable Development Goals",
+          "value": "3 Good Health and Well Being"
+        },
+        {
+          "value": "Social Sciences"
+        },
+        {
+          "value": "Social Sciences, Biomedical"
+        },
+        {
+          "value": "Biomedical Social Sciences"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Public Health and Health Services"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Anthropology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Sociology"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-07T11:51:04.5976357+13:00",
+      "title": "Correction to: Health care beyond neoliberalism?"
+    },
+    {
+      "discoveryId": "753202",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "doi": "10.1080/17522439.2018.1472629",
+      "issn": "1752-2439",
+      "issue": "3",
+      "journal": "Psychosis",
+      "pagination": "236",
+      "publicationDate": {
+        "year": 2018,
+        "month": 7,
+        "day": 3,
+        "dateTime": "2018-07-03T00:00:00+12:00"
+      },
+      "publisher": "Taylor & Francis",
+      "volume": "10",
+      "objectTypeDisplayName": "Journal article",
+      "objectTypeSortIndex": 12,
+      "date1": {
+        "year": 2018,
+        "month": 7,
+        "day": 3,
+        "dateTime": "2018-07-03T00:00:00+12:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 753202,
+      "discoveryUrlId": "753202",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Biomedical and Clinical Sciences"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Applied and developmental psychology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Clinical and health psychology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Clinical sciences"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Psychology"
+        },
+        {
+          "value": "Social Sciences"
+        },
+        {
+          "value": "Science & Technology"
+        },
+        {
+          "value": "Life Sciences & Biomedicine"
+        },
+        {
+          "value": "Psychology, Clinical"
+        },
+        {
+          "value": "Psychiatry"
+        },
+        {
+          "value": "Psychology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Clinical Sciences"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Public Health and Health Services"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Psychology"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T02:52:51.6304189+13:00",
+      "title": "Madness: ideas about insanity"
+    },
+    {
+      "discoveryId": "922857",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "doi": "10.4324/9781315399584-1",
+      "pagination": "1-12",
+      "parentTitle": "Routledge International Handbook of Critical Mental Health",
+      "publicationDate": {
+        "year": 2017,
+        "month": 9,
+        "day": 22,
+        "dateTime": "2017-09-22T00:00:00+12:00"
+      },
+      "publisher": "Routledge",
+      "publisherUrl": "https://doi.org/10.4324/9781315399584-1",
+      "objectTypeDisplayName": "Book",
+      "objectTypeSortIndex": 2,
+      "date1": {
+        "year": 2017,
+        "month": 9,
+        "day": 22,
+        "dateTime": "2017-09-22T00:00:00+12:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 922857,
+      "discoveryUrlId": "922857",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-07T08:22:34.0083282+13:00",
+      "title": "Introduction"
+    },
+    {
+      "discoveryId": "922858",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "doi": "10.4324/9781315399584-7",
+      "pagination": "46-55",
+      "parentTitle": "Routledge International Handbook of Critical Mental Health",
+      "publicationDate": {
+        "year": 2017,
+        "month": 9,
+        "day": 22,
+        "dateTime": "2017-09-22T00:00:00+12:00"
+      },
+      "publisher": "Taylor & Francis",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2017,
+        "month": 9,
+        "day": 22,
+        "dateTime": "2017-09-22T00:00:00+12:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 922858,
+      "discoveryUrlId": "922858",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Commercial Law"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Law and Legal Studies"
+        },
+        {
+          "schemeDisplayName": "Research, Condition and Disease Categorization",
+          "value": "Mental Illness"
+        },
+        {
+          "schemeDisplayName": "Research, Condition and Disease Categorization",
+          "value": "Mental Health"
+        },
+        {
+          "schemeDisplayName": "Research, Condition and Disease Categorization",
+          "value": "Brain Disorders"
+        },
+        {
+          "schemeDisplayName": "UK Health Research Classification System Health Category",
+          "value": "Mental health"
+        },
+        {
+          "schemeDisplayName": "UN Sustainable Development Goals",
+          "value": "3 Good Health and Well Being"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-07T08:22:33.1006414+13:00",
+      "title": "Marxist theory"
+    },
+    {
+      "discoveryId": "648948",
+      "editors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce M Z Cohen"
+        }
+      ],
+      "doi": "10.4324/9781315399584",
+      "publicationDate": {
+        "year": 2017,
+        "month": 9,
+        "day": 22,
+        "dateTime": "2017-09-22T00:00:00+12:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38389",
+      "publisher": "Routledge",
+      "publisherUrl": "https://doi.org/10.4324/9781315399584",
+      "objectTypeDisplayName": "Book",
+      "objectTypeSortIndex": 2,
+      "date1": {
+        "year": 2017,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2017-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 648948,
+      "discoveryUrlId": "648948",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-07T08:23:36.3055372+13:00",
+      "title": "Routledge International Handbook of Critical Mental Health"
+    },
+    {
+      "discoveryId": "648982",
+      "authors": [
+        {
+          "nameShortFormat": "Boslaugh SE",
+          "firstNameLastName": "Sarah Boslaugh",
+          "fullName": "Sarah E Boslaugh"
+        }
+      ],
+      "doi": "10.4135/9781483349985.n122",
+      "parentTitle": "The SAGE Encyclopedia of Pharmacology and Society",
+      "publicationDate": {
+        "year": 2016,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2016-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38408",
+      "publisher": "SAGE Publications",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2016,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2016-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 648982,
+      "discoveryUrlId": "648982",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "value": "Health & Fitness"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-07T12:19:16.8568753+13:00",
+      "title": "Cosmetic Pharmacology"
+    },
+    {
+      "discoveryId": "648968",
+      "authors": [
+        {
+          "nameShortFormat": "Boslaugh SE",
+          "firstNameLastName": "Sarah Boslaugh",
+          "fullName": "Sarah E Boslaugh"
+        }
+      ],
+      "doi": "10.4135/9781483349985.n208",
+      "parentTitle": "The SAGE Encyclopedia of Pharmacology and Society",
+      "publicationDate": {
+        "year": 2016,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2016-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38404",
+      "publisher": "SAGE Publications",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2016,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2016-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 648968,
+      "discoveryUrlId": "648968",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "value": "Health & Fitness"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-07T12:24:29.3744227+13:00",
+      "title": "Indigenous And Ethnic Minorities: Aotearoa New Zealand"
+    },
+    {
+      "discoveryId": "632264",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen B",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "pagination": "241 pages",
+      "publicationDate": {
+        "year": 2016,
+        "dateTime": "2016-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38541",
+      "publisher": "Palgrave Macmillan",
+      "objectTypeDisplayName": "Book",
+      "objectTypeSortIndex": 2,
+      "date1": {
+        "year": 2016,
+        "month": 11,
+        "day": 21,
+        "dateTime": "2016-11-21T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 632264,
+      "discoveryUrlId": "632264",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "value": "Psychology"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T01:55:25.1412249+13:00",
+      "title": "Psychiatric hegemony: A Marxist theory of mental illness"
+    },
+    {
+      "discoveryId": "648952",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "doi": "10.1353/ppp.2016.0034",
+      "issn": "1071-6076",
+      "issue": "3",
+      "journal": "Philosophy Psychiatry & Psychology",
+      "pagination": "301-303",
+      "publicationDate": {
+        "year": 2016,
+        "dateTime": "2016-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38393",
+      "publisher": "Johns Hopkins University Press",
+      "volume": "23",
+      "objectTypeDisplayName": "Journal article",
+      "objectTypeSortIndex": 12,
+      "date1": {
+        "year": 2016,
+        "month": 9,
+        "day": 1,
+        "dateTime": "2016-09-01T00:00:00+12:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 648952,
+      "discoveryUrlId": "648952",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Psychology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Clinical and health psychology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Applied and Developmental Psychology"
+        },
+        {
+          "schemeDisplayName": "Research, Condition and Disease Categorization",
+          "value": "Mental Health"
+        },
+        {
+          "schemeDisplayName": "UK Health Research Classification System Health Category",
+          "value": "Mental health"
+        },
+        {
+          "schemeDisplayName": "UN Sustainable Development Goals",
+          "value": "3 Good Health and Well Being"
+        },
+        {
+          "value": "Arts & Humanities"
+        },
+        {
+          "value": "Philosophy"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Psychology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Cognitive Sciences"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Philosophy"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Philosophy"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T08:57:41.7450521+13:00",
+      "title": "The psychiatric hegemon and the limits of resistance"
+    },
+    {
+      "discoveryId": "495342",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        },
+        {
+          "nameShortFormat": "Allison W",
+          "firstNameLastName": "W Allison",
+          "fullName": "W Allison"
+        }
+      ],
+      "issn": "0112-921X",
+      "issue": "1",
+      "journal": "New Zealand Sociology",
+      "pagination": "10-29",
+      "publicationDate": {
+        "year": 2015,
+        "month": 7,
+        "day": 1,
+        "dateTime": "2015-07-01T00:00:00+12:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/40454",
+      "volume": "30",
+      "objectTypeDisplayName": "Journal article",
+      "objectTypeSortIndex": 12,
+      "date1": {
+        "year": 2015,
+        "month": 7,
+        "day": 1,
+        "dateTime": "2015-07-01T00:00:00+12:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 495342,
+      "discoveryUrlId": "495342",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "schemeDisplayName": "Fields of Research (2008)",
+          "value": "Sociology"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Development studies"
+        },
+        {
+          "schemeDisplayName": "Fields of Research (2020)",
+          "value": "Sociology"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T01:45:42.5631513+13:00",
+      "title": "Pills, thrills and bellyaches: The effects of criminalising a ‘legal high’ in aotearoa New Zealand"
+    },
+    {
+      "discoveryId": "648910",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BM",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "pagination": "xxxiii-212",
+      "publicationDate": {
+        "year": 2015,
+        "dateTime": "2015-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38542",
+      "publisher": "Palgrave Macmillan",
+      "objectTypeDisplayName": "Book",
+      "objectTypeSortIndex": 2,
+      "date1": {
+        "year": 2015,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2015-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 648910,
+      "discoveryUrlId": "648910",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T01:56:40.8142388+13:00",
+      "title": "Mental Health User Narratives: New Perspectives on Illness and Recovery"
+    },
+    {
+      "discoveryId": "366318",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BM",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "editors": [
+        {
+          "nameShortFormat": "Scull A",
+          "firstNameLastName": "A Scull",
+          "fullName": "A Scull"
+        }
+      ],
+      "parentTitle": "Cultural Sociology of Mental Illness: An A-to-Z Guide",
+      "publicationDate": {
+        "year": 2014,
+        "dateTime": "2014-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38535",
+      "publisher": "SAGE",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2014,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2014-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 366318,
+      "discoveryUrlId": "366318",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T01:34:36.3541443+13:00",
+      "title": "Emil Kraepelin"
+    },
+    {
+      "discoveryId": "486499",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "doi": "10.4324/9781315848556",
+      "pagination": "190-192",
+      "parentTitle": "Shades of Deviance: A Primer on Crime, Deviance and Social Harm",
+      "publicationDate": {
+        "year": 2014,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2014-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38534",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2014,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2014-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 486499,
+      "discoveryUrlId": "486499",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T01:44:26.8125573+13:00",
+      "title": "Mental health and ‘emotional deviance’"
+    },
+    {
+      "discoveryId": "648922",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BM",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "authorUrl": "https://dgsjournal.org/volume-1-no-2/",
+      "issn": "2050-7364",
+      "issue": "2",
+      "journal": "Disability and the Global South",
+      "pagination": "319-339 (21 pages)",
+      "publicationDate": {
+        "year": 2014,
+        "dateTime": "2014-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38386",
+      "repositoryPdfUrl": "https://researchspace.auckland.ac.nz/rest/bitstreams/67299d05-f646-4d44-91ab-692491bc43a1/retrieve",
+      "volume": "1",
+      "objectTypeDisplayName": "Journal article",
+      "objectTypeSortIndex": 12,
+      "date1": {
+        "year": 2014,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2014-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 648922,
+      "discoveryUrlId": "648922",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T01:56:40.8142388+13:00",
+      "title": "Passive-Aggressive: Māori Resistance and the Continuance of Colonial Psychiatry in Aotearoa New Zealand"
+    },
+    {
+      "discoveryId": "648963",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        },
+        {
+          "nameShortFormat": "Tseris E",
+          "firstNameLastName": "E Tseris",
+          "fullName": "E Tseris"
+        }
+      ],
+      "editors": [
+        {
+          "nameShortFormat": "Scull A",
+          "firstNameLastName": "A Scull",
+          "fullName": "A Scull"
+        }
+      ],
+      "authorUrl": "https://us.sagepub.com/en-us/nam/cultural-sociology-of-mental-illness/book239302",
+      "pagination": "687-691",
+      "parentTitle": "Cultural sociology of mental illness: An A-to-Z guide",
+      "publicationDate": {
+        "year": 2014,
+        "dateTime": "2014-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38402",
+      "publisher": "SAGE Reference",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2014,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2014-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 648963,
+      "discoveryUrlId": "648963",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "labels": [
+        {
+          "value": "Reference"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T01:56:41.9272781+13:00",
+      "title": "Psychiatric social work"
+    },
+    {
+      "discoveryId": "366317",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BM",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "editors": [
+        {
+          "nameShortFormat": "Davies F",
+          "firstNameLastName": "F Davies",
+          "fullName": "F Davies"
+        },
+        {
+          "nameShortFormat": "Gonzalez L",
+          "firstNameLastName": "L Gonzalez",
+          "fullName": "L Gonzalez"
+        }
+      ],
+      "authorUrl": "https://www.interdisciplinarypress.net/online-store/medical-humanities/madness-women-and-the-power-of-art",
+      "parentTitle": "Madness, Women and the Power of Art",
+      "publicationDate": {
+        "year": 2013,
+        "dateTime": "2013-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38538",
+      "publisher": "Inter-Disciplinary Press",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2013,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2013-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 366317,
+      "discoveryUrlId": "366317",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T01:34:36.3541443+13:00",
+      "title": "Psychiatric Hegemony: A Marxist view on social constructionism"
+    },
+    {
+      "discoveryId": "366316",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BM",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "doi": "10.1163/9781848882034_008",
+      "parentTitle": "Beyond these walls: confronting madness in society, literature and art",
+      "publicationDate": {
+        "year": 2013,
+        "dateTime": "2013-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38540",
+      "publisher": "Inter-Disciplinary.Net",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2013,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2013-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 366316,
+      "discoveryUrlId": "366316",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-07T10:17:50.2038553+13:00",
+      "title": "The Power of Madness: A Marxist critique of social constructionism"
+    },
+    {
+      "discoveryId": "366310",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BM",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        },
+        {
+          "nameShortFormat": "Muhamad-Brandner C",
+          "firstNameLastName": "C Muhamad-Brandner",
+          "fullName": "C Muhamad-Brandner"
+        }
+      ],
+      "editors": [
+        {
+          "nameShortFormat": "Morgan G",
+          "firstNameLastName": "G Morgan",
+          "fullName": "G Morgan"
+        },
+        {
+          "nameShortFormat": "Poynting S",
+          "firstNameLastName": "S Poynting",
+          "fullName": "S Poynting"
+        }
+      ],
+      "number": "1",
+      "pagination": "15-33",
+      "parentTitle": "Global Islamophobia Muslims and moral panic in the West",
+      "publicationDate": {
+        "year": 2012,
+        "dateTime": "2012-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38445",
+      "publisher": "Ashgate",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2012,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2012-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 366310,
+      "discoveryUrlId": "366310",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T01:34:36.3541443+13:00",
+      "title": "A school for scandal: Rütli High School and the German press"
+    },
+    {
+      "discoveryId": "366309",
+      "editors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "pagination": "i-412",
+      "publicationDate": {
+        "year": 2012,
+        "dateTime": "2012-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38533",
+      "publisher": "Pearson Originals",
+      "repositoryPdfUrl": "https://researchspace.auckland.ac.nz/rest/bitstreams/ea6f2588-88bd-44d4-be57-7ff368431726/retrieve",
+      "objectTypeDisplayName": "Book",
+      "objectTypeSortIndex": 2,
+      "date1": {
+        "year": 2012,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2012-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 366309,
+      "discoveryUrlId": "366309",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T01:34:36.3541443+13:00",
+      "title": "Being cultural"
+    },
+    {
+      "discoveryId": "366311",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "editors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Z Cohen"
+        }
+      ],
+      "number": "1",
+      "pagination": "5-19",
+      "parentTitle": "Being cultural",
+      "publicationDate": {
+        "year": 2012,
+        "dateTime": "2012-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38492",
+      "publisher": "Pearson Originals",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2012,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2012-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 366311,
+      "discoveryUrlId": "366311",
+      "linkedObjectIds": {
+        "users": [
+          37
+        ]
+      },
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T01:34:36.3541443+13:00",
+      "title": "Cultural Studies and Sociology: Early developments and keywords"
+    },
+    {
+      "discoveryId": "649209",
+      "authors": [
+        {
+          "nameShortFormat": "Cohen B",
+          "firstNameLastName": "Bruce Cohen",
+          "fullName": "Bruce Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "editors": [
+        {
+          "nameShortFormat": "Cohen BMZ",
+          "firstNameLastName": "B Cohen",
+          "fullName": "B M Z Cohen",
+          "resolvedUser": {
+            "objectId": 37,
+            "discoveryId": "37",
+            "discoveryUrlId": "b-cohen"
+          }
+        }
+      ],
+      "authorUrl": "http://www.pearsoned.co.nz/9781442547698",
+      "pagination": "252-265",
+      "parentTitle": "Being Cultural",
+      "publicationDate": {
+        "year": 2012,
+        "dateTime": "2012-01-01T00:00:00+13:00"
+      },
+      "publicUrl": "http://hdl.handle.net/2292/38427",
+      "publisher": "Pearson",
+      "objectTypeDisplayName": "Chapter",
+      "objectTypeSortIndex": 3,
+      "date1": {
+        "year": 2012,
+        "month": 1,
+        "day": 1,
+        "dateTime": "2012-01-01T00:00:00+13:00"
+      },
+      "favouritedByUserIds": [],
+      "objectId": 649209,
+      "discoveryUrlId": "649209",
+      "linkedObjectIds": {
+        "users": [
+          37,
+          37
+        ]
+      },
+      "labels": [
+        {
+          "value": "Culture"
+        }
+      ],
+      "hasThumbnail": false,
+      "updatedWhen": "2024-12-06T01:56:43.0948929+13:00",
+      "title": "Technology, Popular Culture and Kraftwerk"
+    }
+  ],
+  "pagination": {
+    "startFrom": 0,
+    "perPage": 50,
+    "total": 26,
+    "totalIsLowerBound": false
+  },
+  "sort": "dateDesc",
+  "favouritesFirst": true
+}

@@ -662,9 +662,10 @@ blockquote *:first-child {
 }
 
 .box.white-box {
-    background-color: white;
-    color: black;
+    background-color: #fff3;
+    /* color: black; */
 }
-.box.white-box a {
+
+/* .box.white-box a {
     color: black;
-}
+} */
