@@ -30,6 +30,14 @@ We are the university.
 
 
 #### More on the topic
+* [Nic Smith – People can’t be measured on a balance sheet](https://newsroom.co.nz/2024/12/12/people-cant-be-measured-on-a-balance-sheet/)
+* [Selina Tusitala Marsh – Arts don’t just decorate knowledge, they deepen it](https://www.auckland.ac.nz/en/news/2024/12/09/Arts-dont-just-decorate-knowledge.html)
+* [Anne Salmond – Research cuts an own goal](https://newsroom.co.nz/2024/12/10/anne-salmond-research-cuts-an-own-goal/)
+* [Jenny Sinclair – ‘Horrified’: researchers respond to Marsden Fund changes](https://www.researchprofessionalnews.com/rr-news-new-zealand-2024-12-horrified-sector-responds-to-marsden-changes/)
+* [Atereano Mateariki – Māori research funding cuts don’t surprise experts](https://waateanews.com/2024/12/10/maori-research-funding-cuts-dont-surprise-experts/)
+* [Linda Waimarie Nikora – Fury over Marsden Fund cut](https://www.rnz.co.nz/national/programmes/saturday/audio/2018968397/fury-over-marsden-fund-cut)
+* [Mary Argue – Researchers pen scathing open letter to Minister over Marsden Fund changes](https://www.rnz.co.nz/news/national/536398/researchers-pen-scathing-open-letter-to-minister-over-marsden-fund-changes)
+* [Matthew Scobie & Anna Sturman – We underestimated the scale of the attack](https://e-tangata.co.nz/comment-and-analysis/we-underestimated-the-scale-of-the-attack/?utm_source=twitter&utm_medium=social&utm_campaign=16Dec2024)
 * [Suze Wilson – Cuts to research funding will lead the country on to the rocks](https://www.thepost.co.nz/nz-news/360515729/cuts-research-funding-will-lead-country-rocks)
 * [Shanti Mathias (The Spinoff) – The changes to research funding in Aotearoa, explained](https://thespinoff.co.nz/science/05-12-2024/the-changes-to-research-funding-in-aotearoa-explained/)
 * [Juliet Gerrard (The Spinoff) – Funding the whole pie](https://thespinoff.co.nz/society/05-12-2024/juliet-gerrard-funding-the-whole-pie)
