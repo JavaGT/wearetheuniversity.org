@@ -32,6 +32,7 @@ We are the university.
 
 
 #### More on the topic
+* [Joint Statement by 80 Rutherford Discovery Fellows Denouncing the Minister’s Decision to Cut Humanities, Social Science, and Fundamental Science Funding](https://docs.google.com/document/d/1nXIU9hEec0FzXtrhnqYdEtRMrw-5WNFGDIFf4F_r76g/edit?pli=1&tab=t.0)
 * [Nic Smith – People can’t be measured on a balance sheet](https://newsroom.co.nz/2024/12/12/people-cant-be-measured-on-a-balance-sheet/)
 * [Selina Tusitala Marsh – Arts don’t just decorate knowledge, they deepen it](https://www.auckland.ac.nz/en/news/2024/12/09/Arts-dont-just-decorate-knowledge.html)
 * [Anne Salmond – Research cuts an own goal](https://newsroom.co.nz/2024/12/10/anne-salmond-research-cuts-an-own-goal/)
