@@ -6,6 +6,8 @@ author: We Are The University
 author-slug: we-are-the-university
 ---
 
+Update: [The Royal Society, who administers the Marsden Fund, has released a statement in response to the cuts.](https://www.royalsociety.org.nz/news/open-letter-on-importance-of-the-social-sciences-and-humanities/) & [Marsden Fund controversy: Peak science body urges PM to reconsider research funding cuts](https://www.nzherald.co.nz/nz/marsden-fund-controversy-peak-science-body-urges-pm-to-reconsider-research-funding-cuts/MM2XODIB6VGIRO3MFVTLD3YJLI/)
+
 #### We Are The University Open Letter
 
 #### Cuts to Marsden Funding for Humanities and Social Sciences
