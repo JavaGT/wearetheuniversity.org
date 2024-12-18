@@ -32,6 +32,11 @@ We are the university.
 
 
 #### More on the topic
+* [Letters to the Editor: the Marsden Fund and the hospital](https://www.odt.co.nz/opinion/letters-editor-marsden-fund-and-hospital)
+* [Humanities, social sciences, bring in dollars too](https://www.odt.co.nz/opinion/humanities-social-sciences-bring-dollars-too)
+* [Changes to govt science funding ‘cut to innovation’](https://www.odt.co.nz/news/dunedin/changes-govt-science-funding-%E2%80%98cut-innovation%E2%80%99)
+* [Not the Minister’s place](https://www.thepress.co.nz/nz-news/360516794/press-letters-editor-wednesday-december-11)
+* [What can we learn from Australia’s version of the Marsden Fund furore?](https://thespinoff.co.nz/society/17-12-2024/what-can-we-learn-from-australias-version-of-the-marsden-fund-furore)
 * [Joint Statement by 80 Rutherford Discovery Fellows Denouncing the Minister’s Decision to Cut Humanities, Social Science, and Fundamental Science Funding](https://docs.google.com/document/d/1nXIU9hEec0FzXtrhnqYdEtRMrw-5WNFGDIFf4F_r76g/edit?pli=1&tab=t.0)
 * [Nic Smith – People can’t be measured on a balance sheet](https://newsroom.co.nz/2024/12/12/people-cant-be-measured-on-a-balance-sheet/)
 * [Selina Tusitala Marsh – Arts don’t just decorate knowledge, they deepen it](https://www.auckland.ac.nz/en/news/2024/12/09/Arts-dont-just-decorate-knowledge.html)
@@ -58,6 +63,7 @@ We are the university.
 * [Devdiscourse – Judith Collins announces updated Marsden Fund to focus on core scientific research](https://www.devdiscourse.com/article/education/3180855-judith-collins-announces-updated-marsden-fund-to-focus-on-core-scientific-research)
 * [Interest.co.nz – Government's Marsden and Catalyst changes are defunding our ability to understand and respond to the world](https://www.interest.co.nz/technology/131098/governments-marsden-and-catalyst-changes-are-defunding-our-ability-understand-and)
 * [NZCTU – Marsden Fund changes will undermine prosperity and social cohesion](https://union.org.nz/marsden-fund-changes-will-undermine-prosperity-and-social-cohesion/)
+* [Danyl McLauchlan: Science or economics? Collins’ Marsden Fund shift raises questions](https://www.removepaywall.com/search?url=https://www.nzherald.co.nz/the-listener/politics/danyl-mclauchlan-science-or-economics-collins-marsden-fund-shift-raises-questions/CL6OATHDTBCQDCS3SXY3WCDCCU/)
 * [Waatea News – Marsden Fund changes spark researcher backlash](https://waateanews.com/2024/12/05/marsden-fund-changes-spark-researcher-backlash/)
 * [PRESS RELEASE Cuts to Humanities and Social Sciences Research Will Impact Māori Most](https://www.maramatanga.ac.nz/node/2167)
 * [PRESS RELEASE Cuts to Humanities and Social Sciences Research Will Impact Māori Most](https://www.maramatanga.ac.nz/media/7281/download?inline)
