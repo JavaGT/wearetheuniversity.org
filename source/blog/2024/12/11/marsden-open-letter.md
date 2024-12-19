@@ -6,7 +6,14 @@ author: We Are The University
 author-slug: we-are-the-university
 ---
 
-Update: [The Royal Society, who administers the Marsden Fund, has released a statement in response to the cuts.](https://www.royalsociety.org.nz/news/open-letter-on-importance-of-the-social-sciences-and-humanities/) & [Marsden Fund controversy: Peak science body urges PM to reconsider research funding cuts](https://www.nzherald.co.nz/nz/marsden-fund-controversy-peak-science-body-urges-pm-to-reconsider-research-funding-cuts/MM2XODIB6VGIRO3MFVTLD3YJLI/)
+
+
+#### Updates
+The Royal Society, who administers the Marsden Fund, has released [a statement in response to the cuts](https://www.royalsociety.org.nz/news/open-letter-on-importance-of-the-social-sciences-and-humanities/). 
+
+News coverage: [Marsden Fund controversy: Peak science body urges PM to reconsider research funding cuts](https://www.nzherald.co.nz/nz/marsden-fund-controversy-peak-science-body-urges-pm-to-reconsider-research-funding-cuts/MM2XODIB6VGIRO3MFVTLD3YJLI/)
+
+![Science can tell you how to clone a t-rex, humanities can tell you why this might be a bad idea](/media/science-and-humanities.png)
 
 #### We Are The University Open Letter
 
