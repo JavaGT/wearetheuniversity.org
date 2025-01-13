@@ -39,6 +39,7 @@ We are the university.
 
 
 #### More on the topic
+* [NZARE Responds To Marsden Fund Announcement](https://www.scoop.co.nz/stories/ED2412/S00029/nzare-responds-to-marsden-fund-announcement.htm)
 * [Letters to the Editor: the Marsden Fund and the hospital](https://www.odt.co.nz/opinion/letters-editor-marsden-fund-and-hospital)
 * [Humanities, social sciences, bring in dollars too](https://www.odt.co.nz/opinion/humanities-social-sciences-bring-dollars-too)
 * [Changes to govt science funding ‘cut to innovation’](https://www.odt.co.nz/news/dunedin/changes-govt-science-funding-%E2%80%98cut-innovation%E2%80%99)

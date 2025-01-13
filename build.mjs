@@ -74,6 +74,7 @@ async function buildIndex({ blog_data }) {
 async function build() {
   await copyRootFiles()
   const blog_data = await buildBlog()
+  const archive_data = await buildArchive()
   await buildIndex({ blog_data })
   await buildRss({ blog_data })
   await buildPages()
@@ -188,6 +189,32 @@ async function buildBlog() {
     blog_data.push({ title: attributes.title, date: datestring, slug: attributes.slug, link: `/${datestring}/${attributes.slug}`, author: attributes.author })
   }
   return blog_data.sort((a, b) => new Date(b.date) - new Date(a.date));
+}
+async function buildArchive() {
+  let archive_data = []
+  const files = await fsp.glob('./source/archive/**/*.md')
+  for await (const file of files) {
+    console.log(`Building ${file}`)
+    const content = await fsp.readFile(file, 'utf8')
+    const { attributes, body } = parse(content)
+    // if attributes.hidden is true, skip this file
+    if (attributes.hidden) continue
+    if (attributes.completion && attributes.completion < 0.4) continue
+    const html = marked(body)
+    let output = pug.renderFile('./source/template/blog.pug', { attributes, body: html })
+    // minify the html using html-minifier
+    output = htmlmin.minify(output, {
+      collapseWhitespace: true,
+      removeComments: true,
+      minifyCSS: true,
+      minifyJS: true
+    })
+    let datestring = attributes.date.toISOString().replace(/\..+/, '').slice(0, 10).replace(/-/g, '/')
+    await fsp.mkdir(`./docs/archive/${datestring}/${attributes.slug}`, { recursive: true })
+    await fsp.writeFile(`./docs/archive/${datestring}/${attributes.slug}/index.html`, output)
+    archive_data.push({ title: attributes.title, date: datestring, slug: attributes.slug, link: `/archive/${datestring}/${attributes.slug}`, author: attributes.author })
+  }
+  return archive_data.sort((a, b) => new Date(b.date) - new Date(a.date));
 }
 
 async function buildPages() {

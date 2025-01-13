@@ -26,9 +26,24 @@ The concequences of this merger are particularly hard on the law faculty. Here a
 * The timing of the proposal and consultation period is problematic, as it coincides with a period of leadership transition and important academic processes.
 
 
+# [Official Information Act Request – Luke](https://fyi.org.nz/request/29166-proposal-to-combine-the-law-school-and-business-school-into-one-faculty)
+Attached documents:
+[1](https://fyi.org.nz/request/29166/response/114651/attach/html/3/UEC%20Memo%205%20Nov%202024.pdf.html)
 
+###### 1. Who in the Faculty of Law was consulted about this proposal prior to the announcement, and what was their position?
+The Vice-Chancellor consulted with the University Executive Committee on 5 November 2024, before meeting with the deans of both faculties on 11 November 2024, where she asked for their review of the consultation document (which was in a draft state) and on the approach to consultation.
 
+###### 2. In designing this proposal, has the University considered examples of joint faculty law schools overseas? If so, what were they?
+NO RESPONSE
 
+###### 3. In designing this proposal, did the University consider or recognise that no large internationally recognisable University has its Law School as part of a joint faculty with Business or Economics?
+The University’s considerations for the proposal are described in the attached internal memorandum that went to the University Executive Committee on 5 November 2024.  The proposal is still being consulted on, and therefore, further considerations may arise during the consultation and feedback process.
+
+###### 4. Has the University considered, or does it have plans to close the Davis Law Library permanently should the Faculties be merged?
+Separate to the proposal to combine the Faculty of Law with the Faculty of Business and Economics, the University has a proposal to build a new Law and Performing Arts building on the City campus.  Attached is a copy of the proposal for this new building. **This proposal envisages that the current Law collection will move to the General Library when the new building is occupied.**  The proposal for a new Law and Performing Arts building is entirely independent to the proposal to merge the Law, and Business and Economics faculties and is therefore not contingent on the proposed faculty combination proceeding.  Attached is a document titled ‘Law FAQs August 2024’ which has been provided as part of the consultation process and gives further detail regarding the Davis Law Library.
+
+###### 5. Has the University measured or considered the reputational harm and/or loss of goodwill associated with restructuring the Faculty of Law?
+As above, the University’s considerations for the proposal are described in the attached internal memorandum that went to the University Executive Committee on 5 November 2024.  The proposal is still being consulted on, and therefore, further considerations may arise during the consultation and feedback process.
 
 
 <h2 id="nine-to-noon">Nine To Noon Writeup</h2>

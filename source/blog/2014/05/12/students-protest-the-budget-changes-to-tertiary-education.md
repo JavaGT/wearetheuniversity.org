@@ -3,7 +3,6 @@ title: "Students Protest the Budget & Changes to Tertiary Education"
 slug: students-protest-the-budget-changes-to-tertiary-education
 # date:  12 May 2014
 date: 2014-05-12
-path: 2014/May/12/students-protest-the-budget-changes-to-tertiary-education
 source: https://www.scoop.co.nz/stories/PO1405/S00178/students-protest-the-budget-changes-to-tertiary-education.htm
 source-name: Scoop
 author: Reclaim UOA
