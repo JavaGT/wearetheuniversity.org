@@ -1,6 +1,8 @@
 import fsp from 'fs/promises';
 import parse from 'front-matter';
 import { marked } from 'marked';
+import { gfmHeadingId } from "marked-gfm-heading-id";
+
 import pug from 'pug';
 import path from 'path';
 // const postcss = require('postcss')
@@ -10,6 +12,10 @@ import postcss from 'postcss';
 import cssnano from 'cssnano';
 import htmlmin from 'html-minifier';
 // npm install --save-dev postcss cssnano html-minifier
+
+
+
+marked.use(gfmHeadingId({}));
 
 await clean()
 await build()
