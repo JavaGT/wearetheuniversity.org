@@ -1,6 +1,6 @@
 ---
 title: New Chapter
-slug: chapters/auckland
+slug: chapters/new
 ---
 # Want to start a We Are The University chapter near you?
 
