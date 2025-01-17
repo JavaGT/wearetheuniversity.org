@@ -195,7 +195,7 @@ It’s always important to ensure the student voice is central when the universi
 # Chat
 
 
-[Auckland University Students' Association (AUSA) ](youtube.com/channel/UCqFYLVTdAnsJtYPdq6sWNOw)
+[Auckland University Students' Association (AUSA) ](https://youtube.com/channel/UCqFYLVTdAnsJtYPdq6sWNOw)
 
 00:09:10
 
@@ -205,7 +205,7 @@ first
 
 ---
 
-[venise fetuani](youtube.com/channel/UCeiP8TEJ4qOgbbXrerM6nWg)
+[venise fetuani](https://youtube.com/channel/UCeiP8TEJ4qOgbbXrerM6nWg)
 
 00:39:59
 
@@ -215,7 +215,7 @@ These proposed faculty changes make me afraid that they'll soon cut a great deal
 
 ---
 
-[banz ](youtube.com/channel/UCCxpAsYSJw14tGpMIRhnFDw)
+[banz ](https://youtube.com/channel/UCCxpAsYSJw14tGpMIRhnFDw)
 
 00:50:24
 
@@ -225,7 +225,7 @@ I’m Gabriel Boyd’s biggest supporter, I am here to support Gabriel
 
 ---
 
-[Auckland University Students' Association (AUSA) ](youtube.com/channel/UCqFYLVTdAnsJtYPdq6sWNOw)
+[Auckland University Students' Association (AUSA) ](https://youtube.com/channel/UCqFYLVTdAnsJtYPdq6sWNOw)
 
 00:50:59
 
@@ -235,7 +235,7 @@ I’m Gabriel Boyd’s biggest supporter, I am here to support Gabriel
 
 ---
 
-[Auckland University Students' Association (AUSA) ](youtube.com/channel/UCqFYLVTdAnsJtYPdq6sWNOw)
+[Auckland University Students' Association (AUSA) ](https://youtube.com/channel/UCqFYLVTdAnsJtYPdq6sWNOw)
 
 00:51:41
 
@@ -245,7 +245,7 @@ super valid @venise fetuani! that’s why we’re having this discussion as you�
 
 ---
 
-[Auckland University Students' Association (AUSA) ](youtube.com/channel/UCqFYLVTdAnsJtYPdq6sWNOw)
+[Auckland University Students' Association (AUSA) ](https://youtube.com/channel/UCqFYLVTdAnsJtYPdq6sWNOw)
 
 01:02:27
 
@@ -255,7 +255,7 @@ Kia ora everyone, thanks for joining our Conversation on the Proposed Faculty Ar
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 01:05:30
 
@@ -265,7 +265,7 @@ Kia ora - looking forward to it!
 
 ---
 
-[Denise Montgomery](youtube.com/channel/UCwwaECEAwx-y3NWj3pESnTg)
+[Denise Montgomery](https://youtube.com/channel/UCwwaECEAwx-y3NWj3pESnTg)
 
 01:08:37
 
@@ -275,7 +275,7 @@ Wasn't this meant to start at 2?
 
 ---
 
-[NOT THE CHOSEN ONE EDITS](youtube.com/channel/UCDOfnGMeN52kuOC_QyeLNQA)
+[NOT THE CHOSEN ONE EDITS](https://youtube.com/channel/UCDOfnGMeN52kuOC_QyeLNQA)
 
 01:11:03
 
@@ -285,7 +285,7 @@ I am Gabriel's biggest supporter.
 
 ---
 
-[Jonty Rush](youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
+[Jonty Rush](https://youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
 
 01:12:29
 
@@ -295,7 +295,7 @@ None of their mics are working
 
 ---
 
-[Lasitha S'Korala](youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
+[Lasitha S'Korala](https://youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
 
 01:12:33
 
@@ -305,7 +305,7 @@ Cannot hear..
 
 ---
 
-[Denise Montgomery](youtube.com/channel/UCwwaECEAwx-y3NWj3pESnTg)
+[Denise Montgomery](https://youtube.com/channel/UCwwaECEAwx-y3NWj3pESnTg)
 
 01:12:34
 
@@ -315,7 +315,7 @@ turn the students mics on
 
 ---
 
-[Jonty Rush](youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
+[Jonty Rush](https://youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
 
 01:12:46
 
@@ -325,7 +325,7 @@ And the uni reps mics
 
 ---
 
-[Denise Montgomery](youtube.com/channel/UCwwaECEAwx-y3NWj3pESnTg)
+[Denise Montgomery](https://youtube.com/channel/UCwwaECEAwx-y3NWj3pESnTg)
 
 01:12:49
 
@@ -335,7 +335,7 @@ and the uni people's
 
 ---
 
-[Lasitha S'Korala](youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
+[Lasitha S'Korala](https://youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
 
 01:12:54
 
@@ -345,7 +345,7 @@ Please turn out the microphones
 
 ---
 
-[PositiveSync](youtube.com/channel/UCpy8cM0kfZG5FL9ccIhKErg)
+[PositiveSync](https://youtube.com/channel/UCpy8cM0kfZG5FL9ccIhKErg)
 
 01:12:56
 
@@ -355,7 +355,7 @@ Mics are a bit low on volume
 
 ---
 
-[Fania Kapao](youtube.com/channel/UCQeoJNTrBJj_m_4ur7DUlkg)
+[Fania Kapao](https://youtube.com/channel/UCQeoJNTrBJj_m_4ur7DUlkg)
 
 01:12:58
 
@@ -365,7 +365,7 @@ Hey team! Mics aren't working
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 01:14:18
 
@@ -375,7 +375,7 @@ Can one of the hosts please we are able to ask our questions verbally?
 
 ---
 
-[Jonty Rush](youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
+[Jonty Rush](https://youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
 
 01:25:57
 
@@ -385,7 +385,7 @@ Can you get answers for both the business and law school, the answers seem to be
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 01:30:22
 
@@ -395,7 +395,7 @@ From - We Are the Uni: •The University of WA undid their Law & Business merger
 
 ---
 
-[Jonty Rush](youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
+[Jonty Rush](https://youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
 
 01:32:12
 
@@ -405,7 +405,7 @@ You say that the university is trying to find cost saving measures whilst still 
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 01:34:15
 
@@ -415,7 +415,7 @@ You say that the university is trying to find cost saving measures whilst still 
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 01:34:30
 
@@ -425,7 +425,7 @@ As a Māori & Moana Oceania student the response is not good enough, to simply b
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 01:34:37
 
@@ -435,7 +435,7 @@ As a Māori & Moana Oceania student the response is not good enough, to simply b
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 01:35:02
 
@@ -445,7 +445,7 @@ Great fact @Jonty Rush
 
 ---
 
-[Ted Wu](youtube.com/channel/UCKMCriGhknpCY_-8SnIdOiw)
+[Ted Wu](https://youtube.com/channel/UCKMCriGhknpCY_-8SnIdOiw)
 
 01:37:39
 
@@ -455,7 +455,7 @@ Such a fait accompli
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 01:37:59
 
@@ -465,7 +465,7 @@ Looking at costs after the Rec Centre rebuild!
 
 ---
 
-[Public Policy Club](youtube.com/channel/UCTDgdikKGdbLqCNNM5SNM_A)
+[Public Policy Club](https://youtube.com/channel/UCTDgdikKGdbLqCNNM5SNM_A)
 
 01:38:20
 
@@ -475,7 +475,7 @@ Yes Mattew!
 
 ---
 
-[Jonty Rush](youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
+[Jonty Rush](https://youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
 
 01:38:33
 
@@ -485,7 +485,7 @@ I’m looking forward to seeing the final figures for that
 
 ---
 
-[Lasitha S'Korala](youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
+[Lasitha S'Korala](https://youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
 
 01:38:45
 
@@ -495,7 +495,7 @@ Welldone @Matthew thank you!
 
 ---
 
-[Jonty Rush](youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
+[Jonty Rush](https://youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
 
 01:39:06
 
@@ -505,7 +505,7 @@ The 93 million that I mentioned was excluding the non-cash items and sale of ass
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 01:39:10
 
@@ -515,7 +515,7 @@ Sounds like none of the “consultation” will matter then. Can the uni confirm
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 01:39:11
 
@@ -525,7 +525,7 @@ Sounds like none of the “consultation” will matter then. Can the uni confirm
 
 ---
 
-[Lasitha S'Korala](youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
+[Lasitha S'Korala](https://youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
 
 01:39:33
 
@@ -535,7 +535,7 @@ Sounds like none of the “consultation” will matter then. Can the uni confirm
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 01:40:21
 
@@ -545,7 +545,7 @@ There’s a reason they’re pushing this through over summer
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 01:40:40
 
@@ -555,7 +555,7 @@ There’s a reason they’re pushing this through over summer
 
 ---
 
-[Public Policy Club](youtube.com/channel/UCTDgdikKGdbLqCNNM5SNM_A)
+[Public Policy Club](https://youtube.com/channel/UCTDgdikKGdbLqCNNM5SNM_A)
 
 01:40:46
 
@@ -565,7 +565,7 @@ There’s a reason they’re pushing this through over summer
 
 ---
 
-[Grace](youtube.com/channel/UCphcQdhqoT3kdg5cS258wkg)
+[Grace](https://youtube.com/channel/UCphcQdhqoT3kdg5cS258wkg)
 
 01:41:04
 
@@ -575,7 +575,7 @@ It feels like the decision to merge the faculties is already set, and this so ca
 
 ---
 
-[Barbara Dessart](youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
+[Barbara Dessart](https://youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
 
 01:42:21
 
@@ -585,7 +585,7 @@ Does the law school support this merger and if not, do y'all worry about a mass 
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 01:42:30
 
@@ -595,7 +595,7 @@ Will feedback be publicly released?
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 01:42:39
 
@@ -605,7 +605,7 @@ How will we actually know if it is listened to?
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 01:42:59
 
@@ -615,7 +615,7 @@ I haven’t been impressed lol
 
 ---
 
-[Lasitha S'Korala](youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
+[Lasitha S'Korala](https://youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
 
 01:42:59
 
@@ -625,7 +625,7 @@ Good Point @Barbara Dessart
 
 ---
 
-[Lasitha S'Korala](youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
+[Lasitha S'Korala](https://youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
 
 01:44:00
 
@@ -635,7 +635,7 @@ Does disingenuous come to mind?
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 01:44:11
 
@@ -645,7 +645,7 @@ Ohh awesome it’s been acknowledged
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 01:44:17
 
@@ -655,7 +655,7 @@ I feel so much better thanks guys
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 01:44:25
 
@@ -665,7 +665,7 @@ same same lol
 
 ---
 
-[Jonty Rush](youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
+[Jonty Rush](https://youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
 
 01:44:32
 
@@ -675,7 +675,7 @@ That’s all that matters, she acknowledged it and decided nah
 
 ---
 
-[Barbara Dessart](youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
+[Barbara Dessart](https://youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
 
 01:44:37
 
@@ -685,7 +685,7 @@ Who from the law school is on this review committee?
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 01:44:43
 
@@ -695,7 +695,7 @@ The link to this wasn't emailed us. ugh
 
 ---
 
-[Barbara Dessart](youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
+[Barbara Dessart](https://youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
 
 01:45:01
 
@@ -705,7 +705,7 @@ What are the metrics that are used to analyse the feeback?
 
 ---
 
-[Barbara Dessart](youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
+[Barbara Dessart](https://youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
 
 01:45:49
 
@@ -715,7 +715,7 @@ Yes, let's have this conversation!!!
 
 ---
 
-[Molly Cooper](youtube.com/channel/UCu_9qvwcyDhzVaSFX5iZL5w)
+[Molly Cooper](https://youtube.com/channel/UCu_9qvwcyDhzVaSFX5iZL5w)
 
 01:47:34
 
@@ -725,7 +725,7 @@ isnt the dean going go be the business dean? how are they going to manage the la
 
 ---
 
-[FaAfuhia Fia](youtube.com/channel/UCU8XRA0GBPTdXjvq2y9WTXw)
+[FaAfuhia Fia](https://youtube.com/channel/UCU8XRA0GBPTdXjvq2y9WTXw)
 
 01:48:08
 
@@ -735,7 +735,7 @@ Fa Fia Student Rep on University Council — just letting you know I am followin
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 01:48:43
 
@@ -745,7 +745,7 @@ Fa'afetai lava @FaAfuhia Fia
 
 ---
 
-[Lasitha S'Korala](youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
+[Lasitha S'Korala](https://youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
 
 01:48:45
 
@@ -755,7 +755,7 @@ Fa'afetai lava @FaAfuhia Fia
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 01:49:50
 
@@ -765,7 +765,7 @@ Not enough to engage staff as the Māori PVC is a staff member so is in a precar
 
 ---
 
-[Auckland University Students' Association (AUSA) ](youtube.com/channel/UCqFYLVTdAnsJtYPdq6sWNOw)
+[Auckland University Students' Association (AUSA) ](https://youtube.com/channel/UCqFYLVTdAnsJtYPdq6sWNOw)
 
 01:50:26
 
@@ -775,7 +775,7 @@ https://linktr.ee/ausa.uoa
 
 ---
 
-[Auckland University Students' Association (AUSA) ](youtube.com/channel/UCqFYLVTdAnsJtYPdq6sWNOw)
+[Auckland University Students' Association (AUSA) ](https://youtube.com/channel/UCqFYLVTdAnsJtYPdq6sWNOw)
 
 01:50:44
 
@@ -785,7 +785,7 @@ Submit your questions, Gabriel & Matthew are monitoring live: https://forms.offi
 
 ---
 
-[Barbara Dessart](youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
+[Barbara Dessart](https://youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
 
 01:51:09
 
@@ -795,7 +795,7 @@ There is no mention of Maori or tikanga in the proposal.
 
 ---
 
-[Lasitha S'Korala](youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
+[Lasitha S'Korala](https://youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
 
 01:51:09
 
@@ -805,7 +805,7 @@ There is no mention of Maori or tikanga in the proposal.
 
 ---
 
-[Ted Wu](youtube.com/channel/UCKMCriGhknpCY_-8SnIdOiw)
+[Ted Wu](https://youtube.com/channel/UCKMCriGhknpCY_-8SnIdOiw)
 
 01:51:30
 
@@ -815,7 +815,7 @@ No legal requirement hahaha as if there's any other requirement
 
 ---
 
-[Ted Wu](youtube.com/channel/UCKMCriGhknpCY_-8SnIdOiw)
+[Ted Wu](https://youtube.com/channel/UCKMCriGhknpCY_-8SnIdOiw)
 
 01:51:41
 
@@ -825,7 +825,7 @@ Its not like we vote for the vice chancellor
 
 ---
 
-[Barbara Dessart](youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
+[Barbara Dessart](https://youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
 
 01:54:37
 
@@ -835,7 +835,7 @@ Very soon to implement with a lot of unknowns
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 01:55:16
 
@@ -845,7 +845,7 @@ Ah yeah tank the rankings so there’s more postgrad students :brain::brain:
 
 ---
 
-[Jonty Rush](youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
+[Jonty Rush](https://youtube.com/channel/UCNTRG54S5EXvHvA6AlzMvVQ)
 
 01:55:49
 
@@ -855,7 +855,7 @@ Sounds like a grab to increase tuition revenue
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 01:57:30
 
@@ -865,7 +865,7 @@ Yes, there is for the one that brings in $$…
 
 ---
 
-[Lasitha S'Korala](youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
+[Lasitha S'Korala](https://youtube.com/channel/UCb3th59auUsR325LXq3DWTw)
 
 01:58:06
 
@@ -875,7 +875,7 @@ please don't refer to Human Rights, International Law, Criminal Law and constitu
 
 ---
 
-[Barbara Dessart](youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
+[Barbara Dessart](https://youtube.com/channel/UC9jEVJyDdKqZxW03AwTnPgg)
 
 01:59:27
 
@@ -885,7 +885,7 @@ That is spot on Matthew -- the proposal lists them as "one" and "The other"-- it
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 02:02:10
 
@@ -895,7 +895,7 @@ Solidly nothing answer, thanks all
 
 ---
 
-[Ted Wu](youtube.com/channel/UCKMCriGhknpCY_-8SnIdOiw)
+[Ted Wu](https://youtube.com/channel/UCKMCriGhknpCY_-8SnIdOiw)
 
 02:02:43
 
@@ -905,7 +905,7 @@ I'm glad they think the questions are important to consider - it would be nice i
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 02:03:32
 
@@ -915,7 +915,7 @@ So many of these answers give the vibe that they’re interested these questions
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 02:03:45
 
@@ -925,7 +925,7 @@ Yes it does
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 02:04:26
 
@@ -935,7 +935,7 @@ It’s the leading for now but luckily you’re gonna fix that!
 
 ---
 
-[Grace](youtube.com/channel/UCphcQdhqoT3kdg5cS258wkg)
+[Grace](https://youtube.com/channel/UCphcQdhqoT3kdg5cS258wkg)
 
 02:04:45
 
@@ -945,7 +945,7 @@ says its excellent then proceeds to cut it
 
 ---
 
-[Ted Wu](youtube.com/channel/UCKMCriGhknpCY_-8SnIdOiw)
+[Ted Wu](https://youtube.com/channel/UCKMCriGhknpCY_-8SnIdOiw)
 
 02:06:25
 
@@ -955,7 +955,7 @@ Big shout-out to Kylie and Amanda and the rest of the team
 
 ---
 
-[NOT THE CHOSEN ONE EDITS](youtube.com/channel/UCDOfnGMeN52kuOC_QyeLNQA)
+[NOT THE CHOSEN ONE EDITS](https://youtube.com/channel/UCDOfnGMeN52kuOC_QyeLNQA)
 
 02:14:33
 
@@ -965,7 +965,7 @@ this is actually quite informative lol, I wasn't expecting it to be this good
 
 ---
 
-[Charlie Matthews](youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
+[Charlie Matthews](https://youtube.com/channel/UCLBa64Ed8mcB2MrhGtfLlmg)
 
 02:16:41
 
@@ -975,7 +975,7 @@ Profoundly disappointing, thanks everyone!
 
 ---
 
-[NOT THE CHOSEN ONE EDITS](youtube.com/channel/UCDOfnGMeN52kuOC_QyeLNQA)
+[NOT THE CHOSEN ONE EDITS](https://youtube.com/channel/UCDOfnGMeN52kuOC_QyeLNQA)
 
 02:16:47
 
@@ -985,7 +985,7 @@ hurrayyy, thank you for the clarity
 
 ---
 
-[Ted Wu](youtube.com/channel/UCKMCriGhknpCY_-8SnIdOiw)
+[Ted Wu](https://youtube.com/channel/UCKMCriGhknpCY_-8SnIdOiw)
 
 02:17:13
 
@@ -995,7 +995,7 @@ Unfortunately, I fully agree with Charlie - what a load of nothing, great questi
 
 ---
 
-[Teresa Brown](youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
+[Teresa Brown](https://youtube.com/channel/UCOYnuJ8hz6I6ulx-YOxOqqg)
 
 02:17:18
 
@@ -1005,7 +1005,7 @@ Unfortunately, I fully agree with Charlie - what a load of nothing, great questi
 
 ---
 
-[Molly Cooper](youtube.com/channel/UCu_9qvwcyDhzVaSFX5iZL5w)
+[Molly Cooper](https://youtube.com/channel/UCu_9qvwcyDhzVaSFX5iZL5w)
 
 02:17:21
 
@@ -1015,7 +1015,7 @@ the merger is definitely happening, super disappointing to hear. Thanks Apurva a
 
 ---
 
-[NOT THE CHOSEN ONE EDITS](youtube.com/channel/UCDOfnGMeN52kuOC_QyeLNQA)
+[NOT THE CHOSEN ONE EDITS](https://youtube.com/channel/UCDOfnGMeN52kuOC_QyeLNQA)
 
 02:18:09
 
