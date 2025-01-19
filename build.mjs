@@ -178,7 +178,6 @@ async function buildBlog() {
     const content = await fsp.readFile(file, 'utf8')
     const { attributes, body } = parse(content)
     // if attributes.hidden is true, skip this file
-    if (attributes.hidden) continue
     if (attributes.completion && attributes.completion < 0.4) continue
     const html = marked(body)
     let output = pug.renderFile('./source/template/blog.pug', { attributes, body: html })
@@ -194,6 +193,7 @@ async function buildBlog() {
     await fsp.mkdir(`./docs/blog/${datestring}/${attributes.slug}`, { recursive: true })
     await fsp.writeFile(`./docs/${datestring}/${attributes.slug}/index.html`, output)
     await fsp.writeFile(`./docs/blog/${datestring}/${attributes.slug}/index.html`, output)
+    if (attributes.hidden) continue
     blog_data.push({ title: attributes.title, date: datestring, slug: attributes.slug, link: `/blog/${datestring}/${attributes.slug}`, author: attributes.author })
   }
   return blog_data.sort((a, b) => new Date(b.date) - new Date(a.date));
@@ -206,7 +206,6 @@ async function buildArchive() {
     const content = await fsp.readFile(file, 'utf8')
     const { attributes, body } = parse(content)
     // if attributes.hidden is true, skip this file
-    if (attributes.hidden) continue
     if (attributes.completion && attributes.completion < 0.4) continue
     const html = marked(body)
     let output = pug.renderFile('./source/template/blog.pug', { attributes, body: html })
@@ -220,6 +219,7 @@ async function buildArchive() {
     let datestring = attributes.date.toISOString().replace(/\..+/, '').slice(0, 10).replace(/-/g, '/')
     await fsp.mkdir(`./docs/archive/${datestring}/${attributes.slug}`, { recursive: true })
     await fsp.writeFile(`./docs/archive/${datestring}/${attributes.slug}/index.html`, output)
+    if (attributes.hidden) continue
     archive_data.push({ title: attributes.title, date: datestring, slug: attributes.slug, link: `/archive/${datestring}/${attributes.slug}`, author: attributes.author })
   }
   return archive_data.sort((a, b) => new Date(b.date) - new Date(a.date));
