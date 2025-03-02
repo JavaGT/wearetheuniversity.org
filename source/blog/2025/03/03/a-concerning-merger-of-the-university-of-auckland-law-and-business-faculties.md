@@ -8,8 +8,6 @@ author-slug: we-are-the-university
 
 ## **Resource for Senate Members**
 
-###### **Monday March 3rd 2025**
-
 Kia ora senior academics of the University of Auckland. Important discussions are happening at today’s senate meeting. **We hope you will be in attendance 1:30-4:30pm @ UoA ClockTower.** 
 
 While key issues discussed may pertain to specific schools and faculties, those same issues are small pieces of a much larger pattern, which pertains to us all. We have written here some key points that We Are The University believe need to be considered regarding the management strategies at this university.
