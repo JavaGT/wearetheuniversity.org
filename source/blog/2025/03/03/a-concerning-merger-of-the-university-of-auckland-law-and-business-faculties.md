@@ -6,8 +6,6 @@ author: We Are The University
 author-slug: we-are-the-university
 ---
 
-# **Upholding Reason in Leadership at The University of Auckland**
-
 ## **Resource for Senate Members**
 
 ###### **Monday March 3rd 2025**

@@ -282,7 +282,7 @@ nav .socials {
 
 @media print {
     html {
-        font-size: 0.9rem;
+        font-size: 1.3rem;
     }
 
     button[onclick="window.print()"] {
@@ -311,6 +311,18 @@ nav .socials {
 
     nav .socials,
     .socials {
+        display: none;
+    }
+
+    .contents {
+        max-width: max-content;
+    }
+
+    section.body {
+        max-width: max-content;
+    }
+
+    section.footer {
         display: none;
     }
 }
