@@ -325,6 +325,20 @@ nav .socials {
     section.footer {
         display: none;
     }
+
+    section.banner {
+        padding: 0;
+        padding-top: 5rem;
+    }
+
+    .small-logo {
+        font-size: 3rem;
+    }
+
+    .author {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
 }
 
 hr {
