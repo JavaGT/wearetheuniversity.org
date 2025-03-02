@@ -14,7 +14,9 @@ There is work to still be done here.
 
 <script src="/table-of-contents.js"></script>
 
+
 ## 2012
+
 ### Issue 00 2012
 - [Editorial](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=151)
 - [Mervin Matters](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=86)
@@ -64,6 +66,7 @@ There is work to still be done here.
 - [Law 121G: Law and Society](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=93)
 - [Book Review: Catch 22](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=91)
 - [Game Review: Fate of the World (PC)](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=89)
+
 ### Issue 02 2012
 - [Shortsighted Salmon](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=209)
 - [Marvin Matters - Nek Minute](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=206)
@@ -89,6 +92,7 @@ There is work to still be done here.
 - [Maths 101](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=158)
 - [Shake Your Spear](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=156)
 - [Book Review: You Can’t Be Neutral On A Moving Train: A Personal History of Our Times](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=154)
+
 ### Issue 03 2012
 - **[The Problem of violence.](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=270)**
 - [A Close-Reading Of Rebecca Black’s Song Friday Which Appears To Be](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=268)
@@ -147,6 +151,7 @@ There is work to still be done here.
 - [Film Review: The Weather Underground](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=278)
 - [Film Review: Martha Marcy May Marlene](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=276)
 - [Film Review: Blue Velvet (1986)](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=273)
+
 ### Issue 05 2012
 - [Shit the Bed, Laugh or Cry](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=630)
 - [Mervin Matters - Keen but Crap](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=627)
@@ -175,6 +180,7 @@ There is work to still be done here.
 - [Live Music: Ariel Pink's Haunted Graffiti](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=560)
 - [Film Review: The Artist](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=557)
 - [Film Review: We Need To Talk About Kevin](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=555)
+
 ### Issue 06 2012
 - [Guest Editorial](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=710)
 - [Useful Contacts for Abuse Survivors](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=708)
@@ -245,6 +251,7 @@ There is work to still be done here.
 - [Film Review: Carnage](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=727)
 - [Film Review: The Hunger Games](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=724)
 - [Film Review: Blade Runner](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=722)
+
 ### Issue 08 2012
 - [Editorial](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=919)
 - [Equal Love Deserves Equal Recognition](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=916)
@@ -279,6 +286,7 @@ There is work to still be done here.
 - [Movie Review: Batman Returns](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=842)
 - [Theatre Review: Jersey Boys](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=839)
 - [Last Thoughts](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=837)
+
 ### Issue 09 2012
 - [Editorial](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=1022)
 - [Dave's Word of the Week](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=1019)
@@ -362,6 +370,7 @@ There is work to still be done here.
 - [Movie Review: Your Highness](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1037)
 - [Movie Review: Margin Call](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1034)
 - [Last Thoughts](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1032)
+
 ### Issue 11 2012
 - [Editorial](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1275)
 - [The Black Budget](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1272)
@@ -759,6 +768,7 @@ There is work to still be done here.
 - [Film - Looper](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2194)
 - [Film - Resident Evil: Retribution](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2192)
 - [Film - Goodbye Pork Pie](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2189)
+
 ### Issue 23 2012
 - [Editorial - Beyond the Ken](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2293)
 - [Letters](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2291)
@@ -797,7 +807,10 @@ There is work to still be done here.
 - [Quick Meals - Roast Veg Pasta](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2304)
 - [Book - Life of Pi, Yann Martel](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2301)
 - [Book - Lord of the Flies, William Golding](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2299)
+
+
 ## 2013
+
 ### Issue 01 2013
 - [Aditya's Editorial - Cherry Pick Your Uni Experience](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2411)
 - [Calum's Editorial](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2409)
@@ -827,6 +840,7 @@ There is work to still be done here.
 - [Film - Les Misérables](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2352)
 - [Film - Django Unchained](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2350)
 - [Web Series - The Most Popular Girls in School](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2347)
+
 ### Issue 02 2013
 - [Aditya's Editorial](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2508)
 - [Calum's Editorial](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2505)
@@ -1138,6 +1152,7 @@ There is work to still be done here.
 - [Shuffle Diaries - Group Four (1998), Massive Attack](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3061)
 - [Games - Dwarf Fortress](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3059)
 - [Fan Fiction - The Magical Persona 4 Durarara! Fic](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3057)
+
 ### Issue 10 2013
 - [Aditya's Editorial](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3225)
 - [Calum's Editorial](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3223)
@@ -1206,6 +1221,7 @@ There is work to still be done here.
 - [Manga - Yotsuba&! 1-10, Kiyohiko Azuma](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3239)
 - [Games - Faster Than Light](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3236)
 - [Games - Journey](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3232)
+
 ### Issue 13 2013
 - [Calum's Editorial](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3464)
 - [Letters](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3462)
@@ -1372,6 +1388,7 @@ There is work to still be done here.
 - [Film - Byzantium, Neil Jordon](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3703)
 - [Manga - It's Not My Fault I'm Not Popular!, Nico Tanigawa](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3700)
 - [Fanfic - Point of No Return, A School Days fanfic by Kazuya Sensui](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3698)
+
 ### Issue 18 2013
 - [Aditya's Editorial](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3852)
 - [Calum's Editorial](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3850)
@@ -1506,6 +1523,7 @@ There is work to still be done here.
 - [Visual Arts Preview - Urban Images](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=3985)
 - [Film - Now You See Me, Louis Letterier](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=3983)
 - [Film - Red 2, Dean Parisot](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=3981)
+
 ### Issue 22 2013
 - [Aditya’s Editorial](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4135)
 - [Calum's Editorial](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4133)
@@ -1616,7 +1634,10 @@ There is work to still be done here.
 - [Games - Pokémon X/Y](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4225)
 - [Games - Spec Ops: The Line, Yager Development](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4223)
 - [TV - House of Cards Season 1, Netflix](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4219)
+
+
 ## 2014
+
 ### Issue 02 2014
 - [Spotify Playlist for Issue 2](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=6254)
 - [AUSA Executive Pokemon Cards](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5202)
@@ -1658,6 +1679,7 @@ There is work to still be done here.
 - [Literature • Drowning City](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5076)
 - [Festival • Rapture 2014](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5073)
 - [Flat of the Week - Hardwood Manor](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5069)
+
 ### Issue 03 2014
 - [Spotify Playlist for Issue 3](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=6252)
 - [Editorial • Ana Lenard](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5337)
@@ -1746,6 +1768,7 @@ There is work to still be done here.
 - [Literature • God's Dog, Diego Marani](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5544)
 - [Music Comment • Ode to "Alex"](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5541)
 - [Flat of the Week](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5539)
+
 ### Issue 05 2014
 - [Spotify Playlist for Issue 5](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=6248)
 - [Editorial • Ana Lenard](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5911)
@@ -1778,6 +1801,7 @@ There is work to still be done here.
 - [Music • Lost in the Dream, The War on Drugs](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5836)
 - [Literature • Stoner, John Edward Williams](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5832)
 - [Flat of the Week](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5829)
+
 ### Issue 06 2014
 - [Spotify Playlist for Issue 6](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=6242)
 - [Editorial • Kit Haines](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=6019)
@@ -1815,6 +1839,7 @@ There is work to still be done here.
 - [Music Comment • Good God(s): Music and Religiosity](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5934)
 - [Film Comment • God's Not Reel](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5932)
 - [Flat of the Week - The (mostly)ex-Brothel](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5929)
+
 ### Issue 07 2014
 - [Spotify Playlist for Issue 7](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6240)
 - [Editorial • Kit Haines](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6128)
@@ -1854,6 +1879,7 @@ There is work to still be done here.
 - [Game • South Park: The Stick of Truth](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6036)
 - [Top 5 Comedy YouTube channels you should subscribe to](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6034)
 - [Flat of the Week - Lesley (seriously, their house is called Lesley, even check the Wi-Fi)](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6031)
+
 ### Issue 08 2014
 - [Editorial • Ana Lenard - The Internet](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6237)
 - [Editorial • Kit Haines](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6235)
@@ -1977,6 +2003,7 @@ There is work to still be done here.
 - [Music Comment • Eurovision or: What’s Right with Europe](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6401)
 - [Comedy Round-Up](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6396)
 - [Flat of the Week](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6393)
+
 ### Issue 11 2014
 - [Editorial • Kit Haines](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6603)
 - [Editorial • Ana Lenard](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6601)
@@ -2014,6 +2041,7 @@ There is work to still be done here.
 - [Comment • The Sarah Broom Poetry Prize](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6517)
 - [Comment • A Problem Ignored: Art and Bigotry](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6514)
 - [Game • Wolfenstein: The New Order](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6509)
+
 ### Issue 12 2014
 - **[News • California Shooting](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6692)**
 - [News • The Civilian Party](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6690)
@@ -2045,6 +2073,7 @@ There is work to still be done here.
 - [Comedy • Q&A; Thomas Sainsbury](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6621)
 - [Theatre • Q&A; Tommy Bradson](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6615)
 - [Film • Good Vibrations](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6610)
+
 ### Issue 13 2014
 - **[A Message from Vice-Editor Ana Lenard (with notes from Vice-Editor Kit Haines)](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6812)**
 - **[News • Protests in New Zealand? (They Actually Happen?)](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6810)**
@@ -2071,6 +2100,7 @@ There is work to still be done here.
 - [Tom Hern Interview](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6751)
 - [Film • The Internet’s Own Boy](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6743)
 - [Preview: New Zealand International Film Festival](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6740)
+
 ### Issue 14 2014
 - [Editorial.](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6921)
 - **[News • RIP MH17](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6919)**
@@ -2108,6 +2138,7 @@ There is work to still be done here.
 - [Music • We Are The Angry Mob - The Kaiser Chiefs’ Nick ‘Peanut’ Baines on their new album Education, Education, Education and War.](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6832)
 - [Literature • Either/Or, Søren Kierkegaard](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6825)
 - [Flat of the Week](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6822)
+
 ### Issue 15 2014
 - [Kit’s Editorial.](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7032)
 - [Ana’s Editorial.](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7030)
@@ -2145,6 +2176,7 @@ There is work to still be done here.
 - [Film • Dior and I](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6940)
 - [Literature • Te Poropiti by Philip McKibbin](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6937)
 - [Flat of the Week](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6934)
+
 ### Issue 16 2014
 - [Ana's Editorial](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7116)
 - [Kit's Editorial](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7114)
@@ -2177,6 +2209,7 @@ There is work to still be done here.
 - [Literature Comment - Misadventures in Nostalgia](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7046)
 - [Music Comment - Nostalgic Albums](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7042)
 - [Music - Kveikur, Sigur Rós](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7039)
+
 ### Issue 17 2014
 - [Editorial](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7199)
 - [News • Visit a right royal waste of money](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7197)
@@ -2211,6 +2244,7 @@ There is work to still be done here.
 - [Paki/Story • You People](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7129)
 - [Poem • Ancestors](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7127)
 - [Poem • Aotearoa](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7124)
+
 ### Issue 18 2014
 - [Guest Editorial - Levi Joule](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7295)
 - [News • Charlotte Pride Parade Gets Massive](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7293)
@@ -2279,6 +2313,7 @@ There is work to still be done here.
 - [Dance Theatre - Short + Sweet](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7334)
 - [Theatre - Arthur Meek](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7330)
 - [Blind Date](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7327)
+
 ### Issue 20 2014
 - [News - TMas is the new Xmas](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7518)
 - [Kit's Editorial](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7515)
@@ -2317,6 +2352,7 @@ There is work to still be done here.
 - [Film Comment - Green Screen](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7431)
 - [Film - The Giver](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7428)
 - [Music - Our Love, Caribou](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7425)
+
 ### Issue 21 2014
 - [Editorial](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7596)
 - [Flat of the Week](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7594)
@@ -2348,6 +2384,7 @@ There is work to still be done here.
 - [Music - Vampire Weekend](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7530)
 - [Television - Girls](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7527)
 - [Top 10 Shows For Geeks/Nerds](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7524)
+
 ### Issue 22 2014
 - **[Aine's View - Child Poverty: Knowledge is Power](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7702)**
 - [Ana's Editorial](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7698)
@@ -2391,6 +2428,7 @@ There is work to still be done here.
 - [Music - Injustice at the Grammys](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7610)
 - [Interview - Ruby Love](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7607)
 - [Our Top 5 Picks for the Tempo Festival](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7604)
+
 ### Issue 23 2014
 - [Kit's Editorial](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7815)
 - [Ana's Editorial](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7813)
@@ -2432,6 +2470,7 @@ There is work to still be done here.
 - [Music - Laneway Festival](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7724)
 - [Music - Love in the Future, John Legend](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7720)
 - [Flat of the Week](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7717)
+
 ### Issue 24 2014
 - [Editorial](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7897)
 - [Craccum Reads Mean Tweets](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7895)
@@ -2465,7 +2504,10 @@ There is work to still be done here.
 - [Theatre Q&A; - Odyssey](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7829)
 - [Music - The Best Music of 2014 (So Far)](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7827)
 - [Music - InFinnite Talent](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7824)
+
+
 ## 2015
+
 ### March 2015
 - [Jordan’s Editorial – I Fail Sometimes.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/jordans-editorial-i-fail-sometimes)
 - [Denton’s Editorial – Fashion, or how to best hide the flab.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/dentons-editorial-fashion-or-how-to-best-hide-the-flab)
@@ -2607,6 +2649,7 @@ There is work to still be done here.
 - [Book – The Enchanted, By Rene Denfeld](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-the-enchanted-by-rene-denfeld)
 - [Theatre Interview – Michael Hurst, Director of Summer Shakespeare](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/theatre-interview-michael-hurst-director-of-summer-shakespeare)
 - [Arts – Something Creepy This Way Comes: A Review of Gibb’s Farm](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-something-creepy-this-way-comes-a-review-of-gibbs-farm)
+
 ### April 2015
 - [Mourning the Non-Existent](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/mourning-the-non-existent)
 - [Disappointment](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/disappointment)
@@ -2681,6 +2724,7 @@ There is work to still be done here.
 - [Film – When Harry Met Sally (1989)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-when-harry-met-sally-1989)
 - [Film – Insurgent (2015)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/film-insurgent-2015)
 - [Top 10 – Reasons for the 10kgs you will gain after leaving high school (A kilo by kilo breakdown)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-reasons-for-the-10kgs-you-will-gain-after-leaving-high-school-a-kilo-by-kilo-breakdown)
+
 ### May 2015
 - [Pissed Often](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/pissed-often)
 - [I Know Why The Caged Dog Whines](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/i-know-why-the-caged-dog-whines)
@@ -2823,6 +2867,7 @@ There is work to still be done here.
 - [Television – Utopia](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/television-utopia)
 - [Comedy, Kiwis, and Cellular Devices: An Interview with Dai Henwood](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/comedy-kiwis-and-cellular-devices-an-interview-with-dai-henwood)
 - [Top Ten – Things to do during gaps](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-things-to-do-during-gaps)
+
 ### June 2015
 - [News – NZ New Flag Designs Confirmed](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-nz-new-flag-designs-confirmed)
 - [News – Campbell Live Replaced With Keeping Up With The Campbells](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-campbell-live-replaced-with-keeping-up-with-the-campbells)
@@ -2890,6 +2935,7 @@ There is work to still be done here.
 - [Music Comment – Guide to Punk](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-comment-guide-to-punk)
 - [Video Game – Ori and the Blind Forest](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/video-game-ori-and-the-blind-forest)
 - [Top Ten Things You Thought Would’ve Stopped After High-School.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-things-you-thought-wouldve-stopped-after-high-school)
+
 ### July 2015
 - [Arts Editorial – Picking Up The Pitchfork](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-picking-up-the-pitchfork)
 - [Film Review – Learning to Drive](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-learning-to-drive)
@@ -2902,6 +2948,7 @@ There is work to still be done here.
 - [Video Game Review – Her Story](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/video-game-review-her-story)
 - [Arts Comment – An Evening With Haruki Murakami](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/arts-comment-an-evening-with-haruki-murakami)
 - [Top 10 Best First World Problems at Auckland University](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-best-first-world-problems-at-auckland-university)
+
 ### August 2015
 - [Mister Misogyny](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/mister-misogyny)
 - [Just Ewan me: An encounter with Auckland’s Kim — sorry, King — of Coffee.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/taking-the-puss/just-ewan-me-an-encounter-with-aucklands-kim-sorry-king-of-coffee)
@@ -2974,6 +3021,7 @@ There is work to still be done here.
 - [Tall Poppy Syndrome](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/tall-poppy-syndrome)
 - [Can I have a large Mocha with a side of embarrassment?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-can-i-have-a-large-mocha-with-a-side-of-embarrassment)
 - [Lifestyle – Eden Noodles](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/lifestyle-eden-noodles)
+
 ### September 2015
 - **[Transphobic, and why I’m not. But also, goodbye.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/transphobic-and-why-im-not-but-also-goodbye)**
 - [The Waitress’ Tail](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-waitress-tail)
@@ -3076,6 +3124,7 @@ There is work to still be done here.
 - [On Inspiration](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/commentary/on-inspiration)
 - [The Balancing Act](https://web.archive.org/web/20160205065217/http://craccum.ausa.auckland.ac.nz/commentary/the-balancing-act)
 - [Student Culture in Canterbury](https://web.archive.org/web/20160205065217/http://craccum.ausa.auckland.ac.nz/commentary/student-culture-in-canterbury)
+
 
 ## 2016
 
@@ -4673,7 +4722,9 @@ Do you think that Auckland as a city is becoming more aware of alternative forms
 - 360° Auckland Abroad
 - Get Organised, Study in Style
 
+
 ## 2017
+
 ### [Issue 01 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-01-2017.pdf)
 - Catriona Britton
 - **La La Land: The University Edition**
@@ -4779,6 +4830,7 @@ LIVE YOUR LIFE. IMAGINING TIME, BUDGET AND SO ON WASN’T AN ISSUE, WHAT IS THE 
 - Hard (three points)
 - Herald’s Heroes
 - the people to blame.
+
 ### [Issue 02 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-02-2017.pdf)
 - Catriona Britton
 - Out, out, brief candle
@@ -4842,6 +4894,7 @@ LIVE YOUR LIFE. IMAGINING TIME, BUDGET AND SO ON WASN’T AN ISSUE, WHAT IS THE 
 - EASY (ONE POINT)
 - the people to blame.
 - Lighten Your Load
+
 ### [Issue 03 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-03-2017.pdf)
 - Catriona Britton
 - Being mind-full
@@ -4932,6 +4985,7 @@ THE SERIES’ INCORPORATION OF TECHNOLOGY IS REALLY CLEVER. WAS THIS SOMETHING Y
 - Kisses and Quizzes
 - We offer free support, advice and information to all students.
 - the people to blame.
+
 ### [Issue 04 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-04-2017.pdf)
 - Catriona Britton
 - In Virginia, high school football is a way of life
@@ -5031,6 +5085,7 @@ YOU’VE WORKED WITH THE DOWNLOW CONCEPT BEFORE. DID THEY JUST CALL YOU UP AND A
 - MEDIUM (TWO POINTS)
 - HARD (THREE POINTS)
 - the people to blame.
+
 ### [Issue 05 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-05-2017.pdf)
 - Catriona Britton
 - Water we doing?!
@@ -5111,6 +5166,7 @@ WHERE DO YOU SEE THE FUTURE OF THE GREEN PARTY? YOU’VE MOVED AWAY FROM YOUR AC
 - MEDIUM (TWO POINTS)
 - the people to blame.
 - Baileys Women’s Prize for Fiction
+
 ### [Issue 06 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-06-2017.pdf)
 - Catriona Britton
 - What is it with chicks and horses, huh?
@@ -5205,6 +5261,7 @@ WHAT ERA OF NEW ZEALAND MUSIC DO YOU CONSIDER THE MOST INFLUENTIAL IN SHAPING WH
 - EASY (ONE POINT)
 - the people to blame.
 - We have moved! (Downstairs)*
+
 ### [Issue 07 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-07-2017.pdf)
 - SHAPE YOUR CAREER SHAPE OUR CITY
 - Catriona Britton
@@ -5286,6 +5343,7 @@ WHAT ERA OF NEW ZEALAND MUSIC DO YOU CONSIDER THE MOST INFLUENTIAL IN SHAPING WH
 - Kisses and Quizzes
 - the people to blame.
 - International students don’t forget your spectacle allowance!
+
 ### [Issue 08 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-08-2017.pdf)
 - WORLD ON SALE
 - Guest Editorial
@@ -5348,6 +5406,7 @@ WHAT ERA OF NEW ZEALAND MUSIC DO YOU CONSIDER THE MOST INFLUENTIAL IN SHAPING WH
 - Baby’s bottom sudoku
 - the people to blame.
 - Mum hard to impress?
+
 ### [Issue 09 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-09-2017.pdf)
 - Catriona Britton
 - The Name’s Hole, Ass Hole
@@ -5415,6 +5474,7 @@ WHAT ERA OF NEW ZEALAND MUSIC DO YOU CONSIDER THE MOST INFLUENTIAL IN SHAPING WH
 - EASY (ONE POINT)
 - the people to blame.
 - Click, click, click, type, type, click and collect
+
 ### [Issue 10 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-10-2017.pdf)
 - Top Countries For Migrant Workers Caucasian— NZ Herald Data
 - Otago Uni Student Convicted Of Underage Sex Offence
@@ -5483,6 +5543,7 @@ YOU’RE THE FOUNDER OF PROUDLY ASIAN THEATRE. WHAT IS THAT, AND WHY DID YOU CRE
 - HARD (THREE POINTS)
 - the people to blame.
 - Do You Need Urgent Dental Care?
+
 ### [Issue 11 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-11-2017.pdf)
 - The F-Word
 - **Auckland Business School Shut Down For Plagiarism**
@@ -5596,6 +5657,7 @@ YOU CAN BUY TICKETS TO SEE MERMAIDENS LIVE AT THE BORDERLINE FESTIVAL OR AT THEI
 - HARD (THREE POINTS)
 - the people to blame.
 - It’s winter. Must be time to curl up with a cuppa and a good book!
+
 ### [Issue 12 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-12-2017.pdf)
 - NEWS
 - **Students Occupy ClockTower To Protest Fossil Fuels Investment**
@@ -5655,6 +5717,7 @@ YOU CAN BUY TICKETS TO SEE MERMAIDENS LIVE AT THE BORDERLINE FESTIVAL OR AT THEI
 - the people to blame.
 - AUCKLANDUNIVERSITYSTUDENTS’ASSOCIATIONandTHEUNIVERSITYOFAUCKLANDpresent...
 - Get exam ready at UBS!
+
 ### [Issue 13 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-13-2017.pdf)
 - Square
 - Oval
@@ -5752,6 +5815,7 @@ AS A PERSON OF COLOUR, WHAT ARE YOUR THOUGHTS TOWARDS REPRESENTATION IN THE NEW 
 - Herald’s Heroes
 - the people to blame.
 - **New name. Same DNA.**
+
 ### [Issue 14 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-14-2017.pdf)
 - Catriona Britton
 - AUS-EH?
@@ -5815,6 +5879,7 @@ AS A PERSON OF COLOUR, WHAT ARE YOUR THOUGHTS TOWARDS REPRESENTATION IN THE NEW 
 - the people to blame.
 - TUESDAY
 - INTRODUCTORY PRICES!
+
 ### [Issue 15 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-15-2017.pdf)
 - Catriona Britton
 - Valar morgulis
@@ -5913,6 +5978,7 @@ AS A PERSON OF COLOUR, WHAT ARE YOUR THOUGHTS TOWARDS REPRESENTATION IN THE NEW 
 - the people to blame.
 - TUESDAY
 - Relive all the Harry Potter magic with these awesome new editions and gift ideas
+
 ### [Issue 16 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-16-2017.pdf)
 - Catriona Britton
 - Balls Up
@@ -5987,6 +6053,7 @@ AS A PERSON OF COLOUR, WHAT ARE YOUR THOUGHTS TOWARDS REPRESENTATION IN THE NEW 
 - HARD (THREE POINTS)
 - the people to blame.
 - The Man Booker Prize Long list 2017
+
 ### [Issue 17 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-17-2017.pdf)
 - Catriona Britton
 - **Giving a Shit**
@@ -6063,6 +6130,7 @@ AS A PERSON OF COLOUR, WHAT ARE YOUR THOUGHTS TOWARDS REPRESENTATION IN THE NEW 
 - Baby’s bottom sudoku
 - Herald’s Heroes
 - the people to blame.
+
 ### [Issue 18 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-18-2017.pdf)
 - On Family & Reading Habits by Catriona
 - On Craccum & My Mum by Catriona
@@ -6131,6 +6199,7 @@ AS A PERSON OF COLOUR, WHAT ARE YOUR THOUGHTS TOWARDS REPRESENTATION IN THE NEW 
 - HARD (THREE POINTS)
 - the people to blame.
 - Don’t forget Father’s Day Sunday 3rd September
+
 ### [Issue 19 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-19-2017.pdf)
 - Catriona Britton
 - A deep-seated issue
@@ -6234,6 +6303,7 @@ YEAH, ABSOLUTELY. I WAS WONDERING, IF YOU WERE MAKING ANOTHER ALBUM, WHO WOULD B
 - HARD (THREE POINTS)
 - Herald’s Heroes
 - the people to blame.
+
 ### [Issue 21 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-21-2017.pdf)
 - Catriona Britton
 - All the President’s Men
@@ -6319,6 +6389,7 @@ DID ANY OF THE POLITICAL PARTIES THIS ELEC-TION HAVE POLICIES YOU SUPPORT? IF NO
 - Herald’s Heroes
 - the people to blame.
 - MAKE SPACE FOR SCIENCE FICTION...
+
 ### [Issue 22 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-22-2017.pdf)
 - Catriona Britton
 - **We the People**
@@ -6389,6 +6460,7 @@ DID ANY OF THE POLITICAL PARTIES THIS ELEC-TION HAVE POLICIES YOU SUPPORT? IF NO
 - Herald’s Heroes
 - the people to blame.
 - 2018 Paper Blanks Diaries
+
 ### [Issue 23 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-23-2017.pdf)
 - Catriona Britton
 - Hitting for six
@@ -6476,6 +6548,7 @@ AS A WOMAN OF COLOUR DID THIS MAKE A DIFFERENCE TO YOUR EXPERIENCES WITHIN THE I
 - Herald’s Heroes
 - the people to blame.
 - October New Releases
+
 ### [Issue 24 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-24-2017.pdf)
 - Catriona Britton
 - And the Fellowship of the Ring, Though Eternally Bound by Friendship and Love, Was Ended

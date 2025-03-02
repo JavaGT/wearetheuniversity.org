@@ -7,7 +7,8 @@ author-slug: we-are-the-university
 ---
 
 # External Resources
-[RNZ Nine To Noon Unease at Proposal to Change Auckland's Law School](https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018967773/unease-at-proposal-to-change-auckland-s-law-school) [Writeup here](#nine-to-noon)
+[RNZ Nine To Noon Unease at Proposal to Change Auckland's Law School](https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018967773/unease-at-proposal-to-change-auckland-s-law-school) [Writeup here](#nine-to-noon)sd/ljfnjlasn=-0\\\\\
+[Proposed new faculty arrangements: Law and Business & Economics – New Zealand Law Society](https://mcusercontent.com/2c7651e9ccfb726017b036999/files/f2208644-8576-eb1a-32f0-e02bb9fa62ad/Final_submission_Auckland_University_proposal_document.pdf)
 
 # Notes
 The concequences of this merger are particularly hard on the law faculty. Here are some notes that will be expanded on as we go.
