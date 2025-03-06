@@ -1,0 +1,118 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2008-06-19
+source-url: https://www.scoop.co.nz/stories/ED0806/S00057/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 19 June 2008, 8:58 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+National salary bargaining starts, government funding released  
+The university unions’ bargaining team met their management equivalents earlier this week to begin this year’s negotiations for two multi-employer collective emplyment agreements covering the sector. This initial meeting saw agreement reached in principle on a bargaining-process agreement with only a couple of outstanding matters to be concluded with one of the universities.  
+In advance of negotiations, lead advocate and Association of University staff deputy secretary, Marty Braithwaite, described multi-employer bargaining as an important platform upon which unions and vice-chancellors can address salary questions strategically and develop a collaborative approach to long-term workforce planning. “Only in this way,” he said, “can we overcome the disparities in salary levels and structures that have emerged over the last fifteen years of individual-university bargaining.”  
+“Despite working with government and the vice-chancellors over the last three years towards resolving salary problems, the progress has been insufficient to address international relativities and has done little towards resolving those disparities,” Mr Braithwaite added.  
+However, in this week’s negotiations, there was considerable discussion around a proposal from two universities relating to the presentation of claims. They wished to have the substantive issue around the form of the agreement (that is, for multi-employer or single-employer agreements) resolved prior to debating other claims. The reasoning given for this was that a number of the unions’ claims rely on employer acceptance of multi-employer agreements. The outcome of this discussion was that this matter will be debated and resolved as part of the bargaining.  
+Also discussed was the number of union representatives allowed per university and the number of paid days’ leave permitted for those representatives to participate in bargaining. While confirmation is yet to be provided from one university, the number of paid days for union representatives to attend bargaining is up to fifteen, following which the number shall be reviewed and agreement for more days, should they be needed, not withheld unreasonably. It was initially claimed by some universities that no more than two union representatives be permitted from their university but this has not been pursued.  
+Dates for further bargaining meetings, at which the substantive claims for negotiation will be presented and addressed, are 7 and 8 July in Christchurch, 16 and 17 July in Wellington, 23 and 24 July in Christchurch, and 30 and 31 July in Wellington.  
+In a late development, the Tertiary Education Commission has now released the breakdown of the $15 million in new government salary funding for universities for 2008. The government’s required split between academic and general staff delivers a salary increase of 1.53 percent for the former and 0.51 percent for the latter, payable from 1 July.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Funding falling behind inflation  
+2\. Tutorials cut at Canterbury college of arts  
+3\. Million-dollar commercialisation for Auckland  
+4\. AUS and ASTE acknowledge passing of Monte Ohia  
+5\. Inflationary pressures on degree standards  
+6\. European doctoral-education body launched  
+7\. Asian-American higher-education success “a myth”  
+8\. High IQ atheism?
+
+Funding falling behind inflation  
+Education Review reports that the gap between the rate of inflation and the annual increases in government funding of tertiary education is steadily increasing and likely, in 2009, to reach 2 percent, a figure estimated to be worth approximately $40 million in operational funding to tertiary-education providers. This, the greatest gap in recent years, follows six years in which annual inflation-linked adjustments have marginally fallen behind the rate of inflation.  
+While per-student funding has increased cumulatively by 16.7 percent since the beginning of 2003, inflation over the same period has been 17.2 percent. This year’s funding is 2.2 percent higher than last year but year-to-March inflation was 3.4 percent.  
+Education Review reports that some in the sector are concerned that increased costs for food and fuel will push inflation even higher than previously predicted. This view receives considerable support from Reserve Bank governor Allan Bollard, who recently predicted that CPI will peak at 4.7 percent in September. That figure would leave next year’s government funding about 2 percent short of the rate of inflation, a shortfall of some $44 million.  
+The Tertiary Education Commission is reported as saying that the 2009 increase in funding to the tertiary sector was determined last December on the basis of the preliminary half-year economic and fiscal update. This was because, under the controlled-funding system, the government has to budget for cost-of-living increases earlier than it did under the old, forecast-driven system.
+
+Tutorials cut at Canterbury college of arts  
+Students at the University of Canterbury’s college of arts are fearful that cuts to the college’s funding will mean that the quality of their education will be affected for the worse. The university’s recently adopted implementation plan is aimed at saving $1.2 million in 2008, with $400,000 coming from frozen staff positions and $800,000 from cuts in operating expenditure.  
+Operational funding has previously met the costs of tutors’ salaries but, as a result of the reduction, many of the college’s programmes are cutting back tutorials after the first year of study. A third-year arts student, Mark Rahui, has told The Press, “You get the feeling with students that they are getting cheated, and with the restructuring of departments, it’s almost like students are wondering when it’s going to stop.”  
+“It’s also the reputation of the degree,” he added. I don’t want to head out into the real world and have people chuckle about an arts degree from Canterbury like it’s a joke. I want to be just as prepared as everyone else.”  
+University of Canterbury Students’ Association president, Michael Goldstein, reported anxiety on the part of students as a result of fewer tutorials and other impacts of the cuts. “For students, this doesn’t improve the quality of education because it’s making class sizes larger and not complementing that with tutorials,” he said.  
+Pro vice-chancellor (arts), Professor Ken Strongman, is quoted as saying that some operational funding would be returned in 2009. “There will be a little bit put back, but not very much, because we have taken all the submissions made on our plan into account and made fewer job cuts than intended. I completely agree that students are better off with regular tutorials than not and I wish plenty of money was available for that,” he said.
+
+Million-dollar commercialisation for Auckland  
+A $36 million investment fund has been launched to assist early-stage commercialisation of intellectual property at the Universities of Auckland, Adelaide, and South Australia, and Monash and Flinders Universities. The Trans Tasman Commercialisation Fund has been established in collaboration with Westscheme, a Western Australian industry superannuation fund.  
+The New Zealand government, through New Zealand Trade and Enterprise, is assisting Auckland with overhead costs and similar roles are being played in Australia by the state governments of Victoria and South Australia. The Auckland city council is also supporting the new fund in the expectation that it will result in the growth of the local “knowledge economy”.  
+Dr Peter Lee, the chief executive officer of Auckland UniServices, the university’s commercialisation vehicle, said, “Valuable university research-based intellectual property currently lacks sufficient funding required to get it through the critical early stages of commercialisation – proof of concept, pre-seed and seed development stages – so it can advance to being investment-ready.”  
+“These are inherently risky and long-term investments,” he added. “We found there was no significant current source of private capital to support this process in New Zealand, so we have worked hard to find an investor willing to back our research.”  
+University of Auckland vice-chancellor, Professor Stuart McCutcheon, said, “Not only do we expect to increase the rate at which we are able to commercialise ideas, we also expect to see this research translated into many more successful spin-out companies that will locate in and around Auckland. In turn, these new high-tech, high-research companies will create a high demand for skilled people, which has obvious economic benefits to the region,” he concluded.
+
+AUS and ASTE acknowledge passing of Monte Ohia  
+The Association of University Staff and the Association of Staff in Tertiary Education Te Hau Takitini have acknowledged the passing of a great Māori leader, Rereamoamo Monte Ohia, describing him as a tall tōtara tree who has fallen. He was not only a renowned educationalist but also an iwi leader and whānau-oriented person.  
+ASTE national president, Tangi Tipene, said, “Our union mourns the passing of such a great man. We recognise his significant contribution across all levels of education, particularly Māori education in the tertiary sector.”  
+Monte held senior positions in wānanga, polytechnics, universities, the New Zealand Qualifications Authority, the ministry of education, and a range of independent research organisations, boards, and councils, as well as being a consultant to national and international organisations. He was previously head of the Bay of Plenty Polytechnic Māori School and, more recently, the pou matua/executive director of the Christchurch Polytechnic Institute of Technology, where he had held that position since December 2005.  
+“Matua Monte worked unstintingly with Māori staff and members of our union in and we are proud to have had this association with him,” said Ms Tipene. “His strength, knowledge, guidance, and wisdom will be sorely missed by Māori in our sector. We wish his whānau and friends the very best in filling the void left by such a great rangatira,” she concluded.  
+ASTE tauheke, Dr Huirangi Waikerepuru, said, “Kua maringi ngā roimata ki runga te papa i te hinga atu o te tōtara nui o te wao nui a Tāne. Takoto, takoto e te rangatira e Monte, haere, haere, haere.”  
+AUS vice-president Māori, Dr Fiona Te Momo, expressed her deepest condolences to te whānau Ohia and added, “Matua Monte’s passing is a huge loss to his whānau and te ao Māori as a whole, not only for his depth of knowledge in kaupapa Māori education but also as a great advocate for iwi Māori.”
+
+World Watch  
+Inflationary pressures on degree standards  
+Degree standards in many British universities are in danger of collapsing because lecturers are under pressure to “mark positively” and turn a blind eye to plagiarism, according to the man who was in charge of safeguarding standards at Britain’s largest university. Professor Geoffrey Alderman, former chairman of the academic council at the University of London, warned that a “league-table culture” has led to an explosion in the number of first-class honours degrees awarded.  
+Latest figures show they have gone up by more than 100 percent in Britain over the past decade, from 16,708 to 36,645, at a time when the undergraduate population has risen by just over 40 percent. In a lecture at the University of Buckingham, Professor Alderman also argued that universities have been particularly lenient with overseas students because they rely on them so heavily for fee income, so much so that they turn a blind eye to plagiarism and cheating.  
+Universities currently rake in fees of about $NZ3.67 billion a year from students outside the European Union, who can be charged the full cost of their courses. Their numbers have soared by nearly 40 percent in the past five years, bringing the total to just over 137,000. In the past decade, only one of the United Kingdom’s top universities, Cambridge, has reduced the proportion of firsts and high seconds.  
+Despite this, Professor Alderman said, “Standards of English literacy at UK universities are often poor. To compensate for this, lecturers are pressured to ‘mark positively’. This is particularly true in relation to international students, whose full-cost fees are now a lucrative and essential source of much-needed revenue.”  
+He continued, “I have heard it seriously argued that international students who plagiarise should be treated more leniently than British students because of ‘differential cultural norms’. It is indeed rare, nowadays, for habitual plagiarists to be expelled from their universities.”  
+From Richard Garner in the Independent
+
+European doctoral-education body launched  
+The inaugural meeting of the European University Association (EUA) Council for Doctoral Education was held at the University of Lausanne in Switzerland earlier this month. The new council will help formalise doctoral training within Europe and provide a focus for global dissemination of European work in this field.  
+“It was clear that the council wants to be a forum to share experience and learn from good practice in other universities but at the same time protecting Europe’s unique diversity in this area,” said Dr Alexandra Bitusikova, programme manager at the EUA. “We don't want to over-regulate or to harmonise everything; we don’t want the same doctoral programmes all over Europe; but we can still learn a lot from each other,” Dr Bitusikova said.  
+Discussion over the three days focused on defining key priority areas to be addressed for advancing doctoral training in Europe. Five main themes emerged: improving the supervision of PhD candidates, particularly through better training and monitoring of supervisors themselves; enhancing institutional cooperation, notably through the development of joint doctoral programmes and double degrees; introducing new structures such as doctoral schools within institutions to manage doctoral education; better provision of skills training for doctoral candidates, particularly “transferable” skills; and enhancing quality control and evaluation of PhD programmes.  
+Dr Bitusikova said there were definite regional differences in the uptake and development of doctoral education in Europe. “In northern parts, the reforms are already in place but in the southern and eastern European parts many universities still need to do a lot of work,” she said.  
+“We definitely will be a partner of the Council for Graduate Schools in the US and Canada. We’d like to be the voice of European return-intensive universities, all universities that award PhDs should be return-intensive,” Dr Bitusikova said.  
+From Alan Osborn in University World News
+
+Asian-American higher-education success “a myth”  
+When “too good to be true” fails to be either good or true, long-term repercussions can be devastating and pervasive, according to a new report that challenges long-held beliefs about Asian-American and Pacific Islander students’ academic success. The report, Asian-Americans and Pacific Islanders – Facts, not Fiction: Setting the record straight, details “why false assumptions can lead to misinformed policy and practice that can be harmful to Asian-American and Pacific Islander students”.  
+The United States census bureau estimates that there are now almost 17 million Asian-Americans and Pacific Islanders in the US. The umbrella term AAPI represents 48 ethnic groups, who are seen as “studious, self-sufficient high achievers”. Asians, however, have varied backgrounds, cultures, and educational and financial attainments and should not be homogenously lumped together, according to the report.  
+In fact, while many Asian-Americans perform extremely well and are solidly represented in top universities, AAPI students are evenly distributed in community and four-year colleges and are not “taking over” US higher education, as one myth suggests. Another debunked myth is that AAPI college students only pursue degrees in science, technology, engineering, and maths.  
+“To successfully meet the needs of all our young people, schools and colleges must recognise that students differ. Institutions must involve everyone in efforts to meet individual needs: students, parents, advocates, teachers, and administrators," said Gaston Caperton, president of the College Board.
+
+High IQ atheism?  
+Belief in God is much lower among academics than among the general population because scholars have higher IQs, a controversial academic has claimed. In a forthcoming paper for the journal Intelligence, Richard Lynn, emeritus professor of psychology at the University of Ulster, argues that there is a strong correlation between high IQ and lack of religious belief.  
+In the paper, Professor Lynn, who has previously caused controversy with research linking intelligence to race and sex, says evidence points to lower proportions of people holding religious beliefs among “intellectual elites”. The paper, which was co-written with John Harvey, who does not report a university affiliation, and Helmuth Nyborg, of the University of Aarhus, Denmark, cites studies, including a 1990s survey, that found that only 7 percent of members of the American National Academy of Sciences believed in God. A survey of fellows of the Royal Society found that only 3.3 percent believed in God at a time when a poll reported that 68.5 per cent of the general United Kingdom population were believers.  
+Professor Lynn asks, “Why should fewer academics believe in God than the general population? I believe it is simply a matter of the IQ. Academics have higher IQs than the general population. Several Gallup poll studies of the general population have also shown that those with higher IQs tend not to believe in God.”  
+In India, however, a different picture emerges. Indian scientists are apparently split down the middle over their belief in the existence of God, according to a nation-wide investigation.  
+One-quarter were firm believers and another quarter atheists or agnostics, with the balance unsure or not responding. However, one-third believed in the existence of sins and deeds of a past life and life after death, one-quarter belived that holy people can perform miracles, and 40 percent approved of the ritual of seeking religious endorsement of a space launch.  
+From Times Higher Education and Telegraph India
+
+More international news  
+More international news can be found on University World News:  
+http://www.universityworldnews.com
+
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct inquiries should be made to the editor, email: editor@aus.ac.nz.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

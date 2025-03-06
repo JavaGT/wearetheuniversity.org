@@ -1,0 +1,164 @@
+---
+slug: david-parker-speech-waitaki-girls-high-school
+title: "David Parker Speech Waitaki Girls High School"
+date: 2005-09-15
+source-url: https://www.scoop.co.nz/stories/PA0509/S00394/david-parker-speech-waitaki-girls-high-school.htm
+author: new-zealand-labour-party
+---
+David Parker Speech Waitaki Girls High School
+=============================================
+
+**Thursday, 15 September 2005, 8:47 am**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+David Parker Speech Waitaki Girls High School - Oamaru 14 September 2005
+
+This evening I want to remind you what the Labour Party stands for. I want to tell you what motivates me to stand here. Why I put myself forward to be judged, to be criticised, as I stand for election by you, my peers, my fellow New Zealanders.
+
+I do so because I am proud to represent a vision for the future of our province and our country. That vision is one of fairness and prosperity. A tolerant community where we live in harmony with one another. Where the gap between the haves and the have-nots does not grow ever larger. Where our standard of living improves. Where everyone, no matter how poor or wealthy their parents, is given the opportunity to achieve their potential through decent public education and health services.
+
+It does not hurt to pause and remind ourselves that we are one of the most privileged nations on this earth. On virtually every important OECD measurement New Zealand is near the top. Be it the quality of our health services, the educational attainment of our school leavers, the longevity of our people, the cleanliness of our environment, the sustainability of our superannuation arrangements, our high growth rate, or our low unemployment. On each of these we score near the top of the developed world.
+
+Many people from other developed countries look to us as an example of how they want to be. A country with low and dropping crime rates. A country with moderate rates of taxation – a topic I will return to.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+This does not mean we should be complacent. But it does mean we should consider whether radical change is needed. And make no mistake; what National is proposing is radical. Be it on tax cuts or foreign policy blindly aligned with Mr Bush’s USA, Dr Brash’s agenda is to move New Zealand radically to the right. For the benefit of a few at the cost of the vast majority.
+
+This campaign has been long and bitter. It has been characterised by negative sniping and unrealistic election bribes.
+
+When you cast your vote on Saturday, you decide your country’s future.
+
+What future do you want for yourself and coming generations? It’s your choice.
+
+Do you want tolerance or intolerance? How did you feel about the foreshore and seabed controversy? Threatened? Many did, from both sides. Labour steered a course which has preserved everyone’s right of access across the foreshore and seabed.
+
+We avoided violent protest – just. Given that recent controversy would you push race relations hard now? I wouldn’t. It doesn’t seem prudent. But Dr Brash is willing to risk race relations by abolishing the Maori seats unilaterally which have existed for over 100 years. What motivates this? Is it because Maori do not fit Dr Brash’s view of “mainstream New Zealanders”?
+
+Let’s think about this. What does Dr Brash mean when he says “mainstream New Zealanders”? Do you think it’s working class Oamaru people? As the Tui billboards say - Yeah right. Is it widows relying on the DPB? I doubt it. Is it superannuitants just getting by on the super? Is it the rich or the poor? Is it the tolerant or the intolerant? You decide.
+
+What about Dr Brash and National Party links with the Exclusive Brethren? How do you feel about those links and the fact that Dr Brash lied about them? He was caught out and was forced to apologise for lying. Why did he lie? What was it about?
+
+The Exclusive Brethren is not a moderate church group. They’ve been fairly described in one of New Zealand’s leading newspapers as the Taliban of New Zealand’s religious sects. They have to marry within the sec. They must not watch TV. Women are not permitted to work outside the home. They are not allowed to go to university. They’re not even allowed to read novels.
+
+That the National Party’s agenda suits the Exclusive Brethren should worry you as much as it worries me.
+
+The Business Roundtable likes Dr Brash and the extreme right-wing direction he is taking. Like Dr Brash they oppose the minimum wage and favour the privatisation of health and education services. They would profit from the privatisation of electricity and water and from the sale of KiwiBank and Air New Zealand.
+
+Ask yourself again; are National’s policies centrist or extremist right-wing?
+
+The demise of the Act Party should give you a hint. The disappearance of Act at this election is being predicted by most political commentators. Act has been polling well below the 5 per cent threshold needed to get into seats in Parliament. It’s worth considering why. National now has Act’s policies. This should not surprise people. Dr Brash has long admired the policies of the extreme right. Act lovingly refer to him as their “10th MP”. In fact, Dr Brash is a close friend of Mr Hide. It’s no secret that they holiday together.
+
+What about foreign policy? Not many seriously doubt Dr Brash and National would have New Zealand at war in Iraq with the USA.
+
+And remember his comments, that the ban on nuclear powered ships visiting New Zealand would be “gone by lunchtime” if he had his way. For those who wonder whether this might be sensible, you should know that the UK has a ban on nuclear powered vessels visiting London ports because of the possibility of accidents or terrorist acts.
+
+Remember also that National’s spokesman on Defence said National would follow the defence interests of the USA when he said where they go, we will go.
+
+I am proud that the Labour government in which I have served made what history already shows was the correct decision on Iraq –made in the face of enormous pressure and criticism.
+
+Oamaru has a large number of superannuitants. Who was it that promised them the earth before cutting the rate of super? National. Who restored the baseline for super and has created a savings fund to secure its future? Labour. Who has pledged to provide rates rebates of up to $500 pa for low-income people? Labour.
+
+I have already outlined a number of issues which I firmly believe shows National’s agenda is a sharp shift to the right. But nothing shows this more clearly than their proposed tax cuts.
+
+How you vote in the election is for you to decide. But I ask you, when you make your decision, please consider whether you think it is wise for National to fund its tax cuts by borrowing.
+
+For the first time since National’s Muldoon left the New Zealand economy in tatters, we have a major political party admitting it will borrow money to fund tax cuts.
+
+Money you, your children and your grandchildren will need to repay in the future. You will repay it through future taxes and higher interest rates, as well as future cuts to health, education and superannuation.
+
+National admits its tax cuts cost $7 billion more than Labour’s.
+
+National is no longer denying it will borrow billions of dollars to fund its tax cuts.
+
+It says it will cut spending by $3.5 billion and borrow $3.5 billion.
+
+In an interview on 24 August with editor Alistair Thomson , National finance spokesperson John Key said: \"In the numbers we put out last week we would borrow 3.3 billion more ..."
+
+In a speech to the Diplomatic Club in Wellington on 25 August, independent economist Brian Easton said this:
+
+“Labour’s tax cuts are not only smaller but they are probably within the acceptable fiscal parameters . . . But if Labour’s cuts just hover out of the imprudence range, National’s are much larger. They admit they are going to have to borrow to finance them . . . The fact of the matter is that National’s tax cuts will raise its borrowing faster than GDP growth.”
+
+The excuse that National is now using - borrowing for capital expenditure - does not stand scrutiny. Every government has capital expenditure like new class rooms, new hospital equipment and new roads. Every year.
+
+The simple reality is that National admits its budget does not balance. It intends to spend billions more than it will collect in tax.
+
+I’ll say only one thing about Jacqui Dean tonight – which is to remind you she was reported as saying “we’re not borrowing for tax cuts we’re getting the money from offshore”. What nonsense.
+
+National’s only way out of the mess it will create is by raising taxes again or slashing health, education and superannuation.
+
+What do you think National will do? What did it do last time?
+
+Under Labour New Zealand has the lowest unemployment in the world. We’ve had five years of strong growth – 3.9 per cent per annum over and above inflation. This is amongst the highest in the developed world, higher than our trading partners, Australia, the USA, and Japan.
+
+National admits it will have to borrow billions of dollars to fund its cuts even now in boom times. You don’t have to be a brain surgeon to know National will have to borrow even more if the economy slows down.
+
+National’s tax cuts are irresponsible. The cost of interest to tax payers will climb by hundreds of millions of dollars - each year!
+
+In fact New Zealand is not highly taxed by international standards. Of the 30 OECD countries, we are the 13th lowest taxed. Our taxes are well below average, especially when compared with other countries which have public health, education and superannuation.
+
+Labour’s tax cuts for families with children reduce their taxes by more than $100 per week on average. We can afford this.
+
+Labour’s tax cuts are focused on families with children because their need is greater. Families with children need a higher after tax income.
+
+National’s tax cuts give someone earning $100,000 nine times the tax cuts of someone earning $30,000. Is that fair?
+
+During the 1990s the gap between the well-off and the poor grew markedly. Only the top 20 per cent of households went forward significantly. The rest went backwards or stayed where they were.
+
+The number of children living in poverty grew during the 1990s. This was shameful.
+
+In New Zealand, once known as “the land of plenty”, food banks were having to give food to thousands and thousands of families every week. This is another reason why tax cuts should benefit low and middle income families with children most. Labour’s do.
+
+Despite the history of the 1990s, National’s tax cuts give most to those who are already better off. And to do this they have to increase government debt by borrowing billions of dollars. How can this be right?
+
+Our tax cuts for families, and our other election pledges, have all been fully costed and can be paid for without increasing the government debt to GDP ratio.
+
+I believe this is the most important issue of the election. It’s just crazy to increase government debt to fund tax cuts.
+
+Ask yourself this simple question: when National borrows billions to fund its tax cuts, who will have to repay the money? You? Your children? Or the tooth fairy?
+
+Just before I finish, I’m told I have to give myself a little plug. I have worked hard to represent your interests in Parliament. I have kept three offices busy; in Oamaru, and Alexandra, and in Queenstown. That’s more than your prior MP.
+
+I’ve been effective in protecting local interests from being overrun by the national interests on the Waitaki River. I have helped the local hospital get funding from the DHB to enable them to pay nurses and midwives in Oamaru the same rate as they are paid in the city. I’ve helped sort out search and rescue coordination following the Time Out tragedy at sea off Kakanui.
+
+You have to be on one select committee at Parliament: I’m on four and have the senior Labour Party role on two of those four. That tells you I am capable and a hard worker.
+
+I bring a range of life experiences. I have been a lawyer with experience in every court in New Zealand. I have been a businessman. I have been a church group youth leader as well as a school trustee.
+
+I have the range of skills needed to serve you, and I ask you to vote for me on Saturday.
+
+Lastly, I will try to sum up your choice this weekend. Do you want Helen Clark or Don Brash as your Prime Minister?
+
+There’s a lot at stake this election. Don Brash has admitted that he wants to take New Zealand in a completely different direction.
+
+Helen Clark has been in the public eye for two decades and under the microscope as Prime Minister for six years. Helen Clark is honest. She has kept her promises. Helen Clark does not promise the moon, but she delivers what she promises. You can trust her.
+
+Helen Clark’s vision for this country is similar to my own. It is for a fair and prosperous nation, with opportunity for all. A nation of moderation where all New Zealanders go forward together.
+
+The choice is yours. Keep New Zealand going forward together by voting Labour.
+
+Thank you.
+
+David Parker
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

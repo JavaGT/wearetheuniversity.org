@@ -1,0 +1,50 @@
+---
+slug: lets-get-wellington-moving-absolutely-positively-must-go
+title: "Let’s Get Wellington Moving Absolutely Positively Must Go"
+date: 2023-06-29
+source-url: https://www.scoop.co.nz/stories/PA2306/S00199/lets-get-wellington-moving-absolutely-positively-must-go.htm
+author: act-new-zealand
+---
+Let’s Get Wellington Moving Absolutely Positively Must Go
+=========================================================
+
+**Thursday, 29 June 2023, 11:13 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+“If Wellington City Council’s (WCC) faction of clueless left-wing councillors try and condemn the city to Let’s Get Wellington Moving today, Central Government should at least do the right thing and pull its funding out of it,” says ACT’s Transport spokesperson Simon Court.
+
+“In all my years prior to Parliament as a civil engineer and project manager, LGWM is comfortably the worst transport programme I have ever encountered. The business cases are vague and full of flawed and baseless assumptions, and in the case of speed reductions, have basic mathematical errors in them.
+
+“Despite opposition from a chunk of the WCC who actually understand economics and care about the city’s future, there still appears to be a majority who’re playing student politics and remain hellbent on pushing their utopian vision on retailers with little idea or regard for actual outcomes.
+
+“Their big idea is to make Wellington a place where people are unable to have the flexibility to drive up to a shop, pick something up, grab the kids from school, head to sports practice and somehow this will entice people to the city. They can’t bully people into changing their entire lifestyle for the sake of a left-wing fantasy. People will just leave.
+
+“Hundreds of Wellington retailers organised a meeting to tell the council this plan will do enormous damage to the city they have gone out of their way to invest in and build a business. The mayor didn’t even bother turning up to the meeting because she was afraid of a frosty reception.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“She showed her contempt for ratepayers when last weekend’s The Post ran a story where the Mayor admitted to being disappointed that she couldn’t just spend ratepayers’ money willy nilly _“That was the big realisation … You can’t just go and spend money outside of the annual plan and long-term plan. I was like: Oh, I have to wait my turn.”_
+
+“The phone is off the hook between Wellingtonians and the bulk of WCC, but Central Government can still do the right thing.
+
+“The Government’s sole focus for the roading network should be getting people from A to B as safely and efficiently as possible. That’s what ACT stands for. ACT would cancel this project and go back to basics.”
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

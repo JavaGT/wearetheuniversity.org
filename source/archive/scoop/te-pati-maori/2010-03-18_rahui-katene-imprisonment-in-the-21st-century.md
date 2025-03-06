@@ -1,0 +1,220 @@
+---
+slug: rahui-katene-imprisonment-in-the-21st-century
+title: "Rahui Katene: Imprisonment in the 21st Century"
+date: 2010-03-18
+source-url: https://www.scoop.co.nz/stories/PA1003/S00248/rahui-katene-imprisonment-in-the-21st-century.htm
+author: te-pati-maori
+---
+Rahui Katene: Imprisonment in the 21st Century
+==============================================
+
+**Thursday, 18 March 2010, 9:38 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+**Mini Symposium "Imprisonment in the 21st Century"**  
+**Hunter Council Chamber, Victoria University of Wellington**  
+**Wednesday 17 March 2010; 5pm**  
+**Rahui Katene, Justice spokesperson for the Maori Party**
+
+Yesterday at Whistler Creekside in Vancouver, disabled skier, Adam Hall, showed the world the full extent of the Kiwi spirit. Against all adversity, Adam crashed, then got back on his skies and continued to the finish line, sweeping up the gold medal with him.
+
+He said later, he had been determined not to let the tumble affect him, _“All you think about is a gold medal, you don’t come here to come second”._
+
+Around the world, Aotearoa has acquired the reputation for being the little country that dared.
+
+From Rutherford splitting the atom, to Hillary conquering Everest, right through to the Aotearoa Women’s Rugby taking out the Hong Kong Sevens year after year, we are known for doing just what Hall did, against all odds, coming through with the gold.
+
+Last evening I was fortunate enough to view the documentary “Crime and Punishment” and given what I am about to say one would think that I wrote the script for that documentary.
+
+The documentary was not emotive, not sensationalised. It was just, matter of fact, rational and supported by evidence, both locally and internationally.
+
+It involved people who had committed crimes reflecting on their lives and the nature of prisons and imprisonment. It involved people who were former enforcement officers and who were now advocates for a more humane look at prisons and prisoners.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+It included people like Baroness Vivien Stern Senior Research Fellow at the International Centre for Prison Studies (ICPS) at King’s College, London who brought an international research based perspective to the discussion.
+
+It certainly was a good example of how I as a politician and for media interested in alternatives to a growing prison population can enter in to a rational, reasoned discussion on the issues of crime and punishment. It is my wish as a politician that the issue of crime and criminality is not used by politicians and the media alike to satisfy what appears to be an insatiable appetite for sensationalism, fearmongering and vote catching.
+
+Na reira tena tatou.
+
+The question I bring then to this symposium is when will we see this same Kiwi ingenuity that I referred to earlier, being applied to the central policy problem of the gross over-representation of Maori within the prison system?
+
+For twenty five years policy approaches to reduce Maori offending have failed to bring home the gold. In the penal industry ranks, Maori are over-represented at every step of the criminal justice process. It seems the criminal justice system is chasing gold in the wrong category.
+
+Although Maori comprise just 12.5% of the overall population aged 15 and over, 42% of all criminal apprehensions involve a person identifying as Maori.
+
+And of course it is news to no-one, that Maori make up around 50% of the total prison population and about 60% of the female prison population.
+
+When did we normalise this pattern of imprisonment into the national psyche?
+
+How is it that we can accept an imprisonment rate for all New Zealanders of approximately 180 per 100,000 with a specific exception that applies to Maori of 700 per 100,000?
+
+The extent of over-representation of Maori in apprehension, prosecution, conviction, and sentencing is now, it would seem, an accepted part of the penal establishment.
+
+Half of all offenders will be Maori – we seem to just accept that statement as if that’s just the way it is Why?
+
+Almost fifty years a group was established in Nelson concerned about the high incidence of Maori crime.
+
+That group, the Maori Organisation on Human Rights, monitored the activities of the Magistrates Court in Nelson, and published their findings in a paper, entitled _Justice and race: a monocultural system in a multicultural society._ The argument posited in that paper was that if Maori defendants had a fair hearing, with quality legal representation, the Maori imprisonment rate would be lowered by a third.
+
+One of the authors of that report was my father, John Hippolite. I have a particular and profound sadness that although he devoted so much of his life to changing the system, it is still a feature of the justice sector context today in 2010.
+
+Of course there are other features of the prison profile which worry me.
+
+I worry that in the decade 1986 to 1996 the average number of sentenced prison inmates increased by 83%.
+
+I worry that we have one of the highest rates of imprisonment in the world, and that by 2016 our inmate population is projected to hit 10,700.
+
+I worry that since the 1980s the number of women in prison has increased substantially from approximately 110 in 1983 to 490 by January of this year.
+
+And I worry that little has changed in the profile of women entering prison. Most enter prison with a range of problems. The Howard League for Penal Reform has summarised the profile of the female offender as poor or welfare dependent, high health needs, few educational qualifications, high incidence of mental health problems, histories of drug and alcohol abuse, high level experience of abuse and victimisation.
+
+And inevitably I worry about what PILLARS have identified as the invisible children, the human costs of the estimated 23,000 children whose parents are incarcerated. Many of these children are described as walking powder kegs, suffering from physical, mental, behavioural and emotional problems that deteriorated over time.
+
+The initial research has found that Maori prisoners surveyed in this study were far more likely than Pakeha to have lived as a child with someone who went to prison.
+
+So the time has never been more right for high quality interventions to make the difference to the end point of a gross service failure in education, health, and social services which have led to a justice profile that no one can be proud of.
+
+We must strip back the layers of imported solutions that have shaped the criminal justice sector – whether it’s criminogenic programmes that prioritise offending risk, or “manualised” interventions from the United States; or multisystemic therapy; or the escalating of punishment and longer sentences in the same old institutions.
+
+I want to state, categorically, that there will always be a place for some very serious crimes in which the offenders must be removed from society for a period, in the interests of public safety and the community good. The question is, however, how is the perpetual problem of offending managed in such a way as to meet society’s desire for retribution and for rehabilitation?
+
+Over two years ago, Ombudsman Mel Smith's inquiry into crime and the criminal justice System, called for a Royal Commission in to Criminal Justice. The conclusion he reached was that a system which had an economic and social cost of $9.1 billion in 2003 warranted a comprehensive and high level examination of all of the issues and the development of approaches that produce a better system and reduce this huge economic cost.
+
+This is a waste of resources at astronomical levels.
+
+The majority of people in our prisons are young, unskilled and unemployed. Youth prosecutions are trending upwards, with the proportion of apprehensions increasing from 13.2% in 1995 to 28.1% in 2007.
+
+In an era in which everyone is calling for step-changes in every sector, I think what is needed in the criminal justice sector fits more along the lines of a staircase change
+
+In fact, the persistent profile of thousands of Maori churned out through the Courts, community sentencing and prisons looks more like an automatic escalator.
+
+You know how young children will be fascinated by escalators – the stairs disappear from sight every now and then, and then reappear with absolute regularity.
+
+Well it seems to me that we continue to see the same factors reappearing in the revolving criminal justice staircase – unemployment or low paid work, education system failure, dyslexia and learning disorders, sexual abuse, drug and alcohol addictions, and the accompanying financial debt, desperation and fractured family relationships keep reappearing in depressing consistency.
+
+One would think that the weight of such endemic mechanical system breakdown would have been confronted long before now.
+
+We must become, once more, the little country that dared to make a difference.
+
+The climate is right for large scale change.
+
+Two months ago the House of Commons in London produced a report, _cutting crime : the case for justice reinvestment_ which signalled a radical shifts towards a rational approach to the use of penal policy resources.
+
+They called for an inquiry into justice reinvestment to seek to address the root causes of a seemingly incessant growth. They describe prison as a relatively ineffective way of reducing crime and an expensive way of dispensing justice. Justice reinvestment approaches instead channel resources to reduce the crime which bring people into prison.
+
+We are privileged at this symposium to have the expert experience of Chris Cunneen to share his knowledge of the complex interaction between indigeneity, the state and crime. Chris Cunneen in his work, Conflict, Politics and Crime, has issued the challenge that changing the nature of contemporary relations between Aboriginal people and the police is a key to altering Aboriginal over-representation in the criminal justice system, and a step towards the advancement of human rights.
+
+So what is the staircase change that we are demanding in Aotearoa?
+
+We must pull the plug on a philosophy which argues for the inevitability of a high and rising prison population; for building larger prisons; to seek solutions in harsher sentences rather than investing in rehabilitation and prehabilitation.
+
+The resourcing allocation decisions we make must address in a systematic way the context that we all know contributes to criminality – low educational engagement, drug, alcohol and mental health problems, cultural and social dislocation, inadequate housing, unemployment, income deprivation.
+
+Professor John Pratt, another of the keynote speakers for this event, has also been instrumental in raising issues around the emphasis of our attitude to imprisonment. In a forum last year he issued the challenge that the way we punish offenders tells us a great deal about ourselves.
+
+We have to then wonder at the seeming public tolerance for ever-increasing emphasis on the use of double-bunking, or the construction of container cells for prisons.
+
+We must start to do things differently.
+
+The Maori Party justice policy is predicated on the premise that the cure is in the care. We endorse a restorative justice system where victims are empowered and the community is integral to bolster relationships and reduce crime.
+
+A key philosophy underpinning our policy in practice is that restoration of the role of the collective is important.
+
+We seek too, to decrease Maori offending and victimisation, to reduce the use of imprisonment as the priority response, and to support a focus on rehabilitation and reintegration within prison – including our advocacy for literacy and numeracy programmes.
+
+And if I can make a passing comment about a private members bill currently on the books, the Maori Party is absolutely opposed to imposing additional restrictions on prisoners, in terms of denying them the right to vote. We shouldn't be discouraging people who are already disengaged from society from expressing their views legally
+
+I want to come back to the Ombudsman’s Inquiry, calling for a Royal Commission in the criminal justice system.
+
+Mel Smith observed that the issues around criminal justice had become highly politicised and often the subject of uninformed and  
+superficial public and media comment.
+
+Opposing philosophies are lined up against each other as either _“penal popularism_” – the drive to get tough on crime; or _“soft liberalism”_ – with a focus on rehabilitation.
+
+The ultimate expression of this penal popularism, I’d have to say, is in the introduction of the three strikes policy; a policy which our coleaders have suggested legislates for judicial discretion to be over-ruled by political dogma.
+
+The evidence that we have gained from international sources shows that ‘three strikes’ laws actually increase the risk of violence to the police, and often to victims. The loss of parole means prisoners will have less incentive to change their ways, and all that is does is to add to an ever-growing problem where prison musters are overflowing, courts are clogged up, police are overstretched.
+
+And we know that Maori will be disproportionately affected as offenders and as victims of offending.
+
+Enough is enough.
+
+The Maori Party believes we all have a part to play in making the fundamental change necessary, to stop the staircase effect, and dare to be different.
+
+We do not need to suffer the affront of sensationalised or inaccurate reporting on exceptional cases.
+
+We need to think carefully around the issues of offending, of victimisation, of poverty, of injustice – to understand how we can address public opinion that settles for punitive responses as the simple fix for our failures as a society to invest in human potential.
+
+We need to stop looking at outside answers and instead understand our own environment, focus on our own solutions.
+
+A pretty good place to start would be to say we do not accept the 50% assumption as normal.
+
+A symposium like today is critical in changing the agenda.
+
+We do not have to reinvent the wheel – the criminal justice sector is rich with resources which have recommended priorities.
+
+The issue of ethnic disproportionality reverberates through the literature. We could start today, by commissioning work to identify the potential bias in the criminal justice sector through rigorous reporting and monitoring.
+
+The focus on restoration and rehabilitation is vital. We know that factors like the involvement of whanau, suitable employment and adequate accommodation are all fundamental to the successful reintegration of released prisoners.
+
+Cultural competency is a major interest to the Maori Party – not just the interactions we have with each other; but also whether the institutions of the state also reflect competency in achieving outcomes for all cultures.
+
+Our co-leader, Dr Sharples, as Associate Minister of Corrections, has talked about a model he believes will support successful reintegration of prisoners, where the individuals are reconnected to their culture, their community, and importantly their whanau.
+
+And our other co-leader, Tariana Turia, is championing whanau ora - an investment in whanau strengthening themselves. The primary goal of whanau ora is to take an integrated approach to whanau wellbeing to ensure that whanau can be self-managing, living healthy lifestyles, and participating fully in society.
+
+I have to admit that when I was asked to address this symposium, I was initially not keen to delve into the misery that we all know is attached to any analysis of imprisonment, but more specifically so for Maori.
+
+But my resolve was strengthened by the thought of these initiatives that come from the very heart of our people, our whanau.
+
+The Whare Oranga Ake – a House of Renaissance, if you like – that Dr Sharples talks about, offers prisoners who are determined to make changes in their lives a pathway repatriating them to society - their families and, where appropriate, their victims and the victims’ families, and wider society.
+
+And in Whanau Ora, we see a focus which is driven by an all encompassing vision for Maori that focuses on whanau ora, or wellbeing for all whanau members. It is about being motivated by the strengths of whanau, building on their unique talents, and fostering identity, integrity and pride.
+
+It comes from a focus where collectively our whanau are inspired to meet their community and family responsibilities. It is about supporting our whanau to be adaptable, to be entrepreneurial, to be well educated.
+
+It is driven from a place where our whanau can focus on having a sense of future possibilities; where our whanau are comfortable in their own skins; where they value and respect all who belong to them.
+
+These are just a few of the ideas that emerge when I think of the issue of imprisonment – and I know there is a full kete of other skills and strategies that could be transformative in this sector.
+
+I think it’s important to remember that no one solution will be the ultimate answer. I was interested to hear the criticism from Ngati Kahungunu lawyer Moana Jackson, about his concerns with marae based youth courts. Moana’s view that was Maori should be wary of simply transposing elements of a western justice system into a Maori environment.
+
+I have to say that I agree with him, that we should consider what the impact could be for our rangatahi, in being faced to face up to the marae to address their offending. Our marae are a precious and distinctive facet of our cultural heritage, and the last thing we would want is to see young people being turned off their culture, because of a brush with the law.
+
+But on the other hand I want to acknowledge the leadership in particular of Judge Hemi Taumaunu who is genuinely committed to trying to do something to address the disproportionate levels of offending amongst young Maori.
+
+What he has done in collaboration with Te Poho o Rawiri marae, and key justice agencies, has been to think of a different way of enabling our young people to understand their experiences, and I don’t want to take anything away from that – or the other marae that have taken up the challenge.
+
+In much the same way, I’m really supportive of the initiative that Judges at the Porirua District Court are taking with in the hui they called with local community organisations to see if they can work together to address some of the underlying causes of offending.
+
+They’re putting their faith in the community, they’re showing they’re willing to learn from the collective wisdom of the community and that’s great to see.
+
+The thing is, we can not afford to dither or delay any longer – but we must always take into account any unintended effects that may arise during implementation.
+
+We can be the nation that dared to address the penal status quo. The options are all there – the key will be in the political and public will to want to put an end to rocketing prison numbers; to want to invest in the potential of all people of Aotearoa.
+
+Let’s set our sights on the gold medal.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

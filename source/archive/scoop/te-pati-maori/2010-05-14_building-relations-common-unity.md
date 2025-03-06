@@ -1,0 +1,135 @@
+---
+slug: building-relations-common-unity
+title: "Building Relations – Common Unity"
+date: 2010-05-14
+source-url: https://www.scoop.co.nz/stories/PA1005/S00220/building-relations-common-unity.htm
+author: te-pati-maori
+---
+Building Relations – Common Unity
+=================================
+
+**Friday, 14 May 2010, 5:12 pm**  
+**Press Release: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+**Building Relations – Common Unity**  
+**The ’50 Club’ – Nice Hotel and Bistro, New Plymouth**  
+**Hon Tariana Turia, MP for Te Tai Hauauru; Co-leader of the Maori Party**  
+**Friday 14 May 2010; 2pm**
+
+One of my favourite things to do when I come to Taranaki is to spend some time at Puke Ariki.
+
+Puke Ariki is a place where people come together – to visit the heritage collections, to browse at the library, to while away the hours amongst the exhibitions.
+
+Currently on display is _The Taranaki War 1860–2010: Our Legacy — Our Challenge._
+
+This is, ostensibly, an exhibition to educate visitors about the events that took place in Taranaki since the first shots were fired in March 1860, some 150 years ago. It is an opportunity to demonstrate the impact of the wars that raged throughout Taranaki for over 21 years – the military invasion, civilian casualties, the siege attack of Parihaka Pa, the attempted ethnic cleansing.
+
+It is a chance to tell the stories of Maori and Pakeha, those who lived and those who died.
+
+But it is also, importantly, a platform from which to view our future.
+
+One of the unique features of the exhibition is an interactive comment wall, expressing the thoughts of people like you and me. One of those comments sums up a common response:
+
+_“I think everyone in Taranaki including expatriates should understand the turbulent history of this region. In particular the young people of Taranaki should be aware of its history. We all have an obligation to right the wrongs of our ancestors and to make Taranaki like no other”._  
+  
+That last sentence, in particular, is one which I found truly inspiring. The anonymous artist draws our attention to the sense of obligation and responsibility we have both to our past – those who have gone before us – and to those who will follow. And in focusing on the nature of the obligation, there is the intention to “make Taranaki like no other”.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+It is a sentiment which I believe could well be a mission statement for this group – the 50 Club.
+
+From what I understand from Moira Irving, the 50 Club is a group of local Taranaki people who care about the community you live in; who are united in your enthusiasm for Taranaki and advancing your place as a vibrant community for all.
+
+I have called my address today, building relations – common unity.
+
+I have a passionate interest in knowing what it is that unites us – rather than what divides us. This is, I believe, the most effective definition of community – the common unity that brings us together.
+
+When we think of the shape of the news over recent days there has been much that might connect us - but it is a connection built on tragedy and tears.
+
+We might share the universal despair that washes over us as we see young school mates do a final haka for their friend, gone too soon as a result of the harm caused by alcohol.
+
+We might unite in our concern for the families of two women, one in Whanganui, one in Christchurch; families who are struggling with their loss.
+
+We could be disgusted that a young child became a target. We might wonder what’s happening in the lives of our young people when a schoolgirl takes a knife to other students.
+
+For most families right across this land, events such as these provoke soul-searching questions; leaving us to wonder how such crisis situations could be avoided.
+
+But what are the connections that bring us together in joy and pride; what are the experiences that we share as New Zealanders that can lead us forward?
+
+Too much emphasis is placed on the problems that beset us; too much weight is given to challenges that contain the potential for conflict.
+
+I am sure that in this group, you will all remember the lyrics of that seventies hit from the Brotherhood of Man, _United we stand, divided we fall_.
+
+What are the events and experiences that we share in this land, that build our brotherhood, that nurture our sisterhood; that create our nationhood?
+
+I am absolutely convinced that like the unknown artist writing on the walls of Puke Ariki, our future lies in the connections we can make through having an open mind to our history.
+
+I truly believe that the initiatives that come out of Puke Ariki; the unique events that have occurred in Taranaki are gaining a distinctive reputation. Your commitment to back yourselves – to understand your history – will indeed make Taranaki like no other.
+
+Which brings me to Tuhoe and to Te Urewera.
+
+Some of you may be familiar with the writings of Dr Rangimarie Rose Pere. I want to share one of her thoughts from a book called _Taku Taha Maori: My Maoriness._ She said,
+
+_“I am very grateful that the Urewera bush, the ancestral home of the Tuhoe people, is still intact. The bush clad ranges, the mist, the smell of the undergrowth, the company of birds and insects, Panekire – the majestic bluff that stands sentinel over the tranquil or sometimes turbulent waters of Waikaremoana – all give me a strong sense of identity and purpose to life”._
+
+One after another, the spirit of Tuhoe comes alive through the haunting waiata of the late Dr Hirini Melbourne; the brilliance of thought evident in the work of the late John Rangihau; the creative energy in the poetry of Professor Ngahuia Te Awekotuku, and so many others who have made such a strong impact on our cultural heritage as a nation.
+
+It is a Tuhoe pride – a notion of land and identity and an ever present sense of responsibility to the generations to come.
+
+This pride is nowhere more evident than in the biennial events held at Easter weekend – Te Hui Ahurei a Tuhoe. Over the space of a few days the people rejoice in being together. Young and old share the stage; the vital transmission of knowledge is facilitated through waiata, through performing arts, through kapa haka. The debate in te reo Tuhoe draw the crowds; whanau compete against each other on the sports field and then come back together for kai; for karakia; for a common unity.
+
+I would hasten to suggest that there is much in what I have just said which many of you in this room might well be able to relate to.
+
+You too might share a love of land in which you feel at home. You might have been to family reunions which unite you with others across generations and locations; you might have experienced the strength of singing and performing together.
+
+As they say, no-one can whistle a symphony. It takes an orchestra to play it.
+
+The strength of the collective; the sense of belonging; the importance of the wellbeing of the group is a connection that I believe is intimately associated with our coming together as a nation.
+
+We must not fear taking a critical look at the history that has divided us. The wars that raged against Maori – whether at Parihaka or in the Urewera – must not be forgotten or ignored. Our future is in understanding that a house divided against itself cannot stand.
+
+If we want our home – Aotearoa – to stand tall and strong for our future, we must face our fears; expose the wounds to the sunlight.
+
+And so when Tuhoe talk of the context of their heritage being so utterly linked to Te Urewera as their tribal homeland, that is a concept we could debate and seek to understand.
+
+My own view of the way in which this debate has played out is that there has been a perception created that vesting ownership of Tuhoe in Te Urewera would automatically mean that others are shut out.
+
+And yet when I have heard Tuhoe talk about the way in which they feel nourished and inspired and uplifted and protected and cared for within their home of Te Urewera, I have never heard them say that they seek to exclude others.
+
+Indeed such is the generosity of spirit amongst Tuhoe that they seek to welcome the public into their home.
+
+This generosity is even more remarkable in the context of a people who have lived through the deprivation that followed the impact of the scorched earth policy; who even today remember the needless lives lost through military attack, the executions of ancestors; the destruction of crops and homes.
+
+Finally, I believe the words of the late Martin Luther King offer us room for hope about how we could build relations, how we might build nationhood in the future we will inherit. He said
+
+_“We have learned to fly the air like birds and swim the sea like fish but we have not learned the simple art of living together as brothers”._
+
+My greatest ambition in my time in Parliament is to focus on the challenge of living together. Whanau ora is at its very essence about restoring the responsibilities and obligations we have to one another. It is about strengthening the capability of our families to be able to do for ourselves.
+
+This too, is the message of Treaty Settlements – that if we are to achieve the progress that we must in building a strong future, it will come from a willingness to appreciate each other, to value what it is that brings us together, to share common unity.
+
+I thank you all again, for your initiative and your vision – in making the commitment that you have, to an investment in Aotearoa.
+
+Tena tatou katoa
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

@@ -1,0 +1,118 @@
+---
+slug: rahui-katene-canterbury-regional-council-bill
+title: "Rahui Katene: Canterbury Regional Council Bill"
+date: 2010-04-01
+source-url: https://www.scoop.co.nz/stories/PA1004/S00008/rahui-katene-canterbury-regional-council-bill.htm
+author: te-pati-maori
+---
+Rahui Katene: Canterbury Regional Council Bill
+==============================================
+
+**Thursday, 1 April 2010, 10:11 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+**Canterbury Regional Council (Temporary Commissioners and Improved Water management Bill)**  
+**Rahui Katene, MP for Te Tai Tonga**  
+  
+**Tuesday 30 March 2010; 7.15pm**
+
+There was a statement made by Anake Goodall, the Chief Executive of Te Runanga o Ngai Tahu, which I want to quote in full, as it sets the scene for the way in which I have seen this Bill.
+
+“Ngai Tahu regretfully recognises the need for intervention in ECan and reluctantly support installing commissioners as a temporary measure, that while not optimal for the important principle of democracy is a necessary practical solution in the circumstances”.
+
+Regretfully. Reluctantly. Not Optimal.
+
+None of these words indicate wholesale, complete and utter satisfaction with this Bill rushed through under urgency
+
+The Maori Party is also regretful.
+
+Regretful that urgency prevents people from having a voice. For any piece of legislation to be authentic it should reflect the processes of negotiation and discussion which would emerge from the process of consultation.
+
+Ngai Tahu used that word again in a letter to Ministers Hide and Smith, advising that “Ngai Tahu regretfully supports the recommended transitional arrangements to install commissioners in place of the Council”.
+
+The interesting issue for us as the Maori Party, is how can Government overturn the democratic process in one region – by dismissing the Commissioners of Environment Canterbury; while in another region – Tamaki Makaurau – they are passionately fighting on an argument to uphold democracy by refusing to invest in Maori representation through the establishment of Maori seats.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I want to be really clear, this Bill is not just an issue about water – although that is vitally important. This is an issue about power-sharing - or indeed not in this case.
+
+As local MP I have taken a close look at Environment Canterbury – not just because of its significance across Te Tai Tonga, but also because the way in which we work through these issues is likely to be nationally significant in terms of the place of local government and approaches to the management of freshwater.
+
+The Maori Party has consistently stated that issues about water management must include mana whenua, including water rights and privatisation.
+
+We believe also that Treaty claims in relation to water ownership, and interests in fresh water, must be resolved in the review of the Resource Management Act.
+
+It has been a matter of some pride to the Party that we were able to overturn the commitments made pre-election by National to remove any Treaty references or the capacity for Maori to object on cultural grounds from the RMA. These sections included:
+
+**Section 6e** – that all persons exercising powers in relation to managing the use, development, and protection of natural and physical resources, shall recognise and provide for the relationship of Maori and their culture and traditions with their ancestral lands, water, sites, waahi tapu, and other taonga.
+
+**Section 7a** –all persons to have particular regard to kaitiakitanga:  
+**Or Section 8 : Treaty of Waitangi : in achieving the purpose of this Act, all persons exercising functions and powers in relation to natural and physical resources, shall take into account the principles of Te Tiriti o Waitangi.**
+
+Mr Speaker, I repeat these key legislative provisions because they are critical in guiding Councils and communities about the way in which we protect our streams, lakes, rivers and waterways from agricultural, industrial and domestic waster.
+
+There are many vital issues around freshwater management which the Maori Party signals will need to benefit from nationwide discussion and input; and these three sections in particular provide us with a strong starting point for these discussions.
+
+Turning then this specific legislation, we accept that this Bill is a temporary measure, designed to respond to the longstanding concerns about the performance of Environment Canterbury.
+
+Our decision to support the legislation was made both regretfully and reluctantly, but also responding to the guidance of mana whenua.
+
+We did so, also knowing that the existing situation regarding Environment Canterbury was untenable.
+
+This after all was a Council which came 84th out of a possible 84 Councils in the 2007/2008 biennial survey for resource consent processing.
+
+This was a Council which frequently appeared in the Environment Court as a result of criticisms having been highlighted about the management of fresh water in Canterbury.
+
+The proposed response to the review of Environment Canterbury therefore could have no stronger basis in my mind than that provided by Te Runanga o Ngai Tahu, and I quote:
+
+“ECan, even within its current statutory framework, has demonstrably failed to reach the standard of best endeavours to give effect to its broader responsibilities to Ngai Tahu”.
+
+So there is no suggestion that there was not a dramatic need to do something. The question is, however, what exactly is the something that will be done.
+
+We have been concerned that the Canterbury Water Management Strategy is being given legal effect in the empowering legislation.
+
+It is the view of key stakeholders that this Strategy is not well developed, it has real policy holes and there is a risk that it erodes the Treaty rights of Ngai Tahu.
+
+Whilst we appreciate that there is support from many key stakeholders – including Ngai Tahu and the region’s territorial authorities – we want to ensure that the rights and interests of Ngai Tahu under both Te Tiriti o Waitangi and the Ngai Tahu Claims Settlement Act 1998 are given full cognisance in further development of that paper.
+
+In this context we do want to acknowledge the movement made by the Minister, to ensure that in the appointment process of Commissioners, there will be explicit recognition of the collective knowledge and expertise of Commissioners in relation to tikanga Maori, as it applies in the Canterbury region.
+
+We welcome the opportunity for Ngai Tahu to be represented in the temporary Commission that is likely to replace the Council of ECan. But we would also recommend that Ngai Tahu will be represented in the new statutory entity that will be created, separate from ECan, to manage water in the region to be known as the Canterbury Regional Water Authority.
+
+And as we consider the ongoing tension between kawanatanga and rangatiratanga, we also raise the question, that one person on a commission of seven is forever relegated to the minority seats.
+
+**Ongoing Involvement with Ngai Tahu**  
+Finally, I want to remind the House that the report of the Review of Environment Canterbury revealed that there are significant issues in relation to water management in terms of meeting the Treaty obligations of the Crown; and also recommended that iwi liaison should be elevated in importance within ECan.
+
+We fully support the approach proposed by Ngai Tahu which seeks a commitment from government to a structured joint work programme so that the various governance arrangements can be structured in a Treaty consistent manner. They would also expect that any existing undertakings by ECan to Ngai Tahu, such as the Iwi Management Plan, should be honoured.
+
+Mr Speaker, we have supported this Bill, in order to respond to the urgent need of the situation outlined in Canterbury, and in line with our respect for the guidance of mana whenua.
+
+But as the debate proceeded, we have become more troubled around the new powers of the Commission to determine water conservation orders in the Canterbury region under new criteria. The Bill clearly states that they will hear appeals against "points of law only". Therefore it is not an Environment Court substitute.  
+We are absolutely committed to effective compliance with the Treaty requirements of the Resource Management Act; and the requirements to look nationally at water management issues across the nation are a key priority of our party.
+
+Ultimately, tangata whenua perceive natural and physical resources such as water as a taonga - an invaluable treasure - gifted by their tupuna for the benefit and use of their descendants. It is our responsibility as tangata whenua, as kaitiaki, to ensure that the resource is conserved and handed on to future generations in a similar condition.
+
+Mr Speaker, it is my duty to advise the House, that in light of the concerns we have raised during the course of this debate, we have reconsidered our positioning, and so regretfully, we conclude our struggle with this Bill, by voting against it in this final reading.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

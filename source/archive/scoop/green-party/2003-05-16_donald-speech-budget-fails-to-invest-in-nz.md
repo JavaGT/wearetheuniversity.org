@@ -1,0 +1,151 @@
+---
+slug: donald-speech-budget-fails-to-invest-in-nz
+title: "Donald Speech - Budget fails to invest in NZ"
+date: 2003-05-16
+source-url: https://www.scoop.co.nz/stories/PA0305/S00449/donald-speech-budget-fails-to-invest-in-nz.htm
+author: green-party
+---
+Donald Speech - Budget fails to invest in NZ
+============================================
+
+**Friday, 16 May 2003, 10:01 am**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+  
+Budget fails to invest in New Zealand
+
+Rod Donald, Green Party Co-Leader
+
+Budget speech – Parliament
+
+The budget surplus is a fraud. It is built on the backs of kiwi kids living in poverty, hard working low income families who need a tax break and young people being shut out of affordable tertiary education.
+
+New Zealand is paying a high price for Dr Cullen ' s $4B budget surplus. Today ' s budget could have marked a turning point for the Government. If Labour had co-operated with the Greens this budget would have contained significant measures to future proof the economy, strengthen our social fabric and protect our environment. It does not.
+
+Of course there are many good initiatives in the budget, including several Green projects which continue from the last term.
+
+But it is not a budget Labour can be proud of. In fact, its one that Don Brash or Bill English would have dearly loved to deliver, despite all their rhetoric, because, it might be damp around the edges but it ' s tinder dry in the middle.
+
+That is why I move on behalf of the Green Party that the amendment to the amendment be amended by omitting all the words after " has no confidence " and substituting the following words: " in the Labour-led minority Government because of its failure to invest in achieving a self reliant economy, its refusal to properly nurture a just society and its unwillingness to seriously protect the environment " .
+
+This budget is a house of cards. It depends on the global casino economy recovering. It depends on the release of genetically engineered organisms in New Zealand not destroying our export markets. It depends on the high exchange rate not crippling domestic manufacturing and not blowing out the trade deficit even further. It depends on the Government ' s superfunds ' overseas investments not losing any more millions. And it depends on business people believing that Michael Cullen is doing a better job than Don Brash or Bill English would.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The Government is safe on that last point. In our view National ' s economic prescription is worse than Labours ' . That is why the Greens have moved our own no confidence amendment and will not be supporting National ' s one.
+
+Every year our sense of frustration grows. I don ' t want to look back in thirty years time and try to explain to my grandchildren that I was in parliament when we failed to stop GE, when we ran out of Maui gas, when we watched the rail network run into the ground, when we failed to meet the needs of poor families and when we didn ' t invest in the young people whom everyone of us will depend on in our retirement.
+
+What will convince the Government to adopt our policies? It has taken the second energy crisis in two years for energy efficiency and conservation and renewable wind and solar energy to even begin to be taken seriously. It took a string of bio-security incursions for Green concerns about poor border-control to be faced up to. The Government is only now getting serious about buying back the rail track, more than two years after we first called on them to do so.
+
+When will the Government accept that the Green Party has the only realistic strategy for future proofing the economy, strengthening society and protecting the environment? Clearly not today.
+
+But I will still place on record what we believe the Government should be doing. The energy crisis is the most glaring example of the failure of successive Governments to do their job.
+
+The energy crisis is a crisis of leadership, a crisis of vision, a crisis of common sense and a crisis of determination.
+
+To quote a former colleague, it ' s not rocket science, to know Maui was going to run out. The 1973 gas contracts made the decisions to use the gas fast, to use it wastefully, to pay for it whether we used it or not and to use it all up in 30 years.
+
+The Greens have been warning for those 30 years that using most of that gas for electricity generation, rather as a direct fuel was wasteful. Two thirds of all the energy value of the gas burnt at Huntly goes up the stack or into the Waikato river. Now that it is running out a mere two years earlier than was always expected there is no plan to fill the gap. For 30 years we have been promoting the use of gas for heat, we have been promoting insulation of homes and water heaters, solar heating for domestic hot water, wind generation for electricity, industrial motors properly sized to their load, wood waste fired boilers in the forestry industry and a whole host of other measures.
+
+The 1975 Values Manifesto called for an expanded Ministry of Energy Resources to coordinate the use of all energy sources and to bring down a comprehensive energy policy aimed at: preventing further increase in energy consumption, increasing the efficiency of energy use, minimising the consumption of non renewable resources and environmental disturbance and discouraging highly energy intensive industries.
+
+Imagine where we would be today if we had had MMP then and the Greens had got into Government and been able to implement that policy? We would certainly not be facing an energy crisis and old people would not be worrying about freezing in the dark this winter.
+
+Thank goodness we did get into parliament and Jeanette was able to introduce the Energy Efficiency and Conservation Act. National, when they were in power, certainly weren ' t interested in energy efficiency standards and a national strategy. Max Bradford described the bill as " a huge and massive step back with a Stalinist approach to central planning " . At least Labour had the good sense to pass the bill and agree to the Green budget bid for an extra $3m in funding for EECA.
+
+But that is a fraction of the investment we need to make to achieve the permanent savings and renewable energy targets we are capable of.
+
+You would think in the middle of an energy crisis that the Government would be pouring resources into solving the problem. It thinks it is but it ' s got its priorities all wrong. Today ' s budget provides only $12m to EECA for efficiency and renewables while State Owned Meridian plans to spend 100 times that - $1.2 billion - for a power generation scheme that will destroy the lower Waitaki river. In the time it will take to build this leviathan, the Government could help develop the New Zealand based solar wind and energy efficiency industries to deliver the same energy as Project Aqua.
+
+The energy crisis not only highlights the failure of the market model and refusal of successive Governments to plan, regulate and invest appropriately. The crisis also highlights the " culture of waste " that has permeated society. Investment and waste are two sides of the same coin. Do one to avoid the other and you make a profit.
+
+When Jeanette ' s Bill was introduced in 1998 the Parliamentary Commissioner for the Environment said " there is significant risk to the NZ economy in our way of life if energy efficiency is not improved. Addressing energy efficiency across all sectors has the potential to bring substantial cost savings to the Government, businesses, and the public and reduce impact on the environment. " We still haven ' t learnt the lesson yet.
+
+And we still haven ' t learned the lesson about bio-security. Despite the painted apple moth and a host of other bio-security incursions in recent years MAF inspects only 24% of the sea containers arriving at our wharves. By their own statistics 39% of containers are contaminated in some way which means approximately 60,000 contaminated containers are opened without any sort of inspection and their contents let lose on our environment. The Government said it would cost $60m a year for 100% container inspection. It has so far spent $90m on painted apple moth eradication alone.
+
+Threats to our bio-security are one of the hidden costs of free trade. The more goods we import the greater the threat to our economy and exports. A Reserve Bank and Treasury report earlier this year on the macro economic impacts of a foot and mouth disease outbreak should be a wakeup call for the Government and all New Zealanders. As Federated Farmers president Tom Lambie said " the reality of 20,000 job losses and a $10B drop in GDP reinforces the need for Government to ensure that bio-security is resourced to the same levels as other security agencies. " It isn ' t.
+
+There is the very real possibility that if the Government fails to extend the GE moratorium due to lift in October then the very thing Tom Lambie is concerned about will happen because of a deliberate move by Government rather than by accident. Unfortunately Labour is determined to force genetic engineering on New Zealanders despite research for the Government that shows under realistic conditions there are more likely to be negative effects on the economy from GE release than positive effects.
+
+Yesterday we learnt that the Government ' s determination knows no bounds. It is actually backing a United States case to the WTO to force the European Union to life its moratorium on GE products. If ever there was a case of shooting yourself in the foot this is it. Not only has Helen Clark undermined her relationships with European leaders but the Government is, perhaps unconsciously, destroying our marketing advantage in Europe by, on the one hand, helping the US increase access to our second largest market and on the other hand degrading our clean green image which makes our produce so attractive to European consumers.
+
+Wisdom appears to be in short supply. If the Government was a wise investor it would invest in the children of New Zealand. Unfortunately it is not. After 4 years of a Labour Government, 30% of our children still live in poverty. Despite the Government claiming that the key priorities for the budget include supporting a productive and cohesive society, reducing crime and the impacts of crime and investing for the future Dr Cullen says children will have to wait until next year. A budget surplus is not real if that means children have to do without the basics of life. If these children grow up in impoverished conditions - the state will pay in the next 15, 20 years and beyond.
+
+Poverty costs. If families cannot afford food for a basic healthy diet, healthcare services and healthy accommodation, the country will pay in lower educational attainment, higher health costs from hospitalisations and additional health care later, higher unemployment and higher crime. Children from most deprived areas are more than twice as likely to be admitted to hospital as those in less deprived areas.
+
+We applaud the Government ' s moves to improve access to primary health care - but the Government is still treating the symptoms and not the underlying structural problems.
+
+Families do not have enough income. The Government should have targeted family support packages this year and not wait a further year. $28 million for a Families Commission is not going to send one child to school with warm clothing and a decent breakfast inside them.
+
+Research from the Child Poverty Action group shows that since 1986 the poorest one child young family in New Zealand has had a rise of only $5 a week in Family Support. Adjusting for inflation they should now be receiving around $74 a week. Instead it is $47.
+
+This budget is woefully inadequate in redressing this appalling situation. It does include $34.5 million over 4 years to increase the income thresholds for family support by less than $500. But adjusting Family Support to reflect cost of living changes since its implementation would have cost $250 million - just 6% of the surplus. The Government shouldn ' t stop there. It could even afford to implement Green Party policy to restore the family benefit as a Universal Child Benefit, at a costing of around $600 million a year.
+
+The irony will not be lost on people of all political persuasions that while the Government is putting off providing proper funding to ensure that children are brought up decently to become the healthy, well educated and productive adults we need to secure our future the Government is determined to gamble that future on the casino economy. Dr Cullen ' s super fund will have $1.9B sitting in it by the end of June and this budget will add another $1.9B to that. Instead of investing that money wisely in New Zealand and New Zealanders the Government has instructed the Guardians ' of the super fund to play the overseas sharemarket.
+
+We already know from the bitter experience of the Government Superannuation Fund that this is an extremely risky gamble. Since Dr Cullen required that fund to invest off shore in October 2001 it has accumulated net losses of $233m. And the shares it bought are worth 35% less than their purchase price. The pro market zealots tell me that the share price will recover but I ' m not convinced that dead cats bounce and in any case it was not prudent to stake $1.5B at a time that when the sharemarket was going through a period of significant volatility. If the sharemarket recovers the GSF will need to earn 9.6% after tax for the next eight and a half years to achieve its investment target of 6.5% over the decade.
+
+Even if the sharemarket was booming instead of busting we would challenge the wisdom of the Government ' s strategy. Our opposition to the Cullen fund is backed up by an OECD study which concludes that private capital appears to be more productive than public capital in the short run but the converse is generally true when a long run perspective is taken.
+
+While the Green Party is pleased that the Government has increased funding into the tertiary subsidies by 3% this will not address the significant funding shortages in the area, nor give any comfort to students wanting lower fees and an affordable education. Student debt has grown by $2.5 billion since Labour have been in office. At the end of March this year, the debt was $5.4 billion. Women graduating today with a bachelor ' s degree can expect to spend the next 28 years paying off their debt. What does that do for family life.
+
+The Green Party wants to see fees reduced to $1,500. We want to see the reintroduction of universal student allowances. We want to see our tertiary institutions funded at an appropriate level to attract and retain quality staff.
+
+We know that this is an expensive item - but we fully believe it will be paid back in full - from higher levels of productivity and increased tax revenue from graduates who want to stay and work in New Zealand.
+
+The Green Party supported the introduction of the fee maxima - but at the same time we warned Government that they could not use it as a mechanism to finally squeeze tertiary institutions so that they would have to lower quality. We believed, perhaps foolishly, that the Government would deliver on its promise to students to make education affordable, and we are very disappointed.
+
+It is time for the Government to face up to its commitment to our young people and invest more in tertiary education to reduce fees, fund tertiary institutions at a reasonable rate and provide all students with a living allowance.
+
+Almost 50% of children from the lowest socio economic grouping leave school without a qualification. These children will not be equipped to provide the level of skills and expertise that an innovative economy needs. The Government is providing more funding for industry and innovation, but, for the sake of our future, families need more support now so they can contribute to this vision the Government has.
+
+We applaud the Government ' s additional funding for teaching in New Zealand - this helps, but again, it does not help families who are still paying for their child ' s education through so called voluntary donations and fees - $30 million a year for a " free " state education.
+
+We need to do more than just invest in our young people. We need to make sure New Zealand is a place that they will want to live in.
+
+The Government says all the rights things about sustainable development on the international stage but back home there is an enormous gulf between rhetoric and reality. Treasury ' s briefing papers to the incoming Government provides a clue. " Harmonising growth and environmental objectives is therefore likely to remain an on going challenge. One of the best ways we think we can address this is by trying to make environmental policy as growth friendly as possible. "
+
+Their position is truly bizarre. There is no doubt that we are living beyond our natural income and consuming our environmental capital. There is no doubt that the economy is a sub-set of society and both depend on the environment but persuading the Government, both elected and bureaucratic, to acknowledge and act on that reality seems well nigh impossible.
+
+A Green Budget would begin the vital task of aligning economic and fiscal incentives with ecological imperatives. Ecological tax reform is a simple idea: its shift taxes off work and enterprise, and onto waste, pollution and scarce resources. Those who waste and those who pollute, pay more. Clean business pays less and everyone pays less income tax. It ' s common sense if we want a sustainable economy, and it ' s happening now in many European countries.
+
+In New Zealand we have yet to even begin any serious attempt at ecological tax reform and this Budget does nothing to change that. The Government ' s only commitment in this area is a carbon tax - set so far in the future than many in business still hope they can lobby their way out of facing up to climate change for a few more years.
+
+Our tax policy is to remove all income tax on the first $5000 of income, for everyone. Low-income people will feel the benefit most; everyone will get something.
+
+We would replace the lost revenue with eco-taxes - starting with taxing climate changing CO2 emissions and ensuring diesel users pay their fair share for the health costs of their emissions.
+
+This is part of our broader approach to shifting to measuring our success as a nation rather than as a business. Gross Domestic Product tells us nothing about whether what we are growing is adding to or subtracting from our well being.
+
+As part of the Greens budget packages agreed with Labour last term, work was begun on broadening our national accounts. We are a long way from measuring sustainable national income - yet we have to, if we are to have any meaningful concept of development that is real.
+
+The Greens are working with the Government to bring New Zealand into the mainstream of international transport thinking. Years of obsession with cars and trucks alone has bought our largest city to a standstill, our national rail system to the brink of collapse and created serious health problems amongst adults and children. Make no mistake, until Labour was elected New Zealand had some of the most extreme road-focussed transport policies in the developed world.
+
+The transport objectives agreed by the Greens and the Government focus on economic development, safety, mobility, public health and the environment. They are extraordinarily well balanced and sane. The allocation of funds, while still focussed on roading, has begun to reflect broader thinking.
+
+And we say frankly that those who oppose this approach are advocates of economic decline into gridlock, pollution and despair - it is they who are in a timewarp, stuck in a 1950s fantasy of shiny cars, asphalt, and problems forever postponed. Come to think of it that ' s the same era that bought us DDT and nuclear power as the way of the future.
+
+Cooperation with the Government on transport highlights that we can work together where we have common cause even though we have fundamental differences in other areas. We were pleased to note that the Government recognises the merits of Green budget initiatives from the previous term by continuing to fund several on-going projects. These include money for the Author ' s Fund, bio-security awareness, the Community Internship Programme, Conservation and Environmental Education programmes, energy efficiency, environmental legal aid, environment centres, national environmental accounts, cleaning up contaminated sites, complementary health, the nicotine replacement programme and the Youth Drug Education Strategy. All these initiatives add value to the Government ' s programme.
+
+No budget speech would be complete without me mentioning at least one of those fundamental differences: trade policy. The Government ' s fixation with free trade is the root cause of New Zealand ' s $1.87 billion trade deficit for the year to March. Instead of investing over $30m in Team NZ the Government should be promoting import substitution through a Buy NZ Made campaign. It ' s time we showed loyalty to our own country.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

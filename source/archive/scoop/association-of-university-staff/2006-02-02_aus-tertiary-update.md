@@ -1,0 +1,124 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2006-02-02
+source-url: https://www.scoop.co.nz/stories/ED0602/S00004/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 2 February 2006, 12:28 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Staff retention a key issue for universities  
+The capacity of the system to attract and retain staff of international calibre has been identified by the Minister for Tertiary Education as one of the key issues facing the tertiary education sector. In his first major speech of the year, Dr Cullen told the New Zealand University Students’ Association Annual Conference last week that, while questions of financing \[around student loans and allowances\] inevitably loomed large in student politics, they paled into insignificance alongside the standard of pedagogy, international benchmarking of courses and qualifications, staff recruitment and the capacity of graduates to address the key social issues facing New Zealand.  
+“So far I have focused on the issues that relate to how the total cost of study is shared. I think it is important to broaden the context, and to keep in mind the outcomes that individual students and the community as a whole are seeking out of the tertiary education system,” Dr Cullen said. “Education is an investment; an investment of time and financial resources and foregone earnings on the part of students and their families; and a major investment of public funds by government.”  
+Dr Cullen told the conference that an objective of the new Tertiary Education Strategy (TES) to be released during the year will be to shift from a focus on enrolment to a greater emphasis on teaching quality and on managing learning programmes toward better outcomes. “We need to examine course completion rates, and to minimise the number of students who embark upon programmes of study but get lost in the system through insufficient foresight and planning, or through inflexible bureaucratic processes which do not allow them to customise their study according to their needs and their family situations,” he said. “The major outstanding issue is the funding system, and you can expect further action this year alongside of the development of the new TES. The current EFTS system is too much based on funding quantity (‘bums on seats’) and it provides no particular incentives to pursue relevance and to enhance quality.”  
+Meanwhile, Dr Cullen has moved to reassure the sector that media reports interpreting his speech as saying that further funding for universities could not be anticipated was wrong. In a letter to AUS National President, Professor Nigel Haworth, Dr Cullen said that his statement, that universities did not have the inside running for additional funding because he is the Minister of Finance, should not be construed as saying that there is no additional money available.  
+Dr Cullen’s speech can be found on the AUS website:  
+http://www.aus.ac.nz/news/2006/CullenSpeechNZUSA.pdf
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Canterbury to axe more staff  
+2\. International PhD students caught in discriminatory trap  
+3\. Student magazine banned, belatedly  
+4\. New Chief Executive for NZQA  
+5\. TEC allocates polytechnics $6 million  
+6\. ITP boss steps down  
+7\. Challenge to US ban on Islamic scholar  
+8\. VCs’ salary figures revealed as pay talks break down  
+9\. University of London rapped over degree quality  
+10\. Zimbabwe students ordered to learn Chinese
+
+Canterbury to axe more staff  
+The University of Canterbury is poised to axe more academic staff from its College of Arts as it moves to cut operational expenditure by $1.6m over the next two years. Last year, around eight staff took voluntary severance but it is expected that around a some twenty more positions will be lost this year.  
+A Crisis Committee, including academic-staff representatives, which has been set up to look at ways of reducing expenditure, is expected to make recommendations about cost-cutting to the College of Arts Pro Vice-Chancellor, Professor Ken Strongman, tomorrow. Preliminary recommendations will be sent to staff who will have one week to provide feedback before final recommendations are released for formal consultation.  
+In a letter to staff, Professor Strongman advised that staff cuts will be necessary as “we” match our resources with the College’s strategic goals and priorities. “Not knowing which positions these might be, it is difficult to say exactly how many staff are likely to be directly affected,” he wrote.  
+AUS Canterbury Branch President, Dr David Small, rejected the need for staff cuts, saying that the University was on track to return a record financial surplus for 2005, and the alleged budget crisis was an artificial one created solely by University management. “Colleges are required to return more than 40 percent of their income to the central administration in what is euphemistically called a contribution margin,” he said. “What that means is a disproportionate amount of income is siphoned off for management purposes instead of being used, as it was intended, for teaching and research.”  
+Dr Small said the financial-management model used by the University was in conflict with the Government’s funding regime, which provided bulk funding in a manner which allowed high-volume courses and subject areas to cross-subsidise those which were specialised and resource-hungry.  
+It is expected that a final decision on the number of staff to be shed will be made in April, with affected staff to leave the University during the course of the year.
+
+International PhD students caught in discriminatory trap  
+A number of existing international PhD students say they have been caught in a discriminatory trap following the introduction of a new policy by the Government which saw tuition fees for new international students reduced to the same levels as domestic students from April last year. The Committee on Equity for International PhD Researchers, which was formed at the end of last year, says the University of Canterbury declared that international PhD students enrolled before 19 April last year, will not be included in the new domestic fee scheme, meaning that they would continue to pay fees for the duration of their study of up to five times higher than international PhD students enrolled after that time. For example, they say that existing Biological Sciences students would continue to pay tuition fees of $22,225 per year, while new students would pay up to $4,626 per year.  
+Students who contacted University authorities to explain their case were told that the decision regarding fee levels for existing international PhD students was not the responsibility of the University but that of the Government. They say they were perplexed when the Tertiary Education Minister and other government officials advised them that the responsibility for the existing fees lies with the local universities.  
+University of Canterbury Vice-Chancellor, Professor Roy Sharp, told Committee members that, while he will look into ways of assisting affected students, the University is unable to lower fees for all international PhD students without further financial support from the Government.  
+In a written declaration, Committee members say they make a significant contribution to New Zealand's research environment and that they will work towards a solution that would encourage these students to continue to make that contribution. They believe that a unanimous call from all universities in New Zealand may be what is currently needed to pressure the Government to address the inequality of its policy.  
+The Committee on Equity for International PhD researchers may be contacted at:  
+committee\_on\_equity@yahoo.co.nz
+
+Student magazine banned, belatedly  
+An issue of the Otago University student magazine Critic has been banned by the Office of Film and Literature Classification because it tends to promote sexual violence and criminal activity. The ban will have little effect, however, because the issue in question was published in September last year and its distribution was completed before it was submitted for classification.  
+The New Zealand Police submitted the magazine for classification after it was published, primarily because it contained an article on how to drug and rape women written from a drug-rapist’s perspective. The Classification Office also received submissions from the magazine’s publisher, and the New Zealand Drug Rape Trust, Rape Crisis Dunedin and the Society for the Promotion of Community Standards.  
+The Classification Office decided that the magazine is injurious to the public good because it places an instructional drug-rape article beside a positive profile of a man who makes a living by filming the extreme degradation and humiliation of women for sexual arousal.  
+The magazine’s editorials ask readers to think about the nature of offensiveness and the boundaries of what should be published, and claim to draw readers’ attention “to what to look out for to combat the sinister and growing trend” of drug-rape. The Classification Office found that these claims lacked credibility.  
+“The magazine asks the reader to find humour in its demeaning descriptions of women and its matter-of-fact references to raping them,” said Chief Censor Bill Hastings. “Because it contains no articles written from the victim’s perspective to balance those from the perpetrator’s perspective,” said Hastings, “this issue of Critic is distinctly uncritical of, and indeed tends to promote, the very criminal activities it purports to challenge.”  
+“The magazine’s claimed ‘theme of offensiveness’ never discusses the nature of offensiveness, and does not acknowledge the ability of articles appearing to endorse sexual violence and misogyny to cause injury to the public good,” added Hastings.
+
+New Chief Executive for NZQA  
+The New Zealand Qualifications Authority has announced the appointment of Dr Karen Poutasi, the current Director-General of Health, as its new Chief Executive. She will take up her new role at the beginning of May. Dr Poutasi is a medical graduate of Otago University, and holds Otago University and Harvard University management qualifications. She has held a Harkness Fellowship and is on the New Zealand Appointments Committee for Harkness Fellowships in Health Care Policy.  
+Dr Poutasi was responsible for implementing government policy to establish district health boards and is currently overseeing a major change to the delivery of primary health care.  
+NZQA Acting Board Chair, Catherine Gibson, says the Board is delighted that Dr Poutasi has accepted the job. “Dr Poutasi has been Director-General of Health and Chief Executive of Health since 1995 and has significant management experience at the highest level. She brings a wealth of experience in cultural and organisational change,” she said.  
+Catherine Gibson also said that Dr Poutasi has considerable understanding of the education and training needs of the Health and Health Sciences sector, and is well aware of the significance of a robust qualifications framework at all levels.  
+Dr Poutasi said that she is committed to quality assurance within education. “Improving access to education must go hand-in-hand with quality assurance. It will be a pleasure picking up the reins from Acting Chief Executive Karen Sewell, and building on the work she has done over the past few months,” she said.  
+Karen Sewell will remain until Dr Poutasi takes over in May.
+
+TEC allocates polytechnics $6 million  
+The Tertiary Education Commission allocated $6 million to Institutes of Technology and Polytechnics (ITPs) in January to help them build closer ties with business. The ITP Business Links Fund has been set up to help polytechnics understand what businesses need so they can tailor their courses to meet those needs. This allocation of Business Links funding is the second in a four year funding round.  
+TEC Manager National Team Liaison and Development, Ian Elliott, said that TEC was impressed with the high calibre of most of the projects in this funding round. “We agreed to fund sixteen ITPs on the basis of their initial applications. We are working with another four, Telford Rural Polytechnic, Unitec, the Open Polytechnic of New Zealand and Northland Polytechnic, to ensure their projects align with the aims of the fund. Funding for these ITPs is conditional on them meeting this requirement,” he said. “Instead of declining funding outright, we are giving them this opportunity because we do not want them to lose the progress they made last year.”  
+The maximum allocation is $400,000 while the minimum is $100,000.
+
+ITP boss steps down  
+Long-serving Executive Director of Institutes of Technology and Polytechnics of New Zealand (ITP New Zealand), Jim Doyle, has announced that he will leave the organisation on 30 April to pursue other opportunities. He has headed ITP New Zealand, which acts as the collective voice for the nineteen institutions, for the past seventeen years.  
+Chair of the ITP New Zealand Board, Neil Barns, says that the change will be a watershed for the organisation. “Jim’s long commitment and his deep understanding of the sector have been critical to its development for as long as we have had polytechnics in their current form,” he said.  
+Among his many roles, Mr Doyle was a member of the “Collaborating for Efficiency” Steering Group, a ministerial steering group that was set up to look at possible opportunities for efficiency gains. He is also Chair of the World Federation of Colleges and Polytechnics and a member of the New Zealand Tertiary Consultative Group, which provides high-level advice to government on strategic issues facing the tertiary-education sector.  
+Dr Barns said that, over his time at ITP New Zealand, Mr Doyle had played an important role in developing and managing relationships with key sector organisations such as the Tertiary Education Commission, New Zealand Vice-Chancellors’ Committee, Industry Training Federation and, through the Minister of Education, the Ministry of Education,.
+
+Worldwatch  
+Challenge to US ban on Islamic scholar  
+The American Civil Liberties Union and American Association of University Professors (AAUP) have filed legal proceedings to challenge a provision of the United States Patriot Act that was used to deny a visa to a prominent Islamic scholar, Tariq Ramadan. They say that the provision allowed the Federal Government to bar Ramadan solely because the Bush administration disapproved of his political views.  
+In August 2004, Mr. Ramadan, an influential Swiss-based professor of Islamic studies and philosophy, was told that the United States had revoked his visa, preventing him from taking a tenured teaching position at the University of Notre Dame.  
+Neither he nor Notre Dame was given an explanation, but a representative of the Department of Homeland Security said at the time the visa had been withdrawn on the basis of a provision of the Patriot Act that allows the government to deny a visa to anyone whom the government believes “endorses or espouses terrorist activity” or “persuades others” to do so.  
+The AAUP has affirmed many times that the free circulation of scholars is an integral part of academic and intellectual freedom, and that the unfettered search for knowledge is indispensable for the strengthening of a free and orderly world. The AAUP routinely invites foreign scholars to lecture, attend conferences and meet with US academics, and has intervened on behalf of scholars who are oppressed in other countries.  
+From the Chronicle of Higher Education and AAUP
+
+VCs’ salary figures revealed as pay talks break down  
+Salary figures released to the two unions representing university staff in the United Kingdom reveal that vice-chancellors and principals on the Universities and Colleges Employers’ Association (UCEA) Board have received, on average, a pay increase of 32.1 percent over the last three years. During the same three-year period, pay for academic and general staff has risen by just 9.44 percent.  
+The figures, released under freedom of information provisions, came as pay negotiations between the higher education unions and UCEA broke down. The unions are now balloting members over industrial action, which is expected to include strike action and an assessment boycott.  
+Association of University Teachers General Secretary, Sally Hunt, said that, while she should know better than to be surprised at the double standards employed by the vice-chancellors when it comes to pay, the sizes of these increases are staggering. “They promised us they would use the new money coming into the sector to sort out staff pay, and then when it arrives they try to wriggle their way out of that commitment,” she said. “Vice-chancellors have consistently pleaded poverty when it comes to paying their staff, yet any suggestion of belt tightening doesn't seem to extend to their own pay. Our members have little desire to disrupt the education of millions of hardworking students, but these new revelations will only harden our resolve. Unless the employers come back to the table with a decent offer then industrial action will be the sad inevitability of their refusal to meet with us.”
+
+University of London rapped over degree quality  
+The University of London was sharply criticised this week by the British Government’s higher-education watchdog for failing to monitor the quality of its degrees taken by 125,000 students. The Quality Assurance Agency (QAA) said it had broad confidence in the standard of degrees in all twenty member institutions of the University of London, but expressed “limited confidence” in the oversight of degrees by the central University.  
+The University has, however, rejected the QAA’s verdict, and insists its degrees are guaranteed by its member colleges, many of which, such as King’s College or Royal Holloway, are universities in their own right.  
+From Education Guardian
+
+Zimbabwe students ordered to learn Chinese  
+Students at Zimbabwe’s seven public universities will be required this year to begin studying Chinese language and history as part of President Robert G. Mugabe's “Look East” policy. The country’s Higher-Education Minister, Stan Mudenge, has ordered vice-chancellors to start preparing the new courses because of a pressing need to bring the people of Zimbabwe and China together and to promote trade and tourism between them.  
+Student unions at Zimbabwe’s universities have criticised the new course requirement, saying it amounts to Chinese imperialism. In a telephone interview, Washington Katema, President of the Zimbabwe National Association of Student Unions, said the students did not oppose the language as a subject, but they are against the notion of forcing it on all students.  
+A senior lecturer at the University of Zimbabwe, reported by the Voice of America, said that it is foolhardy to launch new programmes when old ones are in tatters.  
+From the Chronicle of Higher Education
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

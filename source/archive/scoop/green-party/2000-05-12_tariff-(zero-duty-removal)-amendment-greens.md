@@ -1,0 +1,61 @@
+---
+slug: tariff-(zero-duty-removal)-amendment-greens
+title: "Tariff (Zero Duty Removal) Amendment  - Greens"
+date: 2000-05-12
+source-url: https://www.scoop.co.nz/stories/PA0005/S00282/tariff-zero-duty-removal-amendment-greens.htm
+author: green-party
+---
+Tariff (Zero Duty Removal) Amendment - Greens
+=============================================
+
+**Friday, 12 May 2000, 2:44 pm**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Tariff (Zero Duty Removal) Amendment
+
+4.22pm Thursday 11 May 2000  
+Rod Donald MP Green Party Co-Leader
+
+I rise to inform the House that The Green Party will support the bill, but we did strongly oppose it being introduced under urgency.
+
+Freezing tariffs confirms that Governments do have the right to protect industries and jobs. This should be the first step towards challenging the free trade agenda of the previous new - right National Government. However, the bill should go to a select committee, it is not a matter of urgency.
+
+As the Minister said in his introduction the deadline for the passage of this bill should be, or needs to be, 30 June. So there is plenty of time for it to go to a select committee for a brief period for submissions to be called, and for hearings to take place. I am very disappointed that New Zealand First has backed the minority Labour-Alliance Government to put this bill into urgency. That denies interested and affected parties the opportunity to comment on the bill, on the impact of the Act that this bill is repealing, and, on the previous National Government's tariff reduction policies.
+
+It is simply not good parliamentary process to put a bill through all stages under urgency when there is no urgent timetable that requires that to be the case. I can only quote Pete Hodgson when he spoke out strongly, when the previous National-New Zealand First Government forced through the original amendment bill under urgency - the bill we are now repealing. At the time Mr Hodgson asked why the bill was being passed under urgency. And he went on to ask why it was not being sent to a select committee. What is so damaging about public input into the phasing out of tariffs? Is that something the Government is afraid of? Does it fear that its own economic theory will be blown to bits by it? Of course, the now -defeated National Government did fear public reaction to its policies to reduce tariffs. That is why National did not allow its bill to go to a select committee.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+That is why, of course, its opposition to today to this bill coming through under urgency is no more than crocodile tears, because the new Government is only doing exactly what the old Government did. Surely this new government, equally, should have nothing to fear with regard to its decision to freeze tariffs for 5 years. Surely it could have withstood any reaction, negative or positive, to this bill being considered by a select committee. Reaction to the original announcement of this bill from National and its allies was predictable. National members leapt up and down claiming that clothing and shoes would be 20 percent more expensive in 2006.
+
+Not to be outdone Federated Farmers, as David Cart3er quoted before, claimed that households up and down this country would be paying $1,000 more per year as a result of freezing these tariffs. I am afraid that Mr Lambie did not come up with any figures to justify that claim. The truth is that if New Zealanders buy imports their clothing costs will remain as they are now, and, in effect, in 5 years time would be around $25 more per person per year than if the tariff reduction programme had continued, and shoes would be around $8 more per person per year than if the tariff reduction programme had continued; a fraction more than if the tariff reduction programme had continued; a fraction of what the scaremongers have been claiming. But the good news is that the cost of New Zealand made clothing remains the same. Compare that small cost with the benefits of reversing this tariff reduction programme. At least 10,000 jobs will be saved. Opposition members scoff but I remind them that many of those 10,000 jobs in the apparel and footwear sectors are in provincial towns; the very towns where those members still cling on to their seats. Many of those jobs are held by women; many of those jobs help to keep families together because they bring in a second income. I submit that those jobs are definitely worth saving. So I find it extraordinary when we hear the likes of Mr Luxton claiming that workers will suffer if we freeze tariffs. Quite frankly we all know that workers suffered because of National's tariff reduction programme.
+
+What is the point of those workers being able to save $25 a year each on clothing if in the process they lose their job in the clothing factory, and, therefore, do not have the discretionary income to buy clothes in the first place. That is the common-sense view that workers up and down this country have come to. They would rather pay a little bit more for New Zealand - made clothing and keep their job to enable them to pay for it. They do not want to be forced into buying cheap imports from sweatshop economies because they lost their job through stupid Government policies. Quite clearly the appeal to greed that this National party relied on for so many years did not wash with the people at the last election. People voted in droves against the free market ideology that the previous National Government inflicted on this country. National's fixation with free trade destroyed tens of thousands of jobs in New Zealand. People not only want to keep the jobs they have but they want new jobs again. Free trade has had its day and it is time for the new government to face up to the failure of free trade. It is time, in fact, to look at new tariffs - -to just freezing the existing ones. New tariffs are a step towards reducing our dependence on imports and a step......
+
+(Interjection from Gerry Brownlee)
+
+Mr Brownlee should go to Reefton and talk to the 18 women who lost their jobs because of his government's tariff reduction policies. They lost their jobs because Lane Walker Rudkin closed down their Reefton factory because they could not compete with $2 Chinese T shirts imported because of tariff reductions.
+
+I am looking at ways to help this Government, in terms of increasing tariffs, by considering a possible amendment to this bill. When we come to the committee stage I will let members know how I got on. In the meantime, I would like ht Government to reflect on what the previous Government's policies were doing to our balance of payments situation and why they need to look very closely at increasing tariffs. Our balance of payments deficit is now in the order of $8 billion - 8 percent of our gross domestic product. That is because our imports have increased out of hand. The March trade figures tell an extremely sorry story, the consequences of National's policy. We had a trade deficit of $3.5 billion for the year to March - the fifth year in succession. It was the worst in New Zealand's history. Exporters simply cannot keep up. Of course, our exports are rising but they cannot keep up with our insatiable appetite for imports. Those imports are coming from countries like China, up 27 percent for the March year to $6.7 billion; the ASEAN countries, up 22 percent to $2 billion. We are importing the vehicles that we used to make here ourselves, until the National Government callously closed down the vehicle assembly industry, we are importing increasing quantities of clothing and textiles, for the year to March up 12.7 per cent to $1.5 billion. Those are all goods that we used to make here in this country; all goods that used to employ New Zealand workers. They represent tens of thousands of lost jobs from this economy; jobs that deserve to be recreated.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

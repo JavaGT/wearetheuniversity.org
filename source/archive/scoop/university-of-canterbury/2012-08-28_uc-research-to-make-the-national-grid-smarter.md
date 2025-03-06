@@ -1,0 +1,69 @@
+---
+slug: uc-research-to-make-the-national-grid-smarter
+title: "UC research to make the national grid smarter"
+date: 2012-08-28
+source-url: https://www.scoop.co.nz/stories/BU1208/S01011/uc-research-to-make-the-national-grid-smarter.htm
+author: university-of-canterbury
+---
+UC research to make the national grid smarter
+=============================================
+
+**Tuesday, 28 August 2012, 9:08 am**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+UC research to make the national grid smarter
+
+August 28, 2012
+
+A major University of Canterbury (UC) research project has begun looking at the national grid to make it smarter.
+
+UC’s Dr Allan Miller who is heading the research said they are looking at ways to safely and economically embed new renewable generation into the electricity network, especially the distribution network to ensure a secure electricity supply.
+
+New Zealand is targeting 90 percent of electricity generation to be from renewable sources by 2025, providing this can ensure a secure supply of electricity. Dr Miller said the target was challenging but realistic, given New Zealand's renewable energy potential, and expertise in renewable development. The government last week announced a grant of $6.3 million for the important UC research project.
+
+\`\`New Zealand currently generates about 75 percent of its electricity from renewable generation, making it a world-wide leader in this area,’’ Dr Miller said today.
+
+\`\`However finding the additional 15 percent will be a stretch, remembering that the demand for electricity typically grows each year as well. It's not just finding 15 percent, but continuing to develop renewable generation to keep up with load growth.
+
+\`\`We believe that this will be made up predominantly from geothermal, wind, and solar, with much of the solar being from domestically installed (rooftop) installations. Geothermal generates at a fairly constant output for long periods. However wind and solar vary - as the wind blows and when the sun shines.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+\`\`This is where the part about providing an electricity supply that is secure gets interesting. One of the things we will investigate in this project is dealing with the variability of wind and solar renewable generation to ensure a secure supply.’’
+
+Dr Miller said they would also investigate consumer behaviour around some of the new technologies in the industry. This includes domestic solar installations, home automation, and the use of smart meters with smart appliances to deliver home automation.
+
+Home automation could be used to make a household’s electricity demand respond to certain signals, such as a price signal from their electricity retailer. Added to this will be electric vehicles, which they expect an influx of over the next 10-15 years, and the home becomes not just a larger user of electricity, but a mechanism for storing electricity, and controlling demand.
+
+On a large scale (many homes all contributing a similar resource) this could amount to a tremendous resource, with previously untapped potential to participate in the electricity market.
+
+\`\`We want to make the national grid smarter through better integration of the demand side with generation through the grid. This would be achieved through pooling resources from smart appliances, electric vehicles and domestic roof-top solar power to use to manage the variability of renewable generation.
+
+\`\`It will be cost effective by making it economical for consumers to use smart appliances and the like and more efficient by doing this through the electricity market, which already optimises where electricity is generated.
+
+The UC project will survey consumers to understand their perceptions and anticipated use of new technology in the electricity network, including solar panels on their roofs, home automation, electric vehicles, and demand management.
+
+The UC project will also investigate solar renewable generation and the highly technical aspects of feeding it into the distribution network, where it may completely change the direction that power flows.
+
+The research will pull together expertise from Auckland University’s Power Systems Group, and Otago University’s Centre for Sustainability to form a national research team dealing with issues fundamental to the future of New Zealand’s electricity supply. Contributing to the research will be companies such as Transpower, Orion, Unison, Vector, Mercury Energy and Mighty River Power, the Electricity Authority, the Electricity Engineers Association, and Fisher & Paykel Appliances.  
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

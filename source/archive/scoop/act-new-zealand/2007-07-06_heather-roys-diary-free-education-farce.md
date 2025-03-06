@@ -1,0 +1,85 @@
+---
+slug: heather-roys-diary-free-education-farce
+title: "Heather Roy's Diary - Free Education Farce"
+date: 2007-07-06
+source-url: https://www.scoop.co.nz/stories/PA0707/S00123/heather-roys-diary-free-education-farce.htm
+author: act-new-zealand
+---
+Heather Roy's Diary - Free Education Farce
+==========================================
+
+**Friday, 6 July 2007, 4:47 pm**  
+**Column: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+  
+Heather Roy's Diary
+
+Epsom Worst Hit By Free Early Childhood Education Farce
+
+Parents all over New Zealand believed Labour's promise at the last election that all three and four-year-olds would get 20 hours of free Early Childhood Education from 1 July 2007.
+
+It was revealed this week that this was a broken election promise - with just 62 percent of centres offering the scheme throughout the country, much regional variation in uptake and most parents receiving subsidised (rather than free) care.
+
+Parents of three and four-year-olds can be forgiven for feeling as though they have been left high and dry on the Early Childhood Education front: Labour has always claimed to be family friendly, and how could such a simple promise - that "20 hours free education will be provided for three and four-year-olds at any licensed teacher-led service in New Zealand from July 2007" - be mis-construed? Supporting such a simply stated pledge probably seemed as safe as houses.
+
+Unfortunately, however, these parents didn't realise that the Labour-led Government's interpretation of the word 'free' was different to that of the rest of the English-speaking world. To Education Minister Steve Maharey, the word 'free' - defined in the Oxford Concise Dictionary as "available without charge" - apparently means 'subject to additional fees'. At the very least Labour is guilty of false advertising.
+
+Auckland has been worst hit, with only half of Early Childhood Centres offering the scheme. Many report that providing the free 20 hours would be detrimental to their financial situation unless they are able to implement new optional charges. It is for this reason that many have been forced to impose new fees - like $10 for morning tea, or an additional 50 cents per child per day. Only then could they afford to provide the so-called 'free' 20 hours without being forced to drop the standard of service they provide.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Many other ECCs have simply taken the other path and not opted into the Government's scheme at all. In the Epsom electorate - the worst affected - only 26 percent of ECCs have signed up to the '20 Hours Free' scheme; that works out to be only 12 out of 47.
+
+The result of this is that children are missing out on the free 20 hours; in fact, an estimated 1,200 Epsom three and four-year-olds - out of 1,600 enrolled in ECE - will not be able to access the scheme. Their parents are, understandably, up in arms after being promised free care.
+
+One collection of frustrated parents have banded together to form '20 Hours Free. Please', to lobby against a perceived back-down by Labour. They're calling on Mr Maharey to honour his Government's election promise and ensure that 'free' actually means just that. To this end they've gathered more than 3,375 signatures for a petition, recently presented to Parliament, calling on the Minister to fix this flawed policy - which was concocted on the hoof in an election campaign, with little thought given to its financial details or implications.
+
+It is parents like '20 Hours Free. Please' who, when trying to access the scheme for their children, have discovered themselves that only 12 of the 47 ECCs in their area are able to provide the 20 hours of free ECE that was promised. Take away those centres that are part of the Auckland Kindergarten Association, and that number drops even further to seven or eight - some of which have waiting lists of 18 months of more, others have waiting lists of up to two-and-a-half-years, and others still reporting that they have had to close their books entirely.
+
+While Epsom's figures are worse than those of any other constituency in New Zealand, this is not an isolated problem. Education Ministry figures show that Auckland is hardest hit - with only 48 percent of eligible centres in Auckland Central intending to offer the free 20 hours, and only 33 percent on the North Shore.
+
+It is no wonder that many parents who have been fighting to get what they and their children were promised are now throwing up their hands and asking if it is worth continuing the struggle. But there are still some parents who are not yet ready to give up. '20 Hours Free. Please' has reported that they will continue the fight - and no doubt, given the number of signatures their petition received from outside the Auckland area, other parents throughout the country will continue to fight alongside them.
+
+Lest We Forget
+
+Corporal Willy Apiata was this week awarded the Victoria Cross of New Zealand, becoming one of only 13 living Victoria Cross holders and the only living New Zealander to have the decoration. His actions have brought great credit to the New Zealand Army.
+
+First awarded by Queen Victoria to recognise acts of valour during the Crimean War, Victoria Cross medals are to this day minted from metal obtained from captured Russian guns.
+
+Corporal Apiata has been recognised for his bravery during an attack on a New Zealand SAS patrol in Afghanistan in 2004. For security reasons many details of our military operations are never released, but the following facts have been:
+
+Lance Corporal Apiata was part of an SAS troop that, while on patrol in Afghanistan, laid up in defensive formation for the night. At approximately 3:15am, the New Zealanders were attacked by a group of around 20 Taleban, who had approached using the cover of undulating ground in pitch darkness.
+
+The patrol didn't know it was in trouble until rocket-propelled grenades struck two of the troop's vehicles, destroying one and immobilising the other. The opening strike was followed by close range machine gun and automatic rifle fire, while a further rocket-propelled grenade attack blew Apiata off the bonnet of the vehicle on which he was stationed.
+
+Two other personnel in the vehicle were wounded by shrapnel; one of them, Corporal D, was in a serious condition. After finding what cover was available, the three soldiers found that Corporal D had life-threatening injuries and was deteriorating rapidly. Apiata assumed command of the situation.
+
+The three were about 70 metres in front of the rest of the troop; Apiata decided the only available option was to carry Corporal D back to the rest of the troop. The other soldier was ordered to make his own way to the rear.
+
+In part, the citation for the award states: "In total disregard of his own safety, Lance Corporal Apiata stood up and lifted his comrade bodily. He then carried him across the 70 metres of broken, rocky and fire-swept ground, fully exposed in the glare of battle to heavy enemy fire and into the face of returning fire from the main troop position. That neither he nor his colleague were hit is scarcely possible. Having delivered his wounded companion to relative shelter with the remainder of the patrol, Lance Corporal Apiata re-armed himself and rejoined the fight in counter-attack."
+
+Three other SAS soldiers are also to receive bravery awards for actions during the same mission. Two received the New Zealand Gallantry Decoration and one the New Zealand Gallantry Medal.
+
+We extend our admiration for their actions, and congratulations on their honours.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

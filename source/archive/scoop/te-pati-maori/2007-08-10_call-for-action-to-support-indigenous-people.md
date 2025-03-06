@@ -1,0 +1,139 @@
+---
+slug: call-for-action-to-support-indigenous-people
+title: "Call for action to support Indigenous People"
+date: 2007-08-10
+source-url: https://www.scoop.co.nz/stories/PA0708/S00188/call-for-action-to-support-indigenous-people.htm
+author: te-pati-maori
+---
+Call for action to support Indigenous People
+============================================
+
+**Friday, 10 August 2007, 1:54 pm**  
+**Press Release: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Call for ‘urgent action’ to support Indigenous Peoples of the World
+
+Tariana Turia and Dr Pita Sharples, Co-leader of the Maori Party
+
+Friday 10 August 2007
+
+The Maori Party has today endorsed the message issued from United Nations Secretary-General Ban Ki-moon, calling for urgent action to achieve the fundamental principle of indigenous peoples’ full and effective participation.
+
+The statement issued by the Secretary-General on the International Day of the World’s Indigenous People (9 August) calls for international standards and human rights to be ‘vigilantly’ upheld.
+
+“Today is a time to remember those indigenous peoples who continue to suffer discrimination, marginalisation, extreme poverty and conflict; who face dispossession of their traditional lands and livelihoods, displacement, destruction of their belief systems, culture, language and way of life – and even the threat of extinction”.
+
+“While we pursue the fight for justice in all areas in Aotearoa, we must not ignore the global reality highlighted by the United Nations” said Tariana Turia, Co-leader of the Maori Party.
+
+“Whilst we are united with the situations of racial discrimination experienced by the world’s 370 million indigenous people, we are acutely aware of the situation with our closest neighbour” said Mrs Turia.
+
+“Today I received an article written by Professor Mick Dodson (attached) which reminds us all that no citizen of the world should accept that racial discrimination is necessary in any context” said Mrs Turia. “Indeed, he suggests this is too high a principle to set aside – it is assacred as the rule of law itself” said Mrs Turia.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Professor Dodson (Australian National University) is the Pacific Representative on the UN Permanent Forum on Indigenous issues.
+
+“The irony of the UN Secretary General’s statement being issued on World’s Indigenous Day while at the same time the Australian Government scrambles through 500 pages of emergency legislation to quarantine welfare payments, remove individual appeal rights and authorise police-military takeover of Aboriginal Townships is extreme” said Dr Sharples, Maori Party Co-leader.
+
+“We have heard the reports from the Northern Territory Chief Minister, Clare Martin that these emergency measures had“nothing to do with child abuse”; and we know that Aboriginal leaders had pleaded for the Australian Prime Minister to meet with Aboriginal people” said Dr Sharples.
+
+Arnhem land elders and the leaders of the Northern and Central land councils travelled to Canberra, calling for a halt to the controversial legislation.
+
+“The Maori Party stands in strong support of the indigenous peoples of the Northern Territory and will continue to speak out about the abuse of indigenous peoples throughout the world said Dr Sharples”.
+
+The co-leaders also referred to the recent visit made by Tai Tokerau MP, Hone Harawira, to Australia.
+
+“Hone Harawira is a passionate advocate for indigenous people’s rights, social justice and reconciliation” said Mrs Turia. "In this context, Hone’s interest in pursuing justice for the indigenous peoples of the Northern Territory is widely known”
+
+“His stand is consistent with the Maori Party philosophy to defend indigenous peoples and their right to a place in the sun” ended Dr Sharples.
+
+Attachment One  
+THE SECRETARY-GENERAL, MESSAGE ON THE INTERNATIONAL DAY OF THE WORLD'S INDIGENOUS PEOPLE  
+9 August 2007  
+At: http://www.unhchr.ch/huricane/huricane.nsf/view01/D35F84A98F4E2DF3C12573300052F4C4?opendocument
+
+Today, we celebrate the contributions which indigenous peoples make to humanity through their rich civilizations. We also celebrate the partnership that has existed for three decades between indigenous peoples and the United Nations. From that partnership have emerged significant international achievements, including the proclamation of two International Decades of the World's Indigenous People, the establishment of a Special Rapporteur on the human rights and fundamental freedoms of indigenous people, and a United Nations Permanent Forum on Indigenous Issues. Today, indigenous peoples have a home at the United Nations.
+
+But today is also a time to remember those indigenous peoples who continue to suffer discrimination, marginalization, extreme poverty and conflict; who face dispossession of their traditional lands and livelihoods, displacement, destruction of their belief systems, culture, language and way of life -- and even the threat of extinction.
+
+Recently, the international community has grown increasingly aware of the need to support indigenous people -- by establishing and promoting international standards; vigilantly upholding respect for their human rights; integrating the international development agenda, including the Millennium Development Goals, in policies, programmes and country-level projects; and reinforcing indigenous peoples' special stewardship on issues related to the environment and climate change.
+
+Our fast-paced world requires us to act with urgency in addressing these issues. As we do, let us be guided by the fundamental principle of indigenous peoples' full and effective participation. Let us give life to "Partnership in action and dignity" -- the theme given by the General Assembly to this Second International Decade of the World's Indigenous People. On this International Day, let this be our motto and inspiration.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Attachment Two
+
+Mick Dodson: abuse is no solution to abuse  
+Professor Dodson is Director of the ANU's National Centre for Indigenous  
+Studies.
+
+  
+Professor Mick Dodson writes:
+
+None of us is in any doubt that we have to intervene to make children safe. We have a responsibility to do this, so does government. But we must  
+draw the line on responses that involve racial discrimination.
+
+  
+My life is littered with abuse. When I was growing up I got abused because of who I was. I got called names for being black, I got excluded for being  
+black. I was treated as inferior for being black. I got told I would not amount to much for being black. I was told I was unworthy for being black.  
+I was told my culture was primitive because it was black. I was told my mother's language was unintelligible gibberish because it was black. I was  
+told I was uncivilised because I was black. I was told I had to be white. This was all abuse.
+
+And how did I react to all this abuse? I got abusive. I punched the kids in the playground and on the sports fields. I screamed at the teachers and  
+headmaster. I threw tantrums and sulked. I wagged school to get away. What did this achieve? Bugger all! My abusive behaviour reinforced the views of  
+me and mine in the eyes of my abusers. Just another useless black fella ("the whole lot of em").
+
+By the time I got to about 14 or 15 I realised this. I realised that being abusive back didn't get me far. What was the problem? Well I now knew it  
+wasn't me that was the problem in spite of all the conditioning. I realised I shouldn't be blamed for being black. Being black is not a blameworthy thing. In fact blame as a reaction is not particularly useful at all to any perceived problem. So being sick of being blamed for being black is not a way out of the problem until you realise, like I did, that it was not my problem. It's not me who is uncomfortable with being black - it's some other people. So it must be their problem. Bingo! All solved, I thought, but it's not so.
+
+Being able to identify the problem and who has it does not always make it go away. You see, most people who want to abuse you in this way do not  
+accept they have a problem. Most of them deny it or make excuses. But the decent ones do not and you cling to them.
+
+When I got older and went to university and got an 'education' I found a name for this problem. It's called racial discrimination. It's another  
+form of abuse. By then, like nearly all kids who are different growing up in this country this form of abuse is part of everyday life for you and  
+you build up defence mechanisms including identifying the problem as not yours. When you grow up you teach your kids the same defensive responses  
+and you hope they will teach your grandchildren because you know the problem is going to be around for at least that long. This does not mean  
+you walk away from the problem -- you try to fight it in different ways through education, awareness raising, information sharing and through  
+other processes such as reconciliation. You endeavour to assist people to deal with their problem. You do not accept silence as an option. You  
+certainly don't make excuses or seek to excuse.
+
+I know today our kids get abused, our women get abused, even we get abused from time to time. Indeed we are sometimes abusers -- I know I have done  
+so. I have not been immune from giving someone an abusive verbal spray, I have not been free from pouring scorn and ridicule on others. Abuse is all  
+around us. We need to desperately do something about it when it's our kids who are being abused. We all know that. It's a given.
+
+But, we now have draft legislation which uses a form of abuse in the name of stopping abuse. What an abuse of process this is. It is an assault on  
+democracy and an abuse of decency. We are asked to accept abusive government behaviour in our name to stop abuse. We are asked to believe  
+these are 'special measures' so we can be comforted that they comply with the Racial Discrimination Act. We are told we need to accept this so that  
+country can meet its international obligations. We are asked to accept that just to be absolutely sure our government needs to 'dis-apply' the RDA.
+
+Just in case -- just in case we are asked to name our problem. Just in case the 'special measures' turn out to be a big fat political lie. We are  
+told we need to take people's land from them and remove their right to control access to that land in the name of stopping abuse -- yet we know  
+in our heart of hearts that this has nothing to do with the issue of child abuse. Deep down we know it is something else.
+
+I'm at a loss as to what to do. I've been fighting racial discrimination all my life I've run out of ideas. But I know that no Australian should accept that racial discrimination is necessary in any context. It is too high a principle to set aside -- as sacred as the rule of law itself. It is not excusable in any situation and  
+is even more troubling when we know what needs to be done to make children safe and it doesn't involve racial discrimination.
+
+Ends
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

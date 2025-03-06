@@ -1,0 +1,144 @@
+---
+slug: coddington-fixing-education-government-butt-out
+title: "Coddington: Fixing Education - Government Butt Out"
+date: 2004-10-04
+source-url: https://www.scoop.co.nz/stories/PA0410/S00032/coddington-fixing-education-government-butt-out.htm
+author: act-new-zealand
+---
+Coddington: Fixing Education - Government Butt Out
+==================================================
+
+**Monday, 4 October 2004, 9:12 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Fixing Education - Government Butt Out
+
+Deborah Coddington Speech to the ACT Upper South Regional Conference; The George Hotel, 50 Park Tce, Christchurch; Saturday October 2, 2004
+
+Orwellian Doublespeak is what we used to call political correctness. It's when the language we use deliberately disguises the sometimes innocuous, but often sinister, meaning. It is used very effectively in social engineering - capture the language and you dupe the people.
+
+Thus we have arrived at nonsense situations like the Human Rights Tribunal awarding financial compensation for hurt feelings and humiliation to a convicted killer who raped and tortured a young girl, but wasn't allowed to see the full text of a letter written to the prison manager about his recidivist behaviour when out on parole.
+
+We have a Government-initiated, State-run, taxpayer-funded Families Commission which can't even define what a family is, let alone do anything to assist the smooth running of families' lives in New Zealand. Instead, it takes some $80 million dollars out of families' household budgets to run yet another bureaucracy, and passes more laws which continue to make it easier financially if you are anything but part of a hard-working family.
+
+And we have an Education Ministry which, for the past 20 years, has done much to mis-educate young New Zealanders. We have a New Zealand Qualifications Authority which is not, contrary to its name, focusing at all on the quality of learning, but on the quantity of qualifications.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+We have the National Certificate in Educational Achievement which if, as most of us do, you take education to involve learning and obtaining knowledge, is indeed nothing of the sort. As Gillian Eadie, Principal of Samuel Marsden Collegiate School in Wellington wrote in July 2002:
+
+"gone is the holistic approach to the acquisition of knowledge and skills. \[NCEA is\] a plethora of small units of knowledge, arbitrarily chunked, and students are required to gain short-term, mechanical mastery of these, retained just long enough to gain a standard." - OpEd Education Forum, No 25 July 2002.
+
+A brief history.
+
+The NCEA is a bastard offspring of the National Qualifications Framework, a radical change in New Zealand's education which began in New Zealand back in the early 1970s. However, its philosophical roots go back to the 1960s and the child-centred, constructivist pedagogy of philosophers like Michel Foucault.
+
+Child-centred educational theory is rife in our teacher training colleges today - it's basically when the child \`constructs' their own body of knowledge with the teacher merely a facilitator. There is much emphasis on collective discussion and consensus - even in ridiculous contexts such as locating the stomach of a cow - and individualism is a dirty word. When I wrote a story on teacher training for North & South magazine in 2001, I highlighted much of the constructivist nonsense found in the manuals. For instance, in the maths-learning module, there are no such things as errors, just \`alternative perceptions'.
+
+But constructivism is wonderful for those who push revisionist history, feminist geography, colonialist guilt, or social studies. Knowledge can be whatever you want it to be.
+
+But I digress.
+
+Back in 1996 Jenny Chamberlain wrote what I understand was the first feature article in the mainstream media warning parents about NCEA. In this article Warwick Elley, professor of education at the University of Canterbury until 1995, put his finger on what is essentially wrong with this qualification - it is the application of a vocational assessment procedure to academic subjects.
+
+He said that under this framework, excellence would be ignored. "People will focus on trivia - the things that can be reduced to unit standards - and ignore important objectives like problem-solving skills, critical and original thinking and creative writing. Students and teachers will instead concentrate on what is likely to be assessed."
+
+Interestingly enough, I was speaking with a senior editor last Wednesday evening in Auckland about education standards. She told me at her publication they are increasingly seeing the results of this child-centred pedagogy in young journalism graduates who start work desperately keen to write feature articles. They have the passion, the energy, the ideas and the enthusiasm but they are totally unable to create the story. They cannot adequately use their tools - words and sentences, grammar and syntax. To me this is child abuse of the mind. It's a scandal that after 12 or 13 years of compulsory education, then a possible three or four years of tertiary, they are still unable to think critically, creatively and craft a story - something they have been trained to do.
+
+Dumbing down the education system is a perfect instrument for social engineering. Dumb down the population. Train our youngsters not to think for themselves. Cripple their critical thinking and questioning. Instead of equality of opportunity, aim for equality of outcomes.
+
+Last month UK education expert Alison Wolf visited New Zealand as a guest of the New Zealand Business Roundtable. I asked her why she thought it was, that those who are now in their positions of authority either in Parliament, the bureaucracy, or education profession, largely because of the benefit of a system which had national standards and external exams, want to force this NCEA on the current generation.
+
+Her answer was very interesting and I agree with her. She didn't believe it is some big conspiracy. She thinks that those who are well-educated and successful take for granted how they got there. When they were little, their parents helped and corrected them. They started school already able to read, write and add up to a basic level. They succeeded on through school with able teachers, still with parents at home encouraging and supporting them.
+
+Then when they are sitting at the top of their profession, she said, they seem to think it just happened that they got there. They believe that if children are surrounded by good books, knowledgeable adults they sort of absorb knowledge and automatically know how to turn out an essay with no spelling mistakes or apostrophes in the wrong place.
+
+Then in 2000 The Education Forum published this very useful booklet - "What Teachers and Parents Should Know About the National Certificate of Educational Achievement". It sounded dire warnings about the NCEA. I quote just a few:
+
+"It will be impossible to discriminate between students who gained credits at the first attempt from those who had to make two or more attempts. There are no national rules about how often an achievement or unit standard may be attempted and reassessed and at what intervals."
+
+"Achievement standards will not, as claimed, tell users exactly what the holders know and can do. Many of the achievement standards could apply to 11-year-olds just as well as to 16-year-olds."
+
+"Users of qualifications want simple, clear information that differentiates between students. They won't get it."
+
+Think of these four-year-old warnings - and Professor Warwick Elley's from eight years ago - as I take you through a random sample of media clippings from the last two years:
+
+Principals call for NCEA review (NZ Herald June 2004) - The Central North Island Secondary Principals' Association had taken out a newspaper advertisement calling on the Minister of Education to conduct a full-scale review for the sake of credibility and robustness.
+
+NCEA baffling employers (Manawatu Standard July 2004) - Palmerston North employers say they are discarding students' NCEA results because they did not understand or trust them, and were looking for things like part-time jobs or hobbies on the CV instead.
+
+Schools Examine NCEA alternative (North Shore Times October 2003) - A handful of North Shore schools are offering the Cambridge International Exams because the NCEA was dumbing down the education system.
+
+And my favourite is the large advertisement placed in the Weekend Herald in August 2004 by Howard Lee, associate professor of education at Otago University which is headed up \`NCEA Fatally Flawed". Students, Professor Lee said, are guinea pigs in a system which sets them up for failure. He slammed the NCEA as "bold and risky" and "ill prepared for and poorly planned".
+
+Students, he went on, were not pushed to achieve high results because they were told at the beginning what they had to do to pass or gain a merit and there was no incentive to work harder. "We have kids leaving school with screeds of paper saying they did very well in the homework test. Everyone gets recognition for everything. That is not the nature of the world. We are letting kids leave school with a false understanding of where they are at academically."
+
+And then there are all the letters I get from parents and teachers who have tried with all sincerity to make the NCEA work but have found they are defending the indefensible.
+
+The history teacher from Glenfield College in Auckland whose students walked into their exam last year to discover that one of the topics - a compulsory topic in New Zealand history which they chose from a limited number of alternatives and which they had been taught on for much of the year - was not in the exam. This despite it still being on the website and in the handbooks. When the NZQA and the Minister of Education finally responded to complaints after many months, the school was told the exam was withdrawn because no one competent enough could be found to set the questions or mark them.
+
+The parent from a Wellington school who has complained to the NZQA because his son has just discovered that, unlike other schools, there will be no reassessment in certain subjects. A \`did not achieve' remains just that. Not that I agree with reassessment after reassessment until a pass is achieved (with no indication of how many times the student attempted the credit) - look where this got Cambridge High School. Ironically, this will mean that increasingly a student's school qualifications will depend entirely on which school he or she attended. Precisely what the NCEA was supposed to overcome.
+
+In fact, in doing the research for this speech today I discovered a letter I wrote to Trevor Mallard on 12 August 2002 challenging him to a public debate where he could defend the NCEA. This was because I'd attended a meeting at Wellington College where representatives from the Ministry of Education and NZQA attempted to placate fears in the community. Instead, the representative from the Ministry admitted that even he struggled to understand the system.
+
+I'm not surprised when you look at an answer Steve Maharey gave in the House to questions about NCEA credits being given out for picking up litter (something when I was at school you did when you were on detention). Asked in a patsy by Helen Duncan to tell the House what specific skills are tested through the unit standard, Interpersonal Communications that assesses participation in a team or group to complete a routine task, Mr Maharey answered:
+
+"People credited with this unit standard are able to identify team roles and responsibilities, gather ideas and information from other members, clarify their own and other people's positions and achieve consensus in reconciling differences. So long as the task used in the course of the assessment is routine, and can be planned and executed by a team, the subject of the task is not highly relevant."
+
+Ladies and gentlemen, it is not too late to dump the NCEA and bring back external national exams. There wasn't much wrong with the old system that couldn't be fixed without radical upheaval. Many myths abound about School Certificate and Form 7 Bursary exams.
+
+I can't see any justification in the argument that national exams had to be dumped because 50 percent didn't pass. I thought that was the objective of academic exams, to sort out students into streams most suited to their intelligence and ability - academic, applied, occupational - and into different curricula to recognise the diverse range of ability, attainment and aspiration in senior school.
+
+And anyway, education in the true sense is not solely about passing exams. You're not a failure if you don't pass Bursary unless the Government closes off other avenues for you, like traditional apprenticeships where youngsters learned on the job, under the guidance of an older, experienced and often self-taught tradesman. Today, with our chronic shortage of truck drivers, builders, plumbers, etc, an apprentice at 16 could be earning big money by the time he or she is 20 - more than their peers studying for a law degree.
+
+Instead the NCEA - with its \`all must have prizes' policy (to the extent that this year the NZQA has directed that no failures may be reported) - is about making less intelligent students feel good about themselves.
+
+And as the late Martin Hames wrote in his book, Crisis in Schools, "At the end of the day there is something extraordinarily patronising - even snobbish - about the attitude of some educationists towards such students. Being bright academically is not everything. Moreover, knowing that you are not bright academically is not the worst thing in the world. One can still be honest, reliable, punctual, diligent and kind. One can still be a valued employee in a wide range of jobs. There should be nothing undignified about any honest occupation. We need cleaners, plumbers, labourers, car mechanics and factory workers - more, perhaps, than we need certain educationists. The fact that society does give higher status to certain occupations is not something schools can hide from their senior students."
+
+I suspect Bill English is right when he says the NCEA is here to stay, but I disagree with his assertion that some tweaking will fix it. No amount of tweaking will save this baby.
+
+However, I do believe we can bring in choice. Allow schools to dump the NCEA if they like. Bring back Bursary (gone this year) - a gold-plated, internationally recognised academic qualification, and an exam similar to School Certificate. Contrary to popular myth, scaling was not employed, but a similar distribution of marks was maintained from year to year.
+
+Similarly in Bursary, results were scaled between subjects and also to maintain a similar distribution of marks from year to year. This was to make both qualifications tough but fair - it didn't matter which school you went to, how affluent your parents were, or whether your teacher was a Labour voter or an ACT voter because they didn't get to \`assess' your essay on the Treaty of Waitangi anyway.
+
+In a free society, where the people are trusted to make choices about their schools, we should be able to offer competing qualifications. I bet more and more parents would move their children away from schools offering NCEA and towards schools offering objective qualifications where knowledge, learning and skills can be fairly and accurately compared.
+
+I'd like to conclude where I started, quoting from a letter from North & South's Jenny Chamberlain when she wrote last week to send me her 1996 NCEA story:
+
+"I don't resile from any of the opinions and assessments put forth in the stories. Quite apart from the effects on generations of school children, NCEA has crucified our good teachers. They are no longer remaining silent about what NCEA is forcing them to do, as newspaper letters testify.
+
+"On my way to Britain in July this year I had an unbidden, impromptu example of what teachers have suffered under NCEA. After over-nighting in a Tokyo hotel, I went down to breakfast and a couple from Hawke's Bay came and sat next to me.
+
+"They have a small farm which the husband runs while his wife, a nurse, goes out to work. The husband had retired from a long science teaching career, part of it with the Open Polytechnic. Leaving teaching had almost broken his heart but he'd had to, he said, because of what is being done to our education system. He then proceeded to outline the NCEA and NZQA debacle. At this point I felt I had to let him know that I work for North & South and that our magazine has published several stories on the topic.
+
+"At this point an extraordinary thing happened. The guy stared at me as though he'd seen a ghost. He said \`What's your name?' I said Jenny Chamberlain. He covered his face and for a few moments couldn't speak. He said he had read my stories and they had meant so much to him. They told him he wasn't going mad and had kept him strong during the final very tough years. ...Meeting them and getting this reaction meant so much to me. I felt I really had made a difference - to one person."
+
+People like Jenny Chamberlain, Professor Warwick Elley, Michael Irwin and Norman LaRocque from the New Zealand Education Forum, Roger Kerr at the Business Roundtable, Martin Hames - they were the first crusaders against this "flawed procedure". No one really took much notice. Now their protests are being taken up by teachers, parents and even students, like Philip Howison from a Taranaki school who wrote in The Free Radical: "The students in my classes disliked the NCEA precisely because it was unfair, hard to understand and bad for motivation."
+
+It's time to stop pretending it's 1984. We need to tell it like it is. The NCEA \`has not achieved'. Our students are being intellectually crippled by the education system. This week we heard that one third of newly qualified primary teachers and one half of new secondary teachers are not up to standard. The teacher unions believe the pay rise will fix this. We are clearly staring down the barrel of disaster in this country if we don't do something about education, and do it now.
+
+Bring back national standards and external exams.
+
+While we dither and tweak, to paraphrase the clichéd advertisement, New Zealand's little girls and boys wait for an excellent education so they can live a decent life.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

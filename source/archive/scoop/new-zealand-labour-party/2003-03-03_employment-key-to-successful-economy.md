@@ -1,0 +1,80 @@
+---
+slug: employment-key-to-successful-economy
+title: "Employment Key to Successful Economy"
+date: 2003-03-03
+source-url: https://www.scoop.co.nz/stories/PO0303/S00001/employment-key-to-successful-economy.htm
+author: new-zealand-labour-party
+---
+Employment Key to Successful Economy
+====================================
+
+**Monday, 3 March 2003, 9:01 am**  
+**Column: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Opinion piece by Tony Milne, Labour Spokesperson for Rakaia  
+1 March 2003
+
+Employment Key to Successful Economy
+
+  
+Before the Labour-led government was elected in November 1999, one of the major problems facing the regions of New Zealand was a shortage of jobs.
+
+Today, just over three years later, we have the lowest unemployment in 15 years and employment figures among the best in the OECD. Many regions are suffering skill shortages.
+
+How did this significant turn around occur in just three years and to what extent did the government’s policies contribute to this favourable situation we are in today?
+
+In 1999 Labour was elected on a platform of fundamental reform, including one of Labour’s key ‘credit card’ promises to "Create jobs through promoting NZ industries and better support for exporters and small business". Unlike today, unemployment was high on the political agenda.
+
+Labour took office with the official unemployment rate at just over 7%. In three short years unemployment has dropped to a 15 year low at 4.9%, with over 123,000 new jobs created since Labour became the government and 12,000 long-term unemployed now in employment – a reduction of over 30% in a three year period.
+
+More people are in jobs in New Zealand than ever before.
+
+Registered unemployment has dropped in every region. In Ashburton, registered unemployment dropped by over 70% since the Labour led government was elected in 1999. In May 1999 for example, 745 people were registered unemployed. In May 2002 that figure had fallen to 222. In the same period long-term unemployed had fallen from 327 to 131, a reduction of over 60%.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Unemployment is no longer high on the political agenda. Instead the story dominating the public arena is hundreds of unfilled jobs caused by significant skill shortages. This is holding our economy back from performing more strongly than it is.
+
+The previous government failed to plan for the shortages despite official advice that the problem was becoming serious. Labour recognised the problem early, implementing a modern apprenticeship scheme. There are now 3800 new apprentices and 68,000 people in industry training and Labour has promised to double those numbers in the next few years.
+
+While good export conditions and favourable weather has contributed to New Zealand’s strong economic performance, smart innovative government policies have facilitated job creation and a strong economy despite the international uncertainty and economic downturn after the international tragedy on September 11 2001.
+
+In the area of job creation, Labour has introduced individual job seeker accounts and making work pay – an initiative targeting sole parents, long term beneficiaries with dependant children, low income parents already in the workforce and those contemplating taking up seasonal work opportunities.
+
+Regionalisation of the work and income services of the Ministry of Social Development was introduced by the government in 2000 to marry its employment expertise with the different skill needs in each region.
+
+And, importantly, Labour has begun the crucial debate on benefit reform, shifting the focus off our welfare system so that beneficiaries are actively supported to move off welfare and into paid work.
+
+Unemployment may be the lowest for a generation, but a group of people remain in society who have been on a benefit continuously for years, or don’t last in paid work and end up back on the dole. National would have blamed them and looked for ways of removing their benefit. Labour wants to respond more intelligently, so people see government as a helping hand, rather than a big stick.
+
+Labour’s plan has five parts: simplification of the social security system that is easily understood and easier to deliver, ensuring that moving into work is worthwhile financially; investing in disadvantaged regions to help businesses create employment; ensure the system supports families and children adequately through difficult times, especially when no family member is in paid employment; people being prepared to take opportunities offered to them and be aware of reasonable sanctions if they do not; and building partnerships with the voluntary sector, local government and with business communities to find local solutions to local problems.
+
+Employment is the key to a successful economy and this Labour government has, and will continue to tackle the difficult issues surrounding the barriers to employment, creating jobs, and filling skill shortages.
+
+I want to hear what you think. Please contact me if you have any questions or ideas on how to keep unemployment at this record low and the economy growing strongly.
+
+Phone: 021 159 3259  
+E-mail: tony\_milne@xtra.co.nz  
+Post: PO Box 45  
+Lincoln University  
+Canterbury  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

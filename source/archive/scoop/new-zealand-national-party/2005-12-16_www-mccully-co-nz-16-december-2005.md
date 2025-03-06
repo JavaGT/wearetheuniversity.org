@@ -1,0 +1,102 @@
+---
+slug: www-mccully-co-nz-16-december-2005
+title: "www.mccully.co.nz 16 December 2005"
+date: 2005-12-16
+source-url: https://www.scoop.co.nz/stories/PA0512/S00266/wwwmccullyconz-16-december-2005.htm
+author: new-zealand-national-party
+---
+www.mccully.co.nz 16 December 2005
+==================================
+
+**Friday, 16 December 2005, 2:39 pm**  
+**Column: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+### 
+
+www.mccully.co.nz 16 December 2005  
+
+_**A Weekly Report from the Keyboard of Murray McCully MP for East Coast Bays**_
+
+**Auditor-General Report Due on Health Nazi Heaven**
+
+On the 19th of August 2004 the very diligent, yet even more humble, Member for East Coast Bays asked a perfectly straightforward Parliamentary Question to the Minister of Health.
+
+He wanted to know how many Ministry contracts had been awarded to two former Ministry officials who had established a consulting business as Allen and Clarke. The ducking and weaving, the covering up which followed could only excite the very worst fears. And next week, 16 months later, an Auditor-General’s report, following a complaint by said humble member, should tell us just how rotten things really are in the Ministry of Health.
+
+Answers to Parliamentary written questions are supposed to be delivered inside six days. Yet months of complaints brought no answer. Even a letter from Speaker Jonathan Hunt on 23 November made no impact. An answer was finally provided on 29 March 2005 – seven months after it was due. So just what sort of Minister avoids answering a Parliamentary question for seven long months, despite consistent pestering and interventions from the Speaker? A Minister that is involved in a cover-up, of course. That Minister would be former Health Minister Annette King.
+
+The answer given in late March owned up to 24 contracts worth nearly $1,200,000 between the Ministry and its former employees. But there was a catch. Shocked by the information in the answer, the humble Member for East Coast Bays had enlisted the services of the Auditor-General. On the 8th of April the Auditor told the Ministry he was going to investigate. Realising they had been sprung, the Ministry, that afternoon, released a corrected answer confessing to a further 18 contracts with Allen and Clarke – all untendered.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+As the Audit investigation continued, more contracts were discovered. On 10 May and again on 15 June, further corrected answers were given. A grand total of 60 contracts had been granted to two former officials by their former colleagues, only three of them tendered. Nearly $1.4 million over two years.
+
+Don’t expect an A-G’s report littered with colourful language next week. They usually stick to statements of fact and leave it to readers to draw the obvious conclusion. But do expect those facts to be pretty horrible – as described to you by the worldwide headquarters of mccully.co. And ask yourself this question: if these are the sorts of deals Ministry of Health officials are prepared to do between themselves, and if these are the lengths they and their Minister are prepared to go to in order to cover them up, then what else has been going on in there that we don’t know about?
+
+**The Sutton Retirement**
+
+Trade Negotiations Minister Jim Sutton is due to retire from Cabinet (and possibly from Parliament) when he returns from the Hong Kong ministerial trade meetings. Phil Goff, forced to vacate the Foreign Affairs portfolio for Winston Peters, takes his place. The decision to retire Sutton from Trade at a critical time on the international trade agenda makes no sense.
+
+Who knows what personal and political agendas within the Labour Party drove the Sutton decision (the fact that he is male, and not gay would not have helped). Whatever they were, Clark’s decision was a serious lapse in judgement. Not because Sutton is the outstanding Trade Minister of our times (although he has done a competent job) or because Goff won’t be up to it. It is a change she didn’t have to make right now, and this was the wrong time to make it.
+
+Over the past six years Sutton has traveled thousands of miles and attended hundreds of meetings. New Zealand taxpayers have invested heavily in building personal relationships and gaining access to some of the important, invitation-only trade discussions. Using all of those contacts and all of that access to maintain the strongest possible pressure for progress on trade liberalisation is where New Zealand’s focus should lie. Instead, we have been diverted by domestic Labour Party politics.
+
+The Sutton move continues a tradition of small thinking and short-sightedness in the manner in which we deal with the outside world. New Zealand is a small, trade-dependent nation. Trade policy is relatively bi-partisan. And the Government is to be commended for the decision to take former WTO Ambassador, now National MP Tim Groser, to the Hong Kong meetings. But the practice (under all Governments of recent times) of under-utilising former Ministers and their networks purely because they happen to be domestic political adversaries, needs re-thinking.
+
+That the current administration feels it can dismiss the investment made in Jim Sutton at this time is regrettable.
+
+However, we are pleased to advise that the next administration will be perfectly happy to use his relationships and the knowledge in which taxpayers have invested so much in recent years.
+
+**More LOV Worries**
+
+Regular readers may recall that this august journal was first to reveal the small technical difficulties with the $100 million Pinzgauer LOV project (the replacements for the ageing Landrovers). The transmissions were overheating, rendering then unusable.
+
+Well this week the Chief of Defence Force Air Marshal Bruce Ferguson fronted up to the Select Committee. The transmission problem, he told the Committee proudly, had been fixed. Large cooling fans had been installed and they kept the transmissions working just fine. The only problem was the fans were so noisy that they did not meet OSH requirements.
+
+So the LOVs we are sending in to the world’s danger zones are first class. It’s just that the guys driving them either have to wear earmuffs (so they can’t hear what’s happening around them), or they go deaf. Oh, well that’s ok then.
+
+**The 2005 Baubles I**
+
+t would be churlish, at the end of such an eventful political year, not to present the mccully.co 2005 Baubles to those who have rendered services above and beyond the call of duty:
+
+The 2005 Bauble for Public Administration goes to our old friend Dr Bewildered for the truly outstanding feat of restructuring the tired, incompetent and unprofessional Immigration Service and leaving it even more tired, incompetent and unprofessional than it was before.
+
+The 2005 Pinocchio Bauble goes to TVNZ Chair Craig Boyce for telling a Select Committee that TVNZ directors hadn't expressed their lack of confidence in Dame Ann Hercus and requested her resignation, and that he hadn't gone to ask the Minister to fire her when she refused to go, when actually both of these things did happen.
+
+The 2005 Bauble for Services to Sport goes to David Benson-Pope for establishing tennis as a physical contact sport.
+
+The 2005 Survivor Bauble for holding on to the baubles of office without expending any effort or being able to list a single achievement goes to Judith Tizard (probably because they forgot she was still there).
+
+The 2005 Bauble for Barefaced Cheek goes to State Services Commissioner Dr Mark Prebble, who sent a circular to public servants prior to the election to remind them of their obligations of political neutrality when it was he who withheld critical Corngate papers which Helen Clark had said were being released in the days before the 2002 election, to the considerable political advantage of the Labour Party.
+
+The 2005 Bauble for Services to the Sisterhood goes to Dame Ann Hercus, for her generous advice to TVNZ directors and executives as to the wishes of the Government on the matters at hand.
+
+The Craven Sisterhood Lackey of the Year Bauble proved to be the toughest assignment for the judges. All media outlets in the Parliamentary Press Gallery made spirited bids at times for this honour. But in the end (and we apologise immediately to Tracey Watkins and Comrade Vernon Small at the DomPost who showed real commitment), for sheer unremitting consistency it was impossible to go past Radio New Zealand. Whether it was Union boss Brent Edwards, in charge of their Election Unit, Education Reporter Gail Woods faithfully retailing the Labour and Teachers’ Union line, the unbroken chorus of lefty-pinko on-air presenters, or CEO Peter Cavanagh attending assiduously to the wishes of his political masters, it was a complete, all-round performance.
+
+But what, we hear you ask, about our Minister of Foreign Affairs? Surely a little bauble or two would be appropriate to recognise his contribution to politics in 2005. Well, no actually. After promising that he would not accept the baubles of office, then leaving his mates baubleless as he himself assumed control of the bauble factory, if there is one person in the country who doesn't need any more baubles in 2005, it’s Winston Peters.
+
+**Merry Christmas**
+
+Thanks for your interest during an eventful 2005. Merry Christmas and all the best for 2006.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

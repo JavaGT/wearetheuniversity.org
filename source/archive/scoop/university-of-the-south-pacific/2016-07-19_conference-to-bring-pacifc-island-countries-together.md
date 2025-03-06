@@ -1,0 +1,80 @@
+---
+slug: conference-to-bring-pacifc-island-countries-together
+title: "Conference to bring Pacifc Island countries together"
+date: 2016-07-19
+source-url: https://www.scoop.co.nz/stories/WO1607/S00057/conference-to-bring-pacifc-island-countries-together.htm
+author: university-of-the-south-pacific
+---
+Conference to bring Pacifc Island countries together
+====================================================
+
+**Tuesday, 19 July 2016, 11:01 am**  
+**Press Release: [University Of The South Pacific](https://info.scoop.co.nz/University_Of_The_South_Pacific)**
+
+18 July 2016
+
+**PRESS RELEASE**
+
+**Conference to bring PICs together - Honourable Sayed-Khaiyum**
+
+Forums like the 2016 Pacific Update Conference is critical as it brings together Pacific Island Countries (PICs), said the Attorney-General and Minister for Economy, Honourable Aiyaz Sayed-Khaiyum during the opening of the Conference on 18 July 2016.
+
+The 2016 Pacific Update Conference which is organised by The University of the South Pacific’s (USP) School of Economics, Asian Development Bank (ADB), Asian Development Bank Institute, and Australian National University’s (ANU) Development Policy Centre, has a theme of _“Inclusive Growth for Enhanced Resilience."_
+
+Honourable Sayed-Khaiyum highlighted that such international conferences provide the opportunity to look at many of the challenges that are cross-cutting within the PICs, adding that, “the donor countries, various development partners, and funding agencies are able to also take a leaf or actually gain some knowledge from that and we of course need to learn from what is happening within the wider contexts outside Pacific.”
+
+According to the Attorney-General, the Pacific has a number of opportunities but also challenges at the same time.
+
+“We do not, for example, have the economies of scale within our own countries. We do not have economies of scale surrounding us,” he said.
+
+“Your ability to attract a private sector investment, your ability to have lot more competition within your market, your ability to, for example, restructure your state-owned enterprises does become limited because of the fact that you do not necessarily have economies of scale,” he told the participants of the conference.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Honourable Sayed-Khaiyum further stated that there are many opportunities of collaboration between PICs.
+
+“Some of us of course have the advantages over other countries and they may have other advantages in specific areas that we may not necessarily have. So the idea is to tap into your knowledge base for governments to make good decisions because the ability to make the right decisions greatly enhance a platform of ideas that we can actually choose from, and see whether it is more suitable for us,” he further stated.
+
+While expressing his sincere appreciation to USP’s key partners in enabling the University to host the annual conference, Vice-Chancellor and President, Professor Rajesh Chandra said that USP has always supported conferences of such nature, which presents and discusses research related to PICs.
+
+This, he added, is very much aligned to the regional nature of the University and the expectations that it is the major Pacific Islands think-tank.
+
+“ADB and ANU have long been partners of the University and have supported us in our initiative geared towards development of the Pacific region through higher education, research, and regional integration measures,” Professor Chandra said.
+
+“We are at crossroads in the Pacific. The new Framework for Pacific Regionalism calls for greater ownership and responsibility for its development; greater responsibility for thinking about their future and their solutions; and greater recognition and understanding from our development partners of the importance of giving space, time and opportunity to Pacific Governments, people and institutions to find solutions stemming from their vision and ambitions and rooted in their experiences and sure in their sustainability,” he added.
+
+Professor Chandra mentioned that just as high quality, internationally benchmarked educational system is the foundation for the University’s development, so is societal and political cohesion and the creation of strong and widely shared sense of a unified nation.
+
+“We need to look at resilience in terms beyond economic or environmental resilience – as is the common view – and focus equally strong on nation-building and unifying all citizens around a strong, shared vision for the countries,” he added.
+
+In her address, the Australian High Commissioner, Her Excellency Ms Margaret Twomey said that the theme of the 2016 Pacific Update Conference is a useful headline to describe that we need to drive positive economic change in the Pacific.
+
+She added that an inclusive growth approach to the Pacific needs to focus on building resilience, at the household level, right through to the country level.
+
+“I am sure that this Pacific Update Conference will provide important sources of fresh ideas and perspectives to make the development changes in our region,” she added.
+
+Her Excellency Ms Twomey highlighted some of the things Australia is doing to support inclusive growth and enhance resilience in the Pacific, which include, - reducing barriers to economic participation to ensure that everyone can benefit from the growth of the economy, for instance, by investing in women’s economic empowerment as well as disability inclusive development; the Australian government is dedicated to ending violence against women in the region; they are also investing heavily on climate change adaptation in the Pacific; and working closely with the private sector to improve financial inclusion, through bilateral programmes, but in particular through a major regional initiative – the _Financial Inclusion for Pacific_ Programme.
+
+The two-day Conference has sessions on economics, finance, governance, regionalism, ICT, environment, climate change and disaster risk management, private sector involvement, infrastructure, trade, education, labour mobility, renewable energy, health, and fisheries.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University Of The South Pacific](https://info.scoop.co.nz/University_Of_The_South_Pacific) on InfoPages.

@@ -1,0 +1,57 @@
+---
+slug: greens-call-for-action-on-housing-report
+title: "Greens call for action on housing report"
+date: 2003-09-15
+source-url: https://www.scoop.co.nz/stories/PA0309/S00317/greens-call-for-action-on-housing-report.htm
+author: green-party
+---
+Greens call for action on housing report
+========================================
+
+**Monday, 15 September 2003, 8:04 am**  
+**Press Release: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+  
+Greens call for action on housing report
+
+The Government must urgently prioritise access for low income families to decent housing, following a report out today confirming once again the link between deficient housing and child poverty, Green Housing spokesperson Sue Bradford said.
+
+"The Child Poverty Action Group (CPAG) report, Room for Improvement, shows that safe, decent and affordable housing is still out of the reach of tens of thousands of New Zealand families, despite our having had a Labour-led Government for the last four years," Ms Bradford said.
+
+"The Green Party supports all the recommendations in the report, and above all the need for far more resources to be put into social housing.
+
+"We would rather see the Cullen super fund and budget surpluses put into building state houses and paying for a Universal Child Benefit, than invested on overseas markets - we believe the best investment for the older generation is to take the youngest one out of poverty."
+
+The Green Party also supports CPAG's call for more funding and support to go into community sector groups, including hapu, iwi and pan-tribal organisations, who provide housing for those most in need, in both rural and urban areas.
+
+Sue Bradford said that, like CPAG, the Greens believe that the state should also reduce by every means possible its reliance on the accommodation supplement as a way of helping low income families.
+
+"The supplement, which costs millions of dollars a year, is a massive subsidy to private property investors. It is a huge waste of taxpayer money that would be better put into building houses."
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+"There should also be a lot more done to assist low-income families into home ownership."
+
+Ms Bradford said her private member's bill to bring back a universal child benefit, currently before Parliament, would help families get a deposit on a home, which previous generations of families were able to do before the Family Benefit was wiped out in 1991.
+
+"If Labour were serious about targeting child poverty, as they claimed during the 2002 election campaign, they would support CPAG's recommendations in the report released today, as well as allowing my Child Benefit Bill to go forward for consideration by select committee."  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

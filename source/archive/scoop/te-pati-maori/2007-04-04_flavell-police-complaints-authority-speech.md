@@ -1,0 +1,130 @@
+---
+slug: flavell-police-complaints-authority-speech
+title: "Flavell: Police Complaints Authority Speech"
+date: 2007-04-04
+source-url: https://www.scoop.co.nz/stories/PA0704/S00076/flavell-police-complaints-authority-speech.htm
+author: te-pati-maori
+---
+Flavell: Police Complaints Authority Speech
+===========================================
+
+**Wednesday, 4 April 2007, 9:34 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Notice of Motion: That pursuant to Section 8 of the Police Complaints Authority Act 1988, this House recommend his Excellency the Governor-General appoint Judge Michael Henry Walkinton Lance, Acting District Court Judge of Wellington, as Deputy Police Complaints Authority for a term of one year
+
+Te Ururoa Flavell, Maori Party Member for Waiariki
+
+Wednesday 4 April 2007
+
+There are a couple of reasons why Judge Michael Lance has come to the attention of the Maori Party.
+
+I believe that he is married to a woman of Te Arawa descent and that in itself is a good recommendation. My colleague Tariana Turia says that the Judge was born in Whanganui so she says he is pretty good on that count.
+
+Neither of these two reasons are enough to endorse his appointment by themselves so it is best that we have a closer look at the some key points in time involving Judge Michael Lance.
+
+The first is a case he presided over in February 2001 - the conviction of Mark Middleton. Middleton faced a jail sentence for threatening to kill Paul Dally, the killer of his step-daughter, Karla Cardno.
+
+Rather than imposing a nine months jail sentence, Judge Michael Lance QC issued a suspended sentence for two years, but with harsh words, warning the nation that
+
+"there is no room whatsoever for vigilante justice, and a lynch mob approach is quite unacceptable".
+
+While recognising the impact of such a brutal murder, Judge Lance called on the court to exercise its 'residual discretion of mercy'.
+
+That judgment of compassion and humanity coupled with a challenge as to the acceptable and appropriate means of being able to address injustice, are qualities which I would hope will be transferable to the new role of Deputy Police Complaints Authority.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The second case in which Judge Lance came to public profile, is in making history, for being the first Judge to exercise his legal rights in suing the media for unfounded public criticism.
+
+Ironically, the comments made by Radio Pacific talkback host, Mark Bennett, related to the same case around Mark Middleton. Bennett described the judge as pig-headed, arrogant, idiotic, overbearing, as spitting on justice, and reducing the judicial system to a laughing stock - all because he jailed Middleton on remand.
+
+As I understand it, Judge Lance had enough of the attack and continuing defamation and took the radio to Court. In doing so, the Judge's case became precedent-setting; setting a benchmark for the quality of reporting which would see abusive tirades result in a rebuke.
+
+Bennett was then instructed to make an on-air retraction and apology for his "extreme, unnecessary personalised criticism and vitriol that was quote over the top".
+
+So here we have a man prepared to exercise compassion while also challenging acceptable boundaries; a man prepared to break tradition and take on the media; a man, who when questioned, still upheld decent moral standards which prevented him from commenting in a like manner to the tirade of abuse he experienced.
+
+I say such a man will be greatly welcomed in the role of Deputy Police Complaints Authority.
+
+I say also, that never has there been more desperate the need for people of integrity, for independent and influential experts to be in place to improve public confidence in the Commission; the Police and the Police Complaints Authority.
+
+The Maori Party has supported both this appointment, and the previous appointment of Justice Lowell Goddard QC as the Police Complaints Authority. We do so, however, as only an interim stopgap measure, as our preference has always been for there to be an Independent Police Complaints Authority.
+
+And we have made this call, based on the conclusions of the study, Maori Perceptions of the Police which reported a very strong perception from Maori that the Police Complaints Authority would be self-protecting and biased in favour of the Police, should Maori bring a complaint against the institution or individuals within it.
+
+Mr Speaker, even the previous Minister of Justice was aware of such a desperate need for independence, in that when he released the review of the Police Complaints Authority, he said at the time, and I quote:
+
+"There is a strong public view that police investigation or complaints against themselves is neither independent nor appropriate"; and as such: "it is critical that there is full public confidence that such investigations are independent".
+
+Mr Speaker, the events of the past few months I believe have engendered little confident or trust in nga Pirihimana o Aotearoa. The UMR Research released last month described a common goal for Police to be ethical, professional, well-respected and effective. The survey also had as one of its key findings that this was more likely to be achieved if Police were representative of, and sensitive to, New Zealand's multicultural makeup.
+
+And why is that necessary? Well that same research reported that there were higher perceptions of levels of victimisation from crime and lower levels of responsiveness from Police reported by Maori, Pacifica, youth, new migrants; 18-25 year olds, and those living in Auckland.
+
+Well that would take care about 90% of the survey group I'd think.
+
+And what did this survey conclude the future of policing in New Zealand should rely on? There were three key points which I think need considering in the likely work programme that will come before the Police Complaints authority.
+
+The three unique aspects of policing in New Zealand identified were: 1. Our multi-cultural makeup as a nation 2. Our small size and close connections 3. The fact that Police officers do not normally carry guns.
+
+Mr Speaker - these are the things that New Zealanders like about our police - and in the current context when there is so little that the general public do like about the police; one would think this country would be doing everything it could to preserve its reputation.
+
+Unfortunately however, the police had to go and place a lethal weapon into the hands of ordinary cops - the taser gun.
+
+And what do tasers do? They encourage a culture of violence in policing. As with every new weapon, the number of violent options available to the police now increases.
+
+And as with other comparable data about ethnic targeting, it is more than likely to disproportionately affect Maori.
+
+In the United States, Black Americans are tasered more than twice as much as White people. In Aotearoa the same pattern is apparent with pepper spray - 55% of pepper spray victims in 2005 were Maori.
+
+The Maori Party has been so concerned about the impact of tasers; and in particular its likely adverse impacts on Maori, that we have laid a complaint with the Human Rights Commission which is currently in progress.
+
+Whilst our case will be heard in mediation, there is just one interesting anomaly that I believe is interesting in the light of the Police Complaints Authority. The response to our complaint about the taser gun stated that racial profiling and racially motivated policing can not be attributed to the New Zealand environment.
+
+And yet the National Manager for Maori, Pacific Ethnic Services, inspector Wallace Haumaha, has said quite clearly, that this country also fits into the pattern of indigenous people being over-represented in the criminal justice system.
+
+And so we come back to the one key question that Justice Lowell Goddard and Judge Lance will need to consider with every complaint that comes before them.
+
+Why is it that when Maori are surveyed about their perceptions of the Police, when the general public are surveyed about their views of the police; and when the Maori National Manager is asked about his view of Maori over-representation in the system of injustice - that their answers are almost identical?
+
+That there is a perception which acts against the interests of Maori in any interactions with the Police.
+
+And conversely, why is it that such strong perceptions are generally denied from within the Force?
+
+We know about Police projects involving partnerships with iwi; we know that there are almost fifty iwi/Pasifika and ethnic liaison officers in the police; we know that cultural training is a core part of the recruit course.
+
+But as I said at the Police College yesterday, in honouring my relation Mita Mohi who had a new intake of Police recruits named after him, in taking up Mita's name, the Police must accept some responsibilities. Furthermore iwi agreements like that with Te Arawa amount to nothing, if we can't witness a discernable change in attitude.
+
+The Maori Party supports the appointment of Judge Lance to the role of Deputy Police Complaints Authority, and we trust that he and Justice Lowell Goddard will make an impressive team. But we cannot and will not resile from the course of action that whanau, hapu and iwi have long believed in.
+
+That is, that change will not happen for Maori in relation to the Police, until the Authority exists as a truly independent body. As long as the complaints process is internal, as long as the State remains judge and jury of its own action, justice will never be seen to be done.
+
+Finally, I end with acknowledgment of a comment which is frequently made in this House. A comment which takes its source in Lord Hewart from Rex v Sussex Justices; Ex parte McCarthy; in 1924; which says:
+
+"... it is not merely of some importance but is of fundamental importance, that justice should not only be done, but should manifestly and undoubtedly be seen to be done
+
+This, Mr Speaker, is what we all hope will be visible with the new Police Complaints Authority.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

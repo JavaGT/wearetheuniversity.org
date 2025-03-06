@@ -1,0 +1,98 @@
+---
+slug: anxious-school-kids-what-can-parents-do
+title: "Anxious school kids – what can parents do?"
+date: 2017-02-02
+source-url: https://www.scoop.co.nz/stories/ED1702/S00013/anxious-school-kids-what-can-parents-do.htm
+author: massey-university
+---
+Anxious school kids – what can parents do?
+==========================================
+
+**Thursday, 2 February 2017, 4:44 pm**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+**Thursday, February 2, 2017**
+
+**Anxious school kids – what can parents do?**
+
+The start of the new school year is a time of excitement and nervous anticipation, but for some young people those nerves can bubble up into fully-fledged anxiety.
+
+A Massey University psychologist with expertise in helping children and families says parents have a key role in helping kids to manage anxiety.
+
+A touch of first-day nerves at the outset of the year is normal, but parents need to be aware of when anxiety levels start to affect their child’s wellbeing, says Dr Kirsty Ross, a senior clinical psychologist at Massey’s Psychology Clinic and senior lecturer in the School of Psychology at the Manawatū campus.
+
+“Broadly, anxiety is apprehension about things in the future,” says Dr Ross. “While it can be grounded in experiences from our past, often it centres around the ‘what ifs’ that our brain comes up with about what might happen in the future. These thoughts and worries can lead to physical responses that can promote ‘fight or flight’ reactions – such as feeling physically tense, hot, sweaty, increased heart rate, nausea. These can all be signs of anxiety.”
+
+Young people can present their anxiety in different ways, depending on their age and developmental stage, she says. Younger children may have more physical signs, such as sore tummies or headaches, or their behaviour may change and they may be more clingy, irritable or tearful, or have challenging behaviours. And they may not recognise the link between the situation (starting the school year) and their feelings and behaviour. “The physical symptoms will be real – the child is not lying, but their sore tummy and nausea is in response to anxiety, rather than illness,” says Dr Ross.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“Older children may recognise that they are feeling anxious and be able to tell you that, but some may not have realised the change in how they feel or their behaviour, and the reason for it.”
+
+As young people move through adolescence, their fears are centred more around social concerns, like fitting in with their peers, or achievement as they move into the senior years of high school. “Irritability, moodiness, changes in appetite and sleep are all typical in adolescents, but if they are particularly marked around a situation – such as starting school – they may be indicators of a worried teenager.”
+
+A parent herself, Dr Ross says dealing with an anxious child “can be challenging and trigger our own emotions. If you have anxiety around your child beginning school, it’s important that you talk to your partner, friends or family about it and to get reassurance and support for yourself. You need to be the strong, confident, reassuring person for your child.”
+
+She suggests some key tips for helping your child:
+
+**\*** **Help them to recognise their signs of worry and anxiety**
+
+Physical signs, patterns of thinking, behaviours they might engage in (like biting their nails, fidgeting), and even mood changes such as being grumpy. Things like having difficulty sleeping, feeling sick may also be signs of feeling anxious. Sleep, nutrition and physical activity are really important as lack of sleep can make anxiety worse and make it harder for your child to engage in helpful strategies. Physical activity can help unwind the body.
+
+**\*** **Practice calm breathing with your child**
+
+There are many apps that can make it fun (such as Breathing Bubbles, Settle your Glitter, Mind Shift and What’s Up for older children). Calming the physical self will settle some anxiety symptoms and allow your child to check and balance their thinking.
+
+**\*** **Help your child to think of positive ‘what ifs’**.
+
+Our brain is designed to look out for danger and potential problems to protect us and, when in a highly emotional state, it will be hard for your child to think of positive possibilities, but it is important to balance out their thinking.
+
+**\* Building resilience**
+
+Helping your child to think of times when they have dealt with something challenging and been successful is important. Help them to build a picture of themselves as strong, able to cope and having done so in the past (with examples) – this can help your young person to see that they have strengths that they can use to get through this adjustment phase until school becomes familiar again.
+
+**\* Specific stresses**
+
+If there are particular aspects of school that worry your child, practicing how to deal with those can help. For example, if making friends is a stressor, you can practice at home ways to introduce yourself or how to ask to play with someone.
+
+**\* Visualisation**
+
+Anxiety can be helped by visualising how the day will go – such as imagining walking into school, putting your bag away, sitting down at mat time, having lunch etc. Also, planning things you can control, such as where you will meet after school and who will pick your child up, can help them to feel there is some consistency and predictability to their day. If there are friends from last year who will be returning to school with your child, helping to pick up those ‘threads’ for some continuity can also be useful, even if it is just for walking into the school together and having someone initially to eat lunch with.
+
+**\* Avoid avoidance**
+
+While your young person may feel that avoiding school will solve their anxiety, it will worsen it in the long run. One of the biggest roles for parents is not to facilitate avoidance. When your child is complaining of a headache and a sore tummy, it is not easy as a parent to say ‘you are going to school anyway’. But if you feel confident this is anxiety, it’s important to be firm that going to school is what is going to happen, along with a plan for managing the anxiety. When a person goes into a situation that makes them anxious, and stays there, the anxiety will reduce. Avoidance will stop that from happening, and they will continue to associate high levels of anxiety with that situation. However, if your child also has a temperature and genuinely seems unwell, then definitely keep them home from school!
+
+**\* School links**
+
+If your child has experienced genuine difficulties in the past – whether health issues, bullying, or significant changes at home – communicating that with their school is important. Let your child know that you are going to do this, and what you are going to say, to involve them in this process. It’s important that your child has a support network at school, and the school is aware of any extra support your child may need. ‘We will deal with this together’ is a key message. While teenagers may not want you to talk to their school – in cases of significant bullying I would gently insist, but involve them in that process. If their problems fall more at a lower end of the scale, helping your adolescent to develop strategies to manage things themselves, or talk to people at their school themselves is a useful way to support them, and provides a starting point for dealing with things together, whilst respecting their desire for independence.
+
+**\* Communication is vital**
+
+With your child, with the teachers and school more broadly, and also between parents, so that there is consistency in how you support your child. Letting your child know that you have noticed that they are worried, that you are there to help, and that you are there to talk to when and if they are ready will be appreciated, even if it doesn’t appear to be! Having a good flow of communication with school also means that you will be able to know how your child is settling in, and whether things are improving or not.
+
+**\* Celebrate success**
+
+Know that this adjustment period will pass, and that things will get better. Celebrate the successes your child will have, and also make sure you look after yourself. Supporting your child can feel challenging and it is important you don’t overload yourself or your family as you all adjust to the new school term. Ensure you too get good sleep, nutrition and keep active so that you have the resources to help your child.
+
+For many children, this will be a time of adjustment before they settle successfully into the school year, says Dr Ross. “However, if you notice mood or behavioural changes that concern you, and things aren’t improving, trust your instincts and talk to your GP or school counsellor if you are worried about your child. There are supports available for young people and their families.”  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

@@ -1,0 +1,66 @@
+---
+slug: reducing-waste-to-feed-the-world
+title: "Reducing waste to feed the world"
+date: 2015-08-12
+source-url: https://www.scoop.co.nz/stories/PO1508/S00123/reducing-waste-to-feed-the-world.htm
+author: lincoln-university
+---
+Reducing waste to feed the world
+================================
+
+**Wednesday, 12 August 2015, 9:39 am**  
+**Press Release: [Lincoln University](https://info.scoop.co.nz/Lincoln_University)**
+
+12 August 2015  
+\- for immediate release
+
+  
+Reducing waste to feed the world
+
+A 2013 Asia-Pacific Economic Cooperation (APEC) agreement to reduce food waste by 10 percent across the region is picking up pace as researchers and technical team members work towards their 2017 goal of developing effective strategies and actions to address urgent global food waste issues.
+
+A third of the edible parts of food produced for human consumption is lost or wasted. That translates into about 1.3 billion ton per year. Lincoln University Associate Professor James Morton says reducing food waste is the logical first step in meeting the needs of a growing world population, which is predicted to reach nine billion by 2050. He recently attended the second of three APEC ‘Multi-Year Project’ meetings focused on addressing global food waste, where he spoke around the need to measure and reduce wastage in the livestock chain.
+
+“Reducing waste and getting the best use out of what we produce makes far more sense than trying to increase food production by about 60 percent from what it was in 2005, which is what it would take to feed that many people. Producing more food through agriculture has consequences for the environment. At the moment we are taking more out than we’re putting back in. It’s not sustainable and we’re losing arable land.”
+
+Issues around food loss and waste are complex and variable. Developing countries are most affected by food loss during production and food shortages, with 795 million people estimated to be chronically undernourished. Developed countries are faced with massive food waste at retail and the point of consumption while dealing with an obesity epidemic, which affects about 600 million adults.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Associate Professor Morton says finding solutions for food loss and waste is difficult when countries have different economies, production methods and natural resources. “There are no simple solutions, but there are things we can do such as minimising loss in the production process, reducing recalls, improving the cool chain and funding research into making the most use of co-products.”
+
+A good example of where New Zealand has reduced losses in production by growing food to more accurate specifications is in the meat industry. Retailers catering for consumers who want less fat in their food are willing to pay more for lean meat. Farmers now grow lean animals which results in less waste of unwanted fat trimmings.
+
+Meat consumption has increased significantly in recent years. “Urbanisation, a growing middle class and higher income are behind the growing demand for meat worldwide,” says Associate Professor Morton. “Livestock products offer high quality protein so meat is a very important food source.
+
+“Most countries grow livestock to feed their own population. New Zealand and Australia are unique in that most of what is produced is exported. Because of that, waste is not such a concern here in New Zealand, but that waste is happening elsewhere instead – retailers carrying a wide variety of foods to respond to consumer demand and having to discard safe food by ‘best before’ dates to maintain quality standards and consumers with food left on plates and leftovers forgotten in the fridge, all lead to high levels of waste.”
+
+Associate Professor Morton believes that livestock products are economically and nutritionally valuable, but that the high environmental cost of their production means reducing losses is essential. “New Zealand relies on its \`clean green’ image so it makes economic sense to reduce the environmental impact of food production here.”
+
+While the United Nation’s Food and Agriculture Organisation supports better and increased use of co-products, it also wants to see more food items remaining in the food chain. He says that livestock co-products are often low value nutritionally but there may be opportunities to develop meat and plant protein combinations for export, if it was economically viable.
+
+Food security is not a concern in Australia or New Zealand at present, but the topic is crucial elsewhere and is a stated priority in most other countries. APEC leaders see reducing food waste as a primary related task for ensuring confidence in food supply.
+
+The ‘Multi-Year Project’ aims to identify key issues and make policy recommendations around possible solutions and action plans which will ultimately be provided to all APEC member economies. APEC says increasing access to food while protecting natural resources and the environment will require intense public-private co-operation such as that envisioned by the project.
+
+Ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Lincoln University](https://info.scoop.co.nz/Lincoln_University) on InfoPages.

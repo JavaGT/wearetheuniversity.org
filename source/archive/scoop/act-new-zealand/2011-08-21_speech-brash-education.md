@@ -1,0 +1,154 @@
+---
+slug: speech-brash-education
+title: "Speech: - Brash: Education"
+date: 2011-08-21
+source-url: https://www.scoop.co.nz/stories/PA1108/S00444/speech-brash-education.htm
+author: act-new-zealand
+---
+Speech: - Brash: Education
+==========================
+
+**Sunday, 21 August 2011, 3:52 pm**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+**Embargoed until 2.30pm Sunday 21 August 2011**  
+**ACT – FOR SCHOOLING THAT**
+
+**EDUCATES**
+
+**An address to the ACT Wellington Regional** **Conference 2011****  
+by Don Brash**  
+**Leader of ACT New Zealand**
+
+**21 August 2011**
+
+It was Mark Twain who famously said he never let schooling interfere with his education.
+
+I suspect he’d have a lot to say about the New Zealand of 2011…. because in the New Zealand of 2011, we sport an abundance of people seemingly schooled but not educated.
+
+Before beginning the substance of my remarks on ACT’s approach to education, let me just tell you enough about my own education to enable you to put them in context.
+
+I did my first year of primary schooling at Keith Street Primary School in Wanganui, and the rest of my primary schooling at Cashmere Primary School in Christchurch. I then did five years of secondary school at Christchurch Boys High School, before going on to do degrees at Canterbury University and the Australian National University. For the most part, my teachers were outstanding, giving me a strong love of learning and a strong grounding in the basics. This was the era – in the late forties and fifties – when English teachers still taught grammar, and that means that to this day I still know when to use “I” and “me,” “who” and “whom” and where to put commas and apostrophes – knowledge which seems totally beyond more recent school graduates! (And yes, I’m fluent in text-ese as well! I can butcher words with the worst of them!)
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+My schooling was an education. It was all in public sector institutions and for years I assumed that all public sector schools were as good as the ones I had attended. When people expressed concern about the state school system, I couldn’t understand what they were talking about.
+
+I suspect that I was lucky, and that all public sector schools were never as good as the ones I was able to attend. But whether or not that was the case, it is certainly not the case today.
+
+In 1996, we were shocked when the Adult Literacy in New Zealand survey of adults aged 16 to 65 found a staggering 66% of Maori were below the minimum level of literacy required to “meet the complex demands of everyday life and work,” as were 41% of non-Maori. In other words, over a million adults were deemed below the basic level of competence required to meet the demands of everyday life.
+
+Fast forward to this year and we find some of those who couldn’t read in 1996 are now teachers – and they still can’t read! So what hope is there for their charges? I quote from the Dominion Post of February 15, 2011:
+
+“Some teachers are so lacking in literacy and numeracy skills that they cannot write adequate reports or do primary-level maths, secondary principals say. … Anecdotal evidence from principals included teachers being unable to write reports, having poor reading comprehension, making basic punctuation, spelling and grammar errors, and being unable to help pupils’ reading.”
+
+(Secondary Principals' Association president Patrick Walsh)
+
+I guess it’s no mystery why some teachers have been so resistant to the reintroduction of national standards!
+
+It seems beyond doubt that we have a serious problem. We have some outstanding schools – primary, secondary, and tertiary – and some extremely well-educated 4 people. But far too many people are coming out of 11 or even 13 years of schooling without even the rudiments of literacy or numeracy, while even those who come out with good qualifications are too often unable to write grammatical English: an inability reinforced, I would suggest, by the New Zealand Qualifications Authority’s position that in NCEA assessments, “any spelling, punctuation and/or grammar errors that do not appreciably affect the intended message” don’t matter.
+
+The teachers’ job, of course, is not helped by the mountains of paper-work that now engulf them because of NCEA. One could be forgiven for thinking that NCEA stands for “No Cultivation of Excellence Allowed.” How seriously can we take an NCEA grading? In her horrifying expose in North and South magazine a few weeks back of the chaos and skullduggery besetting internal assessment processes, journalist and former ACT MP Deborah Coddington quoted the Principal of Avondale College estimating that some 327,000 internally assessed standards had been wrongly awarded.
+
+She quoted Auckland Grammar School headmaster John Morris describing the NCEA as a “crappy qualification” and “a rort.” “A national qualification should be transparent, valid and fair,” Mr Morris said, “and the NCEA fails in every damn one. After seven years, there’s still equal weighting for chainsaw hacking as there is for physics.” To “chainsaw hacking” he might have added much easier tasks such as sending an e-mail, talking to a friend about the weather, or picking up garbage.
+
+Mr Morris has famously repaired to the Cambridge International Examinations (CIE) system as an alternative to NCEA, as have some 50 other secondary schools. 5 Good for them! In their position, I’d do the same thing. And as a parent, my wife and I made sure our son went to a school which offered Cambridge as an option.
+
+It’s fundamental to ACT’s policy on education, as I’ll explain in a moment, that parents be able to choose a school providing the qualification that they think best suits their children. For some, it may be NCEA. For many others, it may be Cambridge, or International Baccalaureate. There may well be other options. The fundamental point is that parents should be able to choose the qualification – and the school – which best suits their children.
+
+And this leads on naturally to my main concern about the educational system in its entirety – the fact that education in New Zealand is effectively a one-size-fits-all state monopoly.
+
+The overwhelming majority of New Zealand children attend state-owned or statecontrolled (integrated) schools – fewer than 4 percent attend independent schools. Not only that, but many children also have no choice over the particular state school they attend, thanks to rigid zoning laws. The remuneration of teachers is highly centralised, and is determined as a result of negotiations between a bureaucratic Ministry of Education and two powerful teacher unions, one covering primary schools and the other covering secondary schools. There is little scope to reward good teaching performance, and almost no scope to dismiss teachers for poor performance.
+
+And of course the same highly centralised system has a major impact on what is taught, on how it’s taught, and on the way in which children’s performance is assessed. It’s that system which has effectively mandated the whole language reading method, down-playing the use of phonics as a reading tool, despite increasingly strong evidence that some understanding of how to decode the letters 6 of the alphabet is an important aspect of learning to read. It’s that system which has down-played the importance of grammar in the study of English, and mandated the teaching of a particular interpretation of New Zealand history.
+
+The focus on teaching the basics – reading, writing and arithmetic – has been increasingly usurped by the desire to indoctrinate. Many teachers seem to find it far more important to teach our children that capitalism is evil, that the problems of the world are all caused by colonisation, and that climate science is completely settled. These ‘words of wisdom’ are imparted with the sole intention of having our children regurgitate them back, without question or debate.
+
+How, though, can we trust our teachers to talk about such complex issues as climate change when we cannot even trust them to teach children to read and write properly? It is therefore no surprise that 20 percent of children are leaving school functionally illiterate. Among these school leavers are some of the teachers of tomorrow. And so the downward spiral continues. Encouragingly, there is a gradually growing awareness of the fundamental problems of government-owned and centrally-managed education systems in other countries. As long ago as 1989, Albert Shanker, long-time president of the American Federation of Teachers (the main US teacher union) said that “It’s time to admit that public education operates like a planned economy, a bureaucratic system in which everybody’s role is spelled out in advance and there are very few incentives for innovation and productivity. It’s no surprise that our school system doesn’t improve: it more resembles the communist economy than our own market economy.”
+
+In New Zealand, Sir Douglas Myers has pointed out that “education and health stand out as islands of central planning in today’s open, consumer-oriented economy. Can anyone seriously suggest,” he asks, “that the problems in these areas compared with the rest of the economy are just a coincidence?” He describes the New Zealand Qualifications Authority as a “bureaucratic monster seeking to micro-manage New Zealand education in a way that would have been the envy of a Soviet education planner.”
+
+He reminds us that, contrary to those who argue that education is so special that only the state can be entrusted with it, “there is private education all around us – driving schools, typing schools, language schools, drama schools, Sunday schools, Bible colleges, independent schools, private training enterprises and much more. … All of them depend for their survival on delivering a service that consumers value.” You’ll be aware that the National-ACT Confidence and Supply Agreement provided for an inter-party working group (established in April 2009 under the chair of my colleague Heather Roy) to “consider and report on policy options relating to the funding and regulation of schools that will increase parental choice, and school autonomy.”
+
+The inter-party working group reviewed current schooling arrangements in New Zealand and best practices overseas, paying special attention to policy initiatives in England, Sweden, the United States and Australia. Heather and fellow-member Sir Roger Douglas wrote an illuminating and inspiring minority report, Free to Learn.
+
+They noted that here in New Zealand:
+
+“Compulsory education seems out of joint. It runs to a centuries-old agrarian calendar aimed at summer harvests, and is a set piece that begins, for most, at 9 a.m. and ends at 3 p.m. For 11 years or more, many of our students experience large classes, narrow corridors, white boards, set curriculum, sunless testing and, despite our best efforts, regular monotony. It is as if we cannot think of anything better for them.
+
+The stigma of failure affects nearly 20 percent (roughly 152,000 of 760,000) – a figure that puts us near the bottom of the OECD in terms of the lowest performing quartile, and which arguably carries the effect of keeping us in permanent recession. No wonder 29,000 students each day are truant.” By contrast, they pointed to Sweden as a star performer in the western world:
+
+“In 1992, a Conservative government introduced legislation permitting anyone to open a school. Such **free schools** received state funding on the condition that they did not select students on an academic basis. There was a dramatic uptake. In November 1993, the Under-Secretary of State noted that a new school opened every four days.
+
+The Under-Secretary also stated that the first wave of new schools were denominational schools started and run by churches. Shortly thereafter, a wide range of education providers entered the market. By 2007 approximately 12 percent of Swedish children were attending free schools.” Such schools have already proven they can work in New Zealand. Tu Toa School in Palmerston North, operated as a charitable trust though funded by government, has since 2005 been taking on Maori children written off by the state system. The school emphasises Maori culture, sports and academic excellence, and the results are impressive. Not only are those who were previously failing school now going 9 onto tertiary education, but in 2009 this school of just 30 students won the National Secondary Schools Netball Championships.
+
+These children are not just receiving schooling, they’re getting an education.
+
+Ladies and gentlemen, the ACT Party wants New Zealand to be the star performer in the western world, in education as in everything else. We want Kiwi schools and universities to be the All Blacks of the Education world. We can take our cue from Sweden … and surpass it! ACT’s principles commit the party to: encourage individual choice and responsibility and the pursuit of excellence in all fields of human endeavour; and enhance choice and diversity, and raise standards of achievement in education.
+
+In education, ACT believes there are some essential principles needed to help solve our current situation – to create a vision for the education of our children, to enable them to help raise their living standards. The first is equality. Every New Zealand child, regardless of family income, regardless of where they live, should have the right to a quality education.
+
+Second, our education system must be child-centric. Let’s face it, education is first, last and always about children. It’s certainly not about government and bureaucrats. We must increase the role of parents and correspondingly decrease the role of Wellington. Parents should have the right to send their children to the school of their choice.
+
+And let’s boost the role of our teachers and the opportunities open to them. And at the same time decrease the role of the Ministry bureaucrats. Like any business, schools should be responsible for managing their own affairs within the laws of New Zealand that apply to them. Let’s open the school marketplace and give good schools freedom to grow.
+
+To that end, we would:
+
+\* Have state funding for primary and secondary schools “follow the child” – to any school, state or private, meeting basic standards, including standards of literacy and numeracy. In other words, you’d get to decide which school you’d send your child to with the money the state now spends on his or her education – currently some $80,000 over the 12 or 13 years of primary and secondary schooling. There’d be no quicker way of incentivising existing schools to lift their game.
+
+Schools that once had guaranteed state funding would now have to answer to the parents instead. And if they didn’t respond to their children’s needs, these parents could take their money to a school that would. Free schools, such as Tu Toa, would be opened to respond to children’s needs. Bad schools would close because their once captive audience would have been freed.
+
+And there’d be no quicker way of rescuing disadvantaged children – children who’d otherwise be condemned to inferior education or none at all – from the poverty/illiteracy trap than giving them the wherewithal to climb out of it themselves.
+
+\* ACT would allow and require popular schools to expand to meet demand, including by taking over the land and buildings of failing schools. Massey University has campuses in Albany and Wellington as well as Palmerston North; why couldn’t secondary schools do the same? Could you imagine the demand for places if, for example, Auckland Grammar established a Porirua campus?
+
+\* We would ensure the best teachers, and principals, are the highest-paid. Boards of Trustees would be allowed to negotiate directly with staff and be able to offer performance pay and incentives. The national award system between the government and the Council of Trade Unions was dismantled in the late 1980s because it was outdated and inefficient. It is long past time we abolished it in education.
+
+\* And, finally, we would provide publicly comprehensive information about schools so that parents could make informed choices. In Australia, the Labor Government established the ‘My School’ website. This provides parents with information about every school in Australia – including their academic results, finances, and demographics. This increase in transparency has proved very popular with parents.
+
+One suspects it won’t be quite so well-loved here by many teachers. They will complain, as they invariably do, that this will lead to so-called ‘league tables’ for schools – similar to the kind you would find in the sporting arena. 12 Yet, for all the dire warnings, are league tables such a terrible idea? Let’s examine this sporting metaphor a little further.
+
+Success and failure in sporting competitions is measured on a results table that includes information such as wins and losses, points scored versus points conceded, and anything else you might want to know.
+
+These statistics are readily available in newspapers and on the internet so you can measure your team’s success against others’, and debate with some knowledge the reasons behind their success or failure.
+
+Fans are passionate about discussing their team’s performance – even more so when they’re losing. With the information available, they can decide for themselves if it’s the fault of the coach, the players, or the Board. And if they don’t improve, many fans will, rightly, stop buying tickets to watch them lose.
+
+In comparison to education, sport is a rather trivial pastime. And yet sports fans have access to more in-depth information and analysis about their favourite team than parents do about their children’s school. Parents are not allowed to see what’s causing their school to fail, or whether the other school down the road is a better option. ACT will change this.
+
+One can extend this metaphor into other aspects of education. When a team lacks leadership, they’ll get a new coach. When a team needs better players, they will pay more to attract them.
+
+At present, schools don’t have this luxury. Bad principals and teachers are notoriously difficult to get rid of, and schools are forbidden to offer more money to attract better staff. Thus, they continue to slide.
+
+When a team is losing, the fans do not buy tickets – they find another team or a new pastime. When a school is failing, parents are still forced by the government to send their children there.
+
+Can you imagine a system where fans are forced to buy tickets and watch their local team play, no matter how bad they are? It would be absolutely preposterous. And yet this is exactly how our education system operates.
+
+Ladies and gentlemen, I want to see the same ongoing explosion of innovation and excellence in education that we see in sport, and all other enterprises that are not state monopolies. Let the fresh winds of choice, competition and diversity blow through the staid state monolith.
+
+Montessori, Steiner, Catholic, Protestant, Muslim, Buddhist, Humanist, Objectivist, Marxist, Austrian … let the system be open to all-comers willing to prove their worth in an open marketplace of educational practices and philosophies. Let a million schools contend! Let the state show it can hold its own … or wither away, by the attrition of excellence. Let us be able to look the ghost of Mark Twain in the eye and say, “But Mr Clemens, in New Zealand at least, schooling is education!”
+
+Don Brash
+
+Leader, ACT New Zealand  
+14  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

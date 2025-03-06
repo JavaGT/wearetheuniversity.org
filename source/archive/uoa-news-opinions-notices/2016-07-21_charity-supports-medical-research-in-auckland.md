@@ -1,0 +1,142 @@
+---
+slug: charity-supports-medical-research-in-auckland
+title: "Charity supports medical research in Auckland"
+date: 2016-07-21
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/charity-supports-medical-research-in-auckland.html
+---
+Charity supports medical research in Auckland
+=============================================
+
+21 July 2016
+
+![Dean John Fraser2](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/charity-supports-medical-research-in-auckland/_jcr_content/par/textimage/image.img.jpg/1468985899580.jpg "Dean John Fraser2")
+
+Faculty of Medical and Health Sciences' Dean, Professor John Fraser welcomes the research funding support from the AMRF.
+
+Medical research into aspects of autism, brain injury, the ageing eye, endometriosis, vaccination, brain cancer, and preterm birth are some of the University of Auckland projects that will benefit from the latest round of funding from the Auckland Medical Research Foundation (AMRF).
+
+The Foundation has this week announced more than $1.2 million of funding grants for projects to be undertaken at the University of Auckland over two years.
+
+The AMRF Executive Director Kim McWilliams says, “It is really pleasing to see such great research projects and talent across the full spectrum of medical science. More research is the only way we can ensure genuine advances in medicine and outcomes for patients.”
+
+The successful grants include nine research projects, as well as 16 travel grants for researchers to present their research both in New Zealand and overseas.
+
+The nine successful project grants to University of Auckland researchers include;
+
+**‘Measuring in vivo activity in the auditory cortex and its link to Autism Spectrum Disorders’ ($159,250 - 2 years). Dr Juliette Cheyne, Professor Peter Thorne, and Associate Professor Johanna Montgomery, from the Department of Physiology and Centre for Brain Research.**
+
+Autism Spectrum Disorders (ASD) are developmental disorders defined by learning difficulties, sensory issues, communication difficulties, social deficits and stereotyped behaviours. As ASD symptoms appear during infancy, it is crucial to examine how brain development is altered, as this could cause behavioural deficits.
+
+The social and communication difficulties in ASD are thought to be due to abnormalities in the processing of sounds which in turn impairs language abilities.  
+  
+Researchers hypothesise that this impaired sound processing is due to connections between brain cells in the auditory cortex forming incorrectly during development.
+
+They will use state-of-the-art cellular recording techniques in live mice to determine how the development of the auditory cortex is affected in ASD.
+
+Researchers will reveal developmental differences in brain activity in ASD mice which could lead to deficits later in life. They will also determine whether cortical organisation of tones (from high to low frequency) and plasticity in the auditory cortex are altered in ASD mice.
+
+The information obtained in this study is essential to advance knowledge of how changes in the activity in the developing brain link to deficits in sensory processing later in life, which could also be relevant to other neuro-developmental disorders.
+
+**‘IGF-1 and Preterm Brain Injury’ ($158,997 - 2 years). Dr Justin Dean and Professor Alistair Gunn, Department of Physiology.**
+
+In New Zealand, about 500 babies are born prematurely every year, and around half survive with life-long disabilities.
+
+These disabilities often result from infection and inflammation around the time of birth. Researchers now know that the brains of preterm babies can recover rapidly from injury, but may then fail to develop normally.
+
+Using a new rodent model of very preterm brain injury, they found that inflammation can impair normal brain development and this was associated with a reduction in the levels of insulin-like growth factor (IGF-1), a molecule critical for normal brain growth.
+
+In this proposal, they will test whether restoring normal levels of IGF-1 in the brain during or after infection will promote brain maturation, and thus restore normal brain development.
+
+They will compare direct treatment of the brain using IGF-1 with an agent that can improve availability of locally produced IGF-1.
+
+**‘CB1 in brain cancer’ ($157,272 - 2 years). Associate Professor Michelle Glass, Dr Scott Graham, and Dr Graeme Finlay, Department of Pharmacology.**
+
+Is cannabis a cure for brain cancer? This question is appearing with increasing frequency in the popular media, but the scientific evidence is still undecided.
+
+In studies investigating cannabinoid ligands that target the cannabinoid receptors in cancer cells the outcome has been quite mixed, with some reports of tumour cell death, but others that have observed an increase in cell proliferation.
+
+Researchers have some evidence to suggest that the level of cannabinoid CB1 receptors expressed in cells influences the signal that is produced by activation of the receptors – and hypothesise that this observation is the reason for the diverse findings in the field.
+
+In this study researchers aim to use human brain cancer cells to investigate the expression and function of cannabinoid receptors and determine if CB1 receptors are a valid therapeutic target.
+
+**‘Cystine/cysteine redox signalling in the aging eye’ ($106,260 - 2 years). Dr Julie Lim, Professor Paul Donaldson, and Dr Monica Acosta, Department of Physiology.**
+
+Advanced age-related oxidative stress results in redox imbalance and eye diseases which threaten the sight of the elderly.
+
+Researchers propose that the cystine/glutamate antiporter (CGAP) in the eye is important for maintaining redox balance and minimising oxidative stress.
+
+To elucidate the underlying pathways that result in these pathologies, molecular and functional tests will be performed and this information used to guide the design of effective therapies that target a specific tissue of the eye against oxidative stress to delay the onset of age related eye diseases.
+
+**‘Epigenetics of progesterone resistance in endometriosis’ ($157,141 - 2 years). Dr Anna Ponnampalam and Professor Cynthia Farquhar, at Liggins Institute.**
+
+Endometriosis is characterised by the presence and growth of endometrium (the lining of the uterus) outside the uterus.
+
+It is a common cause of infertility and chronic abdominal pain in reproductive age women. While the incidence is about ten percent, the actual prevalence is much higher because many women and girls are initially misdiagnosed.
+
+Endometriosis-related pain is serious, debilitating and episodic. Current treatment has major limitations and is only successful in half the patients. These women generally develop resistance to repeated treatments with the same agent over a period of six months to three years.
+
+There is a clear need to identify novel molecular pathways that can provide early identification of developing resistance, inform current therapies and enable future targeted therapy development.
+
+The project is to test the hypothesis that DNA methylation plays a crucial role in the aberrant oestrogen priming of the endometrium that leads to progesterone resistance and development of endometriosis.
+
+The overall objective of this project is to understand the mechanisms involved in progesterone resistance generally seen in endometriosis, thereby improving identification and potentially enabling the development of effective therapeutic interventions.
+
+**‘Mucosal vaccination against Staphylococcus aureus with PilVax’ ($100,650 - 2 years). Dr Fiona Radcliff and Associate Professor Thomas Proft, in the Department of Molecular Medicine and Pathology.**
+
+Effective delivery of approved vaccines typically requires qualified personnel, defined storage conditions and injection of the materials.
+
+Using live organisms, such as food grade bacteria, for vaccine production and needle-free delivery (eg by ingestion) is a promising alternative.
+
+A novel vaccine delivery vehicle, called PilVax, has been developed by researchers at the University of Auckland.
+
+The basis of PilVax is a bacterium found in yoghurt, called Lactococcus lactis, which has been modified to express large quantities of foreign proteins including vaccine candidate antigens, on its surface.
+
+Preliminary studies in mice have shown that delivery of PilVax into the nasal cavity can indeed stimulate robust immune responses.
+
+The goal of this project is to build on that work by testing whether PilVax mediated delivery of vaccine candidate antigens from Staphylococcus aureus, an important bacterial pathogen that is very common in New Zealand, can stimulate protective immunity to this pathogen.
+
+If PilVax proves to be effective in these tests it will establish this delivery platform as a promising and flexible approach for non-invasive vaccination against Staphylococcus aureus and other mucosal pathogens.
+
+**‘Epigenetic targeting of metastasis’ ($106,725 - 2 years). Dr Dean Singleton and Associate Professor Adam Patterson in the Auckland Cancer Society Research Centre.**
+
+Breast cancer is the most common cancer in New Zealand women accounting for nearly 3000 new registrations and more than 600 deaths each year.
+
+Although breast cancer outcomes are improving with earlier detection and more effective treatments, most patients die when their cancers spread (metastasize) into secondary organs.
+
+The blood vessels that supply breast tumours are poorly developed and are unable to deliver sufficient oxygen to the tumour. This results in regions of low oxygen (hypoxia) forming within the tumour.
+
+Hypoxia is critically important because it causes cancer cells to become more invasive, resulting in an increased risk of metastasis and poorer patient survival.
+
+This occurs because certain enzymes sense low oxygen and respond by switching on genes that promote invasion. Researchers are developing new drugs to target these changes.
+
+In this work they will investigate the potential of these drugs to prevent hypoxia signalling in tumour models and reduce tumour growth and metastasis.  
+The results of this study will help to develop effective strategies to prevent cancer metastasis and improve patient survival.
+
+**‘miRNAs as early predictors of preterm birth’ ($114,379 - 2 years). Associate Professor Mark Vickers, Professor Lesley McCowan, Dr Katie Groom, and Dr Clint Gray at Liggins Institute.**
+
+At a global level, more than one in 10 babies are born too early (<37 weeks of pregnancy) equating to more than 15 million preterm births and more than one million new-born deaths.
+
+Preterm birth also increases the risk of death due to other causes including neonatal infections. In New Zealand, nearly eight percent of babies are born preterm and, of those, approximately 60 percent occur after spontaneous onset of labour.
+
+Preterm birth rates are higher in Māori women at around 14 percent. Although women with a previous spontaneous preterm birth (SPTB) are considered to be at high risk for recurrence, the majority occur in women without prior history.
+
+Accurate prediction of SPTB risk, before the clinical event, would allow for improved care and the potential for targeting novel and existing therapies to prevent SPTB, which may result in improved outcomes for both infant and mother.
+
+Researchers have preliminary data showing that miRNA signatures in maternal blood as early as 20 weeks gestation can differentiate between those that go on to deliver at term or experience early SPTB (28-32 weeks).
+
+This project will expand on these findings to work towards development and validation of effective non-invasive biomarkers to identify women at risk for SPTB.
+
+**‘Overcoming drug-resistant bacteria’ ($154,847 - 2 years). Associate Professor Brent Copp, Professor Jean Michel Brunel, and Dr Siouxsie Wiles, at School of Chemical Sciences.**
+
+For several decades the routine use of antibiotics has saved countless lives. Recently, the World Health Organisation described how antibiotic-resistant bacteria are present in every region of the world, including New Zealand, and called for drastic action to prevent a return to the pre-antibiotic era.
+
+New antibiotics are needed, or alternatively, new methods are needed to restore the activity of antibiotics against drug-resistant bacteria.
+
+Researchers have recently discovered a class of compounds that do the latter – enhancing the activity of the antibiotic doxycycline towards the normally drug resistant bacterium Pseudomonas aeruginosa.
+
+This project involves the synthesis and biological evaluations of new molecules based around this discovery, where researchers will optimize the antibiotic enhancing activity of this compound class and determine how such enhancement is achieved.
+
+This will provide proof of concept as to whether such compounds can be used to 'rehabilitate' old antibiotics, and thereby restore their effectiveness to aid in the fight against drug-resistant bacterial infections.  
+ 
+
+**For media enquiries [email Suzi Phillips, Media Advisor](mailto:s.phillips@auckland.ac.nz), Medical and Health Sciences.**

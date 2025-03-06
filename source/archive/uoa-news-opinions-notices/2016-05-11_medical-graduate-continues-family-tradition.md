@@ -1,0 +1,44 @@
+---
+slug: medical-graduate-continues-family-tradition
+title: "Medical graduate continues family tradition"
+date: 2016-05-11
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/medical-graduate-continues-family-tradition.html
+---
+Medical graduate continues family tradition
+===========================================
+
+11 May 2016
+
+![Rachael Windsor John Windsor](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/medical-graduate-continues-family-tradition/_jcr_content/par/textimage/image.img.jpg/1462924616591.jpg "Rachael Windsor John Windsor")
+
+New medical graduate at the May Graduation, Dr Rachael Windsor with her father, Professor John Windsor.
+
+New medical graduate, Dr Rachael Windsor is the daughter of Auckland surgeon, Professor John Windsor, who holds a personal chair in Surgery with the University of Auckland.
+
+Rachael is working fulltime as a Junior Doctor at Whangarei Hospital and took time out from her busy schedule there to provide an insight into her medical training.
+
+**Where are you from and where did you do your secondary schooling?**  
+I was born in Edinburgh in Scotland, but raised in Mount Albert, Auckland in my precious family home built by my great-great-grandfather in 1886. I was homeschooled through Primary and Intermediate and then attended Marist College down the road and went right through to Year 13 there.  
+  
+**What was your path into medicine and what motivated you to train as a doctor?**  
+I have always been obsessed with how the body works. As a kid, I would find myself pouring over the little drawings on the back of toothpaste and shampoo bottles and could watch the episode of the Magic School Bus where the bus travels throught the digestive tract, over and over again. I think I knew I wanted to be a doctor when I was 15 and then it became a real goal that I worked towards. My inspiration for choosing medicine was inextricably linked to the admiration I had for my two grandfathers – both surgeons: One who worked in Congo for 13 years in a river town only accessible by boat - as the only doctor for 10,000 people; and the other who moved to India as a cardio-thoracic surgeon who recognized the plight of rural hospitals and started an organisation to strengthen those hospitals to better deliver community health care. I took the “Overlapping Year One” route into medicine, doing the first year in Biomedical Science, and then applied for medicine from there.
+
+**How did you find the medical course in terms of the demands of learning and training? How did you cope with the pressure of study and clinical demands?**  
+I found medical school hard work and a lot of fun. I certainly had an ongoing battle with my own expectations of myself, having done really well at school and then finding myself decidedly average among a sea of geniuses. And being a ‘type-a’ perfectionist kind of person, I always felt that I had never studied enough and had a constant sense of being one step behind. However there was so much solidarity, and then the sense that you were all in it together got you over the endless hurdles.  
+The clinical years were amazing and I loved being able to work alongside so many inspiring doctors who kept me focused on the goal and shaped my dream for what kind of doctor I wanted to be.  
+Those years had their own challenges in terms of feeling like you were needing to be “on your game” all the time and couldn’t have an “off” day wearing track pants to lectures! I am probably not the ideal role model when it comes to good coping strategies, but I think that maintaining good friends outside of medical school, having regular debriefs about challenging clinical situations with medical friends, finding things that help you relax and making them a non-negotiable part of your life all help…. As does having an incredibly supportive husband!  
+  
+**Did you have a special mentor or person who influenced your choice of career, and/or was a particular support when you were training?**  
+I am lucky enough to have been surrounded by a number of wonderful mentors before and during medical school. My father \[Professor John Windsor\] was (and still is) the most significant of these. He is a surgeon with a deep heart, a passion for the underdog, and a real sense of service when it comes to his clinical practice. It has been amazing to have someone to come home to day after day who listens to my endless ponderings regarding potential specialties, to cry to about my first death, celebrate my first lumbar puncture, and share in all the unique joys and challenges of being a medical student and junior doctor.
+
+**You are working as a junior doctor in Whangarei this year – what attracted you to Northland? Did you do the Pukawakawa programme and what was special about that placement for you?**  
+I spent my fifth year clinical attachment in Whangarei as part of the Pukawakawa Rural Emersion Programme which was one of the most formative experiences of my life. I was humbled by the unquestioned hospitality and kindness I was shown throughout the year and was also struck by the many stories of heart-break, abuse and poverty. These stories have put faces to the negative social, economic and health statistics that are true in many regions of our country, including Northland.  
+I wanted to return to work in Whangarei – where my work would be more intimately connected to the community around me, where I would have greater clinical responsibility, and where I would be supported to establish ways of practicing medicine that truly honoured the unique and real health needs of New Zealanders living in the provinces. I also have a bunch of friends and family in Northland and have loved spending more time with them, enjoying the beautiful outdoors and lapping up a slower paced life-style.
+
+**What other placements did you do during training?**  
+I spent my fourth year based at Middlemore Hospital which was an incredible place to be as a student – fast paced, super supportive, lots of teaching, amazing pathology. During that year I did an anaesthetics attachment in Waikato. My fifth year was spent in Whangarei, during which time I also spent seven weeks in Rawene in the Hokianga, which was incredibly special as my grandfather had been the Superintendent of that hospital while my mother was a child. My sixth year was again mainly spent at Middlemore Hospital with the exception of paediatrics in Gisborne, my medical elective in India, and my GP placement in Whangarei.
+
+**Do you already have a long-term plan for your career - a particular goal - or are you still to decide on a specialty in the next few years?**  
+I still have no idea where I am heading with regards to specialties. Sometimes I think I want to be a rural GP in the Hokianga, other times I think I want to be an Obstetrician in India! But my options are still very open and I am waiting eagerly for an epiphany. I try to approach every attachment I have in the hospital with an enthusiasm of someone whose life dream is that specialty… and so far that has served to make me fall in love with everything and come no closer to deciding where I am taking my career!
+
+For media enquiries [email Suzi Phillips](mailto:s.phillips@auckland.ac.nz) Media Advisor, Medical and Health Sciences

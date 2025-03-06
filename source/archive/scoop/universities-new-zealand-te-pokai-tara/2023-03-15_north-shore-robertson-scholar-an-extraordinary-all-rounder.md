@@ -1,0 +1,60 @@
+---
+slug: north-shore-robertson-scholar-an-extraordinary-all-rounder
+title: "North Shore Robertson Scholar An Extraordinary All-rounder"
+date: 2023-03-15
+source-url: https://www.scoop.co.nz/stories/ED2303/S00023/north-shore-robertson-scholar-an-extraordinary-all-rounder.htm
+author: universities-new-zealand-te-pokai-tara
+---
+North Shore Robertson Scholar An Extraordinary All-rounder
+==========================================================
+
+**Wednesday, 15 March 2023, 4:44 pm**  
+**Press Release: [Universities New Zealand - Te Pokai Tara](https://info.scoop.co.nz/Universities_New_Zealand_-_Te_Pokai_Tara)**
+
+‘An extraordinary all-rounder who goes above and beyond what is usually expected of a high school student’. That is how one of his teachers describes **Hunter Haynes**, 18, winner of this year’s Robertson Scholars Leadership Program.
+
+Hunter completed his secondary education at Westlake Boys High School in 2022 and plans to study economics and international comparative studies (ICS) at Duke University, one of the leading universities in the US.
+
+At Westlake Boys, Hunter gained scholarships or outstanding scholarships in 20 subjects over three years—ranging from Earth and Space Science to Art History; Agriculture and Horticulture to Classical Studies—and in 2022 won one of only 11 NZQA Premier Scholar awards nationwide.
+
+His academic achievements are matched by success in other fields, including debating, where he led the Westlake Debating Society to wins in major competitions from 2020 to 2022, and was awarded best speaker several times. Hunter has also written prize-winning short stories and poetry, and sings in the Westlake Boys’ Premier Choir, Voicemale, which won the best Male Choir in the regional Big Sing competitions in 2021 and 2022.
+
+His teachers say his success in both the worlds of debating and his wider academic profile reflect Hunter’s humility, alongside a receptiveness to feedback and advice from those around him. “He exhibits the qualities of a leader and a scholar with an extensive passion for social sciences.”
+
+The Robertson Scholars Leadership Program was established by American philanthropist Julian Robertson and funds young leaders from around the world who strive to make transformational contributions to society.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The scholarship supports four years of undergraduate study at either Duke or the nearby University of North Carolina–Chapel Hill and recipients enjoy the facilities of both universities.
+
+Hunter believes studying economics and ICS at Duke will allow him to benefit from the rigorous study a degree in economics can provide, while gaining from the breadth and experience of an ICS major. “My own passion for learning Chinese, alongside my interests in geography and global affairs, make ICS a degree that deeply caters to my interests,” he says. “I also believe that by having a greater understanding of how other countries operate, we in New Zealand can find new options for how to govern ourselves or construct our future cities.”
+
+As Deputy Head Boy and Academic Captain at Westlake, Hunter held positions of responsibility and leadership within the school. In the wider community, Hunter is also heavily involved in leaderships roles in local government, as the Treasurer for the Devonport-Takapuna Youth Board (YouNite), a youth-led initiative which aims to deliver civic engagement programs for youth. He was also selected as the Youth Advisor for the Auckland Council’s inquiry into the ‘I Am Auckland’ initiative, working with policy advisors and youth engagement officers in the Auckland Council to assess the Auckland Council’s youth and child policy.
+
+He has a particular passion for bringing the perspectives and voices of youth to bear in local and national government. “Working with the Auckland Council and the Local Board has showed me the ignorance and disdain some members of our community have for the perspectives of youth, while subsequently inspiring me to be that force of change in government,” he says. “If we want communities and cities that are more inclusive and sustainable, we need stronger encouragement of youth engagement in civics, alongside stronger receptiveness to how our institutions engage with youth voice.”
+
+Hunter has also led the inter-school UNICEF Club, a cross-school initiative between Westlake Boys and Westlake Girls, and has been involved as a school leader in the Pupuke Kāhui Ako Community of Learning, a cross-school collaboration with 10 other schools.
+
+John Taylor, Chair of the Robertson Scholars Leadership Program Selection Committee for New Zealand, says: “As the Robertson Scholarship places huge emphasis on leadership and service, we felt Hunter would be an ideal choice. He is a likeable freethinker who will have much to give to, and gain from, the Robertson Program.”
+
+Applications for the Robertson Scholars Leadership Program are administered in New Zealand by Universities New Zealand – Te Pōkai Tara. Details are on the program’s page on the UNZ website.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Universities New Zealand - Te Pokai Tara](https://info.scoop.co.nz/Universities_New_Zealand_-_Te_Pokai_Tara) on InfoPages.

@@ -1,0 +1,130 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2005-12-08
+source-url: https://www.scoop.co.nz/stories/ED0512/S00040/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 8 December 2005, 1:03 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Wananga likely to remain in the news  
+The release of the Auditor-General’s report this week into certain aspects of Te Wananga o Aotearoa is likely to ensure that the beleaguered institution remains in the news for some time to come. The report, which documents serious failings of management at the Wananga, identifies the Tumuaki (Chief Executive Officer), Rongo Wetere, as primarily responsible for the management failings, and the Council as providing inadequate governance for the period under investigation.  
+Despite claims from Dr Wetere that no evidence of fraud, corruption or nepotism had been found, the report describes recurring themes of poor decision-making practices for significant expenditure, inadequate identification and management of conflicts of interest and unacceptable practices in senior management expenses concerning international travel and credit card expenses.  
+In response to statements from the Minister for Tertiary Education, Dr Michael Cullen, that it would now be in the best interests of the Wananga for him to resign, Dr Wetere has said that he will not go. “While I respect that Dr Cullen has the right to his opinion, issues surrounding my employment will be determined by the Council of Te Wananga o Aotearoa.”  
+For its part, the Council, which was downsized from fourteen to five members in June, began its own inquiries into Dr Wetere’s behaviour and placed him on paid leave pending the outcome of those inquiries. That action was unsuccessfully challenged by Dr Wetere in the Employment Relations Authority, but he has appealed to have the matter heard in the Employment Court. While it is expected the case will be heard next week, and a decision released before Christmas, the matter is not likely to end there.  
+Dr Wetere is questioning the legality of the five-member Council, saying that, as there are no representatives from staff, students, local kaumatua or iwi, the Council is no longer constituted in accordance with the Education Act and is, therefore, unlawful. “When the Council is no longer dominated and controlled by Government appointees, we will be able to sit down and have constructive discussions about the issue of my employment and the future of the Wananga,” he said.  
+Meanwhile, Dr Cullen has advised that he has decided not to continue, at this stage, the process started by his predecessor, Trevor Mallard, to appoint a statutory commissioner to the Wananga.  
+The Auditor-General’s report on Te Wananga o Aotearoa can be located at:  
+http://www.oag.govt.nz/2005/twoa/default.htm
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Open Polytechnic staff back on strike  
+2\. PBRF performance analysed  
+3\. TEC announces scope of 2006 PTE review  
+4\. Wide-ranging factors involved in completing studies  
+5\. New campus planned for Manukau  
+6\. University takes “stingy” title  
+7\. Overwhelming vote for new UK higher-education union  
+8\. Senate called on to reject voluntary-student-union legislation  
+9\. University leaders pledge to help women in academia  
+10\. Employment tribunal rules lecturers unfairly dismissed
+
+Open Polytechnic staff back on strike  
+Academic staff at the Open Polytechnic are back on strike, having walked off the job at lunchtime yesterday following the breakdown of collective employment agreement negotiations.  
+Members of the Association of Staff in Tertiary Education (ASTE) rejected an offer by Open Polytechnic management to increase salaries by 3 percent, made at negotiations which resumed yesterday morning. The offer followed previous offers of 1.5 percent and then 2 percent, both of which had been rejected, resulting in protest action.  
+ASTE Field Officer, Phil Dodd, said that union members were furious at the renewed offer which, despite the Polytechnic recording operational surpluses of more than $4m in the last two years, was less than the rate of inflation. He said that the Polytechnic has investments of more than $14 million, and was in a healthy financial situation compared with other polytechnics.  
+Meanwhile, union members at the Auckland University of Technology have settled a new collective employment agreement with salary increases of between 4.5 and 8.1 percent next year.
+
+PBRF performance analysed  
+Research performance is influenced by the tertiary organisations staff are working at, with those at the more established metropolitan universities having the highest output, according to an analysis of the 2003 Performance-Base Research Fund Quality Evaluation published by the Ministry of Education.  
+Those employed at polytechnics, wananga and private training establishments, where degree teaching may only form a fraction of teaching, tended to perform less well than staff at the universities. While the performance of staff at the Auckland University of Technology was significantly less than that of their counterparts at other universities, it was consistent with expectations for a newly established university.  
+The report, What determines the research performance of staff in New Zealand’s tertiary education sector? was developed from examining the research performance of around 7,700 PBRF-eligible staff who had their research performance measured across a number of dimensions during the 2003 Quality Evaluation. The statistical modelling used allowed the research performance of certain subgroups to be estimated once other demographic and employment-related differences were taken into account.  
+Analysis showed that the higher the full-time-equivalent status of staff, the higher was the level of research performance; professors generally had the highest level of research performance, followed by associate professors, senior lecturers and then lecturers; research performance peaks for staff aged in their late thirties and early forties; men achieved a slightly higher level of performance than women; ethnicity had no statistically significant impact, although Maori staff performed better than staff from other ethnic groups; subject area was found to impact on research performance, with those in the science area generally having the highest level of performance; and staff in some subjects could perform well in one measure of performance but not in others.  
+The report says that analysis of the research performance of staff in the New Zealand tertiary education sector was previously limited by a lack of available data and universally accepted measures. The introduction of the PBRF has resulted in a dataset that allows for more detailed analysis.  
+The full report can be located at:  
+http://www.minedu.govt.nz/index.cfm?layout=document&documentid=10914&data=l
+
+TEC announces scope of 2006 PTE review  
+The Tertiary Education Commission has announced that it will review alternative therapies, computing, business administration, sport and outdoor leadership, hospitality and primary, secondary and early childhood education teaching courses in 2006 in the second stage of its three-year review of private training establishments’ (PTE) qualifications. The qualifications will be assessed on four dimensions of strategic relevance. They are need, outcomes, performance and point of difference.  
+Around 300 qualifications will be evaluated to ensure the quality and relevance of PTE provision and, where appropriate, TEC will shift funding from qualifications of low strategic relevance to those of higher strategic relevance.  
+“The overall aim is to ensure that qualifications funded by the TEC meet the needs of learners, employers, their communities and New Zealand as a whole, says Clare Ward, TEC Steering and Investment Group Manager. “It is also to ensure that learners and taxpayers get value for their investments in education and so the TEC can be assured it is funding quality, relevant, value-for-money qualifications.”  
+The four largest areas of PTE provision, tourism, business and management, philosophy and religion and personal services, were reviewed this year.  
+The remainder of PTE provision, graphic design, arts, primary production, automotive engineering and transportation, media studies, carpentry, welding, aeronautical engineering, fashion and garment making, languages, security and private investigation, social services and architecture and interior design will be reviewed in 2007.  
+All PTE provision funded through the Student Component pool is being reviewed to ensure it is aligned with the Tertiary Education Strategy and the Statement of Tertiary Education Priorities.  
+An announcement confirming the results of this year’s review will be made in December once PTE Profiles have been approved by the TEC.
+
+Wide-ranging factors involved in completing studies  
+Study load is a highly influential factor in the likelihood of a student to complete studies, according to a new Ministry of Education report, What factors made a difference to getting a degree in New Zealand. It concludes that the more full-time a student was, the higher their likelihood of completing; similarly, fully intramural students did five times better than extramural, as did those who started their studies straight from school.  
+The study, which looked at 37,893 students who started their bachelor’s degrees in 1998 and whether they had completed six years later, in 2003, also found that students with Year 13 school qualifications were 1.4 times more likely to complete than someone entering with no school qualification. Women were 1.2 times more likely to complete their degrees then men, international students more likely than their domestic colleagues.  
+Those studying in health and education had the highest six-year completion rates, with those in natural and physical sciences and information technology the lowest. College of education students generally had the highest completion rates, followed by those at universities and then those at polytechnics.  
+The aim of the study was to model the probability of completing a bachelor’s degree, and the factors that influence it in New Zealand, in order to aid the decision-making of students, institutions and government with the aim of improving educational outcomes for students wanting to complete a degree.  
+While showing that only 49 percent of those who started their degree studies in 1998 had completed in 2003, the study acknowledged that not everyone that undertakes study does so with the intention of completing a qualification. Many try study and find it is not for them.  
+The study can be located at:  
+http://www.minedu.govt.nz/index.cfm?layout=document&documentid=10823&data=l
+
+New campus planned for Manukau  
+A new tertiary education campus is planned for Manukau City by 2007, the result of a joint project between Manukau Institute of Technology (MIT), the Auckland University of Technology University (AUT) and the Manukau City Council. It is proposed the campus will start up with 500 equivalent full-time students (EFTS) in 2007 and could develop into a 15,000 EFTS facility by 2050, when Counties Manukau is projected to have a population of 400,000.  
+The new campus will cater for the education and skills needs of New Zealand’s fastest growing city and would develop in pace with the population growth, says a discussion paper prepared by MIT and AUT senior management.  
+The Council and MIT have a strong ongoing relationship and signed a Partnering Agreement on August 22, 2005. The University of Auckland has endorsed in principle the collaboration  
+Announcing the plan for a new campus, Manukau Mayor, Sir Barry Curtis, said there is a great need for more education options for the city’s young people. “Education is the key to a better future and there will be a close alignment between the skills and qualifications of the graduates and the needs of our city’s business community,” he said. “This facility will be great for the city centre as it will bring a totally new atmosphere. Students add life and a buzz wherever they are and I'm looking forward to the impact they’ll have. It’ll transform the city centre. They’ll also be spending money, and I expect the campus will eventually bring in around $150 million a year to our local economy.”  
+Mr Curtis said the long-term vision for the campus is that, as the campus grows, it will become a pivotal part of a new city centre for Manukau and in the development of the greater Auckland region. It addresses the role that a comprehensive range of tertiary-education provision could play in enhancing economic and community development.
+
+University takes “stingy” title  
+The University of Canterbury has been outed as stingy by the Christchurch Press in a list of five “Scrooge” employers whose Christmas parties it describes as miserly or non-existent. In an article published at the weekend after an “exhaustive inquiry”, the Press says cleaners at the University will bear the full brunt of their employers’ largess again this year at their 6.00am “bring a plate” party. If it follows last year’s theme, there will be a draw of cleaning products donated by a chemical company. “A person sitting close to me won a pail of urinal blocks last year,” an unidentified employee is reported as saying.  
+Reinforcing the stingy epithet, the Press understands that the University has no official Christmas function, and that the cleaners’ pre-Christmas breakfast, including supplied savouries, is paid for by managers. And yes, prizes do include cleaning products.  
+The University is anticipating an $11.4m surplus for 2005, about $4.5m ahead of budget.
+
+Worldwatch  
+Overwhelming vote for new UK higher-education union  
+Members of the two main higher-education unions in the United Kingdom, NATFHE, the university and college lecturers’ union, and the Association of University Teachers (AUT), have voted overwhelmingly for their unions to merge.  
+The proposed union, the University and College Union (UCU), will represent further and higher-education lecturers, managers, researchers and many academic-related staff such as librarians, administrators and computing professionals across the UK. It will be the world’s largest higher-education union, with more than 116,000 members.  
+The two unions will amalgamate on 1 June 2006, and then enter a transitional year until full operational unity is achieved in June 2007.  
+In a joint statement, Paul Mackney and Sally Hunt, General Secretaries of NATFHE and AUT, said that the new union would be a potent force for change in further and higher education. “No longer will universities and colleges be able to divide our members over their pay and conditions,” they said. “Our priorities now will be to improve our members’ salaries, end the scandal of pay discrimination on the grounds of gender and ethnicity, and defend the core values of education such as academic freedom.”  
+Meanwhile, in New Zealand, National Executive members from the two main unions representing staff at New Zealand polytechnics, institutes of technology and wananga met for two days last week to discuss plans for amalgamation. The Tertiary Institutions’ Allied Staff Association, representing administrative staff, and the Association of Staff in Tertiary Education, representing teaching staff, say that a merged union, with over 6,000 members, would provide opportunities to increase their influence in the tertiary education sector.
+
+Senate called on to reject voluntary-student-union legislation  
+The National Tertiary Education Union (NTEU) has called on the Australian Senate to reject the Government’s legislation to abolish compulsory student-union levies when it goes before the upper house later today.  
+The call comes as the Government promotes a number of last minute proposals and amendments to the proposed legislation in an attempt to gain the support of its own Party and a number of Coalition senators who have expressed concerns about the detrimental impacts of the Bill. “On Monday, Federal Education Minister Brendan Nelson proposed a nationwide student referendum on the issue, which was criticised, not only by virtually the entire higher-education sector, but also by members of his own party as costly, ineffective and unnecessary,” said Mr Andrew Nette, NTEU Policy and Research Coordinator. “Now the Coalition Party has mooted an eleventh-hour plan, which proposes to establish \[an $A80m fund\] to assist those universities that could demonstrate that the viability of their sporting and recreation facilities are at risk as a result of a decline in the number of students paying compulsory fees.”  
+Mr Nette said the continued existence of strong, vibrant and independent student organisations is vital to the educational experience of Australian students, the culture of Australian universities and their international reputation and should not be put at risk for the sake of the Government’s ideological obsession.
+
+University leaders pledge to help women in academia  
+Leaders of nine premier research universities in the United States announced on Tuesday that they will undertake further efforts to remove barriers that “still exist to the full participation of women, not only in science and engineering, but also in academic fields throughout higher education.”  
+Making academic careers compatible with family responsibilities is essential if universities are to achieve gender equity, they said in a joint statement. All pledged that their universities will develop academic personnel policies and institutional resources, and take steps to improve campus cultures to better support family commitments.  
+While women now make up nearly half of PhD recipients in the United States, they comprise only about one quarter of professors. Studies published by researchers at University of California, Berkeley, found that women PhDs who were married or have young children were far less likely to secure tenure-track jobs, and eventually achieve tenure, than men who are married or have young children or single women without children. Other studies suggest that many women may be disadvantaged early in their careers by competing demands of academic and family responsibilities, and some may be negatively stereotyped because of their family status.  
+The pledge was signed by the Presidents of the California Institute of Technology, Massachusetts Institute of Technology, University of California, Berkeley, and Harvard, Yale, Princeton, Stanford, Pennsylvania and Michigan Universities.  
+From UC Berkeley News
+
+Employment tribunal rules lecturers unfairly dismissed  
+An employment tribunal yesterday ruled in favour of members of NATFHE, the United Kingdom university and college lecturers’ union, who claimed that they were unfairly dismissed by London Metropolitan University.  
+The tribunal upheld a claim brought by twenty-three lecturers that they were unfairly dismissed after London Metropolitan University (LMU) imposed a new, inferior employment agreement on 387 academic staff in order to “harmonise” terms and conditions of employment after LMU was created through a merger of London Guildhall University and the University of North London.  
+On 2 April 2004, LMU issued dismissal notices to 387 members of academic staff, who were previously employed by London Guildhall University who did not accept the new terms and conditions.  
+The row sparked a sixteen-month dispute between NATFHE and the University.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

@@ -1,0 +1,93 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2004-11-04
+source-url: https://www.scoop.co.nz/stories/ED0411/S00014/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 4 November 2004, 1:27 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+![AUS WEB SITE](http://www.aus.ac.nz/images/AUSlogo.jpg)More performance-based funding announced  
+The Government has announced details of a proposed new “Performance Measure” which will be implemented as what it describes as the last part of the redesign of the way that universities, polytechnics, colleges of education, wananga and private tertiary education providers are funded. One indicator to be used in the Performance Measure will be a sector-wide survey of students, undertaken at qualification level, looking at the quality of the programmes they are enrolled in. The other indicator will comprise information on course retention rates and successful course completions.  
+The new Performance Measure, until now referred to as Performance-Based Teaching Funding, is intended to complement previous funding changes which include the Performance-Based Research Fund (PBRF), a variety of targeted funding initiatives and the regulation of student tuition fees.  
+The Associate Minister of Education (Tertiary), Steve Maharey, said that the Performance Measure was needed to reinforce a focus on the needs of the learner and to balance the emphasis that the PBRF has placed on research excellence. “Students invest a lot of money in their tertiary education, and these initiatives aim to ensure a greater emphasis on students’ achievements so that the funding system can be driven more by learning results and less by enrolments,” he said.  
+According to Mr Maharey, the student survey will be professionally designed, with involvement from the tertiary education sector, drawing on similar models in the United Kingdom and Australia. After being trialled next year, the first formal survey will take place around July 2006, with the results available around September.  
+Mr Maharey said that information on course retentions and completions would have “an important signalling effect on the sector”. “Each year,” he said, “the weakest-performing two public sector organisations and thirteen private providers will be required to develop remedial action plans. If their results don’t improve the following year, a portion of their tuition funding will be placed at risk, 3 percent in the first year, rising to a maximum of 5 percent.”  
+Association of University Staff National President, Dr Bill Rosenberg, said that the proposal to take action against the institutions based on ranking failed to take into account their overall performance. “Does this mean that even if all public institutions are performing brilliantly, the “weakest two” will still be singled out for treatment that could put their funding or reputation at risk? Or, if all private institutions were not performing, should attention be paid to only thirteen of them? It is hard to see the logic of this approach.”  
+Dr Rosenberg also expressed concern that not only would the measure have little effect on teaching quality, it would also encourage loosening of academic standards. “Mr Maharey had indicated to us that he did not favour the use of successful completions as one of the performance measures. That would make sense, as this measure encourages institutions to pass students and risks academic standards,” he said. “It is disappointing that he has proceeded with this as it has little support in the tertiary sector.”  
+Dr Rosenberg said that AUS supported a positive approach to quality teaching by boosting staff development and support for good teaching practice, but he believed the punitive approach currently proposed by the Government would only serve to put scarce public funding further at risk.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Mallard may crack down on golden handshakes  
+2\. Lincoln fees increase by 3 percent  
+3\. Consultation soon on controversial research comparisons  
+4\. Major reforms signalled in Australia  
+5\. Nigerian crackdown on academic fraud  
+6\. UK animal rights website closed
+
+Mallard may crack down on golden handshakes  
+State Services Minister Trevor Mallard may move to stop golden handshake payments in the tertiary sector following the recently-reported payments to former Lincoln University Vice-Chancellor Frank Wood. Lincoln has admitted paying Dr Wood a before-tax payment of $56,000 in “recognition of the valued service provided to the University” following his departure on the grounds of ill-health in October last year. Dr Wood later admitted to a sexual relationship with a Chinese student and lobbying the Government to get her permanent residency.  
+Mr Mallard told Parliament yesterday that he would consider whether it was appropriate to withdraw the autonomy under which employing councils could agree to employment arrangements which were at odds with government policy. “I am advised that the non-contractual ex-gratia payments are the prerogative of the institution concerned and do not, under current legislation, require concurrence \[of government\]. That is why, in my opinion, an unfortunate payment was made to the former Vice-Chancellor of Lincoln University,” he said. “This case has drawn to the attention of the Government the problem around the width of contracts.”  
+Mr Mallard’s displeasure over the payment has also resulted in a less-than-veiled threat to government appointees on councils. “I think the effect for government representatives on councils that defy government policy will be clear when they come up for renewal,” he told Parliament.
+
+Lincoln fees increase by 3 percent  
+Lincoln University increased domestic student tuition fees by 3 percent for 2005 at its Council meeting, held on Tuesday this week. According to Chancellor Margaret Austin, the increase strikes a balance between student concerns at the cost of their tertiary education and institutional concerns at the cost of providing that education in an environment of shrinking government funding.  
+Students, however, say the increase shows disregard for students and their families. Josephine Newman, President of the Lincoln University Students’ Association, said they were outraged that the University has shown such little concern for the welfare of its own students. “Students at Lincoln are paying the highest fees they have ever paid, and cannot afford to pay even higher student fees and go into even more debt in 2005,” she said.  
+A statement from Lincoln University said the increase was nearly half-a-percent lower than last year, and the lowest rise of the six university increases announced so far. Such a statement clearly overlooks the decision of the Massey University Council not to increase fees for 2005.  
+Lincoln’s Vice-Chancellor, Professor Roger Field, said the University took student concern about fees very seriously, but it was also aware that the government contribution per student had not matched the rate of inflation applying to universities. “That sort of imbalance forces institutions to make decisions that we all know will be unpopular with our students,” he said. “Unfortunately, however, we have little other option if we are to maintain the quality of our teaching, research and services as a responsible university.”  
+Otago is the only university yet to set fees for 2005.
+
+Consultation soon on controversial research comparisons  
+Tertiary education organisations will soon have the opportunity to make their views known on the possible publication of an international comparison of research quality based on the results of the PBRF. In April this year, the High Court prevented the release of international comparisons between New Zealand universities in the PBRF and British universities in the Research Assessment Exercise until consultation had taken place with the sector.  
+Earlier, the University of Auckland and Victoria University of Wellington had sought an injunction to stop the Tertiary Education Commission (TEC) from releasing the international comparisons in an appendix to the PBRF report. They argued that the comparison was invalid and inappropriate, and would damage the international and national reputation and standing of New Zealand’s universities.  
+When granting the injunction, the Court held that the TEC had breached natural justice and the legitimate expectation of the universities by failing to consult them properly on the comparison. It held also, though, that the TEC had the lawful power to publish the comparisons after consultation with the sector.  
+The PBRF report was subsequently released without the comparisons. The former TEC Chair, Dr Andy West, said that the opportunity for appropriate consultation would be provided, following which the comparisons may be published “either in their present or in a modified form.”  
+As part of the recently-announced process, the TEC has appointed the Allen Consulting Group to manage consultation with stakeholders on the issue of including international comparisons of research outputs in the PBRF. The first step will be the release of a consultation document next week, following which a round of “stakeholder roundtable meetings” will be held.
+
+Worldwatch  
+Major “reforms” signalled in Australia  
+Buoyed by the recent election result, Australia’s Minister of Education, Dr Brendan Nelson, has announced the introduction of a number of measures designed to dramatically reform higher education in that country. Proposed changes include moving legislation, which governs the auditing, managing and financing of universities, from state governments to the Commonwealth, the introduction of Australian Workplace Agreements (the Australian equivalent to New Zealand’s individual employment contracts), a ban on compulsory student union membership and the increased use of casual academic labour. The moves do not have the support of any of the major groupings in the sector, with university heads warning Dr Nelson against any move to revive his hard-line industrial agenda, previously defeated in the Senate.  
+Dr Nelson is reported in The Australian as “declaring war” on university unions, vowing to bring in voluntary student unionism and to revisit the most contentious industrial elements of last year’s higher education package. Dr Nelson wants Australian Workplace Agreements to over-ride collective employment agreements and to introduce laws to prevent strikes that “damage innocent third parties”. He has also said that no Commonwealth money should be used to support a staff union. Dr Nelson said he wants universities to have greater freedom over their employment mix through the use of full-time, part-time and casual labour. He also wants a higher-education sector in which some universities focus on teaching while others concentrate on research.  
+The Group of Eight universities has said the Government should use “wise counsel, not strong arm tactics” to exercise its power, and that it would be hard for Dr Nelson to achieve his aims without the support of students and staff.
+
+Nigerian crackdown on academic fraud  
+The University of Port Harcourt, in southeastern Nigeria, has revoked the degrees of 7,254 of its graduates in a major crackdown in academic fraud, according to the Chronicle of Higher Education. Those stripped of degrees had either cheated in examinations or falsified their academic records.  
+The Head of the University said that higher education in Nigeria is rife with corruption, and that the quality of degrees and diplomas awarded by Nigerian universities had been eroded. He called on the country’s universities to fight corruption or risk having their degrees rejected internationally.  
+According to a recent report by the Exams Ethics Project, a non-governmental organisation that monitors academic testing in Nigeria, cheating in examinations, particularly college entrance examinations, is widespread. “Academic fraud and corruption is big business in Nigeria,” the report said.
+
+UK animal rights website closed  
+Oxford University has forced the closure of an animal rights website which lists the home addresses and phone numbers of more than one hundred Oxford staff and government ministers. Included in the list of names was the University’s Chancellor, Chris Patten, and new Vice-Chancellor, New Zealander Dr John Hood.  
+Oxford has been the target of continued protests by animal rights activists since its decision to build an £18 million animal testing laboratory. Earlier in the year, British Prime Minister Tony Blair gave permission for the army to help protect the project after activists forced the building contractor, Montpellier, to abandon its involvement. Construction has not yet resumed, but the protests have continued.  
+Internet provider Yahoo has closed the website after Oxford complained that listing the home details of staff was “very worrying” and an “incitement to harass”.  
+The organisation campaigning against the Oxford laboratory project has condemned the website listings, suggesting they might be part of a campaign to smear the opposition.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

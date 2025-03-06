@@ -1,0 +1,77 @@
+---
+slug: covid-19-commentary-features-again-in-critic-and-conscience-of-society-awards
+title: "COVID-19 Commentary Features Again In Critic And Conscience Of Society Awards"
+date: 2021-07-06
+source-url: https://www.scoop.co.nz/stories/ED2107/S00012/covid-19-commentary-features-again-in-critic-and-conscience-of-society-awards.htm
+author: universities-new-zealand-te-pokai-tara
+---
+COVID-19 Commentary Features Again In Critic And Conscience Of Society Awards
+=============================================================================
+
+**Tuesday, 6 July 2021, 3:01 pm**  
+**Press Release: [Universities New Zealand - Te Pokai Tara](https://info.scoop.co.nz/Universities_New_Zealand_-_Te_Pokai_Tara)**
+
+Helping public understanding of New Zealand’s COVID-19 response has been a focus for both recipients of this year’s Critic and Conscience of Society Award, presented by The Gama Foundation in a ceremony in Christchurch today \[6 July\].
+
+  
+![](https://img.scoop.co.nz/stories/images/2107/07509e7ed33dddad8815.jpeg)
+
+_Gama Foundation’s Grant and Marilyn Nelson, Associate Professor Siouxsie Wiles, Professor Alexander Gillespie at today’s Critic and Conscience of Society Award presentation in Christchurch._
+
+Two $50,000 Critic and Conscience of Society Awards are being presented: to Associate Professor **Siouxsie Wiles** (University of Auckland) and Professor **Alexander Gillespie** (University of Waikato).
+
+The award was established to encourage academic staff at New Zealand universities to act as ‘critic and conscience of society’—as outlined under the Education Act—by providing the public with independent, expert commentary on issues affecting the New Zealand community and future generations.
+
+Microbiologist and infectious disease expert Dr Wiles began fielding enquiries about COVID-19 as early as January 2020. “I strongly believe that research doesn’t end with the publication of a journal article,” she says.
+
+“In the past two years the main issues that I have either raised or commented on are the growing antimicrobial resistance crisis—the ability of bacteria, viruses, and fungi to become resistant to the treatments used to kill them—and the COVID-19 pandemic.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“I quickly became a prominent science communicator during the crisis, providing an independent voice willing to critique government policy.”
+
+Dr Wiles has provided scientific advice both to the government and the general public on antimicrobial resistance and the COVID-19 pandemic, focusing much of her attention on providing the public with the COVID-19 information they need to make informed choices on how to protect themselves and their community. This included a highly successful series on the Spinoff, much of it in collaboration with cartoonist Toby Morris, which was shared around the world.
+
+“It is an honour to be a recipient of the Critic and Conscience Prize,” says Dr Wiles. “I’d like to thank the Gama Foundation for sponsoring the award. I’m so grateful for that sponsorship and will be using the prize money to support a research project in my lab aimed at understanding what makes bacteria more infectious.
+
+“It’s a project I’ve struggled to get funded for many years now, and despite the pandemic highlighting the importance of the topic, I’ve had three grant applications rejected so far this year. Now thanks to the Gama Foundation we’ll be able to move the project forward.”
+
+For Professor Gillespie, from the University of Waikato’s law faculty, COVID-19 forms just part of range of issues he has commented on, which include cannabis law reform, bicultural matters, gun control, terrorism and foreign policy.
+
+“My objective in commenting on COVID-19 was to keep the law and policy at the forefront of the public mind in this unprecedented situation, and explain why difficult decisions were justifiable,” he says. “I also took time to explain how certain decisions would work, what they were, and why the decisions taken were not illegal, as they were legitimate and proportionate to the risk that the country faced.”
+
+Professor Gillespie has been advocating for cannabis law reform for several years, focusing on ensuring public debate about New Zealand having a drug policy that minimised the harm it caused. He spoke out about improving gun regulation from 2015 onwards, and publicly supported the firearms reform laws.
+
+Highlighting the risks of terrorism is a topic he is particularly well known for. Following the March 15 attack, his focus moved from discussing international trends to domestic responses. He has continued his critiques of foreign policy, however. “I try hard to keep Kiwis engaged in the international world, and to help them understand the way it impacts us and how we—through our foreign policy—should interact with it,” he says.
+
+New Zealand’s relationship with China is a particular concern, with New Zealand’s vulnerable position as a trading partner. “I have been arguing on topics such as trade…and assertions of genocide (against China’s own Uighur citizens) that New Zealand needs to be taking principled stands, in support of a rule-based international order, rather than just parroting or being silent.”
+
+Professor Gillespie says receiving the Critic and Conscience award is a real honour. “There are other academic awards out there (such as for research and teaching) but this is the only one that recognises the value of the scholar, as a critic and conscience of society,” he says. “In today’s world, the need for scholars to take up this position, to provide informed opinion on the critical matters before our democracy is greater than ever. To be recognised for doing my bit in this area is humbling.”
+
+He intends using the funds from the award to spend some time overseas—once that again becomes possible—writing his next book: _The Causes of War._
+
+“My work in this area is about trying to understand what causes war and, critically, what the pathways to peace are.”
+
+Professor Pat Walsh, along with Grant Nelson and Professor Emeritus Vernon Squire, is one of the judges deciding on the award. He says that if universities are to meet their statutory obligation, they depend on academic staff being willing to lift their heads above the parapet and engage in the cut and thrust of public debate in the way that these recipients have done. “And it is an obligation, not an elective,” he says. “Over the past year, Dr Wiles has been particularly prominent in helping lead the fightback against COVID-19 and against vaccine misinformation.”
+
+Each recipient receives a framed certificate and a cheque for $50,000 to assist with their work.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Universities New Zealand - Te Pokai Tara](https://info.scoop.co.nz/Universities_New_Zealand_-_Te_Pokai_Tara) on InfoPages.

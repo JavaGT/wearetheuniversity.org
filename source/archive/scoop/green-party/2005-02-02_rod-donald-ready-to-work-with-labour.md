@@ -1,0 +1,89 @@
+---
+slug: rod-donald-ready-to-work-with-labour
+title: "Rod Donald: Ready to work with Labour"
+date: 2005-02-02
+source-url: https://www.scoop.co.nz/stories/PA0502/S00056/rod-donald-ready-to-work-with-labour.htm
+author: green-party
+---
+Rod Donald: Ready to work with Labour
+=====================================
+
+**Wednesday, 2 February 2005, 4:57 pm**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Ready to work with Labour  
+Rod Donald MP, Green Party Co-leader
+
+2nd February 2005
+
+The battle lines are now drawn for this year’s election.
+
+Without doubt, Winston Peters stole the show in yesterday’s opening salvos. He is a modern-day court jester. But would you want him to be your king, let alone your kingmaker? As always, his stand-up routine contained grains of truth but he got so carried away with the performance that he forgot to deliver his serious lines: the no-confidence amendment he was meant to move against Labour. On the other hand, he blasted National to the point of promising to supplant them at the election. So we are still none the wiser which side he is on. That remains a secret only known to Winston Peters.
+
+There is no doubt where ACT stands or falls. Rodney Hide pledged allegiance to National. However, it sounded hollow because, as Jeanette pointed out in her State of the Planet speech, ACT is an endangered species, but not one that we are willing to save. It is not surprising that the ACT MPs gave Don Brash’s speech a standing ovation. After all, they did once claim him as their tenth MP and his policies are so backward and punitive even some members of his own caucus don’t support them.
+
+That’s why National has about as much hope of becoming the next Government as ACT has of being re-elected. Don Brash’s performance this week confirms that he doesn’t have what it takes to be Prime Minister of New Zealand. Sacking Nick Smith as his deputy was inept, getting rid of Georgina Te Heu Heu was intolerant and demoting Katherine Rich was just plain nasty. As are his welfare policies. Under Brash’s autocratic leadership, National’s depleted front bench now includes a leader, a deputy leader, a deposed leader, a sacked deputy leader, a man who declined to be deputy leader, and a man who wants to be National’s next leader. There’s not a women in sight. And no unity either.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+You know a party is in meltdown when its MPs drop their public façade. By calling Brash’s decision “stupid” Brian Connell is clearly looking forward to National’s next leadership spill. They may not even wait until after the election. Certainly National can’t afford for Dr Brash to make any more keynote speeches if each one costs the party a spokesperson. And they must be painfully aware that a leader who causes so much division in his own party has no chance of uniting the public behind him.
+
+So Helen Clark was right to say that if New Zealanders vote for National they run the risk of lurching back to the division, the unfairness and the sheer nastiness of the 1990s. But she is wrong to claim that the only alternative is the status quo. New Zealanders deserve better than that.
+
+In any case, only having two choices is first-past-the-post thinking. The reality with MMP is that no one party is likely to win a majority of votes. There are good reasons for that. Voters have had enough of single-party governments running amok. Labour’s past record is no better than National’s in that regard. Which is why discerning voters will re-elect us, and in greater numbers, to keep them honest.
+
+The Prime Minister’s speech was not honest. I know that’s a harsh judgement call but, the fact is, she didn’t tell the truth about the state of the economy let alone the state of the environment. Yes, her speech pushed lots of the right buttons: “prosperity”, “great quality of life”, “lifting over all wellbeing”, “sustainable future” and best of all, Labour is now the champion of the “ownership society”, brilliantly outflanking National, which used to stand for the property-owning democracy.
+
+But Labour wants to be popular rather than tell the truth. I believe you can do both. Jeanette’s State of the Planet confirms that. She put the hard issues of climate change, oil depletion, environmental destruction and the unsustainability of the current economic model firmly on the agenda. Despite our sober message, we got a significant lift in the two opinion polls since.
+
+The Prime Minister’ speech provided no answers to the sober questions asked by Colin James in his recent column “We love debt to bits but the party can’t go on forever”. While Dr Cullen is sitting on overflowing coffers and the Government’s fiscal position is the best it has been in decades New Zealand as a whole, and individuals within it, are becoming increasingly indebted. Household debt has tripled to around 130 percent of income in the past 15 years, making us one of the most indebted nations in the developed world.
+
+It is bad enough that we have been spending our borrowings on a consumption binge. What is worse is that we are financing it by borrowing against inflated house prices. If that bubble doesn’t burst soon it is certainly going to deflate. Which of course is the last thing Dr Cullen wants because the apparent buoyant economy contributes to our sense of wellbeing. Hence no reality check in the Prime Minister’s speech.
+
+She did talk a lot about encouraging savings and that is a good thing. But working and beneficiary families don’t need to be told to develop a savings habit, what they need are wage and benefit rises. Despite the minimum wage going up to $9.50 an hour it is still not enough to live on. Family Support helps if you have children but why should taxpayers be subsidising employers who don’t pay their workers enough to bring up their families in decency?
+
+Helen Clark also talked about the importance of asset ownership to enable people to fully participate in society. Everything she said about people owning their own homes is true but what she refused to acknowledge is that a major reason home ownership levels are dropping is because of the $7 billion student debt burden on our young people.
+
+Setting up a tertiary education savings scheme is a sick joke when full-time students should receive the so-called universal benefit that the Government is promising so that they don’t need to borrow to buy their groceries. The Prime Minister’s speech studiously avoided New Zealand’s massive current account deficit and the record $4 billion trade deficit that is contributing to it. Instead she preached free trade. The truth is that free trade is taking our economy, and our society, backwards. The more we open up our borders to imports, the worse our trade deficit gets.
+
+Meanwhile, despite excellent world prices for commodities, the value of New Zealand’s exports is actually less than it was three years ago. Free trade, like genetic engineering, has simply not delivered on its promises yet the government remains shackled to the globalisation agenda.
+
+Three years ago Jim Anderton and Jim Sutton predicted that New Zealand’s exports to Singapore would grow as a result of that FTA. They were proved wrong. Yesterday Helen Clark predicted that the new FTA with Thailand will improve our access to that growing market.
+
+I believe our $260 million trade deficit with Thailand will increase as a result of throwing open our borders to cheap imports. I also predict there will be job losses in the manufacturing sector, because Kiwis can’t and shouldn’t have to compete with skilled Thai workers being paid less than their cost of living.
+
+But the real dark cloud on the horizon is the FTA the Government is currently negotiating with China. Unions and manufacturers are now speaking with one voice when they say up to 300,000 jobs could be affected if this deal proceeds. How will those workers feel about their quality of life, their well being and their participation in the ownership society when their jobs are sacrificed?
+
+I urge the Government to pause for a cup of tea on free trade. They should take the time to read the thoughtful critique by Nobel prize-winning economist Paul Samuelson who says he is having second thoughts about free trade and concedes that it is not the unqualified blessing its cracked up to be, let alone a win win situation.
+
+While it is pausing it should put its Overseas Investment Bill on the back burner and do a proper cost benefit analysis of its plans to make foreign ownership of our country and our economy even easier. Foreign investment cost New Zealand $8.2 billion in dividends and interest for the year to September. Why make it worse?
+
+What the Government should be taking swift action on are the real immediate challenges raised in the Parliamentary Commissioner for the Environment’s latest report. “Growing for Good” tackles, head on, the unsustainability of intensive farming practices in New Zealand. Why didn’t the Prime Minister’s bold agenda include the Government’s strategy for addressing the serious issues raised in this report?
+
+The report states the obvious, that we are highly dependent on our natural capital – our water, soils and bio-diversity – for sustaining a very high proportion of our wealth generating capabilities, whether it be the production of food, fibre, wine film or delivering great visitor experiences to overseas tourists. And it acknowledges that changes are already under way to address the environmental impacts of farming. But it concludes that there is little evidence that existing efforts will be sufficient profound or widespread to maintain and enhance New Zealand’s natural capital.
+
+The PCE has issued a challenge that we can’t afford to ignore. Farming systems need to be developed which deliver environmental sustainability and economic wealth, not short-term economic wealth at the expensive of environmental sustainability. And the government must ensure that its policies, regulations and other drivers are re designed to achieve the right rather than the wrong outcomes.
+
+We are ready to work with Labour, on all these challenges, to steer them in the right direction, apply the brake whenever they look like they are slipping backwards and to take bold steps to protect our environment and become a fairer society.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

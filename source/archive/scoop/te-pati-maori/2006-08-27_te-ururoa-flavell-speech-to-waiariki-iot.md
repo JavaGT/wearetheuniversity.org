@@ -1,0 +1,135 @@
+---
+slug: te-ururoa-flavell-speech-to-waiariki-iot
+title: "Te Ururoa Flavell - Speech To Waiariki IOT"
+date: 2006-08-27
+source-url: https://www.scoop.co.nz/stories/PA0608/S00468/te-ururoa-flavell-speech-to-waiariki-iot.htm
+author: te-pati-maori
+---
+Te Ururoa Flavell - Speech To Waiariki IOT
+==========================================
+
+**Sunday, 27 August 2006, 1:36 pm**  
+**Press Release: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Waiariki Institute of Technology; Whare Takuira
+
+Diploma Teaching Early Childhood Education Graduation
+
+Otukou Marae; Lake Roto-a-ira, Turangi
+
+Saturday 26 August 2006; 11am
+
+Te Ururoa Flavell; Member for Waiariki;
+
+Maori Party Spokesperson for Education
+
+Thank you for the invitation to be guest speaker today. I am really pleased to be here, having heard so much about this marae and work being done here in terms of education kaupapa. So thank you.
+
+The whare, Okahukura, has special significance for me for three reasons.
+
+The first, is that as a stronghold of Maori resistance during the late 1880s it reminds me that the challenges we face today, are but another step on the journey to self-determination. Around the time that this whare was being established, Rewi Maniapoto was leading the defense of Öräkau.In the face of overwhelming odds, and despite a call to surrender, the historic reply was given:
+
+E hoa, ka whawhai tonu mātou, Āke! Āke! Āke!
+
+Friend, we will fight on forever, forever and forever!
+
+The second, more personal reason, is that the age of this whare causes me to think of my kuia, who lived to an incredible age of 112 years.
+
+Thirdly, as I say, Ngati Hikairo, the education initiatives that have taken place on this marae in the last few years are innovative and exciting. The relationship with Te Wananga o Raukawa and now with Waiariki Institute of Technology are examples of the great work being done here, so congratulations.
+
+It’s a great pleasure to be here today to celebrate he tohu matauranga mo te whakaako kohungahunga. As I understand it, the course has a bit of a whakapapa itself : for Elizabeth Pakai, Mina Konui and the team that was involved in putting together the initial research under Hei Ara Kokiri. I think about Colleen Morehu from Hatepe as well who was a part of the development of the programme in the very early stages.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I want to congratulate the graduates who have made the sacrifices necessary, demonstrated the commitment to apply yourself to the study of matauranga Maori, educational theory and practice, curriculum studies, te reo rangatira and teaching practice.
+
+You have done the work, you have maintained the pressure and it is now time to celebrate the rewards of your labour. Of course, like most students returning to education, whanau are important. Husbands, partners, children must share in the success as well for putting up with assignments, grumpiness, hoha, being late, late assignments and so on.
+
+I am always excited at graduations because I figure that we have more “freedom fighters” to assist in the development of our people. BUT, that is only if they/you realise that you are what I call ‘change agents”. By this I mean, that as some of those who have had access to information you/ we are more informed than most about the world we live in.
+
+Educators have even more responsibility because we influence the next generation and our communities. How many of us remember some of our teachers from when we were young?
+
+So in graduating, please don’t believe that your role is confined to just teaching little tamariki. It is not and under the conditions that our people find ourselves in, it cannot be just about teaching.
+
+I have a role in the bigger picture, you have a role in the local picture in Ngati Tuwharetoa or wherever your career takes you. And like most things, there is a whakapapa for us to follow.
+
+It is important not to lose sight of those years, to overlook the path we have been on.
+
+Think back to the Treaty of Waitangi Act of 1975, which set up the Waitangi Tribunal - and contrast that with New Zealand First’s Bill to remove Treaty principles from all legislation.
+
+Move forward to the review of the Department of Education in 1986, which recommended that the“culture and values of Maori as tangata whenua must be an integral part of the curriculum for all New Zealanders, not something tacked on” - and contrast that with the Government’s recent moves to delete the Treaty from the national curriculum, to remove Maori arts from the Arts statement; to take out references to non-racist, or to values such as aroha, tolerance, rangimarie.
+
+Remember the opening of the first Köhanga Reo, Pukeatua, in 1982 and the rapid growth of the first one hundred kohanga - and contrast that with the actions of the Government this year, in voting, clause by clause, against the amendments proposed by the Maori Party to preserve the distinctive character of early childhood entities, particularly kohanga reo.
+
+I wanted just to touch on these few examples to remind us all that there is no room for complacency. We cannot afford to sit on the fence, hoping some one else will sort it out.
+
+We saw that fear and complacency creep in during the lead up to the election of 2005. A campaign of misinformation generated by Labour, resulted in a rumour circulating that the Maori Party had voted with National regarding Bills in the House.
+
+The propaganda of ‘a vote for Maori is a vote for National’.
+
+Those nine words, in effect, resulted in 54.63% of the party votes for Maori electorates being given to Labour, compared to 27.70% to the Maori Party. That was despite the Foreshore and Seabed Bill; despite the language against haters and wreckers; despite the programme of savage cuts to race based funding; despite the fact that the 2005 Budget failed to even mention the word, Maori.
+
+What was even more disappointing was the recent Maori electoral campaign, in which it is looking unlikely that even one more seat will be gained - despite the growth in the eligible Maori population.
+
+The question that challenges all of us, is how do we encourage our people to take the risk, to face up to the reality of what is going on all around, and take the action necessary to determine our own solutions.
+
+We must break out of the dependency culture, and become agents for change. We must not sit around, waiting for the fashion to change back in our favour again.
+
+This is where the graduates come in. You have a part to play as do I.
+
+You need to know that you are special. You are special because of your new positions, you are special because you have information and knowledge, you are special because you are heading into leadership roles as educators. BUT it means nothing unless you recognise that, and use it in the best interests of the people.
+
+As a new MP, I try to check on how I/ we are doing. Recently, I asked the Parliamentary library to report the number of speeches that had been given by Maori MPs in every general debate, urgent debate, first reading, second reading and third reading of the Government bills, the private and local members Bills since the election last September.
+
+The numbers were a real revelation. Hone Harawira and I scored the highest total at 27 speeches each; followed by Dr Pita Sharples at 22 and Tariana Turia on 21.
+
+And then, a huge leap to Hon Nanaia Mahuta on 5; the Associate Minister for Treaty Negotiations, Hon Mita Ririnui on 2; Hon Mahara Okeroa on 1; and the Minister of Maori Affairs, the Hon Parekura Horomia, with the grand total of one speech delivered since the last election.
+
+Seven speeches in ten months; while the electorates served by the mighty Maori Party - reach a total of 97.
+
+Every day, I feel myself getting closer to that grumpy old man of 112 - and it’s not what I want to be. Parliament is such a frustrating place if you are not in a position to influence. But we are heading to that.
+
+It’s because of the way in which Maori issues are being marginalised, sidelined, ignored, dis-regarded, trivialised and deleted from the public debate, that I believe Tukoroirangi Morgan’s call to return to Pukawa is excellent timing.
+
+Pukawa, of course, is symbolic of the leadership captured in the legendary Tuwharetoa chief Iwikau te Heuheu Tukino III. The chief called iwi leaders together in 1856 to discuss the political tensions of the day. What better time than now, 150 years later, to consider Pukawa as Sir Tipene O’Regan has described it, as the equivalent of New Zealand's Geneva - "a neutral, facilitation ground" to discuss such issues as the “parliamentary shredding of the Treaty?’.
+
+The time is right to debate the ongoing significance of the Maori seats; the constitutional status of Te Tiriti o Waitangi; and to discuss our tribal strategies around the social and economic advancement of tangata whenua.
+
+I am always amused when we get the odd call in the office, what is the Maori Party going to do for me? The requests for our resources, our leadership to unilaterally advance Maori development.
+
+My standard response is what are we going to do for each other? What is the work that we all need to do, in order to achieve the fullest realisation of Maori potential?
+
+Change won’t just fall in our laps. It will take action. It will take courage. It will take faith.
+
+Our greatest opportunity for our future is in putting measures in place to encourage our community leaders to inspire faith. The faith to know the significance of engaging everyone in political korero, in encouraging marae komiti meetings to consider the impacts of some of the legislative proposals, and express a view.
+
+Now to those graduating today, here is the challenge. In Parliament, people do not vote for what they know to be right and in the best interests of the people. They vote for what the party says. It is not even about finding the common middle ground. Follow the party line, that’s the call.
+
+I hope that all of you graduating today become change agents and do not just sit on the fence. One can get a sore nono sitting on the fence. Jump the fence and get involved. Involve the parents, involve the rangatahi, involve our men. Jump the fence. The good thing about that approach is that you do not get holes in your pants or get them ripped. That is your part.
+
+Congratulations again and I wish you well. Work for the people. Kia kaha, kia toa, kia manawanui. Kia ora tatou.
+
+  
+Ends
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

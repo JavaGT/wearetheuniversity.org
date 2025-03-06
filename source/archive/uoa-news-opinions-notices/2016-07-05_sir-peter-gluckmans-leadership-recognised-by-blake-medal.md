@@ -1,0 +1,40 @@
+---
+slug: sir-peter-gluckmans-leadership-recognised-by-blake-medal
+title: "Sir Peter Gluckman’s leadership recognised by Blake Medal"
+date: 2016-07-05
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/gluckman-blake-medal.html
+---
+Sir Peter Gluckman’s leadership recognised by Blake Medal
+=========================================================
+
+05 July 2016
+
+![Sir Peter Gluckman wearing his Blake Medal](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/gluckman-blake-medal/_jcr_content/par/textimage/image.img.jpg/1467756430617.jpg "Distinguished Professor Sir Peter Gluckman ")
+
+Distinguished Professor Sir Peter Gluckman
+
+Distinguished Professor Sir Peter Gluckman, founding director of the Liggins Institute and the Prime Minister’s chief science advisor, has won the premium award for leadership in New Zealand from the Sir Peter Blake Trust.
+
+Sir Peter says receiving the Blake Medal is especially meaningful. “There’s nothing nicer than being recognised by your peers or by people you highly respect.”
+
+Sir Peter is recognised here and internationally for his leadership in communicating sound scientific advice to policymakers. In 2014, he was made co-chair of the World Health Organisation’s Commission on Ending Childhood Obesity. The same year, he founded the International Network of Government Science Advice. His work in bridging the worlds of research and policy earned him the 2015 Science Diplomacy prize from the American Association for the Advancement of Science.
+
+He is also renowned for a much-decorated forty-year research career focussing on prenatal development and children’s health. In the 1980s, he invented a cooling cap for newborn babies with suspected brain damage, which is still used in maternity wards across the world. He has published more than 600 papers and reports and been cited 30,000 times in scientific literature.
+
+Sir Peter has served in many leadership roles at the University of Auckland. In 2001, he established the Liggins Institute and became its founding director. He led the Institute for six years, driving cutting-edge research into the early-life origins of non-communicable disease. 
+
+“One of the things I’m most proud of is founding the Liggins Institute,” says Sir Peter. “It’s established itself as one of the preeminent centres in the world for studying the most important question in science: what makes us what we are, and how do we develop into what we are. The Institute continues to do great things.”
+
+He stepped down as director when he was appointed chief science advisor, but remains a Distinguished Professor of Paediatrics and active researcher within the Institute.
+
+Sir Peter says New Zealand needs to learn to discuss uncomfortable realities more maturely. “It’s about being able to have unsafe conversations in a safe way,” he says. “We need to shift the national conversations so they’re really informed by science and research - whether that’s talking about inequality, obesity, the ratio of Maori in jail, the use of new technologies, or our place in the world.”
+
+The annual Sir Peter Blake Leadership Awards recognise leaders who set an outstanding example for young people to follow. Sir Peter’s past accolades include the Rutherford Medal – the highest award conferred by the Royal Society of New Zealand – being named New Zealander of the Year, and being made a Member of the Order of New Zealand, the highest national honour.
+
+### Contact
+
+**Nicola Shepheard**  
+Media Relations Adviser  
+**Tel**: 09 923 1515  
+**Mob**: 027 537 1319  
+**Email**: n.shepheard@auckland.ac.nz

@@ -1,0 +1,107 @@
+---
+slug: robertson-launch-of-wellington-branch-of-howard-league
+title: "Robertson: Launch of Wellington Branch of Howard League"
+date: 2012-04-10
+source-url: https://www.scoop.co.nz/stories/PA1204/S00100/robertson-launch-of-wellington-branch-of-howard-league.htm
+author: new-zealand-labour-party
+---
+Robertson: Launch of Wellington Branch of Howard League
+=======================================================
+
+**Tuesday, 10 April 2012, 10:59 am**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+\[[Launch of Wellington Branch of Howard League « Red Alert](http://blog.labour.org.nz/2012/04/04/launch-of-wellington-branch-of-howard-league/)\]
+
+Grant Robertson
+
+**Speech to the Launch of the Wellington Branch of the Howard League for Penal Reform, 2 April 2012.**
+
+My thanks and congratulations to Lizzie and everyone responsible for this evening. I want to tell you a little about my personal involvement with prison issues, and then some of my personal views on what needs to happen in terms of the overall issue of crime and punishment in New Zealand.
+
+In August 1991 my reasonably comfortable middle class existence was shattered. I was in my second year at University, and had moved out of my parents’ home at the beginning of that year. My father, an accountant working in a prominent law firm in the city of Dunedin, was supporting my two brothers and I as we embarked on our university studies as user pays arrived in tertiary education. My mother, a teacher, had recently fulfilled her long held ambition of some postgraduate study in history.
+
+One morning I took a phone call from my mother; clearly distraught and asking to see me. When she arrived at my flat she told me that my father had been arrested that morning for theft as a servant. Over the following few months we learned that a portion of our comfortable, but not extravagant, existence for the previous ten years had come from my father stealing a total of $120,000 from his employer.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+After a trial that shone a light on things my father had been doing that I and my family knew nothing of, my father was sentenced to two years in prison.
+
+There were real victims from my father’s offending, the impact on whom I do not wish to minimise. The law firm who employed him put their trust in him to manage their finances. He broke that trust, repeatedly, and I remain sorry for that, and carry guilt on his behalf to this day.
+
+But his family were victims too. Life would never be the same again. Especially for my mother. She found herself, a student without income, with her husband of 27 years in jail for a crime that was as much news to her as it was to the law firm that he had perpetrated it on. Dunedin is not a big place at times like this, and everyone knew. For my brothers and I it meant significant changes. Etched on my memory is the process I had to go through to get a student allowance. Faced with a bureaucracy who could not believe that my father’s income could be “zero”, I was reduced to producing the report of his sentencing from the Otago Daily Times as proof.
+
+Times were hard for a number of years for us all. Financially, emotionally, reputationally. Relationships crumbled or stuttered among our family. I was angry with my father for many years, but I never stopped loving him. By the time he passed away three years ago in June time had healed most of the wounds, but things really were never the same again.
+
+For me I was the only one of my siblings living in Dunedin at the time. And every week, sometimes twice a week for the 15 months that he served, I visited my father in Dunedin Prison. It was, literally, a Victorian prison. Built in the 19th century, it spoke more to Charles Dickens than to someone living in late 20th century Dunedin. It was cold, so very cold. It had little more than an exercise yard the size of this space here by way of open space. My father, 50 at the time, began developing circulation problems. As a white collar criminal he faced the taken for granted abuse of that class of prisoner. He ate most meals standing up with his back to the wall. Exercise was limited. Those circulation problems never went away and became part of a set of health problems that ultimately led to his death at age 67.
+
+However, many of the real lessons I learned from my father’s time in prison were not related to him. Through my father’s many letters and our conversations I learned more and more about those in the prison with him. A number of them were actually my former schoolmates. Over time Dad became their ‘go to guy’. The majority could not write the letters to their girlfriends they so wanted to write. They were for all intents and purposes illiterate.
+
+But that was only the beginning. Their issues, from drug and alcohol dependency, to anger management, to emotional scarring from years of abuse received scant attention from the prison authorities. My father, a man of strong Presbyterian faith and origins, made it his mission to do all he could to help these people. In prison and for years afterwards, as part of PARS, and in his own right he did what he could to support them to a better life. Often he would look at the newspaper and sigh as he saw someone from his “lag” being sentenced again.
+
+I had a lot of conversations with my father about prisons and prison reform. I told him when I was elected to Parliament that it would be an issue that I would pursue. My allocation of portfolios to now has meant it has not been core to my work, but I remain committed to the need for a complete re-think of crime and punishment in our country.
+
+That is why I am so pleased to be able to speak at the launch of the Wellington Branch of the Howard League for Penal Reform. I have long admired the work of the League, and the commitment you have to leading the debate on prisons, and wider reforms.
+
+I have to say that things are better now than in the early 90s when it comes to prisons. There is more recognition of the importance of rehabilitation and reintegration programmes. But it is not enough, and there is much more to do.
+
+This starts at the beginning. We must stop people being sent to prison in the first place. We know enough about the causes of crime to know when to intervene.
+
+We know that poverty, lack of opportunity and loss of hope for children will create conditions that can begin the life of crime.
+
+We know that growing up in households characterised by alcohol abuse, drug taking and domestic violence will start some going down this path. We can do something about this.
+
+We have to make giving our children the best start in life our highest priority. We have to track and support teenagers who are disengaging into further training or employment opportunities. We must not stand by and let these cycles continue.
+
+Another important element of reducing our need for prisons is greater use of non-custodial sentences. These offer the opportunity for low risk, low level offenders of getting the focus immediately back on how they can get their lives back in order.
+
+In terms of what happens inside the prison walls, the programme of the League offers many of the solutions we need.
+
+Like most New Zealanders I would venture to suggest I accept that there will be, and is, a need for penal institutions. There are some offenders for whom a period of incarceration is necessary for our safety and their own good. For some this may be long term and I don’t resile from that.
+
+But the vast majority of prisoners, 89% in fact, will definitely re-enter society in a short period of time. If this is the case then the focus we need to have from the moment they enter the court system, and then the doors of prison is to rehabilitate and prepare for reintegration.
+
+This means a focus on the underlying issues. Alcohol and drug addiction must be a significant focus. Roger Brooking’s excellent book, _Flying Blind_ outlines the importance of addressing these issues. 80% of crime is committed under the influence of alcohol and drugs. There are policy issues we as a Parliament need to sort out to deal with this, but we also can provide and indeed order, the treatment and support that is needed.
+
+Lifting literacy and numeracy levels, offering opportunities for educational advancement and seeking possible career paths must also be a priority.
+
+In terms of release I want to make a special plea for more to be done in housing. When the Wellington Branch of PARS closed my electorate office began receiving visits from more and more released prisoners. Whatever the good intentions of the Steps to Freedom programme, the reality is that many prisoners are being released into either a unstable accommodation arrangement or no accommodation at all. Having secure and stable housing is one of the major factors in giving stability to reintegration. It needs to be a priority.
+
+You all know all of this, so I will stop there but there are of course many more things that need to change. But one of the most important is also the hardest. The need to change attitudes.
+
+The cold hard truth is that for many New Zealanders they believe that people are sent to prison _for_ punishment rather than _as_ a punishment. Raised on a diet of sensational crime stories about our worst offenders they come to believe that the lock ‘em up theory is the only way forward for all prisoners. The League’s goal of leading a debate on these issues has never been more important.
+
+We can use a range of arguments on this. If Bill English can call prisons a moral and fiscal failure then perhaps there is a mood for change to tap into. The money invested to do some of the programmes I have mentioned above will save itself time and again against the costs of incarcerating people, and the costs of the crimes they commit.
+
+But it is the moral failure that I want to conclude with tonight. As a society we simply can not allow the waste of so much human potential. We can not accept that 51% our prison population is Māori, while they represent only 15% of the population overall.
+
+We can not allow ourselves to check-out from what is going on in our communities by putting in place simplistic policies like three strikes or silly, vindictive legislation such as removing the rights vote for the few prisoners who had it.
+
+We have to face up to our moral responsibility to give every child a decent start in life, to intervene when we need to get young people back on track and to find in all of our citizens the dignity and aspiration that they have.
+
+We need to say that our goal is to reduce our prison population through meaningful commitment to addressing the causes of crime and stopping recidivism, through an unrelenting focus on rehabilitation and reintegration programmes. Anything else is a moral failure.
+
+In conclusion I want to congratulate the Howard League and all of you for having the courage to be involved, and please know that you have my support every step of the way.
+
+  
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

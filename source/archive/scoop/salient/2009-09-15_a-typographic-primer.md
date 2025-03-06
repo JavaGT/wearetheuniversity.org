@@ -1,0 +1,130 @@
+---
+slug: a-typographic-primer
+title: "A Typographic Primer"
+date: 2009-09-15
+source-url: https://www.scoop.co.nz/stories/CU0909/S00211/a-typographic-primer.htm
+author: salient
+---
+A Typographic Primer
+====================
+
+**Tuesday, 15 September 2009, 2:09 pm**  
+**Press Release: [Salient](https://info.scoop.co.nz/Salient)**
+
+A Typographic Primer
+
+by Rory Harnden
+
+There’s a very good reason why you didn’t get that last job, why they’re still not replying to your emails, and why you failed that last paper—yet again. There’s a reason why no one comes to your parties. It has almost nothing to do with your Hallensteins suit, Hotmail’s not down for anyone else, and no one fails History of Design that many times. Your parties are actually quite good.
+
+Amongst your peers, however, there’s no secret to your failure. Your type choices are, quite frankly, embarrassing. Your cramped, centred text is unsightly, and you seem to want to get far closer to the edge of your paper than your printer is entirely comfortable with.
+
+It is a strange and wonderful thing, that despite the vast number of ways in which something may be said, the overwhelming majority of those ways are at best flawed, and at worst objectively and assuredly wrong. These ways are likely to cause tears of disappointment in all who care about such things, and so too it is with typography and its typographers. Despite having at your disposal a plethora of tools with which to impart your world-changing, environment-cleansing, kitten-cuddling messages, almost all of these should be inextricably banished from your “C:\\Windows\\Fonts” folder. The rest should be used with the utmost of respect, adoration, or at least a waning interest, for they shall forever contain the ability to transform your well crafted prose into a humorous office memo. One that can only hope to alleviate some of its attributable damage by being, at least, recycled.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Some History
+
+Since Johannes Gutenberg first put bits of inky metal to paper in the mid-1400s, typographers have required typefaces after which to name their otherwise quickly floundering profession. Gutenberg’s earliest faces were calligraphic Blackletters—including Textura, and the slightly more modest but certainly no easier to read Fraktur. These proudly live on today on the covers of albums going for that ‘Gothy Metal’ look, a kind of ‘Scary Hip Hop’ look, or spelling out someone’s name at the top of the windscreen of that car that’s still doing laps at 1am on a Tuesday. As your mouse hovers threateningly over OldeEnglish.ttf , remember that they have no place on your hard drive.
+
+Encouraged by Gutenberg’s new invention that the Chinese had already invented, new typefaces began to spring up all over Europe—predominantly in the ‘Roman’ style. Italian calligraphers, in their determination to create new faces in the supposedly superior style of the Romans, had mistaken Carolingian minuscules for the One True Script of the Ancients. They hurriedly combined it with some capital letters they’d found on an old pole belonging to some guy called Trajan, only to be horribly embarrassed when they realised what they’d done.
+
+Nonetheless, these formed the basis for all later ‘Roman’ typefaces, and after making all the letters look a bit more like each other, and borrowing some italics from somewhere else so it didn’t read like they were shouting every time they tried to emphasise a word, the typographers of the day had set in stone, so to speak, the various forms of all western lettering to come for the next few hundred or so years.
+
+These new faces were highly legible, and shied away from recreating what could otherwise be done by hand. Blackletters, unreadable to all but Germans and vampiric ducks, were replaced by Roman faces such as Jenson’s Jenson, Garamound’s Garamound, Caslon’s Caslon, Basker¬ville’s Baskerville, as well as faces by less conceited typographers such as Griffo’s Bembo, and Voskens’ Fell types—imported to Britain during some unfortunate bureaucracy that halted the production of any British type for a bit.
+
+The Bit Before Now
+
+This was all very well, until the mid-1800s birthed a group of scalpel-wielding pre-Modernists, who took great joy in lopping off the lovely serifs that had been gradually refined over the previous four hundred years. Having thrown off the shackles of their oppressors, these new sans-serif typefaces recruited an appropriate lowercase shortly thereafter, and now make up the other half of the majority of contemporary typefaces.
+
+In a move that isn’t representative at all of general technological and creative advancements in the 20th century, the last hundred years have shown more subtle advances in the way we understand type. We’ve long since given up looking for any absolute answers, and have instead embraced all variants upon a theme in that post ironic way we do so well. Soft, bouncy humanist sans serifs now live happily alongside more seriously international neo grotesques; contemporary serifs remain very nearly structurally identical to their 15th century great great grandparents; geometric type comes and goes depending on how cool computers are at the time; and some people still aren’t bored with Helvetica.
+
+It’s hard to say who’s the most naïve—the hip café dwelling Italian masters of the 1400s who thought that old retro chic 1st century AD look was back for good, or those annoying graphic designer friends you have who still think that Helvetica is God’s (read: Max Miedinger’s) gift to the world, and have the Swiss flag tattooed on their egos. Typography, like anything, is liable to show its age. Contemporary typographers are often happy to explore anything resembling type—from the minimalism of pure geometry to the maximalism of arranging your name in hair.
+
+The Bit Where Things Are Bridged Together
+
+As you write, you are partaking in an exercise oft referred to as ‘standing on the shoulders of giants’. It should, therefore, come as no great surprise, that it is very much in your best interest to borrow said giants’ typewriters, keyboards, type sets, printers, and any other possessions they happen to have collected on their way. If possible, sit yourself comfortably around their eye level, so they might notice and chastise you as you attempt to set your latest prose in Verdana.
+
+There is a reason you have so many delightfully banal fonts on your computer. Most early designers were too preoccupied with witch-burning to have the forethought to think about how their delicate strokes were going to look when converted to vectors, then pixels, and finally displayed on that old CRT you’ve still got.
+
+It is only fairly recently that computers have found these new jobs for typefaces, or fonts, to do. Whereas previously typefaces were designed with ink traps, so words didn’t get too smudgy when over inked, fonts are now hinted, so words don’t get too smudgy when they’re converted to pixels. Default fonts supplied with operating systems are loaded with nice big character sets, and as sick as we are of seeing them, they really do do a commendable job of rendering pretty much anything that gets thrown at them.
+
+As the internet matures, blossoming from a 20-something alt.binaries.warez.linux Usenet moderator, to your 40-something mum who has all the time in the world to blog about her cats’ favourite recipes, so too does its typographic component. There are currently a great many very long and very touchy conversations about how to display type nicely on the net without letting people pilfer them too easily. Add to this the challenge of getting Internet Explorer, Firefox, Chrome, and the rest to play to the same rules, and you end up with some fairly primitive typographical technology.
+
+The interim solution to all this is a collection of fonts designated ‘web-safe’. This means everyone has them, and you can slather your band’s MySpace page with them without any unsightly rectangles or question marks popping up. They do, however, tend to have the unfortunate side-effect of looking incredibly bland on paper.
+
+Safety First
+
+There may have been a point in time, so very long ago, an appropriate and almost-but-not-quite-charming context in which to use Comic Sans. That time is not now. Nor shall it ever be any future now, then, or any time at all. It might hurt a little to say so, but if you are considering using The-Font-That Must-Not-Be-Named, you’re probably better off sticking to Times New Roman. TNR itself was once a proud bastion of contemporary British typography. That time was 1931, when it was commissioned for The Times newspaper, and it is now best used for filling that brief interval between opening up Word and changing the font to something that is not Times New Roman.
+
+Once upon a time, Times New Roman was a high contrast serif typeface with a large x height that made it perfect for squashing onto the tight, poorly printed pages of a newspaper. Now, it screams apathy and indifference. It might not get noticed, but in most cases, getting noticed is fairly conducive to your writing being read.
+
+What Your Font Says About You
+
+In 2004, and in a rare blogospherical win, documents purported to be conclusive evidence of George W. Bush’s non-patriotism during his military service in the 1970s were found to have been typed circa 2004 in Microsoft Word using every default setting in the book. Due to a lack of evidence—forged or otherwise—of any time-travelling paperclips, Dan Rather was made to retract his assurances that the documents had been authenticated by CBS experts. What he had meant, it seems, was that the documents had been photocopied enough to look kind of old, and they didn’t think anyone would notice anyway.
+
+Jack Yan, founder of Lucire magazine, Vic alumnus, and general typographical wizard, goes even further. “The Killian memoranda were so obvious—there were ‘experts’ arguing it was done in Times New Roman. Dumbasses. It was set in Linotype Times, on an Apple Laserwriter or an equivalent. ‘But,’ argued Dan Rather on CBS, ‘Times New Roman was designed in 1932.’ Yes, but they didn’t have laser printers in the 1970s. I think he got in some typewriter repairman to attest to this. That would be like getting a mechanic to identify the paint colour on a car.”
+
+Unfortunately for 60 Minutes, people did notice, and people do; what your font says about you turns out to be rather a lot. Looking bad is often synonymous with looking just plain boring, and your 1.25 inch default margins tend to be a dead giveaway that you’re not very good at paying attention to details.
+
+If you say a word often enough, it loses any semblance of meaning. If you use a font often enough, much the same happens. When you switch from Times New Roman to Arial, you’re making a conscious decision to change from an overused serif that has long since lost any punch it once had, to a young Helvetica clone, bought on the cheap by Microsoft, who didn’t want to spring for any royalties. “Arial is for losers,” Yan says. “You can’t expect a typeface based around a British design stretched to Swiss widths to work. It would be like putting spotted dick into a kilo of cheese.”
+
+That Verdana you’re using converts nicely to on-screen pixels, but looks primitive and unrefined when put to paper—just ask the brains behind IKEA’s latest typographic fumble. Your Courier New might make a more convincing 1970s typewriter than Dan Rather’s copy of Office 97, but even the US Government has recently upgraded—though exasperatingly only to TNR. You might think that 18pts is a great way to come off as if you’ve more to say than you really do, but unless you’re looking for flatmates you might want to try a touch of subtlety. And this is before you discover the novelty fonts.
+
+Hinting
+
+Of course, it would be rude to criticise without offering advice. The average person shouldn’t be expected to spring for font families worth the average GDP of medium-sized countries. Keep away from Lorenzo Uomo when the Salvation Army is almost giving away suits. If you’re on a PC, have a play with Eric Gill’s Perpetua, a delicate wee thing that was good enough for Barack Obama’s unexpectedly good typographic campaign. Georgia, commissioned for Microsoft, sits well on-screen, and will feel far stronger than Times New Roman and its unfortunate familiarity.
+
+If you’re on a Mac, you’re lucky enough to possess Hoefler Text, a contemporary classical serif with all sorts of lovely features you’ll probably never need or discover. With Adobe Reader (which you almost certainly have) you’ll have received Minion, another recent serif perfectly adept at freshening up your writing.
+
+A pleasant side-effect of Google’s recent Android venture is the Droid family of typefaces that came out of it. A charming family of serifs and sans-serifs alike, they’re easily Google-able. If you really can’t handle serifs (those little flicky things on the end of letters) have a quick browse for Myriad or Calibri, depending on the colour of the warm, humming box you’re typing into. Spice things up with some 11pt instead of Word’s suggested 12, bring in those margins so I’ve somewhere to put my thumbs as I chastise you, and please, please stop using WordArt.
+
+Amateurism at its Finest
+
+You might even have an advantage over those who’ve studied this stuff their entire lives. David Buck, a local designer with international credentials, says some of his favourite typography often comes from people who don’t have a clue what they’re doing. “I like seeing something like a ‘Garage Sale’ sign, and thinking: ‘How’d they come up with that?’, or ‘How did they think that letter was supposed to look like that?’ My favourite type is always going to be interesting work done by amateurs.”
+
+Don’t always assume the computer knows what it’s doing. Don’t give that insidious paper clip the satisfaction of its Machiavellian exploits. Get off the computer every now and then and write something by hand. Remember that? That’s cramp and it’s probably about time you had some. Realise that 12pt isn’t the only way and that letters can be as expressive as the words they describe. You might even enjoy it.
+
+The Bit at the End
+
+Every discipline likes to imagine itself as far beyond the understanding of the proletariat, and in most cases there might be at least a glimmer of truth to that. However, with current tools, acceptable or even admirable typography shouldn’t be beyond the means of anyone. When an entire creative discipline suddenly finds itself in the hands of the common people, some emergency education must be done—but it also offers up the chance for a whole new world of intrigue and means of expression.
+
+Your marks will improve, Real Groovy will call back, and people other than your flatmates will finally be able to taste that cheese ball recipe you’ve been refining. Just don’t use walnuts—no one likes those.
+
+Things typographers will make fun of you for doing  
+Using Trajan. You’re not a movie, and if you are, you should probably know better than to use Trajan.
+
+Anyone’s ‘Hand’. You’re not fooling anyone, you didn’t write this by hand. Why would you? Blow out those candles and remove the corset—your accidental American spelling is a dead giveaway.
+
+Novelty fonts. The classier ones call themselves ‘display’ fonts. Great in small doses for main titles, daunting for walls of text.  
+When your work looks like a ransom note. Not just because it’s horrific, but because the collection of fonts you’ve downloaded from Dafont.com is unique to you and might get you pinned in court.
+
+Grunge, or ‘distressed’ fonts. As great as your writing is, you’re not Banksy, and there’s no need to make it look like it’s written on the side of a building.
+
+http://www.salient.org.nz/features/a-typographic-primer
+
+This story was syndicated by the Aotearoa Student Press Association via Salient www.salient.org.nz
+
+ends
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Salient](https://info.scoop.co.nz/Salient) on InfoPages.

@@ -1,0 +1,117 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2006-06-22
+source-url: https://www.scoop.co.nz/stories/ED0606/S00054/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 22 June 2006, 12:43 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Funding needed for ailing salaries  
+Medical and dental academic staff salaries must be increased to match those of clinical specialists employed by district health boards if New Zealand is to maintain the standards of its teaching programmes in the schools of Medicine and Dentistry, according to the Association of University Staff (AUS). In a submission to the Government’s review of the funding of Medicine and Dentistry, currently being carried out by the Tertiary Education Commission (TEC), the AUS has called for additional funding to be made immediately available in order that the Universities of Otago and Auckland can ensure the long-term quality of their programmes.  
+AUS National President, Professor Nigel Haworth, said that the number of medical and dental academic staff in New Zealand is declining, and an increasing number of graduates are leaving the country with no intention of returning. “Fewer top-quality candidates are interested in pursuing medical and dental academic careers in New Zealand, a principal factor being poor remuneration and conditions of employment, particularly in comparison to other public-health professionals,” he said. “The recruitment of high-quality international medical academic staff is becoming increasingly more difficult, and the problem will be exacerbated by the aging of the international academic workforce.”  
+The TEC is currently examining student-component funding for Medicine and Dentistry and will, if appropriate, recommend adjustments to funding levels to support high-quality pre-employment education and training. An evaluation report is scheduled to be completed and presented to the Minister for Tertiary Education by July 27, following which a paper will be presented to Cabinet, if required, on 30 August.  
+Professor Haworth said that, against an international standard whereby university specialists are paid at equivalent salary rates to their colleagues employed in public-health systems, the base salary rates of New Zealand medical and dental academics are now more than $18,000 per annum less on average. “Under current salary structures, that differential will increase to around $49,000 within eight years unless urgent remedial action is taken,” he said.  
+AUS representatives will meet TEC officials tomorrow afternoon to provide further details on the case for improved salaries for medical and dental academic staff.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Bargaining news  
+2\. Be frugal, NZQA staff told  
+3\. Minister stresses importance of research collaboration  
+4\. Funding confirmed for Centres of Research Excellence  
+5\. Education counsellors for Chile and South Korea  
+6\. Cullen opens funding door for PTEs  
+7\. Clinton backs striking NYU staff  
+8\. Lecturers dismissed for union activities  
+9\. Reform critic gets seat on University Council  
+10\. The Who, Live at Leeds
+
+Bargaining news  
+Meetings of union members are currently being organised at the seven universities where staff are represented by the Association of University Staff to discuss progress in the national bargaining following on-going discussions with vice-chancellors and the Government over funding. The meetings will start on Tuesday 4 July and conclude on Friday 14 July.  
+AUS General Secretary, Helen Kelly, said that the national bargaining team met in Wellington on Friday 16 June to formulate a number of recommendations for the bargaining round, but at this stage details could still not be released. “We are currently engaged in technical discussions following a meeting of the Universities Tripartite Forum, and are unable to release any details until those discussions have been completed,” she said. “We understand that union members are eager for specific news, and we expect to be able to provide full details prior to the meetings in July.”
+
+Be frugal, NZQA staff told  
+The New Zealand Qualifications Authority has told its staff to be frugal, but ‘not to spoil the ship for a penny’s worth of tar”, as it reins in costs following revelations that the organisation is recovering from a $9 million budget blowout. In a memorandum to staff, Chief Executive Karen Sewell, has said that, while NZQA is not going bankrupt or in crisis, it does need to get its spending in line with its revenue and funding. She has called on staff to make every effort to be frugal in their work activities, and not to be afraid to think outside the box in terms of how things can be done better.  
+The memorandum, released by the National Party spokesperson on Education, Bill English, reveals that, against an income of $70 million, the total expenditure of NZQA for the 2005/06 year is forecast to be about $79 million.  
+Ms Sewell says that, in order to deal with being “moderately” over budget, NZQA management has taken initial steps to deliver savings in this financial year, including the non-replacement of staff who resign, fixed-term staff having their employment terminated as soon as possible, contractors not having contacts renewed and temporary and causal workers being phased out. She also told staff that “long-term savings are going to require more fundamental work” and that NZQA will review its core functions. At present, she says redundancies are not planned.  
+Mr English says, however, that the statement signals substantial restructuring and redundancies. “Two months ago the Acting CEO said NZQA could fix its finances without any impact on service,” he said. “The revelations of large and unprecedented budget cuts will be a disappointment to the education sector which has been looking for stability and better service from NZQA.”  
+According to Mr English, the memorandum also reveals that NZQA neglected to mention earlier that $3.3 million of the deficit is due to costs incurred by dealing with inquiries into its “incompetence”, and bringing in a new scholarship regime after the debacle in 2004.
+
+Minister stresses importance of research collaboration  
+The Minister for Tertiary Education, Dr Michael Cullen, took the opportunity to stress the importance of research innovation and collaboration at the launch of Victoria University’s new Centre for Biodiversity and Restoration Ecology on Tuesday this week. He said that, although many people have an attachment to the notion of the lonely researcher spending years running obscure experiments in the lab, the reality is that a network of tertiary-education provision needs to be developed where the different parts of the system work together more closely to develop learning opportunities for students and to provide better focus for our research talent.  
+Dr Cullen said that, under the tertiary-education reforms, universities will be the linchpins of those networks, particularly as regards research. They will continue to be research-led institutions. They will remain academically independent, and the Government will be looking to them to provide leadership in critical thinking and innovation.  
+“It needs to be said that a position of leadership within a network of provision is something that universities need to demonstrate and to earn,” Dr Cullen said. “We will not be driving these developments centrally or handing universities any mantle of leadership. Instead, I want to see universities, other providers, research institutions and businesses working out partnerships that are mutually beneficial, that provide better-quality learning for students at various institutions and that represent better value for the public’s investment in tertiary teaching and research.”
+
+Funding confirmed for Centres of Research Excellence  
+The success of Centres of Research Excellence (CoREs) has encouraged the Government to confirm its support for centres beyond 2008, according to the Minister for Tertiary Education, Dr Michael Cullen. His announcement coincides with his visit to the MacDiarmid Institute for Advanced Materials and Nanotechnology at Victoria University of Wellington today. The Institute is one of seven CoREs established by the Government in 2001 to produce world-class research that is focused on New Zealand’s future development.  
+Each centre has a number of partners, including other universities, crown research institutes, wananga and private research groups. The existing centres, hosted by Massey, Auckland, Victoria and Lincoln Universities, have been awarded funding until 2008.  
+A mid-term review was carried out by the Ministry of Education and the Tertiary Education Commission last year to assess the CoREs’ performance and decide whether they should continue to receive funding. The review found that all were performing well.  
+“It is extremely heartening to see that, overall, the centres are achieving what they set out to do, which is why we decided on another funding round,” said Dr Cullen. “Each of the seven centres is conducting ground-breaking research and making a significant contribution to New Zealand’s national goals. They also help and support our developing industries which, in return, has a positive impact on the economy.”
+
+Education counsellors for Chile and South Korea  
+The Minister for Tertiary Education, Dr Michael Cullen, announced yesterday the appointment of two new education counsellors for Chile and South Korea respectively. According to Dr Cullen, the main role of education counsellors is to build bilateral education relationships nationally and at institution level, and to support the efforts of the education sector to expand export opportunities. The counsellors also contribute to New Zealand’s broader development and foreign-policy goals.  
+The new counsellors will be the sixth and seventh in a network which operate from New Zealand embassies and high commissions around the world. Three are already working in Beijing, Washington, and Brussels, and a fourth will begin work in Kuala Lumpur in July. An education counsellor in New Delhi is likely to be working before the end of 2006, while the new counsellors, to be based in Santiago and Seoul, will be in place by the middle of next year.  
+“These are important positions which will help grow a sector currently worth $2 billion a year,” said Dr Cullen. “The new counsellors will work to expand tertiary linkages, especially in research and the creative, biotechnology, communications and information-technology industries. These are areas the Government has identified as vital for the transformation of the economy.”  
+The counsellor in Santiago will focus on maintaining the momentum generated by the mission to Chile made by the former Education Minister to Latin America in 2004, as well as the Prime Minister’s visit to Chile earlier this year. The counsellor will help strengthen New Zealand’s education relationship with Chile as envisaged in the bilateral Memorandum of Understanding on Education Cooperation signed in April 2004.  
+The Seoul-based counsellor will expand current government activity and, building on existing institutional linkages, facilitate opportunities for high-calibre education linkages for New Zealand. South Korea is the second largest source of students to New Zealand.
+
+Cullen opens funding door for PTEs  
+The Government looks set to make a partial backdown on its decision to cut access to student loans and allowances for courses that do not receive government subsidies, according to Education Review.  
+The Minister for Tertiary Education, Dr Michael Cullen, told Parliament’s Education and Science Select Committee last week that there are some institutions which may well be able to qualify for student-component funding, and that discussions with them are currently taking place.  
+Education Review reports that the decision may represent a lifeline for some of the fifty private training establishments (PTEs) that rely entirely on student fees for survival. A further ninety providers offer a mix of subsidised and unsubsidised programmes.  
+TEC Policy and Advice Manager, James Turner, told Education Review that the Commission had written to all PTEs offering to discuss the policy change, and was already in discussion with some of them. “At the same time, the TEC is considering the possibility of developing a process to fund relevant provision which might otherwise be lost. It is too early to set out what might happen, but the TEC hopes to have a clearer idea by the end of June,” he said.  
+Meanwhile, National Party Associate Education spokesperson, Colin King, said that the axing of access to student loans for students enrolled at some PTEs threatened to cut those institutions out of the market. “Dr Cullen’s move to reduce access to these courses is based on nothing more than his ideological objection to private provision in the tertiary-education sector,” said Mr King.  
+AUS National President Professor Nigel Haworth said that the Government should ensure that public funding, either through student-component funding or student allowances, should be used to support public education, and not to underwrite the “bottom-line” of private, for-profit organisations. He said this was particularly the case as public institutions are currently under-funded, and the continued funding of private organisations did nothing to solve that problem.  
+Worldwatch  
+Clinton backs striking NYU staff  
+Senator Hillary Clinton is among a number of members of the United States Congress who are publicly supporting New York University graduate assistants who have been on strike since November last year after University management said that it would not recognise, or work with, the union representing them. At that time, University management offered new individual contracts to the graduate assistants and made a number of threats, including blacklisting, against those who do not accept the new agreements.  
+In a letter to the President of New York University, the senators urged the University to reinstate its recognition of the graduate employees’ union, the Graduate Students Organising Committee of the United Automobile Workers Union.  
+The letter says that, by ignoring the NYU graduate assistant’s request for their union to be recognised, the University is behaving in a manner “inconsistent with its educational mission”, and adds that the University’s actions have been “soundly condemned by all stakeholders in the community: students, faculty, civil and human rights activists, the greater labour movement and a broad range of elected officials.”
+
+Lecturers dismissed for union activities  
+Five lecturers made redundant by Manchester College of Arts and Technology in August 2004, when their unit was closed for “economic reasons”, were in fact sacked because the College’s senior management resented their trade-union activities, according to a decision of the Manchester Employment Tribunal in the United Kingdom.  
+The lecturers had been active in the College branch of Natfhe, the university and college lecturers’ union. Without warning, the College closed the programme in which the lecturers were engaged, expelled the lecturers from its premises and cut off their telephones and email accounts. The College made no effort to rescue courses already under way but, instead, wrote to the students to tell them to complete their training elsewhere. None of the five staff was offered redeployment.  
+After a sixteen-day hearing between November 2005 and March 2006 the Tribunal held that the dismissals were unfair because the main reason for them had been the staff members’ trade union membership and activities. A third member of the Tribunal accepted that the decision to close the trade union education unit had been taken for a sound business reason, but judged that the dismissals were unfair because of the lack of proper consultation.  
+The Tribunal’s decision noted the open hostility shown towards the union by the College Principal, Peter Tavernor, over several years and the abusive tone of his letters to the Natfhe branch.
+
+Reform critic gets seat on University Council  
+An outspoken critic of reforms promoted by Oxford University’s Vice-Chancellor, John Hood, has been elected to Oxford’s governing Council, just days after the United Kingdom University published its long-awaited white paper on new governance proposals. In its white paper, the University sets out significant changes to the way it is run, including modifying the size and shape of the Council in a way that would give unprecedented powers to the University Executive.  
+Nicholas Bamforth, a Fellow in Law at Queen’s College, and one of the authors of a series of alternative governance papers, was elected by what has been described as an overwhelming majority of 527 to 279 in a record turnout by members of the Congregation, Oxford’s parliament of dons.  
+Mr Bamforth is the second outspoken critic of Dr Hood’s reforms to be elected to the Council, joining Susan Cooper, Professor of Physics, on the University’s main policy-making body. “The fact that two out of twenty-six members of Council are such firm critics is enormously significant,” Mr Bamforth said. “We want to ensure that there is a proper debate of the University’s governance reforms and those put forward in our alternative papers.”  
+Mr Bamforth, who ran for the Council on a pro-democracy ticket, has been elected for a four-year term. “I am firmly against plans to slim down the Council and to separate the overseeing of academic activity to an academic board,” he said. “I am also opposed to plans to introduce a majority of external members on to the slimmed-down Council.”  
+From the Times Higher Education Supplement
+
+The Who, Live at Leeds  
+British rock band, the Who, launched their European and US tour on Saturday night by re-creating their legendary gig at Leeds University, thirty-six years after the original show was immortalised on the Live at Leeds album.  
+The Who’s remaining original members, Roger Daltrey and Pete Townshend, also unveiled a commemorative plaque at Leeds University commemorating both their original gig and the venue itself.  
+BBC broadcaster Andy Kershaw, a former Leeds student, approached The Who’s manager with the idea of the plaque and comeback show, saying that The Who’s reputation was cemented by the Live at Leeds album. Mr Kershaw said that the era of big bands playing at college venues underpinned the importance of student venues to live music.  
+From the BBC
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

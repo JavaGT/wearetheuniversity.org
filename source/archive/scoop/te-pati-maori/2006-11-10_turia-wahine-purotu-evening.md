@@ -1,0 +1,147 @@
+---
+slug: turia-wahine-purotu-evening
+title: "Turia: Wahine Purotu Evening"
+date: 2006-11-10
+source-url: https://www.scoop.co.nz/stories/PA0611/S00192/turia-wahine-purotu-evening.htm
+author: te-pati-maori
+---
+Turia: Wahine Purotu Evening
+============================
+
+**Friday, 10 November 2006, 9:56 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Wahine Purotu Evening: Women in Leadership Today
+
+Thursday 9 November 2006; 6.30pm
+
+Tariana Turia, Co-leader, Maori Party
+
+One of the young woman leaders in my life, my five year old mokopuna, loves Ka Waiata, kia Maria, especially the part:
+
+Hine Purotu, Hine ngakau, Hine rangimarie
+
+Ko te whaea, ko te whaea, o te Ao.
+
+So the chance to come tonight to an event to celebrate Hine Purotu – the strength, beauty, talents, the heart, calm, peace of women, and the powerful intellect and talents, was irresistible.
+
+I understand that the kaupapa for this evening was a celebration of Maori women in commerce, in law, and in leadership.
+
+And what better way to do that than with the impressive panel that is lined up tonight and I mihi to Helen, Dale and Puawai for the inspiration they continue to be within their whanau, within their organisations, within their institutions.
+
+And when I think of the incredible power for change that is possible with their roopu - the Maori Party, Maori and Pasifika students; the New Zealand College of Management and Victoria University - I can feel a uprising in our midst.
+
+Uprising is of course the name of Bob Marley’s final album, the album which included the legendary Redemption Song:
+
+“Emancipate yourselves from mental slavery, none but ourselves can free our minds”.
+
+Tonight I hope to contribute to our ongoing emancipation in celebrating and sharing stories of some of the wahine purotu demonstrating leadership in commerce, in law, in Aotearoa.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+It would be hard to mention commerce without acknowledging the contribution that June McCabe has carved in our landscape. Of Nga Puhi, Te Rarawa, Te Aupouri, Ngati Kaharau, Ngati Kahu and Ngati Hau descent, June had a rich resource of whakapapa to draw on, to drive her in her pursuit of corporate adventure.
+
+A relentless hunger for excellence pushed her from records clerk to rental manager in Housing NZ, to running Mortgage Corporation; former Head of Corporate Affairs for Westpac with a client base of a mere 1.3million customers; and now a Director of a number of significant boards including TVNZ, NZ Venture Investment Fund, Advanced Dynamics Ltd; Cranleigh Merchant bankers, eCentre Ltd and a number of private and not-for-profit Trust Boards.
+
+But her drive isn’t about ‘her’. Along the way June has co-authored the book, Women2women to share career and business tips; become Chair of Excelerator, of the NZ Leadership Institute; and worked with the NZ Council for Sustainable Business on the resource, Let’s Settle this, which is a practical “things to do” type of book for Maori enterprises to use in their path post-settlement to sustainability.
+
+In her book, women2women, June throws up the question – it’s worth thinking about what people will say about you at your tangi.
+
+For me, it’s also about, who will cry over you at your tangi; who will be left behind, and how will they fare?
+
+Leadership is all about those we can inspire in our careers, those we can share good ideas with and help to make their journey more accessible; and our whanau, our hapu, our iwi – how do they stand to benefit from the ideas we invest in?
+
+June’s story is remarkable but if you asked her, she’d tell you of the person she saw as truly remarkable – her grandmother.
+
+Widowed at 38, her grandmother raised eight children and three grandchildren on her own, imbuing in them all a sense of fierce independence and ability. June was brought up on a farm, but never milked a cow because her grandmother told her, her homework was her priority.
+
+I remember my own aunts and grandmothers in much the same way – creating pathways for me to follow, setting me out in a direction that would make a difference for our people. All the time watching over me, guiding me, challenging me.
+
+To this day, one of my aunts will often know if I am troubled, she will turn up at the light of day, and take me to the river.
+
+And I have a very strong memory not long after the elections, of another one of my aunts, catching me hopping off the pig truck from the farm and severely reprimanding me for forgetting my new status as an MP.
+
+Te Arawa lawyer, Annette Sykes, talks about the walks she took as a young child, with her grandmother, who was at that time secretary of the newly formed Te Arawa Trust Board. Annette remembers picking up rubbish and being taught about responsibility – part of the special pathway designed for her.
+
+That sense of the collective courage to care is one of the greatest gifts of our wahine purotu; that facility to reach out for another.
+
+Those same qualities are found in abundance with Te Arahanga o Nga Iwi, a stunning business service provided by Ngati Kahungunu, Rongomaiwahine woman, Daphne Luke and her team of kaiwhakarite.
+
+Te Arahanga ō Ngā Iwi is all about the recognition of rangatiratanga – that for Maori to reach our full potential, we need to do the mahi ourselves. Daphne and the team seem to do everything – from mentoring moments to business planning, to helping to put people in touch with business advisors, to financial forecasting.
+
+And their work is having huge impact. I’m blown away by the fact that at the local level, in their area between Paekakariki to Shannon, there are now some 553 Maori businesses in the rohe. Isn’t that incredible!
+
+Even more exciting is the weekend that Daphne and Ngatokorua Miratana have been organising to bring together the leading movers and shakers of the business world.
+
+The National Maori Business Expo takes place this weekend at the Otaki Racecourse and will feature more than 110 Maori businesses from Kanikani kids; Tui Global Eco Tours from Taranaki; Aotearoa House, a retail firm, to Tuaropaki, a firm based in Taupo which provides wireless broadband services to rural users. Don’t miss it – it is a great event, and it’s all happening in Otaki.
+
+The idea of our rural locations becoming a prime location for business success is something that Dicey Symes could tell you about as well.
+
+Dicey and her husband, Ardie, have opened the Sunset Point Bar and Bistro at Mahia, dishing up crayfish meals, alongside the other business enterprises they have created for themselves in real estate; in a cray fish operation, and with plenty more plans up their sleeve.
+
+The businesses dovetail beautifully – going from ocean to plate with the catch. The key to their success was living in paradise, doing work they love, and having whanau everywhere and anywhere around them.
+
+That sense of capturing the perfect moment was something that two sisters-in-law grabbed hold of up, in the settlement of Te Ngae, outside of Rotorua.
+
+Aroha Armstrong and Tawa Hunter have set up a business called Yummy Mummy – which makes casts of hapu puku – as well as casts of children’s and babies hands and feets out of plaster, silicon, resin and concrete.
+
+If you want to look at some beautiful puku, check out www.yummymummy.co.nz. As the website says, they honour the connection between whanau, whenua and whakapapa in their unique artform.
+
+I could talk all night about examples like this, of stunning wahine Maori who are setting the fields of business and commercial enterprise ablaze.
+
+But if that isn’t enough - the field of law is also rich with images of initiative and inspiration.
+
+In Parliament we treasure the example provided by Georgina te Heu Heu, the first Maori woman to graduate in law and indeed the first Maori woman lawyer ever appointed to the Waitangi Tribunal.
+
+Other firsts of course are Gina Rudland, the first Maori woman president of the Maori Law Society – and the first to specialise in banking and financial law; Denise Henare, the first Maori woman appointed to the Law Commission; Lowell Goddard, the first Maori woman QC and later a Justice on the High Court; Pauline Kingi, the first Maori woman to graduate Masters of Laws from Harvard.
+
+There’s Moana Maniapoto, first Maori women to develop a community based initiative, the Kia Mohio, Kia Marama Trust. Ani Mikaere, first Maori female law lecturer; Judge Caren Fox (formerly Wickliffe) kaiwhakawā of the Tai Rawhiti Māori Land Court; a specialist in international human rights, a former Harkness Fellow.
+
+Up in South Auckland, the law firm King Alofivae Malosi has been a trail blazer for Maori and Pasifika women, a firm which embraces the future as a brown one. The firm, established by Maori woman, La-Verne King, and two Samoan women, Sandra Alofivae and Ida Malosi, thought about their law firm partnership as a marriage in which they all shared the same values.
+
+And like many marriages, it wasn’t long before the children came along, in fact all three partners fell pregnant in the same year, and their children were all born within six months of each other. The pattern of the firm became feed baby, go to court, feed baby, back to court, and all just part of another day at the office.
+
+They valued whanau, they had a dream of wanting to serve their people, and so they made it happen – even if it was all at once!
+
+Then there’s our up and coming leaders. Young Maori women like Marire Kuka and Hikurangi Skipper, who have been selected for the Future Leaders Programme administered at Auckland Business School.
+
+That programme includes a focus on ethics, values and attitudes, and emotional intelligence as skills to motivate people, to build networks, and to deal with conflict. I really liked a comment from Hikurangi, who said:
+
+“Even if I only affect ten people as opposed to one million in this world to better themselves, then that is still me achieving as a leader”.
+
+And to me, that’s pretty much what my vision for wahine puroto is.
+
+The amazing thing about just starting to share some of the names of wahine Maori who have inspired me in commerce, in law, in life is that once I started thinking about these women, I realised there were so many more that I wanted to mihi to.
+
+And you know, isn’t that wonderful – that we are now so spoilt for choice in terms of women in the fields of business and accountancy; the judiciary, the justice system. It makes one feel as if the sky’s the limit.
+
+It has been such a privilege for me tonight, to just spare some time thinking about the exciting cast of thousands we have in our midst - of wahine Maori lawyers, solicitors, executives, managers, accountants, administrators, Judges, analysts, activists, advocates, students, lecturers, politicians and whanau leaders who are all doing the best that they can, in the passionate pursuit of justice.
+
+Wahine Purotu are absolutely central to our future – and we must never forget to honour the legacy of all those who inspire us onwards – our tupuna, our kuia, our whaea and whaene, our tamahine, our mokopuna.
+
+Me Aro Koe ki te Ha o Hine-ahu-one.
+
+Pay Heed to the Dignity of Women
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

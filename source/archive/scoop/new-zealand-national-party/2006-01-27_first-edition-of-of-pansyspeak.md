@@ -1,0 +1,79 @@
+---
+slug: first-edition-of-of-pansyspeak
+title: "First edition Of Of 'Pansyspeak'"
+date: 2006-01-27
+source-url: https://www.scoop.co.nz/stories/PA0601/S00148/first-edition-of-of-pansyspeak.htm
+author: new-zealand-national-party
+---
+First edition Of Of 'Pansyspeak'
+================================
+
+**Friday, 27 January 2006, 1:50 pm**  
+**Column: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+27 January 2005
+
+![](http://img.scoop.co.nz/stories/images/0601/8cbf49c2dce4baa0696f.jpeg)
+
+Gong Xi Fa Cai! Wishing you a prosperous year! (in Mandarin)  
+Kung Hei Fat Choy! Wishing you a prosperous year! (in Cantonese)
+
+Welcome to the first edition of Pansy Speak!
+
+The Chinese New Year, or Lunar New Year, begins on Sunday the 29th of January. This is the first day of the first month of the lunar calendar and also marks the beginning of the Korean New Year. It is a very happy and hectic time for both of these communities in New Zealand.
+
+Everyday I am being reminded by the wider community about the Chinese New Year and many know that this year is the Year of the Dog, which has been a pleasant surprise. The Mandarin and Cantonese greetings above are being exchanged in the same way that Merry Christmas and Happy New Year are used during December and January. The celebration will last until the 12th of February, and finish with the traditional lantern festival.
+
+In the good old times the New Year celebrations lasted for 15 days. Many people lived in predominately rural and farming communities, working all year round without any rest until the end of the harvesting season, and the onset of Winter, when they went out to celebrate the New Year in style.
+
+There are five cycles of the 12 horoscopes around the five elements of Gold, Wood, Water, Fire and Earth. A sixty year old will live through one complete cycle.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The 12 horoscopes are the Rat, Bull, Tiger, Rabbit, Dragon, Snake, Horse, Sheep, Monkey, Chicken, Pig and the Dog. It is forecast that this will be a very good year for those born in the years of the Pig, Mouse, Rabbit, Snake and Sheep. There are of course different characteristics for people born in different years - those who are born in the Year of the Dog are thought to be intelligent, down-to-earth, fearless, and honest but cynical. Some people take these traits very seriously, while others don't, which can lead to amazing and fascinating conversations!
+
+What I miss about the Chinese New Year in New Zealand is the variety of celebrations. Beginning on New Year's Eve there are night markets that families will visit after a sumptuous dinner, where all sorts of food and other items are on sale. Many purchase blossoms or golden mandarins, which symbolise good luck.
+
+The first thing that children do when they wake up on New Year's Day is greet their family and then they receive Red Packets, which contain money. As a child, we used to urge our parents to take us to visit other family and friends to get more Red Packets without appreciating that our parents would have to give in return. The boys would then buy firecrackers and terrorise the neighbourhood.
+
+For each day of the celebrations there are different protocols and events cumulating with the lantern festival, which is also the Chinese Valentines Day. There are two lantern festivals taking place this year - one in Auckland at Albert Park beginning on the 10th of February, and one in Christchurch in Victoria Square beginning on the 25th of February. These events have been organised by Asia:NZ along with the Auckland and Christchurch City Councils. These festivals enable thousands of New Zealanders to get a glimpse of the fun-loving nature of Chinese and Korean people.
+
+Beyond the food and fun, the New Year is a time to celebrate relationships, family, friendships, employers and employees and one cannot say a bad word to another. This time of year is busy because it is also a time when people visit one another to strengthen ties and renew acquaintances.
+
+Apart from sharing the magic of our New Year Festival with you all, I have dedicated the best part of the first edition of Pansy Speak to it in light of the call made by the Foreign Affairs Minister, Mr Peters, to improve our 'Asia literacy'. My one wish for the Chinese New Year is that Peters and the Government increase funding for Asia:NZ to promote a better understanding of Asia, and provide funding and implement policies that will enable Asia studies to be taught in greater depth at our schools and tertiary institutions.
+
+Mr Peters had a point when he said that we need to increase the knowledge of New Zealand in Asia, but his past attacks on our Asian communities have often been reported there, and I believe that he and the Government need to work harder to repair our reputation - recent visits by Treasury and Reserve Bank staff to Japan to discourage investment just won't do it.
+
+We do need to increase our exposure in Asia. I recently spent three weeks in Singapore, Malaysia, Taipei and Thailand and during my time there I came across only two news stories about New Zealand. One was about the woman who set two dogs upon Police, and the other was in the Singapore Sun and was about my reaction to the accent incident in Parliament last year.
+
+This second story was only picked up by one paper here, iBall, which is a feisty English newspaper written from the Asian perspective. Its editor, Lincoln Tan was a qualified journalist in Singapore who failed to find a job within the English media in Auckland and had to move to Christchurch to work in the hospitality industry. From there he started iBall, which has often been in the headlines itself, and has moved back to Auckland to expand its circulation. This paper will fill the gap for in-depth coverage of our Asian communities.
+
+While in Malaysia I met up with a good friend who was a Senior Manager at Telecom. She was headhunted by Digi mobile in Malaysia and is now their Marketing Manager. She told me that she missed New Zealand and the only reason that she went back to Malaysia was because her husband was unable to secure a job here as a senior engineer.
+
+I also learnt that many of my Malaysian friends from university days are sending their children to Australia to study because they believe there are better opportunities and because their children choose to go there. I found in Taipei that young ex-pats are forming New Zealand networks - despite the fact they can't secure jobs here they are committed to staying in touch. Three of these people are pilots who were trained in New Zealand but can only find jobs in Taipei.
+
+As a result, I have come back even more determined to ensure that we foster economic growth to provide more opportunities and establish an inclusive attitude where all talented people are valued despite their ethnicity.
+
+The year of the Dog is a time to bark as well as a time to charge forward!
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

@@ -1,0 +1,126 @@
+---
+slug: the-galileo-project
+title: "The Galileo Project"
+date: 2002-03-20
+source-url: https://www.scoop.co.nz/stories/ED0203/S00039/the-galileo-project.htm
+author: auckland-university
+---
+The Galileo Project
+===================
+
+**Wednesday, 20 March 2002, 10:19 am**  
+**Press Release: [Auckland University](https://info.scoop.co.nz/Auckland_University)**
+
+The Galileo Project Background
+
+The Galileo Project is a programme of arts events presented by The University of Auckland, celebrating the life and work of the great Renaissance scientist, mathematician and astronomer Galileo Galilei. The centrepiece of the project is the opera Galileo, which will be performed at the Maidment Theatre from April 10 to 13.
+
+Galileo is a multimedia production, tracing the life of Galileo as he challenged current thinking about astronomy and the physical universe. Galileo utilises modern audio-visual technology, as well as theatre and song to create a total experience for the audience of Galileo the man, and the magnitude of his work for succeeding generations. Using DVD film-work and electronic sound engineering, the opera seeks to appeal not only to opera-lovers, but also a younger generation who now benefit from Galileo’s discoveries. It is the first opera in New Zealand to be performed to such technical specifications.
+
+The opera depicts Galileo’s contention with the accepted view of the laws of physics and the natural cosmos, in particular his observation that the earth revolved around the sun, not vice versa. This discovery led him into conflict with the Catholic Church, which, along with the rest of the world, believed the opposite. Galileo, a devout Catholic himself, set out to prove that a healthy marriage between science and religion was possible – “I do not feel obliged to believe that the same God who has endowed us with sense, reason and intellect has intended us to forgo their use”. Unfortunately, his position was not quickly accepted.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Music for Galileo was written by John Rimmer, recently retired Professor of Music at The University of Auckland. John has enjoyed a distinguished career as one of New Zealand’s foremost composers and is currently composer in residence of the Auckland Philharmonia. The libretto for Galileo was written by Witi Ihimaera, Associate Professor of English at The University of Auckland, and well-known New Zealand author.
+
+Director of Galileo is John Davies who was Assistant Director of Opera New Zealand’s “Madame Butterfly” and “Manon”. University of Auckland Associate Professor Uwe Grodd will conduct the orchestra, comprised of University of Auckland School of Music students, staff, and members of the Auckland Philharmonia. The Set Designer is Lizz Santos, who is directing set design and costume for Canterbury Opera’s forthcoming production of Bellini’s “Norma”.
+
+The part of Galileo will be played by top New Zealand baritone David Griffiths. Among the main cast are well-known soloists Jack Bourke, Shaun Dixon and Glenese Blake. Other parts will be played by music students at The University of Auckland and associated players with the Auckland Philharmonia.
+
+Tickets for Galileo cost $45, or $35 for a group of 10 or more. Seniors and students with ID are $25. Tickets can be purchased through the Maidment Theatre Box Office or  
+telephone 09 308-2383.
+
+Alongside the opera Galileo, The University of Auckland will run a number of parallel public events celebrating Galileo’s life and work.
+
+A public lecture on the making of Galileo will be presented by John Rimmer, Witi Ihimaera and John Davies on Tuesday March 26th at 7pm – 8pm in the School of Music. This is run through continuing Education. For more information call 09 3737599 ext 7831/7832. They will discuss the making of this contemporary, multi-media opera and explore the issues it intends to raise and address. This seminar will be a valuable pre-runner to the production itself.
+
+The University of Auckland English Department will also run a free public seminar on Thursday 4 April: Galileo - The Man Who Changed The World? This seminar will explore Galileo’s impact on how the world views the heavens, religion and society. The panel includes Associate-Professor Peter Wills (Physics), Associate-Professor Ruth Barton (History),  
+Associate-Professor Ken Larsen (English), Dr. Franco Manai (Italian), Dr. Berndette Luciano (Italian) and Mr. Garry Tee (Mathematics). Admission is free and the seminar will be held in the English Department, Room 426, Arts 1 Building, 14a Symonds St from 5.30pm - 7.30pm.
+
+On April 20, the Auckland Museum Institute presents The World’s First Physicist, a hands-on experience of the instruments used by the famous scientist, for young and old alike. Presented by Geoff Austin, Professor of Physics at The University of Auckland, the public workshop will involve the making and measuring of some of Galileo’s unique instruments, including the Telescope. The workshop will run from 3:00-4:00pm and admission is free.
+
+For more information on any of these parallel events, or to register, contact Russell Finnemore at The University of Auckland School of Music, ph. (09) 373-7599 ext. 7707 or email r.finnemore@auckland.ac.nz. Alternatively, contact The University of Auckland’s Continuing Education 373-7599 ext 7831/7832.
+
+Galileo – the opera  
+Biographies
+
+  
+JOHN DAVIES  
+Director
+
+John is a graduate of the New Zealand Drama School and has spent 30 years working as a director, performer and tutor in the performing arts. He travelled and performed for 10 Years with Red Mole Enterprises touring throughout Mexico, USA, Great Britain, Japan, Australia and New Zealand. Whilst living in New Zealand. Whilst living in New York he performed frequently off Broadway and created three original plays, which he produced and directed.  
+He is the Director of The New Zealand Noh Theatre Co, and has studied Noh and lived in Kyoto for extended periods of time. He has produced two original New Zealand Noh plays. He has worked extensively in the community and on different marae based projects.
+
+John is a tutor in movement and actors workshop at the UNITEC School of Performing and Screen Arts, and has tutored at other tertiary institutions throughout the Country. In 2001 he received Arts Alive funding to perform ‘Te Tupua-The Goblin’ a solo performance which premiered at Waipapa Marae. This play is scheduled to appear at festivals throughout the country in coming months.
+
+He has on two occasions been assistant director for N.B.R. New Zealand Opera and has directed for the Opera Factory. Upcoming productions include ‘Carmen’ for Opera Waikato and a 2003 Engagement with Opera Hawkes Bay.
+
+  
+JOHN RIMMER  
+Composer
+
+John Rimmer was born in Auckland in 1939 and studied Composition with Ronald Tremain at the University of Auckland. In 1967 he was awarded a Canadian Commonwealth Scholarship and studied at the University of Toronto with John Weinzweig and Gustav Ciamaga. He returned to New Zealand in 1969 and taught at the North Shore Teachers College before being appointed in 1974 to the staff of the School of Music at the University of Auckland. In 1972 he was the Mozart Fellow (Composer-in-Residence) at the University of Otago.
+
+John Rimmer’s compositions use a wide variety of musical forces; instrumental, orchestral and choral. About a quarter of his works employ electro acoustic resources and many works are published and recorded. He has received honourable mentions for his works in competitions at the prestigious electro acoustic music festival held in Bourges, France and also at the Newcomp competition in Massachusetts. In 1986 his computer-generated work ‘Fleeting Images’ received the International Confederation of Electro acoustic Music prise at Bourges. Earlier in 1983 his ‘De Aestibus Rerum’ (‘on the ebb and flow of things’) received first prise in the International Horn Competition held in the United States. In 1989 on the occasion of his fiftieth birthday his ‘Symphony: The Feeling of Sound’ was commissioned and performed by the Auckland Philharmonia Orchestra and subsequently recorded in the orchestra’s CD series of New Zealand composers.
+
+As a composer, John Rimmer’s international profile has been developing ever since his ‘Symphony (1968)’ was performed in Carnegie Hall, New York in 1970. Perhaps his most internationally performed work is the set of piano pieces ‘For the Kokako’ which has been played in far away countries such as Morocco, Paraguay, Norway and Singapore. In more recent times his computer-generated works have received critical acclaim and have been presented at international festivals in France, Canada and Greece.
+
+In 1994 John Rimmer received the KBB citation of the Composers Association of New Zealand for services to New Zealand music. In 1995 he was awarded a personal professorial chair at the University of Auckland and in 1997 a Lilburn Trust award also for services to New Zealand music. John Rimmer retired from his position at the University of Auckland in 1999 in order to devote his full attention to composing. In 2000 he was appointed an Honorary Professor at the University and in 2002 Composer in Residence with the Auckland Philharmonia.
+
+John Rimmer plays the horn and is the founder of the Karlheinz Company, an ensemble for new music at the University of Auckland.
+
+  
+WITI IHIMAERA  
+Libretto
+
+Witi Ihimaera was born in Gisborne, New Zealand and now lives in Auckland. He has had a varied life as a labourer, postman, journalist, diplomat and university lecturer. His first book, Pounamu, Pounamu was published in 1972 and won the Freda Buckland Prize for best first book by a new writer, and third prize in the Wattie Book of the Year Award. With Tangi, his first novel, published in 1973, he became the first Maori novelist and won first prize in the Wattie Award of that year.
+
+Witi Ihimaera has won first prize again in the Watties with The Matriarch in 1986 and second prize, as editor of the acclaimed Te Ao Marama landmark series of Maori writing since 1980, in five volumes, in 1993. In 1994, with Bulibasha, King of the Gypsies, Witi Ihimaera won the Wattie (now called the Montana) Book of the Year Award for the third time - the only writer in New Zealand to have done so. In 1994 he was awarded the Katherine Mansfield Fellowship and spent a year in Menton, France.
+
+Witi Ihimaera's other books include Whanau (novel, 1974), The New Net Goes Fishing (short stories, 1976), The Whale Rider (novel, 1988), Dear Miss Mansfield (short stories, 1989), Bulibasha, King of the Gypsies (novel, 1994), Nights in the Gardens of Spain (novel, 1995) and The Dream Swimmer (novel, 1997). He is also an opera librettist for composers Ross Harris (Waituhi: The Life of the Village and Tanz Der Schwane) and Dorothy Buchanan (The Clio Legacy) and film screenwriter. He is currently working on the screenplay of The Whale Rider. His first play, Women Far Walking premieres at the International Festival of the Arts, Wellington, March 17, 2000.
+
+  
+LIZZ SANTOS  
+Set Designer
+
+Lizz was educated at Nottingham Trent University and graduated with a degree in Theatre Design in 1990. Directly from University, she took up a 5-year Design Residency at Pori City Theatre in Finland where she deigned sets and costumes for over 40 productions on both the main and studio stages. In 1992 she co-founded the theatre group; Rakastajat Theatre, a professional company producing 5 in-house shows a year. She too designed all these, up until her departure from Finland in 1998.
+
+In 1995 she turned free-lance and began to work on large scale theatre productions and events all over Finland, Sweden and middle Europe, enjoying International recognition in Spain, Poland and the UK in Drama, Dance, Opera and Children’s Theatre.
+
+Also in 1995 she became involved in the Film and TV Industry, Production Designing and Art Directing for TV Shows, TV Commercials, Music Videos and Drama. She worked for Film houses in New Zealand, England, Finland, Sweden and the USA.
+
+After a period of about 10 years of working in the Northern Hemisphere, Lizz moved to New Zealand in 1999. She has since designed for Auckland Theatre Company, NZ Actors Company, Canterbury Opera, Downstage, Bats & Circa Theatre’s in Auckland, Wellington and Christchurch and for Film and Production houses including; Film Construction, Silver screen, Motion Pictures and Fat Films. Her first theatre design in NZ was nominated for “Best Set Design” for Flipside at the 2000 Chapman Tripp Theatre Awards and her Music Video designs feature regularly in the NZ Music Awards.
+
+Since starting her Professional career, Lizz has designed over 90 Productions in areas of both Set and Costume Design for Theatre and over 20 Productions for the Film Industry. This has enabled her to work, and have her work seen, in 7 Countries Worldwide.
+
+Lizz has also taught design at various Universities and Art Colleges in Europe and more recently at Toi Whakari; New Zealand Drama School, UNITEC and New Zealand School of Dance. She is at present working on productions for The Royal NZ Ballet, Auckland Theatre Company and Canterbury Opera’s 2002 season.
+
+  
+UWE GRODD  
+Conductor
+
+Uwe Grodd has performed and recorded internationally for over 20 years. In 200 he won the ‘Best 18th Century Orchestral Recording’ category at the prestigious Cannes Classical Awards for his CD of Symphonies by J B Vanhal. The critics’ choice of hilights of the recording year by BBC Music Magazine selected Uwe Grodd’s disc of three symphonies by Ignaz Pleyel into the Top 60 Discs of 2000 and the same disc has been nominated for the Cannes Award in 2002.
+
+Uwe’s teachers include Maestro Sergui Celibidache and flutist/composer Robert Aitken. Success at international master classes and competitions was followed by prestigious scholarship for further studies at the Banff Centre, Canada. He is currently Associate Professor in Conducting and Flute at the University of Auckland School of Music New Zealand and had been Artistic Director of the International Music Festival of New Zealand since 1998.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Auckland University](https://info.scoop.co.nz/Auckland_University) on InfoPages.

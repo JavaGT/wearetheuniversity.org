@@ -1,0 +1,120 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2007-03-29
+source-url: https://www.scoop.co.nz/stories/ED0703/S00113/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 29 March 2007, 11:54 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Student support has increased significantly, says Cullen  
+Responding to protests yesterday over the rising levels of student debt, the Minister for Tertiary Education, Dr Michael Cullen, says that the support students have received from the Government over the last seven years has been significant and allowed more students than ever before to get a tertiary education. The protests came as the level of student debt in New Zealand reached the $9 billion mark.  
+Dr Cullen said that the Government had worked hard to reduce the financial burden on students and encourage greater participation across the board. “On 1 April we celebrate an important milestone - one year of interest-free student loans. This is saving students thousands of dollars and shaving years off repayment times,” he said. “We shouldn't forget that this is $9 billion of interest-free debt – effectively a saving of half a billion dollars a year in interest that would have been paid under the old scheme. On average, this represents a saving of just under a thousand dollars for every student every year.”  
+Other achievements listed by Dr Cullen included stabilising fees, removing interest on loans while students studied, expanding scholarships for students and consistently raising living allowances and eligibility. “We have achieved much in the last seven years and there is still more to do,” he said. “We will continue to improve access to allowances. The current reforms of the tertiary-funding system will also give students more confidence that the education they are investing in is of high quality and meets their needs.”  
+Dr Cullen said that, according to OECD figures, New Zealand devotes a higher proportion of its tertiary-education spending to financial support for students than any other developed country. “If you were a student in Australia, the United States or the United Kingdom, you would pay far-higher fees and face far-greater debt to pay for your tertiary education,” he said.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Fee decision shows lack of leadership, say students  
+2\. Graduates earn premium income  
+3\. More support for top doctoral students  
+4\. Life easier for student-loan borrowers  
+5\. Victoria continues to attract Kiwi students  
+6\. US summit decides on higher-education action items  
+7\. UK university celebrates record-breaking VC  
+8\. Strike reprieve at CSU, settlement at Philadelphia  
+9\. Fallout widens from Macquarie dispute
+
+Fee decision shows lack of leadership, say students  
+Monday’s decision by Victoria University to go ahead with an application to increase student-tuition fees in Humanities and Social Sciences, Education, Architecture and Law by 10 percent on 2006 levels from the second trimester of this year has been labelled by students a severe and systemic lack of leadership.  
+The President of the Victoria University of Wellington Students’ Association, Geoff Hayward, says that the University’s application to the Tertiary Education Commission (TEC) for an exemption from the Government’s fee-maxima regulations indicates an unwillingness to find sources of revenue other than by passing the buck to students.  
+Under the fee-maxima regulations, tertiary-education institutions cannot increase tuition fees by more than 5 percent in any year without specific permission from the TEC. Victoria applied for exemptions to the fee maxima in both 2005 and 2006, only to be turned down on each occasion.  
+Mr Hayward said that, once again, students will bear the brunt of a tactic that failed in 2005 and 2006. “It seems that the University has forgotten that the definition of insanity is doing the same thing over and over again, while expecting different results,” he said. “Raising fees undermines the University’s own strategic goals. It will only be a matter of time until Wellington is seen as an unfriendly city for students.”  
+Meanwhile, the New Zealand Union of Students’ Associations (NZUSA) has condemned the University’s move, describing it as reckless. “Victoria’s Council has taken the easy road out and focused solely on students in order to increase revenue. This is a failed tactic that serves only to indebt students further and does little to address government underfunding,” said Joey Randall, NZUSA Co-President. “We hope the Tertiary Education Commission has more sense than the majority of the current Victoria Council and rejects their claim for \[an additional\] 5 percent fee increase as they did in 2006.”
+
+Graduates earn premium income  
+The premium paid by employers to graduates with a bachelor’s degree is higher than for any other qualification, but the premium paid in relation to higher qualifications increases over time, according to research published this week by the Sector Indicators and Monitoring Unit of the Ministry of Education.  
+Graduate Income Premium, part of an Education and the Labour Market report, says that the success of an education system is manifested in, among other things, the success of individuals in finding sustainable employment as well as the level of wages that employers are willing to pay for the skills and knowledge the individual brings to a job. Not surprisingly, it adds that there is a substantial body of evidence that shows that those with higher levels of education are more likely to participate in the labour market, face lower risks of unemployment, have greater access to further training and receive higher earnings on average.  
+The report says that, in 2002, those who completed a bachelor’s degree in 1997 earned 31 percent more than those who started a degree at the same time, but did not complete. Those who completed diplomas had the highest premium for completion, at 19 percent, while the lowest premiums were for those who completed a postgraduate qualification.  
+Higher levels of study show increasing premiums five years after study compared with the premium enjoyed three years after study. At lower levels of study, however, completion of a qualification carries a decreasing premium over time.  
+While females generally earn less than males with an equivalent qualification, the report says that females enjoy a higher premium for completion of tertiary education than males over all qualifications combined. Five years after successfully completing a qualification, females earned 29 percent more than females who started but did not complete a qualification. The corresponding premium for males was 23 percent.  
+The report can be viewed at:  
+http://educationcounts.edcentre.govt.nz/indicators/edachievmnt/tspar33.html
+
+More support for top doctoral students  
+The Minister for Tertiary Education, Dr Michael Cullen, announced this week that fifty top New Zealand doctoral students have been awarded scholarships worth more than $4.7 million over the next three years. The Top Achiever Doctoral Scholarships are awarded to students undertaking research in a variety of disciplines at a New Zealand or overseas tertiary institution. If research is done overseas, the student must return to New Zealand on the completion of the scholarship for a period equal to that of the scholarship. Since December 1999, when the first of these scholarships were awarded, almost $68 million has been awarded to 678 scholars, including the latest recipients.  
+“Top Achiever Doctoral Scholarships are a great investment in our brightest scholars who are involved in the types of research that are underpinning our transformation into a knowledge economy,” Dr Cullen said. “The scholarships also build on the Labour-led Government's policy of expanding support for students through interest-free student loans, fee stabilisation and improved allowances.”  
+Examples of the fields of study receiving the newly awarded Top Achiever Doctoral Scholarships include research on developing a vaccine for treatment of cancer patients, development of a rigorous financial-risk-assessment tool for loss estimation in case of earthquakes and research on motivations and behaviours of people who are interested in building environmentally sustainable homes.  
+The list of successful recipients can be found on the TEC website:  
+http://www.tec.govt.nz/templates/standard.aspx?id=673
+
+Life easier for student loan borrowers  
+The passage today of the Student Loan Amendment Bill will make life easier for borrowers who are overseas and simplify the administration of the student-loan scheme, according to the Minister for Tertiary Education, Dr Michael Cullen, and Revenue Minister Peter Dunne.  
+The main changes for borrowers who are overseas include a repayment holiday of up to three years, new repayment obligations, extension of interest-free loans to full-time undergraduates and extension of the amnesty for those who have fallen into arrears with their payments.  
+Other changes arising from the Bill include a reduction in the late payment penalty for all borrowers and allowing data-matching between Inland Revenue and Customs to ensure correct entitlement to interest-free loans.  
+According to Dr Cullen, the changes bring the student-loan-scheme rules into line with the aims of interest-free loans, one of which is to reduce barriers to the return of skilled New Zealanders. “The new rules recognise that it is not always easy for people to repay their loans while doing their OE and working in holiday jobs, so it is probably unrealistic to expect them to make regular repayments under those circumstances,” he said. “By making it easier for them to repay their student loans and avoid mounting debt, we remove a disincentive for them to return to New Zealand when they are ready.”  
+The changes take effect from 1 April.
+
+Victoria continues to attract Kiwi students  
+Victoria University says its domestic-student enrolments for the first trimester of 2007 are showing a 5 percent increase over last year, leading to a claim that it is now a destination of choice for tertiary-education study. The University says its domestic equivalent full-time student (EFTS) numbers are at just under 13,000, while its overall EFTS are 14,370, 2 percent higher than at the same time last year. International EFTS are 1,466, 18 percent down on last year.  
+Victoria Vice-Chancellor, Professor Pat Walsh, said the increase was due to a combination of the University’s recruitment strategies, its reputation for providing high-quality teaching and research and Wellington’s reputation as a student-friendly city. “Victoria continues to provide top-quality teaching and research that feed into high-quality degree, diploma and certificate programmes that are keenly sought by students,” he said. “We have also had a healthy increase in enrolments in our teacher-education programmes.”  
+Professor Walsh said that Victoria also continues to undertake an active recruitment programme throughout New Zealand, with many of the new enrolments first-year students and increasing numbers from areas outside Victoria’s traditional catchment of the lower North Island and upper South Island. “Wellington is also increasingly being seen by students as a great place to live and study and \[this\] reflects our strong partnership with the Wellington City Council. The exciting, vibrant cultural and social life of the city provides our students with a much-needed change in pace from their studies,” he said.  
+Professor Walsh said the decline in international student numbers was not unexpected and was affecting the whole tertiary-education sector.
+
+Worldwatch  
+US summit decides on higher-education action items  
+Nearly 300 leaders from United States business, higher education and philanthropy convened a summit late last week to discuss how to carry out recommendations from the US Secretary of Education’s Commission on the Future of Higher Education. By the end of the summit, they had produced a list of twenty-five “action items”, but no plan on how to put them into practice.  
+The summit, dubbed A Test of Leadership, was the Department’s effort to get state and local governments, businesses and philanthropic groups to take ownership of the Commission's recommendations. Chief among the recommendations is the creation of a national system, known as a “unit record” database, which would track students’ progress through college, the simplification of the Federal financial-aid application process and the provision of grants to colleges and states that test their students and report the results.  
+During the summit, the Department tried to create a sense of urgency among participants, warning of impending disaster if college-graduation rates did not improve. The Under-Secretary of Education, Sara Martinez Tucker, appealed to them, saying that this is the time for all Americans to have access to higher education. “This is the generation we can’t afford to lose,” she said.  
+From the Chronicle of Higher Education
+
+UK university celebrates record-breaking VC  
+Keele University in the United Kingdom has set the benchmark for salary increases, awarding its Vice-Chancellor, Janet Finch, what has been described as a whopping 31.7 percent pay rise. Finch’s increase is ten times greater than that awarded to lecturers and the largest awarded to any vice-chancellor in the last year, taking her salary to £212,000. According to local paper, The Sentinel, this makes Finch the twenty-third most highly paid university boss nationwide and better off than vice-chancellors at Cambridge, Warwick and Edinburgh.  
+At the same time, recently released figures show that Keele has suffered the fourth-biggest drop in student applications in the whole of the UK, with around 1,000 fewer applications for undergraduate courses starting this academic year.  
+Sally Hunt, General Secretary of the University and College Union (UCU), told The Sentinel that the handsome rewards dished out to university bosses sent out the wrong message to staff. “Their pay rises come in a year when staff workloads have continued to increase, class sizes have remained unacceptably high and job security remains a distant aspiration for thousands of fixed-term or hourly-paid academic and related staff.”  
+In an email to staff, however, UCU sympathetically noted that Finch’s salary boost was her first since 2003 and her wages are now frozen until 2009, offering some comfort to lecturers as they face another evening meal of pot noodles and boiled cardboard.  
+From The Times Higher Education Supplement
+
+Strike reprieve at CSU, settlement at Philadelphia  
+Faculty staff and administrators locked in an employment contract dispute which has lasted almost two years at California State University have agreed to a temporary extension of the current contract in an attempt to ward off a threatened strike.  
+Officials said that the ten-day extension gives both sides time to hammer out an agreement under guidelines in an independent report which recommends an almost 25 percent pay raise for California State University’s faculty.  
+This month, California State University instructors voted by 94 percent to authorise strike action during April. This would have resulted in potentially the largest faculty walkout in the history of US higher education, involving 24,000 staff and affecting up to 400,000 students.  
+While University administrators say they are confident a settlement can be reached, union officials said that, despite the extension, faculty continued to prepare for a series of two-day strikes in April in case agreement is not reached.  
+Meanwhile, the faculty union and the administration at the Community College of Philadelphia reached a tentative agreement on Sunday to end a strike that started on 13 March and has halted classes since then. A statement from the College said only that a proposed settlement had been reached and that the deal would be presented for approval to the union membership and the College’s Board.  
+During the negotiations, the union repeatedly accused the College of failing to release necessary financial information and of spending money foolishly, limiting the funds available for student and faculty needs.  
+From the Chronicle of Higher Education
+
+Fallout widens from Macquarie dispute  
+A State audit of all New South Wales university vice-chancellors’ employment contracts is under way following the well-reported stoush between the current and former chiefs at Macquarie University in Sydney.  
+University bosses across the sector have watched uneasily as the row between Macquarie Vice-Chancellor Steven Schwartz and his predecessor, Di Yerbury, played out in the public arena this year. Many believe that it has caused significant damage to the reputation of the sector.  
+Yerbury’s departure followed a public dispute with Professor Schwartz about the ownership of 125 boxes of documents and $12 million in artworks, including the one of her now-famous bum.  
+Meanwhile, sources say that Macquarie University has referred an audit investigation into its international division to the NSW Independent Commission Against Corruption. The report into Macquarie International's expenses reveals, among other things, a $770 taxi fare and a $400,000 fee to the daughter-in-law of the former Macquarie Pro Vice-Chancellor (International), for graphic-design services.  
+From The Australian
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

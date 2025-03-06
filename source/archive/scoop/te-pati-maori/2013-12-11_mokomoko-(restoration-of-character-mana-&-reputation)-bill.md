@@ -1,0 +1,84 @@
+---
+slug: mokomoko-(restoration-of-character-mana-&-reputation)-bill
+title: "Mokomoko (Restoration of Character, Mana, & Reputation) Bill"
+date: 2013-12-11
+source-url: https://www.scoop.co.nz/stories/PA1312/S00245/mokomoko-restoration-of-character-mana-reputation-bill.htm
+author: te-pati-maori
+---
+Mokomoko (Restoration of Character, Mana, & Reputation) Bill
+============================================================
+
+**Wednesday, 11 December 2013, 3:00 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Tariana Turia  
+Māori Party Co-Leader | MP for Te Tai Hauāuru
+
+11 December 2013
+
+**Mokomoko (Restoration of Character, Mana, and Reputation) Bill - Third Reading**
+
+I move, _That the Mokomoko (Restoration of Character, Mana, and Reputation) Bill be now read a third time_.
+
+Tena koutou e te whanau a Mokomoko.
+
+Today we honour Te Whakatohea rangatira Mokomoko and the generations of his family. This bill, the Mokomoko (Restoration of Character, Mana, and Reputation) Bill gives legal effect to the agreement to introduce legislation to give statutory recognition to the Mokomoko pardon signed by Dr Pita Sharples on behalf of the Crown, and Tuiringa Mokomoko, on behalf of the whanau, at Waiaua marae on 28 September 2011. A large number of whanau gathered that day, kaumatua, pakeke and rangatahi who also signed in support. I mihi to the whanau today gathered in the House and acknowledge the long journey that they have travelled to see justice for their tupuna.
+
+As the world mourns the loss of a great leader and pays tribute to the long walk to freedom that represented his life, it is indeed fitting to consider the influence of his example across many lands including those who act as a similar force for change here in Aotearoa. I want to note the contributions of Tuiringa Mokomoko and Matenga Biddle. Both passed away shortly before the first reading of this bill. During their lives, Tuiringa and Matenga helped carry the burden of this kaupapa and helped guide their whanau forward. I think of them now and the enduring legacy that they have left behind for their mokopuna to inherit. Moe mai ra korua, moe mai ra.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+This bill will formally restore the character, mana, and reputation of their tupuna Mokomoko, a rangatira of Te Whakatohea, who was executed by the Crown in 1866 for his alleged involvement in the murder of Rev. Carl Volkner. Some in this House will vividly recall that 19 years ago a free pardon was provided to Mokomoko for his role in this event. For others, that history may be less well known and my hope is that with this legislation we as New Zealanders understand the grief that has haunted successive generations and learn from it.
+
+I want to emphasise the significance of this bill to the descendants of the Mokomoko whanau. It progresses the Crown’s express undertaking to restore the character, mana, and reputation of their tupuna Mokomoko and of the whanau by providing statutory recognition of the free pardon. It represents the efforts of the leadership group to bring this issue to the Crown’s attention and to enable the whanau to finally start their healing process.
+
+The bill is a sign of the Crown’s commitment to restore its relationship with the whanau by expressing its regret that the shame and stigma carried by them was not remedied by the pardon that was provided in 1992. Tried and sentenced to death for the murder of Carl Volker, throughout his trial Mokomoko maintained his innocence.
+
+The suffering, shame, and stigma associated with his whanau from the alleged involvement of their tupuna in those events has been carried by generations. Today we address the shame and stigma carried by those generations—shame and stigma that should never have been theirs to bear. It has been a burden few families have ever, ever had to bear—a burden that saw the public execution of their tupuna Mokomoko at Mt Eden stockade just after 8 a.m. on the morning of Thursday, 17 May 1866. It is a burden that months earlier saw their tupuna the hoa rangatira of Mokomoko, Kimohia, repeatedly raped, and bayoneted to death by Government soldiers. What sort of shameful history are we all a part of?
+
+It is a burden that saw Crown soldiers who raided the lands of Whakatohea killing civilians, burning homes, and destroying crops. It is a burden that saw hundreds of thousands of acres of land that was taken by the Crown within the rohe of Whakatohea, Ngati Awa, and Tuhoe. It has been a burden that has seen generations of these descendants wrongfully blamed for this unjust, appalling raupatu and killing.
+
+Over 147 years, through generations, this family has fought to clear the name of their tupuna, the name of their whanau, and they have fought to see justice pass. After generations of struggle a free pardon was granted for Mokomoko in 1992. This should have been a constructive step for the whanau. The Crown’s intention was right, but the way that the pardon was provided compounded their grievance. The Crown did not consult whanau on the wording of the free pardon. The wording, in fact, implied it was only done because of similar pardons provided to the co-accused of Mokomoko. It did not expressly restore his character, mana, and reputation, nor the character, mana, and reputation of his uri, and it did not record the pardon in statute.
+
+As a result, we the Crown perpetuated the shame and stigma endured by this whanau, and for that, on behalf of the Crown, I fully and unreservedly apologise. This bill intends to correct those omissions. The whanau has consulted closely on the wording of this bill, and I hope it will in some way go to restoring the character, mana, and reputation of their tupuna and their whanau.
+
+I want to mihi to this whanau once more for their courage and foresight in proposing to the Maori Affairs Committee that the recognition for their tupuna be provided in both Te Reo Maori and in English. Enacting legislation in Te Reo and in English is a first for our Parliament. Currently, Standing Orders enable members to conduct many aspects of the business of Parliament in Te Reo Maori, if they choose. This is the logical next step. It is a truly historic development, and I thank you. I want to acknowledge the committee for this huge step that it has taken in establishing a precedent that is based on Te Reo Rangatira.
+
+The committee also noted the whanau request for the wider historical narrative to be told and for an apology from the Crown. The committee noted that these issues will be addressed appropriately through future historical Treaty settlements. Until then I will, on behalf of the Crown, apologise to the whanau for perpetuating the shame and stigma heaped on te whanau a Mokomoko.
+
+I do note that the preamble records the background to the treatment of Mokomoko and the men of Ngati Awa in relation to the murder of Carl Volkner and the Waitangi Tribunal’s findings in 1992 of a free pardon. In this respect the bill is confined to correcting omissions related to the 1992 free pardon. It restored the mana of te whanau a Mokomoko. Much of the history has been recorded by the Waitangi Tribunal and its Ngati Awa Raupatu report into Te Urewera Part 1 report. This will form the basis of discussions to be held with the Crown to settle historical Treaty claims. When this bill first came before the House earlier this year a reporter asked a whanau elder to tell her what motivated him and the koroua replied that his motivation was quite simple: _“Our tupuna, our whanau, our hapu, iwi, and our children, and their children, and their children, and their children. We may not be the greatest whanau in the world, but we are loyal, we have fought for our country, we are humble people, and we have big hearts.”_
+
+We say to that whanau who have big hearts that this is a huge understatement. Their incredible spirit of generosity enables us to stand before them today. The Crown is standing alongside them today to look at the past with our eyes wide open and we do not look away. All those things that this whanau have suffered and lost due to the actions of the Crown can never be replaced or forgotten and yet today they are here. Their presence honours this Parliament.
+
+Arrested, tried, and convicted, and finally executed by the Crown while in prison, Mokomoko composed a waiata that has become a guiding philosophy for generations of whanau.
+
+_‘Tangohia te taura i taku kaki, kia waiata au i taku waiata_  
+_Take the rope from my throat that I may sing my song,’_
+
+Today we pay tribute again to nga uri o Mokomoko who, like their tupuna, have had the strength to speak up, who have refused to let the truth be silenced, who are the reason why we are gathered here today to pass milestone legislation not just in the history of their family but in the history of our nation. Today we consider legislation that seeks to restore the character, reputation, the mana of a man, a rangatira, and his whanau.
+
+The dying words of Mokomoko were words that have never been far from his descendants’ hearts: “_E mate harakore ana ahau, tena koutou Pakeha, hai aha. I die an innocent man. Farewell Pakeha. So be it.”_
+
+Tena koutou e te whanau. Tena koutou. I mihi to you and to your tupuna for having the strength, the mana, and the determination to speak up so that the truth will not be silenced. Thank you for your courage, for your compassion, your enduring patience and your willingness to forgive. This nation is better because of your generosity. Na reira, tena koutou, tena koutou, tena tatou katoa.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

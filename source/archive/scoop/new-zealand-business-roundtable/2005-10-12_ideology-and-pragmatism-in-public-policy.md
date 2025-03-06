@@ -1,0 +1,162 @@
+---
+slug: ideology-and-pragmatism-in-public-policy
+title: "Ideology And Pragmatism In Public Policy"
+date: 2005-10-12
+source-url: https://www.scoop.co.nz/stories/BU0510/S00183/ideology-and-pragmatism-in-public-policy.htm
+author: new-zealand-business-roundtable
+---
+Ideology And Pragmatism In Public Policy
+========================================
+
+**Wednesday, 12 October 2005, 11:16 am**  
+**Speech: [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable)**
+
+11 October 2005
+
+### 
+
+Ideology And Pragmatism In Public Policy
+
+Roger Kerr Executive Director Wellington New Zealand Business Roundtable
+
+_Delivered at Stokes Valley Rotary Club_
+
+An exchange at the meeting between representatives of the Green Party and the business community in Wellington a fortnight ago stimulated the reflections in this talk. One of the Greens present described support for free trade as an ‘ideological’ position. What did the speaker mean by ideological, I wondered? After all, Adam Smith, Karl Marx and John Maynard Keynes were all free traders. A pretty broad ideological spectrum, you might think.
+
+That’s not the first time I’ve had occasion to reflect on the term ideology, of course. Critics of New Zealand’s post-1984 economic reforms bandied it around freely. Indeed, as a recent book on globalisation put it:
+
+_It is close to a conventional wisdom that over the past two decades a group of ideological fanatics, called ‘neo-liberals’, have succeeded in imposing their creed on an innocent humanity, at the expense of democracy, prosperity, equality, the environment, human rights, decent treatment of labour and, indeed, everything that is good and wholesome. This view of the history of the past two decades is almost entirely mistaken._
+
+_First, while liberal ideas (not ‘neo-liberal’, since that is an incomprehensible piece of neo-Marxist jargon) have made progress over the past two decades, they have not done so through the offices of passionate liberals. On the contrary, the policy changes that go under the heading of ‘neo-liberal’ have been introduced as often by long-standing socialists and communists as by parties that would be considered on the political right. The principal reason for this transformation was failure of the alternatives, symbolized so powerfully by the collapse of the Soviet empire between 1989 and 1991._
+
+_
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+
+
+
+
+
+
+_
+
+_For a time, some theoreticians of the left, including some in New Zealand’s Labour Party, tried to find a ‘third way’ between socialism and a market economy. The project failed; we seldom hear talk of the ‘third way’ today. In reality, the drive behind the market-oriented reforms in New Zealand was the practical recognition that alternative policies had been tested to destruction. The focus of the reformers was on policies that worked – as demonstrated by orthodox economic reasoning and results.
+
+The Business Roundtable’s approach has been based on the same principles, firmly grounded in experience. Nevertheless, it is still sometimes put to me by critics that our proposals are ‘ideological’ as opposed to ‘pragmatic’. This contrast is false. Everyone involved in the debate about public policy argues on the basis of some set of principles or ideas, whether
+
+or not they are conscious of them or make them explicit. Conversely, those who want their ideas to have an impact on public policy have to be ‘pragmatic’ in the sense that they must pay some regard to the practicability of their proposals and the compromises that may be necessary in implementing them.
+
+The attempt to endow the term ‘ideological’ with unfavourable connotations and ‘pragmatic’ with favourable ones likewise involves a certain sleight of hand. The Oxford English Dictionary (2nd edition) gives the following as the primary meaning of ‘ideology’:
+
+_The science of ideas; that department of philosophy or psychology that deals with the origin and nature of ideas._
+
+No problem there, then. As the secondary meaning it offers this:
+
+_Ideal or abstract speculation: in a deprecatory sense, unpractical or visionary theorizing or speculation._
+
+Note that even this secondary meaning is not necessarily ‘deprecatory’. There is nothing intrinsically wrong, and much intrinsically right, with ‘ideal or abstract speculation’, even though the word ‘ideological’ can be used in a way that conveys disapproval of it.
+
+What then about ‘pragmatism’? One Oxford dictionary definition is “matterof- fact treatment of things; attention to facts”. That’s certainly something to aspire to. A further, political meaning is attributed to the term, and it’s this that our critics have in mind:
+
+_Theory that advocates dealing with social and political problems primarily by practical methods adapted to the existing circumstances, rather than by methods which have been conformed to some ideology._
+
+I see nothing wrong with employing “practical methods adapted to existing circumstances”, but the issue is the implied contrast with “ideology”. That may or may not exist. An ideologue, to use the term in a pejorative sense, will use methods sanctioned by an ideology even if they cannot be “adapted to existing circumstances”.
+
+There is no sense in which a policy can be correct in theory but wrong in practice: if the practice goes wrong, the theory is defective (as socialism demonstrated). But the deeper point is that, whatever practical methods are used, there has to be some body of ideas that explains why they work, even if those who employ those 3 methods are unaware of them. Understanding what works and what doesn’t – which we need to do if we are to improve our practices – involves grasping the theory behind it.
+
+What many critics are doing, however, when they draw a contrast between the ‘ideological’ and the ‘pragmatic’ is to use these terms as codes respectively for ‘less government’ (meaning that it’s bad) and ‘more government’ (meaning that it’s good). For example, David Skilling of the New Zealand Institute is reported in the National Business Review of 6 August 2004 as advocating a move away from a policy of avoiding distortions in the private sector to a policy of selective intervention. He is quoted as saying:
+
+_This is a less pure, more pragmatic approach to economic policy that is aimed at crowding-in economic activity and assisting New Zealand business to create wealth, and is less concerned about the possibility of crowding out.1_
+
+It isn’t obvious why a policy of greater intervention should be “less pure”, “more pragmatic” or more desirable than one of less intervention. Surely the focus should be on which works better? Answering this question requires some theory about how government intervention affects the economy and society. As the saying goes, there’s nothing so practical as a good theory. What matters is which of the alternative theories is the sounder, and that comes down to which of them is more consistent with the evidence, as well as the values that they embody or promote. I’m happy to defend the Business Roundtable’s proposals on those terms. But let’s get away from the false notion that certain policies are somehow ‘pragmatic’ by definition, as if we know in advance that they will work, whereas others are ‘ideological’, as if they are supported regardless of whether or not they work.
+
+Once we have agreed that all positions about the role of government rest on some general idea, or ‘theory’ if you like, about how government works, to characterise policy proposals as either ‘ideological’ or ‘pragmatic’ is at best a confusion and at worst a rhetorical trick that appeals to antiintellectualism as a substitute for serious argument.
+
+Of course, there is always a market for anti-intellectualism, that is, an impatient insistence that 1 http://www.nbr.co.nz/home/column\_article.asp?id=9796&cid=18&cname=Opinion 4 we don’t need theories because the facts, once we have them, speak for themselves. But facts never speak for themselves. Even the simplest combination of data gives rise to controversy about how it should be interpreted (just consider, for example, the endless debate about the link between gun control laws and gun-related crime). Interpretation involves drawing some general idea, whether sound or not, about how the world works. Serious policy debate cannot proceed unless these ideas are articulated and tested.
+
+We can see why arguments for less government attract the label ‘ideological’ and those for more government ‘pragmatic’. The case for less government often rests on chains of cause and effect that may be long and even invisible, whereas the case for more government typically moves swiftly (if often deceptively) from problem to intervention to solution in an uncomplicated way.
+
+For example, the protectionist can point to the benefits of import controls in terms of the jobs that have been saved (at least for the moment), but the free trader can’t so easily point to the costs of protectionism by identifying the jobs that protection destroys or prevents being created. Understanding the case for limited government requires a certain effort of analysis and a willingness to evaluate a wide range of evidence.
+
+Not everyone is prepared to make such an effort, yet there is a theory (or idea) behind protectionism just as there is behind free trade. Interestingly, free trade is a case of a policy that is ultimately justified more on practical than theoretical grounds. To be sure, it rests on the fundamental economic principle of comparative advantage, but there are a number of theoretical arguments for departing from that principle: optimum tariff notions, strategic trade theory, infant industry arguments and the like.
+
+As a matter of practical policy, however, the vast majority of professional economists put aside these theories as unworkable and come down on the side of free trade, and the evidence is overwhelming that open economies outperform closed ones. The Greens, however, seem impervious to facts: their opposition to free trade does seem to be a matter of pure ideology.
+
+For reasons I’ll explain in a moment, it is ironic that Keynes, arguably and unfortunately perhaps the most influential economist of the twentieth century, should have stressed the importance of ideas, even for self-styled pragmatists. As he wrote:
+
+_The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed, the world is ruled by little else. Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist. Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back . . . Sooner or later, it is ideas, not vested interests, which are dangerous for good or evil._
+
+The irony of this is that Keynes himself became a major example of those “defunct economists” who enslaved “practical men”. It was Keynes’s prescription that the balanced budget rule should be abandoned in times of recession that, more than anything else, facilitated and legitimised the socalled ‘pragmatic‘ growth of government after World War II by appearing to release policy makers from so-called ‘ideological’ constraints.
+
+That was emphatically not Keynes’s intention; he argued that budgets should be balanced over the economic cycle, and that deficit financing during recessions should be followed by surpluses during booms. But, as he himself said, “ideas . . . are dangerous for good or evil.”
+
+Once the idea that governments could routinely borrow to cover current spending had gained ground in the wider society, why should they hold back? It took years of inflation, recession and generally disappointing economic performance to get that particular genie back into the bottle, and even now one wonders how secure the cork is.
+
+To make it more secure, New Zealand is one country that implemented a Fiscal Responsibility Act to require governments to follow Keynes’ rule that budgets should be balanced over the economic cycle. Finance minister Michael Cullen has recently re-enacted that legislation: he obviously doesn’t regard the balanced budget provision as ideological or undemocratic.
+
+But when the Business Roundtable suggested, on largely pragmatic grounds, that because of New Zealand governments’ tendencies to excessive and wasteful spending, the rule should be supplemented by a tax and expenditure limitation, whereby spending growth should be constrained to the rate of population growth plus inflation unless a government got support from taxpayers for higher spending via a referendum, Dr Cullen denounced the proposal as ideological and undemocratic.
+
+Yet in response to democratic pressures, many US states and several countries with governments of different political persuasions have adopted such a rule or variants of it. As the Americans say, go figure! Another area where those who bandy around the term ideology should look at themselves in the mirror is the ownership of commercial enterprises. Socialist ideology embraced the notion of “public ownership of the means of production, distribution and exchange”.
+
+Our current government is against privatisation of state-owned enterprises, and indeed has moved down the path of nationalisation. Yet the evidence is now compelling that – not always, but on average and over time – privately owned enterprises outperform state-owned enterprises in competitive environments, and it is the general rule that should inform sound public policy. Governments should not bet against the odds with taxpayers’ money.
+
+Thus while a body of economic literature has grown up explaining why private ownership of commercial enterprises is generally superior to state ownership, the fundamental argument for privatisation is pragmatic: it works. Another point to make is that, just as ideas are inescapable, as Keynes argued, so too is pragmatism, in the sense that in all walks of life we have to make compromises. Business people compromise and do deals the whole time.
+
+Yet in a business setting, pragmatism without an eye to principles and long-run goals (for example, maximising shareholder value) can be ruinous. The same is true in politics. Politics has been described as the ‘art of the possible’, and that is true as far as it goes. Yet we need to add two qualifications that preserve a role for ideas in politics.
+
+First, in making political compromises politicians should still observe certain principles: they can avoid what we recognise and condemn as expediency. For example, in the war on terror that some Western governments are waging, politicians may be tempted to scrap all the normal safeguards against the abuse of state power and to lock up terrorist suspects indefinitely subject to minimal procedures or none at all.
+
+Alternatively, even where they suspend habeas corpus and detain suspects without charging them, they can set up procedures to review cases and hear appeals. These are matters of practical judgment. Sometimes politicians get it right, sometimes they don’t, but the point is that we do expect them to marry necessity with principle so that certain important values are preserved.
+
+Even in a dire emergency, it isn’t necessary for governments to arrogate to themselves absolute power and entirely evade the rule of law. Thus we need to distinguish between principled pragmatism and unprincipled expediency. The importance of that distinction, rather than the one between ideology and pragmatism, is perhaps the central message of this talk.
+
+The second qualification to the idea of politics as the ‘art of the possible’ that preserves a role for ideas is that politicians can be guided by long-term goals as well as short-term ones. Any government is inevitably preoccupied with winning the next election, as indeed is the opposition.
+
+But it’s possible to do this with an eye on longer-term political achievements. Politicians who leave a positive mark on history are those who can make the necessary skills of everyday political survival serve the higher purpose of achieving long-run benefits for their nations. In recent history Margaret Thatcher is an outstanding example of such a politician. She won three successive elections but also carried out a counter-revolution in British economic policy that greatly expanded conceptions of what was ‘politically possible’ in other countries as well.
+
+What is perhaps less well known is that Thatcher was also a cautious politician who usually knew when and where she had to compromise. She avoided the inevitable showdown with the coal miners’ union by making concessions to it where necessary over several years, and stood firm against it only when she was certain to win. Whether reforming governments of the 1980s and 1990s could have gone further without destroying their bases of support is debatable. Sir Roger Douglas has always argued that it was when they called off their reform drives that such governments lost support.
+
+But their success in maintaining political and electoral support as they abandoned failed economic policies testifies to the ability of ordinary democratic politics to accommodate necessary change. Those who like to label the reforms of the Lange-Douglas government as anti-democratic conveniently overlook the fact that it was re-elected in 1987 with an increased majority.
+
+Traditionally, the acceptable visions in democratic politics have been placed on a left-right spectrum that signifies positions on the desirable size of government and degree of redistribution. As these positions represent value judgments they cannot ultimately be proved or disproved, but they can be rendered more or less plausible or practical in the light of evidence and argument.
+
+Political parties that want to see their values successfully embodied in public policy have to be open to new ideas. Much of what is ‘ideological’ in politics, in the pejorative sense of being impractical, comes from institutionalised attachment to means rather than ends; more exactly, the adoption or retention of particular measures (like state ownership of enterprises) becomes an end in itself, regardless of whether those measures have the effect that is claimed for them.
+
+I would argue, for example, that if the political ‘left’ is seriously committed to social justice it has to generalise from the experience of economic reform to reform of the welfare state.
+
+Centrally planned and controlled education and health systems have no more chance of realising egalitarian aspirations than did our old economic regime of regulations and state ownership, because they too inevitably operate primarily in the interests of their employees (such as the members of teachers’ and nurses’ unions) rather than the general public.
+
+Correspondingly, those on the political ‘right’ who favour a greater role for the private sector need to attend to the issues of corporate governance raised by cases of corporate wrongdoing, primarily by ensuring that existing laws are enforced and by strengthening the property rights of shareholders against the possibility of malpractice by management. They should also seek to overcome the old-fashioned, debilitating employer-employee divide by promoting fully contractual relationships in which all aspects of life in the workplace can be negotiated.
+
+This brings us back to policy think tanks like the Business Roundtable. Precisely because the pressure on politicians to compromise with immediate interests for short-term gain is so great, their job is to frame and publicise the ‘first-best’ versions of policies for politicians to work with.
+
+They do need to make pragmatic judgments about which new policy ideas are likely to be entertained by public opinion, and to present them in imaginative and appealing ways. However, their mission must be to expand the politically possible, mindful that what today is accepted as conventional wisdom yesterday seemed controversial and radical. In principle, they act as conduits between, on the one hand, the pure theoreticians, researchers and academics who are professionally committed to the pursuit of knowledge wherever it takes them, and, on the other hand, the politicians who introduce the policies that embody new knowledge.
+
+The Business Roundtable has seen its role as being to engage in advocacy that is accessible to lay people (as the products of original research are likely to be) and is not diluted by the pressure to placate special interests that politicians are subjected to all the time. By taking ideas and evidence seriously, it aims to make it easier for politicians to introduce new and better policies.
+
+Politicians, for their part, are the ones best placed to judge what is politically possible, and the practical ways of implementing better policies. But the most admired politicians are not those who timidly preside over the status quo; they are the political entrepreneurs with the will and ability to persuade voters why changes will benefit them and future generations. In doing so, they will invariably need to be armed with a body of ideas that explains why the changes will work. Principled pragmatism of this kind, with a sound conceptual base, is the best strategy for advancing good public policy.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable) on InfoPages._

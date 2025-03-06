@@ -1,0 +1,185 @@
+---
+slug: judd-speech-beyond-the-tipping-point
+title: "Judd Speech: Beyond The 'Tipping Point'"
+date: 2003-11-03
+source-url: https://www.scoop.co.nz/stories/PA0311/S00007/judd-speech-beyond-the-tipping-point.htm
+author: act-new-zealand
+---
+Judd Speech: Beyond The 'Tipping Point'
+=======================================
+
+**Monday, 3 November 2003, 8:48 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+  
+Beyond The 'Tipping Point'
+
+Catherine Judd Speech
+
+Address to ACT Waikato/BOP Regional Conference, Quality Inn, Hamilton, Saturday 1 November 2003
+
+Thank you for attending today.
+
+It has been a memorable week in politics. The return of our absent Party Vice President Vince Ashworth, has been one of the highlights for me this week. I'd like to acknowledge the wonderful job Diane Mulcock has done as acting Vice President, and thank her for attending today. It is good to have you back Vince and wonderful to see you and Mae here today.
+
+And yes, there has been that other matter, the election of Don Brash as the new National Party leader. In the days that have followed Don's election he has already had a positive impact in spelling out National's traditional, fundamental values and its vision for New Zealand.
+
+At our Upper South Regional Conference in Christchurch Don described New Zealand as A Nation In Peril . I should note by the way that it's the first time a National Party leader has addressed one of our conferences - even if we didn't know it at the time. It was indeed the same conference that Hon Ruth Richardson believed would be a \`tipping point' for the centre right. History will be the judge of that.
+
+In his speech Don described the dramatic fall in our standard of living relative to Australia and the United States over the past 50 years.
+
+He reminded us that we are the most heavily indebted developed country on the planet; that we have a third-world health system; that we have an education system that leaves substantial numbers of people almost totally illiterate and innumerate; that our tertiary institutions are "gasping for help" and that "we have 350,000 working age adults and their children - in total, equal to the population of Dunedin and Christchurch combined - out of work, on welfare, and seemingly condemned to a life of dependency."
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I know that as a Party we would endorse Don's diagnosis of New Zealand's core problems.
+
+ACT and National also share common goals for New Zealand.
+
+However our two parties travel to the beat of a different drum. Our march is the advance of liberalism - that is the realisation, enlargement and defence of liberty and individual freedom, subject to the rule of law and moral standards. ACT wants the state to perform its important roles - above all, to protect individuals and their property - but we want to restrict the powers and functions of government so as to give full scope for individuals, families and enterprises to thrive and prosper. We want to change the way people think about government and its relationship to individuals.
+
+That is our mission, and that means that ACT is a party of influence, not a party of government. We can pursue our mission from the cross benches or from within government, or from alongside it.
+
+Today I address you as the President of a Party that is pursuing its mission with great vigour and a growing sense of urgency.
+
+Last month our Parliamentary team organised an outstanding Foreshore, Law & Politics conference. It was a great day, attended by over 190 people and included an impressive line-up of overseas and local speakers.
+
+We have delivered over half a million pieces of mail to our potential voters this year. In addition to the numerous campaigns we have already run we have recently launched an education campaign. This was kicked off with Deborah Coddington launching her excellent new book, Let Parents Choose.
+
+There is growing interest in a centre right strategy both from other parties and the media - an approach which we pioneered. I will talk further about these ideas in a moment.
+
+We are stepping up our fundraising efforts and we are up in the polls.
+
+We are driven by an increasing sense of urgency, and growing outrage over the agenda being rolled out by the current Labour/Green authoritarian government.
+
+With the arrogant establishment of a Supreme Court against the will of the people, increasing taxes by stealth, a distancing of New Zealand from our traditional ANZUS allies, and PC bureaucracy gone mad, we have plenty of cause for alarm. The cosseting, bossy state that thinks we're so stupid we need to be saved from ourselves, from smoking, from eating fatty hamburgers, from falling over glass coffee tables or skidding in the shower - where is it going to end? Safety guards on potato peelers? The banning of lolly scrambles for fear of death from a flying McIntoshes Egg and Cream? I fear Richard is right when he says the Clark/Wilson government is seeking to establish the PC Socialist Republic of Aotearoa.
+
+Could it be, political correctness has taken such a hold that when the new Commisioner for Children publishes her first report, it might read like the following letter to The Times about a Beatrix Potter film. It's titled "Astonished at the assertion re Beatrix Potter film that Peter Rabbit is \`morally and ethically clean'. The writer explains:
+
+"We are told unequivocally that Peter was "very naughty". He deliberately disobeyed his mother as soon as her back was turned and he and his cousin Benjamin were evidently habitual petty thieves. Peter and Benjamin are not merely spanked but whipped by old Mr Bunny, who is guilty not only of child abuse, but of a naked and unprovoked aggression against a harmless cat. Incidentally Flopsy and Mopsy , who are married in the film, are first cousins: but perhaps, as the writer muses, this does not matter with rabbits".
+
+This might sound far fetched, but just remember, we live in a world (as I read in A New Deal) where you can get more comparative information about a toaster or a lawn mower than you can about your local school. It's a world where a survey of students revealed abysmal gaps in general knowledge; where those who'd heard of Salman Rushdie thought he'd written The Titanic Verses or was what you got if you didn't cook your meat properly. In fact, if you're interested, one young respondent to the survey I'm quoting from hedged his bets on Salman Rushdie and said "he is a fish or a prime minister". We face an uphill battle.
+
+We live in a world where of the 37% of New Zealanders able to name any female business leader, 32% picked Prime Minister Helen Clark.
+
+We live in a world where there is to start with the great challenge of just engaging people in discussion about ideas. Many people find it odd, or embarrassing or simply irrelevant. Most don't see how their getting involved in politics themselves could make any difference to the way our country is going or the quality of their lives or those of their children in future. Many treat those who have stepped into the political fray at worst with contempt or at best with bemusement.
+
+Like our MPs I often get baled up at events like this, in airports or anywhere really by people who tell me, usually with the best intention in the world, what we should be doing, and what we're doing wrong. Of course I welcome all ideas and engagement, but trying to change the world is a large and exhausting business full of pitfalls, and what we most need is more help. Not too many people say how I can I help? But there are in fact many ways, great and small, in which individuals like you can help effect change.
+
+This is - and it has to be - a very hard-working, hands-on party. To engage people requires a massive effort.
+
+Another important reality we must grasp is what David Henderson describes in his excellent book The Changing Fortunes of Economic Liberalism as liberalism's \`chronic weakness'. That is that the conscious adherents of liberalism are so limited in numbers. Liberalism, he says, has no solid basis of general support, and there are few if any countries in which there is a well-supported political party or movement which openly and consistently makes classical liberalism its central body of doctrine, its raison d'etre.
+
+He notes in fact that ACT New Zealand is the only such party in parliament in the world. That is an accomplishment of which we should be extremely proud.
+
+Since David's book was published some other true liberal parties have sprung into life, but only in the former Eastern bloc, in countries such as Estonia which having suffered under the Soviet regime, now prizes freedom and truly understands its meaning and value as the only alternative to big authoritarian government.
+
+David Henderson's point is that we are mistaken if we think the battle of ideas has been won for the liberal cause. The battle of ideas is in fact far from over, nor is there an end in sight.
+
+But don't be disheartened. History is full of examples of the power of small groups and individual efforts committed to fighting for big ideas. Frederick Douglass, the famous American runaway slave and freedom fighter, described his experience in assisting fugitive slaves through an underground network of safe houses, like this:
+
+"True as a means of destroying slavery, it was like an attempt to bail out the ocean with a teaspoon, but the thought that there was one less slave, and one more freeman - having myself been a slave and a fugitive slave - brought to my heart unspeakable joy".
+
+My point to you and all supporters of ACT is that we are small and we have few allies, but the goal is powerful and important, and the individual efforts of each one of you can make a difference.
+
+It's good to spend time as we are today debating and testing ideas.
+
+But, and this is another lesson to be learned, the real battle is happening out there, preparing for the next general election. We need to muster more support, we need to work continuously to raise money, recruit members, build electorates, identify outstanding candidates, organise meetings, get more direct mail out, build our databases - all the basic, unglamorous, unpaid, practical \`stuff' that makes up an effective grassroots campaign machine. We are engaged in a battle, and these are the only weapons with which we can slowly but surely make incremental gains.
+
+Perhaps the best and most important thing I've gained from my involvement in ACT is a real appreciation of its humanity and compassion, both as the driving force behind its policies and as a powerful common quality among its MPs and supporters.
+
+While we can and must continue to find effective ways of presenting our ideas simply and imaginatively, I suspect there is no better way of overcoming the image of the heartless \`New Right' than through our people, our members and candidates but in particular our MPs. It's in the way they relate to ordinary people, the way they talk, the lives they lead and have led, their integrity, their commitment, their humour, their passion, their warmth, the human stories they can tell to illustrate our ideas - this, our human talent, is the most powerful tool of all.
+
+Having the most able, most \`real', most hard-working team in Parliament is a great asset of which we should all be immensely proud. They are a critical part of our liberal brand and our message and we must be mindful of this as we look for more candidates to represent ACT in the next general election campaign.
+
+I'd like to turn now to another of our continuing, pressing challenges, and that is how to work in an MMP environment with other opposition parties to present a credible, coherent, appealing alternative to the current authoritarian Labour coalition government. ACT was established as an MMP party and I believe has been one of the most successful parties at understanding and campaigning in this environment.
+
+That's important because, like it or not, MMP is going to be our electoral system for the foreseeable future and parties of the centre right need to embrace this reality. That means not just paying it lip service but substantially changing the way we all operate. Let's face it: National isn't going to get 50% of the vote in the near future and NZ First isn't going to disappear. All three parties have legitimate constituencies and a rightful place on the political spectrum.
+
+The reality of MMP is that groups that may have co-habited under the umbrella of one party under First Past the Post can no longer do so. Each represents a legitimate and individual constituency
+
+So the lesson is this: unless we co-operate and present a credible alternative to the Labour/Green coalition they will be back again in 2005 and the centre right will languish in opposition indefinitely. Anyone who thinks that can't happen should remember that's exactly what happened to the Labour Party here during the 1960s. Even worse, in Australia the Labour Party spent 23 years out in the cold in opposition.
+
+We don't want to end up in the position of some European countries where there is one major reigning party, generally a Labour-lookalike, and a bunch of non-cooperative right-leaning parties competing for opposition status or at best minority coalition partner.
+
+Don Brash has certainly signalled that it is his intention to rid New Zealand of the current government at the 2005 election, and that he is willing work with other parties to achieve that. We need to remind ourselves that, as the old saying goes, "politics is won in the centre", and around 70% of the New Zealand electorate resides in the centre. This means there is a large amount of the vote that can be moved.
+
+National has an important part to play in providing leadership to the centre right and taking it forward, and our primary relationship will be with them. Their new leadership provides them with the opportunity to take up this challenge.
+
+New Zealand First also shares some common ground with us. Winston Peters, whose own origin is in National, voted for Ruth Richardson's Employment Relations Act, and New Zealand First and ACT share some common ground on law and order. It is significant that all three parties are running a joint campaign to secure a referendum on the abolition of the Privy Council.
+
+A few weeks ago in Wellington the education spokesmen from ACT, National, New Zealand First and United Future shared a platform in the launch of A New Deal, an Education Forum report setting out a vision for making education work for all New Zealanders. While not all the spokesmen agreed with the Forum's blueprint for change, they at least demonstrated they were able to find some common ground and debate some of their differences in a cordial, constructive way. I have invited the same group to share a forum on education at our central region conference next weekend.
+
+I should add that A New Deal is one of four publications promoting choice and reform in education that's been released in recent weeks. The others are Deborah's book Let Parents Choose, the Maxim Institute's Vying for Our Children and the National Party's Schools of Excellence, an education discussion paper by National's now deputy leader Nick Smith. This groundswell of activity should give heart to all parties of the centre right interested in engaging voters on these issues.
+
+Since August we have been putting forward some ideas on how the opposition parties might regain some ground so an alternative government might be formed.
+
+Our strategy is based around the premise that we on the non-authoritarian side of the political spectrum must present a viable, credible alternative to the authoritarian Labour government. The strategy has three basic elements.
+
+First, cooperation in Parliament so voters can see the parties working together constructively in the House. This has been occurring and I'm pleased to say it has added to the overall effectiveness of the opposition. This week the ACT Caucus at its retreat recommitted to maintaining this strategy.
+
+Two, a sensible, rational strategy for the centre right to win constituency seats.
+
+And third, centre right "coalition" messages, particularly in the general election campaign.
+
+Returning to my second point, to regain the Treasury benches the centre right must win constituency seats - remember that Labour holds 45 seats compared to National's 21. Of course ACT will actively and vigorously compete with all other parties for the party vote and particularly in Auckland, Wellington and Christchurch.
+
+While the Party Vote is the most important vote for ACT, for the greater good of the centre right we need to win constituency seats. Most of the seats can only be won by National and some of them will take a couple of elections to win back, but we must start now. A strategy must be put in place to reverse the current Labour strangle-hold on electorate seats.
+
+For more than a generation National used to win the provinces - we would like to help them do that again.
+
+But it will take more than ACT. It would also take the votes of New Zealand First supporters, and, if they recognised reality, United Future would look after its supporters and join the non-authoritarian side of the spectrum.
+
+Ian Paisley said, "The trouble with bridges is that they lead you to the other side". In this regard it is pleasing to see United Future getting on the bridge and voting against the Supreme Court and Smoke Free Bills. I think Peter Dunne is beginning to realise as Richard so aptly put it, that he "has betrayed family values by supporting the anti-family, godless Labour government."
+
+One approach would be to run centre right \`banner' candidates. Over the last four months I have given a number of examples but let me talk about how things might work in the Waikato and Bay of Plenty region.
+
+Hamilton East is a seat that National should win back from Labour- it is one of their best prospects in the region. It's held by Labour's Dianne Yates with a majority of only 614 votes. At the 2002 general election the National candidate, Tony Steel, won over 12,000 constituency votes. If you add to this the more than 4000 personal votes gained by ACT, New Zealand First, United Future and the Christian Heritage candidates, Dianne Yates would have been resoundingly defeated by over 3500 votes.
+
+Hamilton West also provides hope for National. With a credible candidate selected earlier, someone of the calibre, say, of our own high-ranked Waikato candidate Andy Davies, a vigorous campaign and the backing of other centre right parties, the voters of Hamilton West would have a real choice. Likewise National must select strong candidates earlier in the seats of Rotorua and Taupo. Remember National held the seat of Rotorua from 1960 to 1999. With a credible candidate, selected earlier, they can begin a real campaign to regain this seat.
+
+And finally I'll touch on Tauranga. When looking at this seat, all parties of the centre right must look through the \`centre right lens' in assessing how it should be approached. In 2002 ACT went unashamedly for the Party Vote in Tauranga and didn't endorse any constituency candidate. I believe our position will be the same in 2005.
+
+We believe that there are at least six seats that National can win back from Labour at the next election.
+
+But this strategy is not a one-way street - over the past three months I've made it clear that ACT will be looking for some instances where it is our candidate who is the centre right \`banner' candidate, allowing us the opportunity to gain constituency seats. Epsom, for example, might be one such seat.
+
+On top of the constituency strategy we'd add what could be called the "coalition campaign messages". This would be an agreed set of centre right positions that voters would get by voting centre right - policies that these parties agree on and will be delivered.
+
+As an example of such a message, the ACT, National and New Zealand First positions on the Treaty of Waitangi are now very similar and all three parties could run on a No race-based law type message. There is also scope in other areas, with messages such as Education choice and standards, A fair go for those who work, No parole, and Work for the dole.
+
+These are messages that surely all the parties of the centre right can sign up to. Labour certainly can't, and we need to show that this group of parties is closer to the values of New Zealanders than the PC and tax and bribe nature of the current Labour government.
+
+None of these proposed strategies would undermine ACT's established Party Vote election campaign position. Indeed we will be strengthening our commitment to this strategy - in particular we will be continuing to campaign actively for the Asian vote. Capturing these voters is important for growing the centre right majority in New Zealand in the next 20 years, and in strengthening ACT's liberal brand.
+
+ACT is no longer prepared to be a \`tactical appendage' of the National Party. ACT has to some extent already become the powerhouse of ideas for the centre right, witnessed by the fact that National and New Zealand First have adopted many of our positions.
+
+Our aim of becoming the strategic apex of the centre right, providing the intellectual weight and rigour, generating new ideas, defending personal responsibility and freedom and dealing with the hard questions that need debate - is on track. Just yesterday I heard political commentator Chris Trotter accepting that this is ACT's role - as opposed to running scandals.
+
+This is a pivotal role in putting forward a credible alternative government that seeks both to represent commonsense New Zealand values and aspirations and provide a fresh sense of direction and inspiration for the country. With National's new leader in place and that party moving forward, our ideas will be even more relevant and our role more important.
+
+But let me be clear - ACT alone cannot promote, debate and run a centre right strategy. We are happy to put forward ideas and work with the other parties but unless everyone is committed to an alternative to Labour, prepared to discuss it and work through it the strategy will fail.
+
+ACT has been in Parliament for seven years and will be again after the next election. We'd just prefer to there with a majority of MPs who can provide an alternative to the current authoritarian Labour coalition government.
+
+I would like to close by emphasising that ACT is committed to its independence, identity and principles. We are happy to work with other parties who share our ideas on particular issues, but we will never surrender our principles for short-term populist votes, and we will not sell our souls for cabinet positions or for seats on the Treasury benches.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

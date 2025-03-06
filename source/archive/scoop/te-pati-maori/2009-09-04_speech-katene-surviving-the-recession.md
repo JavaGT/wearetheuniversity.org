@@ -1,0 +1,156 @@
+---
+slug: speech-katene-surviving-the-recession
+title: "Speech: Katene - Surviving the Recession"
+date: 2009-09-04
+source-url: https://www.scoop.co.nz/stories/PA0909/S00069/speech-katene-surviving-the-recession.htm
+author: te-pati-maori
+---
+Speech: Katene - Surviving the Recession
+========================================
+
+**Friday, 4 September 2009, 4:49 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Te Huinga Tauira; Lincoln University, Canterbury  
+‘Surviving the Recession : A Pathway forward’  
+Rahui Katene, MP for Te Tai Tonga  
+Friday 4 September 2009
+
+I am proud to be here today to attend Te Huinga Tauira, at the request of co-hosts, Te Awhioraki, the Maori Students Association at Lincoln University.
+
+In these days when the right for independent Maori representation appears to be increasingly at risk; it is reassuring to come here and acknowledge your association – and your work to provide an independent Maori voice on the University Council; the Maori Development Taskforce; the LUSA Executive and Te Mana Akonga – the National Maori Tertiary Students’ Association.
+
+I want to acknowledge our other co-hosts, Te Akatoki, the Canterbury University Maori Students Association – and the work you also do to promote an independent Maori view within the context of your campus.
+
+Your independence, your ability to speak strongly and openly at both the local level through your local roopu and nationally through Te Mana Akonga, is something very precious indeed, and we in the Maori Party encourage you to continue to use it.
+
+As I was preparing for this speech, I noticed an important change in emphasis. When I was first asked to speak, I was given the theme: Surviving the recession: How will Maori Survive?
+
+The final topic changed the question – from ‘how will we survive’ to ‘a pathway forward’.
+
+It may only be a few words – but it makes all the difference. It has gone from the uncertain and the tentative, to a vision for the future.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+This hui comes also, on the back of two very interesting surveys.
+
+The first survey, published yesterday by Research International, revealed that only three in ten New Zealanders believed the recession had turned out to be as bad as expected.
+
+But there was another interesting result, in that some 44% of those surveyed said they were trying harder than in the past to pay off debt, and that they were trying to pay for things more often with cash than credit.
+
+The second survey, a survey of three to four hundred young men, responds to the OECD findings that our youth suicide rates are the highest amongst developed countries.  
+The chief executive of Youthline, Stephen Bell, challenged us to believe that we should do more to celebrate our young people.  
+According to a survey he cited, there is only one good news story about young people for every forty bad stories.  
+And so I come to this Huinga Tauira today, with two very clear messages – the recent optimism of New Zealanders about the impact of the recession; set against the negative way in which young people are generally regarded.  
+As we move into what is being predicted as a more favourable economic environment, a transformation of thinking is required to shape a pathway forward that is inclusive, and representative of the changing demographics of this land.  
+The pathway forward for this hui, and for Maori students generally, is one in which the diverse perspectives of younger New Zealanders will be more and more significant.  
+In 2026 almost 50% of New Zealanders in the 10 to 24 year age group will be Maori, Asian, or Pasifika. And for the 20 percent of this age group who are Maori, if trends continue, the proportion holding bachelors or higher level qualifications is steadily increasing.  
+Far from doom and gloom therefore, I think we need to celebrate the successes you are achieving, and to plan for much more to come!  
+Just a week ago, there was another hui happening here in Otautahi to celebrate Maori educational success. The Tu Mai Rakatahi Hui met under the umbrella of Te Tapuae o Rehua, a project to develop ideas, events, projects and pathways to promote educational success and enterprise.
+
+Te Tapuae provides unique leadership across the tertiary sector for the way in which the project partners are working together to support Maori aspirations. The project brings Ngai Tahu together with five of the tertiary institutions in the South Island, to share stories in the drive to increase access, participation and achievement in tertiary education.
+
+The project immerses the institutional forces of power of the Universities of Canterbury and Otago, CPIT and Otago Polytechnic within the principles of tohungatanga. The modern academic concepts and conventions are approached in such a way as to follow the traditions of the whare wananga.
+
+I think this partnership is just so exciting and no doubt there are many other initiatives across the country that can be shared in the course of this hui.
+
+The key thing for me is that it is you who are setting the direction forwards.
+
+When considering the status you have as Maori students - as being the proud and independent Maori voice of tertiary education – I am reminded that there has always been a great combination of forces between the Maori Party and Te Mana Akonga.
+
+Please be aware that there is every opportunity to be involved in helping to set the agenda for the political future.
+
+As an example, I am a member of four select committees – it makes life fairly interesting when all the schedules for hearings seem to overlap all at the same time!
+
+So hot on our priorities at the moment are:
+
+•Finance and expenditure committee: we’ve been examining the Reserve Bank’s monetary policy statement; and are considering one of many taxation bills – including hopefully sometime soon, my member’s bill to remove the GST off healthy kai;
+
+•Regulations Review: we’ve been looking at the forms, fees and procedures around the regulations for Resource Management;
+
+•Local Government and Environment: we’re going through the Resource Management (Simplifying and Streamlining) Amendment Bill; and the
+
+•Emissions Trading Scheme Review.
+
+As if that isn’t enough, I’m also the Maori Party representative on the Foreshore and Seabed Review and the Constitutional review. Both of these are of great importance of course to our party, so we have a vested interest in getting it right.
+
+In regards to the foreshore review, you will no doubt be aware that two months ago, the Ministerial Review panel headed by Justice Eddie Durie, reported to the Attorney General the results of that review and that by the end of the year the Government will now begin the process of repealing the Foreshore and Seabed Act.
+
+As well as the work of parliament –the select committees; the legislative programme; the House – as a political movement we are now in a far more influential position given our relationship agreement for confidence and supply with the National Party.
+
+As a classic example in Budget 2009 we saw evidence of this relationship bearing fruit, with over $120 million secured for initiatives which will have a profound opportunity to influence and advance the situation for our whanau, hapu and iwi.
+
+Of course we are happy that Budget 2009 more than doubles the allocation for Maori that we saw just a year ago. In 2008, $53 million was allocated for Maori, but a significant proportion of those funds was reallocated unspent money from Vote Maori Affairs.
+
+This year, in the midst of a grave economic backdrop, we were really pleased to achieve gains such as:  
+•$22m to speed up claims in the Treaty settlement process;  
+•$20m to address the institutional racism in the schooling system (Te Kotahitanga) as well as $70m to open the kohanga gates to the 20 hours free early childhood education;  
+•$15m to finalise the aquaculture settlement;  
+•$12m allocated over the next two years for housing in rural areas where there are significant numbers of Maori;  
+•An additional $4.5 million to help Maori families access te reo Maori and an extra $1.2 million to help iwi radio;  
+•the priority given to retrofit housing with $323.3 million allocated to insulate and heat homes built before 2000;  
+•an allocation of up to $40 million for community responses to the recession.
+
+I also understand that some of my Maori Party colleagues are working on a project to reinstate the Manaaki Tauira grant, that was suddenly axed by the previous government 3 years ago.
+
+The Maori Party also recognises the impact the $7.45 billion for infrastructure will have over the next five years in supporting jobs in the short term and lifting economic wealth in the long term.
+
+Of course there are still many, many issues where we are determined we must put forward a strong and independent voice of challenge, where we believe the people we stand in Parliament for, are not receiving the opportunities we want.
+
+We were extremely disappointed that the Budget significantly reduces funding to the adult education sector, and the Training Incentive Allowance, and we will continue to raise questions and speak of our concern about the impact those cuts will have on communities throughout New Zealand.
+
+We are also very concerned at the recent decisions to dramatically reduce the levels of community representation for Polytechnic Councils – a decision which we believe will impact adversely on Maori and iwi representatives.
+
+Coming back to your grand theme or surviving the recession, we are under no illusion that by far the most important consideration impacting on our future is the way in which we prepare ourselves as catalysts for recovery.
+
+We must put the effort in to boost the long term economic performance of iwi/Maori, while at the same time permanently raise the living standards of every day New Zealanders – including of course our whanau, hapu and iwi.
+
+In the Youth Opportunities package released recently, there are two particular initiatives I want to promote.
+
+The first is Jobs Ops which provides employers with a $5000 subsidy to provide an employment opportunity to a young person with low or no skills or work experience. There’s 4000 placements set aside in this category.
+
+The other is Community Max, which is all about creating jobs for young people. This project is the injection of over $40 million into supporting up to 3000 places on community projects for young people. It basically provides a wage subsidy for young people to build skills and work experience while at the same time contributing to the workforce.
+
+This project came about from the Maori Party’s commitment to investing in our young people, and making sure that they receive the kickstart to a successful future, through experiencing success in an employment initiative.
+
+But more than that – it’s also about creating communities that care – where connections between generations are important, where the outcomes are not just economic, but are also indicators of cohesion, of whanau ora.
+
+We need to know what works and what doesn’t – what are the outcomes we seek to tell us that the road to recovery is on the right track?
+
+Our future livelihood depends on Maori being able to further develop and diversify Maori assets and businesses, while also accelerating the progress we made in skills and trade training.
+
+Finally, you might have seen a release I issued, which suggested it might be time for iwi organisations to look at establishing a bank of our own; instead of being propped up by our Australian relations in BNZ, ANZ, National, ASB and Westpac banks.
+
+The idea of a community development bank that would provide low interest loans to families and small business operators has always been Maori Party policy. The idea is to re-circulate profits and benefits into the communities which generate them, not have them siphoned off overseas.
+
+Maori have assets, we have very talented and skilled people in the finance sector and coming through our universities, but most of all as tangata whenua we have a permanent stake in the well-being of this country.
+
+As you are no doubt aware, there is simply not enough time in this korero to raise some of the issues that we might work together on.
+
+And I am conscious that there is a huge range of other activities – manu korero; kapa haka, Maorioke, sports and so forth that will no doubt be of more entertainment value than the MP for Te Tai Tonga.
+
+Suffice to say, I’m in here for the long haul – so I will leave it there, as the start to what I hope will be a mutually constructive relationship, to move past the recession, to create an amazing pathway ahead.
+
+Tena tatou katoa.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

@@ -1,0 +1,54 @@
+---
+slug: former-pm-and-chancellor-accepts-an-honorary-doctorate
+title: "Former PM and Chancellor accepts an honorary doctorate"
+date: 2019-12-11
+source-url: https://www.scoop.co.nz/stories/ED1912/S00032/former-pm-and-chancellor-accepts-an-honorary-doctorate.htm
+author: university-of-waikato
+---
+Former PM and Chancellor accepts an honorary doctorate
+======================================================
+
+**Wednesday, 11 December 2019, 10:53 am**  
+**Press Release: [University of Waikato](https://info.scoop.co.nz/University_of_Waikato)**
+
+  
+The University of Waikato’s longest-serving Chancellor, the Rt Honourable James Bolger ONZ, accepted an honorary doctorate from the University of Waikato yesterday.
+
+Mr Bolger was University Chancellor for 12 years before retiring earlier this year. As chair of the University Council, Mr Bolger oversaw many significant capital projects, including the refurbishment of the Library, now the Student Centre – Te Manawa, the completion of the Law building and Waikato Management School addition, and the opening of the University’s Tauranga CBD campus building.
+
+The introduction of Te Ara ki Angitū: Pathways to Excellence in 2016 was another project that Mr Bolger was pleased to be associated with. The programme removes barriers of affordability and transport to enable young people from South Waikato communities to attend university when previously they may not have considered tertiary education an option.
+
+“I’ve been a strong supporter of education all my life,” he says. “And as Chancellor, I became extremely proud of what the University had achieved in its relatively short life. And I believe it will continue to make me proud.”
+
+The former New Zealand Prime Minister, party leader, farmer and US ambassador has connections all over the world which enabled him to promote Waikato University in a range of settings and opened doors for University staff to establish new contacts and take up research and teaching opportunities in other countries.
+
+Closer to home, Mr Bolger’s strong ties with Waikato-Tainui, established while in government through his participation in the Raupatu Settlement Claim and more recently with the Kīngitanga, have strengthened the relationship between the iwi and the University.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Mr Bolger says the University has made a lot of progress in building teaching and research programmes of international quality and accepting the need to change to address the expectations of society. “Change is always challenging for big organisations, because it moves some staff out of their comfort zone, but it is essential. Universities should have the combination of intellectual knowledge and engagement with the world around them to provide leadership across the whole of society. Universities must always be encouraged to lead especially where that leadership uncovers the folly of what went before."
+
+During his tenure Mr Bolger attended more than 130 graduation ceremonies to confer qualifications on thousands of Waikato University students. Mr Bolger had his honorary doctorate conferred at a graduation ceremony at Claudelands yesterday (Tuesday 10 December at 2pm).  
+Mr Bolger continues to hold several key governance roles, many with agricultural or public policy leanings. Most recently he chaired the Fair Pay Agreement Working Group, established by the government to provide recommendations on the design of a sector-level bargaining system.
+
+To find out more and apply for these scholarships, visit waikato.ac.nz/scholarships
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Waikato](https://info.scoop.co.nz/University_of_Waikato) on InfoPages.

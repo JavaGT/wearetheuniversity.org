@@ -1,0 +1,122 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2007-02-01
+source-url: https://www.scoop.co.nz/stories/ED0702/S00002/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 1 February 2007, 12:06 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+OECD review positive of policy direction, notes concerns  
+An international review has labeled change as one of the predominant characteristics of tertiary education policy in New Zealand over the past two decades with, on average, a major review occurring every two years. The Organisation for Economic Cooperation and Development’s Thematic Review of Tertiary Education in New Zealand, says that, from 1990, the system has gone through distinctive periods of change focused on different themes. They range from the introduction of market-like competition and private contribution of the 1990’s through to the current emphasis on “governmental steering” in an attempt to align more closely tertiary education with New Zealand’s socio-economic development.  
+The report has been welcomed by the Minister for Tertiary Education, Dr Michael Cullen, who says it supports the Government’s current programme of reform and makes no recommendations for radical change. “The review found a system that is well positioned for further development,” he said. “\[Its\] recommendations relate well to the Government’s recent developments in tertiary education policy \[and are\] a positive endorsement of our policy direction.”  
+Importantly, the review identifies the importance of tertiary-education staff in ensuring the quality of New Zealand institutions, but points to a number of issues that need to be tackled in order to maintain this quality. Among them are increasing demands on and expectations of staff, higher levels of stress and heavier workloads and the need for greater collaboration between institutions to foster mobility for academic staff.  
+Association of University Staff National President, Professor Nigel Haworth said that a number of conclusions reached in the review would form the basis of on-going discussions between the union and university management, government and education officials. “While this report contains many positive comments about the tertiary-education sector, it identifies a number of pressure points which must be addressed,” he said. “Many of these relate to staff and workloads, and we support the view of the OECD, that the solution lies in resolving issues through collaboration across the sector and not trying to resolve them at the level of individual institutions.”  
+Students too have welcomed the report, saying that it acknowledges that the current system does not address to the full extent the financial barriers students face in accessing tertiary education. Joseph Randall, Co-President of the New Zealand Union of Students (NZUSA), says that the OECD has confirmed what students have been telling the Government for years, that access to allowances is far from adequate and that the amount students receive if they do receive an allowance does not cover basic living costs. “To address this issue, the OECD suggests that both the living costs loan entitlement and the student allowance be raised, and that the means-testing allowance regime be dealt with,” he said.  
+The AUS media release on the report can be found at  
+http://www.aus.ac.nz/media\_releases/2007/OECD.htm  
+The full OECD report and associated documentation can be found at:  
+http://educationcounts.edcentre.govt.nz/publications/tertiary/oecd-thematic-review.html
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Legal challenge over dumping of library assistant  
+2\. New funding to create elite institutions?  
+3\. Lincoln gets glowing report  
+4\. Labour throws $8 million at TEC restructure, says National  
+5\. $9.7 million for tertiary education innovation  
+6\. Hood faces questions over failed reform plans  
+7\. Democrats propose increases for scientific research and student grants  
+8\. Rate your professor  
+9\. Academic blocked from taking further action
+
+Legal challenge over dumping of library assistant  
+Legal proceedings have been filed against the University of Canterbury by the Association of University Staff (AUS) following a decision of the University not to re-engage a part-time library assistant after seventeen years’ service. The AUS has asked the Employment Relations Authority for a determination that the staff member, who had been employed on a series of fixed-term employment agreements, is a permanent employee and that he be reinstated, paid lost wages and awarded compensation.  
+The staff member was one of a number of library assistants employed on a fixed-term basis during the academic year to ensure that library services are provided to students during the evenings and at the weekends. While many of those staff only worked for a short duration, others returned from year-to-year and had the right to re-engagement as long as work was available.  
+In 2006, the University made a decision to turn the fixed-term positions into continuing part-time, part-year ones, but refused to transfer existing staff, even long-serving ones, to those permanent positions. Instead it required them to apply for the positions and, even though not all were initially filled, the staff member concerned here was not employed.  
+AUS General Secretary Helen Kelly said that, while the union supported the move from fixed-term to permanent positions, the University had clear obligations to its existing staff. She said it was the Union’s view that the University had failed to comply with the Employment Relations Act in respect of its use of fixed-term employment agreements, and the consequence of that failure was that the person concerned here would be considered to have on-going employment. “As such, the ending of this person’s employment in this case amounts to an unjustified dismissal,” she said. “What makes it worse is that, regardless of the fact the union believes the University has failed to comply with the law, it has morally failed a member of staff with eighteen years’ service.”  
+A hearing has been scheduled in the Employment Relations Authority in April.
+
+New funding to create elite institutions?  
+New funding for the tertiary education system could be used to direct money to some institutions in order to make them elite, according to a lead item in Education Review. The item says that Cabinet papers, published last month, say that TEO Component funding, a new funding arrangement to be introduced in 2008, could be used to increase the level of investment in some providers to raise their international standing and the quality of the learning experience they offer their students.  
+Education Review says the suggestion appears to echo long-standing arguments that government should fund one or two universities to become truly world class. It is a view which is consistent with the Tertiary Education Strategy which calls for more differentiation among universities.  
+AUS National President, Professor Nigel Haworth, said universities should be funded according to cost drivers and that the union would be wary of any moves to fund one university over others purely for the purpose of raising its international standing. “We would have grave concerns if there was going to be arbitrary negotiated differential funding of one institution against the others, or two against five, without some obvious rationale,” he said.  
+University of Auckland Vice-Chancellor, Professor Stuart McCutcheon, is reported as saying that the Vice-Chancellors’ Committee had suggested an increase of about $200 million per year above current funding was needed to raise the quality of the university system, but it appeared that the TEO Component would add about $70 million in discretionary funding. He said that Auckland would “absolutely” apply for TEO Component funding for the purpose of improving its international rankings if that was regarded by the Government as a valid use for the money.  
+A spokesperson for the Minister for Tertiary Education is reported as saying that it was premature to speculate about how the TEO component funding might be prioritised.  
+The full Education Review story can be found at:  
+http://www.educationreview.co.nz/DisplayStory.asp?section=1%5FJKEOBS%5F25012007%5F112023&ID=290628076
+
+Lincoln gets glowing report  
+Lincoln University has received what it describes as a glowing report from the New Zealand Academic Audit Unit, with its Vice-Chancellor and senior management team commended for the manner in which the University’s vision, environment for teaching and learning and relationships with external stakeholders have been set, communicated and implemented. The Audit team found a strong fit between teaching and learning outcomes and a clear commitment to the University’s goals.  
+The report was based on an internal self review and a four day audit visit last September. Members of the audit panel interviewed 130 members of staff, students and stakeholders.  
+While the report was positive, it noted that the small scale of the University brings both advantages and disadvantages. Its small scale makes it easier for staff to collaborate, for quick responses to effect change and address issues of concern, for student access to academic staff, for personal care of students and for informal conduct of business. However, its small scale also carries with it the costs of overheads and compliance, getting the right balance of administrative structures and processes, and avoiding duplication.  
+The University was commended by the Audit panel for the high level of commitment and loyalty by staff, adding that the University id addressing the issue of staff workload pressures.  
+Lincoln University’s Vice Chancellor, Professor Roger Field, said it was an excellent report with commendations across the University reflecting the high calibre of staff and a commitment to strong academic outcomes and employment opportunities for students. “Given the difficult financial environment in which universities operate, staff can take considerable pride and satisfaction from this report,” he said.  
+The Academic Audit report can be found at:  
+http://www.aau.ac.nz/nzuaau\_site/publications/reports/Lincoln\_cycle3\_2007.pdf
+
+Labour throws $8 million at TEC restructure, says National  
+Plans for an $8 million restructure of the Tertiary Education Commission show the Government’s priorities on tertiary education lie in building bureaucracy, not quality learning institutions, according to the National Party spokesmen for Tertiary Education, Dr Paul Hutchison.  
+Dr Hutchison says that the Commission admits a planned restructure this year could cost $8 million, including recruitment for new positions, relocation of staff, redundancies, lease buyouts as a result of ten area office closures, and the fit out of a national service centre in South Auckland. He says this follows revelations the TEC blew its operational budget by $700,000 last year, but under spent the billions it distributes to tertiary education providers by $165 million.  
+“It reeks of something you'd see on an episode of ‘Yes Minister’ as the Commission has grown, expanded and bureaucratised,” Dr Hutchison said “When Tertiary Education Minister Michael Cullen talked about dealing with Labour's ‘bums on seats policy’, no one ever imagined he was planning to put more bums on more seats in office buildings in Wellington and Auckland.”
+
+$9.7 million for tertiary education innovation  
+The Tertiary Education Commission (TEC) has announced that the Government is investing $9.7 million in eleven projects fostering innovation in tertiary education. Ten of those eleven projects are either run by or associated with universities.  
+The new funding comes on top of the $30 million previously allocated to thirty-four projects through the TEC’s Innovation and Development Fund (IDF) over the past three years.  
+The latest projects include the establishment of an inter-university network to provide opportunities for Maori academic staff, an interactive Medicine project, the development of a Biomolecular Interaction Centre, implementation of e-Learning guidelines across the tertiary sector and establishment of a National Energy Research Institute.  
+Clare Ward, TEC Steering and Investment Group Manager, said that the projects are good examples of the kind of innovation happening in our tertiary sector, across a range of different fields “Innovation is key to enhancing the quality and relevance of tertiary education and ensuring it is a driver of New Zealand’s economic, social and cultural development,” she said.  
+This is the last round of funding under the IDF. From next year, the government is introducing a new way of investing in tertiary education that will include funding for innovation and capability development.
+
+Worldwatch  
+Hood faces questions over failed reform plans  
+The Vice-Chancellor of England’s Oxford University, Dr John Hood, has been called upon by the Higher Education Funding Council for England (Hefce) to explain why his plans to change the governance of the University were rejected by academics. It comes after Oxford’s lecturers and researchers voted late last year to reject controversial plans by Dr Hood which would have ended academic self-rule and handed financial decision-making to outside experts.  
+Hefce Chief Executive David Eastwood has written to Dr Hood expressing the Councils disappointment that the plans were abandoned. “From the funding council’s point of view, the proposal would have represented a significant evolution in the governance of the University and an important milestone in the process of governance modernisation at Oxford,” he wrote. “I would now like to ask, therefore, how you expect the process of governance reform to move forward. The funding council is the single biggest investor in the University and we assume the lead regulatory role on behalf of all your public sector funders.”  
+Dr Hood has until 1 April to respond.  
+Meanwhile, the University and College Union has called for a review of Hefce’s framework, saying its continued pushing for governance changes at Oxford also raises questions of academic freedom. In a submission to the House of Commons Education and Skills Select Committee inquiry into the structure of higher education and its funding, the union argues that a drastic change of direction is necessary to restore the autonomy of Hefce.  
+From the Education Guardian
+
+Democrats propose increases for scientific research and student grants  
+The Democrat leadership in the United States Congress has proposed a spending bill for the 2007 financial year that would provide comparatively large increases for student grants and for physical sciences and biomedical research.  
+The maximum Pell award, for low-income students, would rise by 6 percent, to $US4,310 from $4,050, while the research budget of the National Science Foundation would rise by nearly 8 percent, to $US4.7 billion, the Energy Department’s Office of Science would increase by about 6 percent, to $US3.8 billion, and the National Institutes of Health, the largest source of funds for university research, would rise by 2.1 percent, or $US620 million, to $US28.9 billion.  
+Raising spending for the Pell programme and for scientific research was among the top budget priorities announced by Democrats during and since their successful campaign last year to take control of Congress. The Democrats said the Federal Government should increase aid to college students to help them cope with rising tuition costs.  
+The House of Representatives is scheduled to vote on the bill later today.  
+From the Chronicle of Higher Education
+
+Rate your professor  
+Television channel MTV has bought a popular website on which students in the United States rate their professors. The rating website is one of several relatively new services that let students evaluate their teachers and read other students’ faculty evaluations. It claims to include reviews of 900,000 university faculties, though many have been rated by one student only.  
+MTVu, a two-year-old closed-circuit university network, which beams programming into dining halls, fitness centres, student lounges and dormitories on 750 US campuses will host the website www.MyProfessors.com. MTVu also recently acquired Y2M, which produces online versions of about 500 US university newspapers.  
+Meanwhile, several universities in the United Kingdom are seeking legal advice over a website set up to give advice to prospective students. Named university departments have been described on the site as “rubbish” and “shocking”, with students advised to avoid them. The “Will I See my Tutor” site is the work of two academics and an IT specialist who say that the website will provide a “bulwark” against the “glossy, polished marketing” of many universities.  
+From the Chronicle of Higher Education and Education Guardian
+
+Academic blocked from taking further action  
+An academic who has received nearly £200,000 in compensation from employment disputes with a number of universities in the United kingdom has been barred from taking future case to court. Finance lecturer Suresh Deman has been branded a vexatious litigant by UK Attorney-General, Lord Goldsmith and must now apply for permission from the Employment Appeals Tribunal to lodge any future cases.  
+Denman, who has brought at least forty race discrimination cases against universities, has received £194,500 in the past ten years. His usual method is to apply for a job and, if he is not short listed, to then bring a claim of race discrimination to an employment tribunal. It is understood he has applied for around 1,000 academic posts in the United Kingdom.  
+From Sunday Life
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

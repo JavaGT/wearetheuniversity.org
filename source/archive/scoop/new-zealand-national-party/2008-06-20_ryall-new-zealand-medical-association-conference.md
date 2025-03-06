@@ -1,0 +1,199 @@
+---
+slug: ryall-new-zealand-medical-association-conference
+title: "Ryall: New Zealand Medical Association Conference"
+date: 2008-06-20
+source-url: https://www.scoop.co.nz/stories/PA0806/S00330/ryall-new-zealand-medical-association-conference.htm
+author: new-zealand-national-party
+---
+Ryall: New Zealand Medical Association Conference
+=================================================
+
+**Friday, 20 June 2008, 3:22 pm**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Tony Ryall MP
+
+National Party Health spokesman
+
+20 June 2008
+
+**Speech Notes for**
+
+**New Zealand Medical Association Conference**
+
+_Rotorua_
+
+Good morning. Today I’d like to talk about some of the pressing challenges facing the New Zealand public health service, and in particular the vital role medical practitioners will play in our country’s future.
+
+I’m going to cover: providing sooner, more convenient service in primary care; smart use of the private sector to reduce waiting; the accelerating health workforce crisis; and a new partnership with the health professions to improve quality and leadership in health.
+
+National is ambitious for New Zealand’s health service. We think that our health system can be so much more responsive to the future needs of New Zealanders. Our health service could be doing so much better. Our people could be healthier, our health workforce more secure, our money more wisely invested.
+
+This morning you meet as the health service struggles against a workforce crisis, ballooning bureaucracy, and patients waiting longer and longer for hospital care.
+
+At no other time in the past nine years have so many New Zealanders been so concerned at the lack of government leadership in health. The future of health needs new leadership.
+
+The command and control health system of the past nine years has absorbed huge increases in taxpayers’ money, but has little to show for it. While costs have gone up, the quality of the spending has not been ideal.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+National believes the future lies in working together – primary and secondary, public and private – with a good lead from the government.
+
+Last year, we released a 50-page health discussion paper called Better, Sooner, More Convenient. In it, we called for a new focus on the needs of individual patients, not just populations. And we sought your feedback on proposals for making the health system more responsive to the needs of patients.
+
+We questioned a health system that is increasingly characterised by endless waiting. And we sought to answer New Zealanders’ desire for more personalised public services, closer to home.
+
+We received hundreds and hundreds of submissions from patients, clinicians, and organisations.
+
+  
+Patients tell us they are frustrated by delays, poor choice, poor service, and a lack of convenience in the public health system. They know that despite doubling the health budget, New Zealanders have to be sicker to qualify for surgery. It’s harder to see a hospital specialist. Emergency departments are gridlocked. And, increasingly, people have to wait longer to see their local GP.
+
+And, as you know only too well, our hospital services are under growing pressure. Many of you have told me about the difficulty of getting patients seen by a hospital specialist, and the frustration of receiving back those referrals marked “Return to Primary Care”. And those of you working in hospitals tell me of your frustration that you can’t provide the care you went into medicine to give.
+
+To respond to the public demand for more personalised care, closer to home, National looks to primary care as a major part of the solution. And we will ensure funding to make this happen.
+
+More of the diagnostic and outpatients services currently carried out in hospitals should be provided in primary care.
+
+We want to facilitate your patients’ direct access to specialist diagnostics like CTs. Community-based cardiology could provide much earlier access to Echos and other cardiology diagnostics. Patient access to ultrasound technology could be greatly improved.
+
+We want to help GP and hospital specialists to provide specialist assessments (FSA’s) in the community, in primary care. We want to help your patients with more minor surgery provided in primary care, by specially trained GPs.
+
+All this adds up to, sooner, more convenient care for your patients. And we will ensure delegated funding from DHBs to primary care to make this a reality.
+
+The failure to move healthcare from secondary (hospital and specialist-focused) to primary care in any significant way, despite its constant re-statement as a policy objective, is one of the greatest puzzles of health policy over the past few decades .
+
+British academic Professor Paul Corrigan suggests that the lack of critical mass in a general practice – small scale – has been the main barrier. Issues like capital, operating costs, and personnel prove daunting for any small business looking to change its configuration.
+
+Unlike Britain, general practice in New Zealand has evolved over the past 15 years to be strongly networked, with high levels of clinical competence and a wide range of innovative services.
+
+There is an opportunity to build on these advances. We’ve worked closely with many in primary care to progress our thinking in this area.
+
+We want to promote the development of what we’re giving the working title of Integrated Family Health Centres on a basis of trust and respect for general practice. And we are committed to working with primary-care teams to achieve this outcome.
+
+National will devolve further hospital-based services into primary care to one-stop family health centres. These changes will provide patients with more and faster services, delivered by teams of health professionals at more convenient locations.
+
+Not every general practice will want to become part of a large multi-practitioner health centre, nor will there be any requirement for them to do so. Smaller practices provide quality care and may choose to operate as they see fit.
+
+When it comes to the family doctor, we know that what New Zealanders really want is quality care, sooner, closer to home. The feedback on our discussion paper has made that patently clear.
+
+However, in order to deliver that wider range of hospital level services closer to home, issues of scale will need to be considered. Attracting capital investment into such developments depends on their economics. But there are various ways that the government, through its agents, can work with you in the development of such centres.
+
+What patients will want to know is that the fees they pay are reasonable and will not rise unchecked. For this reason we will maintain a GP fee review process, and will work with you to reduce associated bureaucracy and cost.
+
+We believe that in the face of workforce pressures and changing patient expectations there is a role for greater consolidation. General practice will benefit from improved collaborative working arrangements, allowing a greater focus on areas of special interest, greater job satisfaction and flexibility, and shared administration.
+
+A reduction in the pressure on hospitals will assist those working there.
+
+Patients will benefit, too. They’ll receive a much wider range of services closer to home or work, a seamless approach to service at one location, better co-ordination and less duplication, more choice, and more convenient hours. Looking forward, travelling is the new petrol-driven financial curse, and if patients can get two or three health activities done at the same time then that’s in everyone’s interests.
+
+And there’ll be benefits to the health system overall: relieving pressure on hospitals, reduced travelling times, and opportunities for medical workforce training in primary care.
+
+**Smart Use of the Private Sector**
+
+New Zealanders want timely, high-quality, cost-effective access to elective surgery when they need it. Sadly, they aren’t getting it.
+
+Despite the doubling of the health budget, fewer people are getting elective surgery now than eight years ago, on a population basis. Many of our hospitals will struggle to meet targeted amounts of elective surgery this year, and many will miss out on getting any of the extra electives money that seems to be announced and re-announced and re-announced again in election year.
+
+A sustained increase in elective surgery cannot be achieved without using the resources and the capacity across the public and private components of our health system.
+
+Granted, there is some use of the private sector now. But it’s not done in a way that gets best value for money. If the private sector had longer-term contracts with DHBs, it would be able to plan and so respond with better prices. They would supplement public hospital-provided electives, seeing more patients at less cost.
+
+And in the future, doctors in training may get much needed experience across both public and private sectors.
+
+In the future, the focus will be on getting patients seen, not where they are seen. The judicious use of public-private partnerships will increase the number of people getting access to vitally needed surgery, and reduce hospital waiting lists.
+
+To achieve improved integration of primary and secondary care (family health centres) – and the smart use of public and private – will require clear direction to DHB governors and management. And you can be assured we will hold them accountable to achieving these objectives.
+
+**The health workforce crisis**
+
+Last week the Government released the results of “an external review of an internal investigation” into the concerns of the former Grey Hospital anaesthetist Dr Judy Forbes.
+
+Beneath the soothing words, this review clearly shows that the health workforce crisis is putting intolerable pressure on the standard of care in regional hospitals. It went so far to name “basic services” as being at risk.
+
+Translated into plain English what this report says is:
+
+• The whistleblower was right.
+
+• The new computerised booking system is a managerial disaster, and they still do not know if any patients were harmed.
+
+• The West Coast DHB is struggling to deliver because of chronic staff shortages.
+
+• Quality care is not possible with an ever-changing workforce on locums.
+
+• The DHB still is not co-operating well with neighbouring hospitals.
+
+The report shines the spotlight on the problems of recruiting and retaining staff in regional hospitals. You can delete the name West Coast and add Whanganui or any of several other DHBs. The message is the same.
+
+This constellation of failure – endless locums and non-co-operating district health boards – is easy to see, and yet very little is done about it.
+
+What flows from this is not only issues around the health workforce crisis, but also the issues of clinical governance and regional clinical networks. More on these latter.
+
+Staffing shortages are not confined to hospitals alone. Patients around the country will face even longer waits to see their family doctor as the health workforce crisis bites deeper into our cities.
+
+In some parts of the country, patients are waiting two weeks for an appointment – if they are lucky enough to be on a GP’s books. And for many, the duration of a GP appointment has been trimmed, at times, to as little as seven minutes on average by GPs struggling to cope with high numbers of patients.
+
+Does anyone think this is progress? This used to be confined to our rural communities. Now it is a feature of many of our provincial cities and metropolitans. There are now fewer GPs in New Zealand today than in 1999.
+
+National will take action on the health workforce crisis. And we will have to act quickly, if elected.
+
+On recruitment, National's discussion paper promotes a move to self-sufficiency in medical training. This means increasing the number of funded medical student places. We believe more of that training should be done in rural and provincial communities. Both the Canadian and Australian experience indicates that medical trainees with substantial training in rural and provincial communities are more likely to work in those areas. Integrated family health centres will help here.
+
+You will have heard the public approval when John Key discussed the use of voluntary bonding through student loan write-offs for hard-to-staff areas and specialties. Currently, I would identify priority specialties as general practice, mental health, and pathology. Bonding should be part of a comprehensive package, not the whole deal.
+
+On retention, of course, money talks. But it’s not the only or even overriding factor in health professionals leaving the country. Improving job satisfaction will have a significant impact on New Zealand's ability to retain and recruit health professionals. Reducing command and control bureaucracy will make a big difference. Improving access to new medicines and modern equipment will also help in retaining and recruiting clinicians.
+
+At a macro-economic level, lower personal taxes will make working in New Zealand more attractive to all health professionals.
+
+**New partnership with health professions**
+
+Globally, clinical leadership is recognised as a fundamental driver for better health outcomes. In contrast, the influence of clinicians on patient outcomes here in New Zealand is now less than it has even been before.
+
+Right now, the interaction between management and clinicians is often characterised by neglect or combat – rather than by positive co-operation.
+
+Last year at this conference I spoke about the development of regional clinical networks as a way to sustain health services in the face of staffing, economic, and clinical practice issues.
+
+I talked to you about the Australian states’ experiences in bringing clinicians together to develop the best way care should be delivered across regions and specialties.
+
+Plans are not built around area health service boundaries, but around clinical networks that are appropriate to patients' health needs. We are serious about this. Regional clinical networks are the only way forward.
+
+Since that time, the Health and Disability Commissioner has raised considerable concerns about the ability of our regional hospitals, in particular, to survive in the longer term in the face of mounting pressures. You’ve seen the Whanganui report and the troubles at Capital and Coast. And I’ve already spoken about West Coast.
+
+We must start working now to maintain our regional health services. And we look to you to be part of that.
+
+And this is my most important message today: National wants a new partnership with the health professions. We want clinicians more involved in the planning, delivery and leadership of health services.
+
+Three principles underpin this as a plan to improve the quality and safety of patient care into the future – clinical leadership, networking of services, and clinical information for informed decision-making.
+
+We want to work with you to deal with these challenges. We will engage with you in decisions about the future of health services. We will not see you as costs or opponents, but as our partners.
+
+Along with that we will challenge you to become leaders in improving the delivery and quality of patient care across all parts of the health system, to work collaboratively with funders, and to deal effectively with any poor standards of practice where you see it.
+
+Increasingly, your profession is talking about assuring your on-going professional competence. This is the sort of leadership that will enhance your profession and patient care. It is this clinical professionalism that underpins the trust the public has in the health system and the people who work in it.
+
+I am very optimistic about the future of the New Zealand public health system. The people I have met have been thoughtful, professional, and dedicated.
+
+When I asked to become Health Spokesman after the 2005 general election, I did so because I believed our health service could be doing so much better. A country like New Zealand should be able to lead the world in responsive patient care.
+
+Ladies and gentlemen, the future isn’t about turning the health system upside down again. We are not seeking a revolution but a sea change – a sea change of attitude that lets people in health do their jobs better, based on trust and respect.
+
+**ENDS**
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

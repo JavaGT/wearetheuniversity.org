@@ -1,0 +1,182 @@
+---
+slug: brash-improving-health-policy-speech
+title: "Brash: Improving Health Policy Speech"
+date: 2005-08-10
+source-url: https://www.scoop.co.nz/stories/PA0508/S00289/brash-improving-health-policy-speech.htm
+author: new-zealand-national-party
+---
+Brash: Improving Health Policy Speech
+=====================================
+
+**Wednesday, 10 August 2005, 7:04 pm**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Don Brash MP National Party Leader
+
+10 August 2005
+
+Improving Health Policy An address to the New Zealand Medical Association, Auckland Division
+
+Ladies and gentlemen, every day the media carry reports of a health system struggling to cope. In spite of greatly increased funding, New Zealanders are increasingly forced to wait for surgery or treatment in life-threatening situations.
+
+The official statistics confirm the scale of this failure.
+
+There are nearly 180,000 patients waiting for surgery. Almost 61,000 patients are lined up in the booking system, split into a variety of waiting lists. These patients sit in categories such as Active Review, Booked, Given Certainty, Residual, Rebooked.
+
+Nearly 120,000 patients are waiting for a first specialist assessment - one of the first steps towards receiving an operation. And yet there are probably thousands more waiting for an operation who do not appear on such lists - those people culled from the long line of people waiting for their operation and sent back to their GPs for 'active monitoring'. That is what happened to 2,000 patients in Counties Manukau, and the almost 600 in Tairawhiti.
+
+Behind these statistics are tens of thousands of anxious New Zealanders and their families, distraught that, having paid their taxes, the health system cannot provide for them in their time of need.
+
+A Problem that Money Won't Solve A vast increase in new spending, but little increase in output, is what can only be described as a collapse in productivity.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+This productivity collapse is occurring during a time when our economy has been the beneficiary of some of the best export prices we've seen for many decades. And the economic prosperity which those prices have created has enabled New Zealand's health budget to be increased by more than 50% - from $6.1 billion to $9.7 billion in the six years to this current 2005-06 year.
+
+Yet operations performed have barely increased during that time - the latest figures indicate that total surgical case-weighted discharges remain almost static.
+
+The chronic failure of the health system to meet the reasonable expectations of tax-paying New Zealanders is there for all to see.
+
+Labour has unnecessarily implemented massive restructuring, resulting in a highly complex health bureaucracy with poor accountability.
+
+One of the major problems we have is that there are no easily identifiable outputs in the sector. The recent OECD survey made just this point, stating:
+
+\"New Zealand is currently a long way from having the information base to permit a rigorous assessment of productivity in the health sector. Centrally collected regular statistics for discharges coded according to the diagnosis and the treatment received currently cover only between 35% and 45% of total hospital output: there are no centralised output data on rehabilitation, minor procedures or outpatient activity. There is also a lack of centralised output data for non-hospital-based services, which represent 40% of all DHB-funded outputs."
+
+So what we have is a situation where a vast amount of money has been spent, but we have no ability to evaluate comprehensively the extent to which output has actually increased. What we are left with is partial data, and none of it leaves room for any confidence that taxpayers are getting value for money.
+
+Labour junked the expertise that had been painstakingly developed via the centralised purchasing structure for healthcare, and instead splintered that function into 21 fragments spread around the DHBs. Labour presided over the creation of 79 PHOs at enormous cost, initially allocating $400 million of new spending available only to GPs working in PHOs.
+
+It is impossible to identify health gains even remotely proportionate to the scale of money that has been spent. Labour has even given up trying to identify those healthcare gains, and now simply resorts to statements of the scale of taxpayers' money they have hurled so ineffectually at the problem.
+
+One doctor summed the situation up well when he noted that, when we look at the scale of spending in the health sector over the past few years, "it is devastating to see how little effect it has had".
+
+More money will always help mask the inefficiencies in the system. But New Zealanders need value for money, and we are clearly not getting it. It is clear that money alone will not solve the serious dysfunction which afflicts the New Zealand public health system in 2005.
+
+Careful Change Over Time Faced with a productivity collapse of the magnitude experienced, it is tempting to seek solutions in the form of dramatic overhauls and restructurings. But major structural change could further destabilise and undermine a health system already in crisis.
+
+Second only to the frustrated patients and their families, the doctors, nurses and other professionals must be viewed as victims of a system which leaves them unable to perform the tasks for which they have spent years acquiring skills and experience.
+
+Ideological straightjackets and bureaucratic procedures encumber their efforts.
+
+And, to add insult to injury, they must endure the sight of burgeoning bureaucracies consuming the very health dollars which Parliament has allocated for the treatment of their sick and injured patients.
+
+The National Party acknowledges that in such an environment, the changes which are needed must be undertaken with great care, and implemented over time. The roles of frontline health professionals must be protected and valued, as the structural changes which will ultimately enhance their operating environment are addressed.
+
+Towards a More Flexible System In short, an incoming National Government will work to restore the productivity of our health system, while taking great care to avoid disrupting the health professionals in the front line. We certainly want to work with and consult with the health professionals involved.
+
+The first thing we must do is recognise that resources are scarce. The Finance Minister himself has acknowledged that the recent pace of spending increase in Health cannot be sustained. He wrote, in a Cabinet Paper prior to the 2005 Budget, that:
+
+"The current growth in government spending is unsustainable if we are to remain on track to meet our fiscal objectives. To rectify this we need two critical mind shifts. The first is that recent growth rates across all government sectors (in particular Health and Education) are unsustainable and expectations need to be revised."
+
+And if resources are scarce, as they obviously are, the resources made available must be applied first to the areas of greatest need; and where applied, spent wisely.
+
+The key steps in National's approach to addressing these issues will be:
+
+\* A full review of the functions performed within the Ministry of Health and the various entities which report to it, to streamline operations and improve efficiency. This review is not the precursor to yet another major restructuring of the health sector. We simply cannot afford to do that with a system that is in such a fragile state. The entire focus of this review is to get more money through to the frontline services in the health sector, and to reduce the form-filling culture of bureaucracy that is stifling enterprise, creativity and innovation in the health sector.
+
+\* We should be seeking, as a matter of plain common sense, to remove unnecessary administration, duplication and fragmentation by better planning on a local, regional and national level. That will involve gradually rationalising bureaucratic waste and duplication, as it is identified, within the 21 District Health Boards and 79 Primary Health Organisations. But I would emphasise the word gradual. National is not seeking to shake-up the system, as I've said. Rather, we will search for the sort of cost-saving measures that will endure, because they make sense.
+
+\* Rather than putting roadblocks in the way of patient choice, we need to encourage the provision of greater choice by ensuring that where the public system lacks the capacity to deliver services, recourse is available to other service providers. Clearly, this needs to be done in a way which does not undermine the ability of our public hospitals to fully utilise the investments they have made. But Labour does seem to have an obsession with blocking any useful innovation that might arise out of public-private partnerships in our health sector, and that is an ideological conviction that comes at the expense of patients on our waiting lists. Thus a National Government will seek to expand partnership between the public and private health sectors to improve the overall productivity of the health sector, to get better utilisation of resources, and thus better value for taxpayers' money.
+
+Elective Surgery In no area of the public health system is it more obvious than in the area of elective surgery that simply throwing taxpayers' money at the problem is no solution. The Ministry of Health's own statistics tell a story of ballooning health budgets yet static numbers of operations.
+
+Of the 120,000 patients waiting for a first specialist assessment, more than 25,000 have been waiting for over six months. What we have is a system resembling snakes and ladders, where patients are forced to hope their number comes up as they edge ever closer to obtaining their operation. More recently, we are seeing that this farce has hidden pitfalls, with patients in Counties Manukau and Tairawhiti being culled from waiting lists and returned to their GPs for 'active monitoring', as I've mentioned.
+
+At present, patients with common ailments, such as hernias, varicose veins, haemorrhoids and gall bladders, will simply not be put on a waiting list unless the condition is very severe.
+
+Penalising patients for the sake of pointing to one artificially reduced waiting list will not be part of National's health policy.
+
+The growing pressures in the health sector are now starting to manifest themselves in hospital emergency departments, the very locations that should be the first port of call for a New Zealander in the case of a health crisis. Reports are showing that DHBs are not meeting targets for triage response times, meaning patients with heart attacks, massive bleeding or serious injury are not being seen within acceptable timeframes.
+
+National will encourage DHBs to explore public-private partnerships and contracting arrangements with private providers, so the full capacity of our health system is utilised to maximise efficiency. It is time to abandon the monopolistic ideology which sees New Zealanders continuing to suffer because public hospitals are running at capacity, when there are world-class private clinics and hospitals with the capacity to service their needs.
+
+Primary Care What about primary healthcare? Do we have any reason to be satisfied with the PHO system that Labour has forced on the primary care sector?
+
+The findings of a report into the Primary Health Care Strategy do not inspire confidence. The findings reflect long-held concerns about the effectiveness of the PHO structure.
+
+The report found there was inconsistency and variation in the contracting process, there was a lack of understanding of PHOs by the public, that money had been 'wasted' on those who could afford to pay and that there was a perceived greater control of general practices by government.
+
+Those participating in the research noted on-going concerns over the lack of targeting in the new system and concerns that some New Zealanders may still be missing out on cheaper care.
+
+These are serious issues. On the face of it, a universal funding strategy will inevitably fail the test of giving adequate support to the least well off. By providing support to all, it necessarily means that support to the most needy is less than it could be. Universal subsidies mean that support is spread very thinly.
+
+If you ignore that unavoidable fact, and press on with the strategy even so, and attempt to make the subsidy large enough to be meaningful to those on lower incomes, then most people are simply being taxed so that the government can return it to them - less a bit for all the waste and bureaucracy along the way - in the form of a subsidy.
+
+It is one thing to be taxed to help the needy - and nobody would quarrel with that - but it is quite another thing to be taxed merely so that you can receive part of the money back by way of subsidy.
+
+The question really, is this. Do Helen Clark and Don Brash, and indeed probably all of you in this audience, need a $26 subsidy each time you require the services of a GP?
+
+Does it make sense to give each of us a subsidy, when we can perfectly well afford the full price? Is subsidising us really a priority in a situation of scarce resources?
+
+And is it fair, and even defensible, to give no more assistance to a person on a low income than to us?
+
+Universal funding might be an excellent arrangement in an environment in which there are no overall funding constraints. But this is not the world we live in - and indeed, such a world doesn't exist anywhere! The whole history of the New Zealand health system is one of meeting the challenge of allocating scarce resources in a way which delivers the most help to those most in need and with least capacity to help themselves. The PHO universal funding approach flies in the face of that ongoing reality.
+
+We will soon be announcing a comprehensive policy in this area, including a clear indication of priority areas for new spending.
+
+What about the PHO system itself?
+
+National will retain the PHO system, not because it is a well designed or implemented system, but simply because there has been a vast investment in developing it. The primary health care system should not have to endure yet another upheaval.
+
+But because the process has occurred with minimal transparency or accountability, National will review that entire process, opening it to full scrutiny and account, with a rigorous assessment of where the money has been spent, and how effective it has been in improving health outcomes.
+
+As we identify weaknesses or inefficiencies in the system, we will fix them. We will introduce procedures to improve accountability, so that all funding to the primary sector is linked with specific and measurable patient outcome indicators.
+
+Conclusion
+
+In conclusion, we need a new set of priorities in Health.
+
+Labour said it would shrink the health bureaucracy, but instead expanded it. The growth was disguised by moving functions around, some being merged into the Ministry, some transferred to district health boards.
+
+What we have now is a maze of bureaucracy. And the most notable feature of it is the lack of accountability.
+
+Labour told the public they would fix the health system. Instead they ensured that there is minimal relevant information available, therefore minimal scrutiny, and therefore little accountability.
+
+Labour claims to have hugely reduced the numbers on the waiting list. But people have simply been re-categorised - the ultimate insult when what they wanted was an operation.
+
+In Opposition, Helen Clark went around the country saying she would "blitz" the waiting list. She didn't tell people that by "blitz" she meant "re-label".
+
+And after all of this, and after all the fiascos in education, she is asking people to trust Labour one more time!
+
+These past five years have been a wasted opportunity, wasted because when international conditions have been so favourable for our economy, the financial position of ordinary working New Zealanders should have markedly improved.
+
+Instead, 600 Kiwis leave this country every week, headed to Australia.
+
+Turning that around is what this election is all about.
+
+That is why this election is about lowering tax rates so that working people have better incentives to get ahead in life from their own efforts, and so that working parents don't see most of their income disappear into tax and childcare costs.
+
+This election is about repairing the damage Labour has done to our education system, and making sure children are not left behind.
+
+It is about making our communities safer by getting repeat and violent criminals off our streets - we will do that by abolishing parole for violent and repeat offenders.
+
+It is about ensuring that funding gets through to the front line services of health, education and policing, rather than funding an ever larger Wellington-based bureaucracy.
+
+And it is about finishing off Treaty settlements quickly, and regaining a sense of perspective about Treaty issues so that they don't poison our otherwise successful multi-cultural society.
+
+Ultimately, this election is about building a society that our children and grandchildren will choose to live in.
+
+Labour is failing in each and every one of these areas. Only National has a plan to fix these things. And we will.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

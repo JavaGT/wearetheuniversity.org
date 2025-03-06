@@ -1,0 +1,107 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2004-05-06
+source-url: https://www.scoop.co.nz/stories/ED0405/S00028/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 6 May 2004, 11:43 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+![AUS WEB SITE](http://www.aus.ac.nz/pictures/logo.gif)National university bargaining deferred  
+Bargaining for new national collective employment agreements for academic and general staff in New Zealand’s seven traditional universities has been deferred for the remainder of the year. This follows progress in national bargaining, most notably an agreement by university employers to engage in a working party with the unions to look at the form of bargaining which would be most productive in the sector. This includes looking at the benefits of multi-employer and multi-union employment agreements.  
+The employers have also agreed to work with the unions on a “white paper” on funding and salaries which would form the basis of lobbying Government, and have agreed on a joint union and employer request for tripartite meetings with Government to identify and address issues facing the sector.  
+The change came during last-minute negotiations called in an attempt to avert national strike action, scheduled to take place throughout May.  
+Association of University Staff General Secretary Helen Kelly said the deferral did not signal any lessening of commitment to national bargaining and she expected new national negotiations to begin early next year.  
+“The decision to revert to enterprise agreements in this bargaining round came only after Massey and Canterbury Universities gave a clear indication that they believed there may be benefit in national collective agreements,” she said. “That is a significant change and one we have acknowledged by deferring national bargaining this year.”  
+Ms Kelly said the change was important given the employers’ refusal, to that point, to engage with each other or the unions on a collective and cooperative basis. “It certainly gives us a practical base from which to address funding and salary issues in a productive manner,” she said.  
+While national bargaining has been deferred, settlement of local agreements will now depend on acceptable pay offers being made.  
+Union members at Auckland, Waikato, Victoria (academic only), and Canterbury will consider the pay offers made to them over the next fortnight. Those at Lincoln, Massey, Otago, and Victoria general staff have rejected their salary offers and will determine whether to seek further negotiations with their employers or to take industrial action.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week . . . . .  
+1\. New Waikato Vice-Chancellor announced  
+2\. New TEC appointments  
+3\. Students petition for living allowance  
+4\. Demographic data missing from PBRF report  
+5\. More on the PBRF  
+6\. IDF kills Palestinian lecturer “by mistake”  
+7\. Warnings over research funding  
+8\. UK staff settle pay dispute
+
+New Waikato Vice-Chancellor announced  
+Professor Roy Crawford has been appointed as the new Vice-Chancellor of Waikato University. He is currently a Professor of Mechanical Engineering and Senior Pro Vice-Chancellor at Queen's University in Belfast, Northern Ireland, where he has special responsibility for research and development.  
+Announcing Professor Crawford's appointment today, Waikato’s Chancellor John Gallagher said: “His research and business skills and experience, coupled with his very high-level academic experience, make him the ideal person to lead the university, particularly at a time when research performance affects our funding and we are looking to start up more businesses based on university-developed intellectual property.”  
+Professor Crawford has had substantial and highly successful experience in Britain’s Research Assessment Exercise (RAE), having led his School of Mechanical and Process Engineering from grade 3 in the 1992 RAE to the top grade 5 in 1996 and again in 2001.  
+Queen's is now rated in the top 20 for research power in the UK “which is due in no small measure to Roy's leadership in this area”, says Queen's Vice-Chancellor Professor Sir George Bain.  
+Professor Crawford’s appointment takes effect from 1 January 2005 after the current Vice-Chancellor Bryan Gould retires.
+
+New TEC appointments  
+New appointments have been made to the eight-person Board of the Tertiary Education Commission (TEC) to replace its Chair, Dr Andrew West, and Board member, Dr Ian Smith. Associate Minister of Education (Tertiary) Steve Maharey has announced that Cabinet has confirmed the appointment of Kaye Turner as the Acting Chairperson and has appointed current Board member Shona Butterfield as Acting Deputy Chairperson. Professor Graeme Fraser has been appointed as a new member of the Board.  
+Professor Fraser, formerly Massey University’s Assistant Vice-Chancellor (academic), chairs the New Zealand Qualifications Authority Board and Health Research Council, previously chaired the Committee on University Academic Programmes, and has served on polytechnic sector quality-assurance committees.  
+Former TEC members Dr West and Dr Smith have respectively taken up positions as Chief Executive of AgResearch and head of the Australian Nuclear Science and Technology Organisation in Sydney.  
+A decision about a permanent chairperson for the Commission will be made later in the year.
+
+Students petition for living allowance  
+A high school leader has joined tertiary student leaders to present members of parliament with 15 boxes of petition forms, containing more than 30,000 signatures, calling for a universal living allowance for all tertiary students.  
+Cashmere High School Head Boy Luke Doubleday, from Christchurch, joined the students on Tuesday this week when the petition was formally presented to Green’s Co-leader Rod Donald and representatives from several other political parties.  
+New Zealand University Students’ Association Co-President Fleur Fitzsimons said that they had unprecedented support for the petition’s call for the living allowance for all students. “These signatures represent many more voters who think we should move on from talking about the problems and move onto a solution – fast,” she said.  
+“The Government should take note of the support this campaign is receiving from school students who will probably miss out on a living allowance,” Ms Fitzsimons said. “Thousands of them from all over the country are angry about this issue.  
+Progressive MP Matt Robson welcomed the petition, saying the student debt-burden was compounded by the fact that many students borrow money to pay for living costs. “Students should not have to borrow money for living expenses,” he said.
+
+Demographic data missing from PBRF report  
+Missing from the Tertiary Education Commission’s report on the Performance-Based Research Fund (PBRF) is any demographic analysis of the results. TEC’s 2003 guide on the PBRF advised that the report would contain a range of demographic data about eligible staff, including ethnicity, gender, age, tenure, and employment status (full-time versus part-time).  
+Any such analysis is, however, completely missing from the report, other than of students completing research degrees. It says that not all Tertiary Education Organisations provided the relevant data and so it has not been possible to provide comprehensive and reliable demographic data. A spokesperson for the TEC advised Tertiary Update that it does not intend, at this juncture, any follow-up report on demographic issues.  
+AUS National President Dr Bill Rosenberg said that the lack of this data makes it impossible to investigate rigorously whether there are any systemic biases that disadvantaged any particular groups of staff, such as women or new staff establishing academic careers. “The lack of data is very disappointing given that there are already concerns over potential biases,” said Dr Rosenberg. “The TEC’s own Report acknowledges problems recognising the quality of the research produced by staff early in their careers, for example.” Dr Rosenberg said it was very important to establish a baseline for comparison with future PBRF rounds.  
+Dr Rosenberg said it would not be unreasonable for the TEC to go back to institutions and ask for the data they were required to provide in the first place so that this could be remedied.
+
+More on the PBRF  
+The TEC has advised that it will proceed with a consultation process in a few weeks about an international comparison of research quality involving New Zealand universities. The Commission is working on a process to obtain views about making an international comparison as well as the methodological considerations which would need to be considered. It is not expected that this will get underway for several weeks yet.  
+The reports of each of the thirteen assessment panels that evaluated the Evidence Portfolios of almost 6,000 research academics, as a part of the PBRF process, are now available on the TEC website: www.tec.govt.nz  
+An independent evaluation of the process used in the TEC’s quality evaluations is being undertaken and will be available later this year.
+
+Worldwatch  
+IDF kills Palestinian lecturer “by mistake”  
+The Israeli Defence Force (IDF) has admitted that it accidentally shot and killed a lecturer at the Arab-American University in Jenin last week when troops were pursuing two Hamas operatives. An investigation by the IDF Central Command and the coordinator of government activities in the territories found that the lecturer had accidentally wandered into the area of the chase and had no connection with the wanted men.  
+Although military sources initially claimed that he was linked to the two wanted Hamas men, Palestinian sources said that the lecturer was walking to his family home when shot.  
+The IDF said that soldiers spotted two armed men in the area and opened fire. One of the men was injured but both suspects managed to flee. An attack dog was released and, for some reason, attacked the lecturer.  
+The soldiers then fired at him from a distance. He was not armed.
+
+Warnings over research funding  
+The Federation of Australian Scientific and Technological Societies (FASTS) has warned the Australian Government that it must deliver at least $A4.6 billion in research spending if it is to maintain funding at the present share of Australia’s gross domestic product. FASTS said that even under conservative inflation rates a big boost was required to ensure that research spending did not go backwards.  
+The warning came prior to Australia’s Budget to be delivered next Tuesday night. Prime Minister John Howard is expected to announce a shake-up of funding, with priority funding given to research that has commercial potential.  
+Supporting FASTS’ call for increased investment, the National Tertiary Education Union (NTEU), which represents many of Australia’s research staff, said the Government must deliver at least a $6.8 billion increase over its 2003-04 levels of expenditure until the end of the decade, simply to maintain the status quo.  
+“The research community is expecting the Government, not just to maintain current spending, but for increased investment targeting infrastructure development, university block-grants, adequate support for publicly-funded research agencies and initiatives aimed at research students and encouraging business research and development,” said NTEU National President Carolyn Allport.
+
+UK staff settle pay dispute  
+University staff in the United Kingdom have voted, in a postal ballot conducted by the Association of University Teachers (AUT), to accept a pay offer by their employers. The result will see pay rises of between 8.7% and 24.7% over the next two years at UK’s “old universities”. The average increase is understood to be around 12.2%.  
+The new agreement comes after months of negotiation, culminating in industrial action across the UK earlier this year. It removes threatened losses of career earnings, safeguards present pay and grading links between academic and related staff, and provides a national agreement.  
+A total of 22,238 union members, or 52.1% of the eligible AUT membership, participated in the ballot with 84.5% of votes in favour of settlement.  
+AUT General Secretary Sally Hunt welcomed the result, saying that union members had assessed the offer and wholeheartedly agreed with the recommendation of the union’s Executive and National Council to accept the deal.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the union and others. Back issues are archived on the AUS website: http://www.aus.ac.nz. Direct enquires to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

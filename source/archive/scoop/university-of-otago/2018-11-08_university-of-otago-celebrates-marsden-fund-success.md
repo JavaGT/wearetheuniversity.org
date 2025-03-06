@@ -1,0 +1,423 @@
+---
+slug: university-of-otago-celebrates-marsden-fund-success
+title: "University of Otago celebrates Marsden Fund success"
+date: 2018-11-08
+source-url: https://www.scoop.co.nz/stories/SC1811/S00016/university-of-otago-celebrates-marsden-fund-success.htm
+author: university-of-otago
+---
+University of Otago celebrates Marsden Fund success
+===================================================
+
+**Thursday, 8 November 2018, 9:18 am**  
+**Press Release: [University of Otago](https://info.scoop.co.nz/University_of_Otago)**
+
+8 November 2018
+
+**University of Otago celebrates Marsden Fund success**  
+  
+University of Otago researchers are celebrating their most successful Marsden Fund round ever, securing $28.5 million (excluding GST) for 41 world-class research projects.
+
+In total, the Marsden Fund, which supports excellence in leading-edge research in New Zealand has this year allocated $85.6 million (excluding GST) for 136 research projects throughout the country. There has been an increase in the number of grants awarded to early-career researchers from 49 to 53 nationally.
+
+University of Otago Deputy Vice-Chancellor (Research and Enterprise) Professor Richard Blaikie says this is a significant achievement for Otago researchers as there is huge competition for the funding with applications usually coming from the country’s eight universities, seven Crown Research Institutes and about 20 other separate private and public-sector organisations.
+
+Last year University of Otago researchers gained around $24 million for 33 projects.
+
+“We are very proud that Otago has received the largest number of Marsden Fund awards ever, with the largest value,” Professor Blaikie says.
+
+“This is testament to the exceptionally hard work put in by research and professional staff to ensure their world-leading research ideas are expressed in the most compelling way possible.”
+
+The Otago research is broad and varied. Vice-Chancellor Harlene Hayne will receive $827,000 for her research into how judicial instructions and questions influence jurors. The project’s goal is to develop better processes to help juries fulfil their role of evaluating the evidence before them, and of using that evidence to reach a just verdict.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Palaeontologist Professor Ewan Fordyce has received $928,000 to further investigate a “global dark age” in whale evolution. Professor Fordyce says there is a puzzling gap in cetacean history about 23-20 million years ago when the global fossil record is nearly silent. Zealandia is one of the few places globally that can provide the evidence needed to plug the gap. Preliminary fieldwork in the South Island has recovered unprepared fossils of the right age and he proposes further investigations as part of his project.
+
+Professor Blaikie says Marsden Fund awards represent the pinnacle of excellence and some of the most academically challenging problems in their fields.
+
+“The knowledge that is discovered will solve longstanding problems in many cases and will go on to be applied for commercial, social or environmental benefit,” he says.
+
+Projects are selected annually in a rigorous process by ten panels who are guided by the opinions of world-leading, international researchers. It is administered by the Royal Society Te Apārangi and funded by the New Zealand government.
+
+The grants are distributed over three years and are fully costed paying for salaries, students and postdoctoral positions, institutional overheads and research consumables.
+
+Professor Blaikie says teaching and training of the next generations of practitioners and researchers will also benefit greatly from engagement with the outstanding research leaders who have been awarded these grants.
+
+Otago’s Marsden recipients
+
+Dr Inga Smith, Physics
+
+Supercooling measurements under ice shelves
+
+$954,000
+
+We know less about the oceans beneath Antarctic ice shelves than we do about Mars’ surface. Beneath the Antarctic sea ice and ice shelves, seawater is often colder than its freezing point temperature, yet still liquid. Such water is called “supercooled” seawater. Snap-freezing of supercooled seawater and small free-floating ice crystals known as “frazil” are fundamental obstacles to obtaining high-precision measurements of key ocean parameters needed for climate research. We will overcome this obstacle by working with collaborators from the USA and Norway to design and construct a new novel instrument; the High Precision Supercooling Measurement Instrument (“HiPSMI”). This instrument will be optimised for harsh Antarctic ocean conditions and installed into an innovative, modular underwater robot, “Icefin”. By pushing ocean engineering to extreme limits, we will determine the influence of frazil crystals on measurements of in situ supercooling. The measurements, in conjunction with numerical modelling and laboratory work, will revolutionise our understanding of supercooled waters by providing a high-precision, observational-based indicator for future climate observations beneath the vast cold cavity ice shelves of Antarctica. Our research will feed-forward knowledge gains into the ocean engineering challenges of the next frontier of polar exploration; ice-covered oceans on other worlds.
+
+Professor Harlene Hayne, Psychology
+
+Disorder in the Courtroom: How do judicial instructions and questions trails influence juror decision-making?
+
+$827,000
+
+In criminal trials, evidence is typically presented by the prosecution and the defence, and witnesses can be cross-examined by the opposing side. Although a judge ensures the rules of evidence are followed, in a jury trial, it is up to the jurors to determine whether or not the defendant is guilty. Despite the importance of their role, jurors receive no special training, and are often confronted with complex and highly technical information. Recognising the complex task that jurors face, the court has developed tools to help juries reach a just verdict. In our proposed research, we assess the impact of three of those tools: judicial directions, expert evidence, and question trails. Given our expertise, our focus is on trials that rest on issues of memory, but the techniques we develop will be applicable across the range of evidence that juries often consider. Our goal is to develop better processes to help juries fulfill their role of evaluating the evidence before them, and of using that evidence to reach a just verdict. Our research questions were developed in the course of our work with lawyers and judges in New Zealand; our findings will have immediate practical relevance to the judicial system.
+
+Professor Liz Franz, Psychology
+
+Wired to move: The genetics of movement control
+
+$959,000
+
+Movement control forms the basis of our behaviour. Yet, the genetic underpinnings of movement control remain largely unknown. Non-syndromic Congenital Mirror Movements (CMM) presents a naturally occurring isolated problem of movement and unique window to investigate this intriguing issue. Whenever a CMM-affected individual produces movements intended for only one hand, unintentional mirroring also occurs in the hand on the opposite side. Mutations in three different causal genes with autosomal-dominant heritability have recently been demonstrated in CMM-affecteds. Neuroanatomical abnormalities of the corpus callosum and corticospinal tracts have been found in the small samples of affecteds tested using specialised multimodal brain imaging methods. Largely uninvestigated, however, is the manner in which the different genotypes are associated with distinct phenotypes. This project proposes to test the primary hypothesis that genotype-phenotype relations characterise different forms of CMM. Our multidisciplinary team aims to unravel those relations in a large cohort of people with familial CMM and sporadic (unrelated) cases using methods of whole genome sequencing combined with thorough phenotyping of behaviour and neuroanatomical connectivity of involved brain structures. This project offers far more than a window to better understand CMM. It offers promise in gaining fundamental insights into genetic factors that make normal movement control possible.
+
+Professor Hallie Bucklie, Anatomy; Dr Peter Petchey, Anthropology and Archaeology
+
+The Best of Times, the Worst of Times: A Biocultural investigation of 19th century frontier mining cemeteries in Australia, New Zealand and California
+
+$827,000
+
+Thousands of people left the Old World in the 19th century to take part in the gold rushes in California USA, Victoria, Australia and Otago, New Zealand. While early rush participants were often of European descent, other ethnicities participated, especially the Chinese. It was both the best of times and the worst of times, with the promise of easy wealth but the risk of sickness or violent death. Although historical records document the hardships of mining life, they are often silent on roles played by women, children, and the disenfranchised. Archaeology is often the sole avenue of enquiry for these “voices”, but here too there are gaps. Goldfields archaeology is extensive, however, the distinct cultural identity of individuals is often masked by a common material culture and health is rarely examined. Bioarchaeology, the analysis of archaeological human skeletal remains, adds to the historical narrative through direct biological evidence. Historic cemeteries provide a wealth of biological and cultural information, illuminating the lives of people during this time. We will explore adaptations to mining life in all these Pacific Rim regions by analysing the mortuary ritual of the communities, quality of life of the people, and the landscapes in which they lived.
+
+Associate Professor Stephen Bunn, Anatomy
+
+Monitoring and manipulating neuronal activity in the maternal brain during lactation
+
+$911,000
+
+This proposal will challenge, and potentially overturn, our long-held understanding of the mechanism controlling prolactin secretion from the pituitary. Elevated prolactin levels are critical for lactation but mechanisms responsible for its secretion at this time are poorly understood. In non-lactating mammals, prolactin secretion is held in check by a negative feedback pathway mediated by prolactin-sensing hypothalamic dopaminergic neurons. It is currently believed that during lactation these neurons become insensitive to prolactin thus interrupting the negative feedback pathway and allowing prolactin levels to rise. We have published new evidence that this model is unlikely to be correct in that electrophysiological studies show that these neurons remain prolactin responsive during lactation. Surprisingly, however, they appear to undergo a lactation-associated change in phenotype and switch from releasing dopamine to releasing the opioid peptide enkephalin. Thus, we propose that contrary to becoming silent during lactation these neurons actually take on a new, but yet to be defined, role.
+
+Professor Ewan Fordyce, Geology
+
+Fossils of Zealandia elucidate a global “dark age” in whale evolution
+
+$928,000
+
+Whales and dolphins (Cetacea) include the largest animals on Earth, and play key roles as ecosystem engineers. Their rise to prominence is detailed by a relatively complete fossil record, revealing both their early transition back to the water, and the later evolution of modern echolocating dolphins and filter-feeding baleen whales. There is, however, one puzzling gap in cetacean history: a “dark age” about 23-20 million years ago (Ma), when the global fossil record is nearly silent. Before this gap, cetacean assemblages were dominated by archaic species; afterwards, modern forms appeared and/or diversified. What happened during this crucial time remains a profound mystery limiting our understanding of cetaceans as drivers of ocean ecology. Zealandia is one of few places globally that can provide the evidence needed to plug the gap. Preliminary fieldwork in the South Island has recovered unprepared fossils of the right age, and has identified other material not yet collected. There is a strong likelihood of further specimens from unexplored sites. New Zealand fossils will be the first to reveal the diversity, phylogeny, and ecology of the earliest “modern” cetaceans, and illuminate the origins and deep-time history and of their living descendants.
+
+Associate Professor Jacob Edmond, English
+
+News of the World: The global poetics of the newspaper
+
+$568,000
+
+This study asks why our instant access to online news from around the world brings not global understanding but paralysing confusion. It addresses this question by pinpointing the origins of our confusion in the newspaper, the medium that first juxtaposed news from many places on a single page. By analysing literary works from around the world that respond to news media from the printed daily to the Facebook newsfeed, it seeks to understand how the collage-like structure of the news produces our experience of the world as both instantly accessible and overwhelmingly complex. The study interrogates literary responses to two key stages in this growing sense of global complexity: the information revolution of the late nineteenth and early twentieth centuries and the digital revolution of today. Literary responses to these revolutions illuminate the continuities and differences between how we first came to imagine the world through the patchworked form of the newspaper and how we imagine the world today through online newsfeeds. Without investigating this interrelationship between imaginative texts and news media, we cannot grasp how we have come to view the world as bewilderingly complex and how we might reform our view to address issues of global urgency.
+
+Professor John Reynolds and Dr Louise Parr-Brownlie, Anatomy
+
+Beauty vs the Beast: How does our brain prepare us to respond appropriately to beauty or fear?
+
+$959,000
+
+Classical conditioning, as demonstrated by Pavlov, is the process whereby a neutral stimulus that repeatedly precedes delivery of a reward begins to elicit behaviour. Intriguingly, by a mechanism as yet unknown, our perception in sensory areas adapts during conditioning to maximise detection of stimuli associated with rewarding outcomes. We hypothesise that changes in primary sensory areas occur in response to neutral stimuli that predict the arrival of both reward and punishment, but are driven by different neuromodulator systems. Here we will measure the response in the superior colliculus to visual stimuli predicting both reward and punishment, and use pharmacology and optogenetics to determine the cellular mechanisms underlying changes in sensory responsiveness. We will also measure the effect of altered sensory responsiveness in the basal ganglia, where sensory inputs are thought to be incorporated into the generation of behaviour. This work will increase our knowledge of how the perception of sensory information associated with behaviourally relevant outcomes is heightened and leads to the selection of particular behavioural reactions. It holds the potential of providing new therapeutic targets for disorders such as post-traumatic stress disorder, anxiety, or addiction, where heightened responsivity in primary sensory regions may trigger debilitating behaviours.
+
+Dr Mele Taumoepeau, Psychology
+
+Could, Would, Should: Integrating mentalistic and deontic stances into a theory of social understanding
+
+$823,000
+
+This simple act of explaining someone’s behaviour can look like mind-reading because we appeal to things we can’t see such as thoughts, feelings, and beliefs. For children, the ability to reason about the minds of others corresponds strongly with parents’ tendency to talk about the child’s and others mental states. This work has led to universal theories of child socio-cognitive development, in which thinking about internal states as motivation for social behaviour are privileged. Yet, increasingly, evidence is showing that children and their caregivers from non-Western cultures do not conform to agreed developmental patterns of thinking and talking about the minds of others. We challenge prevailing developmental theory of children’s socio-cognitive understanding by looking at alternative pathways for understanding social behaviour that better accommodate the diversity of cultural experiences. In three groups of children from New Zealand, Malaysia and Tonga, we test children’s ability to use norms, rules and obligations to successfully reason about social behaviour, and analyse features of caregiver conversation that predict this form of reasoning. The results will provide timely insight into how culture-specific experiences influence children’s development both within New Zealand and worldwide. These insights have the potential to revolutionise our understanding of child development.
+
+Dr Tania Slatter, Pathology
+
+The 133p53 path to cancer: a new role for the 133p53 p53 isoform in cell surface trafficking
+
+$786,000
+
+P53 is a gene that helps to suppress cancer. However, a p53 variant, 133p53, has an opposing effect: it promotes cancer. We have learned that 133p53 is increased in aggressive cancers and that it has several properties that promote tumour growth and invasion. We propose that 133p53 promotes multiple aspects of cancer through a central mechanism that increases cell surface protein trafficking. If our hypothesis is correct, a new core mechanism will explain how 133p53 facilitates cancer development. We will test our hypothesis using three goals: 1) To establish that 133p53 increases trafficking of proteins to the cell surface; 2) To determine how 133p53 mediates increased cell surface trafficking; and 3) To determine if stopping 133p53 mediated cell surface trafficking reduces cancer. Understanding how cancer promoting signals are recruited to the 133p53 cell surface, identifying the mechanism by which 133p53 increases cell surface signalling and how this can be inhibited can provide new opportunities to treat 133p53-expressing tumours.
+
+Associate Professor Sian Halcrow, Anatomy
+
+Small beginnings, significant outcomes: A new life-course approach to understanding the impacts of social inequality on human health in ancient China
+
+$826,000
+
+Social inequality is the hallmark for state-level societies worldwide, which has significant repercussions for nearly half the world’s population who now live in poverty, affecting women and children most severely. To understand health disparities today, we need to study how inequality developed and how it impacted people in the past. The fertile Yellow River valley, known as the “cradle of Chinese civilisation", witnessed the development of one of the most durable states in the world. Recent research in this region has shown a deterioration in health and diet for women in the Bronze Age compared with the preceding Neolithic period. To fully understand this change, we will assess health and diet in large skeletal samples that cover socio-political development from the early agricultural societies to the stratified Han Dynasty. Using new methods to uncover childhood gender and diet, we will develop an original model to explain the development of diet and health inequality over the life course during five millennia of profound social change. This research is the first New Zealand-run bioarchaeological project in China and will place us at the forefront of methodological and theoretical development in the field.
+
+Dr Karyn Paringatai, Te Tumu – School of Māori, Pacific and Indigenous Studies
+
+E Kore au e ngaro! The enduring legacy of whakapapa
+
+$823,000
+
+I have a genetic mutation, inherited from my father, which used to give me an 80 per cent chance of developing diffuse gastric cancer (cancer that occurs in the stomach lining that is undetectable until it has advanced to an incurable stage). That chance is now zero per cent because, in 2010, I had my stomach removed. My father moved from the East Coast of the North Island to Invercargill in the 1960s where I was born and raised. During my upbringing, I had minimal contact with members of my whānau and limited knowledge of my whakapapa. I was 11 when I first realised that I should engage with it but it took 10 years before I started to do so. I am fortunate I did, because without knowledge of my whakapapa I would most likely be dead. Not knowing it almost killed me. This study aims to assess the socio-cultural impact of the interrelationship between whakapapa and genetic research. Through the lens of whānau with a CDH1 mutation, this study will investigate the role of whakapapa in empowering whānau to make informed decisions about their future, the experiences of whānau with a CDH1 mutation and culturally-responsive genetic research.
+
+Dr Wayne Stephenson, Geography
+
+Will it stay, or will it go? Determining the relationship between marine terraces formed by earthquakes and coastal erosion
+
+$958,000
+
+Uplifted marine terraces are coastal landforms widespread globally and used to infer past earthquakes, sea-levels and rates of landscape change. However, interpretations of past earthquakes are controversial because we do not understand the conditions under which uplifted terraces are removed from the landscape. This understanding is vital because the removal (through erosion) of one or more terrace leads to erroneous estimates of past earthquake activity. Our recent fieldwork shows new marine terraces along the Kaikōura–Marlborough coast and on the Kaikōura Peninsula following the November 2016 earthquake. Our extensive data from Kaikōura covers 43 years, providing a baseline from which we can determine the longevity of these new terraces. Currently, understanding of longevity is limited by the lack of a model that includes erosion processes and terrace preservation. Using new advances in dating methods we can identify if terraces have been removed from the landscape. We will develop a multi-factorial framework to establish “preservation thresholds” for marine terraces. Our framework will enable informed predictions of past earthquakes and coastal change and contribute to the global response to sea level rise and climate change impacts on coasts since we will assess how long newly uplifted terraces will last in the landscape.
+
+Dr Mikkel Anderson, Physics
+
+Hot entanglement with cold atoms
+
+$935,000
+
+The physical phenomenon known as “Quantum Entanglement” has undergone a remarkable voyage since it was first predicted by Quantum Mechanics. However, quantum entanglement is often fragile and is easily lost if not kept in an ultra-cold environment. This presently hampers its transition from laboratory experiments to real life applications. We will show how the very processes that often destroy entanglement can be exploited for its generation thereby giving a new thermally robust source of entanglement for future quantum technologies. Powered by astounding progress in scientists' ability to control atoms, we will assemble individual atomic pairs held by laser beams, and watch through our single-atom sensitive optical microscope as the atoms entangle when they collide. Comparing our experiments to state-of-the-art numerical and theoretical models will provide unprecedented insight into processes that generate and destroy quantum entanglement. We will separate the atoms and see how they remain invisibly interconnected, and how they can be used for sensors who's precision surpass the fundamental limit of standard technologies.Over the last few years the investigators succeeded in finding the connection between boundary conditions and the underlying stochastic processes for a very special but important case in one dimension. We propose to generalise our approach to a much larger class of non-local differential operators as well as mixtures of such operators to greatly enhance their applicability. We will also perform numerical investigations into efficient algorithms for solving non-local differential equations with boundary conditions.
+
+Associate Professor Boris Baeumer, Mathematics & Statistics
+
+Boundary conditions for non-local operators
+
+$680,000
+
+Non-local differential operators are a common mathematical tool to spatially model the risk of spread of an invasive species, an epidemic, or any other system where the outliers dominate the dynamics of spread. It is the one dandelion seed or the one sick traveller that establishes the new colony, not the growth of the colony, that is responsible for the speed of the invasion. While non-local operators are flexible enough to take into account some local topography the models are usually run on an infinite domain as the connection between boundary conditions for non-local differential operators on a finite domain and the underlying stochastic process remains largely unknown. This not only leads to numerical inefficiencies but also hinders the applicability and accuracy of the model. Over the last few years the investigators succeeded in finding the connection between boundary conditions and the underlying stochastic processes for a very special but important case in one dimension. We propose to generalise our approach to a much larger class of non-local differential operators as well as mixtures of such operators to greatly enhance their applicability. We will also perform numerical investigations into efficient algorithms for solving non-local differential equations with boundary conditions.
+
+Associate Professor Angela Wanhalla, History; Dr Lachlan Paterson, Te Tamu – School of Maori, Pacific and Indigenous Studies
+
+Te Hau Kāinga: Histories and legacies of the Māori home front, 1939-45
+
+$746,000
+
+Māori participation in World War II was significant. Nearly 16,000 Māori enlisted for overseas service and around 3,600 served. By March 1943, one-third of the Māori population were contributing to the war effort, many of them civilians. For Māori, the experience of war instigated significant social, economic and demographic transitions, and stimulated calls for equality of treatment in all areas of life in the post-war decades. Yet, the wartime experience is one of the least understood changes in Māori society. Te Hau Kainga will provide the first sustained examination of the Māori home front from the perspectives of women, young people, whānau and communities who experienced the war at home. This project, utilising archival research and personal testimonies, will address how ordinary Māori mobilised for wartime economic needs, and made a distinctive contribution to post-¬war aspirations for political and economic self-¬determination. Outcomes of the research will include a website and blog to engage with the community, an exhibition, and monograph. As a pathway to understanding the social and cultural impacts of war, an international symposium will place the Māori experience into a global framework and generate new knowledge about Indigenous experiences of global war.
+
+Associate Professor Bruce Robertson, Zoology
+
+Resolving the genomic architecture of hatching failure to improve conservation of endangered birds
+
+$933,000
+
+Egg-hatching failure is a frustrating reality in endangered bird conservation. Many eggs fail to hatch due to reduced fitness of individuals with related parents (inbreeding depression). Despite decades of research on the topic, management guidelines often simply state “avoid inbreeding”. We need to do better. We take advantage of recent advances in molecular genetics and bioinformatics to discover the genomic architecture of hatching failure in two iconic endangered birds: ‘Alalā (Hawai‘i) and Kākāpō (New Zealand). These two species are powerful model systems for uncovering the cause of hatching problems that plague many species: both species have long-term pedigree data, detailed fitness records, extensive high quality genomic resources, and large numbers of samples (including embryos that died in the egg) for analysis. We will also capitalise on a growing number of published avian reference genomes to undertake comparative analysis and enable our results to be applied more broadly. By combining massive datasets in this way, we are uniquely placed to make the most of recent molecular and analytical advances and uncover why inbreeding leads to hatching failure. Our study will make a fundamental contribution to the understanding of hatching success in birds, and offer much-needed management options for endangered species conservation.
+
+Dr Peter Mace, Biochemistry
+
+Inflammation or death via the ASK signalosome – why not both?
+
+$958,000
+
+How does the body judiciously respond to challenges when the immune system is already on alert? Metabolic imbalances during obesity and diabetes chronically challenge the immune system, and further stressors that may be relatively benign can cause serious inflammatory disease. In response to metabolic or microbial stress, apoptosis signal-regulating kinases (ASKs) form large multiprotein complexes that promote cellular responses such as cell death and/or inflammation. Humans have three different ASK proteins, which can function alone or together. The molecular mechanisms that allow ASK proteins to drive responses ranging from minimal (inflammation) to extreme (cell death) are unclear. In this project, we seek to understand how ASK proteins assemble into macromolecular signalling hubs. We will capture three-dimensional structures that show how multiple ASK proteins work together; and use novel biochemical tools to investigate why complexes with mixtures of different ASK proteins cause more extreme cellular responses. The confluence of metabolic imbalance and microbes is a major frontier in human health, which converges in disrupted cellular stress response pathways. Understanding how ASK proteins function alone, and together, in light of chronic and acute stressors is a major piece of this puzzle, and integral to both normal homeostasis and inflammatory disease.
+
+Dr Philip Brydon, Physics
+
+Superconductors with intrinsic magnetism: Origin, evidence and universal physics
+
+$900,000
+
+Superconductivity is a technologically important quantum state of matter where electricity can flow without resistance. Its defining microscopic feature is the formation of Cooper pairs of two electrons. How the electrons bind into a Cooper pair controls the properties of the superconductor. This remains poorly understood in many materials, as it is influenced by a multitude of factors including the atomic orbitals from which the electrons originate. We have recently discovered that when the atomic origin of the electrons is important, an intrinsic magnetic field can appear in the superconducting state. This represents a qualitatively new form of superconductivity, which resembles a non-superconducting metal, but containing uncharged particles instead of electrons. Excitingly, our discovery may explain puzzling magnetic signals observed in optical experiments on a number of enigmatic superconductors. This motivates our planned research, where we will develop a comprehensive theory of superconductivity with intrinsic magnetism, from the microscopic origins to the observable consequences. Our work will fundamentally extend the microscopic understanding of superconductivity, and help to resolve the long-standing mystery posed by these materials.
+
+Dr Steven Smith, Geology
+
+Reacting to rupture: the role of chemical reactions in earthquake behaviour at plate boundaries
+
+$837,000
+
+In the deep roots of subduction zones, mysterious deformation events referred to as “slow earthquakes” and “tectonic tremor” illuminate the underlying physics of stress cycling and seismic hazard along plate boundaries. However, almost nothing is known about the fundamental processes active in the slow earthquake and tremor source region. Recent improvements in the spatial mapping of these events indicate that they occur in regions where the plate boundary separates mantle and crustal rocks with extremely different chemical compositions. This interdisciplinary project will explore the idea that slow earthquakes and tremor occur due to coupled physical processes and chemical reactions that modify the rheology of large serpentinite shear zones. We will exploit the unique opportunities provided by: 1) a remarkably well preserved, plate boundary-scale serpentinite shear zone in New Zealand that provides a window in to the structure, petrology and geochemistry of the slow earthquake and tremor source; 2) a novel combination of emerging microanalytical techniques, recently pioneered by our team members, to characterize in unprecedented detail the evolution of shear zone texture and mineralogy during chemical reactions, and; 3) powerful high pressure-high temperature deformation experiments to quantify feedbacks between chemical processes, and the strength and stability of serpentinite shear zones.
+
+Professor Jon Water, Zoology
+
+Founder Takes All? Tracking the colonisation of New Zealand’s newly uplifted shores
+
+$876,000
+
+Emerging data suggest that the race to colonise new space can lead to long-lasting spatial structuring of genetic lineages, but this idea remains largely untested. Recent and historic earthquakes in New Zealand and Chile wiped out intertidal-limited populations and generated extensive new, vacant habitats. The biological colonisation of this new coastal terrain thus presents ideal opportunities to directly track major population expansion events in the wild. The Kaikoura earthquake uplift of 2016, for instance, purged intertidal-limited species along a vast stretch of our coastline, and formed a new intertidal zone for colonisation. In this unique study we will use genomic tools to track the success of recolonising lineages, to help understand how sudden population expansion itself can shape the genetic make-up of species. Our study will provide the world's first large-scale, real-time test of the “Founder Takes All” hypothesis, where “getting in first” is everything.
+
+Dr Laura Gumy, Anatomy
+
+Mechanisms regulating long-range intracellular transport in neurons
+
+$938,000
+
+Axons are the long protrusions of neurons that transmit information to other nerve cells and tissues. Long-distance transport of molecules within the axon is critical for neuronal function. Transport involves the movement of proteins, RNAs, lipids and organelles, by motor proteins that move along cytoskeletal microtubules. Despite the critical importance of long-range transport to proper neuronal functioning, the mechanisms regulating the distribution of cargoes in axons over long distances are poorly understood. Recently, we uncovered that microtubule associated proteins control motor-based transport in neurons. Given the ubiquitous presence of many microtubule associated proteins in axons, we hypothesise the existence of a “MAP code” where microtubule associated proteins provide signals to coordinate specific transport routes. To test our hypothesis we will use state-of-the-art high-resolution live-imaging microscopy techniques to create dynamic maps of molecule movement within full-length axons. Combined with biochemical and optogenetic assays we will identify how specific microtubule associated proteins regulate the activity of various motor proteins to direct transport. In addition to deciphering the fundamental mechanisms of long-range transport processes in neurons, our work has the potential to contribute to the discovery of new therapeutic targets for treatment of diseases associated with intracellular trafficking defects.
+
+Professor Christine Winterbourn, Pathology (University of Otago, Christchurch)
+
+Characterising the role of a newly identified peroxidase in melanoma
+
+$915,000
+
+Peroxidasin is a recently identified but poorly characterised mammalian peroxidase enzyme. It is essential for the formation of connective tissue throughout the body and interestingly, is highly upregulated in metastatic melanoma cells with an invasive phenotype. Nothing is known about its function in melanoma. Evidence suggests that its role in connective tissue formation could be important, but it could act in other so far unidentified ways. Peroxidasin converts bromide ions to hypobromous acid, a reactive chemical similar to household bleach. In connective tissue, it forms an unusual chemical bond in collagen IV. However, hypobromous acid can react with many biological targets, and peroxidasin has other peroxidase activities that may contribute to its physiological function. We propose to study the biochemistry and cell biology of peroxidasin in metastatic melanoma cell lines. We will establish how its peroxidase activity modifies cell constituents and whether its activity contributes to the invasive characteristics of high expressing cells. Peroxidasin inhibitors will be tested for their ability to limit cell invasion. Our study will advance understanding of peroxidasin function and test the relevance of a novel mechanism of tumour cell invasion. Positive findings would support exploration of peroxidasin as a therapeutic target in metastatic melanoma.
+
+Associate Professor Alexander McLellan, Microbiology & Immunology
+
+Tuneable activation of anti-cancer T cells using auto-inducible promoters
+
+$960,000
+
+T-cell-based immunotherapy has shown great success for the treatment of haematological cancers – with emerging potential for the treatment of solid cancers. However, successful chimeric antigen receptor (CAR) T cell therapy is limited by both the low persistence of CAR T cells, as well as the low differentiation rate into memory T cells. In lymphoma patients treated with anti-CD19 CAR T cells, clinical responses are associated with rapid CAR T cell expansion. To improve control of T cell expansion, we will utilise an auto-inducible promoter to enhance CAR T cell survival and memory responses. The design will allow pro-survival genes to be selectively and transiently switched on in T cells in contact with cancer-associated antigens. This will not only boost in vitro expansion, but will also enhance the activity of adoptively transferred antigen-specific CAR T cells in the patient. Our strategies are designed to result in minimal perturbations to the genetic structure of CAR T cell constructs. However, these original approaches will greatly improve the utility of CAR T cells for the treatment of both leukaemias and solid tumours.
+
+\\
+
+Dr Timothy Hore, Anatomy
+
+Epigenetic sex determination and inheritance
+
+$854,000
+
+The germ germline encodes all of the biological information to be passed to the next generation. While much of this information is genetic and therefore encoded in DNA sequence, it is becoming increasingly clear that non-genetic, or “epigenetic” traits can also be inherited. Inheritance of these traits is rare in mammals due to erasure of epigenetic information in the germline. However, using zebrafish as a model, we have discovered that germline epigenetic erasure is not obligatory. We plan to use targeted epigenetic editing to test if removal of germline erasure allows broad-scale transmission of epigenetic information, and we will uncover the effect this has on inheritance and subsequent development. Of these subsequent developmental processes, perhaps the most distinctive is sex determination. We have found that female differentiation in zebrafish is inextricably linked to the expansion of DNA encoding specialised cellular machines that make protein, and is likely controlled by epigenetic modification. We will define how epigenetic modification impacts upon this specialised machinery and sex determination, and further test the exciting possibility that this epigenetic determinant can be inherited, akin to a classical sex determining gene.
+
+Professor Michelle Glass, Pharmacology & Toxicology
+
+Applying human drug discovery approaches to kauri die back
+
+$939,000
+
+Phytophthora agathidicida is currently threatening New Zealand’s most iconic tree, the kauri. Current efforts to halt its spread through New Zealand forests are failing. Phytophtora zoospores swim through waterlogged soil towards the roots of their host plants and then encyst on the root surface and initiate infection. The molecular mechanisms controlling movement and infection appear to involve G protein coupled receptors and phospholipid kinases. This is exciting, as powerful methods are available for studying these proteins; indeed G protein coupled receptors and kinase together are the target of approximately 60 per cent of all current human medicines. Here our multidisciplinary, international team propose a novel way to tackle the problem: by adapting methods refined in human drug discovery to understand the fundamental function of these proteins. This knowledge will enable us to develop novel chemical tools that could help in the fight against this devastating pest.
+
+Professor Merata Kawharu, Centre for Sustainability
+
+A question of identity: how connected are Māori youth to ancestral marae, and does it matter?
+
+$605,000
+
+Most Māori people live away from their ancestral home marae. Evidence suggests Māori seek, but struggle, to remain connected to their marae, language and culture. Home marae communities, generally depopulated and geographically isolated are also seeking to maintain contact with their dispersed descendants. But does belonging to marae actually matter amongst young Māori? We aim to investigate difficult issues about marae connection and identity. Through innovative methods, we engage in discussions with young Māori and their source communities to find answers that broaden academic understandings of marae in relation to critical transformations of ‘community’ occurring both at home and overseas. Through novel analytical approaches, combining a Māori values lens and social network theory, our research aims to advance theories of Māori cultural change concerning 'marae' as the pivotal indicator. Our research will also deepen New Zealand's awareness of the diverse needs and aspirations of young Māori and their marae people today. It will provide vital knowledge, regarding how whānau, marae, hapū and others can navigate through complex circumstances of our time. Our findings will offer leading insights from New Zealand and contribute to discussions on similar issues facing indigenous peoples internationally regarding home connection and identity.
+
+Associate Professor Nigel Lucas, Chemistry
+
+Carbon nanocones by design: Atomically-precise molecular containers
+
+$709,000
+
+Synthetic carbons have long been predicted to have unique properties like graphite and diamond. With the advent of modern carbon nanoscience, synthetic carbons like carbon nanotubes and graphenes are generating immense excitement. Yet one carbon morphology is under-investigated — carbon nanocones. These materials have the high strength, conductivity and stability of carbon nanotubes, as well as the unrealised potential of an easily accessible internal cavity that can accommodate molecular-scale guests, making them useful as components of sensors, electronic materials and selective catalysts. Here, for the first time, carbon nanocones will be prepared using stepwise, designed chemical syntheses that offer control of the molecular structure with atomic precision. Access to the structurally-uniform nanocones will permit a detailed study of their structure, chemical reactivity and physical properties. This work is no small undertaking due to the significant curvature that needs to be incorporated into the nanocone structure. The results will provide experimental support for theoretical reports and allow these robust molecular containers to be applied in supramolecularly-assembled materials and host-guest chemistry. In turn, this will inform the development of synthetic routes to new materials applicable in biotechnology, medicine and many parts of our daily lives.
+
+Professor Catherine Day, Biochemistry
+
+Generating complexity in the ubiquitin code
+
+$935,000
+
+Attachment of ubiquitin to proteins is a pervasive post-translational modification that encodes information, which determines the logic of biological circuits and ultimately the phenotype of eukaryotic cells. The nature of the code relies on the choice and activity of the E2 and E3 enzymes – the writers of the ubiquitin code. As expected for such a critical process, dysregulation of ubiquitin-mediated events manifests as diseases such as cancer. Recent studies by the researchers and others indicate that ubiquitin is not only a substrate of the E2/E3 writers, but also an important regulator of the writers. In this project, using biochemical approaches and novel tools, we will (i) determine how ubiquitin regulates the activity of the E2/E3 ubiquitin writers, and (ii) identify features that promote the addition of multiple ubiquitin molecules to substrates. The fate of each ubiquitylated protein is determined by the length and linkage-type of the attached chains. Here we will reveal the mechanisms that promote the preferential modification of substrate proteins with multiple ubiquitin molecules. Disruption of the ubiquitin code is associated with a range of diseases that are the focus of drug discovery initiatives, and a detailed mechanistic understanding is central to the development of improved therapeutics.
+
+Fast-Start proposals (for early career researchers)
+
+Dr Khoon Lim, Orthopaedic Surgery & Musculoskeletal Medicine (University of Otago, Christchurch)
+
+Harnessing macromolecular chemistry to mimic vascular developmental biology
+
+Mentor: Associate Professor Tim Woodfield
+
+$300,000
+
+Functional vasculature is necessary to transport oxygen and nutrients to the tissues, and is the key to survival of almost all organs in the human body. Disruptions in the blood vessels or blood supply lead to a number of large scale clinical pathological diseases. To date, there are no treatments in the clinic allowing restoration of blood vessels to treat ischaemic tissues due to the incapability to accurately recapitulate the vascular architecture. 3D bioprinting which enables spatial localisation of biological cues and cells, has emerged as a potential solution. We aim to develop a novel vascular bioink, capable of 3D bioprinting high resolution large constructs, with the appropriate soft mechanics required to facilitate functional vasculature formation. We believe that by harnessing macromolecular chemistry (visible light photo-initiating system, photo-click thiol-ene chemistry and di-tyrosine crosslinking) and advanced 3D printing technology, we will be able to synergistically provide both physical and biological cues required to engineer functional vascular networks. The successful outcome of this project will allow restoration of blood macro- and micro-circulation in large ischaemic tissue, alleviating the current socio-economic burden of diseases such as ischaemic stroke, cardiovascular diseases and diabetic ulcers.
+
+Dr Sarah McKenzie, Dean’s Department (University of Otago, Wellington)
+
+Through the eyes of men: Towards a critical understanding of men’s mental health
+
+Mentor: Professor Sunny Collings
+
+$300,000
+
+Every year the coroner releases New Zealand’s annual suicide statistics, and every year the media reminds us of this shameful “silent epidemic”. Yet we still do not understand why suicide is such an entrenched problem in this country. Perplexingly, we are no closer to understanding why men are three times more likely than women to take their own lives, or why young men in their early twenties have the highest rates of suicide of any age group. This multidisciplinary study will provide the first in-depth gender analysis of how dominant ideas about ‘how to be a man’ in New Zealand society impact on young men’s mental health, leaving some at far greater risk of taking their own lives. Informed by critical gender theory and mental health geography, this project uses visual methods to enable men to document their experiences of living with depression, anxiety and suicidality. The rich gender analysis of images and stories will provide original insights into how young men’s mental health-related beliefs and behaviours are influenced by masculinity, as well as how particular gendered places may help or hinder the ways in which men cope when going through crisis.
+
+Dr Cristina Ergler, Geography
+
+Pre-schoolers and their cities
+
+$300,000
+
+Virtually nothing is known about pre-schoolers’ knowledge and experiences of city life. The UN Convention on the Rights of the Child requires decision makers to listen to children on matters that affect them. Our study asks: What can we learn from pre-schoolers about creating urban environments that work better for them and how can we use this knowledge to inform city planning? We will invite pre-school children living in three New Zealand cities to voice their expertise on living, playing and participating in their city. We contend that given appropriate child focused methods, preschool children have the competence to reflect meaningfully on their experiences, understandings and views of large scale environments, namely their city. To share their insights, four-year-olds will discuss their city lives, build model cities, and use iPads to photographically record their everyday experiential urban encounters. The pre-schoolers’ data will be used to theorise their agency in cities and develop an evaluative framework planners and urban professionals can use to reflect on pre-schoolers’ diverse city use and needs when undertaking urban planning and development projects. This will be the first study to systematically shed light on pre-schoolers contemporary city use, their experiences, agency and their urban activity spaces.
+
+Dr Rebecca Kinaston, Anatomy
+
+Waves of change: Human migration and adaptation in prehistoric Indonesia
+
+Mentor: Dr Michael Knapp
+
+$300,000
+
+Prehistoric human migration and adaptation were key drivers of genetic and cultural evolution. In Island Southeast Asia (ISEA) and the Pacific, Indonesia played a central role in the prehistoric settlement of the region during two major time periods of human dispersal: the arrival of anatomically modern humans during the Pleistocene (possibly beginning ca 73,000 years before present- BP) and sea-faring, pottery making, Austronesian speakers during the mid-Holocene (ca. 5500-3000 BP). For this project, we will excavate two newly-discovered Indonesian sites with exceptionally well-preserved human remains dating to these periods. We will use ancient DNA analysis to determine the genetic makeup of the prehistoric populations and assess patterns of human dispersal and interaction. Chemical analyses of bone (bulk and compound-specific stable isotope analyses) will be used to determine the diet of the people who lived at these sites and allow us to understand how humans adapted to their environments to obtain food. Our findings will help unlock the mysteries of how humans migrated to and lived in the changing climatic and cultural landscape of Indonesia in the past. This research has the potential to significantly transform our knowledge of prehistoric human origins, dispersals and dietary adaptations in the Asia-Pacific region.
+
+Dr Tobias Langlotz, Information Science
+
+Amplified human senses – enhancing visual perception using computational glasses
+
+Mentor: Professor Holger Regenbrecht
+
+$300,000
+
+Prescription glasses are used by millions of people as a simple, and even fashionable way to correct refractive problems of the anterior eye. The general design of prescription glasses has not changed for centuries and is mainly limited by physical constraints of the used optical lenses. However, the rise of optical see-through head-mounted displays offers the potential to move beyond what is possible with purely optical prescription glasses. This project will be first to investigate computational glasses utilizing head-mounted displays with an integrated semi-transparent display as a tool for amplifying human senses by enhancing the visual representation of the environment. It will develop first prototypes for computational glasses that analyse the environment and change its appearance to amplify the perception of the user. In particular, we will look into techniques that allow for guiding attention and affecting memory when using computational glasses. At the same time, enhancing the visual representation of the environment should be unobtrusive to the users to permit continuous usage over longer periods. This project will offer a substantial contribution to academic literature in the areas of wearable and visual computing by conducting fundamental research with applications including extending human vision and compensating for visual impairments.
+
+Dr Matthew McNeil, Microbiology & Immunology
+
+Exploiting the biological costs of drug resistance to design new therapeutic regimens against Mycobacterium tuberculosis
+
+Mentor: Prof Greg Cook
+
+$300,000
+
+Tuberculosis is now the leading cause of death by a single infectious agent worldwide. Infections with Mycobacterium tuberculosis are treatable, requiring a six-month combination therapy. However, drug resistance has rendered many of these antibiotics ineffective. New antibiotics represent lifelines in the fight against M. tuberculosis but without rationally designed combination therapies the development of resistance is inevitable. Drug resistance in M. tuberculosis occurs via chromosomal mutations that often incur a biological cost. Resistance against a single class of antibiotics can also render microbial cells hyper-sensitive or resistant to unrelated classes of antibiotics via a phenomenon termed collateral sensitivity. Using a combination of microbiological and genetic approaches this research will identify resistance mechanisms that sensitize M. tuberculosis to alternative clinically relevant drug classes. Antibiotics with overlapping collateral pathways will be tested for an ability to prevent the emergence of resistance and to rapidly kill drug resistant strains. This research has the potential to identify novel antibiotic combinations that can prevent the emergence of resistance and also shorten the duration of treatment. It is anticipated that these methodologies and results will be applicable to other bacterial pathogens where antimicrobial resistance is an emerging problem.
+
+Dr Fabien Montiel, Mathematics & Statistics
+
+Breaking the ice: process-informed modelling of sea ice erosion due to ocean wave interactions
+
+Mentor: Professor David Bryant
+
+$300,000
+
+Increasingly energetic swell in the Southern and Arctic Oceans can no longer be ignored from Earth System Models (ESMs) climate predictions. Their impact on sea ice erosion has been observed both in situ and remotely. The quantification of these effects is still in its infancy, however, urging for the need to implement and test innovative parametrisations in ESMs. The overarching goal of this project is to develop, validate and assimilate a process-informed modelling capability of ocean wave interactions with sea ice in the NZESM, to improve forecasts of sea ice extent, thickness and concentration, and their impact of the climate system. In achieving this goal, we will gain new knowledge on the processes governing ocean waves propagation in ice-covered seas for a range of ice conditions by analysing of a large number of synthetic aperture radar images. This will inform a parametrisation of the coupled ocean waves/sea ice system seeking to relate observable wave and ice conditions to model-generated predictions of ice-induced wave attenuation and wave-induced ice breakup. Field and remote sensing data will be assimilated in the parametrisation using a multi-model selection procedure, which allows single model bias reduction and uncertainty quantification to be integrated in our predictions.
+
+Dr Boyang Ding, Physics
+
+SPASER – Towards practical nanolaser devices
+
+Mentor: Professor Richard Blaikie
+
+$300,000
+
+A SPASER (Surface Plasmon Laser), regarded as the “smallest laser”, has dimensions much smaller than the wavelength of light that is emitted, which is key to future high-density optical computers, biological imaging/sensing and other important applications. To create a spaser the excitation of localised surface plasmons in metallic nanoparticles is proposed to concentrate optical modes into sub-wavelength volumes which, when coherently stimulating emission from ambient emitters, leads to lasing effects at the nano-scale. To date, there has been no demonstration of “real” spasers – direct evidence of lasing from spasers based on single nanoparticle resonators is still lacking. The main problem preventing spasers’ realisation is that current spaser designs cannot provide sufficient gain levels to compensate damping loss in real-world experimental systems. In this project, utilising the integration of rare-earth doped nanocrystals and our recently developed asymmetric core-shell plasmonic resonators, we will develop high-gain spaser systems based on single-nanoparticle resonators. The high doping concentration of rare-earth ions will provide sufficient gain to establish population inversion in the system, resulting in real spasing actions. This will provide nanoscale, stable and embeddable nano-laser sources for applications ranging from sensing and biomedicine to imaging and information technology.
+
+Dr Soledad (Maria) Perez-Santangelo, Biochemistry
+
+Adjusting the clock: How naturally occurring variation in circadian clock genes maximises plant growth and fitness in different environments
+
+Mentor: Associate Professor Richard Macknight
+
+$300,000
+
+Climate change is predicted to affect crop yield by reducing suitable agricultural land worldwide. Understanding the genetic basis of local adaptation is fundamental to developing crops suited to growing in the new environments that arises as a result of climate change. Legume crops are of particular concern as they are an essential source of protein for both humans and livestock. This project will study the genetic basis of local adaptation in the model legume Medicago truncatula, by discovering the naturally occurring genetic variations in the master regulator of plant physiology - the circadian clock, and understand how these variations enhance their fitness to grow in their local regions. For this, we will 1) identify natural variation of clock function, 2) use genome-wide approaches to discover the genetic changes responsible for the variability of the clock, 3) study how these genetic variations enable plants to adapt to different geographical locations. This knowledge will help develop more efficient plant breeding strategies by providing new targets for generating varieties specifically tailored for local regions and conditions. Such approaches are needed with climate change altering the geographical range where crop plants can be grown.
+
+Dr Michael Garratt, Anatomy
+
+Sensory control of life history and ageing in mice
+
+$300,000
+
+Life history theory is built on the assumption that there are trade-offs between life-history traits, such as between early and late-life reproduction, and between reproduction and lifespan. How these trade-offs are mediated is poorly understood. We hypothesize that sensory detection of social cues is an important regulator of life histories, providing the stimulus that promotes reproductive processes, but also self-imposing costs that reduce lifespan. This project will use established mouse models to elucidate the role of olfaction – the dominant sense in most mammals – in control of reproductive life history and ageing. We will expose mice to either opposite-sex odours, indirect access to mates, or direct mating and test whether sensory cues are capable of stimulating life-history transitions and metabolic costs associated with reproduction. We will further utilise genetic models of impaired olfaction to define the role of specific olfactory systems in matching life-history responses to different social environments. Ultimately, we will test whether either olfactory stimuli, or sensory deficits, are sufficient to influence mouse lifespan and link early life reproduction to reproductive ageing. This research could provide a new framework for understanding life-history trade-offs and reproductive plasticity, operating via sensory perception of the external environment.
+
+Dr Simon Jackson, Microbiology & Immunology
+
+Mobile CRISPR-Cas systems and the genesis of hybrid adaptive immunity in bacteria
+
+Mentor: Associate Professor Peter Fineran
+
+$300,000
+
+Bacteria are constantly threatened with infection by viruses. To protect themselves, many bacteria use an adaptive immune response mediated by CRISPR-Cas systems. CRISPR-Cas immune systems target and destroy the DNA or RNA of infecting viruses, thereby clearing the infection. All CRISPR-Cas systems evolved from a common origin, but they have diverged into many distinct types with different functions. I have discovered that the genes encoding some CRISPR-Cas systems are mobile and can fuse with other CRISPR-Cas types to from hybrid immune systems. These hybrids are not considered in current models of CRISPR-Cas evolution. My research will determine how these immune systems function compared to non-hybrid systems. There are also downsides to adaptive immunity provided by CRISPR-Cas systems, such as autoimmunity, and I will determine whether hybrid CRISPR-Cas systems are less prone to these side effects than non-hybrid systems. I will also address how mobile CRISPR-Cas systems are acquired and fuse with existing CRISPR-Cas systems, giving rise to hybrid immune systems. Overall, my research will provide insight into how and why hybrid CRISPR-Cas systems form and the implications of their occurrence for the coevolution of bacteria and their viruses.
+
+Dr Sarah Saunderson, Microbiology & Immunology
+
+Exploiting the tumour microenvironment for safer antibody-based immunotherapy
+
+Mentor: Dr James Ussher
+
+$300,000
+
+Antibody-based targeting of immune cells against blood cancers is highly effective, however treatment of solid tumours, whilst promising, is also challenging due to potential adverse effects, where normal tissue can be attacked. As solid tumours possess an acidic (low pH) microenvironment, we propose to exploit this unique feature by the modification of antibody structures to allow binding specifically at low pH, but not at the neutral pH of normal tissue. We aim to modify both antibodies currently in use within clinical trials to increase their safety, but also to discover novel antibodies that naturally bind exclusively at low pH. In addition, we will genetically engineer immune cells to display both a receptor to target cancers, as well as a naturally occurring pH-dependent protein receptor to act as a safety switch. This will ensure the anti-cancer immune cell will only be capable of attacking the tumour cell when it receives two signals, that is the recognition of the cancer cell and the presence of low pH. The work will increase the clinical safety of antibody-based treatment of solid tumours for improved patient outcomes.
+
+  
+ends
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Otago](https://info.scoop.co.nz/University_of_Otago) on InfoPages.

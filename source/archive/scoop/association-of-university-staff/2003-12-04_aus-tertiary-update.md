@@ -1,0 +1,90 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2003-12-04
+source-url: https://www.scoop.co.nz/stories/ED0312/S00028/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 4 December 2003, 4:00 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+![AUS WEB SITE](http://www.aus.ac.nz/pictures/logo.gif)Unspent PTE funding to be redistributed  
+More than $19 million in unspent funding intended for private tertiary education providers this year is expected to be redistributed to new or growing private training establishments (PTEs) in 2004. Associate Education (Tertiary) Minister Steve Maharey has announced that the unused funding will be reallocated through a strategic priorities fund to PTEs offering qualifications in ‘priority areas of private tertiary education and training’.  
+The overall government funding available to PTEs in 2003 was set at $146 million, with funding to individual providers capped at the same number of equivalent full-time students they enrolled in 2001. A contestable fund also allowed some providers additional funding over 2001 levels.  
+Mr Maharey said that some PTEs had not used all of their allocations and others “exited” the system in 2003, creating the pool of unspent money. He said the government wanted to ensure that the unallocated funding was reallocated to the more successful PTEs “who have the ability to offer extra education for students”.  
+The Association of University Staff says, however, that the unspent funding should be reinvested in the public sector. AUS National President, Dr Bill Rosenberg, says the government should take the opportunity created by the failure of PTEs such as Carich and Modern Age to to review whether private institutions should receive public funding at all, and to immediately reduce the overall funding handed over to private institutions. “To say these institutions ‘exited’ the system is an insult to all those students who lost money and to staff who lost their jobs. It shows the Minister is not a fast learner in regard to this sector,” said Dr. Rosenberg.  
+“Funding to private institutions rose rapidly in the dying days of the National government in the late 199’s and the present government has done nothing but cap this funding,” said Dr. Rosenberg. “The recent crashes have raised, once again, questions about why private providers should profit from public funding, particularly where facilities provided by public institutions are duplicated in the private sector. Students, staff, public education and the public are suffering as a result of this badly conceived and deteriorating policy”.  
+Education Review reports that nine private providers used less than 60% of their funding allocation over the past two years, while a further three are expected to utilise less than 50% of their allocation this year. The worst performers were in 13 courses that used less than 20 per cent of the funding allocated to them. 42 courses run by private providers used less than 60% of the funding allocated to them through the strategic priorities fund this year  
+Mr Maharey said that in addition to renewed funding for PTEs in 2004, a contestable funding round will be held in March 2004 to distribute the remainder of the Strategic Priorities Fund. The Tertiary Education Commission will invite applications for this funding later this month.  
+Total government funding for PTEs in 2004 will be capped at $150 million.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. More funding needed for universities says Maharey  
+2\. Bids for new funds exceed expectation  
+3\. Auckland leads the way in supporting international student industry  
+4\. Rebel MPs force top-up fees retreat until New Year  
+5\. British student arrested in Iraq  
+6\. Lecturer “too old” for college job
+
+More funding needed for universities says Maharey  
+The Association of University Staff (AUS today welcomed the statement from the Associate Minister of Education (Tertiary) Steve Maharey that more investment is needed in the university system.  
+Delegates to the AUS annual conference, being held in Wellington this week, were told by Mr. Maharey today that additional funding, over and above that already proposed for targeted initiatives, was needed within in the sector but said it would more likely come initially from a redistribution of resources from within the sector.  
+Conference delegates said that while the Minister needed to ensure that additional funding was allocated for universities in next year’s Budget, the $19 million that had not been spent in the private tertiary sector this year could be immediately reallocated to universities. “This would show some genuine desire to resolve funding difficulties,” said AUS National President Dr. Bill Rosenberg.  
+Mr. Maharey told the AUS conference that a number of new initiatives would focus on building capacity and assisting the sector “to transition to the new tertiary environment”. He outlined details of a planned Review of the Tertiary Education Workforce which will be conducted over 2004 and the first half of 2005; a Review of Quality designed to enhance the quality of teaching and learning; and the proposed teaching performance element of the funding framework.  
+Mr. Maharey said he intended to work with stakeholders, including staff and students, to identify needs that the tertiary education system, aligned with the Tertiary Education Strategy, will be required to meet in the future. He gave several examples, such as the Canterbury Tertiary Alliance, where efficiencies within the system could “flourish and contribute to an improved sector performance”.  
+In response to questions, Mr. Maharey said that the establishment and compliance costs would also reduce with the on-going implementation of the Performance-based Research Fund.
+
+Bids for new funds exceed expectation  
+The Tertiary Education Commission (TEC) has received more than 264 applications for two new funding programmes. The applications oversubscribe the available funding by almost $200 million.  
+105 applications, amounting to $93 million, were received for the $14 million available in the e-Learning Collaborative Development Fund (eCDF) and 159 applications, totalling $134 million, were received for the $20 million available in the Innovation and Development Fund (IDF).  
+“Applications for the 2003/04-2004/05 round of funding closed on 10 October and we are pleased with the outstanding response and that tertiary education organisations have shown so much interest in bidding. We are now prioritising these applications against our assessment criteria,” said TEC Chair Dr Andrew West.  
+The Government has set aside $68 million over the four funding years 2003/04 to 2007/08 for the two new capital and operational funds as part of its programme of developing the capability of tertiary education organisations.  
+The purpose of the eCDF is to build e-learning capability in tertiary education in the form of information and communication (ICT) tools and knowledge. The IDF is intended to foster new and innovative ideas that will improve the operation of the tertiary education system.  
+All bids have been screened to ensure they meet set criteria and eligible applications have been put forward to an Assessment Panel for each of the two funds, comprising senior representatives from the TEC, Ministry of Education and New Zealand Trade and Enterprise, and relevant external experts.  
+“All applications need to clearly show their contribution to the Government’s Tertiary Education Strategy, how they increase the provision of capability for this strategy, how they avoid fiscal risk to the Government and the applicant’s ability to undertake the project,” said Dr West.  
+The Assessment Panels’ recommendations will be put forward to the Tertiary Education Commissioners who will make the final decisions on which applications will receive funding. Applicants will be notified of the decisions in the week of 22 December 2003.  
+Round two of the funding will open for applications in the second half of 2004.
+
+Auckland leads the way in supporting international student industry  
+A report on the state of international education in Auckland city has prompted the Auckland City Council to consider bringing together key industry stakeholders to discuss ways to address a number of issues which have been identified.  
+The Infometrics Consulting report, ‘International students – their impact on Auckland City’, was commissioned by Auckland City and provides information on how the international education industry has developed, and gives some insight into what is needed to achieve sustainable growth and better manage its impact on the city.  
+The report confirms that the international student industry brings $930 million a year into Auckland city, but raises a number of questions for discussion. They include industry regulation, quality standards for homestay students, the consistency of the Immigration Service decisions, and strategies to reduce risks through diversifying markets, providing new services and addressing quality issues.  
+Key industry players, including representatives from central and local government, agencies, education and pastoral care providers and those who can assist with infrastructure requirements, will meet to discuss the report with the aim of driving the industry forward in the Auckland.
+
+Worldwatch  
+Rebel MPs force top-up fees retreat until New Year  
+The British government has decided to delay publishing plans to introduce university top-up fees in the face of opposition from rebel MPs. The higher education bill had been pencilled in for this week but has been put off for several weeks to allow Mr Blair to avoid a Commons showdown before Christmas.  
+A strong appeal by education secretary Charles Clarke to the prime minister to hold the vote before Christmas was finally rebuffed after a meeting between the two. Downing Street apparently ordered the delay because whips could count on winning back only about 40 of the 133 rebel Labour MPs for a vote before Christmas. The government needs to win back at least 50 to be certain of victory.  
+Delaying the higher education bill could prevent universities implementing the top-up fees during 2006, the scheme's planned first year of operation, because universities will have too little time to agree fee levels, according to Universities UK. The sector’s umbrella body warned this week that delay was ‘worrying’ as applicants sitting A-levels in 2005 but taking a year out before starting university in 2006 would have to be informed of the charges attached to courses in prospectuses before they were equipped to make a choice.  
+It is anticipated that the government will increase the salary level at which graduates would have to start repaying the fees from the current proposed £15,000 a year to £18,000 or even £20,000.
+
+British student arrested in Iraq  
+A British university student has been seized in northern Iraq, suspected of trying to join a terrorist group linked to al-Qaeda, which is attacking coalition forces. The student, from Yarm, near Middlesbrough, was found last month travelling on a British passport through the mountains of Kurdish-controlled northern Iraq. The Manchester University student was intercepted near Erbil by a Kurdish security police patrol while travelling in a taxi with a second man whose identity are unknown.
+
+Lecturer “too old” for college job  
+A lecturer, who was headhunted by an art college but rejected when it discovered that she was 67 years old, may sue for breach of contract. The lecturer was asked to prepare a lecture and a series of tutorials for Winchester School of Art, part of Southampton University in the UK, after the college saw her impressive CV. No one asked her age, although she stated her date of birth on her application. She was interviewed by the school's head of fashion and sent a contract. She returned it, with a form exempting her from national insurance because she is of retirement age. The lecturer then received a call telling her that the offer was being withdrawn because the university was "cracking down" on people working beyond normal retirement age.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

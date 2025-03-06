@@ -1,0 +1,128 @@
+---
+slug: valedictory-statement-hon-heather-roy
+title: "Valedictory Statement - Hon Heather Roy"
+date: 2011-09-29
+source-url: https://www.scoop.co.nz/stories/PA1109/S00598/valedictory-statement-hon-heather-roy.htm
+author: act-new-zealand
+---
+Valedictory Statement - Hon Heather Roy
+=======================================
+
+**Thursday, 29 September 2011, 11:14 pm**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+**Hon Heather Roy Valedictory Statement; Parliament; Thursday, September 29 2011.**
+
+**Mr Speaker,**
+
+**My introduction to politics came at the tender age of 20 in 1984. They were exciting political times - Sir Robert Muldoon had called a snap election and Sir Robert Jones had launched a new party - the New Zealand Party. For the first time I had a flicker of interest in what was going on in the political arena and Sir Robert Jones' youngest candidate was campaigning for my vote. I liked his politics. The freedom and prosperity message appealed, but I liked the candidate even more. He got my vote that year - albeit a special vote because I hadn't enrolled - and I got him. A vote is a precious thing, as is a husband and I think it was a fair trade.**
+
+**12.5 percent of the population thought that a free and prosperous nation was something worth supporting in that 1984 election. Under MMP that would have been around 16 seats for a Party that believes in freedom of market, mind, body. I still believe fervently in those same ideals.**
+
+**My next political encounter was many years later in 1996, the first MMP election when ACT was established as a political party. Again, my involvement was through my husband Duncan. He was electorate chair in Aoraki and I helped with pamphlet deliveries, hosting visiting MPs and organising meetings as you do. In 1999 I was persuaded to stand. I thought I was flying the flag. Sir Roger Douglas and some of the party faithful decided I should be making a serious tilt at parliament and gave me an electable list position. Luckily, with five small children, I didn't get in that election but politics gets in your blood. I stuck with it and was elected in 2002.**
+
+**
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+
+
+
+
+
+
+**
+
+**
+
+My early Parliamentary life seemed destined for a time to be marred by the curse of mistaken identity.
+
+When Deborah Coddington and I came to parliament in 2002 the then Speaker, Jonathan Hunt, couldn’t tell us apart. Deborah – tall, dark and statuesque - and I (none of those things) just seemed to confuse him every time we stood to ask a question or speak. It probably didn’t help the situation when we turned up to Parliament one day wearing men’s suits in response to his comments that the women in the House were dressing too scruffily. So sometimes I was myself, sometimes I was called to speak as Deborah Coddington and once as Deborah Roy. We eventually got our identities sorted out with the Speaker over a bottle of his very nice red wine.
+
+Then there was the case of the swapped Bellamy’s bills. Eric Roy, who had not returned to parliament when I arrived in 2002, was receiving my bills in Invercargill and I was getting his much smaller bills. I recognised the problem when I was charged for the baking of a whole trout which I had apparently caught myself and supplied to the Bellamy’s kitchen. Much to my father’s dismay I am no trout fisherwoman. I rang Eric who complained about the amount I’d been spending and that he’d been asked to pay but we agreed to swap bills and sort the whole thing out when I was next in the south. We duly did so and a Southland Times photographer kindly immortalised the moment for us. And just for the record – despite constant speculation, Eric and I are not related – not brother and sister, father and daughter, second cousins twice removed and I’m not, as Eric once jokingly told a journalist, his love child. We are however friends.
+
+Finally, an on-going but pleasant mix-up usually begins with the comment “you’re from the south aren’t you?” I am originally, as it happens, but I know as soon as I’m asked that question the person thinks I’m former National Party MP Katherine Rich. Clearly it is the healthy but pale southern complexion we share that causes the confusion! Or perhaps it is that we share the same views on many issues. Katherine, in her valedictory speech said that “Being an MP is not a job; it is a life. Political service is all-consuming, and the New Zealand public deserves nothing less.” She is quite right, but the all-consuming is tough on families and I, like others, owe mine a lot.So, once my identity crises had been dealt with, I was able to get down to work. Most of my first term was under the watchful leadership of Richard Prebble. His aim, he said, was to get us to Ministerial level by the end of our first term. That meant being thrown in the deep end and is undoubtedly the best way to learn; like an apprenticeship of sorts – there was no namby pamby breathing through your nose for ACT MPs!
+
+During his time in parliament, Richard Prebble left many legacies to the country. Those I’ve personally benefited from most are his ‘Prebbleisms’: words of wisdom best adhered to or taken notice of if you know what’s good for you. I frequently pass these gems on to others.
+
+Amongst his best are:
+
+“If you can’t say it in two minutes it’s not worth saying”. This is true, I've discovered, of every conceivable topic.
+
+“Don’t be scared of making mistakes. MPs who don’t make mistakes aren’t doing their job”. This was either given as advice to take some risks or as an unspoken reassurance that although you’d stuffed up, it probably wasn’t going to cause the sky to fall in.
+
+“In Politics the highs are so high and the low’s so low”. The highs include successes like the Voluntary Student Membership bill, and demotion from your Ministerial Portfolios rate amongst the lows. Richard claims the highs always make up for the lows and in this he was absolutely right – no ifs, no buts, no regrets. There is nothing like a solid political win.
+
+And as to the truth or otherwise of this one – I’m about to find out.
+
+“Keep in touch with the friends you have before politics because you can’t tell if the ones you make in politics are real friends or not until you leave”. I think I've made many friends in my time here and established many respectful relationships with those across the political spectrum. I'm hopeful most will stand the test of time.
+
+The apprenticeship served me well for my time as an MP.
+
+There is nothing like coming up against a good Minister, while in opposition, to teach you the ropes. Several Labour Party Ministers taught me valuable lessons about how to handle issues – although their aim was generally to tell me nothing. Parliamentary Questions become your friend, as do the Official Information Act and the Ombudsman.
+
+ACT battled for 12 years in Parliament before we formally became part of the Government. I look back at the many talented and hardworking ACT MPs before me who would have been great Ministers. Ken Shirley and Stephen Franks taught me by example that principles are important and sticking to them results in consistent policy gains. Had they had the opportunity to become ACT Ministers, both would have made a real difference to the lives of Kiwis.
+
+But in politics timing is everything and I found myself in the right place at the right time to be appointed to a Ministerial post with responsibility for Consumer Affairs, Associate Defence and Associate Education after the 2008 election. Turning ACT policies into reality has been our big win.
+
+School Choice is on the agenda, Aspire Scholarships for those from low income homes and a review into Special Education were big projects I was proud of leading.
+
+Among my Defence highlights was participating in the Defence Review. I continue to believe a strong Reserve Force will give the NZDF greater flexibility and capability and hope there will be real focus on this for the future. My Companion Studies on New Zealand’s Defence Industry and Voluntary National Service raised interesting proposals for NZ Inc. and I would be very sorry if this work wasn’t useful as a base for future thinking.
+
+Alongside Rodney Hide’s Regulatory Standards work and legislation, the Spending Cap (People’s Veto) Bill and Local Government changes I think ACT supporters and voters can be satisfied that our policy wins were significant.
+
+Consumer Affairs is a great portfolio because it potentially covers everything. As Minster I got letters about electricity, cell phone providers, credit services, suggestions on how to improve the design of men’s trousers and enquiries about how to deal with competitive tearooms on bus routes, but the most frequent theme was the price of milk. I initiated and led the review and amalgamation of consumer law – the Consumer Law Reform project.
+
+The moment I became the Minister I seemed to find myself in unusual Consumer Affairs situations: a salesman trying to sell me an extended warranty who only gave up after I told him that I personally was responsible for the education campaign to say they gave no better protection than the Consumer Guarantees Act – he’d just told me it was a crock – seeing for myself how an EFTPOS machine strategically placed on scales weighing fresh produce adds significantly to the price and most alarmingly being checked into an already occupied upmarket Auckland Hotel room complete with a Spanish speaking porter called Manuel doing a luggage swap in front of me. If I ever decide to write a book there is plenty of material. The working title will be "Consumer Traps: Beware the Manuel Factor".
+
+Like my fellow retiring colleagues I have been honoured to have been elected to this House, to speak on behalf of the many Kiwis who have entrusted their vote to the ACT Party and, sometimes, to have my personal views on conscience issues heard. There is nothing like being a Minister and getting things done. Serving one’s country in this way is a rare and special thing and I thank those who over three elections have given me the opportunity to do so on their behalf.
+
+Politics is the contest of ideas. Situations change, people's attitudes change and the relevance of policies changes. In order to keep up and for parties to remain relevant to voters, it is imperative that new ideas are encouraged, examined, researched and pursued according to their merit. I'd like to think we have a Parliament that welcomes the contest, but I have been disappointed by the lack of courage to tackle entrenched problems with innovative solutions and a refusal often to even engage in reasoned debate. Frequently, these issues only see the light of day as Private Members’ Bills. On the very slim chance that a space would open up on the Members’ Order Paper in the past year, I drafted a Bill to allow nuclear propelled ships to once again visit New Zealand waters. Our current policy is a relic of a bygone era with no relevance to modern life and is holding our country back in so many ways. People will happily expose their bodies to the nuclear materials such as X-rays but won't even contemplate having a vessel propelled by nuclear power in a New Zealand harbour. ACT has been the only party in my time here to want to engage in a debate that isn't dominated by hysteria and deliberate confusion. The same is true regarding the youth minimum wage, education funding following the child and so many other issues.
+
+Sir Roger Douglas personifies the contest of ideas. He is a reformer and our Parliament has too few of his ilk; those who think out-side the square and tackle issues from a solid, principled base. His endless optimistic pursuit of solutions to the really thorny problems our country faces is truly inspiring. He is a numbers man and the numbers are usually explained on a serviette or in detail on a whiteboard. Sir Roger says politics is all about numbers although now of course he's talking about different numbers - those that win a policy battle with a majority. He's right, but politics is also about people and I have appreciated hugely his mentoring, his friendship and his unwavering support over many years, especially the past three.
+
+There are a few things that I believe would make our Parliament work better and I hope the Constitutional Advisory Panel set up to conduct a wide-ranging review of New Zealand’s constitutional arrangements will give serious consideration to a 4 year Parliamentary term and have a discussion on the appropriate size of Parliament and the Executive, given the strong suggestion by Kiwis in 1999 to have fewer MPs. I believe we need a mechanism to hold our Executive and Parliament more accountable – in other countries this is achieved with an Upper House. And a position I have reached after being involved personally in a number of conscience votes is that referenda on conscience issues is worthy of serious consideration. I’m not convinced that 120 MPs – or 122 currently – are any better placed to make decisions on issues of conscience than the adult population.
+
+There are always a huge number of thank yous to make on occasions such as these. I will be saving most to give in a more personal way. However I would like to acknowledge and thank those who work tirelessly to make Parliament tick and to make life easier for MPs: the Clerk’s Office, Parliamentary and Ministerial services, the library staff, the messengers and especially the security staff who always ask how my TF training is going.
+
+And I’d like to give a collective vote of thanks my hard working and loyal Party members who helped me get elected, then re-elected in the first place – the Aoraki team from 1996-2000 and my Wellington based teams in Ohariu and Wellington Central more recently. I would like to specifically thank Dave Moore for his invaluable support.
+
+To the ACT Parliamentary team past and present – heartfelt thanks for a job well done. Our successes are your successes because of your commitment to our shared cause. I also want to thank my loyal and supportive Ministerial team. We had the some trying times as all do, but much more often we had the best of times. You helped me work to my potential as a Minister and without you I wouldn’t have achieved half of that I did.
+
+Finally, my family. To Duncan, Johnny, Barbara, Penny, Finn and Jack. Thank you for your love and support, putting up with the constant phone calls and my frequent absences. I hope that being around a lot more isn’t going to suddenly cramp your style, but I for one am looking forward to that enormously. And when my mother calls for a chat, she will no longer have to end our conversations with “Well, just don’t work too hard”. She has not set me a good example in this regard.
+
+I have a good friend who reminds me that there are plenty of beaches to walk on and plenty of wine to drink. Wise advice I intend to take. There will still be a few boundaries to push I suspect but perhaps at a more sedate pace!
+
+In my maiden speech I noted that I was the 80th woman to have been elected to this Parliament. I asked the Parliamentary library to calculate for me how many had left before me. It turns out that I am also the 80th woman to leave this Parliament. I have taken from this that the time is right for me to move on to other things – not a moment too soon, not a moment too late. Timing in politics is everything.
+
+As I look around the four walls of this chamber for the last time I’ll take particular note of the battlements: the 12 carved circular wreaths around the balcony and the 18 carved plaques on the wall panels, representative of battles and places where New Zealand troops have fought and served. They remind me of the reason I came to this place – to continue the fight for our freedoms that our forebears began, for a prosperous nation, one where we all have the same opportunities. Our freedoms are hard won with many New Zealanders having paid the price with their lives. Freedoms hard won, but so easily eroded. I have been honoured to serve my country in this House and I hope those in the 50th Parliament and beyond will also be reminded of their responsibility to uphold our freedoms.
+
+I wonder, Mr Speaker, if I could make a request before I leave this chamber. There are some battlements missing from our walls: the first Gulf War, Afghanistan and our recent peace keeping missions are not represented despite the fact that our Defence Force personnel have participated with the same courage, commitment and distinction as those who served before them. They too have suffered injury and, in some tragic cases, loss of life in their quest for freedom around the world on our behalf. I know my fellow soldiers would be touched by such a gesture and it would seem entirely fitting.
+
+Lest We Forget.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+**
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

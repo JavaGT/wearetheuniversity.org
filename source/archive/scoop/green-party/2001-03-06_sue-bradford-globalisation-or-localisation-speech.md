@@ -1,0 +1,126 @@
+---
+slug: sue-bradford-globalisation-or-localisation-speech
+title: "Sue Bradford: Globalisation Or Localisation Speech"
+date: 2001-03-06
+source-url: https://www.scoop.co.nz/stories/PA0103/S00074/sue-bradford-globalisation-or-localisation-speech.htm
+author: green-party
+---
+Sue Bradford: Globalisation Or Localisation Speech
+==================================================
+
+**Tuesday, 6 March 2001, 2:09 pm**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Sue Bradford's keynote speech to Globalisation or Localisation Conference
+
+Globalisation or Localisation Conference Tapu Te Ranga Marae, Wellington
+
+10.00am Saturday 3 March 2001
+
+Sue Bradford MP, Green Party of Aotearoa/NZ
+
+Dreaming a new tomorrow
+
+Kia ora koutou,
+
+I am really pleased to be here with all of you today, as it is my heartfelt belief that what we are sharing in here is possibly the beginnings of the next true Internationale, one which has the hope of achieving worldwide revolutionary change without going backwards into feudalism or totalitarianism.
+
+One of the most humbling, frightening yet joyful days of my life was standing beside Nandor and 10,000 other people on September 11 last year outside the World Economic Forum meeting at the Melbourne Casino. We may have ended up trampled by the cops and derided by MPs back home who felt it was unspeakable that Members of the NZ Parliament should take part in direct actions, but what we felt was the song of hope that comes when many thousands of ordinary people come together not only to resist the seemingly all powerful institutions of global capital, but also to proclaim our dreams of a better future for ordinary people and this precious planet we call home.
+
+I know a lot of us here share a long history of honourable dissent, of standing up for what we believe in, and of acting in our own lives as the public face of resistance to war, greed and inequity. For those of us who are working longterm against the free trade and globalisation agenda, I believe we are entering a new phase of struggle. It is absolutely incumbent on us to continue with demonstrations and other forms of nonviolent direct action, in alliance with our friends from all around the world. It is also important, and I guess it's obvious that I'll be one of the first to say it, that we take the struggle into the electoral arena too, into parliament, local councils, district health boards and every other democratic forum available.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+At the same time, though, I believe the absolute heart of the matter is that we must simultaneously, and through every means at our disposal, continue to develop and promote practical and realistic alternatives to globalisation.
+
+Some of these include:
+
+\* Trade and investment which is ethical and fair and which does not excessively exploit either workers or the environment. We need to proactively support the development of a whole range of options including direct people-to-people trading, community tourism and ethical investment initiatives at the same time as we promote binding international codes on labour rights and environmental standards.
+
+\* Secondly, we should be encouraging production in our own towns, cities and rural areas through increased local investment; better targeted tariff protections; 'buy local' campaigns and through maintaining barriers to excessive foreign control of local economies.
+
+\* And thirdly, we should also be promoting local economic development based in all sectors (private, public and community), but particularly including support for infrastructure building initiatives like community owned banking, green dollar and alternative currency schemes, and community owned enterprises.
+
+This last area is the one in which I've spent much of my adult life before coming to Parliament, through my involvement in the various initiatives coming out of the Auckland Unemployed Workers Rights Centre. Probably the most well known of these was the establishment through the early 1990s of the three Peoples Centres in Auckland, Mangere and Manurewa, providing a wide range of medical, dental, welfare, educational and advocacy services to around 5000 families - some 14,000 individuals, mostly on benefits and low incomes.
+
+Through my experience with the Peoples Centres and with related job creation and community business initiatives (in fact the Peoples Centre is quite a large community owned business in its own right) I have over the years come to see that moving to genuine community owned banking is one of the critical pathways forward in terms of reclaiming economic sovereignty. And as I think most of you will be very aware, banking has been very much on the mainstream political agenda over the last few weeks.
+
+Around two weeks ago the Government suddenly approached the Green Party seeking our vote for Jim Anderton's proposal to use state funds as capital to assist in the set up of a Post-owned bank. We were immediately plunged into an urgent and difficult debate about whether to give our support to something which some of us found a less than attractive proposition.
+
+I'll make no bones about the fact that I have found it distressing to hear the phrase 'Peoples Bank' used over and over again to describe what is nothing more nor less than a new state bank. 'Peoples Bank' seems a grandiose term for a revamped Postbank whose useful but inadequate contribution to the empowerment of ordinary people is simply to cut some transaction costs.
+
+Of course, I don't question in the slightest the need for NZ owned and controlled banking services in this country. Our nine largest banks - BNZ, National, Westpac, ANZ, ASB, Bankers Trust, HSBC, Citibank, Rabobank and BNZ Finance - are all foreign owned.
+
+And while we do have some fine locally owned financial institutions, such as the Taranaki Savings Bank, the Southland Building Society, the PSIS and the Credit Unions, they haven't been able to effectively meet the banking needs of people in many of the locations which have been stripped of local services in this generation.
+
+On top of this we've had a situation for years where unemployed people and beneficiaries face constant difficulties even with the simple task of setting up a personal bank account through which they are required to receive their benefit. At another level, farmers and small business people face ongoing problems with access to services, capital and the flexibility required by fluctuating income streams.
+
+At the same time, community organisations such as the Peoples Centres and many others around NZ, are held back from achieving their full potential because of the extreme difficulty they have in accessing capital. The ANZs and Westpacs of this world are not interested in making loans to community groups, even those which can demonstrate strong financial accountability - and even though the community sector has the capacity to be a rich source of badly needed jobs and services.
+
+What we do need is genuine community banking whose characteristics I've come to believe include:
+
+\* Firstly, the provision of full retail banking which enables people of whatever income level, together with small business and community organisations, to have access to local facilities, which in turn keeps other shops and services in the district rather than closed down or moved out.
+
+\* Secondly, there needs to be a commitment to reinvesting a high percentage of money in the geographical region from which it is sourced, including with small business, farmers and community enterprises.
+
+\* Third, I seek a willingness to devise a wide range of means of securing loans to community organisations including through means other than asset backing or personal guarantees; for example, through the use of mentoring, financial reporting and training.
+
+\* And fourthly and most important of all, I believe there must be genuine community ownership - that is, local shareholding which is structured so that the bank cannot easily be privatised, and in which trustees/directors can be selected through an accountable and democratic process.
+
+Some of the problems I saw with Mr Anderton's proposal when run up against what I see as true community banking included the fact that it will not be in true community ownership. Ordinary people will only have roles as taxpayers - supporting the enterprise with $78.2 million dollars of public money - and in playing their traditional and distant role as customers. People are disenfranchised from the banking system now. Opening an account with a Postshop cum bank is not going to change that one iota.
+
+Secondly, the reformed Postbank could be sold off at any time - it will only ever be one election away from privatisation. A quick look at the recent history of Trust Banks from 1986 onwards shows how speedily local ownership can move to full foreign control. And the National Party in Parliament has already indicated that it will look closely at whether they will sell off or otherwise dispose of the new bank once they are back in power. ACT is committed unquestionably to its destruction as an SOE.
+
+Third, there is no plan, at least in the short term, for Post's bank to provide banking facilities for anyone except personal customers; that is, there is no provision for banking by small to medium business, or for community sector organisations. One of the main reasons for supporting a return to localised banking is that small business can keep their income turning over through the local district.
+
+In contrast, I've been looking over the past few years at the Bendigo Bank, which I believe is the best model of genuine community owned banking existing in our part of the world. Bendigo was born in the Australian goldfields in 1858, and is now one of Australia's oldest financial institutions. It operates 90 branches in Victoria alone, and has capital assets in excess of $4 billion.
+
+With the closure of many bank branches in rural and suburban Australia, numerous approaches were made to Bendigo from affected areas for help. As they picked up the challenge, they realised that despite goodwill, there were no guarantees customers would move to a new bank, and that to make a local institution effective, it would be necessary to genuinely win people over. Over the last few years, Bendigo has set up a number of community banks, characterised by:
+
+Community ownership. Each bank is a franchise literally owned by the local community. A local trust raises investment funds locally from as wide a range of people as possible, through a lot of small investments, not a few large ones. Shares can be anywhere between $100 and the maximum $5,000 allowed, towards a total investment of $300,000+. There is one vote per shareholder, and board members are elected. Most communities who have entered this process have found themselves oversubscribed.
+
+Infrastructure partnership. The Bendigo Bank - the 'hub' - provides banking expertise, infrastructure and support; products and pricing structures; a corporate marketing programme; and provides credit cover and balance sheet security. The local area partner trust in turn provides capital to open their branch; gathers the customer base; hires local staff to run the shop; and pays rent and outgoings. The local bank directly shares in the profits - any profit the community bank makes after deducting operating expenses can be ploughed straight back into local businesses, farmers and community needs.
+
+Since 1998 when Bendigo's first community bank opened in Rupanyup/Minyip, 32 more have been established, with another 15 in the pipeline right now. Bendigo has had enquiries from over 1000 districts interested in looking at the community bank option, and has had tremendous commercial spinoffs from this venture. At a local level, some community banks are already making a profit of over $10,000 a month which can be invested back into the local district.
+
+By January 2001, further exciting developments were underway. The Australian Council of Social Services was exploring the feasibility of establishing a Community Sector Bank, jointly owned by the community sector and the Bendigo Bank, and designed to meet the specific needs of community organisations. At the same time, there was news that the Australian Ethical Investment Trust (Community Aid Abroad) has formed an alliance with Bendigo to create Australia's first ethical bank deposit account, the 'Ethical Investment Fund'.
+
+I don't know how seriously Mr Anderton looked at alternatives like these when working with NZ Post on their final proposal. I have heard that one of Mr Anderton's main criticisms of the Bendigo model was that it depended on local communities raising money to set up their own branch. I believe this is a completely untenable reason, demonstrating a fundamental lack of faith in the ability of ordinary people to organise themselves to take back economic power. Even the poorest and most marginalised communities raise money for things they really want to achieve, personally and collectively, as is demonstrated on a daily basis throughout the country, and as I've seen so graphically with my work with the Peoples Centre, where thousands of low income people pay a small amount each to keep an enterprise of collective benefit going.
+
+Returning to the dilemma in which the Green Party caucus found itself a short while ago over the banking issue, after several days of gruelling debate and discussion with representatives of the Government and NZ Post, we did come to a decision to support the Post Bank, despite our reservations. Our reasons for doing this were that it will be in New Zealand ownership, and that it does have a core objective of aiming to meet the banking needs of beneficiaries and low income people, and of lowering fees.
+
+We also received Government promises to progress a review of the regulatory and legislative framework which currently holds back existing credit unions, building societies and similar organisations from flowering in their own right.
+
+And lastly, and most signficantly from my point of view, we have also been the beneficiary of repeated assurances from Post that it is committed to going into partnership with communities to set up genuinely community owned banks on the Bendigo model with Post as the hub, and is willing to meet immediately with sector representatives to make sure this goal is advanced right from the start.
+
+I do believe that this is an opportunity politically and tactically which can't be ignored, although I have reservations about the extent of their commitment to this kaupapa. Both Government and Post say that they want to get the network of banks in existing Post outlets - around 320 of them - up and running first, before seriously going into community banking.
+
+What I and my Green Party colleagues are saying is that we want progress towards Post becoming a hub bank started on the same timeline, and that we'd like to see two or three community bank pilots on the road to achievement by the end of next year. We attempt again and again to get across the message that one of the best protections against the selloff and possible privatisation of the Post Bank will be community buy in to its survival. That is most likely to happen if people feel they have a real stake in it.
+
+Discussions and negotatiations are continuing. Even in a best case scenario I think it is premature to immediately rush into setting up pilots before there is any hope of Post being able, even with the best will in the world, to provide the infrastructure needed as a hub bank.
+
+However, I do hope that over the next weeks and months some of us will find ourselves working together to achieve this dream.
+
+I have focused on the banking issue today because it is of current significance, but there is a lot more that could be said about alternative visions and strategies for a future beyond the upside version of globalisation. One of the most important things all of us need to do, no matter what our personal or political background, is to spend more time debating and thinking about the future, about what might be possible if we allowed ourselves to talk about our dreams, and then work together on strategies to achieve them.
+
+We can't expect other people to share our visions for the future unless we can articulate them, whatever sector, age group, country or background we come from. What groups like the World Economic Forum do is spend a lot of time and money thinking about the future they want, and strategising about how to inflict their vision on the rest of us. Those of us who come from other world views may not have their money or their power, but with hands, minds, time and a willingness to respect and work with each other I believe we can - and must - change the world.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

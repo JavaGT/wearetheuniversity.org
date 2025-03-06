@@ -1,0 +1,14 @@
+[
+    "https://uol.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5f3759a2-b34c-4133-b2a2-ae9200fb9e5d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all",
+    "https://web.microsoftstream.com/embed/video/b543c8d8-01fb-4fe9-9cf9-6136f9661f41?autoplay=false&showinfo=true",
+    "https://uol.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=cd3e30c8-c0c1-44eb-9398-adfe00a2bdc4&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&start=0&interactivity=all",
+    "https://uol.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ccd234be-e676-4130-a150-adde0096a57a&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&start=0&interactivity=all",
+    "https://uol.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e325bc01-7bd6-430d-8ab1-ad5f00baf575&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all",
+    "https://uol.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ee307a65-d6ce-4c05-a584-ad4400c27bc9&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all",
+    "https://uol.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=cec0d391-ed65-4e37-90a7-acf40096d83a&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all",
+    "https://uol.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0d725493-744e-4336-a2ac-acde00f00fc1&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all",
+    "https://uol.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e8c60fec-c3ee-4d6e-b4a6-ac8000de8dd4&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all",
+    "https://uol.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=a1a30713-ff22-4c48-ad11-ace600c929e2&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all",
+    "https://uol.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0a4416f7-9782-40ea-a6c3-ab4a011bffbd&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all",
+    "https://uol.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3432c0f6-5c23-4f5f-bbfe-a9a0011ed8f0&v=1"
+]

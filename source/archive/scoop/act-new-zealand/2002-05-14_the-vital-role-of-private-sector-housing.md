@@ -1,0 +1,108 @@
+---
+slug: the-vital-role-of-private-sector-housing
+title: "The Vital Role of Private Sector Housing"
+date: 2002-05-14
+source-url: https://www.scoop.co.nz/stories/PA0205/S00286/the-vital-role-of-private-sector-housing.htm
+author: act-new-zealand
+---
+The Vital Role of Private Sector Housing
+========================================
+
+**Tuesday, 14 May 2002, 5:38 pm**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+The Vital Role of Private Sector Housing
+
+Tuesday 14 May 2002 Dr Muriel Newman Speeches -- Social Welfare
+
+Speech to Otago Property Investors Association, 7:30pm, May 14, 2002, Cedar Club, 89 Stafford St, Dunedin
+
+The government has just announced an extra $187 million of taxpayers' money is going to be invested into state housing. The question that springs to mind is why on earth should a government in the year 2002 be putting scarce tax resources into building houses? If more houses are needed, and I don't believe they are, why not use the capital of the private sector instead ?
+
+This government is on an ideological kamikaze mission with regard to housing. They have created an unprecedented demand for state houses, by offering rents of $50 a week when the market asks $150 to $250 or so. It is little wonder that 10,000 people are already queuing up for a state house, with some living in garages and shacks in order to get to the top of the priority list.
+
+Meanwhile, 10,000 people who are presently living in state houses earn too much to qualify for income related rents. Yet, in their wisdom, the government did not look to introduce incentives to move people on and out, in order to leave state houses for the more needy. As a limited and I have said, questionable commodity at the current levels, state houses should surely be regarded as a temporary housing option.
+
+The reality is, however, that some people regard state houses as a lifelong option. Some tenants have lived in their state house for 63 years, and over 1,000 people having lived in the same state house for more than 41 years. The average tenancy is nearly 7 years.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+New Zealand's most valuable state house which has a market value of $582,000 is rented out for $58 a week. The family have lived in it for 32 years. The taxpayer subsidy on such a house must now be around $10,000 a year. But in spite of the fact that these higher value state houses return around 1% on their investment to the taxpayer, the government refuses to look at selling them to reinvest in other ways.
+
+The ACT Party further, questions the fundamental wisdom of having $6 billion of taxpayer's money tied up in real estate - we cannot see any reason why the provision of all but a small stock of emergency houses and community houses, should not be the responsibility of the private sector. Government's role should surely be to provide financial support on a basis of need for those people who cannot get by, rather than giving privileged support to those people lucky enough to have the state as their landlord.
+
+Housing a nation is a major responsibility, it is a joint effort between the private sector and the government. In reality, the private sector provides most of the rental housing for those New Zealanders who do not own their own home. Of the 315,000 rental housing units in New Zealand, 230,000 are owned by the private sector, 70,000 by the state, and 15,000 by local authorities.
+
+According to the ASB Bank, some 170,000 private property owners have invested $42.5billion into the rental property market. The Bank claims that rental property is the second most popular investment option after managed funds.
+
+In spite of the spirit of partnership that should exist between the state and the private sector regarding housing, governments have steadfastly refused to address major concerns of landlords. There are a very few concerns that are essentially the cause of tens of thousands of applications to the Tenancy Tribunal - the state agency that deals with disputes that tenants and landlords cannot sort out between themselves each year.
+
+Last year there were some 42,000 applications to the Tenancy Tribunal - of which 39,000 were by landlords against their tenants. In particular their complaints fell into two basic categories: the failure of former tenants to pay the rent and their failure to compensate the landlord for the damage they have caused to the property.
+
+Only 8% of all complaints to the Tribunal were filed by tenants against their landlords and most of those were by tenants against Housing New Zealand. When complaints are lodged against landlords, the Ministry of Housing reports that they mostly comply with Tribunal orders.
+
+The reality is that stringent penalties are in place for landlords who fail to comply, with Tribunal orders, including the imposition of fines of up to $12,000 and even imprisonment. Local authorities also have the power to fine landlords over health and safety issues, with one landlord in Auckland last year being fined over $40,000.
+
+In spite of the overwhelming evidence that the major problems in the landlord tenant relationship with tenants who skip without fulfilling their financial obligations, the government has failed to address these issues in the new Residential Tenancies Amendment Bill that is now in front of parliament. Instead the government has chosen to use the bill to get tough as landlords, both of residential housing and boarding houses.
+
+While the Residential Tenancies Amendment Bill is largely focussed on it has a number of other amendments that affect residential tenancies that includes the introduction of exemplary damages:
+
+· Tougher penalties are proposed against landlords who fail to provide the premises in a reasonable state of cleanliness, provide and maintain premises in a reasonable state of repair, or fail to comply with all requirement in respect of buildings, health and safety regulations. Landlords who breach these provisions may face exemplary damages of up toe $3,000 payable to the person seeking enforcement of work orders, usually the tenant.
+
+· Letting fees will become payable by the landlord not by the tenant, reversing the situation at present.
+
+· In locations where wastewater is metered, those charges will payable by the landlord not the tenant even though the landlord has no control over usage Some people worry that this could be a step towards asking landlords to pay for all services including water and maybe even power and gas.
+
+· Under the Bill, a landlord will not need to physically locate a former tenant before serving notice of a Tenancy Tribunal hearing, as long as the application is made within two months of a tenancy ending, with the application being sent to the tenant's "address for service" as noted in the tenancy agreement. If however the notice is served after the two month period, the landlord will need to locate the tenant to effect the service.
+
+· The Tribunal will be given the power to hear and determine an application even if one or both parties fail to appear. This will effectively make it easier for landlords to obtain judgements against their tenants who have done a runner!
+
+· The Bill clarifies that a tenant's liability for any damage to the premises is not affected by the fact that the landlord has, or may have, insurance cover for damage to the premises.
+
+In an election year windfall gain, the Bill enables the Crown to receive bond money from the Bond Centre which has remained unclaimed for more than 6 years. According to parliamentary questions, could be worth as much as $1.5million.
+
+The Bill introduced major changes to the operation of Boarding Houses by essentially bringing boarding house tenancies under the auspices of the Residential Tenancies Act and therefore under the jurisdiction of the Tenancy Tribunal. As a result of the new requirements particularly around entry to rooms and the termination of tenancies, boarding house owners believe that the running of their establishments will hardly be viable.
+
+In light of the difficult tenants that boarding houses cater for, in particular those with serious mental health disorders, drug and alcohol problems and criminal backgrounds, one has to wonder at the motive of Government to hit this group so hard.
+
+During the debate on the Bill, in Parliament, the House was reminded of the Prime Minister's personal opposition to the building of a boarding house in her own Mt Albert neighbourhood because she believed it would bring \`undesirables' into the area. She lost her case but her personal view of boarding houses was made clear.
+
+Whatever the reason it certainly appears that boarding houses owners are paying the price for not being in the Government's favourites list.
+
+With the prevalence of tenants with severe problems, boarding house owners warn that if this bill goes through, the government will have to provide more community housing for tenants made homeless through boarding operators being forced out of business by this bill.
+
+The Residential Tenancies Amendment Bill totally fails to address the major problems that landlords face - that of locating former tenants for the purposes of serving court orders for payment of outstanding rent for compensation for damage to the property. The pursuit of justice in these areas is fraught as any landlord will know. After such cases appear before the Tenancy Tribunal a court order for rent arrears or damages is issued. It then becomes the responsibility of the landlord to provide their former tenant's new address to the Court so that the court order can be served.
+
+If the former tenant is a beneficiary however, the Ministry of Social Development hides behind the Privacy Act and refuses to provide details of the new address to the Court. In effect, the Department is preventing the rule of law being upheld, presumably because it is a civil matter. In criminal matters, such as the collection fines and other penalties, the information will be provided by the Department.
+
+I have drafted a Private Member's Bill to address this issue. The Social Securities (Facilitation of Deductions and Recoveries) Amendment Bill enables the location details of former tenants to be provided by the Ministry of Social Development to an agent of the court for collection purposes.
+
+The bill also provides for those beneficiaries who rent from the private sector and who choose to do so, to have their rent deducted at source in the same way that they can so choose if their landlord is the state. Having rent deducted at source is an excellent way for those people who have difficulty budgeting, from falling behind in their rent.
+
+This is a provision that the government clearly needs to use more often since $1.4 million is owed by Housing New Zealand tenants in overdue rents with $15,651 being owed by one tenant alone.
+
+Just as the ACT party opposed the introduction of income related rents for state houses, on the basis that it introduced into the housing sector discrimination based on who a family's landlord is rather than their need, so too we will be opposing the RTA Bill on the basis that it doesn't address the right issues.
+
+Private property investors play a vital role I housing New Zealanders. If the government will not acknowledge their contribution, the ACT party will.
+
+For more information visit ACT online at http://www.act.org.nz or contact the ACT Parliamentary Office at act@parliament.govt.nz.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

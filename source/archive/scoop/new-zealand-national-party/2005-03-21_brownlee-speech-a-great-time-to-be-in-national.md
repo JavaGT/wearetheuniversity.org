@@ -1,0 +1,225 @@
+---
+slug: brownlee-speech-a-great-time-to-be-in-national
+title: "Brownlee Speech: A great time to be in National"
+date: 2005-03-21
+source-url: https://www.scoop.co.nz/stories/PA0503/S00418/brownlee-speech-a-great-time-to-be-in-national.htm
+author: new-zealand-national-party
+---
+Brownlee Speech: A great time to be in National
+===============================================
+
+**Monday, 21 March 2005, 8:38 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Gerry Brownlee Speech: A great time to be in National
+
+Address to the National Party Canterbury/Westland Regional Conference.
+
+What a great time it is to be a member of the National Party.
+
+I can’t recall the last time there was so much enthusiasm and so much anticipation within our Party organisation.
+
+2005 is going to be a great year for National.
+
+I would first like to welcome our President Judy Kirk, Board members, all my Parliamentary colleagues and, of course, the next Prime Minister of New Zealand, our Leader Don Brash.
+
+I’d also like to extend a warm welcome to all our new candidates.
+
+We look forward to hearing a lot more from you over the coming months, and we’ll all be working to make sure you join us in Parliament by the end of the year.
+
+Because, delegates, that is the task ahead of us.
+
+Let’s not beat around the bush. New Zealand needs National to win this election.
+
+New Zealand needs National to put right the Treaty grievance industry
+
+New Zealand needs National to put an end to the culture of welfare dependency, and it needs National to stand up for the victims of crime.
+
+New Zealand needs National to bring down taxes, and it needs National to restore the faith in our education system.
+
+New Zealand needs the fiscal discipline and the open book honesty of Dr Don Brash.
+
+Like most New Zealanders I’m sick of the secrecy, the propaganda and the weasel words employed by this desperate Labour Government in its death throes.
+
+For Labour, this election isn’t about taking the country forward, raising living standards or making New Zealand a better place to live in.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+For Labour, this election is about one thing and one thing only, getting re-elected.
+
+What’s wrong with that? I’ll tell you what‘s wrong with that.
+
+Without an end destination the journey is pointless. And sadly for all of us, New Zealand is treading water at the moment.
+
+Under Labour, mediocrity is in - aspiration is out.
+
+Under Labour, all the benefits of those much talked-about economic reforms are being squandered, and right now we’re starting to see the cumulative effect of Labour’s tax and spend philosophy.
+
+Big government spending has fuelled inflation, interest rates are on the rise and growth is projected to slow.
+
+The cracks are starting to show.
+
+All the fiddling and all the tinkering, and all the things like the anti-business changes to employment law are starting to slow our economy down.
+
+And that’s frightening. Under Labour we will never start closing the gap between incomes here and incomes in Australia.
+
+And let’s face it, that’s why our best and brightest are leaving.  
+They’re packing their bags and going after the big money elsewhere. For them, New Zealand is where they go at Christmas to visit relatives.
+
+So absolutely no one blames workers for seeking pay rises. After five years under a Labour Government that has amassed the biggest surplus in our history, workers think it’s their turn.
+
+They don’t think the con job that is Working for Families is good enough.  
+They understand that because of Labour’s twisted priorities, four out of five households will get nothing, and that for many workers, future pay rises will be swallowed up by Michael Cullen’s vicious tax formula.
+
+As John Key pointed out recently, for some workers 5 per cent in ’05 will equal just five dollars.
+
+And what did Helen Clark tell us when Don Brash raised this with her in Parliament?
+
+I read from the Hansard: “I regard it as ludicrous to suggest that workers should be getting their pay increases out of tax cuts.”
+
+You don’t have to be the brightest bulb on the Christmas tree to realise there is something wrong with the message that Labour is sending to hard working New Zealanders.
+
+And that is why it is a great time to be a member of the National Party.
+
+We have the right message for the right time. We have the right leader. And we have the right team.
+
+National will win this election if for no other reason than New Zealanders want the Government to get out of their lives.
+
+We’re sick of being told what’s worthy and what’s not. We’re sick of the nanny state Government constantly waving the big stick, and we’re sick of the unwanted social tinkering that Helen Clark has so recklessly pursued.
+
+We, in the National Party, have co-opted the phrase political correctness to describe the myriad of feel-good, but achieve-nothing measures that Labour is responsible for.
+
+We’re being smothered in cotton wool by a Government that thinks it knows best. It believes we want our taxes spent on homeopathy for pets, fingernail technology, dog grooming and twilight golf.
+
+Labour believes we want our taxes handed over to violent criminals as compensation for ‘hurt feelings’ and Labour believes pouring our taxes into sing-a-long and ‘Party Guitar courses’ gives us a good return on our investment.
+
+Let’s have a look at just some of Labour’s loopy PC ideas.
+
+September 2000: A failure to show its services were delivered in a “culturally appropriate” manner leads in part to the Northland Emergency Services Trust losing its contract with ACC to carry accident victims.
+
+July 2001: It is reported four kaumatua spent five nights in Bangkok in order to perform hikitapu ceremonies at the latest MFAT and New Zealand Trade and Enterprise offices at a cost of more than $8000.
+
+Same month same year: The Evening Post claims Maori who fail entrance exams for the Police will no longer be told they had failed, because the Government wants them to return for a second attempt at the exam.
+
+October 2001: Te Papa sidelines plans to display live Geckos after Maori deemed them culturally inappropriate.
+
+November 2001: Work on the Mercer to Long Swamp stretch of the $500 million Waikato Expressway was halted for more than a month when local Maori said the north bound lanes would disturb a taniwha.
+
+July 2002: About 50 endangered Archeys frogs are flown from Te Kuiti to Christchurch - accompanied by 3 Waikato kaumatua. They were given a powhiri upon their arrival at Canterbury University. DoC spent more than $2000 flying three Maori elders to Christchurch with the frogs.
+
+March 2003: A Radio advertisement by the Inland Revenue Department ‘promoting’ the DPB: The script reads… “You always knew that having children would be rewarding…how much you receive depends on how many children you have… and with two children in your care you could earn even more …”
+
+August 2003: Government forced to drop clause in the care of children bill that provided for the lesbian partners of women who had conceived using assisted reproduction technology to be deemed as "the father of the child".
+
+May 2003: The Family Commission Bill is introduced. It includes a provision that could see gangs defined as a family group because they ‘shared a significant psychological attachment’. Labour later backs down.
+
+May 2003: The New Zealand Herald reports on an incident the previous September in which a woman, whose daughter had been murdered, had to wait a whole day to be informed because Police were attempting to find an iwi liaison officer to break the news.
+
+In June 2003: News that a fast food Fat tax is being considered leaks out of the Ministry of Health.
+
+October 2003: It is revealed that the Ministry of Health funded anti-smoking lobby groups to lobby MPs and the public on the anti-smoking legislation. The groups received $2.1 million in funding with a contract that stipulated minimum numbers of press releases, media contacts and even letters to the editor.
+
+December 2003: The Corrections Bill is reported back from Select Committee. The Bill bans private prisons in New Zealand; despite the fact the only private prison in NZ has run cheaper and more efficiently than any other prison.
+
+22 December 2003: Fifty years after a lahar at Ruapehu killed 151 people in the Tangiwai disaster the Government chooses to put political correctness before lives. The Government refuses to drain the Crater Lake because of opposition from Maori that such work would be “culturally unsafe”.
+
+March 2004: A Government blowout in spending on PC “community education” courses is revealed. These non-assessed non quality-approved courses run by polytechs include “Twilight Golf”, “Party Guitar” and singing along with the radio. Funding for these dubious courses has risen from $14M in 2000 to $115M in 2004.
+
+I could go on… and on… and on.
+
+What does all this show.
+
+It goes to show how out of touch this Labour Government really is with the priorities of ordinary New Zealanders.
+
+It is so out of touch that Labour thought it could smooth over the major failings of the NCEA without any public fuss.
+
+It is so out of touch that it thinks George Hawkins is the man to fix the 111 emergency service, and it is so out of touch that it is still requiring public servants to subscribe to its particular view of the Treaty principles.
+
+That’s right, a recent ad for a Secretary in Trevor Mallard’s office said the staffer must have - a commitment to the Treaty of Waitangi, must demonstrate ‘an awareness of the implications of the Treaty’, and must recognise and acknowledge the contribution of Maori staff.
+
+One week later David Benson-Pope was looking for a secretary. Given that Mr Pope has no responsibility for Treaty settlements or race relations I certainly found it unusual that he should be seeking an applicant that would work ‘to ensure specific Maori needs are identified and met, and to create a positive work environment for Maori’.
+
+The internal advertisement also says the candidate was required to show an 'awareness of the implications of the Treaty of Waitangi’ and show an ‘understanding of issues for Maori in relation to the Treaty of Waitangi and government policy’.
+
+As predicted, Labour has completely failed to deliver any meaningful review of its race-based policies. Remember, that’s what Trevor Mallard was supposed to have been doing for the past year.
+
+Helen Clark was never serious about her so-called review of race-based policies and, as we thought, nothing significant has changed.
+
+Here’s another example. A passenger compliance officer at customs. These are the people who are there to sniff out the terrorists, the drug traffickers and generally protect our borders.
+
+Why is a ‘passenger compliance officer’ expected to have a Commitment to the Treaty of Waitangi? And why on Earth should he or she have to demonstrate an understanding of the Treaty of Waitangi including its ‘historical, legal, social and economic significance to the customs workplace.’?
+
+This stuff is littered through our newspapers and our education system.
+
+NCEA’s recent attempt at brainwashing is a case in point. The history exam included a question that asked students to compare the views of two prominent Maori women, and ‘a National MP unsympathetic to Maori concerns’.
+
+This is the thin end of the wedge, and it frightens me. Of course Labour denies there was any bias. But New Zealanders are beginning to see it very differently.
+
+So just how thorough was Trevor Mallard in his ‘helicopter’ review?
+
+I want to read you the reply I got to a recent written question about it.
+
+I asked “Which specific departments did not respond to questions regarding the success of their scholarship programme; and what specific measures were taken by the ministerial review unit, the State Services Commission or any other person as a result?
+
+Here’s the answer.
+
+“I am advised that the Ministerial Review Unit considered that sufficient information had been obtained from various departments to enable MRU to draw general conclusions.”
+
+That’s right, general conclusions!  
+In other words, they guessed.
+
+I think New Zealanders deserve a lot better than guesswork and political spin.
+
+Just yesterday, the Race Relations Commissioner released his annual report.  
+It should come as no surprise to anyone here that a large proportion of the complaints were against public agencies.
+
+In fact, 30 complaints were made about a scheme at Work and Income where employee bonuses were calculated by giving three points for placing a Maori person in work, two points for Pacific people and one for Pakeha.
+
+Forgive me for being old fashioned, but I think all people are equal. This scheme was simply wrong. But that’s how bad it has got here in Aotearoa.
+
+The Labour Party continues to patronise Maori while their approach to education short-changes a generation of Maori kids. Mediocrity or worse is not good enough.
+
+The so-called social welfare reforms are also a smokescreen. It’s a sneaky, ill-conceived way for Labour to hide the real size of the welfare crisis in this country. It’s exactly the same sort of thing Helen Clark did in health to hide the real size of the hospital waiting lists.
+
+Those are the same waiting lists she boldly promised to ‘blitz’ while she was in Opposition. Now we know what ‘blitz’ means. It means massaging the numbers and disguising the problem.
+
+That is Labour’s way. That is not National’s way.
+
+National doesn’t want to hide the real size of our welfare problem; National wants to fix our welfare problem with policies that tackle the issue head on.
+
+National doesn’t want to hide the real size of the surplus, National wants to put more of it back in workers’ pockets where it should be.
+
+National isn’t disguising its view of the Treaty, we want to settle the claims and move ahead together.
+
+National is prepared to face up to these hard issues; Labour has swept them under the carpet.
+
+National is determined New Zealand can do better. Labour, with its appallingly low expectations, is prepared to accept the status quo and it wants all of us to accept mediocrity too.
+
+Well I’m not prepared to accept mediocrity, none of my colleagues here today are either, and neither are any of your candidates in the audience today.
+
+  
+That is why it is a great time to be part of National. I’m sure you’ll agree.
+
+Thank you.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

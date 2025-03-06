@@ -1,0 +1,74 @@
+---
+slug: more-transparency-around-health-funding-formula-needed
+title: "More transparency around health funding formula needed"
+date: 2018-08-17
+source-url: https://www.scoop.co.nz/stories/GE1808/S00047/more-transparency-around-health-funding-formula-needed.htm
+author: university-of-otago
+---
+More transparency around health funding formula needed
+======================================================
+
+**Friday, 17 August 2018, 9:53 am**  
+**Press Release: [University of Otago](https://info.scoop.co.nz/University_of_Otago)**
+
+Friday August 17, 2018
+
+**Otago researchers call for more transparency around health funding formula**
+
+University of Otago researchers are calling for more transparency and dialogue around the formula used to distribute funding between the country’s 20 district health boards, integral to the functioning of the New Zealand health system.
+
+In research published today in the _New Zealand Medical Journal_, investigating the formula through the lens of the print media, the three researchers Professor Robin Gauld, Dr Erin Penno and Aaron Chester say that while the formula is a “lightning rod” for frustrations over financial strains in the district health board sector, their findings point to a number of lessons for policy-makers.
+
+“First, it highlights the need for transparency around the Population Based Funding Formula model and the process and principles underpinning formula allocations,” the researchers state in their paper.
+
+The dearth of independent comment about the formula within the media is an argument for policy-makers to support the development of independent expertise on the model to provide credible and balanced viewpoints on the distribution of health funding, they say.
+
+“Lastly, in light of ongoing financial disparities across district health boards, it reinforces the importance of monitoring of the impact of Population Based Funding Formula allocations across the country.”
+
+Research Fellow Dr Erin Penno says public acceptance of health funding decisions hinge on a sense that they result from a fair process.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“The recently-announced review of the Health and Disability system represents an excellent opportunity to review the formula and its impacts across the DHB sector,” Dr Penno says.
+
+Since 2003, the Ministry of Health has used the Population Based Funding Formula to distribute funding among district health boards, which in turn provide or fund health services within their districts.
+
+The allocation that each board receives is determined by the number of people in their catchment, their ethnicity, sex, age and relative deprivation. Adjusters are also included to account for diseconomies of scale related to rurality, overseas visitors and unmet need. The formula controls almost three quarters of Vote Health, the main source of funding for New Zealand’s health system, making it one of the single largest determinants of government expenditure ($11.72 billion in 2015/16).
+
+Professor Gauld, who is Co-Director of the University’s Centre for Health Systems and Technology, says there has been widespread dissatisfaction among district health boards with the allocation process. However, there are limited formal avenues available for boards and the public to discuss the formula. As such, the news media has become a key platform for voicing concerns.
+
+As a result, the researchers conducted a thematic analyses of 487 newspaper articles about the formula, published over 13 years from 2003 to 2016 and identified trends in the data.
+
+Their findings showed media coverage consistently linked the formula to the cause and effects of financial pressures experienced by boards throughout the country, creating a sense that funding allocations are inequitable and that district health boards are not entirely comfortable with the model and its impacts on their income.
+
+The persistently high volume of reporting in the southern regions implies the formula has been particularly poorly perceived in the South Island, Professor Gauld says.
+
+“At a national level, the patterns of media reporting and themes suggest the formula has failed to keep pace with the challenges facing DHBs such as aging populations, the diseconomies of scale related to rurality and health workforce recruitment and retention.”
+
+The formula is reviewed by the Ministry of Health every five years, most recently in 2015. But despite periodic internal review, there have been calls for a comprehensive and independent review of the formula amid concern over a lack of transparency surrounding the model.
+
+The researchers acknowledge a limitation of their project is the fact there was scarce media coverage of some North Island DHBs over the 13 years, which makes it difficult to identify issues and trends in those regions.
+
+However, one of the study’s strengths is that it captures a comprehensive picture of reporting on the formula since its inception. The findings are also consistent with international literature demonstrating the importance of the news media in framing health funding policy debates, Professor Gauld says.
+
+ends  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Otago](https://info.scoop.co.nz/University_of_Otago) on InfoPages.

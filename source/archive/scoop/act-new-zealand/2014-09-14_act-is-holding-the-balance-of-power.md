@@ -1,0 +1,225 @@
+---
+slug: act-is-holding-the-balance-of-power
+title: "ACT is holding the Balance of Power"
+date: 2014-09-14
+source-url: https://www.scoop.co.nz/stories/PO1409/S00316/act-is-holding-the-balance-of-power.htm
+author: act-new-zealand
+---
+ACT is holding the Balance of Power
+===================================
+
+**Sunday, 14 September 2014, 12:50 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+ACT is holding the Balance of Power
+
+  
+Dr Jamie Whyte, ACT Leader
+
+11 am Sunday 14 September
+
+Tasca Café, Newmarket, Auckland
+
+ACT will hold the balance of power after the election on Saturday.
+
+In every poll taken last week, ACT has gone up. Not in every poll published last week mind you but in every poll that was taken last week.
+
+In the latest Colmar Brunton poll – the most reliable of the pollsters – ACT is on 1.2%.
+
+Our messages are getting through. We are winning support. 1.2% (28,000 votes) means I will be elected as a list MP, giving ACT two MPs and allowing John Key to be Prime Minister again without the “help” of Winston Peters.
+
+In a week’s time ACT will be in a position to give the country three more years of stable Centre/right government.
+
+The MMP system and its ramifications remain unclear to many voters. It is worth going through them yet again.
+
+To elect Party List MPs, a party must receive 5% of the Party vote or hold an electorate. 5% is a high threshold. No Conservative-type party has managed it in 18 years of MMP. The Christian Democrats were well funded and they failed. The Conservatives, with their confused and uncosted policies, will also fall short in this election.
+
+The parties that will break the threshold are National, Labour, the Greens and, probably, New Zealand First.
+
+The only other parties that will be in parliament are parties that can win electorates: the Maori Party, United Future’s Peter Dunne, Internet-Mana and ACT.
+
+Of these, only two parties have enough electoral appeal to elect Party List MPs: Internet-Mana and ACT.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Hone Haraweira now regrets his deal with Dotcom and is struggling to hold his seat from Labour’s Kelvin Davies. And Internet-Mana is falling in the polls. If Hone loses they will sink without trace.
+
+It is a huge electoral advantage to hold an electorate.
+
+The people of Epsom are doing their bit. Left wing commentators and desperate talk-back callers claiming to be Epsom voters say the electorate does not like being in a position to choose the next government.
+
+I have been campaigning in Epsom. I am yet to meet an Epsom voter who objects to the role.
+
+This week National released their Epsom poll. It puts ACT’s David Seymour over 50%.
+
+ACT’s winning Epsom is important not just because it means all ACT Party votes then count but because it increases centre-right representation in parliament – a fact that even political science professors fail to recognise.
+
+MMP stands for Mixed Member Proportional. “Mixed Member” refers to the fact that there are electorate and list MPs. “Proportional” refers to the fact that the number of MPs a party has is roughly proportional to their Party vote.
+
+Electorate Seats that a party wins are deducted from the seats it wins on the list to make the total representation in parliament proportional. So if National had won Epsom last election, the party would have lost its last list MP and the total number of centre-right MPs would have been the same.
+
+ACT winning Epsom meant an increase of one seat for the centre-right and turned out to be the vote John Key needed to be Prime Minister.
+
+The other effect of the electorate seats being deducted is that, at the last election, National needed 63,000 party votes per list MP. At this election, about 28,000 party votes (or 1.2%) will bring me in as a list MP and 44,000 will bring in me and Kenneth Wang – at an average of 22,000 party votes per list MP.
+
+We are currently polling 1.2% – enough for David Seymour plus me. But I think things are actually better than that.
+
+ACT has always been under-recorded in the polls. The famous Republican pollster, Gen Ulm, tells us that telephone polls no longer work for a party like ACT. Our supporters have smart phones and polls based on landlines are over recording parties like New Zealand First.
+
+ACT may already be on 3 or 4 MPs.
+
+\* \* \* \* \*
+
+ACT has never failed to elect an MP in the history of MMP.
+
+That is because of our real electoral advantage.
+
+Many New Zealanders want to be free to make the decisions about their lives and they are willing to accept the consequences of those decisions.
+
+Anyone who wants lower taxes and less nanny state has only two options on election day. They can either stay at home or they can vote for ACT.
+
+We may be a minority, but those who favour personal freedom do so passionately.
+
+I support free market capitalism because it has produced remarkable wealth for humans. Over the last 200 years, free markets have lifted humans out of the grinding poverty that was taken for granted for all previous human history.
+
+Despite what the parties of the left say – and especially grumpy old Winston – there has never been a better time to be a New Zealander.
+
+But even if socialism did work, even if David Parker and Russel Norman really could run a planned economy, I would still reject it in favour of freedom of choice and taking responsibility for my choices.
+
+I know that at least 10% of New Zealand shares my values. They and I know that ACT is the only party of freedom.
+
+I have demonstrated in this campaign and in the debates that I am a person who genuinely believes in personal responsibility. I can be trusted to go to parliament and be true to the values of freedom and responsibility.
+
+We have selected a new team who can also be trusted to reflect our values. David Seymour is leading in Epsom not simply because he has door knocked on thousands of doors. He is leading because when the Epsom voters met him they like what they see. Kenneth Wang came to this country with nothing and has founded and run his own successful company.
+
+ACT’s support will continue to climb this week.
+
+Victoria University has run an interesting study about how voters decide who to vote for and when they decide. ACT voters are late deciders. ACT people are busy. Many of our voters will make up their minds over the coming week.
+
+And they will do that in part by visiting our website. Victoria University says potential ACT voters are the most likely to check out all the party websites.
+
+Here is what they will find. National has the slickest site but it focuses on John Key. It is the John Key party. If you have the most popular politician, why not?
+
+It does not take long on the Labour website to realise this is a party that has lost its way. On the Greens’ site you rapidly discover that this is a party of watermelons: green on the outside and red in the middle.
+
+But the websites get worse after that. New Zealand First is a leadership cult. The Taxpayers Union says New Zealand First promises are more than Labour and the Greens combined, but none of it is properly explained or costed. There are no serious policy papers on the New Zealand First site.
+
+The Conservative website is even more superficial. It is a hodgepodge of inconsistent policies stolen from different parties. No attempt is made to cost their promises. Even their core policy of binding referendums seems to be slipping into something not quite binding.
+
+Potential ACT voters will not bother with the other sites so neither will I.
+
+ACT does not have the flashiest website but we do have the most substantive – fully-costed policies with carefully researched background papers that cite our sources.
+
+The Taxpayers’ Union’s independent economist says that ACT has costed its policies and that ACT alone is not trying to bribe voters with their own money.
+
+Spend time on the ACT website and you will find ACT is the only party with a plan that distinguished economists agree will return New Zealand to full employment.
+
+The other parties talk about poverty. On our website, we have a practical five point plan to reduce poverty: economic growth from tax reform, reduced housing costs from regulatory reform, improved incentives to work from welfare reform, better education through Partnership schools and less addiction by supporting National’s policy of making treatment a condition for welfare.
+
+20% of New Zealand children leave school unable to read or do arithmetic well enough to be employable. Only ACT has a plan to give our youth an education suitable for the world of robots and global competition.
+
+Spend time on ACT’s website and you discover that ACT has practical policies to combat crime. We have credibility here because our 3-strikes policy has already reduced violent crime. 3-strikes for burglary will reduce our appalling burglary statistics.
+
+Getting tough on home invasion will tackle what is one of the worst crimes. And we are is going allow shop keepers to defend themselves from violent criminals.
+
+I challenge every voter to take the tour of the websites. ACT is the party of fresh ideas and practical solutions.
+
+\* \* \* \* \*
+
+I also ask voters to look at the leadership I offer and compare it with what is on offer.
+
+Before entering politics I wrote two books about the shoddy arguments that politicians commonly use. So I entered with low expectations about what I would encounter.
+
+But I am afraid my expectations have turned out to be not quite low enough.
+
+The most astonishing thing has been the willingness of my rivals to simply make things up.
+
+Winston Peters, for example, claims that he can come up with $7 billion in annual revenue to fund his wild promises by cracking down on tax evasion.
+
+Some journalists have asked how he knows there is this much tax evasion and how he can possibly stop it. He simply replies that he knows what he is talking about because he was involved in exposing a famous tax evasion scam many years ago.
+
+It’s like arguing that you can bench-press 200 kilos because you once picked up a kitten.
+
+Even worse: if he knows of this $7 billion of tax evasion, why has he not already informed the IRD? What’s he waiting for? The baubles of office?
+
+Colin Craig, the man who would be Winston, seems to be learning from the master.
+
+His tax policy has become a farcical farrago of invention.
+
+Initially, Mr Craig claimed that he would create a $20,000 tax-free threshold and impose a flat rate above $20,000. This flat rate remained a mystery both to the voters and, apparently, to Mr Craig.
+
+Mr Craig had announced no cuts in government spending. So the tax rate imposed above $20,000 would have to suffice to maintain the current total revenue from income tax.
+
+We calculated that this meant the rate would need to be 34%. That’s higher than the current 33% top rate but would kick in at just $20,000. Imposing a 34% marginal tax rate on people earning just $20,000 is economically crazy.
+
+No no no, said Christine Rankin at a candidates meeting in Epsom. The rate would be between 20% and 25% with the shortfall made up by a $4 billion new excise duty on alcohol.
+
+Excise duty on alcohol – at for example $2 a bottle of wine – now raises about $670 million. The Conservatives plan to increase this to $4 billion or, in other words, by a factor of 7. The duty on a bottle of wine would rise from $2 to $14. A bottle of wine that now costs $18 would cost $30!
+
+We pointed this out.
+
+Then Mr Craig announced that he would only phase in his $20,000 tax-free threshold, starting with $5,000.
+
+Well, even this will entail a revenue loss of $1.6 billion. What spending will be cut?
+
+Answer: he will cut some unspecified wellington bureaucrats and reduce the number of MPs.
+
+Suppose that the total cost of an MP is $1 million annually, including office staff and all the attendant costs. If parliament were reduced from 120 MPs to 100, that would save $20 million, which is 1% of the $1.6 billion required. The remaining 99% of savings required are, of course, left unspecified.
+
+He is just making it all up as he goes along, coming up with a new mistake as soon as the previous one is exposed.
+
+The unabashed left, on the other hand, have succumbed to self-aggrandising fantasy.
+
+Their every policy involves a transfer of decision-making from private citizens to politicians and bureaucrats.
+
+How will Labour increase economic growth? By shifting responsibility for making investment decisions from private investors risking their own money to David Parker risking taxpayers’ money.
+
+What extraordinary economic insight Mr Parker must be possessed of! With no skin in the game and only a fraction of the information available to private investors, he can make better decisions than they can.
+
+How will Labour, the Greens and Internet-Mana increase the incomes of those on low pay?
+
+They will simply force employers to pay their staff more. Never mind all the complexities of the labour market, the ever-shifting demand for various kinds of labour and the supply of them. Never mind the great variation in living costs around the country. Never mind the effects of high minimum wages on employers’ plans to hire new staff or on the non-monetary conditions they offer their employees.
+
+Meteria Turei, Hone Harawera and David Parker can do a better job of setting pay than can millions of voluntary contracts between employers and employees.
+
+What god-like insight these people must believe themselves to possess.
+
+\* \* \* \* \*
+
+When I make such points, my rivals and some commentators dismiss me as a philosopher.
+
+They hope to make a political virtue of their inability or refusal to reason properly.
+
+It isn’t a virtue.
+
+This country faces problems that call for some straight thinking.
+
+We need some MPs in parliament who are willing and able to think.
+
+And many voters know it.
+
+That’s why ACT is going to do well on Saturday.
+
+That’s why we will being holding the balance of power in the next parliament.
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

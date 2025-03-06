@@ -1,0 +1,100 @@
+---
+slug: a-change-in-the-wind
+title: "A Change In The Wind"
+date: 2004-05-20
+source-url: https://www.scoop.co.nz/stories/PA0405/S00412/a-change-in-the-wind.htm
+author: act-new-zealand
+---
+A Change In The Wind
+====================
+
+**Thursday, 20 May 2004, 9:29 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+A Change In The Wind
+
+Thursday 20 May 2004
+
+Dr Muriel Newman Speeches -- Other
+
+Let's not kid ourselves - ACT has a fight on its hands. We are in a battle for our very survival. We are fighting for ACT's fundamental values and beliefs to remain on New Zealand's political agenda.
+
+I am not prepared to stand by and let our ideas die in poor poll ratings. Our vision of transforming New Zealand into a prosperous and forward-looking nation is too important. That's why I'm standing for Leader.
+
+In the past, ACT has been perceived as lacking compassion, a hard-nosed blokes' party. That perception has held us back. It's time for change.
+
+If we are to become relevant again, it is imperative that we broaden our appeal. More of the same is not the answer.
+
+I think Richard Prebble recognised that when he made the bold decision to stand down as Leader. And that's why, in light of his encouragement and the overwhelming support not only of members, friends and family, but of so many of the more than 10,000 subscribers to my weekly Column, that I'm standing for Leader.
+
+But remember, in this Primary, you are voting for more than just a Leader. I expect the top two in the poll results will become Leader and Deputy Leader. This ballot is about choosing a leadership team for ACT.
+
+I am offering a different approach to leadership - a more consensual, modern style better suited to our MMP system of government.
+
+I have the skills and the background for leadership: my experiences of growing up in a poor family, being a solo mum on welfare, teaching, farming, gaining a doctorate degree and a black belt, becoming a business leader - nine years as the New Zealand Assistant General Manager of Michael Hill International and the first woman President of the Northland Chamber of Commerce - and now an eight year apprenticeship as a Member of Parliament, have shaped my inclusive leadership style.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Invited by Sir Roger Douglas to join ACT in 1993, I spent two years on the road as a "missionary" for ACT, helping to build the Party and learning that to win support you have to first win hearts, then minds.
+
+I know how to campaign. I am, and have been a long time member of the Campaign Committee.
+
+I have been a member of the ACT Board - I know the Party at grassroots.
+
+As the MP elected by Caucus to be the Party Whip, it has been my job to work with all of our MPs as a team, helping to create a powerful political force. That role - as well as my position as Deputy Chairman of the Social Services Select Committee - has also involved, in true MMP style, working with other political parties, including National.
+
+Some say ACT's role is to keep National honest. But let's be clear ... it's not about keeping National honest... it's about ACT expressing its own identity and promoting its own vision. ACT is not an appendage to National. Our role is to lift the hopes and aspirations of all New Zealanders so that they believe in themselves.
+
+ACT certainly needs to work closely with National to rid the country of the Clark administration, but we cannot expect a free ride into the next government - and nor should we. National has already indicated that it is not interested in deals on constituency seats, and who could blame it - National has the luxury of having three Parties to look to for confidence and supply.
+
+It's wrong to position ourselves as National's \`kid brother'. ACT needs to stand tall, proud and firm, earning our place in the next government based on our own merits.
+
+If elected ACT Leader, our strategy will operate at three levels:
+
+Firstly we need to rejuvenate the Party and rebuild from the grassroots up. My focus will be on building strong electorates to support candidates, raise money and become hotbeds of local political activism. My own Whangarei Electorate is one of the strongest in the country and provides a model of what can be achieved.
+
+The second area of strategic focus is policy. While ACT means different things to different people, I doubt whether the liberal agenda alone will give us the new momentum we need. That is why Sir Roger Douglas' founding vision for ACT, of creating a stakeholder society to help the disadvantaged, is so important to us now. I have never lost my faith in that original vision, nor my focus.
+
+As the Party of new ideas, ACT has led New Zealand's political debate since entering Parliament. On day 1 of becoming Leader, our campaign starts. I will revitalise the policy debate with the launch of a series of key policy initiatives over 100 days: reforming the welfare system and providing security in old age, lifting our living standards, reducing crime, and improving education and health.
+
+ACT's views on the Treaty and race relations, defence, cutting red tape and compliance costs, reforming family law, and improving the Resource Management Act are just some of ACT's ideas that will help to shape New Zealand's future.
+
+During this process we need to ensure that our message reaches key target groups: at the last election only 4% of women voted for ACT; we must do better. ACT is the natural party for small business; we need to reach out more to attract the small business vote. We also need a stronger focus on younger New Zealanders.
+
+It is also time to re-invigorate policy debates throughout the Party, to better utilise the enthusiasm and talent within our membership base. Sir Roger Douglas will play a key role in this process.
+
+Our polling shows that ACT members clearly believe welfare dependency is the biggest problem New Zealand faces. I've been on welfare, and I know what it is like. Fortunately I had the support of a strong family and, with friends' help, I was able to move onwards and upwards. However, there are many others who have not been so lucky - too many solo mothers have remained trapped on welfare. Their hopes and aspirations only extend as far as next week's welfare cheque. Unless the system is changed, their future, and the future for their children, is bleak.
+
+The only way out of the poverty of welfare dependency is work. That's why I'm so passionate about the need for welfare reform. If I am elected Leader, I promise you that welfare reform will be an election issue. Only the ACT Party can implement welfare reform. We would create a tax and welfare system that rewards families and values instead of incentives to break families up. That system would recognise that a family on $60,000 a year is not "rich", and that financial security in old age is a goal worth pursuing.
+
+Finally, there is the leadership of Caucus. It is always a challenge managing a talented team, but we can no longer afford eight individuals. We need to focus our effort with a force of eight. That will require a Leader who can pull people together, bridge divisions and build a team. I can do that.
+
+But we need to go further and harness the energy and enthusiasm of our thousands of members and supporters - as well as the networks and groups who share our views - to create a veritable army of messengers who know in their hearts that ACT's vision of the future is the way forward for New Zealand.
+
+When I decided to stand as Leader and to campaign for welfare reform I reflected on the experience of Tommy Thompson who, in 1986, stood for Governor of the US State of Wisconsin on a platform of welfare reform. He transformed Wisconsin from a basket-case economy with record rates of welfare dependency and crippling taxes, to a prosperous, go-ahead state with one of the highest standards of living in the country, minimal numbers on welfare, and low taxes. There is now less family breakdown in Wisconsin, fewer school dropouts, lower crime, improved health, and children are doing better. It worked in Wisconsin. It will work here.
+
+By standing down as Leader, Richard recognised that it is time for a change in the leadership style of ACT. I am asking for your support. You will get a strong Leader of integrity and passion, with a more inclusive style, and a Leader who is deeply committed to the essential purpose of ACT: lifting the hopes and aspirations of all New Zealanders.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

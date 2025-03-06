@@ -1,0 +1,119 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2006-10-12
+source-url: https://www.scoop.co.nz/stories/ED0610/S00053/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 12 October 2006, 11:44 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Prestige programmes under threat at University of Auckland  
+Senior members of staff at the University of Auckland say they are outraged that management has refused to extend consultation over a restructuring proposal that could destroy prestige programmes in the Faculty of Arts and cost more than fifty academic jobs across the University.  
+Association of University Staff Auckland Branch President, Associate Professor Peter Wills, says that, rather than allowing adequate time for staff to develop less destructive alternatives, the Vice-Chancellor appears determined to proceed with haste on selecting staff for redundancy.  
+At a recent Faculty meeting, the Dean of Arts refused to consider an extension of time for consultation on restructuring and, in a letter addressed to seventeen members of Senate, the Vice-Chancellor said that he would not extend the period of consultation on the Arts restructuring proposal because the delay would turn out to be too costly.  
+Associate Professor Wills said that, in some departments, the redundancies will have an enormous effect on the teaching programmes. “They will have a significant effect even in departments which may lose only one member of staff,” he said. “The intention to diminish European language teaching follows the termination of Indonesian language a few years ago, ignoring indications from government that more extensive language education should be recognised as a vital cornerstone in New Zealand’s economic development.”  
+According to Associate Professor Wills, the proposed redundancies in the Arts Faculty showed that the University had failed to set a budget that bore any relation to reality, and had then used bums-on-seats micro-accounting to decide on academic-staffing levels and the constitution of its courses. ”They encourage inflated projections of the likely student market, and then want to sack staff when their plans come adrift, but large-scale non-academic expenditure proceeds regardless,” he said. “Some staff who may lose their jobs have given over forty years of service to students and their disciplines, and are world-renowned scholars who have contributed significantly to creating this University's status and international rankings. Others with lower profiles are equally dedicated to an institution that is prepared to discard them with apparent impunity. Ironically, they may take the advertising slogan, ’The Number One University in New Zealand’, with them.”  
+Meanwhile, Massey University is reported to be considering retirement packages or non-renewal of some fixed-term contracts, while Lincoln University is expected to lose as many as fifteen jobs as part of a review of academic delivery.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Massey’s fee rise reckless, says NZUSA  
+2\. Unitec may continue bid for university status  
+3\. NZ universities in world’s top 200  
+4\. Industry-training numbers continue to grow  
+5\. ASTE elects first Maori President  
+6\. CQU expands to New Zealand  
+7\. Shake-up needed for complacent university councils  
+8\. Uni-Nanny is watching  
+9\. Staff called on to help out
+
+Massey’s fee rise reckless, says NZUSA  
+The New Zealand Union of Students’ Associations has slammed as reckless a decision by the Massey University Council to raise student-tuition fees by 5 percent and to apply to the Tertiary Education Commission for an additional 5 percent increase for 2007. If permission is granted, the total fee rise will be 10 percent. The Council voted by nine votes to five in favour of the proposed increase.  
+According to Massey’s Chancellor, Nigel Gould, the increase is necessary to ensure that Massey retains its position in the top three New Zealand universities. He said that Massey’s fees are significantly below the sector average because the fee-stabilisation legislation introduced in 2003 froze Massey fees at lower levels than other universities, and that was compounded by the Council’s decision in 2004 to hold fees for 2005.  
+NZUSA Co-President Joey Randall said, however, that the move was reckless in that it enabled the Government to continue under-funding the sector while further indebting students. “Massey students will be facing fee increases of hundreds of dollars next year, with research postgraduate students facing up to $1500 increases if Massey’s exemption is approved,” he said. “The Massey Council has taken the easy way out by forcing government under-funding onto students instead of attacking the problem at its root cause.”  
+In a written statement, Mr Gould said that the question of whether to increase fees for 2007 and by how much was considered in the context of future financial strategies for the University. “The decision to increase fees and request an exemption to the maxima reflects current and projected student numbers, the rising costs of providing quality education to our students and the need for the University to maintain that quality,” he said.  
+Mr Gould says the University expects to incur an operating deficit this year because the cost of providing a quality teaching and learning experience exceeded total income from the programmes offered.  
+Following a suggestion from the student representatives, it was also resolved that the Massey Council, University management and students would work collectively to address government funding, cost reductions across the University and opportunities to increase revenue.
+
+Unitec may continue bid for university status  
+A report today in the Dominion Post says that the Auckland institute of technology, Unitec, may continue its claim to become a university as legal action continues over the Government’s decision of a year ago to decline the institution’s bid for university status.  
+The report says that, in a hearing currently under way in the Court of Appeal, the Attorney General, on behalf of the Minister and Associate Minister of Education, is challenging a High Court ruling allowing Unitec to claim $3.6 million over its long-delayed application to become a university. Although it was eventually denied university status by the Government, the High Court found that its application had been unlawfully suspended between May 2000 and January 2003.  
+In turn, Unitec has cross-appealed, with its lawyer, Mai Chen, arguing that the Minister has to continue considering Unitec’s application for university status under the rules which existed at the time it was made. During the period in which Unitec’s application was suspended, the Government placed a six-year moratorium on hearing applications for new universities. Ms Chen says that amounted to an unlawful suspension of a part of the Education Act, and that the Minister was not able to stop the process while the law was changed.  
+The hearing is continuing.
+
+NZ universities in world's top 200  
+Two New Zealand universities have retained their placement in the world’s top 200, both enhancing their rankings significantly from 2004 and 2005. In the Times Higher 2006 World University Rankings, the University of Auckland has improved from fifty-second place in 2005 to forty-six this year, well up from sixty-seven in 2004. Similarly, the University of Otago comes in at seventy-nine, well up from its placing of 186 in 2005 and 114 in 2004. Massey University, which slipped from 108 in 2004 to 188 in 2005, does not appear in this year’s rankings.  
+Auckland is placed at thirteen and Otago twenty-two in the top fifty universities in the “rest of the world”, excluding Europe and America. No other New Zealand university made the rankings.  
+For the third year running, Harvard was rated the top international university, with Cambridge and Oxford Universities ranked second and third respectively. United States and British institutions took the top thirteen spots, with Beijing University taking the fourteenth. The Australian National University, in sixteenth place, regained its position as the leading Australian institution ahead of the University of Melbourne at twenty-two.  
+The United States has fifty-four universities in the top 200, the United Kingdom twenty-eight and Australia thirteen.  
+The Times Higher rankings were coordinated by Martin Ince, who says that the universities are listed according to a range of qualitative and quantitative criteria, including that of peer review which accounts for 40 percent of the score allotted to each university. Data gathered from 3,703 academics from around the world is enhanced by the opinions of a group of outside observers, and then added to measures designed to capture the quality of research and teaching.  
+Association of University Staff National President, Professor Nigel Haworth, said that, while it is pleasing that New Zealand universities are consistently ranking amongst the world’s best, it is worrying that not more universities were represented. “This reinforces our view that funding and salary levels must be improved as a matter of priority if New Zealand universities are to remain internationally benchmarked,” he said. “It also argues strongly for the Government, the vice-chancellors and the unions to work together in a collaborative way through the tripartite process to improve funding levels.”
+
+Industry training numbers continue to grow  
+The number of Modern Apprentices in New Zealand at 30 June was 9,171, up 13 percent on the same time last year, and the total number of industry trainees was 123,202, up 11 percent, according to figures released by the Minister for Tertiary Education, Dr Michael Cullen.  
+According to Dr Cullen, the continued growth in numbers enrolling for Modern Apprenticeships and Industry Training underscores the value of these initiatives at a time when employers are demanding more skilled labour. “Modern Apprenticeships continues to prove its value with almost 2,300 having completed since the establishment of the programme in 2000,” he said. “Just a few months ago I had the pleasure of congratulating the 2,000th Modern Apprentice to complete training. I am delighted that this successful initiative is continuing to make a real difference in developing the skilled labour force New Zealand needs.”  
+Dr Cullen said that Industry Training and Modern Apprenticeships are central pillars in transforming New Zealand into a higher-growth and higher-wage economy by improving achievement in education, building a skilled workforce and lifting business productivity. “The schemes’ success is why Budget 2006 allocated an additional $58 million over the next four years to expand the number of Modern Apprenticeships to 14,000 by December 2008, and for other industry-training initiatives,” he said.
+
+ASTE elects first Maori President  
+At its annual conference late last week, the Association of Staff in Tertiary Education Te Hau Takitini o Aotearoa, announced the election of Sharon Tangi Stevens as the first Maori National President of the union. Outgoing President Lloyd Woods said that ASTE members were excited at the prospect of seeing the partnership principles that their union espouses being reflected in their choice of National President.  
+Ms Stevens, of Te Arawa descent, is a lecturer in communications at Waiariki Institute of Technology. She said that she has a fundamental commitment to ensuring that the tertiary-education sector has a strong voice through its union in government forums. Sharon said, “I am proud and honoured to be elected to this position.”  
+Sharon Tangi Stevens has held the position of Vice-President for the past four years and she will be succeeded in that position by Michael O’Connell, a lecturer in nursing at UCOL on its Palmerston North campus.  
+Lloyd Woods said that Sharon and Michael will form a strong team leading the union through the tertiary reforms that will begin to be implemented next year. Both Sharon and Michael will take up their two-year terms on 1 February 2007.
+
+CQU expands to New Zealand  
+The Australian Central Queensland University will offer up to ten Accounting, Business and Information Technology programmes in New Zealand when its first intake of students commences studies in November. In another venture with its long-standing commercial partner, Campus Group Holdings, CQU will provide the programmes at the New Zealand International Campus in Heretaunga, Wellington, formerly New Zealand’s Central Institute of Technology.  
+According to its Vice-Chancellor and President, Professor John Rickard, it is important for CQU to diversify. He adds that the University currently has about 12,000 international students, with the potential to accommodate several thousand more in New Zealand. “New Zealand and the Wellington region are extremely attractive to international students. Wellington is New Zealand’s cultural and political capital. It’s very close to the coast, safe and affordable. It even gets more sunshine than Melbourne,” he said.  
+Geoff Ormandy, Chief Executive of the New Zealand International Campus, describes the partnership as “a milestone” in international education. “The development has the potential to make a positive contribution to the enrolment of international students in New Zealand where overall numbers have reached a plateau over the past two years,” he said.
+
+Worldwatch  
+Shake-up needed for complacent university councils  
+The Australian Education Minister, Julie Bishop, has told a national conference on university governance that councillors’ terms should be shortened and the bodies they serve on pruned to ensure fresh ideas and good governance. She said that councillors should not serve beyond twelve years and that terms of longer than eight years should be rare.  
+Ms Bishop is reported to have criticised universities for their “slack” uptake of the Government's university-governance professional-development programme, which is aimed at lifting the expertise of those who serve on councils. Only six institutions had signed up. “There appears to be a culture of complacency creeping into the governance of universities,” she said.  
+New government protocols for universities include controlling the size of council membership and refreshing it regularly, and introducing and publishing grievance procedures. “With regard to the size of governing bodies, I don't think the limit of twenty-two in the national governance protocols has gone far enough,” Ms Bishop said. “Good-practice models suggest that ten to fifteen members is the ideal size for such a body: large enough to benefit from a diversity of viewpoints, while small enough to facilitate effective decision-making.”  
+Ms Bishop chided universities for adhering only to the minimum of governance requirements under the protocols.  
+From The Australian
+
+Uni-Nanny is watching  
+Some students in the United Kingdom are being “electronically tagged” so that their attendance at lectures and tutorials can be closely monitored as part of moves to reduce drop-out rates.  
+An electronic monitoring system called Uni-Nanny, under which students identify themselves at every “learning event” with individual computer chips in their key rings, is already in use at Glamorgan University, which developed the technology. The product has just been bought by Napier University, and deals are set to be signed with two other institutions.  
+Performance indicators published last month showed that one in six students drops out, costing an estimated £450 million a year.  
+Critics say that the phenomenon represents an alarming trend towards “Big Brother” surveillance and the nannying of students who should be self-motivated. But enthusiasts argue that efficient attendance monitoring is proven to reduce drop-out rates by quickly identifying students who are failing to engage with their courses.  
+Sally Hunt, joint General Secretary of the University and College Union, said that tagging students sounds like some kind of Orwellian nightmare. “If the excuse for their implementation is to cut down on paperwork, then it is nice that some institutions are starting to recognise that excessive red tape is a real problem for staff. However, there are plenty of other avenues they can explore to slash bureaucracy,” she said.  
+Times Higher Education Supplement
+
+Staff called on to help out  
+One of Australia's largest, oldest and richest universities has found a new source of donations: its staff. The University of Melbourne, which last year booked a budget surplus of $1.08 billion and which expects to increase that by $31.9 million this year, has launched a staff appeal that urges employees to give “as little as $2 a fortnight”.  
+The University calls on staff to join what it describes as a national trend of philanthropy described as “the growing number of Australians answering the call to give back”.  
+Citing dwindling support from the Federal Government, the University urges staff to contribute to ”designated charitable options”, which include the University scholarships fund and its library and cultural collection.  
+On a web page dedicated to the 2006 staff appeal, employees are assured that donated funds will go to the designated University arm or charity and that there are no deductions for administrative costs.  
+National Tertiary Education Union Melbourne Branch President, Ted Clark, said staff were bemused by the appeal. “It is one of the many things at the University that are coming out of left field,” he said. “My opinion is that staff just won't contribute. I think it'll just be a bit of a failure.”  
+The University is offering membership of the Chancellor's Circle to those who give at least $A1000 ($39 a fortnight by payroll deduction).  
+The Australian
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

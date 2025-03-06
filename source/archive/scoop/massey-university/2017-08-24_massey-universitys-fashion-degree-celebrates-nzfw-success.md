@@ -1,0 +1,73 @@
+---
+slug: massey-universitys-fashion-degree-celebrates-nzfw-success
+title: "Massey University’s Fashion Degree Celebrates NZFW Success"
+date: 2017-08-24
+source-url: https://www.scoop.co.nz/stories/ED1708/S00086/massey-universitys-fashion-degree-celebrates-nzfw-success.htm
+author: massey-university
+---
+Massey University’s Fashion Degree Celebrates NZFW Success
+==========================================================
+
+**Thursday, 24 August 2017, 11:35 am**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+**Fashion degree celebrates coming of age with NZFW success**
+
+Massey University’s fashion design degree celebrates its coming of age this year with one of its best years at the country’s biggest festival of fashion.
+
+A total of 13 graduates and students will be showcasing their work at New Zealand Fashion Week (NZFW) between the August 28 and 31.
+
+The University’s Bachelor of Design with Honours (Fashion Design) was launched 21 years ago in 1996 and with such an established alumni list that includes the likes of Kate Sylvester, Kathryn Wilson and Sean Kelly, it consistently produces high calibre graduates who are well equipped to work in any aspect of the fashion industry.
+
+In its ‘coming of age’ year, the fashion design degree introduces student Jacob Coutie, who won Miromoda’s Emerging Designer award and the right to show his collection at its showcase on August 31. It also boasts three of its most recent alumni, who were selected to take part in the NZFW Graduate Show, in only its second year, on August 30.
+
+Fashion senior lecturer Sue Prescott says that getting to show their collections at NZFW is potentially a major stepping stone in their careers. “Showing at NZ Fashion Week is a way for our graduates and students to build their credibility and test their design aesthetics on a wider audience. This is the culmination of months of hard work, critical thinking, exploration and discovery. But hopefully it’s also just the start of their fashion journey.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“To qualify to show at NZFW, our latest graduates have demonstrated the innovative thinking and creative curiosity that’s needed to respond and be successful in today’s challenging fashion environment.”
+
+**Showing at NZFW 2017**
+
+Yoshino Maruyama was born in NZ and is of Japanese descent. Her collection is based on the traditional kimono as she was dressed in one as a child and it was the only connection she really had to her Japanese culture at the time. When Maruyama came to produce her final collection for her degree, she researched how the kimono was typically used in Western media or by Western designers and found it typically portrayed oriental women in an overly sexualised way, which isn’t how the garment is intended. So she’s translated the traditional kimono in her own way. Maruyama’s goal is to find ways to make fashion more sustainable and feels it’s more worthwhile to make things that don’t impact other peoples’ lives or the environment. https://nzfashionweek.com/yoshino-maruyama
+
+Tess Norquay’s final year of research lead her to analyse how social media places extra pressure on women to look good, to the extent that they’re objectified as products. She says woman are often described as “damaged goods” or “upgrades” for example, and this was the inspiration for her collection that she claims has the illusion of being practical but is totally impractical! Norquay hopes that showing her collection at NZFW will give her the chance to learn from some of the best in the industry.
+
+https://nzfashionweek.com/tess-norquay
+
+Shannen Young’s older sister was already studying a different design degree at Massey, which meant a kind of sibling rivalry pushed her down the fashion design path. She likes the fact that half of fashion is highly structured – with patterns and manufacturing processes to follow, but this is balanced by having creative freedom to explore design. Like, Norquay, Young describes her collection as an illusion –playing with the 3D elements of Eastern design and 2D of Western.https://nzfashionweek.com/shannen-young
+
+Jacob Coutie won Miromoda’s Emerging Designer award in June. His menswear is heavily inspired by the natural environment on New Zealand. In creating this collection Coutie researched common perceptions of Toa as an interpretation of rangatiratanga. While often depicted as a warrior, Coutie dug deeper under the surface to uncover meanings that are often lost in translation, such as bravery, success and fearlessness.
+
+His work portrays a journey of a man overcoming internal obstacles and challenges.
+
+https://nzfashionweek.com/jacob-coutie
+
+Prescott says the high success rate of Massey’s fashion degree is due to its balance of shaping creative and technical skills. The curriculum addresses design process in the widest definition, and its relationship to the fashion cycle, encouraging students to be creative, multidisciplinary thinkers, and skilled communicators.
+
+“Our approach to the design process nurtures student creativity, allowing them to explore and develop their own personal design aesthetic, while at the same time providing a rigorous grounding in the practical and technical skills needed for the real demands and practices of the fashion world.”
+
+Visit the Massey University website for more information about the Bachelor of Design (hons).
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

@@ -1,0 +1,97 @@
+---
+slug: providing-real-choice-in-education
+title: "Providing Real Choice In Education"
+date: 2023-09-25
+source-url: https://www.scoop.co.nz/stories/PO2309/S00206/providing-real-choice-in-education.htm
+author: act-new-zealand
+---
+Providing Real Choice In Education
+==================================
+
+**Monday, 25 September 2023, 7:55 am**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+“We need to get the politics and bureaucracy out of New Zealand’s education system, bring high standards for attendance and learning in, and treat the profession with respect. While Labour is responsible for lowering the bar and leaving kids even further behind their international peers, the education decline started well before 2017,” says ACT Leader David Seymour.
+
+“Parents don’t get real choice when all the schools they can access are basically offering the same product. If parents discover their child is struggling, they’re unlikely to find alternative public schools in the area will be significantly different. On the other hand, gifted children miss out on reaching their potential when schools are told they must end streaming. The Ministry’s push for Modern Learning Environments has been catastrophic for autistic and highly sensitive children. And kids who require structure and authority will not thrive in a child-centred learning environment.
+
+“The Ministry of Education sets nationwide guidance, so when it gets something wrong, it gets it wrong on a nationwide scale. The only way to end the risks of a single-point-of-failure education system is to give parents, teachers, and schools more choice.
+
+ACT will enable public schools to become partnership schools
+------------------------------------------------------------
+
+“ACT introduced the partnership school model because it was evident the education system was not serving all children well. The cookie-cutter public school model restricted the ability for schools to innovate and deliver different models of education.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“The partnership schools that got off the ground showed real promise before Labour callously demolished them. Not all partnership schools were a success, but unlike public schools, struggling partnership schools were subject to high levels of monitoring and accountability and were shut down when they did not achieve the outcomes they were funded to achieve.
+
+“ACT would not only bring back the partnership school model but enable public schools to convert to partnership schools too.
+
+“Partnership schools enjoy greater flexibility over how they operate and use their funding, in exchange for accountability over outcomes. This may include introducing different staff pay and conditions, offering more extensive school transport arrangements, or offering free uniforms or other learning resources.
+
+“Existing school boards may be attracted to such a model, having had experience working within highly rigid funding structures and within the Ministry’s labyrinth of regulations.
+
+“If existing public schools wish to convert, they would be subject to criteria to ensure communities are not worse off by the switch. Requirements would include the need to take on all existing students, provide a secular education if the school had previously done so, and consideration will be given to whether there are alternative options for public schooling if children choose not to attend the partnership school.
+
+**ACT will enable secondary schools to opt out of NCEA and instead offer an internationally recognised qualification (e.g. Cambridge or International Baccalaureate) by funding all qualifications at the same rate**
+
+“Is NCEA fit for purpose? The only way to answer this question is to give schools and parents a choice: if your school could offer an alternative to NCEA at the same cost, would you take the opportunity?
+
+“An increasing number of schools are opting out of NCEA level one altogether. Schools can offer other curricula such as Cambridge and International Baccalaureate, but they must fund this out of their own pocket or pass the cost on to parents.
+
+“ACT would change the way NCEA is currently subsidised so that schools (or parents) can redirect that subsidy to the secondary qualification of their choice, as long as that qualification has been certified by the Ministry.
+
+**ACT will fundamentally reform the Ministry of Education to enable greater school innovation tailored to the school’s community, while maintaining accountability. We will consult with experienced school principals on what assistance schools need from the Ministry, and what powers are best devolved to schools directly**
+
+“The Ministry has increased its full-time equivalents by 55 percent, its powers over schools are extensive, yet educational outcomes are worse than ever. Schools are not just being told what to do, they are being told how to do it.
+
+“ACT would completely reform the Ministry and strip it back to basics. The Ministry would be focused on negotiating collective agreements, monitoring student and school progress, setting minimum standards and accreditation, and auditing schools.
+
+“Many of its functions should be devolved to the lowest level possible or opened up to competition. ACT would draw on the expertise of experienced school principals to inform how the Ministry’s functions should be reformed.
+
+**ACT will establish a $250 million a year Teaching Excellence Reward Fund that will be administered by school principals to recognise and recruit for teaching excellence**
+
+“Under the current pay system, there are limited ways for teaching excellence to be properly rewarded within the public school system. Most public schools are shackled by collective agreements and rigid remuneration frameworks. Teachers are rewarded for years on the job.
+
+“This inhibits a powerful economic tool to encourage continued professional growth and deliver for the needs of a particular school.
+
+“ACT's policy would allow for principals to introduce an incentive and reward system for teachers who provide excellence in a way that meets the needs and demands of a particular school. Funding will be allocated to schools in proportion to the number of teachers at that school.
+
+**ACT will lay the groundwork for an education environment where parents can exercise more choice, and no child receives a substandard education. Our long-term vision is to provide every child with a Student Education Account parents can use any registered educational institution that will accept their child’s enrolment, public or private**
+
+“ACT has a number of policies aimed at laying the groundwork so every student can thrive, no matter their school. Once that groundwork has been laid, it will be time to radically shift the way education is funded in New Zealand.
+
+“The best way of improving the education system is to give parents more choice over how government funding for education is spent. Governments do not have all the answers to what makes a good education, and cannot possibly make choices that will suit all kids and their individual needs.
+
+“An education system that enables greater choice would make alternative school models such as partnership schools or state-integrated schools more accessible. Principals and teachers who have ideas on what would work best for the kids and communities they serve should be free to implement their solutions, as long as they are held accountable for the results.
+
+“ACT would introduce Student Education Accounts (SEAs), a model for funding education that provides the ultimate in school choice flexibility. SEAs put education funding directly into the hands of parents, rather than leaving it to the Ministry to divide up between schools.
+
+“The funding the government currently spends on education from early childhood to tertiary will be distributed so that every child will have an SEA. Like a KiwiSaver account, parents and students would be able to see the balance of funding that is available and make choices about how to fund an education.
+
+“The SEA will follow a child throughout their educational journey, from early childhood education to tertiary. Extra funding, such as that distributed by the Equity Funding Index or to support disabilities and special needs would also be added to the SEA.
+
+“Only SEAs will take the politics out of education for good and achieve sustainable change in the education system. The only way to ensure New Zealand’s schools become leaders rather than laggards is to have an education system that is responsive to parental demand rather than political orthodoxy.”
+
+ACT's policy document is [here](https://actnz.nationbuilder.com/r?u=fk3qs1mHicx9-w03tafB2G8vNGMp4KGcuuJPtVN2Yhb4Nk7GCDFzScEaViF-rC5QdCgg2CkSn9EPRn_W9BZYkYDqxRWKV6tERl5JZZPsuH4T0fdhVP0AWfyyhy8NnO4QQ0h-X7JYXtvNqKDZJAkLNFPc4DHGWWByKSPgXSdwElxZYHvMlLn2A4LX2YHjrAFM&e=752ed10e9ed7db3a7867d6b86ebadc6c&utm_source=actnz&utm_medium=email&utm_campaign=providing_real_choice_in_educa&n=1).
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

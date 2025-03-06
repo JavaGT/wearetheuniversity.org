@@ -1,0 +1,61 @@
+---
+slug: kiwis-failing-with-sun-protection
+title: "Kiwis failing with sun protection"
+date: 2018-10-26
+source-url: https://www.scoop.co.nz/stories/GE1810/S00112/kiwis-failing-with-sun-protection.htm
+author: university-of-otago
+---
+Kiwis failing with sun protection
+=================================
+
+**Friday, 26 October 2018, 10:08 am**  
+**Press Release: [University of Otago](https://info.scoop.co.nz/University_of_Otago)**
+
+Kiwis failing to slip into shade and slap on a hat for sun protection, researchers find
+
+An alarming proportion of New Zealanders are neither wearing hats nor seeking shade to protect themselves from the sun, University of Otago research reveals.
+
+The study observed 2,635 children and adults in outdoor recreation spaces in the Wellington region between September 2014 and April 2015, including beaches, playgrounds and outdoor pools. It found that only 4.3 per cent of people wore sun protective hats (broad-brim, bucket and legionnaire styles) and only 10.7 per cent were under shade at times when sun protection was warranted.
+
+“Previously we only had information from surveys to tell us about the sun protection used by New Zealanders in recreational settings,” Ryan Gage from the Department of Public Health at the University of Otago, Wellington, says. “Direct observations are needed to show what is actually happening.”
+
+The research, which is published in the New Zealand Medical Journal today, is part of the landmark Kids’Cam Study, funded by the Health Research Council of NZ, which saw children capturing images of their world from wearable cameras.
+
+Professor Louise Signal says the findings suggest that children and adults are less sun-safe in recreational settings than previously believed.
+
+The lack of hat-wearing mirrors a recent analysis of sun safety in Wellington primary schools, where less than a quarter of students wore a hat during lunch breaks in summer:https://www.stuff.co.nz/national/education/99662665/schools-need-to-crack-down-on-their-no-hat-no-play-policy.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+New Zealand currently has the highest rate of melanoma skin cancer in the world. Each year, nearly 90,000 skin cancers are diagnosed and 500 New Zealanders die from skin cancer. Most of these cancers are caused by overexposure to the sun.
+
+Unlike Australia, which has funded sustained awareness campaigns around sun smart behaviours, New Zealand has released no public media campaigns in almost a decade.
+
+“Skin cancer is a highly preventable disease and represents a significant cost to the health system,” Mr Gage says.
+
+“We should learn from Australia and do more to encourage sun protection in general, both for children and adults. The SunSmart Schools programme alone is not enough to influence behaviours outside school grounds. Sun burning is highly common in outdoor recreational areas, and sun damage at any age contributes to skin cancer risk.”
+
+Professor Signal says encouraging local councils to develop sun safety policies would be a useful first step for supporting sun protection in outdoor recreation spaces. “We know that some councils do this well already, for instance by considering shade in playground upgrades and urban design.”
+
+  
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Otago](https://info.scoop.co.nz/University_of_Otago) on InfoPages.

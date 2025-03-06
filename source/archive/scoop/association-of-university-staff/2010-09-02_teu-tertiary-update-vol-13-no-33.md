@@ -1,0 +1,167 @@
+---
+slug: teu-tertiary-update-vol-13-no-33
+title: "TEU Tertiary Update Vol 13 No 33"
+date: 2010-09-02
+source-url: https://www.scoop.co.nz/stories/ED1009/S00009/teu-tertiary-update-vol-13-no-33.htm
+author: association-of-university-staff
+---
+TEU Tertiary Update Vol 13 No 33
+================================
+
+**Thursday, 2 September 2010, 11:30 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+TEU president-elect says funding cuts have reached their limits
+---------------------------------------------------------------
+
+  
+Dr Sandra Grey, TEU's current women's vice-president, will take up the role of TEU national president te tumu whakarae next year after she was elected unopposed earlier this week.
+
+Dr Grey is a senior lecturer at Victoria University's School of Social and Cultural Studies, where she teaches social policy and researches ways in which citizens can bring about social and political change.
+
+Dr Grey entered tertiary education as at Auckland University after a career as a radio journalist, hoping that her studies would allow her to move into writing feature articles.  However, after a masters, and then a PhD scholarship to the Australian National University, she took up a job at Victoria University.
+
+Dr Grey says that one of the issues that drove her to stand for the TEU presidency is the funding cuts and ever-growing pressure to produce more that is being foisted on tertiary education employees.
+
+\"It's increasingly hard to resist the economic arguments that say tertiary education is all about economic widgets and how they can contribute best to the economy. However, I was one of those open entry students, a second chance learner that might have missed out on a place under today's restrictions. It incenses me that others might not get the chance that I had."
+
+"I am constantly hearing stories of colleagues who have reached their limit. They just can't produce any more. Funding is not going up at all, but the amount of work is."
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+"It's not healthy in terms of people's personal lives or their families, and it also does not make for good institutions either. It doesn't turn out good research; it turns out volumes of research but not better research."
+
+Also in _Tertiary Update_ this week:
+------------------------------------
+
+  
+
+1.  Tertiary practitioner support is complex and confused
+  
+3.  Being collective, being union pays
+  
+5.  Govt hunting down student debt 'refugees'
+  
+7.  Otago Polytechnic to turn away students
+  
+9.  Other news
+
+  
+
+Tertiary practitioner support is complex and confused
+-----------------------------------------------------
+
+  
+The national centre for tertiary teaching excellence, Ako Aotearoa, has released the findings from its stock-take of tertiary qualifications and formal (and informal) support.
+
+The report, titled "_Tertiary Practitioner Education Training and Support – Taking Stock_", describes what institutions are doing to build staff capability and support their development.
+
+The study shows that more than 8,000 people gained a tertiary teaching qualification between 2004 and 2008, with over three-quarters gaining qualifications at Levels 4 or 5.
+
+However Dr Peter Coolbear, Director of Ako Aotearoa, says current support for tertiary teachers is complex and confused.
+
+"There were over 100 different qualifications listed in our initial search of the data, this reduced to 62 currently active programmes with further analysis.  What is critical here is that the research shows us three-quarters of teachers gain their qualification from just eight of those programmes.  The system is at best confusing and, quite frankly, a bit of a mess."
+
+Dr Coolbear says the stock-take raises some significant questions about the nature of professional development provision for new teachers in the sector.
+
+Ako Aotearoa says that different parts of the tertiary education sector attach differing levels of importance to teaching qualifications. Most ITPs and PTEs require full-time staff to gain tertiary teaching qualifications or the equivalent after starting employment.
+
+The report shows ITPs are more likely to offer reduced workloads to support new teaching staff than either universities or PTEs. Most PTEs, and just under half the ITPs, offer mentor support, while team teaching is also a favoured support approach in a large number of PTEs.  
+
+Being collective, being union pays
+----------------------------------
+
+  
+Wage and salary settlements results for 2009 are startling according to CTU Policy Director, Bill Rosenberg. Dr Rosenberg says the annual survey of bargaining trends reported by the Industrial Relations Centre (IRC) at Victoria University of Wellington shows that union members on a collective agreement are doing much better than other workers.
+
+The findings show, that from June 2009 to June 2010, wages and salaries in collective agreements negotiated by union members went up by an 'annualised' rate of 4.2 percent. That compares with an increase over the same period of 1.6 percent in the Labour Cost Index (LCI) and 2.1 percent in the average wage, both of which include non-unionised workers and unionised workers on individual agreements.
+
+"That’s a strong message about the success of both unions and collectives," says Dr Rosenberg. "Of course, collectives have other improved conditions too, and help to lock in improved conditions (if explicitly included) despite law changes."
+
+"These collective agreements gained remarkable increases in rates. Whereas 53 percent of workers received no increase in the year to June 2010 according to Statistics New Zealand, only 2 percent of those on collectives failed to get an increase. At the other end of the scale, only 24 percent of workers received more than a 3 percent increase, and only 37 percent got more than a 2 percent increase but 74 percent of those on collectives received 3 percent or more."
+
+Recent settlements vary, as would be expected given the economic environment. There have been some averaging 4 percent a year over several years but most seem to be in the 2 to 3 percent range.
+
+"The major challenge now with respect to real wage increases is the impact of the spike in CPI next year after the GST rise and other price increases," says Dr Rosenberg. "But is clear that it pays to be in a union when it comes to employment agreement bargaining."  
+
+Govt hunting down student debt 'refugees'
+-----------------------------------------
+
+  
+The _New Zealand Herald_ reports that revenue minister Peter Dunne has compared indebted former students who now live overseas to refugees.  Mr Dunne said the government is investigating using debt collectors to recover more money from student loan borrowers living overseas. He says most borrowers who lived in New Zealand were meeting obligations to pay money back.
+
+"The problem is with people who go overseas."
+
+Some students were registered under the three-year holiday period, while others were avoiding coming home because they had not made repayments and now faced very high loans because of interest and penalties; "to some extent they are like refugees", Mr Dunne said.
+
+Mr Dunne may have been unaware at the time of his comments that the United Nations defines refugees as people who, owing to a well-founded fear of being persecuted, are outside the country of their nationality, and are unable to or, owing to such fear, are unwilling to avail themselves of the protection of that country.
+
+If those former students are now feeling persecuted and unable to return, Mr Dunne is aiming to increase the pressure on them.
+
+"We are looking at a range of options about how we pursue overseas student debt and that work is still being done," Mr Dunne said.
+
+"But there are others that have worked out because we can't track them they don't put their hand up."
+
+"It's a fairness issue, why should New Zealand-based debtors repay on time and do very well - what's the point if those living offshore can basically get away with it?"  
+
+Otago Polytechnic to turn away students
+---------------------------------------
+
+  
+Members of Otago Polytechnic's council are outraged that the polytechnic will be turning away potential students because of its Tertiary Education Commission imposed EFTS cap on funding for next year is likely to fall below this year's cap of 3,200.
+
+The _Otago Daily Times_ reports that the polytechnic will introduce a more stringent selection process where first-year students with strong academic records applying for high-level diploma or degree programmes will be accepted ahead of those who met only minimum requirements.
+
+Chief executive Phil Ker said students with strong academic qualifications enrolling in degree and diploma courses would be accepted first and those with poorer educational records or enrolling in lower-level programmes might miss out.
+
+One councillor Rebecca Parata said the policy would disadvantage the most vulnerable young people at a time when it was difficult for them to find work.
+
+She said 8 percent more Dunedin people aged between 18 and 24 are currently receiving a benefit than the same time last year.
+
+"As a country, we should be using the current economic environment to ensure we up-skill young people, not shut them out of further education ... If we don't get them into work or training they will be on the streets."
+
+Ms Parata said the policy could also affect mature students, who made up about 40 percent of Otago Polytechnic's roll.
+
+Another councillor, Dr Peter Coolbear, said the policy countered the reason polytechnics existed - "as engines of regional and economic development".
+
+A third councillor, Dr Malcolm Macpherson said the policy had been produced with the polytechnic in mind, not society.  
+
+Other news
+----------
+
+  
+The Government's decision to extend 90-day new-employee trials to all businesses was made after a suggestion from the Act Party, and went against the recommendation of its own Minister of Labour, Kate Wilkinson. Government papers also show the proposal to enable bosses to demand proof of sickness from workers without first having reasonable grounds for suspicion was made without the advice of the Department of Labour – _The New Zealand Herald_
+
+The Southern Institute of Technology will lose more than $1 million in funding after 220 "low-priority" equivalent fulltime students were removed from the 2011 budget. The Tertiary Education Commission advised SIT the 220 fulltime students would be removed from the English for Speakers of Other Languages training area, which the commission saw as "low priority". – _Southland Times_
+
+Earlier this year the PSA and TEU formed a partnership with WWF New Zealand and 350 Aotearoa to promote action on climate change in the workplace. The project is called Union Climate Action, and over 400 workers have signed up so far as activists and participated in the first project. Union Climate Activists are now working on their second big action – getting workplaces to take part in the 350 Aotearoa 10/10/10 working bee. To be involved you can register here.
+
+Eminent historian Judith Binney has won New Zealand's top book award with her research on the lost history of the Tuhoe tribe.  The _New Zealand Herald_ says Dame Judith is renowned for exhaustively researching and pulling together the complex strands of Māori oral tradition, and that she has an output of one book every ten years.  That contrasts with PBRF requirements for academics to produce a book every six years.
+
+Melbourne's La Trobe University vice-chancellor Paul Johnson has set a target of having 40 percent of staff participating in a proposed volunteering scheme for local communities in Melbourne's northern suburbs. With university students increasingly being encouraged, enticed or even required to become involved in volunteering, Professor Johnson wanted to put a focus on staff in a move that he hoped would support staff morale and productivity while building the university's reputation in its local community – _The Australian_
+
+Tairāwhiti Polytechnic's chief executive Judy Campbell, in response to a letter to the _Gisborne Herald_ by an ex-student states that there are half as many staff as there used to be but they are doing the same amount of work. "Tairāwhiti Polytechnic has shed more than 50 percent of its staff but maintained student numbers to close to previous levels and we are therefore many times more efficient than we have been in past years."
+
+\---
+
+TEU Tertiary Update is published weekly on Thursdays and distributed freely to members of the Tertiary Education Union and others. You can subscribe to Tertiary Update by email or feed reader. Back issues are available on the TEU website. Direct inquiries should be made to Stephen Day, email: stephen.day@teu.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

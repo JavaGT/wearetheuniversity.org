@@ -1,0 +1,102 @@
+---
+slug: university-of-otago-2012-arts-fellowships-announced-today
+title: "University of Otago 2012 Arts Fellowships announced today"
+date: 2011-09-13
+source-url: https://www.scoop.co.nz/stories/CU1109/S00196/university-of-otago-2012-arts-fellowships-announced-today.htm
+author: university-of-otago
+---
+University of Otago 2012 Arts Fellowships announced today
+=========================================================
+
+**Tuesday, 13 September 2011, 4:37 pm**  
+**Press Release: [University of Otago](https://info.scoop.co.nz/University_of_Otago)**
+
+**University of Otago 2012 Arts Fellowships announced today**
+
+Tuesday, 13 September 2011
+
+The University of Otago continues its tradition of strong support for the arts in New Zealand with today’s announcement of four prestigious arts fellowships for 2012.
+
+Respected Dunedin poet and novelist Emma Neale will take up the Robert Burns Fellowship; Auckland artist Nick Austin, the Frances Hodgkins Fellowship; and Wellington composer Robbie Ellis will be the new Mozart Fellow.
+
+The University of Otago College of Education/Creative New Zealand Children’s Writer in Residence is children’s writer and poet James Norcliffe, of Christchurch.
+
+University Vice-Chancellor Professor Harlene Hayne says she is proud to announce the 2012 Arts Fellows, and she wishes them well in their creative endeavours over the next year.
+
+“This continues Otago’s fine tradition of supporting the arts with fellowships that have assisted so many of New Zealand’s most loved and respected artists to make their mark over the years,” she says.
+
+**Robert Burns Fellow** Emma Neale says: “I was delighted to receive the fellowship. I have never had a chance to write full-time before. I’ve been trying to juggle parenting, part time work and writing; writing is always the thing that gets dropped under pressure.
+
+“For me it’s generally three-to-five years between books. The fellowship is going to allow me to section off writing time for a year, which will be really liberating, and should enable me to finish a first draft more quickly.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“One of the beauties of a fellowship is having the time to read and explore ideas. It’s so enticing.”
+
+Ms Neale’s most recent novel, _Fosterling_, spent a considerable time on the New Zealand best-seller list for New Zealand fiction. Along with her three published collections of poetry, Ms Neale has also had several poems selected for annual editions of _Best New Zealand Poems_.
+
+**Frances Hodgkins Fellow**, artist Nick Austin says, “The Hodgkins Fellowship is one of the most generous artists residencies offered in New Zealand, so I'm thrilled and privileged to be next year’s recipient. I’m looking forward to living in Dunedin and working with no other professional obligations for the year.”
+
+Mr Austin describes his working process as “notational and typically slow” involving a gradual accumulation of ideas and work.
+
+“During my residency I intend to develop a body of art works that will have a formal and poetic relationship to archives as vessels for images and language, referencing time I have spent researching at the Hocken Collections."
+
+A graduate of the Auckland University of Technology and the Elam School of Fine Arts, Mr Austin has exhibited his works frequently in group and solo shows. He currently has work showing at Te Papa and at the Auckland Art Gallery, plus a forthcoming solo exhibition at Peter McLeavey Gallery in Wellington. He was also a co-founder of the gallery Gambia Castle in Auckland.
+
+**Mozart Fellow**, composer Robbie Ellis, says he is “incredibly excited and grateful to the University” for giving him his first-ever opportunity to be a full-time composer.
+
+“The Mozart Fellowship has a long pedigree of distinguished fellows and I’m chuffed to be in that company. I want to make a career of being an artist. In New Zealand it would be hard to find any better way to begin than this.”
+
+“I have spent just 36 hours in Dunedin in my life, yet the city and its cultural scene has always intrigued me. I look forward to being part of it.”
+
+Mr Ellis says he would like to use the fellowship to write a major musical theatre piece.
+
+“Strictly speaking I’ve co-written 78 musicals to date, but 77 of them were created live in front of an audience; I’m a specialist in music for improv theatre. It will be different producing a work that is not written on the night it is performed.”
+
+Mr Ellis was a participant in the 2010-2011 Auckland Philharmonia Orchestra Composer Workshops and a finalist in the 2009 and the 2010 New Zealand Symphony Orchestra/Todd Corporation Young Composers Competition. He currently works for Radio New Zealand Concert in Wellington as a producer and presenter.
+
+**The University of Otago College of Education/Creative New Zealand Children’s Writer in Residence** James Norcliffe won the 2010 junior fiction category of the NZ Post Children’s Book Awards with his novel the _Loblolly Boy_, the sequel of which has just been released as the _Loblolly Boy and the Sorcerer_.
+
+When asked about the six-month residency he says, “I feel utter delight, of course. I have had such things before, and I’m hugely grateful for them. They’ve enabled me to produce good work, so I’m confident I will be able to put this to good use. Plus I utterly love Dunedin.”
+
+Mr Norcliffe plans to use his time to write a further _Loblolly_ story, this time exploring who the first loblolly boy may have been (historically, a loblolly boy was a naval warship surgeon’s assistant). He also plans to begin a new children’s fantasy novel.
+
+Mr Norcliffe is also an established poet in the midst of collecting a new set of his poems to publish for young readers. He also works with Tessa Duder co-editing the acclaimed _ReDraft_ anthologies of writing by young New Zealand writers. The 2011 edition was entitled _The World’s Steepest Street_ after a short story referencing Dunedin’s renowned Baldwin Street.
+
+ENDS
+
+**About the Fellowships**
+
+The Robert Burns Fellowship is New Zealand's premier literary residency. The Fellowship was established in 1958 to commemorate the bicentenary of the birth of Robert Burns, and it is designed to encourage imaginative New Zealand literature and to bring writers to the University. Past fellows include Janet Frame, Roger Hall, Keri Hulme, James K. Baxter, Maurice Shadbolt, Michael King, Ian Cross, Owen Marshall, Ruth Dallas, James Norcliffe, David Eggleton, Sarah Quigley and Sue Wootton.
+
+Charles Brasch, the initiator of the Fellowship, once wrote: "Part of a university's proper business is to act as nurse to the arts, or, more exactly, to the imagination as it expresses itself in the arts and sciences. Imagination may flourish anywhere. But it should flourish as a matter of course in the university, for it is only through imaginative thinking that society grows, materially and intellectually.' (Landfall, March 1959).
+
+The Frances Hodgkins Fellowship, named after one of New Zealand's most distinguished artists, was established in 1962 to aid and encourage painters, sculptors and other artists and to foster an interest in the arts in the University. Past winners include Ralph Hotere, Grahame Sydney, Marilynn Webb, Fiona Pardington, Shane Cotton and Heather Straka.
+
+The Mozart Fellowship was established by the University of Otago in 1969. The purpose of the Fellowship is to aid and encourage composers and performers of music in the practice and advancement of their art, to associate them with the life of the University and to foster an interest in contemporary music. Mozart Fellows often produce a concert of their works during their Fellowship year. Successful applicants include many of New Zealand's significant composers, including John Rimmer, Anthony Ritchie, Gillian Whitehead and Christopher Watson.
+
+The University of Otago College of Education/Creative New Zealand Children's Writer in Residence is the only residency for a children’s writer in New Zealand.Begun by the Dunedin College of Education in 1992, it allows writers to work full time in a compatible environment among colleagues who are concerned with the teaching of reading and literature to children.
+
+It is jointly funded by the University and Creative New Zealand. The annual residency is for a six month period between February and August and includes an office within the College of Education.
+
+The residency is offered in association with the Robert Lord Trust which provides rent-free accommodation to writers in the historic Titan Street cottage bequeathed by the late playwright Robert Lord. Recent Residents include Central Otago children’s book writer Kyle Mewburn, and Dunedin writers Karen Trebilcock and Bill O’Brien.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Otago](https://info.scoop.co.nz/University_of_Otago) on InfoPages.

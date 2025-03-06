@@ -1,0 +1,21 @@
+extends ./root.pug
+block content
+    h2(style="text-align: center;")=`${metadata.title} [${metadata.duration_string}]`
+    p(style="text-align: center;")
+        a(href=metadata.webpage_url, target="_blank")=`Watch on ${metadata.extractor_key}`
+    p(style="text-align: center;")
+        a(href=metadata.channel_url, target="_blank")=metadata.channel
+    img(src=metadata.thumbnail, alt=`Thumbnail for video titled: ${metadata.title}`, style="width: 100%;")
+    //- h5(style="margin-bottom: 0.1rem") Tags
+    .tags
+        for tag in metadata.tags
+            span(style="background: #0003; border-radius: 0.3em; padding: 0.3em; display: inline-block; margin: 0.2em; font-size: 0.8em")=`#${tag}`
+    //- .categories 
+    //-     for category in metadata.categories
+    //-         span=category
+    
+    h2 Description
+    p!=metadata.description ? metadata.description.replaceAll('\n', '<br>') : 'No description available'
+    h2 Transcript
+    p(style="opacity: 0.9; font-size: 0.8em") Transcripts may be automatically generated and may not be 100% accurate.
+    p!=transcript ? transcript.replaceAll('\n', '<br>') : 'No transcript available'

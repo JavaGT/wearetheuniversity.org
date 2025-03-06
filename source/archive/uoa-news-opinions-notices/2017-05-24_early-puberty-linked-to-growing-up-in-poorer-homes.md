@@ -1,0 +1,60 @@
+---
+slug: early-puberty-linked-to-growing-up-in-poorer-homes
+title: "Early puberty linked to growing up in poorer homes"
+date: 2017-05-24
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/early-puberty-linked-to-growing-up-in-poorer-homes.html
+---
+Early puberty linked to growing up in poorer homes
+==================================================
+
+24 May 2017
+
+![teenage-couple-backs 72dpi](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/early-puberty-linked-to-growing-up-in-poorer-homes/_jcr_content/par/textimage/image.img.jpg/1495578797734.jpg "teenage-couple-backs 72dpi")
+
+Children from disadvantaged households are more likely to hit puberty early and could face poorer health later in life as a result, an Australian study has shown.
+
+Researchers from the Murdoch Children’s Research Institute (MCRI) in Melbourne found boys who grew up in very disadvantaged homes had more than four times the risk of starting puberty early, at 10 or 11 years of age, while girls had double the risk.
+
+Professor Melissa Wake, a researcher in the team who is now based at the University of Auckland, says it is likely the same link would be found in New Zealand children.
+
+“Early puberty may be one of the ways in which social disadvantage gets under the skin and influences children’s later life chances, both in terms of economic prosperity and health,” she says.
+
+The factors determining early puberty have received greater attention recently as more children are starting puberty at an earlier age than past generations.
+
+Professor Wake, the new Cure Kids professor of child health research at the Liggins Institute and The University of Auckland Faculty of Medical and Health Sciences, says New Zealand and other countries are already grappling with many of the factors so far implicated in early puberty, such as social disadvantage, mental health issues, and obesity.
+
+“Findings like these highlight the importance of tackling these issues at a society-wide level.”
+
+For this study, MCRI researchers surveyed about 3700 children, who were recruited at birth as part of the Growing Up in Australia study, to investigate if social determinants were playing a role.
+
+Parents were asked to report on signs of children’s puberty at age eight to nine and 10 to 11 years. These included a growth spurt, pubic hair and skin changes, plus breast growth and menstruation in girls, and voice deepening and facial hair in boys.
+
+The paper, published in the journal _Pediatrics_, compared the family socioeconomic position of those who started puberty early with others who started on time.
+
+At 10/11 years of age, about 19 percent of all boys and 21 percent of all girls were classified in the early puberty group.
+
+“Ongoing exposure to extremely unfavourable household socioeconomic position in boys independently predicted a four-fold increase in the rate of early puberty,” says lead author associate professor Ying Sun, a visiting academic at MCRI from China. “In girls, the increase was nearly two-fold, when compared with those from a favourable background.
+
+![Professor Melissa Wake](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/early-puberty-linked-to-growing-up-in-poorer-homes/_jcr_content/par/textimage_0/image.img.jpg/1495589198022.jpg "Professor Melissa Wake")
+
+Professor Melissa Wake
+
+“Our findings raise a possibility that the timing of puberty may play a role in the links between early social disadvantage, and health problems later in life.
+
+“If our research can improve the understanding of these links, we can potentially inform new public health initiatives that improve the health and wellbeing of all children for the rest of their lives.”
+
+Associate professor Sun says that disadvantage may be linked to early puberty for evolutionary reasons. In the face of hardship – for example, economic disadvantage, harsh physical environment, or absence of a father - children may be programmed to start the reproductive process earlier to ensure their genes are passed on to the next generation.
+
+“We now know quite a lot more about the switches for the pubertal process and think that childhood disadvantage is one of a number of factors, including prematurity and being overweight early in childhood that switch the process on.”
+
+Senior author Professor George Patton says it is important to understand the impact early puberty can have on the health of children and adolescents later in life.
+
+“Early maturation has links in girls with emotional, behavioural and social problems during adolescence including depressive disorders, substance disorders, eating disorders and precocious sexuality,” he says.
+
+“Early puberty also carries risks for the development of reproductive tract cancers and cardio-metabolic diseases in later life. Given the recent trend towards earlier pubertal maturation in many countries, a clearer understanding of factors influencing pubertal timing is important.”
+
+### **Contact**
+
+**Nicola Shepheard** Media Adviser, Liggins Institute
+
+**Tel**: 09 923 1515 **Mob**: 027 537 1319 **Email**: n.shepheard@auckland.ac.nz

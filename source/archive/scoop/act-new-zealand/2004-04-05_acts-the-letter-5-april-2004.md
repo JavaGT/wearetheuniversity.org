@@ -1,0 +1,70 @@
+---
+slug: acts-the-letter-5-april-2004
+title: "Act's The Letter - 5 April 2004"
+date: 2004-04-05
+source-url: https://www.scoop.co.nz/stories/PA0404/S00089/acts-the-letter-5-april-2004.htm
+author: act-new-zealand
+---
+Act's The Letter - 5 April 2004
+===============================
+
+**Monday, 5 April 2004, 2:07 pm**  
+**Column: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+The Letter Monday 5 April 2004
+
+AN INTERESTING WEEK
+
+By Thursday the Labour government will either have persuaded the nation that it has a just solution to the foreshore, won support in parliament from most parties and kept all its MPs on board, or alternatively, the foreshore legislation will be seen as racial preference, support for the Bill in parliament will be shaky and the government may be facing up to three by-elections.
+
+THE FORESHORE LEGISLATION
+
+Despite claims of consultation, the legislation is a very well kept secret. It is believed the term public domain is dropped in favour of crown ownership. Legal effect – nil. Political effect – huge. But the key is, what new rights for Maori does the Bill create? Margaret Wilson has hinted Maori may now be able to object to any foreshore development (Auckland City Council’s payment of thousands of dollars to local iwi to stop objections to the reconstruction of city beaches with imported sand will become the norm). It was proposed to call these new rights a customary title. What's in a word? Wilson has hinted these new rights will be called something else, perhaps the Maori word for guardianship. What the Bill will not do is enable Maori to convert a customary title to freehold.
+
+PARTIES ON THE FORESHORE
+
+United wants nationalisation of the entire foreshore including existing riparian rights – the socialist position. The Greens’ position is Maori own the foreshore. NZ First will support the legislation provided the term public domain is dropped in favour of crown ownership. National's position has never been clear. It appears to be that the State should own all the foreshore except that which is owned by pakeha. ACT says let the law take its course. As a customary title requires continuous occupation and ownership, it is unlikely Maori owns very much of the foreshore. As a party that believes in property rights and the right of all citizens to go to court, ACT does not support legislation overturning the court's decision. If the public interest does require a particular piece of foreshore to be in public ownership, then the State should buy it just as it buys land when it needs to build a road.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+BY-ELECTIONS 1
+
+By Thursday there could be three by-elections: Tariana Turia, Nanaia Mahuta, and Nick Smith. Turia has got Clark’s permission to abstain but is under pressure to vote against the legislation, and if she does, she is out of the ministry. Mahuta has already told her people she will not vote for the foreshore legislation. She has been completely passed over for office (she is lazy) and faces a challenge at home. Tuku Morgan is campaigning to remove those responsible for squandering Tainui’s Treaty settlement millions. The ninth floor strategists would actually prefer both Maori MPs to vote against the foreshore legislation to convince Labour’s supporters this measure is not a sell-out. (National’s support went up when Georgina Te Heu Heu resigned.) What Clark doesn’t want is to lose the votes of the majority of the Maori MPs, nor does she need any by-elections or the formation of a new Maori party.
+
+BY-ELECTIONS 2
+
+There is always a swing against the government so Clark is trying to persuade Nick Smith not to resign. Nick Smith has written a letter to the Speaker demanding a ruling in the house that his seat there is secure. Harry Duynhoven triggered his crisis by writing to the Speaker seeking clarification. In that case, the Speaker had declined to give a ruling, saying it was a matter that for the privileges committee. Nick has let it be known he will resign if the Speaker refers his case to the committee. Helen Clark does not want a by-election. Jonathan Hunt wants to be High Commissioner to London. In a very unusual move the court registrar wrote to the Speaker saying that in his view Nick Smith had not been convicted of a crime that required his seat to be declared vacant. It has given the Speaker a way out – to table the letter and do nothing http://www.act.org.nz/registrar. The only remaining issue is whether any other MP writes to the Speaker. Matt Robson told the media he was writing such a letter but so far no one has seen it.
+
+INDUSTRIAL CHAOS
+
+It is becoming clear the Employment Relations Bill is unworkable. To force workers to join a union the Bill makes it illegal to pay non-members the same rates as fixed in any collective agreement with the union. The Bill will lead to union wars because sites can have more than one union. The Service and Food Workers’ Union has become politically correct and in Auckland has employed militant young feminists as its organisers. The people who clean our hospitals are middle-aged churchgoing Pacific Islanders. The former president of the Alliance, Matt McCarten has seen an opportunity to form a new union – the United Workers’ Union – and is competing successfully for members. Under the Bill, Auckland hospital will not be able to pay members of McCarten’s union the same pay as members of the Service and Food Workers’ Union. It makes nonsense of the claim that Labour is trying to protect vulnerable workers. The result will be industrial chaos.
+
+DOUBLE STANDARDS
+
+The OSH Act says employers “shall take all practicable steps to ensure the safety of employees while at work”. But when the State has a similar obligation the rules are different – both the Corrections Bill and NZ Public Health & Disability Act have a rider that all objectives are subject to “the funding provided”. With a $6 billion surplus it’s hard to see how resources can be limited.
+
+THIS WEEK'S POLL
+
+Last week we asked if Nick Smith should resign and cause a by-election. Readers were evenly divided. This week's question: Do you support Labour's foreshore and seabed legislation? You can vote all week. We’ll post the legislation on our web site http://www.act.org.nz/poll as soon as the Bill is presented and announce the result in parliament.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

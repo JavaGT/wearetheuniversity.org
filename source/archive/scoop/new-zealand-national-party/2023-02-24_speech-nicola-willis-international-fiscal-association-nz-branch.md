@@ -1,0 +1,238 @@
+---
+slug: speech-nicola-willis-international-fiscal-association-nz-branch
+title: "Speech: Nicola Willis - International Fiscal Association NZ Branch"
+date: 2023-02-24
+source-url: https://www.scoop.co.nz/stories/PA2302/S00124/speech-nicola-willis-international-fiscal-association-nz-branch.htm
+author: new-zealand-national-party
+---
+Speech: Nicola Willis - International Fiscal Association NZ Branch
+==================================================================
+
+**Friday, 24 February 2023, 1:22 pm**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Good afternoon everyone.
+
+I’m delighted to be in Queenstown with you and to have this opportunity to talk about National’s perspectives on the New Zealand economy, our public finances and our tax settings.
+
+Let me begin by acknowledging the destruction and devastation Cyclone Gabrielle and North Island flooding has caused for so many.
+
+We think of those who’ve lost loved ones, who’ve endured harrowing escapes, lost homes and businesses and gone without the basics of power, water, roading connections and communications. We think of those who’ve dug in to help: the first responders, the emergency workers and local heroes - every person who has gone above and beyond to support our communities in a time of great need. Let’s acknowledge them all.
+
+I’ll start my remarks today by saying I was thrilled to receive and accept this invitation.
+
+Admittedly tax and fiscal policy aren’t topics everyone would choose to spend their Friday afternoon discussing, but rest assured, I share your enthusiasm.
+
+Tax and fiscal policy are critical to the performance of our economy. New Zealand’s economic performance matters to every Kiwi, whether or not they share your passion for the finer details of marginal tax rates and OECD Pillar One proposals.
+
+I’m enthusiastic about the task of improving New Zealand’s economic performance because I know that’s what’s needed to sustain the lower cost of living, higher incomes, safer communities, modern infrastructure and better health and education services New Zealanders want and deserve.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+These are the things I entered Parliament determined to help deliver.
+
+It’s customary for MPs to set out the credentials we bring to these roles, and I can happily do that.
+
+Let me be candid though, being a Member of Parliament is not a career I predicted for myself. My pre-Parliamentary life was not one of blameless excellence or unbroken achievement. I didn’t systematically tick the boxes that sit so impressively on the CVs of many of my Parliamentary colleagues. There were weeks at university where I spent more hours solving the world’s problems over long discussions with my mates in the living rooms of Wellington and Christchurch flats than I spent in lectures. Truth be told, I have more vivid memories of the menu at the Wholly Bagel café where I waitressed part-time than I do of many of the English Lit papers I took. I first learnt about small business, economics and global trade not from textbooks but by analysing stock lists at the Timberland shoe shop and upselling in the Wallace Rose clothing boutique; by juggling my first mortgage and the childcare costs of our four kids, and by listening to Fonterra farmers while standing in muddy paddocks.
+
+Today of course I spend a lot more time reading briefings from bank economists and poring over Treasury documents than I do balancing the till. But the more time I spend reading and thinking about finance and economics the more grateful I am for the path that led me to this role. Because in order to really understand the economy you have to understand human nature. I feel my life to date has helped with that.
+
+While the people in this room can and should enjoy detailed, numbers-heavy and technical discussions about tax and fiscal policy – and I’m sure there’s been some great ones over these past two days – it’s good to come back to the heart of why we do this work.
+
+Like you, my concern about New Zealand’s economic performance is not because of some strange academic desire to see us moving up a ranking chart. I care because I know that when our economy performs better New Zealanders can lead better lives.
+
+The opposite is also true.
+
+When Governments mess-up tax and fiscal policy they throttle the potential of their countries and they cut the opportunities available to their citizens. History is littered with the sad stories of Governments who’ve taken prosperity for granted, played fast and loose with tax and spending and taken their countries backwards as a result.
+
+Conversely, sound tax and fiscal policy can help deliver a stronger, wealthier and more competitive economy. An economy that offers better healthcare, choices and opportunities to the people in it. And an economy that has the resilience needed to keep its citizens secure in the face of unexpected shocks.
+
+The significance of that last point has been hammered home over these past few weeks as extreme weather events have hit the upper North Island.
+
+While many took it for granted at the time, maybe this is the moment when people will newly appreciate the significance of the hard-yards John Key and Bill English did to get New Zealand’s books back in order after the GFC and Canterbury Quakes.
+
+Key and English rightly increased borrowing to support people through the hard times, ensuring a strong social safety net for people who lost their jobs when the global economy tanked, increasing funding for health and education even while tax revenues fell, and investing carefully in the Canterbury rebuild.
+
+But they understood that New Zealand would face a rainy day again. They understood that when the crises receded we would need to pay down debt, repair our fiscal foundations and prepare for the future. Ministers were resolute in their task: ensuring discipline over Government spending, driving more value from every dollar spent and charting a path back to surplus. They even managed to reduce income tax on the way through.
+
+The responsible, focused economic management of the last National Government has put New Zealand in a much stronger position to withstand recent shocks than could have been the case.
+
+If National is elected to lead the Government this year we will honour our Party’s legacy of strong economic management. We will deliver the rebuild of weather ravaged communities with carefully prioritised infrastructure investment; we will drive more value from day-to-day Government spending so that we can reduce pressure on inflation and reduce the tax burden on every day New Zealanders; and we will track a path back to surplus and debt reduction.
+
+We are realistic about the size of the challenge. Right now, the New Zealand economy is in some trouble.
+
+Peter Wilson has already given you an overview of where we find ourselves. And let me say I agree with his view that we cannot tax our way to prosperity.
+
+If we were to head down to Steamer Wharf tonight and talk to a man or woman on the street, they might summarise it this way:
+
+*   The cost of living is higher than it’s ever been. The price of everything just keeps climbing – food, rent, mortgage payments, it seems the only way is up, and things are going up faster than many can remember happening before.
+*   The typical hourly wage might have a bigger number on it, but the pay check doesn’t go as far as it once did, with each fortnight’s pay seeming to get stretched thinner than the last.
+*   It’s really hard to find workers and that‘s slowing everything down – from the wait for your coffee to the upgrade of the main street.
+*   The Government has been spending a lot of money but it’s hard to put your finger on anything that’s better as a result.
+*   The world has thrown us big challenges for sure and we get that, but some days it seems like New Zealand doesn’t have a plan to steer through the tougher times we all know lie ahead, our country is floundering a little, its leaders putting plugs in the leaks but failing to right the ship.
+
+So where should New Zealand go from here and what course would a National-led Government take to steer us there?
+
+Today I’m going to focus on three key aspects of our plans: delivering stronger economic growth, bringing more discipline to Government spending and yes, last but by no means least, tax.
+
+First, let me simply state that a driving mission for the next National Government will be to grow our economy.
+
+Productive, sustainable, low-inflation growth doesn’t just happen. It’s not actually created by Government taskforces and committees – no matter how well intentioned they are. Nor is it conjured up by the production of beautifully formatted Government strategy documents – no matter how many snappy sub-headings they contain.
+
+A strong and growing economy is instead driven along by people taking action. By people choosing to put in extra effort; by people applying greater skill to the tasks at hand so they can be done quicker and with less expense, by people innovating better ways to do things, dreaming up and delivering new ideas, new products, new services; by people making better use of the resources geography and history has granted us and by people selling more to the world beyond our shores.
+
+In short, the economy is about people. So the next National Government’s economic policy will be about maximising the contribution each New Zealander can make.
+
+We will do so against a backdrop of challenge and opportunity. New Zealand must at once get inflation back under control, decarbonise our economy, adapt to the more frequent severe, weather events climate change is bringing, maintain a secure footing in a world of less stable foreign affairs, repay debt and deliver to the needs of an ageing population.
+
+We can do it, but only if we harness currently untapped potential.
+
+National is thinking about this in five broad headings.
+
+It starts with education. Education is the greatest equaliser the state can bestow – the most reliable ticket to a better future that a child can receive and a strong predictor of the quality of life they’ll have access to.
+
+In a world of challenging demographics, of greater automation, of AI and competitive global labour markets New Zealand simply must do better at ensuring our own citizens have the greater skills and knowledge needed to do the jobs of today and tomorrow.
+
+It should be of grave concern to us all that by many measures New Zealand school students today are less numerate and less literate than they once were: not only relative to students from many of the countries we like to compare ourselves with but, even more worryingly, compared to New Zealand students of past decades.
+
+That’s a moral failure, it’s a social failure and it’s a future economic disaster.
+
+National will get back to basics in our schools; set clear achievement expectations and put employers back at the centre of applied training.
+
+Second, we will deliver the infrastructure New Zealand needs to support future growth, resilience and zero-carbon connectivity. That means working much more effectively with the private sector, more flexibility in the way we finance big projects and sequencing those projects with greater co-ordination and foresight.
+
+Third, we will turbo-charge the innovation engine, backing firms to embrace productivity-enhancing technology; easing access to global capital that will allow new ventures to expand and flourish, and remaining open to the talent and skills immigrants can bring.
+
+Fourth, we will stop the tidal-wave of mostly well-meaning but ultimately destructive regulation that has come to smother too many business owners – from the CCCFA which has strangled access to credit particularly for low-income and low-wealth individuals; to the so-called Fair Pay legislation which is set to tie hundreds of people down in negotiating rooms even when the employees have no desire to be part of it; to the prescriptive farming regulations that defy practicality and ignore regional reality.
+
+How do we quantify New Zealand’s growing regulatory burden? Perhaps the best measure is the hours small business owners tell me they spend at their kitchen table with the lamp on, responding to the latest compliance email from a Government Department. Those are hours not spent working on the business, hours not spent nabbing a new customer, hours not spent with family. Those are hours that the National Government will work hard to give back.
+
+Fifth, National will keep strengthening our connections to the world, building on existing trading partnerships and easing the door open to new ones. New Zealand must diversify the places we sell to, and extract more value for the selling we do.
+
+We must also continually seek to compete with the rest of the world. Under Labour we are slipping. Last year New Zealand suffered the biggest drop in rankings among 63 countries compared on measures of their competitiveness, including in technology, science and business productivity. This is a warning bell, and if policy makers fail to respond, they are accepting a slide backwards for our country.
+
+The second theme I want to turn to this afternoon is how the next National Government will drive better results from public spending.
+
+We are concerned at the massive increase in public expenditure that has occurred in the past five years, with so few results to show for it.
+
+Government spending is up $1 billion a week since Labour took office in 2017. In the last financial year Government spending crept up to 35 per cent of our economic output – a higher level than we’ve seen in at least 17 years.
+
+Whether its elective surgery, emergency care or social housing, waiting lists are bigger and waiting times are longer.
+
+Whether it’s the stalled Auckland Light Rail project, the excruciatingly slow Dunedin Hospital build or the 176 incomplete yet supposedly ‘shovel-ready’ projects begun with Covid money, it seems infrastructure just isn’t get built.
+
+While there is plenty of evidence of extra activity across Government actual achievement is harder to spot.
+
+And while there was much talk of the money-hose being turned-down once Covid was behind us, the truth is that even as Covid job support payments recede from memory the Minister of Finance has chosen to turn the money hose up a notch, with Government spending forecast to be $129 billion this year, a full $21 billion more than the Government spent in the year of the first Covid lockdown.
+
+Despite the Minister of Finance’s frequent claims that he’s looking to tighten things up he simply never has. In fact, he chose 2022, a year when inflation ran at a 30-year high, as they time to introduce the biggest spending Budget in New Zealand history.
+
+We see plenty of evidence that this largess has enabled an ill-disciplined approach to Government spending. Here’s a few examples I think of:
+
+*   The huge growth in the core public service, with 10,000+ additional public servants being hired into non front-line roles such as policy advice, HR and communications; even while consultancy fees jump over $1 billion per year.
+*   Millions upon million spent on pet political projects such as the TVNZ-RNZ merger, the failed Te Pukenga reforms and the social insurance scheme proposal, only for some of those projects to be put on ice when the political temperature heats up.
+*   The decision to forge ahead with a $30 billion Auckland light rail project even while hundreds of kilometres of roads need urgent repairs.
+*   The willingness to fund hundreds of millions of dollars in corporate welfare for large firms using funds raised by the Emissions Trading Scheme and ultimately paid for by everyday taxpayers.
+
+National will deliver more value for Government spending by prioritising better, setting clear targets and holding Government agencies accountable for results.
+
+We will set a small number of better public service targets and transparently chart progress against them.
+
+We will cut through the complexity of Government social services provision by driving more responsibility to community organisations. Our social investment approach will deploy taxpayers’ money to improve social outcomes for vulnerable New Zealanders. We are will not tolerate the ongoing failure of Wellington-designed initiatives and programmes to actually change people’s lives for the better.
+
+We will focus on driving funding to frontline services rather than building up new centralised bureaucracies such as Te Pukenga, Te Aka Whai Ora and the Three Waters plan of four new mega water-bureaucracies.
+
+National’s commitment to more careful Government spending will deliver multiple dividends: it will help ease the pressure on inflation and interest rates that has been exacerbated by loose fiscal policy; it will encourage reprioritisation across Government with Ministers stopping things that aren’t delivering in favour of things that will; and it will allow our Government to reduce the tax burden on New Zealanders.
+
+So, finally, let’s talk tax.
+
+Tax matters. It matters to New Zealand’s international competitiveness, to the incentives people face when they’re deciding to take a risk on a new business, take a promotion or return to work. It matters to our ability to fund critical Government duties like caring for the vulnerable, educating our children, caring for our environment and meeting health needs.
+
+I agree with the view that a good tax system should be fair, simple, transparent, administratively easy and adequate to service the country’s revenue needs. I don’t think politicians need a Tax Principles Act to tell us that, and I accept that tax policy involves inherent value judgments.
+
+National’s attitude to tax goes right back to core values our Party was founded on: we stand for limited Government, reward for effort, personal responsibility and the vital role of families and communities.
+
+We stand with all the New Zealanders working hard – doing double-shifts, early mornings, late nights and weekends; we stand with all the New Zealanders fuelled by determination to provide for their families and do well by their kids; and we stand with all the New Zealanders who simply want to get ahead under their own steam. Our commitment to them is this: Under National, your effort will pay off.
+
+That means delivering a tax and income system that backs you.
+
+Today New Zealand’s tax settings are failing that simple test. New Zealanders are paying too much tax and too many people are not being adequately rewarded for their efforts.
+
+While National continues to support New Zealand’s broad-based low-rate approach to tax, and while we continue to support a progressive income tax system that places more tax on higher income earners, we are concerned that today the tax burden on typical working New Zealanders is just too high.
+
+Tax revenue has jumped an eye-watering $43 billion in just five years, helped along by rampant inflation, its hand-maiden fiscal drag, and a clutch of new taxes. That extra tax take is equivalent to $17,500 per household.
+
+Despite the claims of Prime Minister Hipkins, Core crown tax revenue is a higher proportion of the economy than it has been for many years, exceeding 30 per cent of GDP in the last financial year, a level not reached since Labour was last in office.
+
+While the Government reluctantly dropped its flawed proposal to introduce a broad-based capital gains tax it has bit by bit introduced a series of other new taxes, with more in the wings. Let me set out where National stands on these taxes.
+
+1.  **The Ute Tax.** This tax punishes people for vehicle choices over which many of them have no electric alternative. The revenue raised has helped fund an electric car subsidy programme that has paid out thousands to higher-income New Zealanders purchasing Teslas. It’s regressive, it’s inefficient and National will drop it.
+2.  **The Auckland Regional Fuel Tax.** This was originally introduced to help fund Auckland Light Rail. So much for that. It adds 11.5c a litre to petrol at the pump. National will scrap it.
+3.  **The 10 year Bright line test for Rental Properties:** This was introduced in an attempt to blame landlords for Labour’s housing crisis. It’s a capital gains tax by stealth that has added complexity to the tax system and burdened the lives of Mum and Dad landlords. National will take the bright line test back to two years.
+4.  **The removal of interest deductibility for rental properties:** Officials warned that this tenants would bear the brunt of this tax and so it has proved. Since the addition of this tax rents have increased and the social housing waiting list has lengthened. We expect those effects to worsen as more landlords struggle to pay even bigger mortgage costs. National will restore interest deductibility for rental properties.
+
+National also remains wary of the other new taxes Labour has planned.
+
+Labour has proposed a wide-ranging Social Insurance Scheme to be funded by imposing a Jobs Tax on every employer and every employee, taking at least $834 more in tax from an average paid worker.
+
+While development of this scheme has allegedly been slowed, the Jobs Tax clearly remains on Labour’s shopping list. National opposes the Jobs Tax and the gold-plated welfare scheme it is designed to fund. If elected we will stop all work on it.
+
+You’ll remember that earlier this year Labour attempted to introduce a Kiwisaver tax that would have wiped more than a $100 billion off the value of New Zealanders KiwiSaver funds. National rallied against the tax and we were pleased to see it dropped.
+
+Labour steamed ahead however with plans for a new “Apps Tax” that were also included in the same Bill as the failed KiwiSaver Tax.
+
+The proposed ‘App-Tax’ would apply to digital platforms providing ride-sharing, food and beverage delivery and short stay and visitor accommodation. It would mean that drivers, delivery agents and home owners using these apps to reach customers would be forced to levy GST on their bookings. This would be a stark change from the current situation, in which Air BnB hosts and Uber drivers are treated like other businesses – responsible only for charging GST on services if they take in more than $60,000 in annual revenue. Most don’t reach that limit so most don’t currently charge GST.
+
+The IRD has advised the Finance and Select Committee that this new tax will be passed onto consumers, meaning New Zealanders will have to pay up to 15 per cent more for services obtained using digital apps including food deliveries, Uber rides and Book a Bach bookings.
+
+National has listened carefully to the submissions on the Bill. Nothing we have heard justifies this additional tax on app-users and app-workers, especially during a cost of living crisis. We oppose the App Tax and if elected we will reverse it.
+
+In addition to these new taxes Labour has also given free range to the most pernicious stealth tax of them all: inflation. In the past few years rampant inflation has acted as a secret tax hike on every New Zealander paying income tax.
+
+While nominal incomes have gone up, people’s purchasing power has dragged behind. Regardless, income tax payers have been pushed into higher and higher tax brackets, forcing them to pay a higher rate of tax, even while the cost of living is making them poorer.
+
+National will act to reverse some of this bracket-creep so that New Zealanders can hold onto more of their own money.
+
+Last year National Party Leader Chris Luxon put out a fully-costed, specific proposal to adjust tax brackets. The changes he proposed were:
+
+*   The 10.5 per cent tax rate to apply to the first $15,600 of income, not $14,000 as it is currently
+*   The 17.5 per cent rate to extend to $53,500 rather than $48,000
+*   The 33 per cent rate to kick in at $78,100 rather than $70,000.
+
+These changes would deliver someone on the median wage of $55,000, $800 a year in tax relief. Someone on the average wage would be better off by $870 a year. Anyone earning $78,100 or more would benefit from around $1043 a year.
+
+Superannuitants would also benefit. Super is indexed to the average after-tax wage, and because our tax changes will increase average after-tax wages, Super payments for a couple would increase by around $540 a year.
+
+National accepts these changes won’t make anyone rich. That’s not the point – these changes will make things a little easier for Kiwis who are struggling to get ahead under the weight of the cost-of-living crisis.
+
+Our commitment is that this is the minimum amount of personal income tax reduction we will deliver if elected later this year.
+
+We would like to reduce income tax more than this, but we will only do so if we are confident we have the fiscal and economic headroom to responsibly do so. We continue to consider carefully other ways in which we could use the tax system to ease the cost-of-living crisis.
+
+As we look ahead to the election I am conscious that Labour is highly likely to put more new taxes on the agenda. A “flood” tax has already been mooted and it’s unclear what may emerge from Minister David Parker’s “Piketty Unit” of advisors working away on tax policy in the IRD. Perhaps the IRD officials amongst us today know more but at this point Labour’s direction on tax remains opaque. I think it’s safe to say however that under Labour there will be more tax, it is highly likely to include approaches that accelerate the brain-drain, put a drag on competitive enterprise and give a kick in the guts to the productive economy.
+
+By contrast, National’s direction is clear. We are the Party of lower tax. We want New Zealanders to keep more of what they earn. We want Government to be more disciplined about delivering better results for its own spending. We want this to be a stronger, wealthier and faster growing economy where New Zealanders can get ahead, rely on high quality public services and be resilient to the effects of climate change and other challenges that may come our way.
+
+While New Zealand is in a tough spot right now I believe all of these aspirations lie well within our grasp. We must make good choices, be principled and back the individual men and women whose efforts and achievements will determine our country’s future.
+
+I look forward to your questions and thank you once again for your audience today.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

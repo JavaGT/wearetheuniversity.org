@@ -1,0 +1,60 @@
+---
+slug: lecture-high-tech-life-threatens-alienation-from-nature
+title: "Lecture: High-tech life threatens alienation from nature"
+date: 2014-11-04
+source-url: https://www.scoop.co.nz/stories/ED1411/S00018/lecture-high-tech-life-threatens-alienation-from-nature.htm
+author: university-of-waikato
+---
+Lecture: High-tech life threatens alienation from nature
+========================================================
+
+**Tuesday, 4 November 2014, 2:19 pm**  
+**Press Release: [University of Waikato](https://info.scoop.co.nz/University_of_Waikato)**
+
+4 November 2014
+
+**High-tech life threatens alienation from nature**
+
+As peoples’ lives become increasingly high-tech, they need to actively connect with the outdoors or they could become alienated from nature altogether.
+
+That’s the stark message from a best-selling author who is coming to New Zealand as the keynote speaker at the ‘A Place To Live’ conference in Whanganui and will also give a lecture at the University of Waikato.
+
+Richard Louv’s free lecture on November 13 at Waikato is entitled “The Hybrid Mind: The more high-tech our lives become, the more nature we need”. The lecture is being hosted by the Environmental Research Institute and Professor Bruce Clarkson.
+
+Richard is a journalist and writer whose work has helped launch an international movement to reconnect children and their families to nature. He uses the term ‘nature-deficit disorder’ to describe what he sees as the human costs of increased alienation from nature.
+
+“These effects include diminished use of the senses, attention difficulties, higher rates of physical and emotional illnesses, obesity, and Vitamin D deficiency, among other things,” he says.
+
+While it may be hard to wean ourselves off televisions and computers, Richard says incorporating more nature into our lives is worth the effort.
+
+“Technology-fasting while spending time in the natural world is the most effective antidote to the downsides of technology. Contact with nature can assist with recovery from mental fatigue and can also help reboot the brain’s ability to think. Your kids may complain at first, but they - and you - will come back from the technology-fast feeling better.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+He is the author of eight books about the connections between family, nature and community. His book “The Nature Principle: Human Restoration and the End of Nature-Deficit Disorder” offers a new vision of the future in which our lives are as immersed in nature as they are in technology. This future, available to all of us right now, offers better psychological, physical and spiritual health for people of every age.
+
+Richard has received numerous awards including the 2008 San Diego Zoological Society Conservation Medal, the 2008 George B Rabb Conservation Medal from the Chicago Zoological Society, and the 2009 International Making Cities Livable Jane Jacobs Award.
+
+The Richard Louv lecture is being held at the Gallagher Academy of Performing Arts at the University of Waikato on November 13 from 12 to 1pm.
+
+**ends**  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Waikato](https://info.scoop.co.nz/University_of_Waikato) on InfoPages.

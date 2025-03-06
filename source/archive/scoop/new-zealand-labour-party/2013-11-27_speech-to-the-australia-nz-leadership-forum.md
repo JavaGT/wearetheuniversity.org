@@ -1,0 +1,165 @@
+---
+slug: speech-to-the-australia-nz-leadership-forum
+title: "Speech To The Australia NZ Leadership Forum"
+date: 2013-11-27
+source-url: https://www.scoop.co.nz/stories/PA1311/S00510/speech-to-the-australia-nz-leadership-forum.htm
+author: new-zealand-labour-party
+---
+Speech To The Australia NZ Leadership Forum
+===========================================
+
+**Wednesday, 27 November 2013, 7:13 pm**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+David Cuncliffe
+
+27 November 2013
+
+Speech To The Australlia NZ Leadership Forum
+
+1\. Introduction
+
+It is a pleasure to be making my first international visit as the Leader of New Zealand’s Labour Party, and a real honour to address the Australia New Zealand Leadership Forum.
+
+Earlier in my career, I worked on both sides of this important bilateral relationship. While my time at New Zealand’s MFAT is common knowledge, less well known is that I spent a year of that period on secondment to Australia’s DFAT, based in Canberra. I’m especially grateful to the Commonwealth for sponsoring the secondees on a fact-finding mission to places like Uluru and Kakadu.
+
+It is no accident that I have chosen this forum as my first international address after becoming leader of my party.
+
+The relationship with Australia is the most important that New Zealand has. And I know the Trans-Tasman relationship is of immense importance in Australia as well.
+
+We all recall that the ANZAC tradition was forged in Gallipoli, but we share so much more than history. We share one of the deepest trading relationships in the world. We share wider economic interests, regional interests, and common positions on many of the issues facing the global community.
+
+The Trans-Tasman relationship makes both our countries stronger.
+
+The cornerstone of this bilateral relationship is broad dialogue, and the Australia New Zealand Leadership Forum plays a crucial role in keeping that dialogue moving forward.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+2\. Taking stock: The Trans-Tasman relationship today
+
+Australia and New Zealand share so many bonds, so many different links, that we are like family. Many families talk disproportionately about the few areas where they may clash or differ, and take the many things they have in common for granted.
+
+Our shared understandings and common interests are too important to let small differences get in the way.
+
+Let’s take stock.
+
+We are among each other’s most important trading partners. Australia is New Zealand’s number one market for exports and source for imports. And New Zealand features prominently in Australia’s top ten lists on both counts as well. Over $25 billion in goods and services flowed to and fro across the Tasman last year.
+
+We should be proud that our two countries have harmonized so many of our economic rules. Where there was agreement and mutual advantage, we cut through the inertia to reduce the cost of doing business. The WTO has recognized CER as one of the world’s model free trade agreements.
+
+My party supports continuing to manage down remaining inappropriate barriers, so long as doing so makes Australia better off and makes New Zealand better off as well. It often will.
+
+Part of my vision for the New Zealand economy is that we transition away from being a volume-based producer of commodities towards being a value-based supplier of products and services. That directs more of the final value derived from our products to New Zealanders. This is one way we can make sure our economy works for everyone.
+
+As an example of the volume-to-value challenge, unemployed New Zealanders watch on with bewildered disappointment as raw logs sail from Tauranga to processing plants many thousands of kilometres away, only to be imported back to New Zealand as timber for the post-earthquake rebuild in Canterbury. If elected Prime Minister, I will work alongside business and communities to develop our regions and retain more of the value of New Zealand resources in New Zealand.
+
+That vision is all the more difficult to achieve, however, if many of our major markets – also many of Australia’s major markets – continue to place unfair impediments in the way of trade in some goods, including but not limited to the agriculture sector.
+
+Just as we break down barriers in our own relationship, we must both continue to push the rest of the world to take down its anachronistic restrictions around the agricultural trade.
+
+Our mutual interests go well beyond matters of trade.
+
+We are among the most frequent visitors to each other’s’ shores, for both work and play, with hundreds of thousands of people crossing the ditch every year.
+
+Australia and New Zealand have an important joint presence in the wider South Pacific region, which is enjoying increasing global attention.
+
+New Zealand was the first to heed the call to support the independence of Timor Leste with a bipartisan commitment to a battalion-sized contingent in 1999. We jointly established the Regional Assistance Mission to Solomon Islands (RAMSI), which prevented ongoing bloodshed in that country. We have also worked closely together in Bougainville, and on development assistance around the region.
+
+Together we have important roles to play keeping the international waters in our region safe and sustainable. Together we share a strong interest in the fisheries stock of the South Pacific being sustainably managed and providing a decent return to the Forum Island Countries.
+
+The South Pacific is receiving increasing strategic attention from major world powers. We need to develop ever-deeper regional relationships with our Pacific neighbours as they adjust to this new international context.
+
+Our interests frequently align on the broader international stage. Australia and New Zealand stand shoulder to shoulder advocating for a world with fair, rules-based international trade, and a world with more peace and cooperation.
+
+However, even if Australia and New Zealand had no historic bonds – if there had been no common ancestry for many of us, no humanitarian exchanges following earthquakes or bush fires, no Gallipoli – even if we had none of that history, there would still be an overwhelming case to cooperate and further develop a deep bilateral relationship.
+
+3\. Looking to tomorrow: Advancing the bilateral relationship further
+
+My belief is that there remains potential to deepen the Trans-Tasman relationship still further. We have achieved great things already, but there is more to do.
+
+Just as in a family, the best way to make sure the small differences don’t grow into significant barrier is to resolve them.
+
+Further development of the relationship should be based on two guiding principles: sovereign equality and mutual respect.
+
+Australia and New Zealand may have different populations and resources bases, but we share the status of being two proud sovereign nations. While we of course enjoy positive relations with the various Australian States and territories, in international affairs the New Zealand government is one of two in Australasia, not one of seven.
+
+As the numerically smaller partner, respect for that sovereign constitutional relationship is important to us.
+
+As Paul Keating once enjoined us, the strength of our shared history should be a platform and not a substitute for a mature, mutually respectful assessment.
+
+I want to turn now to two sensitive issues where I believe a mature reassessment is warranted.
+
+Franking / Imputation Credits
+
+I concur with other speakers today, that the issue of mutual recognition of imputation credits must be dealt with.
+
+Australians and New Zealanders invest heavily in each other’s economies, but not as seamlessly as they might if the tax rules were fairer and transmitted market signals more neutrally.
+
+Crucially, as many in this Forum will have discussed on multiple occasions, neither New Zealand nor Australia recognize the company tax already paid on dividends across the Tasman when assessing an investor’s personal income tax. Company tax paid domestically, however, is credited.
+
+As made clear by the New Zealand Productivity Commission, in a view which I believe is likely to be shared by economists on both sides of the Tasman – this leads to an unhealthy situation where returns on domestic investment in both countries are taxed only at the prevailing personal tax rates, while returns on Trans-Tasman investments are taxed twice, once on either side of the sea. This is effectively a tariff on capital.
+
+I recognize that addressing this issue will require political courage on both sides. The fiscal costs of reform are actually proportionately larger for New Zealand; but we must take a long-term, whole-of-economy view of this crucial issue.
+
+I wish to state clearly that it remains unfinished business which in our view must be progressed if our mutual relationship is to be taken to the next level.
+
+I challenge my political counterpart to make clear his intentions to resolve this barrier.
+
+A Fair Go for Citizens – Both Ways
+
+Sometimes sovereign equality and mutual respect require us to advocate for those of our citizens who reside in the others’ borders.
+
+The fact is, for all sorts of historical reasons, New Zealanders living in Australia are not treated equivalently to Australians living in New Zealand. Some well-known examples of this are in the realm of social services:
+
+• Australians studying in New Zealand can access New Zealand’s student support payments after two years, while most New Zealanders studying in Australia cannot access equivalent Commonwealth payments at all.
+
+• New Zealanders living in Australia must pay for public disability insurance, but most cannot access any if they become disabled. Australians living in New Zealand pay into our ACC system and can access it if the need arises.
+
+Another fundamental area where the fair go does not go both ways lies in paths to citizenship.
+
+Australian nationals who come to live in New Zealand and wish to become New Zealanders; who work hard, pay taxes, and contribute to the community can eventually be full participants in New Zealand life.
+
+But many New Zealand nationals who come to live in Australia, and who wish to become Australians; who work hard, pay taxes, and contribute to the community have no equivalent path.
+
+Australians who move to New Zealand become permanent residents on arrival, whereas most New Zealanders who move to Australia are not accorded the same status.
+
+No one could argue against a reasonable and credible pathway to permanent residence for New Zealanders in Australia. But our shared commitment to a fair go requires us to have a hard look at the status quo.
+
+There is a widespread but misconceived impression that NZ migrants to Australia are of lower than average skill levels and more likely than average to be unemployed. The reality is very different. New Zealanders moving to Australia, of whom we have regrettably had over 200,000 in the life of our current government alone, tend to have higher than average skill levels and to be from younger than average age cohorts. In many cases they bring with them the benefit of years of investment from the New Zealand education system, including at tertiary level.
+
+Our treatment of each other’s businesses and each other’s citizens must honour our highest traditions and the principles and values which govern this, our most important, bilateral relationship.
+
+I am committed to working with Australian counterparts to give effect to the principles of sovereign equality and mutual respect that we both hold dear in the finest ANZAC tradition.
+
+4\. Concluding remarks
+
+Our two countries are more like family than we sometimes care to admit. We share genealogy, history, economic interests, regional interests, and global interests.
+
+In any relationship as deep and as broad as ours, some issues are bound to crop up. In some areas, I think New Zealand can do more to advance Australia’s interests at little or no cost to ourselves, and in other areas I think the opposite is true.
+
+I look forward to the opportunity to help build even greater strength in Trans-Tasman relations in the near future, including through engagement with the important work of this Forum.
+
+Thank you.
+
+  
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

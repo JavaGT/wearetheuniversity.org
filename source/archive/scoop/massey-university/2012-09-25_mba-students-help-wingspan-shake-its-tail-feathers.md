@@ -1,0 +1,71 @@
+---
+slug: mba-students-help-wingspan-shake-its-tail-feathers
+title: "MBA students help Wingspan shake its tail feathers"
+date: 2012-09-25
+source-url: https://www.scoop.co.nz/stories/ED1209/S00186/mba-students-help-wingspan-shake-its-tail-feathers.htm
+author: massey-university
+---
+MBA students help Wingspan shake its tail feathers
+==================================================
+
+**Tuesday, 25 September 2012, 2:56 pm**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+**Tuesday, September 25, 2012**  
+**MBA students help Wingspan shake its tail feathers**
+
+Assisting with the survival of the New Zealand falcon might not sound like the usual MBA research project but, for a group of Massey University MBA students, it proved to be an invaluable learning experience.
+
+The students, who will graduate in November, recently presented the Wingspan Birds of Prey Trust with a 409-page consultancy report with recommendations and tools to support the charity’s future strategic decision making. The report was the culmination of around 1750 of hours of work by seven MBA students, provided to Wingspan completely free of charge.
+
+“The project really appealed to me because it meant working with a non-profit organisation that wouldn’t normally be able to afford to employ consultants. It’s about giving back to the community, rather than just meeting the requirements of an MBA,” says MBA student Pete Searle.
+
+“With most MBA programmes, you do research projects to meet the academic requirements of the degree, but then they just gather dust on the shelf. This project produces a tangible, on-going benefit for Wingspan.”
+
+The Massey MBA students’ research came at a critical time for Wingspan, a conservation charity that has approval from the Department of Conservation to care for sick, injured, and orphaned raptors. The organisation’s lease on its site in Rotorua was uncertain, but the operation wasn’t producing the revenue required to purchase its own property.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“We opened our books completely to the students because we wanted a robust report,” says Wingspan executive director Debbie Stewart. “We have been a grassroots project for 20 years and dependant on donations, sponsorships, and volunteers. The economic recession has had an impact and, like all non-profits, we are experiencing sponsorship fatigue.”
+
+As well as releasing captive-bred falcons, rehabilitating injured wild birds, and research and advocacy work, Wingspan also runs the National Bird of Prey Centre where people can see birds of prey up close during interactive flying displays.
+
+The organisation had a lot of decisions to make about its future direction, says Mr Searle. It needed to decide how big it wanted to grow, and whether its income-generating tourism activities were as important as its conservation advocacy and education activities.
+
+“Wingspan was looking for ways of increasing profits and decreasing costs, while still making sure they didn’t change the personal approach of the organisation. They were really worried about that – they didn’t want to become a big, commercial operation,” Mr Searle says.
+
+Ms Stewart says the students’ research will have a huge influence on Wingspan’s future development, and the organisation has already taken steps to implement some changes for its upcoming summer season.
+
+“The students really showed us our strengths, and helped us define our target audience and opportunities for marketing both our conservation work and the visitor experience at the Bird of Prey Centre,” she says.
+
+“What has been extremely useful is what we now call the ‘Golden Square’, which are the key strengths and attributes the students identified for us – birds, people, purpose, and charm. We weren’t too sure about ‘charm’ at first, but we have just launched a new website and the concept of charm has become central to our branding, logo, and web design.”
+
+Mr Searle said the practical research project was the highlight of his MBA – both for what he learned at a personal level, but also for what he was able to give back.
+
+“It was wonderful to be able to use my knowledge and experience to help such a great organisation, and I certainly learned a lot about the issues facing non-profits. I’d absolutely recommend such consultancy projects, and it helps get the skills of the students in the MBA programme out into the community where they can be of real benefit.”
+
+The other Massey MBA students involved in the research project entitled ‘Improving the Financial Sustainability of Wingspan Birds of Prey Trust: A Critical Business Evaluation’ were Andre Basel, Linda Chen, Daniel Feutz, Sarah Patterson, Angela Weston, and Mark Young.
+
+Massey MBA director Andrew Barney says the programme is very grateful to Wingspan for giving students the opportunity to grapple with the complex realities of a real-world organisation as part of their degree.
+
+“We are hopeful that the recommendations emerging from the students’ research will enable Wingspan to strengthen its operations in the future,” he says. “The work of such not-for-profits is vital in many areas of New Zealand society and it’s important for students aspiring to work in business to understand the priorities and difficulties faced by such agencies.”
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

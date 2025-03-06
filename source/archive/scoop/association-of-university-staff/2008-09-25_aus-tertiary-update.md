@@ -1,0 +1,140 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2008-09-25
+source-url: https://www.scoop.co.nz/stories/ED0809/S00080/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 25 September 2008, 8:40 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+$54 million for New Zealand researchers  
+The Marsden Fund has announced its largest annual investment yet of $54 million in a wide range of leading-edge research projects. The contestable fund is intended to support excellence in advanced research in New Zealand. Projects are selected annually in what the fund describes as a rigorous process by nine panels of experts who are guided by the opinions of world-leading referees. Funding is spread over three years.  
+A total of 91 new projects have been given the go-ahead, advancing New Zealand research in the sciences, engineering, maths and information sciences, humanities, and social sciences. Twenty-five of the awards, over a quarter of the total, are Marsden Fast-Starts, designed to support outstanding researchers early in their careers.  
+Among this year’s awards is a project that will give answers to the questions, “What did moa and other large extinct birds eat? And what effect did their snacking have on our ecology?”. This research will be accomplished by examining the contents of moa coprolites (fossilised faeces) to learn more about dietary habits.  
+Another study is examining the substance behind organisations’ claims of being carbon neutral. This study is a timely investigation in the light of urgent policy and scientific demands for action on climate change. Yet another will take a comparative approach to the study of policing of indigenous peoples by colonial administrations in the nineteenth and twentieth centuries.  
+Dr Garth Carnaby, chair of the Marsden Fund Council, said, “All of the projects funded have been thoroughly reviewed internationally and are of excellent quality. The fund sits at the discovery end of New Zealand’s research spectrum, allowing our best researchers freedom to explore their own ideas. It represents a government investment in the creation of cutting edge knowledge through scholarly research.”  
+A recent $2.25 million budget boost from the government and a decision to spend accumulated funds has enabled the Marsden Fund Council to increase its investment in New Zealand’s early career researchers, and seed fund a number of projects it would have been impossible to support otherwise. “The increase in investment this year has meant that we were able to fund a good number of the new Fast-Start projects, which have been substantially increased to $100,000 per year for three years of research,” added Dr Carnaby.  
+A full list of 2008 recipients is available at:  
+www.marsden.rsnz.org
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Sacked Auckland lecturer reinstated  
+2\. Options for measuring research performance  
+3\. Debt ambulance at bottom of cliff  
+4\. Unitec restructuring decision delayed  
+5\. Secondary-tertiary interface to be strengthened  
+6\. OECD calls for more internationalisation  
+7\. Australians trim courses for global outlook  
+8\. EU research findings open online  
+9\. And a lecture to go, please  
+10\. A PhD at 91
+
+Sacked Auckland lecturer reinstated  
+The political science lecturer sacked by the University of Auckland for an angry e-mail he sent to a student has been quietly reinstated. Paul Buchanan, a widely quoted expert on international security, was sacked last year after emailing a 25-year-old Middle Eastern student telling her that she was “under-performing and under-qualified”.  
+He accused her of “preying on some sort of Western liberal guilt” by citing her father’s death as a reason for requesting an assignment deadline extension. The university considered the email a case of serious misconduct and fired Dr Buchanan.  
+In March, the Employment Relations Authority ordered the university to pay Dr Buchanan $66,000 in lost wages and damages for his wrongful dismissal. However, it stopped short of ordering his reinstatement, saying it would not be practical for Dr Buchanan to be reinstated and that he lacked awareness of the impact his conduct had on others.  
+Association of University Staff (AUS) deputy secretary, Marty Braithwaite, said at that time that Dr Buchanan could “undoubtedly” work again for the university. “A university should be a robust enough place that people can have disagreements, but move on and put them behind them.”  
+Both Dr Buchanan and the university appealed to the Employment Court, which was to hear the case in November.  
+However, after a recent meeting, it was agreed between the parties that Dr Buchanan be reinstated by the university. University spokesperson Bill Williams is reported as saying that Dr Buchanan was on “research and study leave” but declined to comment further.  
+The AUS has declined to comment on the latest development in the case. Dr Buchanan could not be reached for comment and his lawyer, Ray Parmenter, also declined to comment.  
+From NZPA
+
+Options for measuring research performance  
+Last week’s forum, “Measuring Research Performance: What are the Options?” heard that it is essential, whatever research-performance-measurement system is adopted in New Zealand, to keep it under continuous review to mitigate possible flaws and keep abreast of international developments and discoveries. Dr Jonathan Boston of Victoria University’s school of government told the forum that, if alternatives to peer review were to be considered, “they would need to meet a set of evaluative criteria that cover cost effectiveness, stronger incentives for excellence, equitable treatment of disciplines, better performance information, enhanced funding predictability, and the ability reliably to compare performance.  
+Dr Jonathan Adams, author of the recent Tertiary Education Commission review of the PBRF and critic of the individual unit of assessment, canvassed the advantages and disadvantages of a bibliometric approach. In particular, based on his considerable experience of bibliometric systems in the UK, he emphasised the importance of the ability to gather in-depth data in order to produce useful information as well as having an adequate population size.  
+The Australian Research Council outlined its intention to employ an evaluation system that uses a combination of indicators and expert review informed by measures of research activity and intensity, indicators of research quality, and indicators of excellent applied research and translation of research outcomes. The New Zealand Ministry of Education presented a comparison of funding outcomes under PBRF and bibliometrics models which indicated that the latter approach would have brought some redistribution of funding in the last round of assessment.  
+In conclusion, AUS academic vice-president Dr Grant Duncan argued for caution in adopting a bibliometrics approach as well as highlighting a number of serious problems with the present model. Expressing reservations about any of the existing methods of assessment on the grounds of academic freedom, he nonetheless set out a number of principles that any re-design of the PBRF should consider as benchmarks for future planning.  
+Dr Duncan’s paper is available at:  
+http://www.aus.ac.nz/Policy/PBRF/RedesignPrinciples.pdf
+
+Debt ambulance at bottom of cliff  
+The National party’s recent policy announcement to write-off student debt in an effort to address medical-workforce shortages in hard-to-staff-areas may provide welcome relief for those lucky few who benefit, according to the New Zealand Union of Students’ Associations (NZUSA). Thousands of other skilled graduates, however, will be forced to continue battling with significant debt.  
+“Throughout the country, we have workforce shortages covering numerous industries, which impact negatively on the economy, but National’s new policy ignores all of these,” said NZUSA co-president Liz Hawes. “Various national sector groups have voiced concern at workforce shortages and highlighted that student debt is a key factor, yet National appears to have either not heard or simply doesn’t care,” she continued.  
+“Such short-sighted policy is surprising given National’s apparent concerns at the loss of skilled workers. This policy is so narrow it will do nothing to bring most of them back and neither will it prevent the majority leaving in the first place,” said Ms Hawes. “The lack of depth and consistency shows National’s support for indebtedness and high-cost education, and a distinct lack of acknowledgement of the negative effects this is having on New Zealanders.”  
+“Debt relief needs to go hand in hand with prevention. Any medical professional can tell you that; treating the symptoms isn’t going to fix the problem, you also need to address the cause,” Ms Hawes said. “High debt is caused by lack of student living allowances and high fees. Disappointingly, National’s new policy ignores these root causes of the debt affliction facing New Zealanders and has gone for the ‘ambulance at the bottom of the cliff’ approach with limited debt relief for just a select few.”  
+“Students and graduates are left looking elsewhere for real tertiary-education initiatives and policy that will finally put an end to borrowing in the first place and genuinely assist the hundreds of thousands who are already struggling with existing student debt,” Ms Hawes concluded.
+
+Unitec restructuring decision delayed  
+The governing council of Auckland institute of technology Unitec met on Monday to determine its final approach to a restructucturing plan aimed at reducing spending by $15 million over three years. Staff have been advised that the finalised plan will be communicated late this week, once plans were completed and affected staff told.  
+Association of Staff in Tertiary Education (ASTE) northern region field officer, Chan Dixon, said that consultation leading up to the final decision had been more “open and robust” than previously at Unitec and that there is a feeling that some of ASTE’s suggestions had been taken into account. “In particular, we hope there will be fewer redundancies than in the original proposal, at least in the academic area,” she said.  
+The original consultation documents had signalled that more than 100 jobs would go, a figure somewhat ameliorated by the creation of 45 new ones. The council’s impending decision is to determine exactly how many will be cut by the end of this year, and there is some expectation that that figure will be reduced.  
+“Our members are well aware, nonetheless, that next year’s restructuring round will focus on academic staff and programme delivery, including staff-student ratios, which currently stand at about one to fourteen overall. That figure, however, reflects complexities such as postgraduate programmes with understandably few students per staff member and facility limitations in some areas. We look forward to again being able to openly scrutinise the next set of proposals,” she concluded.
+
+Secondary-tertiary interface to be strengthened  
+High school students not suited to school will be going to class at an Auckland polytechnic instead, under a new $1 million pilot project, reports the NZ Herald. The scheme, part of a $39.7 million suite of education initiatives linked to the government’s major Schools Plus plan, is due to start at the Manukau Institute of Technology next year.  
+Unlike traditional fast-tracking of students to universities or polytechnics, the 80 to 100 students in the “tertiary high school” will not be top academics and will stay on their old high-school roll. The Year 11 to Year 13 pupils will have “potential” but not be suited to conventional high school.  
+The report quotes Manukau Institute of Technology student-affairs executive director Stuart Middleton as saying that the project aims to engage those who might have otherwise dropped out. “We’re keeping students in school but not at school. This is students finishing their schooling but not remaining in the environment where they are not making sufficient progress,” said Dr Middleton. He added that attendance would be monitored to ensure pupils were coming to class as part of a wide range of supports to be offered.  
+The New Zealand Vice-Chancellors’ Committee (NZVCC) has welcomed the potential of the Schools Plus policy to improve the secondary-tertiary interface. “Universities already provide opportunities for able secondary-school students to include some tertiary study in their programmes and share their specialist resources, such as geography field stations and science laboratories, with secondary schools,” said NZVCC chair, Professor Roger Field.  
+“Schools Plus should focus on raising the aspirations of those secondary students who have potential to succeed in university education – especially Māori and Pacific students, students with disabilities, and students from lower socio-economic backgrounds,” added Professor Field.
+
+World Watch  
+OECD calls for more internationalisation  
+Governments should position their higher-education systems in the global arena, develop a strategy and framework for internationalisation, and encourage institutions to be more proactive internationally, says a report published by the Organisation for Economic Co-operation and Development last week. Tertiary Education for the Knowledge Society offers this and other policy advice to countries striving to build tertiary education in ways that stimulate innovation, competitiveness, and economic growth.  
+The new report draws on a study of tertiary policy in 24 countries, the OECD Thematic Review of Tertiary Education, and has two volumes: the first focusing on governance, funding, and quality and the second on equity, innovation, the labour market, and internationalisation.  
+On internationalisation strategy, the report points out that countries vary greatly in terms of their power, size, geographic location, dominant culture, tertiary-education systems, the roles of their languages globally, and their previous internationalisation strategies. “Obviously, this strategy needs to adapt to country-specific circumstances, building upon natural advantages and acknowledging constraints, and there is no ideal internationalisation strategy other than maximising the benefits of internationalisation in the national context,” says the report.  
+It adds that, while the international dimension of tertiary education is influenced at the national-sector level by policy-steering and co-ordination, funding, and regulations, internationalisation activities are conducted by institutions and, within them, by disciplines.  
+The potential for national policy is therefore primarily creating framework conditions for institutions to become “proactive actors of internationalisation” by removing blockages, granting institutions the autonomy to be more responsive to the external environment, or by including internationalisation in annual negotiations between governments and institutions.  
+“Greater sustainability of internationalisation strategies can be achieved by promoting the diversification of international activities,” says the report.  
+From Karen MacGregor in University World News
+
+Australians trim courses for global outlook  
+The University of Western Australia (UWA) has joined a group including Melbourne, Macquarie, Monash, South Australia, and Victoria universities undergoing radical course reform unprompted by government policy. Melbourne, UWA and Macquarie have jettisoned the smorgasbord of credentials characterising Australian higher education in favour of a much smaller number of broad undergraduate courses integrating the humanities and science.  
+UWA last week announced plans to cut its undergraduate courses from 70 to six, while Macquarie University plans to cut the number of undergraduate courses by 75 per cent in time for the 2009 academic year as part of an attempt to “reinvent” and “reposition” the university. University of Melbourne vice-chancellor Glyn Davis, who in 2005 instigated a process of curriculum reform leading to the Melbourne graduate-school model, said that this is the first time in living memory that universities had decided to take charge of their own futures rather than allow government to determine policy. “The move for change has come from within the sector and has been attempted without additional federal investment,” Professor Davis said. “This means those universities pursuing change are taking all the risk.”  
+The reform process has strong international parallels, as individual universities such as Harvard, and entire systems such as the European universities covered by the Bologna Accord, have embraced the cause of curriculum renewal. Professor Davis said the curriculum revolution was prompted in part by the sector’s internationalisation, and questions about the attractiveness of Australian degrees in the light of Asian, US, and European reforms.  
+“If we remain passive, existing markets will drift away,” he said. “For universities without viable local income, which is to say all public universities, losing our international markets is slow death.”  
+From Luke Slattery in the Australian
+
+EU research findings open online  
+The European Commission has responded to growing demand in the science community for unfettered access to research by launching a pilot project to make European Union-funded research in seven key subject areas available free of charge on the internet. According to the commission, the move should help the EU step up its use of the latest scientific developments by ensuring that businesses, particularly small and medium-sized enterprises, have access to the latest research results. It should also help the EU’s researchers themselves by making their work more widely known.  
+The pilot project will cover health, energy, environment, information technologies, research infrastructures, socio-economic sciences and humanities, and science in society. All are part of the generously funded EU Seventh Framework Programme (FP7) for research and have been picked out, said a commission statement “because of their high societal impact and their importance in helping Europe address major challenges such as climate change”.  
+Among them, the targeted areas account for some 20 percent of the total FP7 budget. If the pilot, which will run until the end of FP7 in 2013, is successful, it will be extended for the next research funding scheme: the Eighth Framework Programme.  
+Under the rules of the new access policy, researchers getting FP7 grants will be required to deposit peer-reviewed research articles arising from the projects in the open access repository of their choice. The EU says articles must be freely available either six or twelve months after publication, depending on the subject area; in fast-moving fields such as energy, environment, health, and information and communications technology, the deadline is six months.  
+From Alan Osborn in University World News
+
+And a lecture to go, please  
+When provided with the option to view lectures online, rather than just in person, 82 percent of US undergraduates declared that they would be happy to entertain an alternative to showing up to class and paying attention in real time. A new study released this week suggests not only a willingness but a “clear preference” among undergraduates for “lecture-capture,” the technology that records, streams, and stores what happens in the classroom for concurrent or later viewing.  
+The study, sponsored by the University of Wisconsin-Madison’s e-business institute, tackles the much-discussed question of students’ preferences for traditional versus online learning with unusual rigour. Based on a survey of more than 29,000 undergraduate and graduate students at the university, the study had a response rate of over 25 percent. Almost half of the undergraduates, 47 percent, had taken a class with lectures available for online viewing.  
+The responses potentially address two of the biggest obstacles some observers see to more widespread adoption of lecture-capture technology and other elements of distance education: a willingness to learn remotely, and the cost barrier. Students who responded to the survey clearly understood the benefits of lectures that are available as webcasts, such as making up for missed classes, which, at 93 percent, ranked as the top advantage, and “watching lectures on demand for convenience”, 79 percent, or other reasons, such as reviewing lectures before class.  
+At the same time, the survey addresses potential cost concerns, which have given pause to administrators who worry about the financial strains of scaling up their educational efforts as well as to students who would bristle at added technology fees for all of their classes. Over 60 percent of respondents said they would pay for lecture-capture capabilities, and of those, 69 percent said they would be willing to pay on a “course-by-course” basis rather than bundled fees.  
+From Andy Guess in Inside Higher Ed
+
+A PhD at 91  
+At the age of 91, when many people would be relaxing, Joseph Ciampa worries about becoming obsolete. It is the same fear that once drove this Italian theological scholar and Baptist pastor into switching careers to become an enrolled nurse at the age of 50. And now it has driven him to become one of the world’s oldest recipients of a PhD.  
+“I have this drive not to be useless,” Mr Ciampa said at his home in Melbourne’s Flemington.  
+It has taken eight years’ study, and the hard work of typists transcribing Mr Ciampa’s handwritten drafts, but, next month, Melbourne’s La Trobe University will award him his doctorate. Mr Ciampa’s thesis explores the timelessness of storytelling through the writings of the late Carmen Martin Gaite, who is for Spain what Virginia Woolf and Simone de Beauvoir are for the English and French-speaking worlds.  
+The world’s oldest PhD recipient is believed to be Edgar Douse, who, at 93, was awarded a PhD in theology in Britain in 2004. The Australian record is believed to be held by Ron Fitch, who, at 92, was awarded a PhD on railways in 2002.  
+A man with the formal civilities of a bygone time, Mr Ciampa has always insisted on referring to his supervisor, Lilit Thwaites, as Doctura, never by her first name, as all her other students do. His writing in Spanish has also tended towards archaic words that sometimes left Dr Thwaites stumped. “I always had a vision of him sitting in his outside garage ... with huge Spanish dictionaries by his side, finding just the right word,” she said.  
+Dr Thwaites said Mr Ciampa’s work was a significant contribution to the study of Spanish literature. He is now planning a master’s degree on the philosophers Ludwig Wittgenstein and Noam Chomsky.  
+From Andrew Trounson in the Australian
+
+More international news  
+More international news can be found on University World News:  
+http://www.universityworldnews.com
+
+AUS Tertiary Update is published weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct inquiries should be made to the editor, email: editor@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

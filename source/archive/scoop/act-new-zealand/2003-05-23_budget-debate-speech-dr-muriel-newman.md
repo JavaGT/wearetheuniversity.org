@@ -1,0 +1,92 @@
+---
+slug: budget-debate-speech-dr-muriel-newman
+title: "Budget Debate Speech: Dr MURIEL NEWMAN"
+date: 2003-05-23
+source-url: https://www.scoop.co.nz/stories/PA0305/S00618/budget-debate-speech-dr-muriel-newman.htm
+author: act-new-zealand
+---
+Budget Debate Speech: Dr MURIEL NEWMAN
+======================================
+
+**Friday, 23 May 2003, 4:38 pm**  
+**Column: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Budget Debate Speech:
+
+Dr MURIEL NEWMAN (ACT NZ)
+
+The 2003 Budget is an utter disgrace. It cements New Zealand on a path to failure.
+
+We are facing the most uncertain uneconomic time in recent decades, yet Labour’s response is to ignore the major constraints to growth and squander taxpayers’ money on the America’s Cup, Maori television, and treaty education.
+
+Now we hear that Labour wants to slug the poor old taxpayers with a new $200 million power tax to bail it out of its power crisis mess. I also heard on the news this morning - what is undoubtedly going to be a growing problem caused by Labour’s meddling in local government – that will be a 300 percent increase in rates for Aucklanders.
+
+This is a tax-and-spend Government. It taxes people to the hilt and then asks them to spend more in user charges, stealth taxes, and regulatory fees.
+
+Labour should know that a core responsibility of government is to ensure that conditions are right to allow a country to grow, to enable its economy to prosper, and to raise living standards, increasing opportunities for all citizens.
+
+So has Labour delivered on these expectations in this Budget?
+
+The short answer is no. This budget shows growth will halve from 4 percent to 2 percent. As a result working families who are struggling to pay the bills and feed the kids can only look forward to a harsher future as living standards continue to fall under the governance of this Labour-United-Green coalition.
+
+On behalf of the taxpayers of New Zealand I say to Labour that this is simply not good enough. Taxpayers deserve better. Hard-working families deserve what the Australian Government delivered last week - a tax cut. Small businesses deserve a tax cut as well.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+ACT has surveyed New Zealand taxpayers and received thousands of responses to our petition for tax cuts. One of those respondents said: “As a small-business owner I could offer employment for two or three more people - if I were given some tax relief.” Another said: “Give small businesses a break. We are the backbone of the country and we’re being hammered by over-governance and growing compliance costs.”
+
+The reality is that a tax cut would boost the economy. With tax cuts we could achieve a 4 percent growth rate and a rising standard of living. That would be fast-tracked if tax cuts were combined with a bonfire under the bureaucratic compliance costs that this control-freak Government is introducing, in its ideological attempt to regulate our free market to death.
+
+The fact is that the values of this Labour Government are out of step with the values of New Zealand families. We have a Government obsessed with power and control. As one of our petitioners stated: “You do not own the citizens of this country. We are free individuals. You have no right to determine how our wages are spent. That’s a decision solely for the rightful owner of those wages—the individuals who earn them.”
+
+Since being in Government Labour has created a culture of racism, lawlessness, and dependency in this great country of ours - and a growing number of New Zealanders have now had enough: “Like many people, I am tired of working 60 hours a week to support more and more people who are being paid by the Government to do nothing.” And another quote: “As the sole income earner in a family with a young child, I am crippled by tax to support non-workers. Something needs to be done about our Welfare State. Too few workers supporting too many unemployed. It can’t be sustained.”
+
+Before Labour changed the welfare system in the early 1970s, there were 28 full-time workers to every full-time person on a benefit. Today there are 4 full-time workers for each beneficiary, and the budget figures show that that situation will get worse.
+
+I have to complain however, that the welfare details in the budget are not easy to find. The Government left the welfare tables out of the Budget. If it had not been for Treasury posting them on its website, we would never have known that welfare spending will increase by $2 billion over the next 5 years, and that all categories of benefit are forecast to grow with the sickness benefit and the invalids benefit set to sky rocket.
+
+This soft-on-welfare Labour Government has signalled that the next Budget will be a welfare budget as it prepares to buy votes for the next election. But even now, along with the support of the United Future party, as each day goes by, this Government is increasing welfare dependency. For every person that Labour entices on to welfare in the long term, a Kiwi life is ruined and children damaged.
+
+The Government’s own research shows that children and families dependent on welfare fail to do as well in all areas of life as those with parents who work. Children in families without a father are at even greater risk.
+
+That is why it is so outrageous that Labour and United Future have failed to tackle the problem of 32,000 New Zealand children who don’t know their father, because their mothers - who are on the domestic purposes benefit - choose not to name the fathers on the children’s birth certificate. ACT believes that every child has a right to know who his or her father is, and we would make naming of the father a condition of domestic purposes benefit eligibility.
+
+Labour and its United Future puppet try to pretend that they care about families and children by spending $28 million on the bureaucratic monster called the Families Commission. Well, they are misleading the public, because if they really cared about families and children, welfare reform would be their top priority.
+
+I want to use this opportunity to put on record that ACT’s plan for welfare reform is based on the belief that those who can work, should work, and that only work should pay. The unemployed need help to overcome the barriers they have to work - through childcare assistance, transport help and the like - so that when they are offered a job there are no hurdles. But our priority is to reduce long-term dependency on the state, reinforcing that welfare is no longer a lifelong right.
+
+We would introduce time limits to create a sense of urgency - with guaranteed job placements for those who reach their limits. We also believe that the welfare system should replicate the real world of work, and would require that those who are able-bodied take part in a 40 hour a week programme of work training and organised job search to help them develop the skills, habits, and disciplines of the workforce.
+
+If welfare is modelled on the workforce, it sends a very clear message that welfare is there to provide a temporary helping hand in times of need. But in return we ask that those on welfare have an obligation to have the same 40-hour workweek as the rest of adult society.
+
+ACT’s plan would turn around the lives of the poorest New Zealanders, because everyone knows, and common sense tells us, that the only way out of poverty is through work.
+
+But there is another compelling reason to introduce real welfare reform and I hope that the Government is listening to this. It is not very politically correct to talk about it, but it is the very real and very close link between welfare and crime. The police, courts, even judges, would tell you that over half of all criminal offences are committed by people on a benefit. The majority of people committing crimes come from families without a fathers. But it goes further - the majority of all of the victims of crime are poor families on benefits. So Labour’s soft-on-welfare and soft-on-crime agenda is hurting the most vulnerable people in society. In fact, its hurting Labour’s own voting base.
+
+The Budget forecasts more family breakdown over the next few years, more children growing up without fathers, and more welfare dependency. And all of this means that crime will rise. So what has Labour done about that within the budget?
+
+I looked into the Budget to find what sort of support Labour has pledged to Police. To my astonishment, in spite of the police being understaffed, overstressed, and outnumbered by the gangs in New Zealand by three to one, the Police budget has been squeezed.
+
+When Labour took office in 1999, 1.9 percent of all Government spending was appropriated to police. In this Budget, government spending on Police has been squeezed to 1.6% - that is a 15% decrease. That means that when the Labour government was voted into office it ignored the 92 percent of New Zealanders who voted for Norm Withers’ referendum, to get tough on violent offending and to reduce crime.
+
+Amazingly Labour’s response to the referendum was to slash police funding. It’s no wonder the Police are overwhelmed, and can’t investigate basic crime anymore, asking people to take the law into their own hands. It’s no wonder the methamphetamine crisis is running out of control and gang problems are escalating. This Labour Government is failing in another of its core responsibilities – to uphold the rule of law and keep people safe.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

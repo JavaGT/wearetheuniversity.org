@@ -1,0 +1,181 @@
+---
+slug: simon-upton-speech-what-sort-of-a-nation-is-nz
+title: "Simon Upton Speech: What Sort of a Nation is NZ?"
+date: 2000-12-06
+source-url: https://www.scoop.co.nz/stories/PA0012/S00099/simon-upton-speech-what-sort-of-a-nation-is-nz.htm
+author: new-zealand-national-party
+---
+Simon Upton Speech: What Sort of a Nation is NZ?
+================================================
+
+**Wednesday, 6 December 2000, 6:26 pm**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+What Sort of a Nation is New Zealand and  
+Who Does it Belong To?  
+Rt Hon Simon Upton MP
+
+Wellington City Council Chamber  
+6.00 pm  
+Wednesday 6 December 2000
+
+New Zealand is currently the set for what we hope will be one of the great movies of what we know is one of the great books – The Lord of the Rings. New Zealand has it all – primaeval woods, volcanic wastelands with smoking cones, forlorn rangelands and wooded bits of shire. But it’s what we haven’t got that makes our landscape even more appropriate. It’s a landscape that hasn’t co-evolved with humans. As such it bears few traces of enduring history. And no audience watching the final product will be deflected by settings that conjure up images and events from their collective memory. Rohan, Mordor and all the rest are safely cordoned off from real world taint.
+
+That same historical vacuum has had a remarkable bearing on the way we think about nationhood. For Europeans, New Zealand is a land almost devoid of historical memory. That is not the case for Maori. But given that the idea of nationhood as we know it is an artefact of modernity, that doesn’t help a great deal. In truth, there is a big question mark over how we think about ourselves as a nation – or whether it is even possible to do so coherently. I’d like to talk, today, about what sort of nationhood we should be aspiring to and how the New Zealand diaspora – which my family and I are soon to join – stands in relation to it.
+
+This is an unrelentingly physical country. And we constantly mistake the idea of the land, with the nation. Our island geography is responsible for this. If we live within such a clearly defined and confined space, surely – being thrown together on this distant landmass – must make us a nation?
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+This could only be described as the lifeboat theory of nation-forming. That out of the wreckage of some larger enterprise we are destined to build a nation. Well, the larger enterprise (to the extent that there was one) has long since sunk. And plenty of lifeboats sink.  
+Nations are purely human institutions. They don’t just happen. Nor are they designed. That hasn’t stopped people trying.
+
+There was an awful lot of design in New Zealand’s early years. In fact more design work was lavished on New Zealand than any other British colony. This country was Britain’s first new colonial foundation with representative government since Georgia was founded in 1732. No-one at Westminster had any living memory of what was involved. It was all a bit novel.
+
+But there’s nothing much to show for all that theorising today. Provincial government was swept away. The legislature is now unicameral. Novelties in the 1852 Constitution Act such as the possibility of Maori self-government through runanga have been discarded. Then in a fit of electoral moodiness we embraced an electoral system designed for post-war Germany but without its federal buffering.
+
+Now the Government is speculating about another round of constitutionalising as a way of getting nationhood to ‘fire’.
+
+The trouble is, constitutionalism as a means of nation-building tends only to ignite in the after-glow of searing moments of national birth. And in New Zealand’s case there is no crucible in which the critical reaction has commenced. The big battles were fought half a world away – and, in any case, in response to an imperial reflex. We’ve never had to defend these shores: when our territorial integrity was at stake, the key battle was in the Coral Sea and the Americans fought it. Australia actually had to defend its periphery against the Japanese. Defending the Port Moresby pocket cost the lives of thousands of young Australians. No-one stands mute, as kiwis do at Passchendaele, wondering at the futility of their loss. The necessity and immediacy of the sacrifice are obvious. There is no comparable modern experience on or near our own soil.
+
+Should we, instead, be expecting some sort of spontaneous chain reaction? That if enough layers of indifferent political sediment are laid down, the weight of accumulated dullness will cause something to self-ignite? The trouble is, there’s never really been enough material for a spontaneous reaction to occur.
+
+This is no place to speculate on the drivers of Australian nationhood. But one cannot deny the sense of scale, dynamism, anonymity and civilisational hubris that underwrites Australian nation-building. Stitching together a continent is no mean business and it involves more than discovering some public-policy nirvana.
+
+We’ve never had that sort of critical mass. To substitute for it we’ve had to enlist a huge amount of off-shore capital – human and financial - to keep the lights on. On the one hand it has meant instant access to metropolitan culture and technological trends. (Look at New Zealand’s readiness to access and import new technology.) On the other hand, it has tended to lead to a cargo-cult mentality – and not just re technology, but ideas as well. Trends arrive late, swiftly, in exaggerated form and have a short half-life since they frequently don’t take root. There is not the human capital here to make them self-sustaining.
+
+Here are some of the tell-tale symptoms of an as yet incomplete nationhood:
+
+ A widespread insecurity about what others think of us and a search for applause and endorsement by visitors.
+
+ Conversely, a begrudging willingness to extend applause here at home as tall poppies are routinely put through the combine harvester of public opinion which routinely trashes emergent leaders and then bemoans the absence of ‘vision’.
+
+ A gossipy, claustrophobic, village scale approach to public commentary. New Zealand is a place where anonymity is impossible. Villages have their advantages but they struggle to rise above their parochialism to achieve the sort of sense of perspective needed in the global scheme of things. I have some sympathy for Christopher Dore’s recently expressed view that emigrating New Zealanders are, in some respects, running away from the burden of being New Zealanders. It’s a classic, small-country phenomenon.  
+Does this mean that small nations – i.e. small populations with sufficient common history and experience to ignite a self-sustaining community – aren't possible? Clearly not. There are plenty of small nations. But the most impressive examples that come readily to mind have usually been moulded by daunting odds and ghastly suppression.
+
+Take Estonia as a present-day example. There are only a million or so Estonians in Estonia. As of 1997, the diaspora numbered about 15 percent of the population. But the force of history has engendered a deep sense of identity. In that culture, song has been a source of continuity. They will take you to the stadium where the fracture from the Soviet Union started – the place where the national singing contest is held. A bit like the Sound of Music …
+
+But such people don’t pretend that they can exist as an island of uniqueness and differentness that is incomprehensible to the outside world. Rather, they need to secure themselves within a larger political and security community that can guarantee their on-going connectedness with the wider world. Hence Estonia’s myopic preoccupation with joining the EU.
+
+We’re not in that position. We’re not, thankfully, in the middle of a large, indefensible continental plain across which armies have been marching for centuries. On the contrary we’re splendidly isolated – and both our peoples (Anglo-Celtic and Polynesian) have a cultural history of exploiting physical isolation in different ways.
+
+It is isolation that is the key to understanding our national identity, or lack of it. It is the defining physical reality that one keeps coming back to. And the physical isolation has a way of seeping into the cultural and political veins of the population.
+
+I have recently, at the urging of a friend, been reading Samuel Butler’s Erewhon – an archetypal allegory of isolation with which to understand the New Zealand situation. Many nineteenth century settlers came to New Zealand to do what they hadn’t managed to achieve at home. Radicals and conservatives alike – Butler’s flesh and blood contemporaries – saw the opportunity to regenerate elements of British culture that had been sullied by what they saw as the greed, the vulgarity and the compromises of a society undergoing rapid social and economic transformation.
+
+In contrast to the grime and red-brick sprawl of so many mid-Victorian manufacturing cities, Canterbury must have seemed like another planet. It was. And some of the ideas that inspired the men who built Canterbury’s settler churches and public buildings were truly other-worldly. They were romantics, trying to regain the aesthetic vision of mediaevalism.
+
+New Zealand as a land of utopian visions keeps recurring. We convinced ourselves that we’d created the perfect welfare state – a social laboratory in the South Seas untainted by the prison colony origins of Australia. For a time in the mid-1980s we’d seen the promised land in a perfectly liberal, de-regulated market setting. I don’t belittle this tendency. It’s rather wonderful in some ways – and it’s made possible by our test-bed size and our isolation.
+
+But the reality is that those who try to live in utopias are condemned to dystopia. This is the extraordinarily contemporary message that a reading of Erewhon provides – a society where the ill get sent to prison out of eugenic craziness, criminals receive assiduous sympathy, where the rights of vegetables are promoted and there was a civil war to destroy all mechanical technology to prevent machines from evolving artificial intelligence.
+
+We have, in some ways, been Erewhonian. Whether it is the insulationism of the late 1930s or the intonings of post-colonial theory today, we are prey to capture by imported intellectual viruses that – like so many introduced pests and diseases – take hold with unnatural virulence. The high level of endemism that marks our national flora and fauna is replicated in some of the national pathologies we brood over ranging from relations with America to rugby defeats.
+
+The reality is that we’re small, we’re isolated and we haven’t a secure sense of nationhood. There are exciting elements, for sure. We can all cite movie, cultural, sporting and IT success stories. But the national fusion vessel hasn’t reached ignition point. Needless to say, we can’t go out and arrange a searing moment of near annihilation and national self-realisation. Nor would we wish for one. And given our tendency to self-absorption we should be sceptical about attempts to force feed the furnace with self-conscious myth-making.
+
+Much as I personally relish the arts feast that the Prime Minister has served up, her ambition to seed an authentic national consciousness through artistic expression seems to me problematic. There are elements of cargo-cult here – Ireland is often cited as the model. It’s true that W B Yeats in 1923 and George Bernard Shaw in 1925 took Nobel prizes in literature. James Joyce was unquestionably in the same league. Then Samuel Beckett took the prize in 1969 and Seamus Heany in 1995.
+
+But was that a result of government inspired cultural engineering? Interestingly, three were Irish or Anglo-Irish protestants, and Heaney is a UK citizen of Northern Ireland though Catholic. Shaw lived in England, Beckett in Paris. The common thread seems to have been protestant dislocation. We are confronting, in one form or another, an Irish literary diaspora. Could it be that it’s only when people can stand outside their local cultural hothouses that they can understand their cultural location. Certainly, Ireland provides no support for the notion that national identity is rooted in an act of cultural separation.
+
+This is a model of nationhood that seeks to emphasise difference. It relies on locating qualities of ethnic and other distinctiveness that often exclude rather than include. The result doesn’t win Nobel Prizes. It makes for incomprehensibility. It’s the sort of nation-forming theory that left the map of Europe in 1919 littered with small sovereign states and conferred the same tyranny, lock stock and barrel, on the African continent in the wake of de-colonisation.
+
+One of the problems some of our more self-conscious Pakeha nationalists have created for us is a turning away from our fluencies with the cultural centre many of us came from. What they dismiss as an out-dated attachment to the old world was (and still is) a real source of cultural rootedness and, more importantly, competition. Competing with the old centre has been a major source of hybrid vigour here. Trying to carve out our own little cultural canoe as though it owes nothing to the cultural riches of European civilisation just makes for a shallowness at the heart of our cultural identity.
+
+If we want to relate vigorously to the great emergent nations and peoples of our hemisphere – pre-eminently China – we will not do so on the basis of a thin, home-made cultural gruel. To be able to absorb and hybridise requires cultural depth and historical memory. Disowning – or, more accurately, forgetting - any of our cultural roots will make new exchanges vapid.
+
+At this year’s constitutional conference, Bill Oliver said we didn’t have a national identity despite endless search parties being despatched to find one. We shouldn’t be wasting any more time looking, he said. I think he’s right. And trying to invent one on a crisp blank sheet of paper is an act of oblivion.  
+Now before I propose a different way of coping with this predicament, you might be moved to observe that this is a distinctly Pakeha view – the anguished voice of a stranded, white colon. Aren’t Maori, you might ask, in a very different position? Indigenous, historically located and renascent.
+
+There’s some truth to that. Maori, or at least a fraction, can read an historically imprinted landscape of 40-odd (relatively short-lived) generations with a supporting mythology. Even so, much of it is a landscape of the mind that is particularly fragile. And they have been through the unavoidably traumatic experience of colonisation – social and cultural upheaval, diseases that decimated the population, land alienation and then landscape destruction – that left them strangers in their own homeland.
+
+It may upset some of you, but I can’t get excited about their experience being described as a holocaust. The enormity of the Jewish holocaust has made the use of the term a matter of questionable taste. And it’s not an accurate use of language. But we can be too pedantic. Let’s be honest – the reason Helen Clark has been so quick to stamp on the term is that she has felt the shock to the political ionosphere of Turia’s words colliding with the collective amnesia that lurks at the centre of European New Zealand consciousness. Pakeha New Zealand has the shakiest hold on the history of settlement here – and doesn’t want to know more.
+
+Frankly, I have little difficulty with what Tariana Turia has said on this score. Some of her other conclusions I react against much more sharply – but the essential truth of her assertion that Maori (like most colonised people) were disoriented, reduced and significantly dispossessed is incontrovertible.
+
+Having said that, we should not romanticise the position Maori found themselves in by the late eighteenth century. Their isolation from globalisation could not have been preserved. The technological gap was too large to have resisted outsiders. And in any case, like any adaptable people, they saw real advantages in engagement with Europeans.
+
+They were not a nation in the sense that I have been using the word. Like Pakeha after them, they were nautical settlers. And they had become isolated – maybe 200,000 people far from anywhere with a life expectancy unchanged for centuries exposed to climatic and ecological insecurity, not to mention a fiercely clan-based modus vivendi that was no stranger to violence.
+
+Colonisation, for all its ills and unilateralism, re-connected Maori with a much wider gene pool, the prospect of technological innovation and a way out of some of the cul de sacs that any Erewhonian people are prey to.
+
+There are some weird under-currents running around at the radical fringe. On the one hand, post-colonial theorists have imposed on Maori experience a critique of colonisation that denies their uniqueness. They were just another indigenous people fighting white vice. I’ve written quite a bit about this in upton-on-line this year. In my view, it’s time Maori re-claimed the history of European colonisation here from cargo-cult academic theory. The trauma and dislocation was matched by resilience and enterprise.
+
+On the other hand, claims are occasionally made about ethnic uniqueness that are at best romantic, and at worst ruinously separatist. I have already drawn attention to Bevan Tipene-Matua’s extraordinary claim (with respect to a recent ERMA decision), that “The Cartesian world-view is detached, it ignores indigenous links to the land. It is arrogant to say that a knowledge system that’s been around for 250 years is better than one that’s been around for 80,000 years”. If we are going to adopt those time scales, I would simply point out, with due humility, that we are all human. We are all descendants from primordial ancestors who, in the wake of the last Ice Age, fanned out across landscapes and archipelagos that were themselves in dynamic rebound from colossal climatic changes.
+
+The opportunistic colonisation of ecological niches has been the hallmark of our species over the last 10,000 years. Polynesians came out of Asia from Taiwan across the land bridges, shallow seas and, ultimately, oceanic expanses of the Pacific. Pakeha came from Europe as the Industrial Revolution gave rise to a demographic phenomenon that swept away the pre-modern world in north-western Europe. There was plenty of trauma, alienation and dispossession there too, not to mention the serial carnage that accompanied the rise of the modern nation state.
+
+If anyone is seriously proclaiming a hard-wired Maoriness that defies external appraisal, then they are truly suffering from Erewhonitis in an advanced form. People who are unique and impenetrable – autochthonous in the Greek – are also incomprehensible and unreachable. That is not what the historical record of Maori response to European contact discloses. And those who would seek to re-write it from the point of view of what they think should have happened (using the values of the year 2000) pose as much of a threat to our peaceful co-existence as those who want to deny what happened.
+
+New Zealand has witnessed the collision – and interaction – of two migrant peoples, both of them at the furthest reach of their geographical expansion. But the desire to retreat into cultural isolation is there for Maori and Pakeha alike. We share the same geographical and cultural space. The degree of hybridity that has resulted from a mixing of our two gene pools is remarkable – and it has been a real source of strength. But neither of us is numerous enough or connected enough to go it alone. Neither of us has evolved a modus vivendi that can be confidently described as amounting to the practice of nationhood – and both of us are at risk from turning in on ourselves.
+
+This is where the diaspora comes in. It is our insurance policy against isolation and Erewhonitis.
+
+And for that reason we should be sceptical about some of the recent wailings we’ve heard about young New Zealanders leaving in droves. I don’t doubt that some of the policy reversals of the last year have made people wonder whether we’re about to enter a time warp. But that’s only some elements in the Government. New Zealand as a whole isn’t – and it’s time we stopped spooking ourselves.
+
+The list of doubts that is frequently retailed is not new – it surfaces whenever the mood dips for one reason or another: we’re too small, our skill base is too shallow, our balance of payments shows a chronic reliance on external capital, we can’t hang on to people, the brain drain.
+
+This general sense of unease about our viability (which I freely admit I’ve echoed on occasions) is as much a commentary on a mindset as it is rooted in substance. In part, it’s a problem of being obsessed with the need to make a go of things within these borders.  
+It’s another case of equating the land area called New Zealand with the nation. Leaving aside the absurdity element in Jim Anderton asking people to come back to pay higher taxes, his sense of where our future lies is – in my view – misplaced.
+
+It is rooted in the small, self-contained nationalism model I’ve criticised. In a globalising world economy, the contribution to ‘home’ doesn’t have to be made here. There won’t be enough skills to achieve what we want if we think that our social and economic destiny is charted from within these shores alone. The same diagnosis can be applied to the balance of payments. To the extent that the deficit reflects foreign ownership, is it such a worrying thing? If we haven’t the skills to maximise the value of our assets, isn’t it a good thing to be relying on the skills and technology that foreign ownership can tap.
+
+(It seems to me that foreign ownership is only a worry if it is linked in some way to political power and is not contestable. That might be a very good reason for governments not to jump into bed with businesses since the xenophobic allegation of foreign control of the nation’s destiny is, ironically, much easier to make if the government has made itself beholden to business interests in one way or another.)
+
+Now there are those who would say that this view simply makes us just a branch line of an anonymous global economy, condemned to surrender anything distinctive about ourselves to distant corporate interests. I don’t buy that. It suggests that the people who live here – or who have lived here – don’t feel passionately about anything. It’s a view that stems from the embattled, inward-looking, ethnic nationalism that we see in places like Quebec.
+
+Of course there are passions that are local – the overwhelming sense of physical isolation and beauty in a world in which pollution and crowding seem to be ubiquitous. Over the last couple of years I’ve mused about our isolated, island status. It’s hard not to if you’ve been an Environment Minister pondering the forces we’ve unleashed amidst these last vestiges of Gondwanaland. These were the last big islands on the face of the planet to be reached by people. There’s a very special feeling about that – and an ecological crisis to deal with as well!
+
+But none of this stops us remaining fully connected to a world in which many borders, if they are not dissolving, are becoming increasingly permeable. What we need is an open, transversal sort of nationalism rooted explicitly in being a nation of colons that enjoys an intimate fluency with the metropolitan centre. The backwash of people – our diaspora - is all part of maintaining that fluency. And that can apply to Maori as well. Seven hundred years is not so long in the scheme of things. They’re global navigators with their own outposts and bridgeheads in Sydney, London and Los Angeles.
+
+If I said we should regard our diaspora as a lifeline, that would suggest the lifeboat model and that we’re in danger of drowning. So let’s think of them instead as the flesh and blood equivalent of a fibre optic network that is constantly firing ideas backwards and forwards, re-energising our cultural batteries, providing a constant source of hybrid vigour and, to put it bluntly, investment capital.
+
+We tend to assume that there will always be people who will want to invest here. At the best of times we can only capture the partial attention of those with the time, skills and money to think about investing here. Every time we go through an introverted patch – or the world economy catches cold – we go off their screens. But the diaspora doesn’t - for all those complex emotional reasons that see New Zealanders abroad spending so much time talking about this place.
+
+It doesn’t matter whether it's young kiwi chefs in London, winemakers in the Napa Valley or investment bankers in Beijing (and without trying hard I can think of individuals who fit those descriptions right now). They will be a part of our nation and mobilised in our cause as long as those who stay here don’t turn New Zealand into a place that is no longer comprehensible to them.
+
+Taking this view of New Zealand does have some implications for population and immigration. I do think we need to attract more people to live here – and I’m not convinced that a tortuously conceived points process is necessarily the way of guaranteeing a much better outcome than some basic language ability and a clean criminal record. Think what the Dutch have done for New Zealand – and how many would have survived our current immigration portcullis?
+
+But I don’t think we should be straining for a tidal wave of people. Volume is not necessarily the answer in the world as it is evolving. Living here is, amongst other things, a lifestyle choice for many of us whether we’ve been here just a few generations, or can relate a whakapapa back to the thirteenth century. Our very low population density is a defining element of our national consciousness. And it’s virtually unobtainable elsewhere in temperate, maritime latitudes. We should be mindful of preserving our physical living conditions since they are what make this place unique. Maintaining a highly engaged diaspora could be a far more effective way of maintaining openness and fluency than simply engineering a mass tide of immigrants.
+
+So what might we do to ensure that the open, transversal national model can flourish? It’s all about open minds and open borders. It’s about playing our part in international affairs and all the familiar things some of us have said about deepening further the Trans-Tasman relationship.
+
+But there are some other things we might consider. For instance, what sort of historical world view are we teaching in New Zealand? It still seems stuck in the Cold War era. The School Certificate prescription administers doses of:
+
+ the origins of the welfare state (a component almost a generation old),
+
+ a study of revolutionary leadership in the USSR and interwar China,
+
+ conflict in Ireland (1909-22), conflict in Palestine (but only until the 1967 Seven Days’ War),
+
+ New Zealand’s Search for Security (concluding in the climactic year of 1985 when David Lange declared Peace on the world), and
+
+ the development of race relations from 1912-80.
+
+What, you may well ask, has any of this to do with imparting a sense of nationhood in the year 2000, or our roots in late eighteenth and early nineteenth century thinking?
+
+In short, we should view our diaspora as part of a nation that is quite distinct from the physical landmass that generates our mental imagery. New Zealand is not only a great place to live. It is a huge source of mental and emotional capital for maybe another million of us beyond these shores.
+
+But if we are going to absorb what they can give us, those who for the time being stay here must resist the self-absorption and tribal nationalism that would have us turn in on ourselves. If we believe we are unique or that unique solutions apply in New Zealand, we are on the road to becoming incomprehensible not just to the world at large, but to parts of our own families and our friends who, by their very residence abroad, are proof that we are not.
+
+  
+END  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

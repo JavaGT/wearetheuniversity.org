@@ -1,0 +1,154 @@
+---
+slug: are-there-any-winners-under-a-socialist-govt
+title: "Are There Any Winners Under A Socialist Govt?"
+date: 2000-11-15
+source-url: https://www.scoop.co.nz/stories/PA0011/S00255/are-there-any-winners-under-a-socialist-govt.htm
+author: act-new-zealand
+---
+Are There Any Winners Under A Socialist Govt?
+=============================================
+
+**Wednesday, 15 November 2000, 11:42 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+\"Are There Any Winners Under A Socialist Government?"
+
+Wednesday 15th Nov 2000 Richard Prebble Speech
+
+Thank you for the invitation, and even more, thank you for the topic "Are there any winners under a socialist government?” The answer to this question is the reason I'm no longer a Labour voter.
+
+Under a socialist government the rich get richer and the poor miss out. That may seem strange given Labour’s good intentions, but as we know good intentions don’t always get you to the right place. Let me illustrate.
+
+The intention that everyone in New Zealand, regardless of their race, gender or background, should have the same opportunity to enjoy what this beautiful country has to offer, is wonderful. If by closing the gaps we mean that Maori have the same opportunity as non-Maori, how can you be against it?
+
+Unfortunately Labour’s good intention to close the gaps is failing. Already Maori and Pacific Islanders are the biggest losers from a Labour/Alliance government. The latest household survey that the coalition triumphs shows unemployment rising sharply among Maori and Pacific Islanders.
+
+The Labour Department predicts that raising the minimum wage will mean that 5,000 mainly young Polynesians won’t get offered that critically important first job.
+
+Around 50% of all Maori adults smoke, so it’s their taxes that are financing Labour’s winners. The cigarette taxes pay for the $80 million going to the arts, most to just three Wellington art programmes, Te Papa, the Orchestra and the Ballet. They are the winners under socialism. The average Maori household's buying power is over $10 a day less than it was a year ago. They are the losers.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Labour got elected claiming the gaps are growing wider. Dr Cullen said in the budget: “Unfortunately New Zealand has had faster growth in inequality than any other country in the developed world. That is shameful. In our country that inequality has had a unique and unfortunate dimension. There has been a growing disparity between the life chances of Maori and other New Zealanders.”
+
+A report from the government’s chief Social Scientist, Simon Chapple, shows, using Labour’s beloved household labour force survey, that the gaps between Maori and non-Maori in income, education and jobs actually closed in the 1990s. The Employment Contracts Act, open markets and choice in schooling all proved to be good for Maori. In the last 12 months, by those very same indicators – income, education and jobs – the gaps have widened.
+
+So who is winning? The rent seekers, the privilege holders, the fixers, the speculators and the white shoe brigade. Only their dress sense has changed from gold chains to necklaces with huge greenstone rocks around their necks, the size of which must have chiropractors rubbing their hands in glee!
+
+Re-regulation means that the middlemen make money out of people who need their help. Let me illustrate this with an example from a socialist country, Vietnam.
+
+When out of Parliament I joined the Board of McConnell International, the civil engineering company. We bid in a consortium and won the contract to build the New Zealand Embassy in Hanoi. The Embassy had to be built in time for Jim Bolger to open it.
+
+I contacted Foreign Affairs – “We need a letter immediately advising of the contract so we can get a building permit” I explained. “There will be no problem, the Embassy is on New Zealand land, so there is no need” said Foreign Affairs.
+
+“I don’t want to teach you your job” I said, “but this is Vietnam – everything needs a licence. The country is communist. It was ruled by the French and for 1,000 years by the Chinese – everything is in triplicate!”
+
+Foreign Affairs reluctantly gave me the letter and I took the next plane to Hanoi. I presented the application for the building permit personally. The application was a telephone book and we had to list everything, including the director’s parents names.
+
+I made a small speech about the friendship between New Zealand and Vietnam, name dropping that I was a previous Minister of Works over numerous cups of tea. The next day when I returned to my hotel the receptionist said there were officials from the Ministry of Building to see me. Two very worried civil servants said there was a problem with our application.
+
+“Where is McConnell’s licence to be a builder from the New Zealand government?” “In New Zealand we do not need a licence”. “There must be a mistranslation” said the Vietnamese.
+
+“Everyone must have a licence – no licence, no work!”
+
+“We do have membership of the Master Builders’ Association” I said. “Would that help?” “It might if we could have a copy", they said.
+
+I rang up and said – “don't ask me to explain, take down the copy of our Master Builders’ membership off the wall, copy it, get a notary public to witness it – that’s what notary publics are for, to witness papers for Vietnam – and DHL it to me because the Vietnamese government does not recognise faxes.”
+
+I presented it 24 hours later. “Could we have the original?” they asked. “They got it off the wall” I said. Overnight I'd worked out the next question – “Was the Master Builders’ Association licensed by the government?”
+
+With the socialists you must have an answer, no matter how silly. Years in Labour’s Caucus dealing with the loony left came to my help – “Yes, it’s called a Certificate of Incorporation,” I said.
+
+“Could they have a copy?” “Certainly.” I rang up – “don’t ask me to explain, get me a copy of the Master Builders’ Certificate of Incorporation, notarised and DHL it to me.” I duly presented it. “Could we have the original?", they asked.
+
+“We are members in good standing, but the Master Builders had to get this certificate out of archives. It’s dated 1908 and there is no way they will give us the original!"
+
+We got our building licence in eight days – a Vietnamese record. I know of foreign building firms still waiting after two years for permits.
+
+So, you see, middlemen are big winners from socialism. When governments introduce policies to grant privileges, then winning depends on working the system, and who you know. Values like hard work, thrift and personal responsibility are devalued.
+
+Who else is winning? When it comes to the government’s cornerstone policy – closing the gaps, if you already have a university education and speak Maori, you can write your own ticket. Simon Chapple has observed that educated Maori incomes are already higher than non-Maori.
+
+The government has given a part of the radio spectrum bandwidth to Maori. A new bureaucracy has been set up to administer it. Like the Maori fishing quota – there were more Maori commercially fishing before the quota was allocated to Maori than there are now. Ordinary Maori have not seen a snapper. There have been over 30 major court cases. All Labour (and National) have done is create a grievance industry.
+
+Those administering the bandwidths intend to be landlords and keep ‘clipping the ticket’. Lawyers and accountants give advice. Such rent seekers will be the winners. I doubt if an ordinary Maori will see a dollar of the possibly over $100 million that bandwidth is worth.
+
+\>From the choice of subjects being selected by the next generation of Maori leaders at Waikato University, it’s clear they believe the grievance industry offers the best career.
+
+Rent seekers, bureaucrats and trade union officials have been the winners from the government’s introduction of monopoly rights for trade unions in the Employment Relations Act.
+
+Already the government has appointed well paid officials, most with a trade union background, to the Employment Authority. Trade unions boast that their memberships are up. At an average annual membership fee of a week’s wages, unions have tens of millions of extra income.
+
+No doubt Labour and the Alliance, who outspent the centre-right last election, expect to be winners again thanks to massive union donations to their re-election war chests.
+
+At a time when devaluation has lowered the average household real spending power by a $100 a week, the government boasts that the trade unions are exercising restraint. CTU head Ross Wilson, states that unions are being restrained, not to help their membership but to help the government so that he and his officials can keep their privileges.
+
+Sir Roger Douglas says he has never seen a government subsidy that did not end up hurting those it was designed to help. The new employment law makes it harder to offer a job to those who are marginalised in our community.
+
+The new law gives great power to workers in key positions. As they can’t be replaced in a strike, employers are just rolling over and paying such workers, many of whom are already paid over $60,000 a year – such as young doctors – more and more money.
+
+This year the New Zealand dollar has devalued, not only further than at any time in our history, but further than any other country in the OECD.
+
+The kiwi dollar has dropped some 48 per cent. The big losers from this are ordinary kiwis on wages who can't hedge against such a movement. Most exporters have lost too.
+
+The government boasted that it had hedged at 41 cents (incidentally, that shows what Treasury thought of the new government). At 39 cents, government spending will be under pressure. For example, all imported medicines will cost more, and the defence force is already complaining that its budget is blown.
+
+Go and stay in London for a day and find out how poor we really are!
+
+So who is winning? Why, the rich of course, especially those who took their money out when the dollar was at 59 cents. When National made Winston Peters Treasurer, the smart money sold up and left. They have invested in the US share-market boom and doubled their money and now, vis-à-vis New Zealand, their money is worth another 50 per cent.
+
+As our share market languishes – as Telecom is worth $4 billion less than it was – the smart money is waiting to pounce. Once they are convinced that this government is gone, the money will flow back.
+
+Here's an example. Say you had an investment in Telecom shares. If you sold them and took your money out of New Zealand when the dollar was at 59 cents then invested it in a US share market mutual fund you will have doubled your money.
+
+Add to that New Zealand's 48% devaluation and it’s now worth 48 per cent more again. Now, if you bring back your original investment, you could buy back Telecom shares for just 25% of your original money.
+
+The rich are about to become even richer. There are a range of New Zealand companies that are very attractive buying to someone who has US or sterling funds.
+
+Helen Clark recently announced that a major purpose of her government was to redistribute income. The 18 per cent increase in income tax won’t do that. All the income tax increase has done is to re-establish tax planning as a profitable industry.
+
+Accountants have told me that they have not seen such aggressive tax planning since the days of 66 cent tax rates, and that not one of their clients is paying more tax than last year. If you are rich enough – tax has always been voluntary. The rich can choose when to receive income, whether in capital or not, or in what country. At 39 cents there are few volunteers.
+
+Of course, those on wages have no choice but to pay Labour’s income tax increase. The average New Zealander whose biggest asset is their house has also lost. Subsidised State house rentals make a new class of winners. We will go back to waiting lists and lobbying by MPs, where if you can work the system, you win. As Wellington Central MP for three years I had no more than a case a year of people wanting assistance to get State houses.
+
+When I was first elected over 20 years ago, I would get half a dozen people a week, wanting me to get them a State house. I would say – you are earning too much and your accommodation is too good. They would come back a month later with new wage slips, having turned down overtime, and saying that their brother-in-law and his six kids now shared the flat. On the points system they were now an urgent case.
+
+Of course once they got the State house, out went the brother-in-law and they took the overtime. The losers were those who could not work the system.
+
+As houses are worth what you can rent them for, subsidising state rents has lowered the sale value of the average three bedroom house. So Labour voters who have taken the initiative and bought their own modest family home have seen its value fall this year.
+
+Every generation we give the socialists three years in government. Every three years they show us how unfair socialism really is.
+
+The reason that I support free enterprise is that it creates more winners. Lower tax results in more investment. More investment results in more jobs. More jobs equals more winners. Those of us that can work the "system" will do well under any government. Indeed, the more complicated the system then in relative terms the better we will do.
+
+But if we care about the nation, then we must vote for freedom. If we believe in our fellow citizens and in their ability to do the remarkable, then we must vote for freedom to achieve the extraordinary.
+
+The history of the last century is the history of the failure of socialism.
+
+This is the age of the triumph of individual achievement personified by that liberating device, the internet. Let’s become the nation of winners we can be by voting for freedom.
+
+ENDS
+
+For more information visit ACT online at http://www.act.org.nz or contact the ACT Parliamentary Office at act@parliament.govt.nz.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

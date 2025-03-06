@@ -1,0 +1,96 @@
+---
+slug: treaty-of-waitangi-negotiations-and-settlements
+title: "Treaty of Waitangi – negotiations and settlements"
+date: 2005-08-04
+source-url: https://www.scoop.co.nz/stories/PA0508/S00126/treaty-of-waitangi-negotiations-and-settlements.htm
+author: new-zealand-labour-party
+---
+Treaty of Waitangi – negotiations and settlements
+=================================================
+
+**Thursday, 4 August 2005, 2:01 pm**  
+**Press Release: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+4 August 2005
+
+Treaty of Waitangi – negotiations and settlements
+
+Background
+
+The Treaty of Waitangi, signed in 1840, is an agreement between the British Crown and Maori. The Crown intended Maori to be treated fairly and honourably, particularly in the course of land transactions.
+
+Investigations over recent years have shown that historically the Crown’s actions were less than fair with confiscations and flawed purchase process. As a result of this Maori today possess only a small part of the land that they held in 1840. The loss of land was accompanied by the loss of access to resources and places of spiritual and cultural value.
+
+These historical events form the basis of the grievances of Maori that are being addressed through the Waitangi Tribunal and the direct negotiations process.
+
+Waitangi Tribunal
+
+The Waitangi Tribunal was established in 1975 by the Treaty of Waitangi Act 1975. It is a permanent commission of inquiry responsible for making recommendations on claims brought by Maori relating to actions or omissions of the Crown, which breach the promises made in the Treaty of Waitangi.
+
+Under the Treaty of Waitangi Act 1975 any Maori may make a claim to the Waitangi Tribunal. Once a claim is registered, claimant groups can seek negotiations with the Crown or may choose to have their claim heard by the Tribunal before beginning negotiations.
+
+The role of the Tribunal, set out in the Treaty of Waitangi Act 1975, includes inquiring into and making recommendations upon any claim properly submitted to the Tribunal, examining and reporting on any proposed legislation referred to the Tribunal by the House of Representatives or a Minister of the Crown, and making recommendations or determinations in respect of certain Crown forest land, railways land, State-owned enterprise land, and land transferred to educational institutions.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The Tribunal comprises up to 16 members, who are appointed by the Governor-General on the recommendation of the Minister of Maori Affairs, for their expertise in the matters that are likely to come before them. Approximately half the members are Maori and half are Pakeha.
+
+Office of Treaty Settlements (OTS)
+
+A claimant group wishing to enter negotiations must have a claim registered with the Waitangi Tribunal. Claimants initiate the settlement process by approaching either the Office of Treaty Settlements (OTS) or the Minister in Charge of Treaty of Waitangi Negotiations.
+
+OTS is part of the Ministry of Justice. Its staff are involved in: negotiating settlements of historical claims directly with claimant groups, under the guidance of Cabinet providing policy advice to the government on generic Treaty issues and individual claims overseeing the implementation of settlements acquiring, managing, transferring and disposal of Crown owned land for Treaty settlement purposes.
+
+Settlements A Treaty settlement is an agreement between the Crown and a Maori claimant group to settle all of that claimant group's historical claims against the Crown.
+
+Claimant groups are usually iwi that have a longstanding historical and cultural association with a particular area. Some very specific claims may result in agreements with smaller groups.
+
+Historical claims usually relate to actions or omissions by the Crown in relation to the claimant group during the 19th and early 20th centuries, but they may include such actions or omissions up to 21 September 1992. Claims based on Crown actions or omissions after this date are known as contemporary claims, and dealt with through separate processes.
+
+A Treaty settlement is usually made up of the following:
+
+Historical Account, Acknowledgements and Crown Apology The Historical Account provides an outline of historical events that are agreed between the Crown and the claimant group. The Acknowledgements provide the basis for the Crown Apology to the claimant group for the Crown’s actions or inactions.
+
+Cultural Redress Cultural redress provides claimant groups with a range of mechanisms that aim to: Safeguard the claimant group's rights and access to customary food-gathering sources. Provide opportunities for input into the management or control or ownership of sites, areas or customary resources on Crown-owned land with which the claimant group has traditional and cultural associations.
+
+Provide opportunities for developing future relationships with government departments in areas of importance to the claimant group. Facilitate the development of future relationships with other agencies, such as local bodies, that play significant roles in the area to which the claimant group has traditional and cultural associations.· Provide recognition of traditional place-names by facilitating name changes to sites, for example Aoraki/Mt Cook.
+
+Financial and Commercial Redress This is made up of an overall quantum or value in dollar terms agreed between the Crown and the claimant group in settlement of their historical claims against the Crown. The quantum may be taken in the form of cash or Crown-owned property or some combination of the two. The claimant group also may receive as part of the financial and commercial redress package a Right of First Refusal (RFR) to purchase certain Crown-owned property within a specified geographic area for a specified period of time.
+
+Deed of Settlement The settlement is expressed in detail in a document known as a Deed of Settlement. Legislation is required to fully implement the Deed of Settlement.
+
+Settlements are Final As part of the settlement, the claimant group accepts that the settlement is fair and final and settles all of the historical claims of the claimant group, whether they have been lodged at the Waitangi Tribunal or not.
+
+Both the Crown and the claimant group accept that it is not possible to fully compensate the claimant group for their grievances. Redress instead focuses on providing recognition of the claimant group’s historical grievances, on restoring the relationship between the claimant group and the Crown, and on contributing to a claimant group’s economic development.
+
+Crown Negotiating Principles The government has developed a set of six principles to compliment the Crown guidelines and to ensure that settlements are fair, durable, final and occur in a timely manner. Good faith negotiating towards a common goal. Restoration of the relationship between Crown and Maori. Just redress with each claim treated on its merits. Fairness between claims and consistency in the treatment of claimants groups. Transparency of process and information. Government-negotiated settlement process ensuring delivery of the agreed settlement.
+
+Progress to date There have been 12 settlements of claims of historical Treaty breaches, involving just over $670 million in financial redress. This figure includes the three settlements involving $170,000,000: Ngai Tahu, Waikato/Tainui and the fisheries settlement. On average, settlements take about 4 years from the Crown's recognition of a group's mandate to signing a Deed of Settlement.
+
+Once groups have their mandate recognised by the Crown, they have to agree Terms of Negotiation setting out the scope of negotiations and how they will be conducted. The next stage is an Agreement in Principle, then the negotiators and the Crown finalise a Deed of Settlement before it is put to the claimant community for ratification. Once the claimant community ratifies the Deed, it can then be signed.
+
+Each stage requires time, effort and commitment from both parties, however it is vitally important that we get it each stage right so that settlements are final. Ngati Awa took seven years. Waikato/Tainui and Ngai Tahu both took about six years to reach a settlement. Under Labour we've reduced the average to about four years. This is an important accomplishment.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

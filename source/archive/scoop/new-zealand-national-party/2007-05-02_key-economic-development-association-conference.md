@@ -1,0 +1,288 @@
+---
+slug: key-economic-development-association-conference
+title: "Key: Economic Development Association Conference"
+date: 2007-05-02
+source-url: https://www.scoop.co.nz/stories/PA0705/S00054/key-economic-development-association-conference.htm
+author: new-zealand-national-party
+---
+Key: Economic Development Association Conference
+================================================
+
+**Wednesday, 2 May 2007, 1:21 pm**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+John Key MP  
+Leader of the National Party
+
+2 May 2007
+
+Speech to  
+Economic Development Association  
+of NZ Conference
+
+Christchurch Convention Centre
+
+Thank you for inviting me to speak at your conference.
+
+This afternoon I am going to talk about five concrete things National will do to advance economic development in New Zealand.
+
+They are the following:
+
+\- We will give a sound and consistent strategic direction to the economic development sector.
+
+\- We will trust the regions to play their part without constant government interference.
+
+\- We will clear up the clutter of economic development programmes we have at the moment.
+
+\- We will focus more strongly on export market assistance, and less on the domestic market.
+
+\- We will focus more strongly on providing information, advice and introductions, and less on providing financial assistance.
+
+  
+I’m going to talk about each of these points in more detail.
+
+But first I want to put this whole issue in context. Why is economic development important?
+
+Since economic development is, quite plainly, about developing the economy, the reason it is important depends on an even more fundamental question: “Why is the economy important?”
+
+Why should we be striving to become wealthier as a country, to grow successful businesses, and to increase our global connections?
+
+One answer is that addressing New Zealand’s social and environmental problems has a lot to do with how much money the government has to spend.
+
+And how much money the government has to spend depends on how well the economy is performing.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+At a national level, if we can generate more income in the future we have more ability, collectively, to do things – to improve our public services and to strengthen our national institutions.
+
+That’s a pretty standard response – any Labour minister who talked to you on this topic would give you the same spiel.
+
+It gives the distinct impression, however, that the economy is simply a cash cow – a source of tax revenue from which to indulge ministers’ spending projects.
+
+In the National Party we think there are many more reasons a strong economy is important for New Zealanders. Here are a few of them.
+
+First, we want individual New Zealanders and their families to be better off.
+
+Having more cash in the hand, or money in the bank, is not all that matters in terms of being better off. However, it is an important ingredient.
+
+So, rather than being play money for government ministers, National holds the view that more of the dividend from increased economic performance should go to individual New Zealanders and their families.
+
+I want people to have a decent-enough wage packet to have choices in their lives and a sense of opportunity. I want people to do better for themselves and their families than just getting by. I want people to have enough money to retire with a degree of comfort and security.
+
+Secondly, we want to improve the relative standing of New Zealand among the world’s economies.
+
+Relative differences matter. Skilled people will move to countries which can pay them more. Businesses will locate to where conditions are favourable to them. Investors will put their money where it can earn a good return.
+
+I don’t want all our best and brightest kids going off to the United States or, more likely, to Australia.
+
+I want New Zealand to be a place where good doctors want to practise, and where large companies want to be located.
+
+And while some New Zealanders will always drift away, lured by the bright lights of a bigger market, the trick must be to ensure that our country doesn’t end up as a giant polytech supplying Australia with skilled labour.
+
+The third reason for being concerned about our economic performance is a bit more nebulous, but no less important.
+
+I think we should be ambitious for New Zealand. We shouldn’t settle for small-island mediocrity. We should aspire to great things.
+
+I worked for a time in Ireland, when that country was growing from one of the poorest economic performers in the OECD to one of the very best.
+
+The great thing about being in Ireland at that time wasn’t just that public services were better funded, or that people had more money in their pockets, or that young Irish people came back home to live. It was more than that.
+
+The whole mood and climate and enthusiasm of the country changed with increased economic fortunes. There’s no reason why we can’t have that in New Zealand as well.
+
+We have some very good economic fundamentals but we are seriously underperforming as a country.
+
+We are used to thinking of ourselves as a small country punching above its weight – in the first division of the world’s economies, if you like.
+
+But if truth be told, we are not in the first division of developed countries. We aren’t even in the second division.
+
+Within the OECD, our economy is a third-division economy, and our nearest rivals are countries like Greece, Portugal and the Czech Republic.
+
+So, we have to pick up our game. And we have to get cracking.
+
+Part of the answer is to become more globally connected. No doubt you have been talking about this in great detail over the past couple of days. In short, we aren’t going to get rich selling to 4 million people. We need to hook into the other 6 billion, 584 million people in the world who might want to buy our products.
+
+We face some challenges in doing this. Most obviously, we are a small country and a long way from the world’s major markets.
+
+The fact that we are small means that New Zealand firms face a big jump from selling domestically to selling internationally.
+
+It’s not like in Australia, say, where your business can build itself up to a reasonable size by selling domestically. And if you get ambitions beyond New South Wales, you might think about expanding into Victoria or Queensland.
+
+Also, the fact that we are a long way from the world’s major markets means not just that goods take a long time to travel by sea or air, but that investigating markets, setting up in business, and overseeing operations is expensive and time consuming.
+
+The good news, though, is that the world is getting smaller. A business in New Zealand is a mere click of the mouse away from a billion other Internet users. And world growth is happening on our side of the globe for a change, in Asia and around the Pacific Rim.
+
+And for all the difficulties New Zealanders face in exporting, we have seen some great exporting successes in recent years: Rakon, 42 Below, and Navman, to name just a few.
+
+I mention individual companies here because I am conscious that we often talk about the economy in a very abstract sense.
+
+What we should always remember is that the productive side of our economy is made up of a whole lot of individual businesses, of all different sizes, and in all corners of the country.
+
+And while we can talk about productivity in an abstract sense, what it comes down to is how all these individual businesses operate. It is about what Joe’s engineering firm chooses to produce, how it produces it, using what pieces of machinery, and with what sort of skilled labour.
+
+That’s where economic development comes in. Economic development is involved with individual businesses as they start up, expand, invest in their staff, export, and relocate.
+
+Economic development takes a business-by-business view. It looks at the trees while other economists are looking at vast forests.
+
+To grow New Zealand’s economy, to make it into the first division, we must improve the productivity of the individual businesses that make up our economy, and we must grow the skills of the workforce.
+
+There’s no magic in this. It requires a clear and focused vision, realistic and attainable goals, well thought out actions to achieve these goals, active monitoring of progress — and a lot of hard work.
+
+Economic development, as Trevor Mallard is slowly grasping, must be more than grandstanding — or building grandstands.
+
+This is difficult stuff, and I am the first to acknowledge it. If it was easy, markets would operate unaided, they would seek out and identify the new economic opportunities, and maximise the returns from such opportunities.
+
+They don’t always do that, and consequently economic development involves operating in areas where there are unclear signals and a high risk of failure.
+
+You all have a hard job. National wants to help you out.
+
+At the beginning of this speech I told you five things National will do to advance economic development in New Zealand.
+
+  
+1\. Strategic direction
+
+The first one is this. We are going to give a sound and consistent strategic direction to the economic development sector.
+
+National wants a much stronger focus on what is effective. To get that focus we need to be much clearer about what we’re trying to achieve through the Government’s programmes and how they contribute to meeting the broad challenges I outlined earlier.
+
+What we’ve had over the past few years has been all over the show.
+
+First we had the Knowledge Wave. Then we had the Growth and Innovation Framework. Then we had the Economic Transformation Agenda.
+
+Now the Prime Minister has dropped all talk of economic transformation and simply talks about “sustainability”.
+
+That kind of changing landscape makes it awfully difficult for those of you who are trying to align your own strategies and action plans with those of the Government.
+
+Meanwhile, we have other Government strategies which cut right across those in the economic development sphere.
+
+For example, the Government’s stated goal of New Zealand becoming carbon neutral will have enormous effects on economic development – infinitely greater than any programme coming out of NZTE – but none of that will ever be spelled out to you in an economic development document.
+
+Over the past few years we have also seen a shocking number of ad-hoc decisions about economic development, not linked to any strategy or overall plan of action, but at the discretion of the minister, who is always keen to play politics.
+
+  
+2\. Trust the regions to do their job
+
+The second thing National is going to do is to give the regions the room, and the money, to work out what is best for their own areas, and as far as possible we are going to let them do this without central government meddling.
+
+National’s economic development team has been going around the country meeting many of the Economic Development Agencies. We have certainly appreciated the time you have given us, and we applaud your hard work.
+
+We know that revitalising regional economies isn’t something that can be done by decree from Wellington.
+
+We know that each region and each area of the country is different. What’s good for Southland, and what works in Southland, is different from the West Coast, from Taranaki, and from the Manawatu.
+
+Local people, and the local organisations they represent, are the most directly affected, the best informed about their area’s strengths and advantages, and the best placed to deal with any consequences.
+
+What has been happening over the past few years, however, is that central government agencies have been getting more and more involved in regional development.
+
+There is a point at which more and more liaising and consulting and watching over people’s shoulders stops being helpful and starts getting in the way. In my view, we have well and truly reached that point.
+
+So, while National is going to continue to provide funding for a regional economic development structure, and to facilitate regional projects, we are not going to constantly pester the regions with visits from Wellington.
+
+We are also not going to politicise decision-making around regional initiatives. I think it is a big step backwards when Cabinet starts deciding which initiatives will be funded, rather than NZTE. If you don’t have a front bench minister from your region, or you’re not in a marginal seat, then good luck.
+
+  
+3\. Clear up the clutter of programmes
+
+Thirdly, we are going to clear up the clutter of economic development programmes which currently exist.
+
+There are currently myriad programmes funded by a host of different government agencies.
+
+Some of these programmes are effective but some aren’t. Some of these programmes reinforce each other, some simply duplicate each other. Some are well thought out; others are simply hand-outs.
+
+Even when they’re good programmes, they’re often too small to make a meaningful difference. Between NZTE, MSD, MED, FoRST, WINZ, and TPK, we have too many programmes, delivered by too many providers.
+
+National got hold of some Treasury papers last year and this is what they had to say about economic development programmes: “The approach to date has been experimental and eclectic in the face of uncertainty about the role for the government and the most effective solution.”
+
+As my colleague Katherine Rich said at the time, “eclectic and experimental” might be a great way of describing a CD collection, but it is a damning way to describe a collection of government programmes.
+
+We think the investment on behalf of taxpayers should be deliberate and considered, because we are talking about hundreds of millions of dollars of government spending.
+
+Trevor Mallard’s recent expenditure review did not result in any significant streamlining of programmes. We don’t believe this review was thorough enough or comprehensive enough or bold enough.
+
+National is therefore going to undertake a full and proper review of the current economic development programmes. Our expectation is that this will result in government departments doing fewer things, but doing them better.
+
+  
+4\. Focus on export market assistance
+
+My fourth point is that National is going to focus more strongly on exporting.
+
+We want to re-orient NZTE’s programmes more towards export market assistance, and place relatively less emphasis on domestic market assistance.
+
+In New Zealand we have plenty of small to medium-sized, domestically oriented businesses. Where there is a problem is in getting these businesses to export and grow bigger.
+
+Going global is a big hurdle for New Zealand firms. Because we are located in a somewhat out-of-the-way spot on the globe, the fixed costs of exporting are likely to be higher than for most other economies.
+
+To successfully bear these higher costs suggests that our exporting firms should ideally be larger than their equivalents in less-remote countries. In fact, they are generally smaller, simply because of New Zealand’s small home market.
+
+There is a clear role for the government to help encourage and facilitate increased exporting. For a start, there is a wealth of evidence that while firms face high costs in going global, they don’t reap all the wider benefits.
+
+More importantly to my mind, the cost of obtaining information about overseas markets – and at times the lack of such information in a form New Zealand businesses can use – leads many firms to underestimate its value, or to decide it is just not worth the hassle.
+
+  
+5\. Focus on advice rather than cash
+
+That leads me to my fifth point. National wants to focus more strongly on providing practical information, advice, market intelligence and introductions. We want to have less of a focus on simply providing cash grants and other forms of financial assistance.
+
+From all around the country, businesses are telling us they want advice and mentoring from experienced people who have been there and done that; people who have had successes and have made stuff-ups; people who have contacts and connections. In their opinion, that is what makes a difference.
+
+The incubator programmes are good examples of this in practice, including a very impressive incubator programme here in Christchurch. These programmes are supported in part by the government, and appear to be doing a good job in helping to grow early-stage businesses.
+
+I also want export assistance to focus mainly on the provision of advice and introductions, rather than the provision of cash. National, therefore, wants NZTE to put more of its export market assistance into three areas of its operations.
+
+First, providing access to information and advice to New Zealand businesses looking to establish a presence overseas.
+
+Secondly, strengthening the social networks which underpin international trade, and acting as a trusted intermediary to help individual businesses gain access to key contact networks.
+
+Thirdly, facilitating collaboration amongst businesses, enabling them to work together to overcome barriers and develop potential trade opportunities.
+
+In general, I think that is a smarter and more effective use of resources than giving businesses a cash grant. Cash grants subsidise firms to do a particular activity without regard to whether that activity actually produces results.
+
+A good example of what I want to encourage is NZTE’s Beachheads programme. This is a very promising programme which tries to do exactly what I have just indicated.
+
+In contrast, what I think is almost the least effective form of business assistance for exporting is in fact the one which is going to be announced in the Budget in a couple of weeks time – and that is tax breaks for market development.
+
+These tax breaks will be based on the current Market Development Assistance Scheme, except that firms don’t have to apply for them, the only scrutiny is from IRD, and the funding is essentially open ended.
+
+So, while we have an excellent Beachheads programmes which rolls along on just $3 million a year, the Government is going to massively increase a grant scheme by upwards of $100 million – on top of a $20 million increase in the last Budget – and we don’t even know this grant scheme is working because it was not evaluated last year in any of Trevor Mallard’s reviews! All I can say is this – go figure.
+
+I want to conclude by saying this: your expertise as economic development professionals is important because growing businesses is important, because growing our regions is important, because growing our global presence is important, and because growing the economy is important.
+
+National wants to get behind you to do this in the most effective way, by concentrating on what works and what is most effective.
+
+Our five policy planks are these:
+
+\- We will give a sound and consistent strategic direction to the economic development sector.
+
+\- We will trust the regions to play their part without constant government interference.
+
+\- We will clear up the clutter of economic development programmes we have at the moment.
+
+\- We will focus more strongly on export market assistance, and less on the domestic market, and
+
+\- We will focus more strongly on providing information, advice and introductions, and less on providing financial assistance.
+
+  
+We have a clear view of where we are going in the sphere of economic development and we want you to have a clear view as well.
+
+Conferences are an important part of developing these views and I wish you well over the next couple of days.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

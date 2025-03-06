@@ -1,0 +1,278 @@
+---
+slug: john-key-speech-to-southern-regional-conference
+title: "John Key: Speech To Southern Regional Conference"
+date: 2008-05-11
+source-url: https://www.scoop.co.nz/stories/PA0805/S00175/john-key-speech-to-southern-regional-conference.htm
+author: new-zealand-national-party
+---
+John Key: Speech To Southern Regional Conference
+================================================
+
+**Sunday, 11 May 2008, 12:08 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+  
+John Key MP
+
+National Party Leader
+
+10 May 2008
+
+Speech to the National Party
+
+Southern Regional Conference
+
+Dunedin
+
+Thank you for your welcome.  It’s always great to be in the southern region. 
+
+I’m pleased today to be kicking off the National Party’s election-year series of regional conferences. These conferences are a wonderful opportunity to bring our members, MPs, and candidates together. It’s good to feel the election-year buzz in the air. That’s a buzz born of excitement but also, I hope, a sense of the size of the task ahead of us. 
+
+2008 represents a huge opportunity for the National Party, but more importantly it’s a huge opportunity for New Zealand.
+
+As I travel up and down the country, from places like Invercargill to the suburbs of Auckland, from schools to small businesses, from public meetings to marae, I am hearing a consistent message from our fellow New Zealanders: They’re ready for change. 
+
+They’re under financial stress and they’re finding it hard to balance the household budget.   Not just lower-income households, but right across the board.
+
+They’re tired of this Labour Government and they sense that Labour is simply tired, distracted, and out of ideas.
+
+New Zealanders are looking for a government that puts their needs first and that can give them real hope for the future of this country. They want a government that is thinking about how to make the most out of tomorrow, not how to cover up the mistakes of yesterday. They’re looking for fresh leadership, with fresh ideas, that is focused on tackling the problems they increasingly confront in their everyday lives.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+National’s task over the coming months is to prove to Kiwis that we are ready to form the government they hope for and deserve.
+
+There is no doubt in my mind that our MPs and our candidates are ready.    We have the ideas.  We have the determination.  We have the energy.  We have the vision.  And we’re hungry for the opportunity to give this country the fresh leadership it so badly needs.
+
+We’re going to campaign hard and we’ll be relying on your help.
+
+  
+Acknowledgments
+
+Each and every National Party member, volunteer, and supporter is needed to make this year’s campaign a success.  So let me take this chance to thank all of those who will play a part in ensuring that election 08 delivers Kiwis the positive change they deserve.  Your contributions are essential and I am very grateful for your efforts.
+
+I’d like to express my particular thanks to National Party President Judy Kirk.   Judy works tirelessly for this party and I am hugely appreciative of the experience and energy she brings to our team.
+
+I’d also like to thank Southern Regional Chair Kate Hazlett. And, of course, our National Party Members of Parliament. Our caucus is in fighting form.  I’m privileged to be leading a team of men and women with talent, determination, and a real understanding of the communities they’re in Parliament to serve.
+
+I couldn’t ask for a better deputy and finance spokesman than Bill English.  Bill’s loyalty to this party, to his electorate, and to this country is unquestionable.  I rely on him not only for his experience but for his friendship as well. Thank you, Bill.
+
+Let me also thank the other members of the southern regional team. Eric Roy in Invercargill. Jacqui Dean formerly in Otago and now in the new Waitaki seat. And of course Dunedin’s Katherine Rich.
+
+Katherine has made a huge contribution to the National Party caucus and to the New Zealand Parliament as a whole.  I have been privileged to work alongside her, and her presence in our caucus will be missed.
+
+Though I am sad to see Katherine go, I know you all share my admiration for her selfless commitment to her family.  I’m sure Katherine will continue to contribute to public life and I look forward to watching her career continue outside Parliament.   Thank you for all your work, Katherine.
+
+Finally, let me wish Michael Woodhouse and Conway Powell, our new Dunedin candidates, the best of luck for their campaigns.  We have a big challenge to grow the Party Vote substantially in Dunedin, and Michael and Conway are leading that challenge.
+
+The case for change: Kiwis are hurting and Labour has no solutions
+
+Let’s be clear about what we’re all campaigning for this year.  We’re campaigning to make Kiwis’ lives better.
+
+By and large, New Zealand is a great place to live, work, and raise a family.    But right now, thanks to Labour, everyday Kiwis are really hurting. The past nine years have been a story of lost opportunities.  Labour has failed to turn the years of good economic weather into increased financial security for Kiwi families.
+
+Instead, in the past few years, the average Kiwi family has gone from having a little cash to spare at the end of each fortnight, to being further in the red each fortnight.  But don’t worry, says Labour, the Government still has surplus cash to spare for an election-year spend-up. 
+
+It’s playing petty politics while families are trying to scrape together the money to pay the power bill.
+
+Labour should have used the good times to lock in real improvements in our economy, to cut tax, to improve economic productivity, to build effective public services.  If it had done that, Kiwis wouldn’t be feeling the pinch so badly now. 
+
+Instead, Labour has seriously mismanaged the economy.  The results of its failure are everywhere to be seen.  Helen Clark and Michael Cullen have had almost nine years to deliver financial security to Kiwis and this is the result:
+
+Interest rates have doubled.  They’re now the second highest in the developed world.  
+The largest quarterly loss of jobs since 1989.  
+43,000 Kiwis leaving for Australia every year – a 20-year high.  
+Households going deeper into debt just to meet the basic costs of living.  Total household debt has more than doubled but Michael Cullen’s surplus just keeps growing.  As does the Wellington bureaucracy.  
+After-tax wages falling further and further behind those in Australia.  
+Aussies are promised yet another tax cut and Kiwis are told to wait longer – for less.  
+Public services are under-performing. Doctors are striking.  More kids are playing hooky.  Greenhouse gas emissions are up. Violent crime is up.  
+And, to top it all off, the economy is slowing dramatically.
+
+Those are the facts of Labour’s record. Helen Clark and Michael Cullen can dream up as many excuses as they like, but the results of their economic management speak louder than their rhetoric ever will.
+
+If this is what Labour can deliver after eight years of good global economic conditions, then why should voters trust it to turn things around in the bad times? We don’t know yet just how difficult New Zealand’s economic situation will get, but we do know that Labour can’t be trusted to fix it. 
+
+While Clark and Cullen will desperately try to make amends in the coming Budget, the truth is there is nothing they can do that could possibly excuse them for the mess they’ve already created.
+
+Committing around a billion dollars to buy back the trains won’t solve it.  
+Hiring hundreds of new foreign affairs bureaucrats won’t solve it.  
+A screw-the-scrum Electoral Finance Act won’t solve it.
+
+None of those things will do anything to help families afford the groceries each week, improve after-tax incomes, or stop the flood of Kiwis leaving for Australia.
+
+And, a last-minute election-year tax-cut won’t solve it either.  It’s too late and it’s not enough. 
+
+If New Zealanders had that money last year or the year before, they could have paid down more of their mortgage, wiped their credit card debt, or saved for a house deposit.  But Labour has been asleep at the economic wheel, blinded by the ideological belief that it knows best how to spend your money.
+
+The truth is it’s still blinded by that ideological belief.  Helen Clark has already hinted that she disapproves of the tax cuts a Labor Government plans to deliver in Australia. 
+
+Next week, Helen Clark won’t be in Parliament to answer questions.  But maybe she’ll be good enough to answer these questions before Parliament resumes.
+
+Does she really believe Kiwis don’t deserve as big a tax cut as the Australians are being promised?  
+Is she really not prepared to rein in wasteful government spending in order to deliver Kiwis the financial relief they so desperately need?  
+Is she really going to stand by while the gap between wages in New Zealand and Australia gets bigger, and allow a further 43,000 Kiwis to jump the ditch?
+
+I await Helen Clark’s answers with interest. But I’m not expecting them anytime soon. 
+
+New Zealanders can’t afford another three years of a distracted Labour Government. 
+
+We need a Government that is focused on the big economic challenges our country is facing.  We need a Government that has a serious, considered plan for delivering financial security to New Zealanders. That’s what National has and that’s what we will deliver.
+
+National’s Economic Plan
+
+National knows that urgent action is needed to ease the financial burden currently suffocating Kiwi households.
+
+Our economic plan isn’t a short-term set of Band-aid solutions.  Our economic plan focuses on the long-term needs of New Zealand.  In good times and in bad, National will be resolutely focused on strengthening our economy and delivering better wages and living conditions to New Zealanders. 
+
+National understands that if New Zealand is to meet the challenges of an increasingly competitive world then we must make a step change.  We must make a step change to deliver our children and grandchildren the wages and living conditions they have a right to expect.
+
+Today I’m going to spend some time outlining our five-point economic plan and how it will differ from Labour’s approach.
+
+National will deliver an ongoing programme of personal tax cuts. 
+
+Fundamentally, National believes in the growth-enhancing power of tax cuts.  Labour does not. 
+
+Under Helen Clark and Labour, hardworking New Zealanders who are striving to get ahead and create more security for themselves and their families have had to beg for the tax relief they deserve.  Year after year, Michael Cullen has told New Zealand workers that he needs their money more than they do. 
+
+Labour promised a minor tax cut before the 2005 election then cancelled it afterwards because taxpayers weren’t grateful enough.  Now, after arguing against significant personal tax cuts for nearly 10 years, Labour has magically decided they’re a good idea.
+
+Michael Cullen and Helen Clark expect us all to be grateful for this change of heart.  And they expect us to believe they won’t revert to type after the coming election.  The reality is, you can’t trust Labour on tax.  If they can dream up another new way to spend your money, your tax cuts will disappear again.
+
+There is only one party that has consistently called for tax cuts and that can be trusted on this key issue – the National Party.
+
+2.      National will take a disciplined approach to government spending, so that interest rates track down, not up.
+
+Under Labour, interest rates have doubled.   This has significantly tightened family budgets as an ever-greater portion of their wages has gone towards mortgage payments.
+
+While families have been tightening their belts, the Government has been indulging in record-beating spend-ups.  That might not be so bad if there was something to show for it.  But Labour has failed to improve the productivity of the government sectors they’ve been pumping cash into.  The result has been massive pressure on inflation and interest rates.
+
+National will be as careful with your taxes as you are with your household budget.  The difference between our approach and Labour’s is that we don’t think simplistic spending increases are the only way to improve public services.  Efficiency and fresh thinking are just as important, and that is what National will bring.
+
+3.      We will stop the massive rise in head office bureaucracy that Labour has encouraged, and we will deal with the regulatory and compliance issues that smother Kiwi businesses and families.
+
+National will ensure that the focus of the public service is on serving the public and we will stop any further growth in the number of head office bureaucrats. 
+
+Helen Clark’s and her ministers’ stock answer to social problems is to employ more and more bureaucrats in Wellington to tell us what we already know. 
+
+Under my leadership, additional public spending will be focused on frontline services and resources like those in our schools, our hospitals, and the prison system. National will ensure Kiwis come first, not bureaucrats.
+
+4.      National will have an unwavering focus on improving education standards.
+
+The key to a productive economy is a highly skilled workforce.  So it’s not good enough that one in five Kiwis leave school without the literacy and numeracy skills they need to succeed.
+
+National will concentrate on equipping young New Zealanders for a 21st century economy by focusing our education system on academic standards and achievement.  We will implement a nationwide set of literacy and numeracy standards, and we will ensure schools are transparent about how well students are doing when compared to these standards.
+
+5.      Finally, National will invest in the infrastructure this country desperately needs to grow.
+
+Over the past several years we’ve had a severe infrastructure deficit in New Zealand.  We have ridiculous traffic jams all over Auckland and in other parts of the country, and yearly concerns about whether the lights will be turned off.
+
+The availability of affordable broadband Internet services has been severely limited, especially in regions like this one.
+
+This nationwide infrastructure deficit has severely constrained economic productivity and growth.  And Labour has been way too slow to deal with it. National will move much faster to repair this deficit, using public-private partnerships in areas like transport, communications, energy, and scientific research. 
+
+We will also act to meet the changing infrastructure needs of New Zealand’s future.   As leader of the National Party, I have considered carefully what it is that New Zealand needs to future-proof our economy and maintain an edge in the modern world.
+
+That is, what we need to do to draw our trading partners closer, to put Kiwis at the forefront of innovation, and to enhance the way we communicate and do business.
+
+To my mind, one of the solutions already exists: we need ultra-fast broadband services.  If dial-up Internet could deliver Trade-me, just imagine what broadband 100 times as fast as that could deliver! So last month I was very pleased to announce National’s fibre-to-the-home ultra-fast broadband plan.
+
+National will invest up to $1.5 billion to accelerate the roll-out of ultra-fast fibre to the homes of 75% of New Zealanders.  In the first six years, priority will be given to business premises, schools, health facilities, and the first tranche of homes.
+
+The investment will be made alongside additional private sector investment and will be subject to a series of principles, including :
+
+Ensuring we do not end up lining the pockets of incumbent industry players.  
+Ensuring the investment does not see already-planned investments cut back.  
+Ensuring the fibre network is open access to allow competition, and  
+Ensuring increased broadband services for consumers.
+
+National will also take steps to accelerate the roll-out of high-speed broadband services to rural and remote areas.  As a first step, we will double the size of the Broadband Challenge Fund, and give it the primary focus of providing fast broadband solutions for remote and rural communities.
+
+National’s broadband plan will be a growth-enhancing investment that will help New Zealand take a step up.  It will provide positive returns to the economy as a whole, which in turn will benefit all New Zealanders.
+
+Independent experts estimate the benefits of a plan like ours will total between $2.7 billion and $4.4 billion a year to New Zealand. 
+
+This broadband plan vividly illustrates just how different National’s investment approach will be from Labour’s.  While we will invest in the technology that will dominate the next century, Labour has chosen to invest in the technology of 150 years ago, in the form of a train set – which was already there.  But that’s okay, Toll’s shareholders are really grateful to New Zealand taxpayers for lining their pockets. 
+
+National’s infrastructure goals, like all the elements of our economic plan, are focused on future-proofing the economy.  We are ambitious for New Zealand and we are focused on the things we need to secure our future prosperity.
+
+The Emissions Trading Scheme
+
+In realising those ambitions, National will be careful to balance our economic opportunities with our environmental responsibilities.
+
+At this Regional Conference last year I spoke of the important role that a clean green environmental brand will play in New Zealand’s future. There’s no doubt that the world and its consumers are becoming more and more aware of environmental issues, carbon footprints, and the reality of global warming.
+
+As a responsible international citizen, New Zealand must do its best to reduce greenhouse-gas emissions.  We need sound, practical environmental policies.   What we don’t need is more inflated rhetoric of the type promoted by Helen Clark.
+
+Just 12 months ago, she said her goal was for New Zealand to be ‘carbon neutral’.  Despite her assurances that this remains the case, last week the Government quietly admitted that New Zealand’s Kyoto liability now sits at half a billion dollars or more than a billion dollars – depending on which day of the week it is.   Far from heading toward carbon neutrality, emissions have gone up every year Labour has been in government
+
+Labour’s programmes – such as the negotiated greenhouse agreements, animal emissions levy, carbon tax, and solar water heating initiative – have all turned to custard. So, it’s little wonder that National is sceptical about Labour’s proposed emissions trading scheme.
+
+Though National supports an emissions trading scheme in principle, we have reservations about the timing of Labour’s legislation and the effect it will have on households in its current form.  We’re also unsure about Labour’s real intentions with this legislation, and its back-track in recent days has increased that uncertainty. 
+
+Just last week, Labour announced it would not be implementing a proposed increase in the petrol tax.  Despite this, Labour is still forging ahead with regional petrol tax legislation and is blithely expecting Kiwis to trust them not to use it.
+
+The simple reality here is that just as you can’t trust Labour on tax, you can’t trust it on climate change, either. 
+
+National wants to build consensus on climate change issues, and ensure that the wider economy and the financial security of Kiwi families aren’t sacrificed in pursuit of a poorly thought-out emissions trading scheme.
+
+Conclusion
+
+Taken together, National’s economic plan, balanced against our environmental responsibilities, and backed up by a commitment to quality public services, can deliver Kiwis the security and quality of life that they deserve.
+
+National will lead a better-managed government that focuses on strengthening our economy, returning fairness and incentives to our tax system, retaining our best people in New Zealand, keeping dangerous prisoners away from our communities, improving our healthcare, and ensuring standards in education that equip our children with every opportunity to succeed  in the modern world.
+
+As Prime Minister, I promise to bring energy, fresh thinking, and straightforward, practical ideas to the job.
+
+Over the past 18 months, I have announced policies that illustrate that approach.
+
+Policies like National’s Youth Guarantee, which includes no-fees school-level education for all under-18-year-olds, whether that be at a typical high school, a polytechnic, wananga, or at a private training establishment.  Policies like our Fresh Start camps for young offenders, which will combine the best youth-justice expertise with the use of facilities like those offered by the army. Policies like a crack-down on criminal gangs.   
+
+You can be sure you will hear more examples of our approach in the months ahead.
+
+I also promise to bring a sense of optimism about New Zealand and its future.
+
+I truly believe we live in one of the best countries on earth, and I believe we can be far greater still.  But to be as good as we can be we have to constantly think about tomorrow, and next year and the decades ahead.  We can’t get bogged down by fads, distractions, or the ideological battles of the past.
+
+I’m just not interested in the tired old political debates from 20 or 30 years ago.  I believe New Zealand’s future depends on grasping good ideas, no matter where they come from, and putting them into action. 
+
+I know that the National Party has the energy and determination to win this election and lead this country. Over the next five to six months, between now and Election Day, we must prove ourselves to Kiwis by being resolutely focused and disciplined.
+
+Victory will be hard-won.  We’re up against some of the most wily and tricky politicians in the business.  Labour is desperate and it will stoop to just about anything to win. 
+
+So, during what I’m sure will be a challenging few months, we must never lose sight of what we are fighting for.  In this election, we’re not just fighting for a National Party victory; we are fighting for a better future for New Zealand. 
+
+While Labour may think this election is all about another trophy in the cabinet, National is focused on giving this country a real future. 
+
+Every one of us must raise our sights to that goal and resist the temptation to be drawn into petty sideshows. I know that the people in this room are hugely frustrated by the day-to-day workings of the Electoral Finance Act.  I share your frustrations.  But don’t despair, the EFA won’t beat us.   Labour‘s attempts to screw the electoral scrum are based on an under-estimation of the intelligence of Kiwi voters. 
+
+It doesn’t matter how many millions of dollars of public money Labour spends on swish government ads, Kiwis will be judging them on its record – its record of sky-high taxes, wasteful spending, poor public services, and missed economic opportunities.
+
+New Zealanders work hard, do the right thing, pay their taxes, and try hard to raise their families responsibly.  They have a right to a government that is focused on the issues that matter and that is committed to a plan that will build a stronger future for this country.
+
+National is the only party ready to deliver New Zealanders the government they deserve.
+
+Election 2008 is this party‘s big opportunity.  Election 2008 is New Zealand’s big opportunity.
+
+Let’s make the most of it and deliver change in 2008. 
+
+Ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

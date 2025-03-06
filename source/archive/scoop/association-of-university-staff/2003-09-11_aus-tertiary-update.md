@@ -1,0 +1,76 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2003-09-11
+source-url: https://www.scoop.co.nz/stories/ED0309/S00044/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 11 September 2003, 5:00 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+![AUS WEB SITE](http://www.aus.ac.nz/pictures/logo.gif)University bargaining arrangements underway  
+University union and employer representatives met in Wellington yesterday afternoon to discuss formal arrangements for national collective agreement bargaining. It follows the announcement last week that the unions are to claim a salary increase of 10% per annum for the next three years for academic staff and 10% in 2004 for general staff plus increases in job evaluation alignments to the higher quartiles of the salary market.  
+A team of 16 union representatives met with 12 representatives from six of the seven universities involved in the bargaining. Otago Human Resources staff were unable to attend yesterday’s meeting, but have confirmed their participation in future discussions.  
+Negotiations will commence on 6 and 7 October in Wellington, and continue on 13 and 14 October in Christchurch. 6 and 7 November have been tentatively scheduled for further negotiations in Wellington.  
+AUS Industrial Officer Jeff Rowe has been named as the lead advocate for the unions with Jenny Chapman (ASTE) and Mark Ryan (PSA) as co-advocates.  
+The central issue of discussion at yesterday’s meeting was a bargaining protocol, intended to establish the principles and arrangements which will govern the bargaining process. Union advocate Jeff Rowe described the protocol as setting the foundation upon which the negotiation would be conducted. It covered such issues as representation, how and when bargaining will occur, communication, and a resolution process for any disagreements which may arise between the parties.  
+University employer representatives made it clear to the unions they would not be combining to act as a sector group, but would retain individual advocacy rights for each university.  
+Jeff Rowe described yesterday’s meeting as constructive and said he hoped the parties would have the bargaining protocol finalised before negotiations commenced.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+Millions paid in subcontracts to PTEs  
+Free parking not a condition of employment  
+New website identifies qualifications and providers  
+Unions endorse motion against top-up fees
+
+Millions paid in subcontracts to PTEs  
+Millions of dollars are being paid to private training establishments (PTEs) by public tertiary providers in subcontracts as a way of getting around the government’s cap on PTE subsidies according to investigation by Education Review. Public tertiary institution heads have told Education Review that it is common for private providers to approach them with the aim of setting up subcontracting deals so they could grow beyond the cap imposed by the government last year. That cap limits annual government subsidies to the private sector to $146 million by preventing them from receiving subsidies for more equivalent full time students (EFTS) than they enrolled in 2001.  
+In response to complaints about the level of subcontracting within the sector the Tertiary Education Commission has now asked tertiary providers to provide details of their subcontracting details. This information will be collected as part of profiles being prepared as a part of the current charters and profiles exercise, but it is expected that this information will not be available until later next year.  
+While it is understood the subcontracting arrangements are not unlawful it is felt by some industry sources that the practice is a way undermining the government’s intention to bolster public provision and increase cooperation in the tertiary education sector. Some have labeled the practice as EFTS laundering.  
+Education Review reports that Te Wananga o Aotearoa, the biggest public tertiary institution, paid more that $8 million in contracts with 14 private providers last year. The biggest of those were to Carich, paid $2.3 million for 635 equivalent full-time students, and Be My Guest, which was paid $1.22 million for 272 EFTS.  
+A spokesperson for Associate Tertiary Education Minister, Steve Maharey, told Tertiary Update that the government was looking into the situation, but had made no decisions about the practice.
+
+Free parking not a condition of employment  
+The Employment Authority has turned down an application to block to imposition of parking charges on staff at the University of Canterbury. The Authority was asked to determine the matter after the University imposed a parking charge this year after previously providing free parking for staff and students.  
+AUS lawyer, Peter Cranney, argued that free parking was a condition of employment for staff, and in any case was protected by a savings provision in the collective employment agreements restricting the Univefsity from reducing terms and conditions of employment.  
+Employment Authority Member, Helen Doyle, found that she did not consider that free car parking at Canterbury was an express condition of employment, nor was it implied from an historical background of free parking. She found also that savings provision did not apply and the University was entitled to change its parking regulations from time to time.
+
+New website identifies qualifications and providers  
+A new website containing details of over 5000 qualifications makes a strong case for rationalising the number of courses available for study in New Zealand, says Associate Education (Tertiary) Minister, Steve Maharey.  
+www.kiwiquals.govt.nz was launched at Parliament on Wednesady this week and will enable users to find and compare all quality assured qualification available in this country. It currently covers more than 5000 qualifications offered by more than 1000 providers.  
+Steve Maharey said KiwiQuals will be very useful for the independent quality assurance bodies who approve new courses.  
+“Being able to search by classification will reveal areas where we probably just have too many course options and where there is wasteful and pointless duplication.  
+“In the future the Tertiary Education Commission (TEC) will be able to decline to fund particular courses where they believe further proliferation to be unnecessary. KiwiQuals will assist the TEC to identify disciplines where further investigation, and/or fewer providers, is warranted.
+
+Worldwatch  
+Unions endorse motion against top-up fees  
+The British Trades Union Congress has endorsed a motion that is critical of plans to introduce university top-up fees, under which undergraduates could be charged up to £3,000 a year from 2006 to attend the best universities and courses. There was unanimous criticism of the policy at the congress in Brighton this week. The TUC statement asserted the union movement's "fundamental opposition" to top-up fees. "Students will end up owing vast sums of money when they graduate," it said. Chancellor Gordon Brown signalled there would be no retreat in the face of their demands.  
+A poll carried out for the Association of University Teachers (AUT) shows that 80 per cent of the public said they now opposed the top-up fees. Only 12 per cent of respondents said they agreed with the introduction of top-up fees.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the union and others. Back issues are archived on the AUS website: http://www.aus.ac.nz. Direct enquires to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

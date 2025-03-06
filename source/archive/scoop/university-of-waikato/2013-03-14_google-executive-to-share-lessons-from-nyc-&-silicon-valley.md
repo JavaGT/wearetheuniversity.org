@@ -1,0 +1,66 @@
+---
+slug: google-executive-to-share-lessons-from-nyc-&-silicon-valley
+title: "Google Executive To Share Lessons From NYC & Silicon Valley"
+date: 2013-03-14
+source-url: https://www.scoop.co.nz/stories/ED1303/S00102/google-executive-to-share-lessons-from-nyc-silicon-valley.htm
+author: university-of-waikato
+---
+Google Executive To Share Lessons From NYC & Silicon Valley
+===========================================================
+
+**Thursday, 14 March 2013, 12:40 pm**  
+**Press Release: [University of Waikato](https://info.scoop.co.nz/University_of_Waikato)**
+
+14 March, 2013
+
+**Google Executive To Share Lessons From NYC And Silicon Valley**
+
+Google software engineer and Waikato alumnus Craig Nevill-Manning will be in Hamilton next month to talk about the lessons he’s learnt from working with technology companies in the U.S. that could help the fledgling New Zealand tech-industry.
+
+Dr Nevill-Manning will share success stories from the tech hubs of Silicon Valley and New York at the New Zealand Computer Science Research Student Conference, which is being held at the Gallagher Academy of Performing Arts from 15-19 April.
+
+Dr Nevill-Manning will give the keynote address to PhD students and industry insiders from around the country on 16 April.
+
+Dr Nevill-Manning helped organize the first NZCSRSC conference while he was a PhD student in 1992. He completed his computer science PhD at the university in 1996 before being offered a post-doctoral fellowship by Stanford University. It was there he met the future founders of Google, Larry Page and Sergey Brin, who he would later work with to create the first remote Google software engineering office in New York.
+
+Conference organiser and University of Waikato research fellow Craig Taube-Schock said getting a successful alumnus like Craig Nevill-Manning as the keynote speaker is a coup.
+
+“Having Craig, who’s known worldwide for his work with Google, as the keynote speaker is great for the conference,” says Taube-Schock. “One of the aims of the conference is to make computer science PhD students aware of what the industry can offer them after they finish their studies, and there is no better success story than Craig.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Dr Nevill-Manning joined Google in 2001 as a senior research scientist. Two years later, he set up the company’s software engineering centre in New York, now the second largest tech-hub in the United States. He retains close ties with New Zealand, and has organised Google internships for New Zealand graduates, funding for New Zealand-based research projects, and opportunities for New Zealand academics visiting the US.
+
+In 2009, he received a KEA World Class New Zealand award and in 2010 was given a University of Waikato Distinguished Alumni Award.
+
+Dr Nevill-Manning says talented, entrepreneurial computer science students are key to New Zealand’s high-tech success.
+
+“It's exciting to return to the conference 21 years after the inaugural meeting here at the University of Waikato. New Zealanders have the skills and increasingly the ambition to take on the world with new products and services, and it’s always exhilarating to come home and talk with the students who are building our country’s future.”
+
+The conference is sponsored by Gallagher, Google, Pingar, CatalystIT, Fishpond and Compaq.
+
+![](http://img.scoop.co.nz/stories/images/1303/4c0781c6cd65e06334d7.jpeg)
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Waikato](https://info.scoop.co.nz/University_of_Waikato) on InfoPages.

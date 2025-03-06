@@ -1,0 +1,63 @@
+---
+slug: shame-of-abuse-victims-little-understood
+title: "Shame of abuse victims little understood"
+date: 2009-06-08
+source-url: https://www.scoop.co.nz/stories/ED0906/S00016/shame-of-abuse-victims-little-understood.htm
+author: massey-university
+---
+Shame of abuse victims little understood
+========================================
+
+**Monday, 8 June 2009, 11:09 am**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+Monday, June 8, 2009  
+Paralysing shame of abuse victims little understood
+
+Messages of choice and empowerment aimed at prompting abused women them to leave their abusers may be having the opposite effect in some cases, says sociologist Dr Angela Jury.
+
+Dr Jury, who graduated from Massey last month with a PhD in Sociology, researched the nature of shame in violent relationships to find out how some women reach and remain in a state of trapped inertia in which they are subjected to often life-threatening abuse.
+
+She says abused women – especially victims of psychological and emotional torment – are often so paralysed by what they see as the stigma and shame associated with their situation that they are unable to seek help.
+
+Agencies working with them need to better understand how the profound shame the victims feel not only deters them from seeking help, but can be reinforced by educational and promotional messages aimed at trying to help them.
+
+She is not suggesting educational campaigns against domestic violence and other forms of abuse should not be mounted but does believe agencies must be wary of implicitly reinforcing a shame/blame ethos through the language they use in their education.
+
+Her interviews with 25 survivors of intimate partner abuse provide harrowing, graphic insights into the devastating effects of abuse on a women’s sense of self and how it erodes any impetus for self-preservation.
+
+“My research was focussed in one direction; finding the explanation of how it was that some women were able to remove themselves from the experience of abuse and maintain lives free from violence, whereas others appeared unable to do so, remaining with abusive partners for extended periods of time or eventually leaving, only to find themselves once more involved in violent relationships,” she says.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“It is most clearly illustrated in the use of language around choice and freedom in advice to abused women – ‘you don’t have to live like this’, ‘you can leave’, ‘there is help available’. All of these – while probably selected as terms offering empowerment to victims – can also operate to engender a sense of weakness on the part of victims...thus creating a sense of shame and self-blame.
+
+“We need to shift the focus for dealing with abuse and violence off the victim. It should not be seen as her responsibility to decide she wants it to stop – nor should not doing so be seen as the victim's shameful failure."
+
+Although her previous work as a volunteer at Women’s Refuge exposed her to the traumatising effects of violence on the women, Dr Jury was unprepared for the emotional impact of hearing the detailed stories of psychological and physical torment. She decided to include in her thesis an account of how her emotional responses altered the direction of her study to explore the role of shame in abusive relationships more deeply.
+
+She says the study highlights the need for a multi-layered approach including law and law enforcement, support and education for victims, perpetrators and their children, and continued patience on the part of helping agencies. Underlying all this, an ideological shift away from burdening abuse victims with the responsibility of choosing to end the abuse is needed.
+
+Dr Jury, from Feilding, currently works in the development of collaborative case management system in consultation with the local community groups as the Whanganui Family Violence Case Management Coordinator.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

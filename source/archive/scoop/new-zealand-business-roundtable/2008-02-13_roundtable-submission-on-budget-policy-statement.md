@@ -1,0 +1,136 @@
+---
+slug: roundtable-submission-on-budget-policy-statement
+title: "Roundtable Submission On Budget Policy Statement"
+date: 2008-02-13
+source-url: https://www.scoop.co.nz/stories/BU0802/S00194/roundtable-submission-on-budget-policy-statement.htm
+author: new-zealand-business-roundtable
+---
+Roundtable Submission On Budget Policy Statement
+================================================
+
+**Wednesday, 13 February 2008, 1:29 pm**  
+**Press Release: [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable)**
+
+New Zealand Business Roundtable  
+Submission On The  
+2008 Budget Policy Statement  
+January 2008
+
+  
+Summary  
+ This submission on the Budget Policy Statement 2008 (BPS) is made by the New Zealand Business Roundtable, an organisation comprising primarily chief executives of major New Zealand business firms. The purpose of the organisation is to contribute to the development of sound public policies that reflect overall New Zealand interests.
+
+ In our submission on the Budget Policy Statement 2007 we complimented the government for keeping public debt under control but argued that there was an insufficient focus on policies to raise economic growth and improve the quality of government spending. We suggested that a tax and spending limitation rule in the Public Finance Act could increase fiscal accountability. We also considered that any review of the tax system should follow the main recommendations of the McLeod tax inquiry of 2001. We favoured aligning the personal and company tax rates at 25 percent and opposed special exemptions. As part of a better growth strategy we also favoured the concept of a Regulatory Responsibility Act. We consider that these responses and recommendations are also applicable to the 2008 Budget Policy Statement.
+
+ Section 2 of this submission argues that the goal of strengthening the fiscal position without any principled limit fails to balance any benefits of building up Crown net worth against the costs to the community. Crown net worth is projected to reach a staggering $129 billion, 61 percent of GDP, by 2012. Large increases in Crown claims on the economy are not needed to strengthen New Zealand’s credit rating, and over-taxation reduces economic growth. Tax reductions should be implemented instead.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+ Section 3 calculates that the expenditure projections in the BPS represent an increase in core Crown spending of 3.7 percent of GDP between 2003-04 and 2011-12. The implied rise in real spending per capita is 28.4 percent, or nearly $9,000 per household. No rigorous national interest justification is advanced for this additional spending, not to mention existing base spending. Wasteful spending from a community perspective has adverse implications for tax burdens, household savings and future living standards.
+
+ Section 4 updates the analysis in last year's BPS submission on New Zealand's low standard of living ranking and mediocre outlook for economic growth. Real GDP per capita is forecast in the Half Year Economic and Fiscal Update 2007 (HYEFU) to increase at an average annual rate of only 1.7 percent per annum during the five years to 2012. There is no chance that New Zealanders' average standard of living will be lifted into the top half of the OECD with this growth outlook.
+
+ Section 5 stresses the importance of directing tax cuts at reducing marginal tax rates rather than at reductions in thresholds or other measures that leave marginal tax rates unchanged. It also comments on the potential costs of carbon neutrality, climate change and KiwiSaver policies.
+
+ Section 6 poses some questions for discussion with the Finance and Expenditure Committee in the spirit of section 2 of the Public Finance Act.
+
+1 Introduction
+
+1.1 This submission on the Budget Policy Statement 2008 (BPS) is made by the New Zealand Business Roundtable, an organisation comprising primarily chief executives of major New Zealand business firms. The purpose of the organisation is to contribute to the development of sound public policies that reflect overall New Zealand interests.
+
+2 The BPS's strategy with respect to debt and net worth  
+2.1 The BPS states that the government's "fiscal strategy continues to focus on strengthening the fiscal position to help manage future spending demands", such as an ageing population and future economic shocks. The BPS envisages (p 11) that core Crown net worth will reach almost 40 percent of GDP by 2018. The Half Year Economic and Fiscal Update 2007 (HYEFU) that accompanies the BPS projects that total Crown worth as a percentage of GDP will increase to 61 percent, or a staggering $129 billion, by 2012 (p 57).
+
+2.2 While the government deserves credit for maintaining a strong fiscal position, it does not follow that more of the same is better. Specifically, the BPS fails to ask whether the benefits to citizens from ongoing high rates of taxation exceed the costs. Large increases in Crown claims on the economy are unlikely to improve the government's already high credit rating in international markets. High Crown net worth does not necessarily reduce the overall burden on the community of funding the standard of living of an ageing population. The aged must consume real goods and services rather than financial assets. Such goods and services are thereby not available to working households, and the implied burden is better assessed as a proportion of the total domestic production of goods and services by residents. A stronger fiscal position achieved by reducing economic growth actually makes economic shocks more burdensome in relation to national income. Instead the focus should be a strategy of removing the large number of barriers to wealth creation.
+
+2.3 The principles of responsible fiscal management in section 26G of the (amended) Public Finance Act 1989 are not specific about the prudent levels of public debt that should be maintained or what level of net worth constitutes an adequate buffer against future contingencies. The BPS and associated papers explain that the debt target is to hold gross sovereign debt, excluding Reserve Bank liquidity management debt, at around 20 percent of GDP. This is despite the fact that the assets in the New Zealand Superannuation Fund are projected to be above 22 percent of GDP by 2018 (p 11) and Crown financial assets alone are projected to exceed Crown debt by 20 percent of GDP by the same year.
+
+2.4 The question that arises is why the BPS does not take the view that the 'prudent' level for gross debt should rise as Crown assets and net worth rise? Section 26J of the Public Finance Act requires each fiscal strategy report to explain how the government's long-term fiscal objectives accord with the principles of responsible fiscal management. The fiscal strategy report accompanying the 2007 Budget avoided the question by simply asserting (p 50) that 20 percent is a prudent level for gross debt "over the next 10 years" and (p 49) that the objective is to increase Crown net worth "over the longer term". The objective of increasing Crown net worth faster than GDP indefinitely is economically undesirable and is ultimately likely to be unsustainable politically. A tax-cutting strategy would be preferable.
+
+3 The lack of adequate controls on the quality of spending
+
+3.1 Another feature of the fiscal strategy in the BPS is the strong growth in government spending. Core Crown expenses are expected to increase by almost 1 percentage point of GDP between the 2008 and 2012 financial years to reach 33.0 percent of GDP (p 57). Total Crown operating spending is expected to reach 41.8 percent of GDP by 2012. Capital spending is to be doubled without any obvious focus on the rate of return from this spending. In the 2001 Budget (p 14) the minister of finance made a virtue of declaring that the government would achieve the lowest level of spending as a proportion of GDP since 1978. Yet by 2005-06 the ratio to GDP was higher than in 1999-00 when the government took office.
+
+3.2 Central government is also presiding over large increases in local government spending. The latest OECD Economic Outlook (No 82) forecasts general government spending (which includes central and local government spending) in New Zealand to be 43.0 percent of GDP in 2009, up from a low of 38.4 percent in 2002. We have long pointed out that no comparable OECD country has achieved sustained annual growth of 4 percent per capita with total government spending at New Zealand’s level and it is implausible to think that New Zealand might be an exception.
+
+3.3 The following chart combines the HYEFU forecasts with Statistics New Zealand population projections in order to provide a perspective on the overall growth in core Crown operating expenses since 2003-04. A GAAP accounting change between the 2006 and 2007 fiscal years has created a discontinuity in the series between these years. On the old GAAP basis, the audited core Crown operating expenses in the 2007 fiscal year were $53,742 billion or 32.2 percent of GDP (see p 23 in the Financial Statements of New Zealand for 2007). In 2007-08 dollars (GDP deflator), this represents spending of $13,278 per capita. The rise in government spending between 2003-04 and 2006-07 was therefore 3.1 percent of GDP (from 29.1 percent of GDP to 32.2) or 16.6 percent in terms of real spending per capita (ie from $11,392 to $13,278 in 2007-08 dollars). On the new GAAP basis, the rise between 2006-07 and 2001-12 is projected to be another 0.6 percent of GDP (from 32.4 percent to 33.0 percent), or 10.1 percent in terms of real per capita spending (ie from $13,336 to $14,688). The implied overall rise, adjusting for the discontinuity, between 2003-04 and 2012 is 3.7 percent of GDP representing an increase of 28.4 percent in real per capita spending (GDP deflator). In 2007-08 dollar terms, the implied increase is $3,200 per person, or $8,700 per household. These are very large increases.
+
+3.4 The OECD revealed disquiet about the spending trend in New Zealand in its Economic Outlook 82, saying: "The rapid increase in public spending should be scrutinised for its efficiency and sustainability". We concur. In Australia the Treasurer has announced that the new Labor government is "absolutely committed" from "day one" to introducing a new era of fiscal discipline that will achieve more than the campaign promise to find fiscal savings of $10 billion. Similar action is warranted in New Zealand. In our view much wasteful spending has recently occurred in areas such as interest-free student loans, Working For Families, KiwiSaver and public service numbers. Excessive spending is likely to have raised prices in the non-traded goods sector of the economy, put pressure on interest rates and the exchange rate, and squeezed export and import-competing industries.
+
+3.5 The government has also made much of savings issues. Increases in the share of government spending in the economy must influence private spending and savings decisions. The lower the quality of additional government spending, the  
+more likely it is that the effect will be to reduce measured household saving as households try to make good for themselves the deficiencies in the quality of government spending. For example, they might opt for private health insurance or education. This is a real issue since much government spending is on private goods, which should be the domain of private spending and private sector provision.
+
+3.6 Both the quality and quantity of government spending need to be addressed. We recommend consideration of including a tax and expenditure rule in the Public Finance Act which would limit increases in spending and taxation to the rate of population growth plus inflation, unless the government received the consent of taxpayers to higher increases in a referendum. In our view this would greatly increase expenditure discipline.
+
+4 The mediocre outlook for economic growth
+
+4.1 For the reasons given in section 2, a better strategy for achieving the goal of satisfying future needs would be to promote economic growth. Yet, instead of making a balanced assessment of New Zealand's actual growth prospects, the BPS puts an unduly optimistic gloss on the situation by focusing on past economic performance. Its 'headline' observation on page 3 is that since 1999 the growth rate in New Zealand's real GDP has outstripped that of Australia, the United States, the United Kingdom, the European Union average and the OECD average. Indeed it has, but not by nearly enough to meet the government's goals for economic growth. In particular, it has been well below the minister of finance's target growth rate of 4 percent per annum. More to the point, productivity growth has slumped in New Zealand within the last decade and modest rates of economic growth (eg 2 percent per annum) are not only forecast but are also used by the government in projecting energy demand, transport growth and Kyoto liabilities. Recent past performance is largely due to the benefits of New Zealand’s earlier reforms, high terms of trade and (since around 2003) excessively loose monetary policy. Given better economic management, the recent growth rate could have been much higher and the trend is now clearly downward due to increased spending, taxation and regulatory burdens, among other things.
+
+4.2 The government's claims of competent economic management need to be seen in the context of the economic goals it set for itself. Its top priority economic goal in speeches from the throne and the 2001 Budget was to get New Zealanders’ average standard of living back into the top half of the OECD. In fact, New Zealand's ranking has fallen further (see paragraph 4.6 below). A related goal, also in the 2001 Budget (p 6), was to lift economic growth from "about 3 percent a year to 4 percent a year or more". The 2002 Budget (p 5) reaffirmed the 4 percent target. The average rate of growth in real GDP in 2000-2007 was just 3.2 percent per annum – and the trend line through this period has a negative slope.
+
+4.3 Another economic goal in the 2000 and 2001 Budgets was to reduce the large deficits in the current account of the balance of payments. The 2001 Budget (p 2) said that the government "expected to make progress" with the deficit of 7 percent of GDP that it inherited on taking office. Subsequent deficits have been larger and the HYEFU forecast for 2007-08 is for a deficit of 7.4 percent of GDP, despite very favourable external terms of trade.
+
+4.4 A further government goal was to reduce welfare dependency. However, although numbers on the unemployment benefit have declined, the combined numbers on the domestic purposes, sickness and invalid’s benefit rose from 207,000 in 2002 to 226,000 in 2007.
+
+4.5 The government has pointed to strong job creation during its term of office, totalling 333,000 between September 2000 and September 2007. However, employment growth was similar between September 1991 and September 2000, totalling 305,000. In both periods the increases owed a lot to the 1991 moves to free up the labour market.
+
+4.6 Other forward-looking indicators point to a general failure to improve New Zealand's growth outlook:
+
+ Multi-factor productivity growth in the measured sector has grown at an annual rate of only 0.7 percent per annum from 2000 compared to growth rates of 2.1 percent per annum and 2.3 percent per annum for the two earlier comparable cyclical periods identified by Statistics New Zealand -- 1990-1997 and 1997-2000 respectively;
+
+ Productivity in the public sector is a major concern with many reports of dysfunctional government agencies, the absence of a focus on value-for-money and concerns about infrastructure quality, reliability and delays in getting investment projects approved. This is despite the headline attention the 2000 Budget gave to ‘Rebuilding Public Services’.
+
+ New Zealand has slipped in the latest 2008 Heritage/Wall Street Journal Index for economic freedom – an indicator of future growth prospects – from its third position in 2004 to sixth place. Indeed, in the past year its overall economic freedom score has fallen further than that of all but one country in the top 20. New Zealand has fallen in five of the 10 freedom categories in this index;
+
+ The World Economic Forum’s latest Global Competitiveness Report has New Zealand falling to 24th place. We rank poorly (40th place or worse) for waste in government spending, burden of government regulations, quality of overall infrastructure and extent of taxation, among other things;
+
+4.7 It should also be noted that GDP growth per capita is a more important measure of living standards in New Zealand than relative rates of GDP growth across countries. The latter can be misleading because countries’ population growth rates differ. The table in the Annex updates the comparable table in our BPS submission last year. It shows that New Zealand's GDP per capita in 2006 was US$26,300 in purchasing power parity terms. New Zealand was ranked 22nd on this measure out of 30 OECD countries. Its income per capita needs to be 27 percent higher to be above that of Finland and thereby put New Zealand in the top half of the OECD. The table shows that to close the gap with Finland in 10 years would require New Zealand's growth rate in GDP per capita to exceed Finland's by 2.4 percentage points per annum; to close the gap in 20 years would require it to exceed Finland’s by 1.2 percentage points per annum. Since Finland's rate of growth in real GDP per capita in recent years has been higher than New Zealand's, this is not remotely plausible on current policies. Even to close the 10 percent per capita income gap with Spain in 20 years would require New Zealand to grow faster than Spain by 0.5 percentage points per annum during that period. This does not look plausible either in the light of Spain's average annual rate of growth in GDP per capita of 2.0 percent in recent years.
+
+4.8 The HYEFU forecasts (p 30) a rate of growth in labour productivity of 1.8 percent per annum to 2012 compared to the average of 1.2 percent per annum in the past seven years. (This appears to refer to measured sector productivity since the less reliable measures for economy-wide labour productivity growth are lower.) Even so, the forecast gains appear to be largely cyclical and the HYEFU forecasts (p 23) that GDP per capita will increase at an average annual rate of only 1.7 percent during the five years to 2012. This is despite the remarkably favourable terms of trade forecast for New Zealand during this period (p 26).
+
+4.9 The unfortunate conclusion is that the BPS is signalling that the 2008 Budget will fail to do anything material to stop the forecast decline in the rate of growth of living standards in New Zealand. The government should reconsider what might fairly be called ‘the failed policies of the present’.
+
+5 Other issues
+
+5.1 Tax cuts. The BPS indicates (p 9) that the size and shape of the tax cuts of $1.5 billion per annum to be announced in the 2008 Budget are still uncertain. The professional view amongst economists is that the main burden of taxes on the economy arises from high effective marginal tax rates. These include high statutory rates and those arising from the abatement of benefits under programmes such as Working for Families. Given the government’s stated priority of increasing growth, it would be inconsistent to base tax cuts on static distributional considerations rather than efficiency considerations.
+
+Tax cuts should therefore focus on the highest marginal tax rates. Tax reductions that arise instead from increased tax thresholds or special tax exemptions represent a forgone opportunity to reduce the deadweight costs of taxation. Moreover, prices and wages adjust to changes in taxes in complicated ways so that it is difficult to say which groups might ultimately benefit from tax cuts. A general proposition is that the burden of taxes (in the form of higher prices for goods or lower wages) falls on those who have the least ability to avoid these effects, for example, by emigrating or raising their prices or wage rates. This may be more likely to be the poor with limited skills than the wealthy.
+
+5.2 Climate change. We are concerned that the costs to the community of the government's climate change strategy are potentially much greater than the BPS acknowledges. Reputable experts believe that the costs of mitigation will be high for New Zealanders, yet the government is setting (p 6) sweeping and apparently uncosted targets for further electricity generation from renewable sources and for carbon neutrality. Even the costing of the Kyoto liability at a carbon price of $21.01 a tonne (p 44) or $956 million could be much too low. Much higher carbon prices would be necessary to achieve the government’s twin goals of sustained 4 percent growth and carbon neutrality, and indeed they are likely to be unattainable, even at high economic costs, as a forthcoming study demonstrates.
+
+5.3 KiwiSaver. The fiscal update accompanying the BPS reports (p 55) that the uptake of KiwiSaver has been unexpectedly high from children under 15 and from 60-64 year-olds who are approaching retirement. Research also suggests that the scheme will have the effect of widening income inequality among those in retirement. KiwiSaver has greatly increased the fiscal cost of retirement income provision after years of efforts by governments to constrain it. In our view the subsidies associated with KiwiSaver are excessive and should be reduced.
+
+6 Concluding comment
+
+6.1 While the BPS states (p 6) that the government is "guided by an overarching principle of developing a truly sustainable New Zealand", unnecessarily high taxation, a rising gap in living standards with Australia and the absence of a credible growth strategy are not consistent with that principle. In our BPS submission last year we outlined some of the elements of a more credible strategy for economic growth. Our conclusion was, and remains, that stronger constitutional constraints in the form of tax and expenditure limits and regulatory responsibility legalisation, as well as many other pro-growth initiatives, are  
+needed to improve New Zealand’s outlook. We believe much larger tax reductions than the government is contemplating, perhaps of the order of $2.5 billion a year, could be implemented given firm spending discipline.
+
+6.2 A key purpose of the BPS as originally conceived in the Fiscal Responsibility Act 2004 is to facilitate a dialogue between the government and interested parties on fiscal and economic policy. We would be interested in a dialogue with the government members of the Finance and Expenditure Committee, in particular, on the following questions:
+
+ Do they accept that there are no indications that the government is achieving its goals for economic growth?  
+ Do they agree that changes in the government’s economic policies are needed to achieve those goals?  
+ Do they agree that these changes must include reductions in the government’s share of the economy, as well as the elimination of wasteful spending, given that rapid growth is not possible at current spending levels?  
+ Do they agree with the McLeod review’s advice in favour of a lower and flatter tax scale and against selective tax concessions?  
+ Do they support government consideration of constitutional constraints on government expenditure and taxation and on regulatory decision-making?
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable) on InfoPages.

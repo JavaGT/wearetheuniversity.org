@@ -1,0 +1,142 @@
+---
+slug: ken-shirley-speech-back-to-the-future-for-rma
+title: "Ken Shirley Speech: Back To The Future For RMA"
+date: 2004-09-06
+source-url: https://www.scoop.co.nz/stories/PA0409/S00096/ken-shirley-speech-back-to-the-future-for-rma.htm
+author: act-new-zealand
+---
+Ken Shirley Speech: Back To The Future For RMA
+==============================================
+
+**Monday, 6 September 2004, 8:30 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Back To The Future For RMA
+
+Speech to ACT Waikato/Bay of Plenty Conference; Hamilton; Saturday September 4, 2004.
+
+In December 1989 the Resource Management Bill was introduced to Parliament after years of gestation in the Resource Management Law Reform process.
+
+It was heralded as the first comprehensive and integrated review of the laws governing the management of the country's natural and built resources - that is land, air, water and minerals. It was claimed to be the largest law reform of its kind in the country's history integrating all planning statutes into one set of procedures so that issues could be dealt with comprehensively, expeditiously and effectively.
+
+The Bill repealed 54 statutes and more than 20 regulations.
+
+The promise was that the new system would promote the sustainable management of natural and physical resources thereby providing for considerably greater efficiencies in the planning and consent process.
+
+It was further claimed the Bill represented a streamlining as it would cut down delays, cut down cumbersome procedures and make the whole process more integrated thereby enabling growth and development.
+
+In addition to providing a simplified regime the RMA was to be part of deregulation. It was to usher in a one-shop-stop; it was to be enabling and permissive - not prescriptive. It was to be first and foremost effects-based with any controls over activities being firmly based on clear and justifiable environmental standards that would be regarded as "bottom lines".
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Local authorities were to be compelled to examine all available alternative methods before making regulatory rules. It was stated that the Bill would ensure that major projects could be dealt with speedily and effectively. It all sounded too good to be true and it was.
+
+Fifteen years down the track the hope has turned to despair. The community's anger and frustration with the RMA has risen to a fever pitch. The level of vitriol continues to rise. The performance has not matched the promise. There have been attempts to improve the Act with minor, procedural amendments but for anyone embroiled in the RMA processes it is like kicking a haystack.
+
+For many years I clung to the belief that the RMA was based on sound, laudable principles that regrettably had been sadly compromised by deficient and faulty implementation. This sounds a bit like the argument that communism is wonderful in its pure form but hasn't been applied properly yet. After years as an apologist I am now of the firm view that the Act is fundamentally flawed. The basic premises that it is built on are invalid. It fails the basic requirement for all legislation to be sound in principle and incentive.
+
+Fine-tuning and tinkering will no longer suffice but rather a fundamental re-examination of the frameworks, structures and premises that underpin the Act are required.
+
+The purpose of the Act is to promote the sustainable management of natural and physical resources. No clear or meaningful definition is provided, and after 13 years the courts are still arguing about what is meant by Section 5 of the RMA. Nobody wants unsustainable management but the Act fails to adequately define sustainable management and how that stated goal might best be pursued.
+
+Supplies of natural resources are not finite as generally assumed. Neither gold, coal, oil or uranium were resources until human intellect was applied. A 100 years ago, oil seeps in Texas devalued property because they were bad for cattle. This story is not unique to oil; all resources have become far more abundant throughout the 20th century and for that matter throughout recorded history. The internet is a vastly more efficient and cost effective means of communication than courier pigeons or the pony express. The flawed concept of sustainable management wrongly assumes that current levels are optimal for all time.
+
+The conservation of resources for future generations by protecting the sustainability of the natural and physical environment is a very nebulous concept. The concept emerged from the United Nations Bruntland Commission, which laid the foundation for the 1992 Earth Summit. Out of this forum emerged the UN conventions for climate change and biodiversity both of which have become travelling companions for the RMA in New Zealand today.
+
+The focus on future generations is superficially seductive but intellectually it is meaningless pap. A future generation by definition is a group of unknown people not yet born. We know that tomorrow never comes because when tomorrow does arrive it becomes today. So it is with future generations. Once an individual is born they cease to be a potential member of a future generation. The theory in essence says that the not yet born have the right to resources but that right vanishes the moment they are born. Thus the collective rights of a non-existent group at any point in time trumps the rights of all individuals actually alive.
+
+We have the farcical situation that the unborn generations have property rights bestowed upon them through our sacrifice, but no right to exist. Even worse, we don't know what resources will even be needed for these future generations.
+
+In a 100 years people might be using petroleum to heat their homes and power their cars but then again they may not. It does not make a lot of sense to sacrifice the wellbeing of living real people for non-existent possibilities. Why make sacrifices when we know for certain that much of what is used today will be unwanted tomorrow?
+
+Fifty years ago we would have been preserving copper supplies for future telephone cables. Fibre optics has replaced copper at a fraction of the price and we are moving to wireless technologies. Today's nuisances are often tomorrow's resources.
+
+If the goal of sustainable development is to preserve enough of a resource for future generations we need to know how much is enough and for how many generations. If we're to assume that resources are finite while consumption is not, then we have to recognise that even the smallest level of consumption will eventually mean that some future generation won't have any left. The consumption of one gram of copper per century if extrapolated over enough time will lead to the consumption of the last gram of copper. Under this logic we would consume no resources at all.
+
+The problem then is if we consume no resources it is highly likely that there will be no future generations to worry about.
+
+A reduction in consumption reduces wealth and stifles the very technological innovation that is required to overcome any scarcity. Innovation requires investment and a reduction of wealth reduces investment and therefore reduces innovation. We may actually increase the consumption of a resource over the long term by reducing the usage of it in the short term. Reduced consumption in the short term removes the incentive to provided through innovation a more acceptable replacement for the longer term. A resource scarcity is so often the very reason that new more efficient technologies come into existence.
+
+The sustainable management theory cannot answer the basic questions that it raises. It doesn't and can't tell us what to sustain. It doesn't and can't tell us for whom these unknown resources should be sustained. It doesn't and can't tell us for how long such sustainability should be maintained. It merely makes an unsupported assertion that all its answers point in the discretion of centralised state control of economic resources preferably on a global scale.
+
+The litany of environmental myths underpinning the RMA was encapsulated in "The Skeptical Environmentalist" by Bjorn Lomberg.
+
+"... children born today in both the industrialised and the developing countries will live longer and be healthier, they will get more food, a better education, a higher standard of living, more leisure time and far more possibilities - without the global environment being destroyed."
+
+Having debunked the basic RMA premise of sustainable management we then find other equally invalid and curious concepts underpinning the principle and purposes of the Act.
+
+Clause 7 of Part 2 of the RMA instructs all persons exercising functions and powers under it to have particular regard to, among other things, Kaitiakitanga, the maintenance and enhancement of amenity values and the intrinsic values of ecosystems.
+
+Kaitiakitanga appears to advocate guardianship of one group of society over land they don't own. This is a gross intrusion on property rights and invites extortion whenever a resource consent is required by a property owner.
+
+The overriding stewardship conferred by Kaitiakitanga is reinforced by numerous other references to spiritual and cultural values. We therefore have nebulous spiritual concepts and references woven into legislation which was supposed to be confined to the management of natural and physical resources. If we want rational decision making then policies should be based on science and not superstition.
+
+When one group in society on the basis of their ethnicity can use metaphysical, cultural and spiritual values to place constraints over the property rights of others then conflict is inevitable.
+
+We should not be surprised when a State Highway One upgrade is delayed by Taniwha's under the bridge or the Tongariro Power Scheme is truncated. Imagine a land developer in Italy or Greece or the U.K. confronting wahi tapu restrictions every time a site of former occupancy is disturbed.
+
+Intrinsic values is an equally curious concept implying that, under the RMA, trees, rocks, sand dunes and mud pools have rights and that human beings are required to sacrifice their wellbeing to maintain those rights.
+
+Intrinsic values appears to be an oxymoron because the idea of value implies that something is of value to someone for some purpose. Intrinsic value implies some hidden even secret value that no one appreciates.
+
+In addition to being conceptually flawed the RMA was captured by interest groups.
+
+For the "anti-development" green socialist the RMA is the perfect tool to frustrate and delay development while placing private property rights in the commons.
+
+For radical Maori the RMA can be manipulated to exercise powers which give pseudo sovereignty status and condone extortion from those seeking resource consents.
+
+The third group to capture the process was the planners and bureaucrats. The intention was always for the legislation to be enabling and strictly effects based. Instead the administrators of the Act have favoured prescriptive controls that restrict freedoms and perpetuate the interests of the bureaucracies.
+
+A good example is the failure to utilise the Section 32 tool wherein all alternatives are supposed to be evaluated before reverting to regulatory controls. Too often the Section 32 analysis was ignored or treated with disdain.
+
+The over-riding deficiency of the RMA is the lack of respect or even acknowledgement of property rights. There is no reference to property rights in this Act which is all about regulating the exercise of property rights.
+
+The common law of property has over hundreds of years developed a sophistication in dealing with environmental problems and yet the Resource Management Act which is barely a dozen years old not only fails to address environmental problems but also trounces property rights.
+
+When an element of society can use statute and regulation to capture a private property right for some collective communal purpose then surely compensation must be paid.
+
+The requirement to pay compensation at market rates would provide a self regulating discipline on what is truly in the public interest verses that which is merely coveted by some group with sufficient influence to convince the regulator to capture it by stealth.
+
+In its current form and under current practice the RMA is being abused. It has become the most effective tool for socialising private property rights. Progressively interested parties are beginning to exploit the opportunities presented.
+
+Possibly the worst offender is the State itself. The Department of Conservation is one of the most litigious groups under the RMA frequently placing restrictions over private property supposedly in the interests of conservation. Often, the Department objects to District Plans as well as individual resource consent applications.
+
+The Department then uses taxpayers' money to challenge the Council at appeal in the Environment Court. A hapless landowner with a resource consent under appeal may well be funding their own case while simultaneously funding the Council through rates. They then find to their dismay that their taxes are being spent by DOC, who in turn is challenging the Council with the express goal of restricting the same hapless landowners' property rights.
+
+It is very clear that any overhaul of the RMA will need to be accompanied by a major review of the statutory structures that have emerged parallel with the RMA to manage the environment.
+
+The Conservation Department is a residual grouping of Crown lands following the carve up of the Department of Lands and Survey, Forest Service and National Parks Service. This agency should have been confined to the stewardship of Crown-owned lands with a focus on conservation.
+
+Instead the Conservation Department has become a rapacious advocate for conservation over all lands and the RMA is being abused by the Department as it uses its advocacy to impose unreasonable restrictions on private landowners. The powers of the Department need to be greatly curtailed and confined to those commensurate with the stewardship of public conservation lands.
+
+The Environment Ministry was intended as the principle policy advisor to Government on environmental matters but sadly the original Ministry of Land and Economic Development that was intended as part of the reforms was left out of the mix. The result has been an extremely unbalanced structure that has been heavily weighted towards conservation and preservation. The consequences being that any private sector developer has had to run the gauntlet of the RMA administered by Local Government with all the agents of central government stacked against it.
+
+We shouldn't be surprised that there has been no major investment or development in the resource-based economy of New Zealand since the enactment of the RMA in 1991. In spite of the mounting evidence against the RMA, Environment Minister Marion Hobbs recently described the RMA as "beautifully crafted and beautifully worded".
+
+It is interesting to note that in recent times when the Government's infrastructural utilities have confronted the RMA brick wall, the Government - who had previously refused to acknowledge the problems - is now desperately trying to bring down amendments to fasttrack public sector schemes. It would truly be a perverse outcome if the Government continued to pretend that the RMA is fine for the private sector, but substantial reforms are required so that publicly-owned entities can bypass the roadblocks.
+
+This would see a full cycle returned to the days when the Crown was not bound by the provisions of the Town and Country Planning Act or soil and water statutes. It would make a lot more sense to acknowledge the fundamental failures of the RMA and return to first principles.
+
+ENDS
+
+Ken Shirley MP
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

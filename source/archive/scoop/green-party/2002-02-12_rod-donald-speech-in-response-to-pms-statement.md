@@ -1,0 +1,134 @@
+---
+slug: rod-donald-speech-in-response-to-pms-statement
+title: "Rod Donald Speech In Response To PM's Statement"
+date: 2002-02-12
+source-url: https://www.scoop.co.nz/stories/PA0202/S00139/rod-donald-speech-in-response-to-pms-statement.htm
+author: green-party
+---
+Rod Donald Speech In Response To PM's Statement
+===============================================
+
+**Tuesday, 12 February 2002, 4:45 pm**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Green Party co-leader Rod Donald
+
+12 February 2002
+
+Speech Notes In Response To Prime Minister's Statement
+
+On Sunday I rode south on the last Southerner passenger train to ever leave Christchurch. It was a sad day but I was also left feeling extremely angry.
+
+Passenger trains have been running to Invercargill since 1879. At a time when the rest of the developed world is expanding passenger rail services we have allowed a quarter of the country, including many provincial towns and two cities to be cut off by this closure. Many of you will think that trains are part of our past but they very definitely represent our future. They can be comfortable, safe and energy efficient. They help reduce congestion on our roads and thus save the cost of building even bigger ones and they are a great draw card for tourists.
+
+Predictably the last service was full, but not with train buffs. That's because there were only two carriages available. Tranz Rail has run its passenger fleet down so much it didn't have a single spare carriage in the South Island to cater for the extra demand. The irony won't be lost that the very next day Michael Fay and David Richwhite sold their shares in Tranz Rail for $64m having already stripped $322m from the company in league with Wisconsin Central, the other owners at the time immediately after privatisation 9 years ago.
+
+The demise of the Southerner symbolises not just the end of the line for a passenger train but also highlights why we need to end the era of new right economics.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Independent economists have assessed the impacts of 15 years of the structural adjustment programmes that the Labour governments of the 1980s and the National governments of the 1990s inflicted on NZ.
+
+Those programmes grew the gaps that are causing the problems we have today. Canterbury University economist Paul Dalziel has shown that if NZ had followed a more moderate economic reform route, similar to Australia's, per capita incomes in NZ would have been almost $5,000 higher by 1998 than they actually were, the cumulative loss to each individual of the Rogernomics/Ruthenasia policies of the 80s and 90s was $30,000, and the cost to country as a whole was $114 billion. During this period the gap between the top 10% of the population and the rest grew in an unprecedented and horrific fashion.
+
+It's pleasing to see the Prime Minister has acknowledged this in her speech today.
+
+There is much which the Green Party supports in the Vision Statement which the Prime Minister has outlined today. We want to live in a country with a strong national identity where diversity is valued. We want New Zealanders to invest their time money and passion in building our country and improving the quality of life for everyone. We agree with the Government that the Te Tiriti o Waitangi is our nation's founding document and we are committed to working to ensure that Te Tiriti is honoured.
+
+Where we have real concerns is the lack of Government commitment to restructuring the economy to be ecologically sustainable. Supporting sustainable development does not go far enough.
+
+Why? First of all, the Labour and Alliance parties once again fail to recognise that the environment is NOT a subset of the economy. On the contrary, it is the economy that is a subset of the environment. The economy must learn to exist sustainably within the constraints and opportunities of the biophysical environment or it will not exist at all.
+
+The Green Party recognises that ecological integrity must be the touchstone of our decisions. We share air, land and water with each other and with all other life on this planet. We are living creatures, social animals with needs for food and shelter, companionship and hope.
+
+We often talk of economy, society and environment as though they were separate things. This is a dangerously false division. There is no thriving economy separate from a healthy society and there is no healthy society separate from an attitude of care and replenishment towards the earth. .
+
+Today's statement does not even pay lip service to these most basic of human truths and Treasury lives in a fantasyland, in which they believe themselves exempt from the laws of nature.
+
+The interconnections of environment and economy that the environment warrants only one footnote in their report 'Towards an inclusive economy' and what does it say? "...that while there appears to be some scope for policies that aim at both enhanced environmental quality and higher economic output, trade-offs will often be required." In other words - all that matters is money. How ''inclusive'' is that?
+
+The rest of the document is riddled with similar contradictions. Particularly disturbing is the claim that the best way to tackle the economic decline of the regions and associated social deprivation is to encourage people to move to the cities. The idiocy of this proposal is revealed later on in the document when figures are provided to show that ''...by far the largest number of people in deprived neighbourhoods (36.5%)...'' live in Auckland.
+
+We will study with similar healthy scepticism the strategy documents which accompany today's prime ministerial statement. Our biggest fear is that this Government will trap itself in the same way the Last labour government did by embracing uncritically the same failed mantras dressed up in new jargon.
+
+Let's start with the fixation with growth. The Prime Minister acknowledges that economic growth is only a means to an end, the creation of wealth.
+
+Conservation, rather than growth can achieve the same goal but in a sustainable manner. It is time to restore common sense maxims such as waste not want not and a dollar saved is a dollar earned. Our ecological model of the economy is all about extracting more value from the resources we are already using rather than consuming increasing quantities of scare or precious resources. Put simply that means being clean, green, and smart.
+
+Central to a smart approach to the economy is being able to measure whether we are progressing. In our view gross domestic product fails spectacularly to measure economic progress let alone environmental and societal progress. The current disaster unfolding in Gisborne highlights the inability of GDP to discriminate between the activities that add to our well-being and those that detract from it.
+
+The tremendous effort being put in by many people to pump oil from the stranded Jody F Millennium log carrier, contain the many cubic metres of oil that has already leaked from it and clean up the beaches and wildlife is all costing hundreds of thousands of dollars. There is no question the work has to be done but it is ridiculous that all the expenditure to clean up this disaster will actually add to our GDP and make the economy appear healthier than it is when the reality is that the local economy is being hit badly in the short term and the environment will suffer for even longer.
+
+The Green Party has long called for genuine measures of progress - modified GDP, natural resource accounts and social indicators - and one of our current budget initiatives is developing such measures. Unfortunately progress has been very slow I suspect because, despite the Prime Minister's stated commitment that she wants New Zealand to be a world leader in sustainability, there is a yawning gulf between the rhetoric and making it a reality.
+
+There is also a yawning gulf between the Government's call for export led growth and reality.
+
+In pursuit of the so-called export led recovery New Zealand has actually run up a trade deficit in six out of the last seven years. The last year was the exception but only a temporary one as export prices are now falling again. Putting all our eggs in the export basket is sheer foolishness. The global economy is both fickle and fragile. And as treasury's own "inclusive economy" paper acknowledges New Zealand starts with "the disadvantages of small population size, geographical isolation and a resourced based economy". Having identified very real limitations treasury continues to trot out failed solutions while ignoring the opportunities that our unique place in the world gives us.
+
+Let's make sure that the natural resource-based products that we send overseas, as well as the natural wonders and experiences we showcase showcase to visitors at home, are of equally high quality and high value. Distance from markets only counts against us if we are trying to shift high-volume, low-value bulk commodities - like butter fat and unprocessed logs. We need to add value at source, with clean, sustainable and humane production practices, particularly organic farming. The Prime Minister says we need to be seen as smart and innovative, as well as clean and green. Letting our clean green brand go down the tubes would be the dumbest thing we could do. Recent research has shown that clean green New Zealand is not always the truth. Just one negative documentary shown in a key export/tourism market can do a lot of damage.
+
+There needs to be a lot more work, money and energy put into making sure we are really clean and green, and there are no dirty secrets to expose. That means protecting Hectors dolphins and albatross from bad fishing practices, keeping our rivers and waterways clean from dairy effluent and stopping the use of antibiotics and growth hormones to boost animal growth Need I mention that that means we must stay GE free? Embracing genetic engineering as part of the future for New Zealand farming would destroy our clean green brand. It is well established overseas that genetically engineered crops breed super-weeds, requiring increased chemical sprays. A report last month from the Royal Society in England identified risks of allergens from GE foods, especially for babies, and said the testing regime needed to be further developed. The USA is dumping GE crops on Third World markets as I speak - no one who has a choice wants them. The lack of rigorous economic analysis that has gone into NZ's primary production future is frightening. The work of reputable local economists has been ignored in favour of the self-serving Enron style promises of the biotech corporations and their NZ apologists.
+
+Also ignored is the potential for import substitution. In the year to November New Zealand imported over $31B worth of goods. Since this Government came to power our import bill has risen 23%. In our view it is ridiculous to run faster and faster in order just to stand still by focussing solely on exports. This government also needs to embrace an active policy of import substitution - to generate jobs and reduce our dependence on the fickle global market place. Import substitution is clearly not as glamorous as exporting but a dollar saved is worth the same as a dollar earned. Yet we spend $50M of taxpayers funds a year on TradeNZ which exclusively promotes exporting and only around $1M on the Industrial Supplies Office which helps Government departments source goods form local manufacturers and nothing to support the Buy NZ made campaign.
+
+With imports of consumption goods increasing $1.3B in the last two years and doubling in the last decade the Government should be looking closely at what we import to see if we have the skills and raw materials here to make what we are currently buying off other countries. The even bigger challenge facing the country is how we reduce our consumption of oil given that the cost of crude oil imports has more than doubled to $2.1B in the last two years. That cost hike places an enormous strain on our economy but it also presents an opportunity for New Zealand to become world leaders in renewable energy and energy conservation as well as catching up with other developed countries on the provision of public passenger transport and the need to get big rigs off our road and shift freight back on to the rail track.
+
+We are encouraged by the Government's commitment to a more sustainable and integrated transport system. Currently nearly 95% of Transfund's budget goes on roading. There are obvious economic, community, health and environmental benefits from a more balanced approach to transport. The Green Party has campaigned hard on transport issues this term, introducing a road traffic reduction bill, developing a take back the track package to put rail transport on a sustainable footing and opposing pointless urban roading projects around the country. We are working closely with the Government to achieve our goals.
+
+We are concerned that Auckland and the rest of the country not be panicked into an orgy of road building when every piece of overseas evidence from the last century says that this is part of the problem, not part of the solution. Government must not allow itself to be bulldozed by the Auckland road lobby into short-circuiting the RMA for approvals for new roads. Communities affected by roading proposals must have what little democratic rights exist at the moment protected. Indeed one might go as far as to suggest that one key step to sustainable transport is putting road builders on the same footing as other developers instead of giving them access to the force of the Public Works Act.
+
+Climate change is one of the greatest ecological challenges facing the human race. New Zealand's commitment to ratification of the Kyoto Protocol is commendable and given the last Government's dithering we welcome this mark in the sand. That said, we must act to put some meaning behind what will otherwise be an empty gesture.
+
+Firstly, we must stop passing the buck to our children and act now to reduce gross emissions of carbon dioxide. Those people who argue against doing so will have to account to the next generation. There is too much scare mongering about costs from people whose main objective is to avoid having to think about the problem. The benefits from early action far outweigh the costs - its is simply that those costs are attached to vested interests while the benefits are spread much more widely, across the population, across our ecosystems and across generations.
+
+New Zealand needs targets for sectoral emission reductions, it needs a carbon tax, and it needs a coordinated strategy to reduce our dependence on fossil fuels. A truly integrated economic vision would put these and other basic requirements of ecological responsibility at the core of economic strategy. Yet we see nothing here about reducing car dependence, improving energy conservation or promoting renewables. Any attempt at economic transformation must be grounded in the ecological realities of the 21st century.
+
+It's interesting to note that the Prime Minister's statement today plays down free trade and investment agreements. That is not surprising given the stumbling blocks of negotiating an agreement with Hong Kong such as the Chinese Government's refusal to include minimum environmental and labour standards in that agreement and the abject failure of the agreement with Singapore. The latest figures reveal an extraordinary story. In the eleven months since the Singapore Closer Economic Partnership Agreement took effect our exports to Singapore have actually dropped 19% while our imports from Singapore increased by 20% compared with the same period in the previous year. As a consequence our trade deficit for the 11 months to November has rocketed to over $200M from $26M in the year 2000. I hope the Government takes heed of this reality and halts further trade negotiations before we get locked into more loss making deals.
+
+The same caution needs to apply with foreign direct investment, one of the cornerstones of the PM's speech. Foreign investment has its place but only under the right conditions. Last year's Lincoln University study of employment impacts of Southland farms which fell into foreign ownership and were converted to eucalypt plantations revealed significant job losses and the undermining of the local community. Yet when they approved the application the Overseas Investment Commission claimed there would actually be an increase in the number of local jobs.
+
+Before there is anymore foreign investment there needs to be strict rules in place, firstly reducing the threshold which triggers scrutiny by the Overseas Investment Commission and then requirements on the Commission to consider the impact on social well-being, environmental sustainability and economic sovereignty when assessing whether an investment will benefit New Zealand. Existing investors should also be subject to a code of corporate responsibility.
+
+We appreciate the acknowledgement of the Prime Minister of the significant support the Green's have given the Government. We have lent considerable stability to the minority coalition Government without sacrificing our identity or our independence. We have voted with the Government on most legislation and supported its two budgets but we have not been afraid to challenge them when we believe they have got it wrong. The obvious legislative examples are the Singapore Free Trade Bill, the Social Security Amendment Bill, the Party Hopping Bill and superannuation.
+
+We believe the government Superannuation Fund will be its Achilles heel in this year's election campaign. With all indicators pointing to a deteriorating global economy the Green Party's common sense policy of investing in key areas such as debt repayment, education and training, employment creation, positive ageing, health and housing, making the economy environmentally sustainable, strategic asset investment, encouraging private saving and adapting to climate change is far preferable than the Labour-Alliance Government's decision to invest our taxes and their borrowings in the economies of other countries so that they compete more effectively against New Zealand.
+
+At the same time as the Government puts billions into its superannuation fund student debt continues to rise, and will reach $5 billion this year. The average level of student loan debt for the 80% of students who borrow from the government, was $11,874. This Government has not made any real difference to the lives of students.
+
+The Greens will lobby this year for an immediate increase in the parental income thresholds for the student living allowance as a first step to the introduction of a universal student allowance. Parental income thresholds have not been adjusted for some years and now only 33% of full time students are eligible for allowances, a steady decline from 85% of students eligible in 1990 and 40% in 1995. Meanwhile young people from professional or managerial family backgrounds are 1.5 times more likely to enter university that children of similar ability from low Socio Economic status families. The Governments innovation programme must bring all New Zealanders along with it, not only the elite.
+
+And if we are to have an inclusive economy the government must do more than pay lip service to notions of reducing inequality. There is much to be done. Women's hourly wages are still about 20% less than men's and the gap is even greater for those with higher levels of education. We were pleased that the government agreed to our proposals to extend the functions of the new Equal Employment Opportunities Commissioner to look at pay equity.
+
+A growing proportion of New Zealanders are young Maori and Pacific and these groups have the highest rates of unemployment. Unemployment rates for 15 - 19 year old Maori and Pacific young people is 27% and 23% respectively. This is more than twice the rate for European youths at 11%.
+
+This government must also tackle the issue of Child Poverty. We hope to see the government moving on adjusting family assistance to keep up with inflation. The Child Poverty Action Group notes that over the last fifteen years a one child family eligible for family assistance has seen a 60% drop in purchasing power. The child tax credit reduces this drop in value to 36% but this is not enough.
+
+Health care spending is as big a challenge as superannuation. We are committed to quality, affordable healthcare for those of us who do become sick. Clearly there is insufficient investment in our healthcare system at present, with lengthy waiting times for basic surgery and significant delays in even basic treatment such as radiation therapy. In the long-term, the core Green message is to ask the hard question "why do we get so sick?"
+
+The Green party wants a much more significant investment in preventing ill health. We must urgently invest in cost-effective programmes such as nutrition education and diabetes prevention. If we do not tackle these issues now we are simply passing yet another problem to the next generation.
+
+We are also hopeful that this government will make the connections between public health and transport policy - reducing vehicle pollution and promoting walking and cycling bring a huge number of health benefits. Indeed there is every reason to believe that there is a "hidden road toll" from pollution and lack of exercise that exceeds the deaths and injuries from crashes.
+
+We believe our holistic approach to the economy, society and the environment sets us apart from the other parties in this parliament. It is the basis on which we have done our work over the last two years and will campaign in the forthcoming election. We believe voters are ready to think beyond the immediate benefit a policy may have for them to what is best for our whole country and the world, now and into the future.
+
+Ends  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

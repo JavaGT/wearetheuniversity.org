@@ -1,0 +1,265 @@
+---
+slug: erb-a-threat-to-the-rule-of-law
+title: "\"ERB – A Threat To The Rule Of Law\""
+date: 2000-08-04
+source-url: https://www.scoop.co.nz/stories/PA0008/S00088/erb-a-threat-to-the-rule-of-law.htm
+author: act-new-zealand
+---
+“ERB – A Threat To The Rule Of Law”
+===================================
+
+**Friday, 4 August 2000, 9:27 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+“ERB – A Threat To The Rule Of Law”
+
+Thursday 3rd Aug 2000
+
+Richard Prebble
+
+  
+Speech -- Economy
+
+Today I wish to speak about the Employment Relations Bill as a threat to the rule of law. This Bill is radical law. It is a direct attack on the sanctity of contract.
+
+The free enterprise system that has over the last 200 years transformed the lives of humans is based on a recognition of property rights, the sanctity of contract, freedom to make your own decisions and the rule of law.
+
+The government talks of closing the gaps. Poor New Zealanders today live in luxury, compared to the lot of the working family just 100 years ago, and luxury compared to that of merchants 200 years ago.
+
+Our high standard of living is a very recent event.
+
+It’s based on the wealth creation of free enterprise.
+
+The prosperity of this country comes from the private sector. Wealth comes from hard work, thrift and personal responsibility.
+
+No government ever has created wealth, prosperity or a real job.
+
+The globe is littered with governments that have destroyed economies.
+
+The Employment Relations Bill is an ideological attack on the free enterprise system. Its purpose is to promote collective decision-making in the economy, or as the left like to say, democratic economic decision-making.
+
+Margaret Wilson is a dedicated socialist. She is genuine in her belief that trade unionism is democratic collective decision-making.
+
+The Employment Relations Bill has nothing to do with fairness.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+What’s fair about making it illegal to manage your own business in a strike?
+
+The purpose of the Bill is – to quote the minutes of a secret meeting between Minister Wilson and the CTU leadership on 26 December 1999 – “to promote trade unionism”.
+
+The Bill creates de facto compulsory trade unionism.
+
+All new workers must be hired on the union-negotiated agreement, where there is one, for the first 30 days. To stay on that agreement, the worker must join the union.
+
+To be employed on any collective agreement, as tens of thousands of workers are now employed, they must join the union by law.
+
+The Bill is an attack on the sanctity of contract.
+
+After 2 October union can, by a “democratic” vote, break existing collective agreements. They can give notice of cancellation on 1 July 2001. Unions will do this to align different firms’ contracts.
+
+The wharfies, to get all stevedores contracts expiring together so they can have a whole port, or even the whole nation’s ports, go on strike simultaneously. Multi workplace strikes are legal under this Bill.
+
+If the Pilots’ Union had been able to strike at Air New Zealand and Ansett last year, the pilots would have won.
+
+This government ignores that these contracts are legal documents.
+
+Employers made concessions to get these contracts, some which have over three years to run.
+
+The attack on contracts goes further.
+
+The Bill says that individual contracts can be set aside if the employee claims not to have got advice, got bad advice, was emotionally distressed at the time, or had a linguistic disability.
+
+No matter the employee did not advise the employer that his mother-in-law had died last week.
+
+These provisions are so wide that any individual contract could be attacked. It’s all one way. Employers are struck with the contracts.
+
+The government has added a new term.
+
+Every contract must contain in plain English an explanation of how to resolve an employment dispute - in plain English, how to take the boss for a personal grievance.
+
+This explanation must also be given to all employees when the Bill comes in and at any time there is an employment issue raised.
+
+If you do not, this is itself grounds for a personal grievance.
+
+I do not believe that any employer can comply with this section.
+
+The government itself, in the original Bill, drafted its explanation of how to raise a personal grievance. The flow diagram contained in the second schedule looked like a drawing of a computer data board, so they scrapped it.
+
+The coalition MPs could not explain clearly how to resolve an employment dispute, so they simply put the task on employers.
+
+Laws that cannot be complied with are an attack on the rule of law.
+
+There are more.
+
+The new Employment Authority is a star chamber. It’s the type of court outlawed by Magna Carta.
+
+Employers are deemed guilty until proven innocent.
+
+If your employee charges you with discrimination, you must prove you did not discriminate.
+
+But you are also liable if the discrimination was by a fellow-employee, or even a customer.
+
+The test is not objective, but subjective. If the employee feels that they were discriminated against on the grounds of race, sex, sexual orientation, religion, social beliefs, or by the fact that they were in a trade union, then you are guilty.
+
+The original Bill did not even give you the rights of natural justice. There will still be no hearing. Investigators will go out and conduct interviews. It’s an industrial inquisition.
+
+No court can review this body. There is no requirement that the inquisitors be legally trained.
+
+I predict the Authority will be stacked with retired trade union officials and failed Labour and Alliance candidates.
+
+The authority will have the powers of the High Court. It can –
+
+ Issue compliance orders instructing you how to run your business.
+
+ Issue unlimited damages orders.
+
+ Can fine you thousands of dollars.
+
+ Wind up your business.
+
+The Authority can ignore other legislation.
+
+The Authority’s actions cannot be reviewed by the courts. It’s got a free licence. The government has put in provisions designed to make it very difficult for the courts to review this new all-powerful Authority.
+
+The Authority’s primary remedy is reinstatement. This is a recipe for industrial mayhem.
+
+An employee with whom there has been a complete breakdown in communication will be reinstated.
+
+No matter he has abused staff and customers.
+
+Under the Companies Act, officers of the company are under a legal obligation to protect creditors and shareholders by dismissing employees believed to be dishonest.
+
+The Authority will reinstate.
+
+Under the health and safety legislation an employer must remove employees who are a danger to themselves or others - an alcoholic bus driver, the crane operator on drugs – the Authority is to reinstate.
+
+We are going to see a jurisdictional demarcation dispute between the courts and the Authority with employers dammed if they do and dammed if they don’t!
+
+The assault on the rule of law goes further.
+
+The Bill creates labour inspectors. Margaret Wilson says we have always had labour inspectors – never like this!
+
+The law firm of Chapman Tripp calls them industrial parking wardens.
+
+I say they are the new Gestapo.
+
+These labour inspectors can enter your workplace at any time without a search warrant. They can inspect your books and issue “demand notices” – in effect instant fines.
+
+These labour inspectors, none of them trained, have more power than a police officer. The police need a search warrant to enter a Mongrel Mob headquarters, a labour inspector can search your own home if you work from there. If you keep company computer records on a PC in your backroom he can come in any time to have a look.
+
+Margaret Wilson believes that employers are worse crooks than drug dealers.
+
+I predict that the labour inspectors will be the enforcers for the trade union movement.
+
+Under this Bill any trade union official can enter your workplace, even if you are not there.
+
+All they need to do is claim coverage over some work being conducted on the premises.
+
+They need give no notice. No matter no one who works on the premises is a member of the union, or wants to be.
+
+They must leave a note to tell you they were there.
+
+A union could come and visit you every day.
+
+The assault on our freedoms continues.
+
+Under the Bill there is a new concept – “good faith bargaining”. It sounds good.
+
+Everyone who appears in front of the Select Committee claimed that they always acted in good faith. Even the Waterside Workers Union.
+
+Trouble is, no one knows what good faith bargaining is.
+
+Under the Bill, Margaret Wilson, as Minister, can issue a “decree” code of good faith.
+
+There is a working party of an employer, union and third party advising her about the codes but she can ignore all advice and issue her own code.
+
+The code is legally binding. It’s the law.
+
+No Minister in peace time has ever had such power.
+
+It is abhorrent to our Westminster system.
+
+It’s contrary to the Magna Carta.
+
+King Charles lost his head for less.
+
+You would expect the fourth estate to be up in arms.
+
+Radio New Zealand editorialised in favour of Parliamentary privilege being used to silence opposition MPs!
+
+Press Gallery hacks print government spin as if it was fact. Journalists fight to receive the off-the-record, confidential cellphone calls from Helen Clark.
+
+For evil to happen, it is just necessary for good men to remain silent, or for the media to print uncritically government spin.
+
+The price of freedom is eternal vigilance.
+
+Where you have a collective agreement, the Employment Relations Bill makes it compulsory for you to consult with trade union officials about every significant decision you make.
+
+The law now says that you must hand over to these trade union officials confidential business information.
+
+If you claim its confidential, you can give it to a third party, but you must still hand it over.
+
+If it is leaked, there is no penalty on the union.
+
+This Bill is not just anti-business, pro-trade unions – it won’t just promote strikes.
+
+The Bill is an attack on the rights, liberties and freedoms that make New Zealand a free country.
+
+Don’t get mad – get organised.
+
+This coalition government must go.
+
+I want to leave you with an optimistic thought.
+
+If as a result of this Bill it causes us as a nation to re-examine the freedoms that make this a great country, then some good may come from this law.
+
+Labour is only able to make this assault on the sanctity of contract, the rule of law and property rights, because National was a poor guardian. National passed laws like the Resource Management Act that undermines property rights. The Employment Court has been allowed to issue bizarre decisions to reinstate employees caught stealing and to award half a million dollars to workers claiming to be stressed.
+
+Laws like the Holidays Act have given workers windfall payments.
+
+ACC should have been reformed a decade ago. That law, with its no fault provisions, have undermined the concept of personal responsibility.
+
+Aspects of the National government’s Companies Act makes directors liable for actions well beyond their control.
+
+So the attack on the rule of law, the sanctity of contract, and property rights, the attack on the free enterprise system that has made New Zealand a prosperous free country, did not start in November last year.
+
+We need to elect men and women who do understand the need for Parliament to check on the executive, not its rubber stamps.
+
+I believe that is ACT’s role.
+
+ACT is the Party that stands up in Parliament for freedom.
+
+ACT stands for your right of choice.
+
+ACT is the Party that says people must take responsibility for their decisions.
+
+Let’s be compassionate for the truly vulnerable.
+
+Let’s stop the handouts and instead give a hand up.
+
+ACT’s role is to be the voice of the rule of law, without which no person’s property or liberty is safe.
+
+For more information visit ACT online at http://www.act.org.nz or contact the ACT Parliamentary Office at act@parliament.govt.nz.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

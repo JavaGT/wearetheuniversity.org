@@ -1,0 +1,122 @@
+---
+slug: policing-amendment-bill-rahui-katene-third-reading
+title: "Policing Amendment Bill - Rahui Katene - Third Reading"
+date: 2011-08-18
+source-url: https://www.scoop.co.nz/stories/PA1108/S00396/policing-amendment-bill-rahui-katene-third-reading.htm
+author: te-pati-maori
+---
+Policing Amendment Bill - Rahui Katene - Third Reading
+======================================================
+
+**Thursday, 18 August 2011, 4:51 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+**Policing (Storage of Youth Identifying Particulars) Amendment Bill**  
+**Rahui Katene, MP for Te Tai Tonga**  
+**Thursday 18 August 2011 – Third Reading**
+
+Immediately before I came into this House I spent a profitable hour talking with Deborah Morris from Every Child Counts – sharing our enthusiasm and our energy for a strengths-based approach to our tamariki.
+
+She provided me with a report entitled _He Mano Ra – one thousand days to get it right for every child._ Those thousand days relate to the first three years of life – and the 1000 days of a parliamentary term.
+
+It is a wonderful concept – the incentive and the inspiration to ensure our children are well nurtured; and that we place value on policies that lead to positive outcomes for our tamariki and mokopuna.
+
+And I had to think what a complete contrast it is to the focus of this House today, which has dedicated hours of debate to keeping photographs and fingerprints of youth offenders.
+
+The Green Party and the Maori Party – the only two parties opposing this legislation and making the effort to speak out and speak up on behalf of our people – have received the wrath of the House for daring to oppose this Bill.
+
+We have been told it is simply a technical issue, and that all it does is restore the legal position under the Police Act 1958.
+
+Tere Harrison – writing in to the Maori Party about her response to this Bill - has acknowledged how critical it is for the debate to be had, and I share her views to put forward another position:
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+_“That would have to be the immediate concern, under urgency will prevent select committee process and public submission. That's a gross (and suspiciously a deliberate), misuse of urgency. Unfortunately not all parties are present in the House to vote against it”._
+
+That of course is the nature of urgency – that the process of public scrutiny is shortcut – or in the case of this bill completely avoided – and so the onus is placed on all parties to take up the issues on behalf of the people who have placed them in this House, to speak on their behalf.
+
+The Maori Party has, therefore, taken every effort to ensure the views of Maori, the strong and independent views of Maori are placed on the record on this bill – and indeed every bill in the urgency motion.
+
+And we will continue to do that – whether or not we receive the reception we might hope for.
+
+Because we are conscious – as Tere Harrison has also pointed out – of the importance of the United Nations Convention of the Child and in particular Article Three of that Convention: which requires all States Parties undertake to ensure the child such protection and care as is necessary for his or her well-being.
+
+Our focus – in raising the questions we have – is to bring to the House the opportunity to talk about youth wellbeing rather than simply promoting yet another forum for politicians to talk about the perils of youth; and the need to hold the fingerprints of youth who have been admonished by a judge.
+
+I would really recommend that Members look carefully at sections 283 (a) to (n) of the Children, Young Persons and their families Act. These provisions – for children to be admonished; for young parents to attend a parenting programme; for young people to attend a mentoring programme – are now provisions for which the fingerprints and photographs of these young people are kept.
+
+And I would suggest in particular that Mr Hipkins looks at this detail – that these orders from a very good piece of legislation were always intended to focus on child and youth wellbeing – not fodder for this Policing Bill.
+
+I have been greatly disappointed by the nature of the debate today which has tried to close down discussion on the impacts for youth and instead focus on the mistakes of the statute.
+
+At the end of the day, one has to ask, if this Bill was merely a technical issue why was the name and the nature of the legislation kept secret until mid-morning today?
+
+According to the _New Zealand Herald_, the explanation for the secrecy are fears that the bill might lead to a flood of legal challenges.
+
+That same paper suggests that it has been the best kept secret in the world, with discussions between police and officials taking place since 2010 when the problem was first identified.
+
+What we have been talking about in the House today is that fingerprints and photographs have been improperly retained ever since the Policing Act of 2008.
+
+The Minister of Police told the Herald, that the Police had been holding hundreds of records that should have been destroyed under the present law and have now been destroyed.
+
+So in effect, the Minister has confirmed unlawful practice by the police has taken place, with police retaining information that should have been destroyed.
+
+What the House needs to know is if the Police hold any records that have been collected over the past three years; and if so, have they been held by the Police in breach of the current law, and if not, then why is the Bill being made retrospective?
+
+This little bill – containing just four pages – has been described then as necessary to rectify a loophole in the law. But I have asked the House to focus on the bigger picture – and that is the group being targeted in this law.
+
+What we are told in the Explanatory note is that this group could comprise about 1200 young people a year who have proven outcomes in the Youth Court, and orders made under the Child, Young Persons and their Families Act.
+
+Yet again, we have law which focuses on crime and offending; on youth offenders and on repeat offenders. This is a law to enable police to retain the identifying features of young people who have a charge proven in the youth court, and whom have an order made by a Judge.
+
+And so I bring us back to the views of the public - those people who have contacted our office over the morning to share their feedback.
+
+Sharlene Pearce shared her view, which I quote for the record:
+
+_I do however believe that "where attention goes, energy flows", and that perhaps in the long run (another day) we should look at a solution to changing the attitudes of people looking at our youth in a negative way. i know that it would be a total paradigm shift for society though!_  
+  
+_It's seemingly impossible! But could we focus on the positive instead of the negative, I can see some people have very strong feelings about the institutional racism we inevitably face._
+
+Another similar view was shared by [Maryanne Rapata](http://www.facebook.com/profile.php?id=536446722)
+
+_“continue to oppose it Minister, hard to fathom that some people are so naive to think that only serious offences and offenders data will be kept. Would hate to think if my moko shoplifts when he is a minor, that the offence will be hanging around his neck for the rest of his life._  
+  
+_People change as they grow older, circumstances change but his offence history won't. Hoha crime is the target for this bill, not serious crime. It's saying once a crim always a crim. I don't want that for our kids or in fact anyones kid”_
+
+Mr Speaker, the most consistent comment made by other parties in this House in response to the arguments put forward by the Maori Party and the Greens, has been that we limit our comments to fixing the loophole on the law, rather than stretching out any further.
+
+But is we listen to the views of the public, we can hear a focus on forgiveness; on rehabilitation; on restorative justice.
+
+We have not heard the public calling out for youth who have a charge in the Youth Court, or who receive an order made by a judge, to be fingerprinted, photographed and their data retained
+
+And I remind the House, this bill allows the data to be retained of young persons who have been admonished; young persons asked to attend a parenting education programme; young persons asked to return to the Court twelve months on from their first appearance.
+
+And if the House think that this is only about offenders who are convicted - then they are living in an alternative universe. So many of our kids go to these Courts and say if I plead guilty will that get me off quicker? We have to be aware of those issues.
+
+And so finally, I leave the last word to Aneta Timu -
+
+_“I'm sure even police can appreciate that we all make mistakes and if we learn from them we deserve to move on unstigmatised”._
+
+Will this Bill enable the great potential of our youth to be supported? Will it facilitate a second chance? The Maori Party does not think so – and we will continue to vote against it.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

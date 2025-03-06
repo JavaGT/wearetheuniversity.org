@@ -1,0 +1,125 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2007-08-16
+source-url: https://www.scoop.co.nz/stories/ED0708/S00042/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 16 August 2007, 7:15 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Still too few senior female academics, says Human Rights Commission  
+Although their numbers may be increasing, the proportion of women in senior academic positions at Canterbury and Lincoln Universities still remains low, according to figures published in the Christchurch newspaper, The Press. The report says that women now make up just 8.22 percent of professors and 21 percent of associate professors at the University of Canterbury, compared with 6.15 percent and 6.41 percent respectively in 2006. Women comprise 9.4 percent of the professorial establishment at Lincoln University, compared with 8.33 percent in 2006. Like Canterbury, Lincoln has seen a reasonable jump in the proportion at associate professorial level at 20 percent, compared with 5 percent last year.  
+The Press reports the Human Rights Commission as saying that the Canterbury universities still have a long way to go to improve their numbers of senior female academics, with the Equal Opportunities Commissioner, Judy McGregor, saying that the figures show that progress is slow but steady.  
+Dr McGregor’s comments come ahead of the publication later this year of the 2007 Census of Women’s Participation, which reports the progress that women are making in joining men at the top of corporate governance and public life in New Zealand. The census also provides detailed figures and comparisons of women’s representation in different sectors of the labour market, including universities.  
+Association of University Staff Women’s Vice-President, Associate Professor Maureen Montgomery, said the figures stressed the importance of universities having effective equal-employment-opportunities action plans which systematically addressed the inequalities highlighted by the statistics. “While universities already have a statutory duty to develop and publish an equal-opportunities programme, they need to go further than this by actively encouraging and supporting women into senior positions,” she said.  
+Associate Professor Montgomery said the reasons why women, many of whom are trying to forge academic careers at the same time as shouldering heavy family responsibilities, did not advance as fast as men were well known and what was needed was a serious commitment from universities to make real change.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Students say fee proposals outrageous  
+2\. New Chair for Commission  
+3\. Senior doctors says crisis threatens doctor training  
+4\. $10 million boost for international education  
+5\. Our five seconds of fame  
+6\. Anger at visa denial  
+7\. Scholarships used to coerce students  
+8\. UA appoints new boss  
+9\. Scholar slates “dodgy” criteria  
+10\. Fancy a degree?
+
+Students say fee proposals outrageous  
+Students have reacted angrily to the extension for another year of the Government’s fee-maxima policy which prevents tertiary-education institutions from increasing tuition and course-cost fees by more than 5 percent in any one year without specific exemption from the Tertiary Education Commission.  
+The New Zealand Union of Students’ Associations (NZUSA) has labeled the move as outrageous and says that students have been delivered a double-whammy by the loosening of rules around tuition-fee setting.  
+As well as controlling the amount by which fees can be increased, the Commission also sets a schedule above which tuition fees are not permitted to be charged. In previous years the regulations provided that institutions with fees above the maximum levels set were required to reduce them by 5 percent or to the maxima. For 2008 that requirement has been removed.  
+NZUSA Co-President Joey Randall said that the fee-maxima regulations, which had been intended to put restraints on increases in tuition fees, had resulted in having almost the opposite effect. “What has occurred is that universities have used the 5 percent maximum as the standard increase and, in many cases, have applied and been granted increases in excess of that,” he said. “The result has been that 5 percent has effectively become the minimum increase.”  
+Mr Randall said that the Government had once again missed the chance to implement a fee regime that would offer genuine fee stability. “The policy has never worked with New Zealand students now paying some of the highest fees in the world,” he said. “The Government should prove its commitment to education and student support by abolishing both the inadequate fee-maxima scheme and out-of-control fees by introducing free, publicly funded tertiary education.”  
+The extension of the fee-maxima policy and the changed rule came to light only with the posting of the 2008 Fee and Course Costs Maxima details on the Commission’s website.
+
+New Chair for Commission  
+The Tertiary Education Commission has a new Chair, with the Minister for Tertiary Education, Dr Michael Cullen, announcing yesterday the appointment of David Shand to the role. Dr Shand, who takes up the position on 27 August, will fill the vacancy created by the retirement in June of former Chair, the Hon Russell Marshall. His term is for three years.  
+A statement says that, after an outstanding career overseas, David Shand recently returned to New Zealand, where he is on the board of Meridian Energy and chairs the Commission of Inquiry into Rating. Previously, he worked as a public-financial-management specialist at the World Bank and the International Monetary Fund in Washington and he has also worked with the OCED for four years on public-sector reforms.  
+After joining the Treasury in the mid 1960’s Dr Shand taught accounting and public finance at Victoria University before moving to Australia in 1977. Following four years’ teaching at the Australian National University, Dr Shand started a career in the Australian public sector and held a number of senior positions in state and federal government, including Deputy Secretary of the Victorian Treasury and Queensland Public Service Commission. Dr Shand has also taught at the University of Washington and Georgetown University in the United States.  
+Dr Cullen said that Dr Shand is a highly capable individual who has had extensive experience in public-sector finance and in public-sector organisations. “The Chair of the TEC must have governance experience, experience of government, leadership skills, a passion for tertiary education and the capacity to learn the subtleties of the policy. David’s background equips him well for this job,” he said.
+
+Senior doctors says crisis threatens doctor training  
+Senior doctors say the workforce crisis in the health system is harming doctor training and threatening the excellent reputation of the Otago School of Medicine. About sixty-five senior doctors met in Dunedin earlier this week in one of a series of nationwide stopwork meetings held over the past four weeks in the wake of an impasse being reached in negotiations with district health boards (DHBs) for a national collective agreement.  
+Association of Salaried Medical Specialists (ASMS) Executive Director, Ian Powell, says that senior doctors expressed deep concern about the impact the recruitment and retention crisis is having on doctor training and the meeting resolved that the medical workforce crisis is impairing junior and senior doctor training in New Zealand. Medical specialists at the meeting said shortages of senior doctors were resulting in their doing longer hours, which in turn meant their professional development and education was being neglected. Continued neglect of professional development and education compromises the ability of specialists to provide quality of care for patients.  
+According to Mr Powell, the viability of Dunedin Hospital has a direct impact on the quality of training at Otago School of Medicine, which holds a highly regarded position internationally. “The senior doctor shortages at Otago DHB and their impact on health services at Dunedin hospital are threatening the reputation of the Medical School,” he said.  
+Specialists at the Dunedin meeting unanimously voted to refuse the DHBs’ current salary offer and condemned the DHBs for their failure to negotiate genuinely. The meeting also took the step of expressing a lack of confidence in the ability of the Minister of Health to recognise and appropriately respond to the current crisis in the recruitment and retention of senior doctors.  
+Negotiations between the ASMS and DHBs resume today.
+
+$10 million boost for international education  
+International education is to receive a $10 million boost from the Government over the next four years to help reinvigorate what has been described by the Minister for Tertiary Education, Dr Michael Cullen, as an important export industry and a valuable part of the education sector.  
+There were more than 93,000 international students from 150 countries studying in New Zealand in 2006, resulting in foreign exchange earnings of $1.9 billion.  
+Of the new funding, $3.4 million will be used to enhance the international recognition and value of New Zealand qualifications for study and employment purposes, $3.96 million is for the development and implementation of the New Zealand Educated brand strategy between now and 2009 and the remaining $2.4 million will be used for education-diplomacy activity and to fund an education counsellor for the Gulf States.  
+The new counsellor will join a network of education counsellors based in Washington, Brussels, Kuala Lumpur, Beijing, Santiago and Delhi. A counsellor is also planned for Seoul.  
+Dr Cullen said that promoting the reputation of New Zealand’s education, enhancing the recognition of the country’s qualifications abroad and extending education-diplomacy activities in the Gulf States are priority areas for both the Government and the sector. “Our reputation as a quality provider of international education is certainly improving. In June, the first of 200 Saudi Arabian students arrived under a Saudi Arabian Government-sponsored programme,” he said. “It is vital we do better in harnessing the potential of international education to help transform the New Zealand economy.”  
+National Party International Education spokesperson, Pansy Wong, said that Labour’s announcement that it is finally ready to deal with the dramatic decline in the number of overseas students is long overdue. “For an industry that was touted as the fifth-biggest export earner in New Zealand, worth 1.8 billion dollars, the $10 million is a belated apology for getting it so wrong over the past eight years,” she said.
+
+Our five seconds of fame  
+Keen readers of the Dominion Post will have spotted on Tuesday that, along with such brain teasers as “Who fathered the baby daughter of former Spice Girl, Mel B?”, the newspaper’s daily five-minute quiz tanatalised readers further by asking for the full name of the employees’ organisation, AUS. We are pleased to report that those AUS National Office staff who diligently attempt to complete the quiz every morning were able to answer correctly on this occasion.
+
+Worldwatch  
+Anger at visa denial  
+The American Sociological Association (ASA) and civil liberties groups have denounced the United States Government over the refusal of officials to allow one of South Africa’s top social scientists into the country to give a scheduled talk at the annual meeting of the ASA last weekend.  
+Officials refused to act on a visa application from Professor Adam Habib, the Executive Director of South Africa’s Human Science Research Council’s Programme on Democracy and Governance and a professor in the School of Development Studies at the University of Kwazulu-Natal. The refusal to act, rather than rejecting his application, has made it difficult to determine exactly why Professor Habib could not get entry to the US. In October, even while holding a visa, he was refused entry when he arrived for a series of scholarly meetings in the United States.  
+Critics believe that Professor Habib is being kept out of the US because he is a Muslim who has been a vocal critic of the US war in Iraq and of other US government policies. Habib is an expert on civil society and democracy.  
+US officials have refused to say why Professor Habib is being kept out. When he was detained and refused entry in October, Habib said that he was asked for hours about his views on terrorism.  
+ASA has expressed its “deepest disappointment and profound concern” at what it describes as the Department of State’s de facto denial of a visa. “Such actions undermine the willingness of numerous scientists and academics from many nations to visit the United States and collaborate with their American colleagues. The ASA believes this limitation on scholarly exchange erodes our nation’s reputation as a defender of the free and open search for knowledge,” the statement said.  
+From Inside Higher Education
+
+Scholarships used to coerce students  
+At least nine universities in the United Kingdom, including many of the most illustrious names, have been accused of using scholarships worth several thousand pounds a year to coerce academic high-flyers into picking their courses. The universities include the London School of Economics, Imperial College London, Bristol University, University College London and Nottingham University.  
+Students are entitled to apply to enrol at five universities but must rank their two top preferences in case they do not get the grades required for their top choice. Some universities offer scholarships on condition a student ranks the institution as the top choice.  
+Heads of university admissions and student leaders have condemned the practice as making clever but hard-up applicants feel their hands are tied on their first-choice university. Wealthier students, on the other hand, may be able to choose their preferred course and place of study regardless of financial factors.  
+The Vice-President for Education at the National Union of Students, Wes Streeting, said that universities are trying to tie students into making certain choices on a financial offer, rather than giving students the freedom to decide based on the quality of the education on offer.  
+From the Education Guardian
+
+UA appoints new boss  
+Universities Australia, that country’s equivalent body to the New Zealand Vice-Chancellors’ Committee, has announced the appointment of Dr Glenn Withers as its new Chief Executive Officer. For the past ten years, Dr Withers has been the Professor of Public Policy and Deputy Director of the Crawford School of Economics and Government at the Australian National University and he is also a Professor at the Australian and New Zealand School of Government.  
+UA Chair, Professor Gerard Sutton, said Dr Withers has extensive experience working with government, industry and the university sector. “Dr Withers’ wealth of academic knowledge together with his extensive experience working with State and Federal governments and the business community will greatly benefit the organisation as it moves towards a greater focus on advocacy for higher education,” he said.  
+Dr Withers, who was described in The Australian as a “five-star hotshot”, was awarded an Order of Australia in 1992 for service to Applied Economics, particularly in the areas of immigration and population research. He will take up his new position in October.  
+Commenting on his new role, Dr Withers said that universities are a bit like artists. “They are the most articulate communities in the country but they are so bad at explaining what they do and why they do it,” he said.
+
+Scholar slates “dodgy” criteria  
+A leading Cambridge scholar has published a stinging attack on the “audit society”, which he says is destroying originality and honesty in research. Writing in the latest edition of Current Biology, Peter Lawrence, a developmental biologist at Cambridge, says that “dodgy” criteria for evaluating the value of research, such as the “impact factor” of the journals where academics publish and article citations, are “dominating minds, distorting behaviour and determining careers”.  
+In the article, The mismeasurement of science, he adds that, to secure funding and promotion, “scientists aim, and indeed are forced, to put meeting the measures above trying to understand nature and disease”.  
+Dr Lawrence, an emeritus scientist in the Department of Zoology, complained that evaluating research by quantity rather than quality will create a culture of “citation-fishing and citation-bartering”. He said that bad papers, which may have wasted the time of hundreds of scientists, still end up helping their authors secure a job, promotion or tenure, while original work that is not immediately appreciated counts for little.  
+“Studies show that articles are often cited even if they have not been read,” Dr Lawrence said, “and group leaders claim credit for authorship from junior researchers. As scientists spend bizarre amounts of their time touting the network, less pushy but talented researchers were left behind.”  
+From The Times Higher Education Supplement
+
+Fancy a degree?  
+The Serbian Deputy Minister of Higher Education, Emilija Stankovic, along with several members of the Faculty of Law at the University of Kragujevac, have been arrested on suspicion of corruption after an officer investigating a car theft was allegedly asked to forget it in return for a complimentary law degree.  
+Investigators say they have uncovered a thriving industry at Kragujevac where a single exam pass costs about €600 ($NZ1,100) while a degree, without the hassle of sitting exams, will cost about €6,000.  
+Meanwhile, in Ukraine, a lecturer is alleged to have been caught red-handed recently taking bribes for arranging an exam pass, charging €300 a time (more than manual workers earn in a month). The penalties for such an offence are up to eight years’ imprisonment for the teacher and summary expulsion for the student. But reliable university sources in Ukraine say that the trade in good exam results is booming. One common practice employed by fraudulent staff is the inclusion of incomprehensible questions in tests that can be solved only through a private financial arrangement.  
+From The Times Higher Education Supplement
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

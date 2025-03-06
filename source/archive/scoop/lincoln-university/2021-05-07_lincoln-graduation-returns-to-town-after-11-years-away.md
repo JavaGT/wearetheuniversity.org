@@ -1,0 +1,103 @@
+---
+slug: lincoln-graduation-returns-to-town-after-11-years-away
+title: "Lincoln Graduation Returns To Town After 11 Years Away"
+date: 2021-05-07
+source-url: https://www.scoop.co.nz/stories/ED2105/S00008/lincoln-graduation-returns-to-town-after-11-years-away.htm
+author: lincoln-university
+---
+Lincoln Graduation Returns To Town After 11 Years Away
+======================================================
+
+**Friday, 7 May 2021, 9:41 am**  
+**Press Release: [Lincoln University](https://info.scoop.co.nz/Lincoln_University)**
+
+The first Lincoln University Graduation at the Christchurch Town Hall since the Christchurch earthquakes also includes a celebration after last year’s COVID-19 cancellation.
+
+Lincoln graduates and graduands (those yet to graduate) will be back in town on Thursday 13 and Friday 14 May, for the first time in 11 years.
+
+The last time the University’s graduating students paraded through the city’s streets in their mortarboards and gowns was in 2010, and this year there will be three processions.
+
+Last year’s ceremony could not go ahead because of the COVID-19 lockdown so a special celebration ceremony is being held to honour 2020 graduates on 13 May, with 275, plus guests, attending, while 601 graduands will attend Friday’s ceremonies.
+
+Earthquake damage to the Town Hall in 2011 pushed Lincoln graduations to the Lincoln Event Centre for nearly a decade, with the procession starting from the University’s campus.
+
+The move back to town was initiated in 2020. The key driver for this decision was the difficulty perceived with concentrating graduation activities on campus and the immediate area during the University’s ongoing major rebuild programme.
+
+The refurbished Town Hall is a larger venue and will allow more family members to enjoy the occasion.
+
+The procession will start at the Christchurch Art Gallery and make its way down Worcester Boulevard, down Oxford Terrace, and across Victoria Square to the Town Hall.
+
+The celebration event will feature graduates in full regalia being called up on stage, and all of the ceremonies, as well as the processions, will be live-streamed.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Lincoln University Acting Vice-Chancellor, Professor Bruce McKenzie, said Lincoln wanted an opportunity to publicly congratulate its 2020 graduates and their families, as well as the 2021 cohort.
+
+He added it was wonderful to be back in the central city and marching through a rejuvenated Christchurch, and to return to the Town Hall.
+
+“The Town Hall is a fantastic venue at which we hosted graduation ceremonies from 1994 until 2010, and it is great to be back, and to be able to showcase our graduates and graduands to the people of Christchurch through the procession.
+
+“It will be a memorable return, especially with the celebration added.”
+
+Graduation Awards 2021
+----------------------
+
+Lincoln University Honorary Doctorate Andy Borland
+--------------------------------------------------
+
+Awarded an Honorary Doctorate of Commerce, Andy Borland is Managing Director of Scales Corporation, a leading New Zealand agribusiness company.
+
+In addition to his directorships within the Scales Group, Andy is the Chairman of Akaroa Salmon Limited, Primary Collaboration New Zealand Limited, Primary Collaboration New Zealand (Shanghai) Co Limited and Rabobank New Zealand Limited.
+
+He has maintained a strong relationship with Lincoln and is a member of the Lincoln University Foundation and a guest speaker at alumni events.
+
+Bledisloe Medal Jeff Grant
+--------------------------
+
+The Bledisloe Medallist for 2021, Jeff Grant has had a long and successful career in the land-based industries in New Zealand.
+
+He is currently the Chairman of Thriving Southland, a Director of Great South and a Trustee of the Massey-Lincoln and Agricultural Industry Trust.
+
+In 2018 Jeff was appointed by Beef + Lamb New Zealand and the Meat Industry Association to represent and safeguard New Zealand’s red meat exports in the wake of Brexit and position the NZ Meat Industry for Free Trade Agreements with EU 27 and the United Kingdom.
+
+He was also was the National Party Member of Parliament for Aarau from 1987 to 1993 and held the position of Senior Whip from 1990 to 1993.
+
+2021 Ngāti Moki Trophy for Māori Leadership
+-------------------------------------------
+
+The winner of the Ngāti Moki Trophy for Māori Leadership in 2021, Denise Sheat has represented Te Taumutu Rūnanga for 10 years on Ahumairaki, Lincoln University Council’s Māori sub-committee, her work ensuring the continuation of the strong relationship between the University and the rūnanga.
+
+As a member of Ahumairaki, Denise helped drive the strategic direction of the University to meet the needs and aspirations of Māori students.
+
+Denise has also supported pōwhiri and cultural events at Lincoln, as well as at Lincoln University graduations and Māori celebrations, and she has performed the Kaikaranga role for the University on numerous occasions.
+
+In 2015, her dedication to promoting and growing biculturalism in Aotearoa was officially recognised when she was awarded the New Zealand Order of Merit for services to Māori and Education.
+
+Tony Ryan 2021 Lincoln International Alumni Medal
+-------------------------------------------------
+
+The Lincoln University Alumni International Medallist for 2021, Tony Ryan’s services as an international development consultant have been keenly sought by several development agencies, especially the International Fund for Agricultural Development (IFAD), the Asian Development Bank (ADB) and the Ministry for Foreign Affairs and Trade (MFAT).
+
+He has worked on 103 assignments in 21 different countries and spent two years as a resident project adviser in both Papua New Guinea and the Cook Islands.
+
+In addition to his professional development work, Tony has made two significant voluntary contributions to development in Tonga and Kyrgyzstan.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Lincoln University](https://info.scoop.co.nz/Lincoln_University) on InfoPages.

@@ -1,0 +1,130 @@
+---
+slug: sue-bradford-speech-to-ctu-biennial-conference
+title: "Sue Bradford Speech to CTU Biennial Conference"
+date: 2005-10-19
+source-url: https://www.scoop.co.nz/stories/PA0510/S00104/sue-bradford-speech-to-ctu-biennial-conference.htm
+author: green-party
+---
+Sue Bradford Speech to CTU Biennial Conference
+==============================================
+
+**Wednesday, 19 October 2005, 1:59 pm**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Speech to CTU Biennial Conference  
+Sue Bradford MP, Green Party Industrial Relations Spokesperson
+
+CTU Biennial Conference, Wellington, 19th October 2005
+
+  
+Kia ora koutou,
+
+Thanks very much for giving the Green Party a voice at your conference this week. I don’t know if you had any idea of what your timing would be like when you set the dates for your biennial conference, but I imagine you had no idea it would take place simultaneously with the formation of the 2005-2008 Government after four weeks without one.
+
+There are a few things I’d like to say on that particular topic, but before I go there, I’d first of all like to extend the sincere appreciation of everyone in the Green Party for the support the CTU and many of your affiliates offered us during the election campaign.
+
+Thanks for those of your leaflets and newsletters which explained why voting Labour and/or Green was the only choice for workers who wanted a pro worker pro union Government.
+
+Thanks for allowing Green speakers access to a number of your executive, delegate and stop work meetings around the country, and to those of you who let us distribute our own material among your members.
+
+And thanks to those of you who went the extra distance and offered resources and activists to help support our campaigning work locally and nationally.
+
+It is clear that we have made huge strides in the relationship and understanding between the union movement and the Green Party over the last six years. We have come a long way.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I think a number of you are probably as disappointed as we are that our new Government includes two parties against whom those big crosses were marked on the CTU election leaflet.
+
+The result announced on Monday night has obviously been bad news for the Green Party. There was so much we had hoped to achieve alongside Labour in this coming Parliament, only to be shut out by United Future’s and NZ First’s coercion of Labour into ensuring there was no room for us on the inside.
+
+This is bad news for the unions and bad news for the country.
+
+While it is true that NZ First presents a mixed picture in its approach to worker issues it has mainly voted against the ERA, reforms to ACC and most other related legislation. United Future has been even worse, not surprising given that they don’t understand what it means to bargain in good faith. Over the last couple of weeks they’ve clearly been playing both sides off against the middle, joining with Brash, ACT and the Maori Party to invite NZ First to join National in power, then jumping the fence to join Labour when the price got right.
+
+Labour could have called the bluff of its two conservative suitors, but didn’t. Labour could have worked differently to form another kind of government and didn’t. I realise how trapped they’ve felt, and that it’s the voters who’ve dealt us all a difficult hand, but I regret deeply the lost potential for any kind of serious progressive reform on a number of fronts, and I fear what may become of all our options in 2008.
+
+However, in all this it doesn’t really matter about the Green Party’s feelings – we’re shaking ourselves off and moving on to make the best job we can of the next three years. We’ll be using our six MPs to give the strongest voice possible to those human and non-human voices whose interests are not usually so clearly heard in the toxic environment of parliament, and to keep a radical left and environmental agenda visible in the corridors of power.
+
+We will not hesitate to speak out agains any moves which we see as damaging to the interests of children, working people, beneficiaries, and other people left behind by the market.
+
+I think perhaps what is most frustrating about the new situation we find ourselves in is the opportunities that have been lost. In a different kind of formation, for example, with a Labour, Progressive, Green & Maori Party Government, some of that radical agenda may actually have become possible.
+
+Obviously the Green Party will continue to support Labour on progressive legislation over the next three years. Quite bluntly, without us, there will be none.
+
+I don’t need to remind you that Labour has only been able to pass pro worker pro union laws over the last six years with our help; they will need our assistance even more in the term of this government. I can see that we will also need to play a role in helping to bring in potential partners like the Maori Party who have every reason, given their support base, to support laws which benefit the low paid and more insecure workers in this country.
+
+The Green Party will most urgently be calling upon Labour to take action on amendments to the ERA correcting the problems around ensuring vulnerable workers like contract cleaners will be covered, as per our original intention – this is urgent and mustn’t wait any longer than necessary to make it on to the legislative agenda.
+
+We will also do our best to make sure that Labour honours that part of its various cooperation agreements with different parties that pledges to raise the minimum wage to $12 an hour. We are pleased that pressure from yourselves, us and NZ First has seen the minimum wage get to centre page on the political agenda, but I regret that they’re talking about three years and not three months.
+
+As you know better than I do, there are industries where the lowest wage has increased by less that a dollar a week each year for the last 14 years. There are workers who have been on the minimum wage or just above for years without a raise at all. And it’s high time the same minimum wage applied to 16 and 17 year old workers, not just to so called adult workers.
+
+Young people continue to be one of the most exploited and vulnerable groups of workers in the country and by the way I would like to congratulate you on all the fantastic work the CTU, the Youth Union Movement and associated unions are doing to rebuild those quaint old principles of solidarity and collective action among the young workers of 2005.
+
+There are a number of campaigns where Greens and particular unions have worked together in the past - like working with student and tertiary sector unions to bring in a universal student allowance and an end to the student loan scheme; like working with rail unions on persuading Labour to buy back the track; with nurses and service workers on the Fair Share for Aged Care campaign, with the Maritimes on a new approach to coastal shipping – and much more. Work in all these areas and others must continue, within and outside parliament.
+
+The Green Party also remain committed to doing everything we can to support the maintenance and development of good faith bargaining and multi employer agreements, strong health and safety protections, extensions to paid parental leave, ensure the introduction of four weeks annual leave, and continue work on a whole range of issues around work life balance, flexible working hours, and pay and employment equity.
+
+We seek to at least maintain what we’ve achieved in terms of measures that work to prevent non union members freeloading and in general do everything we can to support Labour in maintaining an enabling rather than destructive environment for the ongoing building of genuine trade unionism in New Zealand.
+
+Our cooperation agreement with Labour this time round includes not only a commitment to the $12 an hour minimum wage, but things like :
+
+· our solar energy programme which will in practical ways help some people to reduce the cost of living as well as assisting the environment;
+
+· our buy kiwi made campaign which is aimed at building brand loyalty for NZ made products and protecting and creating jobs especially in provincial NZ;
+
+· and a commitment to increasing the number of students eligible for student allowances, reducing the number of young people who don’t start working life with such a massive debt burden.
+
+In developing our work with unions over not only the next three years but also the next three after that and into the future, I’d also like to stress the need for us to find more and better ways to make progress together not just on core workplace issues but also on areas of overarching significance for the survival of all of us, and the earth that sustains us.
+
+These range from things like the issue of asbestos in the workplace - and I’d like to congratulate the members of the Australian CFMEU who’ve been here to help develop a joint campaign with we kiwis on this issue – through to the impacts of the end of cheap oil and global warming, ever increasing pollution of our waterways, the loss of marine and land based biodiversity….and so much more.
+
+We need your help to persuade Government and councils of the madness of accelerated spending on motorways as opposed to rail, ferry and bus transport when so many people will be unable to afford to run cars to work in future.
+
+We want to work with you on facing down the free trade agenda, reducing foreign investment and control, promoting and resourcing renewable energy sources, supporting regional economic development which doesn’t plunder the planet, and safeguarding human rights.
+
+The Greens are by our very nature a party which is always trying to think past the confines of three year parliamentary cycles to what the impacts of what we do now will be on generations ahead.
+
+I know that increasingly your organisations are thinking this way too and I welcome the dialogues which are opening up between us, for example with unions like the EPMU, whose members are so impacted by things like the energy crisis.
+
+The Prime Minister was right yesterday when she told you that the campaign for the next election has already started.
+
+Despite our disappointment with what the election has handed us and the limitations on what will be possible, the Greens are committed to engaging with Labour to do the best we can over the next three years.
+
+And we must get it right next time. We need to work together to get the message across to those whose interests we collectively represent that if you want a Labour Green government, then those who lean towards our environmental and social agenda must vote Green - not Labour - with their party vote. It is how many seats we have on the left side of the house that counts, not which of the two major parties has the most seats.
+
+People need to learn that they need to vote left if they want a centre left Government, not just vote centre.
+
+We’ve got a tough three years ahead of us.
+
+But like you, we Greens are used to being on the outside and to being unafraid to stand up to political and corporate power.
+
+An ever increasing number of us come from a union background and are union activists in our own right and I look forward to welcoming even more of you among our party membership in the months and years ahead.
+
+You have at least two natural allies in Parliament these days – make the most of it - and of us.
+
+I look forward to working closely with you as you progress your own programme of work and I await with interest news of any new developments and plans which might be arising from this conference.
+
+We’ve narrowly avoided the worst possible outcome from this election, but let’s work together to make damn sure that the next time round we can have a somewhat more genuine celebration when the government is announced than we did the other night.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

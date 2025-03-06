@@ -1,0 +1,65 @@
+---
+slug: students-deeply-concerned-at-support-cuts
+title: "Students deeply concerned at support cuts"
+date: 2012-05-03
+source-url: https://www.scoop.co.nz/stories/ED1205/S00020/students-deeply-concerned-at-support-cuts.htm
+author: ausa
+---
+Students deeply concerned at support cuts
+=========================================
+
+**Thursday, 3 May 2012, 3:16 pm**  
+**Press Release: [AUSA](https://info.scoop.co.nz/AUSA)**
+
+3 May 2012
+
+**Students deeply concerned at support cuts**
+
+Students concern at recent changes to student support has been worsened by today’s announcements. Minister of Tertiary Education Stephen Joyce has confirmed the following changes:
+
+• The recent incentives for voluntary student loan repayments will be rescinded;  
+• An earlier signalled rise the student loan repayment threshold, moving it to 12%;  
+• An earlier-announced freeze in the parental income threshold for the student allowance has been extended to four years; and  
+• Student allowances will only be available in the first four years of tertiary study.
+
+Earlier, students had expressed dismay at the increase in the student loan repayment threshold. On Wednesday, President of Auckland University Students’ Association (AUSA), Arena Williams, noted that “The current repayment rate for student loan borrowers of 10% is already high. Graduates earn less than the mean full time wage in their first five - ten years of work. The system punishes people who're trying hard to get ahead in their careers and don't have disposable income."
+
+Moving the repayment rate to 12% means that New Zealand’s repayment rate is now three times the base rate of Australia, and will affect not only future, but also present students. With wages currently well below those in Australia, students fear that more graduates will head overseas. “New Zealand wages are already low. To effectively institute a 2% tax increase on anyone earning over $19,084 per year will inevitably result in more graduates heading overseas to ensure they can earn a wage which leaves them with some disposable income”, said Ms Williams.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The changes to the student allowances scheme are also of grave concern. Student allowances provide support to students from low-income backgrounds For a student under 24 to receive the allowance, their parents combined income must be less than $55,026. Today’s changes amount to a cut in real terms. Freezing the threshold so that it doesn’t account for inflation risks shutting deserving students out of tertiary education, according to Ms Williams. "These cuts to student allowances will limit eligibility. Simply put, students who have the potential to achieve top results in tertiary education won't be able to study. These kids lose and their communities lose."
+
+Research has found that up to 15% of students are in dire financial difficulty.\[1\] "We are frequently approached by students seeking financial support and even food parcels," said Sam Bookman, Education Vice-President of AUSA. "Even at the full allowance of $206.73, it's very difficult to afford rent, food and textbooks. Everyone from the University of Auckland Vice-Chancellor to the Prime Minister's own Chief Science Advisor have expressed concern that Auckland University's international ranking is slipping. However, if students are placed under this kind of financial stress, it's inevitable that their grades and research are being affected"
+
+There is also considerable concern at the previously unannounced intention to restrict student allowances to only the first four years of tuition. “Many University courses are longer than four years,” said Ms Williams. “The effect of this announcement is to discourage low-income students from entering courses such as medicine and optometry, as well as conjoint degrees.”
+
+Concern has also been expressed at the effect the budget may have on Maori and Pacific students. "Universities around the country are putting in efforts to recruit higher numbers of Maori and Pacific students," noted Pania Newton, co-President of Nga Tauira Maori, Auckland University Maori Students' Association. "It's unfair to tell these students that they should be entering tertiary education to do better for their families and communities, but not providing the support required to get them there."
+
+According to Ms Williams, the changes will undermine New Zealand's reputation as a country where fairness is rewarded, and equality of access is strived for. "It's the government's role to facilitate equitable access. New Zealanders won't accept a tertiary system which only allows kids from rich families to succeed. If we need to pay for allowances to get clever kids through so that they can contribute to the economy that my generation will be left to manage, then that's money well spent."
+
+The recent announcements follow a pattern of gradual reduction in Government support for students groups. Past cuts have targeted solo parents, older students, recent migrants and those in long-term study.
+
+\[1\] Baseline Report of the Graduate Longitudinal Study New Zealand (GLSNZ).
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [AUSA](https://info.scoop.co.nz/AUSA) on InfoPages.

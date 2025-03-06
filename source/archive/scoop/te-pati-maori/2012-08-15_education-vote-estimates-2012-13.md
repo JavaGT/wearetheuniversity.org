@@ -1,0 +1,64 @@
+---
+slug: education-vote-estimates-2012-13
+title: "Education Vote – Estimates 2012/13"
+date: 2012-08-15
+source-url: https://www.scoop.co.nz/stories/PA1208/S00187/education-vote-estimates-201213.htm
+author: te-pati-maori
+---
+Education Vote – Estimates 2012/13
+==================================
+
+**Wednesday, 15 August 2012, 8:34 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Tuesday 14 August 2012
+
+Te Ururoa Flavell, MP for Waiariki
+
+Education Vote – Estimates 2012/13
+
+Tēnā koe, Mr Chair Kia ora tātou katoa. Last week there was the International Day of the World’s Indigenous People, which probably passed most of us by, so I want to reflect in my contribution to this debate on a statement out of the _Declaration on the Rights of Indigenous Peoples_.
+
+I am talking about article 14, which states: “_Indigenous peoples have the right to establish and control their educational systems and institutions providing education in their own languages, in a manner appropriate to their cultural methods of teaching and learning_.”, and that we have the right to all levels and forms of education without discrimination.
+
+You would understand, against that background, and having the Associate Minister of Education there, that we would be relatively comfortable and actually quite happy with the amount of money that we are able to secure in respect of advancing Māori education. What I am talking about is a couple of areas in Budget 2012.
+
+Firstly, there is $76 million specifically targeted at Māori education. There is a particular focus on early childhood education, with an emphasis on Te Reo Māori and tikanga Māori—$35 million all up. In another area targeting resources there is $8.5 million to support learners to achieve National Certificate of Educational Achievement, in particular in Māori-medium education.
+
+Finally, the other procurement we got was a massive $33 million for teaching, leadership, and curriculum focus to accelerate the achievement of Māori learners. That is all pretty fantastic from our point of view, and in particular from a Māori Party perspective and being in an agreement with the National Government, because these gains are for our whānau through education.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+But I do want to sound one particular warning, and it is specifically focused on the 95 percent of young Māori students who are in a general stream school. Education of our tamariki in those mainstream schools we believe is very much a priority that we should pretty much focus on. Of course Minister Hekia Parata has been up front, I suggest, about demanding excellence and requiring accountability, and in some forums has actually copped a lot of flak for her particular stand. But from my perspective, her intentions, I think, are honourable.
+
+But we need to see the difference. We need to see the difference that it is going to make in terms of young Māori learners. One of the things that the Māori Party did try to advance is a kaupapa called Tātaiako, which is all about cultural competency, setting some standards for teachers to achieve, that they need to develop, in order to engage Māori learners to achieve at the very highest level. It has not been rolled all the way out as yet, but we are hoping that it will achieve that.
+
+The key point about Tātaiako is that it was developed to help all educators think about what it takes to successfully teach Māori learners. It is not a responsibility that any educator, we believe, should shirk or refer on to the Māori teachers to deliver. We expect that action and accountability must come from all of our educators. We must see action, because for far too long we have been talking about a lot of initiatives without too much movement in respect of achievement levels.
+
+Too many staff in schools, I believe, have got _Ka Hikitia_ in their right hand, but have wrapped it up in cellophane and it has never been opened. Although we might have the strategy, we actually have not moved towards implementing it in a strong way to address the kaupapa of Ka Hikitia at its very heart. If the Education Review Office is charged with holding schools to account, then we would expect to see them have much more transparency around the schools that deliver and the schools that are clearly failing to make a difference. We must do that.
+
+Although there is a mechanism within the Education Review Office, an accountability mechanism, it sort of stops there because nothing is taken on. The _Promoting Success for Māori Students: Schools’ Progress_ study that was recently published surveyed 287 schools, from full primary to secondary school level, and the data showed clearly that sustained Māori underachievement was basically a part of our education system. The report found that a substantial number of schools did not review their own performance in relation to Māori achievement, did not make effective use of the data improve programmes, and they did not conduct research about students’ learning.
+
+Is it that they did not really care, or is it that they just did not know what to do? Well, whatever it is, it is not good enough and from our perspective, from the Māori Party perspective, we need to do it far better. I suppose that is why—_\[debate concluded\]_
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

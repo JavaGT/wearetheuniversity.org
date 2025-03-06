@@ -1,0 +1,104 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2004-09-09
+source-url: https://www.scoop.co.nz/stories/ED0409/S00035/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 9 September 2004, 11:55 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Don’t increase student fees at Victoria, says staff union  
+The Victoria University Branch of the Association of University Staff is opposed to increasing student fees at the University, spokesperson Dr Richard Arnold said today. He was responding to a 4.5 percent increase proposed by the Vice-Chancellor that will be considered by the University’s Council at 4.00 pm today.
+
+“AUS has always advocated as low fees as possible, and the Victoria Branch Executive fully supports students in opposing any increase in fees at Victoria,” Dr Arnold said. “Increased tuition fees put University study further and further out of reach for many people, and for others mean a crippling burden of debt on completion of their studies. It is of grave concern to staff to see students having to work excessive hours in employment during teaching terms to the detriment of their studies.”
+
+“The answer to the University's problems lies in increased government funding, not increased course fees. The AUS is working with vice-chancellors to prepare a comprehensive case to put to the Government on the need for increased funding and is also taking part in tripartite talks on the matter. That is where the pressure must go.”
+
+“There is a wealth of empirical evidence that tertiary education is a public good, not just in providing employers with a pool of skilled employees, but in increasing tax revenue and decreasing welfare expenditure. It is an investment opportunity the Government cannot afford to miss,” Dr Arnold added.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Fleur Fitzsimons, Co-President of the New Zealand University Students' Association, welcomed the support. "Parents, students and vice-chancellors are well aware of the impact of the huge student fees on students and graduates. For students it means massive student loans that will take decades to repay. The Victoria University Council should be looking at ways to ease the debt burden by reducing student fees; even to consider increasing this burden is a disgrace that will not be tolerated by students," she said.
+
+Also in Tertiary Update this week  
+University delivers predictable fees for international students  
+AUS opposes Identity (Citizenship and Travel Documents) Bill  
+Community education gravy train steams on  
+Former professor wins sex-bias lawsuit  
+US shuts out Muslim scholar, raising fears for academic freedom
+
+University delivers predictable fees for international students  
+Following protests from students, the University of Otago will continue to charge tuition fees set in US dollars for all its currently-enrolled international students. However the University has decided that fees will be increased by 5 percent for 2005, and any increases in subsequent years for current international students will also be capped at 5 percent per annum.
+
+The decision was taken on Monday during a special meeting of the University Council, after the University investigated complaints laid by its international students over an earlier Council move to charge 2005 and future fees in NZ dollars. The investigation, led by Dr Phil Meade, Deputy Vice-Chancellor (Academic), agreed with student complainants that due to fluctuating currency exchange rates such a move could lead to unexpected tuition fee increases.
+
+His investigation also found that resulting tuition-fee uncertainty could be seen as contravening the University’s own pledge to keep fee increases to a minimum. Dr Meade’s investigation therefore recommended the “grandparenting” of fees for those students already enrolled at Otago for the minimum time required for them to complete their current degrees.
+
+The fees set in NZ dollars at the June meeting of Council will still apply for new international students commencing in 2005, and for current international students commencing new courses of study.
+
+  
+AUS opposes Identity (Citizenship and Travel Documents Bill)  
+The AUS has opposed Identity (Citizenship and Travel Documents) Bill currently before Parliament because too many of the measures contained in it pose a threat to civil liberties and academic freedom, and because of the negative impact they will have on people wishing to become New Zealand citizens, including university staff who settle in this country.
+
+“We are concerned in a general sense that legislation dealing with national security or anti-terrorism issues limit personal freedoms, rather than using existing legal remedies to address security issues,” National President Bill Rosenberg said. “Prosecution and punishment of people should continue to be done through judicial processes, rather than being left to the discretion of Ministers as proposed in the Bill.”
+
+Key concerns of AUS include the measures relating to passports and other travel documents. “We are opposed to the provisions in the Bill giving power to the Minister of Internal Affairs to refuse to issue a passport or to take away a passport on grounds of ‘national security’.”
+
+“The right to retain or obtain a passport and to travel is a fundamental one that is increasingly important in a world where international travel has become an expectation. For many university staff, they would be significantly hampered in their jobs if they could not travel. The right should be retained, and any allegations of threats to security which may limit personal freedoms should be determined by a court rather than a Minister. The proposed ability to appeal to the High Court could be a lengthy and expensive process that does not balance the loss of freedom,” Dr Rosenberg added.
+
+“AUS is particularly concerned about this with regards to our members who exercise their academic freedom to act as a critic and conscience of society. We are concerned that the use of dubious SIS information (as illustrated in numerous instances, including the present Zaoui case) could be used to take away passports from those exercising these rights.”
+
+“The question of whether or not a threat has been posed to ‘New Zealand’s international or economic wellbeing’ is extremely broad and could be used to curtail a variety of legitimate rights to debate, criticise or protest government policies as part of the normal political process.”
+
+AUS is also opposed to the increased barriers contained in the Bill to qualifying for New Zealand citizenship. “AUS is particularly concerned about the issues for university students and staff. Students and staff from all over the world make a vital contribution to universities in New Zealand, and the extension of the qualifying period for citizenship proposed in the Bill will act as a disincentive to them making this contribution on a more permanent basis.”
+
+“AUS has not seen evidence as to why the qualifying period needs to be extended from three years to five years. We are particularly concerned that this will be applied retrospectively, penalising people who had every expectation that they would be able to become New Zealand citizens after three years. “
+
+See World Watch for more on academic freedom.
+
+Community education gravy train steams on  
+“The construction industry and supermarkets are the latest beneficiary of the community education gravy train,” says National’s Education spokesman, Bill English. The construction industry is attracting tertiary education funding for four-hour building site induction courses. Supermarkets also run induction courses funded out of the tertiary education dollar.  
+“These courses should be paid for by the industries themselves, as they always have been, not by money designated for tertiary education,” says Mr English. Workers or their employers are charged between $40 and $120 each to cover the course costs while Unitec and Site Safe pocket the government EFTS subsidy.
+
+While AUS is also concerned about community education spending, it doesn’t see much evidence in the policy of the National Party that it will resolve either of the two issues highlighted in the story - the misuse of public money by industry and employees paying for their own training.  
+Former professor wins sex-bias lawsuit  
+A federal jury in Georgia has ordered Kennesaw State University to pay a former professor $US1.06m for discriminating against her based on her sex and retaliating against her when she complained. The jury's award of $US760,000 for lost wages and $US300,000 for emotional damages last month is one of the largest ever against a college in Georgia.
+
+The plaintiff, Hillary Hight Daw, taught voice for fifteen years in Kennesaw State's Department of Music, where she rose to become an associate professor and the only woman ever to win tenure in the Department. Nonetheless, she said she felt that her pay was unequal to that of male colleagues of equal rank. She complained to the Department head about that perceived disparity for the first time in 1996, but he dismissed her concerns. It was then, she said, that her career stopped short.
+
+The Department head took away some of her responsibilities, she said, and then wrote unfavourable reports about her performance. When she sought a promotion, he elevated instead a man who lacked administrative experience. In 2000 Ms Daw filed suit against the University for discrimination.
+
+US shuts out Muslim scholar, raising fears for academic freedom  
+The decision of the US Government to revoke the visa of Tariq Ramadan, a prominent but controversial European Muslim scholar who was scheduled to teach at the University of Notre Dame, has led to protests that, post-September 11, visa restrictions are being used to keep out an intellectual with unpopular ideas.
+
+Mr. Ramadan, 42, a Swiss citizen living in Geneva, had accepted a full-time, tenured position as the Henry R Luce Professor of Religion, Conflict, and Peacebuilding at the Joan B Kroc Institute for International Peace Studies. Early last month he was informed by the US Embassy in Switzerland that his visa, approved in March, had been revoked at the request of the Homeland Security Department.
+
+No reason has been given. But Russ Knocke, a spokesman for the Department, said such a decision is generally made when the Department feels there are “public-safety or national-security risks".
+
+In a statement, Notre Dame said it was "deeply disappointed and concerned" by the move. Mr. Ramadan "is a distinguished scholar and a voice for moderation in the Muslim world," the University said.
+
+The American Association of University Professors said in a statement that the cancellation of Mr. Ramadan's visa was "manifestly at odds with our society's respect for academic freedom.”
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

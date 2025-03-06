@@ -1,0 +1,2 @@
+combine author pages from blog and archive. Currently onle blog renders to the list (overrides archive).
+build seach engine

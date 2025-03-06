@@ -1,0 +1,103 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2006-03-23
+source-url: https://www.scoop.co.nz/stories/ED0603/S00065/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 23 March 2006, 10:57 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Bargaining initiated for university staff  
+University vice-chancellors were served with notices this week to initiate the process for negotiating national multi-employer collective employment agreements for academic and general staff. This follows the recent ballots of union members in the traditional universities (excluding AUT) which endorsed the recommendation of the university unions to engage in national bargaining again in 2006.  
+Meetings of academic and general staff union members will be held in the seven universities over the next fortnight to endorse both the claims for negotiation and the team to represent staff during the process.  
+Association of University Staff General Secretary, Helen Kelly, said that union members would be briefed at the meetings about the progress of the tripartite process among the Government, unions and vice-chancellors, and the impact that process would be likely to have on this year’s bargaining. “The funding and salary problems, which we highlighted last year, have been the subject of productive discussions in the tripartite process, and we are hopeful that we will be in a position to make some real progress,” she said. “Government has been presented with independent research that illustrate the extent of the salary and funding gap between New Zealand and relevant international and domestic comparators, and it is evident that there will have to be some movement if this country is to maintain its international academic standing.”  
+The current enterprise-based academic and general staff collective employment agreements are due to expire on 30 April. At this stage, dates have not been established for the commencement of bargaining.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Fewer jobs to be axed at Canterbury, staff and students fight on  
+2\. International reputation tarnished by Open Polytechnic  
+3\. New PhD students are “brain gain” for New Zealand  
+4\. Employer-union relations sour in UK  
+5\. US Senate approves $7 billion funding increase  
+6\. Medical education at breaking point  
+7\. PNG staff to strike if VC not suspended
+
+Fewer jobs to be axed at Canterbury, staff and students fight on  
+The University of Canterbury has reduced the number of academic staff it proposes to axe from its College of Arts from twenty-three to eight, as it moves to cut its budget by $1.6 million. Despite the reduced number of proposed redundancies, opponents say there is no justification for any reduction in staff at all. They have branded the move as “staggeringly misguided” and have vowed to continue their campaign to maintain existing numbers.  
+The proposed staff cuts are to come from American Studies, English, Education, History, Chinese, Russian, Music and Religious Studies.  
+Association of University Staff Branch President, Dr David Small, told a rally of around five hundred staff and students yesterday that the change proposal had been drawn up by people who are completely out of touch with the world around them. “There is a leadership vacuum at the University, and a complete unwillingness to justify the proposal,” said Dr Small.  
+“While the whole world is looking to China as an emerging power, and politicians, business leaders and educational institutions are putting huge amounts of energy into building relationships with that country, the University of Canterbury wants to reduce its resource in that area by 25 percent,” Dr Small said. “What kind of signal does the University think it will send by axing one of only four academics in its Chinese programme at the time the institution is making a $9.2 million surplus? Has anybody calculated how much marketing money the University has wasted with such a foolish decision?”  
+Dr Small said the proposal to reduce the Religious Studies budget was just as foolish. “There has never been a more important time to increase understanding in New Zealand and the West about Islam. But the University of Canterbury has decided to cut Religious Studies by another staff member, and for that cut to be made in Islamic Studies,’ he said. “This is what happens when decisions with profound academic, political and economic implications are left in the hands of short-sighted bean-counters.”  
+The University will consult affected staff and unions over the next month, with the final implementation plan due to be released on 10 May.
+
+International reputation tarnished by Open Polytechnic  
+The reputation of New Zealand education and training providers overseas has been severely tarnished as a result of the behaviour of the NZ Open Polytechnic’s management of its subsidiary business, the failed Stotts Correspondence College in Australia, according to the Tim Smith, the National Executive Officer of the Australian Council for Private Education and Training (ACPET).  
+Mr Smith made his comments on Tuesday during a meeting in Wellington with Paul Grimwood, the Chief Executive Officer of the NZ Open Polytechnic. Mr Smith was unsuccessful in gaining the Polytechnic’s support to assist with the costs associated with the relocation of the six hundred students left high and dry after Stotts went into receivership in December last year. The students, who had paid course fees in advance, were left without an education provider or a refund.  
+“The Polytechnic has a moral responsibility to these students. Lost tuition fees aside, at the very least it should assist with the cost of relocating students to other providers so they can finish their studies,” said Mr Smith. “We know \[the Open Polytechnic\] has the funds, what’s lacking is the will. Australian providers must now pick up the bill for continuing the education of these students to ensure that they are not out of pocket.”  
+National Party Education spokesperson, Bill English, said that, if an Australian tertiary institution treated New Zealand students this way, all hell would break loose and the Government would be up in arms. “The Open Polytechnic may be taking a strictly legal approach, but it’s leaving a sour taste,” he said. “These actions will damage the reputation of all the New Zealand institutions offering education in Australia. The Open Polytechnic, which is government-funded, should offer some contribution to costs because they must have known the Australian students were at risk.”  
+Mr Grimwood is reported as being unavailable for comment.
+
+New PhD students are “brain gain” for New Zealand  
+The Minister for Tertiary Education, Dr Michael Cullen, announced yesterday that forty international post-graduate students have been awarded scholarships for university study in New Zealand this year.  
+The students from fifteen countries, including China, India, Finland, Canada, Turkey and the United States, will be studying a range of specialties including Engineering, Commerce, Agricultural Science, Veterinary Studies, Arts, Geography, Anthropology, Environmental Policy, Linguistics and Geosciences. They are being funded under the New Zealand International Doctoral Research Scholarships programme.  
+The students awarded scholarships in the current round were selected by an academic panel administered by the Education New Zealand Trust. They will start their studies during 2006.  
+“The combined talent of these forty exceptional doctoral students will be a real ‘brain gain’ for New Zealand,” Dr Cullen said. “These top students will bring benefits to the eight New Zealand universities they will attend and their work will inspire and influence many other students. There will also be spin-offs from the downstream application of their research.”  
+Dr Cullen said the scholarships have significantly raised the profile of New Zealand’s international education sector. “Some of the world’s top students are coming here and that reflects enormous credit on our universities and academic leaders, and the international respect in which they are held,” he said. “ The prestige of the New Zealand postgraduate environment will be enhanced internationally.”  
+The New Zealand International Doctoral Research Scholarship programme was announced as part of the $40 million Budget 2004 investment in the international education sector. Another one hundred doctoral scholars from around the world will be funded from next year.
+
+Worldwatch  
+Employer-union relations sour in UK  
+Relations between university employers and unions in the United Kingdom soured further overnight, with the refusal of the University and Colleges Employers’ Association (UCEA) to meet with the AUT and Natfhe representatives in pay talks scheduled for next Tuesday. UCEA says it will not meet with the lecturers’ unions while they are still engaged in industrial action.  
+Following strike action a fortnight ago, members of the two lecturers’ unions have continued their campaign of industrial action, including boycotting student examinations and assessment, in support of a claim for a 23 percent salary increase over the next three years  
+Roger Kline, head of the Universities Department at Natfhe said that, by its refusal to meet, UCEA showed that it does not want to see an early resolution to the dispute. “Unless the employers agree to meet us and make a pay offer the dispute can only escalate,” he said.  
+AUT General Secretary, Sally Hunt, said the employers know that the industrial action will not be called off until they make a credible offer. “In 2004 they met us unconditionally, and attaching conditions to the meeting at this late stage flies in the face of their supposed commitment to dialogue rather than dispute,” she said. “I am astonished and appalled that they have chosen such a deliberately harmful approach to the negotiations. Students and staff want to see this dispute resolved as swiftly as possible, the employers clearly don’t. This late blocking tactic is an insult to both the students and staff that they claim to value so highly.”
+
+US Senate approves $7 billion funding increase  
+The US Senate has voted to increase spending on education and biomedical research by $US7 billion in 2007, including a $1 billion increase for the National Institutes of Health. It has also voted to retain several other education programmes President Bush had proposed eliminating.  
+The 73-27 vote, loudly praised by higher-education lobbyists, came during debate on the Senate’s Budget resolution for the 2007 fiscal year, which sets spending ceilings for each of the appropriations subcommittees.  
+One of the resolution’s sponsors, Senator Arlen Specter, Chairman of the Labour, Health and Education Appropriations Subcommittee, said that programmes under his jurisdiction had been decimated in recent years. “We have done more than cut the fat, we have done more than cut through the muscle, we have done more than cut through the bone; we have cut into the marrow,” he said.  
+The $1 billion increase for the National Institutes of Health, the largest source of funds for university research, brings spending on the agency to $30.35 billion, $2-billion more than the fiscal 2006 level and President Bush’s Budget request.  
+The Budget resolution now heads to the US House of Representatives, where members will decide whether to approve the increased spending on higher education.  
+From The Chronicle of Higher Education
+
+Medical education at breaking point  
+Fewer British doctors are prepared to battle time pressures, a lack of recognition and underfunding to teach medical students in hospitals, a conference was told this week. The British Medical Association (BMA) conference of medical academics in London heard that increasing student numbers and the opening of new medical schools had left medical education at breaking point in the United Kingdom.  
+Professor Sir Charles George, the chairman of the BMA’s Board of Medical Education said many challenges faced medical education, including a lack of appropriate teacher training and teaching methods and funding shortfalls.  
+Four new medical schools have opened in Britain since 2002, and there had been a 50 percent increase in the number of medical students since 1998, the conference heard.  
+The situation is expected to worsen, with figures indicating that there will be 7,000 medical graduates in Britain within three years, despite looming fee increases.  
+A report with detailed recommendations is expected to be published in May.  
+From The Education Guardian
+
+PNG staff to strike if VC not suspended  
+The National Academic Staff Association at the University of Papua New Guinea has threatened strike action if the Vice-Chancellor, Professor Leslie Eastcott, and four other senior executives are not immediately suspended while the Ombudsman Commission investigates a planned payout of more than $US1.5 million awarded to the five after a student strike last year. The money includes wage entitlements and compensation for pain and suffering.  
+Students clashed violently with police and security in the middle of last year after disagreeing with the way the grade-point average was being applied by the University administration.  
+Radio New Zealand reports the Vice-Chancellor as saying that he has been unnecessarily defamed, and wants to be adequately compensated before resigning from the University. Until then, he says he intends to remain in the job.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

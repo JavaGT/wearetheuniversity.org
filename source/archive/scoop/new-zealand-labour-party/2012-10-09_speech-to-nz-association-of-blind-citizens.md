@@ -1,0 +1,92 @@
+---
+slug: speech-to-nz-association-of-blind-citizens
+title: "Speech to NZ Association of Blind Citizens"
+date: 2012-10-09
+source-url: https://www.scoop.co.nz/stories/PA1210/S00155/speech-to-nz-association-of-blind-citizens.htm
+author: new-zealand-labour-party
+---
+Speech to NZ Association of Blind Citizens
+==========================================
+
+**Tuesday, 9 October 2012, 12:13 pm**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Clare  
+Curran  
+Disability Issues Spokesperson
+
+06 October 2012 SPEECH  
+(delivered on behalf of Clare Curran by David Clark MP) MP)
+
+Thank you for allowing me to address you on behalf of Clare Curran. Clare sends her apologies and wishes you a productive conference.
+
+The New Zealand Labour Party has a proud history of engaging with and empowering the disability community and people with disabilities. The fifth Labour Government in partnership with disabled people and their representative organisations developed the New Zealand Disability Strategy which was launched in 2000 with the vision of a society that values people with disabilities and continually enhances full and equal participation. This was followed with the then Labour Government signing the United Nations Convention on the Rights of People with Disabilities in 2007 and ratifying it a year later. Many believe that with these two documents the hard work in ensuring equal rights for those who live with disabilities was done.
+
+However recent events such as the debate about funding for Green MP Mojo Mathers to do her elected duties in parliament, the recent threat to funding for Auckland Disability Law and the proposed closer of Residential Schools for students with Special Needs show that the hard work is just beginning.
+
+Increasing difficulties in accessing the health system, ACC and entitlements through sickness, invalids benefits and disability allowances are creating increasing issues for many people in our communities, particularly those with disabilities. As is finding work and assistance into work.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The New Zealand Labour Party continues to be committed to the Convention on the Rights of People with Disabilities and while we may be in opposition, we hold the current National led-Government accountable to this very important document. I have recently worked closely with Auckland Disability Law and the wider disability community to ensure that disabled persons continue to have access to justice as per Article 13.
+
+I have been asked today to comment on how the Labour Party will give effect to the Convention and resource Disabled Peoples Organisations. Labour is currently in the process of drafting its’ policy platform for the 2014 election and is using the Convention as a guiding document to ensure that our polices maintain the hard won gains made in getting disability rights recognised and strengthen these rights as well as taking active steps to further fulfilling our obligations under the Convention. To this end the Labour Party is committed to the philosophy of “Nothing about us without us” and actively engages with representatives from the disability community and organisations. Within the party structure disabled persons are given a voice via the Kirk Sector which is a special interest Sector based on disability issues. As the Spokesperson for Disability Issues I work closely with this sector to keep informed on issues within the wider disability community and representatives from the sector sit on various policy committees including health, social development and local government so are actively consulted and engaged in the decision making process.
+
+I am aware that the Convention Coalition is releasing their monitoring report on the Governments progress on implementing the Convention from the perspective of people with disabilities and disabled persons organisations very soon. After the monitoring report is released I intend to meet with the Convention Coalition to discuss their findings, listen to their recommendations and hear suggestions on how Labour can work alongside them and other disabled persons organisations to further implement the Convention and ensure that as much as possible Labours policies reflect these findings.
+
+Labour is committed to engaging with and consulting the disability sector on areas where current policies fall short of the obligations and commitments enshrined in the Convention as well as ensuring that disabled persons and their various representatives are adequately resourced to allow them to partake in the decision-making process at all levels from community level right through to central government.
+
+The current rebuild of Christchurch not only allows the redevelopment of the city to be more accessible but allows for greater consultation with the disability sector to create a city that allows for those that live with disabilities to be included in the community and partake in cultural life, recreation and sport. Labour will continue to listen to, work with and consult the disability community as we work towards rebuilding a city that is not only accessible by all but can be held up as an example for others to follow.
+
+One of the big policy areas currently in development is the funding of informal careers following on from the Court of Appeal ruling in the case of Ministry of Health and Atkins and others. Labour is committed to reviewing the policies of the various government agencies that provide funding for carers and implementing policy that is in line with the Court of Appeals findings and gives effect to the general principles of the Convention covered in Article 3 which includes the freedom to make ones’ own choice in carer. Labour will work in conjunction with the individuals with disabilities, their family and whanau as well as funding providers so this is done in a timely manner but also in a way that funding for this is sustainable in the long-term. We have called on, to no avail, the National Government to engage in a bi partisan process on this. We believe this is essential to achieving a long term solution to this issue.
+
+Last year the Government reported back to the United Nations on its progress in implementing the Convention and meeting its’ obligations, it noted that while some progress has been made people with disabilities were still being disadvantaged and continued to have poor outcomes in areas such as health, education and employment. It is interesting to note that these areas of an individual’s life tie in closely with the theme of this conference; your health is your life and education and employment empowers you and opens doors for your future. As an electorate MP I often have constituents come to me with issues regarding access to education for their children with special needs and I am acutely aware of the limited funding for teacher aids. Labour is committed to working with the parents, education providers and other stake holders to ensure the right to education is upheld. This will require a collaborative approach as disability issues touch on many portfolios and I am working closely with my colleagues as well as stakeholders as we work towards ensuring the right to education as covered by article 24.
+
+In order for disabled persons organisations to continue to stand up for the rights of their members and the wider disability community and work in partnership with the state towards an equal society they need to be sufficiently resourced to do so. The current economic climate means that budgets are being tightened while the demand for services and support continues to increase. Currently one in five New Zealanders live with some form of disability and this is likely to increase over the coming years as New Zealand has an ageing population which will mean an increase in age related disabilities including vision impairments. From a policy perspective Labour needs to start planning now how it is going to financially resource the wider disability sector as well as maintain and strengthen the framework established to promote and monitor the Convention.
+
+The obligation that the state has in terms of resourcing disabled peoples organisations is not just limited to financial resources but also to ensuring that the organisations are adequately staffed and that the staff have the skills and knowledge necessary to ensure that the rights of people with disabilities are maintained and protected. One of the things I have noted while interacting with the disability community is that they want to train and they want to work. Labour is a firm believer in Adult and Community Education as it provides access to opportunities for learning and training and allows more individuals a chance to expand their personal knowledge and skill base. The Adult and Community Education programme provides access to courses and opportunities that people with disabilities may have missed out on in the past due to earlier attitudes towards this sector of society and as such Labour remains committed to the programme. We will restore funding to ACE and ensure that second chance learning is once more available to our communities.
+
+The disability community is an invaluable resource that has a lot of very skilled, knowledgeable and passionate people who want to work and also want to use their personal skills and experiences to further advance the rights of others. Labour’s current disability policy platform provides a commitment to the Providing Access to Health Solutions (PATHS) programme and partnering those who are currently on a benefit due to their disability and face barriers to employment but are itching to work with potential employers as well as providing in work support as the transition is made.
+
+There continue to be gaps and shortfalls in the resources available to various sectors within the wider disability community and I have been working to highlight some of these. Our Paralympic team did New Zealand proud at the Paralympics not only coming home with 17 medals but five world records and one Paralympic record. My colleague and sports spokesperson Louisa Wall and I released media statements around the lack of coverage of the Paralympic Games which prevented us from participating in and celebrating the achievements of the inspiring individuals. The lack of coverage also did not allow us to recognise the skills and abilities of these individuals as well as challenge stereotypes and attitudes that still exist about people with disabilities. I have since met with the Paralympics Organisation and have assured them that a Labour Government would not allow such a debacle to happen again in the future. There needed to be coordination between the Sports, Disability and Broadcasting Ministers and expectations on the broadcasters properly laid out and planned for.
+
+This is just the tip of the ice-berg; my office is currently looking into the provision of and funding for audio captioning as well as audio descriptors which will enable a sector of the disability community to further participate in cultural life and leisure as well as increase their access to information. I have also met with representatives from the vision-impaired community; due to the way that funding is provided to different organisations in the blind community approximately 90,000 vision impaired persons are unrepresented as they are not classified as legally blind. Labour is committed to working with individuals and representatives involving them in the decision making process as we address the gaps and short falls that continue to exist.
+
+The Digital Switch Over provides a real opportunity for the state and commercial operators to further fulfil our obligations under the Convention in particular around access to adaptive technology to allow those who are deaf or blind to be able to partake in culture and leisure provided by a range of programmes on TV and by extending the right to be informed about current events. Earlier this year the Captioning Working Group stated that New Zealand has the lowest level of captioning in the world. TVNZ Ltd in their Statement of Intent to the 3 years ending 30 June 2014 has allocated $1,950,000 for captioning per year yet only $500,000 for audio descriptions. I have written to Craig Foss as the Minister of Broadcasting to ask why there is such a difference in funding which creates an inequality for those that are visually impaired and blind. I will happily share with you his response.
+
+Another inequality that I am aware of is with regards to the Targeted Assistance Package attached to the Digital Switch Over. Those on the Invalids Benefit can access financial assistance in the months leading to the switch over in their region to purchase and install the set-top box required to receive Freeview.
+
+However, those who are on the Sickness Benefit are ineligible for the Targeted Assistance Package which may mean that when the Digital Switch Over occurs in their region they may be left behind and this is a matter I have also raised with the Minister.
+
+As mentioned above the Digital Switch Over allows a huge opportunity to use adaptive technology to reduce inequalities, some of the Freeview boxes available come with inbuilt captioning and audio descriptive technology however these set-top boxes are more expensive then the basic ones which can be accessed through the Targeted Assistance Package and this creates yet another barrier to full inclusion and participation in society.  
+Another issue that I am aware of that is important to the visually impaired and blind community is the right afforded to everyone to cast a secret ballot. However many in this community currently rely on others to assist with casting their vote on polling day and are not afforded this basic right. Accessible Voting is a matter that my colleague and Associate Justice spokesperson Lianne Dalziel and I have been talking about and we are drafting a letter to the Electoral Commissioner asking what action has been taken in the piloting and implementing of e-voting strategies as identified in the 2007 Long Term Strategy for Voting Technology.
+
+There is a lot of cross over in my role as Labour’s Spokesperson for Communications and IT, broadcasting and my role as Spokesperson for Disability Issues. Another issue that I have become aware of around inequalities and barriers that the disability community, and in particular those with vision impairments or are blind face, is accessing websites. I am aware that not only are a number of Government websites not disability friendly or compatible with text to speak programmes but that a number of sites that New Zealanders use every day are inaccessible.
+
+Currently there are guidelines around Government websites but they are only guidelines. There are no requirements on the private sector to provide accessible websites. Labour is committed to improving access to websites to allow people with disabilities to be able to partake in the online community as well as use websites which will assist them to access services. I am aware of the W3C initiative and if required Labour will consider passing regulations to ensure that disabled persons can access the internet.
+
+In the 2011 health policy platform Labour made reference to research by Richard Wilkinson and Kate Picket; in their book; The Spirit Level. Their research increased the understanding that equal societies do better not only socially but economically. People with disabilities have historically faced a number of inequalities and even the Governments 2011 monitoring report states that those who live with disabilities continue to face inequalities and until these are addressed through a partnership between the state, disabled persons organisations and people living with disabilities and New Zealand as a whole, then these inequalities will continue to remain.
+
+Labour is committed to empowering you and other disabled persons organisations to take charge of your lives and your future.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

@@ -1,0 +1,183 @@
+---
+slug: grant-robertson-speech-to-labour-party-conference-2022
+title: "Grant Robertson Speech To Labour Party Conference 2022"
+date: 2022-11-05
+source-url: https://www.scoop.co.nz/stories/PA2211/S00034/grant-robertson-speech-to-labour-party-conference-2022.htm
+author: new-zealand-labour-party
+---
+Grant Robertson Speech To Labour Party Conference 2022
+======================================================
+
+**Saturday, 5 November 2022, 12:21 pm**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Kia ora koutou katoa, and warm Pacific greetings to you all.
+
+What an amazing welcome we have had to South Auckland for this conference. As my colleague Aupito William Sio would say welcome to the home of the Generation 6Bs. Or is it 8Bs now Aupito?
+
+Whichever it is, and whatever economic storm clouds there are right now, I know whenever I am in this place I can be sure that the future here is bright and bold and beautiful. And speaking of bold and brave- Go the Black Ferns!
+
+Delegates there is no doubt when we look at our economy it is tough out there for many of our people. Coming off the back of a winter with COVID, we are all aware of the rising prices at the supermarket, or the costs of rent or petrol. We can all see on the news the War in Ukraine, the lingering impacts of COVID, the global inflation pressure and the political conflicts around the world.
+
+I was in Washington DC a couple of weeks ago meeting Finance Ministers from around the world. Each and every one of them is facing these economic challenges. An energy crisis, recession in many, geo political tensions for others. In the UK inflation is above 10% and heading higher. In the US it is over 8%, across the OECD it is hitting 10%. Here we looked to have peaked at just over 7%.
+
+As Finance Minister I can understand that the world looks like a scary place. I wake up every day thinking about the challenging times in which we are living, and the buffeting our economy and our people are receiving from these forces.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+But there is something I know to be true. As a Labour government we are supporting Kiwis through this time, just as we have during COVID.
+
+Aotearoa New Zealand is resilient. We have shown that when we stick together we can take on any foe. We have the innovation, the talent, the resources to come through this period, and to thrive and to grow. Amidst the challenges lie great opportunities to build our nation to be ever more strong, caring and prosperous.
+
+And I also know this my friends- it is only with Labour in government that this will happen.
+
+As we face these challenging economic times, we know that we have a better starting point than most other countries. You don’t need to take my word for that. It is the message given to us by the IMF, the OECD and the major credit ratings agencies who have either improved or maintained our ratings through the COVID pandemic.
+
+That starting point comes from a simple proposition. While there was no playbook for COVID, we trusted in our values and in our wellbeing approach. We knew that the best economic response was a strong health response. Go hard, go early. Save lives, and save livelihoods.
+
+There were no costless decisions in COVID, and while we would never try to claim perfection, I am proud of our response.
+
+And at this point I want to acknowledge the person who has led us, who has led our country through all of that and more. My friend and your Prime Minister, Jacinda Ardern.
+
+I have been fortunate enough to have travelled overseas a couple of times this year, and without fail everywhere I have been from Birmingham to New York and in between people have wanted to tell me how much they appreciate the leadership, the empathy and plain old common sense that Jacinda has shown.
+
+We are in the strong position to deal with all that the world is throwing at us right now because of you Jacinda, and we are so very grateful for your extraordinary wisdom, leadership and kindness.
+
+This week we again saw the strength of our starting point. A near-record low unemployment rate in New Zealand of 3.3%. In the past three months 35,000 more people went into jobs. There are now 2.85 million New Zealanders in work. Rates of unemployment for Maori and Pacific peoples are near their historic lows. More women are in the workforce.
+
+And delegates this did not happen by accident. We have worked hard to equip our people with the skills they need to get jobs. When I am asked to pick what I am the most proud of in our response to COVID I often highlight our move to make apprenticeships and targeted trade training free. More than 215,000 people, the equivalent of the population of Hamilton, have benefited from that policy.
+
+Some economists and politicians seem to think we should work towards unemployment. You will never hear me apologise for the low rate of unemployment or for people getting into work. The other day I read the story of Riley Crump-Shrouder, who recently got work as a digger driver. He is loving his job, and here is what his Mum said: “Starting this job, it’s like he’s got this thrill to live, there’s a reason to get up in the morning, and he’s just excited for every day.”
+
+Work is about more than just getting paid; it is about dignity and feeling part of something more than yourself. Labour is, and always will be the party of decent work.
+
+Delegates, I know that it has been tough going for many businesses finding staff in recent times. Alongside the skills and training we are investing in, we have reset our immigration system to focus on more efficiently supporting businesses to fill the skills gaps they have.
+
+We have already approved more than 35,000 working holiday visas to support our tourism and hospitality industries as they approach a bumper summer season. More than 70,000 job checks have been completed ready for work visas to be granted.
+
+So we face these challenging times with New Zealanders in work. And we also do it with wages growing. Average ordinary time hourly earnings are up 7.4% over the past year. According to Statistics New Zealand this is the largest rise in earnings since records began more than 30 years ago.
+
+We have other reasons to feel optimistic.
+
+· Our level of public debt is among the lowest in the OECD,
+
+· Our economy is nearly 5% bigger than it was before COVID.
+
+· Our export performance has held up. The world still wants to buy what we are selling. New Zealand is in demand.
+
+· Our economy is strong.
+
+I appreciate that this strong starting point does not translate to every business or every family in our country as they face the rising cost of living. That is the reason why we have stepped up to support New Zealanders.
+
+That is why we have lifted benefits in 2020, 2021 and 2022. Hundreds of thousands of families are better off by an average of $181 per week since we came into office. We have boosted the family tax credit and the minimum wage, provided the winter energy payment, the cost of living payment, cut fuel tax and provided half price public transport and more.
+
+I recently heard Christopher Luxon say that tax cuts were not the only way to support low and middle income people. Well, congratulations for working that one out Mr Luxon. But here is the rub. Every initiative I have just mentioned has been opposed by National. Every chance to support lifting wages and protecting working people, they have opposed.
+
+And didn’t we see that when National opposed the Fair Pay Agreements legislation a couple of weeks back. For me, passing that law was about something very important. It was about dismantling the system that National put in place in the early 1990s that was designed to drive down the wages and conditions of working people.
+
+Our government, a Labour government, has turned that on its head to give some of our lowest paid workers, our essential workers a fair chance at bargaining for fair pay. That, delegates is something to be proud of.
+
+And the response from National showed just how out of touch they are. And at every opportunity they go looking backwards for their ideas.
+
+Be it Nicola Willis reheating Bill English’s leftovers on social investment or Paul Goldsmith invoking the political ghost of Ruth Richardson in the Fair Pay debate.
+
+The tune has never changed for National. The band used to be called Ruth Richardson and The Knights of the Round Table, now it’s called Chris Luxon and the TrickleDowners.
+
+Or should that be Liz Luxon? I mean, even the UK Conservatives worked out that tax cuts for the wealthiest were a mistake. But here, National are sticking to it. Christopher Luxon is trying to out-Truss Liz Truss. Economic credibility be damned, there is an ideology to serve.
+
+As my colleague Willie Jackson has said, Chris Luxon might be flipping burgers at McDonalds, but the only people he is serving are the wealthy few.
+
+Delegates, while we rectify the injustices of the past, we must also look to the future. While we support people through the cost of living increases, we must also lay the ground work for higher wage jobs. While we ensure a strong fiscal position we must invest in low-carbon, climate-friendly policies.
+
+Because in these challenging times there are opportunities. Taking action on climate change is a moral and environmental imperative. It also turns out to be an economic one too. Around the world the people who want to invest in our country, who want to buy our goods are asking the same question: how are you reducing your impact on the planet? Do you know the climate impact of your supply chain?
+
+Our reputation is good in this space, but we have to back it with action. That is why I am proud as a government that we have passed the Zero Carbon Act, agreed the carbon budgets, developed the Emissions Reductions Plan and funded action through the Climate Emergency Response Fund. Now is the time to press on to develop green hydrogen, renewable energy like offshore wind, to be the first in the world to price agricultural emissions and to develop the technology to reduce them.
+
+When it comes to climate change our National opponents have never moved from their view – deny, delay, defer. I saw an extraordinary statement from Christopher Luxon this week. He said National was “deeply committed” to the Net Zero Carbon 2050 goal. And in the next sentence he said National would work with potential investors to return to further gas exploration. That is like a pyromaniac telling you they are a big fan of fire safety.
+
+National are stuck in the last century. Out of touch and out of ideas.
+
+By contrast our economic plan is a 21st Century one. Our economic plan is about high wage jobs, reducing emissions and providing economic security for all. It is a plan for nation building.
+
+So that is why we will keep investing in skills and training. In research and development, in building our trade links and our trade agreements. It’s why we will support Maori and Pacific businesses and whanau to grow and flourish.
+
+We will keep investing in transforming our industries to provide the high wage jobs. Be it the Centre of Digital Excellence in Dunedin, the aerospace industry in Canterbury, Manuka honey in Tairawhiti, advanced manufacturing here in South Auckland or cutting edge horticultural technology in the Bay of Plenty.
+
+With our Industry Transformation Plans we are leading the way.
+
+  
+We are building a nation of innovation, creativity and inclusion. And we are building that nation on a record level of investment in infrastructure. Nearly $60 billion over the next five years. In rail, in coastal shipping, in digital connectivity. Building schools and hospitals, building housing at a rate not seen in this country since the days of Norman Kirk.
+
+And we are taking the decisions we need to give ourselves economic security into the future –developing the income insurance scheme and making sure that Kiwibank stayed 100% in Kiwi hands.
+
+And yes, it means facing up to the issues that have been kicked down the road for too long like reform of the RMA and Three Waters.
+
+The easy thing to do would have been to have put this in the too hard basket, but that is not what a responsible government does. A responsible government needs to take action so that rates do not need to rise unnecessarily.
+
+Every New Zealander needs to know that the water that they drink is safe, that the pipes won’t burst on a weekly basis, that we are safe in the face of floods and storms. I want to acknowledge my friend and colleague Nanaia Mahuta for her exceptional leadership on this issue.
+
+We have got used to taking tough decisions. There have been plenty of them over the last few years. And as we weather the economic storm over the coming months we will need to make some more.
+
+We will continue our balanced approach. Investing in the public services we need. Supporting people to meet their cost of living. And carefully managing our finances. We have invested a lot on behalf of New Zealanders to get through COVID. We now have to carefully moderate our rates of spending to rebuild our finances. It is all about a balance, and a sense of fairness.
+
+There are tough choices ahead. But I tell you this delegates, a Labour government will never put the burden of those choices on those who can least afford it. We will not cut the services that are their lifelines. We will not preach austerity, while lining our pockets with tax cuts as National would do.
+
+The choice for New Zealanders at the election next year is clear. Our Labour team who have shepherded New Zealand through tough times, who have the compassion, the experience and the focus on the future.
+
+Or the National Party – inexperienced, out of touch and stuck in the past.
+
+Christopher Luxon’s number one priority is to give tax cuts to the wealthiest New Zealanders during a Cost of Living crisis. It was the first policy he announced when he took the job.
+
+This is the man who thinks workers on the minimum wage – perhaps even those at McDonalds – are “Bottom Feeders”.
+
+It’s disgraceful that a person who purports to want to lead New Zealand would say such a thing.
+
+The choice that National has made is for Christopher Luxon to give himself a tax cut worth more than $18,000 a year while someone earning the minimum wage would get $2 a week.
+
+And still at the same time they are promising to spend more on health and housing and defence and more, but mysteriously they will not have to increase debt. Of course they won’t actually cost their policy so we can judge how it could possibly add up.
+
+National are a party still firmly lost at sea in their Fiscal Bermuda Triangle. Their tax policy is unfunded, uncosted and unfair. It does not add up. You cannot trust National on tax.
+
+And they are doubling-down on trickle-down.
+
+National’s rigid adherence to austerity economics would be dangerous for New Zealand.
+
+We have seen before what happens under a National Government that believes in austerity.
+
+We have seen before what goes on the chopping block at the time when National decides to cut taxes for the rich or sell our national assets to the highest bidder.
+
+The cuts that National makes have real-life consequences for New Zealand families and Kiwi kids.
+
+That is what is at stake next year.
+
+And, so delegates this is my promise to you, and to every New Zealander: Under a Labour Government led by Jacinda Ardern, as we move on from the emergency COVID response, and through the global economic challenges we face, we will be guided by our values as a Labour Party.
+
+Our values that underpinned our response to COVID.
+
+Our belief in social justice, dignity, fairness and equality will guide our decisions to focus on what matters most for you and your family. We will be careful, we will be balanced, we will be fair.
+
+Kia maia, kia atawhai, kia kaha.
+
+Be bold, be kind, be strong.
+
+We’ve got this.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

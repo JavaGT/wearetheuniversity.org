@@ -1,0 +1,353 @@
+---
+slug: hold-them-all-acountable
+title: "Hold Them ALL Acountable"
+date: 2020-09-27
+source-url: https://www.scoop.co.nz/stories/PO2009/S00397/hold-them-all-acountable.htm
+author: act-new-zealand
+---
+Hold Them ALL Acountable
+========================
+
+**Sunday, 27 September 2020, 4:04 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+David Seymour speech to Christchurch rally.
+
+_Introduction_
+
+Thank you very much Brooke for the kind introduction and everything you are doing to make this campaign the stand-out of this election.
+
+Our parliament is living proof that it’s hard to get quality MPs. People tell me that they are sick of politicians, and you know what? I don’t blame them. Our democracy needs more people from the real world, with strong, principled beliefs and the skills to create real change.
+
+Brooke will be that kind of quality MP. Brooke was the power behind the scenes of the End of Life Choice Act. Remember, this was not a popular or easy subject to campaign on. The issue was morally charged. There was a very interesting coalition of MPs who agreed on little else.
+
+By holding them together to vote yes, Brooke achieved more than most MPs before entering Parliament. That’s how you know she has the integrity and principles to get things done. And, I can’t wait for her to get there herself.
+
+As another ACT Leader liked to say, I’ve been thinking.
+
+I’ve been thinking about how our country rallies together. Not just for the All Blacks or the America’s Cup, but in difficult times.
+
+When earthquakes all but leveled this city. When we were attacked by a foreign terrorist. When a global pandemic stopped the world.
+
+In all those cases we united around shared values. That we can overcome adversity and make tomorrow better.
+
+What is it that unites us as New Zealanders?
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+It’s different from what unites any other country.
+
+We are all so different. But we all have one thing in common and it’s the only thing every New Zealander shares.
+
+We are children of pioneers. The courageous and brave independent thinkers who didn’t just talk but acted to create a better life for themselves. Every one of us. Every one of you or your ancestors, travelled further than anyone else would go for a better tomorrow.
+
+Entrepreneurship is taking risks in the hope of profit. It’s hard to put more at risk than leaving everything you know behind to back yourself. By that standard, we are the most entrepreneurial country on earth.
+
+You only have to look at a map to see it’s true. We came further. Only the Australians came close, and let’s remember they didn’t all go exactly voluntarily.
+
+Our national identity is to seek a better tomorrow against all odds all the time. But what can we say about our Government? Is it living up to the spirit of hope that brought us all here?
+
+_Holding Labour Accountable_
+
+Now it might not be the popular thing to say in this room, but Jacinda Ardern does deserve some credit for her leadership in a crisis. But elections are not about the past… They are about the future that awaits us.
+
+And far too often, we have been served a shallow spin of marketing and mediocrity. The current government wasn’t the first. But they are just the slickest exponent of doing the dance, but not the delivery. And you know what? People are starting to remember.
+
+Remember what they marketed?
+
+Kiwibuild was going to deliver 100,000 affordable homes. So far, it’s delivered 548.
+
+A billion trees in a decade? After three years - not even four percent of those have been planted.
+
+Government vehicles are supposed to be emissions free by 2026. So far they’re 0.6 per cent of the way there.
+
+Climate change was ‘this generations nuclear free moment,’ but emissions went up 17 percent under this Government.
+
+The Prime Minister promised to put children at the heart of everything, but material hardship amongst children went up.
+
+Fees-Free tertiary education led to _fewer_ first year enrolments.
+
+Auckland was supposed to get a tram straight down the Dominion Road. It’s nowhere to be seen.
+
+Even renewable electricity went down under this Government.
+
+The Government banned 240,000 firearms. It spent $120 million on a buyback and collected only 60,000. Not a single gun has been collected from gang members.
+
+Now, maybe some of these failures are actually good news. If you want something done: Get Labour to campaign against it.
+
+Maybe if Labour campaigned to raise taxes and make more damaging laws, we’d be better off.
+
+Then there are the stupid and damaging things they’ve done.
+
+Banning oil and gas exploration by announcing it from the podium without even a Cabinet Paper was impossibly stupid.
+
+We should judge a policy not by its intentions, but by its outcomes. When you look at it that way, Labour has a policy to run out of natural gas and start using more Indonesian coal. How dumb is that?
+
+Then there are the farmers. Farmers are the only people in New Zealand with a built-in financial incentive to be conservationists. How much money they make next year depends on how they look after their animals this year. But that’s not why they take care of the environment. They do so because it is the right thing to do.
+
+This Government’s one-size-fits-all water laws fail to acknowledge the conservation efforts of famers. They don’t acknowledge local realities. They just impose unworkable costs on the farm.
+
+What about managing the budget? Before Labour was elected, Treasury forecast a $6 billion dollar surplus for this year. Remember this when you go to vote: Even before Covid hit, it was forecasting a billion-dollar deficit.
+
+They didn’t bother to fix the roof in the good times. Now, the economic storm has arrived. Ask yourself this: Do you trust this government to manage your money?
+
+We face a global economic and health crisis. I hope there’s an effective and widely available Covid vaccine. But we should be preparing ourselves for the possibility that this could go on for months, if not years.
+
+We Kiwis know how to innovate and take advantage of the opportunities the crisis presents. But can we rely on the Government that has failed at almost everything else it’s attempted to do?
+
+So far, we’ve been served up two, massive falsehoods to cover-up the fact we got lucky.
+
+We’re constantly told that we went hard and went early. It’s nauseating. We were the 63rd country to have a case and the Prime Minister wanted an international commemoration of our tragedy in this city a week before we finally decided to lock down.
+
+Then we’re told we have gold standard contact tracing. If one outbreak takes six months of restrictions to get under control, just imagine being a country with bronze standard contact tracing.
+
+Let’s look at the facts:
+
+*   PPE wasn’t ready or available.
+*   The people we really should have been testing, those on the front line weren’t getting tested at all.
+*   The lockdown was initially legally illiterate, making us drive right past struggling local stores, to mix with larger crowds in supermarkets.
+*   Those in business who tried to help found themselves rebuffed by a Government that knew better… and an App that didn’t work.
+
+The simple truth is, they were just making it up as they went along.
+
+Meanwhile, the Reserve Bank was printing $100 billion and the Government is borrowing $140 billion. Treasury now forecasts fifteen years of Government deficits.
+
+If it weren’t for this massive sugar hit, the full costs of the Government’s response would be hitting now. They have brought a decade of spending back to a single year. You have to ask yourself, is this really a track record we deserve?
+
+I realise that it’s not enough to oppose_._ ACT exists to propose innovative, smart policy ideas – which actually work.
+
+And so, what about the alternative? There’s no doubt that the Nats are better managers… They could hardly be worse, could they?
+
+But let me take you on a thought experiment.
+
+Imagine Helen Clark fell into a deep coma in 2008, the night she stopped being Prime Minister.
+
+When she woke up in 2017, the night Labour regained power, what would she notice?
+
+You can imagine the conversation:
+
+“_What did those tory bastards do to my policies?”_
+
+“_Nothing, Helen_.”
+
+“_Really_?”
+
+_“Seriously, they did nothing.”_
+
+_“But they said Working for Families was communism by stealth.”_
+
+_“They expanded it.”_
+
+_“What about tax cuts?”_
+
+_“Well, yes, but Steven Joyce boasted their income taxes are more progressive than ours!”_
+
+_“Did they cut spending on welfare and benefits?”_
+
+_“Nope - they raised them.”_
+
+_“Ministry of Economic Development?”_
+
+_“They made it bigger, something called MBIE.”_
+
+_“Does the Government still own a bank?”_
+
+_“Yep, they kept Kiwibank.”_
+
+_“Bloody hell, please tell me they didn’t change the flag!”_
+
+_“It’s all good, Helen.”_
+
+Did they change anything?
+
+No, and if you study history it’s not surprising. National have been in power for two years out of every three since 1949, but they have never reversed a Labour Policy.
+
+So did they do anything?
+
+Well it’s true that they did introduce a few good things.
+
+They introduced a Three Strikes law, if someone commits three violent offences, they get the maximum sentence for their third.
+
+They introduced charter schools so that disadvantaged kids had the opportunity to learn in an environment that engaged them.
+
+They started to legalise Assisted Dying.
+
+They created a Productivity Commission to provide some ideas for actually raising productivity.
+
+They allowed all firms to trial workers for 90 days without getting landed with a personal grievance if it didn’t work out.
+
+But all of those ideas were ACT’s. So, let me put it this way… if you’re going to see a gig or a show, do you want to see the original act, or some knock-off cover band?
+
+_ACT_
+
+You see, ACT doesn’t just exist to win power, we exist to hold them all accountable.
+
+Time and again, ACT stood alone against every other party. The vote was 119-1 numerous times as one party stood on principle against the madness of ‘political correctness’ and the ‘conventional wisdom’.
+
+The simple truth is Zero Carbon Act won’t reduce emissions. Our law is modelled on the British one. Since they got it 12 years ago, their emissions, have fallen no faster than ours.
+
+What it will do is concentrate power in the hands of the Minister for Climate Change. They’ll have the power to decide whether industries live or die.
+
+They’ll be able to promote boondoggles.
+
+Having a good lobbyist will be more important, than having a good business. This is the opposite of the kind of political reform voters are crying out for. And that is why, ACT alone voted against politicising the economy in this way.
+
+The Child Poverty Reduction Bill sounds great. The problem it doesn’t deliver the results. All it really does is require the Government to report income gaps. It locks in the idea that the path out of poverty is not opportunity or personal responsibility, but more welfare. Only ACT voted against this virtue-signaling. We always will.
+
+Then there’s the Arms Amendment Bill. Banning certain firearms has done nothing to close the loopholes that let a foreign terrorist commit a heinous crime in this city.
+
+Only a quarter of those banned were handed in to the so-called ‘buyback.’ The Licensed Firearm Community - who should be the eyes and ears of the police - trust the police less than ever after the way they’ve been treated.
+
+We are less safe that we were on March 14 last year because of this law that was divisive, ineffective and, until the Royal Commission reports on what the problem was, premature.
+
+No, it wasn’t popular but only ACT had the principle to stand against this madness.
+
+Now, we face a major challenge as a country.
+
+The next Parliament will have to
+
+1.  Get smart and rethink the Public Health response to Covid-19
+2.  Get honest about the debt and rebuild our economy
+3.  Get ambitious about reuniting as a country and growing our way out of this mess.
+
+We need a fresh approach to do it. Throughout the Covid crisis, ACT’s mantra has been to offer constructive criticism where necessary and helpful suggestions where possible, to hold them all accountable.
+
+On the 28th of January, we said New Zealand should close its border to China because they wouldn’t hesitate to do the same.
+
+On the 26th of February Covid was in 33 countries and the share market had fallen off a cliff. We said the Prime Minister should return from Fiji to start dealing with the crisis.
+
+The media said we were just attention seeking. They’ve said it again since. They still don’t realise how serious this is and how serious we are about it.
+
+On the 23rd of March we said a lockdown was the only remaining option, two days before it actually happened.
+
+Once it was in place, we kept asking if the Government was doing its job and pointing out where it could improve.
+
+In April we said the rule should be that businesses should operate if they were safe, not if they were dictated to be essential. Four weeks later it was Government policy.
+
+On the Epidemic Response Committee I asked about testing, tracing, fair rules for small business, the distribution of PPE, and whether the lockdown was legal.
+
+Sometimes the Government actually listened. Sometimes it didn’t, but ACT was always there, holding them all accountable. Ask yourself when you vote. Do we need this voice of accountability to be weakened, or strengthened in the next Parliament?
+
+We have proposed a complete Covid rethink, modelled on Taiwan’s.
+
+They had only seven deaths. Twelve times better than us per head of population. And they did it without lockdowns.
+
+You see, ACT is not only the real opposition, we give you the real proposition.
+
+Our approach to public health would create a purpose built, multi-disciplinary, public and private sector Epidemic Response Unit.
+
+ACT’s approach would see Government as a referee, not a player, in the battle against Covid.
+
+When the Government tries to do everything itself, it fails. Just look at the state of testing at MIQ.
+
+Instead, the Government should be setting clear rules of the game and enforcing them. No ifs, no buts.
+
+ACT’s approach would see the Government take a risk-weighted approach to Covid. What does that mean in plain English? Well, currently we treat arrivals from all countries the same. That’s nuts. There is no Covid in Samoa. We need RSE workers for the horticultural picking season. They need the money.
+
+Are we going to let the fruit rot on the ground because of the Government’s inflexibility?
+
+ACT’s approach would make better use of technology. A Covid Card could have saved us a second lockdown.
+
+When the family involved in the latest outbreak went on their tour of North Island McDonalds outlets, they actually used the Government’s tracing app.
+
+The problem is almost nobody else does, so how many contacts can they trace with it?
+
+Those who tried to help with ideas like Covid-card got frustrated with the bureaucracy and left. The real problem is the bureaucrats are running the show with no leadership from the Ministers.
+
+ACT’s approach would compare us with the best, not the worst.
+
+Notice how often the Government uses fear and mediocrity as communication tools.
+
+You’re just lucky you’re not Victoria, they tell you from the Podium at 1pm. Well, that’s interesting. Last I checked there are five other States and two Territories in Australia. Even with Victoria’s troubles they’re all taking a smaller economic hit than New Zealand.
+
+It’s the same with Britain. Why don’t we compare ourselves with the best in the world, and asking why we aren’t Taiwan?
+
+ACT’s ambitious, striving, approach fits our national character and values. We didn’t come out here so we could compare ourselves with the worst, but we have a Government that has figured out that fear is a handy communications tool.
+
+Only ACT is being honest about the Government’s debt.
+
+I’ve noticed the audiences at ACT’s meetings are getting younger.
+
+I think even schoolkids are getting worried that they’re going to graduate high school, before they see the Government balance the books. And they’re right to be, because if we don’t change course, it’ll be them footing the bill.
+
+ACT’s Debt Destroyer shows how we can save $76 billion over the next decade. Under ACT’s plan we start paying down debt in 2023 instead of… never.
+
+That means being able to buy a home sooner.
+
+It means more cash and less red tape for the small businesses that will drive our recovery.
+
+Other parties make promises and say ‘_trust us’…_ But we’ve created an interactive website where you can see it for yourself. We trust you, and your judgement on the future choices we face.
+
+ACT’s approach is based on the simple principle that Government should live by the same rules as the rest of us. It should have to reassess its spending just like every household and business has had to do this year.
+
+But if we can get Taiwan smart about public health and honest about the debt situation, how do we get ambitious about the recovery?
+
+ACT stands for a faster recovery with lower taxes and less debt.
+
+Our plan to boost the economy promotes a recovery led by private enterprise. Investment, jobs and growth.
+
+A nation of entrepreneurs doesn’t need much to get on with it. We just need the Government out of the way.
+
+The Greens say, ‘_tax is love’._ But we know that tax is a penalty on the workers, savers and investors of the future. That is why ACT’s policy would cut GST to 10 per cent for a year initially, and cut the middle-income tax rate permanently.
+
+The recovery will require one New Zealander to employ another, hundreds of thousands of times in the years to come. So ACT will put a moratorium on minimum wage increases for three years, reintroduce 90 day trials, to make it far easier to hire new workers and create new jobs.
+
+We cannot grow without investment. Investment leads to jobs and growth. Today, we are one of the hardest countries in the OECD to send money to, and that is a handbrake on our economy, when we need to jump-start growth using every means at our disposal.
+
+That is why ACT would remove the restrictions on investors from democratic, friendly, OECD countries, from sending money to New Zealand.
+
+ACT’s vision is the only one that fits with our national character as children of pioneers.
+
+And we also have the team to deliver it.
+
+Brooke van Velden is the future face of the ACT Party, and perhaps New Zealand politics. Smart, liberal, likable, AND from a family steeped in small business with an economics degree… Even if she did have a youthful dalliance with the Greens. She is the real voice of a new generation, for whom a new economic reality is setting in. And she is one of the very few who truly gets it.
+
+Nicole McKee runs her own business, training people to use firearms safely. She was the calm, rational voice of fair firearms laws after our nation’s tragedy in this city. They even made her communicator of the year for her efforts. She will be a star in the next parliament.
+
+Chris Baillie has 15-years of experience as a youth aid police officer, and fifteen years teaching kids with special learning needs. He also owns a pub. It’s called the Honest Lawyer, if you can believe it. He employs 30 people and knows what it’s like to make payroll every fortnight, and how many of the current mob of back-bench time-servers can honestly say that?
+
+Simon Court is another reformed greenie. The ACT Party believes in redemption though. After 24 years dealing with waste and wastewater as an environmental engineer, he realized the Greens mean well, but their policies actually set progress on climate backwards. He is the blue-green alternative, with the academic chops to back it up. Somebody who cares about improving the environment, but actually knows how to do it.
+
+James McDowall is a PhD, small business owner, and father who works in the mental health sector. And he’s only 32. James will raise the standard of policy thinking and debate in any future Parliament, while making it considerably better-looking.
+
+Meanwhile, Karen Chhour gave the bravest political speech I’ve ever seen in July. So many people wring their hands about fixing Oranga Tamariki. They have two things in common. They’ve never been in the system and so they don’t feel its failures. Karen was a CYFS kid. She knows the system doesn’t work, and why. We need her voice in Parliament to speak for those innocent children at the centre of our country’s darkest problem.
+
+Mark Cameron is the authentic voice of rural New Zealand. A Ruawai Dairy farmer with 32 years’ experience, Mark can tell you what rural New Zealand has gone through and what is needed to restore the respect due to our farmers. Let’s let him tell Parliament!
+
+Toni Severin owns a business employing 15 people across three cities. She brings another vital small business voice to our parliament. It is time the real backbone of our economy got some representation.
+
+You or your ancestors came here to change their future. They came here because they wanted better.
+
+Ask yourself, would they be proud you live under a Government that can do the dance, but not the delivery?
+
+Well, I humbly submit that ACT can do the dance and the delivery.
+
+So that’s why, when voting opens this Saturday, I’m asking not just for your vote… But your insights… your inspiration... Your ideas.
+
+It’s all too common for politicians to go to Wellington and forget who they work for - We never have, and we never will.
+
+ACT is your party… This is your movement, your moment… And your voice in Parliament.
+
+So, let’s put a new team in Parliament… Hold them all accountable, and change your future.
+
+Thank you.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

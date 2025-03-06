@@ -1,0 +1,83 @@
+---
+slug: budget-special-body-blow-dealt-future-uncertain
+title: "Budget Special:  Body blow dealt, future uncertain"
+date: 2009-06-02
+source-url: https://www.scoop.co.nz/stories/ED0906/S00008/budget-special-body-blow-dealt-future-uncertain.htm
+author: vice-chancellors-committee
+---
+Budget Special: Body blow dealt, future uncertain
+=================================================
+
+**Tuesday, 2 June 2009, 3:56 pm**  
+**Press Release: [Vice Chancellors' Committee](https://info.scoop.co.nz/Vice_Chancellors'_Committee)**
+
+Budget Special  
+2 June 2009
+
+Body blow dealt, opportunities lost, future uncertain
+
+Budget 2009 has dealt universities a body blow, denied students study opportunities and raised serious concerns over future Government support for the university system. On the day, NZVCC reaction to the Budget identified those impacts on a sector which constituted a “crucial part of New Zealand’s infrastructure and an essential element in economic recovery”.
+
+The Budget “disestablished” the Tripartite Adjustment Fund for university salaries with effect from the start of 2011 with a $22.14 million annual funding reduction for universities from that date. In its Budget comment media release, the NZVCC noted the Government had withdrawn funding “already committed to keeping academic salaries at levels barely competitive in an international market”. The move would make it difficult for universities to retain existing academic staff at a time when they were facing increasing student numbers due to the economic recession.
+
+While university student achievement component funding and the fee maxima mechanism will both receive an inflation adjustment of 1.95% for 2010, more than $500 million in inflation-linked increases to university funding forecast for out years have been rescinded. The Government says these “savings” have never actually been funded. While no inflation adjustment is budgeted for 2011 and out years, such adjustment would “be considered as part of Budget 2010”. On this aspect, the NZVCC said it was deeply concerned over signals from the Government which indicated a lack of future support for the university system.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Referring to an explicit statement by Government that the Budget made no provision for growth in university enrolment, the NZVCC commented: “The number of unfunded students in the system this year will continue to grow in 2010 and beyond in a compound effect and this can only result in increasing numbers of prospective students being turned away, potentially to join the dole queue.”
+
+Scholarships were another area to take a massive hit in the Budget, with $98 million “saved” through the axing of Step Up, Bonded Merit and Top Achiever Doctoral schemes. In addition, there were scholarship cuts in international education with the number of NZ International Doctoral Research Scholarships reduced and NZ Study Abroad Awards and NZ International Undergraduate Fees Scholarships to be phased out from 2010. Domestic fees exemptions for German and French Masters students will also go.
+
+The NZVCC said the Budget moves on scholarships would deny opportunities to a significant cohort of the generation about to enter tertiary education. “Government’s withdrawal of support for a range of tertiary student scholarships is a further contradiction of its statement that the needs of students and the economy should drive the provision of tertiary education.” The international education scholarship “savings” will reduce university income from international student fees.
+
+While the Budget adjusted Tertiary Education Organisation Component (TEOC) funding by 1.95% for 2010, various parts of the component have been axed or reduced. As well as the Tripartite Adjustment Fund, Priorities for Focus funding for universities is abolished from 2011. The Encouraging and Supporting Innovation fund is halved from next year. Contracts for Building Research Capability in the Social Sciences funding expire this year and will not be renewed.
+
+Adult and Community Education (ACE) funding will not be adjusted for inflation in 2010 and funding for lower priority ACE will be reduced by 50% from 2011. As expected, the tertiary education capital investment fund is disestablished with immediate effect. Baseline funding for the Performance-Based Research Fund will be maintained to ensure it reaches the target $250 million by 2010/11.
+
+The overall impact on university revenues from the Budget drew an at first measured, then critical, response from the NZVCC: “Universities have signalled their commitment to working in partnership with the Government to maximise the institutions’ contribution to economic recovery and that commitment still stands. However, with this Budget, universities are struggling to identify the nature of that partnership.”
+
+Universities, as major contributors to economic recovery and growth, would continue to argue their case for increased public investment despite worrying signs for university funding in the Budget.
+
+Once the full implications became apparent, the NZVCC was more direct: “Universities are seriously questioning whether the Government appreciates the impact this Budget will have on universities and their ability to supply the skilled professionals the country needs for economic recovery.”
+
+A Government statement on its priorities for tertiary education released with the Budget said the tertiary education system was a key national strategic asset which played a vital role in building the skills of New Zealanders. However, the NZVCC responded that the Budget’s impact on university education was very concerning and did not support the Government’s statement that tertiary education was critical to New Zealand’s economic and social wellbeing.
+
+There were few investment positives for universities in the Budget although $20 million was provided over four years for an increase in the number of medical places which allowed for an extra 60 medical student places in 2010. The summer research scholarships scheme, first mooted at the Jobs Summit, received $4 million for next summer. Universities will match that amount with the combined funding enabling 1600 students to carry out research over the summer break.
+
+News on Vote RS&T not so bleak
+
+A significant increase for the Marsden Fund is the highlight for universities among Budget measures affecting research, science and technology. The fund will increase by $9 million a year over the next four years and grows from $37.8 million in 2008/09 to $46.8 million in 2009/10 - a 24% increase.
+
+Health research has also been treated kindly. The Health Research Council will receive an additional $32 million over the next four years – an $8 million annual increase and a 13 per cent increase on the previous year, taking funds to be distributed by the HRC in 2009/10 to $71 million.
+
+Universities, as members of the Kiwi Advanced Research and Education Network (KAREN), will receive the benefit of a $16 million capital injection from Government for the network. The Budget also allocated $190 million over the next four years for the new Primary Growth Partnership (replacing the previous government’s Fast Forward scheme) which potentially benefits universities while the Performance-Based Research Fund received a modest increase. The PBRF will grow from $236.1 million to $241.8 million in 2009/10 and remains on target to reach $250 million by 2010/11.
+
+There was new RS&T spending of $4 million over four years for the Prime Minister’s Science Prizes. The prizes will provide a funding boost for the successful scientists and place an emphasis on excellence in science.
+
+NZVCC Research Committee chair Professor David Skegg described the Budget’s RS&T measures as giving universities a solid indication that the Government recognised the institutions’ key role in the research and innovation system and the need to maintain it. The increase in the Marsden Fund was significant because it supported basic research, almost all of which occurred in universities.
+
+“Universities are the principal providers of research in this country and are therefore in the best position to carry out research that assists economic recovery. Their basic research is the most likely source of research breakthroughs that will contribute to New Zealand’s economic growth,” Professor Skegg said in a NZVCC media release.
+
+“Through research, universities have a critical role in the innovation system of all successful nations. Commercialisation of university research and research-based university teaching contribute to economic and social development.”
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Vice Chancellors' Committee](https://info.scoop.co.nz/Vice_Chancellors'_Committee) on InfoPages.

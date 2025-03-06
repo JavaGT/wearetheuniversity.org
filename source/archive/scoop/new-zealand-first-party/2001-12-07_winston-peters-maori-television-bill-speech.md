@@ -1,0 +1,121 @@
+---
+slug: winston-peters-maori-television-bill-speech
+title: "Winston Peters Maori Television Bill Speech"
+date: 2001-12-07
+source-url: https://www.scoop.co.nz/stories/PA0112/S00114/winston-peters-maori-television-bill-speech.htm
+author: new-zealand-first-party
+---
+Winston Peters Maori Television Bill Speech
+===========================================
+
+**Friday, 7 December 2001, 10:09 am**  
+**Speech: [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party)**
+
+6 December 2001
+
+Speech By Rt Hon Winston Peters To The Maori Television Bill, Parliament
+
+Rt Hon. WINSTON PETERS (Leader--NZ First): The National Party will vote for this bill! That last speech was really by way of an apology for a party that has no idea what is going on in the Maori world, and has no policy to improve the Maori people, and simply does not understand that the condition under which Maori succeed or fail has nothing to do with the spending of public money. Fifty-five million dollars a year, or $176 million within 4 years, is a massive amount of money to be spending on Maori television when the Maori people in this country have been set back 50 years in their housing, and where people today in the Maori world live on dirt floors, and have corrugated iron roofs and nothing in between.
+
+Penny Webster: They are in Northland.
+
+Rt Hon. WINSTON PETERS: Yes, in Northland, and on the East Coast. I could actually change the whole Maori housing situation within 3 years if members were to give me—
+
+Hon. Tariana Turia: Why didn't you?
+
+Rt Hon. WINSTON PETERS: I will tell Tariana Turia what I did not do. I did not sit there with no basis of support whatsoever, like that member does, and have the arrogance to come into a party like she has and thinks she can impose the very narrow support base that the member has--even from Maoridom--and demand certain policies that will not improve Maoridom whatsoever. Why did I not do that? Because I am not stupid. And because my party actually won all six Maori seats on the ground, unlike Tariana Turia, who has no Maori support, other than the foolish people who run the media in this country who thinks she has Maori support behind her. If she was to stand in Wanganui tomorrow--  
+(Mr Speaker follows)
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Mr SPEAKER: Would the member come back to the bill.
+
+Rt Hon. WINSTON PETERS: I am sorry, Mr Speaker, but she asked me a question, and I will conduct this debate as I please. She asked me why I did not do that.
+
+Mr SPEAKER: Will the member be seated.
+
+Rt Hon. WINSTON PETERS: Why?
+
+Mr SPEAKER: I am standing up. Now please be seated.
+
+Rt Hon. WINSTON PETERS: Why are you standing up?
+
+Mr SPEAKER: Please be seated. I want to say there are many Speakers' rulings. I will protect the member from interjection. Just because a person interjects—
+
+Rt Hon. WINSTON PETERS: I do not need your protection.
+
+Mr SPEAKER: I will send the member out if he makes another comment while I am on my feet, and I mean that. That is the last warning. I will protect the member from an interjection. I have, however, asked the member to address this question.
+
+Rt Hon. WINSTON PETERS: I am addressing the question, and I do not need your protection. I never have, and never will. On the issue to do with Maori politics, on which I have some information, I do not need your help or anybody else's. So do not waste my time, or anybody else's. That member demanded to know why I did not spend this sort of money on Maori television. Do members know why? Because it is a gross waste of Maoridom's effort.
+
+It is a gross damage to this country. At the end of the day how many Maori could have improved health, education, housing, and employment with $55 million per year? More important, having done that, the policy announcement stated that Television One\* would nevertheless maintain all its Maori programmes. Now we are talking $80 million a year. At the same time the policy announcement also stated that the Maori Language Commission would maintain all its programmes. Now we are talking $95 million to $100 million a year.
+
+Why would I not do that? Because Maoridom's needs are basic, and they are not the esoteric, academic nonsense that people like Sir Graham Latimer\*--New Zealand's leading teat-sucker--would have imposed on this country through the Treaty of Waitangi Commission.
+
+It is a abject disgrace. Sir Graham Latimer's record for 40 years has been to waste the whole fount of Maori youth and leadership, and today he is imposing on the Labour Party the same demands he once made of National. Now let me ask members this question At the end of the day this is what happens in Maoridom, and I want to read you a quotation.
+
+Mr SPEAKER: The member does not address that to me. He addresses it to the House.
+
+Rt Hon. WINSTON PETERS: What is the problem with this debate?
+
+Mr SPEAKER: I want the member to speak in the third person, and not ask me questions. The member knows he cannot do that.
+
+Rt Hon. WINSTON PETERS: Well, I was not speaking about you, Mr Speaker, and you know that as well as I do.
+
+Mr SPEAKER: The member is now trying my patience. The member will speak correctly, and do so now.
+
+Rt Hon. WINSTON PETERS: When someone says at the end of the day: \`\`what you got'', he does not mean \`\`you'' or anybody else in this room. It is a quotation--a term of expression. You know that, as well as I do.
+
+Mr SPEAKER: The member will now continue in the appropriate way.
+
+Rt Hon. WINSTON PETERS: Well, that is what I planned to do, and I would be grateful if you would not intervene one more time. I do not care if you stop the speech, but we are talking about a serious part of this country's future in the 21st century. I want to quote something that I heard recently to do with the shape and character of New Zealand politics today when it comes to Maori politics. This is an answer to a select committee. If anyone can make sense of it, I would like them to tell me. This is the kind of mumbo-jumbo, \`\`looney-tune'' idiocy\* that will be imposed upon Maori. Listen to this from Minister Horomia, and tell me what it means.
+
+Hon. Lianne Dalziel: Read it in Maori.
+
+Rt Hon. WINSTON PETERS: Does that member speak Maori? Is that stupid look on the member's face the one she was born with?
+
+Mr SPEAKER: That interjection was out of order too.
+
+Rt Hon. WINSTON PETERS: Well, I did ask the member, did I not. She does not understand any Maori. \`\`Quite clearly that sort of benchmark in the sense of employment proper in the pure layer market is then aligned against the commerciality that doesn't take cognisance, or is too friendly to Maori progression, in the sense of banking availability, lined up against our multiplicity of our land tenure.'' Do members know that? That is what is being foisted upon Maori.
+
+Hon. Parekura Horomia: What a good quote.
+
+Rt Hon. WINSTON PETERS: The people in the Maori world want housing. \[Interruption\] Four houses in Nga Puhi? The people in the Maori world want jobs.
+
+Hon. Parekura Horomia: That is right, and we cut unemployment by half, since that last Government you were in did not.
+
+Rt Hon. WINSTON PETERS: The people in the Maori world want to be a First World\* people, not getting handouts.\* There are some Maori who think that the Europeans have been the architect of their demise. Why in the world would they believe that this bill, and the people who are giving this money could be the architect of their salvation? I ask Mr Horomia what tino rangatiratanga means? There are people in the Maori world who want to have a better chance for their children.
+
+There are people in the Maori world who want to ensure that one day in the future half the people in our prisons are not Maori. What does this bill do about that? If members were to go into a place like Paremoremo, go into our worst prisons, and ask Maori what their problems are, it will be found that they are to do with the practice of not screening them when they were young to ensure that their learning difficulties were not carried on for the rest of their lives.
+
+There are people in the prisons who are Maori who want to know why they did not get a decent education, and nothing in the bill addresses that. I am not against Maori television per se, but I am against the gross waste that is going on here. Why is that going on? It is because this is a party that promised to close the gaps at a cost of $362 million, and it does not have the integrity to maintain any more the original stance on which that began. Where is closing the gaps? We do not talk about it any more.
+
+Hon. Lianne Dalziel: Who's Italian?
+
+Rt Hon. WINSTON PETERS: Well, who is stupid? That is an easy question for the member to answer. Does the member have a mirror? She just has to ask herself the question, who's stupid? Have a look in it. \[Interruption\] It is sort of an own goal really.
+
+Mr SPEAKER: The member has already made a fool of herself once, please not again.
+
+Rt Hon. WINSTON PETERS: I ask Mr Horomia what happened to closing the gaps? Are they closed? Do not tell me afterwards, give it to me now. What has happened to closing the gaps? It is all very well for these naive new Maori members to walk into this Parliament and con a whole lot of Europeans, scared as they are, to face up to the facts, but that will do nothing for Maori whatsoever.
+
+The usual Maori \`\`Browntable''\* will drink from the trough and the mass majority of Maori who need things to be addressed, such as housing, education, and jobs, will get nothing. Worst of all, I want to know how they could possibly have persuaded the National Party, again, to go down this path? How could they have persuaded the National Party that there is any salvation in this sort of policy? At the end of the debate the question that Maoridom wants to know out in the streets is: how does that advantage me? The fact is that in their name in this House, as there is in their name across the country, a certain elite group of people, in this case Maori MPs, but in the main, the Maori \`\`Browntable'', who speak for them in a cowardly, spineless, society, mainly made up of European parliamentarians who do nothing about it.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party) on InfoPages.

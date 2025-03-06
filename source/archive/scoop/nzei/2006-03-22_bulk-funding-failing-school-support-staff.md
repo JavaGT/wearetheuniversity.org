@@ -1,0 +1,52 @@
+---
+slug: bulk-funding-failing-school-support-staff
+title: "Bulk Funding Failing School Support Staff"
+date: 2006-03-22
+source-url: https://www.scoop.co.nz/stories/ED0603/S00057/bulk-funding-failing-school-support-staff.htm
+author: nzei
+---
+Bulk Funding Failing School Support Staff
+=========================================
+
+**Wednesday, 22 March 2006, 9:50 am**  
+**Press Release: [NZEI](https://info.scoop.co.nz/NZEI)**
+
+Education Committee Told Bulk Funding Failing School Support Staff
+
+Bulk funding 27,000 support staff employed in the country’s schools is failing, the country’s largest education union, NZEI Te Riu Roa, told Parliament’s education and science select committee today.
+
+NZEI, which has more than 10,000 school support staff members joined with the Service and Food Workers Union (SFWU), which represents cleaners and caretakers employed by schools, to present a submission to the committee today. It calls for a Ministerial taskforce to be established to develop a fairer and more effective system of funding the support staff working in New Zealand’s 2600 state schools.
+
+“Our schools rely on their support staff to carry out essential administrative work, to ensure every student receives a quality education, and to ensure all schools are clean and well maintained,” says NZEI Te Riu Roa National President, Irene Cooper. “Yet they have little or no job security, are not paid during term breaks, and are among the lowest paid workforces in the country, with pay rates that start at just $11.72 an hour.”
+
+This is because their jobs are bulk funded from the operations grant, a sum of money the Ministry of Education gives each school to pay its support staff and meet all its running costs, from paying the power bill to buying computers and maintaining classrooms. As we all know schools struggle to meet these costs, so boards and principals often have to cut a support staff workers hours, usually a teacher aide, so they can pay the schools’ bills.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“This is hard on the teacher aide, who’s pay is cut, and it’s also hard on the principal and board members who are forced into making the cut,” says Irene Cooper. “Teachers and students also suffer because the cut in the teacher aide’s hours means a cutback in the education programme they were helping deliver.”
+
+“It’s clear the current bulk funding system is failing not only school support staff, but principals, boards, teachers and the student in our schools,” says Irene Cooper. “This is why NZEI is calling on the Government to establish a Ministerial Taskforce to develop a fairer and more effective funding system.”
+
+The union’s submission to the committee recommends that a Ministerial Taskforce be set up, involving the Ministry of Education, NZEI, and the SFWU. The taskforce would:
+
+\- Investigate the feasibility of the support staff funding model proposed in NZEI’s submission.
+
+\- Develop formulae to support the proposed models in consultation with key stakeholder groups, in particular the New Zealand Principals Federation (NZPF) and the New Zealand School Trustees Association (NZSTA).
+
+\- Complete this work by November 30.
+
+\- Provide the Minister of Education with regular update reports during the period of the study.
+
+“In June last year NZEI came to Parliament and presented a petition signed by 35,000 New Zealanders,” says Irene Cooper. “They were demanding that the Government acknowledge that bulk funding school support staff is not working.
+
+“We have returned to Parliament today to tell the select committee that the system is still broken and still needs fixing, and that the need to develop a better system grows more urgent every day,” says Irene Cooper
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)
+
+Find more from [NZEI](https://info.scoop.co.nz/NZEI) on InfoPages.

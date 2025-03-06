@@ -1,0 +1,184 @@
+---
+slug: nicola-grigg-maiden-speech
+title: "Nicola Grigg – Maiden Speech"
+date: 2021-03-23
+source-url: https://www.scoop.co.nz/stories/PA2103/S00179/nicola-grigg-maiden-speech.htm
+author: new-zealand-national-party
+---
+Nicola Grigg – Maiden Speech
+============================
+
+**Tuesday, 23 March 2021, 6:33 pm**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+E te Whare e tū nei, e ngā rau rangatira ma, tēnei tāku mihi atu ki a koutou. Tēnā koutou katoa.
+
+Kia ora Mr Speaker,
+
+I am thrilled to stand before this House today, elected by the people of Selwyn to serve in this 53rd Parliament, and may I begin by acknowledging them and the National Party members across Selwyn for the generosity they have shown me in my journey from candidate to Member of Parliament.
+
+I acknowledge my National Party friends and colleagues, particularly our leaders, Judith Collins and Dr Shane Reti. I’d particularly like to single out – and thank – Gerry Brownlee for the unfailing friendship, generosity and guidance he has shown me over many years. It is due to your faith in me that I am here today.
+
+A huge and heartfelt thank you to my campaign team - James Christmas, Major James Russell, Tait Dench, Bernard Duncan, Murray Smith and Ben Smith. I’d like to pay particular acknowledgment to my campaign chair, and very dear friend James Christmas. He’s been named in this House by at least two Prime Ministers and an Attorney General as one of this country’s greatest legal and political minds – yet James is the kind of friend who will deliver pamphlets in a blizzard, babysit your cat, and turn up with a bottle of Chardonnay at the drop of a hat. James, every day I count my blessings for having you in my life.
+
+I’d also like to pay tribute to my former boss, the Rt Hon Sir Bill English, who I had the enormous privilege of working for as a Press Secretary from 2015 until 2018, when he retired. Not long after I was selected by the National Party, Bill rang me – I said ‘what do I do now’? He said ‘just be yourself – let the world see the real Nicola Grigg’. I will always be grateful for the opportunities I was given working in Bill’s office.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Above all, thank you to my family and friends for the love and support you’ve gifted me throughout my life – and particularly in this past year. Mum, Dad, Gemma, Amanda and Arthur, you have stood by me through thick and thin, the strength and stability of our family is what grounds me and what guides me – thank you, I love you, and I hope I will make you proud.
+
+Selwyn
+------
+
+Mr Speaker, from the mighty Rakaia River in the south, to Darfield, Sheffield and Arthur’s Pass in the west, picturesque Tai Tapu, Prebbleton and Lincoln in the east and booming towns like Rolleston at its core, Selwyn represents everything that is so special about New Zealand.
+
+We are a region full of ambitious go-getters. Ours is an economy founded in agriculture and food production, well served by the infrastructure investment of the previous National Government. Selwyn is powering New Zealand’s economy.
+
+We are a region of young families and immigrants, innovators and entrepreneurs – a place where people simply want to get on with the job of fulfilling their own destinies – without the spectre of Government breathing down their necks. And they do so admirably. We have one of the lowest rates of unemployment in the country, one of the strongest local economies, and we are one of the fastest growing territorial authorities in New Zealand. Selwyn is an exemplar to the rest of the country.
+
+Any newly elected MP for Selwyn will be acutely aware of the expectations set by those who have gone before her – and I follow in the footsteps of great New Zealanders like:
+
+· My own forebear, Sir John Hall, Premier of New Zealand at a difficult time in our history, and who later devoted himself to the cause of universal suffrage;
+
+· Our first female Prime Minister, Dame Jenny Shipley. Dame Jenny is a trailblazer for women in politics. She broke the glass ceiling for the top job in New Zealand.
+
+· My friend Ruth Richardson, another trailblazer and change-agent. Ruth has taught me what having courage of one’s convictions really looks like - and how making great change takes great heart.
+
+· Sir David Carter, a former speaker of this House and a long-time source of wisdom and advice to this rookie MP.
+
+· And my immediate predecessor, Amy Adams, who served Selwyn for 12 years, who is so widely regarded and respected - and who made an historic contribution to New Zealand as Minister of Justice.
+
+Mary Grigg
+----------
+
+Mr Speaker, there is another person I want to pay tribute to today: Sir John Hall’s granddaughter, my great grandmother – and National’s first female MP – Mary Grigg. Mary was elected to the Mid Canterbury seat held by her husband, my great-grandfather Arthur, after he was killed in action in Libya in 1941.
+
+As a total aside and nothing more than evidence of what a small world we live in – our very own Sir Jim McLay’s father was in the field hospital with Arthur when he died. Thank you to Sir Jim for passing your father’s memories onto our family.
+
+Almost 80 years ago this newly-widowed mother of three stood in this chamber hammering the Fraser government on some of the very issues that have led me here – farming, rural communities and women. She spoke fiercely and with deep conviction – in her first eight weeks in the House, she bombarded Ministers with questions on anything from wheat-growing, police uniforms for women, maternity benefits, occupational therapy, the need for more radio broadcasts in Te Reo Māori, car registration and even the lack of lemons available in Canterbury.
+
+She was formidable.
+
+In her maiden statement she said: “I was told, when I was coming into the House that it was a waste of time to look for common-sense in Parliament. I am still hoping to find that is not true.” And my own personal favourite "I know I am going to get myself in dreadful hot water, but I should like to say quite honestly that the Cabinet is the cause of weakness and lack of confidence. No one, even when the Cabinet was originally formed, would have claimed that it was a galaxy of all the talents,” (some might call that a 78 year old prophesy – I wouldn’t be so ungenerous).
+
+I can only imagine what she would have made of her eldest great-grandchild standing here today – the 157th woman to enter parliament. I promise I will try to bring the same energy to my work in this House as she did – and I too will be looking for a little more common-sense!
+
+Daring Greatly
+--------------
+
+Mr Speaker, I walked out of the Parliamentary precinct in December last year – just weeks after arriving – a bundle of nerves, self-doubt and with a well-advanced case of imposter syndrome. I was quite sure I wasn’t going to be able to handle the hours, the workload, the pressures, the expectations of this role – and I dreaded returning.
+
+Since then though, I have spent the summer reading American psychologist and researcher, Dr Brene Brown.
+
+Her book, Daring Greatly, is inspired by Theodore Roosevelt’s Man in the Arena speech at the Sorbonne in 1910. In it, he said this:
+
+“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly.”
+
+Mr Speaker, it is nerve-wracking and uncomfortable entering the political arena and the public eye. But now we’re in that arena, we cannot be afraid to take risks, make unpopular decisions, confront big issues – and sometimes fail – with all the backlash and embarrassment that comes with that.
+
+Any holder of public office must dare greatly. And now, more so than ever.
+
+Mr Speaker, this is a place that will make you question everything you ever knew - or thought you knew – about yourself.
+
+You must know your ‘why’.
+
+So what’s my why?
+
+Rural New Zealand
+-----------------
+
+I am the daughter of six generations of Griggs who have farmed in mid Canterbury since 1864. I come to this House wanting to represent and improve outcomes for rural New Zealand - and particularly rural women and families.
+
+Campaigning in Selwyn last year, I saw for myself the very real fear and anxiety farmers across the electorate feel when slapped with whatever new, arbitrary regulation or restriction is handed down to them on any given day by Ministers and Officials.
+
+I want us to reject ideology and blame in favour of a relentless focus on science and facts. I want us to choose constructive dialogue over condemnation. It is my hope that one day New Zealanders will once again appreciate and, in fact, be proud of our farmers – and the contribution we make to an innovative, thriving, sustainable economy and environment. That is my ‘why’.
+
+I challenge the Government on the paradoxical approach it is taking in – on one hand – charging the primary production sector with doubling its export earnings in the next ten years while – on the other hand – ham-stringing farmers and growers with regulations that leave them with little choice but to de-stock. How can productivity possibly increase on these terms?
+
+Selwyn is home to some of the country’s leading agri-tech and agri science innovators – we have Lincoln University, Lincoln Agritech, AgResearch, LandCare, Plant and Food Research, Ngāi Tahu farming, Lincoln University Dairy Farms.
+
+Given Selwyn, with its university, ag-research centres and incubators, is the epicentre of New Zealand’s agri-tech and innovation – one would have thought our producers would meet requirements more easily than most. That they can’t, says to me the Government has it wrong.
+
+Have no doubt; New Zealand’s success in the coming decade is going to be powered by our farmers. We are already world leaders in the clean and efficient production of protein and dairy and the home-grown science and technology coming out of my community is cutting-edge. We need to encourage it and help export it. Sir John Key always used to say we won’t get rich selling to ourselves. Our economic growth must be export-led, and that includes the export of innovation.
+
+So let’s dare to build an export empire of intellectual property. Let’s sell to the world our clean-tech and our green-tech.
+
+Mr Speaker, the economic and social impact of the pandemic means we must dare to make some difficult decisions in the next decade.
+
+Good governance
+---------------
+
+But first, let’s dare to stop deceiving ourselves that Governments can find solutions to every problem, or that throwing public money at a problem will make it go away.
+
+Anyone who talks to people in Selwyn will soon realise that, as often as not, Governments cause as many problems as they seek to solve. The thing the public most wants from a Government is competence.
+
+When it does regulate, or this House legislates, we should be drawing on the expertise already out there on the ground. If a Government truly wants to make it easier to earn a living in this country, to address environmental problems, or to increase our exports, it needs to listen. As my old boss Sir Bill English used to say, nobody has a monopoly on good ideas – and politicians certainly don’t.
+
+Innovation
+----------
+
+Let’s dare to innovate. ‘Innovation’ is a popular buzzword around here – but we in this chamber cannot innovate on people’s behalf; we can, however, provide the conditions for investment, invention, development and science.
+
+Our capacity to innovate begins in our education system. Every child in New Zealand should leave school knowing that he or she can imagine something, create something, build something, develop something, dream something.
+
+Innovation will require us to stop this close-minded mentality where we shut ourselves off from foreign investors and foreign capital. We must open our borders and open ourselves up to the world again – we need trade, we need investment, we need immigration, and we need the growth these will bring. We need to go all out to attract the best and brightest from other countries to come and make a contribution to New Zealand. This ‘fortress New Zealand’ mentality will only continue to mire us in mediocrity – and it must stop.
+
+Mediocrity is the virus we should be protecting our country against.
+
+Crown/iwi
+---------
+
+Speaking of innovation and innovators, people who aren’t afraid to push boundaries and do things differently, I am proud that the Rūnanga of Selwyn is none other than the mighty Ngāi Tahu. Twenty years ago, Ta Tipene O’Regan – and others – dared greatly. They showed vision and fortitude and, in my opinion, set the bar for iwi across Aotearoa as to what intergenerational investment should look like.
+
+This House should remember that 2040 – just under 20 years away – will mark 200 years since the signing of Te Tiriti o Waitangi. We should all be looking to that milestone with a view of achieving a fair and equitable society. And we should ask ourselves; how do we weave our past, our present, and our future together?
+
+I acknowledge Ngāi Tahu as tangata whenua in Selwyn. I look forward to our upcoming kōrero and a future working together.
+
+My mother is a St Hill-Warren of Porangahau in Hawkes Bay. Her family worked side by side with local iwi and one of her aunts eventually married into the Mohi whānau. As a result, I can count Ngāti Kahungunu as my cousins. This Kahukiwi – Piata – I wear today was gifted to our family by a wahīne rangatira of Ngāti Kere, Ngāti Hinetewai and Ngāti Pihere of Pōrangahau in around 1854.
+
+  
+I wear it as a mantle to remind me to be fair, equitable and just – as my forebears were – in all that I bring to this office.
+
+National Party
+--------------
+
+Mr Speaker, I am a member of the National Party because I believe our principles will put New Zealand in the best position to both meet the challenges – and capitalise on the opportunities – of the coming decade.
+
+I am a member of the National Party because I draw my convictions – my political principles - from the reform and liberal traditions from which the Party was founded.
+
+I am a member of the National Party because I know that we are not afraid to dare to confront big challenges.
+
+I am proud to join a caucus that I know will dare greatly – to ask the hard questions of itself, to rebuild and repurpose to reflect the ambitions and demands of a modern, multi-cultural, forward-looking New Zealand in the years to come.
+
+Conclusion
+----------
+
+Mr Speaker, today I step into the arena.
+
+I enter this Chamber with the firmly-held belief that those of us in public office have a responsibility to show up – to bring our whole selves, our whole hearts – and lean into tough conversations and tough issues.
+
+We should not play it safe – but we should dare to make decisions and do the things that mean we will sometimes err and will sometimes come up short.
+
+Mr Speaker, we must dare greatly.
+
+I will try to do that every day the people of Selwyn send me here.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

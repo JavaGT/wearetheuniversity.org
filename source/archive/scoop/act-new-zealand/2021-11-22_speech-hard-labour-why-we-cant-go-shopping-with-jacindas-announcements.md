@@ -1,0 +1,138 @@
+---
+slug: speech-hard-labour-why-we-cant-go-shopping-with-jacindas-announcements
+title: "Speech: Hard Labour -why We Can’t Go Shopping With Jacinda’s Announcements"
+date: 2021-11-22
+source-url: https://www.scoop.co.nz/stories/PA2111/S00237/speech-hard-labour-why-we-cant-go-shopping-with-jacindas-announcements.htm
+author: act-new-zealand
+---
+Speech: Hard Labour -why We Can’t Go Shopping With Jacinda’s Announcements
+==========================================================================
+
+**Monday, 22 November 2021, 6:37 am**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+_**David Seymour, 20 November 2021**_
+
+_Speech -public meeting, Addington Race Way_
+
+Bill English was right when he told Jacinda ‘people can’t go shopping with your values.’
+
+We’ve now had four years of hard labour, induced by a party called Winston First.
+
+The one thing we know is that it’s becoming unaffordable. The Government has blown out the cost of life in New Zealand. People feel it at the pump, at the checkout, and when they pay their rent. Soon it will be on their mortgage too, as the Reserve Bank finally engages with inflation and mortgage rates rise.
+
+In the year to September, prices went up 4.9 per cent. Most people don’t believe that. Everyone can think of things that have gone up much faster. Out of kindness to Jacinda, I won’t talk about house price inflation. The problem is that wages only went up half as fast, at 2.4 per cent. New Zealanders went backwards last year.
+
+The problem is our Government is detached from reality. While it is focused on things that student politicians focus on, funny that, the cost of life is skyrocketing.
+
+The Government is run like a PR firm. It’s a very good PR firm, it runs from one carefully staged announcement to another. The problem is, Jacinda believes too much in the power of an announcement. I think she genuinely believes that a good announcement can solve any problem.
+
+That’s why she announces announcements. When she announces that she’ll make another announcement, she thinks she is announcing a solution. The problem is detachment from reality, and it’s pushing up the cost of life. Let me give you some examples.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+For a long time, the Government said there was no problem with inflation. Then the Reserve Bank said that there might be inflation but that they’d ‘look through’ it. The only thing transparent was central bankers inventing new language on the fly.
+
+Making climate change ‘my generation’s nuclear free moment’ was a great line. Here’s the reality. Four years on, Genesis are importing record amounts of coal from Indonesia.
+
+I guess burning coal is one way of staying nuclear free, but I doubt it’s what Jacinda had in mind. Here’s what’s interesting. The coal is being burned at Huntly, where the power station is. Do you know why there is a coal fired power station at Huntly?
+
+Huntly was a coal field before it was a power station. Has the coal run out? No, they are importing it from Indonesia because environmental regulations mean they can’t mine it in Huntly.
+
+I wish I was making this up. Genesis could be getting cleaner coal from next door to the power station but, because of environmental regulations, they must get dirtier coal shipped from Indonesia in record amounts.
+
+This is just one of many little ways that the Government regulation adds to the cost of everything.
+
+Another example was announcing that offshore oil and gas exploration would be banned. This was done without telling anyone, let alone asking anyone what might happen. There was no proper process, not even a paper taken to Cabinet. It was a PR stunt so that the Prime Minister could be cheered on at Victoria University and cheer they did.
+
+They might not be cheering when they hear the cost. The Parliamentary Commissioner for the Environment has already said it won’t have any effect on climate change. The ban might even increase emissions if it means there’s more coal in our future.
+
+We’ve just seen a record winter of wholesale electricity prices, and those prices feed into everything else we do. Sawmills use a lot of electricity. The price of housing is high in part because of the shortage in timber. We are all paying for Jacinda’s announcements.
+
+I talk to people in the building industry who are facing price increases every month. Sometimes they get quotes that are only valid for seven days, because costs are going up so fast.
+
+There’s a shortage of workers because the borders are closed. The Government closed the border to seasonal workers from Pacific Islands even if they don’t have COVID. Not only did the New Zealand economy miss out on workers, but the Island nations that lost tourism also lost their other big source of income -offshore remittances.
+
+In a world where the Chinese Communist Party has its cheque book out in the South Pacific, we just sent our Pacific friends a very clear message: when the chips are down, New Zealand will abandon you. Remember when New Zealand foreign policy was a ‘Pacific reset?’ That was just a couple of years ago.
+
+Then there’s the rest of the workforce. The cost of life right now is really the cost of COVID. There is not only a shortage of timber, but a shortage of builders. Nearly every sector is short of workers, and it’s pushing up the cost of nearly everything you buy.
+
+The rest of the world is opening. Flight schedules are back to normal in Europe and North America. New South Wales is open, and their world has not ended. Quite the opposite. Tourism bosses are warning that if the New Zealand Government doesn’t get its act together, airlines may schedule New Zealand out altogether.
+
+That would of course add to the cost of life, through higher airfares and freight costs.
+
+What is our government doing about the border? Well, we know that a fully vaccinated traveller with a negative test is less likely to give you COVID than someone in a Countdown in Auckland right now. We know that people who test positive for COVID are allowed to isolate at home. We know Aucklanders will be able to leave Countdown and go anywhere in the country from mid-December.
+
+Here's what we don’t know. Why does a fully vaccinated, negative-tested New Zealander arriving from overseas have to go into a hotel under military guard for a week? That’s the lucky ones who get a ticket to MIQ. Tens of thousands miss out on even that treatment.
+
+The cost of life is going up because the Government cannot make logical decisions about managing COVID. Why is Botox allowed but not haircuts, why are shopping malls ok but not cafes, why is it ok to eat food from a supermarket outside but not a restaurant? Every day in every way, this Government is putting costs onto life because they can’t think about two things at once. It’s COVID or nothing.
+
+The Government is also pushing up the cost of everything with its own activities.
+
+Some of this stuff is difficult to believe, so let me paint a picture.
+
+There is a terrible shortage of land for housing in New Zealand. We are not short of land, we are short of land that you are able to build on, land that is consented and has infrastructure. There are a series of problems with infrastructure planning and funding that need to be fixed, but that is another story.
+
+Enter Kāinga Ora, formerly Housing Corporation. They have a $46 million dollar fund designed to buy land. It’s called the Kāinga Ora land acquisition fund, but you’re not going to buy much land for $46 million, oh no.
+
+The $46 million is for administration. The Kāinga Ora Land Program promises to borrow up to $2 billion and buy land to develop. They have already started going to auction and paying top dollar. The Government has given up on beating the property speculators and has now joined them.
+
+So, let me recap. In a world where there is a chronic shortage of land to develop, the Government is now borrowing money to bid up the price of land further. They don’t just buy land that wouldn’t have been developed, they bid against private developers and raise the price of land further.
+
+Government waste pushes up the cost of life. Every time the Government pays people to do nothing useful, it pumps money into the economy without producing goods or services. That’s the definition of inflation. Too much money chasing too few goods.
+
+Last week ACT uncovered $600,000 of spending by the Energy Efficiency and Conservation Authority. They made a 30 second ad without any actors. It just zooms in on photos and makes a camera clicking sound, then tells you to be on the right side of history.
+
+Now, for one thing it’s insulting. You are facing record inflation, and the Government’s wasting money telling you to save money. For another thing, this stuff adds to inflation. There’s another $600,000 circulating, but nothing to show for it. That raises the prices you pay from the pump to the vegetable aisle.
+
+Then there’s the baby boomer bike bridge to Birkenhead. ACT stopped it when we showed that the benefit cost ratio would be 40c in the dollar. The bridge would cost $700 million to build, but it would only be worth $280 million.
+
+What we didn’t realise is that they spent $50 million just investigating it. Again I wish I was making this up. Government waste is inflationary and all of this raises the cost of life in New Zealand.
+
+Then there’s the ever-growing bureaucracy. New Zealand has about 2,550 schools. When this Government was elected, there were 2,600 Ministry of Education Bureaucrats. We had fifty more education bureaucrats than we had schools. My idea was to cut it down to 50 bureaucrats and make the rest go work in one of the schools.
+
+Now there are 900 educrats, at the Ministry of Education, but student test scores continue to plummet. Once again, those people are taking home more money without producing anything. That is inflationary, and adds to the cost of life in New Zealand.
+
+Some people think these little examples don’t add up, but they do. The Treasury said in June that we had the second biggest taxpayer funded COVID stimulus in the developed world. That was before Auckland became one of the top ten most locked down cities in the world, and the Government had to pour money into the city to keep it from sinking under it’s own restrictions.
+
+Of course, every other country is opening and moving on. COVID is more costly in New Zealand because the Government never prepared for Delta even as it was spreading around the world. When the Government says the best public health response is the best economic response, I agree, but it’s a long time since New Zealand’s response has been the best.
+
+We can see the problem. Government spends and regulates irresponsibly, and the taxpaying public are left with the same money while the cost of life inflates. The question is, what are we going to do about it?
+
+In short, ACT in Government would make sure we cut waste, cut meddling, and focus relentlessly on raising productivity.
+
+ACT’s Alternative Budget, released in May beside Labour’s budget, showed how we could get back to surplus by 2025, to start repaying debt. As interest rates rise, debt reduction will become crucial.
+
+It also cuts taxes for middle income earners. It reduces the middle-income tax rate from 30c in the dollar down to 17.5c in the dollar. It means that from $14,001 all the way to $70,000 you pay only 17.5c. It means someone on an average income keeps $4,000 more of their own money. That’s how you offset the cost of life.
+
+But of course, to cut taxes and pay down debt, you must stop the wasteful spending. One good thing about Labour is that they’ve left us with a lot of it to stop.
+
+We need to stop trying to buy land, build fanciful bridges, and make ads telling people to save power when the prices are at record highs. We need to stop raising benefits at every opportunity when there is a record labour shortage. We need to stop believing the COVID restrictions are cheap just because interest rates are low right now.
+
+We also need to stop the Government’s regulatory agenda that is focused on everything but the cost of life. If you’re an employer, a landlord, a small business owner or, heaven forbid, a farmer, you find yourself facing an avalanche of red tape putting costs onto your operation. All of those costs are eventually passed on to the consumer, adding to the cost of life.
+
+A vote for ACT is a vote to dump Government by announcement and take a practical approach raising productivity. If we produce more goods and services, prices come down, but we must cut out waste.
+
+We can’t continue wasting taxpayer money on unproductive projects. We can’t continue wasting private sector time on unproductive regulations.
+
+We’ve got to stop dividing New Zealand with new rules and regulations and start uniting New Zealand behind good ideas that create more wealth. If that sounds like a worthwhile goal to you, then I hope you’ll get behind ACT.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

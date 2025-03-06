@@ -1,0 +1,105 @@
+---
+slug: flavell-inquiries-bill-first-reading
+title: "Flavell: Inquiries Bill  First Reading"
+date: 2009-08-05
+source-url: https://www.scoop.co.nz/stories/PA0908/S00070/flavell-inquiries-bill-first-reading.htm
+author: te-pati-maori
+---
+Flavell: Inquiries Bill First Reading
+=====================================
+
+**Wednesday, 5 August 2009, 5:00 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Inquiries Bill First Reading - Tuesday, 28 July 2009  
+TE URUROA FLAVELL (Māori Party—Waiariki):
+
+Tēnā koe, Mr Assistant Speaker. Kia ora tātau katoa.
+
+E Te Manatū o te Whare ki te āta titiro ki te Kōmihana Karauna o te tau 1988, kātahi ka kitea atu te hōhonutanga o nga Komihana Pakirehua. Nā tēnei kōmihana i para te ara i ngā tau e rua tekau mā tahi kua taha ake.
+
+Nā taua kōmihana i kī me aro ake te Karauna ki ngā kaupapa o te Tiriti o Waitangi. I puta ngā whakatau e toru kaupapa e toru arā , te mahi ngātahi, te kaupapa tiaki, te kaupapa kia whai wāhi te katoa—i reira i whakatūria ai kia noho te Tiriti hei pūtake kōrero mā rua tekau tau neke atu.
+
+Engari, i puta mai tētahi kōrero whakahirahira i taua Kōmihana. Nā te ahorangi nei nā Meihana Durie i whakaputa. E tika ana kia āta tirohia taua kōrero me tāna pānga ki tēnei pire, hei ara putanga, e whai ake nei ngā kōrero rā:
+
+\[_Greetings to you, Mr Assistant Speaker, and to us all. If the 1988 Royal Commission on Social Policy were examined, the significance of commissions of inquiry would be understood better. It was this ground-breaking commission, 21 years ago, that declared that the provisions of the Treaty require that the Crown must respect the principles of the Treaty._
+
+_The enunciation of these principles—partnership, protection, and participation—helped set the foundation for the Treaty discourse for the next two decades and more._  
+_But there was a particular statement reported back from the Royal Commission on Social Policy by Professor Mason Durie that is so remarkable that it must be considered in this Inquiries Bill as a model of the quality of outcomes we can expect, and I quote:_\]
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“The Commission believes that the Treaty is always speaking and that it has relevance to all economic and social policies. Not only must the past be reviewed in light of its principles, but the Treaty’s promise must also be seen as fundamental to those principles which will underline social well-being in years to come.”
+
+He motuhake te noho a te kōmihana mō ngā take ā-iwi a te Karauna nā te whanui me te whāroa o tōna titiro. Mai i taua wā tae noa ki ēnei rā, ka kitea ōna tapuwae i te whānuitanga o ngā kaupapa āhuatanga ā-iwi. Ko te mea mīharo i whakairia ai e taua kōmihana i hāngai tonu te Tiriti o Waitangi ki ngā kaupapa āhuatanga ā-iwi ki ngā kaupapa ohaoha anō hoki. Koia nei tētahi kaupapa kua whakahaerehia, arā, ki te whakarongo ki te whānuitanga o ngā tūmanako o te Māori, ā, kia whakakohatia ki runga pepa.
+
+Engari, ehara i te mea he tauira motuhake taua Komihana Karauna_._ Arā anō te Royal Commission on the Electoral System i whakatūria e te Karauna nāna tonu i whakatakoto i te kōrero kia whai a Aotearoa i te MMP i te tau 1986 i te 11 o Tīhema, arā, o Hakihea.
+
+Nō te tau 2001 i puta te pūrongo a te Royal Commission on Genetic Modification mē wā rātou kupu āwhina, ko tā rātau, me tūpato wā tātau rāweke haere i te whakapapa o te tangata, me āta tātari i ngā raruraru ka puta.
+
+Ā ka mutu, e kore e taea e te tangata kotahi i tēnei Whare te āro kore ki te Komihana a te Karauna mō te whakahaeretanga o Tāmaki-makau-rau. Mēnā e pōkaikaha ana koutou e te minenga, e te Whare koutou mā mō ngā kōrero kua whakaputaina e au me hoki pea ngā whakaaro ki te hīkoi i Takaparawhā i te 25 o Haratua i tēnei tau. Ki reira ka kitea te whānui o te whakaoreoretanga o te hinengaro o te tangata whenua.
+
+Nā i runga i tērā, kei te āhua noho tumeke tonu te ngākau ki tā te Aka Matua a te Ture me tana tono kia whakarerekēngia, kia whakahoungia te āhuatanga o te Kōmihana Pakirehua. Ki taku mōhio, ko tāna hiahia ki te whakakore i ngā Kōmihana katoa.
+
+Ko tā rātau, kia rua anake ngā momo pakirehua, ko tētahi he pakirehua ā-iwi, ko tētahi mā te Kāwanatanga—mā ngā minita—ā, me whakakorea ngā Komihana a te Karauna me tōna momo. Hoi anō, ko tā te Kāwanatanga whakatau me noho tonu te Kōmihana Motuhake o te Karauna nā te mea, ki tā te Tari Taiwhenua,Te Tari Ture o te Karauna me te Ratonga Tumu Whakarae, me pupuri tonu nā runga i te mea ki tā te titiro o ngā hapori, he painga i reira.
+
+Ahakoa i whakakorengia taua tono, kei te āro tēnei pire ki ētahi ake o ngā whakataunga a te Aka Matua o te Ture. I kitea e rātau, ko te pūtake o tēnei pire—Te Ture o te tau 1908—he hanga tawhito, he rangirua, karekau he hua ō roto, he rahi rawa te utu, ā, ka kūtia ngā mahi pakirehua. Nā, ko te āhua nei ko ngā Komihana ā-Kawana nei, ahakoa ka oti wawe, he ngāwari te utu ko te raruraru kē, karekau he mea tiaki i ngā tāngata ka tū ki mua o te Kōmihana. Kāre pea rātau e mārama i ngā tikanga me ngā whāinga arotake ki te Official Information Act rānei me te pānga ki a rātau.
+
+Ā nō reira, anei te pire hou hei āwhina. Ka tautoko Te Pāti Māori i te tono mō ngā kaupapa papai kua āta whakaarohia. He whakaaro pai tonu. Ka taea e ngā tari kāwanatanga te āwhina ā-pūtea i ngā tāngata kei te hiahia ki te tū ki mua i ngā Kōmihana Pakirehua. Ā, ka tika hoki kia tū motuhake ngā mema, kia ōrite tā rātau whakawā i tēnā, i tena. He whakaaro pai tērā kua whakatakotohia, arā, me whai te Kōmihana Pakirehua i tōna ake ara engari, me whai i te turee mahi engari me mahia i runga i te pono me te tika. Kāre au i te kite i te tika o te kaupapa kia utaina ngā whaina taumaha ki runga i ngā ture kia hangaia e tēnei Whare.
+
+Kāre he painga i roto i tēnei. Ko te whiu a te pire, kia piki ngā whaina mai i tōna taumata o te tahi mano taara ki te taumata hou o te tekau mano taara. Ko ētahi o ngā mahi whaina ko ēnei. Tuatahi, mēnā kāre te tangata e hanake ahakoa te tono, kāre a ia e whakaputa ngā whakaaturanga e mōhiotia ana e ia, ā, he mahi tauwhati whakapōrearea i te hui.
+
+Ahakoa ēnā taumahatanga, kei roto i te pire tētahi ake āhua ka taea e te rōpū pakirehua te tono, kia noho nama te tangata mēnā i whakaarohia, nā ngā mahi pōrearea, tinihanga rānei kāre e wawe oti ngā hui ā ēnā, ka nui ake te utu. Engari, kia mōhio mai koutou tērā pea me uru mai tētahi kaupapa ki roto i te Whare Pāremata. Kei konei hoki tētahi kaupapa hei mahi whakaroa i ngā ture. Te kaupapa e kīa nei, ko te filibustering
+
+Ko tā mātau mō tēnei pire, he tāpiri atu he mea whakatikatika ā-ture kia mana ai te Tiriti o Waitangi i te wā e whiriwhiria ana ngā Kōmihana Pakirehua. Anei ētahi whakaaro hei tirohanga kia whai mana te Tiriti o Waitangi: kia whai mana ngā rōpū Māori i runga i tā rātau motuhaketanga.
+
+Kaua e tatari kia tukuna te tono ki te tangata kotahi; me whakataungia ngā mema Māori i runga i tō rātau ake mātauranga i roto o te ao ā-iwi nei. Kaua e whakatū i runga i te kaupapa he iti noa iho te toto Māori kei roto i a rātau; me titiro anō ngā whakataunga i raro i ngā kaupapa o te Tiriti; me haere ngā mema o ngā Komihana Pakirehua ki ngā hui a te Māori kia mārama mai rātau ki te ao me ngā whakaaro o tēnā iwi, o tēnā iwi.  
+Hei tā Moana Jackson i a ia e titiro ana ki tēnei kaupapa, ko tāna ko te titiro ki te āhuatanga o te Tiriti o Waitangi, he āhua rite ki ngā kupu e whai ake an exquisite politeness. Ko enei kupu, nā Simon Upton.
+
+Nāna i kī Māori have been listened to with exquisite politeness and cosmic tact and then basically passed by.” Ā nō reira, tērā pea kua rere te wā mō ngā kupu waha huka hei ārai, hei whai mana te Tiriti o Waitangi.
+
+Me kore e tukuna te Tiriti kia noho ngoikore ki tahaki. He tino tikanga hei whai mō te kaupapa ā-ture kei te whatumanawa e titi ana. He kaupapa ā-tangata, ā-ohaoha rānei. Me rangatira te whanaungatanga i waenganui i te Karauna me tō tātau iwi. Nō reira, ko tēnei pire tētahi wāhanga mō te rārangi take ka wānangahia mō te kaupapa ā-ture. Ka tautoko mātau i tēnei pire i tōna haeranga tuatahi, ā, kei mua tonu ngā kōrero hei whakawā i a ia. Kia ora tātau.
+
+\[_The \*Royal Commission of Inquiry into Social Policy was unique in the breadth of its coverage, and the impact of its scope. The obvious reflection of this is the fact that to this day its conclusions remain of profound influence across the widest social policy settings. In particular, the commission was distinguished by its recognition that Te Tiriti o Waitangi was as relevant to social policy as it is to economic policy. It was also one of the biggest exercises to hear from Maori communities, to listen to the aspirations articulated by Maori, and to have those documented for the record._
+
+_Of course that royal commission is not an isolated example. The Royal Commission on the Electoral System, which first recommended New Zealand adopt the mixed-member proportional voting system, was submitted on 11 December 1986. The Royal Commission on Genetic Modification, which reported in 2001, recommended that New Zealand should proceed with caution on genetic modification, minimising and managing risks. And of course no one in this House can ignore the interest provoked by the \*Royal Commission on Auckland Governance._
+
+_If there is any doubt about what I am saying, I would suggest that the hīkoi that took place on 25 May, Bastion Point Day, gave a pretty sharp steer as to whether that particular royal commission has generated much interest for the people of the land._
+
+_Given this background, it is rather surprising to learn that the Law Commission proposed to reform and modernise inquiries law by doing away with royal commissions of inquiry. Its recommendation was that there should be only two types of inquiries: public and Government—ministerial—and do away with the third type, royal commissions, as a distinct form of inquiry. Against this recommendation, the Government has instead decided to maintain the royal commission, concluding upon advice from the Department of Internal Affairs, Crown Law, and the Cabinet Office that they should be retained as they are perceived by the public as having added gravitas._
+
+_Notwithstanding the rejection of this key recommendation, the Inquiries Bill does respond to most of the other important findings of the Law Commission. The commission found that the very foundations of this bill—the 1908 Act—was in itself antiquated, confusing, and brought unnecessary and costly constraints to the process of inquiries. It also considered that ministerial inquiries, while they are often quick and cost-effective, have little protection in place for those taking part, or even help in understanding how processes such as judicial review or the Official Information Act apply to them._
+
+_So now we have this new bill, to make the difference. The Māori Party supports the commitment to what seem to be common-sense improvements. It makes good sense that relevant departments can grant legal assistance funding for specified persons to appear before an inquiry. It is a thoroughly sensible expectation that members must act independently, impartially, and fairly. And it is a good idea that unless there are particular terms of reference an inquiry can be conducted as an inquiry sees fit—as long as it complies with rules of natural justice._
+
+_I do not see any value in the addition of hefty fines in the laws created by this House. There is no benefit in that. The bill recommends that penalties for disobedience in regard to an inquiry’s orders are pushed up from a maximum of $1,000 to a maximum of $10,000._
+
+_The various offences that earn this fine include failing to attend or give evidence, or disrupting proceedings. If that is not Draconian enough, the bill now provides that an inquiry may make an order awarding costs against a person if it is thought that person has unduly lengthened or obstructed the inquiry or added undue cost to the inquiry. Mind you, the idea of fining members in this House for the practice of filibustering—that peculiarly parliamentary practice of obstructing legislation by a range of delaying tactics—has some appeal!_
+
+_During the passage of this bill, we intend to support the intention to modernise and reform inquiries laws by tabling an amendment that will require all inquiries to recognise the Treaty of Waitangi in their deliberations. Some of the considerations that might be reviewed in establishing a Treaty framework could be: Māori collectives should be considered part of the inquiry, as of right, rather than waiting for an individualised invitation; Māori members should be appointed on their knowledge base, not merely by virtue of having whakapapa Māori; the findings of the inquiry should be reviewed from a Treaty perspective; members of inquiries should be required to attend public hui or meetings associated with the inquiry, to assist them in refining their understanding on the views relevant to Māori._  
+_In his paper reflecting on the Royal Commission on Genetic Modification, renowned Māori academic and lawyer Moana Jackson described the way in which the commission responded to Māori views as the redefining of the Treaty of Waitangi as akin to “an exquisite politeness”. This phrase itself came from a comment from former MP Simon Upton that “Māori have been listened to with exquisite politeness and cosmic tact and then basically passed by.” So perhaps the time for politeness—exquisite, cosmic, or otherwise—when it comes to protecting and honouring te Tiriti o Waitangi has run its course._
+
+_The Treaty requires more than being passed by. There are critical constitutional issues at heart, as well as social and economic imperatives, that any issues affecting tangata whenua are dealt with in the context of a meaningful Treaty relationship between our people and the Crown. This bill, then, is another component of the constitutional review agenda. We will support it at this, its first reading, and look forward to the subsequent debates. Greetings to us all._\]
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

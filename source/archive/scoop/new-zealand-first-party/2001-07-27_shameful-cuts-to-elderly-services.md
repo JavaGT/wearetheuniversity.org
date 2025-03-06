@@ -1,0 +1,129 @@
+---
+slug: shameful-cuts-to-elderly-services
+title: "Shameful Cuts to Elderly Services"
+date: 2001-07-27
+source-url: https://www.scoop.co.nz/stories/PA0107/S00475/shameful-cuts-to-elderly-services.htm
+author: new-zealand-first-party
+---
+Shameful Cuts to Elderly Services
+=================================
+
+**Friday, 27 July 2001, 2:08 pm**  
+**Speech: [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party)**
+
+(Winston Peters Speech to The Taupo District Grey Power Quarterly Meeting, Taupo Bowling Club, 2.00 pm TAUPO)
+
+  
+The Grey Power Constitution states the purpose of Grey Power is to “advance, support and protect the welfare and wellbeing of the over 50 age group and to oppose all discrimination and disadvantageous legislation affecting the rights security and dignity of the elderly”
+
+Those of you who read political party material before the election would have thought that politicians felt the same way.
+
+Well it turns out they don’t. They are quite prepared to neglect the most vulnerable in our society as they have done these last 16 years. Thus it came as no surprise that we all learned recently that the Government is going to cut the care of those in geriatric hospitals.
+
+Let me give you the whole history.
+
+In 2000 the Auditing company Price-WaterHouse Cooper were commissioned to do a review of health care services to the elderly. They found that the whole sector was grossly underfunded—particularly rest homes by an alarming 15%.
+
+Prior to the 1999 Election the Labour Party said that, if elected, they would ensure that: “ a comprehensive range of services are available in the public health system…”.
+
+That pledge meant, surely, that they would adequately fund the health concerns of the elderly.
+
+Instead the present government is doing what they accuse the National party of doing—they ignored the real material in the report and selectively used it to show that they did not need to improve the funding of elderly heath services.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Price Waterhouse Cooper said that residential health care services to the elderly were seriously underfunded. In response the Government recently announced that they would increase the spending for rest homes by a paltry $8million. But to pay for it they are taking $8million from so-called ‘geriatric care’. In short rob Peter to pay Paul.
+
+That is an alarming development. Government will reduce by $ 8 million spending on hospitals for long term patients suffering from dementia, Alzheimer’s and other mental health problems for the elderly. They will not defend those who cannot defend themselves.
+
+So on 1 December this year the amount paid to those hospitals will be cut, both in actual terms, and in inflation adjusted terms. Many of those hospitals are charitable trusts, and community owned. They are already under-funded with services stretched to breaking point.
+
+What this means is that thousands of elderly patients who require intensive 24 hour specialised care will have nowhere to go. In one example we have been told that 8 such hospitals in Whangarei, with 136 patients will have to close. These hospitals themselves have said that—they simply cannot afford to continue.
+
+That is 136 patients with advanced dementia and serious health problems will have to either go on to the streets, live with their families, when for most that would be impossible, or most likely, be moved to Auckland.
+
+Currently there are just under 7000 such patients in New Zealand hospitals. You will recall that when I was the Treasurer I removed income and asset testing, which was sadly reinstated under the Shipley government.
+
+Later this year many will face eviction from their residential care. Most of those are in small residential facilities. The government’s policy is to increase the size of patient numbers per hospital by 50%-- in other words cram them in. They want to get rid of small hospitals in favour of moving those patients into large one-size-fits-all hospitals where they will not get the same care.
+
+Alas we are going to see develop two classes of geriatric care—one for the haves and another one for the have-nots. That is unacceptable and all elderly people who require care should be entitled to the best possible care that we can provide them. When we were a good nation we all believed that.
+
+Elderly health care has been given $50million to account for inflation-- a zero increase in real terms; the artists have been given $100million.
+
+And Maori Television is to be given $55 million per annum of new funding.
+
+That’s where the priorities of this government lie—they are quite prepared to have elderly patients with dementia being evicted from their hospitals, but they can’t have the pretentious-bearded-bright-young-things in Wellington doing without their art work at Te Papa.
+
+We in New Zealand First implore you in Grey Power to do something for these old people who obviously can’t come to your meetings. Besiege Dr Cullen, Miss Clark and Annette King and stop this outrage.
+
+Remember what they promised in opposition even though it was Helen Clark who, as Minister for Health, closed 29 hospitals—more than any other Minister of Health in New Zealand’s history.
+
+And today Annette King’s record, after 18 months in the job, is looking decidedly shaky with District Health Board after District Health Board going into deficit. This year those deficits will total more than $300 million. Compound those deficits next year and we already have a crisis on our hands.
+
+And the elderly are not faring well on many other fronts. To begin with electricity prices are going through the roof. Those price increases are a form of tax.
+
+Why are they taxes? Because the government could do something about those increases, but chooses not to, whilst at the same time they are quite prepared to enjoy the windfall of the increase in tax on those electricity price increases.
+
+Why do they more adversely affect the elderly? Because retired people have less disposable income than those who are working and often are more reliant on electricity for their standard of living. They are the ones who can least afford it.
+
+It seems a classic case of win-win for the Government, and lose-lose for the home owner and business - paying more for their energy and as a consequence, higher taxes also.
+
+The Government could have stopped electricity price increases long ago, lowered the cost of living and still collect revenue—but their political priorities lie elsewhere. In short they won’t act to regulate energy price gouging because that would be seen to be “anti-business”, in the same way as they wouldn’t inquire into bank charge increases because, even though the banks are all foreign owned and fleecing their New Zealand clients, they are scared of being accused of being “anti-business”.
+
+There appears to be no doubt that energy and banking companies are in collusion - merely taking turns at being the bad guys in leading the charge to put up prices. The Government has the responsibility to act in the best interests of everyone and not permit New Zealanders to be ripped off by energy companies and banks.
+
+The elderly, the retired and those who can least afford it are literally being left out in the cold with stretched budgets because of this government’s inaction. New Zealand First believes that there should be action taken immediately to regulate electricity prices, offer incentives for domestic customers to save electricity and then begin a formal inquiry into the industry.
+
+It is no use the Minister, and the National Party, arguing for a Conference of all the parties involved or a Review for that matter. Any Review will end up on his desk. We face a serious electricity shortage.
+
+Yet this morning the Minister said that there might be, just may be an electricity crisis. Big power users are shutting down their plants at critical times; some charges have increased by over 1000% and action is needed urgently. The Minister should use his powers.
+
+The Minister has done little other than criticising the former minister over the past 20 months. That criticism is justified but what has he accomplished?
+
+The tactic that the Minister has taken of blaming everything on Max Bradford is wearing thin. In the meantime the water levels continue to drop, prices continue to rise and time is running out.
+
+Where is the leadership that you were all promised?
+
+The entire electricity industry is in turmoil; companies will now not take on new customers because they will actually lose money for doing so, whilst retailers are disposing of their customer base and leaving the industry.
+
+The result of this inaction will be exorbitant costs to business and more poverty amongst the elderly and the less well off in one of the most developed energy rich countries in the world.
+
+And whilst we are at it why as Grey Power been barred from attending today’s so-called top level meeting on the electricity crisis when retirement homes are facing over 100% increases in their power bills? If this state of affairs continues electricity for many will become a luxury item.
+
+This Minister’s only apparent action has been to appoint David Caygill firstly to the Electricity Review Team and now to the Governance Board. Mr Caygill has a long history of not working in the interests of the public. Remember it was he as Minister of Finance who, in 1990, announced a Budget with an $89 million surplus when it in fact was a $3.2 billion deficit and it was he who first sold part of the BNZ and then all of Telecom.
+
+Those of you who voted Labour last time please remember that there is a huge difference between what they said they would do and what they have actually achieved.
+
+This week in Parliament every party but two voted for 65% of the average working wage being the permanent super payment to the elderly. New Zealand First opposed it because we have always believed that a sound economy could afford 72.5% of the average wage for the retired. The ACT Party opposed it because they want the super age increased and super payments reduced even more.
+
+We do have more politically expedient spending in government today but after all the promises we have missed a golden opportunity and condemned ourselves to a destiny of internal division and a continued slide down the international scale.
+
+Ladies and Gentlemen, for the record when New Zealand First had the power to do something for you we introduced free influenza injections for the retired and the sick, we refused, even though there was an Asian crisis dramatically affecting our economy to reduce super payments to the elderly, we removed income and asset testing for those in geriatric care, we ran the lowest inflation regime for 26 years, we abolished the surtax which every other party had supported, we opened mental health care and cardiac care facilities and dramatically increased health spending – to gain 32,000 more operations per annum and provide free medical care for children under 6.
+
+And we refused to sell any state asset.
+
+And one more thing – we stood for one country and one law for everybody. We would not back then, nor will we now, promote race preferential legislation – the path down which National and Labour again are, taking this country.
+
+For it is not what politicians say that matters. It is what they do.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party) on InfoPages.

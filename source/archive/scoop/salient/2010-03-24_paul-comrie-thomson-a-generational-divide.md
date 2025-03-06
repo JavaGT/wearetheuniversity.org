@@ -1,0 +1,112 @@
+---
+slug: paul-comrie-thomson-a-generational-divide
+title: "Paul Comrie-Thomson: A Generational Divide"
+date: 2010-03-24
+source-url: https://www.scoop.co.nz/stories/HL1003/S00267/paul-comrie-thomson-a-generational-divide.htm
+author: salient
+---
+Paul Comrie-Thomson: A Generational Divide
+==========================================
+
+**Wednesday, 24 March 2010, 9:40 am**  
+**Column: [Salient](https://info.scoop.co.nz/Salient)**
+
+### A Generational Divide
+
+_by Paul Comrie-Thomson_
+
+_Salient_’s Paul Comrie-Thomson investigates the arguments for and against electoral change, and the generational divide that exists between the proponents of MMP and FPP.
+
+In an earlier issue of Salient, feature writer Matthew Cunningham claimed that VSM is 2010’s most contentious acronym in student life. I don’t disagree, but in light of this assertion, I would further propose that in the world of acronyms, MMP exists as the most important facing not only students, but New Zealanders as a whole as we head towards the 2011 election. It has been 18 years since New Zealand voted to change our electoral system from the British First-Past-The-Post (FPP) system to a Mixed Member Proportional (MMP) system. Now we face the option of whether to retain the current system, or look to make another change.  
+Why MMP?
+
+The original change in our electoral system occurred as a result of the public’s prolonged distrust in government. In the face of this withering confidence, the Labour Party campaigned in both 1981 and 1984 on a commitment to review the electoral system. Winning in 1984, the fourth Labour Government kept their election promise, and set up a Royal Commission on the Electoral System in early 1985. The report that emerged recommended New Zealand switch to the German-style MMP system, which would see roughly half of the increased 120 seat parliament elect in constituencies as they had been under the FPP system. The remaining seats would be chosen from party lists, ensuring that parliament better reflected the overall vote.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Although it remained at the forefront of subsequent election campaigns, little action was taken on the Royal Commission’s recommendation. As public distrust mounted in the early 1990s as a result of more broken election promises, support radically increased for electoral reform. The National Government finally agreed to hold an indicative referendum in September 1992.
+
+While only 55 per cent of electors took part in the first indicative referendum, 85 per cent of those voted for a change the electoral system, with MMP the preferred system. Labour leader Mike Moore commented at the time: “The people didn’t speak on Saturday. They screamed.”
+
+The second binding referendum was held in conjunction with the 1993 general election, and following a bitter campaign, the election saw an 85 per cent turnout. MMP narrowly emerged as the favoured option over the old FPP system.
+
+Fourteen years later, in the leadup to the 2008 election, New Zealand’s electoral system was thrown back into the limelight, with National promising a referendum reviewing MMP. In light of their success in that election, the National Party are following thorugh on that election promise to hold the referendum. However, a recent poll conducted by UMR Research signified a clear public reluctance for such a referendum, especially when those polled found out about the $20 million price tag attached to such a referendum. 60 per cent of those polled indicated they didn’t think it was necessary. With the debacle surrounding Sue Bradford’s anti-smacking referendum still present in the public’s minds, it’s no surprise that people are suspicious about the perceived irrelevence of referenda in general. So why did National campaign on this issue in the first place?
+
+Dr Jon Johansson, a political science lecturer at Victoria University explains. “I think there was a feeling genuinely and sincerely held in the National Party that during the nine years when Helen Clark was running the show, that they couldn’t win under the set of rules of MMP. Of course, now… they’ve proven to themselves they can win under MMP, and John Key has proved he is very adept at running MMP style politics, so they are sort of stuck. As a result, we the taxpayer just have to write a $20m cheque so they can keep their promise.”  
+The Options
+
+Despite the opposition indicated by the UMR poll, it is clear the government intends to go ahead with the referendum regardless. Justice Minister Simon Power announced the government’s decisions on timing and process in October 2009. He has indicated that the bill empowering the referendum will be introduced to parliament in April this year. While the exact wording of the questions to be asked in the referendum will be outlined in the bill, Power has indicated that there will be two questions asked of voters. The first will simply ask voters whether they would like to retain the current MMP system, and the second offers them four alternate options that they are to choose from regardless of their response to the first question. The four options are First-Past-The-Post (FPP), Supplementary Member (SM), Preferential Vote (PV), or Single Transferable Vote (STV).
+
+Of these choices, the two touted as most likely to fly with those who oppose MMP are the FPP system, which was New Zealand’s electoral system up until 1993, and SM, which is described by some as a middle ground between MMP and FPP, although in reality it lies closer to FPP than MMP.
+
+Maori Party MP Rahui Katene recently made a trip to Westminster to observe the British Parliamentary system, which continues to use the FPP system. Her observations there have confirmed what she sees as an inherent problem with that electoral system.
+
+“We sat in the House of Commons and looked at the makeup of their parliament, and were absolutely aghast to see how few women and people of colour there were. FPP doesn’t work there for them, and it certainly hasn’t worked for us in the past.”
+
+Beyond criticisms that the makeup of the elected parliaments don’t match the population they represent, it is also clear that the FPP system doesn’t accuratly reflect the vote either. Under FPP, a party could dominate parliament with fewer votes than the other party. The clearest examples of this arose in the 1978 and 1981 New Zealand general elections where in both instances, the Labour Party won significantly more votes overall but the National Party ended up with a greater majority of seats in parliament.
+
+Auckland journalist and writer, Graeme Hunt of the Put MMP to the Vote lobby, admits he is an avid supporter of the FPP system, but explains that “if we moved away from MMP, we wouldn’t necessarily go back to FPP. I think many people would say, there is some role for smaller parties, but in a far more limited way. You wouldn’t have the tail wagging the dog.”
+
+Under the system he is advocating, SM, most MPs would be elected in the same way as in the FPP system, but there would be small percentage of seats allocated to provide parties with some seats based on the overall number of votes they receive. However Metiria Turei, co-leader of the Greens is quick to reveal the effect this would have for a party like the Greens, which relies heavily on party votes. “The Greens under our results in the last election would get one or two MPs under SM. We would likely continue to have some kind of representation through the years, but it would be very small.”  
+Arguments Against the Status Quo
+
+Put MMP to the Vote have put forward a plethora of arguments, but their main assertion is that the MMP system has resulted in declining voter turnouts, which have dropped 5 to 10 per cent since MMP was introduced in 1993. Hunt insists that “one of the tests of an electoral system is whether people understand it, and do they want to vote. Fewer people are voting \[and\] this suggests to me that it is not a very engaging system.”
+
+He argues that “one of the reasons we’ve had FPP since 1856 in New Zealand is that people who are not particularly well educated could come along, tick the box and know what they are getting”.
+
+Hunt also claims that under the current system, the “middle class pay the bulk of the tax, they work and they get the least back. Parliament will bend over backwards to help a minority group, but doesn’t help (the middle class).”
+
+In the wake of the UMR poll, which saw a clear preference for MMP by those under 30, Hunt further contends that “people of my age group… want to have an electoral system that provides stability, protects them from being taxed to death, ensuring they can retire with some dignity and comfort. One might argue that in terms of equity, because we pay tax, and because \[we\] work and have a greater stake in the community, that \[our\] rights are actually greater.”
+
+While Hunt and his co-lobbyist Peter Shirtcliffe are at the forefront of the campaign to see MMP removed as New Zealand’s electoral system, it seems they enjoy significant support from the business community. An article published in the National Business Review in February illustrated a view attributed to New Zealand business leaders which claimed that “abolishing MMP sooner rather than later would be New Zealand’s biggest boost to business, economic stability, growth and investor confidence”. In the same article, NBR Rich Lister, Richard Langridge was quoted speculating that “even the previous Labour government would have been prepared to implement policies that would be better for growth, but governments are looking at the electoral cycle, the next election, and trying to keep all the interested groups onside”.  
+How Do These Arguments Stack Up?
+
+First and foremost, despite sitting outside of the scope of this referendum, the issue raised by Langridge pertaining to the electoral cycles is one that is widely supported. Dr Johansson says that if the anti-MMP lobby made the electoral cycle their target, they would be shooting at something that might achieve the changes Langridge is referring to. “We would actually have more effective government, if that’s your schtick, by having a four-year election cycle, because currently, the re-election imperitive is so acute, governments are always thinking about re-election, which means when it comes to difficult choices, they’ll take the path of least resistence,” Johansson says. The problem with Langridge bringing this up is that the argument is irrelevant within this referendum, as it is very, very unlikely it will be addressed.
+
+In relation to Hunt’s claims in the drop in voter turnout, Sandra Grey of Campaign For MMP is quick to point out that “if you look at countries who use what \[Graeme Hunt is\] advocating, voter turnout is declining even more rapidly. Because MMP is preferred by youth, they are more likely to stay engaged and vote, and this has softened the decline in apathy \[in New Zealand\].”
+
+Advocating the retention of MMP, she explains that “the change in electoral system \[in 1993\] gave a huge boost to the representation of women”. Despite claims by Hunt that FPP or SM introduced in today’s political environment would see the same kind of representation as we see under MMP, Grey maintains that parties are likely to “put women and minorities into unsafe seats. They’ll put women into unsafe seats, contesting seats they can’t win, which is what they always did”.
+
+She says this is because “if you go back to a system like FPP, parties tend to pick the safest candidates. The safest candidate used to be a white middle-class male, and it’s likely to be the same if we switched back.”  
+Changes
+
+Power indicated when he announced the referendum that if the public voted to retain MMP in the first referendum in 2011, the government would review the system to see if it could be improved. While Hunt says that “you can’t tweak a sick animal; you’ve got to put it down”, and that “MMP is not salvageable in its present form”, the public have overwhelmingly indicated that they would vote to retain MMP with the promise of this review. The UMR poll conducted in February indicated that when people were given the option of MMP with a review, rather than a simple runoff between MMP and an alternate voting system, support increased from 49 per cent to 63 per cent of those polled.
+
+The major point of contention is in the case where a party wins one electorate seat, and subsequently the 5 per cent threshold is waived, resulting in the party getting not only the electorate seat, but also list seats proportional to their share of the vote. The anomaly surrounding this is fresh in New Zealanders’ minds, after the ACT Party was successful in winning five seats in the 2008 election despite only gaining 3.65 per cent of the vote. The New Zealand First Party however, won a greater 4.07 per cent of the vote, but saw no representation in parliament. This was simply because ACT leader Rodney Hide had won the Epsom electorate.
+
+There are two proposals for amending this. The first involves instituting a two seat rule, whereby a party would have to secure two electorates to negate the 5 per cent threshold. That way if Hide wins Epsom he wins that seat in parliament, but he can’t bring other party members in with him. The second proposal that has been floated is a simple reduction of the threshold from 5 per cent to 4 per cent.
+
+The other significant controversary arose in the 2005 election where a number of Labour MPs were voted out of their constituencies, but were returned to parliament via the party list. Again, this is a problem which can easily be remedied by requiring parties to compile their lists so that those MPs contesting electorate seats are not at the top of the party list. Regardless, Dr Johnasson explains: “The electoral market takes care of that. It did Labour no favours bringing back all those MPs that the people didn’t want anymore, and that hurt them in 2008.”  
+Our Generation
+
+The vast majority of students at this university wouldn’t have been old enough to cast a vote in the 1993 MMP referendum. In fact, at that time, most of the current students were being taught where to pee, rather than the ins and outs of MMP. As are result, most of us have never known any different so it is unlikely we really have a grasp on the importance of this referendum. In an article in the New Zealand Listener in October of 2009, Dr Johansson asserted that “it is indisputable that MMP has led to a more representative democracy”. There is significant data to support this, and even the staunchest opponent of MMP couldn’t deny that since MMP was introduced, New Zealand has seen a parliament emerge that reflects us much better as a population. When you look at the fact that in New Zealand’s multi-cultural society, one third of those under 25 are Maori and Pasifika, therefore the result of a change towards a more disproportional system could have severely adverse effects.
+
+Dr Johansson uses the analogy of path dependency to explain what might happen in the event of a change in the system. “Once you get a fork in the road, and you choose which direction to go, you can never return to the point of original intersection because the land is forever changed. My deepest fear, if we voted for change away from MMP \[...\] is that inevitably that will mean we will then revisit the question of our electoral system in the future… It’s inevitable if we vote for change to a more disproportional system, that there will be a future clamour for change.”
+
+Dr Johansson remarks, “I personally think it is the most important decision that New Zealanders have faced in 17 years since we voted in MMP, in the ’93 referendum. Whether tweedle dee or tweedle dum wins the 2011 election, it’s far more significant in a constitutional sense, our decision on the electoral system, and I truly truly hope that every student on this campus votes in that election.”
+
+This story was syndicated by the Aotearoa Student Press Association via Salient [www.salient.org.nz](http://www.salient.org.nz/)
+
+[http://www.salient.org.nz/features/a-generational-divide](http://www.salient.org.nz/features/a-generational-divide)
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Salient](https://info.scoop.co.nz/Salient) on InfoPages.

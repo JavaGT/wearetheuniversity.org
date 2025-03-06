@@ -1,0 +1,113 @@
+---
+slug: katene-statutes-amendment-bill
+title: "Katene: Statutes Amendment Bill"
+date: 2011-04-13
+source-url: https://www.scoop.co.nz/stories/PA1104/S00270/katene-statutes-amendment-bill.htm
+author: te-pati-maori
+---
+Katene: Statutes Amendment Bill
+===============================
+
+**Wednesday, 13 April 2011, 11:18 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+**Statutes Amendment Bill**  
+**Rahui Katene, Maori Party MP for Te Tai Tonga**  
+**Wednesday 13 April 2011**
+
+As other speakers have noted, this is a Bill consisting entirely of amendments to Acts.
+
+All of the amendments are simply technical, which lend themselves to non-controversial changes to give effect to parliament’s intent of each piece of legislation.
+
+Contrary to a ten minute speech by Mr Barker – which would suggest that the Labour Party has great concern about all of these amendments- actually the Labour Party is not opposed to any of these changes.
+
+In order to be included, amendments must be minor, technical and non-controversial. If any party objects, the statute requiring amendment must be removed before Bill is tabled.
+
+None of these Bills have been removed so obviously the Labour Party IS supporting them.
+
+To this end, the substance of the debate would probably be more interesting if we were debating the changes that we in the Maori Party have not agreed to.
+
+There are just a few points that I want to make in this debate
+
+The first is around the proposal for section 26A(6)(b) of the Citizens Initiated Referenda Act 1993 be amended tor require the writ for postal referenda to be returned within 60 days rather than 50 days, to allow sufficient time for the Chief Electoral Officer to complete the final count of votes, endorse the writ and return it to the Clerk of the House.
+
+Ten days is neither here or there, but in the interests of due access to justice we are of course keen to support this, to ensure a full and comprehensive referenda process can be undertaken.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+But I would just like to raise an issue in the debate regarding the possibility of electronic voting – also known as e-voting. Electronic voting technology can speed the counting of ballots and can provide improved accessibility for disabled voters.
+
+Polling place electronic voting or Internet voting examples have taken place in Australia, Belgium, Brazil, Canada, Estonia, the European Union, France, Germany, India, Ireland, Italy, the Netherlands, Norway, Romania, Switzerland, the United Kingdom, Venezuela, and the Philippines. Unfortunately New Zealand is not on that long list.  
+And I just wonder why we can’t add New Zealand into that list– to trial both electronic means of casting a vote and electronic means of counting votes.  
+If we already have the facility for online enrolment then it would seem to me an ideal opportunity for Citizens Initiated Referenda to serve as a pilot for e-voting.
+
+As the local member for Te Tai Tonga, the amendments to the **Civil Defence Emergency Management Act 2002** are also worthy of a brief comment.
+
+In essence, this reform will amend the Act to clarify that there may only be one state of local emergency in force in the same location at any one time. If we were sitting in Christchurch, we have gone through two earthquakes, but only one national state of emergency.
+
+The events as they have unfolded in Canterbury have certainly reinformed the importance of maintaining consistency of communication and the need for a co-ordinated, comprehensive approach. And so obviously we support the change.
+
+Consistency is also a concept that we considered when looking at the amendments for the **Hauraki Gulf Marine Park Act 2000.**
+
+The amendment amends section 24(2) of the Act so as to provide that “_every tangata whenua appointee shall continue in office until the appointee’s successor comes into office notwithstanding that the term for which the appointee was appointed may have expired”._
+
+This is a pragmatic response to issues which occur from time to time, between retirements, resignations and new appointments.
+
+The Maori Party is aware that unless we set up procedures such as this amendment, there might be serious consequences for the work programme and issues involved in the management of the Hauraki Gulf Marine Park; if indeed tangata whenua representation was missing from the table.
+
+I want to also focus on the issues around the **Domestic Violence Act.**
+
+And I want to correct the gross misinformation put to the House this morning by Carol Beaumont about domestic violence funding.
+
+Ms Beaumont suggested that there should be great concern about the nature of the funding cuts to family violence funding.
+
+Actually, she couldn’t be more wrong.
+
+In actual fact, not only has funding for family violence been maintained at $11.035 million as part of the 2011/2012 funding plan but in actual fact, the announcements by my colleague Tariana Turia, included $2.8 million for a period of one year to support innovative and joined up approaches to the coordination of responses to family violence. This may include responses such as community networks and case collaboration.
+
+So the funding for family violence has not only been maintained but it’s grown.
+
+What is different about the approach is that we now see far more emphasis on front line services. In particular the Family Centred Services Fund will enable family violence services providers and provider collectives to work more flexibly to restore family safety and family wellbeing where violence has occurred and to help create the longer-term changes needed to prevent violence from recurring.
+
+The Maori Party welcomes this refocus on families and believes it is the right emphasis for our future.
+
+The Amendment in this Statutes Amendment Bill will make it clear that a person may only be taken into custody for refusing or failing to comply with a Police safety order if, after issue, the order has been served on the person; and to enable Community Magistrates, Justices of the Peace and the Court Registrars as well as District Court Judges, to issue warrants of arrest under sections.
+
+We welcome the move for transparency and note also that it reflects the wide-spread ownership of the prevention of family violence right across government.
+
+Finally we support the changes to the Charities Act to clarify the definition of ‘officer’; and to amend the definition of ‘serious wrongdoing’ to include: grossly negligent, record keeping, gross mismanagement, destruction and misrepresentation of records.
+
+This is all good, to have such specificity written into the law.
+
+There is provision made in section 5 so that the meaning of charitable purpose is defined as it applies to amateur sport. This will be in line with current case law, which provides that amateur sport is not a charitable purpose for its own sake, but it can be charitable if it is a means to achieving charitable purposes such as promoting health or education.
+
+We support all these changes, and we believe it is consistent with the wider context about ensuring the Charities Commission is more aligned with New Zealand communities. We note in their Statement of Intent their commitment to enhance their responsiveness to Maori, Pasifika and ethnic communities and we obviously welcome this wider direction of change.
+
+There are many other amendments made within the Statutes Amendment Bill, and so many of them are technical and shouldn’t have to be made – but are because of typos, spelling mistakes and so on.
+
+I am really looking forward to the Constitutional Review and the submissions from the public particularly around the concept of a Second House so that we don’t have to pass things under urgency or that we don’t pass things though that shouldn’t have been passed, like a simple spelling mistake.
+
+The Maori Party is happy to support this Bill at its first reading, recognising that further points of detail can be raised at successive stages.
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

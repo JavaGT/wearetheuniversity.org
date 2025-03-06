@@ -1,0 +1,134 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2008-04-10
+source-url: https://www.scoop.co.nz/stories/ED0804/S00027/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 10 April 2008, 8:59 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Increasing salaries should be election focus:  
+Increasing wages and salaries in New Zealand should be a major focus of debate in election year rather than lowering taxes and cutting government spending, according to the Association of University Staff. The union argues that the current debate on tax cuts is too narrow and that it would be more productive to concentrate on lifting wages and salaries to levels comparable to those in Australia and other countries with which New Zealand competes for labour.  
+University staff are voting this week to decide whether to initiate bargaining for national collective employment agreements as one measure to try and address international salary disparities. The national agreements would replace current enterprise-based ones, negotiated separately at each university.  
+AUS national president, Associate Professor Maureen Montgomery, said that New Zealand weekly wages in 2007 averaged around $731.04, compared with the $NZ1029.26 in Australia. “Such a significant difference in the spending power of New Zealand workers will not be addressed by tax cuts of between $15 and $20 a week; it is up to employers to lift their game and substantially increase wage levels,” she said. “During the era of the Employment Contracts Act, New Zealand wage and salary levels dropped from being broadly equivalent to those in Australia to being around 30 percent behind.”  
+Associate Professor Montgomery said it is ironic that there are a large number of Australian companies in New Zealand paying their workers significantly less than their Australian counterparts, while at the same time taking huge profits out of the country. “Higher levels of productivity have been used as a justification for higher wages in Australia, but we do not accept that New Zealand workers are generally any less skilled or hard-working than their Australian counterparts,” she said.  
+New Zealand universities recruit more than 50 percent of staff from the international market, yet salaries remain as much as 25 percent behind Australia, even when adjusted for cost of living.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Buchanan to appeal ruling on reinstatement  
+2\. AUS women’s vice-president elected  
+3\. International enrolments down again  
+4\. Student debt millstone, not milestone, say NZUSA  
+5\. “Crippling” cuts questioned  
+6\. Waikato to buy Michael King house  
+7\. Apology ordered for drug critique  
+8\. Another clash of cultures  
+9\. Honour restored after 66 years  
+10\. No confidence in redundancy-happy VC
+
+Buchanan to appeal ruling on reinstatement  
+The Association of University Staff has confirmed that an appeal will be filed in the Employment Court on behalf of Dr Paul Buchanan claiming that he should be reinstated to his position as a senior lecturer at the University of Auckland.  
+The Employment Relations Authority recently ruled that Dr Buchanan had been unjustifiably dismissed from his employment at the University, but it declined to reinstate him. Dr Buchanan was awarded more than $65,000 in lost wages and compensation.  
+The university summarily sacked Dr Buchanan in July last year on the grounds of serious misconduct after sending what was described in the media as an angry email to a student, a United Arab Emirates national. In the email, which was widely reprinted, Dr Buchanan spoke bluntly of the student’s very weak academic performance and lack of aptitude for graduate study and said that he did not believe her excuse for not delivering her final assignment on the due date.  
+AUS deputy secretary Marty Braithwaite said that reinstatement is the primary remedy where dismissal is found to be unjustified and that this is an important issue for Dr Buchanan, particularly given that the effect of the loss of his job is effectively to end his academic career in New Zealand.  
+It is not known at this stage when an appeal will be heard.
+
+AUS women’s vice-president elected  
+Sandra Grey, a lecturer in the social policy and sociology programmes at Victoria University with an MA(Hons) from the University of Auckland and a PhD from the Australian National University (ANU), has been elected women’s vice-president of the Association of University Staff. Dr Grey’s union involvement began in 1988 when she became a shop-floor delegate in the NZ Journalists’ Union and extended to university activism when she was elected president of the ANU’s Postgraduate and Research Students’ Association in 2002.  
+Since 2006 she has been a member of the AUS Victoria branch committee and a representative on the national staus of women committee. In those roles, she has been involved in debates and campaigns around childcare, promotions, workloads, and timetabling.  
+Dr Grey identifies a number of major issues for women in tertiary education: “These include the ‘glacial’ progress towards equity and the particular effects of the almost $10 billion student debt on women, who take longer on average than men to pay off the debt. In addition, there is the use of casual employment contracts, with their disproportionate impact on women, and the lack of recognition, in many instances, of the value of the contribution of general staff women to academic endeavour.”  
+“I guess what is important is to is to recognise that gender inequities do exist and, while they are not easy to overcome, it is essential that we take them seriously,” she concludes.  
+Dr Grey’s research interests centre on the ways in which citizens can bring about social and political change and, in particular, development of a greater understanding of the changes brought about by collective actions such as social movements and interest groups. She is currently working on a major research project, for which she received a Marsden fast start grant, looking at the interaction of union, women’s, and anti-poverty movements in New Zealand since the late 1960s.
+
+International enrolments down again  
+Education Review reports that international student enrolments are down again this year in at least seven of the country’s eight universities, but that only one, Massey University, reports an initial fall in domestic numbers. Among them, five universities began the year with a total of 1314 fewer equivalent-full-time students (EFTS) than last year for an estimated $24 million loss in fees alone. Two more reported a decline in international numbers but did not give figures.  
+Massey had the biggest numerical fall, with 367 fewer international EFTS than last year, a drop of 19 percent. It also reported a fall of 260 domestic EFTS at the beginning of the year to a total of 14,554, thus continuing its steady domestic decline since 2000, when it recorded 18,742. Massey is reported, however, as expecting some slight growth over the course of the year.  
+There follows Victoria University, with a 270, or 19 percent, drop in international EFTS from the same time last year and AUT with a decrease of 272, or 14 percent. The University of Canterbury dropped 237, or 16 percent, and the University of Auckland 162, or just 7 percent of international EFTS. Auckland, however, reported a small increase, 0.7 percent, in domestic enrolments.  
+Lincoln University had not been able to provide figures to Education Review in time for publication but reported an overall drop in international EFTS and in postgraduate domestic EFTS and an increase in domestic undergraduates and international postgraduates. It is reported as blaming the drop in initial postgraduate EFTS on a tight labour market.  
+Similarly, Waikato did not provide figures but has been reported as saying that total enrolments are up in spite of a decrease in international numbers. The University of Otago would not provide figures until its council had been briefed.
+
+Student debt millstone, not milestone, say NZUSA  
+Students and graduates all around New Zealand are marking collective student debt reaching an astonishing $10 billion today with events and protests highlighting the inequity of the student-loan scheme and the unsustainability of a debt-laden generation.  
+“Family formation, home ownership, business start-up, and retirement savings are all widely known to be severely negatively affected by student debt. Add to that the contribution of this debt to New Zealand’s increasing ‘brain drain’ and you have a recipe for disaster,” said New Zealand Union of Students’ Associations co-president Liz Hawes.  
+“The millstone of debt burdening an entire generation is an indictment on a first-world country that values education and promotes a knowledge economy. But with commitment and leadership from the government it is possible to turn the tide”, she added.  
+The 2007 NZUSA Student Income & Expenditure Survey identified significant increases in students’ living costs and debt, with average student debt rising 54 percent since the survey was last conducted in 2004, and now topping $28,838. “Lack of access to allowances and high tuition fees are the key contributors in driving students to debt. It’s clear that action from government in these areas would significantly reduce debt for individuals and families, and have positive effects on the economy”, concluded Ms Hawes.  
+At the University of Otago, students are marking the occasion with a protest on the registry lawn in the form of a massive birthday party for the student debt monster. As well as a variety of party related activities, including free food and a horizontal bungy, students can register their protest by completing a birthday card with their name, year of study, and student loan debt and sending it to the parliamentary offices of Pete Hodgson, minister for tertiary education.
+
+“Crippling” cuts questioned  
+South Island polytechnics are said to be facing what one chief executive describes as “crippling” cuts as a result of a focus on in-region provision by the Tertiary Education Commission (TEC), according to a report this week in The Press.  
+Telford Rural Polytechnic is said to have had a 20 percent reduction, Aoraki Polytechnic has lost 150 of its 670 land-based EFTS, and West Coast Polytechnic 480 EFTS, but not in land-based training. Telford’s EFTS had gone to the Waikato, Taranaki, and Nelson Marlborough, to institutions which are alleged to lack the expertise or capacity to handle the work and who would be subcontracting it out.  
+Jonathan Walmisley, chief executive of Telford, whose campus is in south Otago but which has students scattered around the country, is quoted as saying, “It was a major blow to see this was the way they were heading. The tertiary education strategy clearly allows for specialism. The biggest concern is not this 20 percent which will have an impact, but should they continue this policy we could reach a stage where we become non-viable.”  
+Wendy Smith, Aoraki chief executive, describing the policy as a “blunt tool”, questioned the wisdom of changing and redistributing land-based provision “at significant cost and high risk”.  
+According to The Press, however, TEC director tertiary network, David Nicholson, said that Aoraki and Telford had been subcontracting out most of the training. Noting that specialist areas would remain with the original institutions, he described the transferred EFTS as relating to “lower-level more generic” training being picked up by other regional providers as “part of an increased focus on meeting the needs of their regional stakeholders”.  
+“Telford continues to be a successful provider within the tertiary system. There is no evidence that a 20 percent reduction in its 2006 provision is a risk,” he added.
+
+Waikato to buy Michael King house  
+The University of Waikato has bought the house built by the late New Zealand writer and historian, Michael King, in Opoutere, near Whangamata on the Coromandel Peninsula. Dr King and his wife, teacher, editor, and publishing consultant Maria Jungowska, died in March 2004 when their car left the road on a notorious stretch of state highway 2 at Maramarua. It is intended that the house will be used as a retreat for university staff and, possibly, visiting academics, and this is seen as the beginning of other tributes.  
+Waikato vice-chancellor, Professor Roy Crawford, said that Dr King had played an important part within the university. His long association with Waikato began in the late 1960s and 1970s with his MA and his PhD. He was a fellow of the department of history in the early 1990s and, in 1994, spent the year as writer in residence. Eight years later he returned as senior fellow in history. He was made an honorary doctor in 2002 and had been working on a history of the university when he died in 2004, although this has never been completed.  
+Professor Crawford said that, when Dr King’s children, who live in Wellington and Christchurch, decided to sell the house where their father did so much of his writing, the university was given the chance to continue its link with the eminent historian.  
+“We see it as a wonderful opportunity to honour Michael King’s memory by keeping his house as a place where staff can further their research, or small groups of staff or graduate students can use it for research or writing,” said Professor Crawford.  
+Some mementos of Dr King’s will remain in the house, as will his large writing desk, although this remains the property of the family. Professor Crawford said the house would not be a shrine to the writer, but it is hoped it would be an inspiration to those who spend some time there.
+
+World Watch  
+Apology ordered for drug critique  
+THE University of Queensland (UQ) in Australia is facing accusations of curbing academic freedom after asking a senior lecturer to apologise to a pharmaceutical company for comments he made about the cervical-cancer vaccine Gardasil. UQ senior lecturer in general practice, Andrew Gunn, had recently told ABC Radio National he had misgivings about the recently developed drug.  
+Dr Gunn said concerns included “its marketing as a solution to cancer of the cervix when at best it’s expected to prevent about two-thirds of cases; the incorrect and dangerous perception that it might make Pap smears unnecessary; and the difficult question of the best age to give a vaccine whose effect might yet prove to wear off before many recipients even start having sex”.  
+His comments prompted CSL’s public affairs director, Rachel David, to write to UQ’s then vice-chancellor describing Dr Gunn’s comments as inappropriate given the long-standing relationship between the university and the company in Gardasil’s development. In response, UQ secretary and registrar, Douglas Porter, wrote asking Dr Dunn to provide a written apology to CSL stating that the comments were made by him in his personal capacity and were not endorsed or authorised by the university.  
+Rejecting the idea that identification of an academic position could be seen as endorsement by the institution in which it is held, Doctors’ Reform Society president Tim Woodruff said that the call for Dr Gunn to apologise seemed to ignore the university’s own policies on academic freedom.  
+“Different views on economics, law, climate change, and almost everything else are frequently expressed in the media by academics with no suggestion that the views are endorsed by their university,” he said. “The only difference in this case would appear to be the determination by the university to override its own principles of academic freedom in the face of commercial concerns.”  
+From Janelle Miles in the Courier Mail
+
+Another clash of cultures  
+Lecturers at Keele University in the United Kingdom’s Midlands, supported by staff from other universities, demonstrated for the second time this year outside their council meeting last Thursday. The protests, as well as other “action short of a strike”, are partly in response to proposals to make thirty-eight of 67 academic staff in the school of economic and management studies (SEMS) redundant and, more significantly, partly in defence of the university’s long-standing commitment to “the ideas of broad, liberal education, of free thinking, and of bucking trends”.  
+Specifically, the action is about SEMS’s bucking of the widespread trend to become a conventional business school dominated by business interests. It has the only industrial relations unit left in Britain that is not based in a business school and “it takes trade unions seriously”.  
+Last year, a review committee recommended replacement of SEMS by a business or management school, abolition of its distinctive MBA, and the closure of courses in economics and industrial relations. The university accepted the report, concluded that many of the staff did not have “an appropiate skillset to support the change”, and commenced to prepare for redundancies.  
+While Keele vice-chancellor, Professor Janet Finch, expresses a strong personal commitment to social science disciplines, University and College Union (UCU) members see it quite differently. “Many people see us as deeply unfashionable, though I think what we do is relevant and contemporary,” says Keele UCU action committee chair Mike Ironside. “The vice-chancellor has her heart set on creating a conventional business school.”  
+Keele University was established half a century ago to enshrine the dream of its founder, Lord Lindsay, of uniting the two cultures: the arts and the sciences. He intended the university to be the place that taught “the arts person to understand how the scientists thought and the scientist to keep in touch with the arts”.  
+From Francis Beckett in the Education Guardian
+
+Honour restored after 66 years  
+Robert Yasui was a pre-medical student at the University of Oregon when he and nineteen other Japanese American students were expelled from the university in the spring of 1942. They were swept up in the mass roundup at the start of World War II that sent about 120,000 Japanese Americans, most of them US citizens, to what were called internment camps.  
+That put an abrupt end to Yasui’s ties to the university and, for the past 66 years, while he built a successful life as a surgeon in Williamsport, Pennsylvania, nothing connected him and the university that he attended briefly. But last Sunday, Yasui, now 84, and three other former students were back on campus for the university to award honorary degrees to all twenty of the expelled students on what President Dave Frohnmayer called “a day of many emotions, of joy and regret”.  
+Recalling a dark chapter in American history, President Frohnmayer declared that the students were “forced to defer their dreams” as fear stalked West Coast communities after the Japanese attack on Pearl Harbor. “Now, 66 years later, we, this university, have an opportunity to address those actions that led to this great wrong,” he said.  
+Yasui walked slowly with the aid of a cane to the front of the room to receive his degree. He was joined by Samuel Naito, 86, a member of one of Portland’s most prominent business families, who was a UO sophomore in 1942; Alice Kawasaki Sumida, 85, of Portland, who for years was a nurse at Providence Hospital; and Midori Funatake Komoto, 86, also a nurse, who lives in Ontario.  
+The university, which rarely grants honorary degrees, awarded nineteen bachelor’s degrees and one master’s degree.  
+From The Oregonian
+
+No confidence in redundancy-happy VC  
+Staff at Bournemouth University have delivered a damning vote of no confidence in its vice-chancellor, Professor Paul Curran. Members of the University and College Union (UCU) delivered the verdict on Professor Curran, who has made 100 academics redundant since taking over in September 2006, through a ballot of its local members.  
+The ballot, which delivered a scathing verdict of 93.4 percent for no confidence, followed mounting disquiet over Professor Curran’s changes to the university’s educational character. Staff have complained that his approach to a wide variety of employment matters and a recent round of compulsory redundancies left them with no option but to censure him.  
+Last October, Professor Curran incurred the wrath of his staff when he criticised the teaching at the university and suggested it was only Bournemouth’s climate and proximity to the coast that attracted students to the university. Distancing themselves from his comments, staff refused to condone Professor Curran’s approach to public relations or to badmouth the university themselves.  
+Following the announcement of the ballot result, UCU branch secretary Paul Freedman said, “This result shows the degree of anger and disappointment at the current actions of the vice-chancellor and his management team. We are not against change but it has got to build on our educational assets and retain the goodwill of staff. Our fear is that the very bedrock of what makes a decent university will be trashed in a headlong rush to change.”  
+UCU general secretary, Sally Hunt, said, “Staff at Bournemouth have had to take this drastic step because of the actions of their vice-chancellor. No university can ever lose sight of its primary functions and expect to retain the respect of the academic world. UCU fully supports the staff at Bournemouth and the vice-chancellor must listen to their concerns at his plans and also his recent actions.”
+
+More international news  
+More international news can be found on University World News:  
+http://www.universityworldnews.com
+
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct inquiries should be made to the editor, email: editor@aus.ac.nz.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

@@ -1,0 +1,76 @@
+---
+slug: call-for-more-māori-studying-agribusiness
+title: "Call for more Māori studying agribusiness"
+date: 2016-09-15
+source-url: https://www.scoop.co.nz/stories/BU1609/S00517/call-for-more-maori-studying-agribusiness.htm
+author: massey-university
+---
+Call for more Māori studying agribusiness
+=========================================
+
+**Thursday, 15 September 2016, 4:54 pm**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+**Call for more Māori studying agribusiness**
+
+Māori Development Minister Te Ururoa Flavell has urged more students to undertake a new Māori Agribusiness major Massey University is offering as part of the Bachelor of AgriCommerce.
+
+Mr Flavell, who is also Associate Economic Development Minister, was at the University's Manawatū campus today to speak with current students and staff involved in the qualifications, as well as schoolteachers, local iwi representatives and businesspeople.
+
+He stressed the importance of understanding Māori resource issues, resource management and economic development that meets cultural expectations.
+
+“We need people who can connect our current crop of Māori agribusiness leaders to the wider industry – to ensure we are getting the very best value, achieving the best potential from our land and our resources – I’m hoping the graduates from this major will be it.
+
+“If there’s one thing I’ve heard right across the country, it’s that the agriculture industry need more skilled workers with the qualifications to back them up. I congratulate Massey for setting this major up and for the students who will take it up.”
+
+According to Statistics New Zealand, goods exported by Māori-owned businesses in March 2014 were worth $543 million, up more than $100 million from the previous year, representing 1.1 per cent of total exports.
+
+**Supplying the right skills**
+
+Qualification director Dr Nick Roskruge from Massey's Institute of Agriculture and Environment, says the major, introduced this year, is unique. "It produces graduates with the core skills of an agribusiness graduate, but also with the cultural information to help organisations collaborate with Māori,” he says.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Students take core papers from the Bachelor of AgriCommerce as well as specific Māori Agribusiness papers like Māori Agribusiness Systems and Māori Policy in Agribusiness.
+
+“There is strong demand for agribusiness graduates who can communicate effectively with Māori organisations, work for Māori organisations and contribute to the economy," Dr Roskruge says. "This degree is still in its adolescence, but it was built with the help of the industries calling for the graduates and is a degree for not only Māori students, but any student willing to learn.
+
+“Cultural identity concepts such as manaakitanga \[hospitality\], and kaitiakitanga \[to protect\] are important, and graduates will be sensitive to the values captured in tino rangatiratanga – where Māori shall retain rangatiratanga \[chieftainship\] over their resources and taonga.
+
+“There is an important desire for Māori to determine their own destiny relating to economic well being, to have the material wealth and income to meet their own needs, and to contribute to the wider economic growth."
+
+Dr Roskruge says Māori are most strongly represented in the sheep and beef cattle farming sector. More than 720,000 hectares of Māori land is farmed and nearly 15,000 Māori are employed in primary industries.
+
+College of Sciences Pro Vice-Chancellor Professor Ray Geor said the new major would succeed because it was developed by listening to the needs of the Māori business community.
+
+“Māori agribusiness and land-based enterprise is important for our society and agriculture as a whole. This major will produce graduates with an understanding of specific issues relevant to Māori agribusinesses, coupled with the foundation knowledge and understanding of local and international agribusinesses,” Professor Geor said.
+
+**Connection to the land**
+
+Attendees also heard from Massey Bachelor of Science graduate Turi McFarlane, from Beef and Lamb New Zealand, reflecting on his Māori horticulture production research. “My study took me to homes all over New Zealand and really emphasised the significant and enduring relationship Māori have with agriculture and horticulture in Aotearoa. The intimate relationship with the crops such as taewa, kumara – crops that are so much more than just plants - have a long and rich history interwoven with our people.”
+
+Business leader and former Massey University Council member Mavis Mullins spoke about taking the best New Zealand food to the world. “I’m really proud to be an alumni of Massey University," she said. "It has opened so many doors; it has enabled and ensured that the scope, the vision, is wide, and I guess this new major will take that even wider. Massey has always had this footprint in the primary sector – and with this it will only get bigger.
+
+“Farming now is for the future – it’s not just about shearing and fencing – it’s about technology and sciences and the shrinking of the world in terms of where our kai goes. This pasture to plate thing isn’t just in New Zealand – it’s our pastures to San Francisco, to Dubai, to Shanghai. Our skill base and the way we see things and engage with the world.”
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

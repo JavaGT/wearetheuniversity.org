@@ -1,0 +1,75 @@
+---
+slug: james-bonifacio-is-ucs-latest-rhodes-scholar
+title: "James Bonifacio is UC’s latest Rhodes Scholar"
+date: 2012-11-13
+source-url: https://www.scoop.co.nz/stories/ED1211/S00087/james-bonifacio-is-ucs-latest-rhodes-scholar.htm
+author: university-of-canterbury
+---
+James Bonifacio is UC’s latest Rhodes Scholar
+=============================================
+
+**Tuesday, 13 November 2012, 10:00 am**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+James Bonifacio is UC’s latest Rhodes Scholar
+
+November 13, 2012
+
+  
+
+![](http://img.scoop.co.nz/stories/images/1211/5984efd2ba15481cfdbb.jpeg)  
+
+James Bonifacio  
+
+  
+
+Christchurch physics and maths student James Bonifacio has become the University of Canterbury’s latest Rhodes Scholar.
+
+Rhodes Scholarships are the pinnacle of achievement for university graduates wishing to pursue postgraduate study at Oxford University, regarded as one of the world’s leading universities.
+
+A former Hagley Community College student in Christchurch, Bonifacio said he was hugely honoured to win a Rhodes Scholarship to Oxford.
+
+The University of Canterbury (UC) has had long ties with Oxford and last year Oxford helped UC by offering 42 UC students an opportunity to study for a term at Oxford.
+
+\`\`I heard great things about Oxford from my friends that went on the UC-Oxford exchange following the earthquakes, so it's great to have the opportunity to go there next year and see that for myself,’’ Bonifacio said.
+
+\`\`This is a life-changing opportunity. Having a Rhodes Scholarship not only means having the financial support to study at Oxford, but it also means being involved with an academically diverse community of Rhodes scholars from all over the world."
+
+\`\`My curiosity and passion for learning drives me to pursue a deeper understanding of nature. At Oxford I am going to study for a Doctor of Philosophy in theoretical physics and plan to work on cosmology, the study of the universe at large.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+\`\`Career wise, I initially aim to do physics research. Hopefully this will eventually mean working as an academic physicist in New Zealand, most likely after working overseas. Though I am also interested in science, communication and education more generally.
+
+\`\`The best part of being at UC has certainly been the people that I’ve met here, including the many that have helped me during and even before my degree. I value the approachability of my lecturers and the friendliness of everyone that I’ve met during my time here. I’m also very fond of the many green spaces that we have on campus and the (ephemeral) sunshine.’’
+
+Bonifacio said he was excited about the opportunities that existed for science to be a part of the Christchurch rebuild. While overseas he said he would keep a close eye on how Christchurch develops.
+
+He has completed a BSc with a double major in mathematics and physics, and is now in his honours year. He has been involved in tutoring and mentoring at university and currently volunteers as a tutor at Hagley Community College’s Refugee Homework Centre. He is also a keen sportsman, enjoying running and competing in taekwondo.
+
+He said that this is an exciting time to be working on cosmological physics since current experiments are teaching us more about our universe, such as the nature of dark matter and dark energy.
+
+"Modern cosmology is a young, rapidly advancing and observationally informed science, although it also relies on fundamental theoretical principles. Therefore, advances in cosmology will be made by consideration of both observational data and fundamental theory.
+
+\`\`The fruitful interplay between theory and observation attracts me to cosmology, where I hope to use theory and observational data to find solutions to unanswered questions in cosmological physics,’’ he said.  
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

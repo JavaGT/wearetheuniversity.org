@@ -1,0 +1,74 @@
+---
+slug: palmy-poised-to-get-more-active-on-short-trips
+title: "Palmy poised to get more active on short trips"
+date: 2015-10-28
+source-url: https://www.scoop.co.nz/stories/ED1510/S00132/palmy-poised-to-get-more-active-on-short-trips.htm
+author: massey-university
+---
+Palmy poised to get more active on short trips
+==============================================
+
+**Wednesday, 28 October 2015, 3:39 pm**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+**Palmy poised to get more active on short trips**
+
+Reducing four wheels to two wheels or no wheels – Palmerston North’s civic and business leaders need to come up with innovative ways to encourage people to bike or walk to work, say Massey planners who have released a report on active transport.
+
+While more walking and cycle paths have been developed around the city in recent years, people use them mostly for recreation rather than as a way to get to work, according to a survey the team conducted as part of its research for the study; _Barriers to active transport in Palmerston North_.
+
+The report – co-authored by Associate Professors Christine Cheyne and Imran Muhammad, and Resource and Environmental Planning students, Michael Scott and Caleb Tien, from the School of People, Environment and Planning – will be launched at a public forum this evening.
+
+The researchers explored factors contributing to what they call “forced car dependence”, as well as barriers to active transport hampering Palmerston North’s reputation as a place that fosters healthy, sustainable lifestyles. Despite the city’s flat topography, which is ideal for walking and cycling, those surveyed cited a range of reasons not to hop on their bikes or walk for trips around town.
+
+These include weather (and the inconvenience of arriving to work in damp clothing); distance, time, safety, and the option of doing other tasks such as carrying shopping. Health, identity, peers, access to cars or bikes were also mentioned, as well as the lack of public transport infrastructure links.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Study co-author Associate Professor Christine Cheyne, who leads the University’s Planning programme, says what’s needed is “more visible leadership and leaders”, from employers to parents. Incentives, information for people not familiar with walking and biking, and promotional campaigns are also recommended.
+
+More bike sharing schemes, integrated city bus services and safer cycle and walking pathways would all help to boost active transport, she says.
+
+“If we want to have a healthy population, and to be an attractive place for students and workers from outside the region, it’s important that we are bike-friendly and pleasant for walking.”
+
+While the Netherlands is held up as an example of the ultimate cycle-friendly country, it was not always the case, she says. Leadership and infrastructure led to a culture change.
+
+The report says Palmerston North’s natural advantage is being free of the barriers present in other urban areas with its “flat topography, relatively compact urban form and medium size.”
+
+There is “strong evidence that people appreciated the recent expansion of some high-quality infrastructure (the riverside and city perimeter shared paths) which was encouraging them to walk and bike not just for recreation but for commuting,” the report says.
+
+And while weather was one of the main concerns for cyclists and pedestrians, there is much that can be done to make it easier for people to walk and bike and deal with rain and wind, they say. Bike racks on buses are increasingly common in other places promoting active transport.
+
+The study’s authors hope their document will spark discussions and a growing interest in the Palmerston North community about active transport as part of a multi-modal transport system. Their findings are also relevant to other New Zealand towns grappling with how to create user-friendly environments for cyclists and pedestrians.
+
+The research was funded by the Palmerston North City Council and Massey’s Living Lab initiative, which fosters collaborative research towards a more sustainable city. Read the full report here.
+
+**Event details: Active transport – report launch:**
+
+**Date:** Wednesday, 28 October: 6:00-7:30pm
+
+**Venue:** Events Central (previously the Sound and Vision Room), Palmerston North City Library
+
+**Programme:** Welcome from David Murphy (City Planning Manager, Palmerston North City Council) and Allanah Ryan (Head of School of People, Environment and Planning); presentation of findings by Christine Cheyne and Imran Muhammad; discussion and questions.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

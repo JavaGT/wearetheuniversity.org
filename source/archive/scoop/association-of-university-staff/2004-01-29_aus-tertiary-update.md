@@ -1,0 +1,92 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2004-01-29
+source-url: https://www.scoop.co.nz/stories/ED0401/S00046/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 29 January 2004, 11:09 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+![AUS WEB SITE](http://www.aus.ac.nz/pictures/logo.gif)TEC withholds individual PBRF score  
+The AUS has welcomed a decision by the Tertiary Education Commission (TEC) to withhold from the University of Auckland the Performance-Based Research Fund (PBRF) evidence portfolio assessment result of one of its academic staff. It comes after the Auckland AUS Branch President, Associate Professor Peter Wills, placed a restriction on the release of his individual assessment prior to submitting his evidence portfolio and, as a result, the TEC has agreed that only the aggregated grade for Associate Professor Wills’ department will be released to the University. His individual quality score will remain confidential.  
+When compiling his portfolio, Associate Professor Wills stipulated that the information was supplied for the sole purpose of assisting the TEC to generate a personal quality score that could then be aggregated with others “in the matter of deciding how certain research funds could be disbursed by government”. He advised the University that permission must be obtained from him before any use, other than for that purpose, was made of his information.  
+Associate Professor Wills then told the TEC that permission to return his personal score to the University of Auckland was “categorically denied”. In turn, the TEC have advised Associate Professor Wills that his individual grade will not now be released.  
+In welcoming the decision not to release Associate Professor Wills’ score, AUS National President Dr Bill Rosenberg has called for all individual scores to remain confidential. “The decision not to provide Professor Wills’ individual grade to the University is a significant precedent that will be widely publicised,” he said. “Other academics will see it as inequitable and unacceptable that some staff will have their personal information released to their institutions, while others do not. This is particularly so if some institutions attempt to use individual PBRF assessments for promotion purposes or, as has already been the case at Victoria University, to set remuneration rates. The likely consequence is that other staff will now want the same opportunity as Associate Professor Wills not to have their personal information released to their institution. Any differentiation would lead to confusion and administrative difficulty”.  
+Dr Rosenberg said that AUS has consistently opposed the release of individual scores and encouraged other university staff to apply to TEC not to have individual scores released. He said that individuals would still have the right to request their individual scores from the TEC.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. NZ universities ranked in top 500  
+2\. Tertiary teaching and learning quality project announced  
+3\. Bonus paid to Massey staff  
+4\. TEC calls for more vocational education  
+5\. Blair survives fees vote  
+6\. Schwarzenegger set to slash education spending
+
+NZ universities ranked in top 500  
+Three New Zealand universities have made it into a prestigious top 500 ranking of world universities. The University of Auckland came out on top of other New Zealand institutions at 201 equal, along with 50 others.  
+Massey University and the University of Otago were ranked at 351 equal out of the top 500. None of the other New Zealand universities were in the 500 universities ranked.  
+The Academic Ranking of World Universities 2003 report, conducted by the Shanghai Jiao Tong University's Institute of Higher Education, ranks the world's top 500 universities on academic and research performance. The universities were evaluated by several indicators of research performance.  
+The top three universities were Harvard, Princeton, and the California Institute of Technology.  
+The Australian National University was the only Australian institution to make it into the top 50, coming in at No. 49.  
+The University of Auckland was placed at No. 23 of the top 100 universities in the Asia-Pacific region. Massey and Otago were 50th-equal. No other New Zealand universities were ranked.
+
+Tertiary teaching and learning quality project announced  
+The government is to look at how to enhance the quality of tertiary education teaching and learning this year with the implementation of The Enhancing Quality Project. The project will investigate how existing quality assurance arrangements can be enhanced to support better teaching and learning.  
+It is part of moves to develop a stronger ‘culture of quality’ within the tertiary education sector, which includes the need to maintain and enhance the quality of student’s learning outcomes; an understanding, commitment to use and sense of responsibility for the systems which are in place for maintaining and enhancing quality (that is, continual improvement); and ensuring that effective infrastructure and processes are in place so that continual quality improvement can be guaranteed at each tertiary education organisation.  
+The Project will be guided by an expert working group drawn from the tertiary education sector. An initial scoping exercise is now underway to seek the opinions of stakeholders on the key issues to be included for investigation.  
+Announcing the project, Associate Minister of Education (Tertiary) Steve Maharey said the Project is a key step in realising the objective included in the five year Tertiary Education Strategy that ‘learners and the wider public have confidence in high levels of quality throughout the system’.  
+“The government wants to ensure better educational outcomes for all learners. This project will look at what further infrastructure, systems and processes are needed to ensure teaching and learning excellence is consistently achieved.  
+“The oversight of quality assurance in the tertiary education sector is the responsibility of the New Zealand Qualifications Authority (NZQA), and other quality assurance bodies, and will remain so. The government believes that it is important to separate NZQA’s responsibilities for quality assurance from the Tertiary Education Commission’s responsibilities for allocating funding,” he said.
+
+Bonus paid to Massey staff  
+Massey University staff received a one-off pay bonus of $750 immediately before Christmas last year, in what Vice-Chancellor Professor Judith Kinnear described as recognition of outstanding efforts and achievements in 2003.  
+“This special payment is a way of thanking those who have contributed towards the excellent results the University has achieved during 2003, not only financially, but also in teaching, curriculum development, research, research training, external grants, consultancies, commercialisation and in the administrative, technical and other support areas of the University that are essential to our academic endeavours,” said Professor Kinnear.  
+AUS Massey Branch President Harvey Jones said that although the one-off bonus was a positive gesture, the unions should have been consulted and would have preferred the additional pay be added to base pay rates. Mr Jones said the bonus came during national salary negotiations and would do nothing to address significant pay deficiencies in the sector.  
+National employment agreement negotiations resume in Wellington on 11 February.
+
+TEC calls for more vocational education  
+AUS National President, Dr Bill Rosenberg, has raised concerns regarding a media release from the Tertiary Education Commission (TEC) this week. In the release, the TEC Chair, Dr Andrew West encouraged secondary school students and their parents to view a study path which leads into vocational, instead of academic education. Dr West said that the country is facing areas of growing skill shortages and it is vital high school students understand the changing nature of the workforce and the skills needed. He also believed that New Zealand didn’t have the “best mix” to power our businesses and industries.  
+Dr Rosenberg said that he agreed that it is essential that our tertiary education system provides for a wide range of educational and training needs and that vocational education should be more respected as an option than is currently the case. He was concerned, however, at the apparent bias towards vocational skills based training at the expense of academic education. “Relative to other countries, New Zealand still has a low percentage of university qualified people in its workforce,” he said. “Only 14 per cent of our workforce has a university qualification, compared to 19 per cent of the Australian workforce”. \[OECD data 2001\]  
+Dr Rosenberg said that in light of Dr West’s comments, the Government should confirm its commitment to academic learning, and advise whether it intends to deal with major funding woes in the sector.
+
+Worldwatch  
+Blair survives fees vote  
+British Prime Minister Tony Blair has narrowly escaped defeat with the narrow passing of a controversial bill which will allow universities in England and Wales to increase student tuition fees of up to £3,000 per year from 2006. Labour’s 161-vote majority was reduced to just 5, as Parliament voted for the change by 316 votes to 311 on Tuesday this week. Seventy three Labour MPs voted against the Government, with commentators describing it as a pyrrhic victory for a “wounded” and “humiliated” Blair. The legislation will be reviewed further in the House of Commons before proceeding to the House of Lords.  
+Reaction to the legislation has been sharply divided. While many university administrators have welcomed the bill, student and staff leaders have described the proposals as “deeply regressive” and have vowed to fight them at every stage through the Commons and Lords. Association of University Teachers (AUT) General Secretary Sally Hunt said that AUT members vehemently opposed this tax on students and rejected any idea that the variable fees would improve pay for staff. She promised that AUT would stand shoulder to shoulder with the National Union of Students to tackle the twin problems of top-up fees for students and poor pay for staff.
+
+Schwarzenegger budget to slash education spending  
+California’s Republican governor, Arnold Schwarzenegger, has outlined a budget proposal this month which includes massive cuts to health, education and other social service spending in the state. $729 million will be cut from higher education spending as part of a package aimed at eliminating a $14.3 billion gap between expected tax revenues and expenditures. Enrolment for the state universities will be capped and those that enter will face increasing costs and fewer and smaller grants. Tuition and fees for California university students will increase ten percent for undergraduates and about 40 percent for graduate students. Community college fees will increase by 44 percent, on top of last year’s 64 percent increase. Many low-income students who currently qualify for Cal-grants scholarships will find that they are no longer eligible. There have been published estimates that the higher tuition will cut incoming University of California and California State first year classes by 10 percent, or 7,200 students.
+
+Tertiary Update is compiled weekly on Thursdays by the  
+Association of University Staff  
+PO Box 11 767 Wellington, New Zealand.  
+Phone (+64 4) 915 6690 Fax (+64 4) 915 6699 Website: http://www.aus.ac.nz.  
+Direct enquiries to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

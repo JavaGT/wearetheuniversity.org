@@ -1,0 +1,80 @@
+---
+slug: young-people-gather-at-parliament-to-draft-a-constitution
+title: "Young People Gather at Parliament to Draft a Constitution"
+date: 2012-08-27
+source-url: https://www.scoop.co.nz/stories/PO1208/S00422/young-people-gather-at-parliament-to-draft-a-constitution.htm
+author: mcguinness-institute
+---
+Young People Gather at Parliament to Draft a Constitution
+=========================================================
+
+**Monday, 27 August 2012, 4:43 pm**  
+**Press Release: [McGuinness Institute](https://info.scoop.co.nz/McGuinness_Institute)**
+
+  
+McGuinness Institute
+
+www.mcguinnessinstitute.org
+
+**MCGUINNESS INSTITUTE MEDIA RELEASE 27 AUGUST 2012**
+
+_Fifty Young People Gather at Parliament to Draft a Constitution for the 21st Century_
+
+_EmpowerNZ workshop begins_
+
+New Zealand is one of the few countries this century to invite citizens to review their nation’s constitution. To make the most of this rare opportunity a collection of 50 talented young people selected from throughout New Zealand, and from a wide range of backgrounds, will convene at Parliament to have their say on the future of New Zealand’s constitution.
+
+On 28 and 29 August, 50 young people from around the country will work together to look at whether New Zealand needs to change its constitutional arrangements and, if so, what a new constitution might look like. The workshop EmpowerNZ: Drafting a Constitution for the 21st Century is being run by the McGuinness Institute – a non-partisan think tank based in Wellington – and will be hosted at Parliament by MP Paul Goldsmith.
+
+Chief Executive of the McGuinness Institute, Wendy McGuinness, says, ‘The workshop aims to create a space in which young New Zealanders can explore the future of this country’s constitution and contribute to the current review of constitutional issues. The purpose is to facilitate a prescription-free exploration, creating an opportunity to treat the constitution as a blank canvas.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+‘I really believe New Zealand is well positioned for the future when I see the quality of the people who are keen to participate in this workshop,’ McGuinness says. ‘The amazing variety of participants, facilitators and speakers involved in this event speaks volumes about how committed people are to making the most of this rare opportunity to discuss New Zealand’s future constitutional arrangements.’
+
+The event will be facilitated by a team of constitutional scholars from around New Zealand, led by Victoria University Senior Lecturer in Law, Dean Knight. Their role will be to challenge the participants’ ideas and compel them to approach the task in a novel, yet rigorous, manner. The facilitators will help the participants to achieve consensus and synthesise ideas in time to produce a draft constitution to present at the conclusion of the event – 48 hours later.
+
+The finale of the event will take place in Parliament on the evening of 29 August. Here, the draft constitution will be presented to ambassadors, MPs, members of the Constitutional Advisory Panel and other invited guests. Speeches and presentations at the event will be filmed and made available online, along with other outputs, in the next few weeks.
+
+Participants will attend the workshop free of charge, having agreed to ‘pay it forward’ through committing to 10 hours of voluntary service over the following 18 months. This will include initiatives to help create greater awareness and understanding of constitutional issues in New Zealand, and encouraging people to become involved in the review process.
+
+The workshop will feature an impressive line-up of speakers. New Zealand’s ambassador to the United Nations, Jim McLay, will deliver the keynote address on the morning of the first day. Other speakers will include Emeritus Professor John Burrows, Mai Chen, Professor Philip Joseph, Dame Dr Claudia Orange and Sir Tipene O’Regan. MPs Charles Chauvel, Peter Dunne, Te Ururoa Flavell, Paul Goldsmith, and Metiria Turei and will also be speaking to participants.
+
+‘We hope that the long-term outcome will be a wider and deeper discussion of constitutional issues,’ McGuinness says; ‘one that will permeate through youth networks, law schools, universities and those involved with the constitutional review over the coming 18 months.’  
+\[ENDS\]
+
+**Event:** Workshop – EmpowerNZ: Drafting a Constitution for the 21st Century
+
+**Date:** Tuesday 28 and Wednesday 29 August 2012
+
+**Location:** Parliament’s Banquet Hall in the Beehive
+
+**Media Kit:** Available at www.empowernz.org
+
+**Additional resources**: A more detailed timeline and additional resources can be found at www.EmpowerNZ.org  
+, which is an initiative of the McGuinness Institute www.mcguinnessinstitute.org  
+.  
+\\  
+**Twitter:** The workshop will be live tweeted over the two days from the McGuinness Institute Twitter account @McGInstitute, using the tag #EmpowerNZ.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [McGuinness Institute](https://info.scoop.co.nz/McGuinness_Institute) on InfoPages.

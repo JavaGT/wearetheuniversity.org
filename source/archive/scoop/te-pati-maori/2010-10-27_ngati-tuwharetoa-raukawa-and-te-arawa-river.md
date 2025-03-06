@@ -1,0 +1,79 @@
+---
+slug: ngati-tuwharetoa-raukawa-and-te-arawa-river
+title: "Ngati Tuwharetoa, Raukawa, and Te Arawa River"
+date: 2010-10-27
+source-url: https://www.scoop.co.nz/stories/PA1010/S00456/ngati-tuwharetoa-raukawa-and-te-arawa-river.htm
+author: te-pati-maori
+---
+Ngati Tuwharetoa, Raukawa, and Te Arawa River
+=============================================
+
+**Wednesday, 27 October 2010, 5:33 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+**Ngati Tuwharetoa, Raukawa, and Te Arawa River**  
+**Iwi Waikato River Bill: Third Reading, Thursday 21st October 2010**  
+  
+Tēnā koe, Mr Deputy Speaker. Kia ora tātou katoa. Koutou kua haramai i te kāinga, nau mai ki te Whare Pāremata i te ahiahi nei. Ko te taha ki a au ki a Te Arawa, haramai ki tēnei o ngā Whare. Ki tōku taha ki a Ngāti Raukawa he pērā anō te mihi. Ki taku taha ki a Ngāti Tūwharetoa, koinei anō hoki te mihi ki a koutou kua haramai i tēnei ahiahi, nau mai, hara mai, nau mai, hara mai. Nau mai, hara mai me te āhuatanga o ngā mate o te kāinga. Arā anō atu rātou, e takoto mai rā i runga i ō tātou marae. Ko ētahi i tohe nei mō te take nei, arā, ko te whaea o tērā e noho mai rā ki reira, a Raihā. Ko ia tērā kua riro. Arā anō atu, arā anō atu te hunga i pakanga, me kī, kia taka mai te mana whakahaere i roto i ngā ringaringa o te iwi, mā te iwi anō rā e kōrero mō ngā rawa e pā ana ki a ia. Nō reira kāti, waiho rātou kia moe, kia okioki, ko tā tātou ko te whakanui i te āhuatanga o te rā nei. Kei aku rangatira o te kāinga, tēnā koutou, tēnā koutou, tēnā koutou katoa.
+
+Kātahi te pire whakaharahara ko tēnei, ki a mātou o te Pāti Māori. Ko te mea nui, ko te mea whakaharahara nei, me kī, kua whai wāhi ngā iwi e kōrerohia ake nei a Ngāti Raukawa, a Ngāti Tūwharetoa, me te taha ki a au ki a Te Arawa, i roto i ngā whakahaere, i ngā nekeneke, o te awa o Waikato. Pēnei i tāku e kōrero nei, kua roa tēnei take e tohengia ana e ētahi, ā, kua riro, engari anei te hunga e noho atu nei, ki runga ake nei, te hunga i kawe nei i tēnei kaupapa ki tōna whakatinanatanga, ki tōna puāwaitanga. I te ahiahi nei kei te tāpiri atu āku mihi, a ētahi atu kua tū i mua i a au, ki a rātou kua haere mai i tēnei ahiahi.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+  
+He tirohanga whakamua tēnei nā runga i te whakaaro, kotahi tonu te rōpū, te kaunihera rānei, ka whakarite i tētahi mahere hei tiaki i te awa o Waikato. Koirā te mea whakanui, whakaharahara. Ko te nohotahi a te hunga whai pānga, ā-Māori nei, me te Karauna, he mea hōu tērā ki te nuinga, me kī, ō tātou. Ko te nohotahi o te Karauna me te iwi nā runga i te whakaaro kotahi, otirā te kaupapa kotahi. Ko tāku e kī nei he tauira pai tēnei mō ngā tau kei mua i te aroaro, mēnā ka taea e tātou te whaiwhai haere i tērā tauira. Te Karauna e pōhēhē kei a ia te kupu kōrero whakamutunga, ko ia te mea mōhio, ko ia i tōna kotahi te mea mōhio.
+
+He aha kei te pūtake o tēnei pire? Ko te whakatinanatanga o tēnei mea o te kaitiakitanga e kōrerohia ana i runga i ō tātou marae. Mō te Māori, mō te Ao Māori, ko te noho kaitiaki nei, he noho me te ao, he noho ki ngā tipu, he noho i te taha o te whenua, o te wai māori, o tō tātou taiao. Ka tiaki te taiao i te tangata, te tangata ki te taiao. Koinā tōna tikanga. Mō tēnei pire, kua whai wāhi ngā iwi ki te whakatau, ki te tohe, ki te ārahi, ki te tiaki tonu i te awa, ā ngā rā kei mua i te aroaro. Ko te whakatinanatanga anō hoki tēnei, o te kaupapa nei o tēnei kupu o te kotahitanga. E toru ngā iwi, e mahitahi ana. Āe, arā anō ētahi e noho tahanga ana, me kī, ā, e kōrerohia ana, e te Hōnore Nanaia Mahuta. Engari ko te mea pai o tēnei, ko te tono o te iwi ki te nohotahi, ki te kōrero, ki te wānanga i ngā take nei, i te taha o te hunga whakahē.
+
+Kai te kōrero au mō te taha ki a Ngāti Maniapoto, ki te taha ki a Ngāti Korokī-Kahukura. Tērā anō hoki tērā e whakahē ana i ētahi wāhanga o te pire nei. Ki tāku e rongo nei, he take tā Ngāti Korokī-Kahukura. Ko tā rātou, kia ōrite tō rātou mana ki tērā o ngā iwi e toru e kōrerohia ana. Ko tā te komiti whāiti he īnoi tonu, kia noho wātea tonu tētahi tūru ki tērā hunga. Ko tā rātou, ko tā Ngāti Korokī-Kahukura, kia riro tō rātou rohe, tō rātou mana ki raro i a Ngāti Raukawa, Te Arawa, me Ngāti Tūwharetoa. I roto i te tono a Ngāti Korokī-Kahukura, mā te Poari o Taumata Wīwī, ka whai wāhi rātou i te rohe nei, mai i Arapuni, ki Waipapa. Ki taku mōhio kei te tautoko mai ētahi o ngā iwi nei ki tērā whakaaro. Anei tā Taumata Wiwi Trust i te reo Pākehā:
+
+“The Waikato River settlement is intended to be holistic and to promote co-management … The exclusion of Ngāti Korokī Kahukura as a river iwi is a fundamental flaw.”
+
+Ko tā te poari rā, he whakanui ake i te kaute, me whakanui ake i te kaute o te hunga e noho nei i te Waikato River Authority ki te tekau mā tahi, arā, kia kotahi tūru anō mō te taumata nei, kotahi tonu ki te Karauna. I whakaaetia mai e te komiti whāiti ki te take nei engari, tekau noa iho te whakatau, ā, ko tā rātou me kimi tētahi rongoā pēnei i tā Nanaia e kōrero nei, me noho ki te tēpu ki reira kōrero ai. Ko te take ki a Ngāti Maniapoto, he īnoi kia whai wāhi a Ngāti Raukawa i te awa o Waipā, ā, kia whai wāhi anō hoki a Ngāti Maniapoto i te taha o Ngāti Raukawa me te kaunihera ā-rohe. Ko tā Ngāti Maniapoto, kei raro te awa o Waipā i te mana o Ngāti Maniapoto i te mea, ko tētahi wāhanga o te awa kei roto i te whakataunga o Ngāti Raukawa, me whai wāhi anō hoki rātou i ngā kōrero katoa. Ki taku mōhio, ko tā te komiti whāiti, he take ā-iwi tēnei. Koinei te kōrero a te Hōnore Mita Ririnui, mā ngā iwi tonu e whiriwhiri te huarahi hei whāinga mō rātou. Ehara tērā i te take mā te Karauna. Kei te āhua whakaae atu ki tāna e kōrero nei. Nō reira, ēnei kōrero katoa he paku whakamārama ake ko te āhuatanga o tēnei pire.
+
+Hei kōrero whakamutunga māku, e hia kē nei ngā painga o te pire nei. Tuatahi, he pūtea kua whakaritea ki te whakaora anō rā i te awa. Tuarua, ka riro mā ngā mana whenua e whakarite ngā rautaki, ngā mahere mō te awa, ā, ka tāpirihia atu ki roto i ngā mahere o te Waikato Regional Policy Statement. Tuatoru, mā te Waikato River Authority e whakaingoa i te hunga kōrero i ngā hui ā-poari. Ka whai wāhi anō ngā iwi ki te āta tiaki i ngā awa. Me whakaae ngā iwi me ngā kaunihera ā-rohe ki ngā momo mahere ki te tiaki i te awa. Ka whai wāhi ngā iwi ki te whakaae mai, ki te whakahē rānei i ngā tono e pā ana ki te awa.
+
+Nō reira koinei ngā painga, pēnei i tāku e kōrero nei i te tuatahi, he tauira pai tēnei. Ko te nohotahi a ngā iwi me te Karauna ki reira kōrero ai mō ngā take e pā ana ki te tiakitanga o te awa nei. Kei wareware ko te taha ki a Ngāti Korokī-Kahukura rāua ko Ngāti Maniapoto, waiho tērā take ki reira mā ngā iwi e kōrero. Engari pēnei i tāku e kōrero nei, ā, he tauira pai tēnei mō te mahitahi, ki te tiaki i wā tātou taonga. He mihi rā ki te aronganui, te arongatahi o te hunga i kaha nei ki te kawe mai i tēnei kaupapa ki tōna whakatinanatanga i te ahiahi nei, arā, ko te tiaki i te waituku kiri, o ngā mātua, o ngā tūpuna.
+
+Hei kupu whakamutunga, kei te aroha atu ki te hunga i whakahē nei i tēnei take i ngā marama kua hipa ake. Engari kei te pai kua puta tērā reo kōrero, ā, hoi anō ko te reo kōrero i te ahiahi nei, he harikoa, he mihi, he whakatau. E te iwi tēnā koutou, tēnā koutou, kia ora tātou.
+
+Greetings to you, Mr Deputy Speaker, and to all of us. To those who have travelled from home, welcome to Parliament House this afternoon. To those on my Te Arawa side, welcome to this building of the Parliament Buildings. A similar welcome to my Ngāti Raukawa and Ngāti Tūwharetoa sides, as well, who have arrived here this afterenoon— welcome, welcome, welcome. Welcome in respect of the deaths back home, welcome. The number who have lain in state on our marae have been so numerous. Some were involved in the debates around this issue. One such person was Lady Raihā Māhuta, mother of that member seated over there. She has passed away. Others, too, fought to have the people involved in the governance of the river and to have a say in how their resouces are to be used and managed. So enough. Allow them to sleep and rest there. Our part today is to celebrate this event. So greetings to you, my leaders from home, greetings, salutations, and acknowledgments to you all.
+
+What a wonderful bill this is to us, the Māori Party. The most important and outstanding feature about it is that Ngāti Raukawa, Ngāti Tūwharetoa, and Te Arawa are participants in a co-governance framework, as well as establishing a co-management and related arrangements for the Waikato River. As I have alluded to previously, this issue has been a debating point for a long time for some who have since passed away, but the ones seated above in the gallery have brought this matter to its completion and realisation. This afternoon I add my congratulatory statements to the tribes who have come here, alongside those who stood before me.
+
+This bill is visionary, as it establishes a single co-governance entity that sets out the plan for protecting the Waikato River. That is the most important and crucial thing about it. Crown and Māori interests working together as a single entity is something new to many in respect of co-management between Māori and the Crown on a common cause, particularly for us. I advocate this as a good model, and if we can follow it, much will come from it in the future. The Crown assumed that it had the final say, it knew what was best without any further consultation.
+
+What is the essence of this bill? It is the expression of guardianship that we allude to on our marae. It is for Māori and the Māori World to retain guardianship status, to live in balance with plants, land, freshwater, and our environment. The environment protects people, and people protect the environment. That is how it is supposed to be. In respect of this bill, Māori will now have a say over how the river is to be monitored in the future. Implementation of this is also the essence of guardianship. Three tribes are working alongside each other. Yes, there are others who oppose the bill, as the Hon Nanaia Mahuta has pointed out. But the good thing about this is that the three tribes are required to work together; dialogue is forced between each tribal group who oppose it.
+
+I will comment on the part that concerns Ngāti Maniapoto and Ngāti Korokī-Kahukura, who oppose some provisions of this bill. I have heard that to Ngāti Korokī-Kahukura, it is the recognition of their authority and being treated equally with other river iwi. The select committee will continue to push for them to have a seat on the Waikato River Authority, but according to Ngāti Korokī-Kahukura, this bill puts their domain and authority under Ngāti Raukawa, Te Arawa, and Ngāti Tūwharetoa. In their submission, Ngāti Korokī-Kahukura, through Taumata Wīwī Trust, described the fact that they have a shared interest in the area from Lake Arapuni to Waipapa. I understand that other iwi back this assertion. Here is what Taumata Wīwī Trust had to say in English.  
+“The Waikato River settlement is intended to be holistic and to promote co-management … The exclusion of Ngāti Korokī Kahukura as a river iwi is a fundamental flaw.”
+
+That board wanted to increase the membership of the Waikato River Authority to 12, with one member appointed by the Taumata Wīwī Trust, the other by the Crown. The select committee acknowledged that there is an issue here, but that the optimum membership count remain at 10. They were to seek a solution such as the one suggested by Nanaia, whereby they sit at the table and discuss it there. The issue for Ngāti Maniapoto was to request that Ngāti Raukawa have an interest in the Waipā River, that Ngāti Maniapoto and Ngāti Raukawa have a place, as well, on the regional council. To Ngāti Maniapoto, the Waipā River is under the mandate of Ngāti Maniapoto because one part of the river is in the Ngāti Raukawa settlement, so they should have access to all the information, as well. I understand that according to the select committee this is a tribal matter. The Hon Mita Ririnui stated that the tribe should decide it; the Crown should have no part in it. I kind of agree with that, somehow So all these comments are bits of explanations about the nature of this bill.
+
+To end this address, I want to say that this bill has many benefits. Firstly, a fund has been set aside to clean up the river. Secondly, it allows the people of the land to develop their own strategies and plans for the river and to incorporate them into the Waikato Regional Policy Statement. And, thirdly, it is left to the Waikato River Authority to appoint representatives at board meetings. Tribes will also have a part to play in the resource consents process relating to the river.
+
+So these are the benefits. As I said at the beginning of my speech, this is a good model, where tribes and the Crown come together to talk jointly about matters relating to protecting the river. Let us not forget that the issues relating to Ngāti Korokī-Kahukura and Ngāti Maniapoto will be addressed by the tribes. As I have said previously, this is a good example of how to work collaboratively to protect our resources. I acknowledge the foresight and perseverance of those who worked hard to bring this bill to its conclusion this afternoon, which is all about protecting the river of the ancestors and forefathers.
+
+In conclusion, I sympathise with those who opposed this bill in the past months. But that is fine; it is out now. This afternoon it is all about being joyful, congratulatory, and agreeing. Congratulations to you, the people, and to us.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

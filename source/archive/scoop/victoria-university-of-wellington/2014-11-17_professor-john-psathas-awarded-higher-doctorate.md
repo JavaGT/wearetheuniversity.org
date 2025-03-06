@@ -1,0 +1,71 @@
+---
+slug: professor-john-psathas-awarded-higher-doctorate
+title: "Professor John Psathas awarded Higher Doctorate"
+date: 2014-11-17
+source-url: https://www.scoop.co.nz/stories/CU1411/S00293/professor-john-psathas-awarded-higher-doctorate.htm
+author: victoria-university-of-wellington
+---
+Professor John Psathas awarded Higher Doctorate
+===============================================
+
+**Monday, 17 November 2014, 12:33 pm**  
+**Press Release: [Victoria University of Wellington](https://info.scoop.co.nz/Victoria_University_of_Wellington)**
+
+Professor John Psathas awarded Higher Doctorate
+
+  
+A rare Higher Doctorate will be awarded to Professor John Psathas from Te Kōkī New Zealand School of Music during Victoria University of Wellington’s December Graduation ceremonies.
+
+Professor John Psathas will be awarded a Higher Doctorate in the degree of Doctor of Music (DMus) for the immense body of work he has contributed to his field.
+
+Six concertos were the major pieces of work taken into consideration when awarding Professor Psathas a Higher Doctorate.
+
+Examiners noted the number of prestigious commissions and international performances of the works submitted as part of Professor Psathas’ portfolio, describing them as evidence of his eminent international status as a composer.
+
+“The concertos presented were acclaimed as demonstrating an excellent understanding of the control of large-scale form and fine imagination for orchestral texture,” said Professor Peter Whiteford, Dean of the Faculty of Graduate Research, speaking on behalf of the examiners.
+
+Other comments from the examiners drew attention to the “great vitality and energy” of Professor Psathas’ work.
+
+All three examiners provided detailed analyses of and commentaries on the individual pieces submitted and all concluded that there was no doubt that the quality of the work submitted “fully deserved the award of the degree”.
+
+The last Victoria Higher Doctorate was awarded in 2009.
+
+About Professor John Psathas  
+John Psathas is a Professor of Composition at Te Kōkī New Zealand School of Music.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+His music has achieved a level of international success unprecedented in New Zealand history, and his concert works are performed regularly on the international stage by some of the world’s top musicians, including Dame Evelyn Glennie, Joanna MacGregor, The Halle Orchestra and Michael Brecker.
+
+Of Greek heritage, Professor Psathas is widely considered one of the three most important living composers of the Greek Diaspora. Since writing much of the ceremonial music for the 2004 Athens Olympic Games, his music has been on the radar screen of a wider public than that normally associated with contemporary classical music.
+
+John is in high demand as a composer in many genres and media. His musical style brings together the languages of jazz, classical, Eastern European and Middle Eastern, avant-garde, rock, and electronica.
+
+About Victoria University Higher Doctorates  
+Victoria University Higher Doctorates which may be awarded are: Doctor of Commerce (DCom), Doctor of Literature (DLitt), Doctor of Music (DMus), Doctor of Laws (LLD) and Doctor of Science (DSc).
+
+A Higher Doctorate is awarded for a substantial body of published work demonstrating excellence in research or creative achievement. The award confirms that the candidate is a distinguished leader in their field; and provides an original and prestigious contribution to the relevant field.
+
+Applicants apply for a Higher Doctorate, rather than enrol. An applicant must be a graduate of Victoria or an academic staff member, or admitted ad eundem statum, or have some other long-standing connection with the University. They cannot apply until at least five years after graduation in the qualifying degree. The submitted work goes firstly to a committee which considers it and decides whether or not it will proceed to examination. The submitted material is then examined by a panel of examiners who are considered to be authorities of international standing in the relevant area.
+
+ends  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Victoria University of Wellington](https://info.scoop.co.nz/Victoria_University_of_Wellington) on InfoPages.

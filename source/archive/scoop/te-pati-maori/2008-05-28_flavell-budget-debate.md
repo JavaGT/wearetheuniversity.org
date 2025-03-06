@@ -1,0 +1,131 @@
+---
+slug: flavell-budget-debate
+title: "Flavell: Budget Debate"
+date: 2008-05-28
+source-url: https://www.scoop.co.nz/stories/PA0805/S00556/flavell-budget-debate.htm
+author: te-pati-maori
+---
+Flavell: Budget Debate
+======================
+
+**Wednesday, 28 May 2008, 9:38 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+**Budget Debate: Tuesday 27 May 2008; 8.40pm**
+
+**Te Ururoa Flavell, MP for Waiariki**
+
+In the hakari of offerings that is called Budget 2008, the Maori Party wants to move from the kongakonga-the crumbs, to focus on the miti in the menu for Maori.
+
+The main meal for Maori in Budget 2008 is the announcement of a NEW economic development institution, _Maori Business Aotearoa New Zealand._
+
+Madam Speaker, can I make it clear that the Maori Party believes that Maori enterprise and the mobilisation of Maori business networks is absolutely central to the future success of Aotearoa.
+
+We consider it urgent that the nation come together to increase our creativity and productivity, and clever utilisation of the tax system would be a key component.
+
+Success in this area would help to deal with the high price of our dollar, and tendencies towards price increases. It would also ease interest rate pressures by discovering growth activity that does not rely on raising the demand for capital.
+
+But here’s the catch.
+
+The so-called brand new initiative _Maori Business Aotearoa New Zealand_ is not actually brand new.
+
+It’s supposed to be a really innovative approach of using up unused money. Its called the old “let’s-have-a-spend-up-of-TPK’s-surplus funds” trick.
+
+You see Madam Speaker, if we go back to the 1998/99 financial year, the total surplus fund paid by TPK to the consolidated fund was $6.336 million. It’s the ongoing saga of a department that underspends and some say, under-delivers.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+But instead of exposing the books to the light of public scrutiny, TPK money for business development has been syphoned off to the Maori business support agency.
+
+This was in addition to another one off payment of $360,000 from TPK funds that was uncovered a couple of weeks back.
+
+The other, more controversial contribution to the investment in this new business agency is, of course, the $35 million that will be siphoned off from the restructuring of the Maori Trust Office.
+
+Budget 2008 invests $19.4 million operating and $4.4 million capital funding into Māori Business Aotearoa New Zealand to establish services to support Māori business and Māori economic development, as well as some facility for loans to Māori businesses.
+
+Well that’s fantastic Madam Speaker - if and I say if, it was supported by the people it purports to represent.
+
+Now the last thing I would want to be doing is to suggest that the Minister is telling a rukahu, but apparently part of the rationale expressed about this proposal is that there was overwhelming support for such an entity during the consultation process on the Maori Trustee and Development Bill.
+
+The truth is that the consultation process did not even raise the topic of the establishment of Māori Business Aotearoa New Zealand.
+
+The consultation process was solely focused on establishing the Maori Trustee as a standalone organisation, separate from Te Puni Kokiri – a proposal which did indeed meet with wide support.
+
+But I am told that there was no mention of _Māori Business Aotearoa New Zealand_ – and what is more, no mention of the concept of using thirty five million dollars which is actually the unclaimed monies of Maori land owners.
+
+The thing is, out there amongst whanau, hapu and iwi, the decision by the Labour Party, to use the Maori land owners monies for another purpose, has not gone down well at all in fact people I have come across in my electorate of Waiariki say to me _“tell them to keep their hands off”._
+
+You see Madam Speaker, by way of some background, the Maori Trustees Office has been around since 1921 and was set up to assist Maori with asset management of fragmented and multiply owned land.
+
+The office administers the General Purposes Funds, which holds interest earned from beneficiaries’ funds, that is, funds of beneficiaries who are Maori who own land with others of their kin.
+
+The Bill introduced last year advocates that another statutory body be set up, _‘Maori Business Aotearoa New Zealand’_ by transferring 35 million dollars from the General Purposes Funds.
+
+We need to recall Madam Speaker that this fund is according to the Charters, Sykes and Nikora review of 1991, income derived from the beneficiaries, and not the Maori Trustee. So what we have is what some have described as _state sponsored theft._
+
+Madam Speaker, the Maori Party is the first off the block to be proud of the amazing success that Maori businesses have created in the economy.
+
+Maori business success has earnt us a glowing international reputation as entrepreneurs. A status of excellence has been acquired through the fruits of hard work, diligence, of perseverance, of preparation. In fact the Global Entrepreneurship Monitor has confirmed we are the third most entrepreneurial people of the world.
+
+All things being considered, we would be extremely supportive of the new entity, _Maori Business Aotearoa New Zealand_.
+
+But we have the sinking feeling that this is nothing more than mutton dressed up as lamb.
+
+For there are not only concerns around the ownership of the thirty five million dollars; there are also concerns that full consultation has not occurred to appropriate levels.
+
+We believe it would have been far better for consideration of such an entity to come up, only once it had reported back to Parliament after full and due discussion at select committee.
+
+The committee has not yet reported back to Parliament with recommendations based on public submissions, and so in many respects we are faced with the chicken before the egg in the shape of Budget 2008.
+
+If there is any winner at the Budget Hakari, it was the Maori wardens, who are finally resourced after sixty years of volunteer services. It must be noted, again however, that $6.8 million of the funds is funded through reprioritising Vote Maori Affairs – it does make one wonder why it is that TPK never manages to spend its budget.
+
+That aside, we want to put on record the incredible work these people do, the unsung heroes of our community.
+
+This weekend for instance at home, we have what is called Youth EFX at the Aquatic Centre which consists of dance battles and phat beats (that’s p-h-a-t). It’s a big thing for our rangatahi – last year there was some 800 attended – and the Maori Wardens will be there.
+
+Then there’s their mahi as part of their contract with the Rotorua District Council to monitor compliance of sale of liquor laws in licensed premises and the central city liquor ban.
+
+And just recently they’ve been on a trial programme walking alongside police, retrained and equipped with radios to prevent trouble in the central city.
+
+Whether it’s working alongside our rangatahi, on the beat with the cops, or simply there on the streets, the Maori Wardens play a major role in both reducing the potential for disorderly behaviour while also supporting in both a preventative and caring role.
+
+They’ve been doing this since they were first established in 1968 and they are a major asset in any Maori community. So it’s really positive that the Association is being resourced to grow, while also maintaining the kaupapa of their movement.
+
+The Maori Wardens are a trusted and respected group within our communities, and we are pleased to think that the resources they will receive now, will help them to maintain their autonomy.
+
+The other great initiative whose time has finally come is the restoration of the significant whare of Ngati Awa, named Mataatua. This was built over a century ago and described in 1875 as a _“grand carved house, said to be one of the finest in New Zealand”.’_
+
+Whilst every whare tells a thousand stories, this whare is particularly important as it includes within its walls, the pain of the confiscation of 1866; the invasion of Ngati Awa lands by Te Kooti in 1869.
+
+In 1879 this whare was sent to the inter-colonial exhibition in Sydney, and without any further consultation with Ngati Awa, then sent on to the South Kensington Museum in London England, before returning home, not to Ngati Awa but to the Otago Museum.
+
+There it stayed until 1996 when following the recommendations from the Waitangi Tribunal in WAI 46 it was finally repatriated.
+
+I take the opportunity then to mihi to Ngati Awa, to Ngati Awa carver Te Hau o Te Rangi Tutua who has been assisting with the reconstruction, to the analysis and research of Dr Hirini Moko Mead and Te Roopu Kohikohi Korero o Ngati Awa, for the safe return home of Mataatua Whare.
+
+Madam Speaker, the seven million for this project, along with the funding allocated for settlement negotiations and resolutions, are an investment in our nationhood that we in the Maori Party fully support.
+
+And if there was anything that Vote Maori Affairs should be supporting, it is in the building of nationhood for Aotearoa. And if the problem is to do with running out of ideas to spend their putea on, we in the Maori Party hereby invite that Minister and that Department to just pick up the phone and give us a call. The Maori Party would be happy to assist.
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

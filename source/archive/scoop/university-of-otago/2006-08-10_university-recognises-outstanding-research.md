@@ -1,0 +1,70 @@
+---
+slug: university-recognises-outstanding-research
+title: "University Recognises Outstanding Research"
+date: 2006-08-10
+source-url: https://www.scoop.co.nz/stories/ED0608/S00035/university-recognises-outstanding-research.htm
+author: university-of-otago
+---
+University Recognises Outstanding Research
+==========================================
+
+**Thursday, 10 August 2006, 11:27 am**  
+**Press Release: [University of Otago](https://info.scoop.co.nz/University_of_Otago)**
+
+University Recognises Outstanding Research
+
+2006 Early Career Awards for Distinction in Research
+
+  
+The University of Otago’s standing as a research-intensive university was reinforced today by the Vice-Chancellor’s announcement of the 2006 Early Career Awards for Distinction in Research.
+
+The recipients are: Dr Peter Dearden (Biochemistry), Dr Takashi Shogimen (History), Jacinta Ruru (Law), Dr Jonathan Waters (Zoology), Dr Jacob Edmond (English) and Dr Blair Blakie (Physics).
+
+Deputy Vice-Chancellor (Research) Professor Geoff White says the awards recognise the outstanding contribution made by early-career researchers to the University, the nation and the international research community.
+
+“The University of Otago has a large contingent of early-career researchers – nearly one quarter of its academic staff. This bodes well for the future of the University, with these individuals making an energetic and refreshing contribution to the University’s research effort. They also represent our future research leaders.”
+
+Each of the six successful nominees receives $2000 to help support their research programmes.
+
+  
+Dr Peter Dearden  
+Now a Senior Lecturer in the Biochemistry Department, Dr Peter Dearden completed his PhD in 1998 at Imperial College, University of London. His research examined how genes control the growth and differentiation of cells to produce an adult from a fertilised egg. Following his PhD, Dr Dearden worked at the University of Cambridge before joining Otago University in 2002. So far he has uncovered networks of genes that act together to make tissues and potentially the whole individual. His model is the honey bee. By studying the genetic control of development in the bee, he can see how the cell’s developmental processes might contribute to evolution. Dr Dearden’s work is supported by Marsden grants.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Dr Takashi Shogimen  
+By the time Dr Takashi Shogimen joined the History Department as a Lecturer in 2004, his first book, Against the Tyrant: A Comparative Intellectual History, had already made an impact in Japan. Dr Shogimen is one of a handful of scholars in the world today who work on comparative European and Japanese political history. His work crosses cultures and covers an impressive chronological span. Dr Shogimen won a Marsden grant in 2005 to study medical metaphors in politics. The European metaphor treated political rule as medical treatment or surgery, whereas the Japanese metaphor stressed the importance of preventive measures modelled on ancient Chinese medical treatment. Dr Shogimen is working on two more books in this area.
+
+Jacinta Ruru  
+Jacinta Ruru was appointed Lecturer in the Faculty of Law in 2002. She is making a major impact both nationally and internationally in the field of indigenous people’s law. She is the only New Zealander to have published in the world’s leading academic journal for indigenous law. Ms Ruru’s research provides a basis for new conceptions of how indigenous people’s laws, rights and responsibilities can be recognised and respected in a context where state laws are predominant. Her current project explores the modern national park concept in Canada and Aotearoa/New Zealand, in which she applies indigenous, legal and landscape theories to understand the relationships between law, society and identity in New Zealand’s important site-specific places. In 2002, Ms Ruru was the first legal academic and the youngest person to receive a Fulbright New Zealand Travel Award. In 2003, she was invited to the Knowledge Wave Forum for emerging leaders.
+
+Dr Jonathan Waters  
+In 2004, Dr Jon Waters was appointed Lecturer in the Department of Zoology. He studies genetic variation in populations across space and time, to assess biological history. He uses an innovative approach – a “molecular clock” – to measure rates of DNA evolution in freshwater fishes. His studies of historic river reversal events in the South Island suggest that the molecular clock is ticking much faster than previously thought. The ABC TV Science Series (Catalyst) is profiling Dr Waters’ research and an Australian screening is planned for later this year. Dr Waters is a member of the Editorial Board for two respected international journals. His research is supported by a Marsden grant.
+
+Dr Jacob Edmond  
+Dr Jacob Edmond joined the Department of English as a Lecturer in 2004. He studies the comparative aspects of American, Chinese and Russian contemporary poetry, with a focus on the relations between poetry and globalisation, and on the changing position of the avant-garde in contemporary culture. His research demands mastery of a wide range of scholarship in all three areas and extensive knowledge of the original languages. Among many other publications, Dr Edmond has an essay published in Poetics Today, the most prestigious international journal of its kind. He has translated and edited an important book of Chinese poetry with Auckland University Press. Dr Edmond was awarded a Marsden grant to study global postmodern poetry and has been invited to present lectures at the University of California (Berkeley and Los Angeles).
+
+Dr Blair Blakie  
+Dr Blair Blakie was appointed as a Lecturer in the Department of Physics 2004. He has made internationally-recognised contributions to the study of ultra-cold atoms, a new state of matter that was recently discovered. Dr Blakie contributed to two areas: cold atoms in optical lattices, and finite temperature theories, where his theoretical predictions have now been verified as correct by major international groups. He has also resolved a controversial question that attracted a great deal of attention by prominent theorists. Dr Blakie’s research is featured in high-profile publicity campaigns for the UK Institute of Physics and is supported by a Marsden grant.
+
+Ends  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Otago](https://info.scoop.co.nz/University_of_Otago) on InfoPages.

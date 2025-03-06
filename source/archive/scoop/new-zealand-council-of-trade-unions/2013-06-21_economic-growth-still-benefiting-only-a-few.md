@@ -1,0 +1,56 @@
+---
+slug: economic-growth-still-benefiting-only-a-few
+title: "Economic growth still benefiting only a few"
+date: 2013-06-21
+source-url: https://www.scoop.co.nz/stories/PO1306/S00279/economic-growth-still-benefiting-only-a-few.htm
+author: new-zealand-council-of-trade-unions
+---
+Economic growth still benefiting only a few
+===========================================
+
+**Friday, 21 June 2013, 3:41 pm**  
+**Press Release: [Council of Trade Unions](https://info.scoop.co.nz/Council_of_Trade_Unions)**
+
+20 June 2013
+
+**Economic growth still benefiting only a few**
+
+“Growth in the economy in the March quarter was weaker than expected at 0.3 percent, and too many people are still missing out on what growth we are seeing,” says Bill Rosenberg, CTU Economist. “People have had several hard years now, and it is important that they start to see some benefit, if the economy is indeed into a growth phase. So far benefits have been very unevenly spread, with people on higher incomes benefiting disproportionately from income tax cuts, and unemployment remaining high and forecast to fall only slowly with 146,000 still unemployed and 251,000 jobless.”
+
+“From the economic growth so far, we have yet to see that the benefits will be widely felt. The question is whether there will be much growth outside the Canterbury rebuild and construction-led growth, mainly in Auckland,” he said. “Obviously dairy prices are high and processing based on dairy and meat is growing relatively strongly, but non-food manufacturing still not growing, with many areas struggling. The benefits of high produce prices are only partly getting through to the rest of the community.”
+
+“While the drought has reduced growth, the rise is still less than the 0.6 or 0.7 percent most forecasters had picked taking the drought into account. It is heavily based on the Canterbury rebuild and booming construction (which is still well below historic levels). Manufacturing growth is weak at only 0.2 percent for the quarter and 1.6 percent for the year, relying largely on dairy and meat related food manufacturing for growth. Without food, beverage and tobacco manufacturing, it fell 1.3 percent in the quarter.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Business investment is weaker than expected, with the growth rate for the year, at 3.7 percent, about half that expected by Treasury in its Budget forecasts, and a negative 2.2 percent for the quarter. This is not good for job growth.
+
+While there is moderate growth in household consumption expenditure, it is being led by durable goods sales, suggesting that it results from insurance claims, new housing and higher income households.
+
+“According to Reserve Bank data, average household disposable incomes in December 2012 were no higher in real terms than in December 2007. We need to see good wage rises and strong growth in good jobs that provide people with decent incomes. Despite having among the highest GDP growth figures in the OECD, New Zealand has only 11th lowest unemployment – compared to 2nd or 3rd lowest unemployment in the mid 2000s.”
+
+Rosenberg says that despite the problems facing Australia as a result of the fall in export prices received by the mining industry, exposing the imbalance in the rest of its economy, Reserve Bank of Australia forecasts show growth in their economy to be 2.75 percent this year and continue at 2 to 3 percent per year next year, rising further in the following year.
+
+“Their ‘bad years’ are as good as what is promised in New Zealand’s good years. Unless there are good wage rises here, the income gap will continue to widen”, says Rosenberg.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Council of Trade Unions](https://info.scoop.co.nz/Council_of_Trade_Unions) on InfoPages.

@@ -1,0 +1,133 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2008-05-22
+source-url: https://www.scoop.co.nz/stories/ED0805/S00085/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 22 May 2008, 8:49 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Concealed TEC report adds little to debate  
+The Association of University Staff has expressed disappointment that the Tertiary Education Commission did not provide it with a major report on the future of New Zealand universities at the same time as making it available to other major players in the sector. The report, New Zealand universities of the future, was prepared by the former secretary for education, Howard Fancy, and delivered to the TEC in September last year.  
+AUS, however, did not receive a copy from TEC until the very day that coverage of the report was to appear in last week’s edition of Education Review. Commenting on this lapse, AUS national president, Associate Professor Maureen Montgomery, said, “The Education Review coverage of the report makes clear that the New Zealand Vice-Chancellors’ Committee (NZVCC) and commentators such as Victoria University’s Jonathan Boston had access to the report for some time before its release. Why, therefore, did TEC withhold it from such a major player in the sector as AUS?”  
+The report itself canvasses a wide range of university-related concerns including differentiation among universities, the need to increase numbers of postgraduate students and focus on areas of research strength, the controversial question of two-year associate degrees, the transfer of undergraduate provision from universities to institutes of technology and polytechnics, and the possibility of a federated university system.  
+The NZVCC dismissed the report as containing little that is new and Professor Boston criticised it as being very general and lacking in evidence and concrete examples. “The document ... doesn’t really provide the sharply focused analysis, consideration of options in relation to funding models. To be honest, it doesn’t really add much at all,” he added.  
+Associate Professor Montgomery was also critical of the report. “It simply does not measure up in terms of a vision for the future of the university sector in this country. Any approach to solving the pressing issues facing the sector is going to require a good deal more imagination, creativity, and, above all, involvement of all its key players than is displayed here,” she said.  
+The report can be found at: http://www.aus.ac.nz/news/2008/Universitiesof%20Future.pdf
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Canterbury arts restructuring rejected by academic board  
+2\. More investment needed for universities  
+3\. Sniping breaks out between VCs and minister  
+4\. Action against threat to quality at Victoria  
+5\. Arts up, education down  
+6\. “Noble fight” under threat  
+7\. Privatisation undermining tertiary education  
+8\. EI’s urgent action appeal for Zimbabwe  
+9\. Melbourne University demotes dissident  
+10\. Dog’s degree a world first?
+
+Canterbury arts restructuring rejected by academic board  
+The academic board of the University of Canterbury voted yesterday to reject a proposed restructuring of the university’s college of arts which would reduce the capacity of both American studies and theatre and film studies and result in the loss of thirteen full-time staff. The proposal was said to be driven by the need to save $2.5 million to meet the college’s “contribution margin”.  
+The motion to reject the proposal was put forward by the dean of arts, Colin Goodrich, and forestry school associate professor Euan Mason. It said, “Impacts on the institution will include reducing the variety of offerings, diminishing enrolments in a variety of programmes, lowering overall staff morale and performance, reducing our capacity to recruit and retain excellent academics, and compromising several of our core missions.”  
+It continued, “The reputation of New Zealand’s universities will deteriorate as a consequence, and the University Canterbury’s reputation in particular will suffer relative to that of other universities.”  
+In support of the motion, its proposers said that the arguments in favour of the restructuring were either unsupported or invalid. “Nowhere in the change proposal is it demonstrated that the BA degree will be more coherent without American studies and theatre and film studies, nor that their absence will promote effective student choices or improved responsiveness to student needs,” they said.  
+It is understood that the motion to reject the proposed restructuring was carried with only minor amendments by the academic board. The Press had reported before the meeting that the Canterbury vice-chancellor, Professor Roy Sharp, was unwilling to comment on the motion.
+
+More investment needed for universities  
+The Association of University Staff is calling for greater investment in New Zealand universities in the 2008 budget to ensure that they are sufficiently well-funded to meet the country’s research and education challenges of the twenty-first century.  
+AUS national president, Associate Professor Maureen Montgomery, has warned that the university sector is facing a funding crisis, particularly in terms of salaries, and that this is likely to compromise the high quality and good reputation of the New Zealand university system unless addressed as a matter of priority.  
+“The need for major funding increases has been made the more pressing with the announcement in the recent Australian budget of more than $A2 billion in new policy initiatives for higher education in that country,” she said. “Their Budget announcement included the establishment of a new $A11 billion education investment fund and a one-off allocation of $A500 million for capital development.”  
+Associate Professor Montgomery said that New Zealand will need between 700 and 800 new academic staff by 2010-11, a time when it is predicted that there will be a worldwide shortage of academics. By then, the European Union countries alone will need an additional 10 to 15,000 new academic staff just to cope with increasing student numbers.  
+“Every university system in the world is currently in an increasingly competitive market to recruit and retain top-class academic and support staff,” Associate Professor Montgomery said. “Providing funding targeted at improving salaries is an important part of ensuring the vitality and the high quality of New Zealand universities.”  
+Associate Professor Montgomery said that the long-term well-being of the country would be better served by increasing investment in universities as a part of the 2008 Budget rather than by cutting taxes as has been advocated by those with a more narrow and short-term outlook.
+
+Sniping breaks out between VCs and minister  
+A substantial increase in higher-education funding in the recent Australian budget has provoked an outbreak of sniping from the NZVCC towards the tertiary-education minister, Pete Hodgson over the level of funding provided and academic salaries currently paid in New Zealand.  
+In a pres release issued just days after an apparently constructive tripartite meeting among the unions, vice-chancellors, and government, NZVCC Chair, Professor Roger Field, attacked the widening gap between funding and salaries in the two countries, with an implicit accusation that vice-chancellors in this country do not have the ear of the minister.  
+Describing itself as the peak body representing the country’s eight universities, NZVCC said that levels of funding in Australia are in sharp contrast to the situation in New Zealand, where successive governments have run down the university system in terms of total funding to a point where that decline is costing universities $230 million a year in real terms compared to fifteen years ago. “Universities Australia, the equivalent body to the NZVCC, clearly has the ear of the Rudd Government with a message that further investment will grow Australian universities’ capacity to make effective contributions to the wealth and welfare of that nation,” Professor Field said.  
+Calling the comments by NZVCC unfortunate, Mr Hodgson replied that, in fact, university funding had increased by 87 percent over the fifteen years to 2006. He acknowledged the gap between academic salaries in the two countries, but added that the current size of the gap had actually narrowed slightly in recent years.  
+Not to be outdone, NZVCC chair, Professor Roger Field, “hit back”, accusing the minister of taking a “superficial approach that glosses over both the increase in university student numbers and the effect of inflation”. Professor Field went on to lament that government policy restricts university revenue growth to around three per cent per year through controls on tuition fee increases and by adjusting to per-student funding at levels around the rate of inflation.
+
+Action against threat to quality at Victoria  
+Staff and students at Victoria University’s college of education say proposed cuts to staff numbers and resources at the college pose a serious threat to the future quality of teacher education in Wellington. They are holding a protest at the main entrance to the college on Donald St., Karori at 12.30pm today.  
+Victoria University is proposing to cut over 15 percent of staff: twenty-two out of 141 academic and advisory jobs and seven out of forty-one administration staff jobs. The proposal includes the closure of the college’s resource centre.  
+Association of University Staff organiser, Michael Gilchrist, says the proposed cuts are based solely on an arbitrary figure for budget overspending. “The university does not have any plans for maintaining the quality of the college’s core function, teacher education, while making such severe cuts.”  
+Mr Gilchrist said that the university plans to embark on a crude shift in emphasis, from teacher education to research in education, rather than developing a progressive reshaping of the college. The criterion for cutting academic and advisory jobs will be the research capability of the people in those jobs, not the functional capability of the college itself.  
+“The government must take part of the responsibility for this situation. It has markedly reduced funding levels for taught postgraduate degrees when such degrees are overwhelmingly preferred by teachers wanting to upgrade their qualifications. And it has done nothing to recognize the funding needs of colleges of education within universities,” Mr Gilchrist said. “The resulting rush by the university to secure funds set aside for research threatens to leave teacher education in the dust.”  
+“Both the shape and the scale of the proposed cuts need to be seriously reconsidered. The college has a long and proud history of producing creative, innovative, and dedicated graduates. You cannot lose 15 percent of teaching staff and offer the same quality of teacher education”, Mr Gilchrist added.
+
+Arts up, education down  
+The number of New Zealanders studying bachelor degrees rose by 5 percent between 1999 and 2006, with the creative arts and health the main beneficiaries of that growth, according to a report by John Gerritsen on University World News. According to the report, creative-arts enrolments rose from just 6,000 in 1999 to more than 8,800 in 2006, an increase of 32 percent.  
+Enrolments in health subjects rose from 8,650 in 1999 to 11,600 in 2006, an increase of 26 percent, accompanying strong employment prospects for those in the health sector. That increase saw health overtake education as the fourth most popular undergraduate subject by 2003.  
+John Gerritsen reports that education suffered a 15 percent decline in popularity as a degree subject to just over 9,000 enrolments by 2006 as demand for teachers in the primary-school sector declined. At the same time, enrolments in the natural and physical sciences fell by just 200 students, leaving it the third most popular subject with 11,770 enrolments.  
+In terms of higher-level study, masters’ enrolments declined slightly between 1999 and 2006, while the number of full-time-equivalent doctoral candidates rose substantially. By 2006, there were 6,000 full-time equivalent masters students, 6 percent fewer than in 1999 with nearly a third in society and culture, followed by business and commerce, and the sciences.  
+Also in 2006, there were 4,300 full-time equivalent PhD students, 1,700 or 67 percent more than in 1999. According to John Gerritsen, that increase was probably driven by the 2003 introduction of the performance-based research fund, which rewarded institutions for each student completing a research-based postgraduate qualification such as a PhD.
+
+World Watch  
+“Noble fight” under threat  
+University of Manchester vice-chancellor, Alan Gilbert, has warned that the quality of undergraduate education in the United Kingdom is in serious jeopardy. In a draft report on the future of undergraduate education at the university, leaked to Times Higher Education, Alan Gilbert said academics have been “noble” in their fight to maintain standards in the face of diminished resourcing. However, he wrote, pressures on staff nationally “have mounted ... to the point where the quality of the educational process is under grave threat”.  
+He said the problems “are rooted in the rise of ‘mass’ higher education nationally and internationally, and in a long history of policy and funding compromises that have placed universities under inexorable pressures to do more for less”. He adds that there is “something noble about the way the academic profession has fought to maintain academic standards over many years, tolerating increasing workloads and pressures.  
+“But the truth is that this has been a gallant rearguard action. In the end, gravely diminished per-capita resourcing must tell on educational quality.” He urges staff to read an article in Manchester’s Student Direct newspaper, in which student journalists used the Freedom of Information Act to reveal that social-science students at Manchester have half as much contact time as they did twenty years ago.  
+A committee established at the university to examine promotions reports that in a 2006 staff survey 68 percent agreed that the university should give equal reward and recognition to research and to teaching and learning, but that only 12 percent thought it did. Teaching awards were viewed as “patronising”, “divisive”, and an “attempt to make up for the fact that teaching does not really count for promotion”. Professor Gilbert’s draft report recommends setting up a group to develop clear promotion criteria for teaching.  
+From Times Higher Education
+
+Privatisation undermining tertiary education  
+In a parallel set of concerns, the University and College Union (UCU) has warned that higher and further education in the United Kingdom is being jeopardised by rising privatisation in the sector. In a speech to a recent conference, UCU general secretary Sally Hunt claimed that the entire spectrum of education in Britain, from the curriculum through to relations between staff and students and to entry criteria, could be undermined by the spiralling amount of privatisation.  
+Private expenditure in tertiary education has increased by a staggering 85 percent between 1995 and 2004, the fastest-growing privatisation in that sector in Europe, while the public injection of funds grew by a mere 6 percent. And, according to Ms Hunt, this influx of private funding is leading to an increasing workload for under-pressure staff and causing institutions to take damaging “knee-jerk” decisions regarding the commercial viability of their departments.  
+“Strategically important departments, like physics at Reading University, are being axed at the whim of an anxious vice-chancellor because he or she doesn’t see them as sustainable in the current market,” Ms Hunt said. “They can do this with no regard for national or local provision, which has led to us now having areas of the country where a student seeking to study certain courses does not have a local option.”  
+“Why should that student be forced to move to another part of the country just to follow their dream?” she asked. “What happens if they cannot afford to? The market is failing. Our members feel that reality every day.”  
+Ms Hunt also claimed that the “emergence of a two-tier workforce” means the private sector is growing in strength while the public sector’s working conditions worsen.
+
+EI’s urgent action appeal for Zimbabwe  
+Education International has been informed by a variety of reliable sources of a pattern of violence targetting teachers and trade unionists in the aftermath of the 29 March presidential election in Zimbabwe. EI has strongly condemned these attacks and is supporting a resolution adopted by its affiliate, the Zimbabwe Teachers’ Association condemning the violence affecting teachers and asking for protection for affected teachers to make sure there is no disruption of teaching and learning programmes.  
+The post-election tension is unfolding into a pattern of violence mainly targeting rural communities and human and trade union rights activists. Teachers are accused of trying to influence the vote of their communities in favour of the opposition. EI is concerned by the political violence targetting teachers, students, and education communities allegedly perpetrated by security forces, youth militias, war veterans, and gangs of supporters of both the ruling ZANU-PF party of President Mugabe and the opposition party Movement for Democratic Change.  
+Documenting the evidence is very difficult. Collecting testimonies over the phone has proved difficult as respondents are not always free to discuss their ordeals and the unions have limited capacity to travel to the countryside. However, facts continue to be collected and EI is keeping its member organisations updated.  
+EI is asking all its affiliates to condemn these blatant violations of basic human and trade union rights and to urge the authorities of Zimbabwe to ensure that, in all circumstances, respect for human rights and fundamental freedoms, as well as the physical integrity of all citizens, in accordance with international human rights standards and international instruments ratified by Zimbabwe.
+
+Melbourne University demotes dissident  
+Melbourne University has demoted one of its most outspoken academics after a complaint against him by the state government. Paul Mees, a senior lecturer in transport planning and a prominent public-transport advocate, was told his pay would be slashed and his position downgraded after he made a strongly worded attack on the government over transport privatisation.  
+In the attack, made at a public forum last year, Dr Mees said the authors of a 2007 report on privatisation were “liars and frauds and should be in jail”. The university acted after a complaint from the head of the state department of infrastructure threatening legal action over Dr Mees’s remarks and demanding that they be removed from a university website.  
+One of the university's reasons for acting against Dr Mees was a concern about its relations with the government. In a letter on October 23, Professor Nick Low of the university’s transport research centre told the government that Dr Mees’s remarks were “directly contrary to our wish to conduct our relations with the State Government in a spirit of partnership and collaboration”.  
+Without telling Dr Mees, the university also launched an investigation into whether he had damaged the university’s reputation. The inquiry found that Dr Mees had “brought the university into disrepute by making derogatory and insulting comments” about government officers. The investigation found that it did not matter whether Dr Mees’s statements were true or not. “His defence of truth should be dismissed,” said the investigation report. “Academics are entitled to be forthright in their views. But it is not their role to make allegations of personal misconduct or criminal misconduct in a public forum.”  
+Dr Mees has since left the university, and will give his final lecture next week. He has accepted a role with the planning department of the royal Melbourne institute of Technology.  
+From Clay Lucas in The Age
+
+Dog’s degree a world first?  
+Zeeke, a one-year-old golden retriever, graduated with a bachelor of science degree in canine companionship at Ohio Northern University this week. Zeeke’s studies involved training as a “canine companion” in an honours project conducted by a senior, JJ Coate, who majored in biology and pre-veterinary medicine. As well as conferring a degree on Ms Coate, the university decided to provide a degree for Zeeke as well.  
+Ohio North University president. Kendall Baker, believes that this is the first time the university has ever conferred a degree on an animal. Indeed, he believes that it might be a world first.  
+Zeeke was trained to pull a wheelchair, open doors, and retrieve fallen objects for the physically challenged. The project was conducted in association with canine Companions for Independence, a charity organisation that places serice dogs with people at no cost.  
+One commentator obviously saw the development as an exciting expansion if career recognition for dogs. He is reported as saying, “I have heard of police dogs getting certificates after they undergo intensive police training, but never a dog receiving a degree from a university.”  
+From DigitalJournal
+
+More international news  
+More international news can be found on University World News:  
+http://www.universityworldnews.com
+
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct inquiries should be made to the editor, email: editor@aus.ac.nz.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

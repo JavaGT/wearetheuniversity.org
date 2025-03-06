@@ -1,0 +1,218 @@
+---
+slug: family-tax-relief-q-and-a-scenarios
+title: "Family Tax Relief: Q and A, Scenarios"
+date: 2005-08-18
+source-url: https://www.scoop.co.nz/stories/PA0508/S00477/family-tax-relief-q-and-a-scenarios.htm
+author: new-zealand-labour-party
+---
+Family Tax Relief: Q and A, Scenarios
+=====================================
+
+**Thursday, 18 August 2005, 1:59 pm**  
+**Press Release: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+FAMILY TAX RELIEF: QUESTIONS AND ANSWERS
+
+What has been changed to deliver this family tax relief?
+
+Labour will increase the amount of income a family may earn before they stop getting the maximum family support rates from $27,500 to $35,000 and will reduce the abatement rate from 30% to 20%. The graph below depicts how the new policy will affect the entitlement of a family with three young children;
+
+[![](http://img.scoop.co.nz/stories/images/0508/9e6f1d8513eb8af40055.jpeg)  
+Click for a larger version](http://img.scoop.co.nz/stories/images/0508/a28a56666176d1fa6d9f.jpeg)
+
+Who benefits from these changes?
+
+Working Families. Labour believes it is a priority to provide targeted tax relief to help with the costs associated with raising children. The first stage of Working for Families has made a big difference to low and modest income families. This extension means many more families will also get tax relief.
+
+How many extra families will benefit?
+
+Around 60,000 more families will be covered by the family tax relief package next year, and many more will have increased entitlements. This means that 350,000 families will be entitled to family tax relief in 2006.
+
+Almost all families with household income under $70,000 a year will now become eligible to receive family tax relief, along with a substantial number of families with household income between $70,000 and $100,000 a year.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Some larger families earning more than this will also benefit.
+
+How much more money will people get?
+
+This is a substantial increase in the money in the pocket of working families.
+
+The amount depends on how much income a family has, and how many children they have. For a family earning $35,000 a year the effect of this targeted tax relief is that they will in effect pay no net income tax at all from 1 April 2006.
+
+How will people know if they are eligible for extra income as a result of these changes?
+
+It is easy. The level of income your family has, and the number of children dictates the eligibility. The table below indicates eligibility if your children are under 13.
+
+Family income before tax: Up to $69,320 / $69,321 to $81,540 / $81,541 to $93,760 / $93,761 to $109,880
+
+1 child Yes / No / No / No  
+2 children Yes / Yes / No / No  
+3 children Yes / Yes / Yes / No  
+4 children Yes / Yes / Yes / Yes
+
+If you have four or more children or two or more teenage children you can earn more and still receive family tax relief.
+
+What are some examples of the sorts of families that will benefit from this that would not have otherwise benefited?
+
+Under this policy a family with two young children who have a joint income of $65,000 who previously got no family tax relief will now get $63.62 per week from 1 April 2006. This will increase to $83.62 per week from 1 April 2007.
+
+What are some examples of families who will get more than they would have been getting under Working for Families?
+
+Under this policy a family with three young children, and a joint income of $60,000, will get $130 per week of family tax relief from 1 April 2006, an increase of $ 91.00 from what they would have got under the original Working for Families package.
+
+What will be the combined affect of this policy with Working for Families?
+
+The combined impact of Labour’s programme of family tax relief from 2005 onwards will result in:
+
+\- an average increase of around $115 a week in direct income assistance to families with children with a family income in the $25,000 to $45,000 band by 2006; and
+
+\- an average increase of around $80 a week in direct income assistance to families with children with a family income in the $45,000 to $70,000 band by 2006.
+
+Many families with higher incomes will also benefit.
+
+All families eligible for family tax relief will also receive a further $10 a week per child from 2007.
+
+How can people find out how much targeted family tax relief they will get?
+
+Labour has produced an easy to use calculator that can show families how they will benefit. It can be found at www.labour.org.nz. This is Labour policy and will not become government policy until after the election so there is no information about this available though IRD or the Ministry of Social Development at this time.
+
+How will the money be delivered?
+
+If a family is already getting family support they will receive the new amounts automatically. For families who didn’t previously qualify they will fill in an IRD form setting out their family income and number of children and can choose to have payments made weekly, fortnightly or at the end of year.
+
+How much will the family tax relief package cost?
+
+The family tax relief package will cost $95 million in 2005/06, $380 million in 2006/07 and $425 million in 2007/08 and $437.75 million in 2008/09.
+
+How can you afford this and not tax cuts?
+
+Labour has always said that targeted tax relief for working families is our priority. A better than expected cash position means that we can bring forward extensions to the package . The cost of this policy is much less than National has already committed to tax cuts, before they have even announced personal tax cuts.
+
+National's tax commitments before personal tax announcement
+
+05/06 06/07 07/08 08/09  
+corporate tax change 153.75 615 633.45 652.45  
+tax rebate on childcare 160 160 160 160  
+tax rebate on student loan 70 70 70 70  
+remove carbon charge 80 36 319
+
+TOTAL ($m) 384 925 899 1201 3410
+
+Why have you chosen to use the extra revenue for this and not across the board tax cuts?
+
+Because it is fairer. Labour is making targeted family tax relief a priority, alongside continuing to invest in core public services such as health and education. Across the board tax cuts are not a priority- they would give the same benefit to a single person earning $60,000 as a family with three children relying on one earner making $60,000. That’s not fair.
+
+How will this kind of package affect the country’s long term economic position?
+
+Labour in Government has always taken a responsible approach to managing the economy. The benefit of that approach is that we are now in a position to provide a substantial boost to the incomes of working families raising children.
+
+We are not spending all of the additional revenue that has been forecast, as we are committed to continuing a responsible and sustainable approach to economic management.
+
+Will this package mean the government needs to borrow more?
+
+Labour continues its careful and prudent approach to managing the economy.
+
+We can fund this policy within our existing borrowing parameters.
+
+Did you have Treasury cost this policy?
+
+Treasury has costed this as part of the government’s consideration of extensions to the existing programme. Detailed policy work and preparation of tables, scenarios and the calculator was not done by the public service.
+
+What will this package mean in terms of effective marginal tax rates?
+
+In any targeted system there are high effective marginal tax rates (EMTRs) at some point. This policy pushes those rates much further up the income scale, and reduces the EMTRs of current recipients.
+
+What tax relief is already being delivered through Working for Families?
+
+From 1 April 2005 family support increased by $25 a week for the first child and $15 a week for each additional child. From 1 April 2006 a new in-work payment replaces the Child Tax Credit for eligible working families and the family tax credit will increase.
+
+FAMILY TAX RELIEF: SCENARIOS
+
+SCENARIO 1
+
+Jack and Maria have two young children and live in Rotorua. Jack is a principal of a small primary school and earns $65,000 gross per annum.
+
+Maria is at home looking after the children.
+
+Jack and Maria are not currently entitled to any family tax relief.
+
+With Labour, however, they will become eligible for $64 a week from April next year ($3,300 a year). Their net average tax will reduce by 6 percentage points from 26% to 20%.
+
+And in 2007 they will receive a further $20 a week.
+
+SCENARIO 2
+
+Rangi and Amanda have two children aged 12 and 8, and live in Christchurch.
+
+Between them, they earn $70,000 gross per year. Rangi is a nurse and Amanda is a teacher.
+
+Rangi and Amanda are not currently entitled to any family tax relief.
+
+With Labour, however, they will become eligible for $44 a week from April next year ($2,300 a year). Their net average tax will reduce by 3 percentage points from 19% to 16%.
+
+And in 2007 they will receive a further $20 a week.
+
+SCENARIO 3
+
+Max and Jennifer have one child and live on the North Shore. Jennifer is a Policewoman and earns $51,000 a year before tax. Max is at home looking after their child.
+
+Max and Jennifer are not currently entitled to any family tax relief.
+
+With Labour, however, they will become eligible for $70 a week from April next year ($3,600 a year). Their net average tax will reduce by 7 percentage points from 23% to 16%.
+
+And in 2007 they will receive a further $10 a week.
+
+SCENARIO 4
+
+Aroha and Robert have two children aged 4 and 16, and live in Wairoa.
+
+Between them, they earn $37,440 gross per year. Robert is a storeman and works 40 hours and earns $25,000 while Aroha is a shop assistant and works 20 hours and earns $12,440.
+
+Aroha and Robert are currently receiving $80 a week in family tax relief.
+
+With Labour, they will become eligible for $103 more a week from April next year (a total $9,400 a year). Whereas currently a net 9% of their income goes in tax, from April 2006 they will effectively pay no net tax at all.
+
+And in 2007 they will receive a further $20 a week.
+
+SCENARIO 5
+
+Pete and Sue have four children and live in Timaru. Pete is an insurance agent and earns $58,000 gross per annum. Sue stays at home and looks after the children.
+
+Pete and Sue are currently receiving $72 a week in family tax relief.
+
+With Labour, they will become eligible for $128 more a week from April next year (a total $10,300 a year). Their net average tax will reduce by 12 percentage points from 18% to 6%.
+
+And in 2007 they will receive a further $40 a week.
+
+SCENARIO 6
+
+Olaf and Kim have three children aged 17, 15 and 13, and live in Wellington.
+
+Between them, they earn $90,000 gross per year. Olaf works in marketing and earns $40,000 and Kim is a lab technician who earns $50,000 Olaf and Kim are not currently entitled to any family tax relief.
+
+With Labour, however, they will become eligible for $43 a week from April next year ($2,200 a year). Their net average tax will reduce by 3 percentage points from 22% to 19%.
+
+And in 2007 they will receive a further $30 a week.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

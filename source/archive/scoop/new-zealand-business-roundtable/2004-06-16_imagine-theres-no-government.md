@@ -1,0 +1,106 @@
+---
+slug: imagine-theres-no-government
+title: "Imagine There's No Government"
+date: 2004-06-16
+source-url: https://www.scoop.co.nz/stories/PO0406/S00162/imagine-theres-no-government.htm
+author: new-zealand-business-roundtable
+---
+Imagine There's No Government
+=============================
+
+**Wednesday, 16 June 2004, 1:02 pm**  
+**Speech: [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable)**
+
+A speech given by Rob McLeod, chairman, NZ Business Roundtable, on public policy analysis to the Howick Rotary Club tomorrow.
+
+15 June 2004
+
+Imagine There's No Government
+
+I’ve called this talk ‘Imagine there’s no government’, but I’m not about to speak in favour of anarchy. Rather, I want to outline what I see as the proper process for reaching decisions about what the role of the government should be in any field of public policy. I think the logical starting point is to consider how things would work if there were no government – if we were in a state of nature, so to speak, and people were left to their own devices.
+
+I have no intention of questioning whether we need governments, both central and local, to do many things to make for a functioning society. My position is that of course we do. There are people who like to explore the possibility of a society without any government at all. It is a serious and fascinating line of inquiry, given how bad governments are at doing many things. The relevant practical comparison is not whether a world without government would be perfect, but whether it would be better or worse than one where government-as-we-know-it operates. The reality is that we live in an imperfect world, and in formulating policy we have to choose between imperfect alternatives. However, I don’t propose to cover that broad canvas today. Nevertheless, I do think it is important to go back to first principles in any particular area of public policy and understand what the arguments for government involvement really are.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I should say that it is also not my purpose in this talk to argue that government should be small or minimalist. My position would simply be that government should be limited – limited to its proper functions. For a society to be free and prosperous, we need to constrain what governments do. I happen to think that, in general, governments in New Zealand and elsewhere in the modern era have gone well beyond the boundaries of their proper roles, and that their scope and size should be cut back. But there is no universal optimal size of government. A country facing a major security threat could justifiably commit large resources to defending its people. The real issue is how to decide what is optimal in particular and normal circumstances. So I propose to explore the logical way to think about this question.
+
+I note too that this is a different question from asking about what outcomes we want in society. We all want good food, good transport services, good education, good health care and many other things. Some of us want more of some things than others, and the proportions vary at different times of our lives. The question is how do we get what we want – in the ‘right’ quantities, qualities, times and locations, and at the least possible cost. The basic alternatives are by dealing with other people directly – either in the marketplace or in other voluntary ways – or through the political process by the way we cast our votes.
+
+It doesn’t make sense to approach the question I am posing by imagining there were no markets – only government. Markets and everything that goes with them – supply and demand, competition and voluntary exchange – have always existed in every society. So the only sensible starting point is to consider a state of affairs without government.
+
+Let me go straight to a particular thought experiment to illustrate what I am talking about. Imagine a world without our modern planning laws – or resource management laws, to use the politically correct term now that central planning has gone out of fashion. The first question to ask is could such a world work?
+
+As an empirical matter, the answer is clearly yes. We can see that first by looking at history. Great cities like London, Paris and Rome were built without anything like our modern planning laws. Much of the early design of New Zealand cities was done by the New Zealand Land Company. The first town and country planning statute in New Zealand dates only from 1926. There was fierce debate for many years before it was enacted, with many voices raised in opposition.
+
+In a modern-day context, we can see that a world without much in the way of planning laws is possible by looking at Houston, Texas. Houston is one of America’s great cities, and it relies more than any other on market mechanisms to determine land use. Yet Houston doesn’t look very different from other American cities. Land uses tend to segregate themselves in response to market incentives. Heavy industry locates on large estates near the Houston ship channel, the port of Houston, rail lines and highways. Apartments and stores also tend to cluster near major transport links, and in the downtown ‘museum district’ artists and people living in expensive town houses are found near to ethnic restaurants, jazz bars and studios. In shaping Houston’s land use patterns, the invisible hand of the market does more of the work than the visible hand of the planner.
+
+What sort of job does it do? Well, the outcomes are impressive. Houston ranks consistently as the leader among major US cities for housing affordability, and studies attribute this to the lack of extensive land use controls. Land use regulation typically increases the cost of housing by restricting its supply. Median housing prices in Houston are just 35 percent of those in Sydney. Houston is a magnet for business – Chevron Texaco moved a major part of its operations from California to Houston earlier this year. Houston has a large supply of shopping areas spread around the city, leading to a very competitive retail environment. Elsewhere in America, zoning laws often prevent new retail outlets from establishing, forcing shoppers to travel further to make their purchases and raising prices by reducing competition.
+
+Needless to say, there have been plenty of pressures to introduce greater regulation, particularly from politically influential homeowners. But residents of Houston have routinely voted against such moves. Much of the strongest opposition has come from low income African-American and Hispanic voters, who are well aware that they can least afford the costs of regulation.
+
+How can the land use market in Houston work in the absence of laws, you might be asking? Well, the answer is that there are plenty of laws to govern it. The most important is the standard system of property rights under common law. As part of that system, people wanting control over development in their neighbourhood enter into covenants called ‘deed restrictions’. These can even include rules about lawn mowing and the colours that homes can be painted, and they are strictly enforceable. The deeds usually contain provisions governing how they can be amended, for example by a two-thirds majority vote of property owners. There is much variety in the deed restrictions. Developers compete not only on the amenities they place in the new neighbourhoods (such as parks) but also on the covenants accompanying the properties. This ‘market’ in rules leads to a constant supply of new developments of different types, catering to different categories of buyers. In addition, Houston has many specific ordinances. Nevertheless, the total panoply of rules is much smaller than under our Resource Management Act.
+
+So it is clear that it is quite feasible to imagine a world without a comprehensive planning statute. The next question is whether that might be a better state of affairs. I won’t try to answer that question, but I want to suggest the process we should use to go about answering it.
+
+As I noted in the case of Houston, if we were to repeal the RMA, the starting point would not be no regulation but the common law. The common law is a very sophisticated framework governing property, contracts and torts. Tort law is important in the resource management context because development can involve external effects or harms to third parties. Indeed the main focus of the RMA was supposed to be on external environmental effects. The common law of torts had a lot to say about harms, nuisances and other third party effects.
+
+But would the common law be sufficient to handle land use decisions if regulations like the RMA were simply scrapped? I can think of two problems which it would not deal with very well. One is non-point source pollution because there may be no identifiable party to take an action against. Another is the need to aggregate land for essential public works such as roads, which at least in some cases will require coercive powers like those in the Public Works Act. There may well be others. My point is simply that we need to identify reasons for government regulation over and above the framework provided by the common law. The burden of proof should be on those proposing additional regulation. We should then consider the solution best targeted at the problem at hand, and whether we would be likely to get better results from introducing a regulation than from doing nothing at all. At that point we have to consider the possible costs as well as the benefits of government intervention, recognising that no regulation comes without costs and that government failure in designing and administering regulations is often far more prevalent than market failure – the problem the regulation is intended to address.
+
+Where that process would get us to in the resource management context is an open question in my mind. All I am doing is suggesting what a rigorous process would entail. Regrettably, no such process was followed when the RMA was put in place, and it has been a source of endless problems ever since. One day we should start again with a clean sheet of paper, and no preconceived ideas about what should replace the RMA. I am reminded of a comment by the American economist Thomas Sowell who once wrote:
+
+No matter how disastrously some policy has turned out, anyone who criticises it can expect to hear: “But what would you replace it with?”
+
+When you put out a fire, Sowell asked, what do you replace it with? The answer doesn’t have to be something else if other and better solutions are already in place. I suspect that if we stripped away much of our increasingly complex employment law, the common law of contracts would go a long way towards establishing a fair and efficient labour market.
+
+The analytical approach I have been discussing for deciding on the proper role of government can be readily applied to any area of public policy. Let me illustrate it more briefly in the context of education, health and roading.
+
+Like town planning, education in most countries operated without the state for centuries. Education often took place in the home. Schools were private, they set their own rules and decided what to teach, and parents paid fees for attendance. It wasn’t until the second half of the nineteenth century that the state entered education in a bigger way in Britain. By that time, attendance at schools and rates of literacy and numeracy were already very high. As one writer put it, the state jumped on to a galloping horse. The private sector in education remains important in many parts of the world today, and is growing apace in countries like China and India.
+
+Education is a good example of an area where it is useful to consider the government’s role on my blank sheet of paper under three headings that are often relevant: provision, regulation and funding. If government involvement is warranted, it may not be necessary under all headings.
+
+At the risk of sounding like a wild-eyed radical to a New Zealand audience, I see no compelling reasons why the government has to own and run all schools. In Ireland, something like 90 percent of the schools are non-governmental (most are run by churches). In Holland some 70 percent of children attend private schools, as do some 37 percent of secondary school students in Australia. So private operation of schools on a large scale is clearly an option; the next step in the analysis would be to decide whether it is generally the best one.
+
+One could also imagine a world without much regulation of education, but most of us would probably be sympathetic to the case for compulsory education so that no child misses out on life chances. However, there is room for debate about the number of years of compulsory education, and how far the government should intrude into areas such as the curriculum, the qualifications system and teacher registration.
+
+When it comes to funding, many authorities accept, rightly in my view, a case for government funding of education up to some level. The argument is that education benefits those receiving it but that it also benefits the wider society to have a literate population that is socialised into its values. In addition, none of us would wish to see children deprived of education because their parents could not afford it. But the argument for high taxpayer subsidisation of education becomes weaker at later stages of education, particularly beyond secondary school. Here the private benefits of education are large – in terms of income-earning potential in later years and in other ways – and it is reasonable that most students should meet a share of the costs.
+
+Health presents a similar picture with some variations. Again it is possible to imagine a world with less government. Certainly on the provision side, private general practices, pharmacies and many other health services are the norm and private hospitals are commonplace, as are community and other non-profit services. Many of these services can be and are paid for directly by consumers or through insurance. However, as with education, most of us would accept the argument for government underwriting of access to some reasonable level of health services – if personal, family or charitable resources were inadequate – to ensure no one misses out. The proper split of private and taxpayer funding is an area for debate, and one that is likely to become intense in the years ahead as the health care costs of an aging population rise. There is also scope for debate about the proper level of regulation for health professions and products. The point I am making is simply that the categories of provision, funding and regulation need to be identified and analysed separately. Few of us, I suspect, want either a fully nationalised or a fully privatised health system.
+
+Health also offers an example of what economists call public goods. This is in the area of public health services, such as the prevention of communicable diseases. Often these cannot be charged for; they benefit the community at large; and taxpayer funding is necessary and justified. Other examples of public goods are biosecurity, conservation, the machinery of law and order, and national defence. Without going into a rigorous discussion of public goods, they constitute the strongest case for government involvement in any sector. Even with public goods, however, a further analytical issue is whether the government needs to be a provider itself or whether it can contract with the private sector for services.
+
+Finally, roading. Unlike, say, schools and hospitals, public highways were generally regarded as public goods even in Adam Smith’s day, particularly in the sense that everyone had access to them and one person’s use did not detract from the ability of others to use uncongested roads. Nevertheless, toll roads were commonplace in Britain, and it is a little known fact that toll roads and bridges were commonplace in New Zealand too from the mid-1860s to the early 1900s.
+
+From 1925 on, the government has run most of our roads. Roading has been problematical throughout this period: first, we probably spent too much on roads, and more recently not enough – or at least not enough in the right areas. But funding is not actually the basic problem: the main problem is the decision-making processes for road construction and operation, and associated constraints like the RMA.
+
+Roading is bedevilled by politics. Deep Greens don’t want any more roads; other people do. The debates between roading lobbies and public transport lobbies are endless. We badly need to work towards a situation where the optimal level of roading services is less a matter of political infighting and is determined more by road users’ willingness to pay for them. As far as possible, having regard to transactions costs, road users should face the marginal costs of using any stretch of road, with different charges for such things as peak time and non-peak use and the quality of service (eg fast lanes). Fortunately, technologies that will permit such charging arrangements are now available or on the horizon. As they become more economic to adopt, it will be possible to imagine roading becoming more like other utility services (such as gas and electricity) and less like a centrally planned nationalised industry.
+
+Government operation of roading illustrates the dilemmas of public policy. As I noted earlier, there are only two ways that people can lawfully get the things they want and need: through voluntary transactions (both market and non-market) and through voting in the political process. Politics is an immensely difficult way for people to get what they want: they have to vote for parties whose policies usually reflect some of their preferences but not others; governments in practice often govern for the benefit of special interests that support them rather than in the general public interest; and majoritarian politics is a winner-takes-all game. Because politicians and bureaucrats have incentives to expand their budgets and powers – to curry favour with voters or increase their status – governments tend to get bloated. We see this even in America – the heartland of capitalism, but dogged by excessive government. Governments have no resources of their own, and can only tax, spend and regulate. All three functions create economic (deadweight) losses and perverse incentives. Given the imperfections of government, we need to limit its scope as much as possible to those tasks that only governments can perform, and that we might hope they will carry out honestly and effectively.
+
+The best way to decide what those tasks are, I have been arguing, is to start with a blank sheet of paper and imagine there were no government. We can then identify reasons why we might need government involvement, using the policy criteria and kit of tools that are well known to analysts of public policy. These include making the judgments as to whether more government involvement at the margin would be likely to lead to better or worse outcomes. They also include the often difficult tasks of figuring out transitions: how to move from where we are to where we want to be.
+
+I have concentrated in this talk on discussing processes and criteria for making public choices, not on what those choices should be. As I said at the beginning, there is no such thing as an optimal scope and size of government for all places and all times. I did not venture an opinion on how big government should be, in any sector or in aggregate. My argument is simply that government should be limited to its properly conceived roles.
+
+Having said all that, I am happy to close by confirming my general leanings about where we would end up if we followed the analytical approach I have been recommending. I mentioned fires a while back. I think that at the end of the day, my rules for government would be similar to those of Smokey the Bear: Keep it small, keep it in a confined space, and keep a good eye on it.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable) on InfoPages.

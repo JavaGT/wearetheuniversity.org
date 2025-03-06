@@ -1,0 +1,132 @@
+---
+slug: atainz-speech-towards-2020
+title: "ATAINZ Speech – Towards 2020"
+date: 2017-03-03
+source-url: https://www.scoop.co.nz/stories/PA1703/S00051/atainz-speech-towards-2020.htm
+author: new-zealand-labour-party
+---
+ATAINZ Speech – Towards 2020
+============================
+
+**Friday, 3 March 2017, 2:48 pm**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+  
+Grant Robertson  
+MP for Wellington Central  
+Finance Spokesperson  
+Employment
+
+MEDIA STATEMENT
+
+  
+3 March 2017
+
+Speech notes from opening address to ATAINZ
+
+  
+ATAINZ Speech – Towards 2020
+
+Introduction
+
+Thanks for the invitation to be here today to share your conference today.
+
+I am particularly excited by the opportunity to address a conference of accountants. I know that might sound flippant but the last time I did - to the Chartered Accountants Association of Australia and New Zealand - the event was hosted by a hologram, and there was a drone flying around the hall. I am sure your conference will include similar delights!
+
+Having now being a member of the Finance and Expenditure Select Committee for the last three years my respect for tax professionals and accountants has only risen. If only because you have to put up with the conveyer belt of tax legislation changes, that just seems to keep going around and around. I have really valued the input from people and organisations such as yourselves, and frankly the legislation we have would be much the poorer without your input.
+
+I am also very pleased to be at a conference that has as its theme - 2020. That is three years from now- and politicians like to think in three year chunks. We have what you might call elections or what I like to think of as triennial performance reviews. And as it happens 2020 is one of those reviews - and I hope it will be one that takes place after three years of a Labour Government, and one that I get to serve as Finance Minister.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+So today I want to talk about how the New Zealand economy could look in 2020, if we seize some of the opportunities and address the challenges that we a nation will have to face up to over the next three years.
+
+For me the defining principle of the Labour Party’s approach to the economy, is the equitable treatment of individuals. All Kiwis should be able to enjoy the benefits of living in New Zealand, and should be able to benefit from the increased opportunities that our relatively wealthy country provides. My goal for the economy can be captured in two words - ‘shared prosperity’. As the country grows and develops economically, we must ensure that all New Zealanders feel the security and opportunity that this prosperity provides.
+
+However, the choice is not as some put it between growing the pie, or cutting its slices more thinly. I believe that the New Zealand works best when we both grow and share the proceeds of that prosperity.
+
+Currently the high level indicators for the NZ economy look positive. GDP growth is forecast at 3.5% over next two years and 2.5% for five years after that. We are seeing tourism boom, there is growth in construction, and there are high levels of immigration.
+
+However below those high level indicators there are issues that paint a different picture. GDP per capita has been negligible at 0.7% in 2016. and overall it remains well below the OECD average. The population increase that is currently driving growth according to the Treasury and the Reserve Bank is also putting pressure on infrastructure. At a household level, the debt to disposable income ratio is now at record levels, 166.9%, reflecting the massive increase in housing costs.
+
+We have a painfully poor record on productivity - the fourth lowest labour productivity growth in the developed world and this year labour productivity is forecast to fall by 2%. When 45% of Kiwi workers got no pay rise last year many people are working longer and harder for less.
+
+We have had the biggest increase in house price to income ratios in the world in last six years, now standing at 10 to 1 in Auckland. Average house prices in Auckland now are now above $1m and, and exponential price rises are being seen well beyond Auckland – including in Wellington. In comparison, real terms wages are due to grow by 1% in total over the next three years – according to the government’s own figures.
+
+This combination of factors means that the goal of shared prosperity is slipping further away. It is why many New Zealanders feel that they are not getting a fair share or a fair go. The impact of increasing inequality as a drain on our economy is accepted by most economists now - including noted left-wing think tanks such as the OECD and the IMF. This is not only an economic issue, it can have serious social consequences. We have seen in Britain, the US and Europe what can happen if people do not feel that they have a stake in success. As the Centre for American Progress recently noted “Democracies will falter if people do not feel that prosperity is within reach, and that effort and work is not rewarded.”
+
+2020 Forecast
+
+So when I look forward to 2020, what kind of New Zealand economy do I want to see:
+
+· Unemployment below 4%. With unemployment standing at 5.2% and nearly 140,000 Kiwis out of work, we must be able to do better. In particular, we need to significantly reduce the 90,000 15-24 year olds who are not in education, employment or training. If we are serious about the long-term welfare of New Zealand then we must get serious about addressing their issues. There is no single silver bullet to achieve this, but making it our driving economic goal is essential.
+
+· An economy generating decent jobs with higher wages through productivity increases – The OECD estimates that New Zealand’s national income is 20% below the OECD average - and that number is falling. When John Key came to office he promised that New Zealand would have wage parity with Australia – and instead the gap has grown by 50%. The key driver of this difference is labour productivity. We need a step-change in how we deal with this problem and what role the government can play in that change.
+
+· A significant increase in our export earnings as a percentage of GDP. We have to shift the dial on exports. This week’s overseas merchandise trade statistics show that our physical trade balance fell by nearly 10% over the last twelve months. The value of our exports is also dropping. We will not create the standard of living that we all desire if we rely on low wage industries and selling houses to each other.
+
+· An economy spending more than currently on education, innovation and R&D – the amount of R&D undertaken by the business sector in New Zealand is among the lowest in the OECD, reducing the capacity for innovation and the ability of firms to absorb new ideas developed elsewhere. In 2020 New Zealand needs to have built a culture of innovation and design – generating products that could only have made here - and which are less open to outsourcing. Ask the good people of Dunedin how important that is right now. All around the world we can see countries economic success that is commensurate with their investment in education. In a rapidly changing world of work this is more essential than ever.
+
+· An economy which is increasingly integrated within global value chains – We need to help build an economy where Kiwi ingenuity is used to help deliver the next generation of essential goods and services around the world. New Zealand should be a place where investors want to come, and where New Zealand is exporting more high-value added products to consumers in new and established markets.
+
+· An economy in which the persistent inequality gaps that have emerged over the past ten years been reduced. Higher quality jobs combined with high quality public investment will be essential ingredients in helping to ensure that no section of New Zealand feels increasingly left behind by economic growth. In 2020 a Labour-led government will ensure that it is the measurement of living standards and overall well-being that will be our yardstick of policy success, not just GDP numbers.
+
+· An economy that has begun to address the long term challenges that face our country. In particular ensuring that we are making provision for a decent retirement for New Zealanders, that we are reducing government debt, addressing our infrastructure challenges, particularly in housing and transport and that we are moving to be a low carbon economy. In other words in language accountants will understand looking past the profit and loss statement to creating a stronger balance sheet.
+
+In summary we need an economy that is built on a long-term, sustainable view of where our nation needs to be – rather than chasing the latest short-term opportunity. In 2020 we need to be able to say that we have built an economy that is improving the living standards and well-being of all New Zealanders, one in which we all have a stake. Not one where inequality is rising, wages are stagnant, and everyday costs of living for New Zealanders are pushing their aspirations ever further away from them.
+
+How will we get there?
+
+Looking at that agenda reminds us why we should consider a longer Parliamentary term! In all seriousness we do have to be realistic about what can be achieved in three years. Not least this is because we do not control the international environment in which we operate. Virtually every commentator caveats their predictions about the New Zealand economy with concern for global instability. We have to be aware of this - and ensure that we are prepared, but equally we cannot let our fears of what might happen prevent us from making the changes that need to be made.
+
+I want to be clear - we need to reset the New Zealand economy to be more resilient, adaptable and agile.
+
+The foundation for this will be disciplined fiscal management. We will take a prudent approach, with controlled spending, phased and targeted to meet the needs of current and future generations. We will be reviewing both fiscal and monetary policy approaches in our first term in government. In an area close to your heart I have already announced that a new Tax Working Group will be created. This is designed to look at the structural issues in our system, and will have the mandate to develop a better and more sustainable balance in the system. We have already announced that we plan to extend the government’s bright line test to five years and to ban overseas speculators from purchasing existing residential housing.
+
+We also need to shift the incentives in our tax system to the productive economy, and we will ask the working group to focus on this area.
+
+As an aside I am of the view that the Business Transformation programme at IRD, while needing careful management, does offer the opportunity for a number of significant changes to the tax system, including the expansion of flexible approaches to small business tax obligations and the abolition of secondary tax. The latter is something that is an increasingly important issue for those in precarious employment, needing two or three jobs to make ends meet. We will also be looking to further measures to crack down on multinational tax avoidance – building on the measures likely to be announced by the Revenue Minister today. The BEPS work at the OECD is no doubt the best vehicle for making change, but that is not an excuse for New Zealand to sit back and wait. It is actually essential that we show New Zealanders that everyone is paying their fair share if they are to have confidence in our tax system.
+
+On monetary policy, I have already signalled that I believe our 28 year old regime is in need of updating. All around the world traditional approaches to monetary policy are creaking under the strain of a slow and uneven recovery from the global financial crisis. My view is that we need to broaden the objectives of the Reserve Bank to look at the employment outcomes and the overall well-being of New Zealanders. Controlling inflation is essential and New Zealand has seen what can go wrong when we fail to do that. But having that as the only focus of our central bank risks distorting the economy and failing to deliver on the core objectives of decent work and higher wages. We also need to consider other changes such as whether the single decision maker model is still appropriate. I will be giving a more detailed speech on these issues in the coming months.
+
+Beyond these structural issues there are some different policy approaches that we need to take. An aggressive and targeted approach to improving trade opportunities is essential. We must also turn the shambles that has become of the TPPA into our advantage. We need to rebuild a social mandate in New Zealand for our trade policy that has been damaged by the government’s high handed approach to the TPPA. It is my strong belief that we can find a bipartisan approach to trade again, if we focus on supporting our exporters and service providers through high-quality agreements. This will be a core economic priority of the next Labour government.
+
+Our Future of Work Commission last year focused on the rapid pace of technological change and globalisation, and the need for New Zealand to plan now to ensure that there is a decent work and quality of life in the coming decades.
+
+We identified a particular to focus on building wealth from the ground up in New Zealand. This means investing in our regions. Andrew Little has recently announced two initiatives - a Centre of Digital Excellence in Dunedin, and a new wood processing plant in Gisborne. These are practical examples of how a Labour government will act as a partner in developing decent work opportunities right across New Zealand. We are going to back new and added value approaches. We are going to change our procurement rules to ensure that New Zealand firms get a fair shot at work that matters. We are going to support our small and medium enterprises to get the capital, skills and innovations that they need to grow. The era of trickledown economics is over- it is economically and politically redundant. We are in the position now to develop the new paradigm - shared or inclusive prosperity. This has government as an active partner to business and workers – using new technology, the ever globalizing world, and our innovative mind set to give everyone a stake in prosperity.
+
+We also need to make the investment in the building blocks of security and opportunity for New Zealanders. There is massive pressure on infrastructure right across New Zealand, and especially in Auckland. We need to be innovative and work in partnership with local authorities to ensure the housing, transport and basic horizontal infrastructure that is needed to support future generations is available. Fixing the housing crisis must be the number one priority of the next government. We have a comprehensive plan to do this, ranging from our Kiwibuild programme to build 100,000 houses over the next ten years to significant investments in social and emergency housing.
+
+A similar long term approach is required to ensure we are giving New Zealanders the skills and training to take the opportunities and meet the challenges of a rapidly changing workforce. Over the next 10-15 years nearly 900,000 jobs could be affected by increasing automation, with both white and blue collar jobs and livelihoods affected. Without wanting to cause a stampede for the exit, one estimate by Oxford University and Deliotte suggests that 95% of Accounting and Tax Advisors jobs will be affected by automation over the next 10 to fifteen years. Over two years, the Future of Work Commission heard from New Zealanders throughout the country about how we address that change. The key take away from that exercise is that we must start work now, to give New Zealanders the skills and the training to be adaptable and resilient. This is why we have proposed a suite of policies focused on training and re-training, such as three years free post-secondary school training and education.
+
+It is also why we are going to set the goal of having every young New Zealanders earning or learning. Having more young people than the entire population of where we are now - New Plymouth - not in education, employment or training is a huge waste of potential and real risk to our future. We have a range of programmes including revamping and revitalizing Career Guidance and our Ready to Work and Dole for Apprenticeship schemes designed to tailor appropriate pathways for each student. We owe the next generation nothing less.
+
+To Conclude
+
+There are of course many more things that we will need to have got under way, and today I have just offered a flavour of what can and will be looking at in three years’ time if we have the responsibility and honour to be leading a government.
+
+Despite the challenges ahead, I remain very optimistic about New Zealand. We are blessed with superb natural resources and the inventiveness and imagination of our people. If we make the right policy choices I strongly believe we can create a future of shared prosperity for generations to come.
+
+I look forward to working with you all to help deliver that future, and I wish you all the best for your conference.
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

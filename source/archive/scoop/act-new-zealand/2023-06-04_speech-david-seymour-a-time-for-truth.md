@@ -1,0 +1,398 @@
+---
+slug: speech-david-seymour-a-time-for-truth
+title: "Speech: David Seymour, A Time For Truth"
+date: 2023-06-04
+source-url: https://www.scoop.co.nz/stories/PO2306/S00028/speech-david-seymour-a-time-for-truth.htm
+author: act-new-zealand
+---
+Speech: David Seymour, A Time For Truth
+=======================================
+
+**Sunday, 4 June 2023, 4:11 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Real Change Now, SkyCity Theatre, 4 June 2023
+
+_Introduction_
+
+Thank you, and what a show!
+
+Is it too late to call it ‘ACT’s got talent?’
+
+It’s just as well, ACT’s talent is as real as the problems New Zealand faces.
+
+Simon Court is a civil engineer. When he talks about being smart green… he’s someone who’s done waste management, and I don’t just mean mulching Chlöe Swarbrick’s word salads. He’s actually worked to clean up the environment in his jobs in waste management and infrastructure.
+
+Parmjeet Parmar is a scientist and businesswomen. When she talks about productivity, she’s built a successful manufacturing business… And she understands just how seriously red tape and over-regulation holds back innovation.
+
+Andrew and Mark are farmers who milk cows… If that sounds obvious wait until you hear about the other farmers in Parliament. They are the only credible rural New Zealanders in politics today.
+
+When Karen talks about how this Government is dividing New Zealand… She speaks as a woman that Labour wants to receive different healthcare from her husband… Because she’s part Māori and he’s Cambodian.
+
+Now you can see where this is going…. No, Nicole has no real-world experience of being a criminal. But she does understand what lawlessness means for children growing up in this country. She is someone I’d trust to deal to the crooks… And never back down.  
+Real people… With real answers to the challenges we face…
+
+Now, that is what Real Change looks like.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Brooke gives me hope, and not just for the long-suffering Electorate of Tamaki. The Herald ranked our youngest MP number one ahead of all MPs who entered Parliament in 2020. She gives me hope that our party and our values will have a long future. She represents another generation realising that you can’t fix the climate… mental health… or housing with kindness alone. An economics degree helps. She represents the very best of the classic, Kiwi values that built this country… In a thoroughly modern setting.
+
+I believe she will be the next MP for Tamaki.  
+Her success won’t just be a change for the better for 70,000 or so people in that electorate who deserve better representation…. It will be a change for the better for all New Zealand. It will show that you can be in favour of less tax… and less red tape… While extending that freedom to body and mind.
+
+It will show that the big problems faced by Kiwis under thirty in the environment… the housing market, mental health and economic survival are better solved on the foundations of free enterprise, rather than state control.
+
+Let’s hear it for the next MP for Tamaki!
+
+I could go through all our candidates and especially our caucus… They’ve performed two miracles.
+
+The first was they got elected against all odds, and every political commentator’s prediction. The second was the way they decided to make it work.
+
+Actually, not just make it work… But excel as the tightest, most focused team in Parliament.  
+Not a hint of scandal… And not a ‘cry baby’ in sight.
+
+They are all stars… And we should thank them all.
+
+They couldn’t do it without our staff. We are lucky that talented people from all over the country come to work for ACT. We couldn’t do it without them… and they deserve our thanks as well.
+
+Behind them are thousands and thousands of Kiwis who’ve joined our movement. You are members of ACT. You are volunteers. You are donors. You are the life-blood of the change this country needs to see.
+
+13,370 Kiwis have made a financial contribution to ACT in the last three years. That’s more people giving ACT their money than gave us their Party Vote in 2017. Over the past six years, we have been the fastest growing political movement in New Zealand… And it’s not even close.
+
+Back then a full Sky City Theatre supporting ACT was but a dream. So, today I want to thank each and every one of you here who’s making that dream a reality… for all of us and the values that get us out of bed each morning. For me personally, it is genuinely humbling to think of the trust you place in us… And I never forget how precious an asset that is. So thank you.
+
+_The State of Our Nation_
+
+There’s a theme running through the state of our nation and our rally today. Politics is becoming more real. What used to be perhaps media-confected crises… Are affecting real people… More and more every day.
+
+Inflation isn’t an economic concept... It’s making ends meet. Recently I asked a group of 12-year-old school kids what they’d do if they were king or queen for a day. Usually, they’d say ‘save the dolphins,’ or ‘make you go on Dancing with the Stars again.’
+
+Not now.
+
+Three at once said ‘make food cheaper.’ ‘Is that what your parents are talking about?’ I asked?
+
+‘Yep.’ ‘What else could you do if you were all powerful and ruled New Zealand?’ ‘Make petrol cheaper.’
+
+From the mouths of babes. Kiwi Mums and Dads are proud… they work hard. They don’t complain. They value dignity. They won’t put it as plainly as kids will… but the pain is there.
+
+Did I mention this happened in Remuera? People are struggling to make ends meet in the wealthiest parts country. They’re proud people… And they’re angry they’ve done everything right… but are being forced to make impossible choices every day.
+
+At the centre of the cost-of-living crisis is most people’s largest expense, housing. The data show that the poorest New Zealanders are spending more of their income than ever on housing.
+
+Where once housing costs were a quarter of household costs… now they are closer to HALF… And more and more households fit into this ‘poor’ category. Labour haven’t fixed the housing crisis… They’ve just made a motel crisis as well.
+
+How is it possible that such a vast, open country has SUCH a shortage of habitat for its people? It takes a special kind of Government incompetence to screw up this bad, but there sure ain’t a Government incompetence shortage… Just a housing shortage.
+
+Then our Government spends $18 million of borrowed money on ads to tell us we could save money by taking shorter showers. Well, that’s not the only idea that needs a short, sharp, cold one.
+
+Crime isn’t a section of the newspaper anymore; it’s choosing which parts of our cities you wouldn’t walk in after dark.
+
+Who could have imagined that it wouldn’t be safe to sell jewellery in Takapuna… Even two years ago? That’s now the reality.
+
+Michael Hill Jeweller has had to shut in that leafy suburb because they’ve been attacked so many times that nobody wants to work there… And who would blame them? Who is standing up for them?
+
+There are people who contribute day in day out to our communities. Dairy and convenience store owners work long hours for little pay. Often their family lives on site. They wonder which store will be robbed next… Will it be theirs? What weapons will the attackers use…? What will happen if they escalate and fight back…? Will anyone come to help…? Does anybody in authority care about them at all…?
+
+Many of them feel the answer is no, so they fortify their stores with cages like they’re living in Harlem… Even though they’re in Hamilton. The country they love is being run by a government that has let them down.
+
+It's young professionals who take an Uber 600m up Queen Street because they don’t feel safe after dark. It’s big guys who look like they have nothing to fear but are scared to walk after dark in New Zealand’s cities.
+
+All of us wonder, how did this happen in the country that’s supposed to be ‘a nice place to bring up kids?
+
+Co-Governance isn’t an ‘academic concept,’ it’s dividing Kiwis in everyday life. Karen laid the reality bare at a household level. No Government has ever asked us ‘would it be better if everyone was divided into two races?’
+
+It’s just happened. In who gets what healthcare…. In who governs Three Waters. In who gets consulted… and who you HAVE to consult… under the RMA.
+
+In what your kids learn and how their school must be run. In the legal profession. Lawyers are supposed to be loyal to the Treaty of Waitangi as well as their client.
+
+On councils there are seats reserved. Even real estate agents apparently need to be reeducated in te ao Māori.
+
+The vast majority of New Zealand never consented to being divided… because the majority never would.
+
+Now people feel a real pain and anguish that the Māori language and culture is not a taonga, a treasure, a thing of beauty.
+
+It has been weaponized as a tool the minority forces on the majority in every forum… no matter how impractical… Just to prove their political point.
+
+They never asked. Nobody would agree if they did. It won’t take us anywhere good, and it must end. Now.
+
+The health system isn’t collapsing... It has collapsed for people who miss out on the most basic care. This week I heard from a woman whose broken bones were put in plaster without being reset…. There was no doctor on hand to do the job… So they just plastered her up as best they could. Surely, these can’t be the standards we set for ourselves, and our kids? That lady deserves SO much better… YOU deserve better.
+
+Truancy isn’t a bit of fun for bored kids… It is the biggest long-term danger to New Zealand as a first world country.
+
+There are 100,000 kids now not regularly attending school. And the government is LETTING it happen.
+
+No first world country that fails to pass on its knowledge to the next generation can remain a first world country… but there are even bigger problems.
+
+Those kids are enrolled, but they aren’t regularly attending. A much worse problem is this: nearly 10,000 school-aged kids who are not even enrolled at a school. If the schools don’t enrol them… The gangs certainly will.
+
+That is the state of our nation, and that is why ordinary Kiwis say it is going in the wrong direction… by a ratio of two-to-one. It is not enough to simply change the logo of the party at the top… We need to go in a whole, new direction.
+
+_How New Zealand got this way_
+
+Here’s the thing, though. In politics and in life, there are always soft options. Options that are as easy as they are wrong.
+
+One soft option is to just blame it all on Labour. If only we could get rid of this Government… our long-term problems would be fixed.
+
+Every day I hear from people who say ‘if this Government gets back in, I’m moving to Australia.’
+
+That’s not surprising, things are bad. But when did these problems start?
+
+Yes, Labour have wasted billions…delivered little… and made life more expensive and tedious through their addiction to red tape and regulation.
+
+But the cost-of-living crisis is really a productivity crisis. Kiwis work hard, in fact we’re some of the hardest workers in the world. Successive Governments failed to create the policy environment for the investment… innovation… or skill to deliver a first world lifestyle.
+
+That’s one reason New Zealand has a current account deficit. For every eleven dollars a Kiwi spent last year, one was borrowed overseas.
+
+This problem didn’t start with Labour. They made it worse, but the truth is that productivity has been a problem for more than five years.
+
+When John Key was elected, the median wage in Australia was $11,000 higher…. When Jacinda Ardern was elected it was 17,000 higher… now the gap is over $23,000.
+
+Labour say they’ll keep doing what we’ve always done…. National say the same, except tax brackets might be adjusted for inflation… Or not, depending on which day of the week it is.
+
+Only ACT has produced a fully costed, alternative budget. We say it should be a priority to cut taxes. And we can afford to cut taxes by cutting wasteful spending.
+
+We say Government should be zero-based. Every year Government should ask… if this activity or department didn’t exist today, could we justify starting it up? If not, it should stop.
+
+That’s different from just carrying on managing the decline of a great nation, and it’s ACT that’s putting real change on the agenda.
+
+Then we’d build more houses. Wait, ACT wouldn’t. We would enable YOU to do it. And by you I mean the Councils who need to build infrastructure, with whom we’d share the GST revenue that the IRD collects on residential construction -we’d leave it in the community where that new house needs to be connected.
+
+We’d replace the Resource Management Act. Our Party has done the leg work to comprehensively overhaul resource management law based on property rights… It’s ready to go in our paper ‘Building and Conserving Nature’
+
+Then we’d boost innovation by saying you can bring in cheaper and more innovative building material and techniques without a council inspection … If and ONLY if you can guarantee the workmanship with your own insurance.
+
+That’s the kind of real change needed to get more homes built for the next generation… Before they take out their frustration by either leaving the country or, perhaps more damagingly… staying and voting Green.
+
+It’s true that crime is much worse now than five years ago, but New Zealand’s descent into lawlessness didn’t start in 2017. As the Herald recently reported… Police action, prosecutions, and convictions started falling sharply not in 2017… but in 2009.
+
+We are all bracing ourselves for the Labour/National show about who is toughest on crime… However, it is only ACT that has produced a plan to increase prison capacity… transfer youth justice from Oranga Tamariki to Corrections… And end the futile game of tag and release where criminals know nobody can touch them.
+
+It is true Labour have divided New Zealand. As Karen said, people are asked to pick a side between tangata whenua and tangata tiriti, without any middle ground.
+
+Yes, Labour have accelerated the drift towards separatism with their constant insertion of race-based policy into everything from three waters governance… to resource management. But the journey to where we are today began 48 years ago with the Treaty of Waitangi Act, saying there were Principles of the Treaty. National have been in Government for 27 of those 48 years. To paraphrase a great New Zealander, it didn’t happen overnight.
+
+Today Labour is promising to keep going… while National might or might not revert to English-only road signs.
+
+Once again, it is ACT that has done the groundwork in opposition. Our paper ‘Democracy or Co-Government’ sets out how we’d champion a modern… multi-ethnic… liberal democratic society.
+
+ACT would take Treaty references out of legislation.
+
+ACT would define the principles of the Treaty openly and democratically, not quietly in the background without you being asked.
+
+ACT would tell the public service that treating people differently based on race is lazy and divisive… We must tool it up to serve people based on NEED.
+
+Healthcare is in a state of chaos. It is true, Labour’s insane idea to blow up the healthcare system in the middle of a pandemic hasn’t helped a single patient.
+
+It is true, their ideological hatred of ANY private provision has made the system less efficient.
+
+Their insistence on merging the DHBs and dividing the new system in two hasn’t helped either.
+
+But the truth is healthcare already had its problems. The DHBs were broke… Kiwis got far fewer funded medicines than Aussies or Brits… And the system was held together by the goodwill of health professionals long before Labour started making it worse.
+
+Now Labour plan to keep going down the same track, while National will see which way the wind is blowing… And probably do the same thing, too.
+
+Again, it is only ACT that is promising real change.
+
+ACT would make Pharmac consider the cost to the taxpayer of NOT funding a drug, if it means fewer people working, more people on benefits, and more operations.
+
+ACT would take the Mental Health Budget and put it with the Mental Health Commission. Reformed as Mental Health and Addictions New Zealand… one agency would have the sole job of evaluating what works… And making the mental health dollar go as far as possible. Unlike the current system, it would give Gumboot Friday a chance.
+
+ACT would stop the war on anything private, fund GP clinics properly, use private surgeries where they’re more efficient, and use public private partnerships to get facilities built, because nobody believes the Government is good at building and maintaining hospitals.
+
+In education the situation is arguably worse. Nothing Labour has done has helped… That is true. But we need to remember the trouble didn’t start in 2017… Kiwi kids have been falling down the league tables all century. Attendance started dropping in 2013… Labour have just accelerated the trend… Yes, even when the schools are open.
+
+The NCEA was the brainchild of National Education Minister Lockwood smith. Modern Learning Environments, you know, the big barns with three teachers, 100 kids, and lots of bean bags, were the only option for school property under Hekia Parata.
+
+Now Labour wants to carry on the decline. Schools and parents alike face no consequences when kids don’t attend. If they do show up… They’ll find academic knowledge has been stripped out of the NCEA… So much so that elite schools are refusing to teach it. National’s plan amounts to telling schools to ‘do a bit better’.
+
+_Real change again falls to ACT_
+
+It is ACT that gave disadvantaged kids the chance to fulfil all that untapped potential with charter schools. In the charter model is the answer for ALL education: Demand high standards… Then trust principals and teachers as professionals able to achieve them. Reward excellence… Do not tolerate failure, when it comes to the raising of our children.
+
+It is ACT that is now the party of genuinely equal opportunity.
+
+As a matter of principle… EVERY kid, whether rich or poor… town or country… Boy or girl… Of whatever race or background… Should have a place in their community they can go, where a knowledgeable adult will teach them the valuable knowledge they need to thrive.
+
+The Government’s not providing that now, but the next one must.
+
+Without the ladders of opportunity that come from being exposed to the best academic knowledge in the world…. poor kids stay poor… and for too many their best prospect is becoming a gang prospect. A vote for ACT is a vote to end all that in October.
+
+In every area that troubles New Zealand… The pattern is the same. The problem is decades in the making. Labour is promising to make it worse faster…. National are promising not to rock the boat or scare the horses. Only ACT is promising real change… And real solutions.
+
+The solution is simple, do we want to be one of two first world nations in the South Pacific… Or to be a factory supplying our best young talent to go on a one-way conveyor belt to Australia? Only ACT is putting that, very real, choice on the table for all New Zealand.
+
+_Cutting the red tape that’s killing our nation_
+
+The reality is that the Government of New Zealand badly needs to go on a diet. ANY new administration will need to cut wasteful spending so it can cut taxes and the Reserve Bank can cut interest rates…. Of that much we can be sure. But there is another area that troubles New Zealanders… and it troubles New Zealanders in every area of life.
+
+Call it red tape, call it regulation… Call it the Nanny State… call it what you will, but Government is adding unnecessary costs to everything we do.
+
+Most of New Zealand's problems - a lack of affordable housing, cost of living pressures, and inferior healthcare among them - can be traced to poor productivity. Poor productivity, in turn, can be traced to large amounts of time being spent on compliance activity, in comparison to productive activity.
+
+The problem can be seen in nearly every sector. Construction is an obvious example… With everything from roads to houses caught up in red tape.
+
+Yet sectors as diverse as banking and finance… Early childhood education… Farming… and biotechnology complain that regulatory compliance is what holds them back from being more productive.
+
+Bad regulation makes us all poorer in three ways. They range from the obvious 'seen' costs to the less obvious 'unseen' ones.
+
+The first is the most obvious…. Activities that do go ahead are more expensive than they need to be. For example… Public utilities are forced to spend tens of millions on traffic management plans… The cost of which is paid by their customers.
+
+The second is more subtle. Activities that might have gone ahead get shut down, once regulatory costs are factored in. For example…. a subdivision that might have provided new and more affordable homes is contemplated… but then not carried out due to the costs involved in getting consents. This is how the dead hand of a bloated, bureaucratic state stifles the ingenuity of the ‘can do’ Kiwi spirit.
+
+The third is subtler still and the most pernicious. When people who try face large regulatory costs… people stop trying. The No. 8 wire culture that many New Zealanders like to think our country was built on gradually erodes as people find it more attractive to do less.
+
+Despite these large costs of over-regulation, there is little serious attempt to deal with how government legislates and over-regulates. In comparison with the safeguards around government taxing and spending… Regulatory Impact Analysis is rarely done well by government departments, and MPs and media pay little attention to RIA. They just slap another stack of forms and requirements on you… And move on.
+
+Even if regulatory impact analysis was done well, we’re still held back by the piles of red tape past Governments have made. That needs to change.
+
+That’s why ACT is announcing a new initiative. It shows how ACT in Government would make Kiwis’ lives better. And by better… I mean more affordable…. By better, I mean more homes. By better, I mean more interesting and productive jobs in thriving industries. By better, I mean rekindling the No. 8 wire spirit this country was literally built on. By better, I mean making New Zealand a country where people say ‘yes’… At least as often as they say ‘no.’
+
+ACT in Government would draw a line in the sand. We would insist on the Regulatory Standards Act being passed, and not vote for laws that fail three, simple tests.
+
+The first test is whether there’s a problem to be solved. So often regulation is just populism, as the oil and gas industry found out when it was banned from even looking for gas, although I guess that was good news for Indonesian coal miners.
+
+The second test is whether the benefits of the law outweigh the costs. Consider traffic management plans. Like many of you, I suspect traffic management plans have cost more lives than they’ve saved. More than anything New Zealand needs safer, better maintained roads… But upgrading them costs too much. One reason is Auckland Council ALONE spends $145 million per year on temporary traffic management plans.
+
+The third test is whether the costs and benefits of a law are shared fairly. For instance…. Was it really fair for the Credit Contracts and Consumer Finance Act reforms to cost banks and their customers millions of dollars because a few people are being ripped off?
+
+Applying these tests will need someone committed to doing the work. There are already people in MBIE and the Treasury who theoretically keep watch on regulations, but you wouldn’t know it. Those departments have responsible Ministers, but they probably don’t know they’re responsible for regulatory quality.
+
+That’s why ACT would demand those staff be redeployed into a Ministry for Regulation with a new Minister. Their sole responsibility would be to police the rules and regulations Ministers are constantly foisting on unsuspecting Kiwis just trying to get ahead. Rather than the constant badgering and bludgeoning Kiwis get at the moment… It would be this Minister’s SOLE job expressly to ease the blockages and smooth the pathways to dynamism and drive.
+
+If these tests were applied… Half the laws this Government has passed would be left on the cutting room floor… And that brings us to the piles of red tape and regulation we already have.
+
+The new Minister would carry out rolling red tape cutting… sector by sector. Every sector is RIPE for red tape cutting. Farming and finance, early childhood education and traffic management… Construction and biotechnology.
+
+The Minster of Regulation would ask the real people… NOT their political advisors… Those who work in the sector, those affected by the rules and regulation what is getting in their way. They would test the rules against the Regulatory Standards Act and make a list of rules to axe.
+
+They’d present that list to the Minister responsible for, say, Primary Industries, and challenge them to justify the rules the people want gone.
+
+The Minister would then introduce a bill to Parliament that axes the bad laws.
+
+Bad laws on the property Government haven’t taxed off you are doing as much damage to your prosperity as the taxes themselves. That’s why the Government should have a Minister responsible for red tape on a par with the minister for taxing and spending.
+
+The others like to start by thinking of how they can spend the money you earn… I want us to start by thinking of how we can get out of your way.
+
+This is another example of how ACT can deliver real change. Thinking outside the box, getting at the real problems that are killing New Zealand’s pioneering culture, and finding a way to work constructively in Government and fix it.
+
+It’s an example of representing the real people. The people who feel Government makes them poorer every year without asking... People who work hard but find more of their time each year is spent on compliance activity instead of productive activity. It is an example of how we’ve done the thinking to get New Zealand’s mojo back… And it is why we can truly claim to be the real voice of hard-working Kiwis everywhere.
+
+I’d like to end with an appeal to all the people who say they’ve thought about leaving this country.
+
+_Never give up on New Zealand_
+
+Yes, the problems are large. Yes, they have been built up over a long time…. But they are also possible to solve. ACT has the ideas needed to do so, what we need is the political opportunity. Kiwis have always shown that, no matter the scale of the challenge, we can meet it.
+
+We can again build a country united behind good ideas. As a great American president once had it, ‘there really isn’t any such thing as “left” or “right”’… There is just forward, or back.  
+And we are promising to go forward taking the best of what brought people to these islands from all walks of life.
+
+My first ancestors navigated here seeking a new world. They were guided by the stars… and they found here a nirvana.
+
+Since then, people have come here, often at great cost… to give their kids a better tomorrow.
+
+Whether you came to escape the class system of England, the Apartheid of South Africa, the one-party state of China, the oppression of Iran, or the poverty of the Pacific, you have that one thing in common with every other Kiwi.
+
+You or your ancestors came here for a better tomorrow, and that tells us something about New Zealand’s true heart and soul.
+
+Nobody came here to see their hard-earned income frittered away.
+
+Nobody came here to see their taxes spent on making them jump through more bureaucratic hoops -that’s just adding insult to injury.
+
+Nobody came here to see policies of discrimination they escaped rebuilt as if they’re some sort of clever new invention.
+
+No. People came here for opportunity, and most importantly equal opportunity. They came because they were dynamic… self-starters… Courageous and hard-working.
+
+We’re united by the fact we all travelled further than any other humans in history to find that equal opportunity.
+
+We are a nation of pioneers who believe our efforts in life should make a difference.
+
+That’s why we want less tax… To keep more of the money we make and improve ALL our lives. It isn’t a question of ‘ideology’… Rather the basic trust that YOU will make better decisions about your life than somebody sitting at a desk in Wellington.
+
+That’s why we want less red tape and regulation… So we can take more opportunities… Be rewarded for taking them… And build a culture of ‘yes’… Not a country of ‘no.’
+
+That’s why we want a housing market that produces more homes at a price we can afford, so your forever home… is a home you own.
+
+That’s why we want every child at school being taught valuable academic knowledge… so the next generation can build high tech firms that compete with the world… To pay for the best healthcare living standards in the South Pacific.
+
+That’s why we want to be treated equally regardless of race, gender, or sexuality, because what you do with your time on earth should matter, not your superficial characteristics.
+
+A modern, multi-ethnic, liberal-democratic nation of pioneering people. That is New Zealand’s true DNA, and ACT’s job is to make sure the next Government delivers the policies to make it possible.
+
+And there’s no reason we can’t make this dream a reality… Just like this event is a dream that’s become reality.
+
+Our polling is good now. In fact… All the signs are the best is yet to come.
+
+All the signs are, we could well DOUBLE our vote share of the last election. And before anyone writes us off… Remember that this time in 2020, we were at three per cent… Hitting 7.6 on election night.
+
+And the reason is simple: YOU.
+
+The polls will tighten. The Media are already reverting to the tired trope of a two-horse race.
+
+I can tell you now, they won’t put ACT in the big TV debates, because after 27 years of MMP… they still think in First Past the Post.
+
+That’s where you come in.
+
+Our campaign will again be a campaign of real people demanding real change, and real solutions.
+
+If you’re in Epsom or Tamaki, help elect me and Brooke with your Candidate Vote.
+
+Wherever you live, please give ACT your Party Vote. And don’t be shy about asking your friends to do the same.
+
+I know some people are nervous… It’s essential to change the Government, and won’t giving ACT your Party Vote take it away from National?
+
+The answer is yes, but they won’t notice, they’re barely using it.
+
+More seriously, you’re not taking a vote away from the Centre Right. You’re still voting to change. It’s all going into the same pot, but by giving your Party Vote to ACT, you are dialling up a stronger brew.
+
+If you agree with that… There is a LOT more you can do. And more than the other parties… We rely on YOU.
+
+Word of mouth is the most powerful method of political communication known to democracy. You have more power to change the Government than you may realise. By telling people you’re going to give your Party Vote to ACT, you give them permission to do the same, and tell more people themselves.
+
+But word of mouth doesn’t just mean talking face to face.
+
+Every post you share on Facebook, or Instagram, or LinkedIn…. Every supportive comment you make… Every video or graphic you forward on… ALL of it really matters.
+
+The social media companies are changing their algorithms to favour content shared by real people. SO, your impact online will be greater at this election than any other… But only if you ACTIVELY participate.
+
+So, please do like and follow our pages… And share content to your networks.
+
+It can mean putting a sign on your fence. Nothing sends a more powerful signal, giving hundreds, maybe thousands of people permission to consider ACT.
+
+It can mean going to our website and signing up to volunteer. Believe me… Politics can be a lonely, gruelling slog… Our candidates are ALL volunteers, and they love it when there are friendly faces to cheer them on. Group psychology being what it is… if you’re any good you might be able to get the whole crowd cheering.
+
+Of course, paid advertising matters. To bypass the media’s editorial decisions and the tech companies’ algorithms, we need to pay. We’ve had a good few years of fundraising… But we need to raise another million dollars before October to meet our campaign budget.
+
+It’s true, times are tough… but pulling New Zealand out of this funk must be a good investment so please… if you can give, do. We have covered our fixed costs… That means that EVERY dollar we raise from now means more money to reach more of the million plus Kiwis who we know are giving ACT a real hearing this time.
+
+Together, we can put an end to the waste… the red tape… the division… the mediocrity, and worse, the misery built up under 20 years of Labour and National.
+
+We can change the Government together… And make sure that change is real.
+
+My team and I will be giving it everything we’ve got over the next 132 days. My commitment to you is that we will leave it ALL out there.
+
+To our candidates, it is illegal to campaign on election day… so that will be your next big sleep.
+
+The last part is the most important: YOU. Real people demanding real change… and real solutions… to make it happen.
+
+Thank you.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

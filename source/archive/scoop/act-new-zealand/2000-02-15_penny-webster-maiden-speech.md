@@ -1,0 +1,110 @@
+---
+slug: penny-webster-maiden-speech
+title: "Penny Webster Maiden Speech"
+date: 2000-02-15
+source-url: https://www.scoop.co.nz/stories/PA0002/S00180/penny-webster-maiden-speech.htm
+author: act-new-zealand
+---
+Penny Webster Maiden Speech
+===========================
+
+**Tuesday, 15 February 2000, 4:52 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Tuesday 15th Feb 2000  
+Penny Webster  
+Speech -- Other
+
+This is a day that I never really thought would occur. I became involved in farming politics fighting for the rights of sharemilkers in the dairy industry before becoming the first woman president of Auckland Federated Farmers, and the first woman to hold office at a national level when I became vice chairman of the Dairy Section.
+
+During that time many people expected I would naturally progress to national politics - everyone except me that is. My former Federated Farmers colleague who became my campaign manager, Ralph Nevill, constantly insisted I would end up in Wellington. Thank you Ralph, for your confidence in me.
+
+I come to this house from a diverse and varied background. Very much the townie, who on returning from her OE secured a profession that was paid for regularly by the taxpayers, later changed to a life where income depends on the land, grass growth and the vagaries of the markets, not to mention the compliance costs heaped on us by successive bureaucracies.
+
+I want to try to bring a practical viewpoint into my time in this House.
+
+I have had a period as a solo mum, bringing up four daughters on the benefit before learning the joys of country life had a lot to offer and provided a lot to learn. Calving cows in the wet mornings, trudging home after a long day of real physical slog. The magic of the clear summer mornings or the still nights that one gets in the country. Together as a family we worked through the sharemilking system before developing a large farm milking over 650 cows.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I would suggest that not many people in this House went home at Christmas time and milked the cows. Well I am sorry to disappoint the Members of the Government who think we on this side of the House tear off on overseas holidays. This Member didn't.
+
+I learned how to juggle many different jobs. I learned a respect for rural women who so often muck in and get on with what needs to be done. I also salute the young families, the sharemilkers and others who are the innovators in today's rural New Zealand, often living with no cashflow and under enormous pressure.
+
+Throughout this time I continued teaching, moving from large city schools to small country schools - schools that are the centre of the community; schools where participation by the community creates a positive environment for the pupils - not by throwing more money at it, but by being there. These are the people who continue to make New Zealand the country of which to be proud. I want to remember that I am here to speak for those people - the rural families, the rural teachers and the women who every day juggle busy lives.
+
+I come from a family who originally left Ireland for England to find a better way. One branch of my family then went on to America where the ethic of hard work often meant the reward was great. My parents left England, at their own expense, bringing their five daughters to New Zealand in search of opportunity.
+
+The New Zealand they found after the war was energetic, spirited and enthusiastic - welcoming these newcomers who could add another dimension to this great country. My sisters and I thrived in this vibrant country of ours.
+
+I come from a large Irish Catholic heritage. A family heritage that taught me individual responsibility. I am grateful for my Catholic upbringing that grounded me in the idea that God gave us free will and choice. We alone decide the path we should take.
+
+My father and my mother instilled in us the belief that girls can do anything long before that phrase became fashionable. No one owed us a living. It was up to us to make it in our own way. I would like to pay tribute to both my parents. To my mother who encouraged me to stand for ACT, I say thank you. To my father I want to apologise. He is horrified that one of his daughters is in such a loathed profession. However Dad, it's entirely your fault for encouraging me to speak out when necessary for what I believe in.
+
+That's why I stand here today as a proud MP for ACT, whose policies are all about personal responsibility. It is only when people are responsible for themselves that they become responsible and care for others less fortunate. Personal responsibility encourages people to look for their own solutions to their problems and not to rely on the state. These are also the ideals that formed early New Zealand. They are the ideals that formed the country to which my parents brought my sisters and me.
+
+People taking their ideas and, with hard work, transforming those ideas into a businesses, creating jobs and a decent lifestyle for themselves . Without government help (or if we are honest) hindrance.
+
+Our agricultural heritage developed in the early days through those entrepreneurs who saw an opportunity and took it. Forging links in the markets that they knew at the time and providing the consumer with what they wanted. That still continues today. Some of us would say not to the extent that it could, where the industry is protected and stifled by regulation.
+
+We are told that there is resentment in this country. That this resentment stems from the rich getting richer and the poor getting poorer. Mr Speaker with respect. I must disagree. Most resentment comes from the school leaver who has found a job and works hard only to see other classmates swanning it on the government. Even against those students that are at university, highly subsidized when eventually they will be earning "decent money". The "twenty something" who is carving a career and paying off student debt while seeing others being supported by the government while doing nothing. The quadriplegic who holds down a job while able bodied people rip off ACC and the health benefit. The young working couples struggling with a mortgage and young family, watching the neighbour with her three children being paid by the state to stay in a house paid for by their taxes.
+
+The school leaver, the twenty something ,the women and men who go out there and have a go. Those who work and save to get a better life for themselves and their families. They should not feel guilty if that hard work means they live in a large house, drive a late model car and have holidays overseas. They have earned it. The elderly who have saved for the retirement and paid taxes all their lives still being taxed on those savings while others who have not even tried to save for the future again helped by the government.
+
+The Minister of Finance talks about his mother being pleased about the increase in superannuation. What happened to the society where sons and daughters (especially those earning the type of salary the Minister of Finance enjoys) helped their parents if they were in need, and did not rely on the government, or rather should I say - "the young people of the day" - to support them? Again, creating resentment.
+
+We must try to stem that resentment, to bring together a society that helps those who need it, but does not make others resent that help. Tony Blair mentioned something with which I agree. "Work for those who can; welfare for those who can't." I want New Zealand to return to that ethic. For it is the only way we will lessen the resentment.
+
+The people and what their needs are must be the guiding principle. And that does not mean interference by government. It means creating an environment where initiative thrives and people care for people. Since the depression successive New Zealand governments have created a system that has taken away from many the initiative and drive and the pioneer spirit that, made this country great. They have caused a dependency that is criminal.
+
+The Government's track record of "help" includes thousands on dependency, business stifled by compliance costs, a class society (fueled often by terms used in this House) and a general feeling of despondency and cynicism. We have created a culture that continually relies on government to make decisions. For a while it did look as if we would become independent, shrug off the parental reliance, but no it appears we are right back under the wing again.
+
+We need positive legislation, legislation that enhances quality of life in NZ.
+
+As a rural person and a mother who has been the family taxi driver for sporting events I am acutely aware of the state of many of our roads. Successive councils in my area of Rodney, for example, have grappled with the problem of improving the roading in a fast growing area where many rural roads are metal and pressure from urban sprawl gobbles up the roading dollar.
+
+Rural land owners pay a great deal of rates to our council - for what? Roads that are a danger to our families and an added cost to us in wear and tear to our vehicles.
+
+Legislation to change the criteria where someone or several people must lose their lives before a road is considered for an upgrade would send a "we care" message to rural NZ. Legislation that continued the proposed roading reforms, allowing privately built roads, toll roads and other various funding methods for roads would take a burden off rural New Zealand, further encourage tourists to remote areas and help improve the infrastructure of our cities. I hear constantly that public transport is the answer. Cars are here to stay. The car is a dependent variable, the way people and their families interact in a complex and changing world. Ask any rural mother!
+
+Positive legislation also would be to sell TVNZ. Then if the new owners want to go digital to keep up with modern technology or pay mega bucks to their announcers it would not be the worry or concern of the taxpayers. The money could be spent on education which is in the end the key to lifting the standard of living for all New Zealanders.
+
+Many New Zealanders had high hopes of MMP. Those that admit voting for it thought they would have a system that would allow the best ideas for the nation to emerge rather than one that is totally ruled by party politics. People were fed up with the antics of politicians sticking to party ideology even though they knew it was bad for the country as a whole. They became disillusioned with the first MMP parliament and hoped for a better outcome with the second.
+
+However within the first few days in this House we were witness to two ludicrous pieces of high drama, the ACC changes and the increase in taxes, both designed to prove a point rather than help current society.
+
+I want to see us close the gap between the wealthy and the poor, between Maori and Pakeha but not by cutting down the better off in society.
+
+Let us close the gap by building up skills, by making sure that no child is left behind in education, by government support that lifts the quality of parenting, by rewarding hard work, not penalizing it with higher taxes. Let us close the gap by making the poor wealthy not by making the wealthy poor.
+
+To my husband Malcolm I thank you for your support during all my political life both in the past and still to come. To my daughters, Alexandra, and my Ngati Kahungunu son in law Evaan, Charlotte, Victoria and Elizabeth you are my hope for the future.
+
+I believe that independence is a great gift. It is one of the greatest gifts you can give to your children. It is not easy as a parent to let the children go but if you don't they will never grow and prosper. Once the ground work has been done, independence allows them to learn through their mistakes, to maybe fall yet get up again; to progress without being stifled. It is not easy. As a parent it is much easier to protect, cosset, hold back.
+
+The New Zealand people were taking the first faltering steps towards independence. Independence from legislation, independence from bureaucracy ruling our lives, independence from government making our decisions. We must continue. Parliament, Government must let go, they must give the people freedom. That is what this is all about. It is time New Zealanders were let go again. Trust them!
+
+Contact Penny Webster 025302006 or Kathryn Asare 04 4706637
+
+For more information visit ACT online at http://www.act.org.nz or contact the ACT Parliamentary Office at act@parliament.govt.nz.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

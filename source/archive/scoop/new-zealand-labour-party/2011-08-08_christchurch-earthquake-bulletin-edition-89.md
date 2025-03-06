@@ -1,0 +1,51 @@
+---
+slug: christchurch-earthquake-bulletin-edition-89
+title: "Christchurch Earthquake bulletin edition 89"
+date: 2011-08-08
+source-url: https://www.scoop.co.nz/stories/PA1108/S00139/christchurch-earthquake-bulletin-edition-89.htm
+author: new-zealand-labour-party
+---
+Christchurch Earthquake bulletin edition 89
+===========================================
+
+**Monday, 8 August 2011, 1:00 pm**  
+**Column: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Christchurch Labour MPs  
+8 August 2011
+
+**Christchurch Earthquake bulletin edition 89**
+
+The Labour Party’s Christchurch electorate MPs, **Clayton Cosgrove (Waimakariri), Ruth Dyson (Port Hills), Lianne Dalziel (Christchurch East) and Brendon Burns (Christchurch Central)** have started a regular bulletin to keep people in their electorates and media informed about what is happening at grass roots level.
+
+**CLAYTON COSGROVE:** I heard great support at the weekend re the plight of Christchurch families in their campaign to get independent legal support for the Commission of Inquiry. The families can’t understand and don’t accept the Government’s explanation that their needs will be looked after by a liaison officer and the counsel assisting the Commission. They argue that if that was so, why wasn’t only this level of support provided for the Pike River families. John Key told the Christchurch families he would do all he could to support them, but the first time they have asked for anything, they have been knocked back twice. No one in the Government --- not Key, Gerry Brownlee or Attorney-General Christ Finlayson --- has provided a logical explanation of the difference between Christchurch and Pike River. Christchurch was a natural disaster in which a large number of people died. No one can explain why there is a downside to providing independent legal support. The money is there. If the Government persists in not supplying this assistance, it must at least provide an explanation in some detail. So far it hasn’t done so.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+**RUTH DYSON:** We had a fantastic time on Friday with Governor-General Anand Satyanand and Lady Susan on their sixth visit to Christchurch since the February quake. We started in Rapaki with a powhiri, including a welcome from Labour's Te Tai Tonga candidate Rino Tirikatene, and then went to Lyttelton Main School where Lyttelton West students and staff joined us and wowed the place with their waiata about talent and passion! Accompanied by Ken Maynard, we went along London Street, with so many vacant sections, and enjoyed a spontaneous presentation of a piece of Macbeth, of which there will be a full performance soon at the former Volcano site. We met with the Community Board, the Civil Defence team, St John Ambulance and the Fire Brigade team. So much talent and passion in such a small population! At the portacom Information Centre we met volunteers and the Timeball team. I know that the Governor-General and Lady Susan came here genuinely offering support and it was so appreciated by local people. I also had the privilege of "cutting the ribbon" with Ngaire Button at the opening of the new Problem Gambling Foundation office in Stanley Street. Ngaire spoke sincerely about her concerns with gambling and I think she will be a great advocate to lead the Council debate about us becoming a pokie free CBD. The Muse Community Trust hosted the Cappellago World Music Choir performance in Sumner on Saturday afternoon followed by a movie, a great community event. I joined other colleagues at the playcentre funding rally, originally intended as a protest but changed to a celebration after John Key’s rapid flip-flop on funding cuts. Well done to Playcentre and all the families who turned out. I also went to a get-together of all the Mt Pleasant/Heathcote kindy families, who are still split between three kindys waiting for a permanent home. It was a fantastic event with so many hugs of renewal --- and I got the most beautiful face painting thanks to the talented Sarah. Hope we find a proper home for our kindy soon!
+
+**LIANNE DALZIEL:** Along with other red zone property owners I have been calling in on the odd open day to see what is on offer in the east. I am not desperate to move from my house as it is liveable. But the surroundings are depressing --– so many empty homes in my patch. The roads look like a bomb site and, although welcome for their efforts, the workmen on the streets, pumping our sewers, are a constant reminder of how fragile the infrastructure remains. Not knowing whether our house is a repair or rebuild means we still don’t know what our insurer will offer us, so we have been looking at houses rather than sections. We already know that we would have to borrow to buy an equivalent section to rebuild on, given that our land component of our rating valuation is less than $90K. This is the reality that will face many of my neighbours, who have long since realised that the Government’s commitment to preserving equity was simply too ambitious. Now it has added a new component to the land offer. The Crown will offer to purchase the property at the greater of the following (less any EQC land payments already made) --- the most recent (2007) land value rating valuation, or the land settlement amount the Crown reaches with EQC under the EQC Act. I was pleased to see the latter calculation included for two reasons. First, this is an issue I have been raising for some time, because in some cases the cost of repairing the land or the market value of the land formula or minimum section size will be greater than the land component of the 2007 rating valuation. And second, because the Crown will take over the EQC land claim, the property owner effectively sells the land to the government. However, that still means for areas where there are low land values, the second valuation will make no difference to the land that hasn’t experienced as much damage. I believe a fair solution – and one that would resolve the Bexley situation for many residents who want to rebuild -– would be to offer the greater of the rating valuation or the EQC valuation for the minimum section size, which means 450 m2 in this area. This means we would know exactly what that option would be when the offer arrives. Otherwise there is a risk that we won’t know exactly how much the land offer is until repairing of the land has been fully costed.
+
+**BRENDON BURNS:** Christchurch has all but lost the battle to save our city’s heritage buildings. Unless the Government signals a determination to help, the rebuilt Christchurch will include next to nothing of what was there a century ago. The IConIC group which I brought together in March after Minister Brownlee said only four heritage sites in the CBD might survive, listed 40 heritage buildings we believed should be saved. Mr Brownlee agreed the list was reasonable. Now only a dozen of those ‘must keep’ buildings are still standing. The bulldozers are winning the battle. Even where funding is available to encourage heritage retention, it’s not enough. The gorgeous Venetian-style Guthrey Centre in Cashel Mall was a 130-year-old category 1 heritage building. An offer of $500,000 from a heritage fund was not enough to save it from demolition this week. Cashel Mall from Colombo St (Ballantynes) west will only see two or three buildings retained, none of them heritage until Oxford Tce, where owner Antony Gough’s prior strengthening work will see some Strip buildings remain. Meanwhile, reports that 26,000 people have left the city since February 22nd turn out to be incorrect. Electoral Enrolment Centre National Manager Murray Wicks has confirmed the figures were wrongly based on changes of mailing address, not changes of electorate. In fact since last September Christchurch has only 6,400 fewer enrolled voters. The earlier and erroneous figures suggested in Christchurch Central since February 22 we have lost more than 11,800 voters while 9,751 have come from other electorates. That would mean one in two people had changed! In fact we have lost around 2323 people from the electoral roll.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

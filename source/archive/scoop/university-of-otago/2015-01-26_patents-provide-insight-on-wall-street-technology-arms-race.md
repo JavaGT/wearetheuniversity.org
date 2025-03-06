@@ -1,0 +1,76 @@
+---
+slug: patents-provide-insight-on-wall-street-technology-arms-race
+title: "Patents provide insight on Wall Street technology arms race"
+date: 2015-01-26
+source-url: https://www.scoop.co.nz/stories/ED1501/S00073/patents-provide-insight-on-wall-street-technology-arms-race.htm
+author: university-of-otago
+---
+Patents provide insight on Wall Street technology arms race
+===========================================================
+
+**Monday, 26 January 2015, 11:04 am**  
+**Press Release: [University of Otago](https://info.scoop.co.nz/University_of_Otago)**
+
+26 January 2015
+
+**Patents provide insight on Wall Street ‘technology arms race’: Otago study**
+
+A new University of Otago study has used US patent data to shed light on the technological roots behind Wall Street’s ongoing ‘technology arms race’.
+
+The way financial assets are traded, and the nature of the markets themselves, has dramatically changed over the last two decades, says study co-author Dr Ivan Diaz-Rainey of the University of Otago’s Department of Accountancy and Finance.
+
+“Trading a share–once a hands-on transaction taking around two minutes–is now handled in mere nanoseconds by computers in many markets around the world,” he says.
+
+“A ‘technology arms race’ is well underway as firms vie to shave even more time off trading and maintain their competitive edge. But it’s not just about trading speed. We’re seeing technology used more when firms are first issuing securities and even the use of neural networks in portfolio selection.”
+
+A body of research already exists examining how these technological changes have impacted the efficiency of trading. However, the Otago study, recently published online in the journal _Technological Forecasting & Social Change_, is the first to use US patent data to examine which firms have led this transformation and what pattern it has taken.
+
+Using content analysis techniques, Dr Diaz-Rainey, along with co-authors Dr Michael Falta and doctoral student Stephan Essendorfer, examined patent information extracted from the United States Patent and Trademark Office database. Specifically, the researchers examined market infrastructure (MI) patents for software or hardware used in trading filed between January 1976 and December 2013.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“Established economic theory tells us that new firms will play a leading role in transforming an industry. However, traditional finance firms are powerful and commercially astute so it is reasonable to assume at least some will have responded aggressively by patenting new MI technologies themselves,” says Dr Diaz-Rainey.
+
+Analysis of the patent data confirmed that the top firms behind most of the MI patents were indeed a mix of ‘new entrant’ and ‘incumbent’ firms.
+
+“We identified software companies and smaller brokerage firms that have invested heavily in technology internally and through market acquisitions, right alongside major incumbent firms like the Chicago Mercantile Exchange and Goldman Sachs.”
+
+The researchers’ analysis revealed that the leading MI patentee is not an established firm, but a private software firm, Trading Technologies International.
+
+In terms of the pattern the MI patenting has taken, their analysis reveals that the MI revolution began in the mid-to-late 90s and has been more intense in comparison to general patent filing levels of the same time period.
+
+“This is consistent with the notion of a ‘technological arms race’,” Dr Diaz-Rainey says.
+
+Though the data used in the study was US-based, Dr Diaz-Rainey says his team’s analysis may be of interest to the New Zealand market.
+
+“Though our own market is far less technology driven, this information could help inform regulators in New Zealand considering shifting toward computerised high frequency trading in this country.”
+
+“At a basic level all markets are increasingly integrated – if the Wall Street sneezes, NZ is likely to catch a financial cold. So I guess a question is do we want to move towards this?”
+
+Dr Diaz-Rainey says the impact of these findings on the financial research sector “cannot be understated”.
+
+“Until now, we have had no way of knowing who exactly was involved in this ‘arms race’. Was it the finance firms themselves? Were there new players involved? We just didn’t know. We were in the dark.”
+
+“The patent data has allowed us to gain, for the first time, whole new insight into this aspect of the market. This paper is just the start.”
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Otago](https://info.scoop.co.nz/University_of_Otago) on InfoPages.

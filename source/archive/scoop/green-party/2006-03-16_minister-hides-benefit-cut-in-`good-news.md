@@ -1,0 +1,54 @@
+---
+slug: minister-hides-benefit-cut-in-`good-news
+title: "Minister hides benefit cut in `good news'"
+date: 2006-03-16
+source-url: https://www.scoop.co.nz/stories/PA0603/S00272/minister-hides-benefit-cut-in-good-news.htm
+author: green-party
+---
+Minister hides benefit cut in \`good news'
+==========================================
+
+**Thursday, 16 March 2006, 2:30 pm**  
+**Press Release: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+16 March 2006
+
+Minister hides benefit cut in \`good news' smokescreen
+
+A benefit cut is hidden in changes to benefits and student allowances announced this week, Greens Social Development Spokesperson Sue Bradford says.
+
+"Social Development and Employment Minister David Benson-Pope issued the changes in a statement headed \`Minister Has More Good News For April 1'.
+
+"It is not good news for desperate people needing to go on a special benefit after April 1, because the special benefit is about to be cut," Ms Bradford says.
+
+"I'm disappointed that the minister not only did not spell out the implications in his statement, but hid them with his 'good news' spin. While the special benefit is replaced by a temporary additional support (TAS) payment, this new payment has much more restrictive criteria," Ms Bradford says.
+
+Under TAS no lump sum payments are allowed, no matter how severe the hardship; a severe limit on paying expenses will be imposed; the system will be much more inflexible and restricts the ability to take account of individual circumstances; in most cases the first $20 of hardship must be met by the beneficiary and the payment will be limited, usually, to a maximum weekly payment of 30 percent of the main benefit a person receives.
+
+"I urge people in desperate living situations to apply for the special benefit as quickly as possible; ie within the next two weeks before April 1, as those already on a special benefit will have their entitlements maintained," Ms Bradford says.
+
+ENDS
+
+  
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

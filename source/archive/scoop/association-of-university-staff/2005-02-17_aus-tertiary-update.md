@@ -1,0 +1,99 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2005-02-17
+source-url: https://www.scoop.co.nz/stories/ED0502/S00061/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 17 February 2005, 12:34 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+![AUS WEB SITE](http://www.aus.ac.nz/images/AUSlogo.jpg)Wananga accused of nepotism, Minister not surprised  
+The Minister of Education, Trevor Mallard, told Parliament this week that he is not convinced the taxpayer has received good value for money from the $239 million public funding allocated to Te Wananga o Aotearoa in the last financial year.  
+The Wananga has been under a sustained attack from the ACT Party, including accusations that it has siphoned off millions of dollars into shelf companies to line the pockets of its chief executive, Rongo Wetere, and his family, and those of other senior staff members and their families. Amongst the accusations levelled in Parliament yesterday by MP Ken Shirley was that the Wananga runs a corporate fleet of 350 cars, including LTD limos, which are exclusively groomed on a non-tendered contract by a company called Gazza’s Groomers, owned and operated by the partner of the Wananga’s Corporate Services Manager.  
+The Wananga has also been accused of offering inducements to students, including flights, accommodation and apparel, in direct contravention of government policy.  
+In an email provided to Tertiary Update, an accountant appointed by the Government to the Wananga Council told the Chair that there had been a serious breakdown in financial management, that senior managers accepted no responsibility to live within budgets and that they have a culture of non-accountability and extravagance.  
+“If this was private sector client of mine,” the Council member writes, “the CEO would be history and the shareholders would have voted to replace the directors (or they would have resigned).”  
+“This is serious and must be treated as such. I have offered to go to the TWOA … to work through some of the issues. But I am not going to put my reputation more on the line unless I have an assurance that senior managers (including the CEO) will cooperate and make some real changes.”  
+Mr Mallard told Parliament that he was not very surprised at the latest allegations and would add them to a list of things that the Auditor-General is looking at. The Auditor-General is currently investigating potential conflicts of interest at the Wananga following disclosures last year that it contracted the delivery of course programmes to a company owned by the CEO’s daughter.  
+Mr Wetere has denied the recent allegations and welcomed any investigation, saying he is sure that the Wananga is above board and clean.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week . . .  
+1\. Strike action likely to disrupt Otago student orientation activities  
+2\. CPIT comes close to apology  
+3\. Colleges of education to merge with universities?  
+4\. UK unions to merge  
+5\. Millions to sell fee reforms  
+6\. Professors confront Harvard President
+
+Strike action likely to disrupt Otago student orientation activities  
+Staff at the Otago University Students’ Association (OUSA) are to embark on industrial action following the breakdown of collective employment agreement negotiations with their student employers.  
+OUSA is currently offering staff a 3.5% pay increase for the 2 years from January 2004 to January 2006, with a further cost of living increase from January 2006. The Association of University Staff (AUS), which represents staff members, says the offer fails to compensate adequately for increases in the cost of living over the period, let alone recognise the significantly increased workloads faced by staff.  
+The AUS is claiming a 3.5% pay increase from January 2004, with a further 3.2% from January 2005.  
+“OUSA staff are being asked to accept another two years of sub-inflation pay increases, after already having received an increase in 2003 which was lower than the rate of inflation,” said the AUS Otago Branch Organiser Shaun Scott. “Adding insult to injury is that the inadequate pay offer comes at a time when staff members’ workloads have grown in tandem with burgeoning student enrolments at the University.”  
+Mr Scott said union members noted that, while OUSA has been calling on the Government to ensure that student allowances keep pace with the rising cost of living, it is not prepared to apply the same principle to its own staff.  
+Mr Scott said that many OUSA staff themselves are repaying student loans, as well as facing increasing mortgages, childcare and other living expenses.  
+AUS members believe that if OUSA is genuinely concerned about the rising cost of living and the effects of the student loan scheme, it should set an example by treating its own employees fairly. “They should practice what they preach,” said Mr Scott.  
+The parties attended mediation last Thursday in an attempt to avert strike action during Orientation, which is the Association’s busiest time of the year. Mr Scott said while some mediation discussions had been positive, not enough had changed to avert the planned industrial action by union members. Provision of OUSA services for Summer School students may also be affected.  
+A programme of industrial action, including striking, begins next week.
+
+CPIT comes close to apology  
+The beleaguered head of the Christchurch Polytechnic Institute of Technology (CPIT), John Scott, has come close to an apology over the Cool IT debacle. In an open letter to the people of Christchurch, Mr Scott wrote: “We know that our involvement last year in the Cool e-learning programme has disappointed you and our community. I am sorry this has happened, and I want to assure you that we have listened to your concerns, and that we have acted on them.”  
+The statement comes after repeated calls for Mr Scott’s resignation from the National Party spokesman on education, Bill English, and damning criticism from the then Minister of Education (Tertiary), Steve Maharey. Mr Maharey, in a letter to the Chair of CPIT’s Council, effectively said that Mr Scott had failed to meet the expected standards of judgement and decision-making expected of senior executives leading public education institutions.  
+The Press, in an editorial, described Mr Scott as having spent months doggedly defending the indefensible, adding that the CPIT had not been well served by the expenditure of vast amounts of Board and management time in resisting the obvious, rather than facing up to it.  
+In his open letter, Mr Scott continued: “At CPIT, we believe it is very important to ensure that nothing like this happens again with our e-learning programmes to affect our proud reputation as an excellent learning provider. . . . In response to \[an internal review\], CPIT is immediately adopting a set of e-learning procedures, with CPIT’s performance being audited by the independent academic auditor.  
+The Christchurch Polytechnic Students’ Association President (CPSA), Davitt Joslen, has called for the “continuous media attention” over the Cool IT issue to stop, saying it appears to be a witch hunt by The Press, “directed by a despondent former opposition leader \[Bill English\].”  
+“This unwarranted and untruthful attack has to stop,” said Mr Joslen. “The CPSA believes that CPIT has acted in a responsible, fair and appropriate way in relation to the Cool issue.”  
+Meanwhile, the CPIT has said that it will repay $3.47 million of public funding to the Tertiary Education Commission over the next three years as a result of the Cool It problems.
+
+Colleges of education to merge with universities?  
+The two remaining stand-alone colleges of education, at Otago and Canterbury, appear poised to merge with their local universities following the mergers of the Wellington and Auckland colleges with their respective universities last year.  
+The Christchurch College of Education Principal, Graham Stoop, is reported saying that its continued independence is unsustainable and he sees benefits in a university’s capacity for research and professional development. According to The Press, the College Council has put forward a proposal to seek a merger, with the University of Canterbury named as the preferred partner.  
+Similarly, the Principal of the Dunedin College, Roger Green, told The Otago Daily Times that the writing was on the wall for the College, and his Council would consider the institution’s future at its next meeting later this month. Dr Green said there was considerable goodwill among College and University of Otago staff, and in Dunedin generally, for change.  
+The University of Canterbury Vice-Chancellor, Professor Roy Sharp, said that the Canterbury merger would only be approved only if it benefited the University. This is not expected to be a problem, however, as the two institutions had been working closely at both academic and services levels for the past few years.  
+If approved, the merger could take effect from the beginning of 2006.  
+In another move, it has been reported that Massey University’s College of Education is accepting fewer primary school teaching students this year, saying that it wants to improve the standard of its graduates. It has reduced its first-year intake from 244 last year to 121 this year.
+
+Worldwatch  
+UK unions to merge  
+Amalgamation talks being held between the Association of University Teachers (AUT) and the National Association of Teachers in Further and Higher Education (NATFHE) in the United Kingdom to form a single union in the tertiary education sector have moved up a gear following further discussions between the organisations. Agreement has been reached on the key principles, including the industrial strategy, which will drive the new union.  
+The General Secretaries of AUT and NATFHE, Sally Hunt and Paul Mackney, said sufficient progress had been made for a positive recommendation on amalgamation to be made to their respective governing bodies by May. If endorsed, a full membership ballot on the proposed amalgamation would be held later in the year.
+
+Millions to sell fee reforms  
+The Australian Government will spend $A3 million to promote the new reforms to lift student fees and introduce a new fees-help loan scheme, according to The Australian. $A1.4 million of that will be spent on advertising alone. Figures provided to the Senate by the Department of Education show that around $A150,000 will be spent on market research, $A400,000 on designing the advertisements, $A750,000 on printing posters and brochures and providing information to careers advisers and teachers and almost $A1 million on a new website.  
+Opposition education spokesperson Jenny Macklin said it was outrageous that the Howard Government has spent $A3 million on propaganda for its \[fees\] hike.
+
+Professors confront Harvard President  
+Some of the most influential professors at Harvard have confronted its President, Lawrence Summers, saying that they are dissatisfied with his leadership, and that it is damaging the institution. He was told that many faculty members were dismayed, alienated and demoralised, and that there was a crisis concerning his style of leadership and governance, according to The New York Times.  
+The comments came at the first full meeting of the Faculty of Arts and Sciences for the year, where it was reported that speakers criticised Dr Summers for an autocratic management style “that stifled the open debate that is at the core of the University’s values.”  
+The meeting ended with a unanimous vote to hold an emergency meeting of the Faculty next week so that professors could continue discussing their lack of confidence in Dr Summer’s leadership.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

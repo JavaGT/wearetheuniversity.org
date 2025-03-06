@@ -1,0 +1,66 @@
+---
+slug: working-together-to-improve-risk-assessment
+title: "Working together to improve risk assessment"
+date: 2017-04-24
+source-url: https://www.scoop.co.nz/stories/PO1704/S00262/working-together-to-improve-risk-assessment.htm
+author: university-of-canterbury
+---
+Working together to improve risk assessment
+===========================================
+
+**Monday, 24 April 2017, 4:25 pm**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+Harmful sexual behaviour - working together to improve risk assessment
+
+University of Canterbury (UC) research is paving the way towards improved accuracy in risk assessment and better informed treatment approaches to ultimately contribute to reducing harmful sexual behaviour in the community.
+
+Dr Sarah Christofferson, UC Lecturer in Clinical Psychology, is working with three community agencies involved with treating harmful sexual behaviour to validate a risk and change assessment tool.
+
+For clinicians and referrers in the criminal justice sector, being able to accurately assess risk is a vital part of managing risk. A UC-led community treatment-based study to validate a promising risk and change assessment tool could inform the development of improved risk management strategies in Aotearoa New Zealand, and ultimately a potential reduction in harmful sexual behaviour.
+
+Called the Violence Risk Scale: Sexual Offender Version (VRS:SO), the assessment tool was developed in Canada and is used for individuals who have engaged in harmful sexual behaviour.
+
+Evidence-based research from international studies has shown that VRS:SO is a well-supported best practice tool in prison settings, but this latest study will be the first validation study in a community setting. That it is being carried out in Aotearoa New Zealand has the added benefit of demonstrating its direct applicability to this country.
+
+Dr Christofferson has been interested in this tool for some time, having conducted an earlier VRS:SO validation study in a prison-based sample as part of her doctorate. Soon after joining UC’s Psychology Department in mid- 2015, she met with community treatment agency STOP in Christchurch Ōtautahi and found there was mutual interest in further validating VRS:SO, this time in a community context. STOP provides community-based assessment and intervention services for adolescents and adults who have engaged in harmful sexual behaviour against children. Another two community treatment agencies – WellStop in Te Whanganui-a-Tara Wellington and SAFE in Tāmaki-makau-rau Auckland – have also joined the study.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Data collection began at the start of 2016, following clinician training and the roll-out of VRS:SO in Aotearoa New Zealand’s community treatment sector. Dr Christofferson is meeting regularly with community groups involved in the study, as well as monitoring data collection methods and use of the tool as the work proceeds. Preliminary findings, compiled by UC Master’s student Michael Howell, show the tool is being reliably used to date.
+
+A key strength of VRS:SO is that it provides a structured way to track change in risk across treatments, and enables clinicians to measure how a client is responding to treatment targets and how that impacts on risk. This sets it apart from other one-off risk assessment tools.
+
+“VRS:SO has the best support of any tool designed to assess the risk of reoffending among sexual offenders.”
+
+Dr Christofferson suggests its use will also minimise the potential for unstructured clinical judgement to skew risk assessments, as the tool is based on multiple factors and structured criteria. The assessment process, including risk assessment, informs the best treatment approaches to be taken with a particular client.
+
+“We need to do the best we can, not just for our clients but also for those around them and society in general. This tool provides a really good way of identifying salient treatment targets for each individual and a way to potentially identify which aspects of treatment are most linked to change. It also enables referrers to report on risk more accurately using empirical methods and processes.”
+
+The study marks the start of a deepening connection between the university and associated community groups, with other collaborative projects already being discussed.
+
+Data collection for this particular study is scheduled to continue until mid-2018.
+
+“It is going to be a really useful and positive research collaboration. To have an accurate, research-based understanding of risk is so important.”
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

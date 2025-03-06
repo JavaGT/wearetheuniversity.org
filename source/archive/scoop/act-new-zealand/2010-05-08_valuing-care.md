@@ -1,0 +1,137 @@
+---
+slug: valuing-care
+title: "Valuing Care"
+date: 2010-05-08
+source-url: https://www.scoop.co.nz/stories/PA1005/S00143/valuing-care.htm
+author: act-new-zealand
+---
+Valuing Care
+============
+
+**Saturday, 8 May 2010, 12:28 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+**Valuing Care**  
+**_  
+Hon Heather Roy, Associate Minister of Education  
+Friday, May 7 2010_**  
+**_  
+Hon Heather Roy speech to the Early Childhood Council Conference; Christchurch Convention Centre, Kilmore Street, Christchurch, Friday, May 7 2010._**
+
+Tena koutou, tena koutou, tena koutou katoa.
+
+Thank you Early Childhood Council President Margie Blackwood, and Early Childhood Council CEO Peter Reynolds, for your warm welcome. I am delighted to be able to join your conference today.
+
+It's great to see you embracing such a positive theme - valuing care. It's the role of all us here to provide the best possible support to all children, including those with special education needs or behaviour challenges so they have the same opportunities to join in and succeed as other children.
+
+As Associate Minister of Education with responsibility for special education, I've been asked today to update you on the support available for children with special education needs or behaviour challenges.  
+
+Education - through early childhood education services and schools - plays a central part in the life of any child.
+
+Because of the difficulties experienced by children with special education needs or behaviour challenges, early intervention is needed to strengthen and extend their educational learning.
+
+The Government spends $30 million a year on early intervention services and support and this is available to children with moderate and high special education needs or behaviour challenges from the time they are born until they are settled in school.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Between 11,000 and 13,000 children currently receive early intervention support each year. Early intervention specialists from the Ministry of Education and other accredited providers work alongside families, teachers and other agencies to help children to develop functional skills as well as supporting families and teachers. Specialists include speech-language therapists, early intervention teachers, psychologists, advisors on deaf children, and Maori liaison advisors.
+
+Early intervention teams work with families to build their confidence, knowledge and skills so they can support the holistic development of the child in everyday settings.
+
+The behaviour of a small, but significant, group of children presents a real challenge to early childhood services. Disruptive behaviour impacts on other children, and can lower teacher job satisfaction. It can also be a barrier to learning and to achievement.
+
+Following a summit last year, the Ministry of Education developed the Positive Behaviour for Learning Action Plan in partnership with eight education sector groups that represent early childhood educators, teachers, principals and boards of trustees. This action plan is a far more proactive and focused approach to meeting the needs of children with behaviour difficulties.
+
+As you know, there is no silver bullet to dealing with challenging behaviour. However, there is growing evidence about what is effective. We need to act earlier in a child's life; earlier in the life of the problem. We need to balance our efforts in prevention, as well as responding to crisis. But, most importantly, we need to work together to address these issues.
+
+We want to equip teachers with enhanced skills in working with children with poor social, emotional and behavioural skills through the Incredible Years teacher programme. It will be delivered to 5,000 early childhood and junior school teachers over the next four years.
+
+This programme focuses on strengthening classroom management skills, developing positive behaviour, and collaborating with parents. It has a track record in delivering results - particularly increased teacher capability and confidence, a more positive climate for learning, and improved overall behaviour.
+
+Training of the first early childhood group leaders has begun in partnership with the Auckland Kindergarten Association which will begin delivering Incredible Years to early childhood teachers this term.
+
+At least 12,000 parents of children with early indicators of behaviour difficulties will take part in the Incredible Years parenting programme over the next four years. This programme will provide them with strategies to manage behaviours such as aggressiveness, ongoing tantrums, hitting and kicking, and refusing to follow rules.
+
+Research shows that programmes such as this have turned around the behaviours of up to 80 percent of the children of parents taking part.
+
+A behaviour crisis response service is also being piloted in three regions before being rolled out across the country. It will provide support where a child's behaviour places others or themselves at immediate or serious risk.
+
+Work is underway on developing 'Maori for Maori' programmes that will focus on schools and early childhood education services that have a high proportion of Maori children.
+
+And the Ministry of Education is also working with the Ministries of Health, Social Development and Justice to examine how we can build stronger supports across agencies for those who present with challenging behaviour.
+
+What we want is better learning environments for all children and staff. We want teachers to have more confidence and satisfaction, and to be better able to support children's behaviour and emotional needs. And, above all, we want children to learn and achieve so they can fulfil their potential.
+
+I want to make it clear that the Positive Behaviour for Learning Plan is not an add-on to our existing services, but an extension of what we do already. We are focusing our resources and effort on a range of programmes that we know work across ages, needs and the sector and $45 million over the next four years has been reprioritised to support the implementation of the plan.
+
+Another key concern is support for children diagnosed with Autism Spectrum Disorder (ASD).
+
+One of the most significant steps towards providing better support for children with ASD is New Zealand's innovative ASD Guideline. It takes a whole of life, cross-sector approach to improving the advice, support, services and care for people with ASD and their families and provides information on the range of assessments and interventions for children and young people with ASD in education settings.
+
+Children diagnosed with ASD between the ages of one and three years usually have significant language delay and behaviour issues. This means the earlier the diagnosis of ASD is made; the more impact early intervention has in reducing challenging behaviour and ensuring better outcomes for families.
+
+There is an impressive set of resources available at no cost for Health and Education practitioners. Of course, good quality early interventions are important for positive outcomes for children with ASD. But there is no 'one size fits all' model of early intervention that has been shown to meet the needs of all children.
+
+The guideline outlines the characteristics of quality intervention programmes. Children with ASD can and do learn social and communication skills, and manage stress and behaviour with effective teaching and an appropriately structured environment. Careful planning and support is important to ensure the child has meaningful learning opportunities, and is fully included in the life of the early childhood education service.
+
+Addressing the needs of a child with ASD in an early childhood service also requires a team approach. Those who spend the most time with the child - especially their family and whanau - will understand their abilities, difficulties, interests and fears. They will have developed strategies that, when shared, will help everyone to meet these unique needs.
+
+There have also been a number of joint initiatives between the Ministries of Education and Health and Autism New Zealand focused on developing the skills and knowledge of educators, specialists and families. These include Tips for Autism, EarlyBird, and the introduction of the Social Communication Emotional Regulation Transactions Supports framework.
+
+Nothing trumps early detection of disabilities, developmental delays and behaviour challenges or the putting in place of early interventions that can improve the lives of children and their families.
+
+The roll-out of the Universal Newborn Hearing Screening and Early Intervention programme across the country will be completed by mid-2010. Jointly led by the Ministries of Health and Education, this programme ensures babies diagnosed with a hearing loss receive support from birth through to starting school.
+
+The early detection of hearing loss and the application of early interventions has been demonstrated to significantly improve long-term language skills and cognitive ability.
+
+Three babies in every 1,000 born each year in New Zealand have mild to profound permanent congenital hearing loss. Additional advisors on deaf children have been employed through funding received to support the programme, and early intervention support is available within days of diagnosis.
+
+International evidence tells us that approximately 40 percent of babies diagnosed with a significant hearing loss will have additional special needs. Additional funding for the programme was also used to employ a small number of early intervention teachers and speech-language therapists.
+
+The 'B4 School Check' is a nationwide programme for four-year-olds to identify any health, development or behaviour problems that may have a negative impact on a child's ability to learn and take part at school.  
+  
+The check is an opportunity for parents, early childhood teachers and health professionals to work together to put support in place if concerns are raised about a child's health and wellbeing.
+
+Many of your services will have provided information about a child's social and emotional development through a strengths and difficulties questionnaire. I appreciate that there have been concerns about this questionnaire, but it is an internationally validated tool that was widely looked at by the Ministry of Health before being included as part of the 'B4 School Check'.
+
+The Ministries of Education and Health acknowledge the value of the professional judgement of early childhood teachers, and we strongly encourage you to contribute to the B4 School Check. Both Ministries are working closely to ensure children identified with health or learning issues at the 'B4 School Check' receive appropriate and timely intervention.
+
+I am currently in the midst of a Review of Special Education.
+
+The public consultation phase has just finished with over 1700 written submissions received and oral submissions heard around the country. The themes that have emerged are not surprising but have provided clarity of the issues where things are not going well. A paper will go to Cabinet by the end of July.
+
+I want all students to have the opportunity to leave school with the skills they need to reach their potential. I want to look at what we need to do to build the capability of the broader education system, not just the 'special education' component - because students with special education needs have the same needs as other students; what is special is the level, intensity and type of support they require.
+
+There is no 'one size fits all' model of services and support that will work for every student in New Zealand. Schools need to be adaptable and capable, and services need to be flexible and efficient.
+
+There also needs to be better support when children make transitions from early childhood education into school. This can be a difficult time for children with special education needs and their families if not managed effectively.
+
+In my time as Associate Minister of Education I have been impressed with the support early childhood services are providing to children with special education needs and your ongoing commitment to enhancing education outcomes for all.
+
+I want all children with special education needs or behaviour challenges, and their families, to have their needs recognised and met. It is vital that these children are given the appropriate opportunities and support to enhance their learning outcomes alongside their peers.
+
+I'm delighted to have had this opportunity to speak with you today, and wish you all the best for the remainder of your conference.
+
+Thank you.  
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

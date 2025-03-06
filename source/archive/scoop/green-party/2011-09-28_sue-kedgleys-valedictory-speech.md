@@ -1,0 +1,146 @@
+---
+slug: sue-kedgleys-valedictory-speech
+title: "Sue Kedgley’s Valedictory speech"
+date: 2011-09-28
+source-url: https://www.scoop.co.nz/stories/PA1109/S00507/sue-kedgleys-valedictory-speech.htm
+author: green-party
+---
+Sue Kedgley’s Valedictory speech
+================================
+
+**Wednesday, 28 September 2011, 12:01 am**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+**Sue Kedgley’s Valedictory speech**
+
+I am what you might call an accidental MP – someone who arrived in this House by accident, not by design. I casually agreed to put my name on a Green Party list for the ninety-nine election, at a time when the Green Party was polling at zero per cent. And the next thing I knew Jeanette Fitzsimons was on the phone, telling me I had just become an MP.
+
+The first few weeks passed in something of a blur, but even so I did feel as if I was participating in a moment of history, being part of the first group of Green MPs to be elected into Parliament.
+
+Jeanette and the late Rod Donald were wonderful mentors to their new and very Green MPs. We had then –and still have today—a very supportive and egalitarian culture, which I suspect is rare in the political world.
+
+I recall a meeting Rod and I had with Telecom shortly after we were elected. I felt they were trying to lead us up the garden path, so I gave Rod a gentle kick under the table. And I thought afterwards; imagine a newly elected backbencher kicking Helen Clark – or John Key - under the table. But that was the sort of relationship we had, and still have, in the Green Party.
+
+I took a while to get the hang of Parliament. I remember nonchalantly deciding, one day, to vote to change the title of the Apprenticeship bill to the ‘Modern’ Apprenticeship bill. No sooner had I uttered the words ‘7 votes in favour’ than out of the corner of my eye I saw Trevor Mallard racing up the House towards me, and yelling at me, get outside. I airily refused and wondered what all the fuss was about. It turned out that _thousands_ of copies of the bill with the _old_ title had already been printed, and now, thanks to my change of vote, would have to be thrown out.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Another amusing memory was when I persuaded Nandor, at the very last moment, to vote against the Micro-chipping of Dogs bill. All hell broke loose, because his was the casting vote that defeated the bill, and no one had told the Government about his sudden change of heart. An outraged Prime Minister was on the phone, and even the normally serene Jeanette Fitzsimons was apoplectic, but we could hardly conceal our delight that we had spared hundreds of thousands of dogs from being needlessly micro-chipped.
+
+Shortly after we arrived in Parliament, the Green Party negotiated a moratorium on genetic engineering, and a Royal Commission of Inquiry. Jeanette and I spoke at more than a hundred meetings around the country, and helped organise mass protests and marches.
+
+But despite huge public support for the moratorium, the Government lifted it in 2003, and I vividly recall the furious reaction when Green MPs walked out of Parliament in protest. Nevertheless I’m proud of the fact that we helped ensure there are no genetically modified crops growing in New Zealand - so far at least.
+
+One of my first acts as an MP was to accept an eighty thousand signature petition from SAFE calling for sow stalls to be banned, and I climbed into a sow stall to demonstrate how cruel it was, and was ridiculed for doing so, I might add.
+
+So it’s gratifying that a decade later, the Government has finally agreed to get rid of sow crates.
+
+Another early highlight was our successful campaign to save the Overlander. I took the Overlander on what was to have been one of its last journeys, and arranged to collect our Save the Overlander petitions along the way. Everywhere the train stopped there were huge crowds of people clutching petitions. At Otorohonga people brought their petitions in a century old wheel barrow, and at Te Awamutu, no sooner had the guard explained over the intercom that we were going through the King country which was home to two famous New Zealanders, Jim Bolger and Colin Meads, than there was Colin Meads standing at the station, supporting our petition, and the train went wild.
+
+I said in my maiden speech I wanted to represent people who were fighting for safe food, animal welfare, public transport, natural health and other Green issues.
+
+And that’s what I have done. I may not have represented a _geographic_ constituency but I’ve certainly represented an issue based constituency, and the thousands of people who contact me about food and other issues is testament to that. Some people tell me they see me as their voice in Parliament, and I feel humble to have fulfilled that role.
+
+I’ve also been a voice for animals in this House. And I’m proud to have put food and animal welfare on the political agenda.
+
+When I first raised animal welfare issues, MPs cracked jokes and rolled their eyes as if to say how _can_ you expect us to take such a trivial issue seriously. So it’s gratifying that animal welfare is no longer a laughing matter.
+
+Even so, hundreds of thousands of factory farmed animals spend their entire lives locked inside cages, in conditions of almost unimaginable cruelty.
+
+And the Animal Welfare act still protects the interests of animal owners, not the interests of animals. So it was disappointing that my private members bill which would have amended the act was defeated in Parliament.
+
+When the Green Party came into Parliament our ideas seemed radical, and we were swimming against the tide. But now many of our ideas are widely accepted and we are swimming with the current.
+
+We’ve shown we can bring about change as an independent party, even when we’re not part of any formal coalition.
+
+And even when we haven’t succeeded in getting legislation changed, we’ve helped change attitudes. My thirty six thousand signature petition calling for mandatory country of origin labelling of food was rejected by Parliament, but it’s helped raise awareness about where our food comes from, and forced supermarkets to introduce voluntary country of origin labelling.
+
+Perhaps my greatest frustration as an MP is the fact that our Parliament has no jurisdiction over most aspects of our food. We’ve handed over control of this vital issue to an Australian based organisation, Food Standards Australia New Zealand, where we have one vote out of ten. Now I’m all for closer relations with Australia, but surely, cuddling up to Australia need not involve handing over great chunks of our sovereignty to Australian dominated organisations, or becoming its seventh state.
+
+But despite such frustrations I’ve hugely enjoyed my time here, working with MPs from all sides of the House, especially in select committees. I enjoyed Chairing the Health select committee, and it was extremely satisfying to have my Flexible Working Hours bill, become law.
+
+It was satisfying too, working with the Labour Government to secure funding for six successful projects, including an Organics Advisory Service, a $12 million Nutrition Fund for schools, and healthy food guidelines for schools – even though these have since been thrown out for no good reason, and so as a nation we’re doing nothing to improve our eating habits, which are fuelling epidemics of obesity, type 2 diabetes, and dietary-related disease.
+
+Other highlights include working with this government on the Natural Health Products bill, initiating inquiries into ambulance services, natural health, obesity and type 2 diabetes, the future of our bees, and even helping save Wellington’s trolley buses and the Johnsonville line.
+
+But I’d like to devote the rest of my speech not to my own achievements, but to some observations about democracy.
+
+We tend to be somewhat complacent about our democracy. But parliamentary democracy, like everything else, needs constant renewal or it will become stale and tired and out of touch, and less and less relevant. And there are some days when I think Parliament has become all of these things.
+
+In particular I despair about the polarised and confrontational way we do business in this House.
+
+Much of the time it’s trench warfare in here. MPs gather for question time, as if for a military confrontation. The aim is to do battle, to defeat the enemy on the other side, not to debate or to listen. The heavy hitters, the point scorers and the alpha males lead the charge, and hurl abuse and insults at the other side. And so question time, which _ought_ to be a showcase of our democracy, routinely degenerates into a pointless slanging match. And the rest of us have become so used to this belligerent behaviour that we end up thinking it is normal and acceptable.
+
+But outside of Parliament, many people find this behaviour off-putting and childish. A group of 14 year olds observed question time in 2002, and wrote a report about it. MPs mocked each other, shouted at each, interrupted each other, and they seemed to have no respect for each other or for different opinions, they wrote. There was no sense of working toward anything. They called on MPs to stop the bullying behaviour, and to develop a more cooperative culture instead.
+
+Naively, I suggested we set up a cross party working group to examine their report and how to improve our working culture, but this went down like a lead balloon, and nothing much has changed since then, so there’s seldom constructive dialogue or thoughtful debate in this House, and much of the time no one is even listening to our debates.
+
+On the other hand, away from the cameras, a lot of excellent cross party work takes place in select committees, in a mostly constructive and positive working environment.
+
+Mr Speaker, 106 bills have passed one or more stages under urgency in this Parliament, most of them not urgent at all, and there’s more urgency this week. The excessive use of urgency, the by-passing of select committees and the public submission process, undermines our democracy and fuels a growing distrust and disillusionment with politics, which is eroding people’s confidence not just in politicians but in our entire political system.
+
+Not long ago, under first past the post, Parliament often operated as an elected dictatorship, with the executive completely controlling this House and ramming its agenda through Parliament.
+
+Thanks to MMP, this is no longer the case. When governments are forced to negotiate with smaller parties, they can’t completely control this House or select committees, which now have some measure of power and influence.
+
+Even so, the executive still controls a great deal of what Parliament does, and I believe this House needs more independence, so it can counterbalance the power of the executive and better hold governments to account.
+
+Mr Speaker, you’ve tried to make Ministers answer questions, and make the government more accountable. But I’d still like to see more independence for the Speaker, and a rule, such as exists in the UK, that the Speaker is elected by a free vote of Parliament and severs all party affiliations.
+
+MMP has made Parliament far more representative, and it’s breathed new life into our democracy. It’s brought in new parties, new ideas and new ways of working.
+
+But more changes are needed, if we’re to make Parliament more modern and more capable of responding to challenges that confront us.
+
+We live in a time of rapid change. Yet our Parliament is a 19th century institution, hidebound by rules and conventions, and it still operates, a lot of the time, like an Old Boys Club.
+
+I believe a major overhaul is needed in the way Parliament works, to make it less remote, more relevant and accessible to ordinary New Zealanders.
+
+I believe we owe it New Zealanders to lift our game, leave behind the tribal warfare and the adversarial way we so often do politics, and adopt a more constructive approach.
+
+Mr Speaker, we live in a time of financial and ecological crisis. The glaciers are melting, bees are disappearing, our oceans are acidifying and everywhere there are signs of ecological collapse. Our global financial system is teetering on the verge of collapse, too, and our society is growing more unequal every year.
+
+Yet in Parliament far more energy is spent on spin, and on trying to win the daily media battle, than on grappling with the crises that confront us. The media, too, often seem more interested in the scandals and the trivia of politics, than in serious policy issues or debate. All the focus is on the battle between warring parties; who’s winning, who’s losing, who’s up and who’s down; rather than on how we’re going to steer ourselves out of the mess we have created.
+
+The problem is that for a healthy democracy we need an informed electorate. But if there’s less and less serious content in the media, people won’t be sufficiently informed to make an informed choice at the ballot box.
+
+Mr Speaker, a diverse and independent media is critical for a healthy democracy. Worryingly, we’re now one of the only countries in the world without mainstream public service television, and even our outstanding public service radio is limping along on the back foot, with its funding frozen indefinitely, forced to sell off its grand pianos to survive. Four overseas owned companies control most of our media, and we have one of the most deregulated media environments in the world, with no rules around foreign ownership, cross media ownership, or anything else.
+
+So there’s nothing to stop Rupert Murdoch, or anyone else, from taking over any media in New Zealand, or setting up a Fox type television channel which pushes a particular political barrow and doesn’t even pretend to be impartial. That’s why we need to review our media ownership rules, and set up a strong and more independent media monitor.
+
+The growing influence of corporate lobbyists also concerns me. Lobbyists operate in secret, so it’s almost impossible to work out who is lobbying whom, and on whose behalf.
+
+In other countries, the activities of lobbyists are publicly disclosed on a Register of lobbyists, and I’ve been seeking to bring transparency to lobbying here, through a private members bill.
+
+Corporate donors and lobbyists have far greater access to government than ordinary New Zealanders, and some are able to exert undue influence on policy and legislation as a result.
+
+The problem is that they pursue the vested interests of the corporations they represent, not the public interest, and so the growth of lobbying is shifting the political landscape in favour of corporate interests, at the expense of the public interest.
+
+Finally, I want to salute the unseen workers of Parliament, the friendly security guards, the cleaners, the cooks, the Hansard staff, and all the courteous and patient people who keep this institution going. Special thanks to the magnificent librarians who have provided me with so much invaluable information over many years.
+
+Thanks to all the people from various organisations I’ve worked with closely over the years, some of whom are here today—SAFE, GE Free New Zealand, Soil and Health, the Safe Food Campaign, the Nurses Organisation, the Charter of Health Practitioners, Service and Food Workers, Alcohol Action, Grey Power and many others. I would have achieved little without your collaboration and support. Thanks to all of my fantastic colleagues and friends in the Green Party caucus, and to the wonderful and talented Green Party staff - in particular, Dr Meriel Watts and Kevin List. Thanks to all my hard working and supportive executive secretaries, from Dr Sean Weaver, Dr Charlie Chambers, Councillor Iona Pannett, through to Angela McLeod. Thanks to the students who’ve worked with me as interns over the past decade; to my family, my mother, late father, sister and brother, my step children and extended family, and my wonderful family of friends, many of whom are here tonight.
+
+My greatest support has come from my family, especially my incredibly supportive and politically astute husband Denis Foot and my awesome son Zac, who has had to put up with a mother who’s been a politician since a young age.
+
+It’s been an enormous privilege being a Green MP, and now it’s time to hand the baton to another generation. It’s comforting to know that Keith and I, as the last of the original group of Green MPs, leave the party in such good heart, and that another group of talented and energetic New Zealanders are waiting in the wings to take their turn in Parliament.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

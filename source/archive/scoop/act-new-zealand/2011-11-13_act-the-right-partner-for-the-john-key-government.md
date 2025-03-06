@@ -1,0 +1,296 @@
+---
+slug: act-the-right-partner-for-the-john-key-government
+title: "ACT: The Right Partner for the John Key Government"
+date: 2011-11-13
+source-url: https://www.scoop.co.nz/stories/PA1111/S00250/act-the-right-partner-for-the-john-key-government.htm
+author: act-new-zealand
+---
+ACT: The Right Partner for the John Key Government
+==================================================
+
+**Sunday, 13 November 2011, 2:03 pm**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+**ACT: The Right Partner for the John Key Government**
+
+**An Address by Don Brash,  
+Leader Act 2011 Campaign Launch**
+
+**13 NOVEMBER 2011**
+
+  
+Ladies and gentlemen,
+
+New Zealand needs ACT!
+
+New Zealand’s a wonderful country.
+
+We live in a country which is bigger than Britain, with more natural resources per person than almost any other country on Earth.
+
+A country which has more fresh water per person than almost any other country on the planet.
+
+A country which gave women the vote before any other country, and has one of the oldest democracies in the world.
+
+A country where we can say with certainty that, no matter how vigorously we disagree with each other about politics, nobody will get shot, or beaten to death, in political turmoil.
+
+A country which has produced Ed Hillary, and Kiri Te Kanawa, and Kate Sheppard, and Katherine Mansfield, and Jean Batten, and Apirana Ngata, and Bill Buckley, and Angus Tait, and Bill Gallagher, and Ernest Rutherford – a man ranked by some as close to Newton and Einstein in terms of his contribution to our understanding of physics.
+
+It _is_ a wonderful country.
+
+But ladies and gentlemen, this country is at risk. Far too many people are finding it hard to make ends meet. Far too many young people can’t get a job. Far too many people fill our jails. Far too many children are poorly fed and poorly housed. Far too many families break down in acrimony and violence. Far too many young people come out of school unable to read and write. Far too many working age adults languish on a hand-out. Far too many towns and cities spew untreated waste into our once-clean streams and rivers.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+And to a large extent these are the social costs of the under-performance of our economy. Once, we were one of the richest countries in the world. Our productivity was up with the best.
+
+But then we were hit by the loss of our best export market, and by the disastrous policy response to that. By 1984, New Zealand was on the verge of bankruptcy. We were rescued by Sir Roger Douglas, the Minister of Finance who went on to found the ACT Party, and for more than 10 years productivity started growing strongly again.
+
+But when Winston Peters became the Treasurer in 1996, and even worse when Helen Clark became Prime Minister in 1999, the momentum ended.
+
+She introduced the envy tax for those on higher incomes; she reversed many of the labour market reforms; she introduced legislation giving local authorities the power to do whatever they wished; and she massively increased government spending towards the end of her reign – an increase which set up the years of deficit since 2009.
+
+Today, the Government is borrowing hand over fist; $20 billion in the last year, hundreds of millions of dollars every week, the equivalent of hundreds of dollars a week for every household.
+
+Productivity growth has fallen away – to an estimated 1% annually according to the Reserve Bank.
+
+Despite the best export prices in a generation and weak import demand, the balance of payments is still in deficit – with that deficit projected to increase over the next few years. And as a result our debt to the rest of the world gets bigger, year by year – not yet at Greek or Spanish levels, but damned uncomfortable just the same.
+
+Two credit rating agencies have downgraded us, and as a former Governor of the Reserve Bank I know that that’s an ominous sign.
+
+The IMF projects growth in per capita income over the decade to 2016 to be half the growth they project for Australia over the same period. In fact, 148 countries are expected to grow faster than we will over that period. We would have been in a state of national mourning if even one other country had beaten us at rugby – we seem relaxed at being 149th in the economic growth stakes!
+
+The gap between incomes here and incomes across the Tasman continues to grow. When National came to power, the gap was 35%; now it’s closer to 40%. As a result, New Zealanders leave in ever-increasing numbers; nearly 300,000 over the last decade.
+
+Just last week, the _Herald on Sunday_ wrote of the Kiwi families living in Australia but longing to come home. Couples like Adrian and Jules Paalvast, with three New Zealand-born sons – longing to return to New Zealand, but feeling unable to do so because Adrian makes three times the salary in Australia that he could make in New Zealand, thus enabling Jules to stay home with her four children.
+
+A survey of 4,000 13-year-olds recently found that an astonishing 27% of them wanted to leave New Zealand permanently when they were old enough to do so.
+
+Dealing with this challenge should be the dominant theme in the election campaign – but it’s not. The serious danger is that we could reach a tipping point, the point at which so many New Zealanders have left that it becomes a cumulative process, with each new departure easier to justify than the last one. Some suggest we may already have reached that point.
+
+At this critical time in our country’s life, voters face a stark choice: do they want a centre-left government headed by Phil Goff or do they want a centre-right government headed by John Key? There are no other options available.
+
+We in the ACT Party are in no doubt at all about which of these two men offers the better prospect for our great country, and we have already declared publicly that we will give Confidence and Supply to a John Key-led Government.
+
+The Labour Party is advocating policies which nobody who cares for our long-term future could support – massively more borrowing than even National proposes; employment legislation which would see a return to the industrial mayhem which prevailed before 1991; a $15 minimum wage which would lead quite directly to more unemployment; an end to the 90-day trial period in employment contracts; a capital gains tax; a big increase in the compliance costs imposed on small businesses because of the exemption of fruit and vegetables from GST; a huge increase in the costs of the farming sector as a result of bringing biological emissions into the ETS in 2013; and an instruction to the Reserve Bank to stop worrying about inflation and start focusing on the exchange rate. This is crazy stuff.
+
+As an aside, I understand as well as anybody the problem which big swings in the exchange rate cause for exporters. I spent almost 14 years of my life trying to reduce those big swings. Alas, there are no easy ways to eliminate them, not at least if keeping inflation under control is also an objective. The Labour Party pretended they knew what to do about this issue in 1999, when they were campaigning to win the election in that year, and promised to have the whole Reserve Bank framework put under a microscope. When they won the election, they duly appointed a monetary policy expert from Sweden to do exactly that, and after months of study, the expert declared the New Zealand monetary policy framework world’s best practice.
+
+It may sound good to exporters for Labour to say that they will smooth out those exchange rate fluctuations _and_ keep inflation under control: believe me, no central bank has yet discovered how to do that.
+
+So there’s not the slightest chance that ACT could support Labour after the election.
+
+But like many others, we want a John Key-led Government to deal more decisively with the challenges which our country faces than has been the case over the last three years.
+
+The Government has introduced National Standards in the school system, and some of our schools are world class. But far too many young people are coming out of 10 or 12 years of school barely literate. Parents who scrimp and save to send their children to independent schools are forced to pay twice for the privilege, once through taxation and a second time through school fees. The school system remains highly centralised – with a centralised curriculum, and a centralised and bureaucratic remuneration system.
+
+There has been a pleasing reduction in violent crime in the last three years, and the ACT Party can take some of the credit for that – we supported National in increasing police numbers, especially in South Auckland, and we were responsible for getting the Three Strikes legislation passed, so that repeat violent and sexual offenders spend longer in jail.
+
+But there is still far too much senseless violence, and too often the police prosecute the _victim_ of that crime, as when Virender Singh was prosecuted a year or so ago when he tried to defend himself with a hockey stick while being attacked by five drunken youths.
+
+Right now, the world economy is looking more ominous than at any time in my life-time. I spent a few days visiting London and Washington late last month to get a first-hand picture of just how bad things might get. I came home deeply worried – the Eurozone is in serious trouble because of irresponsible government spending in the countries of southern Europe; the United Kingdom and the United States are struggling under massive government deficits; and Japan seems unable to get to grips with its own massive government debt. The scope for the world economy to endure a prolonged and deep recession is all too evident.
+
+In this threatening global environment, we believe the Government needs to urgently focus its spending on those who most need it, to flatten and reduce taxes in order to encourage investment, and to radically reduce the bureaucracy which makes life so miserable for homeowners, farmers, and manufacturers – indeed, for anybody wanting to do something!
+
+Realistically, ACT is the _only_ party which can help National do what John Key and the rest of the Cabinet know needs to be done. And Friday’s “cup of tea” shows clearly that John Key knows that.
+
+Over the last three years, ACT has ensured stable centre-right government – indeed, we enabled John Key to announce that he was in a position to form a government on the night of the last election, because we had pledged support to National in advance, as we have done again.
+
+Again and again, we supported National Party-initiated legislation when without our support legislation would have failed.
+
+We gave voice to widespread public concern about the Anti-Smacking law, the Marine and Coastal Area Act, and the Emissions Trading Scheme, though ultimately in vain.
+
+We can claim much of the credit for the retention of the right to silence in criminal cases.
+
+And as I’ve mentioned, as a result of our initiative, the Three Strikes legislation was passed. As a result of our initiative, students are no longer obliged to join a union. As a result of our initiative, the Productivity Commission was set up. As a result of our initiative, the 2025 Taskforce was set up, and the National Party committed to promoting policies which would close the income gap with Australia by 2025. (National doesn’t talk about closing that gap much anymore, because they know they don’t have a plan to close it. ACT does!)
+
+So we’ve shown we can work with National, and can deliver positive benefits for New Zealand.
+
+But much remains to be done.
+
+In the last few weeks, National has gone some way towards policies which we strongly support by proposing quite far-reaching welfare reform, some useful changes in employment law, and some steps in the right direction in enabling employers to take on teenagers at less than the adult minimum wage. They’ve even made some tentative suggestions for reforming the Resource Management Act. We support all these moves – as far as they go.
+
+But let me set out what _we_ would like to achieve in the next Parliament.
+
+There are nine policy areas we’ll be looking to work with National on to improve the lives of all New Zealanders, and perhaps especially those New Zealanders whom the major parties seem to have forgotten – those who struggle to keep small and entrepreneurial businesses alive, the farmers and those who provide services in rural communities, the self-employed taxi drivers and dairy owners (for whom earning even $13 an hour for the hours worked seems a distant dream), those struggling to cope with the burden of bureaucratic officials and senseless red-tape.
+
+**Pass Spending Cap (People’s Veto) Bill and Regulatory Standards Bill**
+
+1) First, we want to ensure that the two Bills introduced by Rodney Hide in the last Parliament are passed into law – namely the Spending Cap (People’s Veto) Bill and the Regulatory Standards Bill.
+
+The Spending Cap Bill would not require any reduction in government spending – indeed, it would explicitly allow government spending to increase as our population grows and as prices rise, and it would allow for a complete exemption from the cap to deal with a national emergency, such as the Christchurch earthquakes – but it would prevent future governments engaging in the kind of grossly irresponsible electoral bribes which the Clark Government undertook in the last three years of that Government’s life. For this reason, we believe its passage is well overdue.
+
+Similarly, the Regulatory Standards Bill – opposed by most government departments and supported by most people in the private sector – would raise the bar on new legislation and regulation to the considerable benefit of everybody.
+
+Only a party vote for ACT will get these two fundamentally important pieces of legislation passed into law!
+
+**Reduce government spending relative to the size of the economy to enable radical tax reduction, and a lower exchange rate**
+
+2) Second, we will be pushing for a faster reduction in government spending – relative to the size of the economy – than that currently envisaged. At the moment, government spending is a larger share of the total economy than in any year of the last Labour Government. And yet there are a number of spending programmes which National criticised strongly when in Opposition but which remain untouched – programmes which have little or no merit in terms of any concept of social justice.
+
+Getting spending under control more quickly would have three important benefits.
+
+It would hasten the day when we’re no longer borrowing from our children to make life more enjoyable for ourselves.
+
+It would enable tax rates to be reduced and flattened. We’re especially keen to get the company tax rate reduced – that’s vitally important if we’re to see a strong increase in investment in New Zealand. Yes, our company tax rate was reduced last year, but taken together with the change in depreciation allowances the overall effect was to _increase_ the effective corporate tax rate. In any event, our company tax rate remains at 28%. That in fast-growing Singapore and Hong Kong is only 17%.
+
+By how much could tax rates be reduced? The 2025 Taskforce showed that, if government spending could be reduced to the same share of GDP that it was in 2005, at the end of Labour’s second three-year term in office, then the top personal tax rate and the company tax rate could both be reduced to 20%. I’m not confident that that’s still possible, but a radical reduction of both rates could certainly be achieved.
+
+Because of the crucial need to raise wages and salaries by increasing investment, we favour accepting that there will need to be an ongoing gap between the company rate and the top personal rate (as there is currently) by introducing a radically lower company tax rate at 12.5%, with the top personal rate as low as revenue will allow, perhaps 25%. We don’t doubt that that would have a very dramatic effect on investment, and therefore on wages, salaries and jobs.
+
+Another substantial benefit of getting government spending reduced more quickly is that it would help reduce the exchange rate – vitally important if farmers and other exporters are to generate the strong growth in exports that our high level of overseas debt demands.
+
+This is partly because much of the borrowing being undertaken by the government is being done by selling bonds to foreigners – and of course those foreigners have to buy New Zealand dollars to buy the government bonds.
+
+It’s also partly because tighter restraint on government spending would almost inevitably prompt the Reserve Bank to further reduce the Official Cash Rate, and that too would reduce the upward pressure on the exchange rate. Yes, the OCR is lower now than at any time in our history, but it’s also higher than in any other developed country except Australia. There can’t be much doubt that if the OCR were, say, 1% rather than 2.5%, the exchange rate would be lower and export growth would be stronger.
+
+Only a party vote for ACT will get government spending back under control quickly, and take the pressure off exporters!
+
+**Radically reduce bureaucracy**
+
+3) Third, we will be pushing for a strong attack on bureaucracy. And by that we don’t simply mean a reduction in the number of bureaucrats, though that would no doubt be part of it. We mean taking an axe to some of the more ridiculous rules and regulations which those bureaucrats enforce:
+
+**•** The rule which enables Auckland Council planners to tell a home-owner to paint her white house black or brown because it’s near the Kaipara;
+
+**•** The rule which requires a retailer of farming equipment in Masterton to get approval before erecting a sign on his own property;
+
+**•** The rule which requires a farmer to get approval before building a hay-barn on his own property;
+
+**•** The rule which enables local authority planners to designate a farm as having outstanding landscape value, without any suggestion of compensation for the loss of value which that designation involves;
+
+**•** The rule which requires a farmer to get a building consent to replace his home after it’s burnt down;
+
+**•** The law which enables local authorities to tightly constrain the supply of land, with disastrous consequences for housing affordability for most young New Zealanders.
+
+Fixing these frustrating and expensive rules would almost certainly require a fundamental reform of both the RMA and the Local Government Act, and quite possibly an amendment to the Bill of Rights Act to ensure that the right to peaceful enjoyment of one’s own property is enshrined in law.
+
+Only a party vote for ACT will make a serious dent in the inane bureaucratic rules which cost us a fortune and ruin our lives!
+
+**Take an axe to the Emissions Trading Scheme**
+
+4) Fourth, we also want to take an axe to the Emissions Trading Scheme. Whatever you believe about the causes of climate change, it makes no sense at all for New Zealand, producing just 0.2% of global greenhouse gas emissions, to have the only all sectors, all gasses, ETS in the world.
+
+No other country penalises farming for its production of greenhouse gases, and yet that is a major part of the ETS in New Zealand.
+
+Yes, National proposes to defer the inclusion of agriculture into our ETS until 2015; Labour proposes to include it from 2013.
+
+But even now agriculture is hurt by the effect of the ETS on the price of electricity, petrol, diesel, and coal. If biological emissions were to be included in the ETS on the basis proposed by the Labour Party, it would have an absolutely devastating effect on the viability of a great many farms. Even the deferment proposed by the National Party would at best leave farmers paying thousands of dollars for their use of on- and off-farm energy. New Zealand’s farming sector – the most efficient producer of food in the world – doesn’t deserve that kind of punishment.
+
+Indeed, there’s a strong argument that biological emissions don’t add to greenhouse gases at all: every unit of carbon emitted by pastures, crops and animals was first absorbed from the atmosphere.
+
+Only a party vote for ACT can protect farmers – and the rest of us – from the ETS!
+
+**Give parents effective control over their children’s education**
+
+5) Fifth, we want taxpayer funding to “follow the child”, to give parents an opportunity to send their children to any school willing to take them, as already happens with Early Childhood Education. This would enable parents to send their child to an independent school if that was their preference, or to an “integrated school”.
+
+And to enable parents to make an informed choice about which school is best suited to their child, we would open up SchoolSMART, a website run by the Ministry of Education which holds information about schools, about pupils’ performance, about teacher performance and about other indicators. National once campaigned to make this information available to parents. In Government, they haven’t done it.
+
+We would recognise long-established and well run state schools, such as Auckland Grammar, Epsom Girls, McLean’s College, Rangitoto College, Wellington College and Christchurch Boys High School, as “trust schools”, and allow them to operate substantially free from bureaucratic control – including giving them the ability to establish other campuses, perhaps by acquiring schools which might be losing pupils.
+
+Only a party vote for ACT will give parents a chance to choose the school which best suits their child, and boards of trustees and principals a chance to run their schools free from the stifling hand of Wellington bureaucrats!
+
+**Promote a multi-party consensus on changes to New Zealand Superannuation**
+
+6) Sixth, we will push for a multi-party consensus on changes to New Zealand Superannuation to ensure its long-term viability as our population gradually ages.
+
+The Labour Party has recently announced their support for a gradual increase in the age of eligibility, as we proposed months ago. They’ve adopted the proposal of the Retirement Commissioner, which would see the age of eligibility reach 67 by 2033.
+
+We think that that’s too slow, not affecting in any material way the baby boomer generation.
+
+The Australian Labor Government has announced that the age at which Australians will become eligible for their taxpayer-funded pension scheme will reach 67 by 2023, 10 years earlier than the Labour Party has proposed here.
+
+But whether by 2023 or 2033, this issue needs to be put on the agenda. Most other developed countries are gradually increasing the age at which their citizens become eligible for taxpayer-funded retirement income, and for the same reason. We’re all living longer. It’s totally irresponsible to pretend that no increase will be needed.
+
+Only a party vote for ACT will ensure that this issue is addressed in a timely way!
+
+**Promote a safer, more secure, society**
+
+7) Seventh, we will push to make New Zealand a safer and fairer place by ensuring that the victims of crime are not subject to unfair scrutiny by the police when they try to defend themselves, and ensuring that young offenders are appropriately dealt with before their criminal activities escalate.
+
+The statute books already entitle people to use reasonable force to defend themselves and their property. But in practice it’s all too common for the police to charge people who defend themselves – in other words, for the police to treat victims as criminals.
+
+I mentioned the case of Virender Singh a moment ago. I could have mentioned the case of Greg Carvell, charged with shooting and wounding an intruder who was threatening him and two of his staff with a machete. Or the case of Paul McIntyre, charged with shooting and wounding one of three men who were trying to steal his property in a remote location in the dead of night. There have been far too many similar cases.
+
+While clearly the use of force in defence of person and property must be reasonable – it would clearly be absurd to use lethal force against a teenager retrieving a ball from your front lawn – the present policy needs to change. We believe there’d be merit in enshrining the right to self-defence in the Bill of Rights Act.
+
+In respect of youth offending, there’s a lot of evidence that to the extent young people get away with minor offending, there’s an increased chance of their engaging in further and more serious offending. We will ensure that all young people know that breaking the law has consequences, in order to ensure our young people stay on the straight and narrow. Ensuring that young people receive a decent education, and can find a job when they need one, will also help keep young people out of trouble.
+
+Only a party vote for ACT will protect your right to self defence, and make it clear to our young people that every crime has a consequence!
+
+**Push for equal legal status for all New Zealanders, irrespective of race**
+
+8) Our eighth agenda item is to give effective force to Article III of the Treaty of Waitangi – the clause which asserts that all New Zealanders have equal status at law. We reject the notion that the Treaty established a “partnership” between “the Crown” (on behalf of all New Zealanders) and a subset of New Zealanders defined by their ancestry. If Article III is taken seriously, it leaves no room for separate Maori electorates in Parliament, no room for Maori wards in local government, and no room for requiring consultation with Maori over and above the obligation to consult with any other New Zealander.
+
+We believe that, except where already in private ownership, the foreshore and seabed should belong to the Crown, on behalf of all New Zealanders. Because we are a party which believes in the rule of law, and in particular the right of all New Zealanders to have access to the courts, we also believe that those who think they have a customary right to certain parts of the foreshore should be allowed to have their claims tested in court. And we mean tested in court: we don’t regard negotiating such claims with a minister, within an intensely political environment where Parliamentary votes are at stake, as at all a substitute.
+
+We favour the enactment of a simple piece of legislation providing that nothing in any statute or regulation, whether passed by Parliament or by any other regulation-making body, should confer any benefit, preferment or special status on _anybody_
+
+by reason of the ethnicity of that person.
+
+Only a party vote for ACT will move New Zealand forward to a state where all New Zealanders – those of Maori ancestry, those of European ancestry, those of Asian ancestry, those of Pacific Island ancestry – all of us have equal rights under the law!
+
+**Re-establish a constructive relationship with Fiji**
+
+9) Finally, we will push to rebuild our relationship with Fiji.
+
+The ACT Party has long been in broad agreement with the thrust of New Zealand’s foreign policy: in particular, we favour the drive for building new relationships with China, India and other emerging countries in Asia, and for working hard to bring the Trans Pacific Partnership to a successful conclusion. We have supported the Government in its determination to fulfill New Zealand’s commitments in Afghanistan until next April. We continue to regard a close relationship with Australia, the United Kingdom, the United States and Canada as fundamental to our security.
+
+But we’ve come to the conclusion after extensive talks with Fijians now living in New Zealand, and New Zealanders with long experience in the Pacific, that our present policy of holding the Bainimarama regime at arm’s length is not working for New Zealand or for Fiji.
+
+Fiji has long been family: many New Zealanders holiday there and a significant number have business interests there. Many New Zealanders were born there.
+
+We need to rebuild a positive relationship with that country – encouraging the regime towards its professed aim of building a vibrant colour-blind democracy, based on one vote one person.
+
+Only a party vote for ACT will lead to a re-examination of our relationship with Fiji!
+
+So there you have a summary statement – the ACT Plan for the next Parliamentary term if you like – setting out what we will be aiming to achieve in the next Parliament.
+
+All of our policies are motivated by a concern for those New Zealanders who, like Adrian and Jules Paalvast, want to return to their homeland, but feel that they can’t do so in fairness to their children. And for those who still live in New Zealand but feel deeply torn between what this country has to offer and the much higher living standard which, for the foreseeable future, they could enjoy abroad.
+
+And when we look at the policy positions being adopted by other potential partners of the National Party, we’re convinced that ACT is the most logical partner for National.
+
+The parties of the left – Labour, Mana, Maori and Green parties – are in a competition over who can come up with the most economically irrational policies. They are in a race to increase the minimum wage – in the process, destroying jobs and consigning those they claim to represent to the unemployment benefit. So much for compassion!
+
+Their other policies would be just as destructive. The Maori Party wants to exempt the first $25,000 of income from tax; to make teaching te reo compulsory in secondary schools; to scrap the 90 day probationary period; to write Treaty of Waitangi principles (whatever they are!) into employment law; and to give iwi a veto over foreign investment.
+
+The Green Party wants to protect the environment, as of course we in ACT do also, but has a totally unworldly view of how economies work and has no understanding what a devastating impact on our living standards the implementation of their core policy platform would have. For a party that talks up their opposition to big business, they seem intent on delivering massive subsidies to big businesses that promise to create so-called “green jobs” – despite policies of that kind leading to massive job losses in countries such as Spain which have gone down that path.
+
+By contrast, ACT shares much the same basic philosophy as the National Party – a belief in freedom, in individual responsibility, in limited government, in equal citizenship, a belief that New Zealanders’ lives would be better by having less government – less government taxation, less government spending, less government borrowing, less government bureaucracy. And we actually mean it!
+
+Of course, we have differences of opinion with National too. We want to see much more vigorous action to deal with our problems than National has felt able to deliver over the last three years.
+
+But we haven’t the slightest doubt that we could again work constructively with National, to the benefit of all New Zealanders – high income and low income; young and old; urban and rural; Maori, Asian, Pacifika and European.
+
+And that’s my message to all New Zealanders. ACT is the only party with the experience and the commitment which can help a John Key-led Government deal with the challenges which our country faces.
+
+And those challenges are huge.
+
+In a world getting tired of countries which can’t live within their means, we’re still borrowing like there is no tomorrow.
+
+In a world where our people are getting steadily greyer, we’re not confronting the challenges posed by the increasing cost of New Zealand Super, of care for the aged, and of healthcare.
+
+In a world where people find it easier and easier to move countries, we’re drifting off the pace, and seeing too many of our young people deciding to make a better life for themselves somewhere else.
+
+A party vote for ACT at this election is your best way to ensure that we meet those challenges, for the benefit of all New Zealanders.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

@@ -1,0 +1,135 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2006-11-16
+source-url: https://www.scoop.co.nz/stories/ED0611/S00070/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 16 November 2006, 1:25 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Lincoln delays some change, proceeds with others  
+Following six weeks of consultation with staff, students and industry groups, Lincoln University announced this week that it has put on hold proposals to withdraw from a number of academic programmes. While the University will proceed with plans to phase out the Bachelor of Maori Planning and Development and Bachelor of Commerce (Forestry) from 2007, it has delayed decisions on Social Sciences, Recreation Management and Environment Management until early next year.  
+As a result of the changes, it is predicted that only two jobs will be immediately disestablished, with the Vice-Chancellor, Professor Roger Field, saying that the University aims to redeploy the staff into other positions where possible. If the University’s original proposals had been adopted, as many as fifteen academic positions would have been lost.  
+Professor Field said that more than one hundred submissions on the original proposals had been considered through the submission process. “As a result, further consideration of existing programmes will be undertaken, and decisions will then made by the Academic Board and Council,” he said. “Through these changes Lincoln University will strengthen its distinctive focus on research, postgraduate supervision and teaching innovation related to the further development of agriculture, commerce, the environment and relevant industries. The University’s strategy as a research-intensive provider of interdisciplinary qualifications closely aligned to New Zealand’s current and future needs has a global focus.”  
+Association of University Staff Lincoln Branch spokesperson, Dr Clare Simpson, said that, while it was positive that the consultation had resulted in changes to specific proposals, the University still planned to proceed with reviewing academic programmes for 2008, and that it was still possible that there would be a negative impact on jobs.  
+The President of Lincoln University Students’ Association, Paul Rutherford, said that the process of performing a full review for each division should have been followed from the outset. “Some of these changes did not lend to the multidisciplinary study that has developed at the University. In addition, some exceptional, widely-recognised and well-respected staff would have been lost in the process,” he said.  
+Documents released by the University show that the terms of reference for further reviews would be made available by mid-December, with further changes to be made to the academic programme structure in 2008.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. University staff pay for poor management as academic values go down the drain  
+2\. Fresh start for overseas student-loan borrowers  
+3\. Educational capital increases as population becomes better qualified  
+4\. Student growth will slow, predicts report  
+5\. Otago fees to increase  
+6\. Baghdad universities close as violence escalates  
+7\. Battle-lines drawn in Oxford debate  
+8\. Settlement welcomed in discrimination complaint  
+9\. “Trust me” fails to build confidence  
+10\. Leading scientist sheepish
+
+University staff pay for poor management as academic values go down the drain  
+University of Auckland staff say they are paying the cost of poor management and inadequate planning, following confirmation that twenty-one full-time academic positions are to be cut from the University’s Faculty of Arts.  
+The Faculty’s recently released Academic Staffing Confirmation Document says that nine academic staff positions are to be disestablished from Arts, with a further 12.25 full-time positions to be lost through retirement, natural attrition and/or voluntary severance. A further thirty-three jobs are expected to go from the Faculties of Education and Business.  
+The Association of University Staff (AUS) Auckland Branch President, Dr Helen Charters, said that the University’s decision to cut jobs was a crude and short-sighted action, caused primarily by a management which has failed to take account of demographic trends, fiddled with degree structures and increased student fees and which has acted in a way that generally entrenches a destructive market-mentality “bums-on-seats” approach to public education.  
+Dr Charters said that the University was compromising the academic well-being of the University by making decisions based solely on a short-term financial basis without consideration of the academic consequences of its decisions. “The Vice-Chancellor acts as though the University is a corporation, where each staff member is expected to turn a profit, and where academic and social values are given only token acknowledgement,” she said. “This undermines important functions of a university: to ensure the advancement of knowledge, to foster and protect critical thinking and to advance the country’s social and economic development.”  
+Dr Charters said that, when those charged with governance of the University fail in their duty to defend academic values, it was the moral and legal responsibility of every academic to speak out. She said that AUS would continue to fight the proposed job losses, to defend academic standards and values and seek a more collaborative relationship with the governors and managers of the University.  
+A background document, “Union stands up for academic values”, which sets out a more detailed response to the proposed staff cuts, can be found at:  
+http://www.aus.ac.nz/branches/auckland/akld06/Ak-SupplementaryStatement.pdf
+
+Fresh start for overseas student-loan borrowers  
+New rules unveiled this week by the Government will take the pressure off students and graduates who have headed overseas with a student loan, giving them what the Minister for Tertiary Education, Dr Michael Cullen, describes as a fresh start.  
+Under the new rules, loan borrowers going overseas for up to three years will have a “holiday” on loan repayments, although their loans will still attract interest. For those borrowers overseas, but not on a repayment holiday, the yearly repayments will be between $1,000 and $3,000, based on the size of their loan balances. It is also proposed to extend an amnesty for non-resident borrowers currently in arrears to 31 March 2008, meaning that penalties will be wiped for those who apply for the amnesty and meet certain repayment conditions.  
+According to Dr Cullen, it has become clear that the rules around overseas borrowers need to be improved as they discourage many from meeting their obligations and may deter some from coming home. “We recognise that graduates want to travel overseas and gain valuable skills and experience and that repaying student loans during their OE can be difficult,” he said. “However, we don't want them to accumulate an unmanageable debt in the process which ends up discouraging them from returning home and contributing to the economy.”  
+Other changes proposed include simplifying the rules that determine whether someone is a New Zealand or overseas borrower, writing off the interest for borrowers who had repaid their loans by 13 November 2006 and had an interest write-off to which they were not entitled and, from 1 April next year, reducing the late payment penalty for borrowers from 2.0 percent to 1.5 percent per month.  
+Detailed information on the changes can be found at:  
+http://www.taxpolicy.ird.govt.nz./
+
+Educational capital increases as population becomes better qualified  
+Between 1981 and 2001, the proportion of New Zealanders aged fifteen years and over with a bachelors degree nearly tripled, increasing from just under 3 percent to 8 percent of the population, while the proportion with postgraduate degrees almost doubled, from an estimated 2 percent of the population in 1981 to nearly 4 percent in 2001. Most of the growth has occurred since 1991. During the same period, the proportion of the population with no qualification decreased from 55.2 percent in 1981 to 27.6 percent in 2001.  
+A new Ministry of Education report, Trends in the Contribution of Tertiary Education to the Accumulation of Educational Capital in New Zealand; 1981-2001, says that tracking the tertiary-education qualifications of the population is one of the key determinants in analysing the country’s economic progress. It says the accumulation of qualifications is an index of human educational capital.  
+Among other key findingswere that more people are gaining qualifications in science and technology-related fields; that New Zealand Europeans were two and a half times more likely than Maori to have a degree and three times more likely than Pasifika people; that the gap in qualifications levels of men and women has narrowed, and in some cases reversed, with more women than men under age thirty-five now having degrees; and that the proportion of New Zealanders born overseas is increasing and that they are better qualified.  
+Migration data show a net loss of degree-holding New Zealanders aged under thirty heading overseas, but a gain in adults aged over thirty returning. The report estimates that the outflow continues to be higher than the level of New Zealanders returning.  
+This report can be found at:  
+http://educationcounts.edcentre.govt.nz/publications/tertiary/contribution-tertiary81-01.html
+
+Student growth will slow, predicts report  
+Although an increasing proportion of the population is obtaining tertiary-education qualifications, the rate of growth in the number of tertiary student numbers is predicted to slow significantly from that experienced in the peak growth period between 1999 and 2004, according to another Ministry of Education report, A changing population and the New Zealand tertiary education sector.  
+The report predicts that the size of the tertiary-education population will peak at around 483,000 domestic students in 2016 before decreasing to around 480,000 in 2021. People aged forty years and over will comprise over half the growth in all domestic-student numbers between 2005 and 2014.  
+The purpose of the report is to note the influence of projected population change on the tertiary-education system. It comments on the implications of demographic change for the size and make-up of the tertiary-student population, the network of public provision and, to a lesser extent, the levels of human educational capital the tertiary-education system produces.  
+One prediction in the report, which appears to run counter to popular assumption, is that there will be a diminishing proportion of school leavers with a university-entrance qualification. It says that this trend occurs as a result of changes in the ethnic composition of the school population and despite slight improvements recently in school achievement levels for each ethnic group. Students of European ethnicity are expected to decrease from 65 percent of all students to 57 percent, while there will be relatively more Maori, Pasifika and, most noticeably, Asian students, who will comprise 16 percent of all students by 2021.  
+This report can be found at:  
+http://educationcounts.edcentre.govt.nz/publications/tertiary/changing-population.html
+
+Otago fees to increase  
+The University of Otago says it will remain among the more affordable of New Zealand’s universities in 2007, despite increasing tuition fees on Tuesday night by an average 3.9 percent. Most undergraduate fees will rise by the full amount permissible under the Government’s fee-maxima policy, which stipulates that undergraduate fees cannot increase by more than 5 percent in any one year, and postgraduate fees by any more than $500 per equivalent full-time student.  
+Tuition fees for undergraduate degrees in Arts, Teaching, Business, Law and Science degrees will all increase by 5 percent, while those in Health Sciences, Medicine, Dentistry and Physiotherapy (to year three) will rise by 2.5 percent.  
+University Chancellor Lindsay Brown said all universities in New Zealand are facing major financial pressures as they budget for 2007, the main reason being that the Government tuition subsidy will increase by only 2.5 percent, while university costs were increasing by as much 6 percent.  
+Mr Brown says the University Council always regretted the need to increase fees. “However, if we wish to maintain the quality of degrees awarded by this University and the standard of research produced, we must be realistic about the costs associated with achieving this,” he said. “Despite this fee increase, the 2007 budget will still be difficult for the University.”
+
+Worldwatch  
+Baghdad universities close as violence escalates  
+Universities in the Iraqi capital of Baghdad have been closed indefinitely following the abduction of as many as 150 professors and education officials in a raid on a building of the Higher Education Ministry by armed men wearing military-style uniforms.  
+The abductions on Tuesday this week were reported to be the boldest in a series of killings and other attacks on Iraqi academics that are reportedly robbing Iraq of its brain trust and prompting thousands of professors and researchers to flee to neighbouring countries.  
+It has since been reported that seventy of those abducted have been found, and it remains uncertain how many are still being detained by the gunmen.  
+In recent weeks, a university dean and a prominent Sunni geologist have been murdered, bringing the death toll among educators to at least 155 since the war began. Academics have apparently been singled out because of their relatively high public stature, vulnerability and known views on controversial issues in a climate of deepening Islamic fundamentalism.  
+Media reports say that, even before Tuesday's kidnapping, teaching in Iraq was a deadly profession, but the recent violence and exodus of academics has reduced a once-thriving academic community to a state of fear. Many academics have fled, leaving Iraq's Education and Higher Education Ministries struggling to provide students with a comprehensive curriculum.  
+It is not clear who is targeting academics, with some Iraqis saying that it is just part of the sectarian violence gripping the country while others have said the problems arise from rebellious students.  
+From Reuters, the Education Guardian and The Australian
+
+Battle-lines drawn in Oxford debate  
+Eminent academics gathered yesterday to debate how Oxford University should be run in what has become one of the most publicised and entrenched disputes over governance at a British university. At issue is a proposal by the Vice-Chancellor, John Hood, to change the structures by which the 900-year-old institution is governed.  
+At present, the University's principal decision-making body is the Council, a twenty-six-member board charged with overseeing everything from academic policy to strategic and financial planning. Council members are appointed by the Congregation, made up of 3,700 members of the academic staff. Each of them is attached to one of the University's thirty-nine colleges.  
+The Vice-Chancellor has proposed transferring control to a new Council of fifteen trustees, a majority of whose members would be “outsiders”, that is, individuals with business and management experience but no direct connection to the University.  
+Debated yesterday was a proposed amendment to Dr Hood’s proposal that would allow Oxford academics to vote a fellow don on to the Council in five years time, giving a majority of eight insiders (including the Vice-Chancellor) to seven external members. Described by opponents as an insurance against the reforms being implemented, the amendment was carried by 652 to 507 votes after what was described as two hours of rancorous debate.  
+The Congregation will meet again on 28 November to decide whether to support or reject the reforms.  
+From the Education Guardian
+
+Settlement welcomed in discrimination complaint  
+The Canadian Association of University Teachers (CAUT) has welcomed the settlement of a human rights complaint launched by eight female professors against a Canadian Federal Government research programme. In their complaint to the Canadian Human Rights Commission initiated in 2003, the professors argued that the design of the Federal Government’s Canada Research Chairs Program discriminated against equity-seeking groups.  
+CAUT President Greg Allain says the settlement breaks important new ground by requiring the Program to undergo a complete gender-based and diversity-based analysis. In addition, Allain notes, universities will have to establish targets for the representation of women, visible minorities, persons with disabilities and Aboriginal people and ensure that the recruitment process for chairs is “open, transparent, and equitable.”  
+According to Allain, a survey of chair-holders conducted by CAUT in 2005 found that only 20 percent of the chairs at that time had been awarded to women. Just over 9 percent were to visible minorities, with less than 2 percent identified as lesbian, gay, bisexual or transgendered, and only 1 percent indicated that they had a disability. Only 0.2 percent were Aboriginal Canadians.  
+Established in the 2000 Federal Budget, the Canada Research Chairs Program was provided with $900 million over five years to create 2,000 new university research chairs.
+
+“Trust me” fails to build confidence  
+Former University of Canterbury Vice-Chancellor, Professor Daryl Le Grew, is being taken to task, with accusations that the Launceston campus of his new charge, the University of Tasmania, is being downgraded in favour of the Hobart Campus.  
+Last week, Le Grew faced the Launceston City Council to respond to concerns after the Deputy Vice-Chancellor’s position, currently based in Launceston, was advertised as a Hobart-or-Launceston job, and that the Launceston-based Nursing School was to duplicate courses in Hobart.  
+Le Grew is reported to have “virtually admitted” that Launceston didn’t have its fair share of senior positions and that more could be done to improve that situation, but has given the Council a personal commitment that he would deal with the issue. “When I say something is going to happen, it will happen. Just give me time,” he said.  
+The Tasmania Examiner reports, however, that as much as Professor Le Grew says he wants to see the imbalance in senior positions between Hobart and the North addressed, recent evidence doesn’t exactly build confidence.
+
+Leading scientist sheepish  
+An internationally renowned academic is to be called before a disciplinary panel in the United Kingdom to answer allegations of “scientific malpractice” over research findings published in one of the world’s leading science journals, Nature.  
+The allegations involve a 2001 paper that reported that sheep can recognise the faces of other sheep for up to two years. A whistleblower raised questions about the validity of some of the data reported in the journal, including whether the death records of sheep tallied with the reported findings.
+
+The paper, titled ”Sheep Don't Forget a Face”, drew international attention at the time and made headlines in all major British newspapers.
+
+The scientist’s work on sheep and face recognition offered insights into the workings of the human brain and advanced the understanding of conditions such as autism and schizophrenia.  
+Time Higher Education Supplement
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

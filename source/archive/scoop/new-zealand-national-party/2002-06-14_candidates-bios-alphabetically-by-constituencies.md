@@ -1,0 +1,426 @@
+---
+slug: candidates-bios-alphabetically-by-constituencies
+title: "Candidates’ Bios, Alphabetically By Constituencies"
+date: 2002-06-14
+source-url: https://www.scoop.co.nz/stories/PA0206/S00247/candidates-bios-alphabetically-by-constituencies.htm
+author: new-zealand-national-party
+---
+Candidates’ Bios, Alphabetically By Constituencies
+==================================================
+
+**Friday, 14 June 2002, 5:03 pm**  
+**Press Release: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Aoraki  
+Wayne Marriott – Constituency and List Candidate  
+Wayne Marriott, 37, is a mediator for conflict resolution and negotiations, for the Ministry of Housing in Mid and South Canterbury, and North Otago. He has qualifications from several tertiary institutions. For the past 11 years, he has also been a South Canterbury St John Ambulance Officer. Wayne Marriott is a former candidate for the Aoraki seat.
+
+  
+Albany  
+Murray McCully – Constituency Candidate only  
+Hon Murray McCully, 49, MP since 1987, is National’s spokesman for SOEs, Housing and for Auckland issues. In his 15 years as an MP, he has been Minister of Customs, Housing, Tourism, ACC, and Sport, Fitness and Leisure Minister. He holds an Ll B and is a qualified barrister and solicitor. He has also been principal of a large public relations company.
+
+  
+Auckland Central  
+Pansy Wong – Constituency and List Candidate  
+Pansy Wong, 46, MP since 1996, is New Zealand’s first MP of Asian descent. She is National’s spokesperson for Ethnic Affairs and Energy and associate spokesperson for Commerce. Pansy Wong has an M Comm (Hons) from the University of Canterbury, is a former Director of Trust Bank Canterbury and the NZ Tourism Board, and is a member of the Lincoln University Council.
+
+  
+Banks Peninsula  
+David Carter – Constituency and List Candidate  
+Hon David Carter MP, 50, is National’s Finance spokesman. He was first elected to Parliament in a by-election in 1994. After graduating with a B Ag Sc from Lincoln University, he began a farming and business career which included launching New Zealand’s first cattle embryo transplant company. David Carter has been Associate Minister for Education, Revenue, and Food, Fibre, Biosecurity and Border Control. He and his wife have three daughters.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+  
+Bay of Plenty  
+Tony Ryall – Constituency and List Candidate  
+Hon Tony Ryall, 37, MP since 1990, is National’s spokesman for Police, Commerce and Economic and Regional Development. After graduating from Massey with a Business Studies degree, he worked as a corporate banking credit analyst. He has been Minister for SOEs, Local Government and Youth Affairs and Associate Minister of Justice. Tony Ryall is married, has two children, and again lives in the Bay of Plenty after his six years away in Palmerston North and Wellington.
+
+  
+Christchurch Central  
+Nicola (Nicky) Wagner – Constituency and List Candidate  
+Nicola Wagner, 48, is an e-business entrepreneur, company director and working mother who graduated from the University of Canterbury with her BA to become a secondary teacher. After moving into retailing, she lectured in business studies for three years at Christchurch Polytechnic, and began work for a fashion industry marketer. Eventually she became a director of her company, while continuing to work for her MBA through Massey which she gained in 1994. She has been Chair of the Board of Trustees of Cathedral Grammar, and is a Board Member of the Canterbury Employers’ Chamber of Commerce, the Christchurch Arts Festival, the Sustainable Cities Trust, and the Young Designers Award Trust.
+
+  
+Christchurch East  
+Stephen Johnston – Constituency Candidate only  
+Stephen Johnston, 49, has been a secondary school teacher since graduating from the University of Canterbury with his MA in English Literature. He also has a Diploma in Second Language Teaching from Massey. Stephen Johnston is President of the Waimairi Surf Life Saving Club, having been a member, captain or instructor with the Club since 1970, and has been the Chief Examiner for Surf Life Saving Canterbury since 2000.
+
+  
+Clevedon  
+Judith Collins – Constituency and List Candidate  
+Judith Collins, 43, has more than 20 years’ professional experience as a lawyer in general practice, with expertise in employment, commercial, property and tax law. She is Chair of the Casino Control Authority, President of the Auckland District Law Society and Vice-President of the New Zealand Law Society. Judith Collins has owned and operated two restaurants, and is a company director.
+
+Ian Lupton – List Candidate  
+Ian Lupton, 42, is an airline pilot who graduated from the Portsea Officer Cadet School in Victoria, Australia, and joined the New Zealand Army. After serving five years in the New Zealand Army, he was commissioned in the British Army where he served with a Gurkha Battalion, and later the Parachute Regiment and the Army Air Corps (AAC). He was Operations Officer for 4 Regt. AAC during the Gulf War. After leaving the British Army, he became a commercial pilot in East Africa, and an airline pilot, first in Europe, presently in Asia. He has also farmed in New Zealand and in England and is married with two young children.
+
+  
+Clutha-Southland  
+Hon Bill English – Constituency and List Candidate  
+Bill English, 40, is New Zealand’s next Prime Minister. He has been an MP since 1990. After gaining his B. Comm from Otago and a BA (Hons) in English Literature at Victoria, he went mixed cropping and sheep farming in Dipton. He was Minister of Health from 1996 and Minister of Finance and of Revenue in 1999. Bill English and his wife, Dr Mary English, have six young children. He keeps fit by running and playing for the Parliamentary rugby team, and has recently tried boxing.
+
+  
+Coromandel  
+Sandra Goudie – Constituency and List Candidate  
+Sandra Goudie, 49, has been a dairy farmer for 20 years, and a Thames-Coromandel District Councillor since 1999. She has a BA from Massey University. As well as being active in Federated Farmers, Sandra Goudie has judged for the Farm Environmental Awards and has been a Supplier Representative to the New Zealand Dairy Group.
+
+  
+Rodney Williams – List Candidate  
+Rodney Williams, 57, is the owner/operator of a small retailing business. He left school to apprentice as a radio technician, and then served in the Royal New Zealand Navy for 12 years, becoming a Chief Petty Officer. On leaving the Navy, Rodney Williams became a senior manager for a retail electronics chain, and has also been the operations manager for an engineering company. He has been Chair of the Paeroa Chamber of Commerce for 10 years.
+
+  
+Dunedin North  
+Katherine Rich – Constituency and List Candidate
+
+Katherine Rich, 34, MP since 1999, is National’s spokesperson for Broadcasting, Tourism, the Education Review Office, the National Library and National Archives. After gaining a B. Comm (Marketing) and a BA (Economics) for the University of Otago, she worked for MAF and the Foundation for Research, Science and Technology as a project analyst, before working in the private sector as a marketing manager and later as a company general manager. She is married with three children.
+
+  
+Dunedin South  
+Paul Foster – Constituency and List Candidate  
+Paul Foster, 25, is a Residential Support Co-ordinator at one of the University of Otago’s Halls of Residence. After beginning his career as a management intern in Northland, he has lived and worked ever since in the South Island, mainly in Dunedin. He has expertise in the development and maintenance of IT systems, and has been a tutor in several University-related academic support programmes.
+
+  
+East Coast  
+Leanne Jensen-Daines – Constituency and List Candidate  
+Leanne Jensen-Daines, 37, is a business manager and company director, currently completing a degree in Social Science. After completing school, she managed a family food business, before working at a paper mill and as a lab technician for an international chemical company. She now manages a family boutique, and is Chair of the Eastern Bay of Plenty Life Education Trust and is active in the EBOP Deer Farmers’ Association and the Te Puke Athletic Club.
+
+  
+Epsom  
+Richard Worth – Constituency and List Candidate  
+Richard Worth, 53, MP since 1999, is National’s spokesman for Courts, Defence, Veterans’ Affairs and associate spokesman for Justice. He is a Master of Jurisprudence (First Class Hons) from the University of Auckland and a Massey University MBA. He is chairman of the subsidiary of an international insurance broking and risk management company, and a forestry consulting company. Richard Worth is also a past Board Member and Treasurer of the NZ Law Society.
+
+  
+Eric Liu – List Candidate  
+Eric Liu, 41, is a business director and broadcaster. He was born in Taipei and graduated from National Taiwan University with his BA in political science. After two years as an officer in the Taiwanese navy, Eric Liu gained a Masters degree in accountancy from Western Michigan University. While working as a Congressional assistant for a year in Taipei, Mr Liu chose to move to New Zealand. He became General Manager for a development corporation and is presently the Managing Director of Ace Broadcasting Ltd (AM990, Auckland).
+
+  
+Hamilton East  
+Tony Steel – Constituency Candidate only  
+Tony Steel, 60, MP from 1990 to 93, and again from 1996, is National’s Junior Whip, spokesman for Sport, Fitness and Leisure, and associate spokesman for Education. He has an MA (Hons) from the University of Canterbury, graduating in 1966 to become an All Black. Tony Steel was also NZ sprint champion in 1965/66. After working as a secondary school teacher in New Zealand and Australia, he became Headmaster of Hamilton Boys’ High School between 1979 and 1990.
+
+  
+Hamilton West  
+Bob Simcock – Constituency and List Candidate  
+Bob Simcock, 55, MP since 1996, is National’s spokesman for Social Services, Employment and Work and Income. After graduating with an M Soc Sci (Hons) from the University of Waikato, he became a clinical psychologist in private practice and in prisons and hospitals. As a deer farmer, he was a councillor for the NZ Deer Farmers’ Association. Bob Simcock has also managed a livestock exporting business, been a Director of a large Crown Health Enterprise and has been actively involved with several voluntary family support services. He is married with three adult children.
+
+  
+Helensville  
+John Key – Constituency and List Candidate  
+John Key, 41, grew up in a state house, graduated from the University of Canterbury with a B. Comm, and launched his investment banking career in the mid-80s. After 10 years, he joined Merrill Lynch’s investment banking arm in New York City, where he also became a member of the Foreign Exchange Committee of the Federal Reserve Bank of New York. John Key is married with children.
+
+  
+Hutt South  
+Richard Townley – Constituency and List Candidate  
+Richard Townley, 22, is a history student at Victoria University of Wellington. He is working part-time to pay his way through university, and has been a history researcher and a tutor of speech and drama.
+
+  
+Ilam  
+Gerry Brownlee – Constituency and List Candidate  
+Hon Gerry Brownlee, 46, MP since 1996, is National’s spokesman for ACC, Superannuation and Shadow Leader of the House. He began his working life in his family’s timber business, then trained as a carpenter and operated his own business. Later, he trained as a teacher and with five years’ experience, became Head of the Technical Department at St Bede’s College, Christchurch. Gerry Brownlee has also served on several public and community group boards and played and coached club rugby for many years. He is married and has two young children.
+
+  
+Invercargill  
+Eric Roy – Constituency and List Candidate  
+Eric Roy, 53, MP since 1993, is National’s spokesman for Biosecurity and Border Control, and associate spokesman for Agriculture and Fisheries. Before entering Parliament, he was a farmer, a flower exporter and a company director. Eric Roy has been Junior Government Whip and Assistant Speaker, and was Chair of the Primary Production Select Committee for two Parliamentary terms.
+
+  
+Kaikoura  
+Dr Lynda Scott – Constituency and List Candidate  
+Dr Lynda Scott, 45, MP from 1999, is National’s spokesperson for Senior Citizens’ and Disabilities issues, and associate spokesperson for the Health and the Welfare portfolios. After leaving school, Dr Scott trained as a nurse before owning and operating a rest home with her husband, while her son was young. After completing a BA from Massey, she moved to Auckland to attend medical school. She has since worked as a geriatrician at Wairau Hospital.
+
+  
+Allison Lomax – List Candidate  
+Allison Lomax, 51, is self-employed as a health projects manager and is an ostrich farmer. She began her career as a nurse, but switched to health management in the 1980s, becoming General Manager of Hospital Services in Nelson/Marlborough in 1990. Allison Lomax has also served as acting CEO of Southern Health and CEO of Health South Canterbury.
+
+  
+Mana  
+Sue Wood – Constituency and List Candidate  
+Sue Wood, 53, is the Managing Director of her own public relations company. After graduating with a BA and a Diploma of Teaching, she began work as a journalist and later as a secondary school teacher. She was a Vice-President of the National Party for five years before becoming President between 1982 and 1986. Since becoming self-employed, she has travelled professionally around the world, and she has been a member of the Boards of the Museum of New Zealand, Trustbank Wellington, Pub Charity, Downstage, the Dame Malvina Major Foundation and Arts Access Aotearoa. She and her husband have two adult daughters.
+
+  
+Mangere  
+Sylvia Taylor – Constituency and List Candidate  
+Sylvia Taylor, 55, has been in commercial and industrial real estate sales for 18 years. After leaving school, she had her own hairdressing business and has also been a clothing manufacturer. Her greatest political goal is for the health and education of Maori and Pacific Island people in her electorate to be greatly improved.
+
+  
+Manukau East  
+Arthur Anae, Constituency and List Candidate  
+Arthur Anae, 56, MP since 1996, is National’s spokesperson for Pacific Island Affairs. Before entering Parliament, he was self-employed, with interests in travel, property, taxis and farming. He is the inaugural Chairman of the Pacific Islands Chamber of Commerce, and the Chair of the Radio 531 PI management board. He is a past Chairman of the Finance and Development Committee of the Pacific Islands Presbyterian Church in Newton, and is a trustee of the ASB Community Trust.
+
+  
+Manurewa  
+Enosa Auva’a – Constituency and List Candidate  
+Enosa Auva’a, 44, has been a teacher for 22 years, including 11 years as a primary school principal and 5 years in tertiary education as the director of a Private Training Establishment specialising in computer training. He has teaching and management qualifications from the University of Auckland, and is presently completing a master’s degree in Educational Management. Enosa Auva’a is married with four children, is well known in Auckland’s Samoan community and has been active for many years in the Presbyterian church.
+
+  
+Maungakiekie  
+Belinda Vernon – Constituency and List Candidate  
+Belinda Vernon, 43, MP since 1996, is National’s spokesperson for Transport, and Arts, Culture and Heritage. After gaining her B. Comm at the University of Auckland, she worked as an accountant then with a shipping company in London for four years. Upon her return home, Belinda Vernon became Financial Controller and then Company Secretary for a Trans-Tasman shipping line.
+
+  
+Mt Albert  
+Raewyn Bhana – Constituency and List Candidate  
+Raewyn Bhana, 36, is a Supervisor with a social service agency. She has worked for 13 years with Child, Youth and Family Services, manages a rugby league team and is secretary for a rugby league club.
+
+  
+Mt Roskill  
+Brent Trewheela – Constituency and List Candidate  
+Brent Trewheela, 48, is a company manager with a BA in political studies and labour relations from the University of Auckland. His business experience is diverse, ranging from being a self-employed cabinet maker and shopfitter, to being a furniture manufacturer. Brent Trewheela has three children, and believes strongly in the philosophy of self-improvement through hard work. He is presently launching a boat charter business.
+
+  
+Napier  
+Anne Tolley – Constituency and List Candidate  
+Anne Tolley, 49, MP since 1999, is National’s spokesperson for Women’s Affairs and Early Childhood Education. As her children grew up, she became involved in various community activities, and won election to the Napier City Council in 1986. She was Deputy Mayor of Napier between 1989 and 1995, is still active in a number of Napier community groups and is a Justice of the Peace.
+
+  
+Nelson  
+Nick Smith – Constituency and List Candidate  
+Hon Dr Nick Smith, 37, is National’s spokesman for Education and the Environment. When first elected in 1990, Nick Smith was New Zealand’s youngest MP. After graduating with a Bachelor of Engineering (1st Hons) and a Ph. D. in Civil Engineering, he worked as a research engineer. He has been Minister of Conservation, Education, and Corrections.
+
+  
+Guy Salmon – List Candidate  
+Guy Salmon, 52, is Executive Director of an environmental consultancy. He graduated from VUW with a BA in 1973 to become a TV reporter and interviewer. Later, he was active for many years in organisations working to protect native forests. He became Chief Executive of the Maruia Society in 1988, and later founded the environmental consultancy for which he still works. He has been a member of MFAT’s Environmental Advisory Group, of the Ministry for the Environment’s Working Group on CO2 Policy, and of the boards of EECA and Landcare Research.
+
+  
+New Lynn  
+Brendan Beach – Constituency Candidate only  
+Brendan Beach, 22, is a manager in a chain restaurant, and is also working towards a business studies qualification. He worked in his first election campaign when he was 14. Brendan Beach is presently Northern Region Chair of Young Nationals.
+
+  
+Steven Joyce – List Candidate  
+While studying at Massey University in the early 1980s, Steven Joyce, 39, launched a radio station (Energy FM) in New Plymouth in 1987. Over the next 13 years, he built the original station into a multi-million dollar company, The RadioWorks, employing 600. The company was bought out for more than $100 million in 2001.
+
+  
+New Plymouth  
+Geoff Horton – Constituency and List Candidate  
+Geoff Horton, 51, now owns and operates a café, after having been the manager of a meat plant, a Police constable and youth aid officer, a real estate agent and the manager of a radio station. He is a volunteer fireman and service club member. Geoff Horton is married with three children.
+
+  
+North Shore  
+Dr Wayne Mapp – Constituency and List Candidate  
+Dr Wayne Mapp, 50, MP since 1996, is National’s Justice spokesman and is an expert on international trade and constitutional law, and taxation. He has an Ll B (Hons) from the University of Auckland, an Ll M from the University of Toronto and a Ph D from Cambridge. Before entering Parliament, he was an officer in the Territorials, practiced law, and was Associate Professor of Commercial Law at Auckland University.
+
+  
+Northcote  
+Jeremy Sole – Constituency and List Candidate  
+Jeremy Sole, 42, is presently Country Manager for an Auckland retail performance development company. After completing two business qualifications at the University of Auckland, he began his career as a polytech tutor in Wellington. Jeremy Sole was then self-employed for 15 years, in sales of services and technical products to large New Zealand and Australian retailers.
+
+  
+Allan Peachey – List Candidate  
+Allan Peachey, 52, is the Principal of New Zealand’s largest secondary school, Rangitoto College, having been a teacher since 1974. He has an MA (Hons) from the University of Canterbury. He has been President of the Secondary Principals’ Association and is a Director of North Harbour Rugby. Allan Peachey is seeking the opportunity to reverse the harm being done by current education policies, and to lift the overall performance of New Zealand’s education system.
+
+  
+Northland  
+John Carter – Constituency and List Candidate  
+John Carter, 52, MP since 1987, is Senior National Whip, Deputy Leader of the House, and National’s spokesman for Civil Defence and Emergency Services. Before entering Parliament in 1987, he was Principal Officer for the Hokianga County Council.
+
+  
+Ohariu-Belmont  
+Dale Stephens – Constituency and List Candidate  
+Dale Stephens, 42, is a Business Development Manager and company director. He entered the NZ Police at 18, and rose to the rank of Inspector during his 21-year career in policing, 16 years of which was involved in serious crime investigation, and in the presentation of Crimewatch. On leaving the police, he became NZ Business Development Manager for a major international recruitment firm. Dale Stephens continues to volunteer time to many community groups, including CCF, the Infertility Foundation, the D.A.R.E Programme and Ronald McDonald House. He is married and has a daughter.
+
+Otaki  
+Roger Sowry – Constituency and List Candidate  
+Hon Roger Sowry, 43, MP since 1990, is National’s Deputy Leader. He is also National’s spokesman on Health. He has been Minister of Social Welfare and of Housing, and Associate Minister of Health. After qualifying in business administration he worked for many years in the private sector. He has four children and has lived in the Otaki electorate since 1988.
+
+  
+Otago  
+Gavan Herlihy – Constituency and List Candidate  
+Gavan Herlihy, 55, MP since 1996, is National’s agriculture spokesman. He has an M Ag Sci (Hons) from Lincoln University and farmed before joining the NZ Meat Producers’ Board as an economist. He as also worked as an economist for the NZ Meat and Wool Board Economic Service. Gavan Herlihy is married with two children.
+
+  
+Pakuranga  
+Maurice Williamson – Constituency Candidate only  
+Hon Maurice Williamson, 51, MP since 1987, is the National spokesman for tertiary education, information technology and research, science and development. He has been an MP since 1987, after completing graduate studies in computer science and applied mathematics. He is a former Minister of Research, Science and Technology, Communications, Statistics, Information Technology, Transport, Local Government and Broadcasting.
+
+  
+Plamerston North  
+Dave Scott - Constituency and List Candidate  
+Police Inspector Dave Scott, 52 is currently the police area commander for Palmerston North and has thirty-six years continuous service with the New Zealand Police twenty-four of which as a commissioned officer. Dave is a pastor on a marae based church and is deputy chair of the Palmerston North Safer Community council and is on the advisory board of Drug Arm and Youth Line. Dave is married with Four children.
+
+Piako  
+Lindsay Tisch – Constituency Candidate only  
+Lindsay Tisch, 54, MP since 1999, is National’s spokesman for the racing and the gaming industries. He began his working life as a valuer, farmer and farm appraiser. Before entering Parliament, he was a management consultant and company director with expertise in financing, marketing and business re-structuring. Lindsay Tisch is a Justice of the Peace and was the National Party’s President in 1994.
+
+  
+Port Waikato  
+Paul Hutchison – Constituency and List Candidate  
+Research Institutes, and associate spokesman for Research, Science and Technology, Health, and Biotechnology. Before entering Parliament, Dr Hutchison was a specialist obstetrician and gynaecologist, at one stage being Clinical Lecturer at the University of London.
+
+Rakaia  
+Brian Connell – Constituency Candidate  
+Brian Connell, 46, is a farmer and former international business consultant. After graduating with a BA in History and Geography from Massey, and studying for a Diploma in Teaching, he became a primary, then a secondary school teacher for several years, following which he joined middle management in State Bank, in Victoria, Australia. Later he held senior positions in large multi-national companies, and presently holds various business directorships. He is married with two children.
+
+  
+Rangitikei  
+Simon Power – Constituency and List Candidate  
+Simon Power, 32, MP since 1999, is National’s spokesman for Labour, Industrial Relations and Youth Affairs. He has a BA in International Politics and an Ll B from Victoria University. He was a solicitor before entering Parliament, and is a member of many social and service clubs in his constituency.
+
+  
+Rimutaka  
+Mike Leddy – Constituency Candidate  
+Mike Leddy, 44, is a financial planner part way through his Master of Philosophy degree. After 12 years in the New Zealand Army as an Electrical and Mechanical Engineering officer, he spent 11 years in intelligence and analysis and served a year as a UN peacekeeper. Mike Leddy has run his own company for seven years and is the former Chair of the Wellington Investment Advisers and Financial Planners Association.
+
+  
+Rodney  
+Dr Lockwood Smith – Constituency and List Candidate  
+Hon Dr Lockwood Smith, 54, MP since 1984, is one of New Zealand’s most experienced Parliamentarians, being first elected in 1984. After graduating as a Ph. D in Animal Science from the University of Adelaide and lecturing there, Dr Smith became a television presenter, and was the Dairy Board’s marketing manager for Central and South East Asia. He continues to farm in Northland and has been Minister of Agriculture, Trade, Forestry and Tourism. He is National’s spokesman for Foreign Affairs and associate spokesperson for Finance.
+
+  
+Rongotai  
+Glenda Hughes – Constituency and List Candidate  
+Glenda Hughes, 51, is a media and communications management strategist. She holds a BA in Criminology and Sociology from Victoria University. She began her career as a computer programmer, before becoming a systems analyst at the Ministry of Defence. She entered the NZ Police for 18 years, leaving to become self-employed in media management in 1988. She is a member of the Boards of Sport Wellington, Capital Shakers Netball, Netball New Zealand and Eventing New Zealand.
+
+  
+Rotorua  
+Malcolm Short – Constituency Candidate only  
+Macolm Short, 62, is a company director. After going to university he worked for his family’s transport company, becoming Managing Director after nine years. He has been Deputy Chair of the NZ Maori Arts and Crafts Trust and is a committee member of the Rotorua Rugby Club.
+
+  
+Alan Delamere – List Candidate  
+Alan Delamere, 48, is the owner/operator of a Rotorua transport/courier company. He lived in Australia for 14 years after leaving school, becoming a purchasing officer for Australian hospitals and later, for the New Zealand Army. Alan Delamere has been on school committees in Australia and New Zealand, and is a Maori Land Trustee. He is married with two children.
+
+  
+Hillary Webber – List Candidate  
+Hillary Webber, 52, is a dairy farmer and company director who is also a registered nurse. She has a Bachelor of Social Science from the University of Waikato and a VUW Masters degree in Public Policy. From 1994 to 2000, she was a Director of the New Zealand Dairy Group. Presently, she is a Director of New Zealand Dairy Foods, and is on the Boards of Mighty River Power and AgResearch. Hillary Webber is also an active volunteer for Parentline, Playcentre, Scouts and Guides, and has been a school trustee.
+
+  
+Tamaki  
+Clem Simich – Constituency Candidate  
+Hon Clem Simich, 63, MP since 1992, is National’s spokesman for the Attorney-General’s Office, and for Internal Affairs, excluding gaming. He has been Minister of Police, Corrections, Racing and Minister in Charge of the Audit Office. Clem Simich has a Ll B and BA and was a High Court barrister and solicitor before becoming the General Manager of a property and development company.
+
+Tamaki Makaurau  
+George Ngatai – Constituency and List Candidate  
+George Ngatai, 31, has very broad experience in community service. He has been a school trustee, Chair of Eastern Bay of Plenty Broncos Sports Club, a member of Budget Services and a marae committee. He has a tertiary business administration qualification, is a trustee of Te Wero Lands Trust, a director of Sun FM and works with Ngati Awa Social and Health Services. George Ngatai is a self-employed Crime Prevention Co-ordinator.
+
+  
+Tainui  
+Kevin Davies – Constituency Candidate only  
+Kevin Davies, 48, is a company director who began his working life as a salesman, truck driver and fire and ambulance officer. After he graduated with a Batchelor of Business degree from Victoria University in Melbourne, he worked in investment banking. He has been the managing director of his present firm for six years. Kevin Davies is active in the Church of Jesus Christ of the Latter Day Saints.
+
+  
+Taranaki-King Country  
+Shane Ardern – Constituency Candidate only  
+Shane Ardern, 42, MP since 1998, is National’s spokesman for Rural Affairs and associate spokesman for Economic and Regional Development. After being a sharemilker for several years, he eventually acquired his own dairy farm in Te Kiri. He has also been involved with Federated Farmers, and with several local community groups.
+
+  
+Taupo  
+Weston Kirton – Constituency and List Candidate  
+Weston Kirton, 47, has been a King Country dairy farmer for 25 years. For six years, he was Mayor of Ruapehu District, after nine years as a Councillor and Deputy Mayor. Weston Kirton is a Justice of the Peace and is active in Taumarunui Jaycees and Lions Clubs, and the Taumarunui Racing Club.
+
+  
+Tauranga  
+Tim Macindoe – Constituency and List Candidate  
+Tim Macindoe, 41, recently retired as the Deputy Principal of St Peter’s School, Cambridge, where he taught since 1993. He has a BA (Hons) from the University of Otago. Before starting to teach at St Peter’s School, he taught in England, Scotland and, for two years, night classes in a Christchurch prison. He is active in the Anglican church, and is married with children. Tim Macindoe and his family have shifted to Tauranga and he is currently campaigning there full-time.
+
+  
+Te Atatu  
+Tau Henare – Constituency and List Candidate  
+Hon Tau Henare, 41, is presently a consultant, after being the MP for Northern Maori from 1993 to 1999, and a Cabinet Minister for three years from 1996. After completing school, he worked at many jobs until he became a Waitakere City Councillor in 1988. His greatest political goal is to encourage all New Zealanders to demand more from our education system.
+
+  
+Te Tai Hauauru  
+Greg White – Constituency and List Candidate  
+Greg White, 52, is the CEO of a fishing company and the Chief Negotiator for the Ngati Tama Iwi Development Trust. After leaving school, Greg White became a freezing worker, a storeman, the owner/operator of a small retail operation, and a building maintenance contractor, before becoming involved in researching land claims. He has run a fishing company for the past eight years. He served on the old Taranaki Harbour Board for six years and has been a member of the Iwi Liaison Subcommittee of the Taranaki Regional Council.
+
+  
+Te Tai Tokerau  
+Mita Harris – Constituency and List Candidate  
+Mita Harris, 31, is a biodiversity programme manager for DOC, in Northland. Of Nga Puhi descent, from the Hokianga, he has been in the Territorials, and has worked in the timber industry, retailing and the meat industry.
+
+  
+Te Tai Tonga  
+William Karaitiana – Constituency and List Candidate  
+Bill Karaitiana, 37, is self-employed as a business consultant. He has a Diploma of Teaching, a Bachelor of Education and an MBA from the University of Canterbury. He began his career as a primary school teacher, later becoming a trust officer and advisor to the Maori Land Court. Bill Karaitiana is Chair of Tahu FM and a Trustee of the Tawera Charitable Trust. He has been in private consulting practice since 1996.
+
+  
+Tukituki  
+Craig Foss – Constituency and List Candidate  
+Craig Foss, 38, is the former Managing Director of an interest rate trading group within Crédit Suisse First Boston. After being an AFS exchange student, he started work as a Trader with the Bank of New Zealand, before working for eight years in Japan, Europe and Australia for CSFB. Craig Foss is also the director of a private property company, and is married with one child. His second child is due in July.
+
+  
+Waiariki  
+Hamuera Mitchell – Constituency and List Candidate  
+Hamuera Mitchell, 50, is a company director and radio station manager. After graduating with a BA from Victoria University, he worked as a radio journalist for three years, before becoming a public servant for 13 years. Presently he is Chairman of the Ngati Whakaue Tribal Lands Trust, which for many years has made its education strategy its highest priority, closely followed by the lifting of the economic performance of the Trust’s assets.
+
+  
+Waimakariri  
+Dan Gordon – Constituency and List Candidate  
+Dan Gordon, 26, is an Insurance Loss Adjuster who is presently completing his BA - Ll B at the University of Canterbury. He has also worked as a dairy farm labourer, in the University of Canterbury Law Library and in the Parliamentary Service. Dan Gordon has been active in the National Party since 1995, holding Branch, Electorate, Regional and National positions.
+
+  
+Wairarapa  
+Ian Buchanan, Constituency and List Candidate  
+Ian Buchanan, 50, is a Wellington Regional Councillor, first elected in 1990. After graduating with a B Sc in Ecology with 1st class honours, he worked as a Wildlife Manager for NZ Fish and Game for many years. Ian Buchanan then started his own company. He has also been a Director of the Wellington Stadium Trust since 1999.
+
+  
+Waitakere  
+Marie Hasler – Constituency and List Candidate  
+Hon Marie Hasler, MP from 1990 – 93, and again from 1996, is National’s spokesperson for Immigration and Population, Consumer Affairs and Food Safety. In public relations before she entered Parliament, she was the National Party’s Woman Vice-President from 1995 to 1997, and from 1996 and 1998 was an Assistant Speaker of the House. Marie Hasler has also been Minister for Culture and Heritage, and Associate Minister for Accident Compensation, for the Environment and the Minister responsible for Radio New Zealand.
+
+  
+Wellington Central  
+Hekia Parata – Constituency and List Candidate  
+Hekia Parata, 43, is a company director with an MA from Waikato University, and who is presently completing her doctorate. She has also been a Senior Executive Fellow at the Kennedy School of Government at Harvard University. Hekia Parata has worked in both the public and the private sectors. In the public sector, she eventually became Deputy Chief Executive at Te Puni Kokiri. She is or has been on the Boards of her own consultancy, New Zealand On Air, Te Mangai Paho, and the Ngai Tahu Development Corporation.
+
+  
+Annabel Young – List Candidate  
+Annabel Young, 46, MP from 1997, is National’s spokesperson for the Revenue portfolio. Before entering Parliament, she was a tax specialist for 15 years practising in both legal and accounting firms, and with the IRD, as a lawyer and chartered accountant. Annabel Young was also a Signals Officer with the NZ Territorial Army for nine years. She has been a member of the Takeovers Panel, the Casino Control Authority and a Trustee of the Red Cross Foundation.
+
+  
+West Coast Tasman  
+Barry Nicolle – Constituency and List Candidate  
+Barry Nicolle, 60, has been self employed as a pest and predator control contractor for several years. He left school and apprenticed as a printer in Christchurch, before becoming Supervisor for the Kaikoura Pest Destruction Board. Barry Nicolle was Chair of the Coast Action Network for four years and is last year’s Westland District Council Person of the Year.
+
+  
+Rod O’Beirne – List Candidate  
+Rod O’Beirne, 49, is a Tasman District farmer who has been dairying since he was 18 years old. He earned a Certificate in Farm Management and began work as a farm labourer, later becoming a contractor and then a sharemilker. He worked his first West Coast farm for 10 years before buying a farm in Tasman District in 1992. He is a director of Tasman Milk Products, the Dairy Industry Training Organisation (ITO), the Agriculture ITO, and is a member of the Fonterra Shareholder Council.
+
+  
+Whanganui  
+Chester Borrows – Constituency and List Candidate  
+Chester Borrows, 45, is presently a student, although he has already completed an Ll B at VUW. On leaving school, he entered the New Zealand Police for four years. Chester Borrows is an active volunteer for Taranaki Victim Support, is a marriage celebrant and a Sunday school teacher. He is an Elder/Lay Preacher for the Presbyterian Church.
+
+  
+Whangarei  
+Phil Heatley – Constituency and List Candidate  
+Phil Heatley, 35, MP since 1999, is National’s Forestry spokesman. After completing a Masters degree with Honours in Agricultural Engineering, he and his wife, a registered nurse, volunteered for medical, agricultural and construction work in developing countries. After returning to New Zealand, Phil Heatley worked as an engineer for a Dairy Board subsidiary in Northland, surveying, designing farm buildings and solving farmers’ drainage and water supply problems. He is married with two children.
+
+  
+Wigram  
+Alec Neill – Constituency and List Candidate  
+Alec Neill, 51, MP 1990 – 96, 1999 and 2001, is National’s spokesman for Local Government, Conservation and associate spokesman for environmental matters. After graduating with an Ll B from the University of Otago, he became a solicitor in Dunedin, then a partner in his own law firm in Oamaru, specialising in commercial law and conveyancing.
+
+  
+Regional List Candidates
+
+Dr Don Brash  
+Dr Don Brash, 61, is widely respected internationally after 14 years as the Governor of the Reserve Bank of New Zealand. After studying at the University of Canterbury, he gained a Ph. D in Economics at Australian National University in 1966. He was an economist at the World Bank for five years, a director of Cavalier Corp. in the 1970s and 80s, before going on to work with Westpac Merchant Finance and becoming Managing Director of the NZ Kiwifruit Authority. Dr Brash was also Chair of the Consultative Committee on GST and other tax enquiries in the 1980s. He is married, and has three children.
+
+Peter O’Brien  
+Peter O’Brien, 69, is a Chartered Accountant who has been in public practice since 1967. He has several accountancy qualifications from the Institute of Chartered Accountants and the University of Auckland. Peter O’Brien has also served on the Auckland Electric Power Board and on the Hutt County Council, and is an active member and volunteer for several charitable organisations and service clubs. He is a former representative rugby league player, rower and yachtsman, is married, and has nine children.
+
+  
+Georgina Te Heuheu  
+Hon Georgina Te Heuheu, 59, MP since 1996, is the first Maori woman to gain a law degree and admission to the High Court as a Barrister and Solicitor. In the ten years before her election to Parliament, she held several appointments including membership of the Waitangi Tribunal and the Council of the University of Waikato. She has also served as Director of the Maori Development Corporation, the Midland Regional Health Authority and the Museum of New Zealand. Georgina Te Heuheu is of Ngati Tuwharetoa, Te Arawa and Tuhoe descent, is married and has two adult sons.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

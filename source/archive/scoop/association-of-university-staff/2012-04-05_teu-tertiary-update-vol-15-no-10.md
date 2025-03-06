@@ -1,0 +1,139 @@
+---
+slug: teu-tertiary-update-vol-15-no-10
+title: "TEU Tertiary Update Vol 15 No 10"
+date: 2012-04-05
+source-url: https://www.scoop.co.nz/stories/ED1204/S00030/teu-tertiary-update-vol-15-no-10.htm
+author: association-of-university-staff
+---
+TEU Tertiary Update Vol 15 No 10
+================================
+
+**Thursday, 5 April 2012, 11:52 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Lincoln swaps permanent staff for casual students
+-------------------------------------------------
+
+Mere days into its stewardship under a new vice-chancellor Lincoln University is proposing to restructure its Faculty of Commerce and make five senior tutors redundant.
+
+The change proposal document states that the university wants to disestablish all existing senior tutor positions in the faculty. A new 0.5 FTE administrative assistant will help to undertake the administrative tasks of eight senior tutor positions (of which three are already vacant).
+
+The university will also transfer the teaching-related tasks of senior tutors to teaching assistant positions (currently referred to in the Faculty as casual tutors) that work closely with, and report directly to course examiners.
+
+Lincoln management says casual tutors would usually be suitably qualified graduate students or senior undergraduate students but non-students may also be appointed to the role.
+
+TEU national secretary Sharn Riggs said she is concerned that this proposal may be the start of increased casualisation of the academic workforce at Lincoln.
+
+\"Not only is the university reducing the number of staff with no effort to also reduce workload, it is also replacing good, permanent jobs with casual, insecure ones."
+
+"I have concerns about the job security of academic staff who have invested time into developing teaching resources that may then be used by less qualified casual staff to cover their teaching requirements."
+
+Also in _Tertiary Update_ this week:
+------------------------------------
+
+1.  Govt signals another austerity budget
+2.  Joyce rejects call to prevent UC closures
+3.  TEC outlines its goals for 2013
+4.  Aussie uni comparison site 'must be treated with caution'
+5.  Other news
+
+Govt signals another austerity budget
+-------------------------------------
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The minister of finance, Bill English, announced this week that he will spend $800 million less in this year's budget than the Prime Minister John Key was forecasting only six weeks ago.
+
+That could be ominous for tertiary education come next month's budget warns TEU national president Dr Sandra Grey.
+
+"Before this austerity announcement Treasury was already forecasting the government to spend $80 million less on tertiary education next year and to fund nearly 2,000 fewer students," said Dr Grey. "If tertiary education bears its portion of this $800 million cut that could amount to further cuts of about $30 million - potentially the salaries of hundreds of staff helping to educate thousands of students."
+
+CTU economist Bill Rosenberg says the government is pursuing its budget surplus target for 2014/15 at all costs.
+
+"There is nothing in the February accounts that justifies this major turnaround since the Prime Minister’s statement barely six weeks ago that the May Budget would include an $800 million allowance for new spending unless 'we really saw a catastrophic meltdown in Europe'. There has been no catastrophic meltdown."
+
+"The February accounts are slightly better than January, but still show the government’s strategy of cutting taxes on high incomes and raising GST has not paid off. Income tax and GST revenue are still $825 million below even revised lower forecasts because people’s incomes are not rising as fast as expected by the government," said Dr Rosenberg.
+
+"The cuts in government expenditure are acting as further brakes on the economy which is stagnating as a result of weak demand. Further cuts will simply prolong the time before a real recovery takes place. The Christchurch rebuild has been repeatedly delayed and may not assist the rest of the economy sufficiently to reduce unemployment and stimulate activity outside a few construction-related industries and Canterbury itself. It's time for a change in strategy," Dr Rosenberg said.
+
+Joyce rejects call to prevent UC closures
+-----------------------------------------
+
+Tertiary education minister Steven Joyce told _the Christchurch Press_ he will not intervene to prevent the University of Canterbury from closing theatre and film studies, American studies and cultural studies.
+
+The minister was responding to an open letter from TEU last week asking him to provide the financial help so the departments could continue.
+
+The closures would make nine full time-equivalent staff redundant and affect 150 students.
+
+Joyce told _the Press_ the proposal to alter the mix of programmes was a decision for the university.
+
+"It is not appropriate for me as minister to interfere in the university's operations."
+
+TEU national president Dr Sandra Grey rejected that excuse saying the issue was not so much the individual departments but the need for the government to support a broad diverse and local tertiary education in Canterbury.  
+
+"If the vice-chancellor had not picked these three programmes he would be trying to pick three others," said Dr Grey. "One of the major problems at Canterbury is a systematic failure by government to support a diverse open university for all the people of Canterbury following the earthquakes. That is wider than interfering in internal decisions about three departments and it is something that the minister has a duty to address."
+
+TEC outlines its goals for 2013
+-------------------------------
+
+The Tertiary Education Commission has published its investment plan guidance for institutions in 2013. The investment guidelines tell institutions what areas they need to focus on to attract funding from the commission.  
+
+The commission will require institutions to make changes in eight areas to attract funding for next year. Those areas include making a bigger and clearer economic contribution to society; more learners engaged in study towards science, technology, engineering or mathematics qualifications; improved efficiency; better outcomes for Māori and Pacific learners; more published information for learners; pathways and transitions; literacy, language and numeracy (LLN); and international export education.
+
+TEU national president Dr Sandra Grey says the guidelines offer a more nuanced and holistic view of the government's direction for tertiary education than the minister or officials from Treasury or the Ministry of Education have so far outlined.  
+
+"It is heartening, for instance, to see the commission highlighting the need for a greater focus on Māori and Pacific learners, and on the need to improve pathways and transitions for secondary school leavers. While many institutions individually are doing good work on those two issues at a policy and funding level, we have been moving in the wrong direction in recent years.
+
+"But continued focus on driving institutions to do the same amount of work for less money, to compete for external funding streams such as the money brought in by international students and to focus increasingly on the needs of business at the expense of the rest of the community is hurting the sector."
+
+"Furthermore, the government seems determined to 'pick winners'. Last year its pet favourite was trades education. This year trades gets barely a mention except in the context of the commission’s plan for Canterbury, because the new pet is science, technology, engineering and mathematics. Next year it will probably be American studies or theatre and film?"
+
+Aussie uni comparison site 'must be treated with caution'
+---------------------------------------------------------
+
+Students from today can compare Australia's 39 public universities on course satisfaction levels, staff numbers, drop-out rates and graduate employment – but experts have warned the indicators could provide an inaccurate gauge of education quality.
+
+Tertiary education minister Chris Evans, who launched the My University website said it would empower students to make the "right call".
+
+"Enrolling at university is a huge life decision for young Australians and their families. My University will help ensure that students have all the relevant information to make an informed decision about what’s best for them," Senator Evans said.
+
+The launch of the $1.5 million website is designed to ensure accountability and transparency as universities compete for students. It is similar New Zealand’s current proposal to collate and publish job employment data and other tertiary education institution specific data for students.
+
+My University publishes information about fees, course cut-offs, lecturer qualifications, student satisfaction rates, graduate employment outcomes and student-staff ratios. It also provides information about amenities, such as car parking and childcare, and details about clubs, societies and other elements of campus culture.
+
+But the Australian National Tertiary Education Union said the My University website showed the federal government was focussed on league tables rather than quality in higher education.
+
+"The use of indicators, including cost of library photocopying, whether your university has a swimming pool and the number of car parking spaces on campus, fails to address the real quality issues in higher education, such as insufficient government funding and a highly casualised workforce," said president Jeannie Rea.
+
+Thanks to Justin Norrie for the story. Read the full article at _The Conversation_
+
+Other news
+----------
+
+University of Canterbury pro-vice-chancellor of the college of arts, Prof Ed Adelson, released his change proposal for the college of arts. The change proposal calls for the termination of American Studies, Cultural Studies and Theatre and Film Studies programmes. On Wednesday 28 March students were given their only public opportunity to have their voices heard. Here is a video of some of those voices.
+
+People with student loans going on their big OE will have to start repaying their loans after just one year and provide Inland Revenue with a contact in New Zealand to help track them down - _New Zealand Herald_
+
+At a time when society needs genuine regeneration, facilitated and encouraged through high quality public education, many of the so-called ‘reforms’ in education seek to portray teachers as simple transmitters of skills, and schools as institutions established to produce made-to-order students for the job market. In this context, families become education consumers, neatly fitting into market segments divided by their socio-economic level - _Worlds of Education_
+
+Wisconsin's controversial Republican Governor Scott Walker will face a recall election on 5 June over a new law he championed that strips public sector and tertiary education unions of most power, becoming the first U.S. governor to face a no-confidence vote in nearly a decade - Reuters
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

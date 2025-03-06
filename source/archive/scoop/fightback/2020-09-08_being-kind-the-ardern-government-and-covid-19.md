@@ -1,0 +1,58 @@
+---
+slug: being-kind-the-ardern-government-and-covid-19
+title: "Being Kind? The Ardern Government And COVID-19"
+date: 2020-09-08
+source-url: https://www.scoop.co.nz/stories/HL2009/S00039/being-kind-the-ardern-government-and-covid-19.htm
+author: fightback
+---
+Being Kind? The Ardern Government And COVID-19
+==============================================
+
+**Tuesday, 8 September 2020, 10:18 am**  
+**Article: [Fightback](https://info.scoop.co.nz/Fightback)**
+
+by BRONWEN BEECHEY. From Fightback's upcoming issue on Electoral Politics. To subscribe, please visit https://fightback.zoob.net/payment.html
+
+Aotearoa New Zealand, and particularly its Prime Minister Jacinda Ardern, has been widely praised in the media for its response to the COVID-19 pandemic. The government announced a state of emergency and Alert Level Four – the highest on the COVID-19 alert system – on March 24, meaning that the country’s borders were closed to all but returning citizens, who are quarantined on arrival; schools and all non-essential businesses closed; and all workers other than those in essential services were required to work at home if possible. People were only able to leave home for essential trips (such as to supermarkets) or short walks.
+
+The government’s “go hard, go early” strategy paid off in its aim of “flattening the curve” – ensuring that the coronavirus didn’t take hold in numbers that would overwhelm the health system. By the time the government announced that the country was moving to alert Level One on June 8, the total number of coronavirus cases stood at 1,504 with 22 deaths. All of the deaths were people over 60 with underlying health conditions, and linked to identified “clusters”, without any widespread community outbreaks. Up until August, the numbers of cases increased by only 64, all of those in returning New Zealanders who were in managed isolation.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The government’s strategy was effective in its messaging, explaining the science behind the strategy in relatable terms, popularising concepts like “bubbles” (a household or group within which people isolate, to avoid spreading the virus), urging people to “be kind” and stressing collectivity with terms like “the team of 5 million” (Aotearoa New Zealand’s population). Although police were given powers to enforce lockdown rules, the numbers of those deliberately breaking them were low. Obviously in a country made up of islands, and with a small population, the ability to keep COVID-19 numbers low was easier. But the basis for popular support for the lockdown was that the government made it clear that it valued the health of its people over calls to prioritise the economy.
+
+Much of the praise of Ardern and the government is justified, although it has to be said that compared to the performance of other leaders such as Scott Morrison, Donald Trump and Boris Johnson, any reasonably competent response to the pandemic would look good. However, there are equally justifiable criticisms of the government response to COVID-19, the main one being that the existing deep inequalities in society are at least being maintained, and at worst being deepened.
+
+These inequalities have existed since the colonisation of Aotearoa, despite popular beliefs that Aotearoa New Zealand is a bastion of equality. Despite the assurances of Te Tiriti o Waitangi (the Treaty of Waitangi) of 1840 that Māori would maintain their land and culture, Māori were systematically dispossessed of both, and despite long-standing resistance are still over-represented in statistics of poverty, ill-health and other indicators of deprivation. The British colonists imported a class system which was also able to use racism to allow Pākehā (New Zealanders of European descent) a relatively comfortable standard of living.
+
+In the 1980s, the Labour government headed by David Lange adopted a neoliberal agenda, inspired by those of Thatcher and Reagan. Known as “Rogernomics” after its leading proponent, Finance Minister Roger Douglas, wide-ranging cuts were made to public services, government entities were privatised and workers’ rights attacked. These economically conservative measures were accompanied by social reforms, such as legalisation of homosexuality and the ban on nuclear-powered ships. The National Party government elected in 1990 continued these neoliberal policies and also slashed social welfare benefits and introduced fees for healthcare and tertiary education. The combination of neoliberal economic and socially progressive policies has continued since. As a result, New Zealand’s economy has depended on low wages and even lower benefits, creating a class of working poor that is predominantly made up of Māori, Pacific peoples and new migrants.
+
+The government’s response to COVID-19 included a $12 billion package to support the economy, over half of which went to a wage subsidy scheme aimed at allowing COVID-19-affected businesses to retain staff. Under the scheme, eligible full-time workers receive up to $585 per week for 12 weeks, paid as a lump sum. However, the subsidy is paid to the employer to pass on to workers and a number of employers simply pocketed the subsidy for themselves. Other large companies, such as Air New Zealand, took the wage subsidy then made staff redundant anyway. Even if workers received the wage subsidy, the reduction in income meant that those on low wages struggled to meet rent or mortgage repayments and feed their families. Over the course of the lockdown, food banks reported demand soaring by up to 200 per cent.
+
+Beneficiaries received an increase of $25 per week, which was not enough to bring them up to an adequate level. The government also introduced a higher rate of benefits for those who were made redundant due to COVID-19, a move widely criticised as creating a two-tier benefit system and reinforcing an ideology distinguishing the “deserving poor” from “bludgers”. As increasing numbers of New Zealanders returned from living overseas, and were quarantined at the expense of the government, a campaign led by the opposition National Party demanded that people returning to Aotearoa New Zealand pay for their stay in managed isolation. The government caved under pressure and initiated a managed isolation fee of $3,100 for an adult entering Aotearoa New Zealand for less than 90 days, with additional charges for extra adults and children over 3. The fee will also apply to temporary visa holders and any essential workers entering the country. While there are exemptions for those returning to go into isolation to care for sick relatives, and anyone returning to visit dying or sick relatives or attend funerals can apply for charges to be waived, the fees will make it impossible for those on low wages to return. It has also been suggested that charging Māori in particular to return to the country where they are recognised as the indigenous population is in breach of Te Tiriti o Waitangi.
+
+Left out of the “team of 5 million” altogether were the approximately 300,000 migrant workers on temporary visas. Many of those workers lost jobs or had their hours substantially reduced, but were unable to apply for benefits. While the Social Security Act has provision for the Government to authorise the payment of emergency benefits in an epidemic, the Government refused to do so, despite extending temporary visas through the issue of an epidemic notice. Instead, migrants were told to seek help through their countries’ consulates, or from Civil Defence Emergency management groups. These could provide only minimal assistance. On June 16, the government announced a $37.6 million program, delivered by Red Cross, to assist those on temporary visas with basic food and accommodation. However, the refusal of the government to grant emergency benefits despite having the power to do so can hardly be described as kind or compassionate.
+
+Although a reasonable effort was made to house rough sleepers in motels, many families spent the lockdown in overcrowded, cold, damp homes. High rents and decades of neglecting or selling of public housing have created a housing crisis. These conditions help coronavirus and other illnesses to spread. At the time of writing, Aotearoa New Zealand has re-entered partial lockdown, following an outbreak of COVID-19 originating in South Auckland, an area which has a high proportion of Māori, Pacific peoples and migrant families on low incomes or benefits who live in substandard, crowded housing. While inequality continues to exist, these outbreaks are likely to continue.
+
+The success of the government’s COVID-19 strategy was not just because of its messaging and calls to “be kind”, but because ordinary people took action to look out for their neighbours, help distribute food parcels, do shopping for those unable to leave home, or just stayed home in their “bubble” and stopped the virus from spreading. There was also proactive action from a number of remote Māori communities who set up roadblocks to ensure that the virus did not get brought into their areas. Of course, many essential workers including health workers, aged carers, supermarket workers, warehouse workers, courier drivers and others are on low wages and struggling to pay rents and mortgages. While it seems likely that Labour will win the upcoming election with enough votes to allow it to govern alone, those who have made sacrifices to keep the pandemic from creating the devastation seen in other countries will be expecting Labour to use its majority to reward them for their contribution.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Fightback](https://info.scoop.co.nz/Fightback) on InfoPages.

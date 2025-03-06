@@ -1,0 +1,139 @@
+---
+slug: kerr-building-prosperity
+title: "Kerr: Building Prosperity"
+date: 2004-09-15
+source-url: https://www.scoop.co.nz/stories/BU0409/S00177/kerr-building-prosperity.htm
+author: new-zealand-business-roundtable
+---
+Kerr: Building Prosperity
+=========================
+
+**Wednesday, 15 September 2004, 10:07 am**  
+**Speech: [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable)**
+
+Meat Industry Association 2004 Annual Conference Building Prosperity: Opportunities And Threats
+
+ROGER KERR EXECUTIVE DIRECTOR - CHRISTCHURCH NEW ZEALAND BUSINESS ROUNDTABLE 13 SEPTEMBER 2004
+
+BUILDING PROSPERITY: OPPORTUNITIES AND THREATS
+
+I want to begin by asking the question: How should we think about the recent performance of the economy, and the medium-term outlook?
+
+The question is important because New Zealanders at large clearly aspire to higher living standards. The government and other political parties want to close the gap between average incomes in New Zealand and those of Australia and other countries in the top half of the Organisation for Economic Cooperation and Development (OECD) income rankings.
+
+Clearly the economy is continuing to perform tolerably well. This year it seems likely to grow by 3–4 percent, ahead of the budget forecasts. If it does, growth for the five calendar years 2000-2004 will average around 3.5 percent a year. This is a solid performance, bearing in mind that the world economy was weak for a good part of that time.
+
+But commentators who have been writing up the good spell of growth as some kind of golden era are apt to forget that the economy has been performing well since the early 1990s. In the five years to 1996, growth averaged around 4 percent annually. The OECD pointed out in its report on New Zealand at the end of last year that:
+
+New Zealand has been one of the faster growing economies within the OECD during the past decade. From 1992 to 2002 it grew at an average annual rate of 3.6 percent, and has maintained a robust pace of expansion during the more recent period of global downturn. This represents a marked improvement on the economic performance of the preceding two decades, during which per-capita income levels in New Zealand declined relative to the OECD average … \[This decline has halted\], per-capita incomes having grown at an average annual rate of 2 ½ percent over the past decade, a little faster than for the OECD as a whole. It is encouraging that this has reflected not only a recovery of employment rates but also, more recently, a pick-up in labour productivity growth.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Not only has trend growth in output improved markedly but employment growth has also been rapid, the unemployment rate has fallen to one of the lowest in the OECD, inflation has stayed low, public debt has come down to comfortable levels and the country now enjoys a high credit rating again.
+
+In the last few years, the economy’s good run owes something to easy monetary policy, a low exchange rate and good prices for some of our exports. But more fundamentally, as the OECD noted, the better performance since the early 1990s is largely due to “the programme of reforms that began almost 20 years ago.” The OECD said that the reforms had provided the economy with several important strengths including a sound macroeconomic policy framework, low inflation, a fiscal surplus, a flexible labour market and high quality public administration. In a working paper on growth released earlier this year the Treasury said much the same thing.
+
+There has been some silly talk by the government about past ‘failed policies’, but mercifully this is now largely confined to economic illiterates in its ranks. It always pays to listen to what politicians tell overseas audiences rather than what they say for domestic consumption. As far back as December 2000, Michael Cullen was telling a Japanese audience:
+
+Fundamentally we will not change our open market policies. It is not necessary. The structural reforms produced great results. Most privatised corporations have been successful. What the current government is doing now is not because the structural reforms were wrong but because we want to adopt a pragmatic approach to do better.
+
+More recently, Dr Cullen told a Deutsche Bank Investor Forum that:
+
+… despite some electoral posturing, New Zealand enjoys a good measure of political consensus around economic policy … At first, that required major reform. More recently, the focus has switched to fine-tuning of policies, and the macroeconomic framework has not been subject to major change.
+
+I also recall Michael Cullen at an Auckland dinner in November 2000 for Anson Chan, then chief secretary of the Hong Kong government, extolling the fact that New Zealand only ranked a bit lower than Hong Kong for economic freedom, and saying that his colleagues would be embarrassed if it ranked any higher.
+
+Along with New Zealand, the other ‘Anglo’ economies – the United Kingdom, United States, Australia, Canada and Ireland – are ranked in the top 10 in the international indexes of economic freedom and, not surprisingly, they are outperforming the more regulated welfare states of continental Europe and corporatist Japan.
+
+It is also worth observing that the economic environment in New Zealand today is more akin to that of the 1950s and 1960s – with low inflation, sound public finances and less economic regulation – than to that of the 1970s and 1980s, and the country’s economic performance is more closely matching that of the earlier period.
+
+Since 1950, a per capita growth rate of 2.5 percent per annum has only been sustained for a decade twice – 1957 – 1967 and 1993 – 2003. The main differences between the earlier period and the present are the increases in welfare, higher government spending and taxation, and greater regulation in areas such as the labour market, health and safety, and the environment.
+
+The recent reconciliation of David Lange and Roger Douglas on the twentieth anniversary of the election of the 1984 Labour government, and Lange’s reaffirmation of his support for the 1980s economic changes, seemed to symbolise the consensus that Michael Cullen noted.
+
+The reform programme was far from perfect, and much remains to be done, but its necessity and overall quality are scarcely in dispute now: the country has moved on.
+
+So much for where we are today and why. What of the future? Here the story is not so encouraging.
+
+When the present government came to office in 1999 it inherited the better economic framework and an economy that was growing strongly. While it has left much of that framework intact, New Zealand’s score is dropping in the indexes of economic freedom, particularly under the headings of size of government, regulation of the labour market and regulation of business. This does not augur well for future growth rates.
+
+Beyond its reforms of producer boards and the resumption of a programme of tariff cuts, it is hard to think of other significant pro-growth initiatives by the government. To the contrary, as Westpac economists have written:
+
+… despite the Government’s claim that it wants to move the economy to a higher growth plane, it seems to be moving backwards … Recent policy actions in New Zealand have included: raising taxes, increasing government spending on welfare, increasing regulation (eg electricity and labour) and compliance costs, and reducing competition in key markets. Such policies will not assist New Zealand in driving productivity improvements.
+
+The Christchurch Press made a similar point in an editorial late last year:
+
+… little that Labour has done has contributed anything towards encouraging the investment and innovation that would increase productivity and restore the relative wealth New Zealand once enjoyed … \[T\]he policy to produce general long-term economic improvement is lacking. The Government continues to believe that big spending in the state sector is the cure to most of our ills. It should strive for more than just riding a wave it has done little to create.
+
+In response, Dr Cullen pointed to initiatives such as more money for research and development, venture capital, industry training, business incubators and the favoured sectors in its Growth and Innovation Framework. Whatever view you take of these interventions, and I would argue many of them are misguided, they are trivial in the context of a $140 billion economy – they cannot possibly have a material impact on growth.
+
+This is confirmed by the forecasts and projections in budget documents. They are showing the trend growth rate falling back to around 3 percent, and no increase in labour productivity growth. Raising labour productivity growth from the projected rate of 1.5 per cent per annum to just 2 percent would be a major challenge. The kind of tinkering that the government is engaged in simply won’t do the job. As the OECD has pointed out:
+
+… a further acceleration \[of the economy’s growth rate\] – necessary if New Zealand is to move back into the top half of the OECD ranking – is not in sight.
+
+It is sometimes observed that an economy is like a supertanker – it takes a long time for it to change speed and direction. The benefits of sound policy reforms take years to show up. Both Australia and New Zealand only enjoyed in the 1990s the fruits of reform programmes that began in 1983 and 1984 respectively. Some of the benefits of New Zealand’s earlier reforms are still coming through. For example, the steep increase in tertiary education enrolments in the 1990s will only slowly change the average skill level of the labour force.
+
+By the same token, the costs of bad policy changes will only materialise over an extended period. They will be disguised for a time by the impetus  
+of earlier improvements. But basic economics tells us that backward moves will surely take their toll, as the forward projections are already showing. Dr Cullen is on record as saying that it would be clear by the middle of this year whether the government’s policies are moving the economy to a higher growth path. Plainly they are not.
+
+However, rather than take stock and change course, the government seems to have given up on growth entirely. The May budget was overwhelmingly focused on redistribution and it is continuing to implement policies such as the employment law changes currently before parliament that are making New Zealand a progressively less attractive country in which to invest and do business.
+
+Opinion surveys of business leaders have revealed that a large majority do not believe the government has a credible growth strategy. This raises the question of what such a strategy would look like.
+
+One obvious point to make is that the policies that brought the gains are the same ones that are needed to sustain and extend them. You don’t throw away a winning formula. The general requirements are further economic liberalisation, smaller government, greater respect for property rights and contracts to encourage investment, a flexible labour market, less welfarism, and a stable macroeconomic climate.
+
+The OECD, which represents the collective wisdom of its advanced country members, has made a number of more specific recommendations in recent reports on New Zealand. Among other things it has said: the government’s focus should be on the economic fundamentals, not on its ‘hands on’, ‘active government’ policies; these include lower and better quality government spending: no OECD country has sustained 4 percent plus per capita growth rates with government spending at New Zealand’s level of around 40 percent of gross domestic product (GDP); the tax scale should be flatter and tax rates should be lower than the OECD average. The 2001 McLeod Tax Review and the Treasury have also advocated reductions in high marginal tax rates – ideally the adoption of a flat rate of income tax – in the interests of growth; the government should drop its ideological opposition to further privatisation; the trend towards greater rigidities in the labour market should be reversed. In particular, the OECD has said that dismissal rules should be liberalised “to give marginal groups, such as young people and immigrants, a better chance of getting their foot in the door”; in transport, the emphasis should be on reform of roading management, including better road pricing, rather than on rail and public transport; in the electricity industry, the problems of uncertainty, creeping re-regulation and the impact of the Resource Management Act (RMA) need to be addressed; there should be less central control and more private sector involvement in education and health; and the government’s welfare moves run counter to international trends and should be reversed in favour of time-limited benefits and stricter work requirements;
+
+Such policies are entirely mainstream in successful OECD countries. Yet Dr Cullen summarily dismissed the OECD’s most recent advice, essentially saying that the government did not agree with it.
+
+All of the OECD’s recommendations are of direct interest to the meat industry. Increases in government spending – a massive $14 billion of additional spending is planned for the next 3 years – put pressure on monetary policy and squeeze the private sector. Reliable transport and electricity supply are vital to the meat industry. The costs and delays of getting resource consents under the RMA inhibit new investment. And the push towards greater unionisation, collective bargaining and multi-employer agreements threatens to set the clock back on employment relations in the meat industry.
+
+Another threat to the industry is the government’s push to impose various forms of cost recovery for government services. Examples are border security and biosecurity, and more may follow. There are parallel initiatives in other areas such as the therapeutic goods industry.
+
+Few industries in New Zealand now object to user pays policies where they are the users of government services and no wider benefits accrue – provided the services are efficiently delivered and they are not compelled to use them. But when it comes to services of a public good nature, where the benefits accrue to the wider community, services should generally be funded from taxation. Instead, there has been a disturbing tendency to impose the costs on industry. This is not a principled approach. There is too much focus on getting additional sources of revenue for the government and its agencies and not enough focus on economic efficiency – the best use of resources in the economy. Part of the problem stems from the badly formulated Treasury Guidelines for cost recovery, which do not have a clear efficiency objective.
+
+The imposition of what amounts to a selective tax is also questionable constitutionally. Not only is the power to tax and spend being delegated too widely, but parliament (and Treasury) are likely to scrutinise departmental budgets less intensively when they are funded from compulsory industry levies rather than general taxation. Also little heed is being paid to the principle that there should be no taxation without the consent of those being taxed or their representatives. After all, if those being taxed really benefit from the spending it should not be hard to secure their consent.
+
+There are further problems. Cost recovery proposals emanating from government agencies typically lack rigorous analysis – private good and public good elements are not properly disentangled, for example. Often the regulatory agency is given multiple objectives, with no clear basis for deciding on trade-offs between them. This means that its decisions are inevitably arbitrary, and vulnerable to political or bureaucratic manipulation. Finally, there is inadequate accountability to those who are paying the charges, partly as a result of the poor governance mechanisms that are being put in place. Unlike in a club, whose members determine its budget and fees, users of the services of government agencies have no ability to determine their budgets and charges.
+
+What should the meat industry’s stance toward all this be?
+
+First, as a matter of process, I think it should be calling on the Treasury to review its woefully inadequate cost recovery Guidelines and make efficiency the overriding objective. Official guidelines in Australia are superior in this respect and are a helpful model. The industry should also keep insisting that the government must meet its own self-imposed procedures when proposing specific cost recovery mechanisms.
+
+Primarily these are adherence to the Legislative Advisory Committee Guidelines (which deal with constitutional matters such as the delegation of the power to tax and spend) and the principles of the Regulatory Impact and Business Compliance Cost Statements that have to accompany any regulatory proposal. Too often these statements have been sloppy; governments must be held to higher standards.
+
+Secondly, as regards substance, I believe the meat industry should be demanding that the government engage in principled debate concerning the public good/private good analysis. In general, public goods for the benefit of the public at large should be funded from taxation. In general, user charges should apply to private goods.
+
+Such goods should be privately supplied and use of them should, wherever possible, be a matter of voluntary choice. If the government insists on being a supplier, the industry should insist that the supply of the service is contestable, not a statutory monopoly. Government arguments for statutory monopoly provision should be closely scrutinised since they probably amount to an admission that the service is actually of a public good nature or that the real motivation is to increase tax revenue.
+
+You should also be suspicious of loose assertions about who benefits from cost recovery policies. Often the concept of a benefit is undefined, and the ultimate beneficiaries are not those who are being asked to pay the user charge. The so-called benefit principle is problematical: the real issues here are the efficient assignment of property rights, consent to taxes and whether the benefit from the service exceeds the costs. To say that someone should pay because they benefit avoids these issues. It avoids entirely, for example, the question of whether the service is worth providing.
+
+Cost recovery policies may seem like a relatively minor matter, but they are symptomatic of a general degrading of New Zealand’s public policy framework and of parliamentary control of spending and taxation. If New Zealand is to build on its earlier economic gains, there needs to be a renewed debate about its economic directions. Economic research strongly points to the importance of the quality of a country’s policies and institutions (such as the rule of law and secure property rights) for prosperity.
+
+By contrast, factors such as economic geography, size of population, endowment of natural resources and so on are less important. No competent observer can doubt that the far better performance of the New Zealand and Australian economies from the early 1990s is primarily due to the economic reform programmes embarked on 20 years ago. But both countries are still nowhere near achieving their true potential, and there is no reason why New Zealand cannot match or exceed Australian living standards if it has the will to do so – just as Ireland has outstripped many of the bigger economies of Europe. These are the opportunities open to us. The meat industry should have a bright future in New Zealand if we grasp them.
+
+Its fortunes, however, will largely depend on whether New Zealand governments absorb the lessons of modern economic success and strive to continuously improve our overall economic framework. Currently there are increasing threats to our long-term prosperity with the slow but steady return to re-regulation, re-nationalisation and hands-on government. Nowhere have such policies been a recipe for economic success. The OECD has, in essence, been saying that New Zealand is going in the wrong direction, and signalling the steps we should be taking if we want to match the income levels of its most prosperous members. The business community is very much in the camp of the OECD in the policy debate.
+
+The issue is not whether the economy is going to hell in a handcart – plainly it is not. Rather, it is whether we are on a path to seeing an acceleration of our growth rate and building prosperity faster – and plainly that is not happening either. This, I suggest, is the way the debate needs to be framed for the public at large. I hope your industry will play a full part in that debate since it is ultimately public understanding and democratic choices that will determine New Zealand’s economic fortunes.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable) on InfoPages.

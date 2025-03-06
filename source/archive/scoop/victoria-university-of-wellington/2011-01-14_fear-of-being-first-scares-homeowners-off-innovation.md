@@ -1,0 +1,71 @@
+---
+slug: fear-of-being-first-scares-homeowners-off-innovation
+title: "Fear of being first scares homeowners off innovation"
+date: 2011-01-14
+source-url: https://www.scoop.co.nz/stories/AK1101/S00245/fear-of-being-first-scares-homeowners-off-innovation.htm
+author: victoria-university-of-wellington
+---
+Fear of being first scares homeowners off innovation
+====================================================
+
+**Friday, 14 January 2011, 10:25 am**  
+**Press Release: [Victoria University of Wellington](https://info.scoop.co.nz/Victoria_University_of_Wellington)**
+
+**Fear of being first scares homeowners off sustainability innovations**
+
+Homeowners’ reluctance to adopt proven sustainability innovations often results from an exaggerated view of the risks involved, according to research carried out at Victoria University.
+
+PhD graduate Dr Lauren Christie combined her skills in building science and psychology in a three-year project that investigated why homeowners say they value innovations like solar water heating panels and double glazing, but aren’t prepared to pay full price for them.
+
+Dr Christie carried out a survey and conducted in-depth interviews, discovering that, for many people, the risks outweigh the benefits of adopting sustainability technologies.
+
+Those risks include the upfront payment required and skepticism that the technology would deliver what it promised.
+
+“A lot of people are wary of the capital cost of the technologies and don’t believe it’s money they will get back,” says Dr Christie.
+
+“Some also reject the improvements because they don’t think they are suitable for their house.”
+
+But one of the greatest barriers highlighted in the research is people not wanting to be seen to be different.
+
+“The group of homeowners I was studying—people who say they want sustainability innovations but aren’t buying them—were affected by other people’s perceptions of them. They didn’t want to be first. There is a lot of seemingly irrational behaviour going on with people supporting the availability of sustainability innovations and knowing their benefits, but not being prepared to buy them.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Dr Christie’s research confirmed that having energy efficient technologies installed in a house is currently not valued in the real estate market.
+
+She found that while online ads, which have more space, sometimes market homes as having sustainability innovations, the words are usually dropped in the shorter printed version.  
+Dr Christie says communication around sustainability innovations for houses needs to be reframed.
+
+“People already have plenty of information about these innovations and are put off by the complexity of the issue and the number of choices. They don’t need more information and they don’t need apocalyptic language about what will happen if they don’t do it.”
+
+She says more effective strategies include implementing schemes that offer people ‘loans’ to pay for sustainability technologies with repayments coming from the savings they make.
+
+Other possible initiatives are providing proven default options to simplify the purchase decision and encouraging the use of display meters in homes to make energy savings visible.
+
+Dr Christie says sustainability innovations also need to become a norm in society to reduce the perceived social risk of early adoption.
+
+“In this area, people are more likely to be influenced by what families, neighbours and colleagues do—people who they see as being similar to themselves—rather than having high profile individuals endorse sustainability. Programmes to convert whole neighbourhoods at a time could be an effective way of encouraging uptake.”
+
+Dr Christie, who works as a consultant in the area of improving uptake of sustainability innovations, was supervised by Dr Michael Donn from Victoria University and Dr Darren Walton from the Health Sponsorship Council during her PhD research.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Victoria University of Wellington](https://info.scoop.co.nz/Victoria_University_of_Wellington) on InfoPages.

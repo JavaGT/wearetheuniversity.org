@@ -1,0 +1,80 @@
+---
+slug: speech-on-intelligence-and-security-committee
+title: "Speech on Intelligence and Security Committee"
+date: 2009-03-13
+source-url: https://www.scoop.co.nz/stories/PA0903/S00200/speech-on-intelligence-and-security-committee.htm
+author: green-party
+---
+Speech on Intelligence and Security Committee
+=============================================
+
+**Friday, 13 March 2009, 10:25 am**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+\[_From Uncorrected Hansard_\]
+
+  
+12 March 2009
+
+  
+**Speech on Intelligence and Security Committee**
+
+**By Green Party Co-Leader Dr RUSSEL NORMAN (Co-Leader—Green)**  
+**Note:** _Speech given by Dr Norman accepting the Leader of the Opposition Phil Goff’s nomination to the Intelligence and Security Committee – 11 March 2009. This is the first time a Green Party MP will have been on this oversight committee._
+
+Working within a few hundred metres of the parliamentary precinct are, presumably, a number of well-educated bureaucrats, who, like their counterparts elsewhere, occasionally pop down to Lambton Quay for a latte. However, unlike their fellow policy analysts, advisors, and general managers in other Government ministries or departments they do not have any select committee scrutiny of what they do or what they do with taxpayers’ money. What this means is that even a junior analyst fresh out of university and now working at the Security Intelligence Service is likely to have a far better understanding of the intelligence agency’s workings than most if not all members of Parliament, except, perhaps, the Prime Minister.
+
+The committee we are discussing today, the Intelligence and Security Committee, is not a proper select committee and it cannot perform the parliamentary oversight functions that the Green Party thinks is necessary.
+
+It cannot get the information out of the security services in the way that other committees can. The Intelligence and Security Committee is chaired by the Minister who is responsible for the agency that it is meant to be overseeing—the Prime Minister—unlike select committees, which are chaired by an independent Member of Parliament, as is appropriate when we are trying to oversee what an agency is up to and to keep it accountable.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Considering the scrutiny that intelligence agencies face in other parliamentary democracies, this lack of proper select committee oversight is not actually protecting our national security or creating a culture of professionalism in our security services. The point is that we need it. We need proper oversight of the security agencies. We need a select committee that is chaired by someone independent—someone other than the Minister responsible. This point has been made by many members in this Parliament over the years. Jim Anderton has made it. So have Matt Robson, Rod Donald, and Keith Locke, repeatedly, over the years. In fact, Rod Donald said in March 2000: “we believe that this committee should be abolished, and that the powers that rest with this committee should be returned to Parliament.”
+
+For those who say it is impractical, I ask them to listen to the former director of the Central Intelligence Agency, William Colby, who is someone we would think knows quite a bit about the oversight of security services. Mr Colby said:
+
+_“We in the intelligence and security services can work under a system of parliamentary control. We can do our job and in fact we are stronger because when we make mistakes and get in trouble, the responsibility is shared with the legislative committees. The intelligence_ _service can do its important work, and yet be under the control of our democratic system.”_
+
+That is what the former director of the Central Intelligence Agency said. So if the former head of the Central Intelligence Agency thinks that, why on earth cannot we have proper parliamentary oversight of our security services? It is not only practical; it is essential in a democracy. In the past the Green Party has derided the supervision of the intelligence services as a joke, as a result of some of the things we have discovered.
+
+For example, through parliamentary questions it was discovered that the \*Intelligence and Security Committee met only once in 2005, on 14 June and for 43 minutes. It met two times in the previous year, for a total of 84 minutes. That is hardly enough time for its members to pour their coffee, chow down on some macaroons, and sort out what Al-Qaeda is up to. According to the SIS’s own website, there are approximately 200 staff ready to provide the Government with advice relating to our nation’s interests. The service also states that is apolitical. However, in the past it has certainly shown a distinct political bias against the left. When we think about recent documents that have been handed to my colleague Keith Locke, it also shows that in the bad old days of the 1980s the service seemed to have taken an unhealthy interest in those who were fighting against apartheid in South Africa, which the SIS seemed to have identified as a threat to the State. The SIS also made a habit of targeting law-abiding political dissenters.
+
+It targeted Aziz Choudry and David Small, presumably for their political beliefs—something that the courts later held the SIS accountable for, and the SIS lost in court. The persecution of Ahmed Zaoui by the SIS is well documented, and the courts have repeatedly upheld Mr Zaoui’s rights against the SIS. Keith Locke, of course, was targeted by the SIS for being a law-abiding dissident—something that we would think we would encourage and welcome in a democracy. There are many hundreds of other law-abiding New Zealanders whose political beliefs happen to conflict with those of the SIS, and hence they have become targets for surveillance.
+
+In a free society it is wrong for the State security services to target people because of their political beliefs. In a free society a person should not become a target of the State security services simply on the basis of what he or she believes to be true. Or course, on a minor aspect, what is more worrying is that there does not seem to be a report on the SIS website for the 2007-08 year.
+
+The last report of the SIS states: “The service is a dynamic professional intelligence service focused on the requirements of our core customers and stakeholders in Government.” Well, really? Who would know? How would anyone know? How do we know that they are actually performing what they are supposed to do?
+
+Even with the large budget increases, the SIS finds it difficult to provide such basics as adding yearly reports to its own website. Over the last few years the budget for Vote Intelligence and Security has kept expanding. In the financial year 2006-07 the budget rocketed up to $43.49 million, without any explanation in the budget about what the money is for. What dangers is it trying to dispel and protect us from, and how will this massive increase make any of us more secure?
+
+Increasingly, in this vote hardly ever is there an occasion for the razor gangs. When are the razor gangs going to come into the SIS? Nobody knows what the money is spent on. The Green Party is committed to trying to ensure that there is some fiscal oversight and that the committee meets more regularly than it has in the past. Some of the money, we think, probably was spent on kitting out the new offices for the security services in the top floors of the Defence Department. But that can only be part of the story. The big increase in funding just keeps going on, year after year.
+
+There is more money being allocated, without any improvement in the oversight mechanisms as to how this money is spent. During the 9 years of the last Government, the budget for the security services more than trebled but the oversight did not treble. While other public servants are busy clearing their desks right now, we have no idea what efficiencies the intelligence services are making, if any. We must have more oversight of the intelligence and security services and what they are doing.
+
+We are not here to provide a public relations opportunity for the security services. We are here to try to fix a system that is mired in first past the past, and that should have been changed a long time ago. Bizarrely, considering that we live in an MMP environment, this committee has only five members. Unlike select committees, there are only five members—presumably the fewer members the better. The Green Party intends to do its best to give the public a much better oversight of the security services than they have had in the past.
+
+We are in fact changing tack in how we are dealing with the Intelligence and Security Committee. We do not resile from our belief that it needs proper select committee oversight, as the security services do overseas. We need a committee that can find out what the SIS and the \*Government Communications Security Bureau are up to. However, we will none the less do our best to make the current provisions work, as flawed and as limited as they are, and hence have accepted the Leader of the Opposition’s offer of a nomination on to the committee. We will be voting for the motion.
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

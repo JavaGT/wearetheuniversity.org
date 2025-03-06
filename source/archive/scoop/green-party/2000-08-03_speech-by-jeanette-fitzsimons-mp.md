@@ -1,0 +1,132 @@
+---
+slug: speech-by-jeanette-fitzsimons-mp
+title: "Speech by Jeanette Fitzsimons MP"
+date: 2000-08-03
+source-url: https://www.scoop.co.nz/stories/PA0008/S00071/speech-by-jeanette-fitzsimons-mp.htm
+author: green-party
+---
+Speech by Jeanette Fitzsimons MP
+================================
+
+**Thursday, 3 August 2000, 2:39 pm**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Speech by Jeanette Fitzsimons MP to mark Conservation Week, Loaves and Fishes, Wellington 3 August, 2000
+
+'Corporate Ideology, Society and the Environment'
+
+As we mark this week, the first official conservation week in New Zealand after the Green Party's entry into Parliament, and after the largest budget increase for conservation in living memory, you might expect me to be in a buoyant mood.
+
+And a few weeks ago I did feel quite buoyant when for the first time in my life I saw a little spotted kiwi - and of all places in Wellington. Extinct on the mainland for decades, it has finally been brought back to the Karori sanctuary by the determined efforts of a group of private citizens with the co-operation and help of the Department of Conservation. I was moved by how beautiful it was, and by how it was returning home. It was a sign of what could be a recurring theme in our future - not just stopping the decline but rebuilding the ecosystems we once had - at least for those species which are not already extinct.
+
+Surely I must view this conservation week as a milestone, and as a time for new hope. After all, the Greens exceeded expectations of most political commentators and now have a key position in Parliament, holding the balance of power on certain issues, but not all issues, and with some degree of influence over the coalition government.
+
+But the last few days have, for me, been depressing days. I have learned that the Royal Commission on Genetic Modification, created after I spent a year collecting 92,000 signatures on my petition calling for it as a forum to enable wide public debate on how we as a society want to deal with this technology, may not allow members of the public to speak at its hearings.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I have been given an estimate of the major loss of orange roughy stocks off the North Island's east coast which is merely one symptom of the devastation of marine ecosystems around New Zealand. I have been helping an iwi group which is trying to prevent the extinction of the North Island hector's dolphin - the smallest dolphin in the world, a unique mammal, of which only about a hundred individuals remain because they are regularly caught and drowned in fishing nets.
+
+I heard one of our younger staff members marvel at his luck in seeing a kaka, nearly extinct on the mainland due to predators and habitat destruction, and I remembered my childhood holidays in South Otago where we were surrounded by squawking flocks of them. From abundant to nearly extinct in half of my lifetime.
+
+I have followed the years of international debate on the greatest environmental risk of all, a radical and irreversible change in the world's climate as a result of human burning of fossil fuels and production of other gases. I attended the 1997 Kyoto Protocol conference which saw the painful inch by inch agreement to limit emissions, at first only a tiny bit by returning to 1990 levels over the next eight years. New Zealand's emissions are already 20 per cent above what they were in 1990 and are rising very fast. We still have no plan as a nation to reverse that.
+
+I don't want to make this speech overwhelmingly pessimistic, but I do want to emphasis that despite the change of government, and despite the greatly improved position for the Green Party, anti-environmental corporate pressures are continue to flourish. In some cases, particularly in regard to genetic engineering, a new government has caused the forces against us to become much better organised and more effective.
+
+I would like to thank one of your organisers, Ted Abraham, for forwarding a paper to me titled The Religious Ideology of the Business Roundtable by Barbara Vincent. She adds to the many critiques of the ideology we have come to call the New Right, or Economic Rationalism, by examining it as a new religion. I was fascinated by the way she explained how the Market, capital M, had become, in a way, the new God, with Friedman and Hayek his prophets, and the Business Round Table intent on a mission of conversion. The cult elements of infallibility, authority and denial of contradictory evidence are all there. I have been in debates myself where they have cited references as ultimate authority for their statements which, when you pursue them through a mass of citations by others, turn out to have been written by themselves.
+
+I agree with her that sadly, there appears to be no place for spiritual values, for environmental values or in fact for many simple human values in the language and philosophy of the New Right.
+
+But it's not just the corporates who hold corporate ideology. We are all infected with it to some extent and that serves to normalise it. Let's look at some of the main values that have become accepted.
+
+Property Rights
+
+Our society no longer accords absolute property rights to a man over his wife and children, but has increased its grip over the rest of Nature. I have listened to hours of submissions recently that people have an absolute property right to fell a rimu tree some twenty times older than they are, and which could outlive them by centuries, home to a wealth of species from epiphytes to birds and insects, just because it is growing on a piece of land where they are living for a few years and for which they have paid some money.
+
+As our unique biodiversity shrinks, patches of it on private land become more and more important but the property rights belief system leads to demands for compensation which makes it very difficult to reach any accord about the protection of nature on private land. In other societies, of course, even the idea that a person, here today and gone tomorrow, could own land, which endures forever, was incomprehensible.
+
+Yet property rights are often advanced as a way of protecting nature.
+
+The most valuable property rights now are intellectual property. We have moved from patenting inventions to patenting living organisms, on the basis of having bred them or even having discovered them - even when indigenous people have known and used them for centuries. One can now patent individual genes and even the unique genome of a particular man has been patented by his doctor without his knowledge or consent.
+
+The fact that knowledge has become tradeable property from which one can exclude others has transformed science. Sharing information and discoveries with one's peers as a common good so that someone else may take the next step to advance it, is silly when they may patent it and deny you the use of it. Crown Research Institutes, formerly part of the old DSIR, are doing less of the old science, developing techniques to be used in NZ agriculture or industry to make it more productive, and more of the new science - developing new genes to patent in order to own a tradeable asset, regardless of its benefit to the NZ economy or society.
+
+Competition
+
+Closely allied with property rights is competition. That's supposed to make us more efficient by striving harder to survive. The only form of co-operation that's recognised in this mindset is collusion for the purpose of price fixing and it's illegal.
+
+So we have broken up our single publicly owned electricity generator into several bits so they can compete to supply the market and be more efficient. Figures for the last two years show that the percentage of power generated by hydro stations has dropped considerably while the percentage from gas has increased a lot. But rainfall into the lakes has been similar. Water has been spilled while gas has been burned because the new competitors are 'gaming' the market, and bidding to put each other out of business rather than to ensure the most efficient and cheapest plant runs first to meet demand. The loser of course is nature, as the extra unnecessary gas burn has increased our greenhouse gas emissions significantly.
+
+Individualism
+
+Competition of course requires us all to be individuals maximising our personal wellbeing, so society must be regarded as no more than a collection of individuals. The public good, public interest, common good, societal wellbeing are frowned on as fictions. Co-operation creates society, community; competition creates atomised individuals. This shows itself particularly in the contempt for the public sector, and for public ownership which must be by definition inefficient. That fact is of course so self-evident that there is no need to bring any evidence.
+
+The primary function of these individuals is to be consumers. The consumer is king - the consumer drives the market with his or her spending power and can have whatever he or she likes because the market will respond. Rights to consume are protected and consumer demand must be satisfied - except when it comes to the right to know what is in your food, when the right of the manufacturer to produce as cheaply as possible and not be hassled takes precedence over the right of consumers for food labelling.
+
+It is supposed to be about freedom and choice - the cornerstone of the market. But when it comes to a struggle between freedom for corporates and choice for consumers, the ideology always favours the corporates. Witness the difficulty of getting legislation through the House giving residents the opportunity to decide by a poll whether they want a casino in their community. That legislation has just gone to select committee, but the elements in Parliament who most adhere to corporate ideology opposed it.
+
+Other roles people used to use to define themselves - citizen, worker, producer, artist, parent - take second place to consuming.
+
+All this is to serve the Market - which of course must be Free, as must trade. Free Trade is such a good thing in itself that it is perfectly acceptable to have two containers full of identical carrots passing in the Tasman, one headed from Auckland to Sydney and the other from Sydney to Auckland. It's explained as consumer choice, and it makes financial sense to the companies only if each country in some way subsidises its exports. But it never makes economic sense, and all that extra transport can never make environmental sense.
+
+Under the World Trade Organisation, set up to replace GATT, countries can be punished if they put barriers in the way of free trade. A corporation is held to have a moral and increasingly a legal right to sell into any market anywhere and to compete with local production and local jobs. In the few years since the WTO was formed, virtually every environmental law and safeguard from banning drift net fishing or growth hormones in food to requiring beverage containers to carry a refundable deposit, or GE food to be labelled, has become potentially a non-tariff trade barrier and liable to be declared illegal - some of these already have been. So have laws which attempt to influence working conditions by banning the products of sweatshop labour.
+
+Enormous intellectual efforts are being made to create markets in areas where there has not been a market before, and markets are becoming less and less like the village square market where buyers and sellers negotiated a mutually beneficial transaction, and more and more like casinos. The first step was the deregulation of the financial markets, which used to exist mainly to carry out the monetary transactions necessary to support the 'real' economy of goods and services. The financial market is now widely recognised to be mainly about speculation, with only five per cent of transactions having to do with any trade in goods or services.
+
+Then they created a market in wholesale electricity - theoretically because it could match supply and demand better than a centralised planned system with one integrated generator, and prices would reflect real supply and demand and send better signals about when to build new generation and when to save power.
+
+The opposite has been the case. Speculation in the price of electricity is now rife, with generators holding back their low cost generation so the price will rise for the output from their other stations. This was predicted by some of us at the start.
+
+In the fishing industry the main market is now not in fish, but in ITQs - individual transferable quotas - or the right to catch fish.
+
+Now the favoured response to climate change from the corporate ideologues is a market in carbon where those who emit carbon by burning fuel or cutting forest have to pay those who reduce their emissions or who plant more trees. A speculative market in carbon has already begun where people are actually trading in carbon rights, before there is any agreed system for making them valuable. The opportunities to get rich in the speculative carbon market are beginning to dwarf the objective of halting climate change.
+
+Of course we don't accept this and we find it offensive. But we have also bought into it. How many of us refer to a piece of land where we might live as a 'property'? How often do we demand more choice of products, and so more competition? How often do we demand 'compensation' when we feel our rights have been infringed?
+
+There is no technology that so well illustrates the dominance of this corporate ideology than genetic engineering, especially of food crops.
+
+It relies absolutely on property rights over genes and genetically engineered organisms for corporate profit. Those property rights are well on the way to creating ownership of the world's food supply by a few transnational corporations. Food has long been regarded as a commodity, to be traded in bulk, reduced to a lowest common denominator. All the genetically engineered crops on the market so far - and there are at least 50, probably more - have been modified to give them characteristics wanted by the food industry - herbicide resistance to increase herbicide sales and theoretically help farmers with weed control, insect resistance (which curiously has not reduced the use of insecticides), increased shelf life so stale food still looks OK. Yet all the claims are for the potential benefits to the public, and even the environment.
+
+Competition is the theory, but as has always been the case, competition among transnational giants aims always to knock out, take over or merge with the competitor so that in the end there is a monopoly or a small number of players who do not genuinely compete.
+
+Nature is reduced to a collection of genes which can be manipulated for human profit. Species and ecosystems are not sacrosanct and can be mixed up and redesigned at will. Faith in the infallibility of science to not make ghastly mistakes is absolute and the arrogance of humans has finally reached its peak.
+
+The Free Market ideology is doing its best to deny countries the right even to information about the products that enter its borders - New Zealand was told by a previous US Ambassador that if we required imported GE food to be labelled that would be regarded as an offence under the World Trade Organisation and retaliatory action would be taken by the US. Since then the negotiations on the Biosafety Protocol have gained the right to prior information if living genetically engineered organisms are to be imported, but negotiations are still continuing on the food products derived from such organisms - like soy flour, for example.
+
+It may take another generation or more before New Zealanders realise that, whatever governments may have said since the mid-1980s, the free market is not the main key to our future. The key is a new reverence, and a new regard, for life.
+
+Those of us who want to replace this ideology must lose no opportunity to speak publicly of the intrinsic values of nature, rather than the commercial values. Of the benefits of the commons, of the public good, of sharing knowledge for the good of all. Of the legitimacy of doing things together as a society through public organisations. Of the importance of building a local economy which will employ local people producing for the local market as our defence against the globalisation engineered by the corporates.
+
+We must uphold an alternative philosophy that recognises the importance of relationships, of the connectedness of all life. Any system that allows me to deepen my relationships with the people around me and with nature is ultimately good. Anything that destroys those relationships is to be resisted.
+
+If we oppose the corporate ideology, does this mean we must get rid of corporations? Clearly the answer is no. We have to accept that they now dominate our economy and look at how they can become part of the solution rather than the problem.
+
+There are many good people in charge of bad corporations. The ethics and human concern of those people somehow gets blocked from expressing itself in the behaviour of their corporations. One approach our society has taken is to legislate for acceptable corporate behaviour. This is important but not enough. Some people in corporations are working hard and forming organisations to turn corporations into socially and environmentally responsible citizens.
+
+The Natural Step was founded by a successful businessman who recognised that unless business operated to a set of objectives to protect biodiversity and eliminate irreversible pollution of the biosphere, there was no future for business or anyone else. A few brave New Zealand businesses have signed up to the organisation and are checking everything their business does against those criteria.
+
+The Environmental Business Network is an association of companies wanting to work together to improve their environmental performance. The concept of the Triple Bottom Line, where financial auditing is matched by social and environmental auditing is a concept gaining some ground. We need to support these initiatives wherever they are tentatively sprouting and introduce them to others who have not heard of them.
+
+But in the end, the ideology has to change. That means our language, our unwritten expectations and agreements, our inner view of where we fit in the world. If that is not based on respect for each other and for the natural world, the current corporate ideology will be fundamentally unchallenged.
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

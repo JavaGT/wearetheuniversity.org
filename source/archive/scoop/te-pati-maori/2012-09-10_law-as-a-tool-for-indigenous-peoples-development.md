@@ -1,0 +1,165 @@
+---
+slug: law-as-a-tool-for-indigenous-peoples-development
+title: "Law as a Tool for Indigenous Peoples’ Development"
+date: 2012-09-10
+source-url: https://www.scoop.co.nz/stories/PA1209/S00109/law-as-a-tool-for-indigenous-peoples-development.htm
+author: te-pati-maori
+---
+Law as a Tool for Indigenous Peoples’ Development
+=================================================
+
+**Monday, 10 September 2012, 8:55 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Te Hunga Roia Māori o Aotearoa – World Indigenous Lawyers Conference 2012
+
+Law as a Tool for Indigenous Peoples’ Development : Worldwide Strategies and International Perspectives
+
+What role can indigenous politicians and political parties play in the development of indigenous peoples?
+
+Te Ururoa Flavell, MP for Waiariki
+
+Saturday 8 September 2012
+
+In considering the topic, “what role can indigenous politicians and political parties play in the development of indigenous peoples” let be start by sharing some advice I received when I first entered Parliament.
+
+The first was from the Honourable Tau Henare who said to me, ”don’t take things too seriously, enjoy yourself”. That seemed to be at odds to what I thought I was there for. It was serious business surely?
+
+The second was from the Honourable Georgina Te Heuheu who said, “politics is a game. Learn the game, understand the game, use the game”.
+
+The final piece of advice was from Tariana who advised me that if you throw a rock, expect to get a grenade back!! Of course all of their advice has been helpful.
+
+The lesson I have learnt is that if you are in opposition, you get nothing, so it is no wonder political parties will do all they can to get the power. I offer those statements to set the context for this discussion.
+
+On Thursday as I was preparing for this hui, a storm erupted in the kingdom of Twitter over a particular choice of words that a Māori MP put up on Facebook. The winds of outrage extended far across the land as people debated the meaning of the words. Just as fast and furious, the media clamoured for a response.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Into the line of fire we were asked: Was the abuse meant for Pita, Te Ururoa and Tari – or was it targeted instead at Tau, Simon, Paula and Hekia? Did the writer see himself as Maoridom’s Malcolm X? And if so, how appropriate is it to transplant the American history of legal slavery to Aotearoa? How did it feel to be called a ‘house-nigger’?
+
+For 48 hours the ‘n’ word became the topic of debate and with it, of course, the story became a story about a Māori MP more than anything else.
+
+It was a curious context from which to be coming to a hui in which we have been asked, to consider the role that indigenous politicians and political parties play in the development of indigenous people.
+
+Because while that debate was raging on, Maoridom was momentarily distracted from one of the most important debates we will ever have: the debate around Māori rights and interests in water.
+
+It was an extremely timely reminder of the opportunity that politicians have, to use their responsibility well, for the betterment of the people.
+
+So it was with some relief that I stepped out of that, and entered into this hallowed space for the World Indigenous Lawyers Conference.
+
+Your programme has looked very impressive.
+
+Natural resources; the Māori Bank; indigenous court processes; constitutional reform; the Māori economy; the role of lawyers in indigenous development; indigenous education and of course the wider recognition of indigenous rights across our global community.
+
+Right there, you have an agenda for transformation and the opportunity to receive an incredible wealth of knowledge that is being shared so generously with indigenous leaders and lawyers.
+
+Of course I know that the real highlight of this hui comes later today with the sports challenges on the netball courts and the rugby fields; and then an opportunity to wind down with the big game tonight.
+
+As any self-confessed sports fan will know, the real game is not about what’s on the periphery – the chatter out on the sidelines – the real game is on the field, boots and all, giving it all you have got.
+
+So coming back to the kaupapa of what role indigenous parties can play in the development of indigenous people, the Māori Party has always seen our role being on the field of play, seeking out every opportunity to try, to try, and to try again – with our ultimate goal of being to score for our people and secure wins on a regular basis.
+
+Just to test this metaphor, let me look back over the last few weeks in the momentum building on the vital issues around water.
+
+The Māori Party has always seen our best value being on the field, rather than screaming abuse at the ref from the sidelines, or watching on in the spectator stand. We know that we have to give the game our best shot. There’s no value for us being on the parliamentary payroll if we don’t use the opportunity we have, wisely. We’re in here for the long haul, our Kaupapa is enduring and inclusive, and we are determined to make a difference.
+
+So our first points in the match came with the section nine debate. There was some criticism at the time that we were crying ‘foul’, throwing the ball into the crowd to stop a quick lineout in the first few minutes of the match – parliament having virtually been open for less than a month when we raised the heat around the importance of section nine as a basis for consultation between the Treaty partners.
+
+My colleague, Tariana, was firmly fixed on the goalposts – knowing that if we let the Treaty slip, the game would be over before it even began.
+
+And so she wrote an Open Letter to the nation, reminding us all of the constitutional significance of Te Tiriti o Waitangi as instructing us how to live together as Treaty partners. Published in daily papers, it became a conversation piece, generating debate about the role of the Treaty at the heart of our on-going growth as a nation. But still the asset sales machinery grinded on despite some question of the match officials by our co-capitains about some calls.
+
+The Māori Party has been clear from day dot – we are opposed to asset sales. Our opposition is recorded in the Relationship Accord we negotiated with National; it is also on record in the Hansard at every stage of the debate around this legislation.
+
+But we feel deeply the responsibility to the people who voted us into Parliament, that we must explore every possible avenue to uphold the aspirations and priorities of our people.
+
+When the legislation to consolidate the mixed ownership model programme of the government was introduced, we faked an injury, hunkered down, and tried a new approach.
+
+And so we achieved into the statute, the words that “nothing in this part shall permit the Crown to act in a manner that is inconsistent with the principles of the Treaty of Waitangi (Te Tiriti o Waitangi)”. This clause advocated by the Māori Party – and its precedent in section nine of the State Owned Enterprises Act, place a specific Treaty obligation on the Crown to act in utmost good faith.
+
+But as every good lawyer will know, one Treaty clause does not a revolution make – and so we needed to try other pathways to guarantee and protect Māori rights and interests in their water bodies.
+
+We scored a length of the field try again when we got the Government to agree not to legislate away the rights and interests of Māori on Freshwater - as Labour did over the Foreshore and Seabed.
+
+The statement released on 18 July, is another important aspect to the water debate. For the record, I repeat that statement:
+
+“The Maori Party and the Government continue to support a process of negotiation between hapu and iwi and the Government on their rights and interests in water, and the Government has undertaken not to legislate over those rights and interests”.
+
+This was really important for us – as I say, it’s about being strong at scrum time and holding on to the ball – not throwing it in the air and walking off in disgust.
+
+The opportunity to bring all the parties together was crucial – and so to continue the metaphor, Dr Sharples picked up the ball and on 6 August convened a Fresh Water Hui with iwi leaders and representatives, New Zealand Māori Council representatives, and a representative selection of WAI 2358 claimants.
+
+The purpose of the national hui was to provide a forum to discuss fresh water issues, for groups to share their positions surrounding fresh water rights and interests, and to discuss ways to achieve their collective aspirations.
+
+That was a real break-through moment, I believe, to bring all parties together, to have the kōrero, and to plan out the next moves. The Māori Council, Iwi leaders, and claimants agreed that they need to work together to advance their respective interests in fresh water.
+
+The discussions that took place, were instrumental in forging a commitment from all parties for negotiated outcomes. Immediately after that hui, we were able to secure an opportunity for the Chairs of both the Māori Council and the Iwi Leaders’ Group to sit with the Prime Minister at his table, to talk face to face – and that occurred on the night of 6 August.
+
+A clear message that came out from the national hui, was that there needs to be more engagement with Māori. Engagement processes must include wider consultation with Māori, not just particular groups.
+
+It is fantastic that just over a month later, this is occurring with the hui being called next week hosted by Kingi Tūheitia. And I want to be clear, that our view is that the hui at Tūrangawaewae is for iwi, hapū and claimants first and foremost, to discuss the issues amongst themselves. It should not a platform for politicians to grandstand – the goal in sight must be the best ways in which to advance progress in Māori rights and interests in water.
+
+To finally put an end to the rugby metaphor, I’d suggest that we were able to achieve a bonus point when collectively, we achieved a delay in the sale process for the Government to consult mana whenua affected by Mighty River Power. This has created time for the coming hui, but, more importantly it continues to place Māori rights and interests in water high on everyone’s agenda.
+
+I’ve taken you through this rather laborious analogy as a way of demonstrating the range of different approaches we have to go through, in order to ensure the priorities for our people are advanced.
+
+Sometimes it’s about legislation and debate in the House; sometimes its about press conferences and the endless volumes of releases and media interviews that have been generated about this issue.
+
+Our absolute preference has been for negotiation and debate to occur. That debate might occur in preparing to challenge papers at the cabinet table, or in late night meetings on the ninth floor.
+
+The debate might be progressed on talkback shows or through the daily papers; on other occasions a simple black beret might inspire more debate than any opinion piece could ever provoke. As we say, ko te kai a te rangatira, he korero. Talk is the food of chiefs.
+
+Finally, I note this is a world conference and I want to remind ourselves – as if we needed it – of our experience with the Rugby World Cup last year. To perfect our game, we need to be open to competition and challenge from the best around the globe. And so as we continue to make progress in advancing the debate around water rights, we should be open to the international experience of other jurisdictions.
+
+What can we learn, for example, from the 2002 Oldman case (Piikani First Nation v Alberta)? In this case, the First Nation peoples’ negotiated an out-of-court settlement with both the federal and provincial governments for $64 million, the right to reasonable quantities of water to meet present and future needs, and the right to participate in the project through decisions and employment opportunities.
+
+Or the agreement with the Nisga’a Nation – particularly its provisions allowing for the Nisga’a Nation to explore hydropower opportunities on rivers and streams.
+
+Closer to home, the Australian High Court decisions deserve a close look - Yarmirr (2001) favoured a “bundle of rights”; while Arnhem (2008) took it further to award exclusive title over an area of tidal water.
+
+And of course, it would be serious mistake of me in this rohe, not to acknowledge our own innovative jurisprudence, with particularly the Waikato River Settlement, and the recent agreement to enter into discussions around the Whanganui River, paving the way for new and revolutionary statute.
+
+There is so much that I could say. But if there is one thing I want to finish with, it is that perhaps our most critical role as politicians is to remember that silence is a source of great strength.
+
+I remember many a caucus meeting with Matua Whatarangi Winiata, where the debate would rage fast and furious and at the end of it all, Matua who had sat quietly listening to all that was said, would sum up with one simple question – how might we best achieve kotahitanga while also upholding rangatiratanga? Or how can manaakitanga be expressed in what we intend to say?
+
+They were always questions which would gravitate us back to our tikanga, our kaupapa, our time-honoured traditions which would centre us on the important mahi ahead.
+
+The most important principle for being a politician, is to remember that we must listen to the voices of the people as best we can.
+
+We should never pretend to know everything, we should always be ready to listen and to learn from the people; to value their ideas; to demonstrate respect for what they have to say.
+
+And so, finally, if we are to really answer the question, what role can indigenous politicians and political parties play in the development of indigenous peoples, my response would be that we are there to listen, to learn, and then to pick up the ball and score the try – and then head back to half way and wait for another kick off all over again.
+
+In essence, it brings home to me the difference between the concept of leadership, and the indigenous legacy we understand from our rangatira.
+
+One way of understanding what rangatira means is to cut the word in two, ranga meaning to weave, and tira meaning a group. To be a rangatira is not about being an individual leader, out front– the leadership is best seen in encouraging collective power – taking up one’s responsibilities and obligations to the greater group. In its purest sense then, rangatiratanga is about weaving the people together with leadership that becomes an example of benefit to the people.
+
+Ultimately, if we look to our greatest examples of Māori politicians in this land since the Māori Representation Act of 1867, the central underlying value has been how well that representation truly reflects the hearts and minds of the people that placed them in power.
+
+It is indeed a worthy legacy to live up to. We strive to do that every day.
+
+  
+ends  
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

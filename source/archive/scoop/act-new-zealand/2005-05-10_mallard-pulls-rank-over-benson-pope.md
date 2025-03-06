@@ -1,0 +1,50 @@
+---
+slug: mallard-pulls-rank-over-benson-pope
+title: "Mallard pulls rank over Benson-Pope"
+date: 2005-05-10
+source-url: https://www.scoop.co.nz/stories/PA0505/S00236/mallard-pulls-rank-over-benson-pope.htm
+author: act-new-zealand
+---
+Mallard pulls rank over Benson-Pope
+===================================
+
+**Tuesday, 10 May 2005, 5:51 pm**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Mallard pulls rank over Benson-Pope
+
+Tuesday, 10 May 2005 Press Releases - Education
+
+ACT Education spokesman Deborah Coddington today said Associate Education Minister David Benson-Pope would be fuming over Education Minister Trevor Mallard pulling rank by ruling out the waiving or reimbursing of NCEA Scholarship reassessment fees.
+
+"Today in Parliament I asked Mr Mallard whether the Government would honour its commitment, made to the House on 10 February to consider waiving the fees, in light of the State Services Commission's report on NZQA's botch-up of the exams. The Minister replied that he would neither waive nor reimburse these fees," Miss Coddington said.
+
+This contradicts what his associate minister told Parliament on 10 February when Mr Benson-Pope said he would consider scrapping the fees upon seeking further advice.
+
+"It’s an absolute disgrace that Mr Benson-Pope has wasted so much time ˜seeking further advice' and had still not come back with a decision. But what's worse is that Mr Mallard totally over-ruled him and arrogantly ruled out compensation altogether. The cost for students and parents was $30 per subject. Some parents have paid more than $100 to get their children’ s exams reassessed.
+
+NZQA’s handling of Scholarship has been nothing short of a mess. If the Government was genuine in its concern over this debacle it would do something for the students who’ve been stuffed around by the whole process. The least Mr Mallard could do is change his mind and waive fees or reimburse out-of-pocket parents," Miss Coddington said.
+
+ENDS
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

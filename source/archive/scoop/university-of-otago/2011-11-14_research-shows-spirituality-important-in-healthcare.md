@@ -1,0 +1,70 @@
+---
+slug: research-shows-spirituality-important-in-healthcare
+title: "Research shows spirituality important in healthcare"
+date: 2011-11-14
+source-url: https://www.scoop.co.nz/stories/ED1111/S00092/research-shows-spirituality-important-in-healthcare.htm
+author: university-of-otago
+---
+Research shows spirituality important in healthcare
+===================================================
+
+**Monday, 14 November 2011, 11:16 am**  
+**Press Release: [University of Otago](https://info.scoop.co.nz/University_of_Otago)**
+
+University of Otago research shows spirituality important in healthcare
+
+A University of Otago study has offered a working definition of spirituality to help healthcare professionals better understand its importance for those faced with illness and death in an age when fatal illnesses are often prolonged.
+
+“What is spirituality? Evidence from a New Zealand hospice study” by Richard Egan, Rod MacLeod, Chrystal Jaye, Rob McGee, Joanne Baxter and Peter Herbison has just been published in the journal Mortality.
+
+Spirituality is increasingly understood to be important in the provision of healthcare policy, guidelines and practice. The study sought a definition of what a broad range of New Zealanders understood spirituality to be in order to provide a baseline for further study of spirituality in the health care setting.
+
+Preventive and Social Medicine Department Research Fellow Dr Richard Egan says that the area of spirituality and well-being has largely been an ignored dimension within medicine and health care.
+
+“The study showed spirituality is considered to be important to a vast majority of people. People clearly knew spirituality includes more than religion. They talked about essence, about the meaning and purpose of life, values and beliefs,” he says.
+
+The study is based on 52 interviews, and a survey of 642 patients, most near the end of their lives. Researchers also spoke to family members and staff from 25 out of New Zealand’s 32 hospices.
+
+“Everyone does have their own definition of what spirituality is, but there are some commonalities. Some named spirituality in a religious way, but they were a minority, which isn’t surprising given only 8 to12% of New Zealanders go to church,” he says.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“We found that spirituality is mostly about meaning, purpose and connection.” Dr Egan says that one man he spoke to had lost all sense of who he was.
+
+“He went into this dark hole of cancer and had to rediscover who he was, asking how to make sense of it. These are spiritual questions.” Dr Egan says the paper offers a working, summative definition of spirituality or “a map of the terrain.”
+
+“Spirituality means different things to different people. It may include (a search for) one’s ultimate beliefs and values; a sense of meaning and a purpose in life; a sense of connectedness; identity and awareness; and for some people, religion. It may be understood at an individual or population level.”
+
+Dr Egan emphasises that this was a base-line study providing a platform from which more research will be done.
+
+“For example, we don’t know much about the spiritual care of the tens of thousands of people in aged care. What is their existential sense of meaning and purpose when they are not at home, not at work, not with family?
+
+“Modern medicine creates a situation where most of us die over a longer time period, not like in the old days when it was usually fairly quick. Sixty percent of us die of cancer or heart disease over 12 months or more. You get more opportunities to sit down and talk to your family and friends about life, its purpose and other spiritual issues.
+
+“Hospitals often don’t have enough time or money to worry about spirituality and most of us die in hospital or aged care. I think that by ignoring the spiritual dimension there are whole aspects of person-centred care that are missed; needs can be missed.”
+
+Dr Egan says there are points of entry for spirituality in the health system.
+
+“The hospice approach is the gold standard in terms of spirituality in health. They specifically name spirituality in their list of care priorities along with physical, social and mental well-being. Māori models of healthcare also incorporate spiritual well-being in person-centred care.
+
+“We want to have a good death for ourselves and our relations. To have a ‘good enough’ death we need to have our physical pain dealt with, but often of equal or more importance are our spiritual affairs.”
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Otago](https://info.scoop.co.nz/University_of_Otago) on InfoPages.

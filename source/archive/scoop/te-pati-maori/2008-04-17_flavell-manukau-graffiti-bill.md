@@ -1,0 +1,127 @@
+---
+slug: flavell-manukau-graffiti-bill
+title: "Flavell: Manukau Graffiti Bill"
+date: 2008-04-17
+source-url: https://www.scoop.co.nz/stories/PA0804/S00426/flavell-manukau-graffiti-bill.htm
+author: te-pati-maori
+---
+Flavell: Manukau Graffiti Bill
+==============================
+
+**Thursday, 17 April 2008, 9:56 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Manukau City Council (Control of Graffiti)  
+Te Ururoa Flavell, MP for Waiariki  
+Wednesday 16 April 2008; 5.30pm
+
+I te tuatahi, me whai atu au i nga korero i te ahiahi nei mo te hunga kua ngaro atu i te tirohanga kanohi, ara o nga tamariki tokoono, me to rätou kaiako.
+
+Ko nga korero i puta mai inapö mo taua hïkoi i te awa o Mangatepopo i Tongariro, he mea ohorere tonu, a kua paa mai te aroha me te mamae ki a tätou katoa. No reira, moe mai koutou.
+
+Apiti hono tätai hono ko te hunga mate ki te hunga mate, äpiti hono tätai hono, ko te hunga ora ki te hunga ora, tena ano tätou.
+
+We acknowledge, firstly, with deep sadness the tragic loss of lives from Elim Christian College in Howick, including six students and their teacher.
+
+The news last night of the catastrophic outcome of a trip down the Mangatepopo River near Tongariro, has left a profound impact on all of our lives. Let those who have passed on rest, let us who remain here, move on.
+
+I appreciated the comments made this evening by Mr Rodney Hide. I believe he made an excellent contribution to the debate.
+
+Can I say from the start that the Maori Party can understand the motivation for such a Bill. We can understand the feelings of people as they see their homes, paths, walls painted. But we do not believe that this Bill will deal with the problem.
+
+Instead the focus of the Bill is on putting in place a harsh punishment regime to deal with offenders; measures which will increase the surveillance capacities available to the Police and the Manukau City Council.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+When all else fails, the Bill sets up a range of options including increasingly intrusive opportunities to arrest and fine offenders.
+
+Mr Speaker, in its entirety, this Bill targets young people, prohibiting the sale of spray paint to minors under eighteen years of age; requiring evidence of age to be revealed – measures which Government has willingly picked up in their Tagging and Graffiti Vandalism Bill.
+
+It would hardly be news to anyone in this House, that tangata whenua will be disproportionately more likely to experience the new suite of options meted out to address youth crime.  
+Let’s look at the facts. The report, Youth Justice Statistics in New Zealand 1992-2006, shows that Maori youth arrests were more than three times that of Pakeha and twice that of Pasifika peoples.  
+Is there likely to be a different situation in Manukau? Hell no!
+
+Mr Speaker, throughout the duration of the debate around graffiti, some brave people have actually dared to raise another view, to look beyond the hysteria and the hype around grafitti, and ask why.
+
+They are people who have dared to ask questions about the causes for creating graffiti in the first place, the motivation that results in the reactions we see displayed on city walls.
+
+Why do our young people bother to leave behind these embellished autographs, to make their mark, to stake out their turf?
+
+The Children’s Commissioner was one of the people who dared to speak out, to demonstrate courage in asking the House to look at the widest possible range of processes and policies to manage tagging and graffiti.
+
+She encouraged Parliament to think beyond what she called “the punitive and restrictive measures” that appear in both the tagging – and we would suggest also, in this Bill. Dr Kiro was immediately censured.
+
+Some at the more extreme end of reason even protesting that by taking a broad-brushed approach towards understanding graffiti she may well have signed the arrest warrant for thousands more young people.
+
+Mr Speaker, two years ago this House erupted in anger over a similar debate, about whether legislation was promoting the punishment of children.
+
+At the time of the Section 59 Debate, the Social Justice Commission of the Anglican Church, called for a more just society in which all members are treated equally, respected and cared for.  
+Their submission made the case, passionately, and I quote, for a
+
+“legal framework that is clear, consistent, compassionate and caring, especially towards the most vulnerable in our society”.
+
+  
+This House passed legislation, to create such a society, as we outlawed the use of physical force against children as a defence in any court.
+
+And yet today, with this Bill, we have new legislation to enter private property and remove graffiti, to establish a fine of $2500, to create an offence of carrying a paintbrush – a graffiti implement; put in place a pathway of punishment which can lead to jail if fines are not paid.
+
+It could have all been quite different.
+
+The Select Committee report gave an indication of other options that could have been available.
+
+They described the work of the Manukau Beautification Charitable Trust; the 24-7 graffiti clean up programme of Christchurch City Council; the voluntary Memorandums of Understanding between Councils and retailers regarding the display and storage of spray cans.
+
+Just last week we heard about the initiative being pioneered by a Christchurch primary school, Te Rito o te Harakeke, in fighting graffiti with graffiti.
+
+Deputy Principal of that kura, Ruawhitu Pokaia, described the need for a different approach to dissuading young people from tagging or bombing their site. So the kura went out and commissioned artists to bomb their school fence, Pokaia concluding that the exercise was not only useful in brightening up the school but that the eventual product of the art became a teaching resource in itself.
+
+The fence now inspires questions about the birthplace of our nation; Waitangi; about the mana whenua; about Ötäkaro – known to some as the Avon River.
+
+Mr Speaker, the very name that this kura goes by reminds us of a holistic approach towards our young people. The name is derived of course from the well known waiata, Hutia o te rito o te harakeke, kei whea te komako e ko.
+
+A waiata which reminds us, that just as the centre stem of a flax bush is nurtured and supported by the older leaves, so too, our children must be nurtured and supported by their whanau – their siblings, their parents and grandparents.
+
+We have argued consistently throughout this debate and other more recent ones on tagging, that punishment is not the only answer.
+
+We have raised concerns about the vigilante action that has taken place as people have sought out their own punishments for property crime.
+
+And we have laid down the challenge, that a restorative justice approach would look at a comprehensive campaign which included those offending being given the responsibility of eradicating their own graffiti and facing the people who have suffered because of their actions.
+
+The greatest fear that we have with legislation such as this, which sets up a scenario by which the world can sit back and let the heavy hand of the law intervene, is that there is no call for people to do anything themselves, to get involved in their communities, to empower themselves to make a difference to the future.
+
+Our co-leader, Tariana Turia, spoke up for a restorative justice approach and the Thought Police exploded in righteous fury, condemning her for her comments that we needed to think about the social commentary that graffiti represents, and respond to the underlying concerns around the alienation of young people.
+
+Another woman who has dared to try a different approach we have been told was the unsung community hero, Minnie of Manukau, who gets up every morning at 5am to look over her local park, to care for the environment in her words, for the sake of the little children.
+
+She has become the official guardian of a community park in Otara, trying to stop the boys from tagging, running over to catch offenders in the act and march them to their parents. As one of the neighbours described her, Minnie brings good to the hood.
+
+She tells the parents to care for their children, and in doing so she encourages us all to care for our environment, to care for each other.
+
+We can all be like Minnie of Manukau, engaging positively with our young people, rather than always persisting with legislation and approaches which punish and condemn, which impose fines, which lock ‘em up and destroy all hope especially if all we are doing is focusing just on Manukau.
+
+We in the Maori Party will never agree to knee-jerk legislation which seeks to criminalize anti-social behaviour when we all have the opportunity to support our alienated young people and encourage them to find positive ways of participating and contributing to our communities.
+
+We do not need this over-reaction and this continually critical, hostile attack on our young. We need to engage with our young, we need to seek solutions, we need to restore hope that we can all nurture our young to grow into the leaders who will help to shape our tomorrow.
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

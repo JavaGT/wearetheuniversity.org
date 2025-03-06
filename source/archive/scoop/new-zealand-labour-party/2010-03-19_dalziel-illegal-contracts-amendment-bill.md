@@ -1,0 +1,122 @@
+---
+slug: dalziel-illegal-contracts-amendment-bill
+title: "Dalziel: Illegal Contracts Amendment Bill"
+date: 2010-03-19
+source-url: https://www.scoop.co.nz/stories/PA1003/S00290/dalziel-illegal-contracts-amendment-bill.htm
+author: new-zealand-labour-party
+---
+Dalziel: Illegal Contracts Amendment Bill
+=========================================
+
+**Friday, 19 March 2010, 12:17 pm**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Hon Lianne Dalziel  
+**Opposition Spokesperson on Commerce & Justice**  
+MP for Christchurch East
+
+19th March 2010 **Speech Notes**  
+  
+_ANZ/ING Frozen Funds Group_  
+Hettinga Estate  
+1024 Pakowhai Rd, Hastings  
+11.30am
+
+Thank you for the opportunity to address you and to present to you the Illegal Contracts (Unlawful Limitation on Regulators’ Powers) Amendment Bill.
+
+May I begin by congratulating the ING/ANZ Frozen Funds Group in general and Gerard Prinsen in particular for the approach you have adopted and for the generosity of time and energy you have committed to seeking justice for everyone who invested in the two frozen ING funds.
+
+The most difficult experience I had as Minister of Commerce was the sense of helplessness I felt as I watched the inevitable domino effect that flowed from the original finance company failures in 2006. The fact that my predecessor had already begun the consultation process that preceded the regulation of financial advisers and that I had already released nine consultation documents as part of what was called the Review of Financial Products and Providers before the first of the string of finance company collapses occurred paled into insignificance against the extent of the losses people had suffered.
+
+And it wasn’t like the proverbial ‘run on the bank’ either. Fixed term investments meant that thousands of people held their breath until they reached the due date and then pulled the money out. This meant there was a delay before the second string of failures started to occur, with the collapse of Bridgecorp in 2007, and the rest is history.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I received report after report of individuals facing financial ruin as a result of an investment decision in one or more of these companies. It became very apparent to me that it wasn’t greed that drove these investment decisions, but rather a lack of knowledge about the nature of the risk they had been exposed to. For some investors, they were receiving a matter of a few dollars a year extra in interest, while exposing themselves to an exponentially greater risk than keeping it in a term deposit at the bank.
+
+I was appalled to find that some companies had deliberately under-priced the rate of return in order to deliberately mask the extent of that risk. That is disgraceful.
+
+The examples of the lack of integrity in this sector have been the most appalling aspect of what occurred, and, although there are commentators who rail against the failure to regulate fast enough, where were the major exposés of what was happening warning people of the risks? We all can learn lessons from what happened.
+
+I have also developed an antipathy towards the celebrity promoter – people like Sir Colin Meads, All Black hero, or Richard Long, trusted news presenter – what do they know about the products they promote? Should they be allowed to be the face of integrity that belies the quality of the product on offer?
+
+But even more than that – what about the celebrity director – former politicians are a particular favourite – former Cabinet Ministers are the best – which has a certain degree of irony given the populist view of politicians.
+
+Don Brash stated that he knows more about managed funds than I do – I agree – I am not a director of a company whose actions have not stood up to scrutiny and I do not sit beside another director, who wants to be the Mayor of the Super City, and who says “I’m only the Director”. It is not good enough. The Huljich example involving John Banks and Don Brash, is only one of many.
+
+  
+The Commerce Select Committee is looking at the Finance Company failures to see if we can pick up on the kinds of issues that have been overlooked in the formal processes. We have relied on submissions from those who have been affected and also by those observers who have expressed a sense of disquiet about the reality of what has occurred. I am looking forward to reporting our findings back to Parliament.
+
+I have mentioned this to give a context for this Bill. It is related to the finance company failures but its focus is on the potential undermining of the power of the regulator to insist on certain standards of behaviour. It had its genesis in the wake of the two ING funds (the ING Diversified Yield Fund (DYF) and the ING Regular Income Fund (RIF)) being frozen.
+
+As you are all aware, ING set a deadline for investors with money caught up in either of both of these frozen funds to sign up to a partial compensation deal.
+
+There is nothing objectionable in that. Nor was there anything in requiring investors to sign away their right to take further legal action against ING or to participate in the benefits of someone else taking action against ING.
+
+  
+What was objectionable was the fact that the matter was still being investigated by the Commerce Commission and the offer letter contained a release clause which included the following terms:
+
+_“By accepting this Offer you agree to surrender, settle and release all other rights or claims you may have against certain parties in connection with the relevant Fund … including any claims or the extent of any claims of which you are not currently aware, and any claims brought on your behalf or for your benefit by another person.”_  
+  
+_…It also means you are agreeing not to benefit from any claim made by any other person in connection with the Funds…”_
+
+A Release Disclosure Document was annexed to the Offer Letter and this contained a list of those covered by the release (essentially ING, ANZ, NZ Guardian Trust, and all of the financial advisers who had advised on the investment in the Fund) and referred to the investigations being undertaken by the Banking Ombudsman and the Commerce Commission.
+
+The question that was raised for me was whether, as a matter of public policy, companies that may have transgressed the regulatory framework they operate under should be allowed to make a settlement conditional on these terms.
+
+There is no problem making a settlement conditional on not proceeding with a civil cause of action – that occurs every day. But where a regulator has identified a breach of the rules that were designed to protect investors, no agreement that in anyway undermines the authority of the regulator should be allowed to stand. It simply exacerbates the wrong should it transpire that these rules were broken.
+
+Over half a billion dollars were stranded in the ING product funds, with a lot of it representing the life savings of elderly people who continue to be angry and confused at the way they were treated.
+
+It is simply not fair that people were forced to take their chances on accepting a deal that would prevent them benefiting from any action that could follow a finding that ING had breached its statutory obligations.
+
+If the Commerce Commission inquiry produces no findings of wrongdoing on the part of ING or those offering investments in the two Funds (DYF & RIF) then there is no problem. If on the other hand they are found wanting by the Commerce Commission in terms of their legal responsibilities to their investors, then this Bill will apply. I made a public statement prior to the closing of the settlement offer, making it clear that a private member’s bill with retrospective application would be introduced, if they held to their position.
+
+The vehicle I have chosen for addressing this wrong is a Bill amending the Illegal Contracts Act 1970, to extend the coverage of the Act to prohibit attempts to limit the power of any regulator to award any remedy or distribute the proceeds of any settlement or court order to any individual.
+
+The operative clause reads:
+
+_Notwithstanding any other provision in this Act, or in any other enactment or rule of law, where any provision in any contract purports to oust or to limit the power of a regulator to award any remedy or distribute any proceeds of a settlement or order of the court to any individual, the provision shall be void and of no effect._
+
+In making the comments I have made today I am not reflecting on the terms of the settlement. To be fair to ING there are other investors in other funds who will never see anything like the return that these investors will receive.
+
+It is abhorrent however that the statutory framework that is designed to protect investors against wrongful actions and to punish those who breach the obligations it sets can be set aside by the promise of a settlement.
+
+I have no objection to ANZ, who have an important reputation as a registered bank to maintain, and ING seeking to offer a remedy, which I freely acknowledge is better than some of the individuals involved in losing their life savings have done, but this is a matter of principle and it must be addressed in the law. A blanket prohibition is in my view the best solution.
+
+I provided advance warning to ING that I intended to adopt this course of action and I made a public statement to that effect which means there is no concern about the retrospective application of the Bill.
+
+The final comments I want to make today relate to the people who made investments during a time that the market was insufficiently regulated to offer the degree of protection that many people thought they could expect to receive.
+
+I cannot begin to describe my disgust at the actions of those who took advantage of the lack of knowledge and expertise in the financial world.
+
+At no time did I ever consider the older New Zealanders who looked to the finance companies for a secure savings platform for their hard earned money as greedy. It is true that I often felt that people had been naïve, especially those who leveraged freehold property to purchase an interest in property sight unseen or in some cases yet to be built – which is the Blue Chip example.
+
+But there are people who still live the high life, their assets protected by the corporate veil or limited liability and family trusts. They live on without a thought to those whose lives have been turned upside down because they have lost all their savings and they know they will never be able to recoup them.
+
+It is they who were greedy and it is they who should feel shame, not the elderly parents ashamed to tell their adult sons and daughters of their loss. The real villains are the ones we must prevent from ever taking money from the public ever again. The case has been made for lifetime bans from ever being able to be associated with a company again and that will be my next private member’s bill.
+
+So thank you again for the encouragement you have offered me. This may not be the perfect answer, but it is certainly one worthy of the consideration of the New Zealand Parliament and I hope that MPs from all sides of the House give it the opportunity for consideration it deserves.
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

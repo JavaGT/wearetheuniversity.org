@@ -1,0 +1,128 @@
+---
+slug: submission-on-the-climate-change-response-bill
+title: "Submission On The Climate Change Response Bill"
+date: 2002-09-12
+source-url: https://www.scoop.co.nz/stories/PO0209/S00058/submission-on-the-climate-change-response-bill.htm
+author: new-zealand-business-roundtable
+---
+Submission On The Climate Change Response Bill
+==============================================
+
+**Thursday, 12 September 2002, 11:47 am**  
+**Press Release: [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable)**
+
+NEW ZEALAND BUSINESS ROUNDTABLE
+
+SUBMISSION ON
+
+THE CLIMATE CHANGE RESPONSE BILL
+
+SEPTEMBER 2002
+
+1 Introduction
+
+1.1 This submission to the Foreign Affairs, Defence and Trade Committee (the Committee) on the government's Climate Change Response Bill (the Bill) is made by the New Zealand Business Roundtable (NZBR), an organisation comprising primarily chief executives of major New Zealand business firms. The purpose of the organisation is to contribute to the development of sound public policies that reflect overall New Zealand interests.
+
+1.2 The Committee last considered climate change policies earlier this year when it had before it the government's National Interest Analysis (NIA). The hearings on the NIA occurred prior to the release on 29 April 2002 of the government's Preferred Policy Package. Our submission on the NIA argued that it was seriously deficient and recommended that it should be re-worked. This view is consistent with the minority recommendation in the Committee's report that the NIA should be re-done when the government had determined the measures it proposed to implement to give effect to New Zealand's Kyoto undertakings.
+
+1.3 The subsequent publication of the government's Preferred Policy Package reinforces this conclusion. It is in the nature of a 'Clayton's package' for the initial commitment period, in that most sectors of the economy are shielded from any significant impact and reliance is placed on forestry sinks to meet New Zealand's obligations. However, the Kyoto requirements would bite hard beyond the first commitment period when, as the government acknowledges, gross emissions would need to be reduced. We consider that the document is grossly inadequate in not addressing the longer-term implications of ratification, which we see as very damaging for the economy. A copy of our submission on the Preferred Policy Package is attached.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+2 The key issue of ratification
+
+2.1 We believe that the key issue facing the Committee and parliament is to assess the case for ratification. We are aware that the Committee's report earlier this year stated that:
+
+The provisions that allow Parliament to examine treaties do not include the power to approve treaties. This power has been retained by the Executive. On this basis, we are not able to make a recommendation to ratify or otherwise as this would presume Parliament performing some sort of approval function.
+
+However, parliament necessarily performs such a function when it considers associated legislation, such as that proposed in the Bill. We also note that the US Senate voted 95-0 against any international climate change agreement that would harm the US economy and would not include participation from developing nations. Why should parliament not be asked to address the merits of a decision (ratification) which will have profound long-term consequences for New Zealanders? The Canadian government has announced that its parliament will be asked to vote on the ratification of the Protocol. We note also that the Regulatory Impact Statement (RIS) contained in the explanatory note to the Bill states that the government's decision to ratify is subject, inter alia, to the enactment of legislation to enable ratification.
+
+2.2 The government's justification for the actions it proposes to take is set out in the RIS. We examine each element of the RIS in turn.
+
+2.2.1 Statement of the problem We think it is beyond doubt that the RIS does not comply with the Cabinet Office requirement to establish that there is a clear need for government action. It does not even acknowledge that New Zealanders might be better off with projected global warming.
+
+2.2.2 The RIS does not mention, let alone evaluate, the economic literature that finds that the Kyoto Protocol would impose significant costs on most developed countries for only small environmental benefits. It is well understood that the full implementation of the Protocol will have a barely detectable impact on temperature increases projected for 2100. This is not a contentious point. A recent review article by McKibbin and Wilcoxen summarises the cost-benefit aspect as follows:
+
+For example, Nordhaus and Boyer (1999) find that the Protocol does not "bear any relation to an economically oriented strategy that would balance the costs and benefits of greenhouse gas reductions." They calculate that the worldwide present value cost of the Kyoto Protocol would be $800 billion to $1,500 billion if it were implemented as efficiently as possible, while they estimate the present value of benefits to be $120 billion. Other studies reach similar conclusions. Tol (1999), for example, finds that the Kyoto Protocol would have a net present value cost in excess of $2.5 trillion and comments that "the emissions targets agreed in the Kyoto Protocol are irreconcilable with economic rationality".
+
+2.2.3 This article and other analyses support the view that the deficiencies in the Kyoto Protocol arise from unprincipled political considerations. The choice of 1990 as a base year was more convenient for Europe than the United States. Europe has an anti-competitive interest in raising cost structures in the United States. This suggests that Europe's willingness to meet its targets will be lower (a) the less likely it is that the United States participates; and (b) the greater the costs that are likely to fall on Europe. On the latter point, it is of interest that a recent US-based study found that Europe "faces major challenges in meeting not only the Kyoto greenhouse gas targets but also the more stringent emissions being debated for the post-Kyoto commitment period."
+
+2.2.4 Unfortunately, the Committee itself appears to be seriously misinformed on this question. Its report this year on its international treaty examination of the Protocol stated that the "justification for the Kyoto Protocol lies in the overwhelming scientific evidence that greenhouse gas emissions are a major contributor to
+
+climate change and that in the long term this will be extremely detrimental to the whole planet." This statement ignores cost-benefit considerations and uses false scientific certainty to justify action that would have no material impact on global warming. In fact, as McKinnon and Wilcoxen state, "it is quite hard to prove that global warming has begun". Furthermore, the assertion about the long term appears to be undocumented and to lack a scientific basis. Scientists do not know if or when a doubling of carbon dioxide will occur, given substitution possibilities. Nor do they know whether a doubling will lead to a temperature closer to the lower or upper end of the IPCC's 1.5-4.5¢XC range. In any case, these alleged problems cannot justify the Kyoto Protocol because it will not solve them. Any justification would have to consider costs and benefits. These are economic, not scientific issues, and are ignored in the Committee's report.
+
+2.2.5 Stated policy objective The stated policy objective does not meet the Cabinet Office Manual requirement that an RIS should not "align with (and so prejustify) the particular effects of the proposed regulation". Instead it excludes consideration of all non-ratification options by stating that:
+
+The public policy objective is to enact legislation that will allow New Zealand to ratify the Protocol and formalise the powers and institutions necessary for New Zealand to continue to comply with its obligations under the Convention.
+
+This is a flagrant breach of the RIS guidelines.
+
+2.2.6 Statement of options As a result of this specification, the only two options identified in the RIS are to ratify using existing legislation or to use new legislation. The second option is preferred on the grounds that it is "\[t\]he only effective way to meet the policy objective". The RIS does not even identify the option for New Zealand of following the approach of Australia and the United States not to adopt the Protocol while implementing unilateral measures. Only indifference to the national interest could explain this omission.
+
+2.2.7 Statement of net benefits The RIS's statement of benefits simply assumes what the government wants to believe ƒ{ that ratification will materially reduce climate change for the benefit of New Zealanders and that there will be positive effects on New Zealand's "trade and other international relationships". Any responsible analysis would consider the possibility that it could have the opposite effects - including distancing New Zealand further from the United States and Australia, two countries that are of the utmost importance to New Zealand.
+
+2.2.8 The RIS's examination of net benefits fails to meet the requirement to identify the total regulatory costs of the preferred ratification option. It does not even identify the nature of the implicit alternative. In particular, it makes no attempt to ascertain the economic costs of ratification beyond the first commitment period. Paragraphs 3.5-3.12 of the attached submission suggest that the future costs could be massive.
+
+2.2.9 Finally, the section in the RIS on the parties likely to be affected by the measures does not examine the prospect that the costs will fall largely on the least mobile members of the community. Capital and internationally mobile labour can escape the ongoing costs by emigrating. The elderly and the least skilled will find this more difficult.
+
+2.3 These deficiencies appear to be wilful. By stating its determination to ratify despite such incompetent analysis, the government is giving the impression that it is acting for political reasons and does not care about the wider national interest. The most obvious step it could take to redress the situation would be to require officials to submit a professionally competent NIA. Indeed, parliament should demand no less from the executive. We submit that the Committee should also call the departmental chief executive(s) responsible for the RIS before it to respond to the foregoing criticisms.
+
+3 Accountability
+
+3.1 We have raised our concerns about the low quality of public policy analysis on this topic inter alia with the State Services Commissioner. He agrees that chief executives and their departments are accountable for the delivery and quality of their advice and analysis.
+
+3.2 We note in passing that there is ample evidence that the problem of low quality regulatory analysis is a general problem. It is not specific to the climate change
+
+issue.
+
+3.3 In our view, it is very important for the public interest and for the efficient operation of parliament, select committees and even cabinet itself that the relevant policy ministries are required to provide competent advice on major policy issues of the day. Parliament should not permit key ministers to dispense with formal advice or to tolerate incompetent analysis.
+
+3.4 We urge the select committee to make a strong stand on this issue. The executive undermines parliamentary democracy when it gets away with providing select committees with inadequate material. We also believe the responsible departmental chief executives should be asked to state their position clearly on the key issue of whether the government should ratify the Kyoto Protocol and that this advice should be made public (eg under the Official Information Act). They are servants of the public as well as the government. The State Services Commissioner should also be asked to hold chief executives accountable for the quality of that advice in their performance appraisal. Kyoto has the potential to be a public policy failure on the scale of the Think Big programme, for which none of the public servants who supported it were called to account. Given the stricter accountability regime introduced by the State Sector Act 1988, advice which turns out to be seriously misguided should be met by reputational and other sanctions.
+
+4 Other submissions
+
+4.1 In preparing this submission we had discussions with the Greenhouse Policy Coalition, the Landowners Forum, Carter Holt Harvey and Business New Zealand and are aware in general terms of their submissions to the Committee on the administrative aspects of the Bill. We concur with the view that the Bill would impose excessive and unnecessary costs. The RIS does not make any case that the benefits from the proposed administrative measures exceed the cost. Nor does it make the case that they are necessary in order to achieve the policy objective. In our view the Committee should respond favourably to Carter Holt Harvey's conclusion that aerial photogrammetry and the provisions of the Resource Management Act 1991 are adequate for reporting purposes.
+
+4.2 We also share in the general concern about the intrusive powers to be conferred on government officials. The Landowners Forum has pointed out that the possibility of these powers being abused is not academic. We suggest that the Committee should respond to the view of the Greenhouse Policy Coalition that the Bill should not delegate powers that should be reserved to parliament.
+
+4.3 In our view, the Committee's report should also respond to the point made by the Landowners Forum about the uncompensated taking in respect of removal units. In general, uncompensated takings undermine the rule of law and thereby discourage investment.
+
+4.4 We strongly concur with the emphasis placed by Business New Zealand on the need to promote higher rates of economic growth in New Zealand and the importance of avoiding measures that unnecessarily make New Zealand less competitive. In our view, the RIS fails to establish that the intrusive measures in the Bill are necessary or desirable for ratification.
+
+5 Conclusions and recommendations
+
+5.1 The Speech from the Throne at the opening of the current parliament stated unequivocally that the:
+
+¡K government sees its most important task as building the conditions for increasing New Zealand's long term sustainable rate of economic growth.
+
+This statement is inconsistent with the proposals in the Bill. Ratification of the Kyoto Protocol would be negative for economic growth. The RIS accompanying the Bill does not make any case that it would produce material offsetting environmental or diplomatic benefits. McKibben and Wilcoxen describe the Kyoto Protocol as "an impractical policy focused on achieving an unrealistic and inappropriate goal".
+
+5.2 The totally inadequate regulatory analysis of such a major issue contained in the Bill is, in itself, a negative signal for businesses and potential investors in New Zealand. Draconian regulations and an evident determination to expropriate private property rights associated with post-Kyoto forests without compensation are the opposite of what is required if the most important national priority is to increase sustainable economic growth.
+
+5.3 In our view, none of the government's other measures in the Speech from the Throne could possibly offset the negative effects on business activity and investment in New Zealand of Kyoto ratification. If the government wishes investors and the business community to view its stated goals for growth seriously rather than cynically, it cannot proceed with ratification on the basis of this analysis.
+
+5.4 The government has ample time for further reflection on the issue in the light of the approach taken by the United States and Australia. A responsible approach would be for it to insist on a NIA and RIS that met professional standards of regulatory analysis. We recommend that the Committee asks for this to be done and that in the meantime the Bill does not proceed.
+
+5.5 We also believe the Committee should insist that the relevant policy ministries provide an explicit policy recommendation on the basic issue of ratification, and that their chief executives are held accountable for the professional quality of the advice given. We also recommend that the Committee asks the responsible chief executive(s) to respond to the criticisms made of the RIS in this submission, and invites the State Services Commissioner to advise it on how they will be held accountable for their advice on the ratification decision.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable) on InfoPages.

@@ -1,0 +1,136 @@
+---
+slug: rahui-katene-speech-child-health-symposium
+title: "Rahui Katene Speech: Child Health Symposium"
+date: 2011-08-30
+source-url: https://www.scoop.co.nz/stories/PA1108/S00570/rahui-katene-speech-child-health-symposium.htm
+author: te-pati-maori
+---
+Rahui Katene Speech: Child Health Symposium
+===========================================
+
+**Tuesday, 30 August 2011, 9:52 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Rahui Katene  
+MP for Te Tai Tonga Maori Party Deputy Whip  
+29 August 2011; 4pm
+
+Nordmeyer Lecture Theatre, School of Medicine and Health Sciences, University of Otago, Mein St, Newtown
+
+CHILD HEALTH SYMPOSIUM
+
+I want to firstly acknowledge this initiative, inspired by the leadership of Te Tuia Well Child.
+
+As I understand it, your consortium brings together academics and service providers, from the Universities of Auckland, Otago, Massey University and Auckland University of Technology.
+
+As if that isn’t impressive enough, you have within your ranks expertise in public health; public policy; paediatrics; nursing; immunisation; child and youth epidemiology; Pasifika mother and infant service; Whakawhetu – the national SIDS prevention service for Maori, and the initiative, Growing up in New Zealand.
+
+It’s almost enough to get a girl from Rangitoto just that wee bit overwhelmed.  
+Well that was until I read of your vision: to live in a country which takes responsibility for our children; to offer the best health and well-being outcomes in the world for our mokopuna.
+
+And I realised the only thing different between you and I is the workplace in which we both do our thing.
+
+Our ‘thing’ is all about the children.
+
+It is about our universal recognition that our children are the living messages we will send to a time that you and I will not see.
+
+It is about our understanding that our children are our collective future – they are our leaders, our politicians and paediatricians. They will care for us; they will provide for us; they will shape the direction this country will take for our mokopuna to inherit.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+And so it is vital that we get it right; that we plan well for the health and wellbeing of our children; that we protect their life chance.
+
+This seminar could hardly be more timely; more appropriate.
+
+The nation has suffered enough bad news in recent days. And funnily enough I’m not talking about a rugby game.
+
+I’m talking about:
+
+\* a one year old boy – and his great-grandmother - dying of meningitis in Tuakau;  
+\* two seven year olds in Whitianga who had their mouths taped shut by their teacher for talking in class;  
+\* an outbreak of measles in Te Awamutu; with up to 76 cases reported in Auckland – the largest outbreak in the region for more than a decade;  
+\* a case of tuberculosis in a West Auckland school;  
+\* the revelation that 30 children have been physically, sexually or emotionally abused by foster parents and a further 41 children in CYF care have been abused by a third party in the past year;  
+\* the publication of national suicide statistics which reported some 540 deaths last year –the highest per capita youth suicide rate in the developed world for girls and third highest for boys;  
+\* an announcement that fruit and vegetables now cost families almost 16% more than a year ago, and are at their highest levels on record;  
+\* a damning report by Coroner Wallace Bain is calling for compulsory spot checks of children up to the age of five to ensure they are safe and to avoid a repeat of any more ''horrific'' deaths lost to abuse.  
+\* and of course today’s lightning bolt report, the Children’s Social Health Monitor 2011 update, which provides us with a dismal picture of adverse health related to social conditions.
+
+It paints a grim analysis of living standards – advising us that 51% of Pasifika children; 39% of Maori children, 23% of other children and 15% of European children scored four or more on the composite deprivation index which measured a range of “lacks” – a lack of fruit and vegetables; postponing doctors visits because of cost; having to wear worn out shoes and clothing, sharing a bed. What is even more depressing is the fine print in the appendix reminding us of a need for care as the potential still remains for Maori and Pasifika children to be undercounted in the national data.
+
+Sometimes, just reviewing the news of the day gives us a picture that all is not well in the state of Aotearoa; that hope is hard to find.
+
+But what I have noticed over the last year in particular is that there is a new generation of New Zealanders, speaking out and speaking up, to protect and care for all our children.
+
+In June of this year, the Maori Youth Council set up by my colleague, Dr Pita Sharples, made a number of recommendations to increase the opportunities for Maori youth to participate in decisions that impact on youth.
+
+In that same month, a Young People’s Forum was established to develop a strong young people's voice speak out on crime and justice issues, and gaining the attention of policy makers, researchers, and those involved in the political process.
+
+When the Maori Party held a rangatahi wananga in July we were delighted that Ngaruawahia young mum, Cherie Kurarangi-Sweeney joined the group to talk about her courage in deciding to stand up to say that we must not be silent on violence against our children. But she shared also the remarkable difference she is achieving simply by having the courage to rise up. She has nearly 12,000 fans on her facebook page; Stop Death by abuse of our children; and has called for a nationwide act of compassion this coming Saturday; inviting New Zealanders to lay soft toys at the base of our war memorials; to remember the children whose lives have been robbed from us.
+
+These are just a few examples of our young people rising up, which I think can remind us all of the passion of youth; the potential of rangatahi; and the importance of adults listening.
+
+That brings me to what has really been the most profound finding of the early momentum established in Whanau Ora – and that is the vital need for relationships to be given the utmost priority in any aspect of health and wellbeing.  
+We know that a key reason for holding this seminar today is to hear from parties what they are going to do for the country, and in particular for our tamariki and mokopuna.
+
+Well the Maori Party has a distinctive difference to the other parties in this panel, in that we prefer not to talk about what we will do to you; but instead to spread the word that our most enduring solutions lie in the people themselves.
+
+And so, we will retain and expand our flagship policy – Whanau Ora. In 2010, we announced some 25 provider collectives had been chosen, encompassing some 158 providers to work to support whanau to achieve their own aspirations. In Budget 2011, we announced another eight major regions would provide opportunities for the Whanau Ora approach.
+
+We believe that it can be as simple as having good information and the confidence to act on it for the wellbeing of your family. The starting point in Whanau Ora has been the belief that the whānau holds the key to determining the wellbeing of all its members. They are the best people to define their own solutions and make their own decisions.
+
+And so when our rangatahi speak up; when our children cry out; we are hopeful that the massive numbers of whanau who are empowered through the Whanau Ora approach; will listen, and most importantly will act.
+
+Of course it is not just important for the relationships to be functional in and across the whanau. We also seek the transformation of social services delivery to focus on the needs of the whānau. If the whānau are at the core of this transformation; the stronger the relationship; the closer the point of impact for whanau.
+
+Let’s take, for example, two particular priorities that the Maori Party – through the influence of our co-leader, Tariana Turia, was able to announce in Budget 2011.
+
+The first was funding to support rheumatic fever work which will be applied to increase frontline community staff; establish school based sore throat clinics, initiate research and establish training programmes for health professionals and community workers.
+
+There is also the commitment to invest in sexual health services including refocusing resources towards highest risk groups in particular young Maori and Pasifika people.
+
+The thing is that with both of these projects – rheumatic fever and sexual health - it requires an intimacy; sensitivity, a certain courage to know how to raise the issues, to talk, to share confidences. And that is where I come back to the importance of strong and effective relationships.
+
+Of course, we are not going to just cross our fingers and hope.
+
+One of our most important tasks is going to be to report on the progress of whanau health and wellbeing. 53% of the Maori population are under 25- it is in everyone’s interests to take our responsibilities for child health seriously.
+
+We have placed a great deal of priority on child health and wellbeing and we will be announcing more detail later in the year.
+
+But of course our existing priorities – to extend the inwork tax credit for children of beneficiaries; to remove GST off food; to set a deadline to eliminate child poverty by 2020; and to foster greater emphasis on primary care, will all remain on our agenda.
+
+  
+And we place great stake on the right to hold a Maori Affairs select committee inquiry into the wellbeing of Maori and Pasifika children that we were able to achieve in June this year (despite National MPs voting against it).
+
+This is one of the few collaborative projects I have worked on in my term at Parliament which has succeeded; and I want to note the co-operation we have enjoyed with the Greens in our co-leadership of the Aotearoa Equality Group - a group I convene with Metiria Turei.
+
+  
+But if I could finish on just one teaser, it would be to note that in the next 24 hours we will be announcing another one of our significant policy achievements – the commitment to cultural competency in our schools.
+
+Finally, I want to share with you the words of a Chinese proverb which I believe epitomize the challenge ahead of us all – whether in the Maori Party; in Starship Hospital; in the PHO and NGO network; in Te Tuia Well Child and most of all in whanau.
+
+When planning for a year, plant corn; when planning for a decade, plant trees; when planning for life, train and educate people.
+
+The health and wellbeing of our children – arguably our most important investment in the prosperity of our nation – requires our finest training and development to make the difference we need.
+
+I thank you all for the commitment and the sacrifice you make every day, to this most noble of purposes. Tena tatou katoa.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

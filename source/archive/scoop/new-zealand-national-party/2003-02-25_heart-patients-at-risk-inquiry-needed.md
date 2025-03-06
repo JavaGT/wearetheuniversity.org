@@ -1,0 +1,57 @@
+---
+slug: heart-patients-at-risk-inquiry-needed
+title: "Heart patients at risk - inquiry needed"
+date: 2003-02-25
+source-url: https://www.scoop.co.nz/stories/PA0302/S00464/heart-patients-at-risk-inquiry-needed.htm
+author: new-zealand-national-party
+---
+Heart patients at risk - inquiry needed
+=======================================
+
+**Tuesday, 25 February 2003, 5:24 pm**  
+**Press Release: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+  
+Heart patients at risk - inquiry needed
+
+National says reports Otago and Southland lives are at risk because of a ballooning heart surgery waiting list are further proof that an inquiry is needed into heart patient waiting lists and deaths.
+
+A Dunedin cardiac surgeon is reported as saying that southern lives are at risk because of a ballooning waiting list for heart surgery at Dunedin.
+
+National Health Spokesperson Dr Lynda Scott has already called for an inquiry into patient deaths at Wellington, where eight patients died in three years.
+
+"The inquiry should find ways to reduce waiting lists dramatically and prevent deaths occurring in Otago and Southland where waiting lists have blown out beyond safe practice and elsewhere.
+
+"I want a guarantee that all patients get surgery with six months - patients don't care whether it is a public or private hospital.
+
+"I want a national register of heart patients detailing deaths of patients on waiting lists and how long they waited for surgery, and I am calling for patients and their families affected by long waits for heart surgery to come forward and tell their stories.
+
+"The Government has rejected my call for an inquiry into why it is taking so long for heart patients to get surgery, and what we can do to prevent them dying on waiting lists.
+
+"I ask the Health Minister to give us the openness, honesty and transparency she promised before Labour came to Government so that we can give patients their quality of life back and save lives.
+
+"This is a very serious issue where people's lives are at risk and the Minster must act," Dr Scott said.
+
+  
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

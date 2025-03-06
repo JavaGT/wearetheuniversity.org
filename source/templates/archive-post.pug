@@ -1,0 +1,17 @@
+extends ./root.pug
+block content
+    h2=title
+    if attributes['source']
+        if attributes['source'].includes('https://web.archive.org/web')
+            p
+                a(href=attributes['source'].replace(/https?:\/\/web\.archive\.org\/web\/\d+\//g, '')) Live Site
+        p 
+            a(href=attributes['source']) Archived post
+    h3
+        if (attributes.author-slug)
+            a(href="/author/#{post.author-slug}")=attributes.author
+        else
+            span=attributes.author
+    p= attributes.date
+    p!= content
+    //- p=JSON.stringify(attributes)

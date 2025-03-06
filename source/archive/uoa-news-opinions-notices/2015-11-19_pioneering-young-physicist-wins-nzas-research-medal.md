@@ -1,0 +1,30 @@
+---
+slug: pioneering-young-physicist-wins-nzas-research-medal
+title: "Pioneering young physicist wins NZAS Research Medal"
+date: 2015-11-19
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/pioneering-young-physicist-wins-nzas-research-medal.html
+---
+Pioneering young physicist wins NZAS Research Medal
+===================================================
+
+19 November 2015
+
+Scientific discoveries in miniature optics that could result in ultra-accurate clocks, and advanced research in fibre optic loops has earned Associate Professor Stéphane Coen of the University of Auckland Department of Physics this year’s Research Medal from the New Zealand Association of Scientists.
+
+At an awards ceremony this evening, Dr Coen was recognised as an internationally influential physicist whose work has had significant impact on the study of nonlinear optics.
+
+His research within the Auckland optical physics group at the University of Auckland has contributed to the group’s global reputation for producing outstanding theoretical and experimental work.
+
+Dr Coen’s research lies at the frontier of the study of light, in particular pulses of light called temporal cavity solitons. The properties of these light pulses mean they can persist indefinitely as they travel around a loop. They are key to fundamental questions in laser science and are an ideal information carrier to store data and create an all-optical buffer, a critical function for high-speed telecom routing technology.
+
+Dr Coen contributed to the first-ever capture of temporal cavity solitons using a continuous-wave laser and a simple unamplified loop of standard optical fibre. Using these solitons, he has also demonstrated the temporal tweezing of light – similar to the way objects are manipulated with tweezers but in this case the tweezers, made of laser light, manipulate light itself. The implications of this work are multi-disciplinary, stretching across research areas from life sciences to ocean physics.
+
+Additionally, Dr Coen’s theoretical insights in that field are contributing to the understanding of what could become new ultra-accurate, ultra-compact optical clocks which would be able to slice time into a quintillionth of a second (one billion times smaller than a billionth). Such clocks would be accurate to within a second over more than 30 billion years, and could eventually replace atomic clocks as the national time standard around the world.
+
+Dr Coen gained his PhD in optics at the Université Libre de Bruxelles in Brussels (Belgium) and completed post-doctoral work at the University of Auckland, in both cases supported by fellowships from the Belgian Fund for Scientific Research (FNRS). His work on temporal cavity solitons has been supported by a Marsden grant awarded in 2011 by the Royal Society of New Zealand.
+
+He has published more than 60 research papers and book chapters and served for six years as Topical Editor of the academic journal Optics Letters. He sits on several international organising and technical committees for international Conferences and has just been elected a Fellow of the Optical Society of America.
+
+“I am very honoured to receive this award from the New Zealand Association of Scientists, especially so in 2015 which is the International Year of Light. This represents the end of a long road, with very humble beginnings. But of course each step has only been made possible thanks to the many colleagues and students who have supported me, and worked with me. It is with them that I want to share this success.”
+
+For media enquiries, please contact Anne Beston - [a.beston@auckland.ac.nz](mailto:a.beston@auckland.ac.nz)

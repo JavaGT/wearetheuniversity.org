@@ -1,0 +1,129 @@
+---
+slug: rt-hon-winston-peters-speech-pike-river
+title: "Rt Hon Winston Peters speech: Pike River"
+date: 2017-01-16
+source-url: https://www.scoop.co.nz/stories/PA1701/S00040/rt-hon-winston-peters-speech-pike-river.htm
+author: new-zealand-first-party
+---
+Rt Hon Winston Peters speech: Pike River
+========================================
+
+**Monday, 16 January 2017, 12:48 pm**  
+**Speech: [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party)**
+
+Rt Hon Winston Peters
+
+New Zealand First Leader
+
+Member of Parliament for Northland
+
+15 JANUARY 2017
+
+  
+Rt Hon Winston Peters speech: Pike River
+
+Speech to Public Meeting  
+11.30am Sunday 15 January 2017  
+Paroa Hotel, 508 Main South Road,  
+Paroa, Greymouth.
+
+Pike River - A measure not of politics but of decency in a democracy  
+With my parliamentary colleague from Palmerston North, it’s a pleasure to be with you here today. And thank you to Bernie and all his family for making this wonderful venue available for us to have our meeting today.
+
+As some of you are aware, this trip was originally to the Kumara races which were of course cancelled.
+
+But this trip down here is not just about supporting the racing industry. The other reason for this trip is Pike River.
+
+Now this is not going to be a long speech, we want to be able to spend some time doing what politicians used to do. They listened to people, not talk their ears off. So there will be an opportunity to ask questions and have discussions.
+
+After six years of broken promises, lies and betrayal the powers that be are attempting to seal the mine.
+
+“Attempting” - because as yet they have been unsuccessful. The reason they haven’t been successful is you. You, the families and the community have stood up to these people and the whole country has been watching in admiration.
+
+You haven’t taken this lying down and we commend you for it. After all that you have been through, with the disaster and the pain of losing loved ones, and the manner in which you have subsequently been treated by the government, you are all an inspiration.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Since being down here, we’ve had a number of West Coasters ask us what our party’s position on this whole saga is. Our party’s position on this matter is very clear. We believe that in the past politicians made a number of mistakes in repealing good laws regarding mine safety and replacing them with laws that weren’t worth the paper they were written on. We had years of coal mining experience in our laws which were quite simply thrown away. This coupled with the downsizing of the mines inspectorate by National in the late 90’s meant unsafe mine management would now go unchecked. Greed by companies led to mine management cutting corners and not making safety at the mine their paramount concern.
+
+The result of all of this was of course disaster and human tragedy.
+
+The government had an opportunity to put things right following the disaster. As LV Martin said, “it’s the putting right that counts”. We all make mistakes, it’s the owning up to them, apologising and putting it right that matters. But we haven’t seen any of these things here.
+
+It’s unfortunately becoming a growing trend in this country, where we have a second class of citizens. This second class, have these traits in common. They are normally working people that know what it’s like to get up each morning and make an honest living. They are normally found in small towns and rural areas. And they are ignored by the powers that be, by their political masters in Wellington and by big foreign owned companies like Valley Longwall. For these groups, people are numbers, not human beings with families and people that love them.
+
+The fact of the matter is that you have been cheated. The West Coast, this beautiful province, should be thriving. These people came here promising jobs and economic growth. These people let you down. They had a duty of care for these men and they put profit over people. The result of their despicable priorities was that 29 men died, and we’re lucky it wasn’t 31.
+
+But are we the only ones that smell a rat in all this? How can it be, that a province such as this, that has had underground coal mining for over 100 years, that has seen over 430 men die in underground mines during that period, had until Pike River, retrieved and buried the bodies of every single miner apart from two men at strongman mine. Yet in 2010 we can’t retrieve a single one and in the years following have not even attempted a recovery. Does that not strike one as being really odd?
+
+It is also odd that the Government’s mining company Solid Energy, indeed a company that you own as tax payers, would buy the mine. At a time when coal prices were weakened from what they once were, why would they buy a mine that has blown up?
+
+You own this company but you wouldn’t think so the way that this government has been behaving.
+
+It’s also seriously odd that they put a man like David Henry on the Royal Commission. A man that has a seriously questionable past with the Winebox inquiry, a man that the government then put in charge of finding out how Andrea Vance got a copy of the leaked Kitteridge report from Peter Dunne. David Henry seriously screwed up.
+
+The government chose a man who would influence the sort of findings they wanted, not someone who would do a good job, get to the bottom of things or get to the truth.
+
+There has quite simply been no justice here. How can 29 people die and there not be a court case? This is simply Mickey Mouse and reprehensible. This is the sort of thing you’d expect in some tin pot dictatorship, not New Zealand.
+
+What a lot of people don’t know is that I worked underground as a tunneller in Australia to save money to attend University. I studied law and practiced as a lawyer afterwards.
+
+In my time as a lawyer and observing the law I have seen few cases so worthy of criminal prosecution. Why on earth have charges of criminal manslaughter not been brought against the key players?
+
+We are not here to campaign or to ask for your votes. I’m here because through my entire career I have backed the little guy, supported the underdog and rallied against corruption. And that is simply what this is. Corruption.
+
+But worst of all, is the absence of an apology. Why hasn’t anyone said sorry? Why haven’t the company, the government or the mine managers apologised?
+
+My message to Bill English is this:
+
+Don’t repeat what your predecessor did.
+
+Stop being so weak - and listen to the families here.
+
+Stop being so weak - and read their report.
+
+Stop being so politically venal - and finally allow these people to go into the drift and give them the chance, as much as physically possible, to bring their loved ones home.
+
+Our message to you all is this. We are here to reaffirm our promise to you last year. We believe your report and believe that a party should be allowed to enter the drift to look for your men. And to all those who say we’re not serious on this promise we say, our party will make re-entry into Pike River a bottom-line at the next election whenever that is. But it needn’t wait until the next election - we’re calling on the National government to keep the promise that Mr Key made to you all shortly after the disaster.
+
+Now before question time we need to mention this briefly as well. It means no disrespect to Labour, Damien O’Connor is a good man and a good Coaster and we consider him to be one of the most grounded members of parliament. But the Labour Party saying late last year, when some of the families came to Wellington, that if they came to power they would ask for yet another report before going into the mine, probably from the same people that are already saying that you can’t go in, is weak and disingenuous. It means maybe, “sometime never”.
+
+You already have a thoroughly professional report from world leading experts in this field. How many more reports do the authorities need before they can say “Go in”? What more proof, could they possibly want?
+
+It would have occurred to all of you from Pike River and other experiences that New Zealand is not the democracy that so many claim it to be. Democracy is above all about openness and accountability to a nation’s people. Democracy is about clearing the pathways obstructing the truth, and granting praise when it is due, and finding fault when fault has occurred.
+
+The growing suspicion around the handling of Pike River is that a number of conflicted parties, that is, the Government and the original owners at the time of the disaster, and Solid Energy, don’t want you to go in because they are concerned as to what you might find – even in a limited entry. That attitude simply reeks of elitism.
+
+If such an event would have happened to these people they would be screaming for accountability, not plan to seal the mine and consign responsibility to history.
+
+It is clear that here on the West Coast you are a forgotten people.
+
+Everything where you are concerned is consigned to the ‘too hard basket’. Pike River is a sad symbol of this. As your population in town after town dwindles and your young people leave and your real estate is static or worse you’re going to have to call upon your fellow West Coasters and your fellow country men and women to make a stand with you.
+
+You need to send them a message inside the bureaucratic beltway of Wellington. That you do not see yourselves as the custodians of an important part of New Zealand paying all the bills just so outsiders from NZ and abroad can make a once in a lifetime trip to the West Coast and marvel at how quaint things are.
+
+If you make that stand the Coast will come alive again, which is what you’ve worked for generations and which your children and grandchildren desperately need to happen.
+
+Ladies and gentlemen, Pike River should not be a measure of politics - but of decency in a democracy.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party) on InfoPages.

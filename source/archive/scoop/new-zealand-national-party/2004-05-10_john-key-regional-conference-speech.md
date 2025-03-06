@@ -1,0 +1,222 @@
+---
+slug: john-key-regional-conference-speech
+title: "John Key Regional Conference Speech:"
+date: 2004-05-10
+source-url: https://www.scoop.co.nz/stories/PA0405/S00154/john-key-regional-conference-speech.htm
+author: new-zealand-national-party
+---
+John Key Regional Conference Speech:
+====================================
+
+**Monday, 10 May 2004, 9:12 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+  
+Key - Address to National Party Lower North Island Regional Conference
+
+John Key MP National Party Deputy Finance Spokesman
+
+  
+Address to National Party Lower North Island Regional Conference
+
+Helen Clark has clearly given up.
+
+It is now less about governing - and more about the former Reserve Bank Governor.
+
+That obsession is no more apparent than in the plan by Labour Party faithful to remove Don Brash's signature from our bank notes.
+
+What a shame, I say, given that Don's signature is such a "genuine work of art".
+
+Delegates, when it comes to the issue of economic growth, most thinking politicians appear to be united behind the mantra that "we need more of it".
+
+In fact, this Labour Government talks about economic growth about as much as a beauty pageant contestant would talk about world peace - (Labour has as much credibility when it comes to delivering on the promises, too).
+
+The rhetoric simply isn't being backed up with action.
+
+Labour is raising taxes, drowning business in red tape, getting us cut out of important trade deals and promoting inflexible employment laws straight out of the 1970s.
+
+Perhaps most worrying, though, is that when it comes to making the case for growth, it is not just the Labour Government we need to convince.
+
+A recent survey showed that many New Zealanders seem more worried about the negative effects of growth than the benefits.
+
+So let me start today by dispelling three myths highlighted in the survey about what higher economic growth will bring.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Myth No 1: Economic growth will lead to more traffic congestion.
+
+Many people associate economic growth with increased traffic congestion, but this is simply untrue.
+
+Singapore is a prime example of a well-functioning transport system in a fast-growing economy. A country with a total population similar to New Zealand's packed into an area less than 0.3% the size of our country. Yet, owing to first-class administration of their transport systems, traffic problems there barely rate a mention. It is quite clear that traffic woes have more to do with poorly designed legislation, local government bureaucracy and lack of public and private funding; than with economic growth.
+
+Myth No 2: Economic growth will damage New Zealand's clean, green environment.
+
+Last year, Bjorn Lomborg - a famous Danish professor and author of The Skeptical Environmentalist - visited New Zealand and blew away the popular but misguided perception that economic growth necessarily harms the environment.
+
+It's commonly believed that global air and water quality are getting worse. In actual fact, as Bjorn pointed out, both air and water quality are generally improving around the world. Take London, for example, where we have some of the best historical data. Between 1585 and late 19th century, air pollution deteriorated. But since then it has improved so dramatically that today the air in London has not been cleaner since medieval times.
+
+Where pollution clearly is getting worse is in the poorer countries, many of which are only now industrialising. But this is the key point - as cities such as Bangkok and Manila grow richer and move through the industrialising phase of development they will undoubtedly become cleaner. We already see this happening in some of the richer developing nations, such as Mexico and Chile.
+
+Myth No 3. Economic growth means the rich grow richer and the poor grow poorer.
+
+To be frank, those who propagate this myth - and there still seem to be many of them - are either completely ignorant of the facts or are being deliberately deceitful.
+
+A fast-growing economy is of far more sustainable benefit to the poor than any aid package or redistributive government policy could ever be. We see this plainly in the dramatic falls in poverty rates among the fast-growing Asian economies that have embraced market reform. Their experience contrasts markedly with the regrettable state of many stagnating African economies, where the poor are indeed getting poorer. The real issue we should care about is not the gap between the richest and the poorest in our society, but rather what our low and median income levels are.
+
+I would far rather we had a society with a wide gap between the rich and the poor, so long as the poorest families are earning incomes of around $50,000; compared to a society with low inequality where the poorest families earn only $20,000.
+
+So, growth matters if we are serious about wanting to improve the living standards of all members of our society.
+
+A good question is how much extra growth could we achieve if we put in place the right policies?
+
+My guess is that over time, New Zealand per capita growth could be lifted by 1% or more per annum. But suppose we conservatively assume that only 0.5% more growth per year is possible.
+
+Using the Treasury's long-term modelling assumptions, that would mean New Zealand's average full-time earner would in real terms get $100 more per week in only 20 years time than they would otherwise.
+
+An average student making minimum repayments could pay off their loan several years earlier. Fewer of our young people would want to leave New Zealand to find higher paying jobs overseas, and more of those who have already left might be tempted to come back.
+
+In real terms, the Government would have something like $2.5 billion more each year to spend on health, $1 billion more each year on education, and $0.5 billion more each year spent on keeping our people safe, without spending any more as a percentage of GDP.
+
+A retired couple would get more than $2,500 more per year in superannuation. What's more, it'd be much easier for New Zealanders to save for retirement - an issue that any Government will need to confront by 2020.
+
+A recent piece of Treasury research, which I found very sobering, showed that the income of more than 25% of New Zealanders is so low that their living standards will be maintained or actually improve when they retire - even if they don't save a single cent more before they retire.
+
+In simple terms, we need to grow so wage rates can go up and we can afford more of the things we need and want, when we want them and when we need them.
+
+But we also need growth if we are going to win in a world of globalisation, a world where the war for talent knows no borders. A world where our best and brightest will be lured overseas if we can't match the wage rates offered overseas.
+
+For some time Don has been talking about the concerns we should all have that the average Kiwi income is $175 per week lower than the average Aussie income, and about $400 per week lower than the average American.
+
+New Zealand's economic demise has contributed to well over 500,000 New Zealand citizens deciding to leave this country permanently during the past 25 years - and they haven't come back.
+
+The danger is that if we don't narrow the economic gap between ourselves and other developed nations they will never come back. We will continue to lose our children permanently, especially the most talented, at an increasing rate. That has uncomfortable implications for the remaining population, which is already aging.
+
+I had every intention of delivering an up-beat speech today, but I have to admit that when I sat down to think about the issues facing our small isolated nation, I realised the outlook right now is anything but 'up-beat'.
+
+The current crop of lemming Ministers have been eager to 'sex-up' their growth initiatives - I still tremble at the thought of those scary pictures of Marian Hobbs playing with sex toys on the page three of my morning paper. Laying the editor's bad taste aside - it can't hide the fact that Labour's policies are in the main anti, rather than pro growth.
+
+Instead, these Ministers are hitching a ride on the back of initiatives put in place by previous governments. They can, and do, try to take credit for the solid economic performances but, quite frankly, it's a fraud.
+
+New Zealand's recent economic performance is entirely the result of the reforms of the 80s and 90s. Anyone who has any credible expertise in economic policy will tell you that, including the Government's own Treasury, the OECD and the IMF. Yet these are the same reforms that Helen Clark likes to call "discredited and discarded".
+
+Current political polls tell us more about who is discredited, and no doubt soon to be discarded.
+
+Helen Clark and Michael Cullen have already been forced to eat their words on the goal of returning New Zealand to the top half of the OECD by 2011. And official forecasts show, and will continue to show at the upcoming Budget, that the long-term outlook is for growth to get much slower, not faster.
+
+The reality is we've had reasonable economic growth over the last few years in spite of the Government, not because of it.
+
+This Government is steadily introducing a creeping tide of legislation that is clogging the arteries of our economy and choking our ability to grow.
+
+Tax is a prime example.
+
+Labour has greatly increased the tax burden of all New Zealanders - reducing the incentive for people to work and invest in our country. In the past two years the tax burden on the average worker has risen at the fastest rate of any developed OECD nation.
+
+Did you realise that the tax burden now is such that average Kiwi workers do not stop working for the Government and start working for themselves until after their lunch break?
+
+That's enough to put you off your food.
+
+In 1999, Labour promised that only 5% of income earners would be affected by their proposed increase in the top personal tax rate. Now, 20% of full-time workers pay the 39-cent rate.
+
+What's more, the Labour Government has introduced higher petrol excises and road user charges, and there's still more to come on these - a higher alcohol excise, a higher tobacco excise, higher ACC levies and an electricity levy. All up, Labour's new taxes are bringing in more than $1 billion a year, which equates to an average of an extra $2,600 from every household over the past four years. At the same time, the Government is running the biggest operating surpluses in half a century.
+
+As well as introducing more anti-growth regulation and taxation, the Government is also failing to adequately address the key bottlenecks in our economy.
+
+The security of our energy supply is a crucially important component for economic growth.
+
+Despite looking down the barrel of a potential crisis where one in 60-year weather events seems to occur every few years, this Government seems paralysed by the situation and unwilling to address core issues in the debate such as Kyoto, the RMA and the capital upgrade required in Transpower.
+
+Speaking of the RMA - it is clear the legislation that Marian Hobbs once described as 'beautifully crafted' is causing us big trouble. After the Government's 'week of hell', I'll forgive you if you didn't take note of the World Competitiveness Yearbook report which showed New Zealand fell 2 places to 18th while Australia powered ahead to 4th.
+
+The report identifies the RMA as part of the problem. You'll be shocked to learn that New Zealand has been ranked dead last at 60th out of 60 countries for this type of environmental legislation.
+
+On transport, the picture is the same. Growing gridlock and growing frustration.
+
+The annual cost to our economy of traffic congestion in Auckland alone is estimated at more than $1 billion. The Government has responded with thinly disguised spin.
+
+They've thrown some token funding at the problem, spread thinly over 10 years. There is absolutely no doubt that much more is needed together with urgent reforms of the entire public transport-funding framework. But yet again this Government appears resolutely committed to the current bureaucratic and politically driven system.
+
+It's worrying that when the coffers are overflowing we can't fix our roads, and hundreds of thousands of people are being left to languish on a benefit.
+
+National has identified welfare as a key issue. Thanks to the labour market reforms made by the previous National Government, together with strong economic conditions, unemployment is around the lowest level for 15 years.
+
+It has left us with a skills shortage as businesses scramble to recruit and retain good staff. I've been talking to an Auckland recruitment agency which tells me that despite offering wages well above market rates, they are simply unable to find anywhere near enough workers to meet their clients' needs. And one of those clients wanted 50 people to pick and pack for a supermarket.
+
+Why is it - when there are more than 300,000 New Zealanders receiving a benefit, that's more than one in seven working-age Kiwis - why is it that we can't find 50 people to fill these vacancies?
+
+No wonder welfare is costing us nearly $1 million an hour.
+
+I could go on - there are many other areas where Government policy is hopelessly failing our country and inhibiting our chances of improving living standards.
+
+The upcoming Budget presents the Government with another chance to fix some of the major problems caused by its ineptitude and inaction. But what will we get?
+
+You can bet it'll be a vote-buying Budget from an increasingly desperate Government that's watching its majority slip away like the ebbing tide. Michael Cullen might like to think of himself as fiscally conservative, but in this Budget I confidently predict he'll start giving away money like a drunken sailor.
+
+And as Helen and her little helpers start dolling out the big bucks, there'll be an even bigger fanfare. Sadly for us all, it won't help us move forward.
+
+In fact, while initially tasty to those who are fortunate enough to receive the dollops of cash, overall our country will be worse off for the waste.
+
+Take the centrepiece of the Budget, "Future Directions". The bulk of this expensive package looks like it will be delivered in the form of an increase in tax credits for families, whether or not they are working.
+
+Improving the welfare of children in poorer homes is a crucially important goal for government policy . Indeed, one of National's highest priorities is to cut the tax burden for low-income families. But this Government's policy of encouraging parents to remain dependent on welfare is certainly not the way to break the poverty cycle.
+
+National is still finalising its blueprint for a modern pro-growth economy, but there are two areas which I think deserve a particular mention today.
+
+The first is to cut waste in the civil service.
+
+Under Labour, bureaucracy has ballooned. Since Labour took office, the total number of government employees has increased by 50,000 to more than 300,000 - that's a 20% increase in just over four years. The increasing burden of the Government's bureaucratic juggernaut is seeing the market for premium office space in Wellington busting at the seams.
+
+And what do all these new bureaucrats do?
+
+For starters, they implement wacky PC spending programmes designed by Steve Maharey like hip-hop tours or sitting out in a paddock humming and sucking salt water through your nose from a teapot.
+
+A National Government would make it a priority to immediately implement a comprehensive audit of all government expenditure. The kind of questions we would be asking would be along the lines of those recommended by the OECD in their 2002 survey of New Zealand:
+
+1\. Does the programme still serve a clearly defined public purpose that matters?
+
+2\. Is this an appropriate role for government?
+
+3\. Would we establish the programme today if it did not already exist?
+
+4\. Is it desirable to maintain it at its current level?
+
+5\. Is it being delivered in the most effective or efficient manner?
+
+In most cases we already know what the answer is. Such a review would inevitably lead to savings - indeed even a small 1% saving across all areas of core government spending would release near on $500 million per year in money that could be used for more productive purposes. Moreover, any new spending initiatives will be carefully vetted under the same rule of thumb.
+
+On the tax side, National is focussed on ensuring the tax system encourages work and productive investment as much as possible, while retaining the revenue base. As Don has signalled, our first priority is to provide tax relief for low and middle-income working families.
+
+Our other immediate priority will be to reduce the corporate tax rate. It's absurd that the Government stubbornly leaves the corporate tax rate at 33% - now one of the highest rates in the Asia Pacific - in a world of increasingly intense competition for foreign investment.
+
+Since Labour came to power the average OECD corporate tax rate has fallen from 35% to under 30% - we are bucking the international trend and being left behind. National is committed to at least reducing our corporate tax rate to match the Australian rate, currently at 30%. If Australia reduced their rate further, so would we.
+
+Over time, as the fiscal position commits, we are also committed to reducing the top personal tax rate.
+
+Of course our political opponents have predictably seized on this as "tax cuts for the rich", then they suggest the focus should be on further reducing the lower tax rates. All tax rates need to come down. In my view this is an area where we must remain uncompromising. All of the research shows that cutting the marginal tax rates that people face is the most effective way to stimulate economic growth.
+
+Delegates. There is only one way to deliver the kind of living standard all New Zealanders want to enjoy.
+
+We must have a pro-growth economy. We need an economy that stimulates opportunity, an economy that rewards hard work, personal responsibility and entrepreneurship.
+
+New Zealand can have its cake and eat it too, and under Don Brash there'll be plenty in store for those who have a sweet tooth.
+
+Thank you  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

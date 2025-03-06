@@ -1,0 +1,84 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2003-05-08
+source-url: https://www.scoop.co.nz/stories/ED0305/S00024/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 8 May 2003, 1:23 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+![AUS WEB SITE](http://www.aus.ac.nz/pictures/logo.gif)In our lead story this week…..  
+Financial performance figures released  
+Seven of the eight New Zealand universities recorded financial surpluses in 2002, up from six in 2001; however only three have reached the Tertiary Advisory Monitoring Unit’s (TAMU) guideline for tertiary institutions to generate operational surpluses of at least 3% of income.  
+The Auckland University of Technology (AUT) was the best university performer returning an operational surplus of $6.52 million, equating to between 4% and 5% of income. Victoria (up from $5.32m in 2001 to $8.79m in 2002) and Otago (down from $19.9m to 13.04m over the same period) also met the TAMU guidelines by generating operational surpluses of between 3 and 4% of income.  
+In general, polytechnics and wananga performed better than universities, with eight of them recording surpluses of more than 7% of income. Leading performer was Te Wananga o Raukawa with a surplus of $3.7 million or 19% of income. Other high performers included Aoraki Polytechnic ($1.6m) and Whitireia Polytechnic ($0.42m), each returning surpluses of 14% of income, with Tairawhiti Polytechnic ($1.8m) and the Eastern Institute of Technology ($3.6m) returning 12%.  
+For the universities it was a mixed result. Canterbury turned a $4.3 million deficit in 2001 into a $1.45 million surplus in 2002, while Massey (from $15.23m to $16.42m) and Auckland (from $10m to $11.6m) experienced smaller improvements. Waikato (from $4.89m to $4.56m) suffered a slight decrease and the AUT’s surplus of $6.52 million was up from $2.24 million in 2001. Lincoln’s deficit increased from $0.75 million to $2.0 million over the same period.  
+A detailed comparison of the financial performance of New Zealand’s Tertiary Education Institutions, including an analysis of student to staff ratios and sources of university funding is extensively reported in the current issue of Education Review.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week:  
+1\. Slow progress in polytechnic negotiations  
+2\. Gateway programme success  
+3\. Merger talks cancelled  
+4\. Partnership talks continue  
+5\. Enrolments strong at AUT  
+6\. Australian pay talks stall  
+7\. Faculty vote on controversial restructuring plan
+
+Slow progress in polytechnic negotiations  
+The first two days of negotiations have been completed between seven polytechnics and their tertiary union, ASTE, in an attempt to negotiate a multi-employer collective employment agreement for staff in that sector. In response to ASTE’s claim for the multi-employer agreement and for an 8% increase on salaries and allowances over two years, the polytechnic employers are holding to a preference for enterprise bargaining. Each has turned up to negotiations with separate claims which include reductions in leave provisions, removal of some salary increments, restrictions to coverage, and the removal of a number of policy matters from the agreement(s). They are yet to make a salary offer.  
+National ASTE President, Lloyd Woods, said he is unimpressed with the attitude of the employers and believes their moves to slow down progress on a multi-employer agreement is contrary to the aims of the Tertiary Education Strategy which includes encouraging collaboration between institutions.  
+Negotiations are due to resume on 20 May, with a further 6 days scheduled.
+
+Gateway programme success  
+The government’s pilot Gateway programme which allows senior secondary students to incorporate workplace learning with their school-based studies has been labeled a success in a report released yesterday by Associate Education (Tertiary) Minister, Steve Maharey.  
+The Tertiary Education Commission’s Evaluation of the Gateway Pilot found high levels of support from employers, students and schools involved in the programme. More than 1,000 students from 24 schools and over 200 employers participated in the pilot programme in 2001 and 2002. The government provided $3.8 million for the programme, which now involves 62 schools.  
+Speaking in support of the programme Mr. Maharey said “university and polytechnic-based learning will not be appropriate for all young people. Gateway is one of several new programmes the government is introducing to build up a range of bridges from school to work.”
+
+Merger talks cancelled  
+Merger talks between the Auckland University of Technology (AUT) and Unitec have stalled after the two organisations identified different expectations on a timeline for the proposed merger. In a joint statement issued by AUT Chancellor, Wyn Hoadley, and Unitec chair, Alan Dickinson, they revealed that AUT wanted further investigation and consultation before proceeding with a merger, but Unitec wanted to move ahead with planning for 2004.
+
+Partnership talks continue  
+AUS representatives have called on their respective universities to open talks of mergers or partnerships up for consultation and debate. A joint statement from the presidents of the Massey, Lincoln and Canterbury AUS branches says that management have a duty to present a reasoned and factual case to support any merger proposal.  
+The statement came after it was confirmed by Massey Vice Chancellor, Judith Kinnear, that discussions on some form of partnership between Massey and Lincoln were occurring at an informal level.
+
+Enrolments strong at AUT  
+On top of a good financial performance the Auckland University of Technology (AUT) has reported strong growth in both domestic and international enrolment figures for 2003. In semester one effective domestic enrolments were up by 4.5% (to 8485 EFTS) on the same time last year, while international enrolments have increased by 22.2% (to 1414 EFTS). AUT Deputy Vice Chancellor (Administration) Derek McCormack said that while the figures were provisional they were a good indication that AUT would experience growth this year.
+
+Worldwatch  
+Sydney pay talks stall  
+Negotiations between the National Tertiary Education Union (NTEU) and the University of Sydney have stalled after the union suspended negotiations. Staff will, however, receive a 4% increase this month as an agreed “downpayment” on a final salary offer.  
+The university had been expected to make a “comprehensive salary offer” by May, in response to the NTEU claim for a 24% increase over 3 years. Despite indications of a response by May, University of Sydney Vice Chancellor, Gavin Brown, told negotiators that the university would not now be in a position to make a financial offer before June, giving the university time to consider the implications of the higher education review, expected to be released as part of the Australian Budget.  
+NTEU general secretary, Grahame McCullough, said the university had breached an earlier agreement, and was not bargaining in good faith.  
+The University of Melbourne has increased salaries by 2.7% as an interim measure and is expected to give a further rise in August.
+
+Faculty vote on controversial restructuring plan  
+The chancellor of the University of Nebraska at Lincoln, Harvey Perlman, has called for a faculty vote on his controversial plan to cut the university's budget, and has vowed to resign if the faculty rejects his leadership. If he loses the vote, Mr. Perlman has said he would also rescind his latest budget reduction proposal, which totals $7.5-million, and reinstate the eight tenured faculty members whose jobs were scheduled for elimination. Voting began on Monday by secret ballot and is open to all 1,434 members of the University of Nebraska at Lincoln Assembly. The Assembly consists of all tenured and tenure-track professors, as well as non-tenure-track faculty members with at least three years of service to the university. The vote will not be an official referendum of the Assembly in accordance with its rules, acknowledges the chancellor, but he said it will serve as an expression of the faculty's general level of confidence in him. A motion for a resolution of no-confidence in the administration was proposed in late April at the Academic Senate's last meeting of the academic year. The Senate is a smaller group elected from the Assembly. It will not vote on the no-confidence motion until the fall. Mr. Perlman said in an e-mail message to the faculty and staff on Monday that allowing the pending resolution "to fester over the summer will continue to divide the campus at a time when we will have to make important decisions."
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the union and others. Back issues are archived on the AUS website: http://www.aus.ac.nz. Direct enquires to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

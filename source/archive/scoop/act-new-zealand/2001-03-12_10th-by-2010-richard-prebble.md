@@ -1,0 +1,266 @@
+---
+slug: 10th-by-2010-richard-prebble
+title: "10th by 2010  --- Richard Prebble"
+date: 2001-03-12
+source-url: https://www.scoop.co.nz/stories/PA0103/S00159/10th-by-2010-richard-prebble.htm
+author: act-new-zealand
+---
+10th by 2010 --- Richard Prebble
+================================
+
+**Monday, 12 March 2001, 10:09 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Sunday 11th Mar 2001 Richard Prebble Speech -- Other
+
+[Click here to listen to the speech in MP3 format](http://www.act.org.nz/action/conference/speeches/Prebble.mp3)
+
+[Click here to download a free MP3 player called Winamp]( 
+http://www.winamp.com)
+
+This has been an historic conference for the ACT Party. Our co-founder and inspiration, Sir Roger Douglas, has stood down as President and passed on the torch.
+
+Sir Roger Douglas is one of the makers of modern New Zealand. He has had a greater impact than most Prime Ministers. Before he was Minister of Finance, New Zealand was one of the most regulated western nations, and after his reforms New Zealand rose to be third on the Heritage Freedom Index.
+
+Sir Roger has fought privilege all his life. He has never forgotten his own upbringing in a State house in Penrose. He strove to create a New Zealand where any child from any background could succeed.
+
+Sir Roger is a visionary. He could always see how great this country could be.
+
+Sir Roger also realised that just having lofty goals is not enough. The left likes to talk the talk. They spend the money but do not demand results. Roger¡¦s opponents believe that just spending money is a success, that once a programme is in place they have done their bit and the problem is solved.
+
+Roger Douglas always asks the tougher question - what are the results of State spending?
+
+Roger Douglas was the first leader to point out the disastrous consequences of making thousands of adults dependent on the State; of the State trying to be father to thousands of families; and of the need for real welfare reform.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I have worked with and alongside Roger Douglas all my adult life. One of his sayings should be in every policymaker¡¦s manual ¡V \"what are the incentives in this policy?"
+
+If the incentives reward hard work, thrift and personal responsibility, the policy will work. If the policy rewards dependence, idleness and irresponsibility, the policy, no matter how laudable the aim, will fail.
+
+Sir Roger and the Hon Derek Quigley founded ACT to remind government that we are all consumers and taxpayers.
+
+To have a Party that has at its core three principles:
+
+First ¡V Self ownership - that each individual is the rightful owner of their own life.
+
+Second ¡V Self determination - that each individual has the right to determine the course of his or her own life, or as Roger bluntly puts it, our right to make our own mistakes; and
+
+Third - Self responsibility ¡V that each individual must accept responsibility for their own life and this is the only way to obtain genuine dignity and self respect.
+
+The great divide in politics is between those who believe the individual exists for the benefit of society, that the collective can override the individual and ACT's view that the individual person is the ultimate value.
+
+Our Party¡¦s commitment to these values is the reason for our success.
+
+ACT was the only new Party to break into Parliament under MMP. All other ¡¥new¡¦ parties were just existing MPs flying new flags. ACT is the only Party to increase its vote in every election under MMP.
+
+ACT has both changed and lifted the debate on public policy. ACT is the Party of innovation and new ideas.
+
+I have welcomed the contest for the presidency. To be president of a political party is a position of great influence and importance. It¡¦s a position that deserves to be contested, and it has been by two outstanding candidates.
+
+I have complimented them both on their campaigns and the manner in which they and the candidates for the Board have campaigned.
+
+This year the ACT Party membership has been increasing strongly, which I think is a reflection of the enthusiasm of the campaign for the presidency of our Party.
+
+As leader of the Parliamentary Party I am careful to remain independent of Party elections that are for you, the members, to decide. I accepted an invitation in January to an ACT barbecue and only later realised that it was one of the Board campaign functions. I was very impressed with the way the candidates spoke. Each was, I thought, genuine in their regard for each other, their pledge to work alongside whoever won, and thoughtful in their analysis of how ACT can become the Party that sets the agenda for New Zealand.
+
+A comment of Johnny Ormond I repeat with approval - the candidates for the Board all share ACT's core values and our goal for New Zealand. It is the great goal that we have set ourselves ¡V to determine the agenda for this wonderful country, so that we can all enjoy New Zealand¡¦s potential.
+
+To be 10 by 2010 - to be the 10th wealthiest nation on earth, per capita, by the year 2010.
+
+It¡¦s a high goal, but it¡¦s achievable.
+
+We are not setting this goal just to create extra wealth, but to create prosperity with a purpose. There is not a social problem, from health, to education, to superannuation or unemployment, that wouldn¡¦t be helped by being 10 in 2010.
+
+It¡¦s appropriate that we have bought our conference to Christchurch, because it¡¦s symbolic of ACT¡¦s commitment to be a New Zealand-wide Party.
+
+Christchurch, the city of the first four ships, is a symbol of the vision and the courage of the pioneers who set out to create a new and better world.
+
+I have a personal connection to Christchurch. The first Prebbles to come to New Zealand, James Prebble and his family, arrived on the Aurora in January 1840 pre-Treaty. They soon moved down to land near Prebbleton and were here before the first four ships. Legend has it that he went down to the beach and greeted the new settlers ¡V who said to themselves ¡V ¡§who¡¦s that Englishman standing in the midday sun?¡¨ ¡V hence the family nickname.
+
+I am proud to report to you of the achievements of your Parliamentary representatives. I am grateful to have at my side the Hon Ken Shirley. He is a man of integrity and sound judgement.
+
+Much of the work of MPs goes unreported. The achievement of ACT MPs last year, that I am most proud of, has never been reported. Donna Awatere Huata persuaded the Education Select Committee to examine what sort of a job we are doing teaching our children to read. The Select Committee has concluded that the exclusive reliance on the ¡¥look and guess¡¦ method has been an appalling disaster. New Zealand has slipped from being the best in the world at teaching our children to read, to being out of the top ten. Nearly half of all school leavers cannot read well enough for the modern job market.
+
+I believe fundamental changes in the way we teach our children to read will flow from that report, which would not have happened but for the election of ACT and Donna.
+
+Rodney Hide continues to be a one man opposition, the scourge of all wasteful expenditure and the friend of all taxpayers. His Private Member¡¦s Bill to give taxpayers the right to see their tax file must become law.
+
+Rodney tells me he is feeling redundant. He has calculated that with the accelerating rate Helen Clark is firing her Ministers ¡V the number of days between sackings is roughly halved each time ¡V she will have dismissed the whole cabinet by the second of June next year.
+
+You might wonder why there is not more discontent in the coalition. Helen has arranged that the disgraced Ministers keep their ministerial offices and their staff. As it was the office not the job that attracted them, the ex-ministers feel that they have now got it made. No responsibility, just the perks. I will have to get Rodney on to the job.
+
+Owen Jennings has become the voice of all farmers and orchardists who just want the right to be able to sell what is theirs. To have a statutory marketing monopoly finance a High Court case against you is a terrible nightmare. It is an abuse of the power of State-trading enterprises and one I have myself experienced. Owen, with the wonderful support of his wife Doreen, will win.
+
+We in ACT are blessed with some wonderful Doreens!
+
+Muriel Newman has had a marvellous year. Commentators are agreed that she is Parliament¡¦s most effective backbencher. She has exposed the inhumanity of our custody laws that deprive most children whose parents divorce, of one parent and one set of grandparents. Such tragic developments are only possible because of State secrecy and Muriel will open up our courts to public scrutiny.
+
+Our three new MPs have already proven themselves. Stephen Franks is already recognised, not just as Parliament¡¦s most distinguished lawyer, but as a champion of truth in justice. 92% of all voters supported Christchurch resident Norman Withers¡¦ referendum. This government ignores that petition and the nation¡¦s call for justice. Stephen Franks has become Parliament¡¦s champion for a just legal system.
+
+We now have over 30 women MPs, yet most women feel less represented than ever before. Penny Webster personifies all that is best about New Zealand women. She is the voice of women who care about their families, their children¡¦s future and their local community. Penny is going to be one of our future stars.
+
+Gerry Eckhoff is already one of Parliament¡¦s most popular MPs. Parliament respects MPs who are knowledgeable about their own area, and Gerry is an experienced high country farmer.
+
+Parliament also likes MPs who have the courage to challenge conventional wisdom. Under DOC¡¦s tender care the North Island kiwi will be extinct in the wild in my lifetime. Gerry points out that no farm animal has ever become extinct. He believes the private sector can save the kiwi, and other endangered species. No one in Parliament doubts Gerry¡¦s sincerity, most MPs think he¡¦s probably right and we all admire his character in having the courage to take on the most fanatical group, the State greenies.
+
+I thank you for giving me Parliament¡¦s most talented and hard-working team.
+
+Today we gather to make a vow to our nation: We will confront the hard issues, the threats to our health and our retirement security, before the challenges of our time become crises for our children.
+
+ACT will extend the promise of prosperity to every forgotten corner of this country - to every man and woman the chance to succeed; to every child the chance to learn.
+
+Now is ACT¡¦s greatest opportunity. This government has had its moment and it failed to lead. Never in our history has an administration inherited such favourable conditions - a balanced budget, growing surplus, 6% growth and favourable terms of trade.
+
+They responded with the politics of envy, an 18% income tax increase; the politics of "socialism" - re-nationalisation of ACC; and the politics of "pay back", the union-promoting Employment Relations Act.
+
+The electorate is not going to forget the results of this government's policies. On Monday this week David Brown, a self employed truck driver with a good safety record approached Ken Shirley. His ACC levy with the insurance company of his choice last year was $2,500. This year the State monopoly ACC provider is demanding that David pay nearly $9,963 in ACC levies. Michael Cullen says that¡¦s a success.
+
+Margaret Wilson has sat on her hands as the Waterside Workers Union have attempted to use the new labour laws to re-establish a union monopoly over our wharves. Last month Owen Jennings and I went through the picket lines at the Port of Nelson to show our support for Mainland Stevedores and the right of their workers to join the union of their choice.
+
+On Tuesday the immigration statistics revealed that more skilled New Zealanders left in January this year than any other month on record. An 18% increase in income tax tells talented New Zealanders that this government just sees them as sheep to be shorn. The loss of the cream of our universities is a calamity. The statistics are bad enough, but the anecdotal evidence is even more telling. I¡¦ve met people who tell me they are the only graduate from their class left in New Zealand, others whose friends have all left or are leaving soon. You will all know people who have left recently, friends, colleagues, relations. We are losing our future.
+
+The real losers are those who have voted Labour. There has been a fall in the real disposable income of the average Labour voting household of $30 a week. If they smoke, and 50% of Labour¡¦s Maori constituency do, then they are $40 a week worse off.
+
+What has Labour done with the extra $500 million in taxes? Given $80 million to the orchestra, so the Prime Minister can conduct. And $80 million so Jim Anderton can play at being a banker.
+
+There is less money for Police and the health service, but there is more money for huis. Even the Minister of Maori Affairs admits that there is more hui than do-ey.
+
+The coalition are squandering $240 million dollars on closing the gaps, a policy that this time last year was the cornerstone policy and today has been erased from the Prime Minister¡¦s dictionary. The government's own chief social analyst has reported that gaps between Maori and non-Maori closed in the 1990s when we had the Employment Contracts Act and choice in education. The unemployment statistics are proof positive that despite spending money, last year the gaps have widened.
+
+The agreement Helen Clark signed last week with Australian Prime Minister John Howard strips New Zealanders of their right to automatic residency in Australia, and makes most Labour voters prisoners in this country. Some cynical Labour organisers think that the immigration statistics are going to be a winner for them. The ACT voters will leave and the Labour voters are trapped as ballot fodder.
+
+While there is some truth in this analysis ¡V ACT¡¦s biggest loss in members was through migration ¡V New Zealanders who have had their ANZAC heritage given away are not going to vote Labour again.
+
+They have had their chance. This government inherited an education system where 60% of students in our poorest secondary schools cannot read a simple children¡¦s book. Trevor Mallard has the answer ¡V abolish examinations then no child can fail.
+
+ACT says, without testing every child, every year to measure results, reform is an illusion. Without real accountability, standards are just a scrap of paper. Labour's approach has no innovation, no imagination, no flexibility and no accountability.
+
+This government¡¦s failures are our opportunity as the party of reform. ACT will give leadership on all the hard issues.
+
+We know that the current superannuation scheme is not sustainable. We will set it on firm financial ground. We will give workers the option of being able to put part of their payroll into sound, responsible investments of their choice.
+
+This will mean a higher return on your money and over 30 to 40 years, a nest egg to help you in retirement, or pass along to your children. When this money is in your name, in your account, it¡¦s not just a State programme, it¡¦s your property.
+
+Now is the time to give New Zealand workers security and independence that no politician can ever take away.
+
+The quality of our State schools already affects us all as parents, as students, and as citizens. Too many children in New Zealand are being failed by low expectations, illiteracy and self-doubt. This is an awful form of discrimination.
+
+Our knowledge economy demands complex skills but too many of our children are being left behind.
+
+International surveys show New Zealand students falling behind in maths and science. So ACT makes education reform a cornerstone of our platform.
+
+ACT education initiatives are to: „h Raise standards „h Hold schools accountable for improving student achievement „h Restore local control „h Empower parents with choice, including the ability to choose independent education.
+
+We need to ensure that every child can read by the age of nine. To ensure every child is numerate. How can we know we have achieved these goals? Only by setting standards and annual testing.
+
+The teachers union complains that this will result in children being taught to pass examinations. With respect, they have it the wrong way round. Examinations will ensure that children are being taught.
+
+A sound education system is an important part of achieving ACT¡¦s goal of being 10 by 2010.
+
+Another is tax relief. ACT has, throughout its history, advocated the boost to growth and jobs of a well-designed tax cut. Again, the Labour-Alliance coalition has, at some expense to the nation, shown what a difference tax makes. An income tax increase that was designed to only hit 5% of taxpayers has had profound effects. Economists from the IMF state they believe it has contributed to the brain drain. The tax increase has reduced investment and contributed to the poor growth last year. Every New Zealanders suffered.
+
+It follows that if a small tax increase has far reaching negative consequences, a well-designed tax cut will have profoundly positive effects. Cutting tax is not just about productivity ¡V it¡¦s about people. A tax plan must apply market principles to the public interest.
+
+The ACT Party has been working on a plan to reform tax and deliver a tax cut to every taxpayer. How? By applying a low flat tax with a tax-free threshold for the low paid.
+
+Our tax plan must make it easier for hardworking families to join the ranks of the middle class. A single waitress with two children who works is currently worse off than if she took the DPB.
+
+Under ACT¡¦s plan those who work will always be better off. A flat tax is fairer. ACT¡¦s tax proposal also encourages entrepreneurship.
+
+Jim Anderton expects to be every small business¡¦ unwanted partner and to feed off their success while sharing none of the risks. With company tax and GST, government takes half the profits. Government red tape stifles growth and innovation. But don¡¦t worry, they are talking about red tape and have set up a committee to look into it. Next they will send out a questionnaire, another form to fill out.
+
+We need a 20 per cent company tax rate so those who risk their capital to create jobs can have their enterprise encouraged, not penalised.
+
+I do not accept it is somehow risky to allow taxpayers to keep more of their own money. What is risky is putting politicians in charge of a surplus. They cannot resist the temptation to spend it.
+
+Already the Alliance and the Greens are putting forward proposals on how to invest the giant $70 billion dollar superannuation fund that Michael Cullen proposes the State create.
+
+The real question is, can Labour, the Greens and the Alliance use future surpluses better than the individuals whose money it is? I believe that New Zealanders will always use the money better to save, build and invest than any government.
+
+Low taxes are a powerful economic tool to promote a higher standard of living for all New Zealanders. Governments do not create wealth ¡V wealth is the economic consequence of human creativity, hard work and enterprise. We will never close the widening gap between ourselves and Australia until we have a lower tax rate than Australia.
+
+We will not reach our goal of being 10 by 2010 until we have tax rates comparable to Ireland¡¦s.
+
+ACT¡¦s plan is a rising tide of economic prosperity that will lift all boats.
+
+The coalition¡¦s economic priority is redistribution, the pet project of all social engineers. With the best of intentions, the politics of redistribution ends in greater suffering. The average household is poorer today than it was on election day.
+
+ACT¡¦s vision is in the opposite direction. Let¡¦s use the tools of the free market to promote the goals and the values we share as a nation, freedom for our citizens and a helping hand for those who cannot help themselves.
+
+To reach our goal of 10 by 2010, New Zealand as a trading nation, needs to embrace the new global economy. Instead, we are being taken down the road to non-alignment. It¡¦s a course that our government knows it has no mandate for, so it¡¦s being done bit by bit so we won¡¦t notice it.
+
+Last week our Prime Minister signed a new social security agreement with Australia, tearing up a treaty that was first signed in 1948. For over a century the ANZAC relationship has been at the heart of our foreign policy, in both war and peace.
+
+Under the new social security agreement, New Zealanders in Australia become second class citizens, required to pay taxes but not entitled to receive benefits. Taxation without representation. A kiwi who lives and pays taxes for 20 years in Australia, and is then widowed will receive no benefit on either side of the Tasman, an agreement Helen Clark calls ¡§win ¡V win¡¨.
+
+The agreement represents Australia¡¦s belief that New Zealand is not an ally, but an unreliable liability. We are paying for a series of poor defence decisions. John Howard confirmed that Australia¡¦s number one foreign policy objective is a free trade agreement with the USA, without New Zealand. A prospect that is truly frightening.
+
+ACT has been alone in advocating the end of New Zealand estrangement from the United States ¡V the cold war is over.
+
+Our Prime Minister has a latent anti-Americanism and a contempt for the ANZAC tradition. I believe the Prime Minister was genuine when she claimed the end of the social security agreement as a win. Helen Clark sees the ripping up of the agreement as another step toward her dream of a non-aligned New Zealand.
+
+At a time when even the Swiss are signing closer economic agreements, New Zealand is moving away our closest relationships.
+
+The first responsibility of government is to defend the New Zealand people. The coalition has failed us. Both our physical and economic security is now at risk. Where does it say on Labour¡¦s credit card that if you vote for them our ANZAC heritage will be signed away? Helen Clark has betrayed us all.
+
+We need leaders who are prepared to lead ¡V to tell it how it is. Our economic and physical interests are best protected by being a fully active participant in the western alliance with countries that share our values. ACT will restore our relationship with both Australia and the United States. Being 10 by 2010 depends upon it.
+
+We need to take advantage of the opportunities of this new century, but we must not forget the old unfinished struggle for human dignity.
+
+Here we face the issue of what it means to be a New Zealander. Those who came on the first four ships, or in the legendary seven canoes, did not make that great journey to create a land where one adult in three is on welfare.
+
+The next heroic task is real welfare reform. Work for those who can, and help for those who cannot. ACT will make real welfare reform an issue at the next election.
+
+We need to restore the values that make us New Zealanders. Just last week this government ended work for the dole and in doing so removed the dignity of work for hundreds of young people.
+
+I saw in the paper the Minister of Police, George Hawkins saying he was, as part of volunteer week, going on a graffiti clean up campaign.
+
+As I told this conference last year, one work for the dole scheme that Muriel and I visited during the last election was a scheme in Otara that painted out graffiti. They cleaned up South Auckland, gave work to long term unemployed, got over 70% of their graduates permanent jobs.
+
+I vividly recall the young, mainly Maori participants telling me how proud they were of the work they were doing. How they had been out of work for years and the self-respect they felt from doing this work.
+
+They told me of their fear that a Labour government would abolish the scheme and asked: ¡§Why do only ACT MPs come and see us? Where are the Labour and Alliance MPs?¡¨ Within six weeks of the election of a Labour-Alliance government, the scheme was cancelled.
+
+Now the Minister of Police has to take his weekends off to paint over the graffiti. Graffiti that may well have been painted by the young men I met, young men that this government has discarded.
+
+ACT is not just the Party of innovation and new ideas.
+
+We are not just setting a new agenda, we are a Party of simple and powerful hope.
+
+New Zealanders respond to and unite behind great goals.
+
+To be 10 by 2010 is a great and unifying goal. Prosperity with a purpose. Our country is ready for a new beginning, for new leadership.
+
+We know how challenging the task is before us and we are eager to begin.
+
+To start a new day.
+
+Thank you.
+
+[Click here to listen to the speech in MP3 format](http://www.act.org.nz/action/conference/speeches/Prebble.mp3)
+
+[Click here to download a free MP3 player called Winamp]( 
+http://www.winamp.com) .nz.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

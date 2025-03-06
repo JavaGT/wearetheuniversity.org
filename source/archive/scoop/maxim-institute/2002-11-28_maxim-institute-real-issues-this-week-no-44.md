@@ -1,0 +1,108 @@
+---
+slug: maxim-institute-real-issues-this-week-no-44
+title: "Maxim Institute: real issues this week: No. 44"
+date: 2002-11-28
+source-url: https://www.scoop.co.nz/stories/PO0211/S00217/maxim-institute-real-issues-this-week-no-44.htm
+author: maxim-institute
+---
+Maxim Institute: real issues this week: No. 44
+==============================================
+
+**Thursday, 28 November 2002, 10:18 pm**  
+**Column: [Maxim Institute](https://info.scoop.co.nz/Maxim_Institute)**
+
+  
+Maxim Institute
+
+real issues this week: No. Forty-Four 28 NOVEMBER 2002
+
+**Contents:**  
+\* A koala in the cockpit? - The Government has fostered partnerships with business but now it's in a compromising position; should it be in business at all?
+
+\* Local Government Bill - Moves to increase Maori representation on local bodies undermine democracy; 'empowerment' cannot be properly created by government edict.
+
+\* New Zealand schools behind - Is there a connection between outcomes-based education and a drop in our academic standards?
+
+\* Religious affiliation and Civil Society - We explore the connection between social order and religious belief and affiliation in relation to a recent radio interview.
+
+\* Hate crime law - Melanie Phillips reports on developments in Britain.
+
+\* Prostitution documentary - Maxim's view is featured TONIGHT at 8.30 p.m. on TV One's Assignment programme.
+
+**A koala in the cockpit?**
+
+\- **Government in a compromise situation**  
+\-  
+\- The Air New Zealand-Qantas deal is big news with media reports highlighting 'competitive tension'. But a key issue receiving insufficient attention is the confusion and compromise surrounding government involvement.
+
+The Government owns an 82 percent stake in Air New Zealand, but the company is still obliged to get a good deal for shareholders. How does this fit with the demands of the common good? As both owner and regulator the Government is in the compromising position of making law relating to its own monopoly. Simply put, the state should not be in the airline business, or any other business for that matter. The debate we should be having is why does the Government have shares in Air New Zealand at all?
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+**Local Government Bill - 'democracy' by edict**
+
+The Local Government Bill currently before Parliament is based on the thinking that ratepayers need to be more 'empowered'. Maori are of special concern, and already the Bay of Plenty Regional Council (Maori Constituency Empowering) Bill has become law. That body can now appoint a certain number of Maori which may set the precedent for all councils. 'Fairness' to Maori and honouring the Treaty of Waitangi justify the law.
+
+The new Bill will see political correctness in local government on a grand scale without any widespread public demand for change. The idea of 'empowerment' has become an ideological imperative for the present Government, and in this Bill, it may be extended - forced might be a better word - on all local authorities. National leader Bill English is calling for "one standard of citizenship for all, one rule for all".
+
+The key word here is citizenship. Neither local nor central government can really empower us to create community, but they can certainly limit and erode our freedom. Governments might empower groups by granting special privilege in law, but they can't create genuine community. That sense of willingness to get involved can only flourish as a consequence of responsible citizenship, not by government edict. In all the posturing about empowerment and building community we have lost the sight of the connection between democracy as a form of representative government and the critical role of citizen virtue.
+
+For an article on the Treaty by Maxim writer Michael Reid click on: www.maxim.org.nz/ri/treaty.html
+
+**New Zealand Schools behind - result of outcomes-based emphasis?**
+
+New Zealand, along with Czech Republic, has the tenth 'most effective' education system of the world's developed countries, according to a United Nations Report released this week. South Korea and Japan sit firmly at the head of the class.
+
+The issues are complex, but it is no secret that educational standards in New Zealand are declining. Over recent years we have slid down the scale in a number of studies. Countries such as Japan, South Korea, Singapore and Hong Kong have gone up. In all of this there is one factor demanding our attention.
+
+New Zealand has adopted an outcomes-based compulsory education system. This divorces the desired learning outcomes from content and the methods that make up any systematic field of knowledge. South Korea and Japan have not done this. They have what we used to call a syllabus: that is, a document clearly stating content in detail and in clearly defined steps. But we don't do that, because it is regarded as too prescriptive. The rote learning methods in some of the Asian nations may be extreme, but are we too sensitive about uniformity of curricula content? And does a lack of detail in our curricula prejudice New Zealand's opportunity for academic excellence?
+
+**Religious affiliation and Civil Society - the Veitch-Clark interview**
+
+An interview between National Radio's Linda Clark and Victoria University's Jim Veitch on Monday highlighted the trend towards declining church attendance in New Zealand. According to Veitch, growing churches tend to be independent and maintain some sense of 'Victorian values'. What he omitted to say (despite Clark's probing) was that these churches, at least implicitly, retain some understanding of the connection between religious belief and affiliation and what she called 'cultural practice', but which we call Civil Society.
+
+In a functioning Civil Society, churches of all types have a right to exist and to hold worship or other meetings. Aside from their particular beliefs and practices, they perform an important civic function as well. US Research just released indicates that regular churchgoing correlates highly with civic involvement, charitable giving, volunteering, and other crucial public behaviours. In other words, when churches are strong and impacting their communities, not only do they provide spiritual and ethical teaching, they function as a key component of social order. Sect-like groups are an exception to this when they become insular or divisive.
+
+Veitch said, "We think that civilised behaviour is somehow connected with Christianity…we live by those myths until something shakes us to the core and we have to rethink things". This fails to understand that regular religious activity is linked to civic outcomes; it also fails to grasp the critical historical connection between the orthodox Christian faith and the development of civilisation, particularly in the West.
+
+**Hate crime law - Orwellian moves at home and abroad**
+
+In March Maxim drew attention to the hate crime clauses that subsequently became law in the Sentencing Act 2002. The amendments undermine common law by punishing offenders more severely based on their thoughts towards certain protected groups. Prize-winning journalist Melanie Phillips has written a superb article on hate crime law in Britain. To read this click on: www.maxim.org.nz/ri/hatecrimes\_1.html
+
+To view a published article from Maxim on the New Zealand situation click on: www.maxim.org.nz/main\_pages/news\_page/news\_hatecrime.html
+
+**Prostitution documentary tonight - Maxim features**
+
+A report on Tim Barnett's Prostitution Reform Bill is due to Parliament tomorrow. It will recommend changes to address deficiencies which surfaced during select committee hearings. The Bill has been before the committee for two years which indicates the difficulty members have had finding common ground.
+
+Most readers will be aware Maxim has opposed this Bill, and based on our research, has suggested an alternative. TV One has been investigating the topic which has had little media attention to date. This has included filming in Sweden, where a law was introduced in 1999 to prosecute the buyers of sex rather than prostitutes. The results will be presented tonight on TV One's Assignment programme at 8.30 p.m. Apologies to readers who receive this message too late.
+
+**THOUGHT FOR THE WEEK - C. S. Lewis**
+
+Good people know about both good and evil: bad people do not know about either.
+
+To subscribe send a blank email to: realissues@maxim.org.nz
+
+Real Issues is a weekly email newsletter from the Maxim Institute. The focus is current New Zealand events with an attempt to provide insight into critical issues beyond what is usually presented in the media. This service is provided free of charge, although a donation to Maxim is appreciated. You are encouraged to forward this newsletter to others who might be interested. Items may be used for other purposes, such as teaching, research or civic action. If items are published elsewhere, Maxim should be acknowledged.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Maxim Institute](https://info.scoop.co.nz/Maxim_Institute) on InfoPages.

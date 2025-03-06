@@ -1,0 +1,124 @@
+---
+slug: speech-seymour-epsom-rotary-club
+title: "Speech: Seymour - Epsom Rotary Club"
+date: 2018-08-28
+source-url: https://www.scoop.co.nz/stories/PA1808/S00325/speech-seymour-epsom-rotary-club.htm
+author: act-new-zealand
+---
+Speech: Seymour - Epsom Rotary Club
+===================================
+
+**Tuesday, 28 August 2018, 8:10 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Rating Governments Out of Ten - Speech to Epsom Rotary Club, 8pm Tuesday 28 August
+
+Former BNZ Chairman Kerry McDonald recently gave the Clark Government a two out of ten for performance and the Key Government a zero. John Key’s predecessor Don Brash said it was a fair assessment.
+
+Now, I’ve had a bit of experience getting scored out of ten recently, so I thought I’d share some of my expertise.
+
+I got thinking, are these scores fair, and how should you score a Government? Tonight, we’re going to have a little fun scoring the Key and Clark Governments against a few other governments, like those run by Jacinda Ardern, Pol Pot and Silvio Berlusconi. But first, we’ve got to get our eye in and work out what some fair benchmarks are.
+
+What should the criteria be? For a start, Governments are supposed to protect us, so any government that murders its own citizens gets an automatic zero. No matter what the Sue Bradfords of the world say, John Key did not starve or systematically murder millions of New Zealanders. If we give the Key Government a zero, there’s nothing left to give the other guys.
+
+Mao Tse Tung’s Great Leap Forward starved about 30 million people. Kim Jong Un continues to preside over a network of death camps. They are the ones who deserve a zero.
+
+Then there’s just regular bad guys who aren’t very good at running governments. Any government that fails to protect basic personal safety is going to score very low. Any government that fails to hold democratic elections and uphold the rule of law should be penalised.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Think Mugabe, he meant well at first, but he wasn’t the best at economic policy, then there was some tyranny and rigged elections along the way, and a lot of violence. Guys like him and Vladimir Putin deserve a one or a two. Kerry McDonald gave Helen Clark a two, but for all her faults, she was no Mugabe.
+
+Then there’s the hopeless leaders that mostly respect democracy and do the best as they see it. For some reason these guys have the most fun. Think Muldoon, or Silvio Berlusconi, or Donald Trump. Not exactly great for the country but generally not rigging elections or persecuting anyone, just bad economic managers and toxic to their nation’s culture. Those folks deserve a three or a four.
+
+After that we’re dealing with governments that have got the basics right. The remaining questions are whether they’ve made life better or worse for their citizens. Have they solved the problems they faced, or made them worse? Have they governed from day to day, or planned ahead for a better tomorrow?
+
+These are Governments that inherit a set of policies and leave them basically the same as they were. They don’t do enormous damage, but neither do they make anything better. I’d put the Clark and Key Governments at about a five or six out of ten.
+
+After eighteen years with them in charge, we still have a democracy with a high standard of living, strong human rights, and better policies than the rest of the world. In other words, what we had before they started in 1999.
+
+The Clark Government deserves a five because she made a few things worse. The Employment Relations Act, Working for Families, interest free student loans, Kiwibank, the Ministry of Economic Development, the 39 cent tax rate, giving councils the power of general competence, cancelling bulk funding in schools. These were all bad policies that have held back our prosperity, but they did not destroy it.
+
+On the same basis you’d have to give the Key Government a six. Of the above Clark-era policies, only the top tax rate was reversed by Key. They also avoided the hard issues. We all knew house prices couldn’t go up for ever, and nor will we have superannuation at 65 forever, but Key focused on changing the flag.
+
+What do you have to do to get higher than six? When has a New Zealand government gone beyond maintaining the policies they inherited, rather than just not screwing things up? When have they looked into the future and confronted the country’s challenges in a clear-sighted way?
+
+You’d have to give the Michael Joseph Savage Government a seven. They gave us comprehensive social insurance in response to real poverty that we can’t imagine today. Agree with them or not, they confronted the problems of their time in a bold and coherent way using the best ideas they had at the time.
+
+Then you’d have to give the Roger Douglas-Ruth Richardson era a nine. For a brief period, New Zealand led the world. New Zealanders involved in Government were invited to speak all over the world. Roger Douglas was named the world’s best Finance Minister, Don Brash the best central banker.
+
+Looking back, it is hard to believe they were only in power for a combined seven years, considering what they achieved. Even just the legislative program is awesome. The Education Act gave us independent self-governing schools. The Constitution Act tidied up a raft of loopholes that Muldoon had abused and made us kind of a properly governed country. The Reserve Bank Act gave us an independent central bank. The Public Finance Act gave us proper accounting. The Public Sector Act put the day-to-day operations of government at arm’s length from politicians. The Income Tax Act gave us one of the world’s cleanest and simplest tax structures. The Employment Contracts Act gave us simple and straightforward employment law. I could go on.
+
+The upshot was we beat the OECD average for productivity growth throughout the 1990s. Clark and Key were able to coast through the first decades of this century thanks to Douglas’ and Richardson’s efforts in the final decades of last century.
+
+It might be a bit of fun to rate the Australian Governments, but I have no idea where to start. One thing I do know is they face challenges we do not.
+
+Imagine if, tonight, a few people’s phones started buzzing. I had to rush out and get on the phone. People started staring at their phones to learn that 400 souls were beached on the sand bar off Raglan. 100 were children requiring urgent medical attention.
+
+Jacinda Ardern would paddle out in a rubber ducky to give them all buzzy bees. Simon Bridges might call an enquiry to find out who invited them here. Then real choices of the kind the Australians face would dawn.
+
+Do we kick the children of New Zealand taxpayers out of Starship Hospital so that children who are medically worse off can be admitted? Do we accept the boat people as refugees ahead of those who have patiently lined up for the New Zealand quota? And, if we do those things, how long until the next boat load of refugees take the encouragement?
+
+Or, would we build a makeshift detention centre on Chamberlain Island, making it clear that they will not be able to stay on the New Zealand mainland?
+
+Here’s another problem the Australians have but we don’t. What if we weren’t blessed with 80 per cent renewable electricity from hydro, and instead we had to rely predominantly on coal? What if people found their power bills had doubled thanks to government climate change policies?
+
+Of course, the Australian Navy stops all the boats for us, and most of our electricity is already zero-emission, and we’ve won the Bledisloe Cup for sixteen years running, so it’s easy to feel smug towards our neighbours. On the other hand, if we faced their challenges and choices, we’d probably be changing Prime Minister every year or so, too.
+
+The point of the Australian example is that our governments, both the current one and the previous one, have had it easy. Everybody agreed that the Canterbury earthquakes were a tragedy and Christchurch should be rebuilt. Everyone understood that the Great Financial Crisis was not caused by the New Zealand government. Really big issues in New Zealand have been things like ‘should people reenter a mine’ and ‘should the taxpayer fund yacht races’.
+
+That’s why this Government is such a disappointment. They don’t face crises not of their making, or impossible choices. They were elected with a mandate to solve problems that are real, but soluble. They were supposed to fix housing, education, and productivity. They were supposed to bring about a warmer, kinder, more inclusive New Zealand.
+
+Perhaps we should have seen the warnings from Jacinda Ardern’s election campaign. She said she wanted to have lots of ‘conversations.’ More importantly she won without changing any policy. The lesson of the election is that we don’t need better policies, just better PR.
+
+No matter where you look, this approach is everywhere. It isn’t just the working groups, it’s the actual policies too.
+
+The Child Poverty Reduction Bill won’t measure whether children get their teeth brushed and go to school in warm clothes with lunch. It will simply measure whether their parents’ income was at least sixty per cent of the median. Worse than nothing it’s a distraction from the real problem, but it feels good.
+
+Banning plastic bags feels righteous, but it doesn’t solve any real problem. Plastic in the world’s oceans doesn’t come from New Zealand, it comes from Asian rivers so polluted you can’t see the water. Even if it did, plastic bags make up 0.01 per cent of waste sent to landfill, they are hardly a major component in waste anyway. Again, worse than doing nothing, the ban may well be an environmental negative if it means people start using thicker bags but don’t reuse them often enough to justify their thickness.
+
+Kiwibuild sounds fantastic and, after Kiwirail, Kiwibank and Kiwisaver, perhaps it was inevitable. But here’s the problem. Nobody knows what it is, but we can be sure it won’t work. If Kiwibuild is a way of solving the shortage of correctly zoned urban land, the lack of funding for infrastructure, and the slowness of consents, then why wouldn’t the Government do those things for the private sector, too? On the other hand, if it can’t solve those problems for the public sector then its houses won’t be any more affordable than those already available, unless they’re taxpayer subsidized. Of course, it appears that Kiwibuild will involve buying and reselling privately built homes, taking lots of risk with taxpayer money along the way.
+
+There are lots of these feelgood policies that won’t do much to help fix the real problems the Government was elected to solve, and that’s a shame.
+
+Still, that’s more or less what the Clark and Key Governments did, so I guess they deserve a five or a six.
+
+Except that’s not all they’re doing. They are also doing things that are insidious and destructive.
+
+As I mentioned we have led the world in central bank policy. We have a simple arrangement where the Finance Minister publicly tells the Reserve Bank Governor what the inflation target should be, and if the Governor misses the target they have to find a new job.
+
+Now we will have a new policy where the Reserve Bank Governor will not be the decision maker and the target will not be stable prices. A group of people nominated by the Government of the day will set the Official Cash Rate based on the twin considerations of price stability and employment. In other words, the mechanism put in place to stop another Muldoon manipulating the money supply for political gain has been removed. You’d have to ask, why?
+
+The Provincial Growth Fund has a goal of giving out $1 billion per year. It is actually very hard to give away $1 billion. Once you offer free money, hordes show up and it’s very difficult to tell who’s genuine. Inevitably it is wasted, but there is also room, in a small country like ours, for out and out corruption.
+
+The Overseas Investment Amendment Act, the shock ban on oil and gas exploration, and the abolition of charter schools have taken us to a new level though.
+
+The OIA amendments got business people around the world asking, what is New Zealand doing? Then the oil and gas exploration ban, done without any due process from Cabinet, terrified anyone with capital to invest here. It is a return to Muldoonist times.
+
+Charter schools are a pet policy of mine, one of ACT’s greatest achievements in 20 years. If the Government was prepared to make the case that they’re not working, I might have accepted it. If they’d said that they fundamentally disagreed with the policy but would honour existing contracts that the Crown had signed, that might be okay.
+
+But to cancel the contracts dead, to mess the schools around for months destroying their confidence, and to do all of this simply on the basis that the parties in Government doesn’t like them, when you are talking about 1,500 of the country’s most disadvantaged kids, is a disgrace.
+
+So, our current Government is not a murderous dictatorship and it’s not in league with Putin or Mugabe so we can’t give it a zero, or a one, or a two.
+
+However, it is also doing things that damage the long term political culture. It is making up policy on the hoof that erode the faith of foreigners and locals alike in our systems and institutions. These things make this Government worse than the boring but largely harmless governments of Clark and Key. It makes them more in league with a Trump, a Muldoon, or a Berlusconi, and so I give this Government a four out of ten.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

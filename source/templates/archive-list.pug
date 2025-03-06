@@ -1,0 +1,9 @@
+extends ./root.pug
+block content
+    for post in posts.sort((a, b) => b.date - a.date)
+        if (post.date && post.date.toISOString)
+            - let datestring = post.date.toISOString()
+            p
+                a(href=`/archive/${datestring.slice(0,4)}/${datestring.slice(5,7)}/${datestring.slice(8,10)}/${post.slug}`)=`${datestring.slice(0,4)}/${datestring.slice(5,7)}/${datestring.slice(8,10)}: ${post.title}`
+        else 
+            - console.log('Post missing date: ', post)

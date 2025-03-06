@@ -1,0 +1,70 @@
+---
+slug: a-column-by-hone-harawira
+title: "A Column By Hone Harawira"
+date: 2010-07-27
+source-url: https://www.scoop.co.nz/stories/PO1007/S00337/a-column-by-hone-harawira.htm
+author: te-pati-maori
+---
+A Column By Hone Harawira
+=========================
+
+**Tuesday, 27 July 2010, 5:43 pm**  
+**Column: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+**A Column Published In The Northland Age**
+
+**By Hone Harawira**
+
+**MP for Tai Tokerau**
+
+**27 July 2010**
+
+**To comment on this column please go to my website** [**www.hone.co.nz**](http://www.hone.co.nz/)
+
+A couple of weeks ago, **_Te Niiwai Mutu_** from Te Rangi Aniwaniwa came to Wellington as my Youth MP. I won’t say any more than that, because she's doing an article about the trip herself.
+
+But during the selection process another young woman kept pestering me about how SHE should’ve been my Youth MP and how she was coming down anyway. Now I like to see a bit of get up and go in our rangatahi so I went over to Okaihau College to meet her – **_Jaz Murray._**
+
+Anyway she came down last week while I was up north, got herself on Te Kaea with MP Te Ururoa Flavell, made her way round parliament like she owned the place, got invited into a closed session of the Maori Affairs Select Committee and ended up doing the karakia for them as well**_!!_** She was really positive, very clear, and dead keen to come back again.
+
+So all you senior Maori students out there in secondary schools and Wharekura who want to come to parliament for a weeks work experience – get onto your Maori teachers, and make it happen.
+
+I also attended the re-opening of Te Kura Kaupapa Maori o Taumarere in Moerewa, at 5am last Tuesday morning **_(the last one got burnt down a couple of years back)._**
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Congratulations to the Board, the whanau of the Kura, and to Ngati Hine for rallying behind the cause to get their kids back into some real classrooms, but a special congratulations to **_Mereana Pawa_**, who took a kura that was down in numbers, and down in spirit after the fire, and rebuilt not just the classrooms but the heart and soul of the kura as well.
+
+She is a credit to her profession, to her whanau, and to her people, and Taumarere would do well to hang on to her because people who are that good get noticed by others as well …
+
+In fact, Moerewa is doubly blessed to have principals like Mereana at Kura, and **_Keri Milne_** over at Moerewa Primary as well - Keri’s a bit of a firebreather, but apparently she runs a good ship too.
+
+Having the **_UN Rapporteur_** in the north was awesome. He didn’t claim to be the solution to all indigenous problems or have the power to change the world, but he came with an open mind, and an open heart, and a genuine willingness to listen to the issues.
+
+There was some good korero, particularly around the issue of how Ngapuhi never ceded authority, and how hapu rather than iwi were the basis for claims, but I was also disappointed in the rest of the korero.
+
+Our home-grown nutters took up a lot of time peddling a yarn about how this country is owned by Jim Mclay through a US-based corporation!!?
+
+But the other, more serious issue for me is that there is too much focus on internalising the anger – attacking the rünanga and anything that smells of iwi – rather than attacking the real enemy, the Crown. We need to get our heads out of the sand and see whats happening on the bigger stage, or we’re likely to see our foreshore and seabed slip back into Crown hands, our land and our seas mined to buggery, our whanau get locked up forever, and jobs become a 3 month activity rather than a life-long career.
+
+**Ends**  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

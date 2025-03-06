@@ -1,0 +1,77 @@
+---
+slug: budget-2002-debate-ken-shirley
+title: "Budget 2002 Debate -- Ken Shirley"
+date: 2002-05-24
+source-url: https://www.scoop.co.nz/stories/PA0205/S00585/budget-2002-debate-ken-shirley.htm
+author: act-new-zealand
+---
+Budget 2002 Debate -- Ken Shirley
+=================================
+
+**Friday, 24 May 2002, 2:57 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Budget 2002 Debate
+
+Friday 24 May 2002  
+Ken Shirley
+
+Speech to Parliament, Thursday, May 23, 2002.
+
+Speaking in this Budget debate, ACT New Zealand supports the amendment, and we also support the amendment to the amendment, ''That this House has no confidence in the Government." The first Budget of this Labour-Alliance Government, some 2 years ago, was given with a fanfare under the title -Closing the Gaps''. Everything tied in to closing the gaps, and all of a sudden the polls told the Government that that was not a good title, so it dropped that language.
+
+We have not heard anything about it from any of the Ministers or members---not one of them has given a speech in those last 2 years on "Closing the Gaps''. Then for last year's Budget the Government needed a new caption, so what did it come up with? It came up with ''The Transformation Economy''. Economic transformation was what it Was all about. This year we do not seem to have a recurring theme in the Budget, but I venture to say it is the ''Run Out of Puff'' Budget. Why do I say that? I say it because when we look at the Finance Minister's speech and read what he says, there are some very sad reflections in it. I will quote him.
+
+He says: "Budget 2002 forecasts solid sustained growth over the current year, and 2 following years through to 2005, averaging 3 percent.'' That is a very sad aspiration for this country, when we know that we need at least 5 percent growth, merely to, hold our position and progressively start to claw back in the relativity stakes within other OECD countries. It would seem that the Treasurer has effectively run out of puff. He has thrown the towel in, and it shows that he is prepared to sit back and be satisfied with 3 percent growth. We know that is simply not good enough. He sort of contradicts himself when we look at page 9 of the Budget speech: ''There is now a broad consensus that there is a need to lift sustainable growth in the first instance to 4 percent.''
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+That is sort of getting there; it is sort of implying the first steps forward, but we actually have to do better than that. Yet back in the substantive part of his comments he accepts, and all his forecasts are based on, 3 percent growth. So he even falls short of his own standards. To give an analogy, it is like a runner in a 10,000 metre race, and the Government is saying that as long as that person is not running backwards, he or she is doing OK.
+
+Even if all the top runners are lapping that person, and even if all those whom he or she thought were relative challengers are going past at a great rate of knots, and even though the person is dragging his or her feet and running out of puff, and being lapped by the top performers, so long as the person is not going backwards, somehow that is good enough. It is nonsense for the Treasurer to accept that level of growth on behalf of us all. ACT New Zealand does not accept that standard for this country. It is not good enough.
+
+If we look at international comparisons, we see that when countries move above 20 percent tax rates, when countries increase their tax further they slide down the relativity scales. Country after country gives testimony to that fact. Conversely, all those that reduce their taxation actually leap ahead. They get investment, job creation, and wealth creation.
+
+This country, unfortunately under this Government, is consigning itself to higher taxation and a continuing slide down the relativity stakes within what we regard as the OECD world. My colleague Richard Prebble made a very good point about the Government heralding its wish to encourage Maori into business and Maori development - and ACT New Zealand certainly supports that.
+
+The Government says that it is going to give them 19-and-a-half percent tax rates. Indeed, that is ACT's policy; we think that is great. But is the Government not saying that lower taxes do that: that lower taxes create jobs, create incentive, create investment, encourage development, get more people working, and more people paying taxes; that a Government can get more revenue off lower taxes? But, no, the Budget speech is riddled with the rhetoric: ''We've got to tax them more.''
+
+Somehow all those in the productive sector have to be taxed more - get higher taxes. Paragraph after paragraph of Dr Cullen's speech criticises lower taxes. ACT says that if New Zealand is to get up to that 5 percent growth, the first step along the path is to reduce taxation, because Governments to not create wealth. We on this side of the House know that. It is individuals and business entrepreneurs who create wealth and create jobs for the country.
+
+That is where this Government is way off the mark. We are moving backwards, and that is, indeed, very regrettable. We then come to biotechnology. The Government again this year, in this speech, heralds biotechnology as the new leap forward, the new science, the way to take us through, based on New Zealand's biology?based economy. We all know that: agriculture, aquaculture, horticulture, viticulture, forestry are all biology?based \*engine rooms to the economy.
+
+A key part of that is embracing the new technology with the genome modification. What does this Government do? It has brought down a moratorium. It says we will put the cork in the bottle. We will not let the genie out - that could produce the wealth and create the jobs. Somehow the Government thinks that will help the country. of course what happens is that business and investment go elsewhere. I know a major genetic modification (GM) project that was established as a field trial in Kinleith Forest, central North Island.
+
+They left New Zealand; they did not make a big noise about it, they chose not to. The business is now based and set up in the United States, in \*Georgia. Should we be surprised? That is what is happening. I was talking to one of my colleagues, who is a senior scientist in \*HortResearch. He says it is appalling the opportunities, the breakthrough technology that is there - that is, the new investment opportunities that are being lost to this country because of this Government's moratorium policies.
+
+Today, of course we hear that the Greens regard a moratorium as something that should be there for ever - a full?time, permanent moratorium. When we come to health, again we see the Government heralding a lot of new money to health. but let us put that in perspective. The first Budget of this Government actually cut health spending, or I should say gave the lowest increase in health spending for 5 years. Last year's Budget cut health spending on a \*per capita basis.
+
+It actually reduced health spending. This Government created a crisis that is in our health sector today. That is why we are not paying our radiologists enough, do not have near enough, and have to send our cancer patients to Australia. That is why waiting lists for heart operations are getting longer, and those who are waiting more than the recommended maximum of 6 months are waiting longer. Yet we have the Government saying that it has kept its promise - and it was one of the credit?card promises - to reduce waiting lists. Well, if that is the case, here is a headline out of this morning's Dominion: "Surgery lists getting longer".
+
+The Government has failed to keep one of the core pledges on its credit card, because up and down the country surgery waiting lists are getting longer. Last week I visited the Venturo Health Group in Tauranga, which is a very impressive group. They are doing all urology operations for the whole of the Waikato, for the Bay of Plenty, and for Rotorua. They have reduced costs by 35 percent, and have capitalised funding from the Government. But the best part is that they have eliminated the waiting list. There was a 3 year waiting list; it is now eliminated. That same group are setting up a parallel organisation to do all orthopaedic operations, and they expect similar outcomes in that area. ACT New Zealand says that we should not just be throwing more and more money at health, because 63 percent of the $8.432 billion Health vote\* is actually in those hospital services, purchased from the district health boards.
+
+We say the answer is to engage the private sector, and to get those efficiencies. The patients are better off, the country is better off, and there are 35 percent savings to be made. But no, this Government says: "Oh, no. We'll set up more State monopolies." They have not worked in the past; there is no indication they will work in the future.
+
+Ends
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

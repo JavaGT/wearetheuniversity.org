@@ -1,0 +1,154 @@
+---
+slug: police-corruption-claims-must-be-investigated
+title: "Police Corruption Claims Must Be Investigated"
+date: 2002-01-28
+source-url: https://www.scoop.co.nz/stories/PA0201/S00190/police-corruption-claims-must-be-investigated.htm
+author: act-new-zealand
+---
+Police Corruption Claims Must Be Investigated
+=============================================
+
+**Monday, 28 January 2002, 2:11 pm**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Police Corruption Claims Must Be Investigated
+
+Sunday 27 Jan 2002 Ken Shirley Press Releases -- Justice, Law & Order
+
+ACT Police Spokesman Ken Shirley is calling for an independent inquiry into strong allegations of corruption and dysfunction, as well as misallocation of resources at Greymouth Police Station.
+
+Mr Shirley has written to Police Minister George Hawkins detailing a number of incidents which cast huge doubts on the integrity of the Greymouth operation. \[Copy of letter attached\]
+
+"The Greymouth station has a history of problems and in 1999 an internal police inquiry, known as Operation Lodge was conducted and several recommendations made in the ensuing 183-page report which was highly critical of the Greymouth policing operations.
+
+"However my own recent inquiries show that in the two years George Hawkins has been Police Minister nothing has changed - in fact it appears the situation may be worse than ever.
+
+"It is a dreadful waste of precious police resources to have experience and dedicated police officers languishing for seven month on \`sick leave' on full pay because of internal ructions when they should be out catching criminals.
+
+"The public needs to have confidence in the Police as upholders of law and order. When the Police themselves become the centre of allegations of corruption and lawlessness this confidence evaporates.
+
+"The Minister is clearly aware of the problems in Greymouth and yet he has sat on his hands. I am calling on him now to do what he has so far failed to do - act decisively. I believe that only an external, independent inquiry can get to the bottom of these deep-seated problems, resolve them and allow the public to have full confidence in the way our Police operate. We need law and order - not disorder," Ken Shirley said.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+COPY OF LETTER TO MINISTER ATTACHED:
+
+23 January 2002
+
+Hon. George Hawkins
+
+Minister of Police
+
+Parliament Buildings
+
+Dear Minister
+
+Dysfunctional Police Station - Greymouth
+
+During 1999 I became closely involved with incidences concerning illegal helicopter deer recovery operations on the West Coast, the involvement of police officers in those operations and the subsequent police victimisation of complainants.
+
+I refer specifically to police actions taken against William Charles Perry who farms a property known as "Waikiti Downs" near Kopara in the Grey Valley. On the 3^rd July 1999 Deputy Commissioner Robinson appointed Detective Inspector Brian Pearce to undertake an internal police investigation.
+
+This investigation became known as Operation Lodge and Detective Inspector Pearce presented his 183-page report in October 1999.
+
+This report confirmed that members of the Greymouth Police and in particular Constables Hendrickson and Egerton regularly assisted a deer recovery operator David McIlroy who is known to regularly "poach" (steal) deer from private property.
+
+It was against this background that Mr Perry believed certain members of the Greymouth Police including Inspector Collins, the Greymouth Commanding Officer, set about to persecute, arrest and maliciously prosecute him on firearm charges which were subsequently dropped. These matters are canvassed in depth in the Operation Lodge Report.
+
+I understand that the police negotiated and paid Mr Perry a substantial sum of compensation in the order of $50,000.
+
+The helicopter deer recovery pilot David McIlroy was subsequently convicted on civil aviation charges with Judge Abbott ruling on the 13^th June 2000 that "he be fined $2500 plus costs for dangerous flying and a further fine of $250 for flying following the expiry of his license".
+
+The Pearce Report (Operation Lodge) made a number of recommendations:
+
+\* Both Detective Constable Egerton and Senior Constable Hendrickson were to be warned that any continued association with McIlroy involving helicopter activities which might imperil the reputation of the Police will be considered a disciplinary offence and action taken accordingly. I understand that the warnings were given but the associations continued. \* That Constable Egerton be counselled on the requirements to ensure that official correspondence submitted is accurate, objective and free from any ambiguity.
+
+\* Senior Constable Hendrickson received an adverse report because of "unprofessionally constructed and documented job sheets". He was also counselled to ensure that he understood the importance of maintaining investigative integrity and the dangers of becoming professionally involved in investigating personal friends or associates.
+
+\* Inspector Collins received an adverse report for supplying false personal details and for a serious lack of judgement. Inspector Collins was subsequently transferred to Canterbury and I understand that he has recently left the Police under the PERF scheme.
+
+\* Finally, the Pearce Report recommended that police administration undertake a review of the Greymouth police culture noting that failure to address the prevailing culture and ethical issues existing in the Greymouth Station will ensure the problems of the last 15 to 20 years continue unabated.
+
+My concern is that the culture has not changed and I understand that two long serving police officers Constables Jeff Andrew and Nadine Thomas who have attempted to rectify this unhealthy and dysfunctional culture have become the victims with serious harassment by police colleagues in the Greymouth Station.
+
+Jeff Andrew has been on sick leave with full pay from the 21^st June 2001 and Nadine Thomas has been on sick leave for some 4 months. The Police hierarchy had previously offered to relocate them to Rangiora but that option has not eventuated. They may now be forced to leave the Police.
+
+On May 31^st 2000, I wrote to Assistant Commissioner Paul Fitzharris raising issues of ongoing concern with the operation of the Greymouth Station. I also raised this issue with the Police Commissioners when they appeared before the Law & Order Select Committee. In his reply of the 6^th June Assistant Commissioner Fitzharris stated that he asked the District Commander in Tasman, Superintendent O'Fee, to inquire into these matters. He stated that once he had the results of the inquiries he would be back in touch with me. I have no records of ever being advised of that outcome and am concerned to learn that the problems persist.
+
+It is my understanding that Constables Jeff Andrew and Nadine Thomas made their complaints in compliance with the Police general instruction pertaining to the protection of whistleblowers under the Protected Disclosures Act 2000. Both Nadine Thomas and Jeff Andrew had a secret meeting with Superintendent O'Fee in a Nelson motel where their concerns and disclosures were made. Superintendent O'Fee undertook to attend to the matter.
+
+Following these complaints Jeff Andrew, over a period of 7 days in February 2001, was the subject of various complaints which he believes (with supporting evidence) were orchestrated by senior staff members of the Greymouth and Westport police in an attempt to discredit him and force him and Nadine Thomas to either leave the West Coast or leave the police altogether. It is this harassment and victimisation which has led to the extended sick leave on full pay for these two Constables.
+
+The following PCA files refer:
+
+Raylene Atkinson - File 010423/5936
+
+Max Hallinan - File 010307/8365
+
+Betty Hooper - File 010208/9007
+
+Phil Groome - File 010222/6459
+
+The complaint of Phil Groome was against the behaviour of the Greymouth Police essentially in support of Jeff Andrews' actions in the Max Hallinan case.
+
+The Raylene Atkinson complaint relates to a stabbing incident that occurred in the Fresh Start School on Wednesday 28^th February 2001 when a minor, Shontae Froom, under the care of the CYFS Shakespeare Family Home stabbed another minor, Sage Solly, with scissors and repeatedly threatened to kill him. Deborah Kennedy and Kihi Denah, two CYFS workers, witnessed the stabbing and threat to kill.
+
+I note that in a reply to a Ministerial written question dated 20^th September 2001 (ref 012008) you stated that a stabbing incident did not occur at the Shakespeare Family Home on that date. It seems you chose not to acknowledge that a stabbing incident had occurred on the same day at the Fresh Start school by a resident of the Shakespeare Road family home. No prosecution occurred following this incident but documents I hold show the police records have been tampered with, with earlier references to a claim of a group family conference being removed. I understand that Raylene Atkinson who filed the PCA complaint against Jeff Andrew is a relative of both Sergeant McEnaney and Senior Constable Adele Cole, both of the Greymouth Police.
+
+In the Max Hallinan case, I am advised that Senior Sergeant Albie Rose who is a known close acquaintance of Max Hallinan, twice destroyed traffic offence notices issued by Jeff Andrew against Max Hallinan and ordered Jeff Andrew to advise Hallinan of their withdrawal. Max Hallinan is also a business partner of another police officer Brian Smith. Phil Groome, the owner of the Ashley Motor Inn, had lodged a formal complaint concerning the lack of police action in addressing the harrassment that he was receiving from Max Hallinan. It seems that Jeff Andrew was attempting to resolve this dispute and this PCA complaint is essentially in support of Jeff Andrew and severly criticises the actions and behaviour of other Greymouth police officers.
+
+Following the series of PCA complaints against Jeff Andrew, the Police hierarchy dispatched Inspector Collins the former Station Commander, now of Canterbury, to investigate.
+
+I cannot imagine a more inappropriate or partial decision. Inspector Collins had been reprimanded and transferred following the Operation Lodge report and yet the Police hierarchy apparently thought it appropriate to have him investigate these ongoing dysfunctional aspects of the Greymouth office which he had previously been closely associated with.
+
+I understand that Superintendent Paul Nickalls, National Manager Internal Affairs, has cleared Constable Jeff Andrew of all PCA charges but I also understand that Phil Groome's complaint is still before the Police Complaints Authority. Would you please advise me on the status of this complaint and what action might be expected.
+
+Apparently Senior Sergeant Albie Rose is now enjoying a one year retirement leave on full pay. Could you please advise me on the status of Senior Sergeant Rose's employment and whether or not as a former MOT officer he is entitled to this as part of his retirement package.
+
+Other issues of concern with the Greymouth Police Station that have been brought to my attention include:
+
+\* Police officers, including Station Commanders, moonlighting as security guards at the Kumara horse races,
+
+\* Police officers urinating on confiscated property including Bill Perry's seized firearms,
+
+\* Dysfunctional rostering and man management. There is regularly only one police officer in patrol cars on nightshifts. One police officer doing prison escorts is not uncommon.
+
+\* Police officers running their private businesses from the police station including the receipt and dispatch of goods associated with their private businesses,
+
+\* A basic failure to complete policing tasks and keep accurate records.
+
+In conclusion, it is clear that the problems associated with the Greymouth Police Station have not been addressed and the culture commented on in the Operation Lodge report is substantially unchanged.
+
+In view of these dysfunctional aspects, the suggestion of ongoing corrupt practices and the appalling misallocation of valuable Police resources in the Greymouth office I call for an independent inquiry. This is necessary to ensure transparency and accountability both of which have been demonstrably absent in ongoing events associated with the Greymouth Police Station.
+
+I look forward to your reply and offer my full co-operation in supplying any documents that I hold which support my call for an independent inquiry.
+
+Yours sincerely
+
+Ken Shirley
+
+Police Spokesman
+
+ACT New Zealand
+
+For more information visit ACT online at http://www.act.org.nz or contact the ACT Parliamentary Office at act@parliament.govt.nz.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

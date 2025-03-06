@@ -1,0 +1,284 @@
+---
+slug: challenging-goals-peter-shirtcliffe
+title: "Challenging Goals - Peter Shirtcliffe"
+date: 2001-03-12
+source-url: https://www.scoop.co.nz/stories/PO0103/S00042/challenging-goals-peter-shirtcliffe.htm
+author: act-new-zealand
+---
+Challenging Goals - Peter Shirtcliffe
+=====================================
+
+**Monday, 12 March 2001, 9:01 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Peter Shirtcliffe Speech  
+Challenging Goals
+
+Saturday 10th Mar 2001
+
+Speech -- Other
+
+[Click here to listen to the speech in MP3 format](http://www.act.org.nz/action/conference/speeches/ps.mp3)
+
+[Click here to download a free MP3 player called Winamp]( 
+http://www.winamp.com)
+
+You have invited to your conference someone who is indeed honoured to be here. Someone who is an unashamed, card-carrying optimist about New Zealand.
+
+Both my grandfathers were mid-19th century immigrants to New Zealand, and both came from disadvantaged backgrounds. They both based their lives and careers on the values of family, integrity, hard work, entrepreneurship, self-reliance and a sense of community.It was a simple formula and it worked. They achieved the challenging goals they set for themselves, their families, their communities and for New Zealand.
+
+Tonight by making this link back to my forebears I want to get above the day-to-day political fray. I seek to offer to a wider audience than is here tonight another simple formula. And I then want to set a challenge.
+
+With my background and natural optimism, I believe that as New Zealanders we can achieve great things in the future. The world is full of opportunities for all of us - if we are prepared to work hard and, as importantly, work smart. Our willingness to work is not an issue ¡V just ask anyone employing a Kiwi in London.
+
+I believe that the key issue for New Zealand is a lack of specific, explicit goals that would unify and motivate us as a society.Not only do we lack them, we have refused point blank to have them. And so we find ourselves content with nationalistic statements such as ¡§a great place to bring up children¡¨ that simply celebrated our good fortune, and leave it at that. It is no secret that in today¡¦s competitive and globalising world New Zealand¡¦s place is not assured.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The relentless decline in our world standing over the past decades shows that we can no longer afford to ignore big picture goals. We need to change, and we need that change to start now. Without agreed goals we have no context for measuring how well we are doing, or for deciding what we should do next. Instead the national mood swings back and forth in response to ephemeral events. We saw that last year with wildly fluctuating business and consumer confidence. In short, we have become victims of fate, rather than pro-active creators of our own future.
+
+The importance of goals As a businessman, as a parent, and in my community activities I see the fundamental importance of goals reinforced time after time. An explicit goal is the essential starting point for realising any significant human achievement, be it education, sport, the arts, business, or public policy. This is also true whether it is a personal achievement, a group or community one or a national or even international one. What gets measured gets done.
+
+Goals can be as lofty as President J F Kennedy¡¦s well-known injunction to the American people in the early 1960s of ¡§landing a man on the moon and returning him safely to earth.¡¨ Or they can be as pragmatic as a Sports Club deciding they need new facilities, and they are going to raise money and build some over the next three years.
+
+Any shared enterprise moves forward because of its goals. They keep us together and heading in the same direction. They provide an objective around which every member of the team can commit themselves and they define accountability. Without goals we settle for the status quo. As author Steven Covey put it: ¡§If we keep on doing what we are doing, we¡¦re going to keep on getting what we are getting.¡¨
+
+Goals also help human beings focus. Every sports coach knows the only way to improve performance is by goal-setting. They set a context for addressing all the vexing questions that arise once we begin to take action: Where do I start? When do I know I¡¦m done? What is most important? What do I do next?
+
+Effective goals need to be simple, explicit, measurable, time-bound, and a real stretch. Goals are the sworn enemies of incrementalism.
+
+I believe that as individuals, as businesses, as sports teams and as a country New Zealanders have become very poor at setting goals ¡V and that shows in the results. Almost unbelievably, the All Blacks are being told that it¡¦s okay to lose occasionally. The directors and managers of major New Zealand companies have felt free to destroy shareholder value with impunity.
+
+Educational institutions have become expert at spreading blame when they fail to meet basic standards. A recent report of the National Education Monitoring Project found that 25 percent of New Zealand Form Two students did not know where Cook Strait or Cape Reinga are located! Does this matter? I believe it does. It certainly helps to know at least one of them if you want to go to the South Island!
+
+In some areas we have set strict goals as a nation. We did it with our inflation rate. We did it with the road toll by focusing all New Zealanders on stopping the carnage as a goal. Full scale marketing of the goal to New Zealanders through advertising and specifically targeted programmes coupled with beefed up enforcement, the introduction of safety belts, calling accidents crashes and so on helped to achieve the goal. At 465 the 2000 toll is the lowest since 1964.
+
+Today I want to talk about a set of specific goals that we must urgently address as a nation. We must first agree on those goals and then understand just how we are going to achieve them. Economic performance must surely be at the centre of any such goal setting. And the plain fact is that on our performance over recent decades, New Zealand is in danger of even losing its First World status in the 21st Century.
+
+When all said and done, New Zealand¡¦s economic performance is about the standard of living enjoyed by most of us. Standard of living is many things: „h the income in our pockets; „h the quality of education, health and welfare services available to us;
+
+„h the quality and availability of New Zealand¡¦s infrastructure and public amenities; „h even the sense of well being that comes from knowing we¡¦re at least as well off as the people in other countries with which we like to compare ourselves.
+
+Standard of living is always going to be relative term ¡V relative to where we were in the past and relative to where other countries are today.
+
+I argue strongly that we New Zealanders must think of our most fundamental goals in terms of the standard of living that we really want and then, commit ourselves to ensuring growth in the economy at rates which will be required to reach and hold that standard of living. Common sense really.
+
+Before going on, let me stress the importance of common sense in setting goals and seeing them through. Our political history is littered with instances where cranky ideas have been allowed to prevail, or nearly prevail, over common sense.
+
+Here¡¦s my own example from 1996, when one of the hot political issues was the overseas ownership of New Zealand assets. Cranky ideas were being seriously proposed. Wannabe leaders were even proposing that there should be severe restraints placed on investment in New Zealand by foreigners.
+
+I felt that enough was enough. I personally commissioned from the forecasting BERL group a short report on the outcomes for unemployment if the severe investment restraints proposed were put in place.
+
+The analysis was not a pretty sight. I gave a 20-minute speech in Auckland summarising the results, and by the time the press had finished with it, the two politicians were very cross and the policy was in tatters. I wrote BERL a cheque for $6000, and common sense had won.
+
+No part of the political spectrum showed many brains on the issue¡Xand New Zealand was getting itself into a pickle, I suggest, without having a clear economic goal and some straight forward analysis about how to achieve it. Common sense and goal setting go together.
+
+10 X 2010 Going back 10 years ago, the then Trade Development Board commissioned BERL to look at an achievable goal for New Zealand ¡V and what economic growth would be required to achieve that goal.
+
+I was Board Chairman at the time and the goal we came up with was all about living standards for New Zealand. The goal was this: Put our nation back into the top ten when OECD countries are ranked by their GDP per capita and do this by the year 2010. So was intrigued to see Richard Prebble pick up a similar ¡§Tenth by 2010¡¨ theme in a speech last month.
+
+In 1990, we chose the ¡§Ten by 2010¡¨ goal because it was simple, it was easily understood and it was measurable. And I believed that most New Zealanders would embrace it as a worthwhile objective. I still believe this to be true.
+
+After some basic analysis, BERL¡¦s conclusion was as simple as the goal. To make it into the OECD Top Ten, the New Zealand economy needed to grow in real terms by around 5 percent per annum over those 20 years. That¡¦s what we needed to do to reach the standard of living we believed New Zealanders aspire to.
+
+We¡¦re now half-way between 1990 and 2010. It¡¦s time to take stock. How did we perform?
+
+When a major study was done in 1987, New Zealand was ranked 23rd on GDP per capita¡Xwell behind most western European countries, Australia, Japan and North America. Indeed, our income per head of population was not that much more than half the comparable figure for the USA.
+
+In a comparable recent study , New Zealand came in 21st on GDP per capita. That might not sound too bad but there is a very big gap ahead of us on the table, with only Spain in view!
+
+It is official: New Zealanders have a living standard higher than Poland and the Czech Republic, but well below Norway, Ireland and Australia. I suspect we already knew the last one.
+
+So what has happened with economic growth?¡Xthe key driver for a better relative standard of living. Since 1990 this country¡¦s real annual growth rate has averaged, not 5 percent, but 2.1 percent.
+
+That was 0.1 of percentage point under the OECD average. Our growth rate has exceeded the average in just three years out of ten and has been significantly below it in another six years of the ten. Yes, we have achieved growth over the past decade, but modest growth only and slower than most of the countries with which we want to compare ourselves.
+
+What would New Zealand be like now, if we had focused on achieving a growth rate of, say, 5 percent in real terms or 3 percent above the OECD average ¡V and then actually achieved it?
+
+I had some quick calculations done recently. They indicate our annual GDP would have been NZ$132 billion, instead of NZ$99 billion ¡V an increase of 34 percent.
+
+To put that another way, annual GDP per capita would be NZ$35,000, not the NZ$26,000 New Zealanders earn now. We would be ranked much higher in the OECD, and there would be no disturbing questions about sliding from First World status.
+
+The average hourly earnings could well have been NZ$24/hour instead of NZ$18, an increase of NZ$230 per week for each worker. With the right policies, much of that extra money would have been saved and reinvested for future growth.
+
+The Government¡¦s revenue, assuming current policy settings, would be NZ$48 billion instead of NZ$36 billion. That extra revenue would have given the Government more options for anything from increased spending on health and education to lowering tax rates or repaying debt.
+
+And who can calculate the flow-on effects of such strong, sustained growth: „h Highly-qualified people coming to New Zealand, rather than leaving it „h More opportunities for people from disadvantaged backgrounds to become involved and get ahead „h More participation in education „h Less crime „h Less welfare dependency „h Better health status „h More confidence about the future
+
+Argentina Before we get too depressed about what might have been if New Zealand had focused on export performance and growth, let¡¦s look at another country. A country that is without doubt sliding rapidly into the Third World. The top end of the Third World maybe, but the Third World nevertheless. I¡¦m talking about Argentina.
+
+In the 1920s Argentina was amongst the five richest countries in the world with an average living standard close to that of the United States and Canada. As for many agricultural export economies, Argentina¡¦s glory days ended abruptly in the 1930s. The following decades saw the country struggle to broaden the base of the economy, keep export markets open and maintain a modest level of growth. The result of its embrace of ideological politics has been the long-term decline of Argentina¡¦s economy.
+
+High levels of debt and low growth make Argentina vulnerable. After being in serious recession for almost two years, an injection of US$40 billion from the IMF was required last year to pull them back from the brink of collapse. The dramatic slump in investment that precipitated the recession highlights the major structural and social issues the country faces.
+
+Only a decade or so ago Argentina was an advertisement for the success of liberal reforms. They overcame inflation through macro-economic discipline and open trade, opened up to foreign investment, created more flexible labour markets, undertook large scale privatisation and focused on creating a smaller and more efficient state. But now Argentina is facing:
+
+„h High debt and low growth; „h Shrinking domestic consumer spending; „h Unemployment at rates above 15 percent; and „h Not surprisingly, mounting unrest among the population.
+
+In citing Argentina, I am not commenting on the particular mix of economic policies. Rather it is a good example of how a nation can see its living standard plunge to the extent that it slips steadily into the Third World ¡Vand of what can happen without a clear national goal which anchors all political decision making.
+
+A Tale of Two Countries Some people, when confronted with the facts of New Zealand¡¦s lacklustre economic performance, are likely to say that we shouldn¡¦t compare ourselves to the OECD, or set a goal of being in the Top 10. They¡¦ll say that it¡¦s too hard, that we have too much going against us. They claim that. Just last week, for example, Dr Cullen told an audience that the Government mustn¡¦t be held totally responsible because too much of our economic performance is governed by overseas events. It sounded like a politician getting his excuses in early.
+
+I talked about Argentina. Here¡¦s another international example, this time it¡¦s a tale of two countries.
+
+They both have small populations, both are without huge mineral resources, and both are located a long way from key markets.
+
+In 1965 the first country, New Zealand, was the envy of the world. It produced huge volumes of agricultural product and shipped it largely unprocessed to one market. On almost all measures of development ¡V GDP per capita, literacy, health status - we were in the top ten. Anyone who lived in New Zealand knew that they lived in ¡§God¡¦s own country¡¨.
+
+In 1965, the second country, Singapore, had just achieved independence. It was in political conflict with its neighbours, had serious internal security problems with communists and racialists, and its economy was based solely on its strategic location. Most commentators doubted that it would survive the decade, let alone prosper.
+
+Measured in today¡¦s currency, New Zealand in 1965 had a GDP per capita of NZ$16,000, while Singapore had comparable GDP per capita of NZ$2,000.
+
+Thirty-five years later (and in today¡¦s currency) those figures are: NZ$26,000 for New Zealand and NZ$39,000 for Singapore. Quite a reversal.
+
+Through the 1990s, Singapore had real growth at an annual average of 8.7 percent. New Zealand, as I said before, had average growth of 2.1 percent.
+
+The lesson is clear. New Zealanders have spent the last 35 years struggling to protect a privileged way of life. We have looked inward and refused to consider how this way of life was going to be paid for in the future.
+
+By contrast Singapore has got on with it, and got ahead to become the most economically successful and prosperous country of South East Asia. They have analysed all the obstacles in their way, and found ways to navigate past them. The title of Lee Kuan Yew ¡¥s recent memoir ¡§From Third World to First¡¨ sums up Singapore¡¦s achievement.
+
+In the World Competitiveness Yearbook 2000 Singapore ranked second in both 1999 and 2000 ¡V just behind the United States. In the same rankings New Zealand came in at 21 and Argentina? Argentina is down at number 42.
+
+A sustained high growth rate is fundamental to the social contract between Singapore citizens and their government. Lee Kuan Yew took a pragmatic approach: "For a society, for a people, to succeed,¡¨ he said, ¡§there must be national unity, national solidarity. So, we are all working to achieve a certain goal together. Now, if winner takes all or the biggest prizes and I am not a winner, after a while, I give up. I become anti. So, it is up to the political leaders and the people to strike a bargain, a social contract.¡¨
+
+Now I am not saying that I want to re-make New Zealand in Singapore¡¦s image: with all the advantages of our natural resources, people and history we should be aiming for much much more. Nor am I saying that the route to success is to slavishly copy Singapore¡¦s policies -- or the policies of any other country that is performing better than us.
+
+As the BERL report made clear a decade ago, the key to achieving faster economic growth is for us to get serious about exporting. One of the most shocking statements in the report was: ¡§New Zealand has fallen behind in its participation in world trade ¡V by as much as 50 percent in the last 30 years. Our export structure ¡V the goods and services we sell internationally ¡V still more closely resembles the pattern of world trade 100 years ago than that of today. ¡K We are out of step with what the world wants to trade in.¡¨
+
+We need to reach wide agreement in New Zealand that we have a long-term economic performance problem. And then we have to get on and do something about it.
+
+What is New Zealand¡¦s problem?
+
+1\. Lack of meaningful goals The central problem we have created for ourselves is we lack meaningful goals. To jolt ourselves from the paralysis of indecision, we need to get wide agreement on specific goals. Then we have to stick with them. The lack of goals must become a major national issue. New Zealanders need to understand that our economic performance over the past decades has not been anywhere near ¡§good enough¡¨. Then we need to make the connection between our sluggish performance and our lack of goals.
+
+Today New Zealand has only one explicit economic goal ¡V a low inflation rate. The Reserve Bank Act requires that price stability is defined in a specific and public contract, negotiated between the Government and the Reserve Bank. So there is an unavoidable measure of success or failure. Today only annual increases in the CPI between 0 percent and 3 percent are acceptable. Don Brash knows that he lives and dies by that number and he is totally focussed on making his target.
+
+We did not adopt a standard of living goal in 1990 and I am convinced this is one of the reasons we find ourselves in our current position. Economic growth needs to become an explicit part of the national contract.
+
+2\. Lack of leadership accountability Imagine if our Prime Minister and Treasurer had to front up and be accountable for achieving or missing an explicit Standard of living goal. You can be sure that every policy decision would be judged on its actual impact on the economy, rather than for its potential for short-term political advantage. Education, for example, would be treated as a key input to the economy rather than as the plaything of the politically correct.
+
+To their great credit, the Labour Party did make explicit promises at the last election. And because Miss Clark had staked her reputation on those promises, they have been met in some form during the first year of her government.
+
+Although they were a start, in my view most of the seven promises fail the test of being ¡§simple, explicit, measurable, time bound, and requiring a real stretch¡¨.
+
+More importantly, only two of the seven were about the economy! One promised higher tax rates on incomes over $60,000, and the second promised to create more jobs ¡V even if it didn¡¦t say how. The other five promises were about how the existing national cake was going to be divvied up along with assorted social objectives.
+
+Let¡¦s face it. Not a single political party has ever had the guts to set an explicit goal for increasing New Zealand¡¦s standard of living if they became the Government.
+
+Richard Prebble has certainly advocated the ¡§Top Ten by 2010¡¨ goal over the past year but we need more than speeches and articles between elections. We need a widespread commitment to a long-term measurable economic goal and the acceptance of policies that will achieve that goal.
+
+Today it seems that no politician is willing to be held accountable for New Zealand making or missing our most important objective. Probably the most honest parties at the last election were the Greens, who said they really didn¡¦t like economic growth anyway, and the McGillicuddy Serious Party who promised a Great Leap Backwards!
+
+In all the businesses that I have been involved with, we set explicit goals for managers, and we require them to be met. Effective social intervention is founded on the same principle. I don¡¦t see why the shareholders of New Zealand Inc should be expected to settle for less from our public policy managers.
+
+New Zealand lacks the political leadership, political systems and political context to make common sense decisions. Common sense is often derided in this increasingly specialist and technical world, but a little common sense would have gone a long way to avoid the Incis failures.
+
+Where ideology prevails, common sense recedes. Ideology establishes a rigid framework that cuts out many possible solutions simply because they don¡¦t seem to fit. Ideas and opportunities are ignored. Innovation is very difficult in an ideological system. Common sense is pragmatic and common sense is open to the world.
+
+In New Zealand most public discussion has been crippled by an obsession with the division of wealth ahead of the creation of wealth. An obsession that focuses attention on today. An obsession that ignores longer term implications because its fundamental assumption is that our situation cannot and will not change.
+
+We need to shift the economic debate from a monetary focus to a commercial focus. The exchange rate and budget outcomes are very important, there is no doubt about that, but they are derived from our success as traders with the world. We will not create the wealth I'm talking about unless we finally stop our reliance on commodities.
+
+This is plain common sense. It would be hard to find anyone in the country who disagrees with it. Millions of words and numbers have been conjured up to prove it but ¡V and there is always a but ¡V this clarity of common sense has become tangled up in New Zealand with ideologically-based grievances, the undermining of the value of entrepreneurship and the corrosion of self-reliance and self-confidence.
+
+3\. Lack of focus Which brings me to focus. New Zealand is suffering from a lack of focus on what really matters to people: income security and the opportunity to work for a better life. Instead we are confronted by the spectacle of public bickering over who gets what, who should have done what and all the rest.
+
+New Zealanders understand very well that the more you earn, the more you have to spend. It¡¦s the basis of every family budget. But this clarity is deliberately diffused by politicians and other opinion leaders when it gets to national decision-making.
+
+Many politicians believe it is in their own best interests to complicate goal setting. They do this by constructing so many measures and targets that everyone, apart from a few hardy experts, get bored and confused. No wonder people turn off.
+
+Look at Auckland¡¦s transport debacle. Everyone knows it¡¦s a disaster. An Automobile Association survey showed that 83 percent of Aucklanders would happily pay road tolls as long as someone got on with it and completed the roading network.
+
+It¡¦s strangling a vibrant engine of economic growth. It is estimated that the economic cost of traffic congestion in Auckland is over $750 million per year, and growing.
+
+There¡¦s a strategy, there¡¦s a plan, there¡¦s a framework, and there are lots of experts and politicians buzzing around. But where is the action? Both national and regional government seem incapable of setting specific goals and applying common-sense to attaining them. Trade-offs will be needed between mobility, environmental effects, social effects and road safety. Focus and common sense will support decision-makers in negotiating those trade-offs. Nothing else will.
+
+And the solutions for New Zealand¡K If my analysis of what we lack is accurate, then the solutions are readily apparent. Here¡¦s my three-point action plan.
+
+„h Set goals These goals need to be set well above the point-scoring that dominates the politics of the day. The goals I¡¦m talking about set a new and rigorous framework that goes far beyond what Paul Holmes deems important today.
+
+I want to throw down a straightforward challenge to New Zealand¡¦s current generation of leadership: Tell us clearly what your measurable goal is for New Zealand¡¦s economic performance over the next twenty years.
+
+In 1990, as Chairman of the Trade Development Board, I suggested the goal could be getting into the top 10 of the OECD by the year 2010. It would be an indictment of us all if ten years later our goals were anything less ambitious in nature.
+
+In the year 2001, New Zealand might commit itself to the goal of being in the top 10 by 2020. I for one would concede that ¡§10 by 2010¡¨ is unrealistic given the progress made over the past decade. We have to be practical as well as ambitious in setting goals!
+
+The forecasting work would need to be done, but a goal of ¡§10 by 2020¡¨ may still require New Zealand to have an average real growth rate of 5 percent for the next 20 years.
+
+If 5 percent was the rate, then we could compare that with the 7.6 percent Singapore has actually achieved over the last 20 years. Five percent should look achievable but, of course, New Zealand has had real growth that that level or higher in only a handful of years during the past 40. Clearly there would be some stretch involved for our political and economic decision makers!
+
+I suspect that most politicians would be scared to commit to any goal for economic growth, even one as modest as five percent per year. They would hesitate to commit to a real target for which they could be held accountable. They would see all of the political obstacles in the way ¡V all the special interests who want to protect their own patch. They would understand that policies and priorities would need to change. In short, most politicians would see commitment to such a goal as heroic, bordering on the suicidal.
+
+I am saying that without such a commitment, without such challenging goals, New Zealand will probably continue to slide down the economic performance rankings.
+
+„h Get on with it Yes, we are small. Our economy is roughly a seventh the size of Australia¡¦s. Yes, we are isolated in the South Pacific. And yes, the rest of the world is indifferent to whether we sink or swim. Every country has advantages and disadvantages. Some like Singapore have seized on their strengths and played to them. Others like Argentina have frittered away their strengths and wallowed in their weaknesses.
+
+New Zealand has to grow up and get on with it. Our strengths are well known but in the pressure of the everyday we tend to fixate on threats and weaknesses. We are a nation of smart people with significant intellectual capital, a tremendous natural environment and a heritage studded with innovation and competitive success.
+
+Harvard University¡¦s research into why Team New Zealand won the America¡¦s Cup in 1995 sums it up: New Zealanders are an enterprising, resilient breed who don¡¦t appear to accept that something cannot be done.
+
+Take the Wellington software company Compudigm. Set up two years ago on an NZ$80,000 loan, the company is valued today at $70 million, employs 40 people and is a world leader in 3D data visualisation turning massive amounts of data into pictures. And they have just been nominated for the 2001 Computerworld Smithsonian Awards in the ¡§Search for New Heroes¡¨ program!
+
+Compudigm has its own stretch goals. By 2005 they want offices in 10 countries. Says a founder, "we're aiming to become very large very quickly and maintain our \[global\] market dominance of business intelligence."
+
+This is the kind of ambition and motivation we need to re-ignite New Zealand¡¦s famed can-do attitude. New Zealanders identify with this attitude; they just need to put it into practice.
+
+The common sense views of Sir Edmund Hillary put it best: ¡§You don't have to be a fantastic hero to do certain things -- to compete. You can be just an ordinary chap, sufficiently motivated to reach challenging goals.¡¨
+
+„h Relax the grip of ideology The final point in my action plan is to open up the national debate about goals for growing the economy. Abandon the easy certainties and cliches of left and right ideology and face the sharp realities of our future. Ask the hard questions, grapple with the challenging specifics and embrace common sense at the highest level of government and business. Be very clear that common sense will put food on the table. Ideology will not.
+
+As our politicians and leaders, have the guts to set a specific, unambiguous long-term goal and the courage to drive New Zealand towards It.
+
+Summary I am no politician, and my occasional forays into politics have hardly been crowned with triumph, but I have had some success in business and community affairs both in New Zealand and internationally. The experience of years has taught me that whether your field is politics or business or sport or something else entirely, your success largely depends on your ability to influence, motivate and excite people to take up a challenge with you. You may have the strongest argument in the world, backed up by statistics, case studies and unassailable logic, but if you cannot persuade people of the importance and value of your case, you might as well pack up and go home.
+
+If we are to succeed in having New Zealanders adopt a national goal, if this goal is to be based on objectives for our relative standard of living, I suggest there are eight rules for winning substantial and wide-spread support.
+
+1\. Test every political issue against your goal. And keep on doing it. It needs to be a sharp and relentless focus.
+
+2\. Start with a clean sheet of paper and figure out how to communicate better with individuals. They must be encouraged to influence in turn the groups with which they are affiliated. Convincing communication through established networks is powerful, rapid and lasting.
+
+3\. Approach every single issue from the point of view of common sense, not ideology. Claim ¡§ownership¡¨ of the term, ¡§common sense¡¨. Over recent decades New Zealand has been corroded by ideological imperatives of many kinds. It is time to start a new chapter. Perhaps you will need to throw the cold water of common sense on ideological insanities as I did by commissioning to do some BERL analysis in 1996.
+
+4\. Learn to shape the language of the debate around the goal. Develop precise phrases that set the terms clearly and accurately, and keep on using them. Choose words that relates to outcomes, not processes. That means we don¡¦t get side tracked into fiddling with exchange rates or any other particular indicators. Clarity around the goal and how it is phrased make it that much tougher for ideologues to demonise and personalise arguments they cannot cope with.
+
+5\. Encourage an enthusiasm for change in your personal life as well as in your business, political and community activities. It is far more compelling to show people how positive change can be, rather than just talk about it.
+
+6\. Advocate constantly for a value-based entrepreneurial culture supported by rock solid property and legal systems. This is how most New Zealanders want New Zealand to be. They just need to be reminded that self-reliance and self-confidence have always been an integral part of our way of life.
+
+7\. Challenge the current New Zealand obsession with grievances, envy and the past and challenge it vigorously. What matters is equality of opportunity, not equality of outcomes. New Zealanders are people with common sense. They know in their day-to-day lives this to be true. They just need to be reminded of the common sense reality that what is true for them connects directly into the wider economic and political debate.
+
+8\. And finally, reinvigorate a sense of pride in our country.
+
+Tonight I have challenged you to come up with a mobilising national goal. I have suggested that a realistic goal is be a top 10 ranking on GDP per capita by the year 2020, maybe requiring 5 percent annual growth from now on. I don¡¦t know what the growth rate should be, but the key point is that New Zealand does need a goal for economic performance. And that goal should be identified and articulated in terms of our standard of living relative to other nations.
+
+The inertia over much of the last decade has convinced me that unless we front up to our future with energy and determination, we will end up with a "barefoot" economy, and New Zealand risks becoming a slum with scenery.
+
+Does any group with leadership aspirations have the guts to run with this challenge, and the brains to make it work?
+
+That is the challenge I leave with you. Thank you.
+
+[Click here to listen to the speech in MP3 format](http://www.act.org.nz/action/conference/speeches/ps.mp3)
+
+[Click here to download a free MP3 player called Winamp](http://www.winamp.com)
+
+For more information visit ACT online at http://www.act.org.nz or contact the ACT Parliamentary Office at act@parliament.govt.nz.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

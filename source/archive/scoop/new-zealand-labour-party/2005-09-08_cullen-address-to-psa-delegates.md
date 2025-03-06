@@ -1,0 +1,158 @@
+---
+slug: cullen-address-to-psa-delegates
+title: "Cullen: Address to PSA Delegates"
+date: 2005-09-08
+source-url: https://www.scoop.co.nz/stories/PA0509/S00210/cullen-address-to-psa-delegates.htm
+author: new-zealand-labour-party
+---
+Cullen: Address to PSA Delegates
+================================
+
+**Thursday, 8 September 2005, 1:11 pm**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Address to PSA Delegates
+
+PSA Offices, 11 Aurora Tce, Wellington
+
+Wednesday 7 September 2005 at 5.00pm
+
+  
+It is a pleasure to be able to speak to you today. I gather you also invited John Key to address you but he declined. Labour politicians are made of sterner stuff. I have addressed numerous business audiences in the course of this campaign and think it is important that parties are prepared to defend their policies to all groups which will be affected by them.
+
+Some of our opponents are very keen for this election to be fought on a single issue, such as tax. But in reality all elections are about credibility, trust and values. Does a party’s policy platform stack up in the real world? Can you trust them to implement it? And do they share the values of ordinary New Zealanders?
+
+I believe the Labour-led government delivers on all three fronts.
+
+Since coming to power in 1999, this government has delivered credible economic and fiscal management. We have restored trust in the quality of the public services New Zealanders value, such as health care, biosecurity, education, housing, superannuation and policing.
+
+And we have put into practice Labour’s traditional values, such as social equity, a secure role for organised labour, and cooperative approaches to meeting the challenge of economic growth.
+
+That has been achieved despite some difficult economic times, including the rise of global terrorism and its chilling effect on confidence, and despite some potentially divisive issues at home, such as the question of the ownership and management of the foreshore and seabed.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+In economic terms, the country is much better off. The economy has grown by over 20 per cent since we came to power, putting us back in touch with the OECD pack. That is the result of many factors, including a more diversified economy, a shift away from commodity exports towards higher value added products and services, and healthy inward migration.
+
+Just as important, is that growth has been spread throughout the community through a very strong labour market. Unemployment is at levels we thought we would never see again, and household incomes have risen by around 25.4 per cent on average.
+
+All of this has been achieved without significant inflation, and without any increase in the size of government relative to the economy. Indeed, we have combined strong growth, low inflation, low taxes, low public debt and more efficient public spending. That is quite an achievement.
+
+Our opponents are left to play around with common misperceptions, as opposed to any real Achilles’ heel.
+
+First and foremost is the misperception that taxes are too high: that there is enormous wastage in government spending and that New Zealanders pay far more tax than other countries. There is simply no truth to this:
+
+\- We have reduced central government spending (that is, excluding state-owned enterprises and local government) as a proportion of GDP, primarily due to cutting the number of people on benefits.
+
+\- Total spending on consultants across all departments is down from the amount Labour inherited when we took office in 1999. These costs would be likely to rise sharply under a National government as National slashed full time staff numbers in the state sector to pay for tax cuts.
+
+\- Our tax burden is lower than Australia and most of the OECD, and certainly the countries ahead of us on the economic rankings. While the recent Australian tax cuts have brought their income tax system more into line with ours, the Australian tax system still has higher marginal rates, at 42 per cent and 47 per cent, to which must be added a Medicare levy of 1.5 per cent, a generalised capital gains tax and significant stamp duties on the purchase of items like houses and cars.
+
+The credibility is all on the side of the Labour-led government. Our opponents are pinning their hopes on an economic strategy founded on spurring investment through a tax cut. What is absolutely clear (and this is attested independently by fairly conservative bodies such as the OECD) is that a large scale fiscal stimulus is the last thing the economy needs when we are short of skilled labour and up against capacity constraints. That is simply a recipe for inflation.
+
+It would lead to a temporary boost for all those retailers who cater for the upper end of the market, perhaps a bit more stimulus in the housing market, followed by a long hangover as the Reserve Bank has to tighten monetary policy, putting upwards pressure on interest rates.
+
+Not only is National’s tax package unhealthy for the economy, it is also unfair, unaffordable, and politically unworkable.
+
+The unfairness is obvious. There is no regard to family circumstance and it delivers the biggest benefits to those at the top of the income scale. A person on $20,000 a year would get a tax cut of $6 a week. Two thirds of taxpayers would get less than about $10 a week. Someone on $100,000 a year, including every Member of Parliament, would get $92 a week.
+
+In comparison, under Labour’s tax relief package, at 1 April 2007, all two child families on $45,000 or less and all three child families on up to $60,000 would be better off. This comparison takes no account of the far greater support Labour is offering for childcare costs than National, nor does it take account of National’s plan to cancel the $10 a week per child Family Support increase scheduled for April 2007.
+
+In addition to being unfair, National’s plan is unaffordable. National will need to raise billions of dollars extra in borrowing, something in the region of $3.5 billion over the next three years. And this is not for roads and other capital since National’s promised increased spend on roads is $630 million less than the government has already committed to since the budget.
+
+Both Labour and, to their credit, the National-led governments of the 1990s, worked hard to bring debt down to the point where it no longer undermined the stability of the economy. Now National proposes heading back to the bad old days of the early 1980s where Robert Muldoon used debt to fund current consumption.
+
+In addition to some $3.5 billion of extra debt, National would need to cut spending by the same amount. That is about what would be saved by closing down the police force for three years, or closing down all hospitals in the top half of the North Island for a year.
+
+Clearly, National would not do either of these; but it is naïve in the extreme to think that savings of this magnitude can be made without slashing health or education or pensions.
+
+For that reason, National’s plan is politically unworkable because there is no way there will be a majority in Parliament to support it. These are empty promises that cannot be carried into practice.
+
+To make matters worse, National continues to make indiscriminate spending promises, almost without thinking. For example, National has said it will finish all treaty settlements within five years. That is a rate about three times faster than Labour is planning and at least four times faster than the rate over the last decade or so.
+
+That means a huge increase in spending on two things: the administration of the Office of Treaty Settlements and the value of the settlements themselves because, if claimants know that there is a time limit set by the government, they will be able to argue from a position of greater strength.
+
+In other words, the credibility gap just gets wider and wider as each day passes. Over the next four years, the Treasury is projecting surpluses of $23.4 billion but all of this money is committed. In fact, the Treasury is forecasting a cash deficit over this period of $4.16 billion.
+
+First we have to remove the non-cash items from the surplus projections. These are estimated at $4.82 billion and include the profits SOEs do not pay out to the government as dividends but use to maintain or grow their business base – much as any private sector business does. They also include depreciation of Crown assets.
+
+Second, there are the contributions to the New Zealand Superannuation Fund, a fund National says it is committed to retaining. The contributions total $10.12 billion.
+
+Remove these two costs and the $23.4 billion becomes $8.4 billion. And wait, there’s more.
+
+We still have to deduct $7.09 billion for the purchase of essential capital assets such as defence equipment, roads, schools, computers for government departments etcetera, etcetera. That brings us down to $1.3 billion.
+
+Other expenses financed from the OBERAC are $3.28 billion of loans, the majority of which are student loans, and $1.02 billion in capital injections to build hospitals and State housing.
+
+The final item is $1.2 billion to the Reserve Bank to enable it to intervene in the foreign exchange market should that become necessary to maintain financial stability.
+
+Factor all those in, and the $23.4 billion has become a deficit of $4.2 billion. This small rise in borrowing is consistent with gross debt falling to just under 20 per cent of GDP by 2009. This is a good set of government accounts by any standard and reflects the huge and often painful progress that has been made in redressing the devastating legacy of debt left by the borrow and hope policies of Sir Robert Muldoon.
+
+By contrast Labour has pursued a highly credible economic and fiscal strategy, and added to that a programme of restoring trust in public services:
+
+\- We restored the value of NZ Superannuation after the cuts imposed by National in the late 1990s.
+
+\- We refocused the welfare system around helping people reconnect with the labour market through positive measures like child care support and training. This contrasts with the punitive approach National proposes, which we know simply entrenches dependency.
+
+\- We have made immense progress with the health system, cutting waiting times for surgery, improving access to major joint replacement, increasing funding to mental health services and investing heavily in primary and preventive health care through PHOs, screening programmes and immunisation.
+
+\- We have reinvigorated trades training through the modern apprenticeship programme and industry training.
+
+\- We have refocused the tertiary education system around matching skills to the specific needs of the economy, and made study more accessible by changes to the student loans scheme and control of student fees.
+
+\- Crime rates in almost all categories have dropped, with total recorded crime down by 7.1 per cent over the past year. That's 30,000 fewer offences committed compared to the year before, and in fact the crime rate per head of population is lower than any year since 1981. This is due to a combination of a billion-dollar investment in Police, and of a range of policies that have put New Zealanders into jobs, raised their standard of living and given them a real stake in their community.
+
+  
+This is a lot more than just catering to our traditional constituency. The fact is that in the modern global economy, what drives prosperity is productivity, and the major driver of productivity is a skilled workforce. If you haven’t noticed, skilled workers are internationally mobile; so if we want to attract and retain people with skills it matters immensely what quality of life we offer.
+
+That extends to the question of workplace savings. This is a standard part of remuneration packages overseas, but participation rates in New Zealand have fallen steadily over the last couple of decades. The KiwiSaver scheme announced in the budget at last provides ordinary New Zealanders with an easily accessible savings scheme, and provides real, if modest, incentives to join. Those incentives include assistance with buying a first home.
+
+The scheme has recently won accolades from the Economist magazine which says the scheme’s design reflects the latest trends in behavioural finance and could prove a politically alluring alternative to compulsion in Britain.
+
+This is all part of creating a society in which more of us have a tangible stake in a growing economy. It is what we used to call ‘the social wage’, and although it is at the heart of successful economic growth strategies worldwide, it is a concept that appears totally foreign to our opponents.
+
+That is why the implicit threat to public services in National’s policies of tax cuts, is also an implicit threat to our long term economic well-being. Tax cuts of the magnitude National is talking about mean cuts to the things that make New Zealand an attractive place for skilled people to live.
+
+National’s vision is very much a two-tier one. A utopia in which the wealthy enjoy tax deductible health care premiums and tax deductible private school fees; and a dystopia where the rest of the population put up with whatever public services can be afforded after the tax cuts have had their effect.
+
+Dr Brash claims that without this, talented entrepreneurs will flee the country. What he ignores is that talented people have been driving our economic growth in the last five years and are showing no signs of leaving. And what he forgets is that the particular skills the economy is desperately short of at the moment are those with mid-level skills, for whom access to quality public services is crucial.
+
+The world may look simple from the giddy heights of a merchant bank or the top floor of the Reserve Bank, but the truth is leadership requires a broad set of skills and competencies. Keeping inflation within a tight band is not an easy task, but it is a narrowly circumscribed one.
+
+Over the course of the last five years, the Labour-led government has had to pursue a careful economic and fiscal policy alongside the legitimate demands of New Zealanders to protect and promote their quality of life. We have confronted the legacy of under-investment in infrastructure which meant that our roads, power systems and water supply systems are in urgent need of upgrading. And yet we did it in an environment where participative resource management and environment protection are highly valued.
+
+We have confronted the need to reform our tertiary education system so that it better serves our long term skill needs. And yet we did it while respecting the importance of academic independence.
+
+And we have confronted the questions over the foreshore and seabed, balancing the importance to Maori of their traditional connection to areas of the coast, the desire for all New Zealanders to access coastal areas for recreation, and the growing commercial potential of the foreshore and seabed in areas such as marine farming and aquaculture.
+
+These are issues with no simple answers. Finding a way forward is a matter of leadership and experience.
+
+In the past five years, Labour has put New Zealand back to work, and set us on the track towards a robust economy based on a skilled workforce, a cooperative approach to economic development, and world class infrastructure. Reinvigorating public services and the public sector workforce has been a key part in that. There is always room for improvement, but I think you will agree that compared to the late 1990s the public service workforce enjoys higher morale, better pay and working conditions and a stronger professional ethos.
+
+These are gains that we value as a government, and we are not about to give them away.
+
+In the next three years, as our economy goes through a soft patch, the challenges we will face will only become more complicated. What will see us through those challenges is leadership and experience and a steady hand. That is what Labour offers the electorate.
+
+Thank you.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

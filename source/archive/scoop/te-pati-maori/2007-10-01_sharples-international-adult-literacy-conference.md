@@ -1,0 +1,205 @@
+---
+slug: sharples-international-adult-literacy-conference
+title: "Sharples: International Adult Literacy Conference"
+date: 2007-10-01
+source-url: https://www.scoop.co.nz/stories/PA0710/S00007/sharples-international-adult-literacy-conference.htm
+author: te-pati-maori
+---
+Sharples: International Adult Literacy Conference
+=================================================
+
+**Monday, 1 October 2007, 11:15 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+International Adult Literacy Conference
+
+Rangitoto Ballroom, Langham Hotel, Auckland
+
+Dr Pita Sharples, Co-leader of the Maori Party
+
+Friday 28 September 2007; 8pm
+
+‘The Power of And’
+
+As we made our way here tonight I was thinking about the history behind the phrase, Te Rangi i totongia a Tamatekapua – the day the blood of Tamatekapua was shed.
+
+And before the imagination runs rife as we make our way to dinner….that sense of history was evoked through use of the name, Rangitoto, for this grand ballroom.
+
+Rangitoto derives its name from the source of a major battle between Tainui and Te Arawa around the time of 1350.
+
+Rangitoto - the largest and most recent volcano in the Auckland Volcanic Field also resonates with the memory of an excessively dramatic volcanic eruption. An association that is particularly vivid this week, as the power of Matua te Mana; the ancestral mountain Ruapehu, has erupted once more.
+
+As I return my gaze to Rangitoto I think too, of how it is distinguished as giving life to the most beautiful and largest remaining pohutukawa forests in this land.
+
+Rangitoto, is therefore, an entirely appropriate place to locate this International Adult Literacy Conference.
+
+My hope is that by the end of this hui, you will have:
+
+\- embraced the rich battleground of intellectual challenge;
+
+\- exploded with the volcanic energy of new ideas and
+
+\- created solutions that will blossom and thrive when your return home.
+
+Such can be the power of “And”.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The power to connect, the power of our worlds uniting; being ready to engage and create a moment to share is, what I hope, will be the ultimate outcome of a conference like this.
+
+When I was asked to speak on the power of ‘AND’, at first I thought it might be a joke.
+
+Would the follow-up conference be the power of BUT?
+
+As I searched Uncle Google, I realised, however, that there was a whole body of work around ‘the Power of And’.
+
+How about a PhD thesis from a Japanese scholar analysing the power of ‘and’ in the works of Katherine Mansfield?
+
+There’s even a Coaches Training Institute in San Rafael in California, who have trademarked ‘the power of And’.
+
+Then I suddenly realised, where some of my difficulty lay. In te reo Maori, we do not have just one word to replace and.
+
+\- Raua ko means that person AND that person
+
+\- Ratou ko means that group AND other/s
+
+\- Maua ko means me AND one other
+
+\- Matou ko means us (group) AND other
+
+\- Korua ko means you two AND other
+
+\- Or there’s many other forms of AND – a, mea, hoki, ma, me, aha and ko.
+
+  
+It seems a whole lot more complex than one three letter word.
+
+But why should I be surprised?
+
+Our world, te Ao Maori, is constructed around the power of connecting.
+
+The act of connecting to say, the volcano Rangitoto or to the history of that land is something I do on a regular basis.
+
+Ko wai koe? No hea koe? From whose waters (birth waters) are you? Where are you from – is our most common approach to life – signalling our interest in understanding and associating to the world you inhabit.
+
+The most important connection I can make to any other is that which comes by virtue of my whakapapa as Ngai Te Kikiri o te Rangi and Ngāti Pahauwera of Ngāti Kahungunu of Hawkes Bay.
+
+Whilst other connections may emerge from work, from lifestyle activities; from mutual friends, it is the blood link of my ancestry that I believe creates enduring connections.
+
+Every hui, every encounter is based on the initial rituals that make explicit our mutual relationships – whether it be through genealogical linkages or whakapapa – or a more recent history.
+
+Indeed, such skills are particularly valued at our tangihanga, to be able to create a connection between the recently deceased and those coming to pay their respects. I am always in awe of the immense capability of our people to trace through generations of descent in search of a shared eponymous ancestor.
+
+This intellectual recall, the attention to genealogical detail, is nurtured in the heartfelt pursuit of bringing people together. It is a very inclusive approach, in which success is measured by that sense of kotahitanga, the unity and purpose that is achieved by the connections being made explicit.
+
+It is a quite marked contrast to the practices often followed by my Pakeha ancestry, where the emphasis in describing genealogy is often highly technical – we may refer to a second cousin, thrice removed as being only a distant relative and in all probability only related to my dad, not to me!!
+
+Or perhaps in the case of blended families, we may be categorised as steps, or halves, or foster children, or my partner’s daughter – the emphasis being on separating out the relationship from each other rather than bringing the connections closer together.
+
+I say this not to criticise – because in doing so I would be criticising myself as well – but more to observe the differences that I have observed in the value and application of family ancestry. Our common connection as Maori and Pakeha is the value we ascribe to family history – the difference lies in the way we apply it.
+
+So how does all this link to adult literacy?
+
+I want to share some thoughts from Wally Penetito, of Tainui descent, who has described a view on how Maori define literacy in the report, Te Kawai Ora, and I quote:
+
+“Literacy in Maori terms should include the ability to read and write in both Maori and English, ie bi-literacy, and be able to use that ability competently, ie to be functionally bi-literate in Maori and English.
+
+Being literate in Maori should also include having the capacity to read the geography of the land, ie to be able to name the main land features of one’s environment (the mountains, rivers, lakes, creeks, bluffs, valleys etc), being able to recite one’s tribal/hapu boundaries and be able to point them out on a map if not in actuality as well as the key features of adjacent tribal / hapu boundaries and being able to read Maori symbols such as carvings, tukutuku, kowhaiwhai and their context within the wharenui (poupou, heke etc) and the marae (atea, arongo etc).
+
+I’m not sure, but even the ability to read body language (paralinguistics) should not be outside the scope of a definition of literacy in Maori terms”.
+
+I would suggest that the face of literacy described by Wally Penetito might well be shared amongst other indigenous peoples of other lands.
+
+I understand, for instance, that in the consciousness of Aboriginality, there is a concept called ‘awelye’ – the inter-relationships of everything, skin, earth, language –something that no doubt the Australian participants at this conference will know more of than me.
+
+The richness of this interpretation is, however, absent from much of the written material that describes indigenous literacy. I read:
+
+\- 44% of indigenous Australians have low literacy levels in standard Australian English;
+
+\- the majority of Maori, Pacific Islands people and those from other ethnic minority groups are functioning below the level of competence in literacy required to effectively meet the demands of every day life.
+
+And so I wonder how it is that these classifications – “low; below the level of competence; not making the standard grades” – bear any relationship to my understanding of literacy in reading the world AND reading the word.
+
+I wonder - is it a case of if we change the way we look at things - the things we look at will change?
+
+If we look for the strengths in each other we may find levels of literacy in indigenous knowledge that can provide a strong base for other learning to be acquired.
+
+We may find that those who we categorise as being below par on one scale, can read the signs of the natural world in a way which may be graded as exceptional.
+
+This is all by way of a very long introduction to the context of initiatives which have transformed learning in the Māori renaissance.
+
+Initiatives which draw on traditional Maori knowledge and philosophies to guide our kohanga reo, kura kaupapa Maori, wharekura, whare wananga, te mea, te mea, te mea (another way of saying AND!).
+
+The concept of connection is central to the modes of delivery, the curriculum, the structures of the institutions in which such learning is found.
+
+The whanau model is pivotal to our success in kaupapa Maori initiatives. The teachers at our kura are called Whaea (Mum) or Papa (Dad) or similar such familial terms – the whanau are actively called on for guiding and imparting the curriculum, for administration and management decisions, for sleepovers, for cultural trips.
+
+The tuakana/teina model – loosely translated as older brother/sister; younger brother/sister – combines the wisdom and experience of the tuakana with the enthusiasm and energy of the teina. The learning is reciprocal – the strength built in the relationship being of inherent value as much as the individual growth.
+
+Adult literacy programmes which build on these broader cultural values will enable the learners to not only function fully as citizens, but importantly who are also critically literate in their history and their world.
+
+The Western views of literacy - while important in their own right - must also connect with traditional, cultural and social values if we are to achieve both individual and collective aspirations.
+
+It is the importance of these relationships - the dance between worlds - that motivated us to establish Hoani Waititi marae based on the premise that Māori may flourish as Māori.
+
+Our intention, some twenty years ago when we founded the first kura kaupapa Māori in the world, was to build on the successes that our babies had experienced at kohanga reo, by creating a total immersion Māori language primary school programme and eventually whare kura.
+
+This led to Te Toi Huarewa o Hoani Waititi - a private training establishment based at the marae.
+
+It is a tertiary programme with open entry for adult students and young people to participate in te reo me ona tikanga; in education about the treasures of our culture as well as upholding the vision of both partners of the Treaty.
+
+Literacy for our adult education programmes at Hoani Waititi is exactly how Wally Penetito described it: it’s about being competent in naming your maunga, your awa, you moana, your whenua – your land and environment. It is about being functionally literate in the history of your people – knowing the waiata, the moteatea, the haka, the stories, the songs, the chants, the prayers that have been passed down over time.
+
+Literacy for our adult education courses is about knowing the rich diversity of your ancestry, your artistry, your symbols, your tribal knowledge – the unique pathway through which you traverse.
+
+Not for us the rigid choices of this or that; your way or mine; black or white; right or wrong.
+
+As our global connectivity increases, we need to look into the worlds we share, close to hand - to learn, understand, and ultimately relate to each other.
+
+Achieving literacy and indeed biliteracy, will come from travelling multiple pathways of which Māori realities will be as diverse as the other cultures and populations who will be travelling on many other pathways of their own.
+
+Literacy programmes which bring together literacy and numeracy skills with Māori world views, with mātauranga Māori, kaupapa Māori, the experiences and methodologies familiar to whānau, hapū and iwi will connect far more meaningfully and effectively with Māori students.
+
+Literacy for life is all about the power of And.
+
+Finally, I think of two incidents which have captivated the hearts and minds of New Zealanders. The first is the story of a little girl who in the midst of a gruesome murder has lost her mother; the second is the story of a whānau who protested outside the Sydney Coroner’s Court, seeking the return of the body of their son, with all of his body parts intact including his brain taken without consent.
+
+In the first story, the grandmother of the little girl, Lui Xiao Ping, has called also for the return of her daughter to China, saying only that fallen leaves return to their roots.
+
+In that one statement we can read a conversation, a shared philosophy of not just two families - but our two cultures.
+
+In Māori world views, the spiritual, symbolic and sacred links between the land and the people - tangata whenua - literally people of the land, requires that when we die, our bodies return to the land of our birthplace - fallen leaves return to their roots.
+
+Chinese and Māori; Aotearoa and Australia; indigenous and later arrivals - these connections weave the rich fabric of our nationhood.
+
+Reading the word; reading the world; being the world is all about celebrating the connections between each other.
+
+The ancient wisdoms of such connecting are reflected in the words of a well-known whakatauaki which I believe reflects not only the over-riding theme of this conference; but also my dream for Aotearoa
+
+‘Nau te rourou, naku te rourou, ka ora te Manuhiri’ –
+
+from your food basket and from mine,
+
+the wellbeing of the people will be assured.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

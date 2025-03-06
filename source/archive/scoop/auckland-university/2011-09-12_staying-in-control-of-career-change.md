@@ -1,0 +1,92 @@
+---
+slug: staying-in-control-of-career-change
+title: "Staying in control of career change"
+date: 2011-09-12
+source-url: https://www.scoop.co.nz/stories/BU1109/S00349/staying-in-control-of-career-change.htm
+author: auckland-university
+---
+Staying in control of career change
+===================================
+
+**Monday, 12 September 2011, 3:46 pm**  
+**Article: [Auckland University](https://info.scoop.co.nz/Auckland_University)**
+
+### Staying in control of career change
+
+Denice Bennett-Rae doesn’t fluff around.  
+The chartered accountant was the financial controller for a US$35 billion international corporate when she promptly decided to take on a University of Auckland MBA.
+
+Then nearing the end of study, she made a calculated move that will see her career journey less likely to end in a corner office, and more likely to seriously contribute to the success of SMEs in New Zealand.
+
+You could say fluff has now become the stock and trade of Bennettt-Rae, a 43-year-old true-blue Aucklander. She is now chief financial officer of Bay of Plenty not-for-profit Energy Options, a 2009 Deloitte fast-50 listed, award-winning company that aims to create healthier, insulated homes while being kind to the environment. Its turnover has increased 170 per cent in the past few years.
+
+Bennett-Rae says a not-for-profit like Energy Options needs to operate in the same way as any SME – make a surplus to survive through smart-thinking and witty problem-solving.
+
+“It’s vital that business processes keep up with growth. And in an SME or not-for-profit, you have to be more of an all-rounder. You get the latitude you wouldn’t elsewhere.”
+
+Personal growth, along with growth in business nous, is something she says comes with the MBA territory.
+
+Her move to Energy Options also meant a move to Whakatane, where wine and food appreciation opportunities are limited, but there is, thankfully, Ceroc dancing. And the opportunity for Bennett-Rae’s other hobby, study, can be sought anywhere. She’s thinking about building on her MBA with a PhD.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+She chose the MBA because, as an accountant, Bennett-Rae didn’t want to do a master of finance.
+
+“I wanted something that would give me a broader business base.”  
+In her role at the time, the company’s managing director had left - twice.
+
+“I’d stepped up to fill the breach. And I thought, ‘I can do this’, but didn’t want to be boxed into being the ‘finance person’.”
+
+So she began MBA study in 2008. She wanted to become a CFO. Then the MBA happened. She wanted to become a CEO. Goals began to shift.  
+The well-defined parameters of the course suited Bennett-Rae’s no-nonsense approach.
+
+“It was lockstep. It started and it finished. It would be fair to say that my initial goal was simply to have the MBA. But I quickly worked out there were some valuable group experiences to have along the way.”
+
+The unique strengths of the MBA group were just as important as the content of the course.
+
+“It was really energizing and kind of neat to be in an environment with similar people who were there to achieve the same goals and outcomes.”
+
+“I think any one of us we would say the same - we gained as much, if not more from the others in the cohort than the lecturers standing up in front of us.”
+
+Bennett-Rae says she and her fellow students think their bunch is “pretty special.”
+
+And of course they insist they’re an unequalled brains trust - the MBA attracts very competitive individuals. It’s just that after a while, they stop competing with each other, and tend to start competing as a group.
+
+“That’s probably best demonstrated by my marks - I had a string of A+ marks in the first year and slightly less in the latter part of the second year.”
+
+That’s when study took on a more holistic aspect. The brains trust was without brain food during Saturday study. So she organized catering, Bennett-Rae’s own husband deployed to fetch and deliver.  
+“That one thing made the lecturers say we were an entrepreneurial and tight group.”
+
+The cohort was operating in an environment where friendships and networks were made for life.
+
+“The University of Auckland MBA has broadened my thinking, added to my thinking and solidified my thinking on where I want my career to go.”
+
+“Working for someone else is not going to be enough. Before, I would’ve been quite happy to for the rest of my life.”
+
+Bennett-Rae was headed for a big chair in the corner office. Now she wants to influence, wants a ‘place at the table’.  
+“I’ve considered pursuing independent directorships, going into governance. Or setting up a consultancy for growing SMEs.”
+
+_The University of Auckland Executive Master of Business Administration (MBA) has intakes in January and June each year, and welcomes applications from SME leaders. Find out more at  
+www.gse.auckland.ac.nz._
+
+\- Tracey Cameron  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Auckland University](https://info.scoop.co.nz/Auckland_University) on InfoPages.

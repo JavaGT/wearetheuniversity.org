@@ -1,0 +1,89 @@
+---
+slug: www-mccully-co-nz-the-smear-merchants-from-hell
+title: "www.mccully.co.nz - The Smear Merchants from Hell"
+date: 2008-10-31
+source-url: https://www.scoop.co.nz/stories/PA0810/S00689/wwwmccullyconz-the-smear-merchants-from-hell.htm
+author: new-zealand-national-party
+---
+www.mccully.co.nz - The Smear Merchants from Hell
+=================================================
+
+**Friday, 31 October 2008, 12:39 pm**  
+**Column: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+### www.mccully.co.nz - 31 October 2008
+
+**_A Weekly Report from the Keyboard of Murray McCully_**
+
+**_MP for East Coast Bays_**
+
+**_**The Smear Merchants from Hell  
+**_**
+
+**_The world's stock markets have been in free-fall. Some of the world's biggest banks have disappeared and others have sought refuge in mergers, rescue plans and even nationalisation. A wave of mass redundancies has started to ripple across the globe. At home banks, businesses and employees are increasingly apprehensive about their immediate prospects. So surely our government must have every available ounce of energy and focus on the serious task at hand._**
+
+**_Apparently not. Clearly sanctioned by Clark and Cullen, the Labour Party president, half the Cabinet and the entire taxpayer-funded Labour research unit have devoted the most important week of the whole election campaign to digging around Australia for material with which to conduct one last smear campaign against John Key. In any ordinary campaign this would be pathetic. Against the background of the worst economic crisis the world has seen in eighty years, it is disgraceful. Demeaning. Sickening. But deeply, deeply symbolic._**
+
+**_These people have truly lost the plot. For nine long years they have had the massive advantage that is conferred by incumbency. Thirty people with ministerial warrants, large staff's, a vast army of public servants there to advise and assist, and even flash new BMWs to emphasise the point. They have had, courtesy of the best international economic times in many decades, the cruisiest ride of any government ever. And at the very time the nation needs them to knuckle down and focus on some serious issues, their response is to embark on an international dirt-digging crusade._**
+
+**_
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+
+
+
+
+
+
+_**
+
+**_The symbolism could not be more stark. The Clark Cullen Government no longer feels that it needs to earn the right to govern, even in these times of serious adversity. They now hold office with of a sense of entitlement, not service. And their actions this week ultimately speak of the deep contempt they have for the public they were elected to serve. How fortunate it is that in eight days time that public will have the welcome opportunity to return the compliment.
+
+**The Ultimate Crony**
+
+How very strange it was that Labour Party President Mike Williams was able to free up the most important week of the election campaign to undertake his trans-Tasman dirt-digging crusade. Leaving aside the small fact that party presidents are supposed to oversee their party's election campaigns, Mr Williams also felt able to neglect the many other highly remunerative responsibilities he has managed to accumulate, courtesy of his Labour Party friends in the Cabinet.
+
+At last glance, Mr Williams was spreading his not-so-obvious talents across a surprising range of government appointments. Genesis Energy paid $60,000 last year for the privilege of Mr Williams contribution to the board. He collected a further $23,000 over at GNS Science, where he has been a director since 2000. There was another $40,000 at Ontrack. So there's a cool $123,000 to keep the wolf from the door while superintending muck-raking services for the Labour Party.
+
+But there's more. Since 2000, Mr Williams has been a director of Transit NZ, for which role he was last year paid $25,000. How sad it was that the Government's restructuring of the transport sector brought an end to his eight years on the Transit payroll, as that particular body met its demise. But never fear, Mr Williams Labour mates in the Cabinet room did not overlook him when it came time to appoint directors to Transit's successor body, the NZ Transport Agency. And as good luck would have it, this new role carries an annual fee of around $35, 000.
+
+Oh, and then there's the modest addition of a directorship of the Auckland Regional Transport Authority, ARTA, where Mr Williams leftie ARC mates have decided that a further $35,000 a year is modest compensation for a man with Mr Williams connections and experience. So all up Mr. Williams appears to be doing very nicely thank you.
+
+All of which raises questions about how such a busy many, delivering selfless service to the public of New Zealand in so many different ways could possibly have torn himself away in the middle of an election campaign to go trawling through the Victorian sewers. But it does go some way to explaining the enthusiasm he must have for the re- election of a government with such a generous view of his talents.
+
+**Not a Commission of Enquiry**
+
+There was a look of sheer terror in the eyes of gang bosses in their fortresses around the country this week. The Minister of Police, Annette King had delivered the ultimate knock-out blow to gang operations in her speech to the Police Association Conference in Wellington. And this time, those gang bosses know the game is up.
+
+Early in the election campaign, Phil Goff had gained cheap headlines by pointing at recent anti-gang legislation in South Australia - clearly just a warm-up for some tough anti-gang measures later in the campaign. So gang chiefs would have been wondering just what the Police Minister would announce at the Police Association Conference in mid campaign.
+
+Would it be tougher restrictions on the wearing of gang patches? Or perhaps changes to the local body legislation to enable gang fortresses to be outlawed? Or perhaps they might get really tough: new measures giving Police easier access to guns when confronting gangs?
+
+Or maybe tasers? But no, it was much much worse.
+
+The Clark government is so worried about the lawless and anti-social behaviour of gangs that Minister King announced a Commission of Enquiry into Gangs. Really. Gang bosses will be quivering in their boots. With laughter, that is.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages._**

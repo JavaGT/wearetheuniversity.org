@@ -1,0 +1,144 @@
+---
+slug: an-opportunity-to-correct-an-historical-anomaly
+title: "An Opportunity To Correct An Historical Anomaly"
+date: 2005-06-09
+source-url: https://www.scoop.co.nz/stories/PA0506/S00160/an-opportunity-to-correct-an-historical-anomaly.htm
+author: new-zealand-first-party
+---
+An Opportunity To Correct An Historical Anomaly
+===============================================
+
+**Thursday, 9 June 2005, 8:49 am**  
+**Speech: [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party)**
+
+Winston Peters Speech
+
+  
+8 June 2005
+
+A Unique Opportunity To Correct An Historical Anomaly
+
+Madam Speaker, I move that the “Principles of the Treaty of Waitangi Deletion Bill” be now read for a first time.
+
+At the appropriate time I will seek leave for this Bill to be sent to the Justice and Electoral select committee for consideration.
+
+This Parliament should do New Zealanders an invaluable service today.
+
+When considering these so-called principles we must start from the premise that Parliament created this historical anomaly and so it is Parliament which must correct it.
+
+We must also ensure that it is clear that this is not an attack on the Treaty itself – but the insertion of the term “the Principles of the Treaty” into legislation.
+
+Now I ask at the outset, if you are intending to vote against this Bill, then please use your speech to tell this House and all New Zealanders what the definition of these so-called Principles of the Treaty are.
+
+If you cannot do this – then logic dictates that you must support this Bill. You have no other choice.
+
+This Bill seeks to do three fundamental things.
+
+The first as the Bill’s title implies is to remove all references to the undefined and divisive term “the Principles of the Treaty of Waitangi” from legislation.
+
+The second is to reverse the insidious culture of division that has grown up around the existence of these principles. It has seen Maori pitted against Maori and against non-Maori, family members against each other, and has gone right to the heart of our social fabric.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Finally it aims to put an end to the expensive and never ending litigious programme which has sprung up around these principles. This programme has diverted hundreds of million of dollars into dead-end paths and away from enlightened programmes which are the true pathway to success.
+
+How did these principles appear in legislation?
+
+It was Geoffrey Palmer who inserted them into the State Owned Enterprises Act in 1986.
+
+It was one of many failed experiments of the Fourth Labour government.
+
+Maori didn’t ask for them – nobody did, but inserted they were.
+
+One might point out the irony of Geoffrey Palmer inserting them into legislation, only to have his son Professor Mathew Palmer the Dean of Victoria University’s Law School question the very validity of their existence and their value in law.
+
+What made the inclusion of these terms in legislation worse was that they were never defined by Parliament.
+
+I have asked countless questions over the past 18 years, inside this House and outside, seeking an adequate definition of these principles and yet none has ever been forthcoming.
+
+I have gone to academics and other legal experts and still I get the same reply.
+
+There is no clear definition – only widely diverse interpretations of what they might mean in certain circumstances.
+
+The simple answer is that they have not been defined because they cannot be.
+
+This lack of definition has created legal chaos as activist judges, bureaucratic meddlers and Treaty lawyers have taken advantage of this void.
+
+It is no coincidence that almost immediately after this term was placed in legislation a protracted and expensive process of litigation was begun.
+
+It has never let up, but grown exponentially to the ludicrous situation we have today of outrageous claims to everything from airspace though to oil and gas.
+
+They have created false hope and expectations and have left far too many Maori craving a fool’s paradise which can never be a reality.
+
+Not only have these principles created a legal nonsense, their divisive nature has now permeated the entire bureaucracy.
+
+We now have Treaty specialists in every government department and requirements for every health board, school or government agency to adhere to these undefined principles.
+
+The result has been an endless stream of ad hoc programmes and policies at a cost of millions of taxpayer dollars, with no productive merit.
+
+Ask any Maori or Non-Maori what is more valuable – a course on Treaty Principles or a good job, solid education and decent housing and healthcare.
+
+That later will win every time and yet this government insists on imposing these principles upon New Zealanders.
+
+Your meant to feel guilty if you don’t sign up to their politically correct programme. Well New Zealanders are sick and tired of them and it is time this government woke up to this.
+
+This government even tried to insert them into Free Trade Agreements to make them binding on foreign countries – it is madness.
+
+These principles have also muddied the waters over legitimate claims of land alienation which do not need these so-called principles to be valid. The removal of this term will have absolutely no impact on genuine claims, in fact it will lead to them being resolved even faster as the growing body of bogus claims will be removed from the system – unlocking time and resources for legitimate claims.
+
+The Treaty of Waitangi was a noble historical document aimed at forging a relationship between two diverse peoples. As the rate of inter-marriage between Maori and non-Maori seems to indicate it was actually pretty successful.
+
+This nation is not perfect – but it needs a unified future.
+
+While we have seen protest we have never witnessed the race riots other nations have.
+
+I believe that is because the relationships forged between all those who have come to these shores have historically almost always been based on a commitment to fairness and equality before the law.
+
+It wasn’t always universally applied, but I believe it has always been a part of our underlying values and culture.
+
+That was undermined by inserting these principles into legislation.
+
+The unwarranted insertion of Treaty Principles into legislation has created division where none need exist.
+
+They have created resentment where it is not necessary.
+
+The words of a Treaty speak for themselves.
+
+The way forward for Maori, just as it is for non-Maori, must be based on strong education standards, first world health, housing and social standards, real employment prospects and first world incomes.
+
+These cannot be found in fabled principles – it is time for the failed experiment to end and for this parliament to act in the interest of all New Zealanders.
+
+Why deny this Bill a select committee hearing where amendments can be made after the public has been heard.
+
+Now I ask this House again, if you intend to vote against this Bill, then please now tell this House and the public what these principles are. If you cannot do this – then help remove this festering sore from our statue books and support this Bill.
+
+If you cannot define these principles – then support this Bill.  
+If you cannot enunciate them, find words which have genuine meaning to describe them – then support this Bill.
+
+If your mind and heart cannot tell you what these principles are – then support this Bill.
+
+We cannot progress when the way forward is hazy. Let us today lift the fog which has shackled this nation for too long and support this Bill.
+
+Thank you.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party) on InfoPages.

@@ -1,0 +1,72 @@
+---
+slug: research-to-address-inequities-in-maternal-health-services-for-māori-receives-nsc-funding
+title: "Research To Address Inequities In Maternal Health Services For Māori Receives NSC Funding"
+date: 2020-05-20
+source-url: https://www.scoop.co.nz/stories/ED2005/S00052/research-to-address-inequities-in-maternal-health-services-for-maori-receives-nsc-funding.htm
+author: university-of-waikato
+---
+Research To Address Inequities In Maternal Health Services For Māori Receives NSC Funding
+=========================================================================================
+
+**Wednesday, 20 May 2020, 10:07 am**  
+**Press Release: [University of Waikato](https://info.scoop.co.nz/University_of_Waikato)**
+
+New research by the University of Waikato aims to address inequities in maternal health services for Māori by using Māori knowledge and tikanga to empower Māori families.
+
+Dr Waikaremoana Waitoki is leading the research project funded by ‘A Better Start E Tipu e Rea’ National Science Challenge, which will receive nearly $1 million over two years. Professor Wayne Cutfield is the Director of the A Better Start National Science Challenge.
+
+Dr Waitoki says Māori communities, particularly rural ones, are currently underserved and overlooked in maternal health services and funding initiatives. Many mothers and families have limited choices in the care they receive and need, and the health system has not prioritised Māori worldviews in the type of services offered.
+
+Her research will take place across three sites in Auckland, Waikato and Bay of Plenty, and takes a co-design approach to understand how Māori communities support maternal wellbeing within a mātauranga Māori worldview. The project’s name, Raranga, raranga taku takapau: hapū ora for tamariki, comes from an ancient karakia used during the birth of Tūhuruhuru the son of Hineteiwaiwa (the atua of childbirth and te whare pora – the house of weaving).
+
+Dr Waitoki says while the traditional medical model has a vital place in maternity care, it is well known that colonialization and racism has led to inequitable health outcomes and disconnections from Māori knowledge of wellbeing and maternal care. These outcomes for Māori still play a big part in the maternity experience of Māori families.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“The services are just not available for Māori and many simply don’t turn up because the traditional model doesn’t make sense or fit with them, and that model has not served our people as well as it could do.”
+
+“What these projects are attempting to do is move closer to our own Māori knowledge and Māori based approach, because we will engage more when Māori knowledge is incorporated into the model.”
+
+The project team includes: Dr Waitoki, Dr Kahu McClintock, Dr Naomi Simmonds, Prof Helen Moewaka Barnes, Dr Teah Carlson, Dr Fiona Cram, and Dr David Tipene-Leach.
+
+The project has three project sites:
+
+1\. Ngā Māmā o Ngāti Hauā – Wellbeing of mothers and whānau in Ngāti Hauā (Dr Kahu McKlintock, Te Rau Ora)
+
+2\. Ngā wai ora o Rāhui Pokeka: Creating communities for hapū ora in Huntly (Dr Waikaremoana Waitoki)
+
+3\. Te Whare Pora: Wairua and wellbeing in hapū ora (Dr Naomi Simmonds, Te Awananuiarangi, Whakatane).
+
+Project 1 is a community-based research collaboration with Te Rau Ora, a Māori workforce and development service in Hamilton, who will be working with Ngati Haua iwi health services to investigate the current use of maternity services in the Cambridge, Matamata and Morrinsville areas.
+
+Project 2 is also a community and iwi based collaboration to design maternity wellbeing initiatives in Huntly, Rahui Pokeka. Taking its name from the many lakes in Huntly, the project will work to co-design a wellbeing programme.
+
+Project 3 is located in South Auckland and Te Whare Pora in Flaxmere, which is a hauora ‘clinic’ for pregnant women staffed by weavers, rather than health professionals.
+
+Dr Waitoki said sites like Huntly currently had little access to good maternity services for Māori. There was no 24-hour medical centre and although it was only a 30-minute drive to Waikato Hospital, it had been overlooked.
+
+In the case of the weaving clinic, Waitoki’s current Marsden research shows how indigenous knowledge contributes to wellbeing.
+
+“That research shifted the idea that mental health can only be treated by a mental health professional. If there was a pathway of sitting and weaving for a year as opposed to individual psychotherapy some people would choose the weaving.”
+
+“It’s about bringing Māori world view back to how we’re managing maternity services because when you bring that world view back it provides an underlying foundation, a connection back to our unique culture and a shared understanding and base to grow our families from,” she said.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Waikato](https://info.scoop.co.nz/University_of_Waikato) on InfoPages.

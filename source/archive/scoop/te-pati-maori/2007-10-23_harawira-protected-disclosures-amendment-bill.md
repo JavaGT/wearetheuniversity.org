@@ -1,0 +1,124 @@
+---
+slug: harawira-protected-disclosures-amendment-bill
+title: "Harawira - Protected Disclosures Amendment Bill"
+date: 2007-10-23
+source-url: https://www.scoop.co.nz/stories/PA0710/S00409/harawira-protected-disclosures-amendment-bill.htm
+author: te-pati-maori
+---
+Harawira - Protected Disclosures Amendment Bill
+===============================================
+
+**Tuesday, 23 October 2007, 4:36 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Protected Disclosures Amendment Bill Hone Harawira, Member of Parliament for Te Tai Tokerau Tuesday 23 October 2007
+
+When employees, former employees, or members of an organisation are able to report misconduct - such as a violation of health and safety regulations, corruption, fraud, or any other activities which provide a direct threat to public interest, we politician types have coined a phrase making it all sound nice and legal. We call it protected disclosure.
+
+The bureaucrats like to call it whistle-blowing, because it makes them feel that what they've done is righteous and good for the country.
+
+There's another name for it of course, and that's the one that hoodlums use. They call it narking, and if you get caught doing it, you don't get any medals or nice write-ups in the paper, you get the bash.
+
+But whichever way you want to look at it, the original Protected Disclosures Act was koretake anyway; a recent review highlighting evidence of delays, inconsistencies, confusion, difficulties in using the procedures properly, a lack of communication with whistle-blowers, a lack of confidentiality, and a lack of protection of identity.
+
+Hardly the promise you want to lay out in front of those potential narks and whistleblowers you're hoping will sabotage their careers, to serve your interests. In fact, given the current flaws in this legislation, it's no wonder narking has got such a bad name.
+
+And then of course there's the question about exactly what kind of crime we're actually talking about here, because the real crime ain't that stuff plastered across the front pages of your local paper, it's the stuff that's hidden away in the pages of the business section.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Criminologist Dr Greg Newbold reckons that for every dollar stolen by blue collar criminals in this country, around forty dollars slides into middle-class pockets.
+
+Get that folks - your poncy-ass, professional, pilfering pals are taking this country for millions of dollars, while my whanaunga are filling up the jails, and you wonder why us Maori have this strange notion that the criminal justice system only works for the rich white folks!
+
+Insider trading, price fixing, illegal offshore accounts, tax avoidance, employee theft, insurance fraud, stolen or counterfeit product sales - mate, when it comes to crime, you white-collar bandits have got it sussed.
+
+And to confirm that strange Maori notion about rich, white criminals always getting the breaks, even the Serious Fraud Office's David Bradshaw reckons that the approach taken towards white-collar offending, tends toward the softly-softly method, of crime control.
+
+In his 2004 annual report, Bradshaw noted several cases that suggested white-collar criminals, were being treated more leniently than other criminals.
+
+Jonathan Krebs of the Law Society Criminal Committee was not so subtle - just last month he said that the police had a poor record of tackling white-collar fraud - instead prioritising resources towards physical crimes.
+
+You know folks - this stuff about how the white-collar crims get away while poor Polynesian crims get jailed for some rather petty bloody offences, makes me want to go out and preach in prisons:
+
+"Mend your ways all ye brownies who have fallen by the wayside. Come unto the path of righteousness, whiteness, light-fingers and fraudulence, and if thou must sin, then sin with aplomb, sin with style, and sin with a white-collar for greatest effect.
+
+Make lots and lots of money, slip a smidgen to the Lord, and sin only against the poor and the Maori, for theirs is already the kingdom of heaven when they die, so they won't mind you robbing them blind, while they live."
+
+But to bring a sense of perspective to all this, let me also say this ..
+
+While the white corporate raiders continue on their merry way, untroubled by the pathetically weak laws of this land, Maori people are being hunted down and arrested, not because of any life-threatening actions, but because of this government's kihi-kotore, sycophantic, yassum-massa, attitude to the American demand that we accept unreservedly, their definition of terrorism, justified no doubt, by some protected disclosures.
+
+Is this whole terrorism thing over-blown? Hell yes !!!
+
+TV1 flies in an expert on terrorism and protected disclosures, he looks over the facts, and he tells us that the police action is over the top, unnecessary, overkill, and that what has been identified isn't terrorism, just good old-fashioned, Kiwi activism.
+
+Ross Meurant, Auckland Task Force, Red Squad, and the MP who used protected disclosure to try to get me lynched for terrorism during his maiden speech in this very House, even he reckons that Officers were victims of their own propaganda.
+
+He says "the actions of the police are totally excessive in the extreme", and adds that "This is always the case where subjective assessment of information is peer-reviewed by one's immediate supervisor, and all persons on the police unit concerned have a self-interest, to justify their existence as 'spooks'."
+
+Meurant, compared the police actions to those of the Bush Administration invading Iraq with supposed evidence of weapons of mass destruction.
+
+Is there a threat to the stability of this nation? Hell yes !!!
+
+Here's a protected disclosure from the Justice and Electoral Select Committee where we're trying to turn back this Labour government's nasty little attempt to stack the next election to suit themselves, in the face of massive criticism from the Law Society, the Human Rights Commission and thousands of others.
+
+Is there a threat to the Prime Minister? Hell yes !!!
+
+If the polls are to be believed, John Key is hoping to put her out of business permanently, at the next election. Will I need protection for telling the world about that?
+
+Is there a threat to life? Hell yes !!!
+
+Pissing off a policeman like Stephen Wallace did, can be a very serious threat to your life !!!
+
+Are these threats from Maori serious? Hell yes !!!
+
+There is mounting frustration and anger, right across the country by Maori genuinely aggrieved by the continued loss of lands, the denial of the Treaty; and now these raids, smashing into Maori homes and terrorising Maori communities. Of course Maori are bloody angry. Why wouldn't they be?
+
+But guess what folks - none of this is news. Maori have been protesting land theft for 150 years, and the state forces have always opposed them.
+
+How many times have you heard Maori say they are prepared to fight and to die for their land? For heaven's sake, Shane Jones used to talk like that before Helen Clark got him by the b..., tongue. Tariana Turia came to this House as a dedicated Maori Activist, and hasn't changed one iota. Hell - I only got in here because of a tidal wave of unrest, and an absolute rejection by Maoridom of the thieving ways of this government.
+
+So, is this terrorism threat serious? Hell yes !!!
+
+The actions of the NZ Police, who contrary to the Minister are not separate from the government, but are in fact an arm of the government, highlight: \* an ongoing ignorance of the Maori community by the NZ Police; \* a reluctance to engage Maori, but a willingness to arrest Maori; \* a refusal to allow their own Maori officers to negotiate on day-one, to save the country a million dollar surveillance operation over the next 18 months; \* and a readiness to brutalise Tühoe in exactly the same way they did 100 years ago, even using 70 armed constabulary like they did back then.
+
+The recent actions of the New Zealand Police, with the support of this Labour government, signal clearly not just to Tühoe, but to the rest of Maoridom, that hell yes !!! the terrorism of the Maori community has in fact, never, ever ended, and continues unabated in the new millennium.
+
+Mr Speaker, this Bill plans to deal with all the inefficiencies and errors in the Act by allowing the Ombudsman to provide information on the procedures that must be followed when making a disclosure, information on protection for those who make the disclosure, and guidance for those considering blowing the whistle on their mates.
+
+Which is great of course, but in terms of protected disclosure, what protection would there be for those of us in the Maori Party, who are required to advise our electorates that the Labour Party's Maori MPs, including Parekura Horomia, Nanaia Mahuta, Mahara Okeroa, Mita Ririnui, Dover Samuels, Dave Hereora, and Shane Jones, voted to delete "the Treaty of Waitangi and its principles" from all legislation?
+
+In terms of protected disclosure, what protection is there for those of us, who have to blow the whistle on those same Labour Maori MPs, for going along with this government's decision to cancel Manaaki Tauira?
+
+Mind you, when you think about it, maybe it's Parekura Horomia, Nanaia Mahuta, Mahara Okeroa, Mita Ririnui, Dover Samuels, Dave Hereora, and Shane Jones who will need the protection when their people find out, that they sat by and said nothing when their own government, decided to take the Treaty out of the curriculum.
+
+Indeed, that protection may be an absolute necessity come election time, when our people find out that those very same Labour Maori MPs - yes, you know the ones - Parekura Horomia, Nanaia Mahuta, Mahara Okeroa, Mita Ririnui, Dover Samuels, Dave Hereora, and Shane Jones, also opposed the Declaration on the Rights of Indigenous Peoples signed up to by 143 countries across the world, just a month ago.
+
+Mr Speaker, the Maori Party takes this opportunity to raise again, the injustice of poor people being penalised for crimes of need, while the white-collar boys continue to get away with their crimes of greed, we condemn the system of injustice which continues to brutalise and traumatise Maori communities, while those who commit crimes against the whole of society, don't just get more lenient treatment, some even get knighthoods for their acts of financial piracy, and destruction of whole communities.
+
+Mr Speaker, the Maori Party also takes this opportunity to offer their support to all those communities and families brutalised by the New Zealand Police over the past week, and to signal our opposition to the state terrorism campaign currently being waged against the people of Tühoe.
+
+And we call on those Maori police officers to use the rights outlined under this Protected Disclosures Bill, to blow the whistle on their superiors for their misconduct; for violating the health, safety and well-being of the people of Tühoe; for fraudulently raising the alarm by screaming terrorism without having the facts; and for providing a direct threat to the public interest by allowing state forces to kick down doors, smash windows, abuse innocent citizens, and terrorise children.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

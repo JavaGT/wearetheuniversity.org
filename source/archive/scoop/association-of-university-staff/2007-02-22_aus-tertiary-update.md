@@ -1,0 +1,118 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2007-02-22
+source-url: https://www.scoop.co.nz/stories/ED0702/S00081/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 22 February 2007, 12:16 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Government and UCOL at odds over glass course  
+The Government and UCOL appear at odds over requests for funding to save UCOL’s Diploma in Glass Design and Production programme, with the result that a private training establishment (PTE) is now to be set up to take over the course. It means that, despite the Government’s Tertiary Education Strategy, the publicly funded course, which is the only one of its type in New Zealand, will move from public to private provision  
+In response to a request for information, the Tertiary Education Commission has told Tertiary Update that TEC was not approached with a request to save year one of the glass programme, but that the Commission has been involved in discussion throughout the last twelve months to secure funding to support quality tertiary-education provision in Wanganui. A spokesperson for the TEC has said that Quality Reinvestment Fund money has been approved for the institution, and that the first payment was made in December 2006, but that support for the Diploma of Glass was not part of the UCOL submission.  
+UCOL Chief Executive, Paul McElroy, has, however, said that the institution approached the TEC under the Quality Reinvestment Fund specifically for assistance for the glass programme, and he added that it is deeply disappointing that public provision of this type of education is not being viably funded.  
+Mr McElroy said that UCOL found itself in a position where it could no longer fund the programme and, consequently, if a PTE could potentially access funding that a public institution could not, then they would support this occurring.  
+The Quality Reinvestment Fund was set up by the Government in 2005 to support and strengthen regional provision and to shift funding to assist high-quality courses that are good value for taxpayers and students. The fund, of $177.8 million, was significantly under-subscribed last year.  
+In the last few weeks, a curious saga has unfolded in which UCOL announced that it was to cancel this year’s intake for the course at its Whanganui campus just days before it was due to get under way. That led to Wanganui Mayor, Michael Laws, putting together a rescue package involving the City Council underwriting a shortfall of about $35,000 a year from City Endowment funds and a donation of around $85,000 a year worth of gas by Wanganui Gas until 2008. It is expected that the PTE will now run the course from the existing public facility at UCOL's Whanganui campus.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. University MECA ballot to start Monday  
+2\. TEC directors now in place  
+3\. Decline expected in international enrolments  
+4\. New funding for projects between tertiary sector and business  
+5\. Former PM elected Chancellor  
+6\. Ban “nobbles” free speech  
+7\. Public concern over university privatisation  
+8\. University taken to court over breaches of employment agreement  
+9\. Course designed to improve graveside manner
+
+University MECA ballot to start Monday  
+Union members at seven universities will begin voting on Monday to determine whether, again this year, to vote to initiate bargaining with the universities for national multi-employer collective agreements. One national agreement is being proposed for academic staff and another for general staff. Union members at AUT will decide by the end of today whether to participate in the ballot. If they do, it will mean all eight of the country’s universities are likely to be involved in the bargaining.  
+At a series of meetings which finished yesterday, union members at universities supported a resolution endorsing the broad thrust of the unions’ approach towards national bargaining and the tripartite process involving the Government, vice-chancellors and unions representing university staff.  
+Association of University Staff (AUS) National President, Professor Nigel Haworth, said that academic and general staff would be separately balloted to determine whether to be a part of the national negotiation process. Participation would be determined on a sector-by-sector basis at each of the universities. He said that, if the postal ballot endorsed the unions’ recommendation, it was expected that bargaining would be initiated in early April and the actual negotiation process would commence in early May. Union members should receive voting papers and allied information early next week.  
+Professor Haworth said that union members would decide on the claims for negotiations at meetings to be held in March and April, but he expected that salaries and workforce development, particularly for general staff, would be identified as central issues.  
+Alongside the bargaining process, tripartite discussions are scheduled to commence on 15 March, with Professor Haworth pointing out that last year’s discussions resulted in $26 million of new funding from the Government providing in salary increases of between 4 and 7.5 percent. “The tripartite process delivered tangible results last year, and it is important that we keep the momentum going in terms of dealing with salary and funding issues,” he said.  
+The current collective agreements at each of the universities expire on 31 May.
+
+TEC directors now in place  
+Key senior leadership positions in the restructured Tertiary Education Commission have been filled with the announcement on Monday of the rest of the directors comprising the senior management team. The full management team is Janice Shiner, Chief Executive, Colin Webb, Deputy Chief Executive and Chief Advisor, Susan Shipley, Director of Policy Advice and Government Services, David Nicholson, Director of Tertiary Network, Carolyn Murphy, Director of Tertiary Providers and Service Centre, Barbara Tebbs, Director of Stakeholder Engagement and Investment Guidance, Pauline Barnes, Director of Strategic Services and Geoff Williamson, Director of Corporate Services.  
+In announcing the team, Ms Shiner said she was heartened by the number of excellent internal and external candidates with such a strong commitment to tertiary education and the goals of the tertiary-education reforms. “I am confident the balance and the complementary mix of experience and expertise in the new team will provide the TEC with the strategic strength, leadership and energy it needs to implement the reforms,” she said. “TEC directors have pivotal roles to play as we begin to implement the tertiary-education reforms over the coming months. They will also play vital internal roles as transition to the newly structured TEC continues.”  
+In order to be able to fulfil its new functions under the reforms, the TEC is realigning its resources and a new structure will be fully in place by 1 July 2007.  
+Announcements on appointments to the other new, key, senior roles of Stakeholder Engagement Managers and Investment Managers are expected by the end of March.
+
+Decline expected in international enrolments  
+Universities and polytechnics have mixed expectations of this year’s international enrolments with many forecasting slight decreases, according to the lead story in the current edition of Education Review.  
+University spokespeople said they expected a decline in undergraduate numbers compared with last year, mainly due to the drop in Chinese numbers impacting on the sector. They said there had been a drop in each of the last three years, but this year would be the last year they would see the “pipeline effect” of students who first enrolled during the huge boom in Chinese student numbers in 2003. That effect had disguised a significant drop in student numbers after an unprecedented 60 percent growth in the university sector.  
+Trends in the sector, however, include an increase in postgraduate enrolments, partly due to government scholarships allowing PhD students to study at domestic-student-fee rates, and what institutions called a steady inflow of students from other parts of Asia, particularly India, Japan and South Korea.  
+In addition, short-term student exchanges, mainly from the United States and Europe, were increasing, with European students noticeably on the rise in some institutions.  
+Spokespeople for five universities spoken to by Education Review report an overall decline in international students expected this year, Waikato predicts its numbers will remain at around the same level  
+Those polytechnics report an increase in students from South Korea, China, India, the Pacific and Russia and a decline in numbers coming from China.  
+Earlier in the year, the Government announced that universities could expect applications from at least 350 Saudi Arabian students in 2007 as a result of the expansion of the Saudi Government’s scholarships programme.  
+The full story can be read on the Education Review subscriber-based website at:  
+www.educationreview.co.nz
+
+New funding for projects between tertiary sector and business  
+The Tertiary Education Commission has awarded $6.6 million to eleven new tertiary-education, sector-based projects in the areas of biotechnology, design and information and communications technology. The projects are funded through the TEC’s Growth and Innovation Pilot Initiatives.  
+TEC Deputy Chief Executive, Dr Colin Webb, said that the new funding is for projects that build capability and strengthen partnerships between tertiary-education organisations and business and help bring cutting-edge ideas to the commercial world.  
+Included among the projects are $1 million for the Waikato Institute of Technology to develop an AgBiotech Innovators’ Academy and $1.19 million for Unitec for a project known as “the Hothouse” that aims to develop a community of design innovation.  
+In announcing the new projects, Dr Webb said that, by working together, tertiary-education organisations and business can find innovative ways of creating value and harnessing new technologies to improve economic performance. “Stronger ties ensure that tertiary teaching and research are responsive to business needs and that business can access the knowledge and expertise in the tertiary sector,” he said.  
+Meanwhile, Prime Minister Helen Clark has announced a capital grant of $10 million to support the Australia and New Zealand School of Government and the Victoria University of Wellington School of Government. Miss Clark said that, in 2001, New Zealand agreed to support the joint Australia and New Zealand School of Government (ANZSOG). The School provides high-quality education and professional development for senior trans-Tasman public servants.  
+$6 million of the capital grant will go the ANZSOG. The $4 million balance will go to the Victoria School of Government.
+
+Former PM elected Chancellor  
+Former Prime Minister Jim Bolger has been elected as the new Chancellor of the University of Waikato, apparently on the same day he was co-opted on to the University Council. His appointment is for an initial one-year term.  
+The Vice-Chancellor, Professor Roy Crawford, said that the appointment of Jim Bolger as Chancellor was a historic moment for the University of Waikato. “By taking up this role, Jim brings new national and international dimensions to the University at a time when universities must benchmark themselves against the best in the world so we can serve New Zealand effectively,” he said. “His leadership qualities and international standing will make him an excellent ambassador for the University.”  
+Mr Bolger said he felt very privileged to be elected as the new Chancellor of the University and to have an opportunity to contribute to twenty-first-century education. “I’m impressed with the exciting new initiatives at the University, its vision and strategy for the future,” he said. “Students have excellent study choices at Waikato and top appointments are being made to academic posts. We’ve also seen some real successes through WaikatoLink, the University’s commercial arm.”
+
+Worldwatch  
+Ban “nobbles” free speech  
+A number of universities in the Australian state of New South Wales have refused requests by student and staff union groups to hire stalls or space during orientation weeks, leading to allegations that they are trying to nobble free speech. Reasons given by university management for the refusals include their view that such activities are in breach of industrial “Work Choice” legislation or university-funding requirements.  
+The National Tertiary Education Union says the refusal is a basic denial of free speech and public debate on issues of paramount interest to the community and to students and is a blatant form of discrimination against staff and students who are also union members.  
+Dr Stuart Rosewarne, NTEU State President, said that he was horrified that universities, hitherto bastions of free speech, open enquiry, and academic freedom, would deny staff and students the ability to inform the public on issues of major concern. He described these universities’ actions as “spineless kowtowing in the face of presumed Federal Government threats to withhold university funding”. “The bans highlight another way in which university managements have been drawn into the service of the Howard Government’s attacks on unions and unionism,” he said.
+
+Public concern over university privatisation  
+The increased privatisation of universities in the United Kingdom would lead to falling standards and harm Britain's international reputation, according to a poll released this week by the University and College Union (UCU). A YouGov survey polled more than 2,300 people, asking them for their views on the impact of using private companies to provide tuition to university students.  
+Asked about the impact of using private provision instead of university teachers, almost half of the respondents to the poll said they believed university standards would fall and 59 percent thought that Britain’s higher-education reputation abroad would be harmed. The general public was also against any further involvement of private firms in universities, the survey said. One in six said they would like to see an increase in the role of the private sector in universities, while more than a third called for a decrease.  
+The UCU has expressed concerned about the quality of education and the impact on the terms and conditions of employment of staff where private companies have been brought into public institutions to provide tuition. Cited are instances where private companies providing academic services have tried to recruit less-qualified staff for lower pay.  
+The Union has written to all vice-chancellors and principals demanding an end to privatisation of key university functions. It has also called on the employers’ groups, Universities UK and the University and College Employers' Association, to back its call for the end of privatisation.
+
+University taken to court over breaches of employment agreement  
+Australia’s National Tertiary Education Union has served Federal Court papers alleging serious breaches by the University of its collective employment agreement on Victoria University in response to what the Union sees as a continuing and deliberate campaign to obstruct the settlement of disputes at the University.  
+All collective agreements in Australian universities set out procedures about how the agreement should be applied to settle disputes but, according the NTEU, the University has thumbed its nose at the Union by refusing to meet or consult over plans to cut staff numbers and make changes to the way in which workloads are allocated.  
+NTEU Victorian Division Secretary, Matthew McGowan, said that the University had refused to respond to the concerns of staff and used spurious technical points to prevent progress in settling disputes. “It seems that Victoria University is flouting the dispute-settling procedures to avoid matters being dealt with in a timely manner,” he said. “Among other things, the University has claimed that the President of the NTEU Branch, an employee of the University, has no interest or standing to bring a dispute about the University’s failure to properly apply its academic-workload provisions. This is not only obviously spurious, it has led to the University acting illegally.”  
+Victoria University faces fines of up to $99,000 if it is found to have breached the collective agreement.
+
+Course designed to improve graveside manner  
+Bath University in the United Kingdom could soon be offering a foundation degree for funeral directors after signing a £150,000 deal with the National Association of Funeral Directors (NAFD). The collaboration is expected to lead to the sector’s first standardised professional qualification.  
+A University spokesperson, Dr Glennys Howarth, said there had been a cultural revolution in the way we view death which had sparked greater academic interest in the subject. She added that there was growing interest in the subject resulting from increased coverage in the media, both in the news and with TV programmes such as Desperate Housewives and Six Feet Under. “This collaboration will be mutually beneficial. Partnerships between academia and business will enrich our research and understanding of the field while providing opportunities for educational and policy developments for our partners in the NAFD,” said Dr Howarth.  
+From The Times Higher Education Supplement
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

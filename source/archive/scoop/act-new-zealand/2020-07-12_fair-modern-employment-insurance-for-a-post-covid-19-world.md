@@ -1,0 +1,73 @@
+---
+slug: fair-modern-employment-insurance-for-a-post-covid-19-world
+title: "Fair, Modern Employment Insurance For A Post-Covid-19 World"
+date: 2020-07-12
+source-url: https://www.scoop.co.nz/stories/PO2007/S00163/fair-modern-employment-insurance-for-a-post-covid-19-world.htm
+author: act-new-zealand
+---
+Fair, Modern Employment Insurance For A Post-Covid-19 World
+===========================================================
+
+**Sunday, 12 July 2020, 4:36 pm**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+“This election and Covid-19 present New Zealanders with an opportunity to change their future and create a fair, modern employment insurance scheme,” says ACT’s Employment Spokesperson, and third-ranked candidate, Nicole McKee.
+
+“Covid-19 has revealed a serious and growing issue. New Zealanders who have paid high taxes for years are being laid-off and made redundant but finding they get little back in benefits.
+
+“A Kiwi on the average wage of $69,000 paid $13,720 in tax last year, or $264 per week. Instead of taking home just over a thousand dollars a week, they’re entitled to a weekly base rate of just $251.
+
+“A married couple with two primary school children in a high-cost housing area find they receive a maximum of $733 per week, about the same as one parent earning the minimum wage full-time.
+
+“New Zealanders in genuine, short-term need also face the stigma associated with welfare created by long-term beneficiaries who have made it a lifestyle choice.
+
+“Short-term job loss is likely to become a feature of modern life as work becomes more fragmented and people move in and out of jobs more frequently.
+
+“Our welfare system is due for a serious overhaul. It imposes a one-size-fits-all solution that works for no-one. It fails people trapped in long-term dependency. It fails workers who pay generously into a scheme that does not support them adequately if they unexpectedly lose their job. It fails to address the realities of a modern economy.
+
+ACT is proposing a fair, modern employment insurance scheme:
+------------------------------------------------------------
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+• Income tax rates remain unchanged but 0.55 percent of the tax paid would be allocated to a ring-fenced employment insurance fund.
+
+• On the loss of employment, a taxpayer can claim 55 percent of their average weekly earnings over the previous 52 (or fewer) weeks. The maximum yearly payable amount is $60,000.
+
+• Insurance can only be claimed for one week for each five weeks the person has worked, up to a maximum of 26 weeks per claim. Someone who has worked continuously for only one year could claim up to ten weeks’ employment insurance.
+
+• Once a recipient has used up their employment insurance entitlement, they can move to Jobseeker Support and Electronic Income Management would apply. (Under Electronic Income Management, a benefit is issued on an electronic card and restrictions on alcohol, gambling, and tobacco expenditure apply.)
+
+• Over time, the government would adjust the 0.55 percent levy so that the fund balances out over a four-year cycle. In a high unemployment year, the levy would increase. In a low unemployment year, taxpayers would benefit from a levy reduction.
+
+• Those receiving employment insurance would be expected to look for work and report fortnightly on their preparedness to work and job application activity. In practice, recipients would want to get back to work instead of remaining on 55 per cent of their previous income.
+
+“ACT’s employment insurance scheme would be fairer than the current system because people get paid out in proportion to what they pay in, rather than a flat benefit rate regardless of their outgoings or previous tax contributions.
+
+“It would remove the stigma associated with collecting a benefit for people out of work for a short time through no fault of their own. New Zealanders would be collecting an insurance payout from a fund they’d paid into for that very purpose.
+
+“It would suit a modern workforce in which people move in and out of jobs more frequently.
+
+“Our scheme would also be fiscally-neutral, paying for itself with automatically adjusted premiums and savings on benefits.
+
+“Our one-size-fits-all welfare system works for no-one. This election and Covid-19 present New Zealanders with an opportunity to change their future. A Party Vote for ACT is a vote for a fair, modern employment insurance scheme.”
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

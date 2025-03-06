@@ -1,0 +1,114 @@
+---
+slug: address-to-the-energy-roundtable
+title: "Address To The Energy Roundtable"
+date: 2009-10-20
+source-url: https://www.scoop.co.nz/stories/PA0910/S00256/address-to-the-energy-roundtable.htm
+author: new-zealand-labour-party
+---
+Address To The Energy Roundtable
+================================
+
+**Tuesday, 20 October 2009, 10:45 am**  
+**Press Release: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+**Address To The Energy Roundtable, Duxton Hotel Wellington, 9.45am.**
+
+The road to Copenhagen is paved with potholes, and the Government seems intent on driving us into every one of them.
+
+Far from helping the world to cap emissions, and make a commitment to do our fair share as a developed country, the Government now proposes that instead of recycling revenue from the emissions trading scheme into complementary measures to promote the transition to a low-carbon economy, we instead transfer all of those revenues to heavy emitters.
+
+What’s more, they want us to allow the heaviest emitters an opportunity to continue to increase pollution – without limit and without cost. This transfer is said to be worth $23 billion. I say “said to be worth” advisedly. That figure comes from the Minister. But little or no work appears to have been done on the specific cost – let alone the massive opportunity costs - of the Government’s current ETS proposals.
+
+Given the environmental importance of reducing our greenhouse gas pollution, and given the economic effect of an ETS, the fact that the most basic modeling for the proposed changes is unavailable, even as the amending legislation is being considered by a select committee, is shameful. But the substance of the proposed changes is worse, because it endangers the reputation of a country whose economic wellbeing depends to a large degree on being perceived as environmentally pure.
+
+What will quality and environmentally conscious American and European consumers think when they learn that we now believe in growing carbon pollution without a cap? That we believe in letting our major emitters increase pollution – and want to give them subsidies to do this for at least the next 70 years? That we actually plan to increase Government debt by another 6 to 8% of gross domestic product by 2050 to pay for this? In today’s dollars, these proposals are worth $3.5 billion – about the cost of four further rounds of tax cuts, or many thousands of new clean economy jobs.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+In business, you know that your reputation amongst your customers is everything. As a trading nation, the same goes for our country. What will our customers – the shoppers in foreign markets – think, when they find we plan not only to subsidise our biggest emitting sector, agriculture, for 70 or more years, and increase pollution without penalty or limit – but also plan to give them a holiday for another five years before they even face a carbon price, however small?
+
+What will they think when they read the comments of our Agriculture Minister, made in New Plymouth last month when The Daily News says he told a farming audience on 18 September: “The agriculture sector should not be complaining about the revised emissions trading scheme because the effects will be relatively minor”.
+
+Whom will they believe in Copenhagen? The Minister for Climate Change Issues, or the Minister for Agriculture? Can they say in one forum abroad that we are fighting climate change hard, while at home they tell our largest greenhouse gas emitters that the effects will be “relatively minor”?
+
+Whom should we believe at home when the Government says the costs of emissions pricing are to be halved for electricity and fuel users for three years – but then reveal that all taxpayers must pay the multi-billion dollar extra burden of subsidising businesses to pollute – not as usual – but even more than usual – for the next 70 years or more?
+
+The Government and Maori Party are not even agreed on what the purpose of an emissions trading scheme should be: National says it is to help us comply with our Kyoto obligations. The Maori Party says it should be about reducing emissions.
+
+The world says the climate change response is about capping and reducing emissions. If it is about reducing emissions, why would we legislate to allow emission-intensive industries to keep increasing pollution without a cap while avoiding having to pay for those extra emissions – provided their products’ carbon levels remain at standards set mainly by Australian industry? So we lower our standards, and let industry pollute up to Australian average levels before we even look at providing a marginal price incentive to reduce pollution.
+
+**Missing Figures**
+
+The process of developing the proposed emissions trading scheme changes has been so badly managed, and is so flawed, that Treasury has said that it is appalled. Treasury says the regulatory impact report, required by law, is not adequate given the nature of the changes proposed. We are apparently to change our scheme to copy aspects of Australia’s. But Australia does not yet have a scheme. Treasury worries about that.
+
+We are apparently meant to change the scheme here by passing a bill that does not yet have any detailed clauses. We should all worry about that. We are apparently meant to change a scheme which will transfer billions from taxpayers to polluters over 70 years or more, but there are no detailed figures available on this, and on who will get what and when. We should all worry about that.
+
+The Government says: don’t worry. Well I have news for them: a few of us are extremely worried, and we are doing our best to get some detail BEFORE the emissions trading law is changed. This won’t be easy. The bill proposes banning anyone from knowing which firms get free emission credits – and their value. It plans to lock in emissions subsidies to firms, even after their offshore competitors face a price on emissions – for five years after it’s decided they are no longer needed.
+
+Worse, the Bill proposes to ban farmers who want to lower their emissions from opting into the scheme. They must wait with the laggards before being rewarded for any pollution-reduction emissions on their own farms.
+
+**Process And Fate Of The Bill**
+
+So lacking in detail, and decent financial and other analysis is this rushed-together amending law, that I seriously doubt the Finance and Expenditure Committee will be able do to anything constructive with it, especially given the 4 days – it was originally to be just one before the Committee extended it – that has been allowed by the Government for public submissions.
+
+What a mighty farce it will be if the bill is reported back to the House in exactly the same regrettable state in which it has been sent to the Committee. Scores of pages of explanatory notes – and no detailed clauses dealing with the substance.
+
+How fair is this process on the taxpayer, let alone New Zealand businesses that want to know – who need to know - the detail, and make a constructive contribution? How fair is it for those who want to plan new, cleaner, investments and create new cleaner jobs? How fair is it for future generations – who’re going to be sent the bill not only for pollution-as-usual, but “pollute even more”. And even after we’ve paid more, as the Parliamentary Commissioner for the Environment told the Committee last week, we will be doing nothing to meet even our modest pollution reduction targets.
+
+The totality of the clauses to implement price caps and subsidy levels are unavailable. Nor are any clauses to implement a deal with the Maori party, which - it has now been confirmed - exists nowhere on paper. Nowhere has anything written down, not even for Cabinet. This on a reform which the Minister himself has described as being as economically significant as the introduction of GST.
+
+**Like Treatment Of Like Assets**
+
+A Treaty of Waitangi clause is apparently promised under this verbal deal with the Maori Party. In September last year, the Maori Party tried in Parliament to insert a treaty clause into the ETS that is now law. This did not just attempt to have Parliament take into account or recognise the principles of the Treaty, as other clauses in other Acts do. It sought to ENACT the Treaty.
+
+Enacting Article 2 of the Treaty would grant Maori “undisturbed possession” of their lands. Never before in our history have we done this. What would “undisturbed possession” of lands mean in the context of the ETS? What will the clause say? When will we see it? When will New Zealanders have an opportunity to make submissions on it? When can we evaluate its implications, including potentially major constitutional implications, for all of us?
+
+What we are seeing here is development of highly significant policy on the “back of the envelope”. Rushed. Without detail. Without integrity. But with every consideration of special interest.
+
+Some of you represent large emitting interests. All of our large emitters deserve protection from unfair competition from those who won’t play their part and pay a price on carbon. But how fair is it to you – really – to win such major concessions and subsidies that will never been supported by a majority of your fellow citizens, a majority of those who must pay for those concessions – and cannot last?
+
+I would rather we built a response which is fair – effective – and durable – and on which you can go to the bank.
+
+**The National Interest**
+
+The other major issue arising from the appalling management of climate change policy in the past few months is one of trusting the Government to act in the overall public interest.
+
+We know the Government changed last November. We know the new Government has a right to implement its policies. We even tried to help them. While Labour was proposing major concessions on ETS policy in an effort to reach a multi-party agreement on the ETS – because we believe long-term policy stability is essential on this issue – it is now apparent that you, the country and me were being gamed.
+
+Official documents released only on October 9, show the Minister and Cabinet decided to send ETS law changes for drafting on August 14. A month later, on September 14, having been led to believe by talks the previous week that efforts to achieve a grand coalition were very much alive, I sent a detailed Memorandum of Understanding to the Minister offering some significant concessions – including ones which would deliver millions in free credits to farmers who cut emissions before 2013. They would also have allowed for emission intensity, but with a cap.
+
+Imagine the shock for all those who yearn for long-term policy stability to hear that very afternoon, without warning, the Minister and Prime Minister emerged from Cabinet and announced scheme changes and a deal with the Maori Party. Now it has no guaranteed support from this point from the Maori Party.
+
+The only thing that is certain - should any part of it pass – is that it will be changed yet again, by a future Government, to make sure that we do cap pollution, we do smart things to reduce pollution, and we stop subsidising the biggest polluters to continue not only as normal but also to increase emissions.
+
+We have major issues affecting our future upon which we should expect our political parties to develop long term stable policy agreements. These include tax reform, and funding the future of retirement benefits and health care. New Zealanders deserve better than back of the envelope leadership on these sorts of issues.
+
+Real leadership sometimes demands doing the right thing. I believe there is a fair, positive, productive, job-rich, export-enhancing way of managing our response to climate change. For example, when we fairly protect the heaviest emitters, and fairly charge them emission units for only their excess emissions, revenue from the sale of those 51 million units will grow to $1.25 billion to $2.2 billion by 2025. As a nation we should invest that money.
+
+To grow more trees, back our innovators, improve our homes, clean up our vehicle fleet, produce more renewable power, promote our own new clean technology into export markets to earn billions and create tens of thousands of new, secure jobs.
+
+That way we will honour our own values, authentically help preserve our fragile planet –while preserving our own very special quality of life - lifting our living standards.
+
+If you are kind enough to offer me the privilege of standing before you again in 2011, I will deliver a manifesto which means we do the right and exciting things to manage climate change, which will truly benefit all New Zealanders. If you wish, I will work with you beforehand in developing it.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

@@ -1,0 +1,122 @@
+---
+slug: kerr-maori-and-business
+title: "Kerr:  Maori And Business"
+date: 2004-10-28
+source-url: https://www.scoop.co.nz/stories/BU0410/S00354/kerr-maori-and-business.htm
+author: new-zealand-business-roundtable
+---
+Kerr: Maori And Business
+========================
+
+**Thursday, 28 October 2004, 12:27 am**  
+**Speech: [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable)**
+
+Thursday 28 October 2004
+
+Te Awe: Wellington Maori Business Network Maori And Business Roger Kerr Executive Director  
+Wellington New Zealand Business Roundtable 28 October 2004
+
+MAORI AND BUSINESS
+
+Over 10 years ago, I began a speech on business and biculturalism by saying:
+
+There is a lot of good news around in Maoridom. The cultural renaissance of recent years is now well established. Constructive progress is being made with Treaty of Waitangi claims. There are exciting developments in Maori education. Maori commercial enterprises are burgeoning. And dominating all these, as I shall argue, are the prospects for Maori being ushered in by the new economy.
+
+That wasn’t an uncontroversial point of view at the time. Many people remained bitterly opposed to the economic policy changes of the Labour government in the 1980s and subsequent moves by National, such as the Employment Contracts Act. Yet with the freer labour market created by that reform, Maori unemployment which stood at 24 percent of the labour force in 1991 has fallen to 8.8 percent today, as the prime minister has recently been pointing out. (That figure, incidentally, is still far too high; reducing it requires further labour market and welfare reforms.)
+
+I don’t need to tell this audience that Maori business enterprise is flourishing. Te Awe, of which I am proud to be a member, reflects the modern face of Maori business and professional endeavour. Some research has suggested that in recent years more Maori, as a percentage of the working age population, have started new businesses than non-Maori, and that Maori have been creating firms at a faster rate than the overall firm-creation rate in Australia, the United Kingdom and the United States.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+There should be no surprise in this. The story of how Maori quickly adopted the skills, technology and connections with external markets that the early British settlers brought with them is well known. There is nothing inherent in being Maori that is inimical to enterprise and commercial endeavour. As minister of Maori affairs Parekura Horomia told one of your breakfast meetings earlier this year, making money isn’t un-Maori, and mana and money can go together. The good thing about the new competitive economy is that making money is not about firms seeking government favours but about providing goods and services that fellow New Zealanders and foreigners value and freely choose to buy.
+
+Maori commercial achievement extends to the highest levels of New Zealand business. I remember remarking to a group of Business Roundtable members during a coffee break at one of our meetings that we’d had three Maori chief executives in our ranks – I was thinking of Wayne Walden, Rob McLeod and Brett Shepherd. A quiet voice beside me said, “four, actually”. “Who’s the fourth?”, I asked. “Me”, was the response, from Ralph Norris, my chairman at the time. I had probably known Ralph for 10 years by then. He had never traded on his Maoriness; he had reached the top of New Zealand business entirely on merit. Who would want it to be any different? Yet Ralph is seriously interested in Maori advancement; he spoke to your group last year and is involved in our current Maori project, of which more later.
+
+If I am right that more talent and energy in Maoridom is being directed toward business and the private sector and less toward politics, then I think this is a healthy development. In New Zealand and around the world there has been growing disenchantment with politics and big government; declining voter turnouts are just one indicator of this trend. Governments have over-promised and under-delivered. To my mind, Maori over the years have set too much store on governments and Maori members of parliament delivering the goods for ‘their people’. We need governments to do things that only governments can do – like ensuring the provision of public goods such as defence and policing and setting the rules of the game for private enterprise – but many economic and social problems are just not amenable to political solutions.
+
+As a political minority, Maori are inherently disadvantaged in the game of politics. Politics is about numbers and voting power. It often amounts to the so-called tyranny of the majority, even though minorities may extract some special favours from the majority. Those who do best in a politicised environment are invariably people who are better off, articulate and organised in groups that carry political clout. None of this makes them more deserving than those with fewer political skills.
+
+When you think about it, there are really only three ways that people can get what they want in life: through cooperative efforts in families, clubs and voluntary associations; through the marketplace; and through politics. Of these, politics is the most complex, uncertain and often costly route. Over the years Maori have had plenty of reasons to distrust the political process and governments. Arguably, they would be better off pursuing more of their interests directly through private initiatives, whether voluntary or in the market, rather than through the political process.
+
+Interestingly, the business sector also often finds itself in a minority position when it comes to politics. Business has little voting power. When state-owned enterprises were run on political lines, charges for services such as electricity and telecommunications were biased against business customers. At the local government level we frequently see unjustifiable rate burdens placed on businesses because residential ratepayers have greater voting clout.
+
+It is thus no accident that there has been an alignment of business and Maori views on a range of public policy issues. Common themes have been the protection of the rule of law, respect for property rights, and the dismantling of state monopolies in favour of individual choice and competition. Many business and Maori organisations were united in opposing the abolition of appeals to the Privy Council, a body that was seen as detached from local politics. The foreshore and seabed debate is essentially a property rights issue; the Business Roundtable and groups like the Treaty Tribes Coalition have taken the same position, namely that the validity of claims should be a matter for the courts to determine, at least in the first instance. We were supported by Maori groups in advocating the dismantling of monopoly producer boards. Periodically I compare notes with Paul Morgan of the Federation of Maori Authorities and I am always struck by the overlap of issues on our work programmes.
+
+Another point to make is that politics is essentially about wealth redistribution; it is not about wealth creation, which is largely the outcome of the productive efforts of private firms and individuals. Redistribution of the economic pie is seldom a route to prosperity for any group. Those who lobby for privileges successfully have to lobby to retain them, which is costly and debilitating for all. Raising overall incomes requires making the pie bigger through firms and individuals using economic resources in more innovative and productive ways.
+
+This distinction is important in understanding the economic role of Treaty settlements. Often government ministers have created confusion and false expectations on this score. Doug Graham was one who used to talk about settlements creating an ‘economic base’ for Maori development, and the term is still frequently used. While settlements are obviously of some material benefit, as well as an acknowledgement of past wrongs, this proposition is conceptually and empirically mistaken.
+
+Consider a little basic arithmetic. By far the largest settlement to date is the fisheries settlement. In present-day terms, this is worth some $800 million. If it were distributed equally to all Maori, the sum involved would be around $2000 a head. Contrast this amount with the earnings of a very low-skilled Maori over a working lifetime. Someone on a wage of, say, $25,000 a year for the next 40 years would earn a total of $1 million. For the technically minded, this is equivalent to a lump sum of almost $500,000 today. By comparison with this return from gainful employment, $2000 is clearly a drop in the bucket.
+
+Rebecca Macfie made a similar point in a recent editorial in Unlimited in saying that the idea that Treaty payouts will set Maori up for economic success is a delusion. She noted that even Ngai Tahu, which has grown its asset base impressively, spent as much last year on the salaries of its top four executives as it did on its education programmes. “That’s not to suggest the top management is necessarily paid too much”, she wrote. “It simply underscores the limitations of what even relatively wealthy iwi can do.”
+
+So I submit that the chief judge of the Maori Land Court Joe Williams was on the wrong track this week when he argued that Treaty of Waitangi settlements needed to be five times larger to address Maori poverty. If the fisheries settlement was worth $10,000 on average to Maori rather than $2000, would that really make much of a difference to someone over their working lifetime? Clearly not. The sums just don’t stack up, and wealth in the modern world is not about having capital endowments or ownership of natural resources. The ‘economic base’ idea is simply bad and misleading economics.
+
+None of this is to detract in any way from the Treaty settlement process. It is simply to point out that Treaty settlements are largely in a box of their own. They are essentially about justice – an attempt to right the worst of past wrongs without creating new ones, and to avoid a grievance process that stretches on interminably. Settlements involve mana and spiritual matters as well as claims to resources, but in economic terms they are about redistribution, not wealth creation. The two should not be confused.
+
+In terms of wealth creation – raising living standards – what matters for Maori going forward are the same things that matter for the rest of the community – a strong economy, plenty of jobs, a high quality education system, less welfare dependency and so forth. Rob McLeod has calculated that if Maori were lifted up to the average wage level of non-Maori, and if the Maori employment rate were raised to the same rate as non-Maori, the benefit to Maori would be in the vicinity of $45 billion annually in net present value terms. This can be compared with the potential total value of Treaty settlements, which at one time was capped at $1 billion, or five times that amount if Joe Williams’ proposition were accepted. In economic terms, Treaty settlements just don’t rank, yet thanks to the confusion created by the likes of Doug Graham, too many Maori have a romantic view of them.
+
+The Business Roundtable study I mentioned earlier is aimed at making a contribution to the debate on better ways of advancing Maori economic and social progress. It’s not the first time we have taken an interest in Maori issues. For the reasons just mentioned, I regard all the work we have done on the economy, the labour market, education and welfare as directly relevant to Maori. We have published work on the Treaty, in particular Ken Minogue’s Waitangi: Morality and Reality, which I regard as an essay of enduring value on the proper rationale of the Treaty process and the need for sensible boundaries to it.
+
+Our current study is tentatively entitled Te Oranga o te Iwi Maori, a take on Adam Smith’s seminal work on economic development, The Wealth of Nations. It is a complex project involving over a dozen different authors with a diversity of views. It is well advanced and we expect to publish it in the first half of 2005.
+
+As far as possible, we want the study to be empirically based. After an historical overview and a statistical background which charts long-term trends in Maori economic and social indicators, the bulk of the study comprises case studies on important Maori ‘institutions’ such as the Waitangi Tribunal, the Maori Land Court, iwi, hapu and whanau, the Maori religions, the Waitangi Fisheries Commission, Te Puni Kokiri and its predecessors, the Urban Maori Authorities and the Maori seats. In each case our authors are asked to examine the influence of these institutions on Maori economic and social progress, identify what works and what doesn’t work for Maori, and draw lessons for the future. We then want to put New Zealand experience in an international setting and reach some overall conclusions.
+
+For me the exercise is a fascinating voyage of discovery. Some people have questioned the implicit benchmarks for judging Maori economic and social progress, making the valid point that the interests, goals and achievements of Maori may differ from those of non-Maori. As a matter of group averages, I suspect this is unquestionably true – Maori prowess in rugby, I dare say, exceeds that of most other groups. Much more importantly from my perspective, there is an enormous diversity of preferences and aspirations within Maoridom, just as there is in other groups. My main concern would be to maximise the opportunity for all individuals and families to pursue their dreams and achieve their potentials, whatever they may be; I am much less interested in statistical group averages. Having said that, I think there would be widespread agreement that, while many trends are encouraging – as Simon Chapple’s work showed – things like Maori rates of imprisonment, family breakdown, sole parenthood and welfare dependency (even though some of these are matched in other groups) are not something to be comfortable about.
+
+At this stage I can only speculate about some of the broad themes that might emerge from the study. I would be surprised, however, if they did not include some or all of the following:
+
+Maori have every reason to have self-belief, and to aspire to be successful; for this to happen, stable families, influential role models and ethical values, among other things, are important;
+
+Maori economic and social progress is primarily dependent on exploitation of Maori human capital – involving a focus on education, employment and skill development – not on command of land or other natural resources;
+
+the political process is not a good mechanism for advancing many goals, particularly those of a minority group;
+
+although usually well-intentioned, government intervention has often been harmful for Maori: social welfare is an obvious case in point;
+
+Maori in general would be better off if they had more choice, autonomy and control over their own lives – for example in areas like employment, education and health;
+
+policies should facilitate both individual and voluntary collective choices. There is nothing wrong with collective institutions such as iwi, hapu and whanau where these are meaningful to Maori and provided they are able to evolve with changing circumstances;
+
+preferential government programmes should be limited in scope and time, but private institutions (firms, schools, churches, clubs) should be free to adopt forms of affirmative action;
+
+Maori property and Treaty rights should not be brushed aside; any abrogation of them should only be for valid reasons and proper compensation should be made;
+
+the Treaty settlement process is important and should not be begrudged, but it has promoted rent seeking and an unproductive diversion of the resources of many talented people; completion of it requires speed and a time-bar;
+
+governance of Maori organisations needs to be robust, transparent and as close to conventional norms as possible. Losses due to incompetence or fraud are demoralising for Maori and the wider community; and
+
+Maori success in business should be publicised and applauded and Maori entrepreneurs should join forces with others in working to make New Zealand a better place in which to do business.
+
+The study will also have something to say about specific institutions and practices. For example, there is a chapter on the Maori seats in parliament. I don’t yet know the views of the author of this chapter, Professor Philip Joseph of the University of Canterbury. My own opinion is that the seats should go, but I am not in any great hurry to see them disappear. To avoid divisiveness, I would rather that more progress was made with things like Treaty settlements and general Maori social improvement first. But the bigger picture is that what matters most for Maori economic and social progress are the general things I mentioned – like a good economy, sound education, high levels of employment, less welfare – which are the things that matter for non-Maori as well.
+
+One of my intellectual heroes is the great African American, former slave, and leading figure in the movement to eliminate slavery in the United States, Frederick Douglass. In a famous passage, reminiscent of the calls by business people down the years to be left alone by governments, Douglass once wrote:
+
+Everybody has asked the question … “What shall we do with the Negro?” I have had but one answer from the beginning. Do nothing with us! Your doing with us has already played the mischief with us. Do nothing with us! … All I ask is, give \[the Negro\] a chance to stand on his own legs! Let him alone!
+
+To our modern ears, Douglass’s language is harsh and politically incorrect. Probably only someone like Alan Duff could get away with saying something similar in New Zealand today. The prescription is not a complete one, but I am convinced that a retreat from politics and state paternalism and a shift toward greater freedom and choice, private initiative and personal responsibility is part of the way forward for Maori and New Zealand society in general.
+
+  
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable) on InfoPages.

@@ -1,0 +1,194 @@
+---
+slug: future-lefts-happy-erb-days-are-here-again
+title: "Future Lefts: Happy ERB days are here again"
+date: 2000-03-21
+source-url: https://www.scoop.co.nz/stories/PO0003/S00086/future-lefts-happy-erb-days-are-here-again.htm
+author: young-labour
+---
+Future Lefts: Happy ERB days are here again
+===========================================
+
+**Tuesday, 21 March 2000, 8:44 am**  
+**Column: [Young Labour](https://info.scoop.co.nz/Young_Labour)**
+
+Future Lefts
+
+Monday 20th March 2000
+
+\`Happy ERB days are here again :)'
+
+\--
+
+CONTENTS:
+
+Editorial: ERB, F-16's and Polls  
+Employment - Relations, not Contracts  
+A tale of a protest  
+News so hard you can throw really heavy things at it without it breaking...  
+Changes to Future Lefts list use
+
+\--
+
+Editorial: ERB, F-16's and Polls
+
+The introduction of the Employment Relations Bill to Parliament last Tuesday signalled the start of a major reform process for New Zealand. The Employment Contracts Act was a dead letter from November 27th last year - and in fact was dead from the day it passed. Labour has always been totally upfront about repealing the act. And now that procedure is in process. It's something the Tories and the Baby Nats are going to fight hard on - but they fundamentally misunderstand the nature of the beast they are arguing against. If the ERB was one-third as bad as they make out, then I'd be out in the streets marching against it myself.
+
+Fact of the matter is, the ERB is about restoring a balance of power in the workplace. National can try and pretend all it likes that the ECA caused a lack of conflict in the workplace. To be frank, that argument is bollocks. There were indeed fewer strikes under the ECA - but that followed a trend of strikes declining for the five years before that Act was passed. And it's instructive to note that after the first shock of the Act had passed, industrial activity slowly trended upwards again - as it continues to do. The ERB framework will simply acknowledge that fact of conflict over employment relations exists, and bring it out into the open. That is surely healthier than suppressing conflict through oppressive labour laws, which simply cause high staff turnover, lower productivity from unwilling workers, and higher absentee rates than would otherwise be the case.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+More on the ERB further down. Today's decision to cancel the F-16's is warmly welcomed by those on the left, and with good reason. New Zealand does not need a strike wing. Our current one has never been used. Jenny Shipley misled the public on that fact tonight on Holmes when she said that our Skyhawks were in Australia during the East Timor fracas. Yes, they were. They have been in Australia at Nowra, doing training with No. 9 Squadron, for many years. I doubt very much that they were put on alert or could have been - why use Skyhawks when Australia has better planes? It's that simple - we don't need them, we couldn't afford them and the Government has decided not to get them. All good. We can focus our meagre resources on useful things like transport and peacekeeping instead.
+
+Polls, glorious polls. All this frenetic left wing policy development - the income tax increase, the restoration of state ACC, the move to repeal the ECA, the cancellation of the fighters - and the government is the most popular in history. If an election were held tomorrow, Labour would hold about 74 seats. We are polling well above 50%, and the opposition is \_hating\_ it. Their negative, whining tone is doing nothing for their support - ACT is hovering on 5% and National on a staggering 26%, worse than they have ever polled. It just goes to show how much the new Government is listening - and how out of touch the opposition is. Long may it stay that way.
+
+And finally, in the middle of this newsletter is a damn good piece of writing. It's a notice that this Government has a damn long way to go to ensure people's civil rights are protected - and shows the ugly legacy that nine years of Conservative government have had on the nation's police force. If you aren't angry after reading Julie's column, you should be ashamed of yourself.
+
+Till next week, Jordan
+
+\--
+
+Employment - Relations, not Contracts Jordan Carter
+
+It's been inevitable ever since May 15th, 1991, when the Employment Contracts Act was passed. The labour movement reeled at the attack on its power. Workers suffered abusive contracts, expulsion of their unions from workplaces, attacks on wages and conditions, and an oppressive environment where it was clear that the boss was the boss and challenging them would lead to very unpleasant things. The unions were practically broken too - membership plunged, and their job was made next to impossible by being denied the right to access their members and workplaces. It would have to be undone - and now, at last, it is.
+
+A somewhat melodramatic picture, really - but not far off the truth. National has always had it in for unions and unionism, and in the early 90's had the strength to neuter organised labour via statute. That was and remains the intention of the ECA. It breaches ILO conventions by not encouraging collective bargaining, and it tilts the balance of power in the workplace decisively in favour of employers. Thus the low level of strike activity in the last decade, and the public's indoctrination by the mass media to think of unionism as an untidy, improper and basically inflexible and dogmatic and evil force.
+
+I'm now going to lapse into the territory covered by students of "Management and Employment Relations." Among other things, this discipline provides a very useful set of tools for analysing employment relations from varying perspectives. We'll call these frames of reference and at the largest scale there are three basic divisions. There is a unitarist frame of reference - one which sees conflict as problematic. There is the pluralist frame - one which accepts conflict as inevitable and stresses the importance of the institutional structure that is in place to mediate and resolve that conflict. And finally, underlying and critiquing both is the radical or marxist perspective.
+
+The Employment Contracts Act was a classic piece of unitarist legislation. It is based on two assumptions: first, that the employment relationship is simply a service contract and should be treated as such, and second that conflict is pathological in the employment relationship and that it should be suppressed. This led on to a whole raft of views - for example, that unions should be removed, that compulsory unionism was gone, that individual contracts were the best way for equal employers and employees to manage their relationship. Naughty unions would simply disappear, because in this new, pure environment, friendly workers and their kindhearted and generous managers would just all get along.
+
+If this all sounds slightly like the Brady Bunch or some other airy-fairy pile of feel-good hogwash, then that's simply because it was. The unitarist perspective was implemented after 97 years (1894-1991) of an explicitly pluralist approach which recognised conflict and had an institutional structure to ameliorate it. To some extent the ECA carried this on - it retained the specialist employment court, and a lower level employment tribunal, and it continued to allow strikes and lockouts. But the overall thrust of that Act was one that tried to pretend that conflict was caused by unions. They therefore weren't recognised, or supported, or encouraged.
+
+What the Employment Relations Bill (ERB hereafter) 2000 is about is twofold. In its philosophical framework it is a return to the previous pluralistic approach. The second theme is a new development in New Zealand labour law, and that is the good faith requirements that infuse the bill.
+
+First, the pluralist approach. The ERB explicitly recognises that there is a power imbalance in the workplace. Employers have more power than workers. It secondly recognises that the best way to allow workers to address that power imbalance is not to give them power via statute, but is rather to make it easier for them to organise themselves collectively in the workplace. This is an important difference from the old structures, which made the union movement so dependent on statutory power (monopoly coverage, compulsory membership and so on) that when it was removed, they virtually collapsed. There's no danger of that under this system. Unions are being given a modest boost to their powers - but they will have to go out and fight for gains for their members. Nothing is going to come on a plate for unions from this new legislation.
+
+There is also, in the classic pluralist sense, a development of the institutions designed to mediate conflict. A new "Employment Relations Authority" will replace the legalistic Employment Tribunal. Its decisions will be reached in an informal way, quickly, and with the minimum of fuss. More importantly, it will look at the substance of complaints and problems - not merely the procedural correctness. Looking at the substance of a query instead merely of its form is a major advance which will assist in the speedier resolution of employment grievances.
+
+"Good faith" is a fascinating development. Apparently an import from some North American jurisdictions, it requires that negotiations be conducted in a civilised way. According to some comments, you'd think this was the end of the world, and the sky was going to fall in. Personally, I can't see why making it a requirement that parties deal with each other in good faith and not mislead each other is a bad thing. It re-emphasises the whole purpose of the bill, which is in Hon. Margaret Wilson's words "\[the new framework\] is based on the understanding that employment is a human relationship involving issues of mutual trust, confidence and fair dealing, and is not simply a contractual, economic exchange."
+
+Radicals or marxists would criticise the ERB from the view that while it acknowledges conflict, it doesn't actually address the fundamental structural power imbalance between labour and capital which comes to the surface in any employment relationship. There's a good reason for that; in the current political climate in New Zealand, an attempt to unleash (for example) trade unionism and push it along a revolutionary path would very quickly lead to massive political reversals for the elected government.
+
+So the ERB is a fairly moderate piece of legislation, aimed at improving employment relations and redressing the balance of power in the workplace to a small extent. The fact that it is portrayed as otherwise in the media indicates its symbolic significance - and that is something nobody should underestimate. For the Left, it's a redress of power which was stolen from workers in 1991. A long overdue correction. For the Right, however, it's a removal of a cherished plank of the "reform" programme of the 80's and early 90's. The dark and evil unions are being given some power, to do damage to the kindly employers' interests, and interfere in the poor workers' lives.
+
+I'll leave it to you to decide. This debate will go on and on, but I'm going to try and cut through the hyperbole the right is addicted to on these issues and expose as much as I can what their interests are - the continued removal of the ability for workers to effectively organise.
+
+\--
+
+A tale of a protest Julie Fairey, Alliance on Campus (University of Auckland)
+
+Editor's note - this was written in the heat of the action, more or less. I have left it unedited because I think it is a vivid piece of writing which conveys emotion in a way that editing would simply ruin.
+
+Dear all
+
+(First an apology to those who have received too many emails from me tonight, but this is perhaps the single most important issue in our country - freedom to have a true, democratic society. There will no doubt be others with different stories to tell from today, and I encourage them to speak out too - one person can only see, experience and recall so much.)
+
+What I saw and what happened to me today I hope has never and will never happen to any of you. I saw the NZ police, men and women, completely disregard the law, their own codes of conduct and indeed human rights and civil liberties. I saw one of the most passively resistant and staunch student protest groups I have ever seen. The actions of the students were amazing, considering the extreme provocation by the police.
+
+What was totally and utterly barbaric was the police response to a peaceful protest. On last week's WINZ protest, rally organisers were specifically told by the Inspector in charge (I believe he is Inspector Hall?) that he sympathised with us and would be going easy on us this year. While I took that with a grain of salt, I certainly did not expect him to be orchestrating unacceptable violence against students this week.
+
+What we did this week did not vary greatly from last week. How the police reacted, right from the start, was very different. Students were pushed and shoved, to keep them in one lane or something like that, it wasn't entirely clear why. I was sent flying into other students on several occasions, and I am not the type to push the police to arrest me over a stupid thing like walking on the wrong side of a line (even if that line did seem to only exist in the officer's head).
+
+When we got to the corner of Queen St and Wellesley St on the way back to campus (ie we were finishing the march), things first got truly nasty. We attempted to stop, to allow people to catch up, and, as is traditional at intersections, to grandstand in front of the crowds waiting to cross the street, for a minute or two. We were immediately surrounded by police on all sides. Then the police started pushing and punching and shoving. I found myself in the front line on one side, and linked arms with the people either side of me. Out of the corner of my eye I saw the policeman opposite the student to my right pull his arm back, so I looked at it, following the movement. I then saw the same officer clearly punch the student, aiming for his kidneys with a quick forceful jab, while looking out across the crowd as if he were doing nothing of note at all. I immediately noted the policeman's number; G272.
+
+It's hard to remember it all properly now, it comes back in a jumble. I remember the young female student on Queen St trying so hard not to cry (and failing) because the cops had punched her and punched her again, because she could not move because they had surrounded us all (she was later plucked from the crowd and arrested for no apparent reason).
+
+One or two students were pulled out of the crowd and arrested, although I suppose I shouldn't comment as I didn't see it in full, just the legs on one of them flailing on the ground next to a police car as they were dragged across the road.
+
+They kept pushing and shoving the whole way around Mayoral Dr, until we stopped on the footpath for one of our number to be interviewed by TVNZ. As soon as the interview was over he was arrested (for using obscene language, although the charge sheet shows that crossed out and disorderly behaviour added in it's place). He accepted the arrest immediately, was quite happy to walk to and get in the police car, but the police insisted on handcuffs.
+
+We then decided to march up to the police station in Cook St, to wait for our friends to be released. Due to the police continually shoving us, we walked on the footpath. We were nearly at Vincent St when the police spotted an older man sitting on the footpath we were marching along and surrounded him, standing over him. I couldn't see what they were doing, but it sounded as if they were asking him to leave. We were appalled, he was in a public place minding his own business. From how he was dressed it looked as though he was quite poor, and call me cynical but I doubt that someone in a business suit would have received the same treatment.
+
+Once up at the police station, around 2.30pm, we sat down, having been forcibly moved well back from the entrance, and settled in to chant and call for our friends' release. We were prepared to wait, and although we were outraged by the police conduct so far we had no intentions of doing anything more than sitting and peacefully waiting. We even sent people out for water and drinks, and rang the media.
+
+At one point we decided to move down to Vincent St, as that is where those arrested are released from. As soon as we got there, the young female student mentioned before, who was punched and crying at Queen St, was grabbed by the arm by the inspector in charge, and told "come with me." I saw this happen myself, she was virtually right next to me, and before we knew it she was behind police lines and taken away. We quickly moved back up to Cook St, where we were not obscured and blocked in by police vans as we had been on Vincent St.
+
+At around 3.50pm we were told that we were blocking the footpath and we would all be arrested if we had not moved by 4pm. This seemed a bit ridiculous as we had left a path (albeit small, but we moved back whenever people wanted to walk through) and there was basically no foot traffic anyway. (Apparently on one radio station's news the police claimed we were blocking people trying to leave work. That was totally untrue, there were hardly any people who weren't in cars or with either us or the police.) We prepared for the police to jostle us, linking arms, alerting the media, and generally assuring each other of our safety. After all, these were the police, and though we had seen them act outside the law today, we were pretty sure they would not try such violence again, especially with several photographers present.
+
+We were wrong. They marched out with their black gloves on and immediately started kicking and shoving the row of people closest to the door (please note this: closest to the door, NOT closest to the edge of the footpath and the existing clearway along it). Those particularly targeted were the Maori and PI students, many of whom were very young (we believe two were fifteen years old and were "arrested" and then released without being charged, meaning they were probably detained illegally). We were later told by the police that this was because we had deliberately put these students at the front as "cannon fodder."
+
+It was obvious that these students had been targeted, because they were the ones treated with the most brutality, including chokeholds, bending back of hands and gloved hands placed over mouth and nose, pushing the head back. (In one case we have a photograph clearly showing this). Also other students were let go, told to go away and not come back, whereas the Maori and PI students were dragged away and arrested. Several protest leaders were also targeted for arrest. Tactics used by the police also included the pulling of hair, punching, kicking and dragging.
+
+It was also obvious that the police were not truly interested in clearing a path because they only grabbed people to one side, and not right along the footpath, which would have widened the path we had already created. In fact they seemed to stop once they had arrested as many people as they could deal with, without being too heavily outnumbered by remaining students. We sat on the path in shock, still chanting and voicing our opinions, and still with roughly the same clear path along the footpath. Eventually some of the police moved away, and over time their numbers diminished, until we were left alone except for one officer and the Inspector.
+
+One of those arrested earlier had been released by this point, but he had been told by the police that if he rejoined us he would be immediately arrested as a "repeat offender." It is unclear to me exactly what the legal reasoning behind this was, especially in light of the provisions of the Bill of Rights Act, guaranteeing freedom of movement and assembly/association.
+
+Eventually we decided to leave a small group waiting for those still to be released while the rest went back up to campus to publicise what had happened. Neither groups were harassed by the police. However it became clear, as each of those arrested was released, that the police had told them that we had simply left them all alone and gone home, despite the fact that we had two people waiting for them in the waiting room, and another group of about ten out on the road.
+
+Why am I telling you this story? I would hope that it would be obvious; how the police treated today's protesters was completely unacceptable. The violence that they used would be considered assault, possibly even grievous, were it perpetrated by anyone else in our society. The restriction of movement and speech they tried to impose on us would be considered a breach of the Bill of Rights Act. At one point I said to an officer that we had a right to peaceful protest - he replied that people had a right to drive their cars and that that was more important.
+
+If this is how the police in New Zealand value our basic human rights and civil liberties then I worry for those without ready access to the media and politicians, whose rights are probably trampled on far more frequently and in far worse ways. If a policeman cannot even see the intrinsic importance of a free society, then how can we ever be safe?
+
+Why have I written all this, in the early hours of the morning, knowing that I have to get up in less than four hours to work on the rally we are planning for tomorrow? Because I want you to help me do something about this. I believe that this behaviour from the police is unacceptable. I know they have a job to do, but when I see them perpetrate such excessive violence, far more than was needed, and actually smile and laugh while they do it (and yes that is what I saw up at Cook St) then I have to ask myself whether what they are doing is truly part of their job. I sincerely hope that it is not, that our Government and our legislation is such that civil liberties are paid more than lip service.
+
+These are the current suggestions I have. Please whatever you do, carry out the first:
+
+1\. Forward this email (I suggest you edit it first :-) ), tell others about it, encourage others who have had similar experiences (either today or on any other occasion) to come forward and speak - silence will only stand as acceptance of this kind of treatment
+
+2\. Pressure Members of Parliament, and any political parties you are a member of, to put an end to this, in particular by calling for an inquiry into the actions of the Auckland Anti-Protest Division - I have seen these kinds of things happen before on protests, although not to this level, and unless they are stopped they will do it again and again and again.
+
+3\. Don't think yourself immune - we were not breaking the law today, we were not dealing drugs to kids, encouraging rape or violence, or evading tax. We were protesting peacefully as we have done so often before.
+
+4\. Join us tomorrow (well today) Friday March 17th to protest against this brutality, and to re-raise the real issue that was at stake on March 16th, the issue of WINZ, student debt, and free education. We will be holding a rally in the University of Auckland Quad, Princes St, at 12.30pm, and at this stage we intend to march to at least AUT, across the road. It would be great to have people from all sorts of political persuasions, all sorts of walks of life, out on the streets to reclaim the right to protest without fear of violence or unjust arrest.
+
+5\. Watch out - when you see others getting a rough time at the hands of the police, don't just stand there and do nothing, like the crowds at Wellesley and Queen did today - say something, if not then and there, then later on talkback, in a letter to the editor, to your friends and family.
+
+The police act like this to intimidate and disempower. They act like this to create silence. Let us not go softly into the night.
+
+Yours sincerely
+
+Julie Fairey Member of Fightback (Auckland) and StudentAlliance (Auckland) (although this rather lengthy epistle is from me, as a person, and not from either of these groups)
+
+\--
+
+News so hard you can throw really heavy things at it without it breaking...
+
+Well the week ended pretty handily with a Herald digipoll having a few encouraging things to say about the government's performance. Encouraging??!!?? The front section of Granny Herald was effectively transformed in to a Labour Party tribute courtesy of some bloody fantastic results: - 62% of people feeling more positive about the country; - 65% considering NZ to be in 'safe hands'; - 63% supporting Jim Anderton's 'Jobs Machine'; - 54% backing for Labour (74 seats); - A record 56% preferred PM rating for Helen Clark. We are so hot that we're in danger of being investigated by world environmental groups for causing the polar ice caps to melt.
+
+Anyway, enough gloating. Instead of talking about how great we are, let's have a quick look at how crap the other parties have been this week. Margaret Wilson eloquently introduced the centre piece of the governments plans for employment relations - craftily entitled "The Employment Relations Bill". The tory response was pretty predictable… loss of 'flexibility', the union bogeymen, here's the killer: Higher Unemployment. Yes folks, National and ACT actually really care about unemployment - the way that they structurally embedded it at appalling levels over the past 15 years has been greatly misconstrued. The Employers Federation did their usual bleat, and Michael Cullen told them to stop being such a bunch of chumps and just accept that they no longer actually draft government policy. Oh, how that sounds sweet. Get a life Anne Knowles, or at least a better one.
+
+ACT people scuttled back in to their hole and had a conference at which their two fundamentally opposed factions reached a brilliant compromise, electing an ideological arsehole as President (Sir Roger Douglas) and a populist arsehole to the position of vice-chair. They sure know how to identify their internal common strengths.
+
+The Central Auckland Police Force also swung in to action this week, beating the crap out of students, peacefully protesting at the ineptitude of WINZ. At least after today's cabinet decision to cancel the F16 contract, protesting students need not worry about actually being bombed by the authorities. The decision not to buy those big fast planes has been a long time in the coming, and will see us focus on things that a nation of 4 million people can actually realistically hope to achieve abroad. Pretty childishly, the Nats decided to pre-release the Quigley report on the F16 deal, thus stealing the governments thunder. Oooooh, scary stuff - it must be great being in opposition and having the ability to do consequential things like that.
+
+Yours in unbecoming gloating; Michael.
+
+\--
+
+Future Future Lefts - some changes, again
+
+The publication is working well now, but we're going to start using this list for a few more things. Young Labour media releases will come out over this list; also information about Conference as it approaches (Queens' Birthday weekend). I hope you appreciate the extra content we send your way - there's no danger of it becoming a flood, so don't worry about that.
+
+Till next week,
+
+Jordan
+
+\--
+
+All submissions should be to the Editor at carters@ihug.co.nz.
+
+While this newsletter is published in the name of Young Labour, the contents is entirely the responsibility of the Editor and the views expressed here don't constitute any official position of Young Labour. All contents copyright (c) 2000. Subscribe at younglabour-subscribe@listbot.com
+
+The Future Is With Labour - http://www.labour.org.nz Te Wairua Hou - The New Spirit - http://www.younglabour.org.nz
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Young Labour](https://info.scoop.co.nz/Young_Labour) on InfoPages.

@@ -1,0 +1,248 @@
+---
+slug: valedictory-speech-rt-hon-helen-clark
+title: "Valedictory Speech Rt Hon Helen Clark"
+date: 2009-04-09
+source-url: https://www.scoop.co.nz/stories/PA0904/S00130/valedictory-speech-rt-hon-helen-clark.htm
+author: new-zealand-labour-party
+---
+Valedictory Speech Rt Hon Helen Clark
+=====================================
+
+**Thursday, 9 April 2009, 9:30 am**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+8 April 2009 Speech
+
+Valedictory Speech Rt Hon Helen Clark
+
+  
+E te Kiingi Tuheitia, te Ariki Tumu, e nga iwi o te motu, e rau rangatira ma, teenaa koutou, teenaa koutou, teenaa koutou katoa.
+
+This speech is my last in this Parliament and that is something I view with a mix of emotions.
+
+Being a member of the New Zealand Parliament has been a big part of my adult life, and my involvement in New Zealand politics more broadly long predates my election as MP for Mt Albert in 1981.
+
+In 1968, fresh from Epsom Girls’ Grammar School, I enrolled at Auckland University, to study History, English, German, and, yes – as an after-thought - Political Studies.
+
+What a year that was for students around the world, with unrest spreading across the campuses of many a country as the post war baby boomer generation came of age.
+
+Here in New Zealand, those of us who were politically minded were not short of causes to get involved in. Opposition to the Vietnam War, apartheid sport, nuclear testing in the Pacific – all these issues sent fault lines through New Zealand politics – some ideological, some generational. The great strength of Norman Kirk as Labour Leader was that he reached across the generations to speak for us as young people on these issues and in articulating an independent foreign policy.
+
+In my childhood and teenage years, a television set was not a feature of every home.
+
+That meant that politicians were rather remote figures whose voices were only occasionally to be heard on one of the handful of government owned radio stations (this was before Radio Hauraki broke the monopoly by broadcasting from a boat in the Hauraki Gulf), or were read about in the then rather dry columns of the print media.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I remember Sir Ronald Algie MP coming to prizegivings at my secondary school. I recall being barked at by Sir Leslie Munro in the Te Pahu Hall when, as a student, I had the temerity to ask him a question about the wisdom of deploying New Zealand troops in Vietnam – but other exposure to politicians was non-existent in my earlier life.
+
+In recent years when children have asked me whether I wanted to be Prime Minister when I was a child, I could only reply that I couldn’t have imagined that happening, as the politicians of my childhood and youth were almost invariably rather elderly gentlemen.
+
+Those perceptions changed for me during my student days, and upon joining the Labour Party as I did in 1971. There was a new generation coming into Parliament for Labour, beginning with the election of Jonathan Hunt in 1966. Outside parliament there was the extraordinary energy of Jim Anderton in Labour’s Auckland local body campaigns, and later as party president.
+
+As well there was the growing stature of Norman Kirk as Leader of the Labour Party and Leader of the Opposition. I was proud to be a mere foot soldier in the campaign which saw him lead Labour into government in 1972.
+
+But the Third Labour Government suffered greatly from Norman Kirk’s untimely death and major economic shocks, leading to its defeat after only three years.
+
+And so it was back to the politics of opposition for nine years, in the course of which I myself entered Parliament as the MP for Mt Albert.
+
+As many are well aware, I grew up on a farm in the Western Waikato and did not prima facie have a background of the kind associated with Labour Leaders of the past. But my wider family, like many, had a range of political allegiances. Politics was definitely of great interest to us, and not something just to be engaged in via a vote on Election Day.
+
+My parents were perhaps initially surprised at the direction my politics took, but, within a relatively short period of time, they extended their strong personal support for me to strong political support. That continues to this day, with my father who is 87 being present in the gallery, and my mother, who is not well enough to travel, being able, I hope, to watch proceedings on television today, along with my sister Jenefer who is caring for her. Words cannot adequately express my gratitude to Mum and Dad for their lifelong love and support of me.
+
+My first general election campaign as a Labour candidate was in 1975 in Piako – one of National’s safest seats, held by gentleman Jack Luxton, and later by his son John.
+
+What a great learning experience that was for me, moving through the small towns of the East and South Waikato, drawing support in particular from workers and their families associated with the Kaimäï Tunnel project, the dairy and timber factories, and the Arapuni hydro village.
+
+I well remember a campaign visit in support of me by Sir Basil Arthur, Minister of Transport, where superstition dictated that as a woman I could not accompany him into the Kaimäï Tunnel.
+
+The highlight of the campaign was the late Bill Rowling putting Putäruru on his whistle stop tour of the Waikato. The hall we hired was filled to overflowing for the morning tea held in his honour.
+
+My advice to young people starting out in politics is to be prepared to run first for their party in electorates which are highly unlikely to be won, but where one will learn a lot and have more to offer when a winnable seat comes along. Success is seldom instant in politics, and, where it does come quickly, it can equally quickly fizzle out.
+
+The Parliament I entered in 1981 was far less diverse than that we see today. That year the number of women elected to parliament doubled from four to eight, and there were only six Maori MPs.
+
+The main forms of recreation were the billiards room in what is now the Grand Hall, the Bellamys’ bar, and the card schools in Members’ offices.
+
+  
+To say that this was an alien environment for a 31 year old woman, fresh from a university teaching position; would be an understatement. It was hard going, as frankly a lot of my political career has been, but it was character forming, and gave me the experience and confidence to go all the way in the system, and, importantly, to be part of changing it for the better.
+
+But saying that Parliament was hard going and an alien environment brings one to the issue of motivation – of what exactly it was which attracted me to this life.
+
+What brought me here was idealism, values, a sense of community and of internationalism, a desire to make a contribution to public life, and overwhelmingly a sense of gratitude for the opportunities New Zealand has offered me and which I believe should be the birthright of every New Zealander.
+
+I have always been proud of New Zealand’s egalitarian traditions. Deep in our nation’s roots is the ethos that Jack is as good as his master - and these day that Jill is as good as her mistress.
+
+Many of our forebears came to this land to escape the class-bound nature of Britain, where their place in the economic and social order was largely prescribed from birth.
+
+I deeply detest social distinction and snobbery, and in that lies my strong aversion to titular honours. To me they relate to another era, from which our nation has largely, but obviously still not completely, freed itself.
+
+Entering Parliament was for me a way of translating ideals into positive action – hard as that can sometimes be. There have been many issues over my 41 years of political activity when I’ve perhaps been ahead of public opinion at the time. Yet, so often, today’s avant-garde become tomorrow’s status quo. Such thoughts cross my mind when I see a cross section of New Zealand families celebrate their children’s civil union; or a government delegation from Vietnam welcomed as friends and regional partners, when once to support relations with their country was thought to be beyond the mainstream.
+
+My first six years as an MP saw me focused on three main areas of activity.
+
+First there was my electorate work in Mt Albert. How grateful I will always be to the wonderful people of those central Auckland suburbs for the opportunities and support they gave me to grow and develop as a politician and leader over 27 years.
+
+Mt Albert was formed as a new electorate in 1946. It faced a by-election the following year, when the long serving Arthur Richards, the former Member for Roskill, retired. Warren Freer was then elected at the age of 26 and served for 34 years, rising to the number three position in Labour’s parliamentary hierarchy and becoming a senior minister.
+
+It is certainly my hope that Mt Albert will support and nurture Labour successors to Warren and me who have the capacity to rise to the very top of New Zealand politics and serve their electorate and our country with distinction.
+
+The bread and butter constituency work Mt Albert is interfacing with government agencies and departments on matters like housing, social welfare, and immigration, and supporting the endeavours of our fine local schools, sports clubs, and communities.
+
+The communities which make up Mt Albert are strong and diverse, making it a very rewarding electorate in which to live and work. I will miss it a lot over the next four years – but home is where the heart is, and my heart will always be in Kingsland where Peter and I have spent our 27 years of married life.
+
+Second, there was the work here in Parliament – for me, mainly focused around various permutations of what is now the Foreign Affairs and Defence Select Committee – of which I became Chair from 1984 to 1987. The nuclear-free legislation was a highlight of that period, as were the major reports our committee produced on disarmament and on New Zealand’s relationship with China.
+
+Third, there was the broader work within the Labour Party, where I had been a New Zealand Executive member since 1978. There was the excitement of the 1984 campaign, and the trauma of the economic shock and adjustments which followed the election. Victory in 1987 disguised the fact that in our heartland seats held by ministers; the Labour vote slumped – as the Fourth Labour Government had delivered economic policies to which our traditional supporters could not relate and which had not been foreshadowed.
+
+That experience and the subsequent massive 1990 defeat left a lasting impression on me – along with a determination for the future to be transparent about election policy, to deliver on it, and to keep faith with the loyal, long term Labour supporters who sustain our movement through good years and bad. There are always fair weather friends in politics – one knows who one’s true friends are when they are still standing with you in the aftermath of defeat when the phone (and now the texts) have otherwise gone rather quiet.
+
+My time as a Minister from 1987-1990 was very rewarding and enabled me to engage with communities across New Zealand. As Minister of Conservation, I returned to the extraordinary places I had last visited on South Island family holidays in the 1950s and ‘60s. I was able to strike the occasional blow for the environment by rejecting obtrusive development projects – like the Monowai Mine on the Coromandel and the Nukuhau Marina proposed for Lake Taupo.
+
+Public housing and health were passionate interests of mine and so much was achieved – from the acquisition of many more state houses, to passage of the pioneering smoke free legislation, and of the innocently named Nurses Amendment Act which freed midwives to practise autonomously.
+
+As Minister of Labour in 1990 I took the Employment Equity Act through Parliament, only to see it gone by Christmas that same year. In the face of a retailer revolt, I also promoted the legislation for seven day shop trading. While that was not welcomed by retail workers, the introduction was softened by my writing what amounted to an advanced industrial agreement into a schedule of the Act. Alas, that didn’t long survive the 1990 election either.
+
+The nine years in Opposition in the 1990s were tough years, as we in Labour worked to restore our electoral credibility.
+
+There was the shock treatment of the new National Government’s health, superannuation, welfare, and industrial policies, and unemployment rose above ten percent in 1991.
+
+The electorate clearly wasn’t happy in 1993, but still saw Labour as having a lot of baggage from the 1990s. This “plague on both your houses” sentiment was then expressed in the resounding vote for a change to the electoral system in 1992, and the binding referendum on MMP in 1993.
+
+The New Zealand electoral system has never been the same since. The two party system crumbled as the first MMP election approached, with MPs leaving both major parties to sit elsewhere in the House.
+
+I became Leader of the Opposition at the very point that the old electoral order began to crumble, and smaller parties had a chance of finding a niche in the political spectrum. Labour lost support to the Alliance and to New Zealand First in particular.
+
+The nadir came with a Colmar Brunton poll in the mid 1990s which put Labour on fourteen per cent and me on two per cent as preferred Prime Minister. It doesn’t get much worse than that – and looking back on it now I am only surprised that concerned delegations of colleagues didn’t beat a path to my door more often.
+
+Against that background, success in the 1996 election was impossible, but nonetheless it marked a turning point for me and for Labour. The coalition government stitched together was not a marriage made in heaven, and eventually dissolved.
+
+Meanwhile Labour and the Alliance were able to effect a rapprochement and to campaign as a ready made coalition in 1999.
+
+The rest is history. 1999 delivered a Labour-Alliance minority coalition government with support on confidence and supply from the Green Party.
+
+Our government then and in subsequent terms embarked on a programme of change across the economic, social, environmental and cultural spheres, which over time has made a substantial difference for the better to many New Zealanders’ lives.
+
+Fairness, opportunity, and security were our core values – and they were applied across the board.
+
+We took a long term approach to investment – in the Superannuation Fund, in Kiwi Saver, in early childhood education, in skills training, in research and development, in primary health care, in public transport, and much else besides.
+
+Workers’ rights were enhanced through the Employment Relations Act, paid parental leave, and a fourth week’s annual holiday.
+
+The economy experienced its longest run of continuous growth since the Second World War, and unemployment remained low for years. These successes gave us the capacity to make significant investments in families, services, and infrastructure. The rising tide did lift every boat, transforming the circumstances of Maori, Päkehä, Pasifika, Asian, and all other communities.
+
+In our last term in particular, comprehensive sustainability policies were put in place to put New Zealand on the front foot in combating climate change. I strongly believe that it is important for our country’s international credibility that we are seen to take these issues seriously and be prepared to act.
+
+Over nine years we made substantial acquisitions for the conservation estate – with the jewels in the crown being the transfer of Molesworth Station to the Department of Conservation and the purchase of the pastoral lease of the spectacular St James Station.
+
+It was my pleasure to lead our work on arts and culture – to encourage the development of New Zealand talent, audience enjoyment, economic opportunity, and the promotion of our unique New Zealand identity and perspectives.
+
+The heritage part of my portfolio was also immensely satisfying. I look back on years of significant projects from the Tomb of the Unknown Warrior; to the new, “born digital”, official encyclopaedia – Te Ara; to volumes of oral and other histories of World War Two and the Vietnam War, and to the major regional museum and gallery projects for which the government become a substantial funding partner.
+
+There’s also been the ongoing process of reconciling with our past – of recognising injustice and addressing it. New Zealanders are now very familiar with the settlement of historic grievances going back to the time of colonisation and the signing of the Treaty of Waitangi. These settlements must be completed so that we can move forward together as a nation.
+
+As one who grew up on a farm on Raupatu land in the Waikato, where our family’s presence felt like it had been for ever, I cannot even begin to imagine the scale of loss felt by Waikato Tainui from the mid nineteen century, but I hope that I and my government have played our part in putting right. The presence of Kingi Tuheitia and his delegation here today means a great deal to me as did the friendship of the late Te Arikinui, Dame Te Ata-i-rangi kahu over many years.
+
+As well in my time as Prime Minister, there was the apology to New Zealand’s early Chinese settlers and their descendants for the unique and severe discrimination they suffered for many decades; and the apology to Samoa for the injustices perpetrated by the New Zealand colonial administration.
+
+And just last year I issued on behalf of the government and people of New Zealand an apology to Vietnam veterans and their families, for the manner in which their loyal service to New Zealand was not recognised as it should have been and for the inadequate support extended to them and their families.
+
+Reconciliation, respect, inclusion, human rights – these were important themes for me as a Prime Minister with a deep belief in equality.
+
+Maoridom in recent decades has undergone a profound renaissance and stands very tall today as New Zealand’s first people, as substantial economic stakeholders, and as contributing so much which is fundamental to New Zealand’s unique national identity. Our government was a willing partner in that renaissance.
+
+Our substantial Pasifika populations have also made their presence felt from the professions to the factories, from the movie screens to the sports fields and beyond, to become a quintessential part of the fabric of New Zealand society.
+
+I have enjoyed my involvement with New Zealand’s many emerging ethnic communities, whose cultures, heritage, languages, and faiths add so much to the richness of our nation.
+
+The Civil Union Act enabling rainbow couples to express their love for each other by cementing their relationship in law; the Property Relationships Act applying the principles of fair division of property on the dissolution of a de facto relationship; and our work guided by the New Zealand Disability Strategy were all important to me.
+
+There is so much about New Zealand which is special and marks us out as a unique and gifted nation.
+
+We have evolved distinctive reconciliation and constitutional processes. Our institutions from our Parliament and executive government system under MMP to our Supreme Court have evolved a long way from our colonial heritage. It is inevitable that our constitutional status as a monarchy will also change – it’s a question of not if, but when.
+
+My government sought to reflect our nation’s unique personality in New Zealand’s international relations. For us, New Zealand needed to stand for peace, justice, reconciliation, and sustainability. Our refusal to participate in the war in Iraq was a decision based on principle – involvement would have ripped our country apart for no good purpose.
+
+I take pride in the high regard in which New Zealand is held internationally; and the work our government did in the Pacific and East Asia, in rebuilding the relationship with the United States, in broadening relations with Europe, in engaging strategically with Latin America, and in deploying peacekeepers around the globe.
+
+That high regard for our nation and our constructive way of working internationally was the background against which I went forward as a candidate for the position of Administrator of the United Nations Development Programme. I regard my selection as a huge honour for me and for New Zealand and I will seek to carry out my duties there in a way which reflects well on our country.
+
+I have no regrets about leaving Parliament at this time. I have had an incredible career here and have been given enormous opportunities. But it is time to go and for others in my party to take forward the cause we believe in and I will always believe in.
+
+The election result of course was disappointing after so many years of hard work and a sense of achievement in so many areas. But we live in a democracy and the people’s will must be accepted and respected – as it is by me.
+
+A long and rewarding political career is not a solo act. I stand here knowing that I have been supported by so many people for so long because they believed in me and in the values I represented.
+
+My parents gave me the best start in life any child could have – a secure and loving home, and support for my education at every stage.
+
+My three sisters, my brothers-in-law, and my nieces and nephews, aunts, uncles, and cousins in our large extended family have been very supportive of Peter and me over our many years in the public eye.
+
+Peter himself has been a staunch supporter of my aspirations and career – no matter how unpleasant and difficult things got in political life from time to time. There have been immensely more high points than low points.
+
+For ten consecutive elections I have received solid support from the Mt Albert electorate, and I thank all those who have voted and worked for me there over 27 years. Special thanks are due to the Mt Albert Labour Electorate Committee which has worked hard to make our electorate one of the best organised in New Zealand, and to my hardworking electorate office staff led by my long-time friend and supporter Joan Caulfield.
+
+My political career has been based on the values and principles of the New Zealand Labour Party – and I thank all those at all levels and in all regions across New Zealand for their constant support.
+
+Here in Parliament I have been privileged to work with remarkable colleagues, from my deputy leader for many years, Dr Michael Cullen, to those who made up our Cabinet and Caucus. I have made many friends in politics, and I know those friendships will be life long. The texts will keep coming – and maybe even some tweets.
+
+Other political parties played an indispensable role in the success of the Labour-led Government over our nine years in office. I worked particularly closely with the Hon Jim Anderton, and was pleased to see a friendship formed in the 1970s, which had been put under great strain in the 1980s and 1990s, resume in the 21st century.
+
+Jeanette Fitzsimons and the Green Party worked closely with me and Labour for many years, because we shared common approaches in many areas.
+
+While there was less commonality, nonetheless honourable relationships which guaranteed confidence and supply were established with Hon Peter Dunne and United Future, and Rt Hon Winston Peters and New Zealand First.
+
+A relationship based on considerable common interest was also possible with the Maori Party during the last parliamentary term. Hon Tariana Turia and I go back a long way, and I acknowledge in particular her generous comments in Parliament last week.
+
+My contact with the National Party and ACT has not been significant given the significance of the philosophical differences between us, but I do wish on this occasion to acknowledge the leaders of both parties, John Key and Rodney Hide, for their courtesy in recent times, and also the courtesy of numerous other members, going back to the time of Marilyn Waring and Katherine O’Regan, Paul East, and Simon Upton. I’ve also enjoyed Jim Bolger’s company post-politics.
+
+I have very much valued the ongoing wise counsel and advice of Geoffrey Palmer, and the support and insights provided by Mike Moore on moving into the international system.
+
+As Prime Minister I was supported by the broader public service in general and by those departments and agencies, for which I had direct responsibility in particular Mark Prebble and then Maarten Wevers as heads of the Department of Prime Minister and Cabinet, and Marie Shroff, Diane Morcom, and Rebecca Kitteridge as Cabinet Secretaries, and their staff all worked hard to ensure that Labour as a democratically elected government could implement its policies.
+
+Martin Matthews, Jane Kominik, and all at the Ministry for Culture & Heritage helped me to give arts, culture, and heritage a higher profile than ever before in our country.
+
+The Department of Internal Affairs supported me in my role as Minister of Ministerial Services and as host of countless international delegations at head of state and government level.
+
+I enjoyed my work with the Security Intelligence Service and the Government Communications Security Bureau led variously by Richard Woods, Warren Tucker, and Bruce Ferguson. I placed trust in them and their staff as they did in me, and I believe that their work is in the interests of New Zealand.
+
+I also owe a great deal to the Ministry of Foreign Affairs and Trade, which supported me and my ministers on so many complex issues and me personally through many summits and bilateral visits.
+
+It was also a privilege to be involved in many ways with the New Zealand Defence Force and to see its work on and offshore. I will always remember the amazing visits to Kabul, Bamyan, and Basra; and the Sinai, East Timor, and the Solomon Islands to see New Zealand military personnel at work.
+
+Close personal support for me as Prime Minister came from my private office and the talented teams led by Heather Simpson and Alec McLean; and to this day comes from my parliamentary staff, Jacque Bernstein and Dinah Okeby as it has always come from generations of personal secretaries, researchers, press secretaries, messengers, diary secretaries, typists, and receptionists in the past.
+
+Personal protection came from the Diplomatic Protection Squad of the New Zealand Police who stayed very close to me for the whole nine years. To DPS and the New Zealand Police across our country, thank you for your support. You are New Zealand’s unsung heroes and deserve much greater recognition for what you do to protect us all.
+
+Over the 22 years since I first became a Minister of the Crown, I have been not just driven but fully looked after and supported by the government drivers in the VIP service of the Department of Internal Affairs. I have come to know many well, and they are my friends. As a former Prime Minister, I am privileged to continue using their service, so today marks not an end, but an interlude. As General McArthur once famously said, “I will return.”
+
+It is 27 years to the month since I made my maiden speech in this chamber at the tender age of 32.
+
+I said then that “My greatest wish is that at the end of my time in this House, I shall have contributed towards making New Zealand a better place than it is today for its people to live in.”
+
+I leave knowing that I have fulfilled my wish and that I played a part in making New Zealand a better place.
+
+It has been a privilege to be a member of this House for 27 years and Prime Minister for nine years.
+
+I wish my successor Phil Goff and the Labour team all the best for the next election, and I wish New Zealanders well for what are undoubtedly challenging times ahead.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

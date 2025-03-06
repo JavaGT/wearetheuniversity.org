@@ -1,0 +1,130 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2006-08-10
+source-url: https://www.scoop.co.nz/stories/ED0608/S00036/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 10 August 2006, 11:33 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Building a voice for general staff  
+A series of meetings will begin next week to enable general (non-academic) staff to discuss the key issues they face when working in universities. The meetings, to be held over the next fortnight, are the first part of a process by the Association of University Staff to develop a manifesto intended to strengthen the recognition of the value of general staff, with the purpose of building influence among employers and academic colleagues and with others such as government and government agencies.  
+AUS General Staff Vice-President, Cate Wartho, said that the discussions would be used as the platform to build a stronger voice for general staff in the university system, with strategies intended to be developed to maximise career opportunities and improve benefits in other areas. Also included for discussion at the meetings are the development of mechanisms to ensure effective participation in the tripartite process among the Government, vice-chancellors and unions, to build more effective communication processes and to establish a general-staff network.  
+Ms Wartho said that AUS members are being sent personal invitations to come to these discussions, adding that she looked forward to meeting with union members and looking at what the AUS needs to focus on in the next few years in order to make a real difference for this group. “General staff comprise more than half of the New Zealand university workforce, yet their contribution to the institutions and the student experience is often over-looked,” she said. “They constitute a huge pool of talent which, if given the right opportunities and recognition, will continue to add much value and knowledge to the system.”  
+Ms Wartho said she hoped that university employers would support this initiative as one means of enhancing the contribution of general staff to better organisation of their workplaces. “Already some employers have agreed that AUS members can attend these important meetings in work time,” she said.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. NMIT cleared on funding-rort allegation  
+2\. Student survey on cards as funding measure  
+3\. AUSA launches campaign against fee rises  
+4\. Freeze on new Short Awards to be lifted  
+5\. University graduate-employment destinations  
+6\. University study shows wages rising  
+7\. Staff silenced by fear of reprisals  
+8\. Student newspapers feel the squeeze  
+9\. Iranians denied entry to university reunion  
+10\. Police investigate exam racket
+
+NMIT cleared on funding-rort allegation  
+The Nelson Marlborough Institute of Technology (NMIT) has been cleared of breaching tertiary-education funding rules when delivering its community computing courses, after an investigation by the Tertiary Education Commission (TEC). The Auditor-General has also decided that there is insufficient evidence to warrant a separate investigation.  
+In June, National MP Dr Nick Smith and National's Education spokesperson, Bill English, claimed that NMIT had received $4.985 million in government funding over the past three years for running DIY computer courses in which there was no tuition, no assessment and no qualification. Mr English also claimed that a postcard distributed to all households in Nelson offering participation in a free “draw to win your own computer” was in breach of the 2006 Tertiary Funding Guide, which specifically prohibits the opportunity to win items like computers as a way of encouraging people to enrol in courses.  
+Following its investigation, the TEC found that NMIT had followed due process for registering the institution’s community computing courses and claiming funding.  
+The Minister for Tertiary Education, Dr Michael Cullen, said that the report concluded that NMIT’s prize of a second-hand computer was not designed to attract new enrolments, but was only offered to students who were already enrolled in the courses. Nevertheless, NMIT have agreed that this was not an appropriate approach to take and will not be repeating it in the future.  
+The report also raised some issues regarding the way institutions claim tutor contact time for community-education courses. These issues will be considered as part of the tertiary-education reforms and in the implementation of the new Adult and Community Education (ACE) funding arrangements.  
+Dr Cullen said that Dr Smith and Mr English should check their facts before making reckless claims which created unnecessary stress for an institution working hard for its community.  
+Mr English, however, says the investigation showed how wasteful the Government’s rules are for low-level tertiary courses. He said that the taxpayer is continuing to be ripped off by millions of dollars through the “dodgy” tertiary-education courses at NMIT in which some 11,077 people had enrolled. “The polytechnic is being paid for courses that simply cannot be done. There would need to be more than double the number of computers available for every enrolled student to complete the hours being funded by the taxpayer,” he said.
+
+Student survey on cards as funding measure  
+A student survey is still on the cards as a mechanism for measuring outcomes and for influencing funding to tertiary-education providers, according to Education Review. It reports Tertiary Education Commission Chief Executive, Janice Shiner, as telling the recent Industry Training Federation Conference that a survey was a possible measure, as was consideration of the destinations that students went to after study, retention and completion rates.  
+Janice Shiner is reported in Education Review as saying that a student survey had been considered, then put to one side in previous work on outcome measurement, but was now back in consideration.  
+Ms Shiner indicated that there might be three or four key priority areas that the TEC would want to measure across all providers, but beyond that it would be influenced by what tertiary-education providers themselves were already measuring. She also said that the TEC was open to considering qualitative as well as quantitative measures of student success, but indicated that not measuring outcomes was not an option. “We’d probably want to measure what you’re measuring because if you’re not measuring, we won’t give you any money,” she said.  
+New Zealand Vice-Chancellors’ Committee Chair, Professor Roy Sharp, is reported as wary of the use of student surveys as an outcome measure. “Student or graduate surveys can be time-consuming to carry out,” he said.
+
+AUSA launches campaign against fee rises  
+The Auckland University Students’ Association today launched a “Just Say No” campaign to oppose the University of Auckland’s likely move to increase tuition fees for international students.  
+AUSA President, Dan Bidois, said that the Association is strongly opposed to any substantial increases in international student tuition fees without due consideration to the wider impacts of those increases on the international student community. “These students are viewed by many groups within the University community as wealthy cash cows, to whom the University can turn when it needs to make up shortfalls in revenue,” he said.  
+Mr Bidois added that the wider impacts on the welfare of international students are not taken seriously by the University when it makes its decision to increase fees. “We are aware that international students face a raft of welfare issues when they arrive in New Zealand to study. They are not the “rich kids with money to burn” that society in general and the University in particular considers them to be. In many instances international students and their families struggle with the burden of tuition fees, and find themselves in situations that severely jeopardise their well–being,” he said.  
+AUSA is campaigning to make sure that University of Auckland Council members are aware of the potential impacts of decisions on international fees on international students and the University in general.
+
+Freeze on new Short Awards to be lifted  
+The Tertiary Education Commission has announced that the current moratorium on the approval of new short courses or awards is to be lifted from 1 August 2006. They are those worth under forty credits on the National Qualifications Framework.  
+A moratorium was placed on new Short Awards in July last year while the TEC investigated how these qualifications should be funded in order to meet industry and government objectives.  
+TEC Policy and Advice Acting Group Manager, James Turner, says that, following consultation with the sector and government agencies, it became clear that options for the long-term future funding of Short Awards needed to be considered within the wider reform process. “Because this work has now been incorporated into the wider tertiary-sector reforms, it was decided to lift the freeze on new Short Award qualifications. The funding cap will remain in place, however, until the next steps in the tertiary-education reforms are finalised,” he said.  
+A $22.7 million per year funding cap was placed on Short Awards last July to limit growth while decisions about future funding arrangements were made.  
+All new Short Awards qualifications will be required to go through an approval process to ensure they meet quality standards as well as industry and government priorities.  
+Further work by the TEC on Short Awards will include issues such as what type of provision should be publicly funded, which government budgets should subsidise certain types of awards and who should pay for those courses, or parts of those courses, that are unsubsidised.
+
+University graduate-employment destinations  
+Employment destinations from the 2005 New Zealand Vice-Chancellors’ Committee University Graduate Destinations Survey are now available from the student-information section of the NZVCC website (www.nzvcc.ac.nz). The destinations are listed under subject headings and qualification level and show, for instance, that a bachelor’s graduate in Anthropology gained a full-time job as an archivist with a local authority. This web-based survey product is designed primarily as a career-planning/guidance resource to assist students in identifying the types of employment and employer their qualification could lead to.
+
+University study shows wages rising  
+New Zealand workers’ pay rose by an average 3.2 percent in the year to June 2006, the largest pay increase for workers on collective agreements in the last fifteen years. During that time, the yearly average has been just 2.3 percent.  
+The new findings are reported in Employment Agreements: Bargaining Trends & Employment Law Update 2005/2006, produced by Victoria University’s Industrial Relations Centre. The information is compiled from New Zealand’s most comprehensive industrial-relations database, containing more than 15,000 collective employment agreements.  
+At seminars currently being held around the country, one of the report’s authors, Professor George Lafferty, said that, historically, low unemployment, high economic growth and greater demand for skilled labour had not translated into massive wage hikes. “There is now some momentum behind pay increases, with the Engineering, Printing and Manufacturing Union and Nurses campaigns setting the standard, but these are modest by international standards,” he said.  
+Not all New Zealand workers are enjoying better pay, according to Professor Lafferty. For workers on the lowest wages contained in collective agreements there was an average increase of just $14 (2.9 percent) for the year to June 2006, and of just under $10 per year for the last fifteen years. “Showing how much some workers are falling behind, the lowest-paid storage workers are earning just $24 more today than they were in 1992, and for a community services worker it might be only $54 more,” he said.  
+Professor Lafferty said there was good reason to be concerned about New Zealanders’ savings for retirement. There is a low rate of superannuation arrangements, with 58 percent of workers covered by collective employment agreements having no superannuation provision. Only 14 percent of the private-sector employers made contributions to workers’ super schemes.
+
+Worldwatch  
+Staff silenced by fear of reprisals  
+Four in ten academics in the United Kingdom say their freedom to express controversial or unpopular opinions is under attack, according to an independent poll carried out for the Times Higher.  
+The survey exposes the extent to which university staff fear academic freedom is being eroded. Some 39 percent of 502 respondents said their right to question received wisdom, enshrined in the Education Reform Act 1988, was in jeopardy.  
+A separate Times Higher online poll also probed views on academic freedom. More than 40 percent of 107 respondents said they felt pressure over what they could say about their work and institution. Almost a quarter admitted to self-censorship out of a fear of their institution, and a similar proportion self-censored lest their peers disapproved. One had been fired for falling foul of guidelines, two had been officially disciplined and nine unofficially reprimanded.  
+The Education Reform Act 1988 made it a legal right for academics to have the “freedom to question and test received wisdom and to put forward new ideas and controversial or unpopular opinions without placing themselves in jeopardy of losing their jobs or the privileges they may have.”  
+Many academics say managerial culture is eroding freedom.  
+The Joint General Secretary of the University and College Union, Sally Hunt, said that the Times Higher poll should act as a wake-up call. Universities must protect the rights of academics and the reputation of UK research. “The number feeling threatened is unlikely to decrease unless universities stop their interventionist approach to research and stop overburdening academics with teaching hours and bureaucracy,” she said.
+
+Student newspapers feel the squeeze  
+The tradition of the student newspaper in Australia is reported to be under threat from voluntary student unionism and the internet, as universities across the country cut funding, slash production and reduce staff.  
+A student campaign, culminating in protest action this week, has saved the La Trobe University paper Rabelais from the scrapheap after the institution agreed to new funding for the paper, which has been in circulation since 1968.  
+Other student newspapers, however, have not been so lucky. Harambee at Edith Cowan University has gone, while Southern Cross University’s Pulp has been dumped as a result of voluntary student unionism. Sydney University has cut the print run of its weekly Honi Soit, while Vertigo at the University of Technology, Sydney, is expected to reduce circulation or editorial wages.  
+In Queensland, Griffith University’s Gravity is expected to be published only on an ad hoc basis, depending on sponsorship, while Queensland University's Semper Floreat has aggressively pursued advertising to keep afloat.  
+Other publications, such as Melbourne University’s Farrago, remain tied to specific funding from the institution, raising concerns over tension between the independence of student editors and the temptation for universities’ to exert influence over content.  
+Wendy Bacon, an academic, journalist and former Tharunka editor at the University of New South Wales, shares the concern over independence but sees the shift to the internet as a potential positive for student activism. “Perhaps the whole thing could become more interactive and democratic and more difficult to censor,” she said.  
+The Australian
+
+Iranians denied entry to university reunion  
+Dozens of Iranian professors and alumni en route to a university reunion in California had their visas revoked after they landed in the United States last week, and then were sent back home, according to news reports and a participant who attended the weekend gathering.  
+Around 600 graduates and faculty members of the Sharif University of Technology, a prestigious institution in Iran, held the reunion in Santa Clara, California, last weekend.  
+About 120 people who live in Iran were granted visas to visit the United States for the reunion, but more than half of those had their visas revoked after they arrived at American airports.  
+US Immigration officials held those whose visas were revoked in custody, and then sent them back to Iran. No explanation was given as to why the visas were revoked, and officials declined to comment about specific detentions or deportations.  
+According a State Department official, Iranians are subject to “special processing” because Iran is identified as a state-sponsor of terrorism.  
+The Sharif University of Technology Association held a news conference lamenting the visa revocations and subsequent deportations, but there may be little avenue of challenge because the people who were deported are not American citizens.  
+From The Chronicle of Higher Education
+
+Police investigate exam racket  
+Italy’s university system has been rocked by another corruption scandal, with police investigating what they suspect was a racket for the purchase of exam passes at the University of Bari's Faculty of Economics.  
+Ten administrative staff and two lecturers are under investigation on suspicion of corruption, with a third lecturer being questioned about “making false statements”.  
+The investigation comes after eight months of surveillance during which telephones were tapped and video footage collected.  
+Police identified more than twenty students who paid to pass exams. They estimate that payments totalled about €50,000 ($NZ103,000) over more than eight months. Each exam pass cost between €500 and €3,000.  
+According to the public prosecutor who is heading the investigation, most students were put under pressure to pay and were, in effect, victims of the racket. They were allegedly told that unless they paid up they would never pass a certain exam.  
+According to the prosecutor, others were aware of the pay-off system and took the initiative themselves. Six students could be charged with complicity in corruption.  
+Times Higher
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

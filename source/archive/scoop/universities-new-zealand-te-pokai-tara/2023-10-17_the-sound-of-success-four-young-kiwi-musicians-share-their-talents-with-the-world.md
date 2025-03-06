@@ -1,0 +1,68 @@
+---
+slug: the-sound-of-success-four-young-kiwi-musicians-share-their-talents-with-the-world
+title: "The Sound Of Success – Four Young Kiwi Musicians Share Their Talents With The World"
+date: 2023-10-17
+source-url: https://www.scoop.co.nz/stories/ED2310/S00020/the-sound-of-success-four-young-kiwi-musicians-share-their-talents-with-the-world.htm
+author: universities-new-zealand-te-pokai-tara
+---
+The Sound Of Success – Four Young Kiwi Musicians Share Their Talents With The World
+===================================================================================
+
+**Tuesday, 17 October 2023, 11:19 am**  
+**Press Release: [Universities New Zealand - Te Pokai Tara](https://info.scoop.co.nz/Universities_New_Zealand_-_Te_Pokai_Tara)**
+
+Four exceptional young classical musicians have been awarded a 2023 Kiwi Music Scholarship to help them pursue their dreams internationally.
+
+![](https://img.scoop.co.nz/stories/images/2310/tu7hmkdi2dkqewtd.jpg)
+
+The annual Kiwi Music Scholarship is funded through the Kiwi Music Trust to recognise emerging classical musicians’ consistent hard work and talent and to support their future development whether overseas or in New Zealand.
+
+University of Auckland graduate **Zosia Herlihy-O’Brien** recently began a Master of Music in Violin studying with Philippe Honoré at the Royal Academy of Music, London.
+
+While Zosia was offered placements at other elite conservatoires around the world, she selected RAM specifically for its wealth of pedagogue-performers, its access to the European continent, and its flexible degree structure which enables her to pursue pipe organ and conducting alongside violin.
+
+Since arriving in London in September, Zosia has wasted no time. She has formed a string quartet, founded a chamber choir, and has performed in several concerts and workshops both as a violinist and a conductor. She is also ‘attached’ as an organist to two churches in the heart of London with work scheduled for the rest of the year. Zosia has also been appointed Associate Concertmaster of the RAM Symphony Orchestra under Sir Mark Elder.
+
+University of Waikato graduate **Katie Trigg** will continue her Master of Music in Opera Studies at Curtis Institute of Music in Philadelphia.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Katie began her studies at Curtis in 2022 under the tuition of Julia Faulkner, one of the world’s leading voice teachers. The assistance of the Kiwi Music Scholarship means Katie can continue her studies at Curtis where she has already enjoyed many wonderful experiences, describing her time so far as “life changing.” She performed as a featured soloist with the Curtis Symphony Orchestra in 2022 and 2023 and was selected as a studio artist at Wolf Trap Opera summer festival for 2023. In 2024 Katie will be performing the lead roles of Anna I in Kurt Weill’s opera _The Seven Deadly Sins_ and Forester’s Wife in Janáček’s _The Cunning Little Vixen_ with Curtis Opera Theatre.
+
+Te Herenga Waka – Victoria University of Wellington and University of Auckland graduate **David Paligora** will undertake a Masters in Music in Classical Performance on Bass Trombone at the New England Conservatory in Boston.
+
+David is excited about the opportunity to work with the Boston Symphony Orchestra’s bass trombonist James Markey, a world-renowned musician who also teaches at NEC.
+
+One of David’s career goals is to make a significant contribution to music. The vibrancy of the city of Boston combined with the collaborative nature of its music scene will both inspire and open up opportunities for David to strive to perform at the highest level and to achieve his goals.
+
+Te Herenga Waka – Victoria University of Wellington graduate **Georgia Steel**, has been awarded the Kiwi Music Scholarship for the second year in a row allowing her to complete her Master of Music in Music Performance in the Viola at the Royal Welsh College of Music and Drama.
+
+While at the College, Georgia has made the most of all the opportunities available to her including participating in performances with the Royal Welsh Symphony Orchestra, orchestral folk groups, and many other chamber music ensembles. She was recently elected as the Officer of Equality and Diversity at the Royal Welsh Student Union and is looking forward to participating in Conservatoires UK Student Network events.
+
+Alongside the viola, Georgia has been able to develop her conducting skills through student entrepreneur projects and tutoring through the CIAC Conducting Academy. She was a Benedetti Ambassador in their 2023 intake, exploring the connections between performing and teaching in workshops with industry leaders held throughout the UK.
+
+The Kiwi Music Scholarship was established by Sven Stenbäck in memory of his wife Maida who loved classical music. It is administered by Universities New Zealand – Te Pōkai Tara.
+
+Applications for the 2024 Kiwi Music Scholarship open on 1 November 2023 and close on 1 March 2024.
+
+Further details are on the scholarship’s page on the Universities New Zealand website.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Universities New Zealand - Te Pokai Tara](https://info.scoop.co.nz/Universities_New_Zealand_-_Te_Pokai_Tara) on InfoPages.

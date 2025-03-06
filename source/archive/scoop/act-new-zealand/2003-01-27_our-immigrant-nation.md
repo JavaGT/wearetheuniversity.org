@@ -1,0 +1,131 @@
+---
+slug: our-immigrant-nation
+title: "Our Immigrant Nation"
+date: 2003-01-27
+source-url: https://www.scoop.co.nz/stories/PA0301/S00210/our-immigrant-nation.htm
+author: act-new-zealand
+---
+Our Immigrant Nation
+====================
+
+**Monday, 27 January 2003, 9:09 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Our Immigrant Nation
+
+Friday 24 Jan 2003 Dr Muriel Newman Speeches -- Governance & Constitution
+
+Speech by Dr Muriel Newman, ACT New Zealand Member of Parliament, to the AGM of the Chinese Chamber of Commerce.
+
+Delivered in Newmarket, Auckland, at 7.30pm on Saturday January 25, 2003.
+
+New Zealand is an immigrant nation. Maori and Moriori arrived by sea many hundreds of years ago. Europeans arrived by sea centuries later. Nineteen percent of New Zealanders were born overseas. That's one in five, one of the highest rates in the OECD, where the average is just eight percent.
+
+New Zealanders have retained their migratory instincts. It is estimated that more than half a million New Zealand nationals live abroad. The big OE has become almost a mandatory experience for many young - and not so young - New Zealanders, while others leave to seek better opportunities abroad. But for all of those who leave on a permanent basis, others return.
+
+Over recent years, governments have tried to balance emigration with immigration to maintain population stability. They remain concerned that if too many people leave and not enough return, the result can be de-population, small business failure and economic downturn.
+
+In 1998, 44,000 New Zealanders left the country permanently and 22,000 returned. The net loss of 22,000 New Zealand nationals was balanced with 29,000 immigrants being granted permanent residence.
+
+By 2001, as a result of the brain drain following Labour's election, emigration had grown to 63,000. With only 21,000 nationals returning, there was a net loss of 42,000 New Zealanders. In response, 43,000 immigrant residence applications were approved.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Last year, the threat of international terrorism caused fewer people to leave - 45,000 - and more to return home - 25,000 - resulting in a net loss of 20,000 New Zealanders. Caught out by the expectation of a greater net loss, the government had approved 53,000 residence applications. This imbalance of an additional 33,000 new New Zealanders put pressure on infrastructure, and created the opportunity for politicians to run damaging anti-immigration election-year campaigns.
+
+It also led the government to panic and desert their migrant constituency: Labour's raising of the immigration qualifying points system criteria, without warning, caused widespread outrage. The English-language test that Labour has introduced is now set so high that if New Zealanders were asked to sit it, more than half would fail.
+
+The Auckland Chamber of Commerce has estimated the new language test will cost the country around $2 billion. Already, employer groups are calling for the scheme to be scrapped as they face burgeoning skills shortages. In most cases employers say a lack of English is not a fundamental problem and they cannot understand the government's panic move.
+
+In the 1980s, 30 percent of migrants were from the UK or Ireland, but by the year 2000, that had changed substantially with the top five groups of migrants being from Britain at 13 percent, India at 13 percent, China at 12 percent, South Africa at 9 percent and Fiji at 7 percent.
+
+In the year ended August 2002, there were 14,400 migrants from China, 6,300 from India, 5,700 from the UK, 3,200 from South Africa, 2,300 from Japan and 2,200 from Fiji. The new English language test means that those people who seek to come to New Zealand from countries where English is a main language will have an advantage. As a result, most Chinese ethnic groups will be disadvantaged.
+
+According to the last census, people of European origin make up 80 percent of our population, Maori 15 percent, Asian people 6.6 percent and Pacific people 6.5 percent. Of the 237,000 people of Asian ethnicity who are New Zealanders citizens, 105,000 are of Chinese descent.
+
+Auckland has become the home to some 57 percent of migrants over the last five years, with Asians now representing around 13 percent of Auckland's population. This compares with 3 percent in other parts of the country.
+
+Immigration has become a driving force in our economy. At a time when export earnings have been dropping because of our rising dollar, last year migrants contributed $1.7 billion to our balance of payments. Much of this investment has flowed into the housing market - an increase in demand for housing, coupled with low interest rates have driven Quotable Value's house price index in Auckland up 11.9 percent and 8.5 percent nation wide.
+
+Immigration has also helped to stem the chronic labour supply skills shortage, which has become one of the biggest constraints to increasing productivity and business growth. However, much more needs to be done to ensure that immigrants with the right skills and experience are able to by-pass the barriers of professional protectionism. For example, it seems ludicrous that New Zealand recruiters are looking overseas for medical professionals when competent immigrant doctors are forced to drive taxi cabs because the Medical Council will not approve their provisional registration.
+
+This is an issue which the ACT Party has campaigned on strongly, with a private members bill to fast track the registration of overseas doctors having been debated by parliament. Sadly, the Labour government, supported by the United Party, voted the bill down.
+
+Migrants contribute substantially to government tax revenues, and have been a major source of overseas investment capital. It has been estimated that Asian investment in New Zealand stands at around $7 billion.
+
+As the balance of world economic power rapidly shifts towards the Asian Pacific basin countries, our future well being will be greatly influenced by Asian economies in general and China in particular. Fostering closer relations with Asian people is critical not only to trade relations, but to our very future.
+
+One area of remarkable growth over the last few years, largely attributable to Asian investment, is international education. Of the 53,000 full fee paying students from 116 countries in New Zealand last year, 84 percent came from the Asian region.
+
+International education, a business that is now worth over $1 billion a year - as big as the wool industry and four times the size of the wine industry - is expanding rapidly. Already, private education providers occupy close to 15 percent of Auckland's central business district office space.
+
+China contributes by far the largest number of these international students. A combination of factors is responsible. Firstly, New Zealand's receiving of Approved Destination Status from the Chinese Government in 1999 opened up New Zealand as a destination for Chinese people. Secondly, China's extraordinary economic growth of 7 to 8 percent over the last few years is giving Chinese families disposable income they have not previously had before. And thirdly, China's one-child policy means that more and more Chinese families are looking abroad for quality education for their children.
+
+These factors also mean that China is this country's fastest growing tourist market. Out of the 2 million overseas visitors last year, more than 74,000 inbound tourists came from China, up from 32,000 two years ago. According to newspaper reports, most Chinese visitors stay in the country for less than a week, spend on average $4,400 a visit, and in 2001 contributed some $200 million to our economy.
+
+The growth in migration, trade, tourism, and export education are all features of an increasing internationalisation. This new mobility not only brings substantial economic benefits to a small isolated country like New Zealand but it enriches our society, making us more cosmopolitan and bringing us into contact with vibrant and diverse cultures.
+
+Our challenge is to ensure that we welcome these new New Zealanders, tourists and students to ensure that this country lives up to their expectations. We must not forget, that if we fail, New Zealand will simply be seen as a stepping-stone to other countries. Worse, we could be shunned as a destination.
+
+And that is why the anti-Asian rhetoric of New Zealand First, and Labour's u-turn are both so damaging. All of the hard-earned progress we have made can be destroyed so quickly if we gain a reputation for being racist.
+
+Similarly, the way we deal with the different categories of visitors - settling our migrants quickly and effectively, making sure our international students get value for money and good quality pastoral care, and ensuring our tourists want to come back - all matter. But so too does our choice of migrants. We want people who have a strong work and family ethic, who are capable of becoming self-sufficient and independent, and who take responsibility for not only building their own and their family's success, but that of our country as well.
+
+In return, the government has to play its part.
+
+When my family migrated to New Zealand in the fifties, this nation had the third highest standard of living in the OECD. We had excellent health and education systems, no unemployment and no crime. We were all equal under the law.
+
+In spite of the best economic conditions in decades, under this Labour government, growth has been poor and the country has continued its slide to third world status. We have now dropped to twenty-first position in the OECD rankings, and as a result many working families are struggling. Average wage growth has not kept up with inflation and it has been estimated that the real take home pay of taxpayers has declined by 3.3 percent since Labour was elected.
+
+Our country is so poor that we can no longer afford the health and education systems we deserve. Family breakdown and long term unemployment are now major problems, and we have the highest rate of violent crime in the OECD. Labour has also introduced a range of laws to create two classes of citizen and give special privileges to Maori.
+
+The ACT Party believes that New Zealanders deserve better and we have developed a blueprint to transform New Zealand into being a prosperous nation once again - a country where poor families can be successful and can get ahead.
+
+ACT New Zealand was founded on the simple principle that each and every individual should have the opportunity to achieve their full potential, to lead a rich, rewarding and fulfilling life. We believe in the power of individuals, that people flourish when they are free to have control over their own lives, and that individuals - not governments - know best how to lead their lives.
+
+We see that, throughout the ages, political freedom has been a catalyst for progress: unleashing energy, innovation, creativity, harnessing the skill of the entrepreneur, and building prosperity. That is the reason why ACT so vigorously fights for freedom, opposing Labour's socialist agenda of nationalisation, regulation, political correctness and other mechanisms designed to erode freedom, choice, competition and the free market.
+
+Underpinning ACT's blueprint for prosperity are our fundamental values of hard work, thrift and enterprise, of family and personal responsibility and a strong respect for education. These values of ACT are Asian values too, which is why growing numbers of Asians are now supporting the ACT Party.
+
+To kick start the economy and put us on the growth path to a rising standard of living, ACT wants to lower taxes, slash compliance costs on small business, and reform the welfare system so that those people who receive welfare who can work, do work.
+
+Lower taxes create an incentive for hard work. At the present time, a half of hard earned income goes to the government in one tax or another - and Labour has introduced more than 20 new taxes, charges and levies since they have been in power. Instead of the money going to government so the politicians can buy off voters, ACT wants people to keep more of what they earn, so they can use it in the best interest of themselves and their families.
+
+ACT believes it should be easier in this country to own and operate a business. That means lighting a bonfire under the regulations, bureaucracy, and red tape that hold back small business growth, draining productivity and profitability.
+
+First in the firing line should be the Resource Management Act - did you know that while the Sky Tower took two years to build, the RMA held it up for six years! Second to go should be Occupational Safety and Health regulations that enable an employer, whose employee suffers from stress, to be fined up to half a million dollars. And third would be the Employment Relations Act, which makes it impossible to sack a bad worker for fear of legal action.
+
+ACT believes our welfare system is in need of a major overhaul. We need a safety net for people who genuinely cannot support themselves, but for the able bodied, welfare must give them a hand up to work, independence and a better future. At the present time, welfare in this country has become a trap for hundreds of thousands of families who now live bleak and hopeless lives. Welfare is particularly damaging to Maori, and children growing up in families where no-one works for a living fail to do as well in all areas of life than children in families where a parent works.
+
+ACT wants New Zealand to be more prosperous so that we can afford decent health care and better education. We also believe that each and every citizen has a fundamental right to feel safe in their homes and on the streets, and we would require the police to take a zero tolerance approach to crime, of the sort that has made New York one of the world's safest large cities.
+
+ACT is totally opposed to the separatism that is creeping into society through the actions of a government that sees Maori cultural values as being superior to those of other New Zealanders. We want all citizens to be treated equally under a colour-blind law and would review all legislation to remove racist clauses.
+
+To make these changes to take New Zealand back to being a first world nation needs energy and courage. But it also needs the support of people who understand.
+
+Asian peoples understand these issues. Asian New Zealanders are proud to live here, but they know that as a country, we can do better. That is why the support for ACT's Asian Chapter is growing.
+
+I want to make a plea here tonight. Many Asians come from countries where they stay out of politics. But if we are to change New Zealand in the way that we know is possible, we need as many people as we can to roll up their sleeves and get active. Democracy needs people to get involved in politics and ACT needs your help to spread our vision of how this country can become a truly great place to live, work and raise a family. I urge you to support us and join us in our mission.
+
+  
+For more information visit ACT online at http://www.act.org.nz or contact the ACT Parliamentary Office at act@parliament.govt.nz.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

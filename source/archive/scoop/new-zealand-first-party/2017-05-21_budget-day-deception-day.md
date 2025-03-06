@@ -1,0 +1,309 @@
+---
+slug: budget-day-deception-day
+title: "Budget day/deception day"
+date: 2017-05-21
+source-url: https://www.scoop.co.nz/stories/PA1705/S00425/budget-daydeception-day.htm
+author: new-zealand-first-party
+---
+Budget day/deception day
+========================
+
+**Sunday, 21 May 2017, 2:03 pm**  
+**Speech: [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party)**
+
+**Budget day/deception day**
+
+Next Thursday is Budget Day when Steven Joyce will seek to Trump Bill English in smoke and mirrors.  
+A credible Budget will have three features.
+
+First, it will provide an honest accounting of how the New Zealand economy and government finances are really doing.
+
+Second, it will explain how there is a surplus after addressing all the reasonable demands that need money spent on them.
+
+Third, it will set out a pathway that will deliver real prosperity and security for all New Zealanders.
+
+By those standards this Thursday’s budget will be an abject failure!
+
+The chasm between rhetoric and reality in our economy will be as clear as day.
+
+Underneath the hype and misinformation will be a “fake” Budget that delivers little that is meaningful for ordinary New Zealanders.
+
+There will be the usual political parcels fluffed up to look substantial, as though they will make a difference.
+
+But will they survive scrutiny?
+
+Let’s start by putting a few facts on the table. Including the inconvenient facts that don’t fit the “everything is rosy” spin.
+
+1\. Nearly 5% or 130,000 New Zealanders were officially without a job.
+
+2\. The government’s boast of GDP growth of 3% is bogus - the bulk of that is from a 2% annual population growth
+
+3\. New Zealand’s productivity is low – well below better performing OECD countries and way behind Australia.
+
+4\. The economy is fundamentally unbalanced. National has done nothing to address the chronic balance of payments deficit which is $7 billion.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+5\. New Zealand remains massively indebted to the rest of world – with a net international liability of $156 billion.
+
+6\. The relentless flogging off of New Zealand goes on. According to the Overseas Investment Office 466,000 hectares of land was sold to offshore buyers in 2016 - five times more than the previous year.  
+Let’s turn to tax cuts – a seductive notion.
+
+The government has been teasing the public with the prospect of tax cuts through many of its previous Budgets.
+
+The public is fed on a diet of “some day, one day” tax cuts will happen.
+
+But being election year just dangling possible cuts is not enough.
+
+This year they have to deliver something – or face a total loss of credibility.
+
+No one wants to pay more tax than necessary – and with many struggling even a few dollars will seem appealing.
+
+But the public is entitled to honest answers on what the true costs of any tax cut is.
+
+We know that the so-called surplus, which is the pretext for a tax cut, is “a creature of creative accounting”.  
+The Government will tout its Budget surplus.  
+This is supposed to be the real barometer of prudent public finance.  
+Remember what we said, the government will have to explain how there is a surplus after addressing all the reasonable demands that need money spent on them  
+If this Thursday’s Budget does not do that then claims of a surplus will be without credibility, plausibility or integrity.  
+Some may be taken in but not people who think about what the Government is really up to.  
+Read the news, day in, day out, year in, year out, of critical areas lacking funding.  
+You all know there is deliberate under funding of many public services, including health, education and police.  
+We could recite a very long list that includes children in overcrowded schools being taught in corridors and sick people waiting years for the specialist medical treatment they urgently need.  
+Hospitals around the country are struggling to cope with an influx of patients – with DHBs in serious deficit – in Whangarei a Northland man waited six days, all day every day, to have a broken ankle attended to.  
+Almost on a weekly basis doctors and health professionals are warning of health services on the edge of collapse.  
+These conditions are a direct result of government conjuring up a surplus irrespective of the cost inflicted on society and the environment.
+
+There are many other issues and areas where the funding deficit is doing serious damage, for example;
+
+• Poverty
+
+• Mental health services
+
+• Conservation
+
+• Housing
+
+To say nothing of stopping contributions into the NZ Super Fund to assist with the future costs of retirement.
+
+If the government was paying into the NZ Super Fund there would be no surplus – and how come commentators can’t get that simple fact?
+
+  
+**Honest Government**
+
+Record net immigration at almost 72,000 per year will render the numbers in this Thursday’s Budget meaningless.
+
+Budgets that take no account of rapid population growth are next to useless.
+
+Any government can get “growth” by mass immigration.
+
+Question: Why stop at net almost 72,000 new immigrants a year?
+
+Why not net 170,000 a year?
+
+Or further yet why not 270,000?
+
+Think of it – then the government could boast that NZ has the highest economic growth rate in the world.
+
+All three scenarios are ridiculous.
+
+  
+But this government will not come clean – and adjust its Budget numbers to growth per capita, that is, GDP growth per person.
+
+National remains addicted to a reckless and irresponsible immigration policy.
+
+And this Budget won’t address that.
+
+Mind you, isn’t it amazing how all of a sudden so many politicians and observers have discovered we have an immigration problem?  
+  
+  
+**Housing Affordability**
+
+But National, rather than address it, continues with an absurd open door immigration policy and offshore buying to further fuel this crisis.
+
+Until immigration is drastically reduced any claims that politicians are serious about the housing crisis is just hot air – babble to conceal their real agenda.
+
+We’ll be releasing our housing policy for this election very shortly. It is realistic, based on the needs of New Zealanders now and into the near future. It will be accompanied by a construction programme and financing provisions to make these policies real.
+
+Unlike the rest, we are going to build houses for people not the “market”.
+
+**Foreign Ownership**  
+  
+There will be nothing in this Budget to stop the wholesale sell-off of New Zealand land, businesses, houses and property to overseas ownership.
+
+This government won’t collect data on the true extent of the losses. New Zealand First will.
+
+We will turn the Overseas Investment Office from a toothless poodle into an effective watchdog with real teeth.
+
+  
+**Savings**  
+  
+There will be nothing in this Budget to boost our savings and reduce our dependence on overseas borrowing.
+
+Four Australian-owned banks dominate our banking sector.
+
+These banks remit billions of profits, dividends and other payments each year creating an enormous drain on our economy and the balance of payments.
+
+But where is our government on this? As usual AWOL - missing in action.
+
+They are totally happy with 95% of the NZ banking system being held overseas. It fits perfectly with their “flog it off” agenda.
+
+Given that NZ is already in net debt to the rest of the world to the tune of $156 billion it is long since time for action on this front.
+
+New Zealand First will start by putting every central and local government account with KiwiBank.
+
+**Conservation**
+
+Funding must match the task it faces.
+
+Conservation must be for conservation’s sake not just for tourism’s sake.
+
+New Zealand has among the highest proportion of threatened or endangered species – we are talking well over 2000 species on that list.
+
+Again, when you look at conservation underfunding you see how deceitful claims of a surplus are.
+
+Endangered species in New Zealand will be sacrificed just so National can cook the books a bit longer.
+
+If the conservation estate – New Zealand’s treasure – is to be properly protected funding must be seriously increased.  
+  
+**Climate Change**
+
+The government’s track record on taking steps to reduce carbon emissions can be summed up in one word.
+
+Disgraceful!
+
+As the rest of the world moves forward and begins to tackle the great challenge of our time what has been happening in NZ?
+
+NZ is going backwards.
+
+Wellington is scrapping its trolley buses – a sustainable, low carbon form of public transport and replacing them with diesel buses spewing noxious emissions into the city’s streets.
+
+KiwiRail is scrapping its electric locomotives on the North Island Main Trunk Line and replacing them with diesels.
+
+These are staggeringly retrograde steps but they typify this government’s total failure in the area of climate change.
+
+  
+**Alfred Ngaro**  
+  
+National has become arrogant and dismissive in the way they ply their politics.  
+We should be all grateful that last weekend a National MP exposed the true nature of his party.  
+He said to people getting taxpayer funding, you bag us on the campaign trail and watch out, there won’t be money on the table.  
+He named some of his culprits.  
+The Salvation Army wasn’t playing ball by raising homelessness.  
+Willie Jackson had better look out if he wanted more money for his schools.  
+And beware the media - he accused John Campbell of making up stories of the homeless, as though people holed up in cars had been stage managed.  
+Alfred Ngaro MP was just telling the truth.  
+There are numerous examples.  
+Health Minister Coleman calling critics of his mental health policy a bunch of Lefties.  
+Conservation Minister Barry bad mouthing critics of DOC underfunding.  
+**Pike River**  
+A contractor drilling holes at Pike River was gagged by his contract.  
+He was instructed to report to Solid Energy if anyone, particularly the media, approached him for information.  
+That’s how the disaster of 29 men dying is being handled.  
+**Kaikoura**  
+My team went to Kaikoura 11 days ago because of complaints of slow progress on the roads.  
+The NZTA then had the gall to call up the helicopter firm and ask them who hired the aircraft.  
+What business is it of theirs?  
+They are a government appointed body but where is their independence?  
+**St John**
+
+This week we emailed St John to ask about new crewing proposals from government funding.  
+They wanted to know what the information was for, and copied their email reply to the Health Ministry.  
+This is just like the social housing providers. They were told if they had any media approach they must refer it back to the Ministry.  
+That’s a government starting to behave like the Mafia.  
+These are bullying tactics.  
+**Shane Reti**  
+In the Northland by-election two years ago Whangarei MP Shane Reti phoned a resident and told her to stop complaining about a dusty road or any funds would dry up. Unfortunately for him she recorded the threat.
+
+**Paul Bennett**  
+When two solo mums complained about cuts to training incentives Minister Paula Bennett ignored privacy laws by revealing how much those two received in welfare payments and generated a public backlash.  
+That’s vindictiveness at its worst.  
+Paula Bennett got her BA through such an allowance. She gets political power and she scraps the allowance.  
+**John Key**  
+When the Human Right Commission criticised John Key increasing spy powers, he put the frighteners on them - he threatened to cut their funding.  
+**David Seymour**  
+Then there’s Act Party’s David Seymour, the MP in Parliament who got in on the coattails of National. He’s a bully too, a small one.  
+Mr Seymour not only visited a school to deter a manager from complaining in writing about policy, he went to his house.  
+He told him not to put his complaints in writing.  
+**Community Law**  
+In 2014 the Community Law Centre suspected its government funding was withdrawn because it spoke out about legal reform.  
+This followed other community groups saying they were being muzzled by fears that speaking out against government policies would result in losing funding.  
+All these Mafia like, standover tactics belong to another world, or a movie script, not New Zealand.  
+This is not Hollywood. These Ministers are carried away with their sense of importance.  
+These are just some examples of the Born to Rule Blue Brigade.  
+This is the party that has made a thousand cuts to community organisations – Women’s Refuge, Barnados, Presbyterian Support, Relationship Aotearoa, and a $13m cut to Adult Community Education in 2009, to name a few.  
+**AUDITOR-GENERAL**  
+  
+This week we called for Auditor-General Martin Matthews to be stood down.
+
+Why?
+
+For five years as CEO of the Ministry of Transport he oversaw the work of Joanne Harrison. She is now in jail for stealing $725,000 from the taxpayer.
+
+He conveniently announced his departure from the MOT when charges were being laid against Harrison.
+
+He moved on to a top job as Auditor-General.
+
+His decision making and poor judgement over Harrison’s actions do not make him suitable to fill the role
+
+As CEO for the MOT he had ignored eight warnings from staff that Harrison was a fraudster – she was inventing companies and giving them contracts.
+
+Three of the whistle-blowers lost their jobs during “change” at the Ministry, which Harrison was heavily involved in.
+
+Harrison got her husband a job, and a friend a job.  
+Mr Matthews knew this friend was paid but never turned up to work.  
+He failed to investigate, otherwise he would have followed the dots to Harrison’s deception.
+
+Mr Matthews knew the Australian police were looking for Harrison, two years before she was charged, but did nothing.
+
+Worse, just months before Harrison was charged, we can reveal that Mr Matthews appointed her to run an investigation at the Department of Conservation.
+
+This involved “harassment” issues. So, a fraudster decided on the future of workers at DOC
+
+That report must be now discredited.
+
+Parliament was not told of her lead in the DOC inquiry when it ticked off his appointment as Auditor-General.
+
+Second, we can also reveal his failure to take seriously potential public safety issues involving seven KiwiRail Bridges constructed with prohibited bolts, prone to fatigue and cracking.
+
+It also involves one bridge that was made in China.
+
+Mr Matthews was aware that prohibited bolts were being used.
+
+He took little interest.
+
+These bridges could be a time bomb, we just don’t know when.
+
+Again, that vital attention to detail and being a stickler for accuracy, is what you would expect from the Auditor-General yet here we have two examples that fall well short of that.
+
+Mr Matthews must be stood down pending investigations.
+
+**Conclusion**  
+NZ First does have a comprehensive set of policies to grow the economy in a way that will deliver decent jobs for Kiwis
+
+And that is what NZ First will campaign on all the way to September 23.
+
+NZ First will give New Zealanders a real choice in the 2017 election.
+
+  
+**ENDS**  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party) on InfoPages.

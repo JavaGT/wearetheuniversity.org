@@ -1,0 +1,78 @@
+---
+slug: marsden-fund-boosts-victoria-research
+title: "Marsden Fund boosts Victoria research"
+date: 2004-09-13
+source-url: https://www.scoop.co.nz/stories/ED0409/S00049/marsden-fund-boosts-victoria-research.htm
+author: victoria-university-of-wellington
+---
+Marsden Fund boosts Victoria research
+=====================================
+
+**Monday, 13 September 2004, 9:57 am**  
+**Press Release: [Victoria University of Wellington](https://info.scoop.co.nz/Victoria_University_of_Wellington)**
+
+13 September 2004
+
+Marsden Fund boosts Victoria research
+
+Studies into sign language, the human brain’s ‘happy’ chemicals and New Zealand’s Scottish roots are among six Victoria University research programmes approved for funding from the Royal Society of New Zealand’s Marsden Fund.
+
+Victoria’s successful research programmes are spread over a wide variety of disciplines - two programmes from the School of Psychology have been approved, along with programmes within the School of Linguistics & Applied Language Studies, the School of Mathematics, Statistics & Computer Science, the Stout Research Centre for New Zealand Studies and the School of Government.
+
+Other Victoria academics have been made associate investigators in additional successful projects, including research into the stability of Antarctica’s Ross Ice Shelf in a warming world and online model theory and algorithms.
+
+Victoria University Vice-Chancellor Professor Stuart McCutcheon says the success of Victoria’s staff in gaining Marsden Fund backing for their projects shows their commitment to research excellence.
+
+“It’s an impressive result, especially considering the extremely competitive nature of the Marsden Fund, with only seven percent of those applying receiving a grant. What’s more, there is a great variety in the successful projects from Victoria – from mathematical theory to sociology – showing our dedication to a diverse mix of disciplines.”
+
+This is the tenth application round for the Marsden Fund, a Government research fund established in 1994 to support excellence in research administered by the Royal Society of New Zealand.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Of the 972 preliminary proposals, only 69 were selected for approval. These programmes will share funding worth $33.3 million over a three-year period.
+
+Successful Marsden Fund programmes:
+
+Dopamine – our chemical reward? Our brains are able to predict when and how we can obtain rewards for our actions. What isn’t known is how these reward predictions are taken into account in the brain’s neurochemical systems. School of Psychology lecturer Dr Johan Lauwereyns is investigating how the brain chemical dopamine affects learning and processing information about rewards. This knowledge is crucial in order to understand the links between chemical systems in the brain and specific aspects of behaviour. Contact Dr Lauwereyns on 04 463 5042 or Jan.Lauwereyns@vuw.ac.nz.
+
+Sign language diversity in New Zealand Research and observation indicates that within the Deaf community there is considerable diversity in New Zealand Sign Language (NZSL) usage. Research led by Dr David McKee, Director of the Deaf Studies Research Unit within the School of Linguistics & Applied Language Studies, will examine how NZSL varies in relation to signers' region, age, gender, and ethnicity. This project will extend knowledge about NZSL and its community of users, and establish that it shares the characteristics of all human languages. This research is particularly relevant since legislation is before Parliament to recognise NZSL as an official, indigenous language of New Zealand. Contact Dr McKee on 04 463 5600 or David.mckee@vuw.ac.nz
+
+Our Scottish roots unearthed Census estimates indicate that Scottish-born migrants accounted for up to 25 percent of migrants to New Zealand in the century before 1950. It has been suggested that Scottish influences are more pervasive in New Zealand than in any other country outside Scotland – but the Scots remain the least studied of New Zealand’s major ethnic groups.
+
+Dr Brad Patterson, Director of the Irish-Scottish Studies Programme within Victoria’s Stout Research Centre, will lead an interdisciplinary team from New Zealand and Scotland to examine the migration and settlement processes from the viewpoint of both the country of origin and that of destination.
+
+Once identified, the migrants’ experiences will be followed up through extensive research in public and private archives and analysis of contemporary publications. The study will be of international significance, contributing to studies of diaspora and transnationalism. Contact Dr Patterson on 04 463 5132 or brad.patterson@vuw.ac.nz
+
+Fresh perspectives on Liberty and Equality Dr Karen Baehler, Senior Lecturer with the School of Government, is investigating what international philosophers of justice can learn from New Zealand’s distinctive experience of balancing equality and liberty. New Zealanders have for 150 years been crafting a national philosophy that gives pride of place to social and political equality while also protecting and nurturing liberty.
+
+Dr Baehler’s research will measure the performance of prominent contemporary theories of justice against features of New Zealand’s socio-political tradition, and vice versa. The results should inject fresh perspectives into both the theory and practice of liberal egalitarianism in New Zealand and internationally. Contact Dr Baehler on 04-463-5711 or karen.baehler@vuw.ac.nz.
+
+Computability and Randomness
+
+Professor Rodney Downey, from the School of Mathematics, Statistics & Computer Science, is leading a project team that will study the algorithmic aspects of mathematical processes, their limits, their intrinsic difficulty, and the relationship of this to randomness and relative randomness. In summary, the project is devoted to computational aspects of mathematics and will include a number of subprojects ranging from the very theoretical to the implementation level. Contact Professor Downey on 04 463 5067 or Rod.Downey@vuw.ac.nz
+
+What's behind the placebo effect? Although the influence of belief on behaviour – the placebo effect – is well documented, we know very little about what kinds of people are susceptible to it. Dr Maryanne Garry, Senior Lecturer in the School of Psychology, is leading a team to investigate the placebo effect.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Victoria University of Wellington](https://info.scoop.co.nz/Victoria_University_of_Wellington) on InfoPages.

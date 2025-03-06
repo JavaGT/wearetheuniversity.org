@@ -1,0 +1,168 @@
+---
+slug: speech-peters-25th-annual-new-zealand-first-convention
+title: "Speech: Peters - 25th Annual New Zealand First Convention"
+date: 2018-09-30
+source-url: https://www.scoop.co.nz/stories/PA1809/S00404/speech-peters-25th-annual-new-zealand-first-convention.htm
+author: new-zealand-first-party
+---
+Speech: Peters - 25th Annual New Zealand First Convention
+=========================================================
+
+**Sunday, 30 September 2018, 2:07 pm**  
+**Speech: [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party)**
+
+**Winston Peters Speech to the 25th Annual New Zealand First Convention**
+
+**Defying History: The Past as Prologue**
+
+Ladies and Gentlemen
+
+Today marks a celebration of the New Zealand First Party’s first 25 years. And what a time it has been. From day one our movement has been fuelled by the expectations and hopes of those New Zealanders cast adrift by the meanness of the neo-liberal experiment. The Party has been sustained throughout these troubled times by our supporters so we would like to thank all of you gathered here today for keeping the faith.
+
+No party can succeed, let alone for a quarter of century, without the commitment of its supporters. We are only the second party in this country’s political history to still retain its original name, and identity. Other parties have fallen by the wayside, splintering, fracturing, or disappearing altogether, but not New Zealand First. That is because of the quality of you, our members. Through good times (and there have been a lot of them) alongside the odd setback, you have stayed the course. So today is your celebration and heartfelt thanks go to the many people who have helped maintain the party as the centre force in New Zealand politics.
+
+Now, we made a promise in 2017 that if you vote for New Zealand First you will choose the next government. You did vote for us, we listened to your voice, and so here we stand, a united and proud party that chose change. You see, a modified status quo wouldn’t suffice, only real change could and would, so we made that choice. We’ve had no cause to regret that choice since, and you ain’t seen nothing yet because we’re just getting started.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The election also delivered New Zealand First its most highly skilled and talented caucus since the party’s founding. You can be proud of their collective efforts, alongside the hard work being put in by our ministers and undersecretary Tabuteau.
+
+Twenty-five years ago, our party was formed at the height of the neo-liberal experiment. In the land of plenty we were a country whose social contract was torn asunder, first by ‘Rogernomics,’ then by ‘Ruthanasia.’ New Zealanders were pitted against each other in a Darwinian race for economic survival. Families were dislocated. Old truths were forgotten. Hope was crushed. It was the moment in New Zealand’s political history when we lost our innocence. The benevolent state turned into an ambivalent one. Our fight, then as now, was for the forgotten legion of New Zealanders whose lives were disrupted by a blitzkrieg of unmandated, chaotic change.
+
+The battle New Zealand First waged against those malevolent forces was never a war of conquest; we fought in defence of our homes, our families, and posterity. The neo-liberals scorned our petitions; they ignored our pleas and they mocked our appeals. But still we persisted and 25 years on we petition no longer; we plea no more, and we appeal no more. Today, by our very presence we defy them!
+
+There are really two essential ideas in government. Some believe that, if you will only legislate to make the well-to-do prosperous, their prosperity will leak down to those below. The democratic idea, however, is that if you legislate to make the people prosperous, their prosperity will find its way up every strata of society which rests upon them. The last government bowed before the false idol of trickle-down economics, like their predecessors from 1984 to 1996. New Zealand First unapologetically favours the democratic ideal and have found in our coalition partner, Labour, with support from the Green Party, two parties that agree with us.
+
+Some of the moneyed classes in our cities still cling to the pernicious trickle-down theory. We reply that New Zealand’s cities rest upon our broad and fertile lands out in the regions. Should by some calamity our cities burn down but our productive regions survive, then our cities will spring up again as if by magic; but destroy our regions, and grass will grow in the streets of every city in the country. That is why New Zealand First is the party of the regions. We know they represent the best of this country and for the first time in nine years they know that their government, with New Zealand First at its heart, are with them.
+
+…………………………………………………
+
+The party’s founding aim was to place New Zealand’s interests once again at the centre of government decision making and to promote the country’s interests here and abroad. New Zealand First formed 15 fundamental principles to achieve our aim and these pillars have informed every decision we’ve made throughout our history. Today we rededicate ourselves to them even as we adapt them to present conditions.
+
+During our party’s history there have been some great successes built upon our foundational principles. They include:
+
+• Exposing and battling the big end of town’s greed during the Wine Box Inquiry and many others;
+
+• Preventing state asset sales;
+
+• Removing the superannuation surtax, raising super payments, and introducing the SuperGold Card;
+
+• Investing billions more in health and education, including free healthcare for our young, first for under sixes, and now for under 14s;
+
+• Dramatically increasing police numbers whenever New Zealand First demanded government keep New Zealanders safe;
+
+• Twice in government significantly raising the minimum wage to give workers more dignity and opportunity.
+
+There is, however, more for us to celebrate than our party’s policy successes in government. One moment that stands out, because it defied history, was in 2011 when we re-entered parliament after the political dirt of 2008, then being written off for three years by the media and the insidious Beltway commentariat. No other party in political history had ever achieved that before New Zealand First, and none have since. Our success in 2011 was the culmination of three years of sweat and toil, with few resources and fierce head winds. It was a tough time, but just like the All Blacks after a loss, it forced the party to ask itself hard questions, and then rededicate its sense of shared commitment and purpose. So, New Zealand First did come back. We defied history.
+
+…………………………………………………….
+
+We are now attempting to defy history again. Our post-MMP history shows that it is difficult for parties like New Zealand First to survive the rigours of government. Some supporters may feel unhappy that we didn’t secure all the policies we promised at the election. Others have felt we should have chosen National.
+
+During government formation our negotiators were acutely aware that we received 7.2 percent of the party vote. Let’s admit something about negotiating. You see we’ve had some experience. We negotiated hard to secure the New Zealand First policies we did, but if people want all of our policies then they’re going to have to tell their friends, and their friends, to vote for us to strengthen our hand for next time.
+
+And, as mentioned, a modified status quo–which would have been the result of joining a coalition with a tired, out-of-touch fourth term National Party–wasn’t going to cut it.
+
+• What hope to fix the homelessness that has become too visible in our cities and towns?
+
+• What chance for diversifying our economy away from the twin evils of house price inflation and rampant immigration growth?
+
+• What opportunity for our forgotten regions, neglected and cast aside in favour of the big end of town?
+
+National’s behaviour since the election has only confirmed our good sense in choosing Labour. National is leaderless, moribund, and vacuous. It’s a shell of its former self because it’s been seduced by marketing. Substance will always trump shallowness so remember this, Simon Bridges will not lead National into the next election. He is a desperate man.
+
+………………………………….
+
+Our strategy is underpinned by two simple constructs: First, being a constructive coalition partner and, second; going to the election with solid achievements to showcase to our supporters and voters more generally.
+
+Beginning with the first premise; New Zealand First’s constructive behaviour in government. You may have noticed during the past month a concerted effort by our opponents, allied with, in the main, an uncritical and mindless media swarm, to paint us as the very opposite. Let us assure you, nothing could be further from the truth. We gave our word about being a constructive force in the coalition. We have kept our word, and Labour appreciates it.
+
+Almost 1100 items have passed through cabinet and cabinet committees since the coalition was formed. That shows an incredible level of agreement between Labour and New Zealand First ministerial and caucus colleagues, as well as signifying the voluminous amount of policy change already agreed between us. Too many in the media instead targeted four policy areas that were still works in progress and then endlessly interviewed their keyboards, with each piece more breathless. More fool them because nearly all of those works in progress are settled.
+
+As Thomas Jefferson said over two hundred years ago, “To the press alone, chequered as it is with abuses, the world is indebted for all triumphs which have been gained by reason and humanity over error and oppression.” Jefferson was alluding to the crucial role played by the Fourth Estate as one of the foundational pillars of well-functioning democracy. That pillar held in the society we grew up in but it is now crumbling, thereby weakening our democracy.
+
+The New Zealand media landscape is truly worrying. There is an inexorable decline across media organisations as the old model breaks down in the face of technological change. Maori TV is facing large scale lay-offs; the Stuff-New Zealand Herald merger has been rejected for a third time. The Herald now prepares itself for the uncertainty of paywall; the NBR is in mortal decline, and Mediaworks is in a deep hole.
+
+For years we have pointed out that the media are under resourced and poorly supported by their corporate owners. We support the media and its poorly paid representatives because we need the fourth pillar to be strong.
+
+That’s why occasions like this conference are so important, so that we can talk to you directly, over the media’s heads. So let’s be clear: we are a unified government, one full of energy and purpose. We talk with our coalition and support partners every day, on policies that will fix the social ills we inherited, about making the economy work better for more New Zealanders, and about preserving our natural bounty for our children and grandchildren.
+
+……………………………………………………
+
+Turning to the second part of our strategy, from New Zealand First’s perspective we have in eleven months started on a strong path towards achievement, for you, our supporters, but also to present to the wider voting public. Our regional focus is central to this strategy.
+
+The planting of one billion trees is gaining momentum and Minister Jones’ Provincial Growth Fund has been embraced by regional New Zealand who for the first time in a decade can see that their government is with them helping to unleash their previously untapped potential.
+
+When you look back to the days of Bolger, or Clark and Key – successive governments have long preached the need for the New Zealand economy to become one of ‘value over volume’.
+
+But no government has ever done it. We were a commodity economy back then and we’re still a commodity economy.
+
+The most recent GDP figures show strong growth in our primary sectors – agriculture, forestry and fishing.
+
+The days of our raw materials being shipped overseas without any commitment to first add value on our shores have come and gone. The high tide mark has arrived. New Zealand is not a quarry, a land that can be plundered by the free market without genuinely producing benefits for our country, our communities and our people.
+
+There’s a balance that should be struck between the free market and a Government’s need to look after its people and protect the rights of New Zealanders to find employment and wealth.
+
+We have an opportunity to reorient the forestry sector through the One Billion Trees planting programme and the spotlight we’re shining on regional development. For example, the wall of wood is in Gisborne and that means harvest volumes are expected to peak at around 35 million cubic metres by 2024 and stay at that volume for 10 years.
+
+New Zealand First will not be the political party who failed to make the most of that opportunity for New Zealand.
+
+The announcement of the ‘Pacific Reset’ this year shows foreign policy leadership in forging a more adaptive and inclusive path with our Pacific neighbours. Likewise, major defence procurement announcements under Minister Mark have strengthened New Zealand’s contributions to maintaining peace and security here and overseas and show us leading, unlike our predecessors when hard but necessary choices were forgotten.
+
+Minister Martin is doing a great job in education and is developing a serious upgrade in the SuperGold Card. Expect to hear more on this in coming months as we reinforce our support for the generation of New Zealanders who have contributed so much to the social cohesion and wellbeing of this country.
+
+Undersecretary Tabuteau and Deputy Leader, has excelled supporting the work being carried out in regional economic development and foreign affairs.
+
+Across our portfolios New Zealand First has worked collaboratively with our coalition partner to get the resources to restore lost capacity after nine years of laissez-faire neglect.
+
+Our polling tells us that we are tracking better in government than we have before. We started with a majority of New Zealanders supporting change over a modified status quo. The government parties have, collectively, grown that majority. Whatever the media tell you we know most the people are with us.
+
+So let the word go forth from our convention today: our MMP coalition is in great shape. We are a united coalition. We are a united government. And we are joined in singular purpose in pursuit of our shared goal to change this country for the better.
+
+…………………………………………………
+
+Twenty-five years is a time to reflect upon our past. It is fitting and proper to celebrate our political and policy achievements. But we in New Zealand First are restless people. There is too much work to be done to change the trajectory of 34 years of laissez-faire neglect to spend it wondering about what could have been.
+
+We can only do this with your support, whether through volunteering, fund raising, and spreading our message. The party has been graced through our history by the many thousands of good hearted, ordinary New Zealanders who have wanted to help our cause.
+
+One of the stand-out memories of our first 25 years, and the devotion of our supporters, was in 1993. A great New Zealander, Jack Hinton, a Victoria Cross winner from World War II, supported New Zealand First from the party’s inception. When Jack and his wife Molly were out on the streets one day, delivering pamphlets on behalf of New Zealand First, Jack’s feet became blistered. For the hero of the Battle of Greece, such an inconvenience wasn’t going to get in the way of his helping us. So 87 year old Jack simply took his shoes off and carried on. Jack one side of the street, and Molly on the other side.
+
+It’s humbling to remember Jack and Molly’s contribution. It’s humbling to know that all of you gathered here today will go the extra mile to make this country better. And it’s humbling that after 25 years the party remains healthy and strong.
+
+………………………………………………
+
+Our challenge now is to continue to forge a new path with our coalition. We have got off to a fast start but only by pushing harder, further and deeper will we be able to change course.
+
+New Zealand First will remain at the centre of this push. The values at the party’s core will continue to drive our decisions and approach to change. For too long this country’s politics were dictated by an untenable tensions as first one side, or the other, let their historical prejudices and enmities dominate policy making.
+
+New Zealand First, in contrast, stands in the centre of New Zealand politics. As the Ancient Greek Aristotle said long ago, and I can assure members I wasn’t around then, “we must respect the contribution of the rich to grow the nation’s wealth just as we have empathy for the needs of the poor.” In our present day, what both groups and their so-called leaders need, however, is to similarly view each other not as enemies, endlessly battling the other in a zero sum game where no one wins, but as equals who are citizens of this special place we call New Zealand. Balance is needed and that is where our party plays a vital mediating role in ensuring there is balance between the forces of capital and labour, between the cities and the regions, and between those with power and those without it.
+
+As a centre party of long standing, and as a constructive coalition force, we are well positioned to provide this balance. We will use our strategic location at the centre of politics and at the heart of this government responsibly, we will apply it forensically, and we will emerge from this term strengthened by it.
+
+For one thing we have learned from 25 years as a party, one thing that will carry us for the next two years, and the dream that will carry us forward for the next 25 years, is that at the forefront of all our efforts is the simple idea that we will always put the people of New Zealand first.
+
+Party members we have defied history, and today the past is our prologue.
+
+**ENDS**
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party) on InfoPages.

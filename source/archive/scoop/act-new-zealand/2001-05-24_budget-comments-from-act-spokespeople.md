@@ -1,0 +1,54 @@
+---
+slug: budget-comments-from-act-spokespeople
+title: "Budget Comments From ACT Spokespeople"
+date: 2001-05-24
+source-url: https://www.scoop.co.nz/stories/PA0105/S00545/budget-comments-from-act-spokespeople.htm
+author: act-new-zealand
+---
+Budget Comments From ACT Spokespeople
+=====================================
+
+**Thursday, 24 May 2001, 5:21 pm**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+HEALTH SPOKESMAN KEN SHIRLEY: “After inflation, the spending on Health is down – and that follows last year’s budget increase since 1994. Hospitals are under-funded and in crisis and this does nothing to alleviate that. Funding’s been consumed by a mass replication of management systems and bureaucracy thanks to this Minister’s reforms. The money’s being frittered on desks and paper clips instead of providing people with new hips and hearts. The Minister and Government are unable to explain what options the new District Health Boards have other than further increases in debt or decreases in services, which means waiting lists will grow and people with urgent health needs won’t get prompt attention.”
+
+SOCIAL WELFARE SPOKESMAN DR MURIEL NEWMAN: “More bad news for ‘Good News Steve’ \[Maharey\]. For the second year in a row he’s been hung out to dry. Funding for programmes to help rehabilitate those stuck in the Government’s welfare trap has been cut. All we see here is more money being absorbed by the dependency machine. Last year the Minister tried to disguise the fact that he had lost out in budget negotiations by saying he had deliberately deferred a boost for the Department of Work and Income because of reviews and changes to the department. In reality he’s just weak. He’s run out of excuses.”
+
+EDUCATION SPOKESMAN DONNA AWATERE HUATA: “This Government is wasting money on absurd concepts like planting organic flowers in middle-class white kids' schools. This Welfare Budget does not get cash to education services parched for attention. Maori education desperately needs funds. This Budget does nothing to fix the problem of destitute, ghetto-ised schools filled with brown faces.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+TERTIARY EDUCATION SPOKESMAN DR MURIEL NEWMAN: “The tertiary sector has also been hung out to dry with a weak Minister who has failed to deliver the pre-election expenditure promises of $200 million the first year, $250 million the second year, and $300 million the third year. Instead we have a government building a huge new bureaucracy and blackmailing the tertiary sector – it is no wonder that students are protesting in the streets.”
+
+JUSTICE SPOKESMAN STEPHEN FRANKS: “This is lip service to getting tough on crime. Focusing on ‘headline’ crime at the expense of entry level offences means we’re turning our backs on what has worked overseas. The extra funding for victim support is so paltry as to fall within the margin of error in the overall justice budget. The cream of spending continues to go on offenders, the skim milk to their victims.”
+
+POLICE SPOKESMAN KEN SHIRLEY: “There’s nothing here which addresses the soaring levels of violent and sex crimes. Police morale is at an all time low. The Police districts are not maintaining their numbers. Basic policing is suffering – little surprise when the police are receiving only about 5 percent of the money spent on welfare.”
+
+MAORI AFFAIRS SPOKESMAN DONNA AWATERE HUATA: “After all the high-profile murders of Maori children by whanau, I hoped there would be money set aside to teach parenting skills to Maori. Each time another child died, the Government made empty promises. By pumping welfare at the expense of education, the Government is sending completely the wrong message to Maori.”
+
+CONSERVATION SPOKESMAN GERRY ECKHOFF: “Sandra Lee has joined the ranks of property developers. Instead of focusing on her core business of saving NZ’s bio diversity the Minister is spending millions of taxpayers’ dollars on recreational opportunities for trampers – why not develop golf courses and bowling greens as well? DoC has a monopoly on NZ wildlife. As long as that monopoly exists Ms Lee can ignore her responsibilities and concentrate on populist causes that befit her fundamentalism.”
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

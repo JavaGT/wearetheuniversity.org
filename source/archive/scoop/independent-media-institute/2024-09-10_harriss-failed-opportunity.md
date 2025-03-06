@@ -1,0 +1,84 @@
+---
+slug: harriss-failed-opportunity
+title: "Harris’s Failed Opportunity?"
+date: 2024-09-10
+source-url: https://www.scoop.co.nz/stories/WO2409/S00001/harriss-failed-opportunity.htm
+author: independent-media-institute
+---
+Harris’s Failed Opportunity?
+============================
+
+**Tuesday, 10 September 2024, 3:19 am**  
+**Article: [Independent Media Institute](https://info.scoop.co.nz/Independent_Media_Institute)**
+
+During her nearly 40-minute-long speech on the final day of the 2024 Democratic National Convention in Chicago, Vice President Kamala Harris laid out her economic plan for the nation as “an opportunity economy where everyone has the chance to compete and a chance to succeed.”
+
+I deliberately chose not to watch her speech, preferring instead to read it. The ebullience at this year’s DNC was infectious. The Democratic Party is leaning into some of the language of progressive economic populism and is energized by a younger, more enthusiastic nominee. But reading Harris’s speech rather than watching it, helped bring some distance from the joy and clarified that the party is still not embracing the language of progressive economic populism and continues to use the destructive language of the right.
+
+The term “opportunity economy” is itself the problem. It’s a phrase that former Senate Majority Leader Mitch McConnell used to defend Donald Trump’s economic agenda in 2019. Florida’s Chamber of Commerce, a staunchly pro-business outfit, has used it as well.
+
+The word “opportunity” means a chance, the creation of circumstances to make something possible. We live in a nation where racial segregation is technically illegal, which means people of color have the “opportunity” to attend elite schools, apply for jobs, build wealth, retire comfortably, and pass their wealth to their children. Those opportunities have existed for decades. But data shows over and over that they don’t translate into reality, especially for Black and Brown people in the **U.S**. The racial wealth gap, for example, remains high. There are structural barriers that remain firmly in place, and that require very specific government intervention to dismantle. Will Harris embrace such a dismantling?
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Harris proudly related during her DNC speech that she “took on the big banks, delivered $20 billion for middle-class families who faced foreclosure, and helped pass a homeowner bill of rights, one of the first of its kind in the nation.”
+
+But she took on banks as a prosecutor, not as a legislator or executive. And her homeowner bill of rights was, once more, based on the ideas of “opportunity.” In a 2017 op-ed she explained that the bill of rights was based on “six bills designed to give Californians a fair opportunity to work with their banks, modify their loans, and keep their homes.”
+
+Harris pointed out at the DNC that she “stood up for veterans and students being scammed by big, for-profit colleges. For workers who were being cheated out of their wages, the wages they were due. For seniors facing elder abuse.” Again, all were commendable achievements made during her role as a prosecutor and Attorney General of California. Will she stand up for the rights of veterans, students, workers, and seniors, or simply afford them opportunities for justice?
+
+There is a huge difference between “opportunities” and “rights.” The former is a pro-corporate, pro-business term that is perfectly consistent with an individualist capitalist economy that has “winners” who make use of opportunities for wealth-building and “losers” who fail to do so. But “rights” is a word that insists on basic standards of fairness that everyone deserves. It encompasses an idea that capitalism hates: that people have the _right_ to healthcare, childcare, education, homes, good wages, union jobs, and a stable climate. There are no winners and losers.
+
+There was little talk of such rights at the Convention. In fact, even the New York Times noticed that Democrats avoided bringing up Medicare-for-All and the idea that everyone—not just a subsection of the population—has the right to taxpayer-funded healthcare. The Times’s Noah Weiland pointed out, “Her avoidance of a policy that had been central to progressive Democratic aspirations underscores how quickly she has sought to define her candidacy while appealing to more moderate voters, and how Medicare-for-All proposals have effectively left the Democratic mainstream for now.”
+
+Instead of asserting that everyone has the right to taxpayer-funded healthcare Harris said, “We are not going back to when Donald Trump tried to cut Social Security and Medicare. We are not going back to when he tried to get rid of the Affordable Care Act when insurance companies could deny people with pre-existing conditions.”
+
+It sounds as though she and her party have given up on expanding government healthcare to all and instead gone on the defense against the Republican Party’s attacks on Medicare and the ACA.
+
+Harris’s second favorite word, after “opportunity” was “freedom.” She used it a dozen times in her speech, recasting “rights” as “freedoms.” She referenced the “The freedom to live safe from gun violence in our schools, communities, and places of worship. The freedom to love who you love openly and with pride.” She also touted, “The freedom to breathe clean air, and drink clean water, and live free from the pollution that fuels the climate crisis. And the freedom that unlocks all the others: the freedom to vote.”
+
+Clearly, Harris was attempting to reclaim the word “freedom” from the GOP, a formation that has been pulled toward the extreme right by Republican lawmakers who label themselves as members of the “Freedom Caucus.” Freedom is akin to opportunity.
+
+Indeed, Harris’s failure to make a full-throated embrace of progressive economic populism was a failed “opportunity.” The conditions were ripe for her to lean in to language centered on the rights of people given that we have witnessed a cultural sea change on the failures of capitalism.
+
+This change was apparent at the 2024 DNC as well. One need only examine how Vermont Senator Bernie Sanders was received this year compared to the last two conventions. When Sanders spoke at the 2016 DNC in Philadelphia, his role was to placate progressives in the party who had supported his candidacy for the Democratic Party’s presidential nomination. He urged his voters to back Hillary Clinton, the centrist candidate who would go on to lose the electoral college vote to Donald Trump in spite of winning the popular vote. Only months earlier, leaked internal emails from the Democratic National Committee revealed just what the party’s insiders thought of Sanders—and it wasn’t pretty.
+
+Then, four years ago, his role at the 2020 DNC in Wisconsin was to defend Joe Biden’s candidacy against Trump. He remarked, “Many of the ideas we fought for, that just a few years ago were considered ‘radical,’ are now mainstream.”
+
+But this year, even though his role was once more to convince his supporters to back a mainstream Democratic candidate, Sanders’s prime-time address at the 2024 DNC in Chicago sounded remarkably mainstream. The New York Times recognized him as an insider, saying that he seemed to have “a sense of vindication that the Democratic Party, as he sees it, has finally recognized that many progressive causes are broadly popular with Americans.”
+
+Sanders hasn’t changed, but the party’s rhetoric has. Slate’s Alexander Sammon pointed out that, “There were very few themes in Sanders’s speech that other Democratic speakers hadn’t already covered on Monday and Tuesday.” Although the DNC’s tenor was markedly different from four and eight years ago—Sanders now sounded like he fit in, largely because the tenor, if not the substance, of his political leanings have become mainstream.
+
+Meanwhile, Harris’s language of “opportunity agenda” leans right. She shared at the DNC, “My mother kept a strict budget. We lived within our means. Yet, we wanted for little and she expected us to make the most of the opportunities that were available to us, and to be grateful for them.” Such words could easily have been said by a Republican and reflect the party’s ideas about “fiscal responsibility.”
+
+Harris also touted a “middle-class tax cut” in attempting to distinguish herself from Trump’s tax cuts for the rich. But tax cuts for the middle class is a core GOP talking point—even if the party usually delivers for the already-rich in spite of its promises to the not-so-rich.
+
+In truth, Harris is likely more economically progressive than she let on. She has backed the Child Tax Credit, a program that was popular and remarkably effective. But she made no mention of it at the DNC. Her running mate Minnesota Governor Tim Walz is known for his economically progressive policies.
+
+Granted, party conventions these days appear to be tailored to appease a sliver of the American public: the undecided voters in swing states whose all-important ballots will help determine who wins the electoral college, and thus, the presidency. In the context of such an undemocratic system, politicians will always feel pressure to tack toward the center, as winning the popular vote does not guarantee victory.
+
+But we live at a time when momentum is building for fulfilling the economic “rights” of people via such ideas as universal basic income plans, and reparations for Black people. A broad movement of progressives has for years demanded that the Democratic Party distinguish itself from the GOP by making a full-throated defense of the values it claimed to stand for. Rather than leaning rightward by using the Republican-style language of “opportunity” and “freedom,” the Democratic Party could lean left and center the “rights” of people.
+
+**Author Bio:** Sonali Kolhatkar is an award-winning multimedia journalist. She is the founder, host, and executive producer of “Rising Up With Sonali,” a weekly television and radio show that airs on Free Speech TV and Pacifica stations. Her most recent book is _Rising Up: The Power of Narrative in Pursuing Racial Justice_ (City Lights Books, 2023). She is a writing fellow for the Economy for All project at the Independent Media Institute and the racial justice and civil liberties editor at Yes! Magazine. She serves as the co-director of the nonprofit solidarity organization the Afghan Women’s Mission and is a co-author of _Bleeding Afghanistan_. She also sits on the board of directors of Justice Action Center, an immigrant rights organization.
+
+_This article was produced by Economy for All, a project of the Independent Media Institute._
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Independent Media Institute](https://info.scoop.co.nz/Independent_Media_Institute) on InfoPages.

@@ -1,0 +1,268 @@
+---
+slug: leader-of-the-oppositions-state-of-the-nation-speech
+title: "Leader Of The Opposition’s State Of The Nation Speech"
+date: 2021-01-26
+source-url: https://www.scoop.co.nz/stories/PA2101/S00071/leader-of-the-oppositions-state-of-the-nation-speech.htm
+author: new-zealand-national-party
+---
+Leader Of The Opposition’s State Of The Nation Speech
+=====================================================
+
+**Tuesday, 26 January 2021, 1:34 pm**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Kia ora and thank you for that welcome. It is a pleasure to be here.
+
+Thank you to the Rotary Club of Auckland and the EMA for hosting me at this first event in your centenary year.
+
+National and Rotary share many common principles, including community service, integrity, diversity and leadership. National equally believes in empowering individual freedom, personal responsibility and the importance of caring communities to help New Zealanders own their future.
+
+I want to acknowledge the significant contribution that all Rotarians have made to New Zealand over the past 100 years. I’d also like to recognise Brett O’Riley and the EMA. I have great respect for the EMA, particularly your impartial voice, which pushed National to be a better government and continues to push Labour to better understand business.
+
+With 2020 behind us, the news from Northland is concerning.
+
+Last year will forever be known as the year of Covid-19. Together we endured lockdowns. We missed out on seeing loved ones and, indeed, still are for those of us with whānau overseas. Many lost jobs and savings. Those sacrifices we made mean we are now in a better position than many of our international counterparts.
+
+I became National Leader two months out from a then September election in the midst of the biggest health crisis the world has seen in 100 years. Well, nothing gets me going like a challenge.
+
+I constantly say adversity is an opportunity to show character. But last year I occasionally wished I didn’t have quite so many opportunities.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Last year, our party spent far too much time focused on our internal problems and not enough time on the needs of the public. As a result, voters sent us a clear message, and we’ve heard it.
+
+As a politician, the public can sometimes see a caricature of you. Being labelled ‘Crusher’ encourages that one-dimensional view.
+
+I did enjoy driving through changes to take boy-racer cars off the road because I like getting things done, not just talking. But that nickname misses the _why_. It wasn’t just about the boy racers, it was about making Kiwi communities safe.
+
+My _why_ began growing up on a small farm in the Waikato. We were a staunchly Labour family. As a teenager I pestered mum to allow me to attend my first political meeting for a new candidate: Helen Clark.
+
+But the values my parents taught me were those of the National Party. We kids learned the importance of hard work, both at school and on the farm. We weren’t wealthy or poor but my parents were very careful about what they bought. They hated debt and only spent money they had already earned.
+
+And we had a strong sense of community. We were surrounded by farming families who got stuck in and helped each other out, particularly when times were tough. It wasn’t something to be remarked on or exclaimed over, it was just the way things were – as a Collins, as a farmer, as a Kiwi.
+
+As Kiwis we know the importance of working hard to help our families get ahead, and I strongly believe that if you are willing to put in the hard yards then you should enjoy the benefits.
+
+But we also have a strong sense of responsibility toward each other, to help those who need it. That is a role for all of us in New Zealand, but particularly for government.
+
+We have far too many children growing up in poverty. We have families getting sick because of poor quality housing. We have groups, particularly Māori and Pasifika, with far worse health outcomes than others.
+
+These things can be addressed but they need action, not just talk.
+
+My shift to National came from my experience of running my own small businesses in my 20s and 30s, first when my husband David and I set up a local restaurant and later as principal of my own law firm.
+
+I saw the positive impact businesses can have on a community. I’ve felt the pride of helping someone into their first job and the satisfaction of supporting staff to build their skills so they can move on to bigger roles. I also saw the problems created by militant unions and too much government regulation.
+
+Prior to Parliament, my life was heading down a path I was very happy with. My law practice was doing well, I was Vice President of the New Zealand Law Society, and I had a young family.
+
+But I looked around and saw a country where too often people could not get ahead, no matter how hard they worked.
+
+I wanted ours to be a country where everyone has the opportunity to make the most of their lives, regardless of their background. A country where we don’t tie communities down in regulation, where we support small businesses rather than see them as a target for new taxes.
+
+A country that’s moving forwards, not backwards. A country where everyone gets a fair go.
+
+I wanted to get things done, not just talk about it, so I became an MP.
+
+It is important that we hold the Government to account because when they, fail New Zealanders pay the price through higher house prices, lower incomes, higher unemployment and the risk of further Covid-19 lockdowns.
+
+I want to talk you through my top priorities as we continue to deal with the fallout from Covid-19 throughout 2021. The things you can hold _me_ to account on this year.
+
+Of course, there will be other important areas, like education, climate change and Crown-Māori relations, but these five priorities are the areas I believe need immediate attention. They can’t wait three years.
+
+Covid-19 response
+-----------------
+
+The first priority is our response to Covid-19.
+
+New Zealanders made huge sacrifices last year. Hundreds of thousands of people were dependent upon the wage subsidy as the economy was forced to shut down. Sixty-five thousand people lost their jobs, and the number is growing.
+
+Our tourism sector was decimated. Businesses took on debt to make ends meet, some to unsustainable levels. Many closed, and far too many more are still likely too.
+
+During this time, the Government borrowed and spent almost $40 billion. To put this into context, that is more than they spend on health and education each year. The Government has said that New Zealand’s debt will grow to almost $200 billion over the next three years.
+
+And, when Auckland was forced to go into a second lockdown because Covid-19 got through the border in August, the Chamber of Commerce estimated the economic cost was $450 million per week. That’s the cost of building a regional hospital in a city the size of Hastings.
+
+Almost every other country that we compare ourselves to is rolling out vaccinations as quickly as they can. Our closest neighbour, Australia, has prioritized this with vaccinations starting within the next few weeks.
+
+This means their citizens will be safer. They’ll have the certainty to get back to business. They’ll see international students and visitors return, and life for Kiwis who live in Australia will start to get back to normal.
+
+New Zealanders can’t afford another lockdown. But even more than this, failing to secure vaccinations for our frontline workers, border staff and those who work in and around managed isolation and quarantine shows a massive disregard for the sacrifice New Zealanders made last year. It is not good enough.
+
+We need to match Australia’s schedule. We should be like Singapore, rolling out the vaccine to frontline workers and those vulnerable New Zealanders who need it urgently.
+
+Economic recovery
+-----------------
+
+My second priority for 2021 is how we drive economic growth.
+
+We need to be thinking about how we are placed once people are moving safely again across borders. A strong business sector is central to this but, frankly, it’s not about business for business’ sake.
+
+Too often, National has talked about its economic priorities as if these are the end goals in and of themselves – bigger economy, fewer regulations, smaller government, stronger businesses.
+
+On their own, these things aren’t what is really important. They are only important because they are what ultimately drives prosperity, creates jobs and lifts incomes.
+
+A strong economy means more opportunities for New Zealanders. A strong economy is what will ultimately help lift children out of poverty. A strong economy means more money to invest in our health system. A strong economy will help our kids into their first job and give them the chance to do things and be things we’ve never even dreamed of.
+
+That’s what matters – the things that a strong economy allows us to do. That is why a strong economy matters.
+
+Never has the need for a Government that can execute a plan to get the economy growing again been more crucial.
+
+If we make poor choices now our kids will pay for Covid-19 multiple times over. They will have fewer opportunities to get a job, they will be saddled with huge government debt and they will face house prices far out of their reach.
+
+It leaves the next generation less able to address ongoing challenges like climate change. National will continue to work constructively to support solutions to climate change that use science and technology to continue to drive a lower emissions economy and keep costs down for Kiwi households.
+
+We need a relentless focus on government policies to support the productive parts of our economy, to support businesses to be more efficient – to hire, invest and lift wages. Policies that allow businesses to use the upheaval caused by Covid-19 to drive positive change, enabling our industries to use technology to stay world-leading.
+
+And it is not just traditional businesses. Māori have a huge role to play in New Zealand’s economic development. That is how we create opportunities for our people, by embracing the new, taking a risk and investing in our future.
+
+Unfortunately, the Government isn’t doing this. Instead, it seems to be doing all it can to raise costs for businesses.
+
+Big increases to the minimum wage, increases to sick leave, and changes to bargaining laws. At first glance, these sound good. Of course, we want higher wages. But by raising costs on businesses, we make them less likely to hire new staff or increase wages more broadly.
+
+And the people ultimately paying for these higher costs are Kiwi families, as extra regulation forces businesses to charge more. The irony is that this actually makes it harder for Kiwis to get ahead.
+
+Labour’s intentions are laudable but they are focused on alleviating the symptoms of stretched working families struggling to make ends meet rather than on the root causes of prosperity – supporting businesses to be more productive, investing in new capital, taking on new staff and lifting wages.
+
+Instead, the Government is relying on massive spending to drive growth. This comes with major headaches, particularly for our children.
+
+In times of crisis, it is right for governments to spend more to provide a stimulus. But as we consider a rebuild, this Government has no answer other than ‘spend, spend, spend’. Even before Covid-19, budget allowances had exploded.
+
+We are facing a decade of deficits and skyrocketing debt, which we are saddling our future generations with.
+
+The other policy lever that gets pulled to support the economy when times are tough is interest rates. The Government’s insistence on policies that stifle business growth means the Reserve Bank has to do more of the heavy lifting to prop up the economy through interest rates being lower than they otherwise need to be.
+
+You will remember that the Reserve Bank was slashing interest rates long before Covid-19 arrived. This adds fuel to the fire of a housing market that is already out of control. But let me come back to housing later.
+
+Hardship & public safety
+------------------------
+
+My third priority for the year is helping those who face hardship, particularly as a result of Covid-19, and keeping people safe.
+
+We need to support those Kiwis who have lost their jobs, who are struggling to make ends meet, who have to work two jobs just to pay their bills.
+
+I want to make sure every New Zealander has a fair go. That they know they will be supported to move forwards, not backwards.
+
+Part of the solution is growing the economy to create jobs and lift wages but we also need targeted, evidence-based support to help people most in need. Helping families get back on their feet and into work is especially important when we have had so much economic upheaval over the past three years.
+
+I have seen what happens when we don’t get it right, when people are left to drift. As a Minister and a lawyer, I’ve seen too many people make terrible choices. It’s bad for them and it’s bad for their community. And it’s especially bad for the people making sacrifices to keep our communities safe.
+
+I want to talk about public safety for a moment. As a new Minister of Corrections, I believed we were exposing our hard-working Corrections officers to an unacceptable level of harm. Too many of them were being assaulted by prisoners.
+
+As well as making this a clear priority for the department, I made sure to get the name and phone number of any Corrections workers who had been assaulted. I called them individually to ask what had happened, what can be changed, and to see if Corrections was looking after them.
+
+I look at Kelvin Davis and, frankly, I’m appalled at his handling of the riots at Waikeria. He seems content to shirk responsibility and lay blame at the feet of Corrections staff. He thinks prisoners taking over a prison and setting it on fire is OK.
+
+The Government dumping people in motels, and gangs recruiting faster than the Police is a recipe for greater material hardship and a disconnected society. While the Government talks about caring and kindness, and may have good intentions, they far too often lack the ability to simply get things done.
+
+Housing, infrastructure and world-class cities
+----------------------------------------------
+
+Which brings me to my fourth priority: housing, infrastructure and world-class cities.
+
+The massive recent house price increases are further locking our children out from ever buying a home. Rents are up $100 per week since Labour came into office – a 25 percent increase in just three years.
+
+This means people are struggling to keep up with the other necessities of life – food, power and doctors’ visits.
+
+The housing emergency is driving up inequality, and it is hitting young New Zealanders the hardest. We are already seeing a major increase in the working poor here in New Zealand, where people put in the hard yards but still can’t get ahead. These house price increases just make it worse.
+
+For much of the past three years I had the job of holding Phil Twyford and Labour to account for their KiwiBuild promises. After initially promising 100,000 homes over 10 years, they only built about 700 homes in their first term. They never understood just how hard it is to build a house.
+
+Tinkering with who can buy a house, giving grants to some buyers, and putting barriers up for others – as Labour has done – is again about the symptoms, not the cause.
+
+It is too hard to build a house in New Zealand, it’s as simple as that. We need to make it drastically easier. This isn’t impossible. Hundreds of other cities around the world have affordable housing.
+
+The cost of the average house in Dallas, Chicago, Montreal and Manchester is less than half the average cost of a house in Auckland. Less than half.
+
+The one thing these cities all have in common is they make it easy to build houses. When we have a resource consent process that makes it almost impossible to build a house, it is no surprise. It is an issue we can solve, and we must solve.
+
+We need to reform our planning and RMA processes with one goal: freeing up land and getting more houses built. And if councils won’t do it, we will do it for them.
+
+We also need to address infrastructure. It isn’t enough to get more houses built if we still spend half our lives sitting in traffic.
+
+For a country to be world-leading, it needs to have world leading cities. Affordable housing and strong transport infrastructure is a key plank of that.
+
+Last week Labour merely announced where they will put more state houses. Their KiwiBuild failure has been matched by a belief that New Zealanders aspire to be on shorter waiting lists. It offers no help to the Kiwi families who want to own their own home.
+
+Given their track record on KiwiBuild, I just don’t trust the Government to deliver quick changes to get more houses built.
+
+So, today, I am calling on the Government to introduce urgent temporary legislation to make it easier to build a house, until the permanent RMA reforms are completed.
+
+The legislation would give Government powers to rezone land and avoid frustrating consenting delays. It was done by National following the Canterbury earthquakes. It’s now urgent for the rest of the country.
+
+Technology and post-Covid opportunities
+---------------------------------------
+
+It is not just enough to respond to Covid-19. We need to harness the upheaval to drive positive change, evolving our industries so we can stay world-leading.
+
+So my fifth priority is about growing our technology sector to create high-paying jobs of the future that we need our young people studying towards today.
+
+It is a sector that impacts upon everybody’s lives in one way or another and it must play a key part in our Covid-19 rebuild.
+
+Tech isn’t solely software. It is new forms of medicine, it is precise agriculture, it is new products the world wants, and new ways of running our factories.
+
+We need to better understand the opportunities tech will deliver to grow and be a major driver of New Zealand’s economy, creating jobs and exporting knowledge to the world.
+
+A government cannot just legislate wages up, New Zealand must harness our technological innovations to drive productivity higher.
+
+New Zealand is proudly home to many leading tech companies: Xero, Rocket Lab, Buckley Systems, and Fisher & Paykel Healthcare to name just a few.
+
+Right now, we’re hosting the America’s Cup for the third time. This is more than a yacht race. Since New Zealand first beat Dennis Conner in the 90s, an entire industry of world-leading technology has been created on our shores, generating some of the highest-paying jobs for young Kiwis.
+
+The tech sector brings high-paying jobs that drive our economy. Tech will help us to reduce our greenhouse gas emissions through new grasses or substances that stop cows producing methane.
+
+Supporting our tech sector to grow means enticing more New Zealand students to study science and technology. It means allowing tech workers to be streamlined through our visa processes.
+
+By taking this portfolio and working with my colleagues in Digital Economy, Economic Development, Infrastructure, Education, and in Cyber Security, we will champion an era of progress and of better wages, and better jobs.
+
+Conclusion
+----------
+
+When I think about where I want New Zealand to be in five or 10 years, I want a country where people are proud to live and work.
+
+I want to see new industries, like tech, flourishing alongside our key strengths, like agriculture and tourism. I want high-paying jobs and a country where it is easier to build a small business.
+
+I want young families who can afford to own their own homes. I want New Zealanders to have confidence in their local school, who feel safe in their communities, and who can get to work without sitting in soul-destroying traffic.
+
+I want a country where we have harnessed the upheaval caused by Covid-19 to drive positive change.
+
+We have a Government that likes to talk about big changes; about transformation. Unfortunately there has been too much focus on talking – working groups – and not enough on doing.
+
+There is a huge to-do list for this Government. It is child poverty, worse than three years ago. It is unaffordable homes now out of reach to the average Kiwi. It is fast escalating rents that mean people must choose between paying the bills and feeding their kids.
+
+It is transport, where we still haven’t built enough public transport or roading to allow people to move quickly and build homes. It is infrastructure, where our councils aren’t able to keep pipes from leaking and sewage from overflowing.
+
+It is escalating crime where gangs recruit faster than the Police and prisoners take over prisons.
+
+It is middle New Zealand that the Government has left to fend for themselves. And it is small business owners who can’t pay the Government’s bills.
+
+These are the challenges that the Government needs to fix, the things that will make New Zealanders’ lives better, and the things this Labour Government, with their huge parliamentary majority, will be judged upon.
+
+We owe it to our young people to make sure New Zealand delivers for them.
+
+The National Party under my leadership will be relentlessly focused on the things that are important to making New Zealanders’ lives better. We will push the Government to focus on the causes, not just the symptoms.
+
+National will be kind, but not at the expense of getting things done.
+
+I wish you well in your centenary year.
+
+Thank you.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

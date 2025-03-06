@@ -1,0 +1,83 @@
+---
+slug: policy-on-unfunded-students-crystal-clear
+title: "Policy on unfunded students crystal clear"
+date: 2009-08-18
+source-url: https://www.scoop.co.nz/stories/ED0908/S00061/policy-on-unfunded-students-crystal-clear.htm
+author: vice-chancellors-committee
+---
+Policy on unfunded students crystal clear
+=========================================
+
+**Tuesday, 18 August 2009, 5:11 pm**  
+**Press Release: [Vice Chancellors' Committee](https://info.scoop.co.nz/Vice_Chancellors'_Committee)**
+
+Vol. 9 No. 14  
+18 August 2009
+
+Policy on unfunded students crystal clear
+
+With many media outlets now running stories on university enrolment pressures, a recent media release by Tertiary Education Minister Anne Tolley succinctly states the Government’s position: “Under the capped funding system introduced in 2008, any funding response to enrolment pressure is managed through each Budget process. The current policy limits unfunded students to 3% of an institution’s total funding, to manage student loans and allowances costs.”
+
+In an editorial headed “enrolment pressures” published yesterday, the Otago Daily Times commented that among the many problems facing the Government as a consequence of the recession and heavy limitations on funding was whether funding caps on higher education should be eased somewhat to accommodate greater demand particularly from people seeking re-education following redundancy.
+
+“But, the demand is not simply limited to this (university) sector; for years the brighter youth of the country have been urged to seek tertiary qualifications to help lift New Zealand’s overall skill levels and economic performance. There can hardly be reason for complaint by politicians that the call is being answered. Yet the impression is gaining ground that contradictory forces are at work within government and within the Government about adequate funding for higher education. It is causing considerable concern,” the editorial said.
+
+It quoted reports that Massey University was experiencing an 8% enrolment increase across all courses this year while the University of Waikato was nearly 6% over its agreed number of funded students under its investment plan. “Victoria is up by nearly 3% and earlier this year, Otago’s senate academic committee decided to investigate whether the university should further restrict entry to some courses. It already restricts entry to courses such as medicine, dentistry, law, surveying and physical education, but does not restrict first-year enrolments providing students meet standard academic requirements. The working party is expected to report back to the university council before the end of the year, but that is not much comfort to hopeful enrolees today.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The editorial concluded by noting that as a general principle, the Government ought to be prepared to adequately match its higher education goals by meeting the demand it had quite properly fostered.
+
+Other items …
+
+Universities win international education excellence awards
+
+Massey and Victoria universities were recognised for excellence in international education at the recent Education New Zealand conference in Wellington. Massey shared the award for excellence in marketing with the Academic Colleges Group while Victoria took the award for innovation in an international programme with VILP (Victoria International Leadership Programme).
+
+Announcing the award for Massey, Education New Zealand said the recent focus of the university’s marketing strategy had been on setting up twinning programmes with universities in key markets such as China and Vietnam, thereby creating a reliable intake of students well prepared for their level of study in New Zealand. Twinning programmes involve students completing part of their qualification in their home country and part in this country.
+
+Victoria’s VILP programme, launched last year, was open to both domestic and international students at no additional cost. It comprised a range of lectures and activities outside of the students’ normal course load. Participants attended speeches and seminars in relevant topics and participated in activities such as volunteer service in New Zealand and offshore, as well as international fora on issues of global importance. The VILP ran the length of a full degree programme with participation noted on students’ academic records. In its first year more than 700 students participated in the programme, 20% being international students.
+
+Universities Australia CEO attends NZVCC meeting
+
+Dr Glenn Withers, the Chief Executive Officer of Universities Australia, attended last week’s NZVCC meeting at the Wellington secretariat. Dr Withers briefed New Zealand Vice-Chancellors on Universities Australia’s current advocacy on behalf of its 38 members in the Australian university system. A 39th university, the University of Notre Dame Australia, is currently applying for UA membership. While there are a number of different groups within the organisation - the Group of Eight (G8), the Australian Technology Group of Universities (ATN), Innovative Research Universities Australia (IRU Australia) and New Generation Universities (NGU) - about half of UA’s members are not in any grouping.
+
+While the Australian government’s response to the recent Bradley and Cutler reviews has delivered Universities Australia a number of policies it was pursuing – such as better indexation of university costs and increased funding for teaching and learning – a lot of the commitments involved are deferred, some of them beyond the next election.
+
+Universities Australia is concentrating its activities around advocacy of policy content, while demonstrating universities’ economic contribution and extending its communications programme to take in new areas such as the popular press. The development of documentation to support UA’s strategy of emphasising universities’ contribution to Australian society is backed by a partnership approach with business organisations and state governments.
+
+Evidence-based independent analysis is the general approach adopted by Universities Australia which has demonstrated real rates of return from public investment in research and higher education graduates of 20 and 15% respectively, as well as significant improvements to the Australian GDP.
+
+Quality support and amenities for Australian university students
+
+Meanwhile, Universities Australia is calling on the Federal Senate to ensure the availability of quality student support services and amenities at Australian universities through passage of the Higher Education Legislation Amendment (Student Services and Amenities, and other Measures) Bill 2009.
+
+In a media release issued yesterday, Universities Australia CEO Dr Glenn Withers said that as well as important sports services stressed by some senators, there were many essential university services such as health care, counselling and career advice, child care facilities and independent advocacy and legal support that provided a safety net for all students.
+
+“Without this legislation, universities will have to continue cross-subsidising from their core teaching and research budgets, at a time when their budgets are under pressure. If Australia is to achieve a goal of greater participation in university study by students from low socio-economic backgrounds, support for these services and amenities is vital.
+
+“They especially assist students away from home networks, such as rural and regional students and many international students. No student will be obligated to join a student union or guild under this legislation, and there is clear assurance that funds will not find their way to student political activity, due to the guidelines which must be approved by both Houses of Parliament and through required university oversight of all spending,” Dr Withers said.
+
+In a separate media release, the Australian Technology Group of Universities (ATN) said the essential services identified in the legislation were not “marginal and extreme political activities” as described in the Opposition’s senate committee report on the issue. The ATN rejected moves to quarantine funds involved to sporting facilities only.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Vice Chancellors' Committee](https://info.scoop.co.nz/Vice_Chancellors'_Committee) on InfoPages.

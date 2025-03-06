@@ -1,0 +1,68 @@
+---
+slug: green-candidate-for-northern-ward
+title: "Green candidate for Northern Ward"
+date: 2007-08-24
+source-url: https://www.scoop.co.nz/stories/AK0708/S00279/green-candidate-for-northern-ward.htm
+author: green-party
+---
+Green candidate for Northern Ward
+=================================
+
+**Friday, 24 August 2007, 9:27 am**  
+**Press Release: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Green candidate for Northern Ward completes Local Body Green Team
+
+23 August 2007
+
+The Green Party has selected Tane Woodley, ex-Regular Army and a serving Territorial officer, as its candidate for the Northern Ward of the Wellington City Council.
+
+Mr Woodley lives in Johnsonville with his family, including his seven-month daughter. He works in Civil Defence, and has commanded the local Territorial Force company for the past four years.
+
+“Our world is changing, and we must change our city to deal with this. Peak oil, climate change and resource depletion are already having an effect on Wellington. These are global problems, but the solutions to them have to be implemented at the local level.” said Mr Woodley.
+
+“As a community, we must ensure we have leaders who are fully aware of these problems, and have workable solutions for them. That is why I’m standing for the Green Party, because this is a party with real solutions”.
+
+Mr Woodley said that Wellington will remain a highly desirable place to be, as these changes have a greater impact on the rest of the world. “Wellington will do better than most other global cities, but there is much we can do to make our situation better still. We must develop closer, better-integrated communities. This means ensuring that our suburbs don’t sprawl further, and that infill development is done carefully. We will need to live closer to schools, workplaces and shops in the years to come.”
+
+In addition, Mr Woodley wants to see better public transport networks; in particular a tram system that would ultimately stretch from Tawa to Seatoun, Island Bay and Karori, as well as the rest of the region. “We’ve all seen and felt the effects of rising petrol prices, and these rises will only continue. We need transport options other than the private car, such as improving bus-lanes, cycle paths, park-to-ride facilities and footpaths.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Mr Woodley is one of 3 Greens standing for the Wellington City Council, joining Celia Wade Brown (current sitting Councillor, Southern Ward) and Iona Pannett (Lambton Ward). Paul Bruce, standing for Greater Wellington Regional Council completes the Green team.
+
+Mr Woodley is a member of the Johnsonville Residents Association. He has a history and politics degree from the Australian Defence Force Academy, and completed the Master of International Relations programme at Victoria University this year.
+
+Biography- Tane Woodley
+
+I was born in Lower Hutt, in January 1972, and grew up in Naenae and Taita. I went to Naenae College in Lower Hutt, and then joined the Regular Force of the New Zealand Army on my 18th birthday.
+
+I was selected to train at the Australian Defence Force Academy in Canberra, where I gained my Bachelor of Arts degree in history and politics, followed by a year at the Royal Military College, Duntroon, where I was commissioned as an officer. I spent 11 years in the Regular Force, initially in the artillery and then in the Army Logistics Regiment, which included a six-month deployment to East Timor in 2000. I joined the Territorial Force of the Army in 2003, and currently serve as a Major, commanding the Wellington Company of the local reserve unit.
+
+I left the Army in 2001 to do some travelling, and spent 18 months in Europe, before returning home to Wellington in late 2002. I worked at Telstraclear, before joining Biosecurity New Zealand in 2004. After two years there, I studied full-time at Victoria University, on the Master of International Relations programme, which I completed in February 2007. I then worked at the Ministry of Health on a short-term contract, assisting with the planning for Exercise Cruickshank, the pandemic influenza exercise, and have just started working for the Ministry of Civil Defence and Emergency, as an emergency planner.
+
+I became interested in environmental issues when I was at Duntroon, when I read Ben Elton’s first book ‘Stark’. The notion of infinite growth being impossible in a finite world stuck in my head, and I steadily increased my knowledge of environmental issues. In 2003 I looked at the website ‘oilcrash.com’, and began to study peak oil. As a logistics officer, I understood the transport implications of a shortfall in liquid fuels, and the wider economic impacts. My knowledge of history leads me to believe that the effects on society at all levels will be severe. I joined the Green Party when it announced a campaign on the issue in 2005, and have been an active member since. This campaign is part of my effort to educate people on the problems facing us, and the actions we must take, as a city and nation, to meet them.
+
+ends
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

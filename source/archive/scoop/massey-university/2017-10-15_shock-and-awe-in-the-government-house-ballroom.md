@@ -1,0 +1,65 @@
+---
+slug: shock-and-awe-in-the-government-house-ballroom
+title: "Shock and awe in the Government House Ballroom"
+date: 2017-10-15
+source-url: https://www.scoop.co.nz/stories/ED1710/S00042/shock-and-awe-in-the-government-house-ballroom.htm
+author: massey-university
+---
+Shock and awe in the Government House Ballroom
+==============================================
+
+**Sunday, 15 October 2017, 12:00 pm**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+**Shock and awe in the Government House Ballroom.**  
+
+  
+An audience at Government House in Wellington last night were left stunned when Pasifika multimedia artist and fashion designer Lindah Lepou presented a video of her burning many of her iconic gowns designed over the past 25 years.
+
+There were gasps and tears as the video showed model after model walking up to a beach bomb fire before Ms Lepou removed each garment and placed it into the fire against a backdrop of dramatic music.
+
+The video, played on a specially designed monolithic floor to ceiling screen in the Government House Ballroom, was part of an event to showcase Ms Lepou’s time as the Matairangi Mahi Toi Artist in Residence, a scheme run by the Office of the Governor General and the Massey University College of Creative Arts.
+
+The residency supports Māori and Pasifika artists by allowing them to live in a cottage on the grounds of Government House while they create new works. Ms Lepou’s residency gave her the chance to reflect on a career that has defined how the world sees Pacific fashion and art but it also marked the beginning of a new era for her. While the video depicted her shedding her past, three new creations were also unveiled at the event.  
+
+  
+These included an exquisite cream gown in Ms Lepou’s trademark siapo or tapa cloth along with an avant garde work where blush roses orbited the model on a wire tutu worn over a figure hugging black jumpsuit.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Ms Lepou coined the term, ‘Pacific Couture’ as a new language to help communicate and contribute a unique Pacific identity within the global fashion/art discourse. She says “It literally took 25 years to build a language to help people understand the significance of what I was doing and to help me communicate to the world what makes the Pacific and New Zealand special.”
+
+Ms Lepou says the residency came at a transition period in her life and her confronting video was an expression of that evolution. “I thought this would be the perfect timing to transform myself from one cycle to the next which required a massive ‘letting go’ of the past.”
+
+Thankfully her ‘letting go’ did not include seven gowns belonging to the Te Papa collection and guests at last night’s function were able to view them displayed under the chandeliers of the Blundell Room. It was a colourful night of contrast as the throb of pacific drumming filled the ballroom and waiters swayed with trays of canapés under the gaze of royal portraits.
+
+College of Creative Arts, Pro-Vice Chancellor Claire Robinson praised the Matairangi Mahi Toi Artist residency programme started by former Governor General Sir Jerry Mateparae. “Most people here wouldn’t have considered how unique it is to have an artist in residence scheme inside the grounds of the head of state. You can’t quite imagine Donald Trump making a little cottage available on the grounds of the White House so cutting edge artists can come and make some new work.”
+
+Governor General, The Rt Hon Dame Patsy Reddy told guests that Government House was pleased to be able to support the creative work of New Zealand’s Māori and Pasifika artists who she said provided the beating heart of our cultural expression.
+
+“Working in the space where art and fashion intertwine, Lindah’s pieces make beautiful statements about culture and identity. It’s been a real pleasure to have her living here in the grounds and to be able to talk to her about her work. I’m delighted to report that our dog Coco was blissfully unaware of the presence of Tinky (Ms Lepou’s cat) – so no unseemly territorial squabbles broke out.”
+
+Ms Lepou was the first Pasifika artist to take up the Matairangi Mahi Toi programme and last year Māori artist Professor Ross Hemera was the inaugural recipient.
+
+  
+RELEASE ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

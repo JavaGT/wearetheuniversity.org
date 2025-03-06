@@ -1,0 +1,46 @@
+---
+slug: christchurch-earthquake-bulletin-edition-69
+title: "Christchurch Earthquake bulletin edition 69"
+date: 2011-07-04
+source-url: https://www.scoop.co.nz/stories/PA1107/S00028/christchurch-earthquake-bulletin-edition-69.htm
+author: new-zealand-labour-party
+---
+Christchurch Earthquake bulletin edition 69
+===========================================
+
+**Monday, 4 July 2011, 10:44 am**  
+**Press Release: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Christchurch Earthquake bulletin edition 69
+
+The Labour Party's Christchurch electorate MPs, Earthquake Recovery spokesperson Clayton Cosgrove (Waimakariri), Ruth Dyson (Port Hills), Lianne Dalziel (Christchurch East) and Brendon Burns (Christchurch Central) have started a regular bulletin to keep people in their electorates and media informed about what is happening at grass roots level.
+
+CLAYTON COSGROVE: Tradespeople are telling me that they need speedy payment for work they are doing for the EQC, and they are also need certainty in terms of when the recovery and rebuilding programme begins in earnest. They are also arguing for a more flexible approach toward taking on apprentices. One tradesperson, who is a good employer with a large number of staff, has been struggling to get a considerable amount of money in arrears --- tens of thousands of dollars --- from the EQC. Clearly a more streamlined system is needed. Companies have to keep stock on hand, pay staff, and deal with their banks --- they need the EQC to be responsive to their situation. Tradespeople are also saying they need more certainty about the rebuilding programme before they gear up in terms of equipment and staff. They need to know when things are going to get started. I can certainly understand their point of view. One interesting idea that needs exploring is to take a different approach to apprenticeships. For example, in the plumbing industry there is a great deal of demand at the moment to repair damaged hot water cylinders. This work could perhaps be done by untrained staff under the supervision of skilled tradespeople who could then be freed up to get on with other work. The idea is that the unskilled staff could start their apprenticeship doing this sort of work, and then graduate to more formal skills training later. It's worth thinking about to get over the current hump of skills shortages. Christchurch businesses are very grateful to Wellington businesses who organised the Hands Up Wellington event over the weekend, bringing Christchurch businesses to Wellington for 48 hours to sell their goods and services. It was a great and practical way to help Christchurch businesses stay on their feet and begin the process of rebuilding. Thank you, Wellington.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+RUTH DYSON: Reported EQC comments that the white zone will move to red, orange or green within the next 10 days or so have been a welcome surprise to my constituents. We are also at an advantage in that we are already aware of details of the government options for those who may be in the red zone. The owners of homes in the orange zone have all received a letter saying that their land assessments will come after the white zone work. I have heard that much of this work will be finished within 10 weeks, although the rock fall areas that have a lot of complexity will take much longer. I hope Gerry Brownlee can finalise some more of the package soon, because, as we have already seen, some basic questions don't have answers and are frustrating people who already have enough to deal with. One of the most common questions is "how can I get my rateable value reviewed?" We really do need a process for this urgently! I have had several constituents contact me who were in the process of selling their house earlier, and have now been told that their property value has dropped dramatically --- some as much as 20%. I have sought advice on this, and even though it is difficult to give a blanket view, and obviously this is a very difficult time in regard to selling property, there are still many people who want to buy safe homes on our side of the city, and this drop in value probably does not reflect what the market price would actually deliver. I am concerned that people who are already vulnerable may well sell under value because of the additional stress of waiting --- and end up very shortchanged - literally! We had a great working bee on Friday morning at the Mt Pleasant market site, which was covered in silt and water. By the time the market opened on Saturday morning, the site was just a picture! The market was very well attended, aided by the excellent winter weather (very cold but fine!) which was a fantastic reward for our digging and sweeping. Well done to Tom Davies for organising the market and the working bee, and the Mt Pleasant residents and Linwood College students who all helped clean up the site.
+
+LIANNE DALZIEL: I had a very busy weekend, attending two café conversations at the Parklands Baptist Church, seven cottage meetings of mainly green zone residents who live on the cusp of a red zone, and a meeting with the person who produced the "Black Map" for his employer --- the then Christchurch Drainage Board. This was reproduced in the Short History of the Christchurch Drainage Board 1875-1989 written by John Wilson, which had the telling title: Christchurch Swamp to City. I believe we need to understand the history of the land before we make decisions about building/rebuilding. The café conversations are an excellent way of bringing people together to talk about what could be done to reinvigorate the spirit of the community. There is a major cloud over Parklands with a large number of properties having been classified in the orange zone creating uncertainty. I have suggested the community start door-knocking now to find out how people are feeling and what their needs are, so support can be offered whatever the final decision. There were many ideas for bringing people together as a community and providing activities locally so people didn't have to travel away to do things. The cottage meetings raised questions about the process used to draw the line around the zones --- we need the engineers to explain this in detail to people who sit on the boundary, often separated by a fence or road from the red zone. The ability to insure green zone property was raised at each meeting and we will seek assurances about this. Tonight Grace Vineyard Church is holding a community celebration to acknowledge the volunteers who responded magnificently to the February 22 quake. I will be presenting certificates that acknowledge their commitment to our community.
+
+BRENDON BURNS: It was uplifting to be at Rugby Park with a good local crowd in glorious weather on Saturday to watch Canterbury thrash North Otago in a home turf Ranfurly Shield challenge. We need these boosts at present. Well done to Canterbury Rugby Union for managing the switch to Rugby Park so successfully, with good communication to the St Albans community around the park. Afterwards we dropped in on friends in Roosevelt Ave who lent me a copy of the Christchurch Drainage Board's history, the aptly-named From Swamp to City. The book includes the famous Black Maps, showing the city at the time of settlement and all of the many swamps, creeks, streams and other low-lying areas. Frankly I find it worrying that there is a huge focus on developing new sections in areas around Marshlands. It will take some convincing for many of my constituents that there is merit in them moving from red-zoned areas deemed inappropriate to build on again to other areas of land with a low water table. Marshlands was named that for a reason. I held another cottage meeting yesterday, this time in Harvey Terrace off Fitzgerald Ave which is peppered with orange-zone houses among the green and not far from some red. While there has been a lot of media coverage of the land announcements and a string of public meetings, people are still hungry for detail on what orange means, how long it will be before they know whether they will be designated red or green and whether Total Replacement Insurance means what it suggests.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

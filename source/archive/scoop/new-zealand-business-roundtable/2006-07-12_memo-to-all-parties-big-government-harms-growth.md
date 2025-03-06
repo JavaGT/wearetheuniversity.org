@@ -1,0 +1,224 @@
+---
+slug: memo-to-all-parties-big-government-harms-growth
+title: "Memo to All Parties: Big Government Harms Growth"
+date: 2006-07-12
+source-url: https://www.scoop.co.nz/stories/BU0607/S00171/memo-to-all-parties-big-government-harms-growth.htm
+author: new-zealand-business-roundtable
+---
+Memo to All Parties: Big Government Harms Growth
+================================================
+
+**Wednesday, 12 July 2006, 9:09 am**  
+**Speech: [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable)**
+
+EMBARGOED UNTIL 8.00 AM WEDNESDAY 12 JULY 2006
+
+ROTARY CLUB OF PORT NICHOLSON
+
+Memo to All Parties: Big Government Harms Growth
+
+ROGER KERR
+
+EXECUTIVE DIRECTOR WELLINGTON
+
+NEW ZEALAND BUSINESS ROUNDTABLE 12 JULY 2006
+
+MEMO TO ALL PARTIES: BIG GOVERNMENT HARMS GROWTH
+
+The stated top priority of Labour-led governments since 1999 has been to lift New Zealand’s rate of economic growth and thereby increase per capita incomes.
+
+  
+In 2001 the prime minister told the Auckland Rotary Club:
+
+  
+Our government is ambitious for New Zealand. We want our country back in the top half of the OECD across the economic and social indicators. To achieve that, New Zealand needs a more consistent economic performance at higher rates of growth than it has experienced for a long time.\[1\]
+
+The Speech from the Throne at the start of Labour's second term in 2002 stated that the government:
+
+... sees its most important task as building the conditions for increasing New Zealand's long term sustainable rate of economic growth.\[2\]
+
+In February this year the prime minister told parliament:
+
+Economic transformation has always been central to this government's economic policy.\[3\]
+
+The only purpose of ‘economic transformation’ must be to raise growth and living standards, so we can take it that the government’s goal is unchanged.
+
+Becoming a high income economy is a goal to be applauded. It is the only effective solution to many of the country's economic, social and even environmental problems. New Zealand is currently 20th out of 30 OECD countries in terms of real gross domestic product (GDP) per capita. Immediately above us (in ascending order) are Italy, Germany, Japan, France and the United Kingdom, which, at an income level about 21 percent higher than ours, is the median OECD country. Immediately below us are Spain, Korea, Greece, Portugal and six other OECD countries. A number of non-OECD countries, such as Hong Kong and Singapore, have higher GDP per capita than New Zealand.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Early in its term of office, the Treasury advised the government on the implications of its target. Using reasonable assumptions, Treasury found that real GDP per capita growth of between 4.6 and 7.4 percent a year would need to be sustained for 10 years to bring New Zealand up to at least the median for OECD members.\[4\]
+
+Getting back up the OECD ladder is a feasible task. Ireland showed this was possible in the 1990s, climbing from 21st position in 1990 to 4th in the rankings. But Ireland has sustained a programme of free-market reforms (rising to 3rd position after Hong Kong and Singapore in the 2006 Heritage Foundation/Wall Street Journal rankings of economic freedom from 21st position in 1996) whereas New Zealand has moved in the opposite direction (falling from 4th to 9th equal ranking in the index in the same period). Australia has also moved up in the economic freedom indexes and has gone from 17th to 9th position since 1990 in the OECD per capita income rankings.
+
+New Zealand is not making significant progress. In the decade to 2004, our real per capita GDP grew by 2.1 percent a year on average, an improvement on previous performance but only a little above the OECD average of 1.9 percent.
+
+Moreover, forward projections indicate that New Zealand’s trend growth rate is falling, not rising. Treasury is projecting an average per capita growth rate of 1.9 percent a year through to 2016/17.\[5\] This would need to more than double if the government's goal were to be achieved in that timeframe (which is more than 15 years after the government was elected). And it should not be forgotten that other countries in the OECD and beyond are striving for faster growth and greater prosperity too.
+
+It is simply not credible to argue that the government's growth objective can be achieved with existing policies, and they are not generally improving. The trend is still towards greater state intervention, more redistribution and less economic freedom, which can only discourage entrepreneurship and wealth creation.
+
+Achieving the government’s goal would require the implementation of a much more vigorous pro-growth policy programme. Increased openness, freer labour markets, better business regulation, privatisation, lower marginal tax rates, more choice and competition in health and education, less welfare, and a reduction in 'command and control' safety and environmental legislation would all help.
+
+My focus today, however, is on government spending. The Business Roundtable has consistently argued that the government's growth goal is unachievable unless the ratio of government spending (central plus local) to GDP is reduced from its current level of around 40 percent.
+
+In 2001 we published a study by an Australian economic consultant Winton Bates, How Much Government?: The Effects of High Government Spending on Economic Performance. Its aim was to survey research on whether high levels of public spending – and hence taxation, since most government spending has to be financed by taxation – harms economic growth.
+
+The study pointed to a clear negative relationship between the size of government and growth once public spending grows beyond justifiable levels. Big government adversely affects economic performance in many different ways:
+
+\- High levels of government spending on goods and services (including public sector employment) often waste resources because objectives are unclear and performance is not rigorously assessed.
+
+\- Increases in government spending tend to encourage special-interest lobbying. As a result, much government spending – in areas like health, education and superannuation – provides private goods for the benefit of middle-income families. It turns out, however, that such ‘middle class welfare’ is often funded by the same people and displaces more efficient private arrangements.
+
+\- Government income redistribution has adverse effects on incentives and often leads to greater welfare dependency. The government has moved well away from targeting assistance to the genuinely needy. A family with three children on an income of up $101,560 may qualify for income assistance under the Working for Families scheme.
+
+\- The deadweight costs or output losses incurred in raising additional revenue rise more than proportionately as taxes rise. When account is taken of deadweight costs associated with both taxation and the delivery of benefits, it is likely that these costs are equivalent to more than half of each additional dollar of government spending in New Zealand.\[6\]
+
+A comment by Professor James Gwartney, a leading researcher on economic growth, quoted in Winton Bates’s study received a lot of attention. Professor Gwartney wrote:
+
+... New Zealand is still a big government welfare state. Government spending \[central plus local government\] continues at nearly 40 percent of GDP, a figure much too high for maximum growth. I do not know of any country that has sustained per capita income growth of 4 percent or more with that level of government spending.\[7\]
+
+The minister of finance, Michael Cullen, disputed this statement, saying it "is simply wrong". He also claimed that the view that "cutting taxes leads to higher economic growth is simply not true". This claim has been repeated many times in the debate on tax cuts.
+
+I examined Dr Cullen's denial of Professor Gwartney's statement in a speech I made in 2002 entitled ‘Memo to Dr Cullen: Big Government Harms Growth’. Let me summarise the analysis presented in that speech before updating it.
+
+It seems Dr Cullen's claims were based on a memorandum from his economic advisor at the time, Peter Harris. The paper acknowledged that instances of 4 percent per capita growth over an extended period of time "are not that common". That is already an important concession: New Zealand is unlikely to be an outlier, given some natural disadvantages such as size and location. Nevertheless, the paper identified four countries  
+(Finland, Ireland, Korea and Luxembourg) that were "of interest" in having achieved a 4 percent per capita rate of growth for five years or more since 1985. It noted that, of these, one (Korea) had a small government and the other three "had governments that spent in excess of the ‘forty percent' level".
+
+This point is correct. However, five years is too short a period to establish ‘sustained’ growth. As Professor Gwartney has observed, at least a 10-year period is needed to avoid the bias introduced by cyclical factors.\[8\]
+
+Moreover, the debate is in the context of lifting New Zealand's level of real GDP per capita to at least the median OECD country. As the Treasury paper showed, per capita growth of at least 4.6 percent a year for 10 years would be necessary to achieve the government's goal. Thus 10 years is a more relevant period to use.
+
+Of Peter Harris’s four countries, only Luxembourg sustained just over 4 percent per capita growth for 10 years in a row with government spending which was above 40 percent of GDP in most but not all years.
+
+I have updated this analysis to cover the period from 1985 to 2004 inclusive. Revisions to the relevant data have also been taken into account. The OECD has, for instance, refined its data on the ratio of spending to GDP. The updated findings are summarised in table 1.\[9\]
+
+As with the earlier analysis, only three OECD countries – Ireland, Korea and Luxembourg – achieved an annual average growth in per capita income of at least 4 percent over a 10-year period. Ireland and Korea did so in every 10-year period examined. Luxembourg did so in only three of the 10 periods examined (1985-1995, 1987-1997 and 1990-2000). It has not achieved growth of at least 4 percent a year over any 10-year period since 2000.
+
+Both Korea and Ireland are still low-spending countries. Korea's spending ratio was below or around 20 percent from 1985 until about 1998 when it began to rise. It reached a peak of 31 percent in 2004 but is still well below Professor Gwartney's 40 percent benchmark.
+
+Ireland's spending ratio declined from 51 percent in 1985 to be under 40 percent from 1996 to 2004. As Professor Gwartney observed:
+
+With its entry into the EEC, Ireland liberalized its trade policies during the 1980s. It also shifted to a more stable monetary policy. After decades of expanding government, tax increases and budget deficits, the bond market virtually forced Ireland to reduce its spending in 1987. The cut was followed by a period of restraint on the growth of government. Eventually, tax rates were lowered. This combination of policies - trade openness, monetary stability, smaller government, and lower taxes - transformed Ireland into a high-growth economy during the 1990s.\[10\]
+
+With respect to Luxembourg, Gwartney commented:
+
+While Luxembourg may have achieved real growth of 4 percent during the 1990s, how relevant is it to the issue of whether high levels of government expenditures generally retard growth? Luxembourg has a population of 439,000 and an area of 3,000 square kilometres. It is more comparable to a modest sized city. For various reasons, small geographic areas often experience rapid growth ... \[11\]
+
+Accepting Luxembourg as a marginal case, the experience of 25 of the 26 OECD countries examined suggests public spending at New Zealand's level is inconsistent with the government's goals for sustained growth.\[12\] It is the experience of countries in general rather than exceptions that should guide policy.
+
+Even if the required period of sustained growth is reduced to five or seven years, no other countries have consistently achieved the 4 percent growth target between 1985 and 2004. Only five additional countries (Finland, Greece, Japan, Portugal and Spain) have achieved it between one and three times over a five year-period. Only two (Finland and Portugal) have achieved it either once or twice over a seven-year period.
+
+Moreover, only two additional countries (Finland and Portugal) occasionally achieved growth of 3 percent a year over a 10-year period (see table 2). In other words, only five OECD countries have achieved a less demanding 3 percent per capita growth target on a sustained basis over the past 20 years.
+
+Of course lower spending does not guarantee higher growth rates. The spending ratio of four countries (Australia, Japan, Switzerland and the United States) was generally below 40 percent between 1985 and 2004 but they did not achieve an average per capita growth rate of 4 percent a year over 10 years. Lower spending is a necessary but not sufficient condition for faster growth. Other pro-growth policies are also necessary.
+
+Bryce Wilkinson revisited this debate in a study published by the Business Roundtable in 2004. He concluded that:
+
+... a reduction in government spending from its present 40 percent level relative to GDP seems a necessary, if not sufficient, condition for raising annual per capita growth to 4 percent or more.\[13\]
+
+Some level of government spending is obviously needed to ensure the provision of necessary public goods and allow a market economy to function. Dr Wilkinson’s assessment was that government spending equal to 20-30 percent of GDP could be sufficient for the government to undertake its core functions, including a welfare safety net.
+
+The evidence that high spending is bad for growth and does not advance social objectives is increasing, as economists Ludger Schuknecht and Vito Tanzi reported recently:
+
+The period up to early 1980s witnessed a remarkable growth in public spending in most industrialized countries, and particularly on their 'welfare states'. Since the late 1960s scepticism as to the benefits from an ever-increasing role of the state started to be expressed and theoretical and empirical evidence started to accumulate that suggested that a much smaller level of public spending would be able to promote basic social objectives.\[14\]
+
+  
+Schuknecht and Tanzi noted that over the past two decades several countries were able to reduce public spending by "remarkable amounts". They found that:
+
+... countries undertaking ambitious expenditure reform did not seem to have suffered from these large reductions either in a macro sense, or in terms of lower values for socio-economic indicators. On the contrary, ambitious expenditure reform was generally accompanied by improvements in fiscal indicators. They made possible significant deficit and debt reductions while providing room for tax cuts.\[15\]
+
+  
+The research also confirms that much public expenditure does not deliver value for money, particularly when the economic costs of taxation to fund it are considered.
+
+My focus today has been on the quantity of spending. Even if all government spending represented good value for money, the deadweight costs of taxation needed to finance a high level of spending would damage growth. But obviously the quality of government spending matters too. As in other countries, New Zealand’s experience points to endless cases of wasteful and poorly targeted government spending. Working for Families and interest-free student loans – election bribes on the scale of Muldoon’s superannuation scheme – are just the latest examples. Invariably politicians don’t spend taxpayers’ money as carefully as they do themselves.
+
+It is extraordinary that Dr Cullen remains in denial in the face of such evidence. Following the spending reductions of the early 1990s, the New Zealand economy grew by nearly 4 percent a year in the five years to 1996 (the more consistent overall policy framework, and possibly cyclical factors, also played a part in this expansion). Subsequent increases in spending contributed to dampening the growth rate.
+
+There is also overwhelming evidence that lower and flatter taxes encourage work, saving and investment, and increase economic growth. In its 2005 briefing to the incoming government, the Treasury reviewed the relevant literature and advised that it pointed strongly to the negative effects of high marginal tax rates on growth. Dr Cullen dismissed this advice as an “ideological burp”.
+
+My comments are not only directed at Labour’s thinking, however. At the last election National finance spokesman John Key was saying National planned to keep central government spending at around its present share of GDP. In other words, National was not putting forward a policy that was consistent with fast growth.
+
+A government does not need to go in for actual cuts in spending programmes – desirable though these may be in many cases – to lower the spending ratio. This can be achieved by keeping the rate of growth of spending below the growth rate of the economy. But unless the spending ratio falls, ongoing tax reductions are not possible. National’s tax proposals were essentially funded only by reducing current operating surpluses.
+
+Under the last National-led government (1996-99) we saw large increases in government spending. These have continued since 1999. For example, core Crown expenses rose a massive three percentage points of GDP (from 29.2 percent to 32.3 percent) in the two years to June 2006. We cannot transfer resources on this scale from the productive sector of the economy to the public sector and not expect slower growth (as well as negative consequences for the real exchange rate, the balance of payments and other economic outcomes).
+
+Because the Fiscal Responsibility Act (now part of the Public Finance Act) has not effectively constrained government spending, the Business Roundtable has been promoting stronger disciplines, including the idea of a legislated tax and expenditure limit (TEL). The main feature would be a rule that held growth in government spending to no more than population growth and inflation, unless taxpayers approved higher increases in a referendum.
+
+Such a rule would allow economic growth to reduce the spending ratio and thereby tax rates significantly over, say, a decade. For example, if GDP per capita were to grow at 3 percent per annum for a decade and our population were to grow by around 0.8 percent a year as predicted in one of Treasury’s scenarios, such a rule applied to current levels of central government spending (around 33 percent of GDP on a GAAP basis) would reduce the central government spending ratio to under 27 percent over 10 years. This in turn would allow total tax revenue to be about 20 percent lower than otherwise.
+
+We have also advocated a thoroughgoing review of existing spending, most of which is seldom scrutinised. A TEL rule would force more attention to be paid to base spending. As President Reagan once remarked, a government programme is the closest thing to eternal life we will encounter in this world.
+
+The stakes involved in achieving faster growth through a combination of spending and tax reductions and other pro-growth policies are high. A per capita growth rate of 1.9 percent a year (the Treasury’s projection) would see average incomes 21 percent higher over 10 years. A rate of 3 percent would mean a cumulative 34 percent increase and a 4 percent rate an increase of 48 percent.
+
+Given the figure of $30,600 for current GDP per capita, this means that the income of the average New Zealander in 10 years’ time would be $37,000 on the 1.9 percent growth rate scenario, $41,200 if growth averaged 3 percent per capita and $45,400 if 4 percent growth were achieved. The gap of $8,400 between the high and low growth scenarios illustrates what is at stake. The high growth scenario would narrow the gap between average New Zealand and Australian income levels, given a continuation of Australia’s trend growth rates, and put us ahead of where average Australian incomes are today.
+
+Ireland achieved annual per capita growth of around 6.3 percent in the 1990s. There is no reason why New Zealand could not do far better than the projected 1.9 percent growth rate.
+
+The key points I would like to leave you with are therefore as follows:
+
+\- achieving the government's goals of getting New Zealand into the top half of the OECD income rankings within a decade or so requires sustained per capita economic growth in excess of 4 percent a year;
+
+\- OECD experience indicates that Dr Cullen's belief that New Zealand can achieve a 4 percent per capita growth rate with total government spending (including local government) equal to 40 percent of the economy is not credible;
+
+\- Dr Cullen's claim that there is no evidence that high government spending and taxation depress growth is also wrong;
+
+\- a lower ratio of government spending to GDP is not a sufficient condition for meeting the government's growth target – many other policy changes are needed – but it is a necessary one; and
+
+\- the stakes involved in achieving a better economic performance are very high.
+
+ENDS
+
+See...  
+[Table 1: OECD Countries that Achieved Annual Average Growth in Real GDP Per Capita of at Least 4 Percent A Year for 5, 7 or 10 years Consecutively Between 1985-2004](http://img.scoop.co.nz/media/pdfs/0607/brt1.pdf)
+
+[Table 2: OECD Countries that Achieved Annual Average Growth in Real GDP Per Capita of at Least 3 Percent A Year for 7 or 10 years Consecutively Between 1985-2004](http://img.scoop.co.nz/media/pdfs/0607/brt2.pdf)
+
+Rt Hon Helen Clark, speech to the Auckland Rotary Club, 16 July 2001.
+
+2 Dame Silvia Cartwright, Speech from the Throne, 27 August 2002.
+
+3 Rt Hon Helen Clark, Prime Minister’s Statement to Parliament, 14 February 2006.
+
+3 Mawson, Peter and Scobie, Grant (2001), ‘Climbing the OECD Ladder – What Does New Zealand Have to Do?’, unpublished paper, The Treasury, Wellington.
+
+5 The projection is computed from the base scenario in Treasury’s long-term fiscal model.
+
+6 Bates, Winton (2001), How Much Government?: The Effects of High Government Spending on Economic Performance, New Zealand Business Roundtable, Wellington, p viii.
+
+7 Personal communication from James Gwartney to Winton Bates, January 2001.
+
+8 Personal communication from James Gwartney to Roger Kerr, September 2002.
+
+9 Spending data were taken from the OECD Economic Outlook No 78, Organisation for Economic Cooperation and Development, Paris, December 2005. GDP per capita growth rates were calculated from data contained in www.oecd.org/document/28/0,en\_2825\_495684\_2750044\_ 1\_1\_1\_1,00.html
+
+10 Personal communication from James Gwartney to Winton Bates, January 2001.
+
+11 Personal communication from James Gwartney to Roger Kerr, September 2002.
+
+12 Some new members of the OECD were omitted because the necessary data were not available.
+
+13 Wilkinson, Bryce (2004), Restraining Leviathan: A Review of the Fiscal Responsibility Act 1994, New Zealand Business Roundtable, Wellington, p 32.
+
+14 Schuknecht, Ludger and Tanzi, Vito (2005), ‘Reforming Public Expenditure in Industrialised Countries: Are There Trade-offs?’, Working paper No 435, European Central Bank, Frankfurt am Main, p5.
+
+15 Ibid.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable) on InfoPages.

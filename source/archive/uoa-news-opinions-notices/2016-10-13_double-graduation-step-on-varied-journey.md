@@ -1,0 +1,84 @@
+---
+slug: double-graduation-step-on-varied-journey
+title: "Double graduation step on varied journey"
+date: 2016-10-13
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/double-graduation-step-on-varied-journey.html
+---
+Double graduation step on varied journey
+========================================
+
+13 October 2016
+
+![Faull Family](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/double-graduation-step-on-varied-journey/_jcr_content/par/textimage/image.img.jpg/1476322282648.jpg "Faull Family")
+
+At the September Graduation are at right, Tim Faull with his parents, Diana Faull and Distinguished Professor Richard Faull, and front, his fiance and fellow graduate, Leanne Stewart.
+
+Spring graduation was doubly special for Master of Nursing graduate, Tim Faull.
+
+Not only was he graduating with a Master of Nursing with first class honours, but his fiancé Leanne Stewart was graduating at the same ceremony with a Diploma in Advanced Nursing with Distinction.
+
+“It was fantastic graduating together with Leanne and to have Dad on stage as well was very special,” he says, referring to his well-known and widely respected neuroscientist father, Distinguished Professor Richard Faull who is Director of the University’s Centre for Brain Research.
+
+Leanne, who works in primary healthcare at the Greenstone Family Clinic in South Auckland, hopes to pursue her own Master of Nursing in the near future. She graduated in 2013 with a Bachelor of Nursing and a Wolters Kluwer Health/Ovid Award for the most distinguished performance in both clinical practice and academic work in her year.
+
+She was also awarded the Senior Scholar Award in the Faculty of Medical and Health Sciences in 2013 and earned a place on the Bachelor of Nursing honours board as the top student of her year.
+
+Tim’s own journey in nursing from Auckland to the Australian Outback and the bustling streets of Kathmandu has now become firmly entwined with Leanne’s journey.
+
+He completed a Bachelor of Nursing at the University of Auckland and was awarded the Senior Prize in Nursing, graduating in 2006. His interest in nursing focusses around emergency nursing and primary care and he worked for several years in the Adult Emergency Department at Auckland City Hospital.
+
+“Nursing is a great career as you can work in your area of interest that you find motivates you – I was interested in working in the primary care environment and in rural emergency work,” says Tim.
+
+“I enjoy it a lot, especially the people that I work with – in these settings people are very compassionate, understanding and passionate about health promotion. I like to help people with their health challenges, especially in times when things are so difficult for them.”
+
+From Auckland, Tim travelled to Australia’s outback, mainly in north-west Queensland, to gain experience in rural emergency nursing and has completed 10 two-month contracts.
+
+“Two months in those isolated small towns was a good time frame for surviving in that setting, usually based at a medical centre with one medical officer, two nurses and several assistants,” he says.
+
+These centres serviced a large area and were served by the Queensland Ambulance Service who brought patients in from up to three or four hours away.
+
+“We stabilised patients and if they needed more advanced medical management we worked with the Royal Flying Doctor Service to transfer them to a more advanced facility,” says Tim. “It was very exciting and challenging work.”
+
+![Tim Faull Leanne](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/double-graduation-step-on-varied-journey/_jcr_content/par/textimage_0/image.img.jpg/1476322596257.jpg "Tim Faull Leanne")
+
+Tim Faull and Leanne Stewart on a trek up a hill called Kalinchowk where the famous Kalinchowk Bhagwati Shrine is located at 3800 meters.
+
+“Emergency nursing covers all aspects of health from trauma to anyone acutely unwell with a medical, surgical or mental health problem,” he says. “We see a huge variety of presentations and challenges spanning from acute to chronic to palliative, where these health challenges are about as diverse as you can get.”
+
+“Working in the remote setting of the Australian Outback forces you to think outside the box of how to use the resources available to meet complex health needs, as a lot of specific testing equipment just isn’t available – you really have to rely on your nursing skills and knowledge.”
+
+Back in Auckland, Tim decided to pursue post-graduate study in nursing as he’s highly motivated to keep learning and expand his knowledge. He gained a University of Auckland academic Maori and Pacific Graduate Scholarship to complete his Master in Nursing.
+
+“That was fantastic,” says Tim. “Taking on the big challenge of completing my masters in one-year fulltime, this scholarship enabled me to focus on my studies and was key to my success and graduating with a high level.”
+
+He says the School of Nursing has an excellent post-graduate programme that caters for individual learning needs and includes a good relationship with Auckland City Hospital.
+
+“Often when talking to people in interesting positions at Auckland City Hospital, I would find they are also lecturers at the University,” says Tim. “It was good to see how they got where they are and what other pathways are possible.”
+
+Tim’s Masters was fifty percent taught papers and the other half a research dissertation and it was at a class in ‘Population Health and Primary Healthcare’, led by Associate Professor, Nicolette Sheridan, that he met Leanne.
+
+“We have the same ideas about what we want to do and the same values about what’s important, and we both love learning so other decisions about our future were much easier,” says Tim. “Both of us are keen to travel too.”
+
+Travel soon happened when nurse practitioner, Karen Hoare told Tim and Leanne about an opportunity to apply for a place on the Universitas 21 Health Sciences Global Learning Partnership which this year was a four-week pilot programme with the University of Kathmandu in Nepal.
+
+“We decided that both of us should apply and it would be amazing if either one of us got the opportunity,” says Tim. “We put a lot of work into our applications and of course, applied independent of each other. To our surprise and delight both of us were accepted.”
+
+They joined 11 other international students in Kathmandu in April on the programme that was focussed on global health and the UN Sustainable Development Goals and led by University of Melbourne academics, Jessica Lees MacCubbin and with support from Professor Jillian Webb.
+
+They also worked closely with 19 health science students from the University of Kathmandu who joined the course.
+
+“The first week was intensive lectures on global health and conducting a needs assessment in rural communities in Nepal, including barriers to healthcare in these communities,” says Tim. We learned about international challenges in healthcare in various parts of the world and had hands-on learning, seeing some of the challenges first hand that Nepal is facing within its rural communities.”
+
+From their findings in the needs assessments they designed healthcare promotion programmes that would respond to the individual health needs of the community.
+
+“It was an incredible course,” says Tim. “One of the outcomes was forming a great relationship with all the students and academics from this international group and from Kathmandu. It set up a strong relationship for the programme in Nepal and so Universitas 21 is looking at doing this again next year.”
+
+“Professor Ian Bissett had put us in contact with the family of a visiting PhD student from Nepal, Yagyaraj Pant, who we were able to visit weekly before we left,” says Tim. "We spent a wonderful time with him and his family and were able to learn a great deal about the Nepali culture and language before we left.”
+
+“When we got to Nepal we understood the cultural background of the people we met and had a good basic grasp of the language,” he says.
+
+“The Nepali students and local people really appreciate this and it helped us to gain so much more from this course making our stay in Nepal even better.”
+
+The delightful ending to their trip to Nepal was agreeing to marry (within sight of Mt Everest) and among their future plans is a wedding next year.
+
+**For media enquiries [email Suzi Phillips](mailto:s.phillips@auckland.ac.nz), Medical and Health Sciences.**

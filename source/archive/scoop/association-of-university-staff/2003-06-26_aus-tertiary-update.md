@@ -1,0 +1,84 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2003-06-26
+source-url: https://www.scoop.co.nz/stories/ED0306/S00055/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 26 June 2003, 9:55 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+![AUS WEB SITE](http://www.aus.ac.nz/pictures/logo.gif)National bargaining ballot underway  
+Balloting has commenced to determine whether AUS and other unions representing university staff will initiate bargaining for national academic and general staff collective employment agreements in the sector. Union members will make the decision whether to move from enterprise-based to national bargaining as AUS steps up its efforts to put greater pressure on Government to increase funding to universities. AUS has been calling on Government and the Universities to fund the sector properly for salaries so that universities are better able to meet international and domestic relativities.  
+The AUS National President, Dr Bill Rosenberg, said national bargaining would give staff the opportunity to exhibit the collective strength which may be necessary to break through funding barriers which have, for the past decade, limited salary settlements to around the rate of inflation. He said it was important that government understood the salary issues more clearly and worked towards resolving them as it was doing in the health and other parts of the education sector.  
+Ballot papers have been sent to academic and general staff members at seven universities where staff are represented by AUS, and a number of ballot meetings will be held over the next fortnight. The ballot will close at 3.00pm on Wednesday 9 July at which time the votes will be counted.  
+As the bargaining round approaches, the Government has set out the bargaining parameters to take effect in the public sector from 1 July. They include paying “levels of remuneration which are fair (to employees) but not extravagant (in fairness to the taxpayer), and should take into account market demand, recruitment and retention factors, ability to pay, and relativities.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Otago pathologist takes top teaching award  
+2\. Ambitious future for Waikato  
+3\. Foreign student numbers drop 40 per cent  
+4\. University race preferences splits US court  
+5\. UK Government policy puts university research at risk
+
+Otago pathologist takes top teaching award  
+Otago University pathologist Dr Peter Schwartz took the supreme award at the 2003 Tertiary Teaching Excellence Awards ceremony at Parliament on Monday this week. Thirty-four academics from eight tertiary institutions were presented with awards which celebrate excellence in tertiary teaching, promote good teaching practice and enhance career development for tertiary teachers. Award winners can use the prize money to enhance their teaching career and promote best practice amongst their colleagues.  
+Presenting the Prime Minister’s Supreme Award, worth $30,000, to Associate Professor Swartz, Helen Clark said the awards are an important element of the government’s aim to enhance the quality of tertiary education.  
+The other teaching awards, worth $20,000 each, were presented to tertiary teachers for sustained excellence, excellence in innovation and excellence in collaboration. Sustained excellence awards went to Dr Michele Akoorie, Senior Lecturer at Waikato University’s Waikato Management School; Dr Christopher Gan, Senior Lecturer at Lincoln University’s Department of Economics and Associate Professor Steve Jackson from Otago University’s School of Physical Education. Innovation awards went to Dr Pip Lynch, Senior Lecturer at Lincoln’s Social Science, Tourism and Recreation Department; Dr Sydney Shep, Senior Lecturer at Victoria University’s School of Information Management; Dr Terry Stewart, Senior Lecturer at Massey University’s Institute of Natural Resources and Ramarie Raureti, Lecturer at Te Wananga o Aotearoa’s School of Education. Collaboration awards went to the stage one introductory statistics team at the University of Auckland’s Department of Statistics and the professional cookery team at Christchurch Polytechnic Institute of Technology’s School of Food and Hospitality.  
+The AUS National President, Dr Bill Rosenberg, congratulated prizewinners, saying it was important that great teaching was recognised and that the development of teaching was given as much encouragement as the universities' research role. "Teaching which integrates the academic's expertise, the varying needs of students, and good educational practice is a moving experience.” he said.  
+“New Zealand has to be very careful that the PBRF and other pressures on increasing research output do not undermine teaching. The greatly increased class sizes and financial pressures to reduce such things as tutorials and laboratory work over the last two decades has resulted in a deteriorating environments for teaching. Those issues need to be addressed as well as rewarding our best teachers," said Dr Rosenberg.
+
+Ambitious future for Waikato  
+University of Waikato Vice-Chancellor Professor Bryan Gould has revealed a future for that University as one of the country’s biggest and most influential tertiary institutions. He has said that if Waikato and the University of Technology (AUT) merge they could become the biggest university in New Zealand which could help the university attract enrolments and get more funding. Professor Gould said the university was facing increasing competition from other New Zealand universities, especially Auckland, to attract domestic students, research funding and to influence policy.  
+"We need to keep moving forward, keep ourselves financially viable and keep ahead, but that's going to be tough. We will need a more favourable strategic environment to operate in if we are going to compete with other New Zealand universities," Professor Gould said.  
+Also under consideration is a proposal to turn the Bay of Plenty Polytechnic into a university college, with postgraduate university courses to be delivered by the University of Waikato and AUT in Tauranga.  
+Further plans for Waikato to establish a base in Manukau, previously reported in Tertiary Update, still await further consideration by the Manukau City Council.
+
+Foreign student numbers drop 40 per cent  
+International student enrolments at New Zealand's English language schools have dropped by up to 40 per cent in the second quarter of the year according to latest figures from Education New Zealand. Severe acute respiratory syndrome (SARS) affected arrivals in New Zealand in March and April. The rising value of the New Zealand dollar, the Iraq war, increased domestic competition, and an economic downturn in Asia has also had an impact on numbers.  
+The effect on universities has been varied. The effect on universities has been varied. The University of Canterbury’s second semester starts mid-July and about 700 new students are expected, including 200 new students.  
+Massey University reports a modest drop in second-semester undergraduate enrolments, but a continued demand for places in the English Language Centre. Vice-Chancellor Professor Judith Kinnear said the university is monitoring the impact of SARS and anticipates some decreases next year but said Massey was looking at ways of diversifying its student intake and was trying to recruit students from Indonesia, Malaysia, Singapore, India and Thailand.  
+Lincoln Vice-Chancellor, Dr Frank Woods, said that based on expressions of interest second semester enrolments were looking good. “There’s no indication we’re down at this stage”, he said.  
+Waikato’s international enrolments remain buoyant but concerns have been reported that its Language Institute and Foundation Studies programmes are projecting a significant reduction in student numbers. Discussions are currently underway to determine the impact on staffing with indications that some positions may be disestablished. AUS has been working with management to minimise the impact on staff.
+
+Worldwatch  
+University race preferences splits US court  
+A closely divided US Supreme Court has ruled that racial preferences can be used in university admission decisions, its first ruling on the important civil rights issue in 25 years. The nation's highest court upheld the University of Michigan's affirmative action policy that favours minorities who apply to its law school, but struck down the programme for its undergraduate college because it went too far in providing an advantage to minorities.  
+In upholding the law school's policy, Justice Sandra Day O'Connor said for the majority in the 5-4 ruling that student body diversity is a compelling state interest that can justify use of race in admissions decisions.  
+The two rulings could determine the fate of similar affirmative action programmes that help minorities gain admission to public and private universities throughout the country.  
+"By upholding the law school's programme the court has actually supplied a road map for all schools in the country on how to have a constitutional programme," Maureen Mahoney, a lawyer representing the university, said.  
+The US Constitution "does not prohibit the law school's narrowly tailored use of race in admissions decisions to further a compelling interest in obtaining the educational benefits that flow from a diverse student body," O'Connor wrote in the 32-page opinion.
+
+Government policy puts university research at risk  
+The British Association of University Teachers (AUT) has published a report this week showing that research by more than 8,000 academic staff in nearly 500 university departments in England is now under threat because of the government’s funding policy for higher education.  
+In the past year departments across the spectrum of medicine, science, engineering, technology, social science, arts and humanities have had a 15% cut in recurrent funding, and the Department for Education and Skills has said that over the next five years the departments could lose all government money.  
+And in hundreds more departments, from this year there will be no government funding at all for research, even though many of these departments have produced research of which more than half is of national excellence.  
+The AUT is particularly concerned that the government’s increasing funding squeeze is leaving some regions without any research into key areas such as clinical medicine, dentistry, agriculture and mechanical engineering. And in other subjects, such as economics, computer science and business studies, research capacity is being sharply reduced.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the union and others. Back issues are archived on the AUS website: http://www.aus.ac.nz. Direct enquires to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

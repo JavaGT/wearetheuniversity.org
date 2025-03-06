@@ -1,0 +1,110 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2006-06-01
+source-url: https://www.scoop.co.nz/stories/ED0606/S00001/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 1 June 2006, 12:38 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Steady progress in tripartite talks  
+Following a meeting of the Universities Tripartite Forum late last week, union representatives are currently meeting with vice-chancellors to discuss technical details relating to funding and the negotiation of collective employment agreements for 2006.  
+Association of University Staff General Secretary, Helen Kelly, said that the combined unions’ bargaining team will meet in Wellington on Friday 16 June to make recommendations for the forthcoming salary round, and that meetings with union members would be held soon after that. Ms Kelly said that good progress had been made in the tripartite process but, because of the nature of discussions, the parties were unable to release details at this stage.  
+In a newsletter to union members last week, Ms Kelly said that, while it had initially been expected that an announcement would be made on salary funding in the 2006 Budget, it had become apparent that a different process would be required to progress the issue. That had been the basis of the discussions with the Government and vice-chancellors last week.  
+Ms Kelly said that, as a result of the tripartite process, the Government had accepted that additional funding is required to resolve salary problems. “In an interview in the AUS Bulletin, the Minister agreed that money is needed up front to start the process, following which there would need to be further movement over a period of time,” she said. “The Minister has also confirmed post-Budget that additional funding could be made available through contingency funding to address these issues, and this had been discussed in last week’s tripartite meeting.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Jobs to go at TWOA  
+2\. Ninety-day bill will inhibit recruitment, says AUS  
+3\. Explanations racist and confused, says Maori Party MP  
+4\. Education contract with Oman signed  
+5\. AUSA calls for end to oppression of Baha’i  
+6\. Lecturers vote to boycott Israeli academics  
+7\. Staff, students oppose constraints on free expression  
+8\. Academic shortage looms  
+9\. Bangladesh university suspends exams for World Cup
+
+Jobs to go at TWOA  
+Around 330 staff employed by Te Wananga o Aotearoa learned this week that their jobs are to be disestablished as the institution restructures in the wake of a major reduction in student numbers. All staff members have received letters advising whether they have been confirmed in their existing positions or are among those whose jobs have gone. Those whose positions have gone in the new structure will be able to apply for 150 internal vacancies; those who do not apply, or those who are unsuccessful in appointment to a new position, will be made redundant, with that process expected to be completed over the next two months.  
+From a peak of more than 30,000 students, TWOA is budgeting this year on 18,000, with the consequential effect that staff numbers will drop to 750 from a current establishment of around 1100. A number of staff have already left or not had employment agreements renewed.  
+In a written statement, TWOA Chair Craig Coxhead said that the new structure is substantially the same as that proposed in April, with the major difference being that, following consultation, an increased number of staff would be employed at regional sites rather than at head office.  
+The disestablished positions are concentrated in middle management and support roles. “Students will not be affected by changes as the number of teaching staff is determined by enrolments,” Mr Coxhead said.  
+According to an earlier statement from Mr Coxhead, carrying on with the current cost structure and forecast enrolments, TWOA would run a deficit for the year of between $13 million and $27 million. Even when the restructuring proposal is implemented, the institution will face a deficit of around $13 million in the first half of the year, exclusive of redundancy costs, but it is then predicted to enter a period of recovery in the second half of the year.  
+Ninety-day bill will inhibit recruitment, says AUS  
+The Association of University Staff has added its voice to those opposing the Employment Relations (Probationary Periods) Amendment Bill, saying that, if passed, the legislation would create a significant disincentive for overseas staff to come and work in New Zealand universities.  
+The Bill, introduced by National MP Dr Wayne Mapp, proposes removing personal grievance rights for all employees in the first ninety days of employment with a new employer. Those rights currently include protection against unjustified dismissal or disadvantage, unlawful discrimination or sexual and racial harassment or duress in relation to joining a union.  
+AUS National President, Professor Nigel Haworth, says that the Bill proposes giving employers the power to dismiss new workers without reason or explanation, and would remove job security every time a worker commenced new employment. “With more than 50 percent of university academic staff recruited from overseas, it is our view that the Bill creates an unacceptable risk for staff considering a career move to New Zealand,” he said. “University lecturers are already on the Immigration Department’s Long Term Occupational Shortages list and, with the current dearth of academic staff on the international market, the legislation would disadvantage the university sector by making it a less attractive employment destination than at present. Salary levels in the sector are already uncompetitive; making employment less secure simply adds to the problems of international recruitment”.  
+Professor Haworth said that the Bill would also mean that current university staff, both academic and general, will be unwilling to move to other university employment within New Zealand, with the result that it would further exacerbate recruitment problems and restrict career development. “The Bill, if enacted, would put in place a measure that is likely to stop highlyskilled, valuable staff from taking advantage of new, better opportunities,” he said. “This flies in the face of the promotion of a dynamic, upwardly flexible labour market.”  
+AUS representatives will appear before Parliament’s Transport and Industrial Relations Select Committee when it hears submissions soon. The AUS submissions on the Bill will be made available after the Select Committee hearing.
+
+Explanations racist and confused, says Maori Party MP  
+The Maori Party Co-Leader, Dr Pita Sharples, has labeled as racist and confused explanations provided to Parliament to justify the axing of the Manaaki Tauira grant scheme which provides financial assistance to Maori students in tertiary education. As part of the 2006 Budget it was announced that an initial $2.1 million in funding was to be cut from the scheme and the programme wound down.  
+In response to a question from Dr Sharples last Thursday, the Minister of Maori Affairs, Parekura Horomia, appeared to tell Parliament that Manaaki Tauira funding could be better used elsewhere on the basis that, when the scheme started, there were only 8,000 students receiving tertiary education compared to 90,000 now. Only 11 percent of current students were using the grants, he said, so the funding had been reallocated to strengthening teacher capability in secondary schools.  
+According to Dr Sharples, to say that the very successful needs-based Manaaki Tauira grant scheme should be cut because Maori tertiary enrolments have increased is another example of confused logic. “One would have thought that the Minister would have advocated for more money to support Maori tertiary education, rather than taking money from needy students and giving it to secondary-school teachers instead,” he said.  
+Dr Sharples said that the Minister for Tertiary Education had earlier given the reason for “chopping the programme” as that the administration costs were high compared with the amount of money that found its way to students. Investigation had shown, however, that the administration cost was $39 per application, significantly less than that incurred by other schemes. “We have undertaken some investigation into the truth of Dr Cullen’s claims, and found that the truth has been sacrificed for political spin and the denigration of Maori administrative skill and professionalism,” Dr Sharples said. “It is a racist slur on the quality of the administration undertaken by the Maori Education Trust and its staff, and the Maori Party will continue to expose the subtle use of racism which our society needs to protect itself from.”
+
+Education contract with Oman signed  
+A five-year deal to provide course content to universities in Oman has been agreed between the New Zealand Tertiary Education Consortium (NZTEC) and the Omani Minister of Higher Education, Her Excellency Dr Rawya Saud Al Busaidi. Under the deal, a consortium comprising the Academic Colleges Group, Auckland University of Technology, the University of Waikato, Victoria University of Wellington, the University of Otago and PINZ Limited will provide content for several business and IT degrees and English language courses.  
+While the value of the deal is confidential, it is understood to be the biggest ever for our international education sector.  
+The Minister for Tertiary Education, Dr Michael Cullen, said the agreement is a testimony to the quality of New Zealand’s tertiary-education institutions. “Education has become the cornerstone of the developing bilateral relationship between New Zealand and Oman,” he said. “This is a great opportunity for both countries and further underlines our international reputation for excellence.”  
+Dr Cullen said that, although individual institutions have previously had off-shore contracts, this is the first time such a consortium had been formed, adding that this project would have been too big for any one of our institutions. “It is particularly exciting to see New Zealand education providers diversifying and recognising that, by working together, they can access high-value opportunities in international markets,” he said. “A partnership approach, involving collaboration between education institutions, backed by government support of the kind New Zealand Trade and Enterprise has provided, is a winning formula for growing New Zealand’s international education sector.”
+
+AUSA calls for end to oppression of Baha’i  
+The Auckland University Students’ Association has called on the Government to take action against the oppression of Baha’i students in Iran, saying that, since 1979, the Iranian Government has systematically blocked more than 300,000 members of the Baha’i community from having access to higher education. Baha’i youth are refused entry into Iranian universities and colleges, and the Government there has stopped Baha’i efforts to establish their own institutions of higher education.  
+Dan Bidois, AUSA President, said the matter is a serious human-rights issue. He said that the denial of higher education is based entirely on religious discrimination and, unless Baha’i students recant their faith, they are not allowed to attend colleges and universities. “Furthermore, the right to education is enshrined in international covenants as well as the Universal Declaration of Human Rights, which Iran is a party to,” he said.  
+Mr Bidois said that the University of Auckland had a small community of Baha’i students, and wanted to voice concerns on their behalf. “AUSA believes that all persons, regardless of their religious affiliations, should have equal access to higher education,” he said.
+
+Worldwatch  
+Lecturers vote to boycott Israeli academics  
+Delegates to the annual conference of the British lecturers’ union, Natfhe, have narrowly voted in favour of a resolution to boycott Israeli academics and academic institutions that do not publicly disassociate themselves from Israel’s “apartheid policies”. The resolution, debated in a closed session of the conference, criticised Israeli policies, including the construction of the exclusion wall and discriminatory educational practices. Natfhe members were invited to “consider the appropriateness of a boycott of those that do not publicly dissociate themselves from such policies”.  
+The boycott proposal seems, however, destined to be short-lived. Last year, delegates to the Association of University Teachers’ (AUT) conference voted in favour of a similar resolution to impose a boycott on two Israeli universities, only to have the AUT Council later reverse the decision and reassert its belief that freedom of expression, open debate and unhampered dialogue are prerequisites of academic freedom. AUT, which will amalgamate with Natfhe today to form the new University and College Union, has issued a statement saying that it does not endorse the boycott and is strongly advising its members not to implement it.  
+The International Advisory Board for Academic Freedom, an Israeli-led body formed at Bar-Ilan University last year after the AUT boycott, has vowed to oppose any renewed plans “through legal channels”.
+
+Staff, students oppose constraints on free expression  
+State-imposed restrictions on classroom discussion, currently under consideration by Pennsylvania legislators in the United States, would erode the learning process, according to a report issued this week by Free Exchange on Campus, a coalition of student, faculty and civil-liberties groups.  
+The group released the report, Campus Voices: Students and Faculty Speak Out on the Free Exchange of Ideas in Pennsylvania Colleges and Universities, in advance of a Pennsylvania legislative committee’s hearings today and tomorrow at Harrisburg Area Community College investigating political bias in college classrooms.  
+Free Exchange on Campus says that, in preparing the report, it has consulted more than one hundred faculty members and seventy students in Pennsylvania, and found that both groups strongly opposed any restrictions on open debate. Many students quoted in the report say they find the idea of limiting campus discussion demeaning. “Students are not simply vacuous imbeciles, accepting everything they are told,” said Zachary Yeates, a student at the University of Pennsylvania. “They are intelligent individuals with the capability of thinking critically about even their professors’ beliefs.”  
+Meanwhile, the US Supreme Court has limited the free-speech rights of government employees in a whistle-blower case which threatens to affect the academic freedom of university staff. The Court has ruled that, when public employees make statements pursuant to their official duties, they are not speaking under the protection of the US First Amendment, and the Constitution does not insulate their communications from disciplinary proceedings.  
+In a statement to the Court, the American Association of University Professors expressed concern that undermining the protection of a public employee’s work-related speech would undercut the federal courts’ traditional deference to academic freedom.  
+From the Chronicle of Higher Education and Inside Higher Ed
+
+Academic shortage looms  
+Australian university leaders are calling for visa reform to allow them to enlist more foreign PhD students as the next generation of academic staff. With a quarter of all current academic staff expected to retire during the next decade, vice-chancellors are planning a multi-million-dollar recruitment drive to meet the predicted skills shortage.  
+As universities devise costly recruitment plans, they say that uncompetitive academic salaries deter local talent, with Australian Vice-Chancellors’ Committee Chief Executive, John Mullarvey, warning that low salaries could undermine university plans to cope with the challenge of mass retirement. “\[Staffing\] might be a crisis in ten years’ time if we’re not able to offer competitive salaries and conditions,” he said.  
+Carolyn Allport, National President of the National Tertiary Education Union, said she was not impressed by current recruitment strategies. “I don't see much progress at the \[recruitment\] entry points into university,” she said. “It's a crisis we must resolve or we will lose our competitive position in the international arena; and that arena is becoming more, not less important.”  
+According to a report commissioned by the University of New South Wales, that institution will suffer a loss of intellectual capacity and corporate memory if it fails to find replacements for senior academics about to retire. The University has been told that it has five years to find replacements for half of its 680 academics in the humanities and social sciences.  
+From The Australian
+
+Bangladesh university suspends exams for World Cup  
+A Bangladesh university has postponed exams until after the soccer World Cup finals after hundreds of students lay siege to the Vice-Chancellor’s office. Bangladesh University of Engineering and Technology had earlier rejected students’ calls to postpone exams scheduled between 3 and 29 June. “The classes will remain suspended until July 14,” an official at the University in Dhaka said on Monday.  
+Bangladesh failed to qualify for the World Cup finals, which will be hosted by Germany for a month from June 9.  
+Reuters
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

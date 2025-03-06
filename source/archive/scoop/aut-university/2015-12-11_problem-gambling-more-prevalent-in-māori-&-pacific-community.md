@@ -1,0 +1,62 @@
+---
+slug: problem-gambling-more-prevalent-in-māori-&-pacific-community
+title: "Problem gambling more prevalent in Māori & Pacific community"
+date: 2015-12-11
+source-url: https://www.scoop.co.nz/stories/PO1512/S00157/problem-gambling-more-prevalent-in-maori-pacific-community.htm
+author: aut-university
+---
+Problem gambling more prevalent in Māori & Pacific community
+============================================================
+
+**Friday, 11 December 2015, 10:41 am**  
+**Press Release: [AUT University](https://info.scoop.co.nz/AUT_University)**
+
+Media Release
+
+Problem gambling remains more prevalent in Māori & Pacific New Zealanders
+
+The latest report from the Ministry of Health’s National Gambling Study shows that problem gambling and moderate-risk gambling continue to be more prevalent in Māori and Pacific people, than among other New Zealanders.
+
+The research, conducted by Auckland University of Technology, investigated new cases of problem gambling between 2012 and 2013, transitions between gambling states or at-risk categories, and risk and protective factors for problem gambling.
+
+It found that, although there was no change in the overall prevalence of at-risk and problem gambling between 2012 and 2013, there were marked ethnic disparities in both incidence (new cases) and prevalence.
+
+According to the 2013 results, 1.6 per cent of Māori were problem gamblers, compared to 0.6 per cent prevalence in Pacific people, 0.4 per cent in Asian people and 0.3 per cent in New Zealand European/other. Pacific people led the moderate-risk category at 6.3 per cent prevalence, compared to 4.4 per cent of Māori, 1.3 per cent of Asian people and 0.9 per cent of European/other falling into this at-risk group.
+
+Professor Max Abbott, Director of AUT’s Gambling and Addictions Research Centre, says the research provides valuable insights for effective policy setting.
+
+“This is the first study in New Zealand and only the second national study in the world to assess problem gambling incidence – the number of people who develop a problem for the first time – as well as assess the number who relapse and the number who cease having problems.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“To reduce the incidence and prevalence of problem gambling and other gambling-related harms, both population-wide prevention strategies and those tailored to at-risk groups are needed – including prevention strategies for high risk ethnic groups,” he says. “Long-standing disparities will persist and probably deepen, unless more effective ways are found to address this issue. Our understanding is that the Ministry of Health, in its new draft Preventing and Minimising Gambling Harm strategy, has made a long-term commitment to addressing inequity in gambling harm for Māori, Pacific and Asian populations”.
+
+The research identified a number of additional factors that put people at risk of becoming moderate-risk or problem gamblers, including gambling frequency. Those who took part in ten or more gambling activities in the 12 month period were nearly sixteen times more likely to become a problem or moderate-risk gambler than adults who had participated in just one gambling activity over the same timeframe.
+
+Other risk factors included high monthly gambling expenditure, participation in a wide variety of gambling activities, frequent use of electronic gaming machines, regular continuous gambling, gambling alone, avoiding places that offered gambling or betting, setting an expenditure limit before leaving home and psychological distress.
+
+The research also identified useful insights into gambling behaviour transitions. Around half of the problem gamblers interviewed in the 2013 wave of the study had only recently developed serious gambling problems. Moreover, relapse of former problem gamblers was found to be common, despite problem and at-risk gambling being transitory over a short-term period.
+
+“Over half of the estimated 8,000 new 2013 problem gamblers had experienced problems previously and were relapsing,” says Professor Abbott. “This underscores the need for public education and prevention programmes that target both first-time onset and problem recurrence, in addition to relapse prevention treatment services.”
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [AUT University](https://info.scoop.co.nz/AUT_University) on InfoPages.

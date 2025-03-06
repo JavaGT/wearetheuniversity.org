@@ -1,0 +1,96 @@
+---
+slug: nz-loses-its-first-soil-science-professor
+title: "NZ loses its first soil science professor"
+date: 2010-11-17
+source-url: https://www.scoop.co.nz/stories/ED1011/S00065/nz-loses-its-first-soil-science-professor.htm
+author: lincoln-university
+---
+NZ loses its first soil science professor
+=========================================
+
+**Wednesday, 17 November 2010, 10:47 am**  
+**Press Release: [Lincoln University](https://info.scoop.co.nz/Lincoln_University)**
+
+**16 November 2010**  
+  
+**NZ loses its first soil science professor with death of ‘The Prof’**  
+
+A father figure in modern New Zealand soil science, Emeritus Professor Thomas William Walker, popularly known through his television appearances as “The Prof”, died in Christchurch on 8 November, aged 94.
+
+Professor Walker came to Lincoln University from Britain in 1952 to take up New Zealand’s first university professorship specifically in soil science. He had been selected in London by Professor Eric Hudson, Director of Canterbury Agricultural College, as Lincoln University was in those days.
+
+He was appointed Emeritus Professor of Soil Science at Lincoln University on his retirement in 1979 after a total of 27 years of service at the University spread over two periods.
+
+Professor Walker combined the mana of the eminent scientist with the down-to-earth affability of the Kiwi, while never losing his essentially English characteristics of ready humour and self-deprecation. He was a respected and beloved figure within and beyond the academic community and deeply committed to his family.
+
+He won the highest accolades in academe, including fellowships of learned societies and gold medals, and was honoured by the Queen by being made an Officer of the New Zealand Order of Merit.
+
+Professor Walker combined the mana of the eminent scientist with the down-to-earth affability of the Kiwi, while never losing his essentially English characteristics of ready humour and self-deprecation. He was a respected and beloved figure within and the beyond the academic community and deeply committed to his family, who called him “Baba”.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Family members say: “He was small in stature but larger than life and passionate about four things - his wife Edna, his work, his fishing, and the soil - the soil in his own garden and the soils of New Zealand.
+
+“He believed in science and wanted to make it easy for everyone to understand and use science, and he was good at communicating his knowledge and enthusiasm.
+
+“He died at his Christchurch home, overlooking the garden he and Edna created, surrounded by those he loved and who loved him.”
+
+TW Walker was born in Shepshed, Leicestershire, England, in 1916 and educated at nearby Loughborough Grammar School where he topped the country in an open examination for a Royal Scholarship in Chemistry. That scholarship took him to the Royal College of Science, London, where he did both a BSc with First Class Honours then a PhD in Agricultural Chemistry within four-and-a-half years, motivated to complete his studies swiftly by his desire to marry his childhood sweetheart, Edna.
+
+A research fellowship enabled him to pursue post-doctoral work for two years at Rothamsted Experimental Station. He spent the war years as a scientist engaged in the British Government’s national food production programme. His first university appointment was as a lecturer in agricultural chemistry at Manchester University.
+
+In 1946 he joined the newly formed National Agricultural Advisory Service as Provincial Advisory Soil Chemist in the West Midlands.
+
+He arrived in New Zealand at the start of 1952 with wife Edna and family of then three daughters (a fourth daughter was born in New Zealand). His research focus was on the nitrogen economy of legume based pastures, an interest which had been kindled in the UK.
+
+In New Zealand he became a strong proponent of biological nitrogen fixation and much of his research, and that of his staff and students, was concerned with the correction of nutrient deficiencies, such as sulphur, molybdenum and phosphorus limiting the growth of legumes and as a consequence, nitrogen build up in soils.
+
+The pattern of clover responses to these nutrients interested Professor Walker and his colleague Arthur Adams in the genesis and classification of soils.
+
+He was extremely active in extension activities and famous for his addresses to farmers and farmer groups at country shows, in woolsheds, and small town community halls. Even after retirement he was still going strong, for example in 1996 he gave 37 lectures to farmers and others at venues throughout the country.
+
+Outside of work, fishing was a great passion and a recreation he enjoyed in the company of College colleagues. He often joked that it was really the fishing that had brought him to New Zealand!
+
+He was a communicator _par excellence_ and his public speaking skills were legendary. They were developed, he once related, through listening to the great preachers of the day during his youth in England. These old time preachers always had humour, he said, “so I put humour into my talks and it worked. I found I loved talking, and I did a lot of it!”
+
+Through television and _Maggie’s Garden Show_ “The Prof” became something of a national institution. Much of the material was filmed at his Christchurch home where he maintained an extensive vegetable garden which fed his entire extended family. This television career followed earlier media work as a newspaper gardening correspondent and radio broadcaster.
+
+At a 90th birthday celebration for “The Prof” at Lincoln University, the then head of the Soil and Physical Sciences Group, Dr John Adams, said he regarded Emeritus Professor Walker as the greatest communicator in New Zealand science. He said the quality of his scientific work had stood the test of time and his scientific papers were still highly relevant and compelling.
+
+Professor Walker’s great legacy to Lincoln University was the establishment of a strong, cohesive and happy Soil Science Department. When he started at Canterbury Agricultural College in 1952 the Soil Science Department had a staff of three. When he retired in 1979 the lecturing staff in soil science had expanded to 12.
+
+Professor Walker was a Fellow of the NZ Institute of Chemistry, Fellow of the NZ Institute of Agricultural Science and Fellow of the NZ Society of Soil Science. He held a British Council Prestige Fellowship in 1964 and a Fulbright Fellowship in 1968.
+
+In 1997 he was awarded both Lincoln University’s top medal for advancing New Zealand’s interests, the Bledisloe Medal, and the Royal Society of New Zealand’s top award for scientific distinction, the Rutherford Gold Medal. In 2003 he was awarded the Jubilee Medal for significant contributions to agricultural science, presented by the NZ Institute of Agricultural and Horticultural Science.
+
+In retirement Professor Walker remained active as a scientific consultant, continued with public speaking and lecturing engagements, became the public face of white clover advocacy for Ravensdown, did his television work, and kept up his fishing and gardening.
+
+He regularly attended university functions and was at the dinner for the inaugural presentation of the Lincoln University Medals in 2009. This year, not long before his 94th birthday, he attended the Bledisloe Medal recipients’ luncheon. It was his last public engagement with the University.
+
+Emeritus Professor Walker is survived by his wife Edna (the couple received a 70th wedding anniversary card from Her Majesty The Queen this year), daughters Jennifer, Pamela, Judy and Penny, 10 grandchildren and five great-grandchildren.
+
+A private family funeral service has already been held. A memorial service for those who wish to remember “The Prof” will be held on Monday 22 November at midday in the Stewart Building at Lincoln University, his much-loved place of work.
+
+In recognition of Professor Walker’s commitment to research and in appreciation of the care given by Harakeke to his wife, there will be an opportunity to make donations to Canterbury Geriatric Medical Research Trust and Harakeke Dementia Care Unit.  
+  
+**ENDS**  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Lincoln University](https://info.scoop.co.nz/Lincoln_University) on InfoPages.

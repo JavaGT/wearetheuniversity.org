@@ -1,0 +1,67 @@
+---
+slug: minister-out-of-touch-on-school-donations
+title: "Minister out of touch on school donations"
+date: 2014-07-03
+source-url: https://www.scoop.co.nz/stories/PO1407/S00067/minister-out-of-touch-on-school-donations.htm
+author: nzei
+---
+Minister out of touch on school donations
+=========================================
+
+**Thursday, 3 July 2014, 4:24 pm**  
+**Press Release: [NZEI](https://info.scoop.co.nz/NZEI)**
+
+Minister out of touch on school donations
+
+3 July 2014
+
+  
+NZEI Te Riu Roa is concerned that the Minister of Education may not appreciate the financial pressure on schools or realise that schools frequently spend parent donations on essentials rather than “extras”.
+
+  
+Minister Hekia Parata has dismissed Labour’s policy to give schools an extra $100 per student if they do not ask parents for donations.
+
+  
+She was quoted by Newstalk ZB saying, \"Schools make decisions on the extras they will provide, they then set the donation level…If parents don't want that level of extra services then the schools should rethink what they're asking of their parent community."
+
+  
+NZEI President Judith Nowotarski said that while schools may have used donations for the “nice to haves” in the past, they were increasingly necessary just to ensure students received a 21st-century education.
+
+  
+“The Minister is essentially suggesting that if a school’s parent community is unwilling – or more likely unable – to give their school extra money to offer students the education our society expects, then it’s too bad and the kids can miss out,” she said.
+
+  
+Even though low decile schools receive more operational funding than high decile schools, a 2012 survey found that the total average funding for each decile-10 student was about $1100 more per year than for a decile-1 student. This was because of the ability of high-decile schools to fundraise and ask for much higher parental donations, which most parents paid.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+  
+A 2013 NZCER study found that just 11% of principals across all deciles believed that government operational funding met their school’s needs, meaning that 89% of principals believed funding was inadequate.
+
+  
+Ms Nowotarski said all schools struggled on the funding they received, but low decile schools had the added disadvantage of more high-need students who started school on the back foot and required extra assistance.
+
+  
+“Labour’s policy will absolutely be of greatest benefit to lower decile schools and that is as it should be because that is where there is the greatest need and inequity.
+
+  
+“Some of the highest decile schools might decide to continue asking parents for up to $500 in annual donations, rather than take up this option. A handful of high-decile principals may object that their school does not benefit from this policy, but I think most would agree that low-decile schools are doing it really tough and are in greatest need of extra assistance,” she said.
+
+  
+Child Poverty Action Group released a policy paper today, arguing that compulsory education policy must address children's disadvantages outside school to improve their life chances.
+
+  
+The report found that government redistribution of resources did not go far enough in bridging the achievement gap between the children who start school at a disadvantage and their peers from wealthier communities.
+
+  
+Ms Nowotarski said NZEI supported CPAG’s recommendations, such as free meals and community hubs in low-decile schools, school funding based on need and equality of outcome, and the abolition of National Standards.
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)
+
+Find more from [NZEI](https://info.scoop.co.nz/NZEI) on InfoPages.

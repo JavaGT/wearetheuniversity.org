@@ -1,0 +1,107 @@
+---
+slug: franklin-district-council-speech
+title: "Franklin District Council Speech"
+date: 2010-09-29
+source-url: https://www.scoop.co.nz/stories/PA1009/S00432/franklin-district-council-speech.htm
+author: te-pati-maori
+---
+Franklin District Council Speech
+================================
+
+**Wednesday, 29 September 2010, 1:49 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Franklin District Council (Contribution to Funding of Museums) Amendment Bill  
+Second Reading, Wednesday, 22 September 2010  
+Te Ururoa Flavell, MP for Waiariki
+
+  
+Mr Assistant Speaker, kia ora tātau. Kei te kōrero tātau mō tētahi pire e pā ana ki a Waikato, nō reira, nā runga i tērā whakaaro me huri ki te titiro ki te āhuatanga ki a Te Pō Nui, a Jim Nicholls e takoto mai rā i roto o Hauraki, i waenganui i tōna iwi i tēnei pō. Āpōpō, ka tukuna atu ki te kōpū o Papatūānuku.
+
+E aroha atu ana ki a ia, ko au tērā i mahi nei i tana taha. Kei te takoto a ia i runga i tōna marae i Mātaiwhetū i roto o Thames, o Hauraki. Ko ōna iwi ko Ngāti Maru, Ngāti Whanaunga, Ngāti Hako, me kī, ko Pare Hauraki, a Tainui waka, ērā e tangi ana.
+
+Nā, ko Jim te Tiamana o te Kaunihera Kaumātua o Hauraki, tō rātou māngai hoki i runga i te Poari Kaitiaki Māori o Hauraki, tērā Poari o tōna iwi, ka mutu, ko ia te tiamana tuarua a te Kaunihera Māori o Aotearoa. Nō reira, e tika ana i tēnei wā kia tīmata ake waku kōrero hei wāwāhi ake i taku kōrero, ā, me te poroporoaki i a ia. Kai te pēnei tonu au nā runga i te mea, ko tēnei pire e hāngai tonu ki a Waikato. Nā reira, whakaaro ake ki a rātou kua ngaro atu ki te tirohanga kanohi. Ko ia tērā, anā tae atu ki a Te Atawhai Taiaroa, tērā o ngā pou o roto o Aotearoa. Nō reira, ā kāti, waiho rātou ki a rātou kia moe, anei tātau e kōrero nei mō te take nei.
+
+I a au e whakaaro ake nei, kei te rere tonu ngā whakaaro mō te hunga utu rēti, me kī, o roto o Ngāti Maru, Ngāti Paoa, Ngāti Tamaterā, Ngāi Tai me ētahi atu wāhi o roto o Waikato. Ko tēnei pire, tētahi o ngā take kua roa, me kī, e wānangatia ana i roto i ngā Kāwanatanga i ngā tau kua hipa. E ai ki tāku e mōhio nei, ko te Franklin District Council (Contribution to Funding of Museums) Amendment Bill i tae mai, i tīmata mai ai i te 13 o Here-turi-kōkā, arā, o Ākuhata i te tau 2008, ā, ka mutu, ka tukuna ki te komiti whāiti, arā, ki te select committee i te 4 o Poutū-te-rangi, Māehe i te tau 2009.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+E ai ki tāku e mōhio nei, e rua ngā wāhanga o te pire nei, me kī, ko tērā e pā ana ki te Auckland War Memorial Museum Act i te tau 1996, me te Whare Taonga the Museum of Transport and Technology Act i te tau 2000. Ko te tikanga o tēnei, me kī, rāwekeweke i tēnei pire, me kī, ko te āta whakatau i te utu mō ngā whare taonga, me kī, kia kautehia nā runga i te tokomaha nga tangata e noho mai rā i roto o Franklin, otirā, te hunga kei roto i te rohe o Tāmaki-makau-rau, kaua ko rātou kei roto o Waikato.
+
+Ēngari, i a au e kōrero ana ki aku hoa ki a Hone Harawira, ki a Pita Sharples, i puta te māramatanga ka mutu, ko tēnei take e hāngai tonu ana ki a Waikato, me kī, kua whakaara ake a Waikato i tēnei take ētahi o ngā iwi, ngā tāngata o Waikato i tēnei take o roto i tēnei pire. Nō reira, he pai tēnei kia tae mai ēnei momo pire, me ngā tono ā tēnā, ā tēnā, ā tēnā, ā tēna. Ka mōhio tonu te Pāremata, āe, he take nui tērā kai roto i te hapori. Nō reira, anei anō tētahi huarahi hei whakaara ake i te iwi i ō rātou whakaaro. Me kī, he māmā noa iho te tikanga o tēnei pire, he mea hai whakatau i ngā moni ka utua ki te Franklin District Council, ki te Auckland War Memorial Museum, me te Museum of Transport and Technology. Kei reira tonu tētahi wāhanga o te Rohe o Franklin. He uaua te whakamārama ake i tēnei take i roto i te reo Māori nō reira, tērā pea me huri ki te reo Pākehā mō te wā poto.
+
+\[Greetings to us, Mr Assistant Speaker. We are addressing this bill that relates to Waikato, and because of that I turn to look at the situation concerning Te Pō Nui, Jim Nicholls lying in state tonight in Hauraki among his people. He will be buried in the womb of mother Earth tomorrow.
+
+I sympathise as I have worked with him. He lies upon his marae at Mātaiwhetū in Thames and Hauraki. His tribes are Ngāti Maru, Ngāti Whanaunga, Ngāti Hako of the Hauraki Gulf and of the Tainui canoe. They are grieving there.
+
+Jim was the chairman of the Council of Elders of Hauraki, their representative on the Hauraki Māori Trust Board, his people’s board, and deputy chair of the New Zealand Māori Council. So it is fitting at this time that I preface my address by bidding him farewell. I have done this because this bill relates directly to Waikato. My thoughts are therefore with those who are no longer to be seen, including Te Atawhai Taiaroa, one of the pillars in New Zealand. So enough, leave them to rest there as we debate this matter.
+
+As I ponder here, my thoughts immediately go to the ratepayers of Ngāti Maru, Ngāti Paoa, Ngāti Tamaterā, Ngāi Tai, and of other places in Waikato. This is one of those bills that have been the subject of prolonged discussions within Governments over past years. According to what I know, the Franklin District Council (Contribution to Funding of Museums) Amendment Bill arrived on 13 August 2008 and was referred to a select committee on 4 March 2009. I understand there are two parts to this bill. One refers to the Auckland War Memorial Museum Act 1996 and the other to the Museum of Transport and Technology Act 2000. It was to amend this legislation so that specific contributions could be made for the museums based on the population of people residing in Franklin, particularly those in the Auckland region but excluding the ones in Waikato.
+
+But it was while I was discussing this with fellow colleagues Hone Harawira and the Hon Dr Pita Sharples that I realised that this matter did indeed relate to Waikato, because some of them raised this issue in this bill. So it is good that these kinds of bills come here with submissions from different individuals. Parliament will then know that, yes, that is an important issue in the community. So here is another way for people to express their views. This bill is simply the instrument whereby contributions are determined from the Franklin District Council to the Auckland War Memorial Museum and the Museum of Transport and Technology. One part of the Franklin District is still there, but it is difficult to explain in Māori, so I will turn to English for a short time.\]
+
+As others have said—and it is a bit difficult to explain clearly in Māori—the bill seeks to ensure that in calculating the levies payable by the Franklin District Council to the Auckland War Memorial Museum and the Museum of Transport and Technology, any part of the district of the Franklyn District Council that is not within the boundaries of the Auckland Regional Council is excluded.
+
+My colleagues have told me of the frustration that many Franklin citizens shared with them as to why their hard-earned rates should go into Auckland facilities that do not have any direct relationship to their community. We noted the view of the North Shore City Council that this issue should be dealt with as a part of the Government’s comprehensive governance reform process for Auckland. At this stage of the reform process, it sees no reason to have interim or separate measures enacted. That might be all very well on paper, but the Māori Party has no confidence that the special interests of those within the boundaries of Franklin district will be addressed simply by leaving it to chance.
+
+Kei te tino tautoko ake i tēnei pire nā runga i tana aronga ki tēnei momo uauatanga i roto i te pire i tēnei wā. We are pleased to support this bill as it addresses an apparent anomaly in the current legislation that covers the method of calculating the levies relating to the Auckland War Memorial Museum and the Museum of Transport and Technology. We note too that Federated Farmers view the present arrangements as inequitable on farmers and other rural landowners in the southern part of the Franklin district.
+
+We believe it is vital that that local government authority has acknowledged mana whenua. Our policy preference is that local government will enhance the development of local and regional business; commercial partnerships between local and regional authorities; industries and business; and local whānau, iwi, and hapū. In order to do that, councils must know who is in their specific territorial region and who sits outside. For all those factors, and most particularly because of the wishes of the people, the Māori Party is happy to support the bill at its second reading.
+
+ends  
+(Contribution to Funding of Museums) Amendment Bill  
+Second Reading, Wednesday, 22 September 2010  
+Te Ururoa Flavell, MP for Waiariki
+
+  
+Mr Assistant Speaker, kia ora tātau. Kei te kōrero tātau mō tētahi pire e pā ana ki a Waikato, nō reira, nā runga i tērā whakaaro me huri ki te titiro ki te āhuatanga ki a Te Pō Nui, a Jim Nicholls e takoto mai rā i roto o Hauraki, i waenganui i tōna iwi i tēnei pō. Āpōpō, ka tukuna atu ki te kōpū o Papatūānuku.
+
+E aroha atu ana ki a ia, ko au tērā i mahi nei i tana taha. Kei te takoto a ia i runga i tōna marae i Mātaiwhetū i roto o Thames, o Hauraki. Ko ōna iwi ko Ngāti Maru, Ngāti Whanaunga, Ngāti Hako, me kī, ko Pare Hauraki, a Tainui waka, ērā e tangi ana.
+
+Nā, ko Jim te Tiamana o te Kaunihera Kaumātua o Hauraki, tō rātou māngai hoki i runga i te Poari Kaitiaki Māori o Hauraki, tērā Poari o tōna iwi, ka mutu, ko ia te tiamana tuarua a te Kaunihera Māori o Aotearoa. Nō reira, e tika ana i tēnei wā kia tīmata ake waku kōrero hei wāwāhi ake i taku kōrero, ā, me te poroporoaki i a ia. Kai te pēnei tonu au nā runga i te mea, ko tēnei pire e hāngai tonu ki a Waikato. Nā reira, whakaaro ake ki a rātou kua ngaro atu ki te tirohanga kanohi. Ko ia tērā, anā tae atu ki a Te Atawhai Taiaroa, tērā o ngā pou o roto o Aotearoa. Nō reira, ā kāti, waiho rātou ki a rātou kia moe, anei tātau e kōrero nei mō te take nei.
+
+I a au e whakaaro ake nei, kei te rere tonu ngā whakaaro mō te hunga utu rēti, me kī, o roto o Ngāti Maru, Ngāti Paoa, Ngāti Tamaterā, Ngāi Tai me ētahi atu wāhi o roto o Waikato. Ko tēnei pire, tētahi o ngā take kua roa, me kī, e wānangatia ana i roto i ngā Kāwanatanga i ngā tau kua hipa. E ai ki tāku e mōhio nei, ko te Franklin District Council (Contribution to Funding of Museums) Amendment Bill i tae mai, i tīmata mai ai i te 13 o Here-turi-kōkā, arā, o Ākuhata i te tau 2008, ā, ka mutu, ka tukuna ki te komiti whāiti, arā, ki te select committee i te 4 o Poutū-te-rangi, Māehe i te tau 2009.
+
+E ai ki tāku e mōhio nei, e rua ngā wāhanga o te pire nei, me kī, ko tērā e pā ana ki te Auckland War Memorial Museum Act i te tau 1996, me te Whare Taonga the Museum of Transport and Technology Act i te tau 2000. Ko te tikanga o tēnei, me kī, rāwekeweke i tēnei pire, me kī, ko te āta whakatau i te utu mō ngā whare taonga, me kī, kia kautehia nā runga i te tokomaha nga tangata e noho mai rā i roto o Franklin, otirā, te hunga kei roto i te rohe o Tāmaki-makau-rau, kaua ko rātou kei roto o Waikato.
+
+Ēngari, i a au e kōrero ana ki aku hoa ki a Hone Harawira, ki a Pita Sharples, i puta te māramatanga ka mutu, ko tēnei take e hāngai tonu ana ki a Waikato, me kī, kua whakaara ake a Waikato i tēnei take ētahi o ngā iwi, ngā tāngata o Waikato i tēnei take o roto i tēnei pire. Nō reira, he pai tēnei kia tae mai ēnei momo pire, me ngā tono ā tēnā, ā tēnā, ā tēnā, ā tēna. Ka mōhio tonu te Pāremata, āe, he take nui tērā kai roto i te hapori. Nō reira, anei anō tētahi huarahi hei whakaara ake i te iwi i ō rātou whakaaro. Me kī, he māmā noa iho te tikanga o tēnei pire, he mea hai whakatau i ngā moni ka utua ki te Franklin District Council, ki te Auckland War Memorial Museum, me te Museum of Transport and Technology. Kei reira tonu tētahi wāhanga o te Rohe o Franklin. He uaua te whakamārama ake i tēnei take i roto i te reo Māori nō reira, tērā pea me huri ki te reo Pākehā mō te wā poto.
+
+\[Greetings to us, Mr Assistant Speaker. We are addressing this bill that relates to Waikato, and because of that I turn to look at the situation concerning Te Pō Nui, Jim Nicholls lying in state tonight in Hauraki among his people. He will be buried in the womb of mother Earth tomorrow.
+
+I sympathise as I have worked with him. He lies upon his marae at Mātaiwhetū in Thames and Hauraki. His tribes are Ngāti Maru, Ngāti Whanaunga, Ngāti Hako of the Hauraki Gulf and of the Tainui canoe. They are grieving there.
+
+Jim was the chairman of the Council of Elders of Hauraki, their representative on the Hauraki Māori Trust Board, his people’s board, and deputy chair of the New Zealand Māori Council. So it is fitting at this time that I preface my address by bidding him farewell. I have done this because this bill relates directly to Waikato. My thoughts are therefore with those who are no longer to be seen, including Te Atawhai Taiaroa, one of the pillars in New Zealand. So enough, leave them to rest there as we debate this matter.
+
+As I ponder here, my thoughts immediately go to the ratepayers of Ngāti Maru, Ngāti Paoa, Ngāti Tamaterā, Ngāi Tai, and of other places in Waikato. This is one of those bills that have been the subject of prolonged discussions within Governments over past years. According to what I know, the Franklin District Council (Contribution to Funding of Museums) Amendment Bill arrived on 13 August 2008 and was referred to a select committee on 4 March 2009. I understand there are two parts to this bill. One refers to the Auckland War Memorial Museum Act 1996 and the other to the Museum of Transport and Technology Act 2000. It was to amend this legislation so that specific contributions could be made for the museums based on the population of people residing in Franklin, particularly those in the Auckland region but excluding the ones in Waikato.
+
+But it was while I was discussing this with fellow colleagues Hone Harawira and the Hon Dr Pita Sharples that I realised that this matter did indeed relate to Waikato, because some of them raised this issue in this bill. So it is good that these kinds of bills come here with submissions from different individuals. Parliament will then know that, yes, that is an important issue in the community. So here is another way for people to express their views. This bill is simply the instrument whereby contributions are determined from the Franklin District Council to the Auckland War Memorial Museum and the Museum of Transport and Technology. One part of the Franklin District is still there, but it is difficult to explain in Māori, so I will turn to English for a short time.\]
+
+As others have said—and it is a bit difficult to explain clearly in Māori—the bill seeks to ensure that in calculating the levies payable by the Franklin District Council to the Auckland War Memorial Museum and the Museum of Transport and Technology, any part of the district of the Franklyn District Council that is not within the boundaries of the Auckland Regional Council is excluded.
+
+My colleagues have told me of the frustration that many Franklin citizens shared with them as to why their hard-earned rates should go into Auckland facilities that do not have any direct relationship to their community. We noted the view of the North Shore City Council that this issue should be dealt with as a part of the Government’s comprehensive governance reform process for Auckland. At this stage of the reform process, it sees no reason to have interim or separate measures enacted. That might be all very well on paper, but the Māori Party has no confidence that the special interests of those within the boundaries of Franklin district will be addressed simply by leaving it to chance.
+
+Kei te tino tautoko ake i tēnei pire nā runga i tana aronga ki tēnei momo uauatanga i roto i te pire i tēnei wā. We are pleased to support this bill as it addresses an apparent anomaly in the current legislation that covers the method of calculating the levies relating to the Auckland War Memorial Museum and the Museum of Transport and Technology. We note too that Federated Farmers view the present arrangements as inequitable on farmers and other rural landowners in the southern part of the Franklin district.
+
+We believe it is vital that that local government authority has acknowledged mana whenua. Our policy preference is that local government will enhance the development of local and regional business; commercial partnerships between local and regional authorities; industries and business; and local whānau, iwi, and hapū. In order to do that, councils must know who is in their specific territorial region and who sits outside. For all those factors, and most particularly because of the wishes of the people, the Māori Party is happy to support the bill at its second reading.
+
+ends  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

@@ -1,0 +1,61 @@
+---
+slug: the-employment-relations-bill-is-not-enough
+title: "The Employment Relations Bill Is Not Enough"
+date: 2000-07-06
+source-url: https://www.scoop.co.nz/stories/PA0007/S00074/the-employment-relations-bill-is-not-enough.htm
+author: green-party
+---
+The Employment Relations Bill Is Not Enough
+===========================================
+
+**Thursday, 6 July 2000, 11:03 am**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Sue Bradford - Green Party  
+5 July, 2000 - General Debate Speech
+
+Today I want to destroy a myth; a widespread misconception about the Employment Relations Bill. Most people out there, I suggest, believe that this new piece of Government legislation will greatly improve life for workers. For some workers it will, and for that reason the Green Party strongly supports the bill. But it is a narrowly focused bill, focused only on unionised workers.
+
+I want to concentrate today on other workers, the ones who most need Government action, and who were in fact promised Government action. These people work in the low wage, often casualised and part-time labour market, and their lives often shift constantly between employment and unemployment: the young shop assistant in Whangarei who is not a union member now and probably never will be, the tractor driver on a small farm in the Bay of Plenty, the cleaner working in the early hours in South Auckland and tens of thousands more.
+
+In fact, many of the lowest paid citizens of our country will gain nothing with this Bill. The Employment Relations Bill will help only those workers who are, or who become, members of unions.
+
+Since the last election the Green Party has been assured by Government that the minimum code would be its next priority after the Employment Relations Bill process is complete. However, publicity following prolonged big business backlash against the Bill about a month ago indicated that the Government is looking at backtracking on large portions of the minimum code, previously promoted at least by the Alliance.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+If the minimum code is not addressed seriously and soon, women, Maori, and Pacific Island people will particularly again be the ones left at the bottom of the employment heap. Closing the gaps is not just about allocating parcels of money in a Budget. It is about looking at the baseline needs of those who remain at the bottom of the economy.
+
+The women affected also include those who are particularly vulnerable - working women who are not only poor, but also pregnant. What has happened to paid parental leave? I want to pay tribute to Laila Harre for such a well-thought-out and sensible proposal, widely supported I believe by Alliance and Labour supporters. Paid parental leave unfortunately appears to have been totally submerged by this Government, buried in an avalanche of political expediency.
+
+Both Labour and the Alliance last year made promises to raise the minimum wage, to review pay equity issues, and to address the real problem with holidays and holiday pay for those in weak negotiating positions. The minimum wage is one of the most important measures of a caring society. The Government talks about closing the gaps, but has done little to close wage or income gaps. All that has been achieved to date is a raise in the minimum wage by 55c an hour.
+
+I do not know how many people listening here today realise that the minimum youth rate is $4.55 an hour. Some of those young people are managing shops at $4.55 an hour, and pouring petrol at service stations late at night in dangerous circumstances. Four dollars and fifty-five cents an hour is a gross rate of pay, and it is gross in more ways than one. It amounts to $3.00 an hour less than what 18-year-olds would earn, and it amounts to only $36.40 a day.
+
+These 16 and 17-year-olds are no longer eligible for the unemployment benefit should they lose their job. It is still a nightmare for a young 16 or 17 -year-old to negotiate with the Department of Work and Income bureaucracy for the independent youth benefit, which is a process that even the toughest teenager finds hard, much less those with poor communication skills and little confidence in themselves.
+
+Alongside this one of the most urgent issues that the Government needs to address is the 13 week stand down period that happens with Work and Income New Zealand if one is sacked from a job, or leaves one's job voluntarily. This not only punishes the former worker, it punishes his or her family, especially when one is already in debt and supporting children, as so many people are.
+
+The stand-down period means that many more workers take personal grievances under the current Employment Contracts Act than ever would if that stand-down period did not exist. The whole stand-down system is failing. There is a real risk that when the Employment Relations Bill becomes law, the mediation services will again fail, as services have failed under the Employment Contracts Act, because of the huge number of unnecessary personal grievances that will clog up the mediation system. If the Government wants the mediation system to be fast, to be effective, and to be applied as soon as a problem arises in the workplace, then the issue of long stand down periods must be dealt with once and for all.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

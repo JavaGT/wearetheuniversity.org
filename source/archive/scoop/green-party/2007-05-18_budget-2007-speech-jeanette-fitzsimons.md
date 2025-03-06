@@ -1,0 +1,144 @@
+---
+slug: budget-2007-speech-jeanette-fitzsimons
+title: "Budget 2007 Speech - Jeanette Fitzsimons"
+date: 2007-05-18
+source-url: https://www.scoop.co.nz/stories/PA0705/S00485/budget-2007-speech-jeanette-fitzsimons.htm
+author: green-party
+---
+Budget 2007 Speech - Jeanette Fitzsimons
+========================================
+
+**Friday, 18 May 2007, 8:45 am**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Budget 2007 Speech - Jeanette Fitzsimons
+
+Ever since the Prime Minister declared an aspiration for New Zealand to become carbon neutral and truly sustainable, the nation has been waiting for the means to this end to be revealed and to be funded.
+
+Instead, we have a budget designed to make us a teensy-weensy bit less unsustainable in a few years, with carbon emissions growing just a little bit more slowly than they are now, provided we don't upset anyone and we continue to move slower than all our trading partners.
+
+This is the first Budget since the Stern report, a World Bank report on the costs of addressing climate change, which showed that addressing climate change would be costly, but not nearly as costly as ignoring it.
+
+It is the third Budget to have ignored the Millennium Ecosystem Assessment report that told us the resources we depend on now; fresh water, climate, soils, fisheries, will not be there for our children if we continue to use them as we do now.
+
+It is the first Budget since Al Gore's 'An Inconvenient Truth' hit the screens, raising public consciousness to the point where the ShapeNZ poll this week found that over 80 percent of voters think climate change is a problem and 36 percent think it is an urgent and immediate problem while only 8 percent think it is not a problem at all.
+
+If the Prime Minister's aspiration is serious, we might have expected a price on carbon this year, linked to the world price, and a fairly rapid transition to polluters taking full responsibility for their carbon emissions.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+We could have expected a substantial fund to invest in cleaner technology, better planning and design, sustainable infrastructure like public transport, a decent rail system and coastal shipping, planting of steep eroding land, and incentives for business to be more sustainable.
+
+I quoted earlier this week in the House from Lester Brown's highly respected book Plan B: Rescuing a Planet under Stress and a Civilisation in Trouble.
+
+He says: \"Saving civilisation means restructuring the economy - and at wartime speed. It means restructuring taxes to get the market to tell the ecological truth. And it means reordering fiscal priorities to get the resources needed to restore the earth, eradicate poverty, and stabilise population. If we cannot restructure the tax system to enable the market to tell the truth we almost certainly won't make it."
+
+He is talking about the survival of large sections of humanity, and of many other species with which we share the earth, by protecting and restoring their life-support systems.
+
+I have argued in this House for the last 10 years that we need to change the way we measure economic success to focus on human wellbeing and include environmental sustainability; and that the Genuine Progress Indicator would be a good way to start. We have also been arguing that we should reduce taxes on desirable things like goods, work and enterprise, and instead tax waste, pollution and the use of scarce resources.
+
+Once again, after 10 years, we have a Budget that largely ignores that. In fact, this one takes a step backwards in that last year the plan was still for a carbon tax to come into effect this year. Now it has gone, there is nothing to replace the lost $360m revenue, and income tax, company tax and GST are bearing even more of a burden proportionally.
+
+A huge opportunity has been lost with the business tax cuts, handed out indiscriminately to polluters and conservers, fossil and renewable energy, organic and highly toxic farming, good employers and bad, innovators and laggards in technology. Those cuts will produce no change in behaviour, serve no public good except lining a few pockets. Instead, we could have had a system of tax incentives that rewarded sustainable investments, especially in technology to save energy and water, reduce toxic materials, replace fossil fuels with renewables. A government that truly cared about sustainability would not have missed this opportunity.
+
+This Budget was the chance for the Government to show whether the Prime Minister's statement was a serious policy goal or hollow rhetoric. It was the chance to put their money where their mouth has been. But the money turns out to be only farthings.
+
+Specifically, in a Budget where a surplus is identified as $17 billion, we are told there is $7.5 million a year is for 'sustainability', I will and add to that you can add $18 million for energy efficiency and $16 million a year on capital investment, and something on climate change which must be small or it would have be identified in the speech.
+
+It's not that there's nothing. It's that sustainability is a minor footnote in this budget, and what is there is the result of hard lobbying by the Greens from a position so far outside government that we are not even supporting on confidence and supply.
+
+However, let's celebrate the small things, starting with the initiatives that flow from the Greens co-operation agreement with Government.
+
+Energy Efficiency
+
+An overall package has been put together as part of the New Zealand Energy Efficiency Conservation Strategy to upgrade homes. Declining funding for insulating low income homes has been replaced so we can continue at the rate of 12,000 a year. A new interest free loan scheme will enable other people to get their homes insulated and pay back out of their power savings. That will also include clean efficient heating devices - because insulation alone is not enough to improve health and wellbeing if there is no affordable heating source.
+
+We also have the new building code coming into effect later this year, with upgraded insulation requirements for new homes which in effect mean double glazing through most of the country.
+
+There is new money for the Home Energy Rating Scheme to go operational at the end of this year, giving every home the chance of a quality mark in energy efficiency. This will protect home buyers by informing them about the energy performance of the home they are considering buying, and it will provide a market advantage for those with superior standards.
+
+The $15.5 million Green-initiated solar water heating programme is funded in this Budget and is already rolling out with better quality standards, consumer information, installer training, and grants for complying systems.
+
+Conservation
+
+Also new, as signalled in the Green co-operation agreement, but without any recognition today from Michael Cullen, is $2.2 million a year for ecological restoration of three of New Zealand's foremost wetlands: Whangamarino in the Waikato; the Ashburton Lakes and the Upper Rangitata River in inland Canterbury; and the Waituna Lagoon and Awarua wetland complex in Southland. This new baseline funding is more than 10 times the funding these sites have had to date, and we can expect it to reverse declining water quality, to control invasive pests and weeds, to protect endangered birds such as the bittern, fernbird, crested grebe and wrybill, some of which are internationally important as they fly across the equator twice a year to breeding grounds in Siberia and Alaska.
+
+Eventually these sites will have the potential for the reintroduction of locally extinct brown teal.
+
+The Greens have ensured that a large part of these projects will be delivered by partnerships between the Department of Conservation and local communities, especially adjoining land owners, iwi and local conservation and landcare groups.
+
+They will also operate as test beds for new methods of control that are acceptable to local communities.
+
+Socially responsible investment
+
+The revelations of my co-leader Russel Norman that our savings in the Super Fund, and other government funds, are being invested in nuclear weapons production, uranium mining, tobacco, land mines and other socially and environmentally destructive practices has obviously somewhat embarrassed the Government.. We support the transparency requirements for managed funds, and the socially responsible investment advisory committee - but why no action on the investment of public funds such as the Super fund and ACC.
+
+ODA
+
+After years of pointing out the embarrassment of being near the bottom of the OECD in our generosity to countries struggling to survive, we celebrate the increase in overseas aid from 0.27 percent of GNI to 0.30 percent. This is a big victory considering the government previously intended only raising it to 0.28 percent in this Budget. The Greens have been pushing the Government hard on this, as stated in our cooperation agreement and for some years before that, but of course much of the credit should go to the determined effort of the whole aid community, over several years, under the PointSeven campaign. The Greens will continue to work closely with this campaign for a timetable to get New Zealand from the 0.35 percent of GNI this Budget projects New Zealand to be at by 2010 to the 0.7 percent international target by 2015.
+
+It is urgent to help developing countries, and Pacific Island states at our back door, to leap frog the fossil fuel age and develop clean energy technologies that will give them a more stable future.
+
+Public transport
+
+One of the most important investments we can make to reduce carbon emissions is in transport, in particular to reduce the huge imbalance between funding for new roads and for lower carbon transport options. Labour led governments have for the last five years poured megabucks into road building. They have so stretched the capacity of the construction industry that it is pushing up prices far faster than inflation. All the international evidence is that countries which rely primarily on road transport with poorly developed or non-existent rail, public transport, and travel demand management have high carbon emissions. In New Zealand transport is responsible for almost half our carbon dioxide emissions - one of the highest proportions in the world.
+
+Public transport spending has not kept pace. What improvement there has been is largely owing to the influence the Greens had in a special agreement in the 2002-5 Government where we managed to get a substantial part of petrol excise ring fenced for public transport, travel demand management, walking and cycling.
+
+We are pleased to see some further progress in this budget as a result of our efforts. First, the Wellington rail improvements will take some pressure off the Kapiti coast road. This budget funds only about half what is needed, but if the rest were funded we might well find pressure for Transmission Gully would reduce considerably.
+
+I have to give some credit here to the Option three lobby group that has consistently done the analysis to show that an improved rail option in the western corridor would be cheaper and more sustainable that more big roading projects.
+
+Electrification
+
+We also finally have a the prospect of a mechanism for funding the electrification of the Auckland rail system, an essential first step to increasing its carrying capacity from 5 million passenger trips a year to 38, and eventually more. We've watched government gradually warm to the idea as Auckland has made it abundantly clear that they want more spending on public transport and proportionally less on roads. There has been a petition, e-cards, and a very well-attended public meeting in Auckland calling for government to fund its share of the capital cost that will allow more frequent, more reliable, cleaner and quieter trains.
+
+A regional petrol tax of course still has Auckland paying for it, yet they don't have to pay a penny for state highways like the western motorway known as SH20. This is the big imbalance that must be addressed - big roads cost the regions nothing, pubic transport they have to find much of the money themselves.
+
+Legislation still has to be developed to provide for regional petrol taxes. We'll reserve our position on that till we see the bill. Yet another way of funding yet more roads is the last thing we need. It is time to even up the balance a bit.
+
+It's pretty clear that if the Greens hadn't been here it would have been hard to find anything in this Budget to support the Prime Minister's stated goals.
+
+But in looking at the new things in the Budget we should also remember the many Green initiatives that are included without headlines because they were found to be so effective in previous years that they have been baselined.
+
+As a result of previous Green initiatives which are now permanent, we have, for example, environmental legal aid; community internships, organic farming support, increased energy efficiency funding, and the "conservation with communities" programme to mention just a few.
+
+The last Budget allocated $11.5 million to the Buy Kiwi Made programme, run by my colleague Sue Bradford.
+
+In August this year we will see the beginning of the Buy Kiwi Made media marketing campaign. The Green Party looks forward to this campaign celebrating New Zealand manufacturers during the difficult period that they are facing and encouraging New Zealand consumers (including the Government) to support New Zealand products when they make their purchasing decisions.
+
+Past budget initiatives that are not baselined but continue to be funded this year include environmental education and support for schools to offer better food to children.
+
+There have been calls today for a Budget that delivers tax cuts so that an economy running on consumption led growth can consume even more. Consumption led growth is what you get with a high dollar giving us cheap imports but poor export returns; and massive household debt fuelled by a perception of wealth from rising house values. Banks are not just offering easy credit, they are pushing credit in your face and suggesting you are a fool if you don't let your house pay for your new car and overseas holiday.
+
+So we support much greater enforcement of the current rules on Capital Gains Tax, but we doubt they are strong enough, or that they will work without also addressing the use of Loss Attributing Qualifying Companies.
+
+We also give qualified support to the tax rebates through Kiwisaver. It is a clear way of ensuring the assistance does not add to consumption-led inflation, and that it goes to those on low incomes equally with those on high incomes - this is vastly different from the 1998 proposal the country rejected. However, it continues the current discrimination against part-time workers and beneficiaries such as invalids who will have no savings in their old age.
+
+To conclude, we cannot vote for this budget because it fails to deliver even the first stage of investing in a sustainable future, making a mockery of the Prime Minister's goals. Our co-operation agreement always anticipated that this would be the case, given the current makeup of government and its support, and that is why our agreement is to abstain.
+
+However, we see no reason to break our commitment and oppose the Budget, given that the Government's side of our very modest agreement is slowly being delivered. There is some way to go yet to implement our agreement, and there will need to be progress next year, but we have no evidence at all that a National led government would deliver anything closer to the programme the Greens have outlined for survival, so will not vote to bring down the Government.
+
+We hope that over the next year or so the competition to win the votes of the increasing numbers of New Zealanders who are seriously concerned about environmental sustainability will move from where it is now, a race to be not last, to a race to be first. Then we may have a partner we can work with enthusiastically in a new government.
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

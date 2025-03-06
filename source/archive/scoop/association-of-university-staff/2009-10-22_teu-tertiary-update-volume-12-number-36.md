@@ -1,0 +1,151 @@
+---
+slug: teu-tertiary-update-volume-12-number-36
+title: "TEU Tertiary Update, volume 12, number 36"
+date: 2009-10-22
+source-url: https://www.scoop.co.nz/stories/ED0910/S00096/teu-tertiary-update-volume-12-number-36.htm
+author: association-of-university-staff
+---
+TEU Tertiary Update, volume 12, number 36
+=========================================
+
+**Thursday, 22 October 2009, 9:03 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+VICE-CHANCELLORS TOLD TO PAY FOR QUALITY ASSURANCE
+
+An independent review of the New Zealand Universities Academic Audit Unit (AAU) recommends that the Unit have greater independence from the New Zealand Vice Chancellors’ Committee (NZVCC).
+
+The Board of the AAU has just released the report based on external evaluation it commissioned. The review panel found that it is possible for the Unit’s owner body, the NZVCC to exercise undue influence on the Unit. The panel’s view is that there is a need for NZVCC and the Unit to discuss ways whereby the real and perceived independence of the Unit can be strengthened.
+
+The panel also found that the unit was not resourced or staffed sufficiently to achieve its objectives and that a significant increase in funding is required to enable the NZVCC to meet its statutory obligations in regard to quality assurance.
+
+The panel noted that overall the unit has done well to fulfil its terms of reference, conduct several rounds of audit cycles and enhance universities’ quality assurance arrangement, especially given it employs only one professional staff member to undertake these duties.
+
+Retiring director of the Unit, John Jennings says:
+
+“The report is forward looking and provides recommendations and guidance for the Board in its own preparation of the Unit for an enhanced future role in a demanding educational, social and political environment.”
+
+The Board has informed the New Zealand Vice-Chancellors’ Committee of its positive response to the report, and has proposed a timetable for action. At present, the Unit is in the process of appointing a new director to replace Mr Jennings, whose job it will be to address and progress those recommendations of the report.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+ALSO IN TERTIARY UPDATE THIS WEEK:
+
+1\. Prime Minister defends ACC changes  
+2\. PBRF creates race to stand still  
+3\. Five new trades academies with more to come  
+4\. Māori lecturer in international Hall of Fame  
+5\. 53,000 petition for adult and community ed  
+6\. Robin Hood rises again
+
+PRIME MINISTER DEFENDS ACC CHANGES
+
+Prime Minister John Key defended his government’s proposed ACC reforms to the CTU Biennial Conference yesterday. The Prime Minister told worker representatives from around the country that his government supports “a comprehensive, 24/7, no-fault accident insurance scheme, that delivers certainty of coverage for New Zealanders.”
+
+“However we have been very concerned to learn that the ACC scheme is in financial dire straits,” he said “This is not a surprise we welcomed on assuming the Treasury benches.”
+
+Mr Key argued that the government had no option but the make changes to the current ACC system because the alternative was a dramatic increase in levies for employers and employees alike:
+
+“The ACC Board has proposed a way forward - 64% hikes on levies for the Earners Account and 44% increases to levies on the Workers Account. I don't think levy hikes that big are fair on workers and I worry that imposing those hikes on employers could threaten jobs. But if the Government makes no changes to the law, that's what will happen.”
+
+CTU President Helen Kelly however challenged this description of ACC’s financial state and described the Government’s attacks on ACC as an attack on the welfare of every New Zealander.
+
+“Nick Smith has a big agenda in mind – sack all those on the board that care about and understand the scheme, create a crisis that looks like you are saving the scheme, propose outrageous levy hikes and then save the day by cutting the entitlements and moving into privatisation.”
+
+She said the community was looking to unions for leadership on this issue and their fight for ACC would be a strong one.
+
+TEU has photos and video of the Prime Minister’s speech to the CTU on its website.
+
+PBRF CREATES RACE TO STAND STILL
+
+Dr Grant Duncan, who sits of the Tertiary Education Commission’s PBRF Sector Reference Group, has criticised the PBRF fund for creating a Red Queen race – where the contestants madly scramble to stay in the same place – due to little real increase in the overall fund.
+
+Dr Duncan, on his blog Politics of Happiness says that while it is widely thought that New Zealand does not invest enough resources in research, no-one had come up with any analysis that showed that universities were doing less than they ought.
+
+“And certainly no-one has stated what the optimal level of research output – at any specified level of ‘quality’ – should be for any particular university. The PBRF has never come with a clear set of goalposts, to put it simply. Taken to its logical conclusion, the optimal arrangement for PBRF purposes would be an academic staff contingent every member of which gets an A. Not only would this be practically impossible, but any attempt to achieve it would jeopardise the development of the future generation of researchers and scholars – not to mention devotion to teaching.”
+
+“The message of the PBRF seems simply to be that more – or at least the appearance of more – ‘high-quality’ research is desirable. Growth is good. The sky could be the limit, were it not for the fact that another effect of the PBRF is that the universities are now competing madly with one another to retain much the same real level of funding that they got in previous years.”
+
+Dr Duncan acknowledges there is tension between academic freedom and the need to maintain accountability for the use of resources. However he argues that managerial interventions into the PBRF process such as those becoming common in several universities create an environment where PBRF becomes the rationale for an application of managerial authority, including a disciplinary threat, in order to produce more research and more income for the university.
+
+“This appears to contravene the Education Act’s requirement that the governance and management of the university should give effect at all times to the intent of the academic freedom provisions.”
+
+FIVE NEW TRADES ACADEMIES WITH MORE TO COME
+
+Education Minister, Anne Tolley, announced last week the five successful applicants selected to open trades academies in 2011, two of which will be based at Waikato and Wellington institutes of technology. Trades academies are part of the government's Youth Guarantee programme.
+
+“They'll provide more career choices for 16 and 17 year olds, and give them greater opportunities to develop their knowledge, skills and talents through trades and technology programmes" said Mrs Tolley.
+
+The five academies selected from 113 expressions of interest from providers across New Zealand are: Northland College, Waikato Institute of Technology and Cambridge High School, Wellington Institute of Technology, Taratahi Agricultural Centre and Catlins Area School.
+
+"Trades academies, based on partnerships between schools, tertiary institutions, industry training organisations and employers, will give students a head-start in an industry-related career, earning both NCEA credits and a tertiary qualification," said Mrs Tolley.
+
+The Minister also announced that six additional proposals put to the Ministry by education providers will also be developed with a view to establishing trades academies. They include proposals from Christchurch Polytechnic Institute of Technology and Eastern Institute of Technology. The Ministry of Education will now work with all eleven applicants on their business plans.
+
+"This government is committed to bringing out the best in our young people. Trades academies will enable more students to gain qualifications which will set them on a strong career path and help them achieve in their chosen field," concluded Mrs Tolley.
+
+MĀORI LECTURER IN INTERNATIONAL HALL OF FAME
+
+Waikato University senior lecturer and TEU member Sandy Morrison is going to be inducted into the International Adult and Continuing Education Hall of Fame. The US-based organisation attracts international educators from around the world to honour leaders in the field and to help inspire future leaders in continuing education.
+
+Morrison, from the School of Māori and Pacific Development, is the first New Zealander to be inducted into the Hall since the organisation began in 1995. She is of Tainui and Te Arawa descent and has been working in the field of adult education at Waikato University for more than 20 years. She has also carried out development work with ASPBAE - Asia South Pacific Association for Adult and Basic Education - where she was an executive council member for the South Pacific region and president from 2004 to 2008.
+
+At a national level, Ms Morrison has chaired the Adult and Community Education Reference groups advising the Tertiary Education Committee on funding matters and strategic direction.
+
+She’s thrilled to receive the honour:
+
+“Induction into the Hall of Fame is given to those people considered to be exemplary lifelong learners and who have left lasting impressions on the students, institutions, and organisations they have served, so it’s certainly very special.”
+
+Ms Morrison will be inducted next month at the Association for Continuing Higher Education (ACHE) conference being hosted by the University of Oklahoma and held in Philadelphia.
+
+53,000 PETITION FOR ADULT AND COMMUNITY ED
+
+The Minister of Education Anne Tolley has continued to back her decision to cut funding to adult and community education courses despite receiving a petition signed by 53,000 people calling for those cuts to be reversed. When asked about this petition this week in Parliament Mrs. Tolley said that providing second-chance opportunities for people in the community is a priority for the Government.
+
+“This is why we are providing $124 million to adult and community education. But second-chance learning also occurs at universities, polytechs, wānanga, and private training enterprises. They all got an increase in funding in the Budget.”
+
+Opposition politicians then questioned Ms Tolley about a lack of provision of any adult and community education classes at all in Northland, the West Coast-Tasman and the Hutt Valley. The Minister reiterated that final decisions about providers have not yet been made but that adult education does not have to be provided through schools; it can be provided through a variety of tertiary institutions. When asked about the impact on Māori, the Minister responded thus.
+
+“There are a lot of myths about adult and community education. Māori will benefit from the new focus on literacy and numeracy; I am not quite sure how supporting classes in ukulele playing and tie-dying silk scarves will help many Māori back into formal education."
+
+ROBIN HOOD RISES AGAIN
+
+After the US economy was brought to its knees by the self-indulgence of the rich, a hero of the poor, Robin Hood, is enjoying rising popularity on US university campuses.
+
+England’s favourite outlaw is the subject of a multitude of new courses with booming enrolments. The courses are being offered everywhere from two-year community colleges serving low-income students to prestigious Dartmouth and Smith colleges, University of California Los Angeles, Purdue and Kent State universities.
+
+The University of Rochester, in upstate New York, has one Robin Hood course in the English department and another in the history department, and is holding a biennial conference this week on the subject expected to attract 100 scholars.
+
+Thomas Hahn, professor of English at Rochester and the North American head of the International Association for Robin Hood Studies, said: “Robin Hood has really taken off as an academic subject… The question is, why?”
+
+One answer is in Robin Hood’s resurgence in popular culture, including a popular BBC series that is currently being shown in the US, and an upcoming film by director Ridley Scott starring Hollywood heavyweights Russell Crowe and Cate Blanchett, Dr Hahn said.
+
+But another, he suggested, is that Robin Hood is easily politicised as a libertarian, socialist, terrorist, or whatever else academics want to make of him, and reflects the particularly popular dynamic in hard times of stealing from the rich to give to the poor.
+
+Taxpayers, by this contemporary political interpretation, are the peasants; bankers, the landed gentry.
+
+From Jon Marcus at the Times Higher Education Supplement
+
+\------
+
+TEU Tertiary Update is published weekly on Thursdays and distributed freely to members of the Tertiary Education Union and others. You can subscribe to Tertiary Update by email or feed reader. Back issues are available on the TEU website. Direct inquiries should be made to Stephen Day, email: stephen.day@teu.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

@@ -1,0 +1,167 @@
+---
+slug: dr-russel-norman-speech-to-the-ndu-conference
+title: "Dr Russel Norman Speech to the NDU Conference"
+date: 2010-10-13
+source-url: https://www.scoop.co.nz/stories/PA1010/S00174/dr-russel-norman-speech-to-the-ndu-conference.htm
+author: green-party
+---
+Dr Russel Norman Speech to the NDU Conference
+=============================================
+
+**Wednesday, 13 October 2010, 11:00 am**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+**Dr Russel Norman Speech to the NDU Biennial Conference**  
+  
+**Introduction**
+
+Tēnā kotou
+
+A century of working class struggle gave me and my family the opportunities that led me here today.
+
+My grandfathers were a couple of out-of-work, heavy-drinking carpenters who barely survived the Depression with their families intact. My mother never went to high school. Instead she went to work at a paper bag factory when she was 13. My father grabbed the chance to learn a trade, and became a fitter and turner, and then an engineer. We grew up in an asbestos walled housing commission home in Brisbane. I shared a room with my three brothers. We all went to the local state school. I was the last of six children and the first to go to university.
+
+Affordable education and affordable housing are all part of the struggle of the working class movement. So are decent wages and working conditions and social security and I have benefitted from that struggle. So I’m proud to be here today representing a Party that has never flinched in its support for working people and their unions.
+
+**Industrial Relations**
+
+The Greens believe that strong, worker-friendly industrial relations legislation is the foundation of a fair and decent society and a productive economy.
+
+But right now New Zealand has one of the least regulated labour markets in the developed world and there is a power imbalance in the relationship between employer and employee.
+
+The government wants to make this worse by weakening unfair dismissal laws and weakening laws around collective bargaining and by restricting union access to work sites. We’re against these attempts to eat away at worker and union rights. We’ll be with you at next week’s stop work rallies.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Weakening union and worker rights results in a more unequal society.
+
+And inequality hurts everyone. Inequality makes people sick and it fills our hospitals. Inequality makes people desperate and it fills our prisons. And we all pay for overflowing hospitals and prisons.
+
+The Greens believe that economic success should be shared around.
+
+The smart move is to focus on reducing the gap between the haves and the have-nots so that we are all better off.
+
+There are practical steps we can take now to reduce inequality if we have the political guts to do it.
+
+The Greens would introduce progressive power pricing, where the first chunk of power is cheap and then the price rises steeply after that so that families can afford to heat their houses but if you want a heated swimming pool then you have to pay more.
+
+The Greens would make the first $10,000 of income tax-free so that everyone gets the same tax break rather than giving a huge tax break to the wealthy and virtually nothing to those on the minimum wage.
+
+The Greens would extend the Working for Families Tax Credit to the country’s most disadvantaged 140,000 families, those on benefits. National and Labour punish beneficiaries by not giving them this tax credit but single parents who are unemployed should be able to afford to feed their kids too, and go to the movies every now and then.
+
+The Greens would build 6000 new state houses so that more families can afford to pay the rent.
+
+And we would increase the minimum wage to at least $15 an hour.
+
+These steps would help address inequality in our country. But they don’t come cheap.
+
+We would pay for these measures with a tax on capital gains, excluding the family home. The capital gain or profit made when a currency trader or a banker sells shares for more than they bought them is currently untaxed. So a banker who earns money by playing the stock market and making capital gains pays no tax, but a cleaner who earns income via wages for real work pays tax.
+
+It’s not fair. And that’s why most countries, like Australia and United States tax capital gains. But we don’t here.
+
+If capital gains were taxed, excluding the family home, it would raise $4.5 billion a year for the government and make our tax system fairer. And that’s how we’d pay for the programs to reduce inequality.
+
+The Green Party supports a fairer tax system. John Key gives tax cuts to high income earners and a GST increase to workers. It’s wrong and it makes the gap bigger between rich and poor.
+
+**Environment/Economy**
+
+We also believe that if we look after our environment, we look after our economy.
+
+The National Government says it’s a trade-off – we must destroy our environment to grow the economy - mine national parks for short term profits for foreign owned mining companies.
+
+We say clean and green is the foundation of our prosperity. No environment, no economy.
+
+As a small producer at the edge of the world, we need an export brand to sell our products overseas. That brand is clean green New Zealand, 100% Pure. Not 50% Pure.
+
+Clean and green is the best brand you could ask for as the world becomes more environmentally aware. The brand is already worth $13 billion to New Zealand, and can be worth much more in the future. A smart economic strategy would protect this brand.
+
+A smart economic strategy for New Zealand would make clean and green a reality.  
+  
+**Green Jobs**  
+  
+It is also smart to embrace the green jobs revolution that is redefining economics.
+
+The global market for clean technology goods and services is already $415 billion per year. It is going to grow to $1.9 trillion by 2017. If we can access just one per cent of this market we will prosper.  
+  
+We have opportunities. Mighty River Power is exporting the technology for geothermal electricity generation. Meridian Energy has a solar power plant connected to the California grid and is about to build another in Tonga.
+
+So we can see on the horizon a time when we use the sun to power jobs as well as our homes and businesses. This is the Green Economic Revolution that Arnold Schwarzenegger talks about.
+
+There’s also a company called Biodiesel New Zealand that makes cooking oil out of locally grown canola. When that oil is done making fish and chips, they turn it into biodiesel.
+
+They’ve got a fishing boat running on pure biodiesel, and the blend for trucks, buses and vans is up to 20 per cent.
+
+If we follow this green tech path, we can look after our economy, we can look after workers and we can look after our environment.
+
+Some of you probably already know that Biodiesel New Zealand is owned by the coal company Solid Energy, which highlights the choices we face.
+
+We can keep digging up coal like we have for more than a hundred years, but ultimately that’s a dead end. We can drag our heels, but ultimately coal won’t be viable, and then what do we do for energy and what do we do for work?
+
+The clean technology future is much more secure, providing jobs and protecting our environment.  
+**Keep It Kiwi**
+
+Energy independence is part of maintaining economic sovereignty and economic sovereignty is another way of saying ‘the right to make our own decisions about New Zealand’s economic future’.
+
+The debate about foreign ownership is a question of sovereignty. Right now a Hong Kong dairy company wants to buy up the Crafar dairy farms, and thousands of hectares of productive farmland. Meanwhile our Parliament just voted for a trade deal with Hong Kong that makes it easier for Hong Kong companies to buy our farmland.
+
+The Greens alone voted against that Hong Kong deal because we want to protect our economic sovereignty and if you don’t even control your own land you are not masters of your own destiny.
+
+In the last five years alone under National and Labour more than 150,000 hectares of farmland has gone into overseas ownership.
+
+This is not about xenophobia or Paul Henry. We are not frightened of foreigners; the Greens welcome migrants to our country. Like me, some of you in this room are probably migrants.
+
+The issue is about overseas based corporations and billionaires buying up chunks of New Zealand and extracting the profits from our country.
+
+It’s about the overseas owned banks overcharging us and sending their profits offshore.
+
+The fact is that overseas owners are draining New Zealand of its wealth.
+
+National wants to make this worse by selling off our state owned assets. John Key says it’ll be a campaign issue next year. Well, if the state-owned assets are privatised, they will be bought by overseas owners and more profits will go overseas.
+
+State owned assets such as Kiwibank are our success stories as well as strategic parts of our economy
+
+The Greens have launched a Keep it Kiwi petition to send a strong message to National that New Zealanders will oppose any attempt to privatise public assets. I hope you'll add your signature.  
+  
+**MMP**
+
+The people who want to sell our public assets, are the same people who want to get rid of the MMP voting system at the referendum next year.
+
+They want to get rid of it, because MMP is fair. It gives every New Zealander a voice. They don’t like that.
+
+Don’t make it easy for them; it’s up to ordinary New Zealanders to keep MMP.
+
+MMP has delivered good ideas like KiwiBank, like paid parental leave, and like the Greens home insulation program that is on track to make 180,000 homes warmer and drier and healthier.
+
+And, under MMP, you get two parties advocating for workers’ rights – the Greens and Labour. And while the Greens are the staunchest, we like having Labour there for the numbers.
+
+**Conclusion**
+
+My friends, these are not the best of times. We have high unemployment, a deteriorating natural environment and a government that thinks giving the CEO of Telecom a tax cut of $5000 per week is a key priority.
+
+Well the Greens have a vision of New Zealand where we look after each other and our natural environment; where we have jobs and clean rivers. We believe that you share that vision and we will fight alongside you to achieve it.
+
+Kia kaha
+
+Tene koutou katoa
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

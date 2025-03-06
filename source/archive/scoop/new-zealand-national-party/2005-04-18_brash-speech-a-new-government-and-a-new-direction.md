@@ -1,0 +1,256 @@
+---
+slug: brash-speech-a-new-government-and-a-new-direction
+title: "Brash Speech: A new government and a new direction"
+date: 2005-04-18
+source-url: https://www.scoop.co.nz/stories/PA0504/S00365/brash-speech-a-new-government-and-a-new-direction.htm
+author: new-zealand-national-party
+---
+Brash Speech: A new government and a new direction
+==================================================
+
+**Monday, 18 April 2005, 8:19 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Don Brash Speech: A new government and a new direction
+
+Address to National Party Northern Region Annual Conference, Waipuna
+
+Conference Centre, Auckland
+
+Mr Chairman, Madam President, Parliamentary colleagues, fellow delegates.
+
+I imagine many of you will agree with me when I observe that over the last fortnight we have witnessed one of the most extraordinary spectacles in New Zealand politics.
+
+An insider, from not only the Labour caucus but the Labour Cabinet, has laid bare the seething mass of minority agendas, personal animosities and bitter tensions which is the Helen Clark Government.
+
+And for that, the New Zealand public should be eternally grateful to John Tamihere.
+
+It is my sense that a combination of the decision by John Tamihere to tell the truth about his Labour colleagues, the sharp decline in consumer confidence, and the gradual unveiling of the National Party’s campaign agenda will serve to significantly tighten the political game.
+
+A two horse race is taking shape as we head towards the final straight of the 2005 general election.
+
+And the winning of the 2005 election is within our grasp.
+
+A change of direction for our country is within our grasp, if we all commit totally to that goal.
+
+John Tamihere’s comments about his colleagues – if we put aside his more offensive comments generally – have served to remind us, in somewhat colourful terms, why it is so important that we have a change of government this year: because New Zealand is not being governed by mainstream New Zealanders, or in the interests of mainstream New Zealanders.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+This is a government which panders to fringe groups and special interests. Which is great if you happen to be a trade union activist. Or part of the Maori caucus. Or a member of the Rainbow caucus. Or the inhabitant of a university common room.
+
+But if you happen to be Mr and Mrs Average New Zealander, earning an average
+
+wage, struggling to educate your kids, pay the mortgage, and save a little to improve your lot and that of your family, this, as John Tamihere has reminded us, is not your sort of government.
+
+The legislative agenda of the Clark Government speaks volumes of its true priorities:
+
+• Greater powers for trade unions, to the point where state servants now get a
+
+bonus just for joining the union.
+
+• Foreshore and Seabed legislation that is already resulting in two very different
+
+standards of citizenship for Maori and non-Maori.
+
+• All manner of social engineering initiatives to tell us what not to eat or drink or
+
+smoke, with a Bill to promote transgender rights and another to curtail what
+
+Labour activists call “hate speech” waiting in the wings until after the election.
+
+Yes, Ladies and Gentlemen, these are the causes which many in the Labour caucus fondly imagine to be the concerns of hard-working tax-paying New Zealanders.
+
+And now those hundreds of thousands of hard-working New Zealanders, whose
+
+determination to get ahead is being strangled by new taxes and bracket creep, are being told that their salvation is to be found in Helen Clark’s bold new vision for New Zealand: middle class welfare.
+
+This country needs a new direction and a new government. And if you don’t believe it from me, believe the New Zealanders who have backed reflected that view in their actions.
+
+This week, 550 New Zealanders will leave the land of their birth and move permanently to Australia. And what, you may ask, is so special about this week?
+
+The answer, of course, is that there is nothing special about this week. Five hundred and fifty New Zealanders, on average, leave this country every week to move to Australia. Five hundred and fifty of our brightest and best New Zealanders voting with their feet, every week. Some come back, but most don’t.
+
+And Helen Clark doesn’t think that’s a problem.
+
+When Helen Clark’s Government was elected five years ago, the average Australian worker was $5,000 per year better off, after tax, than their Kiwi counterpart. Five years later, that Australian worker is nearly $9,000 a year better off – a near doubling of the gap in just five years of this Labour Government.
+
+And Helen Clark doesn’t think that’s a problem.
+
+Well, I do think that’s a problem. I think it’s a sufficiently big problem that I decided to walk away from a perfectly satisfactory career to enter Parliament.
+
+And this year we will offer New Zealanders the very real choice of a government
+
+which is intent upon restoring this country to a position of respectability and pride
+
+among the ranks of the developed nations; a government which knows that this
+
+country can do better, much better, than merely flying Helen Clark’s white flag of
+
+surrender.
+
+Today, I want to talk about two of the things which are critical in this region, if we are to seriously improve our economic performance.
+
+First, we need to address the issue of roading infrastructure. Two weeks ago, I
+
+addressed the annual conference of the AA.
+
+I announced that it was the policy of the National Party that every dollar and every cent collected in petrol tax should be spent on improving our roading infrastructure. That policy will open the door to a whole new era in roading infrastructure in this country.
+
+The leaders of the sector groups which understand roading issues were fulsome in their endorsements. They did so because our policy is the foundation that is required if we are to seriously address the deficiencies in the nation’s roading network.
+
+Over the coming weeks I will have more to say about this matter. I intend to give
+
+New Zealanders a clear picture of the dramatically different roading network they will enjoy within a few years, if they vote for a change of government.
+
+As I said in my AA conference speech, there is an urgent need for an improved road network in many parts of the country – in the Bay of Plenty, in Wellington, in Hawkes Bay, in Nelson, in the Waikato – but in few places is the need more desperate than in Auckland.
+
+The Labour Government talks about fixing the problem but does very little. Already, just days after the additional 5 cents per litre petrol tax, there is talk about road projects in Auckland having to be delayed yet again.
+
+This country is not going to enjoy first world economic growth – or the safer roads
+
+which other developed countries enjoy – while it suffers the handicap of a third world roading network. And I am intent on making this one of the real areas of difference between the Clark Government and the National Party going into this election.
+
+But the most critical area for change, if we are to achieve the high performing New Zealand which I believe we can be, is change to our education system. It has been no great secret over the years that I am passionate about the need to make improvements in education. I have been privileged to see much of the very best that is being achieved around the world, and I ask myself why can’t we do a better job for our children in New Zealand?
+
+Education holds the key to the skill base we will require to improve our economic
+
+performance.
+
+Education holds the key to a society which offers real equality of opportunity in life for every young New Zealander.
+
+And most importantly, education holds the key to the more aspirational, more
+
+dynamic culture and attitude this country must see, if we are to improve our fortunes in a highly competitive world.
+
+Improving our basic literacy and numeracy standards should be a national mission.
+
+Every illiterate school leaver is an indictment on our education system.
+
+National will set national standards in numeracy and literacy, so that no child arrives at high school unable to read and write, or unable to understand basic arithmetical functions.
+
+I announced this week that National commits to those parents whose children are, by the age of seven, failing to achieve the national standards we will establish that they will be provided with “reading vouchers” to enable their child to catch up. We will also introduce a “maths voucher” scheme.
+
+So the commitment to parents is this: if your local school, or classroom teacher, is failing your child, we will provide you with another option.
+
+This year, Helen Clark’s Government will waste literally hundreds of millions of dollars in our education system. Hard-earned taxpayer dollars are being wasted on a growing army of bureaucrats, promoting low quality courses that see people
+
+emerging at the other end without any formal qualification.
+
+The spending record of the Labour Government is a damning indictment on their
+
+ability to set sound priorities in education.
+
+In the last five years, funding to the Ministry of Education for core services such as policy advice, administration of regulation and provision of information has more than doubled.
+
+And while the total education budget has increased dramatically, only a tiny fraction of that increased spending has filtered its way into school budgets. Indeed, the proportion of the education budget going into school operation grants has actually fallen in recent years.
+
+Tertiary education has been the big funding winner, but it is also the area where the most money has been wasted. Steve Maharey has spent $210 million creating a Tertiary Education Commission that was supposed to bring strategic direction to our tertiary education system. But instead we have seen money squandered on some of the least strategic courses imaginable: radio sing-along courses, twilight golf, homeopathy for pets, and all the rest.
+
+Under this Government, spending on low-level tertiary courses has doubled. Official records show that two in three students doing these courses never actually finish them. Labour has wasted at least $1.7 billion on funding people to do low-level courses that they never ever finish.
+
+That is more than a problem. It is an unmitigated tragedy.
+
+But it is also a huge opportunity for the next government of this country.
+
+Later this year, Bill English and I, assisted by Allan Peachey and others in the
+
+National caucus, intend to preside over the biggest reallocation of public money ever seen in a department of state.
+
+Over the past five years, the Clark Government has created more than 1200 new
+
+positions in the education bureaucracies. And if you want to know what the extra
+
+bureaucrats are doing, just ask your local school principal. More and more forms to fill in, so that more and more decisions can be made in Wellington. Less and less trust in principals and boards of trustees. Less and less accountability for educational outcomes.
+
+Ladies and Gentlemen, later this year, all of that is going to change.
+
+Today, I have messages for two groups in the education sector.
+
+First, I want to say to the teachers – those currently in the system and those who
+
+have left it to go to another career or to go abroad – and to those currently in our
+
+school system thinking about a career in teaching: Do I have a deal for you!
+
+Under a National Government, I want the critical task of teaching our young people to be the profession of choice for our brightest and best New Zealanders. And we will pay teachers accordingly. We will treat teachers like the valued professionals they must be.
+
+My second message is for the teachers’ unions, who were so predictably quick out of the blocks to criticise my recent education speech – the teachers’ unions who have enjoyed such favoured treatment in the innermost councils of the Clark
+
+administration.
+
+Under the next National Government, education is going to be about putting our kids first and getting world class teachers into classrooms.
+
+Principals and boards are going to be resourced to pay those teachers what they are worth.
+
+Principals and boards are going to find it easier to remove teachers that aren’t
+
+meeting the standards which have been set.
+
+New Zealand children are going to get the best education, from the best teachers. And no education union, no national salary award, no union bullyboy tactic is going to stand in the way of that.
+
+If teachers, like any other New Zealander, want to join a trade union, then that is their democratic choice. But let me be very clear about this: under a National
+
+Government, the budgets and the decision-making capability in education will move to principals and boards and communities.
+
+The days of the Wellington-based troika of the teachers’ unions, the bureaucrats and centralist politicians carving up the budgets and the decision-making amongst themselves will be well and truly over.
+
+While the Ministry and its offshoots have become bigger and bloated, many schools in this city, serving middle income families, are struggling under the policies imposed by Minister Mallard and his Wellington mates.
+
+Decile-based funding results in a decile 10 school getting about half as much money per student from the operations grant and the decile based supplements as a decile one school. Half as much per pupil.
+
+That has required many schools throughout this region to rely not just on school fairs and school donations to fund the quality of education expected by their communities but also on a host of entrepreneurial businesses on the side, earning hundreds of thousands of dollars from international fee-paying students.
+
+I believe we must find a more sensible approach to funding than the application of a rigid decile-based formula.
+
+Educational need is educational need, regardless of so-called decile ranking, and
+
+there has simply got to be a simpler, fairer approach than the current system. We
+
+must also find a way of describing schools which doesn’t so clearly brand them, as is the case now.
+
+Delegates, in a few months’ time, we will have the opportunity to change the
+
+government and the direction of our country.
+
+Before closing, I want to pay a tribute to our President Judy Kirk. Due to her efforts and those of the people around her, we will go into to the 2005 election campaign substantially better prepared and better resourced than ever before. She gives me tremendous personal support, and for that I thank her most warmly.
+
+I acknowledge the great work done by Scott Simpson, your regional chair, and the valuable support of all of the Party members in this region.
+
+I want to take this opportunity of saying publicly to my Parliamentary colleagues from this region how much I appreciate their loyalty and support. Members of Parliament from this region make up almost exactly half of the entire caucus, and their hard work will be fundamental to our success this year.
+
+Now we come, as they say, to the business end of the political process. Here, in the Northern Region, there is a widespread view that the time has come to have a new government and a new direction.
+
+The hard-working, over-taxed, over-regulated people of this region know that John Tamihere was right when he said that this Clark Government is not made up of people like them.
+
+They know that middle class welfare and stultifying political correctness are not the path forward for this country.
+
+They know that it’s time we had a government that is committed to New Zealand
+
+getting ahead, by empowering New Zealanders to get ahead.
+
+That is the sort of government and the sort of direction that is now within our reach.
+
+Ends
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

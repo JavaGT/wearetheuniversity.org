@@ -1,0 +1,218 @@
+---
+slug: otago-takes-precautions-to-control-meningococcal-c
+title: "Otago Takes Precautions To Control Meningococcal C"
+date: 2003-08-25
+source-url: https://www.scoop.co.nz/stories/GE0308/S00071/otago-takes-precautions-to-control-meningococcal-c.htm
+author: university-of-otago
+---
+Otago Takes Precautions To Control Meningococcal C
+==================================================
+
+**Monday, 25 August 2003, 4:10 pm**  
+**Press Release: [University of Otago](https://info.scoop.co.nz/University_of_Otago)**
+
+Monday 25 August 2003
+
+Otago Takes Precautions To Control Meningococcal C
+
+Cumberland Hall residents offered antibiotics, vaccinations to prevent outbreak
+
+Staff and student residents at Cumberland Hall at the University of Otago will be offered both antibiotics and vaccinations today in a precautionary step to prevent an outbreak of group C meningococcal disease.
+
+There have been two unrelated cases at the Hall within the past three weeks. Due to the vigilance of Hall staff who carefully monitor the health of residents, both students received prompt medical attention, have responded well to treatment and are now recovering from their illnesses.
+
+\"Because the two cases occurred within a short period of time, I contacted the Otago Medical Officer of Health, Dr John Holmes, and the Head of Student Health, Dr Jim Jerram, to seek advice," says Head of Cumberland Hall Mr Warren Lees. "The Ministry of Health recommended that we ought to take this precautionary action, and approved the offering of oral antibiotic treatment and vaccinations to all 339 Hall residents."
+
+Dr Holmes explained that "once there are two or more cases of a disease within a defined area, it is considered to be an "institutional cluster.' As such, while the two cases were unrelated, they do both live in Cumberland Hall. There was unanimous agreement by the Ministry's Infectious Diseases Advisory Committee to offer the vaccine plus the antibiotic chemoprophylaxis to residents and staff of the Cumberland Hall community in a concerted effort to prevent further cases.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+"We are following international best practice in this case; no one recommends mass vaccinations for entire communities that are not at increased risk."
+
+Only those who have been in close contact with someone who has a confirmed case of the meningococcal disease are considered to have a greater risk of developing it themselves.
+
+The antibiotic is known as ciprofloxacin and will be given as chemoprophylaxis which is administered in tablet form. This will immediately kill any of the bacteria that may be currently present but is only temporarily effective. The vaccine, an injection, takes 10 to 14 days to take effect but will give at least two years' protection against the disease.
+
+"Together, they will give the best possible protection to Hall residents," Dr Holmes said.
+
+Drs Holmes and Jerram met with Hall residents early this morning to discuss the situation and to distribute medical information and consent forms so that residents could make an informed choice. A letter from Cumberland Hall also went out to parents to keep them informed as well. While the course of treatment is free and highly recommended by health officials, it is entirely voluntary. Residents who accept this recommendation will begin receiving the treatment at the Student Health Service clinic from 6 pm today. Clinic staff and staff from Public Health South will work overtime until all staff and students have been treated - a task which is expected to take at least three hours.
+
+\- 2 -
+
+Dr Jerram praised the quick efforts of the Cumberland Hall staff who first noted the condition of the ill students and brought them personally to the appropriate health authorities for urgent medical treatment.
+
+"I'm impressed by the manner in which they have dealt with this situation," Dr Jerram said. "Young people are particularly vulnerable to meningococcal disease, and it can be difficult to diagnose as the early symptoms so often mimic those of influenza. But vigilance and a quick response is our best defence, backed up by the finest medical care we can offer".
+
+Mr Lees noted that Cumberland Hall follows a strict policy of identifying any resident who may be ill and keeping a close eye on their progress. There are 17 trained Residential Assistants (RAs) in the Hall, and a buddy system in place so that ill students are carefully monitored. All RAs also attend a mandatory two-day course taught at the beginning of each school year by University Health Educator Ms Chris Griffiths. The course covers key health issues including the signs and symptoms of meningococcal disease.
+
+In New Zealand, cases of group C meningococcal disease are unusual as about 85 per cent of reported cases are group B. A vaccine targeting the epidemic strain of group B meningococcal disease is currently being clinically trialled in Auckland.
+
+"It is important to remember that despite the seriousness of this disease, most people will recover with prompt medical attention," Dr Holmes says.
+
+Dr Holmes, Dr Jerram, Mr Lees, and Director of Student Services Mr David Richardson, will be available to answer media questions at 3 pm today at the Student Health Services Building, located on the corner of Albany and Cumberland streets.
+
+For the latest Ministry of Health information on meningococcal disease see:
+
+www.moh.govt.nz/meningcococcal
+
+BACKGROUND FAQs:
+
+What is meningococcal disease?
+
+Meningococcal disease is a serious bacterial infection caused by a bacterium (germ) Neisseria meningitidis, known as a meningococcus. It usually affects the membrane around the brain (meningitis) or the blood (blood poisoning). It is a serious disease and can sometimes cause death or permanent disability such as deafness.
+
+Can meningococcal disease be treated?
+
+Yes. Meningococcal disease can be treated with antibiotics. It is very important that antibiotic treatment is started early. However, even with treatment, death, disfigurement and disability can still occur.
+
+Can meningococcal disease be prevent?
+
+The spread of meningococcal disease from person to person can be prevented once the disease has been identified and close contacts of that person are given antibiotics to clear the organism from their throat.
+
+\- 3 -
+
+Some forms of meningococcal disease can be prevented by vaccine. Vaccines effective against meningococcal groups A, C, Y and W135 are currently licensed for use in New Zealand. Immunisation programmes have successfully controlled outbreaks of group A and C meningococcal disease. At present the type of meningococcal disease causing the majority of cases in New Zealand is a strain of group B.
+
+How do you recognise if someone has meningococcal disease?
+
+Don't wait - take action: see a doctor if you or your child is sick. If your child is sick - check often. Meningococcal disease - early treatment saves lives.
+
+Your child may be seriously ill if they:
+
+\- have a fever
+
+\- refuse drinks or feeds
+
+\- are sleepy or floppy or harder to wake
+
+\- vomit
+
+\- are crying or unsettled
+
+\- have a rash/spots
+
+\- have a headache.
+
+Anyone can get meningococcal disease but though those at greatest risk are children under five and young adults.
+
+If the person gets worse, take them straight back to the doctor.
+
+How is meningococcal disease spread?
+
+The bacteria (meningococci) can be spread by close contact with someone who is carrying it. Close contact means:
+
+\- living in the same household
+
+\- sleeping in the same room
+
+\- attending the same pre-school (for more than just a few hours a week)
+
+\- sharing food, drink or utensils
+
+\- kissing
+
+\- sharing spit - from whistles, chewing gum etc.
+
+People often carry the meningococcal bacteria harmlessly in their nose and throat without getting ill. As many as two people in every 10 may carry the bacteria (meningococci) in their throats. This figure can sometimes be as high as five in every 10 in specific communities.
+
+NB: Meningococcal disease cannot be caught by putting your head under the water in hot pools found in New Zealand. Amoebic meningitis may occur after exposure to a different organism from that which causes meningococcal disease.
+
+Why do only some people get sick with meningococcal disease?
+
+Meningococci bacteria are often present in many people without causing disease, but on rare occasions they penetrate the defences of the lining of the throat to cause an invasive life-threatening illness. The reasons why this occurs in one person and not another is unclear.
+
+Invasive disease is more common in infants and young adults, and appears to occur in the first few days of exposure of a susceptible person, after which immunity develops. In children the illness may be very non-specific, however it may quickly become life threatening. This is why it is most important to recognise the early signs of meningococcal disease and to take appropriate action.
+
+\- 4 -
+
+How is this outbreak different to the group B meningococcal disease currently at epidemic levels in New Zealand?
+
+The meningococcal group C disease is different to the New Zealand-specific strain of meningococcal group B disease that is currently at epidemic level in New Zealand and for which a vaccine is currently being clinically trialled.
+
+In New Zealand the majority of meningococcal disease cases are group B for which there is currently no commercial vaccine available.
+
+Effective vaccines for meningococcal group C disease are available. Immunisation programmes have successfully controlled outbreaks of meningococcal group C disease, including an outbreak that occurred in Balclutha in 2002.
+
+The group C meningococcal vaccine will be used to control this outbreak in Otago. However it is important to realise that this vaccine cannot control the current meningococcal group B disease epidemic.
+
+Why offer antibiotics or chemo-prophylaxis?
+
+People who have been in close contact with someone who has a confirmed case of meningococcal disease have a higher risk of developing the disease themselves. Antibiotics in the form of a tablet can kill the meningococcal organism if people are carrying it. Therefore it is an appropriate precautionary action for antibiotics to be administered to people who have been in close contact with someone who has the disease.
+
+Antibiotics were given to the close contacts of the two Otago University students who had meningococcal disease as soon as the diagnosis was made.
+
+Who else is getting the antibiotics and when?
+
+The 339 residents plus staff at Cumberland Hall will be offered precautionary antibiotics and vaccine on Monday evening.
+
+How long does it take the antibiotics to work?
+
+Precautionary antibiotics work within three to four hours.
+
+Do they work?
+
+No antibiotic can give a one hundred percent guarantee. However past studies have shown the antibiotics are 98% effective.
+
+How will the vaccine be administered?
+
+The vaccine is given by injection. The half a ml dose of vaccine is administered in the upper arm and is relatively painless.
+
+Are there any side effects?
+
+As with all vaccines, there may be some pain and irritation at the site of the injection.
+
+\- 5 -
+
+Where will the vaccine come from?
+
+All vaccine used in New Zealand comes from overseas. The vaccine to be used at Cumberland Hall was sourced from within New Zealand. This vaccine has been used successfully in New Zealand to control previous outbreaks of the disease. It is also given to New Zealanders travelling to countries such as Central Africa where outbreaks of meningococcal disease are common.
+
+How much does it cost?
+
+There will be no cost to the recipients for the antibiotics or vaccine. In such situations, the Government meets these costs.
+
+Is consent to administer the antibiotics and vaccine needed?
+
+All Cumberland Hall residents are over the age of 16 years, so consent from a parent or guardian has not been required in this situation. The University has sent a letter to parents of students living at Cumberland Hall to inform them of the two meningococcal cases and the actions taken.
+
+The University's Student Health Service has explained the risks and effects of meningococcal disease to Cumberland Hall residents and it is each resident's choice if they choose to receive preventative treatment.
+
+What about people who don't want to take the precautionary antibiotics or vaccine?
+
+Meningococcal disease is a serious disease that can quickly become life threatening. If, after receiving enough information on the risks and effects of meningococcal disease, a member of the public makes an informed choice not to receive the precautionary antibiotics or vaccination, then their decision would be respected.
+
+Who will administer the vaccine?
+
+The vaccine will be administered by staff from Student Health Services and Public Health South trained in vaccination. Around 20 health professionals will be on-site.
+
+How long before the vaccination is effective?
+
+The vaccine takes 7-10 days before it is effective. The vaccine gives about 95 percent protection against group C meningococcal disease. The vaccine does not protect against group B meningococcal disease. Disease is still possible in people who have had both the vaccination and the antibiotics so anyone with symptoms needs to seek medical assessment.
+
+Should you be vaccinating more people?
+
+Since the two meningococcal disease cases were notified, there have been no further cases and there is no evidence to suggest that a vaccination programme beyond Cumberland Hall is necessary.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Otago](https://info.scoop.co.nz/University_of_Otago) on InfoPages.

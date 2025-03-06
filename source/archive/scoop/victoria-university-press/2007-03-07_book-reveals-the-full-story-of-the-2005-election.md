@@ -1,0 +1,58 @@
+---
+slug: book-reveals-the-full-story-of-the-2005-election
+title: "Book Reveals the Full Story of the 2005 Election"
+date: 2007-03-07
+source-url: https://www.scoop.co.nz/stories/PO0703/S00082/book-reveals-the-full-story-of-the-2005-election.htm
+author: victoria-university-press
+---
+Book Reveals the Full Story of the 2005 Election
+================================================
+
+**Wednesday, 7 March 2007, 1:58 pm**  
+**Press Release: [Victoria University Press](https://info.scoop.co.nz/Victoria_University_Press)**
+
+Media Release 7 March 2007 immediate
+
+New Book Reveals the Full Story of the 2005 Election
+
+“The Baubles of Office” is the story of a cliff-hanger election, New Zealand’s closest yet under MMP. For nearly two weeks no one knew who had won, Labour or National. On election night it was Don Brash who was cheerful and elated, Helen Clark who seemed grim and shaken. New Zealand acquired a government only when Winston Peters ignored a last-minute written appeal from the leaders of four other parties to come to a meeting to agree on terms.
+
+Instead, he met with Helen Clark and became the country’s Foreign Minister – accepting ‘the baubles of office’ that he had so openly disdained in a major campaign address.
+
+The contributors to this book include political party strategists from all of the parties elected to Parliament. Rodney Hide, upset victor in Epsom in 2005, tells how it was done. Media personalities, including Radio New Zealand’s Kathryn Ryan, describe what it was like covering a campaign where the likely winner changed with every new poll. New Members of Parliament – the Maori Party’s Pita Sharples and Labour’s Shane Jones – speak about their first campaigns, successful beginnings to new political careers. Listener and Dominion Post political columnist Jane Clifton provides her usual witty and insightful observations, describing MPs both new and old, brought into Parliament by the 2005 election.
+
+The book includes first-hand accounts of the campaign from United Future’s Peter Dunne and Labour Cabinet Minister Steve Maharey, new Green Party leader Russel Norman, and the National Party’s campaign manager Steven Joyce. Academic commentators frequently seen on New Zealand television – including Therese Arseneau (TV3), Jon Johansson (TV One; Sky TV), Colin James (TV One) and Nigel Roberts (TV One) – offer their perspectives on aspects of the campaign, including National’s mischievous use of billboards, the involvement of the Exclusive Brethren and Don Brash’s use of rhetoric on sensitive Treaty issues.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The book is distinctive as it includes a special DVD containing a package of the campaign’s audio-visual highlights. These include excerpts from the televised party leaders’ debates as well as the leaders’ opening night campaign addresses. The DVD also exposes New Zealand political parties’ advertising and marketing strategies, with excerpts from TV ads from the 1999 and 2002 campaigns as well as from 2005. The DVD also includes photographs of many of the party billboards used during the campaign, including those of the National Party (on which the cover design is based).
+
+“The Baubles of Office: The New Zealand General Election of 2005”  
+Edited by Stephen Levine & Nigel Roberts Available in good bookshops from 9 March 2007
+
+ISBN 0 86473 539 1  
+Paperback includes DVD  
+600pp, 210mm x 148mm  
+$49.95 For more information please contact Heather McKenzie at Victoria University Press email: heather.mckenzie@vuw.ac.nz ph 04 463 6531
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Victoria University Press](https://info.scoop.co.nz/Victoria_University_Press) on InfoPages.

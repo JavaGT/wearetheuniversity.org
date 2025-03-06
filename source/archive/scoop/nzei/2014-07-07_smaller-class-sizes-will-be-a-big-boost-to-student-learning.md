@@ -1,0 +1,61 @@
+---
+slug: smaller-class-sizes-will-be-a-big-boost-to-student-learning
+title: "Smaller class sizes will be a big boost to student learning"
+date: 2014-07-07
+source-url: https://www.scoop.co.nz/stories/ED1407/S00034/smaller-class-sizes-will-be-a-big-boost-to-student-learning.htm
+author: nzei
+---
+Smaller class sizes will be a big boost to student learning
+===========================================================
+
+**Monday, 7 July 2014, 8:26 am**  
+**Press Release: [NZEI](https://info.scoop.co.nz/NZEI)**
+
+Smaller class sizes will be a big boost to student learning
+
+6 July 2014
+
+  
+Smaller class sizes would make a huge difference to the quality of teaching and learning and is an important key to helping students succeed at school.
+
+NZEI President Judith Nowotarski says teachers and principals welcome Labour’s plans to invest in education where it really matters – directly into teaching and learning.
+
+“Smaller class sizes allow teachers to give more individual attention to students and this means that the quality of teaching improves,” she said.
+
+Research shows that in smaller classes students are more likely to be attentive and participate in learning, and as a result they achieve greater success at school.
+
+“This is particularly important for vulnerable children, those from disadvantaged backgrounds, and those who start school behind their peers. \*(1)
+
+“Smaller class sizes allow teachers to give more individual attention to students. This means the quality of teaching improves. Students are more likely to be attentive and participate in learning and as a result they achieve better success at school.”\*(2)
+
+Ms Nowotarski says international studies show that the benefits of quality teaching through smaller class sizes go well beyond the school gate.
+
+“Children who benefit from being in smaller class sizes are more likely to have better reading skills, complete their education, and have lower likelihood of unemployment.”\*(3) \*(4)
+
+“This is why teachers and principals welcome Labour’s commitment to invest in education where it really matters – directly into children and their learning rather than in extra tiers of management.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Ms Nowotarski says the move to bring 2000 more teachers into the system is a far better use of $359-million than the National-led Government’s plans for big bonus payments for 6 percent of teachers and principals.
+
+Research  
+(1) 2008 conference paper by Professor Peter Blatchford and colleagues at the Institute of Education, University of London. In the paper (since published in 2011 in the prestigious international journal, Learning and Instruction), Professor Blatchford makes the point that class size effects are ‘multiple’. School new entrants benefit from significant potential gains in reading and maths in smaller classes. Children from ethnic minorities and children who start behind their peers benefit most.
+
+(2) Teachers in small classes pay greater attention to each pupil. Students in these classes experience continuing pressure to participate in learning activities and become better, more involved students. Attention to learning goes up, and disruptive and off-task behaviour goes down (Resnick, L., Zurowsky, C., 2003).
+
+(3)2001 Treasury commissioned working paper, The effects of class size on the long-run growth in reading abilities and early adult outcomes in the Christchurch Health and Development Study. The researcher concluded, among other things, that “lower class sizes were associated with more completed education as of age 21, lower incidence of unemployment spells, and conditional on experiencing an unemployment spell, substantially shorter durations” and, “We found that persistent class size reduction policies were associated with significant increases in Burt Word Reading performance from age 8 to 13” (p. 39).
+
+(4)Long-term effects of class size, by Fredriksson, Peter; Ockert, Bjorn; Oosterbeek, Hessel.  
+Series: Working Papers 2012; 5.Publisher: Sweden Institute for Evaluation of Labour Market and Education Policy (IFAU)
+
+"This paper evaluates the long-term effects of class size in primary school. We use rich administrative data from Sweden and exploit variation in class size created by a maximum class size rule. Smaller classes in the last three years of primary school (age 10 to 13) are not only beneficial for cognitive test scores at age 13 but also for non-cognitive scores at that age, for cognitive test scores at ages 16 and 18, and for completed education and wages at age 27 to 42. The estimated effect on wages is much larger than any indirect (imputed) estimate of the wage effect, and it is large enough to pass a cost-benefit test."
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)
+
+Find more from [NZEI](https://info.scoop.co.nz/NZEI) on InfoPages.

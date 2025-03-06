@@ -1,0 +1,108 @@
+---
+slug: speech-shaw-federation-of-multicultural-councils-agm
+title: "Speech: Shaw - Federation of Multicultural Councils AGM"
+date: 2017-07-01
+source-url: https://www.scoop.co.nz/stories/PA1707/S00007/speech-shaw-federation-of-multicultural-councils-agm.htm
+author: green-party
+---
+Speech: Shaw - Federation of Multicultural Councils AGM
+=======================================================
+
+**Saturday, 1 July 2017, 1:34 pm**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+**Speech to the Federation of Multicultural Councils AGM**  
+James Shaw – Saturday 1st July 2017  
+Kia ora kotou  
+Nihao  
+Namaste  
+Annyong  
+Kamusta  
+Talofalava  
+Bula  
+Salam alaikum  
+And Warm Pacific Greetings – on this cold Dunedin morning – to you all.  
+\*\*\*  
+It’s a privilege to be representing the Green Party at your AGM.  
+We in the Greens are deeply concerned that the debate about immigration policy in New Zealand has, over the course of time, come to be dominated by populist politicians preaching a xenophobic message in order to gain political advantage.  
+This ugly strain of political discourse is quieter at times of low net migration into New Zealand, but rises at times of when net migration is high – as it is now, and so, at this election, sadly, the xenophobic drum is beating louder.  
+Last year I made an attempt to try and shift the terms of the debate away from the rhetoric and more towards a more evidence-based approach.  
+We commissioned some research which indicated that immigration settings would be best if tied to population growth.  
+Unfortunately, by talking about data and numbers, rather than about values, I made things worse.  
+Because the background terms of the debate are now so dominated by anti-immigrant rhetoric, when I dived into numbers and data, a lot of people interpreted that as pandering to the rhetoric, rather than trying to elevate the debate and pull it in a different direction.  
+We were mortified by that, because, in fact, the Greens have the ambition of being the most migrant-friendly party in Parliament. And I am sorry for any effect it may have had on your communities.  
+Migrants are not to blame for the social and economic ills of this country.  
+Migrants are not to blame for the housing crisis.  
+Migrants are not to blame for our children who go to school hungry.  
+Migrants are not to blame for the long hospital waitlists.  
+Migrants are not to blame for our degraded rivers.  
+It is the government’s failure to plan for the right level of infrastructure and services that has caused this.  
+\*\*\*  
+So today I am not going to talk about numbers, but about values.  
+And, in all honesty, I don’t think New Zealand will be able to talk about numbers and settings until we’ve had the conversation about values and principles.  
+Until we can agree on those, we’ll just lurch around responding to changing circumstances or the latest headline.  
+And what are the values that the Green Party stands for? We stand for an open, inclusive and tolerant Aotearoa New Zealand that welcomes people who want to make a contribution.  
+We stand for an Aotearoa that stands up to racism and scapegoating and xenophobia.  
+That’s what’s missing from the debate about immigration. The rhetoric and scapegoating around election year means that people miss the fact that ‘immigrants’ aren’t a sea of strange faces.  
+They’re people, families, individuals. With hopes and dreams and aspirations. With fears and anxieties and worries. Humans who need love and need to love.  
+New New Zealanders who love their new homes and want to do so much to give and to give truth to that love.  
+But New Zealand needs to be better at showing that love back. We haven’t always lived up to that Kiwi mythos of giving people a fair go and being welcoming to strangers.  
+We have a tendency to treat immigrants as economic units who are either a benefit or a threat to our narrow economic interests.  
+We tend not to think of immigrants as people in their own right, as people who come to this country for the promise of a better life – as all our ancestors once did.  
+\*\*\*  
+Look at how we treat our migrant workers – often putting them through harsh conditions and low pay just for the privilege of coming here.  
+It’s shameful that although only 5% of the total workforce are migrant workers – about a third of prosecutions involving employment condition violations involve a migrant worker.  
+And MBIE doesn’t have enough resources to deal with the problem. We know from their 2016 annual report that they’re falling well short of doing the interventions they need (up to 1049 short) and that one in five investigations are taking longer than six months.  
+That’s unacceptable. We will invest more resources into the Labour Inspectorate so that we can have more proactive investigations and less migrant worker exploitation.  
+\*\*\*  
+And look at how we treat non-Pakeha New Zealanders in this country. According to a report by the human rights commissioner – one-in-ten Pasifika and one-in-five Asians have faced discrimination in the last 12 months.  
+Having a non-Pakeha name means you’re 50% less likely to get a call-back for a job interview. Being a migrant means you’re more likely to be over-qualified and over-experienced in the job you do.  
+And we need to address these issues. The Greens want to trial ethnicity-blind and gender-blind CVs to address discrimination.  
+\*\*\*  
+Look also at how we treat our multicultural associations and migrant centres. Last month the Canterbury Migrant Centre was forced to close due to lack of funding.  
+The value that your groups bring to New Zealand – not only in easing the settlement process for new migrants but for the diversity and social connections you bring to your areas has been underappreciated for far too long.  
+The Greens at the heart of government will initiate a funding review so that the valuable work you do is rewarded and recognized through a consistent baseline of funding – so you can get on with the job rather than having to constantly chase the next dollar.  
+\*\*\*  
+Look at how we rip off foreign students with the promise of a so-called high-quality New Zealand education and a pathway to residency.  
+But then thousands, if not tens of thousands, of these students end up in terribly dodgy private training establishments, doing courses that get them a certificate barely worth the paper it’s printed on and of no value to being able to find a job.  
+And in the meantime they end up being exploited, working for below minimum wages, and unable to get decent accommodation at a price they can afford. I mean, what way is that to treat anybody, let alone a guest in our house? That’s just a rip-off.  
+\*\*\*  
+I’m proud to lead a party that stands for the politics of love and inclusion, not hate and fear.  
+I’m also proud to be standing with the most diverse list of candidates we’ve ever put forward for an election. They include:  
+• Two Pasifika candidates – Leilani Tamu, a former diplomat and Fulbright Scholar, and Teanau Tuiono, an climate change advocate for the Pacific Islands  
+• Two Chinese New Zealanders – David Lee, a City Councillor, and Julie Zhu, a freelancer in the theatre and film industries  
+• Raj Singh, an Indian lawyer and successful business owner  
+• Rebekah Jaung, a Korean doctor, currently also doing her PhD  
+• Ricardo Menéndez March, from Mexico, a migrant rights campaigner.  
+• And of course, many of you will have already read about Golriz Ghahraman, who came to New Zealand as a nine-year old refugee from Iran, and who is now an Oxford-educated human rights lawyer who puts war criminals on trial at the International Court of Justice in the Hague.  
+These, our candidates for Parliament in this year’s election, represent our commitment to the journey of looking more like modern New Zealand and being able to advocate for all New Zealanders.  
+And we are the furthest along this journey that we have ever been – thanks to the efforts of my colleague Denise Roche, who has been reaching out to ethnic and migrant communities, with sixty-five meetings all over New Zealand, over the last three years.  
+But we do still have a long way to go.  
+We will continue to make sure that our party not only looks like modern New Zealand – but also reflects the needs of all New Zealanders.  
+We haven’t always gotten it right – and we won’t always in the future, either.  
+But I promise that we will listen to you and learn from our mistakes.  
+Openness, inclusiveness and tolerance must win out over racism and scapegoating and xenophobia.  
+Love and inclusion must win out over hate and fear.  
+We are only great, when we are great together.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

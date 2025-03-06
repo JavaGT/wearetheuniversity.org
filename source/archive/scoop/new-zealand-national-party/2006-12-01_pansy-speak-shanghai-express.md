@@ -1,0 +1,81 @@
+---
+slug: pansy-speak-shanghai-express
+title: "Pansy Speak: Shanghai Express"
+date: 2006-12-01
+source-url: https://www.scoop.co.nz/stories/PA0612/S00009/pansy-speak-shanghai-express.htm
+author: new-zealand-national-party
+---
+Pansy Speak: Shanghai Express
+=============================
+
+**Friday, 1 December 2006, 12:13 am**  
+**Column: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Pansy Speak
+
+Shanghai Express
+
+It’s been an explosive two weeks in politics! Former National leader Dr Don Brash entered politics four years ago to make a difference and he’s done this by building a strong foundation for National to win the next election. He’s set the political agenda on many fronts and has forced the Labour Government to respond.
+
+Sensing that the relentless efforts of the media over his stolen e-mails had impacted on National’s efforts in holding the government to account, he chose to step down as leader and will be retiring from politics in 2007. The new leadership team of John Key and Bill English represents a generational change – they’re young, dynamic, and with their experience and zest they’ve been dubbed the ‘dream team’. I have no doubt that they will both ensure that parliament is the venue for vigorous debates and a battleground of ideas.
+
+Moving to the other big story the waterfront stadium, Aucklanders have spoken out loud and clear about their feelings – which was demonstrated with the Auckland Regional Council’s unanimous 12 votes against it. There are simply too many risks and too many uncertainties. This sends a clear message to Trevor Mallard that his bully boy tactics don’t intimidate Aucklanders. I don’t think the recent fierce debate about the development of the waterfront and other infrastructure will end here. I’ve received a lot of feedback about the need to get going on this issue and I intend to work with the Committee for Auckland, local governments and other interested groups to keep the momentum going.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Time flies so quickly that it is hard to cast my mind back to the 6th of November when I flew to Shanghai on the Air NZ inaugural direct flight from Auckland. It was emotional for me to fly from the city I live in now to the city I was born in. The Shanghai media felt the same with me fronting up to eight interviews and photo shoots in three days which was heady stuff – there’ll be more on that later.
+
+The departure lounge on the night of the 6th was decorated with Chinese lanterns and passengers were farewelled by the air crew singing Pökarekare anä and the heart-stopping lion dance. The advantage of the flight’s departure time of 11.55 pm (adding on the five hours time difference) was that we were greeted by Chinese fan dancers at the Shanghai airport just after 8 am the next morning. We were also surprised by the welcome performance by the Kapa haka group who were also Air NZ staff – talk about multi-tasking!
+
+Suddenly there were Kiwis everywhere in Shanghai. There was the Trade Minister with over 100 delegates and four mayors with their entourages. The Shanghai Symphony Orchestra was playing our music and martial arts displays ran next to Maori performances. China is deep in history and culture, while New Zealand is young and refreshing, and an evening put on by Air New Zealand showed these contrasts yet highlighted the harmony between the two countries and was simply spectacular.
+
+Apart from the trade conference, a documentary series jointly produced by the Natural History Unit in Dunedin (with a branch in Beijing) and China Central Television, was launched on the 10th of November to an audience of more than 200 million. The series entitled ‘New Zealand Journeys’ tells the story of New Zealand, its landscape, culture, creative sector and Chinese New Zealanders. The content is stunning and I was impressed with its refreshing point of view. The Ministry of Arts and Culture is a keen supporter of this series and I hope that our television broadcasters can find a slot to show it here.
+
+Part of the promotional activities for the launch, as well helping to bolster international education, involved some of us visiting various universities. I quickly found out that Air New Zealand’s Kapa haka group was the real attraction. It was incredible to witness the usually quiet and reserved students clapping and responding simultaneously to the group. They really are the most effective and successful cultural ambassadors for New Zealand.
+
+Amongst all these activities and hype I found it irresistible to say no to media interviews and photo shoots which is a bad habit I’ve picked up from being a politician!
+
+The flurry of interviews provided some insights into modern day Shanghai. On the day before I departed Shanghai, the editor of Marie Claire (the Chinese edition) who is based in Beijing somehow tracked me down at 4 pm wanting to do a photo shoot with me. After learning that the only time slot I had left was after 9.30 pm that night she called me back at 5 pm confirming there would be a make-up artist and photographer coming to the hotel at 9.30 pm. Posing at 11 p.m. at Nanjing Road was an experience I will never forget and I learnt that there are quiet moments in the city of action and glamour.
+
+The photographer was in his 30’s and has become so successful as a free-lance photographer that he can now pick and choose his assignments. The days when the demand for quality photographers only came from multi-nationals has been taken over by the top 500 Chinese companies, which means he can afford to turn down jobs to spend more time with his son. He spoke freely of politics and favourite books.
+
+The cast from that late night shoot was nothing compared to the eight person team that descended on me the following morning from the fashion magazine Rayli Her Style. This team included the editor, two make up artists, two reporters, photographer and two assistants. For a moment I felt like Madonna! They told me that because of the rapid increase in the number of young women who are financially well-off, fashion means magazines are now in real demand. They said they had covered many successful business women but their readers were craving for a change and female politicians were the hot ticket of the moment.
+
+My last stop was with China’s hottest website SINA. The entire interview was both recorded and taped - talk about being three dimensional and interactive. Last week I met up with someone in Auckland who told me he had listened to the interview in Shanghai which was proof that the world is getting smaller. One of the staff at SINA, a young woman, was called Smile. She told me that it was her father’s wish for her to have a good life, when I asked her whether that had been the case, her affirmative answer made my day. It’s wonderful to know someone who enjoys life so much.
+
+Without exception, I was interviewed by young women journalists in their late 20’s who are all university graduates, and I couldn’t suppress my curiosity as to whether women had taken over journalism. They told me that the men are covering business news and tend to be at managerial level. I would be interested to know if this is the same in 10 years time.
+
+While in Shanghai I was introduced to two interesting phrases – being a sea-tortoise or seaweed. International students who return home to China are known as sea tortoises, and as their number increase along with graduates from Chinese universities, jobs become more difficult to come by. Some sea-tortoises find themselves becoming seaweed, jobless and floating along the coastline unable to go anywhere
+
+For New Zealand to once more become an attractive destination for Chinese international students we need to appreciate that a qualification alone is no longer sufficient, as work experience is important for these returning students. Tertiary institutions, employers and the immigration service need to tackle this issue together.
+
+I was on the inaugural board of Tourism New Zealand (formerly known as the NZ Tourism Board) in 1991 when we first negotiated for New Zealand to be awarded as a travel destination by China. The agreement was officially signed in 1998 and it’s heartening to see that after 15 years there are direct flights between New Zealand and China and the number of Chinese visitors numbers has gone up from 10,000 to now over 100,000. We need to work together to promote New Zealand beyond Kiwifruit, Lord of the Rings, butter and of course our Maori culture.
+
+  
+Pansy Wong
+
+www.pansywong.co.nz  
+www.national.org.nz
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

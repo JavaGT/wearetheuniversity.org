@@ -1,0 +1,88 @@
+---
+slug: canterburys-long-chemistry-history-celebrated
+title: "Canterbury’s long Chemistry history celebrated"
+date: 2018-06-19
+source-url: https://www.scoop.co.nz/stories/ED1806/S00059/canterburys-long-chemistry-history-celebrated.htm
+author: university-of-canterbury
+---
+Canterbury’s long Chemistry history celebrated
+==============================================
+
+**Tuesday, 19 June 2018, 12:00 pm**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+![](http://img.scoop.co.nz/stories/images/1806/98b18e7a0bd5c3099049.jpeg)
+
+Taken by Samuel Page, a staff member of the Canterbury College Chemistry department, this 1914 photo shows the first year laboratory, which is today the site of UC’s Teece Museum of Classical Antiquities. Photo credit: University of Canterbury.
+
+**Canterbury’s long Chemistry history celebrated in new exhibition**
+
+The University of Canterbury is celebrating the history of an award-winning building that captures both the past and present of UC, with a free public exhibition about the Old Chemistry building at the Christchurch Arts Centre.
+
+While it was recently transformed into a heritage architecture award-winning teaching and learning facility to house the UC College of Arts’Classics department and School of Music, including the Teece Museum of Classical Antiquities, the Old Chemistry building remains special to those who learnt and taught chemistry within its stone walls between 1910 and 1966.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+To celebrate the history of the Old Chemistry building, people are invited to visit the free exhibition, _UC Chemistry at the Arts Centre,_ at Pūmanawa, the community exhibition space in the Christchurch Arts Centre. The exhibition will feature tools and instruments that would have been used on site, photos from this time and more. The display is a collaboration between UC Chemistry alumni and staff and students of the College of Arts and the College of Science.
+
+One of the project leaders, Dr Robin Mann has a longstanding connection with UC including three degrees in Chemistry at what was then Canterbury College of the University of New Zealand. He was UC’s Chancellor from 2003 to 2008 and former Chairman of the UC Foundation charitable trust. As well as serving on the UC Foundation board of trustees, Dr Mann is involved in the UC Chemistry alumni group ‘Chemistry Old Guys’ (COGs).
+
+“All of the COGs group have personal connections with the Old Chemistry building, either as former teaching and technical staff or as former students,” Dr Mann says.
+
+Retired professors of Chemistry John Blunt and John Packer have helped set up the exhibition. The COGs felt that the history of the Chemistry department on the UC city campus should be recognised, celebrated and recorded for future generations, Dr Mann says.
+
+“We also hope that the memory of the first and largest science discipline in the early days of the University will provide inspiration for the next generation of scientists who will come through UC.”
+
+UC Art Historian and exhibition coordinator Dr Rosie Ibbotson says looking into the history of the Old Chemistry building is an opportunity to reflect on how much science and technology have changed in the years since the site was home to UC’s Chemistry department.
+
+“This is particularly apparent when looking at laboratory instruments. Pieces of equipment that once reflected up-to-date technologies now symbolise how scientific practices themselves have histories,” she says.
+
+Dr Ibbotson worked with Dr Sarah Masters, Director of Postgraduate Studies for the School of Physical and Chemical Sciences, whose fourth-year students helped create the exhibition.
+
+“Displaying old instruments that range from the recognisable to the obsolete presented fourth-year Chemistry students with the chance to develop their skills in the increasingly important area of science communication, as the students were tasked with researching and writing the labels that accompany the display of these objects,” Dr Ibbotson says.
+
+Dr Mann says that he and his fellow Chemistry alumni were delighted to see the return of the University to the centre of the city in the UC Arts City Location.
+
+“The much stronger connection with the city, its residents, and its ever increasing visitor numbers will be good for the city and the University.”
+
+_UC Chemistry at the Arts Centre_ has been made possible with generous support from the UC Foundation.
+
+The free exhibition**, _UC Chemistry at the Arts Centre_,** will be open from 10am – 4pm, Wednesday 27 June until Thursday 5 July at Pūmanawa, 28 Worcester Boulevard, Arts Centre, Christchurch. More information here: http://www.canterbury.ac.nz/events/active/uc-events/display-uc-chemistry-at-the-arts-centre.html
+
+**Old Chemistry history**
+
+Built in Gothic Revival style between 1908 and 1910, the Old Chemistry building was the second home for the Chemistry department. It had been housed for more than 30 years in a building affectionately named ‘the Old Tin Shed’. In 1877, the Chemical Laboratory was the first building completed on the Canterbury College town site and contained the largest lecture theatre in Christchurch at the time. Also known as the ‘realm of stinks’ the timber-framed, corrugated-iron-clad building had a reputation for ugliness and inconvenience during the decades it housed the Chemistry department until 1910. A tender for a new building was let in December 1908 for £8,168, the foundation stone was laid 4 June 1909, and the building opened on 23 February 1910.
+
+The striking building is a showcase of local materials, incorporating Halswell basalt, Oamaru limestone, Hoon Hay basalt and Timaru basalt. Carved inside the main entrance of the Chemistry building is the inscription “Usque laborentem rerum infinita vocabit natura” – the infinite nature of the universe will call a man who is willing to work.
+
+In the same year that Scott’s expedition to Antarctica left Lyttelton, the new Chemistry Laboratory opened to great fanfare, with the innovation of radiators being used to heat each room. The ground floor had the first-year laboratory at the west end and the senior laboratory at the east end. Ground level windows allowed the basement to have natural light. The first floor had a lecture theatre, a physicochemical laboratory, a preparation room, a professor’s room, a demonstrator’s room, a collection room, a reading room and a balance room. The chemical store was in the basement, which made the placement of the glass store in the attic somewhat unusual.
+
+In 1910, the department had just two permanent academic staff, Professor WP Evans and demonstrator Samuel Page. Both Evans and Page retired at the end of 1922 and Henry George Denham was appointed to the chair. His first act was to appoint John Packer in 1923 as lecturer. From the University of Melbourne, Packer succeeded Denham as head of department in 1944. Chemistry became the first department in the College to have three academic staff with the appointment of HN Parton as a lecturer in 1930.
+
+As with all the Canterbury College buildings, space became an issue over the years. As well as having to adapt the cloakroom as the glass-blowing workshop, the Chemistry department eventually converted the attic glass store into extra laboratories in the 1940s. By the 1960s space was so tight the department was given an ex-Government transportable hut. The pre-fab was placed in the south quad next to one being used by the Library, and was home to the physical chemistry lab. Chemistry staff nonetheless remained fond of their building, as shown in 1948 when Professor Packer celebrated 25 years at the department, and his staff immortalising the building in cake form.
+
+By the end of 1966 when the Chemistry department moved to UC’s Ilam campus, it was the largest in the university. The teaching and learning history of the building came full circle when the University relocated UC Music and Classics to what is still known as the Old Chemistry building in May 2017.
+
+UC’s modern Chemistry laboratories are now located in the state-of-the art five-storey Ernest Rutherford building, opened by Prime Minister Jacinda Ardern in February 2018.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

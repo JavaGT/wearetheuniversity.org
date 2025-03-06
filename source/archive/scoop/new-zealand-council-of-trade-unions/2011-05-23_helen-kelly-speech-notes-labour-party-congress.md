@@ -1,0 +1,199 @@
+---
+slug: helen-kelly-speech-notes-labour-party-congress
+title: "Helen Kelly – Speech Notes Labour Party Congress"
+date: 2011-05-23
+source-url: https://www.scoop.co.nz/stories/PO1105/S00375/helen-kelly-speech-notes-labour-party-congress.htm
+author: new-zealand-council-of-trade-unions
+---
+Helen Kelly – Speech Notes Labour Party Congress
+================================================
+
+**Monday, 23 May 2011, 12:33 pm**  
+**Speech: [New Zealand Council of Trade Unions](https://info.scoop.co.nz/New_Zealand_Council_of_Trade_Unions)**
+
+**CTU Media Release**
+
+  
+23 May 2011
+
+  
+**Helen Kelly – Speech Notes Labour Party Congress 22 May 2011**
+
+  
+Kia ora Koutou
+
+  
+It is great to be back here talking to a Labour Party conference.
+
+It is especially good because this week has been such a downer for those of us who know how good this country could be with a different direction but it is also great to be here because it is election year – a year that the direction can be changed.
+
+  
+I want to talk about three things.
+
+Firstly, the last two years for New Zealanders.
+
+Then the CTU election campaign themes and activities.
+
+And, finally, what the union movement wants to see for the future for New Zealanders at work.
+
+  
+**So... the last two years**
+
+Most of you know what has gone on for working people in the last two years.
+
+As important as it is to continue to highlight some of the disrespectful and damaging things that have been done by the Government in areas such as work rights, public services and education and training, it is an equally depressing story to highlight what hasn’t been done – including on employment, skills training, and the cost of living. Like you the CTU has been advocating on all these issues.
+
+But what is more insidious and harder to pin down is the narrative this Government has been building about work, the working relationship, the status of business and the status of New Zealand workers.
+
+Its narrative runs something like this. Businesses and employers are benefactors and workers are beneficiaries. By employing people businesses are performing a type of charity – a good deed, providing a social service which the country should recognise and to which we should show due deference.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Workers are the recipients of that charity, the beneficiaries and they should be extremely grateful. There is no recognition of the exchange of labour for wages going on – workers are simply told to feel lucky to have a job, not to bite the hand that feeds them and certainly not to join unions or seek better pay and conditions – that sort of misbehaviour would be ungrateful and unbecoming of beneficiaries.
+
+In fact what is actually occurring in the employment relationship is a beneficial exchange of wages for labour – that the transaction is as simple as that, is currently completely subsumed by that narrative and within this narrative workers are expected to act as supplicants.
+
+Doesn’t this take us back?
+
+  
+Sidney and Beatrice Webb over 100 years ago said:
+
+“_The capitalist is very fond of declaring that labour is a commodity, and the wage contract a bargain of purchase and sale like any other. But he instinctively expects his wage-earners to render him, not only obedience, but also personal deference. If the wage contract is a bargain of purchase and sale like any other, why is the workman expected to doff his hat to his employer, and to say ‘sir’ to him without reciprocity?”_
+
+  
+I have three recent examples that highlight how this narrative is being used by the Government and others.
+
+Firstly the Hobbit – Warners was depicted as providing 2000 jobs to New Zealanders – we were told they should be treated with absolute deference for this wonderful charitable act – those uppity performers who simply wanted to have a say in their wages and conditions were simply ungrateful – outrageous, and their union even more so – how could they treat such a wonderful generous company with such contempt – they should be put in their place for their own good including having their international human rights to collective bargaining and freedom of association stripped away under urgency as a punishment.
+
+  
+I want to acknowledge the Labour MPs during the debate over the Employment Relations (Film Production Work) Amendment Bill. You were fantastic – you fought back against the narrative – you refused to consider this as an either/or debate – the opposition to the legislation was hugely influential in ensuring the public understood that this dispute was not as it seemed and the strong and rebellious fight you put up against the law is very much appreciated.
+
+The second example of deference I want to highlight is that shown to the company Pike River Coal Limited. This company was portrayed, most strongly after the blast, as providing a great service to the coast. Providing jobs where jobs were much needed. The workers were portrayed as bravely taking risks in a dangerous industry, knowing the risks but prepared to take them to get the coal out. Following the explosion no hard questions could be asked of the company without accusations of insensitivity, the company was protected by all the powers of the state from scrutiny in the first few weeks. Their lawyers were allowed into the interviews with the workers, the employer was depicted as a victim. The Prime Minister sat next to the CEO at the memorial service and he was lauded in the media.
+
+  
+The real story of Pike River is that a group of shareholder from around the world including some very big multi-national companies recognized the huge value of the coal in Pike River and decided to invest in mining it. That's fine.
+
+  
+Whether they did this on the cheap and spent insufficient money on safety is a question on everyone's lips and a matter for the inquiry. There are many questions to answer.
+
+  
+What we do know however is that only one year after that mine was opened, it exploded leaving 29 dead. Those shareholders regardless of what the findings are from the inquiry, will walk away scott free leaving debt, death and accountability behind them as they move on to the next venture - this model is not charitable.
+
+  
+Pike River was not 'feeding these families’, as depicted by some, it was hiring workers to carry out the mining. A supposedly mutually beneficial exchange.
+
+  
+But Pike failed in its fundamental duty to provide a safe workplace
+
+  
+Until the true relationship at work is acknowledged honestly, things will not improve in workplace health and safety in this country. Until the worker that causes a fuss to demand safety becomes a hero rather than an ungrateful beneficiary – people will continue to die.
+
+  
+While workers are depicted as beneficiaries in the relationship, any reduction in their rights and safety will be acceptable - beneficiaries should be grateful and little more will be demanded of the company – the benefactor. The CEO of Pike River was eventually nominated for New Zealander of the Year!
+
+  
+And thirdly – this narrative is strong in the media. Recently when the Government announced an increase to the minimum wage of 25 cents an hour, a couple of brave McDonalds workers told TV3 that it was not enough for them to live on. “A couple of workers were prepared to bite the hand that feeds them” TV3 reported. McDonalds was feeding these workers – a charitable act – these workers were not trading labour for wages but were the beneficiaries of the company largesse.
+
+This narrative of deference to business, and the refusal to acknowledge the value that workers bring to the workplace, lies at the heart of the attacks on work rights. Whether it is removing the right of appeal against unfair dismissal, restricting access to sick leave, making meal breaks negotiable, undermining access for workers to union organisers, trading annual leave or dismantling key features of the ACC scheme – it is done in the context of this narrative – when you are a beneficiary you are at the mercy of the giver and should be grateful.
+
+And this apparently is meant to justify the fact that wages are not rising to meet the cost of living which is up by 4.5 percent and that there are 270,000 people who are without a job.
+
+  
+To make it even worse this Government chose – at the height of the recession – not to focus on jobs, or an economic plan, or lifting skills – no – they chose to give tax cuts worth 5 billion dollars a year. And they targeted over four in every ten dollars of those tax cuts to the top 10 percent of income earners. This tax swindle was unfair, it widened the take home pay gap between someone on $30,000 and someone on $150,000 a year by a massive $135 a week, it put up living costs, and did not stimulate the economy. And the Government says that is an example of ‘good economic management’. And now they are making it harder for people to save with their attacks on KiwiSaver.
+
+  
+**So that leads me to the second issue – what to do?**
+
+The CTU is not a political party and members of unions that affiliate to us do not all vote the same way. But union members and their families know we can’t go on like this. We need a change. Our campaign has three main aspects.
+
+First of all we will be engaging with the 350,000 union members in New Zealand, their families and the wider public on the issues. Jobs, skills, cost of living, asset sales, public services, and so on.
+
+Secondly we need to ensure that people are aware of how to enrol, and that they turn out and vote on 26th November.
+
+And thirdly that they also understand the importance of MMP.
+
+The Labour Party has a proud record in support of economic well-being, social needs and worker rights. We know that during your last term of Government you – with the support of the Greens - reduced poverty, lifted the minimum wage significantly, brought in KiwiSaver, added the fourth week’s annual leave and … it is a long list.
+
+But by the time they vote in November, people will want to know what would Labour do now.
+
+  
+**I have some suggestions!**
+
+We need sustainable economic development. That means investment. It means jobs. We know we need to not only lift incomes, but ensure that we can genuinely save, and that those savings are channelled into productive investment – so that we own more of the economy.
+
+We want a future Labour-led Government to join the dots here. Lift incomes, boost savings, put that into the productive economy to promote decent jobs, and reduce our overseas debt. It will take a concerted approach – but it is vital.
+
+We need to lift wages. There are three main aspects to this. Firstly, we need a higher minimum wage. A future Labour-led Government needs to get to a $15 minimum wage as soon as possible.
+
+We need an employment relations law that genuinely expands collective bargaining.
+
+And we need to lift productivity – but make sure the benefits of this are shared.
+
+I talked about our vision of a new employment regime last year – but I am going to do it again. Currently only 9% of workers in the private sector in New Zealand have access to a collective agreement at work. And this is because the law makes it too hard to achieve.
+
+If you take for example the aged care worker in Whanganui, the food worker in a muesli factory, the hospitality worker in a bar in Courtney Place, or a worker in a Four Square in Kaitaia. Currently almost all their terms and conditions are determined unilaterally by their employer. Their opportunity for accessing their rights to collectively bargaining are denied by the current framework. They have to join a union by finding one, filling in the form, giving it to their employer and hoping they are rostered on the next day, then they have to organise the other 2 or 3 workers they work with, initiate bargaining with their employer and have sufficient economic power to achieve a collective – it just isn’t going to happen and it doesn’t happen.
+
+CTU has got to the stage of having a new and comprehensive draft of an alternative approach – it is outcomes based – any worker could walk into a workplace and find a collective agreement reflecting genuine bargaining outcomes between unions and employers in place and with a sustainable form of union membership also available to them should they chose to join a union.
+
+We have researched and thought about this new approach – it contains concepts used in many different parts of the world including parts of Europe, South America, parts of Canada, South Africa and others. It is sufficiently flexible to meet the needs of changing businesses and to secure the rights of workers to fairness at work.
+
+It includes the concept of “extension” used in many of these jurisdictions. If for example a union is dominant in an industry and bargaining collective agreements with employers in the industry, then the standards identified in those agreements would be extended through an industry agreement to other workplaces within that industry that are not bargaining collective agreements.
+
+So for example, the NDU would bargain and achieve collective agreements with the major food retail outlets (say Progressives and Foodstuffs and others) and the standards from those agreements would be extended to the Four Square in Kaitaia.
+
+Similarly in Aged Care. The NZNO and SFWU would organise and agree collective agreements in all the major aged care providers and the standards would be extended to all the rest of the aged care sector that is extremely difficult to bargain in currently.
+
+Under this model employers will have the choice – a collective agreement negotiated between them and the relevant union or the industry standards negotiated by others in their industry. They won’t have the choice to avoid bargaining. Upholding the right to collective bargaining requires employers to bargain – it is as simple as that.
+
+And let’s get ahead of those that fundamentally hold the position that collective bargaining and unions should be banned but are too canny to actually say that – lets pre-empt their arguments:
+
+Claims of inflexibility will be false with the choice to bargain at either level.
+
+Claims of industry agreements that don’t match the needs of industry will be false when industry documents will reflect the standards agreed over multiple collective agreements in those very industries.
+
+And our new approach also provides for employers that choose to organise into industry organisations to be able to bargain at that industry level if they desire. When this happens then industry documents can also include skills development and other growth priorities
+
+A commitment to this new approach to IR from Labour is extremely important to us and is consistent with Labour policy.
+
+While the approach to employment rights is one of the starkest areas of contrast between the National Party and Labour – without a new approach Labour will always have to fight every desired change to work rights through using the minimum code and we have seen that this doesn’t work as effectively as anyone wants particularly around distribution but also it can be easily unpicked and leaves workers unorganised and without voice when you get a government that treats them all as slacker, skivers and beneficiaries as this Government does.
+
+  
+It fits with a new approach to the economy, it is justified on any rights analysis and it will improve the standard of living for many, many, working people.
+
+There are other things we are seeking. That you scrap the unfair ’90 days’ fire at will legislation, have a skills strategy, support New Zealand content in government procurement, focus in Canterbury on income support, skills and employment as well as the physical reconstruction following the earthquakes, and reverse any moves to privatise ACC.
+
+We want you to keep our assets in public hands so that we get the long run dividends rather than sell the family silver – what’s left of it – to fund more tax cuts for the rich.
+
+  
+**Let me finish by saying**
+
+It is not all about legislation, policies and resource allocation from the Government of the day.
+
+The union movement knows we have to modernise.
+
+For instance, this month we launched a new organisation called _Together_. And if I had time I would tell you more about this but check out the website.
+
+We know we need to change. But we also want a change in approach from business. They need to engage with us on skills, on health and safety, on productivity. And we need a Government that has vision and ideas and trusts all New Zealanders to work together to build our great country. We will be working hard up to the election to ensure this happens.
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Council of Trade Unions](https://info.scoop.co.nz/New_Zealand_Council_of_Trade_Unions) on InfoPages.

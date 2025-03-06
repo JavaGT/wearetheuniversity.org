@@ -1,0 +1,208 @@
+---
+slug: the-two-speed-economy-and-how-to-fix-it
+title: "The two-speed economy and how to fix it"
+date: 2013-05-17
+source-url: https://www.scoop.co.nz/stories/PA1305/S00354/the-two-speed-economy-and-how-to-fix-it.htm
+author: new-zealand-labour-party
+---
+The two-speed economy and how to fix it
+=======================================
+
+**Friday, 17 May 2013, 10:17 am**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+David Parker
+
+Spokesperson for Finance  
+
+17 May 2013 SPEECH
+
+The two-speed economy and how to fix it
+
+Good morning,
+
+I want to talk to you about Labour’s economic plan. A plan that is modern, fiscally responsible and has the good of the people at its heart.
+
+But first I’ll tell you why we need it.
+
+This National government has not yet balanced a budget. Labour did. Nine times out of nine, while giving families with children and companies large tax cuts.
+
+National didn’t want big surpluses – it called for more tax cuts. But we persisted and dropped gross government debt from 38 to 18% of GDP and net debt to zero. Because of Labour’s prudent management, when the global financial crisis hit Mr English was able to say, “This is the rainy day that the government has been saving for."
+
+After five National budgets net government debt has ballooned from zero to $58 billion.
+
+It’s time to get back to surplus. Labour would return to surplus in 2014/2015.
+
+This, and our proud record of fiscal responsibility over the history of our party, means we reject with authority National’s attempts to paint Labour as fiscally irresponsible. It’s just not true.
+
+As well as returning to surplus Labour will make the important economic improvements we need.
+
+This is not about austerity versus government spending. It is about innovative policies and important changes through which Labour will orientate our economy towards jobs and exports.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Five years ago National promised its way into office with shining pledges of a brighter future.
+
+200,000 New Zealanders have left permanently for Australia since the day National took down their billboards promising you would stop waving goodbye to your loved ones. 200,000 is more than the entire population of Hamilton. 40% of those who left have been aged between 18 and 30.
+
+Last election National promised 170,000 more jobs. Two budgets on, they have 162,000 to go.
+
+The truth is too many of our families can't get ahead because under National we have a two-speed economy.
+
+Two speeds geographically, with many regions stagnant.
+
+Two speeds age-wise, with younger New Zealanders locked out of home ownership, and many of them facing a future of low paid or casual jobs.
+
+Two economic speeds, where exporters and manufacturers struggle, while speculators flourish.
+
+Two Auckland speeds, where growth is in rampant house prices - not production and jobs.
+
+Two speeds in a fairness sense, with incomes and wealth ever more concentrated in the hands of the few.
+
+A two speed economy is morally wrong. Kiwis should be able to prosper whatever their circumstance at birth. Yet two in five seriously deprived children have working parents on inadequate incomes.
+
+Child poverty is becoming such a problem that even National is starting to talk about dealing with some of the symptoms. But their unwillingness to address the drivers of our two speed economy mean that overall it continues to get worse.
+
+Inequality in New Zealand has worsened under National. Some of this is a direct result of National’s tax policies. 40% of their income tax cuts went to the top 10% of income earners. The refusal of National to address the gaping hole in our tax structures – the lack of a capital gains tax – makes it worse.
+
+An economy has to work for the ordinary person. If it does, they stay and work in New Zealand. If the economy does not work for them, they give up or leave. People are not stupid.
+
+The hollowing out of manufacturing and the loss of so many middle-income skilled jobs, has made New Zealand a very unequal society. This has changed our society for the worse, and as many economists point out, it weakens demand which is itself bad for the economy.
+
+Our two speed economy holds us all back because it curbs growth.
+
+It’s time for a new approach.
+
+The world is changing. Upheavals in the global economy have caused a major re-think in how best to grow jobs, wealth and fairness in society.
+
+This follows two decades of a merchant banking view of economics that became dominant in most developed countries.
+
+Then financial derivatives, high levels of private debt, credit and asset price bubbles, inequality, outsourcing of production and over reliance on service industries fuelled by debt based consumption led to the GFC.
+
+The merchant banking outlook has failed. Clinging to it harms, not helps, the economy.
+
+The new outlook is industrial. This view holds that economic growth must be based on the real economy – the businesses that create products and services that bring real growth and real jobs, not speculation.
+
+Last year I travelled to the US and UK and met with economists and organisations such as the IMF, the OECD, Joseph Stiglitz and Jeffrey Frankel.
+
+They confirmed my view that a new consensus is emerging that the financialisation of western economies has gone too far. It’s time to focus on the real economy.
+
+National still views the economy through the lens of merchant banking, which has dominated the western world for the last 30 years.
+
+This is why National’s central economic plan is to sell what already exists – the electricity SOEs – which does nothing to grow our productive economy. It is why they are willing to do a backroom deal to trade the misery of pokie machines for a convention centre.
+
+Labour rejects the merchant banking view of our economy. Ours is a productive jobs focus, and all our policies work to this end.
+
+National promised to 'rebalance' the economy to deliver more export-led growth. They have failed. We are spending more on imports and interest than we earn from our exports.
+
+At $10 billion that deficit is the biggest of any developed country on Earth – worse even than Greece. It grows to $16 billion per annum in the next four years. This is a very, very serious issue that National fails to address.
+
+Every year that deficit is plugged by selling assets that were previously owned by New Zealanders to foreign buyers, and by borrowing more money from overseas lenders.
+
+Our nation’s balance sheet gets worse.
+
+Over time more and more of our earnings go to servicing interest and payments to overseas owners.
+
+Our economy is hollowed out both directly, and via the underinvestment in our own productivity.
+
+This is the failing of the merchant banking view of economics.
+
+If we don’t change, that pattern will continue. But Labour has a clear plan to turn this around.
+
+We will boost jobs and solve major problems in the economy through innovative policies that don’t cost the earth.
+
+We will increase our national savings and boost the investment pool available for business.
+
+We will make sure investment doesn’t go into the hands of property speculators and instead goes into productive exporting industries.
+
+We will reform monetary policy to tackle our overvalued dollar to help our struggling exporters.
+
+Let me get into the detail.
+
+Labour will improve savings. KiwiSaver was one of the many successes of the last Labour Government. We believe it should now be made universal and cover all people in work. This will add depth to our savings and create a bigger investment pool for businesses.
+
+Labour’s pro-growth tax reforms include a capital gains tax, excluding the family home. This encourages investment on the basis of the profitability of the business. It removes the tax bias which encourages speculative investment in rental property and directs more investment into plant, equipment, and export development. A capital gains tax brings well paid jobs and exports. So does our research and development tax credit.
+
+A capital gains tax is recommended by the OECD, the IMF, the Reserve Bank, the governments of just about every OECD country and the Labour Party.
+
+Another change needed is to our monetary policy. For long periods this keeps our exchange rate at artificially high levels which hinder our exporters. Around 15% overvalued currently. At $60 billion exports, that’s a gross loss of around $9 billion per annum.
+
+With countries around the world managing their currencies, we face competitive devaluation abroad and ignore it at our peril.
+
+So Labour will update the Reserve Bank’s tunnel vision mandate to remove the primacy given to inflation targeting. We will give proper weight to the exchange rate and full employment. We will change the membership of the bank’s Board to give greater weight to the productive economy.
+
+It is bleedingly obvious that for our exporters to earn enough to cover the cost of our imports and interest to overcome our current account deficit, we have to have a competitive exchange rate which is not inflated above the fundamentals of our economy.
+
+I have said our Government will be frugal. But that won’t limit our ambition for New Zealand. Two of our new policies, KiwiBuild and NZ Power, will make a huge difference to New Zealanders and boost the economy but without a major impact on the Crown accounts.
+
+Labour's KiwiBuild will build 10,000 affordable houses a year. Homes will be sold to owner-occupiers for what they cost to build; not to speculators banking on future tax-free capital gains.
+
+National’s changes to Auckland housing rules in this year’s budget adopts some of Labour’s suggestions, which is welcome. But they stop at planning changes.
+
+The tax and investment drivers of housing speculation remain untouched, and they have not rolled up their sleeves and committed to building the smaller affordable houses that are needed. Labour’s KiwiBuild will.
+
+Labour’s NZ Power policy will reduce average household power bills by $230 - $330 a year and lower businesses’ bills by five to seven per cent.
+
+Our current electricity market results in excessive prices, but National continues to back it. Their merchant banking philosophy is hell bet on selling power companies, not solving excessive prices.
+
+“Markets are good” is shorthand for “competitive markets are good” not “uncompetitive markets are good”. Uncompetitive markets are predatory of consumers, undermine business and cause the misallocation of capital. This harms the economy and costs jobs.
+
+The evidence of a lack of competition in New Zealand’s electricity market is substantial. The report of Stanford Professor Wolak for the Commerce Commission found overcharging by the four largest gentailers was 18% or $4.3 billion. Prices have increased further since. Residential tariffs have risen more than many other countries and are now three times industrial tariffs.
+
+For 15 years power bills have increased at twice the rate of inflation.
+
+But the problems go deeper than a lack of competition. The pricing model used means all electricity dispatched is paid the amount of the highest bid accepted. This means our abundant cheap hydro (almost 60% of our generation) is priced at many multiples of the cost of its production.
+
+Labour proposes that generators be paid for their production costs plus a fair return on their capital. Generators will be structurally separated from retailers. A Crown agency, NZ Power, will sit in the middle. NZ Power will tender for new capacity under long term contract, the cost of which will be averaged into the market (rather than driving the price of existing low-cost hydro ever higher). The future price track for electricity will be more predictable, helping investors in energy intensive businesses commit to investing in New Zealand.
+
+Many overseas jurisdictions, including a number of States in the USA, run similar systems.
+
+All of these changes will improve the economy for ordinary New Zealanders.
+
+Lastly, a few words on superannuation
+
+Responsible governments take hard decisions. National is irresponsible on Superannuation. It talks tough on welfare reform, but it ignores the much larger fiscal pressure facing our country.
+
+Labour believes a sustainable superannuation system is essential. We are determined to protect it and keep it on a sustainable footing that is fair to all generations.
+
+Over the coming decades, the number of New Zealanders in work for each person on super halves from 5 workers per superannuitant to between 2 and 3.
+
+Action is required now. Super costs have already increased from 7.3 billion in 2008 to $10.2 billion this year.
+
+It’s already more than all benefits combined.
+
+Worse still - in just two years super costs more than total government spending on pre-school, primary, secondary and tertiary education combined. That cannot be right.
+
+The longer it is left, the more likely it is that the rate will be cut or eligibility narrowed. National’s alternative, in effect, is to give people insufficient notice that change is needed.
+
+We have signaled a transition for the age of eligibility from 65 to 67 years. We have adopted the retirement commissioner’s proposal to lift the age by 2 months per year from 2020.
+
+Labour is committed to ensuring that those who cannot work past 65 in their normal work and need super will get it.
+
+The sooner the age of entitlement for superannuation is tackled, the fairer the adjustment will be.
+
+The changes I have outlined will sustain economic growth that delivers more exports, from a broader export base, with more well paid jobs, and higher incomes. Labour is committed to them.
+
+ends
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

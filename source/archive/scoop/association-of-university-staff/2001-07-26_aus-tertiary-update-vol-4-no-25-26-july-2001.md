@@ -1,0 +1,75 @@
+---
+slug: aus-tertiary-update-vol-4-no-25-26-july-2001
+title: "AUS Tertiary Update Vol.4 No 25, 26 July 2001"
+date: 2001-07-26
+source-url: https://www.scoop.co.nz/stories/ED0107/S00039/aus-tertiary-update-vol4-no-25-26-july-2001.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update Vol.4 No 25, 26 July 2001
+=============================================
+
+**Thursday, 26 July 2001, 11:14 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+![AUS WEB SITE](http://www.aus.ac.nz/pictures/logo.gif)  
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update Vol. 4 No. 25, 26 July 2001  
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+In our lead story this week…..  
+AUS MAKES ITS STAND CLEAR TO GOVERNMENT  
+The Association of University Staff has told the government that, while AUS supports measures to ease the burden of student debt, it cannot support fees stabilisation and reduction at any price. In a letter to the Minister in charge of tertiary education, Steve Maharey, the AUS National President, Neville Blampied says the union wants to see public investment in university tuition increase in a "calibrated" and "adequate" way. "Ad hoc expedients, offered without differentiation to all parts of tertiary education including the private providers, and determined without regard to true cost pressures in the sector do not fulfil our policy nor are they in the national interest," Mr Blampied writes. He also repeats AUS opposition to the link the Government has made between funding for Centres of Research Excellence (CoRE) and acceptance of the Government fee-freeze offer and points out that the deal on offer of 5.1% on funding levels last year is inadequate, given a 3.1% level of inflation to date in 2001. "It cannot do anything substantive to alleviate the financial problems of universities, which are most severely felt in the budgets for teaching, teaching-related research and for providing the general infrastructure to support scholarship across the board." Finally, Mr Blampied warns in his letter that the situation has reached crisis level, and that it can no longer be assumed that 2002 will be "business as usual", with staff picking up extra work and "meekly putting up with redundancies, restructuring and zero pay offers". The full text of the letter to the Minister is on AUS website: www.aus.ac.nz/minister.htm
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week:  
+1\. Government changes policy on funding new PTEs.  
+2\. AUS at Education International World Congress.  
+3\. Vice-Chancellors’ pay on the up and up.  
+4\. Furore over Australian academic's website.  
+5\. Maine women professors get a raise.  
+6\. Australian study on 'brain drain'
+
+GOVERNMENT CHANGES POLICY ON FUNDING NEW PTES  
+AUS has welcomed the Government’s moratorium on public funding of new private training establishments - with reservations. National President, Neville Blampied, said, “While we congratulate the Government on this positive move, we note that established PTEs are assured of continued funding for growth and there are a range of exemptions to the moratorium. The enormous increase in Government funding, from $17 million to $128 million, 1999-2001, remains in the hugely expanded private sector – and is scheduled to increase to $151 million next year.” Mr Blampied urged the Government to go the next step and begin to redirect public funding of the established PTEs back where it belongs – in public institutions.
+
+AUS AT EDUCATION INTERNATIONAL WORLD CONGRESS  
+AUS National President, Neville Blampied and Executive Director, Rob Crozier, are currently representing AUS at the Education International \[EI\] World Congress in Thailand. The Congress will be making decisions on EI’s future direction and priorities and will be discussing, in particular, three focal points for advocacy: the achievement of quality public education for all; resisting commercialisation of education services; and, improving the employment conditions of teachers and their working environment. EI represents 24.5 million teachers and education and research personnel world-wide. It is associated with the International Confederation of Free Trade Unions, the global federation of democratic and independent national trade union centres and has consultative status at UNESCO and the International Labour Organisation. It also joins with other trade union partners in meetings with organisations such as the World Trade Organisation.
+
+VICE-CHANCELLORS' PAY ON THE UP-AND-UP  
+State Service Commission figures show big growth in the pay packages of the country's university vice-chancellors between 1997 and 1999. One of the highest-paid, Otago's Graeme Fogelberg, saw his total pay package increase by 45% over the three years from the $200,000-$210,000 salary band in 1997 to the $290,000 to $300,000 salary band in 1999. When Canterbury's Daryl Le Grew was appointed, the Vice-Chancellor's pay package was increased 38% on the $210,000 to $220,000 range earned by his predecessor. Over the three year period, Victoria University increased its chief executive's salary by 40% to within the $280,000 to $290,000 salary band, while the pay packet of Lincoln's Frank Wood rose 16% in one year when his pay went from the $180,000 to $190,000 salary band to the $210,000 to $220,000 band.  
+Given the situation in the country's universities, the release of the figures has stirred up reaction. AUS notes that the big increases come at a time when academic staff saw their wages increase about 6% over the same period, while New Zealand University Students' Association co-president ,Andrew Campbell, says that given the vice-chancellors' high salaries it was too simple for them to blame the government for the deteriorating state of universities. He warned that if fees went up, students would expect to see every cent go into academic departments.  
+However, Professor Le Grew, University of Canterbury’s Vice-Chancellor, cautioned against a literal reading of the State Services Commission figures, saying it represented a total package including superannuation and performance allowances that were not necessarily paid out. He said that from August 1998 his salary had risen 1%, in line with that of academic staff.
+
+WORLD WATCH
+
+FURORE OVER AUSTRALIAN ACADEMIC'S WEBSITE  
+The authorities at Australia's La Trobe University have closed down a website on the university server, and warned its owner he could fact misconduct charges because they say the site has defamed a federal government minister. Ken Harvey, a lecturerer in public health at La Trobe, set up the site with academics from other institutions four months ago. Its aim was to draw attention to claims that international pharmaceutical drugs companies were exerting improper influence on the government. The offending item is a cartoon showing the Health Minister, Michael Woodridge as the "Minister for Pfizer" -- an international drug company. The university says the cartoon opened the university and Dr Harvey up to the risk of defamation. The National Tertiary Education Union (NTEU) has taken up Dr Harvey's case and is rejecting the defamation claim. Bill Deller of the NTEU said the university should drop any action, and resolve the issue informally. "This is part of a wider attempt by university managers to wrest information control from academics. They want hegemonic control over everything that emanates out of the university," he said.
+
+MAINE WOMEN PROFESSORS GET A RAISE  
+Nearly half the women professors at the University of Maine in the U.S. are to get pay rises after a study showed they were being underpaid in comparison to their male counterparts. Of the 451 female professors on the university's seven campuses, 199 are to get rises average US$2,000 a year to bring their pay up to that of male professors at the university. Some will receive as much as US$6,000 a year more. The pay rise follows a study by a joint committee of administrators and members of the faculty union that looked in to pay relativity taking into account relevant differences such as longevity, rank, discipline and academic degree.
+
+AUSTRALIAN STUDY ON 'BRAIN DRAIN'  
+The Department of Immigration and Multicultural Affairs has released a report on the effect of the 'brain drain', but critics looking for information on its impact on universities say it lacks the data needed to provide answers to the key issues. The report says that 1,221 Australian academics have been lost to the country in the past three years, and that the majority of Australians leaving are in the 25-35 year age group. However, it says Australia is in fact experiencing a 'brain gain' with the number of skilled migrants exceeding the number of Australians leaving. The report is seen as a useful start, but critics say it fails to answer the key questions –– including who is leaving, why they're leaving, and whether they are coming back.  
+The report can be viewed at http://www.immi.gov.au/research/publications/skilledlab/index.htm  
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is produced weekly on Thursdays and distributed freely to members of the union and others. Back issues are archived on the AUS website:
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

@@ -1,0 +1,165 @@
+---
+slug: winston-peters-speech-to-annual-conference
+title: "Winston Peters Speech To Annual Conference"
+date: 2001-09-03
+source-url: https://www.scoop.co.nz/stories/PA0109/S00014/winston-peters-speech-to-annual-conference.htm
+author: new-zealand-first-party
+---
+Winston Peters Speech To Annual Conference
+==========================================
+
+**Monday, 3 September 2001, 10:27 am**  
+**Speech: [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party)**
+
+2 September 2001
+
+Speech By Rt Hon Winston Peters To The  
+New Zealand First Annual Convention.
+
+(Delivered at 1.30pm, 2nd September 2001, Bureta Park, Vale Street, Tauranga)
+
+This being the first Convention of the party in the Western Bay of Plenty, it is proper that we pay tribute to the people of Tauranga and Mount Maunganui who have backed us since 1984.
+
+This city has a record of progress outstripping any other in New Zealand and which next year will settle its 100,000th citizen.
+
+We have fine school buildings, numerous voluntary organisations, a polytechnic with university affiliations elsewhere in New Zealand and overseas, and a transport system that we have built despite central government stagnation.
+
+We have built up New Zealand’s largest export port with the world’s most efficient logging operations – a burgeoning export province, and it is after all the birthplace of New Zealand First.
+
+New Zealand First is the only independent nationalistic party in modern New Zealand politics.
+
+Why then, with a plain common-sense approach to the needs of the New Zealand people, is New Zealand First the scourge of so many in the media, the establishment, lobbyists and influence peddlers?
+
+The answer is simple.
+
+It is because we were born out of the political betrayal of the two old parties and we are beholden to no-one nor any institution but the New Zealand people and our founding principles.
+
+I asked a television journalist yesterday, who raised the misbegotten perception of our party to name just one political promise that we hadn’t kept.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Just one!
+
+He couldn’t -- but you never saw that on television last night.
+
+In 1988, five New Zealanders met at Hamilton alarmed at New Zealand’s political direction and particularly where the National Party was going.
+
+The governing Labour party had abandoned its manifesto, along with every principle it had ever stood for in the worst exercise in political deception New Zealand has ever suffered. Labour after 1984 had lurched to the far right, commenced the sale of the peoples assets – over 9 billion dollars worth, and most seriously had begun to implement sectionalist, segmented and divisive race based policies.
+
+The National Party was promising to change all that, yet even as early as 1988 it was clear to those five New Zealanders meeting in Hamilton that covertly a secret agenda was being hatched which the National party if it got into power in 1990 would follow.
+
+Some of you might recall a speech I gave to the Taradale Rotary Club in early 1988 on the Labour Party’s race relations policies, followed by a speech the next month in Rangitikei on Roger Douglas’ abysmal handling of the share market crash in October the year before.
+
+Typically those speeches were derided but today we are a socially divided country and our share market is the worst in the western world, languishing barely above the 2000 mark.
+
+The five decided to fight on and hopefully turn the National party around but between 1988 and 1993 we had the scandals of the DFC and BNZ, not one bail out but two, the attacks in December 1990 by National on the elderly and the sick, the ‘mother of all budgets’ in 1991, the first stages of the WineBox cover-up, the Quality Inns and the Sealords debacles, the expulsion from caucus, the April 1993 By-Election here in Tauranga, in which no opponent would front up, and then the impending Railways sale. It was clear to us five that New Zealand needed a new political party that would promote a philosophy of one country and determined to put New Zealanders first.
+
+People of all political persuasions joined us on 18 July 1993, our party’s birthday – and the rest is history. Save one thing above all: as other parties have played politics with their principles we have steadfastly defended ours.
+
+Chris Trotter is correct. We have been the victims of an awful snobbery of the pretentious elite that resides in parts of our country’s establishment, Wellington’s bureaucracy and the big city media.
+
+Unable to combat us in open debate they have sought to shut us down.
+
+No ship passing through raging storms reaches port unscathed and nor have we. Remember 1993 when they said our party had no wheels? Can you recall in 1994/95 when we polled 2% and they pronounced our obituary? Well we survived all that and much more. We came through, “the perfect (political) storm” and we are stronger for it.
+
+New Zealand at the start of the 21st century is economically and socially in a serious state. Our debt, our exports, our levels of productivity, our rate of savings and investment are some of the worst in the OECD’s 29 countries.
+
+That’s hardly surprising once you learn that since 1984 this country has had no national export plan. Consequently a nation dependant on exporting nearly more than any other has been rapidly overtaken by once third world countries so that today we cannot afford the most basic things which used to be legitimate expectations of the New Zealand people.
+
+We cannot afford to provide operations for tens of thousands on hospital waiting lists, or house all of our people properly, or assist our young people in tertiary institutions or provide for the levels of security on our streets and our national borders that are part of a first world nation.
+
+Let’s dispose of one myth first. It is not spending that is crippling our country. It is the appalling mismanagement of New Zealand’s potential wealth and our diminishing share in it. Every time a right winger tells you we can’t afford this expenditure point them to countries that can, who don’t have experimenters running their economy.
+
+Roger Douglas and Ruth Richardson were miserable failures and so are their disciples. Where there is no vision the people perish and to have a social vision we must first have an economic one-- of a sovereign nation in control of its resources which includes it peoples talents and employing them for the advancement of their own people first.
+
+That vision is not new but deep rooted in our country’s history; in the great Liberal Party of the1890s and Labour and National respectively from the 1930s through to the 1960s.
+
+The opposite of that vision is what we have today – a mindless dumb obedience to policies practiced nowhere else in the world.
+
+New Zealand needs an export plan to treble our exports in real terms by the year 2020. Governmental policy, whether it be taxation, industrial relations, research and development, education and immigration should be focused on this outcome. New Zealand First is the only political party which will use your vote at the next election to rapidly expand our export wealth and ensure that there is a dramatic improvement in the percentage of that wealth coming back to New Zealand.
+
+New Zealand First is the only political party that understands why New Zealand needs a sound economy – to deliver the four fundamental things that every population needs: - First – good health, Second – good housing – Third good incomes, and Fourth good education. If an economy delivers on those four needs then people can generally look after the rest themselves.
+
+A failed economy delivers none of those things and hence the numbing debate that passes for politics today.
+
+We in New Zealand First are economic nationalists first and foremost. If one looks at the great countries of the past and present, there is one unique feature about them. The critical decisions that they made had to pass the judgement of what was best for their nation and their people.
+
+It is only in New Zealand in these last seventeen years that leaders have been prepared to sacrifice the interests of their own country on the alter of the global economy. Whilst other practice protectionism and grow wealthy we lead the free trade movement and grow poor.
+
+Free trade is an alien ideology to this country. It is an invention of doodlers and political tyre kickers not one of whose ideas ever built a great country and all of whose ideas are repudiated by leading nations.
+
+What has happened to middle New Zealand, in the meantime? Well-- the real wages of working New Zealanders have fallen dramatically. The price of a new house has risen spectacularly. The percentage of women with children under six in the work-force has soared and yet median family incomes have fallen. Under free trade we have all become time poor and economic insecurity is rampant .
+
+And our businesses are faring no better. Name me any new business of any size that has been started in New Zealand since Roger Douglas came to power.
+
+Point to any company in the last ten years of any size floated on the share market selling a product, that you can, feel, touch, smell or taste. And the Independent’s headline last Wednesday tells it all. It asked “Will the last broker leaving the New Zealand market please turn out the lights”.
+
+Ladies and gentlemen in recent years, a cultural Marxism called political correctness has taken root in this country making it impossible to discuss issues like immigration, or raced based policies in anything but the most glowing terms. New Zealand—a once free country has become intolerant of dissenting views. And we are becoming a country of hyphenated New Zealanders. No longer are we all just New Zealanders but something else first, whether it be Indian New Zealanders, Samoan New Zealanders, Chinese New Zealanders, or Maori New Zealanders. And given that those who are Maori are the original New Zealanders one has to wonder where all this is heading.
+
+In 1915 President Theodore Roosevelt said “There is no room in this country for hyphenated Americanism…the one absolutely certain way of bringing this country to ruin, of preventing all possibility of its continuing to be a nation at all, would be to permit it to become a tangle of squabbling nationalities.
+
+Over the last 160 years, this country has done a lot to help the poor from other countries. But if we in the 21st century keep thinking of ourselves as a community of disparate peoples, then social and economic progress will be extremely difficult.
+
+New Zealand First believes that coming to this country is a privilege and we expect people who come here to sign up to our country and our laws. In short, when in Rome do as the Romans do. When in New Zealand, do as we do. For we are sick to death of people who come here who immediately want to re-establish their culture in our country. Which begs the question : why did they leave home in the first place?
+
+Likewise there is no future for our country unless it is our purpose to establish one country, regardless of our background and personal history.
+
+Ladies and Gentleman, New Zealand First is the only party able to provide the leadership and direction so desperately needed, and now more evident than at any recent time in our history.
+
+New Zealand is no longer simply at a political crossroads; it is rapidly approaching a dead-end from which only even more pain and suffering will ensue, unless some deliberate action is taken—and soon. We must not permit our country to be taken headlong into oblivion by cavalier politicians more interested in personal ratings, in currying favour with whichever lobby group is in their face today, or in taking political correctness to ever greater and new hysterical heights.
+
+The first responsibility of a government is to its people. This seems to have become the last concern in recent years.
+
+Whilst it may give the Prime Minister and her Cabinet colleagues warm-fuzzy feelings to endlessly swan around the world promising aide and assistance to every need presented, it gives cold comfort to those of us back in New Zealand still waiting to see a medical specialist or have a minor operation to make our quality of life more enjoyable.
+
+I cannot conclude today’s speech without reference to Ms Clark’s latest act of grandstanding on the world stage; her decision to open up our country to a large number of self proclaimed refugees from yet another of the world’s trouble spots.
+
+New Zealand First is not without heart or feelings for those so desperate to abandon their own countries in order to try and improve their lives and those of their families. But what is New Zealand going to do with the boat which will arrive next week? And what of those aboard the ship due the week after that? Will there then be one every week until the end of the year and beyond? My greatest fear is that this single act of kindness may well cause a situation which will add further to the burden of the New Zealand taxpayer and drive the fulfillment of many New Zealanders’ needs beyond reach.
+
+Let us not forget that these people are by any definition queue jumpers.
+
+Also let us not lose sight of the fact that a large number of New Zealanders are in the very same situation. Ask the mother or father of a child waiting for medical attention at Auckland StarShip hospital. Ask the veterans of New Zealand’s participation in atomic bomb testings in the pacific. Ask the child who has missed out on the lotto draw denying him or her the chance to attend the college closest to their home. Or ask a son or daughter struggling to get their frail mum or dad into a rest-home where they will get the care and attention they deserve.
+
+In essence, there is so much to be done here in New Zealand for New Zealanders.
+
+It would do well for the Prime Minister to remember that charity does begin at home.
+
+And what about the people of Reefton on the West Coast?
+
+Their desire to help themselves through the creation of meaningful work, was thwarted by the callous decision of a minister totally captured by the green lobby.
+
+I ask delegates, is this the New Zealand we want?
+
+Is this the New Zealand voters asked for?
+
+I don’t think so.
+
+In conclusion, next year represents another opportunity to re-establish a balance and common sense into our lives which New Zealand was once famous for.
+
+The 2002 general election presents us with another chance to complete the task we took on in 1993 when this party was formed.
+
+Delegates I urge you to take this opportunity. Embrace it as urgently as you can—and work hard to bring about the only durable solution we know is now overdue, a government with New Zealand First policies.
+
+It’s long since time for a real change. And only we here today can deliver it.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party) on InfoPages.

@@ -1,0 +1,54 @@
+---
+slug: big-boost-for-victoria-university-researchers
+title: "Big Boost for Victoria University Researchers"
+date: 2002-09-16
+source-url: https://www.scoop.co.nz/stories/ED0209/S00024/big-boost-for-victoria-university-researchers.htm
+author: victoria-university-of-wellington
+---
+Big Boost for Victoria University Researchers
+=============================================
+
+**Monday, 16 September 2002, 8:55 am**  
+**Press Release: [Victoria University of Wellington](https://info.scoop.co.nz/Victoria_University_of_Wellington)**
+
+Victoria University researchers have been given a big boost with the Marsden Fund backing six proposals to the tune of more than $1.8 million.  
+Three research proposals from the School of Mathematical and Computing Sciences and one each from the School of Psychology, School of Biological Sciences and the Treaty of Waitangi Research Unit were supported by the Fund. As well, two Victoria staff members are collaborating on a project being hosted by another research organisation.  
+One of the projects is funded from the Fast Start fund – a fund for researchers in the early stages of their careers – while the others are from the standard fund.  
+Dr Maryanne Garry, Senior Lecturer in the School of Psychology, has received $445,000 over three years, to study how different kinds of evidence can create false memories. The research will have important implications for understanding how memories can be modified and how people make sense of their past.  
+Dr Richard Hill, Director of the Treaty of Waitangi Research Unit at the Stout Research Centre, has received $420,000 over three years. He and his team will investigate how Maori have attempted throughout the 20th Century to achieve the recognition of rangatiratanga (sovereignty) by the Crown that was promised under the Treaty of Waitangi, and the State's responses to this. The bicultural and interdisciplinary project aims to explore the heart of the relationship between Crown and Maori throughout the last century.  
+Dr Jeff Shima, Lecturer in Marine Ecology in the School of Biological Sciences, has received $100,000 in Fast Start funding over two years. Dr Shima’s research will investigate the extent to which the offspring of coastal fish, which usually develop in offshore waters before returning to coastal habitats, are “lost” from the populations into which they were born and successfully “captured” by more distant populations as they grow in offshore waters. Understanding these population movements may help to determine the effectiveness of marine reserve designs and the response of natural systems to pollution, climate change and fishing.  
+Professor Geoff Whittle, from the School of Mathematical and Computing Sciences, has received $223,737 over three years to investigate “matroid minors,” which is the study of finite geometric structures that has considerable applications in computer science.  
+Dr Matt Visser, along with a researcher from Canterbury University, has received $384,000 over three years to address the most challenging problem facing mathematical physics - finding a theory that incorporates Einstein's theory of general relativity with Quantum Field Theory. While Einstein's theory predicts well phenomena at the large scale of planets, it does not explain phenomena at the very small subatomic level where quantum theory reigns. A number of "theories of everything" have been proposed, but Dr Visser's approach is quite novel. It is motivated by his work showing that sound waves in extremely cold fluids behave in a remarkably similar way to light in Einstein's theory. This suggests that Einstein's equations are not accidental but a natural consequence of certain types of theory.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Professor Estate Khmaladze, from the School of Mathematical and Computing Sciences, along with researchers in the Netherlands and Germany, has received $239,064 over three years. He will investigate the statistical theory that underlies a wide range of physical phenomena, from earthquakes to possum eradication, the distribution of mineral deposits in the earth to that of galaxies in space.  
+As well, two staff members, Professor Phil Garnock-Jones from the School of Biological Sciences and Dr Vanessa Thorn, from the Antarctic Research Centre, are to participate as associate investigators in research lead by Dr Ian Raine from the Institute of Geological and Nuclear Sciences. That research will test the idea that some New Zealand alpine plant groups might have originally come from Antarctica.  
+Victoria University Vice-Chancellor Stuart McCutcheon praised the work of the University’s researchers.  
+“Research is one of the features of what makes a university special and sets it apart. The success of Victoria’s staff in gaining Marsden Fund backing for their projects shows their commitment to excellence and the University’s efforts to support them achieve the best.  
+“Several of the projects show the initiative of our staff in creating partnerships and working in collaboration with other research centres and universities, both in New Zealand and internationally. That two of our newest staff members, mathematicians Dr Visser and Professor Khmaladze who both joined us this year from prestigious international institutions, have been awarded substantial grants is testimony to the University’s standing as a research institution.”  
+This is the eighth application round for the Marsden Fund, a government research fund established in 1994 to support excellence in research administered by the Royal Society of New Zealand. Applications to the fund are very competitive. Of the 801preliminary proposals, only a fifth were invited to submit a full proposal of which only 86 were successful. Over three years, the grants announced today are worth more than $36 million.
+
+  
+Issued by Victoria University of Wellington Public Affairs  
+For further information please contact Antony.Paltridge@vuw.ac.nz or phone +64-4-463-5873
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Victoria University of Wellington](https://info.scoop.co.nz/Victoria_University_of_Wellington) on InfoPages.

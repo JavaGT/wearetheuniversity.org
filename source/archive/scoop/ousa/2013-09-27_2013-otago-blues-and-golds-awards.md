@@ -1,0 +1,80 @@
+---
+slug: 2013-otago-blues-and-golds-awards
+title: "2013 Otago Blues and Golds Awards"
+date: 2013-09-27
+source-url: https://www.scoop.co.nz/stories/CU1309/S00507/2013-otago-blues-and-golds-awards.htm
+author: ousa
+---
+2013 Otago Blues and Golds Awards
+=================================
+
+**Friday, 27 September 2013, 9:48 am**  
+**Press Release: [OUSA](https://info.scoop.co.nz/OUSA)**
+
+2013 Otago Blues and Golds Awards
+
+The Otago University Students’ Association is proud to announce that Otago’s top sporting and cultural performers will tonight be awarded at the annual Otago Blues and Golds Awards.
+
+“These awards are the top of the top, celebrating our high achieving sports and cultural students past and present.” Said Francisco Hernandez, “Each year Otago students breathe new life into Dunedin and their contributions stretch to all areas of the community, and tonight we recognise those who have given up time to pursue their passions while representing Otago.”
+
+In all 51 awards will be presented at the ceremony to be held at the Sargood Centre tonight from 5.45pm. The award recipients include clubs and societies as well as individuals from a range of disciplines and a special retrospective award for New Zealand cyclist Alison Shanks.
+
+“Otago has such a wide range of sporting students who have represented us nationally and internationally, and a Blues award is the highest award the University and OUSA can give to recognise their efforts.” Said George McLenaghen, OUSA Recreation Assistant, “For those who have given time in the pursuit and support of cultural endeavors, the Golds awards are the pride of place, and there is a considerable amount of thought and deliberation that go into selecting the award winners.”
+
+The Blues awards have been held for over 100 years and the Golds for over 10 years. Award recipients are nominated by their peers and those who they have touched in their time at Otago, and a selection committee from around Otago decide on the final nominees and award recipients.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“Over the years the Blues and Golds awards have meant a lot to many of New Zealand’s successful people in both the sporting and cultural spheres, and we’re looking to continue the tradition which has meant a lot and continue to mean a lot in the future.” Said McLenaghen.
+
+  
+Awards list
+
+Retrospective Blue for Cycling
+
+Alison Shanks
+
+Whilst Alison was studying at the University of Otago in 2008, she was never awarded with a University of Otago Blue despite her achievements in the sport of cycling. They make for impressive reading and it is for this reason we are tonight, awarding her with this Retrospective Blue. Her achievements from the period August 2007 to July 2008 are as follows; 4th in the Teams pursuit Round 1 World Cup, in Sydney, Oceania Champion, in Invercargill, 6th in Round 1 World Cup, 9th Round 2 World Cup in Beijing, 6th in Round for of the World Cup in Copenhagen, the National Pursuit Champion at the Track Nationals (setting a National record of 3mins 36.4seconds), 7th in the Track World Championships in Manchester, and then 4th in the Beijing Olympic Games and setting a personal best time of 3mins 32.4 seconds. It is these achievement that we would like to rightfully recognise tonight.
+
+University of Otago Golds Awards
+
+Sabrina Goh (Music, Taiko Drumming)
+
+In early 2011, Sabrina joined the Japanese Drumming group “O-Taiko” and this year she became the leader of the group. With her leadership, the group has been taken to a new level of performance ability through her drumming and teaching. Sabrina also fulfils administrative duties for the club to ensure there are regular rehearsals and public performances. Her unquestioned dedication to the group has been commended by professors in the Universities music department and helped make the group a popular fixture at public events throughout the country.
+
+Benjamin Madden (Music, Voice Performance)
+
+A conscientious student, Ben has never been one to waste time or effort and is prepared to work and use his vocal talents. Ben sings as a tenor, and is the Convenor of the Capping Sextet. He is also the director of music at Selwyn College, and this year has played a significant role in the University Music Department’s Britten 100 Festival. Ben has been a member of the New Zealand Youth Choir and was selected as a member of New Zealand’s leading chamber choir, Voices New Zealand. Ben is also the drummer for the band “Males” and represents the University in a number of musical endeavours and genres.
+
+Corwin Newall (Music)
+
+Corwin is an accomplished pianist who regularly performs in professional contexts, but first and foremost he is a composer. In this domain, his record speaks for itself. His music is frequently performed by professional musicians and groups, including the New Zealand Symphony Orchestra and some of his music was featured in two Southern Sinfomia concerts. A truly outstanding achievement considering it is extremely unusual for an orchestra of this stature to display interest in the music of a student.
+
+Special Mention
+
+Kawiti Waetford (Music, Voice Performance)
+
+Kawiti is an exceptionally talented and highly motivated student that has the charismatic presence to inspire and lead those around him. He reached the final of the Lexus Song Quest, New Zealand’s premier vocal competition. He brings to his baritone voice considerable stage experience with a background in Maori oratory, Kapa Haka, and Theatre. In 2010, he was the recipient of the prestigious Ngarimu VC & Maori Battalion Scholarship and last year performed as a guest soloist with the likes of Dame Kiri Te Kanawa. Earlier this year he was asked to sing the National Anthems of New Zealand and England at the State Banquet hosted by Sir Don McKinnon and the Prime Minister, in honour of Prince Charles and Camilla, Duchess of Cornwall, during their state visit.
+
+  
+end  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [OUSA](https://info.scoop.co.nz/OUSA) on InfoPages.

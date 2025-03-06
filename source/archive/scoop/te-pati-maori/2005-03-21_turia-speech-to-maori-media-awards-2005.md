@@ -1,0 +1,163 @@
+---
+slug: turia-speech-to-maori-media-awards-2005
+title: "Turia Speech to Maori Media Awards 2005"
+date: 2005-03-21
+source-url: https://www.scoop.co.nz/stories/PA0503/S00419/turia-speech-to-maori-media-awards-2005.htm
+author: te-pati-maori
+---
+Turia Speech to Maori Media Awards 2005
+=======================================
+
+**Monday, 21 March 2005, 8:47 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+  
+Tariana Turia Speech to Maori Media Awards 2005; Rotorua Sportsdrome
+
+Tariana Turia, Co-leader, Maori Party
+
+Saturday 19 March 2005
+
+I was looking at the programme for tonight with its beautiful paua power, and of course I couldn’t help think about the United Nations.
+
+After all – we are celebrating tonight the success of the united stations of our united iwi nations: the Tuhoe nation, the nation of Ngapuhi, the Koori nation with our special guests Te Reo Irirangi o Poihakena.
+
+The United Nations Committee gathered here tonight comprises our esteemed leaders, Te Arikinui Te Atairangikaahu, the chairs of our nations’ leading bodies in advancing te reo, our executives, our activists, our advocates, the judging panel, the brilliant masters of ceremony, the event organisers – and the armchair experts at home.
+
+Actually, talking about the need to eliminate racial discrimination is probably as good a place as any to focus our energies tonight.
+
+Maori Broadcasting has been borne out of struggle, of litigation, but also out of deep commitment and belief.
+
+Tonight we celebrate the incredible efforts of Maori radio, and the fostering of te reo me ona tikanga.
+
+And in doing so, I want to highlight the distinguished achievements of Huirangi Waikerepuru and the Nga Kaiwhakapumau i te reo claim to the Tribunal \[WAI 11\] which challenged the State to fulfil its obligations to protect and promote te reo as a Taonga.
+
+It seems fitting to also refer to the legacy left by Martin Dawson. I mihi to his whanau who gathered today at Whenua Tapu to remember Martin – as we also reflect on his contribution from those early days giving evidence to the Wai 11 claim – and his subsequent life immersed in broadcasting and treaty litigation.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The 1985 claim stated that the official recognition of te reo should occur through broadcasting as the key to the survival of the language.
+
+And here we are today, twenty years later, with 22 stations now operating throughout Aotearoa; with an estimated 30,000 people listening to Maori radio – and of course thousands more connected through whanau.
+
+You know how it goes, “I heard it on the radio” becomes the ultimate authority on all whanau matters.
+
+As Katerina Mataira said, Tuhia te ha o te reo ki te rangi.
+
+Maori radio, has given voice to the voiceless.
+
+The breath of life over our airwaves enraptures and captures an audience from Tahu FM through to Te Hiku o te Ika.
+
+We hear our korero, our wero, our wawata, coming back out to us.
+
+And it is done in our way, in the context of our kaupapa.
+
+Listening to the soothing tones of Papa Ruru late at night, the korero going down is like listening to the pearls of wisdom your aunties and uncles share with you in the special space between waking and sleeping.
+
+Maori radio brings with it that special intimacy, that connection that comes with whanaungatanga.
+
+The connections are more than those of the radio output. It is about sharing our world, across the world.
+
+I want to acknowledge tonight the leadership Te Whakaruruhau o nga reo Irirangi has made with PungaNet – a system which means the programmes can be exchanged live so that our whanau anywhere are able to hear programmes from any part of Aotearoa.
+
+With the establishment of irirangi.net we are literally taken to all parts of the globe via the internet.
+
+It is fantastic to think our whanaunga in New York can be tuning in to Go with the Flo on Radio Raukawa to catch up on Hollywood gossip!
+
+And I want to pay a special mention to Koro and Nellie Riki from Koori Radio – who are our guests tonight courtesy of Te Reo Irirangi o Te Manuka Tutahi. We are grateful to our indigenous whanaunga for fostering te reo, Maori issues, news and music for all our whanau away from home.
+
+It is in bringing our worlds together that we can really celebrate our potential.
+
+And it is our amazing potential that never ceases to amaze me.
+
+You only have to be interviewed by one of our rangatahi to realise how on to it we can be.
+
+It’s those interviews which start off, “I just want to have a korero with you Whaea” which end up leaving you sweating.
+
+In a former life I’d be waiting for the phone call from the 9th floor due to my inability to get into the spin of things. I can say honestly, I rarely ended up sweating - but often swapped the T for an R.
+
+These days I just relish the incredible talents of our people. The talent that means we will stand up for our rights, we will do whatever it takes to preserve and protect our voice.
+
+And sometimes the going can be hard. The funding may be tight, Government may be telling us ‘you’ve had enough’, but still we persevere with our determination to give power to the people.
+
+I was talking with Bruce Stewart the other day and he was sharing memories of the early days of Te Upoko o te Ika – when they literally built a station out of old car cases, sandwiching two windows together to achieve double glazing. Times were tough – but the inspiration and passion of people such as Huirangi and Piripi Walker kept them going.
+
+Joining in on our conversation was Whatarangi Winiata, who wandered back in time to the Assets Case, when the Courts were asked to consider that adequate arrangements must be made for Maori language in broadcasting before State assets could be transferred to SoEs.
+
+The former Minister of Maori Affairs, the late Ben Couch, had challenged the need for a Maori Language Commission on the basis that the country already had ‘Tu Tanga Ta’.
+
+It makes for pretty exciting comparisons to contrast those days of car-cases, and a language on the verge of extinction, to the fact that Whakaruruhau is now leading the communications industry with your representation on Te Putahi Paaho – the Maori Television Electoral College.
+
+Maori Television is gearing up for a celebration of enormous significance as the channel celebrates its first year of broadcast on March 28 2005. This last year our world has changed – as Te Kaea, Manu Rere, Tipi Haere, Korero Mai, Kai Time, Ask your Auntie, have all celebrated and enrichened us. We have truly come of age ….
+
+As we mark the first birthday party of Maori TV, I want to also wish a happy birthday to our favourite 50 year old, - the incumbent Member of Parliament for Te Tai Tokerau, Hone Harawira. Hone, I want to congratulate you on your fearless advocacy for our right to be - and for your dedication to the cause of broadcasting.
+
+It is through the conviction of people such as Hone, Aunty Minnie Westrup, Emare Nikora – and all our managers, DJs, breakfast show hosts, broadcasters, board members, technical experts – that our confidence in te reo has increased, our people have been politicised, our stories told.
+
+And it has always been within the embrace of our tikanga and our kaupapa.
+
+I think that’s why it was inevitably Maori radio that would get me into trouble.
+
+That trust I had in us – was how it came to be that my former boss learnt about my decision on the Foreshore and Seabed Bill before my time was up.
+
+The other media were meanwhile painting a picture that I was slightly demented, crouching in the back of the PMs limo, trying to make my mind up.
+
+The reality was of course, I had never contemplated anything other than a vote against.
+
+How could I account to my tupuna, that that which they protected for theirs, that which they believed was ours, would be given over to others?
+
+How could I tell my mokopuna when they look out to the sea, to gaze and reflect on what once was, that I did not give of my all to the pursuit of justice and protection of our rights.
+
+And so when Willie invited me on to Paakiwaha that day it was not so much a case of being done over - as I’ve had the misfortune to experience with other media – but more just the fact that for the first time someone asked me to tell my story.
+
+And so it all began. And from that day on, we have never looked back. The Maori Party is absolutely committed to our stories being told, our realities realised, our potential achieved. And that’s the potential of all our people – not just those who attended Hui Taumata.
+
+They say that a people is only as strong as its most vulnerable. Our people have always been powerful advocates in standing up for what others may call the ‘weakest link’.
+
+We must demand that our stories continue to be heard.
+
+You are those story-tellers, the people who can be our most powerful advocates. You must continue to fight to retain your independence – and to maintain your separate identity.
+
+You are the ones who will call for Maori to have a more direct stake in the resources provided to promote Maori language, culture and economic development through broadcasting.
+
+It is an absolute indictment on our country that Government funding for Maori radio stations has not changed significantly since they were established over a decade ago, and is less than half of that provided for the operation of Radio New Zealand - a single national station.
+
+We’re not saying that we don’t need a mainstream, public broadcaster, but we are saying that the current disproportionate allocation between Maori and mainstream services must be reviewed so that tangata whenua realise our entitlement to our Article Two rights.
+
+Thank you for letting me having the first go at the party political broadcast –Parekura’s already begun his campaign so I know the bro won’t mind.
+
+Actually I heard a funny story at Te Matatini when I was told that Labour was congratulating itself on being the only political party to offer a traditional Maori massage to ‘soften up the electorate’.
+
+You know, we do not need a political masseuse to work wonders. Our biggest need is to restore faith in ourselves.
+
+The Maori Party is not about to bring out the oils and caress you into a state of ecstasy with our pledge-card promises. We know, that it is what we can do for each other that really counts. All the mirimiri we need, is to care for ourselves, to care for each other, and in doing so, to care for our nation.
+
+And it is in the spirit of our own euphoria, that I want to end by congratulating all our award winners tonight, and in fact the greater broadcasting industry for your creative and lasting contribution to the united nations of Aotearoa.
+
+May you indeed continue to create many magic moments across the frequencies. May you continue to inform, enrage and engage our listeners with our experiences.
+
+Waiho ma te reo e arahi tatou ki te wairua o te iwi
+
+Let the language lead us to the soul of the people.
+
+Tena koutou, tena koutou, tena tatou katoa.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

@@ -1,0 +1,114 @@
+---
+slug: nationals-five-point-plan
+title: "Nationals five point plan"
+date: 2005-08-19
+source-url: https://www.scoop.co.nz/stories/PA0508/S00497/nationals-five-point-plan.htm
+author: new-zealand-national-party
+---
+Nationals five point plan
+=========================
+
+**Friday, 19 August 2005, 11:43 am**  
+**Column: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+19 August 2005
+
+Nationals five point plan
+
+National policy for this election centres on a five point plan. The elements of the plan are: Lift our living standards We must narrow the gap between our living standards and those in Australia, a gap which sees every Australian getting nearly $200 per week more than the average New Zealander.
+
+Improve literacy and numeracy skills We have to ensure every child leaves school able to read and write, no matter what their parents' income or where in the country they are.
+
+Reduce welfare dependency For the sake of those receiving it and those paying for it we have to end the creeping paralysis of welfare dependency. As a country we spend $20 million a day on social welfare, nearly a million dollars an hour, 365 days every year.
+
+Stop racial separatism We need to head off the dangerous drift to racial separatism and deal fairly and finally with historical grievances. We must ensure all New Zealanders are treated equally before the law.
+
+Ensure Security And we need to ensure all New Zealanders feel secure. That means not just dealing firmly with crime, drugs, gangs and vandalism, but also making sure that our relationships with new friends in Asia and old friends in Australia, the UK and the US are put on a firm footing. Resource Management Act There is ongoing and divisive debate about the Resource Management Act. It is highly complex legislation, running to more than 430 sections with a dedicated set of law reports devoted to its implications.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+For many the legislation is not bowel gripping stuff. The reality is however that it delays and defeats many worthwhile projects and actively discourages needed infrastructure development.
+
+National plans major changes to the legislation. It has undertaken to introduce a substantive amendment Bill within three months of being elected and will pass it into law within 9 months of being elected.
+
+In summary the reforms involve rebalancing several key aspects of the Act. Its public consultation provisions are open to abuse from minority groups who can impose huge costs or delays on communities; insufficient weighting is given to the rights of property owners about how their land is used; too much decision-making is devolved to councils, resulting in every council having different rules.
+
+The focus then is on four elements: \* Increase certainty and consistency \* Reduce delays in the RMA \* Limit vexatious and frivolous objections \* Streamline consent processing Achievement gaps in education grows There is an assumption that certain groups in our society have no chance of academic success, so why bother with the hard stuff. Give them material they can do without trying. Americans have coined the term 'the Soft Bigotry of Low Expectations'.
+
+The result is too many children segregated by low expectations, illiteracy and self doubts. Too many educators have certain beliefs about who can and who can't learn.
+
+The Minister recently proudly noted that more students were leaving school with qualifications since the introduction of NCEA. The better question however is - are these qualifications valid and meaningful or simply not worth the paper they are printed on.
+
+New Zealand in fact has one of the poorest rankings for 'bottom end inequality' - a measure of the extent of the difference in achievement between children at the bottom and at the middle of each country's achievement range. Only Belgium scored below New Zealand.
+
+The wide gap is reflected starkly in the PISA study, which showed that New Zealand had relatively large proportions of people in both the top-performing and low-performing categories.
+
+Other evidence supports the view that a significant performance gap exists between different groups in society: \* in 2001, fully one-third of Maori and one-quarter of Pacific Island students (versus 17% for the population as a whole) left school without a qualification \* between 69% and 72% of Maori and Pacific Island adults in the mid-1990s performed at literacy levels that are inadequate for everyday work and life in a developed society (versus 46% for all adults) \* fully one-third of those unemployed who have no Secondary School qualifications are Maori, and a further 10% are Pasifika Furthermore, surveys from the past 25 years show that New Zealand is the only country where the bottom 20% of students is getting worse!
+
+We need to get back to a belief in the concept of meritocracy and a maximising of potential rather than a subtle unintentional undermining of it.
+
+Greens & Labour will freeze roading progress Under MMP a coalition partner can effectively frustrate the policy of a government. The Greens have provided a great example of that in the last few days.
+
+The Government has announced major additional funding for roading. National has a similar policy which is focused on completing the strategic roading network in Auckland. Those key routes are: \* Northern motorway toll road \* Greenhithe Deviation \* Upper Harbour Bridge duplication \* Hobsonville Deviation \* Waterview-Rosebank eight lanes \* Te Atatu-Royal Oak six lanes \* Avondale extension (2 route options) \* Mt Roskill extension \* Manukau Harbour crossing \* Manukau extension The problem for Labour is that the Greens made it clear in their Auckland Transport policy paper released on 8 August 2005 that they simply will not support completion of the highway system.
+
+Race based tax rates A good example of affirmative action favouring Maori authorities is the reduced tax rate of 19.5%.
+
+Maori authorities include trusts and companies that administer Maori freehold land, receive and manage assets of the Treaty settlement redress process or the fisheries process, Maori Trust Boards and the Crown Forestry Rental Trust.
+
+The legislation is effective from the 2004 - 05 income year.
+
+Healthcare During the past 10 years, a crisis has been developing in residential care of the elderly. Providers are under funded and many are finding it hard to stay afloat. Nearly 40 rest homes have closed in the past two years and many others are now struggling to survive.
+
+However, it is not only the 46,000 New Zealanders who live in long term residential care every year who are affected by this funding crisis. It affects their families and those who work there too. Residential care providers give the safety, security and care that families need when their parents and grandparents become too old to live at home.
+
+The Government has chosen to ignore the elderly. Funding for aged residential care has fallen from 7% to 5% of the health budget. This underfunding has now built to crisis level - that's why we are seeing so many closures of residential care providers.
+
+The Government is well aware of this problem.
+
+Funding has not kept up with the level of care demanded by a rising entry age. Ten years ago, the average age of people in rest homes was 75. Today it is in the mid-80s. Population projections show rising numbers of elderly people. This will mean we need more residential care places - not less.
+
+As a community we need to take collective action to highlight the issues and secure a safer future for our elderly, their families, nurses and caregivers, and aged residential care providers.
+
+Auckland City Council bureaucratic encounter An architect friend was retained by a scientist who does testing for mould and fungus in buildings. She owns and occupies a small commercial unit which is part of a large, multi-storied building containing several units situated on the fringe of the central city.
+
+The brief was very simple. It was to arrange the installation of a second sink and a new bench-top in her laboratory, estimated to cost about $2,000-$3000. A visit by the architect to the Auckland City Council to uplift drainage plans, etc confirmed the need for a building consent under the new Building Act to undertake the work.
+
+Plans and specifications were required, along with a comprehensive fire report and a disability access report on the entire building, not just for her unit. The cost of the building consent will be $1,400 and the officials say it will take 1-2 months to process.
+
+Political Quote of the Week 'I did not suffer from any desire to be relieved of my responsibilities. All I wanted was compliance with my wishes after reasonable discussion" - Winston Churchill - British Prime Minister
+
+19 August 2005 No. 41
+
+Upcoming Events
+
+21 August Launch of National Party Campaign Church of Jesus Christ of Latter-Day Saints Mt Roskill Stake Conference 22 August National Tax Policy announcement 23 August Epsom Baptist Church candidates meeting 25 August Somervell Presbyterian Church Candidate Debate
+
+Eden/Epsom Campaign Launch 26 August Launch of "Millennium" Smarter Systems for a Greater Auckland - Auckland Museum. 27 August Eden Roskill RSA Market Day Chinese Painting & Calligraphy Arts Assn Members 2005 Chinese Painting & Calligraphy Exhibition Opening 28 August Politician Sunday at Eden Assembly of God Church
+
+Auckland vs Southland NPC rugby game at Eden Park 2 September 60th anniversary of National Day of Viet Nam reception Westfield Style Pasifica 2005 3 September Consortium of Tamil Assns in NZ Public Meeting 6 September Greenlane Christian Centre - Election Debate 8 September VIP Night Auckland Central Gang Show 10 September Official opening of Remuera Fire Station 11 September National Party bus in Epsom 12 September Inaugural Old Parnell School Rugby Match at Fraser Park 15-18 September Auckland Home Show 17 September Election Day
+
+Richard Worth
+
+Visit my website for more information at: www.richardworth.co.nz
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

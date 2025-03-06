@@ -1,0 +1,54 @@
+---
+slug: prime-minister-to-open-auts-sir-paul-reeves-building
+title: "Prime Minister to open AUT’s Sir Paul Reeves Building"
+date: 2013-03-22
+source-url: https://www.scoop.co.nz/stories/ED1303/S00158/prime-minister-to-open-auts-sir-paul-reeves-building.htm
+author: aut-university
+---
+Prime Minister to open AUT’s Sir Paul Reeves Building
+=====================================================
+
+**Friday, 22 March 2013, 2:20 pm**  
+**Press Release: [Auckland University of Technology](https://info.scoop.co.nz/Auckland_University_of_Technology)**
+
+**Prime Minister to open AUT’s Sir Paul Reeves Building**
+
+The Prime Minister of New Zealand, Rt Hon John Key, will formally open the Sir Paul Reeves Building at AUT’s city campus today. The building is named after the late Sir Paul Reeves, former AUT Chancellor, Governor General and Archbishop of New Zealand. Lady Reeves will also speak at the opening on behalf of the Reeves family.
+
+The new building houses the latest in learning and teaching environments. Learning outside the classroom is becoming a more significant part of education. Students go to university, not just to acquire knowledge, but to apply and communicate it. The Sir Paul Reeves Building provides spaces that facilitate collaboration outside the classroom.
+
+AUT’s Vice Chancellor Derek McCormack said that “University education used to be based in lecture theatres and laboratories. While we still need those, increasingly learning is becoming more flexible with students playing a far more active role in their own education.”
+
+“Technology is generating new ways to learn and students want more collaborative experiences. Learning can and does happen anywhere. We need buildings and learning spaces that support this approach and that are flexible enough to keep supporting its on-going evolution. This has driven the design of the Sir Paul Reeves Building.”
+
+The building was designed by architects Jasmax, following a very detailed and extensive consultation process with AUT. The result is an integrated development, linking existing facilities that ‘transform’ the city centre campus from a set of disparate buildings into a unified complex. It is also designed with sustainability in mind, using natural ventilation and daylight, low-energy lighting and sustainably-harvested timber.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+AUT’s School of Communications are housed in the new building. As appropriate for ‘The University for the Changing World’ the building is regarded as one of the most contemporary media teaching and learning spaces in this hemisphere. The 20,300m2 of new facility space created enables AUT to bring all pre-degree, undergraduate and postgraduate programmes – including advertising, digital media, journalism, public relations, radio and television –together under one very large roof. The building boasts a state-of-the-art performance, digital media and audio studios, a 380-seat lecture theatre and a high-tech media centre. The media centre provides opportunities to work with the latest technologies and lets students learn in an environment similar to a real work place.
+
+The new precinct also provides high quality specialist facilities that are bookable for public use including lecture theatres, function areas, conference facilities, performance, music or recording theatres and sound design studios for music, soundscapes and sound effects. There is also exhibition space to showcase the work of AUT students.
+
+The new Sir Paul Reeves Building demonstrates AUT University’s commitment to its students and to fostering an innovative, creative and contemporary approach to teaching and research.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Auckland University of Technology](https://info.scoop.co.nz/Auckland_University_of_Technology) on InfoPages.

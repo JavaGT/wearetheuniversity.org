@@ -1,0 +1,89 @@
+---
+slug: www-mccully-co-nz-13-april-2007
+title: "www.mccully.co.nz 13 April 2007"
+date: 2007-04-13
+source-url: https://www.scoop.co.nz/stories/PA0704/S00232/wwwmccullyconz-13-april-2007.htm
+author: new-zealand-national-party
+---
+www.mccully.co.nz 13 April 2007
+===============================
+
+**Friday, 13 April 2007, 12:46 am**  
+**Column: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+### 
+
+www.mccully.co.nz 13 April 2007
+
+_**A Weekly Report from the Keyboard of Murray McCully MP for East Coast Bays**_
+
+**Slow Learners**
+
+They just don’t get it. Having just received a merciless political smacking for thumbing their noses at the public over the Bradford Bill, Clark, Cullen and Co. are in the process of repeating exactly the same mistakes. It was bad enough that 80% of the public were opposed to the Bradford Bill.
+
+For Labour to respond by threatening, first to adopt it as a Government Bill, and then to use urgency to pass it quickly, conveyed more than a little of the obvious contempt with which they regard the public. Then, having displayed their heavy hand, they couldn’t actually carry the manoeuvres off because their support parties were too savvy to walk into the hail of political bullets that would have come their way. The ultimate lose, lose, lose scenario.
+
+Now, Clark, Cullen and their mates are headed for another political hiding. Having knowingly broken the law by using Clark’s Parliamentary budget to pay for Labour’s infamous pledge card, then having been pinged by the Auditor-General for the unlawful expenditure, their response has been to threaten to change the law and introduce state funding of political parties. The Auditor-General has confirmed that they unlawfully spent $800,000 of public money. So, thwarted on that front, Labour has prepared legislation that will give them $1,100,000 of public money instead. And they haven’t even paid back the $800,000 as promised yet. Well, that sure will show the public who’s really running this place, won’t it?
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Over many months, Clark, Cullen and Co. fought the Auditor-General’s decision over the pledge card, despite the fact that it was based on a clear and compelling Crown Law opinion – one they must have been aware of before spending the $800,000 in 2005. Week after week, Clark tried to tough it out in Parliament. It was the ultimate unwinnable argument. And observers were wondering whether this was merely a temporary loss of judgment, or something more serious.
+
+Well, now they know the answer. This is not just a temporary loss of judgement at play. This is real, deep-seated, cruising for a bruising, arrogance. It’s not so much that Labour thinks they are above the law. They think they are the law.
+
+There was a famous Parliamentary occasion where, asked to explain why she had taken actions that appeared to be outside the rules, Clark explained that by definition, if she, as Prime Minister, had done it, it was inside the rules. Clearly that is what she now believes. The flip-side of that equation, of course, carries some rather unpleasant consequences for members of the public. Until now, those members of the public had been labouring under the impression that they were ultimately the political masters, and their elected representatives the servants. But Clark is having none of that.
+
+By telling members of the public that she will, in effect, pay them back for denying her the $800,000 pledge card, by plundering over a million dollars instead, Clark and her colleagues are sending a powerful message. And all of the indications are that the public are hearing it, loud and clear.
+
+**Where Are You Sir Geoffery?**
+
+The eagerness with which Clark, Cullen and Co. have sought to re-claim the pledge card funding they have been denied, and to seek revenge on their political opponents, has seen an important convention trampled into the dirt. Parliament has a tradition of dealing with electoral legislation in a considered, open and relatively non partisan manner. Because electoral legislation carries constitutional implications, and because all parties and MPs have an obvious vested interest in it, transparency and consultation have been important. But no more.
+
+Following each general election, a Parliamentary select committee traditionally carries out a review of the election process, and recommends improvements to Parliament. The officers who carried out the election give their evidence and their advice. Members of the public have their say. And when the Government has considered the Committee’s report, legislation goes through that select committee and Parliamentary process again.
+
+Keen to hide their electoral misdemeanours, the Government shut down the select committee review process following the last election. They blocked moves to call the Chief Electoral Officer for the 2005 election, Mr David Henry, to give evidence. Mr Henry, you see, was the man who told the Labour Party, verbally and in writing, that the pledge card was an election expense. And they ignored him, using public money to exceed their maximum legal expenditure limit. So the last person the Labour Party wanted giving evidence was Mr David Henry.
+
+Instead of the normal transparent select committee process, the Labour Party has secretly trumped up a series of electoral expenditure restrictions designed to hammer their opponents, but to exclude the trade unions. Oh, and to introduce state funding for their own benefit. And Ministers are furtively creeping around Parliamentary corridors attempting to sell this fatally compromised bill of goods to the minor parties, leaking its contents to selected members of the media, whilst pointedly refusing to reveal the proposals to the National Party.
+
+In days gone by that noted constitutional expert and champion of openness and transparency, Sir Geoffery Palmer, would have been frothing at the mouth over the constitutional outrage involved. So just where is Sir Geoffery when we really need him? Sir Geoffery, it should be noted, now fills the august role of chairman of the Law Commission, lead advisor to the government on matters associated with law reform. In this capacity he has been used liberally as a commentator on legal and constitutional matters, often covering for Justice Minister Mark Burton, who the Government has found to its cost, cannot be relied upon to front on anything moderately challenging.
+
+Yet on the very topic on which he made his name as an academic, and as the Labour Party rides roughshod over a Parliamentary process he used to champion, Sir Geoffery has been strangely quiet. How can this be?
+
+  
+**The Union Money-Go-Round**
+
+The carefully leaked versions of Labour’s new electoral funding proposals are very clear about one matter: the new rules will not apply to trade unions. The Labour plan is to restrict the National Party’s ability to raise money, restrict opportunities for other organisations to run campaigns in support of the National Party or its policies, but leave the unions free to do the Labour Party’s dirty work for them. Robert Mugabe would be proud.
+
+That, in itself, would be bad enough. But it gets worse. The very same unions that the Labour Party wants to exempt from the new electoral spending rules are the very grateful recipients of…. wait for it….. yes, STATE FUNDING. Very large amounts of state funding in fact.
+
+Through an outfit called the Employment Relations Educational Contestable Fund (ERECF), around $2 million a year is dished out to a range of groups, mostly unions. That’s around $6 million each Parliamentary term. And while outfits like Business New Zealand and some employer groups get funding for particular programmes, none of them play any role in election campaigns or give money to political parties. Trade unions, who are given the bulk of the funding, do play a part in election campaigns – as donors directly to the Labour Party (which many are officially affiliated to) through direct campaign activity, and in individual electorates.
+
+So, for example, in the last year, the Engineers Union (EPMU) received $99,000, the Combined Trades Union (CTU) $457,000, the National Distribution Union $130,000, and the Service and Food Workers Union $85,000 from the public purse. These same unions happen to line up at election time to render very valuable support for the Labour Party. In fact, it is distinctly possible that the EPMU that is listed as giving $40,000 to the Labour Party last election, may not be entirely unrelated to the EPMU that received $99,000 of ERE funding from the Government.
+
+And ditto, the Distribution Union ($24,000 to the Labour Party and received $130,000 from the public purse), and the Service and Food Workers’ Union ($20,000 to Labour and received $85,000 from the state). Get the picture?
+
+So, as Labour’s proposed legislation seeks to restrict any other organisations from engaging in campaign activity, they will leave the unions free to support and fund Labour’s campaigns. And leave their bank balances well and truly lubricated with taxpayers’ cash for the purpose. We wonder what Sir Geoffery Palmer thinks about that?
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

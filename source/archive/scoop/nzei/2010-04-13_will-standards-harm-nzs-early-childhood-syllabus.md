@@ -1,0 +1,58 @@
+---
+slug: will-standards-harm-nzs-early-childhood-syllabus
+title: "Will Standards Harm NZ's Early Childhood Syllabus"
+date: 2010-04-13
+source-url: https://www.scoop.co.nz/stories/ED1004/S00021/will-standards-harm-nzs-early-childhood-syllabus.htm
+author: nzei
+---
+Will Standards Harm NZ's Early Childhood Syllabus
+=================================================
+
+**Tuesday, 13 April 2010, 12:10 pm**  
+**Press Release: [NZEI](https://info.scoop.co.nz/NZEI)**
+
+**Early Childhood Head Teacher Toni Clarke Asks “Will National Standards Affect The Way We Prepare Children For School And Compromise New Zealand’s Rich Early Childhood Curriculum?”**  
+
+When discussion and debate began around National Standards it didn’t take long for those of us in the early childhood sector to start wondering what they would mean for our youngest learners.
+
+That wonder has quickly turned to concern.
+
+Early childhood education provides the foundation for all future learning. In New Zealand it’s about setting children up to enjoy learning through exploration, inquiry and play. It is about identifying learning opportunities around each child’s natural interests and allowing them to interact with each other, their teachers and their environment.
+
+Although it may not be obvious, children’s play can be laying the foundations for maths and literacy. Painting for example teaches children about how symbols on a page can represent ideas, and how they can manipulate brushes to make symbols with meaning, just as they will later learn to write. Play in the sandpit can be teaching children about volume and shape and measuring, as well as co-operation and negotiation.
+
+Our unique and ground-breaking curriculum Te Whāriki supports all that by aiming to foster confident and competent learners.
+
+The picture that is emerging of National Standards is that they could have a prescriptive push down effect into early childhood services. There will be pressure from the compulsory education sector for children to achieve according to these new benchmarks.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+We don’t want a situation where Te Whāriki is narrowed or sidelined by National Standards or one where National Standards start to dictate how we prepare children for school. We must ensure that Te Whāriki continues to link in with the New Zealand Curriculum in schools, not a set of untried and untested National Standards.
+
+Early childhood education is not and should not be about getting children to read and write and do maths in a linear or standardised way. They need to explore and socialise, not be forced into some prescribed view of what they should and shouldn’t know at a certain age, as they prepare to go to school.
+
+Take for example a boy at my centre who became deeply interested in snails. He researched what a snail is, how a snail lives and actually was a snail for 4 or 5 months, complete with shell. Teachers at my centre were able to build on this passion to work with him and others, drawing, measuring, classifying and writing about snails. He is a great example of a child who may struggle to learn in the kind of ‘linear curriculum’ which National Standards seem to promote. The quality of learning for him would also be lost if teachers were focussing on preparing children for school to meet National Standards.
+
+Recent comments by the Education Minister to the Early Education Federation ring alarm bells.
+
+Anne Tolley said she is not planning to set a particular standard for starting school but she does think it would be useful to review Te Whāriki at some stage. She also said we need to ensure children have basic literacy and numeracy skills and we need to define and get a common understanding of what “ready for school” is. We all know that some children are more ready for school than others. What the Minister seems to be suggesting is a standardised approach where that readiness could be measured.
+
+The introduction of National Standards benchmarks for children as young as five is also likely to heighten parental anxiety and fear over the achievement of their pre-schoolers. Again this will push down onto early childhood services. It could see some misguided centres seizing on that parental anxiety and advertising classes or rote learning lessons to prepare children for school in accordance with National Standards.
+
+Already we’re hearing stories from early childhood teachers about parents wanting “homework” for their children so they can “get ahead” for starting school. A kindergarten teacher has reported being asked by parents to formally teach their children reading and writing because of National Standards. She’d also heard of a school telling parents of a four-year old doing a pre-school visit that they had already identified the child as being unlikely to meet National Standards in their first year.
+
+Schools may become choosy about what centres they want to take children from according to how they are going to perform. It could encourage a culture in which early childhood services are blamed for not preparing children well enough to meet National Standards when they get to school.
+
+This kind of thinking strikes at the very heart of quality early childhood education.
+
+**\*Toni Clarke is Head Teacher at the Otago University pre-school**  
+  
+**ENDS**
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)
+
+Find more from [NZEI](https://info.scoop.co.nz/NZEI) on InfoPages.

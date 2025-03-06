@@ -1,0 +1,121 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2007-09-06
+source-url: https://www.scoop.co.nz/stories/ED0709/S00016/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 6 September 2007, 8:26 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Sector struggling to make ends meet  
+Public tertiary-education institutions had one of their worst financial years ever in 2006, with two-thirds of them either running at a loss or generating a surplus below government guidelines. An analysis by Education Review shows that ten of thirty-one institutions ran at a loss last year, while another ten produced surpluses of between zero and 3 percent. The Tertiary Advisory Monitoring Unit guideline requires institutions to budget for an operational surplus of between 3 and 5 percent of income.  
+Institutes of Technology and Polytechnics (ITPs) fared worst, with fifteen of twenty institutions either running at a loss or failing to meet the 3 percent surplus guideline. It is understood that the figures would be worse had several of them not been financially rescued through the Quality Reinvestment Fund.  
+Education Review calculates that, combined, the ITP sector ran an overall deficit of $965,000 or $48,000 each, with the worst performers being the Western Institute of Technology and Tairawhiti Polytechnic running $5 million and $4.9 million losses respectively.  
+The National Secretary of the Association of Staff in Tertiary Education, Sharn Riggs, said that a number of the institutions had been struggling for some time as a result of the funding system and the competitive model of tertiary education. “Instead of investing in high-quality public provision of tertiary education, the Government has allowed the sector to become exposed to the interests of private needs. This has inevitably impacted on the sector’s financial viability,” she said. “We are hopeful that the current reforms will result in a better long-term strategy and financial security for the sector.”  
+ITP New Zealand Executive Director, Dave Guerin, said it is difficult to predict 2008 outcomes at this stage, but funding is obviously one of the biggest issues for the sector.  
+The financial performance of the university sector proved more solid than that of its ITP counterparts, with five of the eight returning surpluses higher than the 3 percent guideline. Only Massey ran a deficit, of $1.5 million or 0.43 percent of income. Easily the best performer was the University of Otago, with a surplus of more than $30 million (or 7 percent), up almost $10 million on the previous year.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Proceedings filed for sacked security officer  
+2\. Riot aftermath lingers  
+3\. Government threatens to step into turf war  
+4\. Government scholarships awarded  
+5\. South Island universities plan major capital works  
+6\. Curtin suit tests free speech  
+7\. Clashes, arrests at Dhaka University  
+8\. Fund to benefit only the best  
+9\. University to review President’s thesis
+
+Proceedings filed for sacked security officer  
+More legal proceedings have been filed in the Employment Relations Authority against the University of Auckland, this time challenging the dismissal of a security officer sacked without warning for losing keys while on duty. It is the second recent dismissal to be challenged at the University following the high-profile sacking of Political Science senior lecturer, Dr Paul Buchanan, in July. A third case, challenging the justification for the dismissal of another University of Auckland academic earlier in the year, is currently awaiting a hearing date.  
+In the most recent case, the guard, who has worked in the security industry for seven years, has a good work record at the University.  
+The Association of University Staff (AUS), which is taking the legal action on behalf of the guard, says that, while it cannot go into details of the case at this stage, the dismissal is being challenged both on procedural and substantive grounds. While it is acknowledged that the keys were lost, the guard had taken measures to ensure the security of the affected area and the keys were found again on the same evening. The guard had also acknowledged that the loss of keys was serious and had apologised to the University.  
+The proceedings filed by the AUS also state that the University had failed to follow its own disciplinary guidelines in dealing with the matter, and that management failed to give serious consideration to sanctions short of dismissal. The proceedings go on to say that the facts show that a warning or some other measure was warranted instead of the extreme and draconian step of dismissal.  
+This matter was not able to be resolved at mediation.
+
+Riot aftermath lingers  
+The aftermath of Dunedin’s post-“Undie-500” riot continues, with a report in the Otago Daily Times (ODT) yesterday saying that the University of Otago may face a legal challenge if it proceeds with a plan to discipline students involved in the disorder under its code of conduct. Last week, Otago’s Vice-Chancellor, Professor David Skegg, told Tertiary Update that the University would not be turning a blind eye to any of its members found to have been involved in some of the behaviour, adding that the University would be liaising with the police and taking whatever action was appropriate under the new disciplinary guidelines.  
+What has been described as a weekend of drunken disorder followed the annual Undie-500 car race between Christchurch and Dunedin organised by the University of Canterbury Engineering Society, Ensoc. Sixty-nine people, most of them students, were arrested, with charges including rioting and disorderly behaviour.  
+The University of Otago student President, Renee Heal, told the ODT that her Association was involved in discussions with New Zealand public law expert, Mai Chen, but would not reveal detail of the discussions.  
+Ms Chen told the ODT at the time of the code’s adoption last year that she believed the document was illegal and she was prepared to take a case to test it in court. She said the critical question was nexus, or the link between any student behaviour and the University. The code might be enforceable if an incident occurred on campus or during an official University interchange.  
+Ms Chen said that students had the same human rights as everyone else: the right to freedom of movement, freedom of association and freedom of expression.  
+Meanwhile, under the heading “We don’t want you”, Dunedin’s Mayor, Peter Chin, is reported in the ODT as saying that he would be exploring legal and other remedies to ensure that the Undie-500 does not take place again next year. “We don’t want you or this even in our city. You are not welcome here,” he said of the students.
+
+Government threatens to step into turf war  
+The Government has said that, if the Christchurch Polytechnic and Institute of Technology (CPIT) and Southland Institute of Technology (SIT) cannot jointly resolve issues of trades training in the Christchurch region by May 2008, then the Tertiary Education Commission (TEC) will step in and independently determine provision for 2009 and beyond.  
+The statement came in response to a series of written questions from The Press to the Minister for Tertiary Education, Dr Michael Cullen, over what has been described as a turf war over trades training. The Press says that the two institutions have been locked in a long-running battle for trades students that is set to escalate next year when the cash-strapped CPIT reintroduces fees for its trades courses. CPIT fears losing students to its rival, which charges zero fees for the same courses in Christchurch.  
+When asked why the Government continues to fund SIT in Christchurch for pre-trade students, given the direct competition between SIT and CPIT, Dr Cullen said that trades training makes up only about 20 percent of CPIT’s student-component funding. Funding of trades provision in Christchurch last year favoured CPIT by more than three to one over SIT, with 962 equivalent full-time students to 275.  
+Dr Cullen said that the Tertiary Education Commission is discussing capping Christchurch trades provision for 2008, a move that would allay immediate CPIT concerns about SIT being able to expand its provision before the issue is resolved. He also said that the TEC had supported CPIT with $11.3 million over three years to assist in reviewing its programme portfolio, its size and its design and delivery methods.  
+When asked by The Press why funding had not already been withheld from SIT for courses that were in competition to those at the CPIT, Dr Cullen said that, in determining whether competition is harmful or unnecessary, he would expect the TEC to take into account the views of students and wider stakeholders, with factors such as student choice and quality issues to be considered alongside competitive aspects of provision.
+
+Government scholarships awarded  
+Twenty-eight top New Zealand students have been awarded just under $3 million in doctoral scholarships for the next three years, while seventy-six students will receive between them $1 million in Enterprise Scholarships over the same time period.  
+The doctoral scholarships are awarded to students undertaking research in a variety of disciplines at a New Zealand or overseas tertiary institution; where the research is undertaken overseas, however, the student must return to New Zealand on completion of the scholarship for a period equal to that of the scholarship.  
+The Enterprise Scholarships encourage graduate and postgraduate students to study and research in New Zealand in partnership with New Zealand-based businesses or public organisations, such as crown research institutes.  
+In awarding the doctoral scholarships, the Tertiary Education Commission Chief Executive, Janice Shiner, said that the total investment in the country’s best and brightest scholars through the Top Achiever Doctoral Scholarships had risen to over $70 million since 1999. “These scholarships are a real investment in not only the future of these very talented individuals, but also New Zealand’s knowledge economy,” she said.  
+Ms Shiner said that there is a rich variety of research across many disciplines in this round of recipients and, taken as a whole, it is the kind of investment in research that meets the Government’s goals for tertiary education of developing a socially, culturally and economically richer, more dynamic New Zealand.
+
+South Island universities plan major capital works  
+Both the Otago and Canterbury Universities have unveiled plans over the last week for major capital works, between them worth more than $300 million. The University of Otago will spend $238 million between now and 2012, while the University of Canterbury will spend $75 million.  
+Among the plans for Otago are a new Psychology building, the redevelopment of the Hunter Centre for medical teaching and study, new aquaria and laboratories for the Zoology Department, recladding of the Microbiology building, a new computer-server room for the Physiotherapy building and the redevelopment of a former motel unit into a postgraduate residence. The University also recently bought the former Radio Network’s Albany St studio.  
+On the proposed list for the University of Canterbury is a new School of Biological Sciences, an ICT Innovation Centre, a new Data Centre, a Student Health Centre and some renovations to the former College of Education.  
+Canterbury Vice-Chancellor, Professor Roy Sharp, is reported as telling the institution’s Council that the University had been delaying capital expenditure in order to get its house in order, but was now in a position to start spending again.
+
+Worldwatch  
+Curtin suit tests free speech  
+The National Tertiary Education Union (NTEU) has commenced proceedings in the Perth Registry of the Federal Court of Australia, alleging that Curtin University has breached its collective agreement by preventing staff from receiving emails from union representatives.  
+The Union’s action follows attempts by Curtin University to censor and, in some cases, refuse to circulate emails from NTEU Curtin Branch President, Dr Jan Sinclair-Jones, to staff members. The University’s collective employment agreement allows union representatives “reasonable access” to the University’s email system to carry out union activities.  
+Dr Sinclair-Jones said that it was extraordinary that, as an institution founded on the principles of free speech, Curtin University would seek to prevent a staff representative from expressing views on University affairs to other staff. “The emails which I have sent have been measured and balanced comments on the University’s proposals for restructuring courses, changes which will impact significantly on staff and students,” she said. “Attempts by the Union to resolve this issue have failed, and it is most regrettable that the Union has had no choice but to prosecute the University to secure these rights.”  
+Dr Sinclair-Jones said there could be little doubt that the University’s attitude was a direct result of Federal Government policies aimed at undermining staff representation in the workplace. “Under the Higher Education Workplace Relations Requirements, universities can lose up to 7.5 percent of their funding unless they meet strict conditions, including limits on the rights of staff to be represented by unions,” she said.  
+Earlier this year, Federal Liberal MP, Dr Dennis Jensen, wrote to the University’s management complaining that they were allowing Dr Sinclair-Jones to send emails regarding Union business from her University email address.
+
+Clashes, arrests at Dhaka University  
+Dozens of people are reported to have been injured and many arrested in clashes between students and the police over the last fortnight at Bangladesh’s largest University, resulting in authorities cancelling classes and postponing examinations.  
+Students at Dhaka University have called for an indefinite strike in protest at the presence of the army on campus. Military forces have been there since January, when the military-backed interim Government imposed a state of emergency and banned all political activities and mass protests.  
+Among those arrested are five professors, including Professors Anwar Hossein, General Secretary of the Dhaka University Teachers’ Association, who is also the Dean of the Faculty of Biology and Molecular Sciences, and Harun-or-Rashid, Dean of Social Sciences at the University. Professors Hossein and Harun-or-Rashid have been sent to gaol after eleven days’ detention on charges of breaching emergency-power rules. They are also cited in another case for vandalising public and private properties and obstructing police from performing duties. In that case, some 6,000 unnamed students, teachers and outsiders have also been cited for damaging public and private property, obstructing police from performing duties and pelting policemen with stones on the Dhaka University campus.  
+Civil-rights activists have condemned the detention of students and professors and demanded their immediate and unconditional release from the State’s custody.  
+Meanwhile, Dhaka University management say they will sit in a week to decide on reopening the institution. Vice-Chancellor SMA Faiz said he would meet teachers to appoint acting deans for those currently in gaol. He said the Dhaka University Teachers’ Association urged him to reopen the university after the Ramadan.  
+Sourced from Reuters, the Bangladesh Daily Star and Bobby Ramakant
+
+Fund to benefit only the best  
+Australia’s Education, Science and Training Minister, Julie Bishop, has said that not every university can expect money from an $A6 billion Higher Education Endowment Fund, which she said was a mechanism intended to catapult more universities into the top 100 in the world and perhaps put two into the top ten.  
+Ms Bishop has used a function at the University of Melbourne to renew her criticisms of Australian public universities as whingeing ne’er-do-wells in the clearest indication yet that Coalition election promises are unlikely to include substantial new funding.  
+Ms Bishop said that the Higher Education Endowment Fund is intended to support the emergence of world-class institutions, and is not for renewable funding or everyday capital items. She added that universities are too dependent on government and should get better at grasping opportunities and controlling their own destinies.  
+Australia has two universities in the top 100 in the Shanghai Jiao Tong ranking, considered the most credible among university-ranking systems. This year the Australian National University ranked fifty-seventh and Melbourne University ranked seventy-ninth.  
+From The Australian
+
+University to review President’s thesis  
+Amid allegations that he plagiarised parts of his own doctoral thesis, Southern Illinois University (SIU) President Glenn Poshard has been forced to ask the department that awarded his PhD to judge whether he did anything wrong, even though that department is from his own University.  
+It has been alleged that as many as two dozen parts of Poshard’s thesis may have been lifted or improperly cited from as many as nineteen other works, according to the University’s student paper, The Daily Egyptian, and from a comparison of the thesis and original source material provided to the Chicago Tribune.  
+The material was turned over to the newspaper by an informal group called Alumni and Faculty Against Corruption at SIU.  
+Critics say that, in some instances, paragraphs appear to be lifted verbatim or borrowed heavily from other sources. Poshard stands accused of copying or improperly citing up to twenty-four sections of his 111-page dissertation on education for gifted children, but has denied any intention of plagiarising. He told the Tribune that his dissertation committee did not require quotation marks to indicate source material if it was otherwise cited.  
+The Chronicle of Higher Education reports that the University has been beset by plagiarism scandals in recent years and is still recoiling after its former Carbondale campus Chancellor was forced out less than a year ago for a plagiarism scandal of his own.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

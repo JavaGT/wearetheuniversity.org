@@ -1,0 +1,83 @@
+---
+slug: aus-tertiary-update-vol-3-no-20
+title: "AUS Tertiary Update  Vol 3, No 20"
+date: 2000-07-14
+source-url: https://www.scoop.co.nz/stories/ED0007/S00017/aus-tertiary-update-vol-3-no-20.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update Vol 3, No 20
+================================
+
+**Friday, 14 July 2000, 12:30 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+![AUS WEB SITE](http://www.aus.ac.nz/pictures/logo.gif)  
+STATISTICS THAT DAMN  
+The findings of a report into university funding in New Zealand since 1980 are no surprise to the Association of University Staff.  
+Guy Scott and Helen Scott’s report shows that over the last two decades funding has declined at an annual average rate of 2.3% per student, or $3,821 (in 1999 dollars).  
+AUS President, Neville Blampied, said that successive New Zealand governments had used an argument based on the private benefit that students received from their tertiary education to savagely reduce the amount of taxpayer subsidy per student.  
+Report findings showed the proportion of university operating revenue from the Ministry of Education fell from 73% in 1991 to 50% in 1998, while the proportion raised from student fees rose from 14% to 21% and the proportion raised from other sources rose from 13% to 29%.  
+The international comparison showed that total expenditure per EFTS ranged from almost US$20,000 in the US to just over US$3,000 in Greece. New Zealand recorded US$8,380, which was US$3,192 below that of Australia.  
+In another damning statistic, the student:staff ratio has increased by 48%, from 12.5 in 1980 to 18.4 in 1998. This ratio puts it in line with the bottom 4 of Britain’s 96 universities, where the median student:staff ratio is 12.3:1.  
+Since 1994 the proportion of academic staff in New Zealand universities has dropped from 45% of all staff, to 40%.  
+The report’s conclusions paint a dismal picture of increased staff workloads, less time available for research and student interaction, and a reduced ability to compete internationally.  
+“The recent budget announcement of a 2.3% increase for 2001 provided institutions hold their fee levels constant will do nothing to rescue the system or reverse the funding cut trends identified by this research,” said Neville Blampied.  
+“Treasury is predicting that inflation will be 2.3% in 2001 and some commercial commentators are suggesting a rate closer to 3%.”  
+The report and its accompanying tables are available on the AUS website: www.aus.ac.nz
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week:  
+1\. Otago First to Freeze Fees  
+2\. Latest on Massey ‘Repositioning’
+
+OTAGO FIRST TO FREEZE FEES  
+Otago University’s announcement that it will freeze student fees at current levels for next year makes it the first to accept the Government’s offer.  
+Tertiary institutions were offered a 2.3 percent increase in funding in the budget if they would freeze the fees.  
+Minister of Tertiary Education, Steve Maharey, said Otago was to be commended for agreeing to a freeze because the cost of fees is a barrier to study.  
+Mr Maharey says the Government will soon make a formal funding offer to institutions, and expects to know by September which ones will hold their fees.  
+The New Zealand University Students Associations (NZUSA) also welcomed Otago’s decision, saying the average annual growth in university fees in the period from 1990 to 1998 was 13.4%.  
+NZUSA Co President, Sam Huggard said other universities have a moral obligation to inform students of their intentions for 2001 fee levels.  
+“Fees need to come down, but this is a step in the right direction.”
+
+LATEST ON MASSEY ‘REPOSITIONING’  
+The second draft of ‘repositioning’ proposals for Massey University released earlier this week provided ‘cold comfort’ to staff angry about the continuing uncertainty of their jobs.  
+Under the new proposals, 307 staff positions would be affected, compared with 427 under the first proposals, and the potential number of full time equivalent positions affected is 86, compared with 116 previously. The new proposals also anticipate hiring new staff in areas of growth.  
+Association of University Staff (AUS) Massey Branch President, Associate Professor Tony Lewis, expressed disappointment that the AUS alternatives put to the Vice-Chancellor last month have been ignored.  
+“The reduction in the number of redundancies is a minor concession and should do nothing to quell the concerns of the Palmerston North community in particular. The cost of these redundancies to the community is approximately $4 million in salaries after tax, with annual flow on effects of $20 million.”  
+The second draft followed six weeks of discussions with staff, students and other interested groups, and after examining more than 330 submissions.  
+The new proposals are open to further discussion and submissions and will go before the Academic Board later this month, to then be considered at the 4 August meeting of the University Council.  
+Changes include retaining most papers in Women's Studies and German, with the possibility of sharing European Languages delivery with other universities. No options and majors will be dropped in the College of Sciences.  
+AUS representatives met yesterday with Deputy Prime Minister, Jim Anderton, to brief him on the likely effects of the forced redundancies to the region's development.
+
+WORLD WATCH  
+UNION MAIDS?  
+Staff at the University of Hong Kong can obtain a range of discounted benefits that includes Maid Insurance. The AUS also notes with astonishment that professorial appointments at the University are currently being made at a salary equivalent to $A250,000.
+
+LITTLE PROGRESS IN UK SALARY CATCH-UP  
+An initial pay negotiation meeting for the Lecturers' Common Interest Group (LCIG) saw the Universities and Colleges Employers Association (UCEA) offer 3% for post-1992 institutions, the same offer made to the pre-1992 universities.  
+The claim for post-1992 institutions included an immediate pay increase to close the 30% gap with comparable professions, a substantial reduction in the number of casual staff, improvements to conditions of employment, particularly parental leave, and discussions on the reform and updating of the national contract.  
+The employers were recommending the removal of three points on the lecturer's pay scale, making the minimum entry point start at £17,390. The employers believed this would make “entrance to academic life more attractive”.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is produced weekly on Fridays and distributed freely to members of the union and others. Back issues are archived on the AUS website:
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

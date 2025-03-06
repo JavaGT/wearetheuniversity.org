@@ -1,0 +1,136 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2007-12-06
+source-url: https://www.scoop.co.nz/stories/ED0712/S00021/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 6 December 2007, 6:33 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Natural justice not part of process, says University  
+The Employment Relations Authority has been told that the University of Auckland disestablished this country’s only full-time lectureship specialising in Māori Art History while the lecturer concerned was on sick leave and even though he had been given a written assurance that he would be fully consulted if his position was in jeopardy.  
+In a hearing last week, the Association of University Staff challenged the dismissal of Dr Rangihiroa Panoho, saying the axing of his position was unlawful not only because the University had failed to honour its commitment to consult him properly, but also because, on appointment, Dr Panoho was told that, following an initial four year appointment period, he would be given tenure until the (then) mandatory retirement age.  
+In the run-up to a restructuring in the Faculty of Arts in 2006, the Faculty’s Dean, Professor John Morrow, wrote to Dr Panoho encouraging him to give priority to improving his health, saying that, in the event of a redundancy selection process affecting his department, he would contact Dr Panoho if he was still on sick leave to discuss the process and to offer further assistance. Without further personal contact, however, Dr Panoho received a letter from the University advising that his position had been disestablished.  
+What became evident during the hearing was that the selection of those to be made redundant was based on performance-related criteria. Despite staff knowing nothing of this process, each was rated by a selection committee as exceeding expectations, meeting expectations or falling below expectations in each of the three areas of research, teaching and service.  
+Those assessments were never put to the individuals concerned, nor was there an opportunity for them to comment on or challenge any errors in their assessment prior to their positions being disestablished. To compound matters, the selection-committee members did not know affected staff, but worked off papers, in some cases submitted by potentially affected staff and, in other cases including Dr Panoho’s, prepared by management.  
+When it was put to a University Human Resources representative, Sandra Lem, that this was in breach of natural justice, she told the Employment Relations Authority that, in this instance, natural justice did not form part of the process.  
+The hearing of evidence in this matter was heard last Thursday and Friday, with final submissions expected to be made on 20 December. A decision is not expected to be made until the New Year.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Universities move towards entry restriction  
+2\. Students, others oppose restriction policy  
+3\. SIT may sue over funding cut  
+4\. New Board members for NZQA  
+5\. Council proposes joint venture for new tertiary campus  
+6\. Police withdraw riot charges  
+7\. HR iniatives fail to boost performance  
+8\. University staff pleased with higher-education line-up  
+9\. Students, staff say they were ordered to vote for Putin  
+10\. Sex, spending scandal rocks US college
+
+Universities move towards entry restriction  
+In statements which have aroused considerable disquiet this week, both the University of Auckland and Victoria University of Wellington have proposed restrictions on open entry of undergraduate students from 2009. On Monday, the University of Auckland Senate, an academic board comprising senior University management and academics, accepted a recommendation that first-year entry to the University in Arts, Science, Education and Law may be restricted from the end of next year. The recommendation will now go to the University Council for a final decision on 10 December. This was followed, on Wednesday, by Victoria University, which has indicated it may also restrict entry, saying that it will have 600 unfunded students next year at a cost of more than $4 million. Unfunded students are those for whom a university will not receive government funding.  
+The moves by the universities come a week ahead of announcements by the Tertiary Education Commission (TEC) which will set out details of the new funding arrangements for tertiary-education institutions for the next three years. The new funding arrangements reflect the current tertiary reforms and are based on the result of negotiations between individual institutions and the TEC. Vice-chancellors are understood to have argued that the proposed funding has failed to take into account expected student growth in the sector.  
+Association of University Staff National President, Professor Nigel Haworth, said it is essential that universities consider the long-term effects of any restricted-entry policy, adding that, while Auckland's rationale for restricted entry is the new funding arrangements, it may also reflect a strategy by the University to differentiate itself from other NZ universities, modelling itself on elite universities overseas. “AUS supports moves to improve quality in the university sector, but also understands the vital role played by universities in their local and regional communities and by the university system nationally”, he said. “Restricted access to universities, potentially accompanied by reduced opportunity, especially for groups such as Māori and Pasifika, may not be in New Zealand’s long-term interests. For example, if all three major university institutions in Auckland restrict entry, the Government’s drive for quality may induce significantly reduced opportunity for university education, with undesirable consequences for the regional economy and community.”  
+Professor Haworth also noted that the AUS has long argued for an integrated approach to national university provision, which might make redundant the competitive model currently driving university decision-making and replace it with a co-operative model in tune with academic endeavor and national needs.  
+Professor Haworth said that any change in entry policies must involve wide community consultation and the full disclosure of information in order that informed decisions could be made. “In Auckland’s case,” he said, “that includes an examination of how the University would continue to meet its social obligations, including prospective students from a broad variety of backgrounds being able to get access to the University. AUS will be monitoring carefully Auckland’s proposed taskforce, which is to provide ways of addressing the adverse impacts of restricted entry.”
+
+Students, others oppose restriction policy  
+Students and others have been quick to react to the University of Auckland’s move to restrict undergraduate-student entry from 2009, saying they are appalled at the rushed introduction of a proposed policy which, if adopted, will result in “elitism and competition”.  
+Auckland University Students’ Association (AUSA) Education Vice-President, David Do, said that universities should be open to all who are able and willing to study. “AUSA is appalled at the absence of consultation with students, with the proposal going through University committees at the end of the year after students have finished their study and exams,” he said. “The University has failed to meaningfully consult with key stakeholders such as students.”  
+Similarly, the New Zealand Union of Students’ Associations says the proposal represents a very real and unacceptable threat to access to tertiary education in New Zealand. “Scrapping open entry has been floated before and comprehensively rejected as discriminatory,” said Joey Randall, NZUSA Co-President. “The University of Auckland is turning to outmoded and prejudicial methods that have no place in contemporary education.”  
+For its part, the Institutes of Technology and Polytechnics of New Zealand (ITPNZ) says it strongly opposes the University of Auckland’s proposal. “New Zealand has a proud tradition of providing open access to tertiary education, including universities. That should not be changed in the Christmas rush”, said Dave Guerin, ITPNZ Executive Director. “This debate should be widened to examine the effect of restricting entry across the tertiary-education sector, as other institutions will inevitably follow Auckland’s example.”  
+Meanwhile, the Quality Public Education Coalition says it is appalled at the attempt by Auckland University to restrict entry to courses which currently have open entry, adding that it is a short-sighted and selfish policy proposal which will favour students from high-income families over students from low-income communities.  
+Green Party Education Spokesperson Metiria Turei, too, says she is dismayed at Auckland’s announcement, adding that it is using the tertiary-funding reforms as an excuse to disenfranchise thousands of students from university education, and that low income and Māori students will be at highest risk of being turned away.
+
+SIT may sue over funding cut  
+The Southern Institute of Technology is not ruling out taking legal action to recoup any losses it suffers as a result of government funding cuts, according to a report in the Southland Times.  
+Recent reports have suggested that SIT may lose as much as $8 million, or 26 percent of its funding, as a result of moves by the Tertiary Education Commission to curb out-of-region provision of courses, in this case in Christchurch where SIT and the Christchurch Polytechnic and Institute are in head-to-head competition over trade training. The funding changes signalled by the TEC would see between one-half and two-thirds of SIT’s student funding cut from its Christchurch campus, while further cuts would be made to its mixed-medium distance-education programmes.  
+The TEC Board is currently in the process of finalising its decisions on new funding, with decisions expected to be released to institutions by 14 December.  
+SIT Chief Executive Penny Simmonds is reported in the Southland Times as saying that the timing was “absolutely shocking” in terms of being able to make sensible decisions for her institution. “We have maintained with the TEC all of the way through this process that the process they have undertaken and timing of it would be fine if they were going to implement it in 2009, but it is nonsense to be hearing at this time of the year for 2008,” she said.  
+Ms Simmonds is reported as saying she hoped the TEC would have reconsidered its earlier stance. “If they haven’t and we get the same outcome \[as previously indicated\] then we’ll have to make a decision about what our actions are from then on, and obviously legal action is a possibility,” she said.  
+If the funding cuts proceed as expected, it is believed about 1300 students will be cut from the roll.
+
+New Board members for NZQA  
+The New Zealand Qualifications Authority has announced the appointment of two new Board members, Professor Scott Davidson from the University of Canterbury and Samantha Lundon, Chair of Aotearoa Māori Providers of Training, Education and Employment (AMPTEE).  
+Professor Davidson is currently Pro Vice-Chancellor and Dean of Law at the University of Canterbury. He is a former Dean of the University of Waikato Law School and a former Director of the University of Hull Law School in the United Kingdom. Professor Davidson is familiar with course design and delivery in a tertiary context and qualification quality-control processes in the New Zealand tertiary sector  
+Samantha Lundon is of Tainui descent and, as well as being Chair AMPTEE, is also Curriculum Advisor for the Ideal Success Academy, a private training establishment in South Auckland. She has served on several working groups for NZQA and the Tertiary Education Commission and is currently on the TEC Māori Reference Group.  
+Other members of the NZQA Board are Sue Suckling (Chair), Warwick Bell, Margaret Bendall, Angela Foulkes, Dr John Langley, John Morgan and Keith Taylor.
+
+Council proposes joint venture for new tertiary campus  
+The Manukau City Council is proposing a joint venture with the AUT University to help establish a new tertiary campus in the city centre which it says will fill a gap in university-education opportunities in South Auckland. The proposal appears to be one in which the Council would buy the campus site and then establish a joint-venture company with AUT. Ownership of the site would then be transferred to the new company which would be Council controlled, following which the company would lease the site to AUT and provide AUT with the opportunity to acquire an equity stake in the site.  
+The new campus would, apparently, be complementary to a joint university campus proposed for AUT and the Manukau Institute of Technology.  
+Manukau Mayor, Len Brown, says the Council sees the campus proposal as a unique opportunity to focus on the priority goal of closing the education skills gap in Manukau and to empower the city’s youth. “We have 450,000 people in the southern Auckland region, and we need direct access to a designated university,” he said. “This proposal aims to help enlarge the skills base of local people, especially young people, to provide new opportunities from next year to fill the new, often highly technical, jobs that are being created by our burgeoning industries.”  
+Mr Brown said a period of community consultation would run until 25 January 2008, following which there would be an opportunity for people to speak to submissions. The Council will make its decision on whether to proceed with the joint venture on 7 February 2008.  
+The full Statement of Proposal and submission form will be available from Council libraries, the Civic Centre and Kotuku House in Manukau Square and on the Council’s website from this Friday. It can be found at:  
+www.manukau.govt.nz
+
+Police withdraw riot charges  
+Dunedin police have withdrawn rioting charges against sixteen of those arrested in what was described at the time as a weekend of drinking and couch and car-burning following the annual student Undie 500 car race between Christchurch and Dunedin in August. Sixty-nine people were arrested in what international media described as a “vast riot”.  
+According to a report in the Otago Daily Times, the police say they did not have “quite enough” to make the riot charges, but will still charge those involved with a variety of lesser offences, mainly obstruction and disorderly behaviour. Police say they have not ruled out laying riot charges in the future should a similar circumstance arise.  
+Inspector Alastair Dickie is reported as saying he was a “wee bit disappointed”, but had withdrawn the charges on the advice of Dunedin’s Crown Law office which, although being “really supportive”, “didn’t seem confident”.  
+The Otago University Students’ Association (OUSA) has welcomed the decision to drop the rioting charges, adding that it always had faith in the court process. “We are relieved for our members and encouraged by the developments,” said Rachel Heal, OUSA President.  
+Ms Heal said that OUSA would support any students who may now be punished under the University of Otago’s Code of Conduct, which gives the University the power to discipline students for misconduct occuring away from the University premises. Ms Heal said the advice received by OUSA is that the University does not have the power to implement the Code in these circumstances.  
+University Student Services Director David Richardson said the University is awaiting the outcome of the court proceedings before deciding what action it should take.
+
+Worldwatch  
+HR iniatives fail to boost performance  
+A “massive” investment in human-resource management in the United Kingdom is apparently having no impact on universities’ overall performance, according to new research. A survey carried out on behalf of the Leadership Foundation for Higher Education has shown that, although universities’ HR directors say they now have well-integrated human resources strategies, there is no demonstrable correlation between HR activity and the overall performance of universities against standard performance indicators such as league tables.  
+Since 2000, the sector has seen an investment of £880 ($NZ2,379) million under the Government’s human-resources “rewarding and developing staff” initiative. However, HR directors responding to the survey admitted that they were not certain that the strategies they had put in place were effectively communicated to the academics who have to implement their policies and practices as line managers.  
+The report, Human Resource Management and University Performance, found that the least effective practices in higher-education HR included performance management, succession planning and managing poor performance.  
+Susan Rutherford, Chair of the Universities Personnel Association, said, however, that it is encouraging that universities overwhelmingly had a strategic HR policy in place.  
+From The Times Higher Education Supplement
+
+University staff pleased with higher-education line-up  
+The Australian National Tertiary Education Union (NTEU) has welcomed the appointmen of Julia Gillard as that country’s new Minister of Education and Senator Kim Carr as Minister for Innovation, Industry, Science and Research.  
+NTEU National President, Dr Carolyn Allport, said that, while statements made by the Australian Labor Party about universities were limited during the election campaign, the Party’s emphasis on the importance of higher education, its recognition that universities have been significantly underfunded over the last decade and its commitment to reverse this situation were significant. “In addition to implementing Labor’s current plans, future priorities need to include securing an increased and more stable funding stream that covers the full cost of providing quality teaching and research,” she said. “We need a new funding model that allows institutions to be more internationally competitive but also ensures equity for students and nurtures the public-interest role of universities.”  
+Dr Allport said it is also clear that the election had, in effect, been a referendum on industrial relations. “This was particularly contentious in the higher-education sector where we had both WorkChoices and a separate set of harsh industrial conditions tied to funding called the Higher Education Workplace Relations Requirements,” she said. “We welcome Labor’s commitment to abolishing them.”
+
+Students, staff say they were ordered to vote for Putin  
+Widespread criticism that Russia’s parliamentary elections last weekend were heavily manipulated has been echoed by Russian university students and professors this week. A number of students reported that their rectors compelled them to vote for President Putin’s United Russia party at campus polling stations, while some students said they were also threatened with expulsion for criticising the party.  
+United Russia, whose party list was headed by Mr. Putin, won an overwhelming victory amid news-media reports that election abuse may have contributed to the win.  
+One said his university made students stay in their dorms for the weekend and go to vote for United Russia at the institute’s polling station. “We were also told in different ways that if we want to graduate next year, we should not criticize the party of power,” the student said. “The demand to vote sounded like a threat that in case we do not participate in the election, we would not get paid our student stipends.”  
+Professors, too, said they were compelled to vote in an election in which low turnout would have harmed United Russia. One teacher said she was told by her deputy dean that, if she did not vote, she would not be paid her monthly salary.  
+From the Chronicle of Higher Education
+
+Sex, spending scandal rocks US college  
+The Lord works in mysterious ways, but few apparently as strange as those involving the Oral Roberts University in the United States. The Christian college with bizarrely futuristic architecture was built on God’s instructions, according to its founder, the pioneering televangelist Oral Roberts.  
+The 5300 students, who have their body fat tested regularly as part of a stern fitness regimen, are expected to attend chapel at least twice a week, keep their hair short and sign pledges not to lie, swear, gamble, drink alcohol or engage in a number of sexual activities, including homosexuality.  
+The University has, however, been rocked by recent allegations of sinful behaviour in a wrongful dismissal lawsuit filed by three professors. They accuse the University President of spending University money on himself and his family, including buying expensive cars, keeping a stable of horses on campus for the exclusive use of his children, remodelling his home eleven times in fourteen years and paying for one of his daughters to holiday in the Bahamas using the University’s private jet.  
+But the most salacious claims involve the President’s wife, who is accused of sending text messages on University ‘phones, mostly between 1.00 and 3.00 am, to “underage males”. It is alleged that a University maintenance worker was fired and replaced by one of these underage male friends and that the President’s wife spent at least nine nights in a University guest house with a sixteen-year-old.  
+CanWest News
+
+More international news  
+More international news can be found on University World News  
+http://www.universityworldnews.com/
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

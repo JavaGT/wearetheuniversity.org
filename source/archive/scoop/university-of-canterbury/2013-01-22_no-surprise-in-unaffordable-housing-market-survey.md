@@ -1,0 +1,66 @@
+---
+slug: no-surprise-in-unaffordable-housing-market-survey
+title: "No surprise in unaffordable housing market survey"
+date: 2013-01-22
+source-url: https://www.scoop.co.nz/stories/ED1301/S00053/no-surprise-in-unaffordable-housing-market-survey.htm
+author: university-of-canterbury
+---
+No surprise in unaffordable housing market survey
+=================================================
+
+**Tuesday, 22 January 2013, 4:54 pm**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+**No surprise in unaffordable housing market survey – UC economics expert**
+
+**January 23, 2012**
+
+The annual Demographia housing survey has confirmed what Christchurch and Auckland residents already knew – that housing has become increasingly unaffordable, a University of Canterbury (UC) economics lecturer said today.
+
+Home affordability in New Zealand cities deteriorated last year according to the international housing affordability survey, with average metropolitan house costing 5.3 times the average income sending them further up the severely unaffordable index.
+
+UC Senior Lecturer Dr Eric Crampton said the survey result was hardly new and the causes were reasonably well understood.
+
+\`\`Economist Arthur Grimes showed in 2010 that Auckland's metropolitan urban limit worked to inflate the price of land within the boundary.
+
+\`\`Further, the Productivity Commission's 2012 report on housing affordability showed rather convincingly that constraints imposed by Councils inflate housing prices. They do so both directly, by hindering increases in supply, and indirectly, by preventing our construction industry from achieving the kinds of economies of scale that help keep construction costs down in other countries. We wind up with housing that costs rather more than it needs to.
+
+\`\`While we are now seeing some new development on the outskirts of Christchurch, city council regulation makes it very difficult for the market to respond after the Canterbury earthquakes substantially reduced the stock of suitable housing.’’
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+While insurance was a very real constraint on new building, nothing but council regulations prevented other sorts of innovative responses, he said.
+
+UC lecturer Dr John Fountain has earlier argued that council regulations around prevented owners of larger homes from building self-contained flats into those houses, Dr Crampton said.
+
+Striking out a few lines of city council regulation could let homeowners cheaply add a flat into their houses after their children leave home, quickly bringing some needed supply into the market. Instead, the council only allowed it under rules that would have made such construction economically infeasible.
+
+\`\`When a city’s land use regulation is wrong, it’s hard for anything else to be right. And, if a city cannot build upwards or outwards, prices have to rise instead,’’ Dr Crampton said.
+
+\`\`Unfortunately, a city’s home owners often have a strong interest in the kinds of regulations that help ensure ever-increasing house prices but which work to the city’s longer term detriment. Even worse, these regulations can embed fragility into the system so that, when earthquakes happen, the market is forbidden from working to increase supply.
+
+\`\`It was encouraging to read Finance Minister Bill English’s foreword to this year’s Demographia survey. I look forward to seeing this government’s policy response to the Productivity Commission’s report. Fixing land use planning to allow more housing, both by allowing increased density within cities and by allowing our cities to expand, is probably the most important thing this government could achieve before the next election.”
+
+The survey found Auckland as the least affordable market, followed by Christchurch, Tauranga-Western Bay of Plenty, Wellington and Dunedin.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

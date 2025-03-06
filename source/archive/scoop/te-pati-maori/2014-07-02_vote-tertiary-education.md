@@ -1,0 +1,73 @@
+---
+slug: vote-tertiary-education
+title: "Vote Tertiary Education"
+date: 2014-07-02
+source-url: https://www.scoop.co.nz/stories/PA1407/S00032/vote-tertiary-education.htm
+author: te-pati-maori
+---
+Vote Tertiary Education
+=======================
+
+**Wednesday, 2 July 2014, 9:32 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Vote Tertiary Education
+
+Speech - TE URUROA FLAVELL (Co-Leader - Māori Party)
+
+Tuesday 1 July 2014; 5.30pm
+
+Kia ora tātou katoa i tēnei ahiahi. On behalf of the Māori Party I am pleased to take a call on the 2014-15 estimates for tertiary education to respond to the report of the Education and Science Committee.
+
+It would not be too much of a surprise that the Māori Party believes that if you put the learner first, everything else will fall into place for achievement for the nation and for generations to follow. If it is important to have an educated population as a precursor to economic prosperity, we say that we must address student debt at the core.
+
+Since 2012 any domestic student, after earning above $19,084, must make compulsory 12c in the dollar repayments on their student loan. The 12 percent repayment rate makes our student loan scheme one of the most regressive in the world. This compares negatively to our Australian neighbours. Their student loan repayment scheme starts at 4 percent after a graduate earns over $53,345. It is nearly three times our level.
+
+By freezing the repayment rate in New Zealand at a level below the full-time minimum wage, payments are imposed on those people who have the least ability to repay. That, for us, is a real concern. The Minister for Tertiary Education announced that he expects to save another $72.6 million over the next 4 years, because of additional funding freed up from reduced demand and the suspension of inflation adjustments. If effective, Minister Joyce, you will have to cut from our estimates $144.2 million, and in that regard the word “effective” is questionable, we suggest, as your cuts basically have cut potential students out of the tertiary education sector.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The total student debt in Aotearoa is over $13 billion and climbing, and Māori students take up over 22 percent of that total. They are also more likely to take longer to complete study, more likely to staircase from lower level to higher level qualifications over a number of years, more likely to be parents when they return to study, plus have relatives from their extended family living at home with them.
+
+They are more likely to access the student loan scheme, loans, allowances, course-related costs, and bank overdrafts, and more likely to be older, mature students who are limited in their ability to access loans and allowances.
+
+In looking at the tertiary sector, we support a student voice by and for students. We would say that they are the No. 1 stakeholder in education, and the passing of the Education (Freedom of Association) Amendment Act 2011 has further compounded the loss of voice, the loss of infrastructure, and the loss of important services that serve the student body. In fact, for Te Roopū Tauira Māori, the Māori Students Association, this action breaches Te Tiriti o Waitangi, and, from our perspective, from the Māori Party perspective, we would say that we will repeal this Act if we are given the chance.  
+We support he tauira mō ake, forever learning, because we acknowledge that many students choose to study as adults, as parents, or as grandparents. The system needs to accommodate the demand from mature students generally, and learner-centric policy to protect the mana of each student.
+
+We support professional development opportunities for staff in education and certainly in the tertiary sector to attend local and international forums, to increase research opportunities, and for learner-centric development in teaching and learning. We support the implementation of resourcing of Te Kaupapa Whaioranga, a blueprint for tertiary education.
+
+We support equal outcomes for all students to achieve in education.
+
+To end on a positive note, the Education and Science Committee also draws attention to centres of research excellence. A fund was established in 2001 to encourage the development of excellent tertiary education research. Budget 2014 includes an additional $53 million over 4 years for existing centres. The Government intends to fund four additional centres from 2016, towards an eventual total of around 10. Three of the new centres will be new funding, with the fourth being funded from existing allocations.
+
+One of the new centres will be dedicated to Māori developmental research. This was a huge win for the Māori Party—$12.45 million over 4 years to enable a Māori-focused centre of research excellence that will produce research beneficial to whanau, hapū, and iwi. It is appropriate to be talking about this today, 1 July, as this is the day that Associate Professor Tracey McIntosh has officially commenced her role as Director of Ngā Pae o Te Māramatanga, New Zealand’s indigenous centre of research excellence. She is taking over the role from Professor Te Ahukaramu Charles Royal. We acknowledge her for that achievement.
+
+Ngā Pae o Te Māramatanga consists of 12 contributing and participating research entities, and it conducts research of relevance to Māori communities as well as contributing to global indigenous research and affairs.
+
+Since 2010 their research focused on Māori economic development, fostering health and prosperous whānau, and enhancing Māori distinctiveness, particularly mātauranga Māori. Research priorities have included models for educational success, traditional child-rearing practices, Māori language revitalisation, resilience of whānau following the Christchurch earthquakes, the restoration of the marine environment following the Rena grounding in Tauranga, Māori men’s health, markers and models of flourishing whānau, and much, much more. This type of research is really important for growing our knowledge economy.
+
+I want to finish by also using the opportunity of the date of 1 July to note that today is the first official day of operation of the Whānau Ora commissioning agencies Te Pae o Matakana for the North Island and Te Pūtahitanga o Te Waipounamu and Pasifika Futures. This is yet again another key milestone achieved in the relationship accord we negotiated with the National Party to support the evolving focus and ongoing implementation of Whānau Ora.
+
+Today marks the day that their annual investment plans become operational, and this is about ensuring Whānau Ora continues its amazing momentum throughout whanau, hapū, and iwi. We believe that the Māori centre of research excellence could be a key player in enabling the stories and the successes of Whānau Ora to be available to a much broader audience, and that is why we paid so much attention to ensuring that that particular Te Pae o Te Māramatanga was included in our Budget allocation, and we are pleased to support that outcome.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

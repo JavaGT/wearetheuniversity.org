@@ -1,0 +1,133 @@
+---
+slug: donald-speech-making-a-stand-for-planet-&-people
+title: "Donald Speech: Making a Stand for Planet & People"
+date: 2005-02-14
+source-url: https://www.scoop.co.nz/stories/PA0502/S00293/donald-speech-making-a-stand-for-planet-people.htm
+author: green-party
+---
+Donald Speech: Making a Stand for Planet & People
+=================================================
+
+**Monday, 14 February 2005, 8:46 am**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+  
+Making a stand for the planet and its people
+
+Speech by Rod Donald to the Green Party Campaign Conference
+
+Sunday, 13 February, 2005, 2:20pm
+
+Thank you for being here. Your presence at this conference highlights the maturity of the Green Party. This is the first time we have provided such comprehensive training to our candidates and campaign managers. Today’s “kick-off” of the list-ranking process also marks a strengthening of our internal democracy.
+
+I would particularly like to acknowledge our managers and our standard-bearer candidates: those of you who are willing to be the public face of the Green Party in this year’s election without any expectation of becoming MPs.
+
+Your commitment is to be treasured because the message that you are giving the voters is you believe in what we stand for so much that you are willing to selflessly invest your time (and money) for the cause. Your personal endorsement is worth a lot.
+
+For those of you who are serious about becoming MPs, the last two days will have taught you (if you didn’t know already) that Parliament is no picnic and we don’t go there to eat our lunch. In fact, some days there’s no time for lunch. There are other “hardships”: men have to wear suits and we all have to play the game by a set of rules which are often archaic.
+
+But we do it because we all want to make a real difference. I believe we have a lot to offer our country. 142,250 New Zealanders shared that belief by voting for us in 2002. Our task is to convince many more Kiwis to ‘Go Green’ at this year's election.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+We’ve had a great start to the year with Jeanette’s “State of the Planet” speech. She put peak oil squarely on the political agenda, not by scaremongering but by simply setting out the facts as we see them to encourage the public and other politicians to face up to reality.
+
+Speaking the truth and asking the tough questions are hallmarks of the Green Party. We aren’t in politics just to be popular. We’re in politics because we stand for the planet and its people. And because we have positive, workable solutions to the big challenges facing our country and the world.
+
+Jeanette has outlined some of the issues we will be campaigning on. I will touch on them too but first I would like to address some of the political challenges we face in this year’s election. Top of the list is the need to demonstrate that, on the one hand, we can work with Labour and, on the other hand, we can maintain our integrity and our independence.
+
+At the last election, voters admired our principled stand on genetic engineering. Our support peaked at 13 percent in one poll because of that. But the clash with Labour over Corngate cost us votes because many of our supporters were worried that we wouldn’t be able to work together. The lesson we must learn from that experience is that while voters expect us to have different policies from Labour and to do politics differently from them, they also want to be confident that our two parties can work together co-operatively.
+
+The facts should speak for themselves but we will need to remind voters that not only did we give the Labour Government confidence and supply during its first term, but over 20 of its bills only passed with our support. And in this term, Labour’s current confidence and supply partner, United, has voted against more Government bills than we have.
+
+The positive side of that coin is Labour has relied totally on our support for more bills than it has depended on United for. What’s more, the legislation that only the Greens supported has enabled both our parties to deliver on significant policy commitments and keep faith with key constituencies. In many cases, we were able to strengthen the bills during our negotiations.
+
+A full list of these achievements will be available to candidates for the campaign but I would like to give you some idea of the difference we have made over the last two years. Without the Greens, the Government would not have been able to pass the legislation needed to implement the Kyoto Climate Change Protocol. Without the Greens, health and safety in the workplace would not be as good as it is. Without us, there would be no Maori TV or Supreme Court. And, only because of Nandor’s Bill, minor historic crimes will no longer disadvantage people’s job and other prospects because their slates can now be wiped clean.
+
+Achievements in this term don’t stop there. Our category A relationship with the Government on transport – equivalent to a coalition arrangement on that issue – is already getting freight off the roads and back on track, delivering more and better public transport and changing the mindset towards motorways. We also helped to stop both the destruction of the lower Waitaki River and Labour’s crazy plan to close hundreds of local schools.
+
+But there is an awful lot more we want to do and the political reality is that we are more likely to succeed if we join the Government or work more closely with it. Which is why we declared last year that a party vote for the Greens is a vote for a Labour-led government.
+
+That does not mean we will give Labour a blank cheque. But it does mean that we would not support a Brash Government under any circumstances and that we are committed to negotiating either a confidence and supply or a coalition agreement with Labour. Which of those two it will be will depend on circumstances after the election, including how many seats we win and whether we can agree on a common policy platform.
+
+I believe we have a responsibility, even an obligation, to reach an agreement with Labour. Several polls have indicated that Labour supporters prefer the Greens, well ahead of any other party, to be their partner, and our own members and supporters strongly express the same preference.
+
+And recent polls confirm that Labour plus the Greens would command a majority. However, those same polls show that Labour does have an alternative, and that is to rely on Winston Peters. Can you imagine Winston and his band of merry men (plus one woman) holding the balance of power? As I said in my speech responding to the Prime Minister’s statement last week, Winston’s court jester performance stole the show but you wouldn’t want him to be your King, let along your King Maker.
+
+Another risk we face is that some of our supporters may feel they need to switch to Labour if the polls are close between them and National. We need to explain to voters how MMP works, which is that as long as Labour and the Greens win more votes than National and the rest, it doesn’t matter if National wins more seats than Labour.
+
+However, on current polling, National won’t win anywhere near enough votes to make Don Brash King so, for now, we can safely ignore the threat of a National-led government and focus on running a positive campaign explaining why Kiwis are better off voting Green.
+
+It seems we are following in the successful footsteps of the German Greens. Vice Chancellor and Green MP Joschka Fischer told us this week that their overriding message in the 2002 election campaign was “everyone who wants a red-green government has to vote green”. This strategy clearly worked, with their party vote lifting from seven to nine percent, and it continues to work, with their polling currently at 11 percent.
+
+Fischer also gave us good advice on coalitions: how to negotiate them, how to make them work, and how to ensure that Green policies are implemented. The German Greens have had their debates and divisions since they joined the government in 1998 but they have proven that it is possible to be part of a stable and successful government without losing your identity.
+
+According to Fischer, the growing strength of the German Greens is because they are seen as a party of the future while the Social Democrats are fading because they are seen as a party of the past.
+
+I wouldn’t describe the New Zealand Labour Party as fading, but I would challenge them to think beyond re-election and rediscover some of the passion and vision of their forebears.
+
+In 1934, Michael Joseph Savage said “social justice must be the guiding principle, and economic organisation must adapt itself to social needs”. In 1967, Norman Kirk said “unemployment is as economically wasteful and it is socially unjust”.
+
+But today’s Labour government prefers to talk about how unemployment is the lowest it has been for several years rather than about achieving full employment. And, as Jeanette said, Labour prefers to talk about how New Zealand’s child poverty will be as low as Scandinavia rather than about eliminating it all together.
+
+When the Government is predicting an operating surplus of $5.6 billion for this financial year, it is simply unacceptable that tens of thousands of children – our next generation of workers, parents and leaders – are not getting the start in life they deserve.
+
+Kirk must be spinning in his grave. He believed that “the principal function of a government must be to ensure social and economic justice for all families, to protect their physical security and wellbeing in such a way as to assist parents to achieve an independent, secure and happy family life” and that “the family wage cannot be said to be sufficient unless it enables the employee to secure proper sustenance for himself and his family; to make provision for old age, illness, or infirmity; to acquire a moderate amount of property; to acquire a home and maintain it; to improve the cultural conditions in which he and his family live”. Leaving aside the dated language, I share Norman Kirk’s values, and I am sure most New Zealanders still do too.
+
+How does the current Labour Government measure up to Kirk’s values?
+
+Statistics New Zealand figures show that average disposable income actually decreased for 70 percent of New Zealand households between 1982 and 2001, while the income of the top 10 percent rose by 35 percent. The gap between the rich and the poor continues to widen and is 50 percent worse than it was 20 years ago.
+
+Meanwhile, the debt generation is growing because the Government is burdening our young people with student loans instead of empowering them with a taxpayer-funded education. It’s ironic that student debt appears as an asset on the crown balance sheet when, in reality, it is a liability on society.
+
+It’s no wonder that home ownership has dropped from 72.7 percent in 1986 to 67.4 percent in 2001 and is expected to be even lower after this year’s census, especially for those in the younger age brackets, those on low incomes and those from Maori and Pacific Island families.
+
+Labour has belatedly recognised there is great value in owning your own home but is still not facing up to the real reasons why this has become an impossibility for so many New Zealand families.
+
+If Labour is serious about promoting an ownership society it should look at what needs to underpin that, including an ownership economy. Instead, it is encouraging even more foreign ownership of our land, buildings and businesses, exposing us to the fickleness of global speculators and leaving us with less control over our economic destiny.
+
+The same argument applies to the Government’s free-trade agenda. Trade Minister Jim Sutton insulted tens of thousands of New Zealand workers in the House this week when he said that “it is the nature of economic progress that there is change and lower-paid, less-productive jobs give way to higher-skilled, better-paying jobs”.
+
+That statement was insulting because he was telling all those Kiwi workers who are already highly-skilled and highly-productive but on low wages that Labour doesn’t believe their jobs are worth saving.
+
+He was also perpetuating a myth that these workers will be able to get higher-skilled, better-paid jobs. How many clothing machinists are going to become computer programmers overnight?
+
+And he refuses to face up to the Government’s responsibility to protect New Zealand businesses and workers from sweatshop imports that have been made by modern-day slaves.
+
+That’s simply not good enough. Kiwis believe that everyone deserves a fair go and we will hold Labour to account for trying to undermine that.
+
+New Zealanders expect us to govern wisely in the interests of both the planet and its people. And they want to know what the future will be like for their children as much as they are concerned about the present. We will do our best to make sure Kiwis get what they deserve.
+
+We’re better prepared for the election than we have ever been before. Over fifty candidates have now been approved to stand, and sixteen have already been selected for electorates. The quality of our candidates is also superb. We have an excellent balance of experience – including the 48 years of Parliamentary experience of our eight returning MPs – and a wealth of new talent. Thirteen electorates have already paid their full three-year campaign levy, and most others are on their way. We have more policy than ever before, and no shortage of issues to campaign on.
+
+But there are no grounds for complacency, which is why we are all here. The Greens are currently polling between 4.7 and 6.9 percent, so we will have to work hard and smart to lift our vote. In 2002, we increased our support by 35 percent, and won two more seats. How much can we increase it this time?
+
+At last year’s AGM, I challenged our members to take our message to the streets. I’m pleased that many have taken this up with gusto and I know Russel has plans for even more activity to raise our profile ahead of the formal campaign.
+
+I started the political year with fellow Greens giving away reusable shopping bags to people visiting Golden Bay. Being Green isn’t some sort of election stunt we pull every three years. One of our greatest strengths is that we walk the talk, that we mean what we say. We may be disparaged by conventional politicians and commentators who write us off as zealots but I know the public respond positively to the stands we take.
+
+We have every right to be zealous about protecting the environment, about achieving fairness and justice for all people. We have every right to be passionate about peace and democracy, and we have every reason to be ourselves.
+
+In 1999, we were the sexy party. In 2002, some found us scary. This year, I want us to reinforce that we are both serious and stable. I want us to stand on our record. I want us to leave voters in no doubt that we are ready for the responsibility of government.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

@@ -1,0 +1,72 @@
+---
+slug: sale-of-liquor-(objections-to-applications)-bill
+title: "Sale of Liquor (Objections to Applications) Bill"
+date: 2010-09-29
+source-url: https://www.scoop.co.nz/stories/PA1009/S00431/sale-of-liquor-objections-to-applications-bill.htm
+author: te-pati-maori
+---
+Sale of Liquor (Objections to Applications) Bill
+================================================
+
+**Wednesday, 29 September 2010, 1:44 pm**  
+**Press Release: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Sale of Liquor (Objections to Applications) Amendment Bill  
+Second Reading**, Wednesday, 22 September 2010**  
+**Te Ururoa Flavell, MP for Waiariki**
+
+Mr Assistant Speaker, me mihi rā ki te mema ki a George Hawkins i tēnei pō. Kei te whakaae atu au ki tā te mema nei, ā, mō tana whakaaro nui ki te whakatakoto i tēnei pire ki mua i te aroaro o te Pāremata. Me mihi rā ki a ia, ko te tūmanako ia ka eke ki te taumata e wawatatia ana. Tata ki te kotahi rau tau kua hipa, i puta ēnei kōrero i tētahi o ngā rangatira o taua wā. Ko Tā Apirana Ngata tāku e kōrero nei. He kōrero e pā tonu ana ki tēnei o ngā pire. Anei tana kōrero:
+
+_“there can be no question as to the amount of damage liquor has done to the people of my race … Whether the Maori will in a generation or so become a hardened and seasoned drinker, like the incoming Europeans, I do not know … My position is clear-cut; and that is, so far as the supply of liquor to Maoris is concerned, from my youth until now I have and shall oppose it everywhere.”_
+
+Koinei tā Apirana Ngata. He nui taku pūaroha mō taua whakaaro. Ko ngā tatauranga e kī ana, tokotoru o ia whā tangata neke atu i te tekau mā waru tau te pakeke, kua tohungia he kaiinu waipiro, ā, hautoru o aua tāngata, kua tohungia he tino kino tā rātou inu waipiro. Nā ēnei tatauranga mātou e tino āwangawanga ana. E tino āwangawanga ana mātou mō ngā āhuatanga inu a ngā rangatahi, me te āhuatanga whakatairanga o tēnei ngāngara. E pūmau tonu ana mātou ki te whakapono, he nui ngā huarahi whakamāmā ake i ngā tūāhuatanga kino kua puta i tēnei mea te waipiro, e pāngia ana e Ngāi Māori. Ko tētahi huarahi kua kitea e mātou, ko te mahitahi ā-whānau nei.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Nō reira, ki te hoki ki tēnei pire, ko tā tātou ināianei, he rāhui i te tuku raihana hokohoko, i raro i te pire Sale of Liquor Act 1989. Me kī pēnei, e noho āhuareka ana mātou ki te whānuitanga o ngā whakaaro puaki kua whakatakotohia. I tērā wiki i mea atu te Kaunihera Waipiro, arā te Alcohol Advisory Committee, ki te Komiti mō ngā Take Māori, me pērā te tirohanga o te Kāwanatanga ki te kaupapa waipiro, ki tērā o te tupeka. E ai ki a Gilbert Taurua, kaiwhakahaere, strategic operations general manager, me whai tūranga teitei ake ngā take waipiro ki te taha hauora. E ai ki ngā tauira inu, nui tonu te waipiro ka unumia i roto i tētahi wā roa. He kōrero whai tikanga tēnei. Nā te iti o te utu, ngā āhuatanga whakatairanga, me te āhuatanga inu i roto i ngā hapori, kua noho kōhatu tēnei ngāngara me ōna kino katoa.
+
+Nō reira i te putanga o te pūrongo e kīa nei, ko te _Alcohol in Our Lives: Curbing the Harm_, harikoa ana mātou i te mea i tohungia ngā huarahi āwhina ki te whakakore i te āhuatanga inu waipiro. Tautoko ana mātou i ngā momo huarahi pērā i te whakaheke taumata inu waipiro inā e taraiwa ana tētahi, te whakapiki i te tau inu, otirā te rāhui hoki i ngā whakatairanga, i ngā pānui hoki mō te waipiro. E whakapono hoki ana mātou, me werohia ngā kamupene waipiro, e pēhi kino ana i wā tātou hapori. I te ao tika, i te ao pono me kī, ka kore e kite i te waipiro i waenganui i ngā hapori. Engari, i tēnei ao kikokiko nei, me aro tātou ināianei ki te āwhina i wā tātou whānau, hapori hoki, ki te tiaki i a tātou anō, ā-hauora, ā, ki te whakamāmā i ngā kino o te waipiro.
+
+Mōhio tonu ahau i te whakatau a te komiti mō tēnei rīpoata, inā ko tā rātou, kāore he take ki te tautoko i ngā mahi e kōrerohia ana i roto i tēnei rīpoata i te mea, e ahu pērā tonu ana te kāwanatanga. Hoi anō, kua whakatakētia te kaupapa a Minita Power i te mea, kāore ngā huarahi pērā i te tāke tāpiri e whakamahia ana ki te whakaiti i te inu waipiro. Ā, kua whakatakētia anō hoki te Kāwanatanga mō te kōrero noa iho mō tēnei mea te rāhui i ngā hāora mahi o ngā toa hokohoko waipiro. Nō reira, te āhua nei kāore ngā ture hōu mō te waipiro i te eke ki te taumata e tika ana, e ai ki te tā te tirohanga a ētahi.
+
+Nō reira, ka tirohia anōtia e mātou te aronga o tēnei pire, arā ki te rāhui i te tuku raihana hokohoko i raro i te Sale of Liquor Act 1989. E rata ana mātou ki te tikanga, arā, kia tuku arotakenga ia kaitono, tuatahi mō te pānga o tā rātou tono ki ngā hapori, otirā te pānga ā-moni nei, a aha rānei ki te rohe e tohungia ana. Ka rua, ko ngā tāke mō te utu, me te pānga o te waipiro ki taua rohe. Ka noho ngā arotakenga nei hei mea kitenga mō te rahinga. Otirā, e tautoko ana mātou i tēnei āhuatanga i te mea, ka kitea ngā nekenekehanga o ngā hapori ki te whakatau, me ahu pēhea rātou.
+
+Hai kōrero whakamutunga, nei au e noho whakahīhī nei, i te mea, i tae mai a Toi Te Ora, nō roto i tōku rohe o Te Waiariki, ki tētahi hui o te komiti whāiti. He rōpū hauora a Toi Te Ora. Ka āwhina tēnei rōpū i ngā tāngata toru rau mano, neke atu, i roto o Waiariki, me Waikato hoki, i Tauranga, i Whakatāne, i Ōpōtiki, i Kawerau, i Rotorua, tae atu ki Taupō. Ko tā Toi Te Ora ki te komiti, i tautoko rātou i te wāhanga hōu, 9A, mō ngā tono ā-raihana. E whakamārama ana i ngā painga me ngā utu, me whakamārama ngā raihana nei i ngā pēhitanga o te waipiro, ā-moni, ā-tāngata nei i te takiwā, ā, me tuku i ēnei kōrero ki te marea. Nō reira, nā runga i te āhuatanga o ēnei kōrero, otirā, ōku ake wheako hoki, me te hiahia o te Pāti Māori ki te rāhui i te waipiro, ki te manaaki i te oranga me te hauora o wā tātou whānau, e tautoko ana mātou i tēnei pire i tōna pānuitanga tuarua.
+
+\[_Mr Assistant Speaker, I congratulate the member George Hawkins tonight. I support the member and his great foresight in bringing this bill before Parliament, and hope that what he is seeking is fulfilled. Close to a century ago, one of our finest leaders of that period, Sir Apirana Ngata, gave a frank account relevant to this bill, and I quote:_ \]  
+
+\[_That is what Apirana Ngata said. I have great sympathy for Sir Apirana Ngata’s view. According to statistics, approximately three in every four Māori over 18 years of age identify as drinkers, with about one-third of those identifying themselves as binge drinkers. These are statistics that concern us greatly. We are especially concerned about harmful drinking amongst youth, and heavy promotion of products designed to appeal to young people. We believe that much can be done to reduce alcohol-related harm experienced by Māori. We have found a method: it is a collective whānau approach._  
+
+_So we come back to this bill. What we should do right now is to restrict the granting of on-licences and off-licences under the Sale of Liquor Act 1989. I have to say we are interested in the scope of the proposals. Last week the Alcohol Advisory Council told the Māori Affairs Committee that the Government should take a similar approach to alcohol as it does to tobacco. Strategic operations manager Gilbert Taurua said the harm caused by alcohol needs to be a higher priority in the health sector. He said Māori drinking patterns show that a large amount of alcohol is drunk over a long period of time. This was an important message. The prevalence of alcohol, its low cost, and relentless marketing have created a permissive environment in which excessive drinking has become normalised, bringing with it undue harm to our communities._  
+  
+  
+_So the Māori Party welcomed the release of the report Alcohol in Our Lives: Curbing the Harm, which gave a very clear indication of the range of measures that could be initiated to address ways to help change the drinking culture. We support various measures, which include lowering drink-driving limits, lifting the purchasing age, and limiting liquor promotion and advertising. We also believe that an alcohol industry that has had an inappropriate influence on our communities needs to be challenged. In a perfect world, alcohol would not feature in our communities, but the reality is that it does, so we now must strive towards enabling our whānau and communities to take control of their health and limit the damage that alcohol can do in their community._  
+
+_I know that the rationale of the select committee members in determining their report was to say that they thought this bill overlapped the Government’s work programme on alcohol reform, and as such they did not see it as needing to be supported. However, the package announced by Minister Power has been heavily criticised for failing to use devices such as excise tax to reduce alcohol consumption. There has also been criticism that the Government is merely tinkering around the edges with regard to restricting opening hours. Quite frankly, it appears to some that the alcohol reforms are a disappointment._  
+
+_So we look anew at the aim of this bill to restrict the granting of on-licences and off-licences under the Sale of Liquor Act 1989. We are satisfied that every application for an on-licence must be accompanied by an evaluation carried out by the applicant—firstly, for the likely social impact relating to monetary and non-monetary costs on the area to which the application relates; and, secondly, taxing the costs and impact of liquor consumption in that area. These evaluations will be available for public inspection. Indeed, we support this because communities can determine with greater transparency what is in their best interests._  
+  
+  
+_In conclusion, I am really proud that Toi Te Ora from my electorate of Te Waiariki came to a select committee hearing. Toi Te Ora is a health organisation that helps approximately 300,000 people in the Bay of Plenty and Waikato regions—Tauranga, Whakatāne, Ōpōtiki, Kawerau, and Rotorua, including Taupō. Toi Te Ora told the committee that it supports new section 9A for applications for on-licences to include an evaluation of benefits and costs. This evaluation should include the likely social impact of liquor consumption, and monetary and non-monetary costs to the area to which the application relates, and that these must be made available for public inspection. Based on this address, my personal experiences, and the desire of the Māori Party to be more vigilant in restricting alcohol use in order to take care of the well-being and health of our families, we support this bill at its second reading_.\]  
+
+ends  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

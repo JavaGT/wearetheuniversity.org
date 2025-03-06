@@ -1,0 +1,118 @@
+---
+slug: new-zealanders-first-chris-trotter-speech
+title: "New Zealanders First - Chris Trotter Speech"
+date: 2001-09-03
+source-url: https://www.scoop.co.nz/stories/PA0109/S00013/new-zealanders-first-chris-trotter-speech.htm
+author: new-zealand-first-party
+---
+New Zealanders First - Chris Trotter Speech
+===========================================
+
+**Monday, 3 September 2001, 10:24 am**  
+**Speech: [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party)**
+
+(Speech by Chris Trotter to the New Zealand First Convention, Bureta Park Convention Centre, Tauranga on Saturday, 1 September 2001)
+
+Thank you Doug for that kind introduction,
+
+When I received Winston Peters’ invitation to speak to you today I immediately thought of my good friend and co-editor, the late Bruce Jesson. NZ First fascinated Bruce – not least because it was the first explicitly patriotic party to be formed in New Zealand since the creation of the National Party in 1936. Bruce devoted his life to promoting the ideal of a truly independent New Zealand - a nation willing to cast off the constitutional, economic, and cultural shackles that have so seriously impeded its growth for more than a century – and, for a while, he was convinced that NZ First shared that ideal.
+
+NZ First also fascinated Bruce because it was willing – at least in its early years - to champion the principles of what might be called “National Capitalism”. I too was struck by this aspect of NZ First’s persona – especially after receiving a 1993 article from Winston Peters in which the name Friedrich List figured prominently. List was a 19th Century German economist who repudiated the free-trade philosophy of Adam Smith and advocated the protection of domestic industry. That Winston Peters was willing to embrace an intellectual tradition so radically at odds with the conventional economic and political wisdom of the governing elites was deeply impressive.
+
+I must also confess to being deeply impressed by the way NZ First adapted itself to the new political realities of MMP.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+This was not – I hasten to add – my initial reaction to NZ First’s decision to form a coalition with National. Like most people on the Left, I was bitterly disappointed that an agreement with Labour and the Alliance had been rejected.
+
+But, as the months passed I began to understand why Winston had done the deal with Jim Bolger. The National-NZ First Coalition fatally weakened the forces of the New Right by decisively shifting the balance of political forces towards the left – and they knew it. Had Winston Peters opted to form a coalition with Labour, the New Right would have been given a whole new lease on life.
+
+The detailed nature of the Coalition Agreement also guaranteed the rapid implementation of many of NZ First’s most progressive policies. I don’t think that many New Zealanders – even now – understand what a huge achievement free medical treatment for children under six was – and is.
+
+The current difficulties of the Alliance – whose flagship policies have yet to be implemented - indicate just how shrewdly Winston Peters’ judged the new political conditions under which all New Zealand politicians are now required to operate.
+
+I wish I could say that the leadership of the Left demonstrated as much shrewdness. Had Helen Clark wished, she could have been New Zealand’s first woman Prime Minister in 1997. Hell may have no fury like a woman scorned; but equally, Heaven is not built out of bad temper. Only belatedly, as Labour’s once warm relationship with the Greens has cooled, has Helen Clark learned what Winston Peters appears to have known all along: that in politics – especially MMP politics – never say never.
+
+Why, then, has NZ First not been held up as a positive example of MMP in action? Why was the party which kept more of its election promises than anyone since Norm Kirk and Rob Muldoon derided and disowned by everybody – from Joe Public to the Press Gallery?
+
+In part it was a matter of snobbery. NZ First had prevented the Labour Party from assuming office, and for that crime against the chattering classes Winston Peters and his cohorts had to be punished. Winston had also affronted the Wellington policy elite by inventing the position of Treasurer and then assuming its not inconsiderable powers himself.
+
+The relationship between the chattering classes and the Wellington policy elite is a deep and mysterious one - which only Colin James, Al Morrison, Jane Clifton, Linda Clark and Barry Soper truly understand. Suffice to say that it is possible to be off-side with one or the other, at any one time, and survive; but to be off-side with both of them, all the time, is almost always fatal.
+
+Snobbery, alone, however, is an insufficient explanation for NZ First’s bitter experiences in and out of Government. To answer the question: ‘What tore NZ First apart?’ we must descend to the lower levels of New Zealand’s social architecture; to the place where all of the nation’s grubby little secrets are kept hidden away. It’s an answer that everybody knows, but nobody cares to discuss: NZ First was torn apart by racial hostility.
+
+Tuku Morgan was the first to feel the blistering heat of public scorn – unleashed, and it is important to remember this, by elements of his own Tainui tribe. Of course the Labour Party – that bastion of racial sensitivity - seized upon the revelations of Morgan’s political enemies to discredit all the new occupants of the Maori seats, but this should not blind us to the fact that what drove the scandal forward was a deep – and widening - rift within Maoridom itself.
+
+To understand that rift we should turn to the latest work of Alan Webster, former Associate Professor of Education and Human Development at Massey University, and for many years one of the key co-ordinators and analysts of the New Zealand Study of Values. In his latest book, Spiral of Values Webster writes:
+
+“The dream of social and political scientists is to be able to predict events. The WVS \[World Value Study\] studies could possibly have helped predict the outcome of the troubled 1999 Seattle World Trade Organisation meeting, just as the NZSV predicted months ahead the outcome of the 1999 national election in New Zealand. The NZSV can now predict a difficult time as New Zealand struggles to ameliorate the alienation of ethnic minorities in New Zealand – alienation in the Maori case both in real terms as in ‘we were robbed’ and in spiritual terms as in ‘we are strangers within our own land’.”
+
+Why is Webster so pessimistic? The answer lies in his breakdown of the NZSV statistics.
+
+Some of the Survey’s most revealing data emerged from a question designed to elicit information on ethnic identity. The first part of the question asked: “Which one of the following best describes you?” Respondents were then asked to tick one of the following statements: “Above all, I am a Maori”; “Above all, I am a Pakeha”; “Above all, I am a European”; “Above all, I am a Pacific Islander”; “Above all, I am an Asian”; and “Above all, I am a New Zealander first, and a member of some ethnic group second”.
+
+The results were fascinating. Only half of those identifying themselves as Maori ticked the “Above all, I am a Maori” box. The other half ticked “Above all, I am a New Zealander first, and a member of some ethnic group second.”
+
+Further analysis of the Survey results indicated that those identifying themselves primarily as Maori – referred to by Webster as “Maori-Maori” - generated a highly distinctive cluster of social and political values.
+
+According to Webster: “In the arena of public values, Maori-Maori do display marked questioning of the principle of democracy as a system of government, tending to regard it as deficient in economic management, providing order in society and being indecisive.”
+
+The contrast with the other half of Maoridom is startling, while only 49% of “Maori-Maori” agreed that “Democracy is the best form of government”, the figure for “Maori New Zealanders” was 67%. Even more worrying, perhaps, is the finding that while 34% of the total sample of respondents agreed that “parents must earn the respect of their children”, the figure for “Maori-Maori” was just 16%.
+
+On the issue of the Treaty of Waitangi, the divergence between the world view of Maori-Maori and the rest of the New Zealand population was even more marked. Of the total sample of respondents only 5% agreed that the Treaty of Waitangi should be strengthened - compared to 41% of “Maori-Maori”. Predictably, only 1% of “Maori-Maori” thought the Treaty should be abolished – as compared to 33% of the total sample.
+
+Another sobering statistic to emerge from the Survey measured the level of support for revolutionary change. Taken as a whole, only 4% of respondents agreed that “our society must be radically changed by revolutionary action”. The corresponding figure for “Maori-Maori” was 13% - more than three times higher.
+
+The New Zealand Survey of Values, and Alan Webster’s analysis of its findings, casts the recent political history of NZ First in a new and highly revealing light. Clearly Winston Peters and Ron Mark identified themselves as New Zealanders first and foremost, while the so-called “Tight Five” saw themselves as being - above all - Maori. With fewer than half of Maori nationalists convinced that democracy is the best form of government, perhaps the extraordinary events of 1998-99 have finally found their explanation.
+
+The fact that only 5% of New Zealanders favour a strengthening of the Treaty of Waitangi is hardly an excuse for Maori nationalist celebration. The New Zealand Survey of Values has reported about the same number of New Zealanders in favour of socialism for many years – and yet, to date, the socialist revolution has stubbornly failed to materialise. On the other hand, only a minority of New Zealanders supported the Treasury-inspired “reforms” of 1984-96, but that did not cause Roger Douglas and Ruth Richardson to throw in the towel.
+
+Revolutionary change is often the work of minorities. If the fate of King Charles I had been put to a democratic vote he would have died with his head still firmly attached to his shoulders. Lenin’s Bolsheviks were a distinct minority within the Russian Constituent Assembly, but that did not prevent them from seizing control of their country by armed force.
+
+This, I believe, is what lies behind Alan Webster’s cautionary language. As he expresses it:
+
+“Destabilisation will be most conspicuous when the heart of the culture – in our case belief in democracy – is seriously disregarded. Such is not yet the case in New Zealand, but there are disquieting signals. Within the New Zealand data, poorer ethnic groups and to an extent those who seek support from authoritarian belief systems seem more likely to doubt the virtue of democracy. This is reflected in the varying cultural views of the superiority of a democratic system of government. Those most likely to agree or agree strongly that democracy is better were those who called themselves ‘New Zealanders’ at 79%, with ‘Europeans’ at 70%, and ‘Pakeha’ 65%. In some contrast were Pacific Islander 59% and Maori 48%. Views varied as to the effectiveness of a democratic system, its organisational competency, its ability to maintain order, and its decision-making ability. Democratic child-rearing perspectives and approaches to family and moral questions are likewise often at odds across ethnic cultures. A clear warning is posted immediately: the Polynesian sector (including Maori) which will numerically dominate the country within five decades, is approaching half unsympathetic with democracy. The values-cultures are the mindsets from which major social events arise. Let one significant change in the level of satisfaction or relative power arise, and the dynamics must take a sharp swing.”
+
+Is New Zealand’s future to be glimpsed in Fiji’s present? Is it our destiny to squander the manifold blessings of these islands in a sordid struggle for racial supremacy? Must we continue, as New Zealand novelist, Philip Temple, put it in a recent article for N.Z. Political Review: “to tell our stories, perform our haka and then wrestle with each other at the bottom of a rich man’s garden, while his guests drink cocktails and stare at us with amusement through the conservatory windows”?
+
+If we continue to shy away from the problem, I strongly suspect that Temple’s vision will indeed be our fate. Listen to these words – taken from an article by the Maori nationalist supporter, Joe Davies, and posted on tino rangatiratanga page of the ARENA website:
+
+“The Treaty of Waitangi is today the only legal basis for the presence of non-Maori settlers here in Aotearoa/NZ. Maori never gave up their rights (as the Crown claims), nor were they ever conquered, despite several attempts. If we take away the Treaty, the legal right of non-Maori people to live in this country is removed with it. The Treaty of Waitangi is actually about Pakeha rights, not Maori rights. And those rights do not include the right to rule Maori people or Maori land.”
+
+Davies’ casual disenfranchisement of 86% of the New Zealand population is merely the logical end-point of the Maori nationalist insistence that the Treaty of Waitangi be honoured in full. And it would be foolish to suppose that it does not find a sympathetic audience among Wellington policy-makers. As Colin James notes in Left Turn, a collection of essays on the 1999 election: “The Treaty of Waitangi process since 1985 has been sustained by a consensus of the Wellington political and bureaucratic elite. This has ensured the failure of a ‘redneck’ backlash.”
+
+To most of us “The Crown” is the symbol of New Zealand’s elected government, which is, in turn, representative of the New Zealand people’s will. But to the Wellington policy elite and Maori Treaty claimants, “The Crown” is something altogether different. For them, it stands for the Executive Power of the State, the Bureaucratic Machine, the Permanent Political and Economic Establishment: and you and I, as citizens, are not included within its ambit. Indeed, it is vital that the citizenry, and their parliamentary representatives, remain excluded from the Treaty settlement process – lest by democratic deliberation the “rednecks” determine a radically different approach to settling the historical grievances of Maori New Zealanders.
+
+If you doubt what I am saying, then consider these words from a former Governor-General of New Zealand, Sir Paul Reeves: “I have never been attracted by the invitation to substitute citizenship for ethnicity. So in terms of Alan Webster’s categorisation I am one of those ethnic Maori who identify as ‘above all’, a Maori’ rather than ‘above all a New Zealander’”. These are worrying sentiments to find in the mouth of the person formerly mandated with the constitutional guardianship of the rights of all New Zealand citizens.
+
+NZ First, in its determination to re-ignite the fires of electoral support, might wish to give some serious consideration to taking up the cause of constitutional reform. New Zealanders, in my view, are in urgent need of decisive leadership on this issue - and NZ First is better placed than most to lead a nationwide campaign for a democratically elected Constitutional Convention, dedicated to renovating New Zealand’s political architecture and forging a new relationship between Maori and Pakeha.
+
+Basing our future prospects as a nation on a 160-year-old document drawn up by an English naval officer, and assented to by a handful of Maori aristocrats, does not strike me as a rock-solid formula for success in the 21st Century. A better alternative might be to build our future upon the acute insight of Kiwi historian, James Belich, who argues in his book Making Peoples, that Maori and Pakeha, together, “helped each other invent their substantive identities”. We fair-skinned Polynesians are not – and never will be – “Europeans”. Just as contemporary Maori are not – and can never be again – the Maori who inhabited these islands before colonisation. Both of us are the victims of historical forces too vast for blame, too permanent for guilt.
+
+Like it or not, both of us are here to stay, and if we are to live together in anything approaching harmony, we must learn to define ourselves in a way that makes a civilized future possible. That was Bruce Jesson’s dream, it is my hope, and it is, I would suggest, NZ First’s opportunity.
+
+And it may be a lot easier than you think. Alan Webster and the New Zealand Study of Values suggest that close to half of us – Maori and Pakeha – have already settled upon a working definition – a formula which, while acknowledging ethnic difference, advances with pride our common national identity.
+
+Above all, we are New Zealanders first.
+
+\- ENDS -  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party) on InfoPages.

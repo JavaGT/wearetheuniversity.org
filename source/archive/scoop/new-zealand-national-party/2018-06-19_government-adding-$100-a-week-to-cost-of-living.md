@@ -1,0 +1,63 @@
+---
+slug: government-adding-$100-a-week-to-cost-of-living
+title: "Government adding $100 a week to cost of living"
+date: 2018-06-19
+source-url: https://www.scoop.co.nz/stories/PA1806/S00190/government-adding-100-a-week-to-cost-of-living.htm
+author: new-zealand-national-party
+---
+Government adding $100 a week to cost of living
+===============================================
+
+**Tuesday, 19 June 2018, 2:40 pm**  
+**Press Release: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Simon Bridges - Leader of the Opposition
+
+19 June 2018
+
+  
+The Government needs to start thinking about the impact of its tax and bad economic policies on Kiwi families and stop loading the costs on to their weekly bills, Opposition Leader Simon Bridges says.
+
+“The Government’s policies are costing Kiwi families over $100 a week and that’s an unacceptable burden on New Zealanders who are trying to get ahead.
+
+“The biggest immediate hit will come from the double whammy of the new petrol taxes, with the legislation to impose it progressing through Parliament this week. Nationwide petrol tax increases at the same time as a new regional fuel tax that is already being felt around the country, together adding around $15 a week to the cost of living, is too tough.
+
+“And it’s on top of already rising fuel prices. The Government needs to cancel it and get the transport agency and Auckland Council to do a lot better job of prioritising their spending.
+
+“Today we also have confirmation from the University of Otago that basic healthy food costs for a family of four in Auckland, Wellington and Dunedin increased by up to $21 a week over the past year. Much of this is due to the higher costs flowing from government policies and regulations, in addition, new fuel taxes are only going to push prices up further.
+
+“You also have rents rising by an average of $20 a week and that will only get worse as Labour drives mum and dad investors out of the housing market with its changes to tax policy and more regulation. And its restrictions on overseas investment and the increasing uncertainty around KiwiBuild policy will slow housing construction and drive prices up further.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“On top of that every middle income family is missing out on the thousand dollars a year – or $40 a week that Labour cancelled to give money to first year university students. That is money these families could have used right now.
+
+“Finally, with slowing GDP growth leaving families around $10 a week worse off, and fewer jobs being created as a result of this Government’s low growth policies, there will be fewer opportunities for New Zealanders to get ahead.
+
+“Together, these bad policies and poor priorities are leaving New Zealand families significantly worse off.
+
+“The Government can’t pretend it’s concerned about New Zealand families, particularly those on lower incomes, and then turn around and implement policies that make things worse.
+
+“They are placing themselves squarely in the firing line as the cause of cost of living increases. They need to cancel their fuel tax increase and start thinking about Kiwi families.”
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

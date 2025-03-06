@@ -1,0 +1,66 @@
+---
+slug: failed-fisheries-management-system-costing-nz-economy-and-environment-experts-say
+title: "Failed fisheries management system costing NZ economy and environment, experts say"
+date: 2017-06-15
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/failed-fisheries-management-system-costing-nz-economy-and-environment-experts-say.html
+---
+Failed fisheries management system costing NZ economy and environment, experts say
+==================================================================================
+
+15 June 2017
+
+![Commercial fishing vessel](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/failed-fisheries-management-system-costing-nz-economy-and-environment-experts-say/_jcr_content/par/textimage/image.img.jpg/1497480299215.jpg "Commercial fishing vessel")
+
+Widespread dumping and underreporting, compounded by "industry capture" and critical data gaps, are undermining the QMS, experts say
+
+Claims that New Zealand has a “world leading” system for sustainably managing fishing have been scientifically debunked, say an international team of fisheries experts in a paper published in a top United States journal.
+
+The strongly worded critique was published online this week in the official journal of the prestigious US-based National Academy of Sciences, a member organisation of top scientists.
+
+Critical gaps in fisheries data and problems with the way catch and effort data is collected mean there is a “lack of scientific data available to run the Quota Management System (QMS)”, the authors write, and this is compounded by “industry capture” of the regulator, the Ministry for Primary Industries (MPI).
+
+“Claims by MPI and the fishing industry about the excellence of the QMS simply do not match the facts,” says researcher Dr Glenn Simmons from the New Zealand Asia Institute at the University of Auckland Business School.
+
+Professor Liz Slooten from Otago University says, “The majority of New Zealand fish species are managed on the basis of fishing industry information only, such as self-reported catch and effort data, without any independent science. Many of these fisheries are doing very poorly and causing serious environmental impacts. New Zealand is failing miserably at looking after the majority of our fish stocks for the public.”
+
+The  paper’s 12 authors are researchers from the Universities of Auckland, Otago, Waikato, British Columbia, Oxford and Botswana International University of Science and Technology, and a fisheries consultant with decades of government and industry experience.
+
+Professor Steve Dawson, Head of the Department of Marine Science at the University of Otago, says the “world leading” spin on the QMS is “so often repeated that it is now earnestly believed by the majority. While the notion that New Zealand leads the world might promote a healthy spirit of innovation, it can also degenerate into smugness and complacency – such complacency is rife in MPI and among politicians.”
+
+Problems outlined in the paper include:
+
+*   Fisheries data shows management of most New Zealand fish species relies entirely on information provided by the fishing industry (for example, self-reported catches and fishing effort). Failure to collect independent scientific data is now recognised as one of the reasons why Canadian northern cod stocks were consistently over-estimated until they collapsed in 1992
+*   Three quarters of our fish stocks have no formal stock assessment at all. For example, there are no estimates of population size for warehou, either now or before fishing started. This is one of the fisheries that causes deaths of the critically endangered Maui dolphin found only in New Zealand
+*   Funding for stock assessment is about 45 percent of levels in the early 1990s; the number of QMS stocks has increased 3.5 times in that period
+*   Data on ecological impacts are inadequate for most fisheries, with observers on only 8.4 percent of fishing boats, despite repeated recommendations for government officials to increase coverage
+*   A groundbreaking 2016 study led by Dr Simmons showed that widespread illegal dumping and misreporting have distorted catch statistics for decades
+*   An independent review of the MPI’s handling of illegal fish dumping and dolphin by-catch “demonstrated industry capture of the regulator”
+
+Says Professor Dawson: “The QMS has resulted in the majority of fishing quota being bought by a small number of companies and wealthy individuals. This has been bad for small-scale fishers, bad for managing fish populations and bad for protecting the marine environment.”
+
+The paper rejects claims published in the same journal by University of Washington scientists that the QMS is a success. The authors argue these claims are based on an “untrustworthy” opinon survey that focused only on management of high value, high volume species and interviewed only seven people, five of whom worked for the fishing industry, MPI or NIWA (who do stock assessments) and two of whom were anonymous.
+
+In the paper, the experts call for “ecosystem-based” and cultural objectives to be valued, along with maintaining fish populations.
+
+Dr Fiona McCormack from Waikato University says, “For Māori, the ’business of fishing’ now largely means trading quota instead of their traditional role of guardianship over fisheries. Guardianship over the environment is very different from guardianship over quota rights.”
+
+“New Zealand now needs to focus on how to provide truly sustainable fisheries management, maximising long-term profits and minimising environmental impacts,” says Dr Simmons. “We could provide incentives for fishers to use more selective, sustainable fishing methods. We could ensure that all fish is brought back to shore, as it is in Iceland, rather than some of it being dumped at sea, which would drive real innovation in unexpected ways.”
+
+### **Notes**
+
+The authors of the paper are Professor Elisabeth Slooten, Department of Zoology, University of Otago; Dr Glenn Simmons, New Zealand Asia Institute, University of Auckland; Professor Stephen Dawson, head of Department of Marine Science at the University of Otago; Associate Professor Graeme Bremner, Botswana International University of Science and Technology; Professor Simon Thrush, head of the University of Auckland-based Institute of Marine Science; Professor Hugh Whittaker, School of Interdisciplinary Area Studies, University of Oxford; Dr Fiona McCormack, Anthropology Programme, University of Waikato; Associate Professor Bruce Robertson, Department of Zoology, University of Otago; Professor Nigel Haworth, Management and International Business, University of Auckland; Philip Clarke, Quadrat Ltd; Professor Daniel Pauly and Dr Dirk Zeller, Institute for the Oceans and Fisheries, University of British Columbia.
+
+### **Associated articles**
+
+Proceedings of the National Academy of Sciences (USA): [Evidence of bias in assessment of fisheries management impacts.](http://www.pnas.org/content/early/2017/06/07/1706544114.full)
+
+Proceedings of the National Academy of Sciences (USA) [Reply to Slooten et al.: Viewing fisheries management challenges in a global context.](http://www.pnas.org/content/early/2017/06/07/1706654114.full.pdf.)
+
+Proceedings of the National Academy of Sciences (USA). [Fisheries management impacts on target species status.](http://www.pnas.org/content/114/1/178.abstract?sid=c734db77-94bd-4236-97b3-9623bb7d7469.)
+
+Sea Around Us [\-](http://www.seaaroundus.org/doc/PageContent/OtherWPContent/Simmons+et+al+2016+-+NZ+Catch+Reconstruction+-+May+11.pdf) [New Zealand fishery catch estimated at 2.7 times more than reported: study](http://www.seaaroundus.org/doc/PageContent/OtherWPContent/Simmons+et+al+2016+-+NZ+Catch+Reconstruction+-+May+11.pdf)
+
+### **Contact**
+
+**Nicola Shepheard** Media Adviser  
+**Tel** 09 923 1515 **Mob**: 027 537 1319 **Email**: n.shepheard@auckland.ac.nz

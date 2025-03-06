@@ -1,0 +1,64 @@
+---
+slug: education-minister-aims-to-dumb-down-maori-parents
+title: "Education Minister aims to dumb down Maori parents"
+date: 2009-09-18
+source-url: https://www.scoop.co.nz/stories/PA0909/S00264/education-minister-aims-to-dumb-down-maori-parents.htm
+author: new-zealand-labour-party
+---
+Education Minister aims to dumb down Maori parents
+==================================================
+
+**Friday, 18 September 2009, 9:59 am**  
+**Press Release: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+17 September 2009  
+Media Statement
+
+Education Minister aims to dumb down Maori parents
+
+  
+Maori parents will be none the wiser on how to engage with their child’s teachers despite thousands of dollars being spent on a series of consultation meetings around the country, says Labour Associate Education Spokesperson Kelvin Davis.
+
+“Many Maori parents are intimidated by even entering some schools let alone engage teachers confidently in the language of schooling,” Kelvin Davis says.
+
+“The Minister was asked in the house today what her plans were to assist Maori parents to understand the language of education.
+
+“Her response was to say that after a series of consultation meetings they found out parents wanted to know in clear language how their children are doing at school.
+
+“Thousands have been spent to find an answer already well known, however she does nothing to address the wider issue of helping Maori parents to engage in the language of schooling which research has shown is a key factor in a child’s educational success.
+
+“The Minister doesn’t appear to be able to grasp the finer detail of educational research and from it develop deep and meaningful solutions to Maori underachievement.
+
+“She needs to do more than just tell teachers to report to parents in ‘plain English’, she has to find ways to support Maori parents to actually engage in two way conversations with teachers.
+
+“She is asking teachers to dumb down their language for parents, when she should be helping Maori parents to understand how to confidently engage with teachers, Principals and Boards of Trustees.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“They need the confidence to challenge and enquire, not simply be the recipient of dumbed down information about their child.
+
+“The Minister’s attitude demeans Maori parents.
+
+“Failure to help Maori parents to engage as equals with those in the teaching profession means many will always be at a disadvantage when it comes to helping their child navigate through the educational system,” Kelvin Davis said.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

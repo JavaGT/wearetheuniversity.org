@@ -1,0 +1,145 @@
+---
+slug: andrew-little-address-to-post-election-conference
+title: "Andrew Little address to Post-Election Conference"
+date: 2014-12-03
+source-url: https://www.scoop.co.nz/stories/PA1412/S00056/andrew-little-address-to-post-election-conference.htm
+author: new-zealand-labour-party
+---
+Andrew Little address to Post-Election Conference
+=================================================
+
+**Wednesday, 3 December 2014, 10:40 am**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Andrew Little address to the 2014 New Zealand Post-Election Conference
+
+  
+Hello and thanks for having me along today.
+
+This conference is a great opportunity to reflect on the 2014 campaign, which will surely go down as one of the most memorable and unpredictable campaigns of the modern era.
+
+New Zealand sent us a pretty clear message, and that gives Labour a lot to think about.
+
+In the Labour Party, we’ve been doing quite a lot of reflecting on the campaign already.
+
+The election result was nowhere close to what we wanted. With just 25% of the party vote, Labour has some real soul searching to do.
+
+Today I want to cover off the core lessons I think we need to learn from the campaign.
+
+I also want to highlight some areas where I think we did do well, and will be looking to build on in the future.
+
+Let’s start with the obvious.
+
+This was the fourth election in a row where our party vote fell, and the second loss in a row where our Party Vote has been below 30%.
+
+To score below 30% in back to back elections is a clear message from the electorate that Labour isn’t connecting and that we weren’t seen as a credible alternative Government.
+
+And the fact that this happened, even when the Government spent much of the campaign embroiled in scandal, shows that our approach really does need to change.
+
+I think our result comes down to four main issues:  
+Firstly, the fact that the public saw Labour as divided, ill-disciplined and focussed more on internal struggles than on their concerns.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Secondly, the public had real concerns about elements of our policy platform, especially our Capital Gains Tax and plans to raise the retirement age.  
+Our policy platform tended to be a bit cluttered and many of our policies were complicated, which made it harder for the public to digest.
+
+Thirdly, voters were deeply uncomfortable with the prospect of a coalition with Kim Dotcom, who, I think rightly, they regarded as toxic.  
+And finally, our campaign planning and organisation was hampered by a late start due to the 2013 Leadership change.
+
+In terms of the effect on the campaign, these first three issues meant that people simply did not regard us as a safe pair of hands, and the fourth issue robbed us of the opportunity to change their minds.
+
+What all of these issues have in common is that they are not just the result of decisions made during the 2014 campaign, but point to larger issues of performance over the last 10 years.
+
+Bluntly, when a party loses the trust of New Zealanders and is sent in to opposition, New Zealanders expect that party to sort itself out and rebuild that trust.
+
+It seems obvious now we hadn’t done a good enough job of that.
+
+When formulating our strategy, message and themes for the 2014, our campaign team was trying to overcome the fact that Labour was seen as negative, fractured and distracted.
+
+It was this thinking, and the need to refresh our party brand that underpinned our “Vote Positive” messages and themes.
+
+Vote Positive was about responding to the fact that not only was the public pretty cynical about Labour, they were becoming cynical about politics in general.
+
+What the campaign team found from the market research was that New Zealanders were increasingly tired of politics as usual.
+
+They didn’t feel like politicians were focussed on the things that really mattered in their lives. And this was especially true of Labour.
+
+The campaign themes for the year were selected to be focussed on things which would make the biggest impact to the daily lives of ordinary voters: their work, their homes and their families.
+
+And in these core areas, the approach was to try to focus as much as possible on practical, positive solutions to make their lives better.
+
+Now, there are some theories out there on certain blogs close to the Prime Minister, that the Vote Positive Brand was the result of a large scale conspiracy lead by master hacker Matt McCarten, who, it should be pointed out, has in the last 48 hours actually managed to lock himself out of his parliamentary email system.
+
+But the fact is that Vote Positive and the campaign themes were about trying to reconnect New Zealanders to a political system that has largely been turning them off for years.
+
+And it’s worth noting that we did actually have some success with this, despite the election result, internal polling reported positive feedback when voters saw us as focussed on issues relating directly to their lives.
+
+In any other year gaffes and distractions, of which we had more than our fair share, would have been bad enough.
+
+But in 2014 when the whole strategy rested on changing New Zealand’s perceptions that we were consumed by internal divisions and distractions, they become even more damaging.
+
+I am convinced that what New Zealanders want to see is a united, effective opposition that holds the Government to account while providing concrete, practical ideas for moving their country forward.
+
+In Campaign 2014, that’s not what they saw from Labour, and much of my work as Leader over the next few months and years will be reconnecting with New Zealanders and regaining their trust.
+
+As we look forward to this period of reconnecting, it is worth highlighting some areas of our campaign that I think did go well, and can provide us a base from which to rebuild.
+
+The first of these is our strong performance in the Māori Seats. Ten years after the Foreshore and Seabed seriously shook Labour’s relationship with Māori, the hard work of our Māori caucus and campaigners has returned a result where Labour is now once again the natural political home of Māori.
+
+This is a huge achievement, and a big responsibility which we are determined to live up to.
+
+The second area where we performed strongly was in the large strides we made in on the ground organisation, especially when it came to direct contact.
+
+Thanks to the hard work of our volunteers on the ground, in this election Labour was able to vastly increase the number of direct person to person contacts we were able to have with voters.
+
+In fact, in this election we were able to add more canvassing data to our system than the sum of all previous elections.
+
+This is an area we want to continue to build on in future. As anyone who has been following the recent Victorian Labour Party victory in their state election in Australia can see, the power of individual volunteers having personal conversations with their friends, neighbours and co-workers is a huge tool for parties like ours.
+
+The other area in which our campaign made great strides was our engagement in the digital space, with more money raised, and more volunteers recruited, through our online channels than ever before.
+
+Finally, we can take some solace in the fact that even though National ran a classically tight, negative, third term election campaign, complete with slick negative advertising and a tightly choreographed roll out of policies, they once again saw their popularity drop over the course of the campaign as they have in previous elections.
+
+Despite these bright spots however, we remain deeply disappointed in the 2014 election result, and our party now begins the hard work of making sure we never have a result like it again.
+
+New Zealand sent us a clear message, and we intend to take it on board, to change, and to regain trust.
+
+For me, this starts with being very clear about who Labour is and what we stand for.  
+It means simplifying our policy offerings so that people can more clearly see the difference we can make for them.
+
+It means reaching out beyond our traditional support base, to show all New Zealanders that we can fight, and deliver for them.
+
+As I said in my speech in Auckland on Monday, I believe that if Labour wants to be the party of working people, we need to update our definition of working people to match a world where the very nature of work is changing.  
+That’s why we will speak to people who are feeling forgotten, who feel that Labour doesn’t speak for them.
+
+We will reach out to small business owners, to people working on contracts, or who are trying to get an idea off the ground.
+
+We will deliver a clear, credible alternative to a Government that I believe is becoming arrogant and deceitful.
+
+I’m confident we can do this.  
+So, in three years, I’d like to come back here and give a very different speech.
+
+Thank you.
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

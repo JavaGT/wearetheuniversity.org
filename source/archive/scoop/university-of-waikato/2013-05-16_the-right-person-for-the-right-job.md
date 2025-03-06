@@ -1,0 +1,78 @@
+---
+slug: the-right-person-for-the-right-job
+title: "The right person for the right job"
+date: 2013-05-16
+source-url: https://www.scoop.co.nz/stories/BU1305/S00620/the-right-person-for-the-right-job.htm
+author: university-of-waikato
+---
+The right person for the right job
+==================================
+
+**Thursday, 16 May 2013, 11:41 am**  
+**Press Release: [University of Waikato](https://info.scoop.co.nz/University_of_Waikato)**
+
+  
+16 May, 2013
+
+  
+The right person for the right job
+
+  
+Some suggest that he helped England win the Rugby World Cup in 2003, but he firmly denies it. Dr Lenny Kristal could help you out of that dead end job though.
+
+Dr Kristal, co-founder and president of Cognisess Ltd, is a renowned clinical psychologist who specialises in the way people process and respond to information around them. He has developed game-based, scientifically robust assessments which can be used to find the best person for the job as much as finding the best job for the person. And based on “neuroplasticity”, Cognisess also “brain trains” individuals to help them sharpen their cognitive strengths and improve their deficits.
+
+Dr Kristal – who also works with academics at the University of California, Berkeley – is this week visiting the University of Waikato as a guest of Management School senior lecturer Dr Fabrice Desmarais, who is enlisting Dr Kristal’s help to set up a project to analyse advertising voice-overs.
+
+Dr Demarais says Dr Kristal is an acknowledged expert in cognitive and emotional responses and will provide valuable insight into the project.
+
+“I’m hoping to find out whether people like the authoritative or the soft-sell voice-over approach and which ones people prefer for different products,” he says.
+
+When South African-born Dr Kristal left school, he was told by a careers advisor he’d end up working in a factory. It set him on a path to find a better way to match people with jobs.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“I knew I would never work in a factory and from that moment on, I knew there had to be a better way of finding out where people would be best suited,” he says.
+
+He proved that careers advisor wrong by completing his PhD in Psychology at Cambridge University and followed it up with a post-doctoral fellowship at Oxford.
+
+He says he has always been interested in how people respond to information and it doesn’t really matter whether it’s as part of a sports team, in business or our personal lives.
+
+“Emotion is at the heart of most relationships,” he says.
+
+“If you are emotionally deficient in certain areas you are unlikely to recognise emotions in others.”
+
+He helped developed one of the first scientifically validated interactive Emotional Literacy (EL) tests and says business leaders can improve their performance by being taught how to recognise and develop their emotional understanding.
+
+Leaders with higher EL perform better and understand their staff better. Those staff therefore also perform better, meaning the organisation as a whole benefits.
+
+He says top performers in any particular field are able to absorb information, process it quickly and execute on that information. He hopes to prove the point as Stanford University’s Graduate School of Business will be using Cognisess technology to conduct their first ever study of the cognitive and emotional facets of a good CEO.
+
+It was that approach which attracted the attention of England rugby coach Sir Clive Woodward in the lead-up to the 2003 Rugby World Cup.
+
+Dr Kristal used online tools he’d developed to profile the players, identify key “winning” personality and cognitive attributes and create benchmark templates for the team and for ‘best-fit’ future selection purposes.
+
+That his approach worked is beyond question, with England beating Australia in the final to win the Webb Ellis Trophy for the first time.
+
+Dr Kristal is hosting a seminar at the University of Waikato on Monday, 20, May at 1pm and says he hopes to develop more relationships during his time in New Zealand and make the most of possible research collaborations with different organisations.  
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Waikato](https://info.scoop.co.nz/University_of_Waikato) on InfoPages.

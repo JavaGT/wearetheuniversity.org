@@ -1,0 +1,56 @@
+---
+slug: universities-rigorous-in-systems-to-prevent-cheating
+title: "Universities rigorous in systems to prevent cheating"
+date: 2013-05-13
+source-url: https://www.scoop.co.nz/stories/ED1305/S00079/universities-rigorous-in-systems-to-prevent-cheating.htm
+author: universities-new-zealand-te-pokai-tara
+---
+Universities rigorous in systems to prevent cheating
+====================================================
+
+**Monday, 13 May 2013, 4:21 pm**  
+**Press Release: [Universities New Zealand - Te Pokai Tara](https://info.scoop.co.nz/Universities_New_Zealand_-_Te_Pokai_Tara)**
+
+**Universities rigorous in systems to prevent cheating**  
+**  
+Monday 13 May 2013**
+
+New Zealand universities are world-class and have proven and rigorous checks and balances to deal with cheating says Universities New Zealand.
+
+Universities New Zealand Chair Professor Pat Walsh says, unfortunately, cheating is not a new problem but it is important to remember that out of the approximately 180,000 students studying at New Zealand universities, only a very small proportion are found to have cheated.
+
+“Each university has rigorous systems to prevent and detect cheating. With the rise of new technology and the development of new forms of cheating, universities need to continue to adapt their processes to address these.”
+
+In response to the recent allegations that a commercial cheating service is operating out of Auckland, Professor Walsh says that once full details are known of the scale and scope of the alleged fraud then Universities New Zealand, and the universities will address any issues.
+
+“Universities New Zealand will be working closely with the country’s universities, which will comprehensively look at the processes and protocols in place to address cheating.”
+
+“The small number of cases dealt with each year involve both domestic and international students which is why the focus is always on strengthening the protocols and processes in place. It would be wrong to conclude from this allegation that cheating is common among Chinese university students. The vast majority are honest and hardworking and are often amongst our highest achieving students.”
+
+Professor Walsh says that all of New Zealand’s universities have a multi-faceted approach to counter cheating. “Assessment requirements and methods of assessment, for instance, are changed routinely.
+
+“To complete a degree, students are expected to deliver on a range of assessment methods, in addition to assignments, including exams.”
+
+ENDS  
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Universities New Zealand - Te Pokai Tara](https://info.scoop.co.nz/Universities_New_Zealand_-_Te_Pokai_Tara) on InfoPages.

@@ -1,0 +1,13 @@
+extends ./root.pug
+block content
+    h2=title
+    if attributes['source']
+        a(href=attributes['source']) Original Post
+    h3
+        if (attributes.author-slug)
+            a(href="/author/#{post.author-slug}")=attributes.author
+        else
+            span=attributes.author
+    p= attributes.date
+    p!= content
+    //- p=JSON.stringify(attributes)

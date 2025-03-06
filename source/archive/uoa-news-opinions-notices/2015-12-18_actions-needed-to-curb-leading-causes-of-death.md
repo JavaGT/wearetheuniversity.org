@@ -1,0 +1,48 @@
+---
+slug: actions-needed-to-curb-leading-causes-of-death
+title: "Actions needed to curb leading causes of death"
+date: 2015-12-18
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/actions-needed-to-curb-leading-causes-of-death-.html
+---
+Actions needed to curb leading causes of death
+==============================================
+
+18 December 2015
+
+A large amount of death and disability could be avoided in New Zealand if a handful of proven prevention and treatment strategies were put in place.
+
+That’s the conclusion from a paper published today in the NZ Medical Journal that recommends an urgent national commitment to prevent and control heart disease, stroke, diabetes, cancers and chronic lung disease.
+
+Those are the big five non-communicable disease (NCD) killers in New Zealand causing 89 percent of all deaths each year.
+
+“Together with a wide range of people and organisations involved in NCD prevention and management, we adapted the World Health Organisation’s NCD global targets to propose a set of targets for 2025 in New Zealand,” says lead author, Professor Chris Bullen from the National Institute of Health Innovation at the University of Auckland.
+
+“The seven targets are for tobacco smoking, child overweight and obesity, salt intake, physical inactivity, alcohol consumption, saturated fat intake and health systems,” he says.
+
+The paper is the result of a Heart Foundation-led NCD symposium held in November 2014 which brought together New Zealand’s and Australia’s foremost NCD leaders to develop the targets.
+
+Professor Bullen (along with public health advocates Emeritus Professor Robert Beaglehole, Professor Michael Daube, Associate Professor Dr Gerry Devlin, Sally Hughes and Professor Boyd Swinburn), worked with others on adapting the global NCD targets in the light of progress, priorities and feasibility for New Zealand.
+
+They also proposed collaborative and feasible actions to achieve each of the targets.
+
+In 2012, an estimated 7000 New Zealanders died prematurely (under the age of 70 years) from the main five NCDs.
+
+These diseases are also the leading causes of preventable ethnic and socio-economic health inequalities in New Zealand. The recent New Zealand Health Survey shows that not only is childhood obesity at its highest ever, but the gap between the children from poorer and richer households has doubled in just one year.
+
+“This rapid increase in inequalities underlines the need for an obesity target based on reducing overall obesity prevalence and reducing inequalities, along with strategies that are regulatory rather than just educational,” says Professor Bullen.
+
+“A large proportion of the burden of death and disability caused by NCDs is potentially avoidable through cost-effective, evidence-based, preventative and treatment interventions. Some of these measures, such as tobacco control, also save costs.”
+
+On the question of political feasibility of the targets and actions to achieve them, Professor Bullen says that the most important actions for reducing childhood obesity, alcohol intake, and fat intake – taxation and marketing regulation – are not politically palatable.
+
+“The feasibility of this programme hinges on high-level political support that will ensure financial resources, people and organisational capacity and capability to implement these interventions,” he says. “Political support is also needed to ensure wider societal support, effective partnerships with a range of sectors, ongoing monitoring, strategic oversight and technical guidance.”
+
+“To attain these targets it will be vital to have collaboration among all interested parties, including iwi, Government, government ministries and agencies, local authorities, civil society, academia, not-for-profit organisations and in some cases the private sector,” says Professor Bullen.
+
+“The draft New Zealand health strategy provides an opportunity to take bold action, but makes little mention of NCD prevention, including completely overlooking the national Smokefree 2025 goal,” he says.
+
+”A wide range of groups is ready and willing to be actively engaged, and discussions on a New Zealand NCD alliance to speak with one voice on these issues is already a possibility.”
+
+The full paper is available [at this link](https://www.nzma.org.nz/journal/read-the-journal/all-issues/2010-2019/2015/vol-128-no-1427-18-december-2015/6767).
+
+For media enquiries email [Suzi Phillips at this link.](mailto:s.phillips@auckland.ac.nz)

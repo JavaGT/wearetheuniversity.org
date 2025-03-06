@@ -1,0 +1,94 @@
+---
+slug: plastic-plague-polluting-land-sea-&-our-bodies
+title: "Plastic Plague Polluting Land, Sea, & Our Bodies"
+date: 2017-06-27
+source-url: https://www.scoop.co.nz/stories/ED1706/S00092/plastic-plague-polluting-land-sea-our-bodies.htm
+author: massey-university
+---
+Plastic Plague Polluting Land, Sea, & Our Bodies
+================================================
+
+**Tuesday, 27 June 2017, 9:58 am**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+An online conference examining the social and environmental impact of mega-tonnes of plastic waste infiltrating land, oceans and our bodies is setting a clean example with its “nearly carbon neutral” format.
+
+_The Lives and After-Lives of Plastic_ conference hosted by Massey University’s Political Ecology Research Centre (PERC) brings together diverse speakers from universities, think tanks and environmental and political organisations around the world. By hosting it entirely online, organisers are ‘walking the talk’ by showcasing an innovative, sustainable approach to fostering global conversations and knowledge sharing.
+
+That’s because none of the participants need fossil fuel-guzzling long haul flights, taxis, or other prohibitive travel expenses to take part. The conference, which starts today and runs until July 14, has reduced its carbon footprint for travel-related costs by a whopping 99 per cent compared with a conventional conference, say organisers Dr Sy Taffel and Dr Trisia Farrelly from the College of Humanities and Social Sciences.
+
+The pair, part of the multidisciplinary Political Ecology Research Centre, says the conference is an exciting model for the future. They were inspired to trial it here, following the success of a similar one held last year by the Environmental Humanities Initiative at the University of California Santa Barbara, which estimated their online conference had a one per cent carbon footprint.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Academics from Norway and Denmark, Canada, the United States, Britain, Australia, the Philippines, Iceland, Germany, Spain, Italy, Switzerland and New Zealand will log on to hear presentations and join in online discussions about one of the most urgent environmental issues of our time: the profusion of plastic waste on the planet and its impact on terrestrial, aquatic and aerial ecosystems.
+
+**Plastic proliferation in last 10 years**
+
+More plastic was produced in the past decade than during the entire 20th century, say Dr Taffel, a lecturer at the School of Media Studies and Dr Farrelly, a senior lecturer in environmental anthropology in the School of People, Environment and Planning.
+
+Currently, over 300 million tonnes of plastic is produced each year but only 14 per cent is recycled.
+
+As a result, vast amounts of plastic currently accumulate within oceanic gyres (large systems of circulating ocean currents), landfills, and other environments, leading to the dire prediction that there will be more plastic than fish by weight in the world’s oceans by 2050, they say.
+
+“We have built a world in which we are reliant on plastic for our medical health and everyday functioning, and yet we are also coming to realise that the global explosion of plastic has a dark side.”
+
+One theme for the conference is the growing body of research revealing how endocrine disrupting chemicals and micro-plastics in aquatic ecosystems are impacting fauna and food safety in, often, unpredictable ways. The production, consumption, and accumulation of plastic also raise ethical questions associated with health, pollution, and inequality.
+
+The 500 billion single-use plastic bags used annually world-wide is another big issue – one that Dr Farrelly has tackled in actions such as a campaign for a plastic bag-free Friday in central Palmerston North, as well as lobbying for a national levy on single-use plastic bags. She is part of the New Zealand Product Stewardship Council, which was formed out of the Single-Use Plastic Bag Forum held by PERC and Carrying Our Future at Massey. The Council has since been instrumental in pushing for the levy and other national policy and legislation around product stewardship (including plastic bottles and tyres).
+
+**Sciences, humanities and arts unite to find answers**
+
+The conference conversations will also explore the idea that “complexities inherent in the ways in which plastic is produced, consumed, and discarded are never purely material, social, nor stable. As such, addressing the social and environmental issues surrounding plastic requires an interdisciplinary focus that crosses the traditional divisions between the sciences, social sciences, arts, and humanities.”
+
+As well as eliminating travel costs, the conference has free registration – making it accessible to academics and students from countries (including New Zealand) where universities have limited on non-existent travel budgets for conferences.
+
+Conference presentations will consist of material submitted online as a video file in the form of a webcam recording, an edited video, a PowerPoint or Prezi with recorded audio or another form of video.
+
+For each of the three weeks the conference is live, there will be one keynote speaker and several panels running. Each panel will go live on the week scheduled in the conference programme, and each panel of video presentations will be accompanied by a comments section open during the week that panel is live.
+
+Following the third week of the conference there will be a plenary discussion, with the aim of catalysing future collaborations and reflecting upon the format of the online conference, say organisers. A number of Massey University academics and students will be among the 38 presenters.
+
+Keynote speakers are:
+
+**Richard Thompson, Professor of Marine Biology, Plymouth University**
+
+Professor Thompson specialises in the ecology of shallow water habitats, with much of his work over the last decade focused on marine debris.
+
+His presentation is titled “Marine Debris: are there solutions to this global environmental problem?”  
+His research shows that nearly 700 species are known to encounter marine litter, with many reports of physical harm resulting from entanglement in and ingestion of plastic debris.
+
+**Gay Hawkins, Professor of Cultural Studies, Western Sydney University**
+
+Professor Hawkins is a Research Professor in Social and Cultural Theory at the Institute for Culture and Society, a leading interdisciplinary research centre based at Western Sydney University. Her research focuses on the interactions between environments, materials and cultures. Since 2008 a key focus of her work has been the rise of plastic as a mundane material and the profound cultural, environmental and political impacts of this material transformation.
+
+**Ian Shaw, Professor of Toxicology, University of Canterbury**
+
+Professor Shaw is an author, broadcaster and academic. He has worked in government science, the pharmaceuticals industry and in several universities, and is now Professor of Toxicology.
+
+In his presentation he will explore the effects of plastics on the environment and human health, looking at the key roles of plasticisers in plastics manufacture and their implications as sex hormone mimics for both humans and animals. He’ll outline the environmental degradation of some plastics and the degradation products’ impacts on environmental health. Finally, to strike a balance, the benefits of plastics – particularly in the food industry – will be explored. These benefits will be set in the context of the steadily increasing risk profile of many of the most commonly used plastics.
+
+Check out the conference programme here.
+
+  
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

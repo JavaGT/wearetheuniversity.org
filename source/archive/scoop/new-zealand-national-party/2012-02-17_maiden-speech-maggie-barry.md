@@ -1,0 +1,133 @@
+---
+slug: maiden-speech-maggie-barry
+title: "Maiden Speech: Maggie Barry"
+date: 2012-02-17
+source-url: https://www.scoop.co.nz/stories/PA1202/S00213/maiden-speech-maggie-barry.htm
+author: new-zealand-national-party
+---
+Maiden Speech: Maggie Barry
+===========================
+
+**Friday, 17 February 2012, 11:45 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+  
+**Maggie Barry**  
+**National MP for North Shore**  
+16 February 2011
+
+**Maiden Speech**  
+**(Check against delivery)**
+
+My boy, Joseph Vincent was named after his two grandfathers. On my side we hailed from Counties Cork and Kerry and my son’s father, Paddy Marron was born in County Monaghan. Paddy – who’s up there in the gallery next to our son Joe – arrived here in NZ from the emerald isle on the good ship Southern Cross. It was the very day of his 3rd birthday and he was clamouring for his present. His father told him that he was giving him a very special gift- a new start, a new life – in a new country.
+
+My people were farmers- this was their land of opportunity too – they were practical people who worked the land and, much like myself, were fond of reinvention and recycling.
+
+As the crow flies I haven’t come very far at all – about half a kilometre really from where I was born in Tinakori Rd. These parliamentary buildings – the precinct- were always part of the backdrop of my life. It was always my favourite shortcut into town through the leafy grounds past the statues of the great and the good.
+
+I went to Sacred Heart convent primary school across the road from here in Guildford Terrace. My family went to mass at the Basilica in Hill Street - the church where my parents were married, where I was baptised and where we held both of their funerals.
+
+My mother, Agnes was the first single woman the New South Wales bank had ever given a business loan to. She opened her florist shop, around the corner from here in Molesworth Street in 1939 - the age of the corsage and the funeral wreath and the American soldiers – all good for building what became a very successful business.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Raised on a farm in the Depression years, Mum was a hard worker- to save enough money for her first home she also ran a boarding house and as part of her wartime duty she worked nights at the glove and munitions factory. Weekends, she was a mainstay of the dig for victory vegetable garden team here in Thorndon. To borrow the Sam Hunt line – I’m the fruit of old loins. Mum had me, her only child when she was 43 and, never one to peak too early, she later learned to play golf – hitting a hole in one at the age of 72.
+
+Agnes was a remarkable and a determined woman who taught me many things, including the value of a strong work ethic, the importance of trying your best if you want to achieve the things that matter and never, ever giving up on what you really believe in. In her later years she taught me how to live in the moment, perhaps one of her greatest gifts to me.
+
+David, the old man, had a sharp mind and a quick temper. He was very fond of a drink and an argument and I learned early on to justify my point of view or keep quiet. Skills that I’m sure will come in very handy in this very chamber.
+
+Dad had falsified his age to enlist to fight in WWII. He was keen to serve his country as his father Edward had done before him at Gallipoli.
+
+I was raised to believe that in peacetime, the highest form of public service is to be a Member of Parliament. I know they’d all be very proud of me standing here today as the first politician in the family.
+
+My forbears picked this extraordinary country as the place they wanted to call home. And now my family and I have chosen to cross the harbour and be part of the North Shore community.
+
+It is a great privilege for me to be here representing them, following in the footsteps of such honourable men as George Gair and Wayne Mapp.
+
+And I’m breaking in some new ground of my own – becoming Nationals first-ever woman MP, north of the harbour bridge. I was born in the year it opened in 1959 and I can assure you we won’t be waiting around patiently for another 52 years for a second harbour crossing.
+
+The North Shore is defined by water – the glorious Waitemata harbour, the Hauraki Gulf and the freshwater playground of Lake Pupuke.
+
+Shore people work and play on the margins between the ocean and the land. We enthusiastically sail, wind surf, paddle board, swim and fish. There’s a sense of satisfaction in being different from either our big city or our rural neighbours. There’s a tangible sense that we are indeed fortunate to still be enjoying the ‘end of the golden weather’ lifestyle made famous by local playwright Bruce Mason.
+
+Laid back- yes indeed- but never lacking when it comes to energy and vision the North Shore is an unashamedly aspirational community.
+
+We have a rich cultural history and the mountains in Devonport were among the earliest areas of Auckland to be settled. Occupied by Maori from the 1300s, European settlers with their colonial architecture began arriving from the mid-1800s and there was a permanent naval presence by 1841. Gradually, farming was overtaken by shipbuilding and now tourism is a substantial source of income as appreciative visitors catch the ferry across from the city to sample the pleasures and diverse heritage of Devonport.
+
+Takapuna translates as “the rock with a spring” and against the background of some of the finest beaches in the country – springs a strong commercial drive and along with a handful of multimillion dollar businesses the North Shore is home to more than 22,000 mostly small sized businesses.
+
+Reflecting modern NZ we are a culturally diverse community with nearly 10 thousand Asians making up some 15% of our numbers. As their elected representative I pledge to do all I can to build on their successes.
+
+The North Shore people reward excellence and look after our own… and love to crow about local heroes: Sargesson, Fairburn, Tuwhare…
+
+There’s no shortage of sporting greats to celebrate: Sir Peter Blake, Dean Barker, Ian Fergusson, Ralph Roberts, Buck Shelford, Alison Roe, Kirk Penny and the Breakers, Jacko Gill… and the roll call doesn’t stop there.
+
+As the MP for North Shore I’m committed to building on that outstanding record and focusing on achieving our aim of becoming the NZ centre for high performance sport.
+
+North Harbour is already home to the Millennium Institute and I’d like to acknowledge and commend the hard work and determination of my colleague in the adjoining electorate of East Coast Bays, the Hon Murray McCully.
+
+I enthusiastically endorse the proposed National Ocean Water Sports Centre on Takapuna beach. The NOWS Centre will be a world class training facility to develop up and coming athletes across the four codes of yachting, windsurfing, kayaking and ocean swimming.
+
+The most commonly asked question I’ve encountered is; why would you leave plants for Parliament?
+
+My erstwhile colleagues in the media had a field day last year when I said I was standing for Parliament.
+
+“Gardener of the nation takes on the parliamentary jungle”; there were references to weeding out the opposition; comparisons were made between MPs and mushrooms - both thriving in perpetual darkness and nourished on manure.
+
+I’m not exactly gaining ground by the shift into politics- In last year’s Readers Digest most trustworthy professions poll : Firefighters came in first as usual -fair enough and Journalists came 38th out of 39, just above Real estate agents. Politicians didn’t even feature in the top 40… so I’m in familiar unpopular territory.
+
+I’ve known this chamber for the past 30 years as a broadcaster and as a journalist- reporting and questioning the not always so honourable members.
+
+I know first-hand from my days in Radio and TV news about the daily grind of finding news stories within tight deadlines – and while there will always be the lazy and the ill-informed as there are in any profession – I think, on the whole, the NZ media work hard, do a good job and I congratulate them.
+
+But after 30 years of being part of the tribe that reports from the side lines- asking what and why and how- I decided the time was now right for me to step inside the tent and to make a different contribution to the country that has given me so much.
+
+As well as being a strong voice for the North Shore there are also wider goals I’m aiming to achieve in my time in this place.
+
+It’s fair to say I have some experience in broadcasting and, thanks to my family, I have more than a passing interest in the health sector. After my experiences having my own son, I agreed to chair a review into NZ maternity services. My father’s death from cancer led to my involvement as patron with Hospice NZ and during my term as a member of the National Health Committee I headed a working party into palliative care. During Mum’s 10 year decline with dementia I saw with sadness, too many older people in residential care who didn’t have family around them and were without advocates to keep an eye on them. Our elderly deserve dignity and protection. I believe they have earned our respect and we certainly wouldn’t be the society we are today without their effort and wisdom.
+
+I agree with John Key that the measure of a civilised society is how we treat our vulnerable- our very young and our old and the one in five New Zealanders with disabilities.  
+Given my green fingered background and lifelong love of plants I hope that my knowledge and skills might be useful in helping to shape our environmental and conservation goals.  
+Producing and presenting the garden show for 12 years on television gave me privileged access to people’s lives. Some of them were overwhelmed and daunted by the sheer scale of the planets problems but, personally, I’ve never doubted that saving the world starts in your own backyard.
+
+I share the view of many that we are, really only the custodians of this land and the guardians – Kaitiaki of our grandchildren’s heritage.
+
+We have to be vigilant and face up to our responsibilities and our woeful environmental track record. Down the years we’ve let too many introduced pests decimate our native plants and birds. As an island nation we haven’t treated our ocean with the respect it deserves. We’ve allowed some of our waterways to become badly polluted and I want to be part of a government that puts that right.  
+As convenor of this year’s upcoming Blue Greens Forum on the shores of Lake Pupuke we’ll be making progress on these issues and I’m excited to be part of shaping the agenda for discussion around the country’s environmental and conservation concerns.
+
+I remain convinced that we can grow both our economy and manage our environment better – and that improving the economy need not and must not be at the expense of the environment. But in these troubled times we need to explore all our potential advantages –use all that famous traditional ingenuity and increase our dairy production and returns while limiting the adverse effect on our water quality.
+
+In the 20 years I had my garden tour business I travelled all over the world visiting more than a thousand gardens from Europe to China to Africa – it was a dream job and I loved many of the places I saw but New Zealand is my turanga wai wai, my ‘place to stand’.
+
+It’s then that I feel most patriotic about my homeland and, believe me, I’m not about to let anybody harm it.
+
+I intend to work very hard in my select committees of Finance and Expenditure and Local Government and Environment. I’ll personally welcome the opportunities to work constructively with politicians from other parties to secure the best outcome for the greater good.
+
+But ultimately, I didn’t want to join Labour’s ranks or become a Green party MP.
+
+I stood for National because I believe we have the right financial policies to see us through these troubled times. I agree with our goals. My Mother and Father raised me to believe that hand in hand with individual freedom comes personal responsibility; that people sometimes do need a hand up but a lifetime of hand-outs is not the answer. As a mother I’m raising my teenage son with the same values because I believe that they are as relevant today as they were when the party was founded 75 years ago. My constituents will always have my first loyalty and I will do my very best to represent their best interests.
+
+I will be a strong voice for the North Shore and I am very ambitious for my electorate. It’s a privilege to begin my service to them today as their Member of Parliament.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

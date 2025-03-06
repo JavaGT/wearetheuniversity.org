@@ -1,0 +1,54 @@
+---
+slug: waikato-continues-to-climb-global-rankings-breaks-into-new-zealands-top-three
+title: "Waikato Continues To Climb Global Rankings, Breaks Into New Zealand’s Top Three"
+date: 2024-06-05
+source-url: https://www.scoop.co.nz/stories/ED2406/S00005/waikato-continues-to-climb-global-rankings-breaks-into-new-zealands-top-three.htm
+author: waikato-university
+---
+Waikato Continues To Climb Global Rankings, Breaks Into New Zealand’s Top Three
+===============================================================================
+
+**Wednesday, 5 June 2024, 9:38 am**  
+**Press Release: [Waikato University](https://info.scoop.co.nz/Waikato_University)**
+
+**5 June 2024 -** The University of Waikato has maintained its place in the world’s top 250 universities in the latest QS World University Rankings, and has climbed a further 15 places to 235, which also places it in the top three universities in New Zealand.
+
+The University has also held onto its ranking of number one in New Zealand for research citations per faculty member for the third year in a row.
+
+University of Waikato Vice-Chancellor Professor Neil Quigley says the University’s continued climb up the world rankings is recognition of its research-intensive environment, and the global impact its research has.
+
+“Our academics are driving innovation and developing new ways of thinking about local and global challenges, and we’re proud to have this recognised on the world’s stage,” he says.
+
+Research citations per faculty member is the University’s top indicator, with a rank of 94th in the world.
+
+> Sustainability continues to be a key focus for the University. From among the 5,663 participating institutions supplying QS with sustainability metrics, Waikato is ranked in the top 100 universities globally. This is its second-highest ranking indicator.
+> 
+> “This is a measure of the social and environmental impact of the University’s teaching and research, reflecting the ability of our researchers to forge multidisciplinary collaborations within New Zealand and internationally,” Professor Quigley says.
+
+“As we continue to grow our student numbers following the pandemic, it remains critically important that we maintain our global connections and international reputation so as to ensure that we continue to be able to attract the very best staff members from the international academic community,” Professor Quigley says.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Celebrating its 60th year in 2024, the University is one of New Zealand’s youngest and smallest – context which Professor Quigley says makes this recognition particularly impressive.
+
+“We’re thrilled to be celebrating this achievement with our staff, students and wider community. Looking ahead, we remain focused on continuing to grow our reputation as a high-quality university with a commitment to sustainability and truly impactful research.”
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Waikato University](https://info.scoop.co.nz/Waikato_University) on InfoPages.

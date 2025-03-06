@@ -1,0 +1,100 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2005-06-30
+source-url: https://www.scoop.co.nz/stories/ED0506/S00084/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 30 June 2005, 12:15 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Chancellor stymies discussion on salary funding  
+University of Canterbury Chancellor, Dr Robin Mann, yesterday closed down discussion on the funding of university salaries at that University’s Council meeting, saying that employment matters were the preserve of the Vice-Chancellor, and he could not put the University Council at risk of breaching good faith. He was responding to a request from a Council member, Associate Professor Maureen Montgomery, to discuss a letter from the Association of University Staff (AUS) asking Council members to consider, at a governance level, salary-funding issues facing the sector.  
+Following the recent breakdown in collective employment agreement negotiation between vice-chancellors and university unions, AUS National President, Professor Nigel Haworth, wrote to university council members, inviting discussion and outlining moves made by AUS to have salary issues addressed, including the establishment of a high-level tripartite University Salaries Group. Arguing that sustainable salaries are the key to quality in the sector, Professor Haworth said the issue was now one of governance, and that more progress would be made towards resolution through cooperation between universities than by each university acting individually.  
+As well as refusing to consider the letter from the AUS, Dr Mann also stopped any discussion of the comparative merits of competitive and collaborative models in the sector, something, he asserted, which would inevitably drift into management areas. When asked to provide a view on the difference between management and governance, the Chancellor said he was not prepared to have that discussed during open meeting.  
+Several other Council members said that the matters raised by AUS could be discussed at governance level without getting into the detail of current negotiations or encroaching on management areas. In each case, the Chancellor refused to allow discussion. The only exception was his invitation to the Vice-Chancellor to report on the recent employment agreement negotiations.  
+AUS Canterbury Branch President, Dr David Small, said the Chancellor’s apparent inability to distinguish between governance and management raised questions about his ability to provide leadership, particularly at a time when universities face crises on both the funding and salaries fronts. “The fifty or so staff present at yesterday’s Council meeting witnessed a Chancellor who clearly fails to understand that the University’s Charter, which commits the University to collaboration, is a matter of governance,” he said. “He also denied Council the opportunity to discuss meeting with AUS officials to consider constructive, high-level solutions to the pressing issues facing the sector.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Universities attempt to prohibit AUS communicating with councils  
+2\. Summit demands an end to student debt  
+3\. Victoria Council supports salary funding initiatives  
+4\. Wananga supporters to march on Parliament  
+5\. Market forces to determine science courses  
+6\. Australian funding slides  
+7\. Teaching-only numbers increase
+
+Universities attempt to prohibit AUS communicating with councils  
+Auckland and Massey Universities have told the AUS that it is neither to write to, nor meet with their respective Council members to discuss salary funding issues, asserting that such communication is in breach of the Employment Relations Act. This follows their receipt of the letter from AUS National President, Professor Nigel Haworth, described in the story above, containing his offer to meet with councils to discuss the issues facing the sector at a governance level.  
+Victoria University Chancellor Tim Beaglehole also wrote to AUS, saying that it is not appropriate for the Council to be involved, and not its role to engage with the unions on any aspect of bargaining. A University of Otago representative has complained, not to AUS but to another union.  
+University of Auckland Human Resources Director, Kath Clarke, contends that the letter fails to recognise the role and authority of the University’s representatives at the negotiation, attempts to undermine that authority and also undermines the bargaining. She then instructed AUS not to contact Council members.  
+In a similar letter Peter Chemiss, a partner in the law firm Buddle Findlay acting for Massey University, claimed there could be little doubt that writing to Council members in “this vein” is in breach of the Employment Relations Act. He sought an assurance from AUS that it would desist from writing such letters to Council members, or meeting with them to discuss bargaining.  
+AUS General Secretary Helen Kelly has responded to Auckland management, saying that it is the union’s right to communicate with the Council, and that the Employment Relations Act actually protects its right to communicate reasonably-held opinion. “Your attempt to prevent \[communications with\] the Council will not be complied with,” she wrote.  
+In a letter to Massey University Council members, Helen Kelly said she was surprised to have received its complaint, and wanted to emphasis that Professor Haworth’s letter was a genuine attempt to discuss the governance issues around the future direction of the sector, and to engage constructively with councils in an effort to try and improve quality and funding.  
+The letters are all available on the AUS website: www.aus.ac.nz
+
+Summit demands an end to student debt  
+Student representatives from across the country will gather in Auckland tomorrow for a three-day summit calling for an end to student debt. It is the first such summit since the last General Election, and will plan the students’ election campaign, aimed at ensuring that the tackling of student debt is a key election issue.  
+Included amongst the summit events will be a panel of representatives from seven political parties addressing the question of solving the country’s $7 billion student-debt problem. The Minister of Education, Trevor Mallard, will speak on Sunday afternoon.  
+New Zealand University Students’ Association Co-President, Camilla Belich, said that the current Government had done little to ease the student-debt crisis during the past six years, and neither of the main political parties had outlined what they would do to tackle the crisis. “We are sick of being ignored,” she said. “Students know the answer to the $7 billion student-debt crisis, what we are looking for is political parties who are willing to listen.”  
+Greg Langton, President of the Auckland University Students’ Association, said that high fees and the lack of student allowances are the main drivers of student debt, and the fact that representatives of all of the major political parties are fronting up to the summit proves that student debt would be a key issue for this election.
+
+Victoria Council supports salary funding initiatives  
+Despite its refusal to meet with AUS representatives, the Victoria University Council this week passed three resolutions supporting initiatives relating to funding and salaries. The package of measures includes taking a concerted approach to obtaining increased funding from government, active participation in tripartite talks between the unions, vice-chancellors and the Government and for the Vice-Chancellor to monitor the progress of the University Salaries Group (USG), recently announced by the Minister of Education.  
+Meanwhile, the New Zealand Vice-Chancellors’ Committee (NZVCC) has reiterated that it wants the USG to look at overall funding issues, and not just salaries. In a newsletter this week, NZVCC Chair and Auckland Vice-Chancellor, Stuart McCutcheon, said that the issue is wider than just salaries. “Additional public resourcing is also required to improve teaching and research quality, research infrastructure and student facilities,” he said.  
+AUS National President Professor Nigel Haworth said he saw the attempt to broaden the terms of reference of the USG to deal with wider funding issues, as an attempt by vice-chancellors to continue with the practice of putting salaries at the bottom of their spending priorities. “Vice-chancellors have ignored the salary problems in the sector for years; it shows they are prepared to compromise quality and the long-term viability of the sector,” he said.  
+Professor Haworth said that the future of universities could not be left to seven vice-chancellors who, to date, had shown little regard for the sector as a whole, and who had failed to capitalise on the opportunities that national bargaining could create. “Paying competitive salaries, and ensuring the recruitment and retention of high-quality staff, is the most serious problem facing the sector. We will not allow the vice-chancellors to squander this opportunity by diverting the purpose of the USG,” he said.  
+The USG will hold its inaugural meeting on 14 July to determine its membership and terms of reference.
+
+Wananga supporters to march on Parliament  
+More than 4,000 staff, students and others are expected to march on Parliament to show their support for Te Wananga o Aotearoa, their arrival timed to coincide with the release of the decision by the Minister of Education, Trevor Mallard, on whether to dissolve the institution’s Council and replace it with a commissioner.  
+The Waikato Times has reported that an organising group of staff, students, iwi representatives and residents met this week to plan the march, as Maori support for the institution increased. Other meetings are planned to consider other actions to support the retention of the Wananga’s Council and management.  
+A spokesperson, Hira George, is reported as saying that she could not believe the Government’s actions, and that Maori had worked hard for twenty years to establish the Wananga.  
+The Maori Party has also offered its support and, last weekend, about eighty Maori leaders and kaumatua met at the Wananga to offer support to its Chief Executive, Rongo Wetere.  
+Dr Wetere said he had good reason to suggest that Mr Mallard’s reasoning in appointing a commissioner is contestable, and that there is good reason for the Council to remain. “We must decide what is best for our students and the protection of our educational delivery. I don’t believe we would be having such huge pressure if we weren’t successful in what we do. It’s a political issue. Mallard just wants to take control of our destiny, that’s what it’s all about,” he said.
+
+Worldwatch  
+Market forces to determine science courses  
+The Higher Education Funding Council for England (Hefce) has ruled out government intervention or subsidies to guarantee the survival of vulnerable courses, despite the closure of a number of university science courses. Insisting that courses should be subject to market forces, Hefce has dismissed concerns over the closure of physics and chemistry courses as “moral panic”, and praised new cross-curricular courses such as forensic sciences. Almost a third of university departments offering physics have closed in the past decade.  
+Hefce was ordered, last year, to investigate a potential crisis in subjects considered to be of strategic national importance. In its report released yesterday, entitled Strategically Important and Vulnerable Subjects, Hefce concludes that there is no general crisis and warns that intervention would be counter-productive.
+
+Australian funding slides  
+Public funding to Australian universities has fallen in real terms since the election of the Howard Government, according to analysis released by the Australian Vice-Chancellors’ Committee (AVCC). At the same time, student fees have increased from $A1500 per year in 1989 to $A3894 in 2000. Student-to-staff ratios have increased by a third, from 14 to 1 to 22 to 1. The AVCC figures show that core funding per student place has fallen from $A7,635 in 2000 to $A7,340 in 2003.  
+The analysis was released after the Education Minister, Brendan Nelson, said that he did not accept that per-student funding had reduced. The AVCC Chief Executive said that while total revenues received by universities had increased, so too had the number of students.  
+Meanwhile, the University of Newcastle has announced it is to deal with budget problems by abolishing 450 full-time staff positions, one-fifth of its staff. A public campaign, launched by the National Tertiary Education Union, cites chronic under-funding from the Federal Government as the principal cause of the University’s financial troubles.
+
+Teaching-only numbers increase  
+One in five academics in the United Kingdom are employed on teaching-only contracts, according to new research released by the Association of University Teachers (AUT). A report, The Rise of Teaching-only Academics, highlights what it describes as the creeping levels of casualisation in higher education. Among its key findings are that only 55 percent of the UK’s 148,275 academics are employed to both teach and conduct research; 42,000 academics are employed on a part-time basis; 45 percent of academics are employed on short-term contracts, with two-thirds of those on teaching-only contracts; and 11,500 academics are employed for term-time only.  
+The AUT report is based on data from the Higher Education Statistics Agency which, for the first time, includes academics who work for less than 25 percent of a full-time contract.  
+In 2003-04, 29,000 academics were employed on teaching-only contracts compared with 15,000 from the previous year, with the number of part-time, teaching-only staff increased from 8,650 to 22,530. At the same time, the number of academics engaged on joint teaching and research contracts fell from 85,000 to 81,000.  
+AUT Assistant General Secretary Paul Cottrell blamed the rise in casualisation on universities preparing for the next Research Assessment Exercise (RAE) round in 2008. “In a desperate attempt to boost their research ratings, many universities are known to be shifting academic staff onto teaching-only contracts to avoid them being counted in the RAE,” he said. “We have widespread reports from our members that universities are enticing big-name academics with the promise that they will not have to teach, while other academics are being pushed onto teaching-only contracts.”  
+The AUT report can be found at: http://www.aut.org.uk/media/pdf/c/3/teachingonly\_jun06.pdf  
+Additional informational from The Guardian
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

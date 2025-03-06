@@ -1,0 +1,80 @@
+---
+slug: for-real-tax-cuts-cut-the-$1b-welfare-abuse
+title: "For real tax cuts - cut the $1b welfare abuse"
+date: 2005-07-18
+source-url: https://www.scoop.co.nz/stories/PA0507/S00340/for-real-tax-cuts-cut-the-1b-welfare-abuse.htm
+author: act-new-zealand
+---
+For real tax cuts - cut the $1b welfare abuse
+=============================================
+
+**Monday, 18 July 2005, 9:19 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+For real tax cuts - cut the $1b welfare abuse
+
+Richard Prebble  
+Monday, 18 July 2005  
+Speeches - Social Welfare
+
+Address to ACT Helensville luncheon; Allely House; State Highway 16, Kumeu; 12.30pm.
+
+You ask me what is ACT’s role in parliament? ACT is the party that tells it like it really is. Your insurance that in parliament there is one party of economic realism.
+
+I believe that ACT’s message this election is how to fund significant tax cuts for every working family and company, which in this country means small business. The answer is cut out welfare abuse.
+
+Conservatively welfare abuse amounts to $1 billion a year. I believe the real figure is over $2 billion. That is a mind-boggling amount of money.
+
+To give you an idea of the sort of tax cuts cutting out welfare abuse could finance here are some examples:
+
+To reduce the 39% tax rate to 33% it would cost $690m.
+
+To reduce the company tax rate from 33% to 24% the cost would be $1.8b
+
+In fact we could reduce both the 39% and 33% personal tax rates to 24% for just $2.5b and that is without touching the Government’s $7 billion surplus.
+
+Everyone knows there is massive welfare fraud in New Zealand. Let me run you through the figures.
+
+First the Unemployment Benefit. In New Zealand today if you are fit and able to work there is a job for you. I have met employers who have told me they will employ anyone whose blood is warm. When I challenged an employer, he replied, "we just need a person to stand and open that the gates. They don't even need to speak English. We have told the Labour Department that we will employ anyone. Yet there are still people receiving the Unemployment Benefit in our town.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Today there are some 75,000 adults being supported by the Unemployment Benefit at a cost of over $800 million a year.
+
+There are some people who are having some genuine difficulties, but my view is there can be no justification for paying young able-bodied men who are just work-shy the Unemployment Benefit. There is overseas evidence to suggest that the New Zealand Unemployment Benefit costs would halve on the first day a requirement that everyone on the Unemployment Benefit do a 40-hour week was introduced. So we could say there is at least $400 million dollars available, which is tied up in Unemployment Benefit abuse.
+
+I am justified in calling it benefit abuse. When a 40-hour a week work requirement was introduced in Wisconsin, the Unemployment Benefit fell 50% on the first day. The officials were astounded. They did some research and found that there were people working in the black economy, mowing lawns for cash and doing similar cash work, who were on the Unemployment Benefit. When the 40-hour week requirement came in they had to choose between their cash job and working for the benefit and eventually all chose the cash job, and went off the benefit.
+
+I have people coming to my home all the time offering to work for cash. If people are prepared to rip off the Inland Revenue Department, where is the moral difference to ripping off the welfare department? There is none. The IRD regularly reports the black economy in New Zealand is over $10 billion a year. It's not big business that is ripping off the tax department but the same people who are ripping off welfare.
+
+We all know of people on the Unemployment Benefit who should be working. I have always refused to allow my children to go on the Unemployment Benefit yet they have told me of friends coming from wealthy families who have taken a year off, on the benefit to surf, improve their golf or just hang out. When everyone is doing it public morality is corrupted and those who do not rip off the system feel like they are mugs.
+
+The next biggest rip-off in welfare is by those who are on a Sickness Benefit who are not actually sick. Every time I say this I get attacked in the media but it is true. There are 50,000 adults supported by the Sickness Benefit today. Over half of them should not be there - that is a medical not a political statement.
+
+It is simple to prove. In 1970, there were around 7,000 adults who were on a Sickness Benefit. The Health Department tells us that we are healthier today as a nation than ever before in our history. But if there had been no medical advances at all in the last 30 years, and then adjusted for the 44% population increase there should be around 10,000 thousand people supported by the Sickness Benefit.
+
+Where have the extra 40,000 thousand people come from? Well they are people who are not sick. You too can go on the Sickness Benefit for the rest of your life providing you are prepared to drink two bottles of whiskey today and go to your local GP and tell him that you are hopeless alcoholic. He will write you a medical certificate which you take to the Social Welfare Department who basically say to you that providing you keep on drinking alcohol the taxpayer will go on giving you a benefit until you turn 65 at which point you can switch over and go on to national superannuation.
+
+I am willing to see some of my taxpayer money go to help people who are alcoholics dry out, and drug addicts get off the drugs. What I do not agree with is our taxpayer money being used to subsidise drug and alcohol abuse.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

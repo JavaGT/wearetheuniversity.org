@@ -1,0 +1,74 @@
+---
+slug: mediation-fails-to-resolve-kindergarten-dispute
+title: "Mediation Fails To Resolve Kindergarten Dispute"
+date: 2005-11-28
+source-url: https://www.scoop.co.nz/stories/ED0511/S00089/mediation-fails-to-resolve-kindergarten-dispute.htm
+author: nzei
+---
+Mediation Fails To Resolve Kindergarten Dispute
+===============================================
+
+**Monday, 28 November 2005, 9:41 am**  
+**Press Release: [NZEI](https://info.scoop.co.nz/NZEI)**
+
+November 25, 2005
+
+Mediation Fails To Resolve Kindergarten Teachers Dispute
+
+Kindergarten teachers are disappointed that talks held today failed to produce a breakthrough in their dispute.
+
+The kindergarten teachers' union, NZEI Te Riu Roa, agreed to enter mediation with the Ministry of Education, New Zealand Kindergartens Incorporated and the Zealand Federation of Free Kindergartens, following a breakdown in negotiations for a new collective agreement for the 1630 teachers who belong to the union. NZEI hoped that the Ministry and the kindergarten associations would stop trying to impose working conditions on the teachers that threaten the quality of education they provide.
+
+\"The teachers are extremely disappointed that today's mediation has failed," says NZEI Te Riu Roa Assistant Secretary, Peter Monteith, "That's because the employers are continuing to demand changes to their working conditions that will erode the quality of education they provide to 45,000 children."
+
+This means the teachers will press ahead with a series of 40 two hour stopwork meetings starting on Monday (November 28) and continuing through until Friday (December 2.). At the meetings they'll vote whether to strike for a full day on Thursday December 8 to protect the quality of education parents expect their children to receive at kindergartens.
+
+"These stopworks are the first time kindergarten teachers have taken industrial action since 1996, which shows how serious this situation is," says Peter Monteith.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The employers are: \* Refusing to recognise the need for kindergarten teachers to continue having term breaks like their colleagues in primary and secondary schools. \* Demanding the ability to increase the level of contact time (the time teachers work directly with children) to a level that will cause teacher burnout and will erode education quality. \* Refusing to recognise the extra responsibilities shouldered by head and senior kindergarten teachers by refusing to pay them at a level that was agreed when kindergarten teachers gained pay parity with primary and secondary teachers.
+
+"The employers demands are excessive and threaten the quality of education parents expect their children to receive at a kindergarten," says Peter Monteith. "Kindergarten teachers and the children they teach need term breaks, just like the teachers and students at primary and secondary teachers need term breaks."
+
+Most kindergartens currently provide 22 to 26 hours of contact time with children a week. The employers are demanding this be increased to up to 35 hours a week. By contrast primary schools provide 24 hours contact time a week, the highest level among the 30 OECD countries. The average contact time for schools in OCED countries is 20 hours a week.
+
+"Kindergarten teachers are taking a stand against their employers demands to protect the quality of education that parents expect their children to receive at a kindergarten," says Peter Monteith. "That's why when they attend the stopworks next week they'll be voting whether to strike for a full day on Thursday December 8."
+
+A full list of the stopworks with the time, venue and contact details will be sent with this release.
+
+Why kindergarten teachers need term breaks.
+
+Kindergartens currently have a four term year, like primary and secondary schools. However their breaks between terms are now under threat. That's because funding changes mean their employers, if they choose, can be funded to keep their kindergartens open for 52 weeks a year. "Kindergarten teachers, and the children they teach, need term breaks, just like teachers and students in primary and secondary schools need breaks," says NZEI Te Riu Roa Assistant Secretary, Peter Monteith.
+
+Most kindergartens teachers are working with up to 90 children and families every day. Without regular breaks during the year, it's physically and mentally impossible for them to maintain the energy levels they need to provide a quality education for their centre's children. The breaks also provide time for planning and assessment, to catch up on administrative work and to engage in professional development.
+
+Most schools provide teaching for 40 weeks a year, while most kindergartens provide 41 to 42 weeks. The teachers have tabled a claim that kindergarten terms should not exceed 11 weeks and the teaching year should not exceed 42 weeks. Their employers have rejected the teachers' claim.
+
+Why the employer claim for contact time is excessive.
+
+Kindergarten teachers are expected to work a minimum of 40 hours per week. They currently spend an average of 25 hours in contact time actively engaged with children. The other 15 hours, of their 40 hour week, is known as non contact time. This is time spent doing a wide range of essential tasks including work on each child's learning programme, working with each child's family, professional development and administration.
+
+New Zealand primary teachers provide 24 contact hours a week, the highest level for primary schools among the 30 OECD countries. The average contact time for OECD schools is 20 hours a week. The employers are demanding teachers provide up to 35 hours contact time a week in full day kindergartens and 30 hours a week in sessional centres.
+
+"Extending contact time to 30 or 35 hours a week is unworkable as it would not allow enough time for teachers to do essential non contact work," says Peter Monteith. "It could also lead to teacher burnout because of the large number of children and families that kindergarten teachers' work with every day."
+
+This is why the teachers have tabled a claim stating that contact time should not exceed 26 hours a week in sessional kindergartens and 30 hours a week in full day kindergartens.
+
+Why head and senior kindergarten teachers are not being fairly rewarded.
+
+Head teachers run individual kindergartens while senior teachers oversee the teaching done at a number of kindergartens in the area in which they're based. Because of their extra responsibilities they are paid at a higher rate than kindergarten teachers. The margin was agreed in 2002 when NZEI negotiated pay parity for kindergarten teachers with primary and secondary teachers.
+
+"The problem is the margin has closed," says Peter Monteith. "This is why the teachers have tabled a claim to restore the relativity, or pay gap, for head and senior teachers, that was established when kindergarten teachers gained pay parity in 2002."
+
+"The employers are refusing to restore the relativity, which means head and senior teachers are no longer being fairly rewarded for the work they do," says Peter Monteith.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)
+
+Find more from [NZEI](https://info.scoop.co.nz/NZEI) on InfoPages.

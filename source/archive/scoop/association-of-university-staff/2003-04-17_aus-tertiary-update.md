@@ -1,0 +1,84 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2003-04-17
+source-url: https://www.scoop.co.nz/stories/ED0304/S00041/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 17 April 2003, 10:28 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+![AUS WEB SITE](http://www.aus.ac.nz/pictures/logo.gif)In our lead story this week…..  
+Hefty costs awarded to AUS  
+The Employment Court has made a hefty costs award against the Vice Chancellor of Otago University, Dr Graeme Fogelberg, following unsuccessful legal action taken against the AUS.  
+The Vice Chancellor initially sought an interim injunction against the AUS during industrial action late last year, alleging an unlawful strike, but was unsuccessful. Then, at the request of the Vice Chancellor, a full Court of three judges was convened in March this year to determine whether the strike action was lawful and consider a further allegation that AUS had breached good faith obligations required by the Employment Relations Act. The full Court rejected all of the Vice Chancellor’s allegations, saying they were without merit.  
+In addition to the University having to pay its own costs, the Court this week ordered the Vice Chancellor to pay $14,600 legal costs and a further $915.64 in disbursements to the AUS. It stated that there was no legal or factual basis for any of the Vice Chancellor’s claims, and accepted the submission that the AUS had been “entirely successful” in defending both the interim injunction and substantive application. The Court took the view that the AUS was put to unnecessary expense, particularly after the interim injunction application failed and negotiations were successfully concluded some months ago.  
+In awarding costs to the AUS, the Court emphasised that the Vice Chancellor’s arguments would have required “great violence to the legislative language” for the case to have succeeded. The Court also stated that there was no factual basis for the Vice Chancellor’s claim, “even if the Plaintiff’s strained statutory interpretation had been accepted.”  
+AUS Otago Branch President, Mark Peters, said "now that this case has been settled and costs awarded, we hope the university will try to settle any future disagreements in a more constructive manner, rather than wasting precious funding on futile legal battles which simply destroy goodwill that might exist between the university and our members. We look forward to maintaining a good working relationship in the future."  
+A full report on the case will be carried in the AUS Bulletin, due for publication later this month.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Canterbury poised to moves to college structure  
+2\. Good faith bargaining under the spotlight  
+3\. Advice on SARS  
+4\. Bradford throws away £20,000 on name game  
+5\. US academics pay rises, but gender gap remains  
+6\. UK Ministers to examine 'study-while-you-work' degrees
+
+Canterbury poised to move to college structure  
+Canterbury University looks set to move to a new college structure with its 37 academic departments merging to form 6 faculties which will then be organised into 4 administrative colleges. The final report of a working group looking at the organisational structures of the University recommends the clustering into arts and visual and performing arts; engineering and forestry; law, business and economics; and sciences.  
+Each of the new colleges will be overseen by a Pro Vice Chancellor who will be responsible for managing their respective colleges and, together with a College Executive Committee, will devolve operational funding to schools, departments and programmes. The college PVCs will also be members of the University’s senior management team. In turn each faculty will be headed by a Dean.  
+The final report comes after initial restructuring proposals were made last year by the then Vice Chancellor, Daryl Le Grew.  
+New Vice Chancellor, Professor Roy Sharp, has outlined his views in an email inviting comment and feedback from staff. Consultation with staff and unions will occur until mid-May with the University Council expected to make a decision on 28 May.  
+AUS Canterbury Branch President, Jane Guise, expressed concern about the likely impact on jobs as staff are reassigned from academic and service departments into the new colleges. It is expected that some jobs would be redefined and there was a risk to others as roles are centralised. An extensive consultation protocol has been drafted to ensure consultation with the unions will occur through the implementation phase and in the early stages of the operation of the new structure.
+
+Good faith bargaining under the spotlight  
+A conference to be held at Massey University next month will put the Employment Relations Act 2000 collective good faith bargaining provisions under the spotlight. The conference will focus on ‘innovation and growth through good faith collective negotiation’. The conference outcomes will contribute to the Government’s review of the Employment Relations Act 2000 and the proceedings are to be published in the NZ Journal of Industrial Relations.  
+Key participants include the Minister of Labour Margaret Wilson, and representatives from the Department of Labour and Victoria University will present data on the outcomes of collective bargaining. Speakers from North America and Europe will bring an international element to the conference.  
+Further information, including registration details, can be obtained from: S.M.Siebert@massey.ac.nz
+
+Advice on SARS  
+The Ministry of Education has posted advice on its website to tertiary education institutions on dealing with Severe Acute Respiratory Syndrome (SARS). It identifies those most at risk as people with a recent history of travel to areas reporting cases of SARS, in particular travel in Southeast Asia and people who have had close personal contact with persons diagnosed with SARS.  
+The Ministry recommends that institutions review policies to ensure that the way institutions react to illness will be effective in limiting further infection, reviewing with staff how sick students are managed, ensuring that staff and students are made aware of policies regarding infectious diseases, and providing up to date information on SARS. A frequently asked questions sheet is also provided.  
+The Vice Chancellor of at least one university has directed that students must not travel on university business to a number of affected areas and that any existing arrangements must be cancelled.  
+Further advice on SARS is regularly updated on the Ministry of Health’s website: www.moh.govt.nz/sars
+
+Worldwatch  
+Bradford throws away £20,000 on name game  
+The governing bodies of the University of Bradford and Bradford College have been condemned for wasting public money on a consultation exercise that states the obvious. When the university and the higher education college agreed to merge, a firm of consultants was paid £20,000 to come up with a new name. They came up with Bradford University, University of Bradford and The University of Bradford. In response to the criticism Alan Hodgson, principal at the college, and Chris Taylor, Vice Chancellor of the university, said: "It is not unusual for organisations facing major changes to use external consultants."
+
+US academics pay rises, but gender gap remains  
+Average academic salaries in the United States rose by 3% in 2002-2003. It was the sixth successive year in which salaries have increased says a report released this week by the American Association of University Professors. The survey of colleges and universities found that average full-time faculty salaries rose from $US62,895 to $US65,048.  
+The report had mixed news for women. Compared with last year the proportion of women at the full-professor level rose from 21.4% to 22.3%, and at associate professor level from 37.3% to 37.9%. Among assistant professors, however, the proportion of women fell from 46.1% to 45.9%. At the full professor level men earned an average of $US9,913 (12.6%) more than women and at assistant professor level men earned $US4,045 (8.2%) more than women.
+
+UK Ministers to examine 'study-while-you-work' degrees  
+A new kind of degree course is to be launched in the UK in which students graduate after conducting research while continuing in their full-time jobs. To graduate, students would complete their junior "PhD" by holding a public exhibition where they would "stand and defend" their research and be judged by their peers. Up to 500 people will enter the online pilot by this July at Anglia Polytechnic University and a thousand more will be enrolled by Christmas. Ministers will study the programme as they attempt to reach their 2010 target to expand higher education so that half the population is involved at some level.
+
+  
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the union and others. Back issues are archived on the AUS website: http://www.aus.ac.nz. Direct enquires to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

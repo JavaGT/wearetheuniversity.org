@@ -1,0 +1,51 @@
+---
+slug: skull-could-be-worlds-oldest-tsunami-victim
+title: "Skull could be world’s oldest tsunami victim"
+date: 2017-10-26
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/skull-could-be-worlds-oldest-tsunami-victim.html
+---
+Skull could be world’s oldest tsunami victim
+============================================
+
+26 October 2017
+
+![" "](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/skull-could-be-worlds-oldest-tsunami-victim/_jcr_content/par/textimage/image.img.jpg/1508998985655.jpg "fl-papua-new-guinea")
+
+A new geological analysis of the site where a 6,000-year-old human skull was discovered in Papua New Guinea in 1929 has revealed that the person probably died in a catastrophic tsunami.
+
+The study, by researchers at UNSW Sydney, the Field Museum of Natural History in Chicago, the University of Auckland and the National Institute of Water and Atmospheric Research in New Zealand, is published in the journal PLOS ONE today.
+
+“We have discovered that the place where the Aitape Skull was unearthed was a coastal lagoon that was inundated by a large tsunami about 6,000 years ago, similar to the one that struck nearby with such devastating effect in 1998, killing more than 2,000 people,” says the study’s first author and UNSW Sydney scientist, Honorary Professor James Goff.
+
+“We conclude that this person who died there so long ago is probably the oldest known tsunami victim in the world.”
+
+The partially preserved Aitape Skull was discovered almost 90 years ago by Australian geologist Paul Hossfeld at a site which is about 12 kilometres inland from the northern coast of Papua New Guinea, near the modern town of Aitape.
+
+Dr Ethan Cochrane, senior lecturer in anthropology at the University of Auckland, jointly designed the research and led the field team with colleagues from New Zealand, Papua New Guinea, Australia and the United States to collect archaeological, geological, and biological samples from the area in which the skull was found.
+
+“We tramped several kilometres up Paniri creek leading into the Torricelli mountains to find the area where the skull was originally retrieved,” says Dr Cochrane.
+
+“Hossfield simply took the skull from exposed geological deposits, so our goal was to acquire sediment and biological samples from the deposits to learn more about the natural environments in which the individual died thousands of years ago.”
+
+The team did laboratory tests on the sediment to look at grain size and its geochemistry. They found the microscopic silica shells of diatoms, small single-cell organisms that live in water and are sensitive indicators of water characteristics such as temperature, salinity, and the amount of water movement.
+
+“We used the diatoms to learn more about the water in the area around the time of the individual’s death,” says Dr Cochrane.
+
+“The sediments that the Aitape skull was in have pure marine diatoms in them, which indicates ocean water was inundating the area, which currently is 12 km inland. It’s also really high-energy ocean water – high-energy enough for these little tiny specks of silica that the diatoms build to be broken as they’re washing in from the sea.”
+
+The high-energy water combined with chemical signatures and specific sediment grain sizes all indicate the presence of a tsunami at the time the skull was buried, says Dr Cochrane. “It’s possible that the skull was buried before and it was washed out as the tsunami came across, but based on observations of modern tsunamis, we don’t think that’s likely.”
+
+Dr Cochrane hopes this study can help start a conversation about how people adapt and thrive in coastal areas that are subject to tropical storms, earthquakes and tsunamis. He says people likely started moving from the mountains to the coastlines in this area around 6,000 years ago.
+
+“The interesting question is why do people move into this tectonically active, environmentally dangerous area beginning 6,000 years ago, and why do they stay there? It might be because the New Guinea north coast is also very productive at this time in terms of food resources. So perhaps people are balancing risk and food reward. Understanding these kind of adaptive trade-offs will be key to mitigating risk and ensuring the livelihoods of coastal populations today.”
+
+Dr Cochrane co-wrote the paper, “Reassessing the environmental context of the Aitape Skull – the oldest tsunami victim in the world?” with Darren Curnoe, Mark Golitko, John Terrell, Shaun Williams, and lead author James Goff.
+
+The paper is available [online](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185248).
+
+**Contact**
+
+Tess Redgrave| Media Relations Adviser  
+Faculty of Arts  
+Email: [t.redgrave@auckland.ac.nz](mailto:t.redgrave@auckland.ac.nz )  
+Tel: +64 9 373 7599 ext 87383 Mobile: +64 (027 5625868)

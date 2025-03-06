@@ -1,0 +1,133 @@
+---
+slug: flavell-law-reform-(epidemic-preparedness)-bill
+title: "Flavell: Law Reform (Epidemic Preparedness) Bill"
+date: 2006-12-13
+source-url: https://www.scoop.co.nz/stories/PA0612/S00272/flavell-law-reform-epidemic-preparedness-bill.htm
+author: te-pati-maori
+---
+Flavell: Law Reform (Epidemic Preparedness) Bill
+================================================
+
+**Wednesday, 13 December 2006, 2:40 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Law Reform (Epidemic Preparedness) Bill
+
+  
+Te Ururoa Flavell; Third Reading
+
+  
+Wednesday 13 December 2006
+
+  
+Some debates made in this House, are, concerned with nothing less than life and death decisions.
+
+The series of seven bills which impact on the preparedness of the nation to face the onslaught of an epidemic under final consideration here is exactly that.
+
+And for the Maori Party, we recognize the heavy responsibility that this Parliament brings to bear, when we take into account the inevitable, and disproportionate impact of an epidemic upon Maori.
+
+The association with Maori and ‘epidemic’ is one that is far too frequently made.
+
+A month ago, Professor Martin Silink, head of the Brussels-based International Diabetes Foundation, told the international conference that the diabetes epidemic could wipe out Maori and Polynesian Islanders by the end of the century.
+
+Or there’s the meningococcal disease which has been categorised as an epidemic since 1991 with demonstrably more adverse impacts on Maori and Pacific populations.
+
+Dr Lis Ellison-Loschman who has been following the work of the Maori Asthma review, has described asthma mortality rates for Maori as reaching epidemic rates in the 1970s and 1980s. Neil Pearse has also described a major medical controversy around the asthma drug, fenoterol, which some fifteen years ago caused an epidemic of asthma deaths.
+
+Madam Speaker, the significant and growing ethnic and socio-economic inequalities in lung cancer mortality in New Zealand; and the relatively high lung cancer incidence and mortality, particularly among Maori has been reported in the New Zealand Medical Association Journal as an epidemic.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The Obesity, Food and Policy: New Solutions Workshop held at The University of Auckland on 16 November talked about an obesity epidemic. And Associate Professor Wayne Cutfield has revealed an escalating epidemic of childhood obesity, reporting on the situation in Auckland wherein an estimated half of Pacific Island and a quarter of Maori children are overweight.
+
+We have the concept of epidemic used in connection with cannabis or methampthemine.
+
+So in short, Maori seem to attract epidemics if we are to believe all this information.
+
+And these are not just recent occurrences. I refer to a statement from our first New Zealand trained, Maori medical doctor, Te Rangi Hiroa – Sir Peter Buck, who said:
+
+“Various epidemics were introduced by civilisation and have remained with us ever since……measles, typhoid, scarlet fever, whooping cough and almost everything, except plague and sleeping sickness, have taken their toll on Maori”.
+
+Indeed, almost everything has taken its toll on Maori.  
+In the initial years following colonisation, the Maori population suffered a period of almost unbroken decline from 1858 to 1896; with the susceptibility of Maori to epidemics and other diseases introduced by the settlers being described as a major factor.
+
+But if there was one epidemic to outdo all others, it was the influenza pandemic of 1918, in which at least 2160 Maori lost their lives.
+
+So, our history provides us with visible and violent proof of the high likelihood of Maori experiencing significant mortality and morbidity, in future epidemics.
+
+Alongside our history, alongside the epidemiology of disease; there is also the policy incentive provided in He Korowai Oranga which demands that specific provision must be made to protect and enhance the well-being of Maori and to ensure that Maori health disparities are reduced.
+
+Achievement will require a total commitment from government; a commitment to the elimination of institutional racism across the board - incomes, housing, employment, justice, as well as health. It will require an about turn on the denial of rights for tangata whenua, for how can a person be whole and healthy, when assumed to have only sub human rights?
+
+Dr Lorna Dyall, Senior lecturer in Maori health in the University of Auckland's Faculty of Medical and Health Sciences, has suggested four integrated pathways of work to run alongside each other, in the case of a pending epidemic.
+
+\- The need to rebuild and strengthen whanau;
+
+\- The need to involve Maori at all levels of decision-making;
+
+\- The need to ensure Maori can access and receive effective health services; and
+
+\- That a whole of government approach be taken towards addressing Maori health matters.
+
+Madam Speaker, it is said that vision without action is a daydream. Action without vision is a nightmare.
+
+The Maori Party has a vision in which Maori interests are able to be placed at the very centre, our wellbeing protected and enhanced, so that our future and survival is assured.
+
+The action that we see these seven bills could drive, is in bringing on board the appropriate Maori leadership, use of Maori infrastructures and networks, and the ability of health workers to engage with iwi and Maori communities – in helping to fight the excessively high rate of mortality all predictions expect to occur in the likelihood of an epidemic.
+
+We want action in which our whanau are actively prepared and ready to support and care for tamariki and pakeke in the event of an outbreak of an epidemic.
+
+Should avian influenza or indeed any infectious disease prove itself to be capable of becoming an epidemic, our communities need to be on high alert about how to preserve our most precious resource – he tangata, he tangata, he tangata.
+
+Madam, the particular anxiety expressed by many tangata whenua around this Bill has been in looking at the concept of how best to minimise face to face contact.
+
+Questions have arisen specifically around our tangihanga – and whether the risks will entail mass burials to occur – and therefore disrupting long-held expectations about the traditions associated with paying our respects to the deceased and their whanau.
+
+And in this regard, we welcome the recommendation from the Government Administration Select Committee, that the issuing of an epidemic notice must be issued only for outbreaks of ‘quarantineable’ rather than ‘infectious’ diseases per se. The notice should be the sole preserve of highly infectious diseases capable of becoming a pandemic.
+
+We have considered the viability of marae for use as quarantine centres. The changes to the Health Amendment Act increase the powers of Medical Officers of Health to detain people for medical surveillance for a period of up to 28 days.
+
+We note that the Police will also be able to use force to detain people suspected of suffering from bird flu.
+
+We would suggest that rather than the enforced authority represented by either the Medical Officer of Health or the Police, it would be preferable in the interests of safeguarding public confidence and accountability, for encouragement to be given to utilise venues which are already familiar to the people – such as marae.
+
+We would also suggest that MPs take on board the need to inform their constituencies of what can be done to be 'epidemically prepared'. Accessible and widespread information will be critical to effective preparedness.
+
+Madam Speaker, in closing census 2006 results were released last week showing that New Zealand’s Maori population has experienced a growth exceeding 7.4% since 2001, to reach a grand total of 565, 329.
+
+A century ago in 1905, the Maori population hit an all time low of 45,000 and were at risk of extinction.
+
+Not only did tangata whenua survive, but we have sustained a substantial and vibrant level of population increase since then.
+
+We celebrate that growth – and we look forward to it continuing. Our future as a nation, depends on our young population, our Maori population, being able to thrive on many counts.
+
+We want to see our population contributing to the Maori economy of the future.
+
+We want to know our taonga will be protected for future generations.
+
+And we want to be content in the knowledge that our very survival is not at threat.
+
+Voting in support of the seven bills debated today - Bills which were previously grouped together as the Law Reform (Epidemic Preparedness) is one more step along the way towards achieving this.
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

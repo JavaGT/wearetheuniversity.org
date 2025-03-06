@@ -1,0 +1,52 @@
+---
+slug: brainy-obsession-leads-to-knighthood
+title: "Brainy obsession leads to knighthood"
+date: 2017-01-09
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/brainy-obsession-leads-to-knighthood.html
+---
+Brainy obsession leads to knighthood
+====================================
+
+09 January 2017
+
+![Richard Faull](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/brainy-obsession-leads-to-knighthood/_jcr_content/par/textimage/image.img.jpg/1483926414999.jpg "Richard Faull")
+
+Distinguished Professor Sir Richard Faull was awarded a knighthood for services to brain research.
+
+Distinguished Professor Sir Richard Faull's nearly 40 year research obsession with the anatomy of the human brain has led to ground-breaking discoveries that have revolutionised the understanding and treatment of brain disease.
+
+His distinguished career in brain research was recognised recently when he was made a Knight Companion of the New Zealand Order of Merit in the New Year Honours list for services to brain research.
+
+Sir Richard is a Professor of Anatomy and highly regarded internationally for his research into the workings of the human brain. He is founder and director of the University of Auckland’s Centre for Brain Research (CBR) that produces world-leading research on brain diseases.
+
+He is also founder of the Neurological Foundation Douglas Human Brain Bank at the Centre, and instigated the annual Brain Day, a neuroscience research event that invites the community to the University to learn more about brain diseases such as Alzheimer’s, Parkinson’s and Huntington’s diseases.
+
+Sir Richard insists that his achievements in brain research are a team effort and that his knighthood for services to brain research recognises that team approach – but a team needs a leader and he has certainly led the charge.
+
+In 2007 the Royal Society of New Zealand's top honour the Rutherford Medal was awarded to Sir Richard for his team's landmark finding that a diseased human brain can repair itself by creating new brain cells.
+
+From a small laboratory started within the University’s Department of Anatomy 38 years ago by Sir Richard, the Centre for Brain Research has grown to include 70 research groups, 450 researchers and students, and 40 clinicians.
+
+He says the honour really belongs to his wife, Diana, who has always been on hand with a notepad to take down his latest idea; the families and patients affected by brain disease; and his fellow scientists.
+
+His obsession with brain research began when he first saw a human brain during his third year of medical school and it was “love at first sight”.  
+He was limited by medical advancements at the time - as you couldn't even operate inside the brain - so he re-trained as a scientist.
+
+Around that time, he was approached to contact all the families affected by Huntington's disease in New Zealand to see if there was a way to track the dominant gene which causes the disease.
+
+"It was only me doing anything like this in the country,” says Sir Richard. “One day someone said, 'Keep mum's brain, and see if you can help us in the future,' and that's when things changed for me."
+
+He studied for three and a half years in the United States at Harvard University and the Massachussetts Institute of Technology (MIT), before returning to New Zealand and opening his first lab in 1978 to study the brain tissue of people with Huntington's.
+
+He also established New Zealand's world leading brain bank in 1994 that now has more than 500 brains with nine different degenerative diseases represented in the collection.
+
+Sir Richard credits his community minded upbringing for his successes in medicine. He was raised in a family of five boys in Tikorangi, a small rural town in North Taranaki, where his parents ran the general store.
+
+Years of delivering groceries to local families as a youngster, taught him how to talk to and understand people in his community, he says.  
+"I was taught that nobody is any more special than anybody else, and that is absolutely fundamental to what I do."
+
+Sir Richard’s contributions to neuroscience were first recognised by the University of Auckland in 1993 with the award of a Personal Chair in Anatomy. In 2002 he was awarded the Inaugural Peter Gluckman Medal and Distinguished Faculty International Lecturer at the University of Auckland.
+
+He was awarded the Liley Medal by the Health Research Council in 2005 and New Zealand’s top science honour, the Rutherford Medal, (administered by the Royal Society on behalf of the New Zealand Government) in 2007. In 2010, he was the Supreme Winner of the World Class New Zealander Awards.
+
+**For media enquiries [email Suzi Phillips](mailto:s.phillips@auckland.ac.nz), Media Advisor Medical and Health Sciences.**

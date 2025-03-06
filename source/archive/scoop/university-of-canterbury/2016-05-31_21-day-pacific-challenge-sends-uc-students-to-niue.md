@@ -1,0 +1,73 @@
+---
+slug: 21-day-pacific-challenge-sends-uc-students-to-niue
+title: "21 Day Pacific Challenge sends UC students to Niue"
+date: 2016-05-31
+source-url: https://www.scoop.co.nz/stories/ED1605/S00136/21-day-pacific-challenge-sends-uc-students-to-niue.htm
+author: university-of-canterbury
+---
+21 Day Pacific Challenge sends UC students to Niue
+==================================================
+
+**Tuesday, 31 May 2016, 4:09 pm**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+**21 Day Pacific Challenge sends UC students to Niue**
+
+Five entrepreneurial University of Canterbury students will be flying to Niue to make a real difference to a community there, with help from their Kiwi business and Niuean cultural mentors.
+
+The UC Centre for Entrepreneurship (UCE) and UC School of Business and Economics held the final judging of the 2016 21 Day Pacific Challenge last night, 30 May.
+
+The three finalist teams presented their proposals in front of a capacity audience of their business mentors, guests and a panel of judges that included Niue's High Commissioner to New Zealand Tauveve O’Love Jacobson and Pacific Islands Trade and Invest Trade Commissioner Michael Greenslade.
+
+Team EduKai won the grand prize at last night’s awards ceremony and will travel to Niue to implement their idea in July. The Edukai initiative is a three-pronged approach to improving the general health of the community with the development of a cookbook featuring traditional recipes, a Taumafa Kitchen, both for the home and the village, and involving a Taumafa Development Committee comprised of local organic farmers, Mataginifale Women's Group of Avatele and other experts.
+
+The winning EduKai team members are Kent Stewart (studying PhD in Bio-Engineering), Charlotte Mee (studying BCom in Marketing and Finance), Helena Power (studying MCom in Marketing), Sima Bagheri (studying BE(Hons) in Chemical and Process Engineering) and Charles Tevi (studying BSc in Geology).
+
+The 21 Day Pacific Challenge project leader for the second year the contest has run is UC Associate Professor Sussie Morrish from the College of Business and Law.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“The 21 Day Pacific Challenge continues to be an exciting opportunity for UC students. It is an opportunity like no other in New Zealand,” she says.
+
+“It has been the highlight of university life for our 21 Day Challenge alumni. They all agree the experience has been life-changing and enabled them to see the world in a different light. Indeed, the 21 Day Challenge enables our student to make a difference and change the world one community at a time.”
+
+This year the 21 Day Pacific Challenge asked students to help Niue to conserve, protect and sustainably manage its food supply with a view to becoming self-sufficient using a $10,000 budget. UC students had 21 days to work in teams of five with industry mentors to come up with a solution to this community problem. The winning team receives an all-expenses-paid, week-long trip to implement their project in Niue.
+
+The 25 students were split into five teams to submit a completed business and development plan for judging. The top three proposals were selected by judges and the winning team announced at a special event on Monday.
+
+Runners up were teams AgriLearn, which wanted to promote education of sustainable agricultural practices by partnering with the Niue Primary School, and Tanaki Hub, which planned to restore an abandoned farm to make traditional farming and fishing practices more accessible to young Niueans.
+
+This annual challenge is open to all UC students, from any discipline. Last year, in the inaugural 21 Day Challenge, two UC student teams went to the Philippines to put turn their ideas into reality.
+
+From the international experience, UC students gain increased global and cultural awareness, applied learning opportunities, international networking as well as developing their enterprising and innovative thinking skills.
+
+The creative initiative is supported by UC Vice-Chancellor Dr Rod Carr and UC College of Business and Law Pro-Vice-Chancellor Professor Sonia Mazey, as well as Director of Macmillan Brown Centre for Pacific Studies Professor Steven Ratuva.
+
+Dr Carr has said one of the University’s key goals were “to produce graduates who have the skills to make an informed and genuine contribution to local, national and international communities.”
+
+The 21 Day Pacific Challenge is supported by the UC Centre for Entrepreneurship (UCE), the UC School of Business and Economics, Pacific Islands Trade and Invest, Air New Zealand, and the UC Foundation.
+
+Niue is a small coral atoll in the Pacific with a population of around 1,500 people. The government is democratically elected, Niue is in free association with New Zealand and Niueans are New Zealand citizens. Tourism is its biggest earner, exports are limited and New Zealand is a major donor to the economy.
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

@@ -1,0 +1,70 @@
+---
+slug: uc-helps-power-tongan-schools
+title: "UC helps power Tongan schools"
+date: 2011-10-13
+source-url: https://www.scoop.co.nz/stories/ED1110/S00051/uc-helps-power-tongan-schools.htm
+author: university-of-canterbury
+---
+UC helps power Tongan schools
+=============================
+
+**Thursday, 13 October 2011, 2:59 pm**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+**UC helps power Tongan schools**
+
+University of Canterbury researchers are involved in a major collaborative project getting underway this month that aims to introduce renewable solar power systems to all high schools in Tonga.
+
+The project, which has been funded by the Ministry of Foreign Affairs and Trade (MFAT) through its New Zealand Aid Programme, has three phases. The initial pilot phase will involve collaborations between Rotary New Zealand, EcoCARE Pacific Trust, UC’s College of Engineering, Electric Power Engineering Centre (EPECentre) and Engineers without Borders, Tonga Ministry of Education, Tonga Power Limited, Tonga Community Development Trust, and the Government and people of Tonga.
+
+Russell Taylor, a project manager with the School of Biological Sciences and PhD candidate in UC’s National Centre for Research on Europe, is the CEO and Project Manager of the EcoCARE Pacific Trust that is coordinating the one-year pilot project. EcoCARE Pacific Trust is a non-profit organisation set up by UC alumni to address health, education and environmental issues in the Pacific region.
+
+Mr Taylor said the pilot project would introduce 8kW on-grid solar photovoltaic (or PV) power generation systems into five Tongan high schools on the main island of Tongatapu in order to assess the impact and feasibility in relation to an expanded implementation of a national solar PV programme.
+
+“This installation of renewable solar power will increase the availability and reliability of electricity for schools which have extremely limited access to the current fossil fuel-generated electricity, which impacts on the schools' ability to operate and students’ access to educational technologies,” he said.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“Cheap renewable energy will enable schools and communities to benefit from the immense potential that access to energy-hungry information communication technologies can provide.
+
+“We will also be including a significant educational component in this project that will enable schools to benefit both financially from the power generation and scholastically from the technology that will become the focus of lessons. Through these processes we hope to develop models that will ensure the technology is sustainable by supporting a better understanding of the technology by the students and the community,” said Mr Taylor.
+
+The pilot will also investigate how increased electricity production from the solar power infrastructure can impact on the Ministry of Education's current annual power budget of TOP$750,000/year.
+
+“On-grid systems means there is no requirement to include the cost of battery storage or replacement and as the predicted life of the solar photo-voltaic panels is between 20-25 years, the potential financial benefits of a national solar power programme to the Ministry of Education is between TOP$11.25 million and TOP$15million.”
+
+Mr Taylor will head to Tonga next week with Director of Rotary NZ World Community Services, Stuart Batty and Professor Pat Bodger (Electrical and Computer Engineering/EPECentre) to assess the five high schools chosen for the initial pilot phase of the project and to formalise contracts and logistics.
+
+A team from UC’s Wireless Research Centre will also travel to Tonga to assess the feasibility of installing low-cost, high band width wireless technologies to link the five schools with audiovisual communications systems.
+
+The pilot phase will include the installation of solar PVs and computers into five of the 11 high schools on the main island.
+
+“The selection of these schools is important if we are to assess the potential for these technologies to enhance education in Tonga and other Pacific Island nations, and to refine models that can be rolled out into the wider Pacific communities,” Mr Taylor said.
+
+The ultimate goal of the phased project is national installation of the solar PV systems throughout all of the high schools in Tonga – which is about 36 schools on 21 different islands.
+
+Mr Taylor said following what he hoped would be a successful pilot phase, the plan for the national roll-out of the PV systems to high schools was for installation to be coordinated by teams including UC postgraduate engineering students as part of the Master of Engineering Management course, NZ registered electrical inspectors, staff from Tonga Power and the Ministry of Education in Tonga, school students and members of the local communities.
+
+He stressed that the PV system and computer installation was just one part of a wider “package” of related projects in the pipeline that would deliver significant benefits to the Pacific Island community. There are discussions underway about how other UC groups including Audio Visual Services, student group AIESEC, anthropologists, marketers, geographers, sociologists and health sciences academics can “get on board” with allied research programmes.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

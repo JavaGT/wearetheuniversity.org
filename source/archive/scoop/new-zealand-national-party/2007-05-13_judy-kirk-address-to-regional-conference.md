@@ -1,0 +1,132 @@
+---
+slug: judy-kirk-address-to-regional-conference
+title: "Judy Kirk: Address To Regional Conference"
+date: 2007-05-13
+source-url: https://www.scoop.co.nz/stories/PA0705/S00310/judy-kirk-address-to-regional-conference.htm
+author: new-zealand-national-party
+---
+Judy Kirk: Address To Regional Conference
+=========================================
+
+**Sunday, 13 May 2007, 1:43 pm**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Judy Kirk National Party President
+
+12 May 2007
+
+Address to National Party Northern Regional Conference Whangarei
+
+Regional Chair Alistair Bell, Leader, Deputy Leader, Members of the Board, Members of Parliament, General Manager, delegates, members of the National Party.
+
+Thank-you for the invitation to speak to you today in a very well performing region. It's a pleasure working with Alistair Bell, the new Regional Chair. Thank-you also to Kate Cooke for your good work. I also want to acknowledge the wonderful service provided to the party by your former regional manager, the late Alan Croot. Alan was a great servant of the National Party and we will miss him. It is so appropriate to dedicate this conference to his memory.
+
+The Northern Region has a great team of MPs who promote the National Party cause very well. Everyone, from our most senior MP, Lockwood Smith, to the representatives of the 2005 intake, are working very well; they are laying the foundations for a John Key Government in 2008. I am very proud of all of them. They know that success in the Northern Region means Government.
+
+MPs from other regions are working very hard as well, and the quality of our MPs, their maturity and political acumen, was nowhere better illustrated than in the leadership transition late last year.
+
+It is appropriate now to acknowledge the huge contribution Don Brash made to New Zealand politics and to thank him for all the work that he has done to restore the fortunes of the National Party.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+To Don and Je Lan, thank you for all of your tireless work for the National Party and New Zealand, and all the best for the future.
+
+I mentioned that we had a seamless transition to the new leadership team. I particularly want to acknowledge the part that Gerry Brownlee played in that transition. His decision to step down as Deputy Leader in the interests of party unity was a real class act. Gerry has always put the interests of the party ahead of his own, and I salute him for his loyalty. He is making a great contribution and will in the next Government.
+
+Every once in a while something special happens in politics. And I believe John Key is that something special. He has a gift at engaging with people, and I believe that that is what politics is all about. His vision for all New Zealanders is inspirational.
+
+He understands how to lead and how to succeed. He's a thinker, and he's hard-working and organised, and he cares about young and old. He has a proven record and is determined to lead National to victory next year.
+
+John's savvy was illustrated a few days ago when he brokered a deal with other parties over the Bradford Bill. He was able to put partisan politics to one side and focus on the interest of parents. John showed he's caring, principled and smart.
+
+In 2005, we rejoiced at the massive increase in our parliamentary representation from 27 to 48 but, at the same time, we were disappointed that we didn't quite make it over the line. But there is no point looking back and becoming obsessed with the 'might have beens' of New Zealand politics. We are all committed political professionals in this room. We must focus on the here and now and on preparations for the 2008 election.
+
+So, the essential theme of my address today is that we must be determined. We must continue to build membership, raise money, develop policy, select the best candidates, and prepare for the election. The campaign must never stop!
+
+It is important for the president of a modern political party in this second year of the electoral cycle to emphasise certain key messages. So here goes.
+
+The National Party has a very broad-based membership. At one stage I understand it was, per head of population, the biggest political party in the world. No political party is as big these days, but we are still the biggest political party in New Zealand. Membership is the lifeblood of the party. When membership is strong it reflects at the polls. Each one of us needs to be utterly committed to growing the membership of the party. MPs and their teams will be out door-knocking and encouraging our supporters to join the team. There is no room for complacency.
+
+No political party can simply rely on maintaining existing membership. Any party that does that will inevitably die.
+
+So please make every effort to build up membership in your electorates. For every member we know that there will be at least 10 supporters, and any electorate that has a thousand members lays the foundation for electoral success.
+
+I can tell you now that we are having a great membership year; people are signing up at an impressive rate, but there is more to be done. When we go to the only poll that counts, my goal is to have National's organisation in the strongest position it has been in 18 years.
+
+The party has been very active. I am impressed by the number and the quality of fundraisers held in all electorates across New Zealand. There were dinners, raffles, breakfasts, film evenings - the list is endless. Some of you may have attended the 40-Below function in Auckland. It was a stunner. Over 600 people turned up at the Rendezvous Hotel Ballroom for what turned out to be a great night and a great success.
+
+Fundraisers serve two important functions: first, and obviously, they raise funds. But secondly, they expose people who are not members to the National Party. They can and do act as membership magnets. You know the old adage: invite an outsider to a well-run National Party function and that person turns into a supporter. Keep in contact with the supporter and invite that person to another National Party function and you will have a member.
+
+So, National Party functions are great advertisements for the party; they enable people to meet our leader, senior team and other MPs; they also see their friends and colleagues at such functions and, as a consequence, get involved themselves. So, keep up the good work in this critical area of party activity. It is important when planning events that we make ourselves accessible and make it easy for people to attend, for example, the family picnic held in Helensville in early February. Engaging and reaching out to new supporters is fundamental to success.
+
+State funding of political parties, as advocated by the Labour Party, would kill an active National Party. It is also very undemocratic. Fully state-funded parties can essentially ignore their membership. The strength of the National Party has always been in its membership and in the contribution members make to all aspects of the National Party's life. Let's be clear here: National opposes state funding of any political party!
+
+The third core activity of the National Party is policy formulation. People do not join a political party simply to canvass or raise funds. They join the National Party because they believe in the philosophy of our Party, because they want a National-led government, which will advance centre-right causes. Every National Party member is interested in policy.
+
+Much of the work of policy formulation is, not surprisingly, done by caucus members. We have a policy consultation committee that ensures all members can contribute to policy-making.
+
+We have also set up 11 policy advisory groups throughout the party and they are working hard and coming up with some very good ideas which go into the policy mix. So keep up the good work in this region.
+
+There are some very active and impressive policy committees throughout the country. Their work is passed on to caucus through the policy consultation committee. Feedback tells me that the policy process is working better now than at any time in the past 25 years. So please involve yourselves in policy; the party not only needs your help on the ground, it needs your ideas.
+
+Outstanding candidates are very important. I believe the calibre of our candidates is one of the strategic keys to success. We have a new intake of candidates in our college, and training days are in progress. We have interest from all parts of our community, which we all need to encourage. The 2005 intake will be joined by some very impressive new MPs after 2008.
+
+Membership, money, candidates and policy - this is the core business of a modern political party, and I emphasise the importance of all four. The last possible date for the election is November 15 next year - only 548 days away at most.
+
+So, I make no apologies for stressing the importance of membership, money, candidates, and policy.
+
+On the 3rd of May we learnt about the proposed changes to electorate boundaries. The electorate vote is important. In the last election we beat Labour in the total electorate vote by just under 1,000 votes.
+
+But that still wasn't enough because we lost the party vote race. I think the National Party is going to do very well in the electorate vote at the next general election, but the party vote is the most important.
+
+However, the electorates are still important watchtowers in our political system. They enable the MPs to represent their own constituents and build a good party presence.
+
+But the electorate vote is the second vote. And I know you've heard it before, and you're going to hear it again and again: the party vote determines who the government is going to be.
+
+You would be surprised how many people still don't get that basic point. They still think the electorate vote is somehow superior or more valuable than the party vote. But they're wrong. Electorates are important but the party vote is more important.
+
+At the end of the day, in our system New Zealand is one electorate. A National vote in Taranaki King Country is just as important as a National vote in Mangere.
+
+That is why, even in the safest Labour electorates, we need all the National Party votes we can get. Gone are the days where you focused your resources on 10 or so marginal electorates. You must focus your resources in every area.
+
+That is why we place so much importance on having a National Party presence in Labour-held seats in Auckland. Strong electorate organisations will help us build our party vote in Auckland. So, by all means let's go all out to win one or two Labour seats in the metropolis, and let's start with Auckland Central. Proposed boundary changes have made that seat a real opportunity, and if ever there was a seat where it is time for a change, it's Auckland Central.
+
+In all regions except CNI there are some seats with big Labour majorities, but we need to work hard in them to maximise the party vote. So please, please - do not lose sight of the importance of the party vote.
+
+It is also important for National to have good relationships with other political parties. It is unlikely that we will be governing alone. MMP means coalition governments are a reality.
+
+The party must work to ensure we are in a position to talk to others. Our leadership team is working actively in this area.
+
+So let me summarise: \* The party vote is the most important vote. \* Building relationships with other parties is critical to success. \* We want to have the strongest membership in 18 years, and we are on target. \* We must continue to attract and select high-calibre candidates. \* The party must continue to be involved in policy formulation.
+
+Thank-you, delegates, for all you are doing. You make a great contribution in so many different areas. You are so generous with your money and your time.
+
+No words can ever fully express my gratitude and the gratitude of the leader and the caucus for all your help. Some of you have been active in the party for many years. You've been with the party in its hours of triumph, and you've been there, too, in the times of disappointment.
+
+Now is the time to renew your commitment to the party and be determined. Let me say this: It will be worth it.
+
+So, keep up the fight. If we work together over the months ahead, focusing on our core role campaigning, we will get a John Key-led National Government in 2008.
+
+But only with urgency, unity, dedication and real hard work!
+
+Ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

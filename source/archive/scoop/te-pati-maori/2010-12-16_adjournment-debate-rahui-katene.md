@@ -1,0 +1,84 @@
+---
+slug: adjournment-debate-rahui-katene
+title: "Adjournment Debate - Rahui Katene"
+date: 2010-12-16
+source-url: https://www.scoop.co.nz/stories/PA1012/S00312/adjournment-debate-rahui-katene.htm
+author: te-pati-maori
+---
+Adjournment Debate - Rahui Katene
+=================================
+
+**Thursday, 16 December 2010, 11:00 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Adjournment Debate  
+Rahui Katene
+
+Wednesday 15 December 2010; 5.30pm  
+Parliament Buildings Wellington
+
+**I am very pleased to stand here in this Adjournment Debate.**
+
+Mr Speaker, may I firstly endorse the comments of other speakers, in thanking you for the accomplished way in which you have managed this House over the passing year.
+
+It has not been an easy year - and particularly so in my electorate of Te Tai Tonga. I want to single out Gerry Brownlee for the impressive way in which he has led the response to two extraordinary events this year.
+
+But in doing so, I must also acknowledge fellow MPs of the Coast and Canterbury regions, right across this House.
+
+Together we have been profoundly moved by the heart-wrenching grief of a small close-knit community bereft of 29 of its members.
+
+We have fielded the crisis calls as families reel from the consequences of the mine receivership and despair at the shrinking opportunities they fear for the Grey district economy.
+
+We have listened to the frustrations of homeowners as they learn of the prolonged timeframes for land to be strengthened before even beginning the job of reconstruction. We have sought help for those facing hardship as a result of the earthquake. And we will continue to do so.
+
+Of course we know that hardship is not just specific to Te Tai Tonga. In just these last days, for example, we feel for the whanau associated with the Carter Holt Harvey sawmill in Kawerau; and the Prime Sawmill in Gisborne, in the wake of announcements made there.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+And just two days ago, it was devastating to hear the findings of the report from the New Zealand Child and Youth Epidemiology Service showing that children in low-income households, especially Maori and Pasifika children, appear to bear the brunt of the recession. A particular low point is to note the increase in the number of Maori and Pasifika children admitted to hospital for infectious and respiratory diseases since the recession began.
+
+Mr Speaker, it is hard to find any Christmas cheer in information such as this. I could add to that list the long-standing endurance of the people of Tuhoe, as they await a fair hearing.
+
+How do we find hope that a difference can be made when we are all aware of the struggles and the injustices that continue to be felt?
+
+I take comfort from one of our whakatauki which says, Ano ko te marama kua ngaro; kua ara ano: just like the moon that disappears and rises again. Or perhaps a shorter way of saying it: six times down; seven times up.
+
+And I want to acknowledge the spirit of willingness that we have experienced in various ways this year, as different relationships have been built between the Maori Party and across the House. These are, in the main, relationships built out of concern for the people - to eliminate social hazards; to focus on improving outcomes for all New Zealanders.
+
+I think of the support Tariana's legislative advances in tobacco reform has enjoyed; and the profound impact right across the Maori Affairs select committee following the inquiry Hone initiated investigating the impact of the tobacco industry upon Maori.
+
+I recall the interest shown by the Greens and Labour for the Bill I promoted to remove GST off food; a sharing of minds that was also evident in the Local Government and Environment select committee. We hope that such openness will also be demonstrated when Te Ururoa's bill on Gambling Harm Reduction comes up; or the cross-party action I am encouraging on addressing child poverty.
+
+Of course there are also some strange things happen in this place - and I would have to note that the unholy alliance on the takutai moana bill forged between the Labour Party, Act Party, the Coastal Coalition and the Greens was not one we predicted.
+
+The Maori Party has appreciated the strength of support for this Bil, expressed to us by hapu, iwi and electorate organisations throughout the country They have told us that we have kept faith with them in seeking to repeal the 2004 Act, and to restore the right of Maori to take their claims to court. Progress is incremental but it will continue to be of utmost priority to us, to honour the promise we made to our people.
+
+Finally, I want to acknowledge the initiative taken by Dr Mapp today, in signalling his decision not to stand in the 2011 Election. I want to place on record that I am more than happy to help out in a ministerial capacity in defence, research, science and technology should the Government desire it.
+
+Because that is the way of the Maori Party - we are not only prepared to step up to the plate in every regard, but we do so in the knowledge that every issue is a Maori Party issue; every day is an opportunity to improve outcomes for all our people.
+
+And that's why we love coming to work each day!
+
+Our best wishes right across the House for a happy Christmas and may you all enjoy the blessings of being with family at this special time of year.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

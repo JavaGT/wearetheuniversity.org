@@ -1,0 +1,165 @@
+---
+slug: simon-upton-valedictory-too-young-too-old
+title: "Simon Upton Valedictory  - \"Too Young - Too Old\""
+date: 2000-12-13
+source-url: https://www.scoop.co.nz/stories/PA0012/S00197/simon-upton-valedictory-too-young-too-old.htm
+author: new-zealand-national-party
+---
+Simon Upton Valedictory - \"Too Young - Too Old"
+===============================================
+
+**Wednesday, 13 December 2000, 9:29 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Too Young - Too Old  
+Valedictory Speech
+
+12 December 2000  
+3.00pm
+
+Rt Hon Simon Upton MP
+
+  
+It has been a privilege to serve here. But the House of Representatives needs constant replenishment with people who are not comfortable with its ways. On that count alone it is certainly time that I moved on.
+
+If there has been a disappointment for me it has been this place – Parliament. I love debating. I came here 19 years ago to debate.
+
+People expect us to discuss the big issues. But we rarely do. We have emasculated the opportunities for debate to such an extent, that there are better policy discussions occurring in some local council chambers around this country than here. Outside of question time (which has greatly improved thanks in no small part to your leadership Mr Speaker) this has become a place of formulaic offerings along partisan lines. Only when we carefully stake out a "conscience issue" do people see us trying to persuade one another by arguing the substance of the case.
+
+I don't claim there was once some golden age of oratory here, but the extended debates on the Budget and the Address in Reply that used to unfold in a much more leisurely way, gave each Member the opportunity to address issues outside of the treadmill of government legislation that the Executive serves up. The five minute speeches that blight the General Debate every second Wednesday afternoon are a travesty of Parliamentary debating. It would do Parliament's reputation no end of good to create the space for the more extensive exploration of the issues – like the Treaty - that people really do worry about.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Where are the opportunities to debate our future foreign policy orientation; where is the opportunity to discuss our relationship with Australia or how we should think about citizenship and immigration? We provide a means to adjourn the House to debate scandals that are unearthed – (and Oppositions devote themselves to almost nothing else) – but we provide no serious opportunities (outside of legislation) to debate issues before they become mired in controversy.
+
+This could easily be misrepresented as a slightly naïve, debating society view of Parliament. I am under no such illusions. This is not a place where people come to be nice to one another. It's the scene of a fierce and sometimes brutal contest.
+
+But oral debate is a very good way of exposing the weak points in an argument – weak points that are easily glossed over in carefully crafted prose.
+
+Debating is a very human thing - it's something everybody does every day at work and at home. Yet we have formalised and stifled it here in Parliament - the very institution that once placed oral debate at the heart of our political culture. I do hope the review of Standing Orders will provide an opportunity for Members to reconsider this.
+
+Disappointment in Parliament as a forum isn’t, of course, a judgement on its inhabitants. Contrary to cynical popular mythology, most MPs come here to do the best for their country as they see it. And the best of them are people of real integrity who hold their ground doggedly – and in doing so bring democracy to life.
+
+The members who remain most clearly etched in my memory are, by and large, not household names. And many of them are people with whom I had little in common or whose views I did not necessarily share. But the courage with which they held their ground under fire was what made them compelling human beings.
+
+I think of Norman Jones whose opposition to the Vietnam War in the 1960s must have been an exceedingly unpopular conviction in a conservative party. Or John Banks whose passionate defence of animal rights in a caucus filled with sheath-knife toting farmers never failed to impress. Trevor de Cleene's views were as politically incorrect as you could imagine. He never shrank from expressing them directly and colourfully. And he will be remembered where so many of us will see our utterances decay in the verbal sludge that moulders away in ageing Hansards.
+
+Without question, the two most compelling conviction politicians on my side of the House have been Derek Quigley and Ruth Richardson. Their convictions didn’t help their political careers – but then, to their enormous credit, they didn’t regard politics as a career. I shall never forget my first caucus meeting at which Ruth, a fellow novice, calmly and crisply announced the terms of her engagement with the Prime Minister, Sir Robert Muldoon…
+
+Whatever the ups and downs of life in Parliament, I was never happier than when I represented the Raglan electorate. (Waikato was never the same). My first engagement with politics was in Marilyn Waring’s Raglan organisation back in 1976, which proved to be a fertile source of future MPs including Katherine O’Regan and Doug Woolerton - the most enjoyable Electorate Chairman I ever had before he washed up here as a NZ First MP.
+
+When Doug stopped being a cocky he went selling cars. On almost the first occasion he got up to speak in a Wednesday afternoon debate someone rather unkindly called out “Who’d buy a used car from this man?” to which in a frenzy of excitement I found myself calling out – “I would, in fact I have”. And I own it to this day – a 1987 Holden that is the most reliable car I’ve ever owned. (It is by the way on the market if anyone here wants to …)
+
+Doug and I drove countless miles together to tiny meetings at the back of beyond. One corner – not quite as far as beyond – was Te Pahu where Helen Clark grew up. Her father, George, was deputy chairman of my electorate committee. George could be a bit grizzly and he reacted pretty sharply to smug political bravado. But he was very kind to me and whatever our political differences I find it reassuring to know that our Prime Minister’s instincts were moulded in a household for which I have great respect and which showed me great kindness.
+
+The hill country from which the PM comes is very much where my own roots lie.
+
+It’s a beautiful, not specially well known part of New Zealand that guards three magical harbours and some of the wildest and most exhilarating West Coast seascapes in the land. It’s where my father’s mother’s family settled in the very earliest days of European settlement and I’d like, today, to relate a little piece of family history that has been in the back of my mind over the last few years.
+
+If you open the old, 1940 Dictionary of New Zealand Biography you will find this laconic entry under the name of Wilson, Thomas:
+
+“(1814-86), born at Burton-on-Trent, came to Taranaki in the Berkshire (1849) and spent some years in business in New Plymouth and farming. In 1856 he moved to Raglan in the Zillah and took up a farm at Okete, where he remained throughout the Maori wars, running many risks and alarms from hostile natives. He represented Raglan in the Auckland Provincial Council (1873) and was chairman of the Whaingaroa road board and a member of the county council. Wilson died on 8th September 1886.”
+
+Behind that description of my great great grandfather, lies a fascinating tale. Like all early settlers who purchased their land from local Maori, survival depended on getting on with your neighbours. Trade between settlers and Maori developed very quickly.
+
+I grew up in the 1960s listening to my great Uncle – Harold Wilson – reminiscing about life in the Raglan hill country in the second half of the nineteenth century. He knew Tawhiao and Te Puea and, like all members of the first three generations of the family, spoke fluent Maori.
+
+Maori and Pakeha alike were cattle traders. He would talk of how they swam mobs of cattle over the harbour mouths using horses, dogs and Maori canoes, judging it so the turning tide carried the stock to right landing place.
+
+Relations must have been good. Maori used to sharpen their axes on the Wilson grindstones. And when local Maori expressed concern that a tomos in which they’d placed valuable items might be raided, the family obtained iron gates to close off the entrance.
+
+As tensions rose with the approach of the land wars, some Maori advocated the speedy despatch of the Pakeha. My great grandfather – a young man at the time – found himself on the receiving end of this sentiment one day as he squatted on the floor of a whare in Okete. A fierce Maori warrior from the Taranaki had come up the coast to call people to arms and was addressing the locals.
+
+There was a single, white tallow candle burning in the whare and to demonstrate what should happen to the settlers, the speaker raised his taiaha and swung it violently through the candle, decapitating it. “And”, he said, “we should clean up the Wilsons first.”
+
+My great grandfather said he’d never been so terrified in his whole life. But the local elder, one Wiremu Te Naana, intervened. “We have no quarrel with the Wilsons”, he said. “They’re our friends”. And he took off his feathered cloak – his korowai – and placed it around my great grandfather’s shoulders and effectively placed a tapu on the family. It remains in the family to this day.
+
+No-one was harmed. And so my great grandfather, his father and the rest of the family carried on farming without running any “risks and alarms from hostile natives”. And all of us, to this day, know that we owe our existence in New Zealand to that act of magnanimity.
+
+Now there is no particular moral to be drawn from this tale other than that my forbears – and their Maori contemporaries – had to work out, face to face, how to live together. And so must we today. We have to be honest about our history, but there is no need to be trapped by it.
+
+I have gone on the record and said that I am not unduly phased by Tariana Turia’s description of what colonisation meant for Maori. Social and cultural upheaval, diseases that decimated the population, land alienation and the destruction of the landscape must have been pretty traumatic. New Zealanders who react with horror that she should have described it as a holocaust are being a bit precious – or indulging in collective amnesia.
+
+But having said that, it doesn’t follow that contemporary New Zealanders should walk around in sack cloth and ashes. Or that we should start to romanticise the position Maori found themselves in by the late eighteenth century. Their isolation from globalisation could not have been preserved. The technological gap was too large for them to have resisted outsiders. And in any case, like any adaptable people, they saw real advantages in engagement with Europeans.
+
+They weren’t trapped by their history. Neither should any of us here today. Which is why I don’t believe the Treaty of Waitangi can provide us with much guidance. There’s just not enough to it. While I would strenuously defend the settlement of the long-standing land-based grievances raised under Article II, many aspects of the Treaty are deeply problematic. While its historical significance cannot be swept aside, neither can it provide answers to constitutional questions that were not in the minds of the parties at the time. The Treaty of 1840 isn’t a blueprint for how we should govern ourselves.
+
+In this vein, I must express grave misgivings about those who would attempt to build a constitutional debate around an assertion that the Treaty involves a partnership. Not only is that not what the treaty says. The idea perpetuates a fiction that we can solve our differences through negotiations between Maori and an abstract entity called the Crown.
+
+But the Crown has no political will or resources independent of the people. Claims against the Crown are claims against all New Zealanders (including Maori who, on that basis, can claim to be on both sides of the table at once). Those who seek to invoke the Treaty in respect of the radio frequency spectrum, genetically modified organisms or social services are ultimately seeking to influence the allocation of resources and the distribution of income through the exercise of political power.
+
+That’s a perfectly legitimate thing to do in a democracy. But we should be under no illusions that where the exercise of political power is involved, we are talking about powers that rely for their legitimacy on a democratic mandate that can be withdrawn. That is why I view with increasing concern the tendency to leave it to the courts to sort out what Parliament finds itself unable to determine on Treaty issues.
+
+I have been a party, during the 1990s, to legislative evasions that have effectively passed to the courts, judgements that are inherently political. The resource Management Act and the HSNO Act are just two examples which I was myself responsible for putting on the statute book. The uncertainty that treaty references therein have generated – and the prospect that they can only be determined by judicial means – is seriously corrosive of public confidence.
+
+The reaction the current government experienced in respect of its own health legislation was, to my mind, the result of rising levels of disquiet that profound changes have been under way for well over a decade now that have no firm mandate. Indeed, a comparative study of values and attitudes over the last decade by Massey University shows an unequivocally rising trend of rejection to the Treaty of Waitangi. As the authors put it, with masterly understatement, the results “seem to indicate that this issue is a major point of division within the country”.
+
+The responsibility for that rests squarely with all of us who have handled these issues over the last 15 years or so. To my mind, MPs need to debate these issues directly and without a politically correct filter. It is better to risk offence and have things in the open than perpetuate a subterranean conversation that allows all sorts of prejudices to smoulder.
+
+I don’t believe the Treaty is the point of unity some wistfully hope it might be. Neither is it the rock on which a sense of shared identity can be easily built. It was a political deal. And politics is rarely a sound basis for emotional bonds. I’d like to propose a different one and, in doing so, reiterate a theme I’ve touched on several times in the last couple of years.
+
+Very simply, these were the last islands of any size on the planet to be reached by human beings. We are, in geological and anthropological terms, both extremely late arrivals. Before Polynesians arrived here there were only birds living amidst the temperate forest remnants of Gondwanaland. Maori date their arrival through oral history. Contemporary science fixes the clock through dating the pulse of extinctions that accompanied their arrival.
+
+Unlike almost anywhere else on earth ours is a land, and a landscape, that has not co-evolved with humans. Go to Africa, South Asia, China or the Mediterranean and you will see landscapes in which nothing primordial has survived. The imprint of humanity is inescapable. Whereas here, in New Zealand, we are literally surrounded by the last vestiges of Eden.
+
+Last spring I walked onto the beach at Papatowai in the Catlins on New Zealand’s most southern and easterly coast and contemplated just such a remnant. Across the estuary from where I stood a regenerating rimu forest, some 150 years old, held the foreshore . Rising above it were a few gnarled old podocarps – sentinels of an earlier era. From the soft alluvial river bank opposite, a constant stream of moa bones is exposed by estuarine erosion. It’s one of the earliest sites of human landfall in the South Island.
+
+On my side of the river, the bush was older, less disturbed. Pushing just a few metres into the undergrowth we came immediately upon three ancient trees, a rimu, a matai and a totara –the last, a simply massive specimen a thousand years old or more my guide suggested. It was a transcendental moment standing face to face with a living object that had stood guard on this site long before the first waka appeared. And so it is in many fragmentary corners of New Zealand. There are probably trees still living that moa grazed before their rapid despatch at the hands of humans.
+
+We have, in 700 - 800 short years, completely 'terraformed' this corner of our planet. A youthful (and unstable) geological landscape and an ancient biota had somehow remained intact but vulnerable. The land had no defences save isolation. First Maori, then European invaders wreaked havoc. From this point of view, the question of who arrived here ‘first’ becomes meaningless. We arrived within a split second of one another and we live amidst the ruins. It is true to say here – in a way that cannot be said anywhere else – that, in one sense, humans do not belong here. We are interlopers from another geological age and we have set in train a pattern of extinctions and ecological upheaval that cannot be reversed.
+
+Neither Maori nor European settlers knew how to live with the strange land they had encountered. The technologies of exploitation they deployed were very different; the scale of their ecological footprints very different. But in the innocence – and the ignorance - of their respective encounters, some 500-600 years apart, they came face to face with something unique that continues to trouble us all to this day.
+
+Could it be that our shared national identity might, for the first time in history, be rooted in a crusade to save from annihilation, not a people or a culture, but a fragment of the biosphere. The land we live in gnaws away at us, as we gnaw away at it. I know of no New Zealanders who are indifferent about the landscapes, the seascapes and skyscapes that dominate our lives.
+
+The way we wrestle with the forces we have unleashed, could determine our national identity. If we let the slide continue we remain just another colony of itinerant human grazers whose appetites and motivations have – since the last Ice Age – caused such profound changes to the planet. But if we turn the tide, we could forge an identity built on a coming to terms with our land that would be an act of human imagination without precedent.
+
+I have, throughout my time here, been associated with the science and environment portfolios. As a result I’ve been privileged to spend a large amount of time with some very talented people whose lives and training have been devoted to interpreting the natural history of some of the most remarkable land masses on the face of the planet.
+
+These people are among my heroes. I shall never forget collecting insects with a group of slightly mad entomologists on the Auckland Island; or walking in the middle of the night with some geologists over a 400 million year old landscape thousands of feet above McMurdo Sound with the sun low in the sky behind us, illuminating the edge of the great East Antarctic ice sheet; I can recall skirting the fringes of Hunt’s Beach forest with Kevin Smith or disappearing into dramatic limestone territory near Karamea with Guy Salmon. These are the people who have revealed the real magic of my country to me – and whose painstaking research and advocacy have given us something we should all be able to unite in protecting. I thank them from the bottom of my heart.
+
+There are, of course, many people to whom I have become indebted in the course of my time as an MP. It is reckless to single out individuals when the list of devoted and tireless workers is so long. But I would like to risk all and place on the record of the House one or two names:
+
+Stephanie Hutchinson (my longest serving agent and a niece of another MP for Raglan, Hallyburton Johnstone).
+
+Jim McLay, the best Prime Minister New Zealand never had, who – in the face of my indignant protests – made me shadow the science portfolio in the mid-1980s.
+
+Dr Andrew West who, in 1990, was an inspirational assistant working along side me in the establishment of CRIs (as he had worked alongside Margaret Austin before me).
+
+Colin James – one of the few journalists who has never stopped reading and never stopped making me think.
+
+And then, in the last year, the mercurial and mysterious Bernard Cadogan who, from his crepuscular lair in the Opposition Research Unit, has bombarded me with ideas, images and conundrums as I’ve developed upton-on-line.
+
+I have enjoyed this last year in Opposition more than any for a decade or more. As I remarked to my colleagues this morning it’s as well that I’m going because the last thing they need is someone who’s enjoying the freedom and space that Opposition provides.
+
+But the people who will relish my departure most are my family. Bhaady married me when I had already been a parliamentarian for three years. But even she can’t have envisaged just how disruptive politics can be. We have not spent longer than nine weeks in the unbroken presence of one another in our entire married lives. Having children was a protracted and gruelling business for her only to be followed by virtual single parentdom. I know many members share the sense of guilt I feel towards Bhaady in having traded so heavily on her loyalty and commitment to making it all work.
+
+Geoffrey and Laura have taken up the cudgels in recent times with the level of resentment about my absences steadily rising. Geoffrey is about to learn about living in a small confined space where he can’t stamp or run about. Well Geoffrey, you’re about to learn that you can’t ever have everything in this life. You and Laura will gain a father and lose a large measure of physical freedom.
+
+Moving to Paris is a slightly scary prospect for our little family. But I made up my mind, again, some time ago, that when I left this place I would try to leave the country as well. It’s a small place, there is no anonymity and there’s nothing more ex than an ex-MP. So I feel very settled about the decision to live half a world away.
+
+But we will return in due course. I love my home and garden in the Waikato. I love Wellington. It is the home to some of my most cherished rituals – walking in the Botanical Gardens in which I watched the seasons change these last 19 years; running high in the green belt on summer evenings, repairing to Parson’s bookshop religiously every morning (along , it would seem, with half the legal profession: I hope they weren’t on legal aid); attending evensong at St Paul’s Cathedral across from Parliament on Thursday evenings (until House sitting hours were extended to 6.00 o’clock).
+
+I hope that new members will develop their own rituals of observance and carve out their own understanding of New Zealand. It has been my privilege, in public life, to see my country and learn about it and its people in a way that is open to few others. I thank the people of New Zealand, the National Party and the House for the opportunities I have been given. And now it is time to say good bye.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

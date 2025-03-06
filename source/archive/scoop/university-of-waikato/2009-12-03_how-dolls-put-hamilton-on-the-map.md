@@ -1,0 +1,67 @@
+---
+slug: how-dolls-put-hamilton-on-the-map
+title: "How dolls put Hamilton on the map"
+date: 2009-12-03
+source-url: https://www.scoop.co.nz/stories/CU0912/S00034/how-dolls-put-hamilton-on-the-map.htm
+author: university-of-waikato
+---
+How dolls put Hamilton on the map
+=================================
+
+**Thursday, 3 December 2009, 1:40 pm**  
+**Press Release: [University of Waikato](https://info.scoop.co.nz/University_of_Waikato)**
+
+Media Release  
+December 3, 2009  
+
+New book delves into how dolls put Hamilton on the map
+
+An important part of Hamilton’s industrial and commercial heritage is brought to life in a new book, to be launched next week \[Tuesday December 8\] at the University of Waikato.
+
+The Foremans: Plastics Manufacturers of Hamilton, 1945-1995, by David Coy, tells the story of the businesses started by Morton (Mortie) Foreman and his son Bill which put Hamilton firmly on the map in the world of plastics manufacturing.
+
+The Foreman family companies, Plastic Products and Trigon, spanned two generations and went from making plastic dolls in a converted garage off Hamilton’s main thoroughfare, Victoria Street, to manufacturing some of the world’s most advanced packaging in state-of-the-art plants in three countries.
+
+Dr Coy, a former accounting academic and an Honorary Fellow of the University of Waikato, took on the job of writing the history after Yvonne Foreman, Mortie’s widow, approached the University for help.
+
+“When I read through the archive material Yvonne provided, I thought the story merited a wider audience than just the family and University researchers, so we had the idea of publishing it as a book,” Dr Coy says.
+
+With the support of former Trigon Technical Director Russell Cassey and approval from Bill Foreman, the project took shape. The 120-page book is illustrated with more than 100 archive photographs and skilfully combines the business stories of two generations of the Foreman family with the history and development of Plastic Products and Trigon.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“The Foremans and their companies were true pioneers in the plastics industry,” says Dr Coy. “Mortie Foreman ran a garage in Hamilton, but when the bottom fell out of the motor industry at the beginning of the Second World War, he looked around for something he could make from locally available materials. He went up and down Victoria Street asking retailers what they wanted and they all came back with the same answer – dolls. These were imported from Canada, and were an early casualty of wartime import restrictions
+
+“So Mortie got to work, and experimented with a mix made from fine sawdust from a Frankton box factory, casein from the dairy factory and formaldehyde until he came up with a composite that could be moulded into dolls heads. The Plastics Products dolls became a great success in New Zealand, and later around half the factory’s output went for export to Australia – making the dolls one of New Zealand’s first non-agricultural exports.”
+
+Plastics Products became a leader in New Zealand’s fledgling plastics industry with some of the most advanced techniques and machinery in the world. By 1962, it was producing the revolutionary plastic milking machine components which were sold throughout the world, most of the country’s squeeze bottles, and scores of other products including Kaydee sandals and the bulk of New Zealand’s ball-point pens.
+
+Mortie’s son Bill went on to found his own company, Trigon, and by the 1980s the hi-tech plastic packaging films Trigon produced enabled New Zealand’s meat industry to add value by exporting chilled and frozen cuts instead of whole carcasses. Trigon also developed plastic envelopes which became the standard for the air courier industry worldwide.
+
+Both companies remained in private ownership for just under 25 years. Plastic Products now operates as Alto Packaging Ltd, owned by Visy Corporation of Australia, while Trigon now operates as the Cryovac division of the US-based Sealed Air Corporation.
+
+Mrs Foreman says Dr Coy has done an excellent job. “I believe that both companies contributed hugely to Hamilton’s economic and social growth at a vital time in Hamilton’s development as a city. The qualities of dedication, highest standards and innovation are well-documented in the book, and I am immensely grateful to the University of Waikato’s Management School and Dr David Coy in particular for seeing the worth in not only archiving the documents and photos etc but in taking the project a step further by his authorship of this excellent publication.”
+
+The Foremans: Plastics Manufacturers of Hamilton, 1940-1995 by David Coy is available from Russell Cassey, price $30.
+
+ends  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Waikato](https://info.scoop.co.nz/University_of_Waikato) on InfoPages.

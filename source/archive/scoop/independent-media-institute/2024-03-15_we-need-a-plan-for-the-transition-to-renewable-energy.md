@@ -1,0 +1,176 @@
+---
+slug: we-need-a-plan-for-the-transition-to-renewable-energy
+title: "We Need A Plan For The Transition To Renewable Energy"
+date: 2024-03-15
+source-url: https://www.scoop.co.nz/stories/HL2403/S00025/we-need-a-plan-for-the-transition-to-renewable-energy.htm
+author: independent-media-institute
+---
+We Need A Plan For The Transition To Renewable Energy
+=====================================================
+
+**Friday, 15 March 2024, 9:26 am**  
+**Article: [Independent Media Institute](https://info.scoop.co.nz/Independent_Media_Institute)**
+
+The transition to renewable energy is inevitable given the current climate crisis and the fact that fossil fuels are a finite resource. To make the shift, a detailed plan is required to indicate the first steps and anticipate challenges in allocating resources and the policies needed to achieve the outcome. Germany has arguably accomplished more toward the transition to renewable energy than any other nation, largely because it has such a plan—the “Energiewende,” which seeks a 60 percent reduction in all fossil fuel use by 2050 and a 50 percent reduction in primary energy use through efficiency in power generation, especially for buildings and the transport sector.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+What follows are some components of a basic plan that can be adapted according to each country or state and adjusted for contingencies.
+
+Level One: The ‘Easy’ Stuff
+---------------------------
+
+The easiest way to kick-start the transition is to switch to solar and wind power for electricity generation by building lots of panels and turbines, respectively, while phasing out coal. Distributing generation and storage of these energy sources (rooftop solar panels with home- or office-scale battery packs) will help. Replacing natural gas will be harder because gas-fired “peaking” plants are often used to buffer the intermittency of industrial-scale wind and solar inputs to the grid.
+
+Electricity accounted for less than a quarter of all final energy used in the United States in 2022. Since solar, wind, hydro, and geothermal produce electricity, it makes sense to electrify even more of our energy usage—heating and cooling buildings with electric air-source heat pumps and cooking with electric induction stoves, for example.
+
+Transportation represents a large swath of energy consumption, mostly due to the growing number of personal cars. As of 2021, there were 250 million gasoline-fueled automobiles. While we are busy replacing these with electric vehicles, we can easily and cheaply promote walking, bicycling, and public transit.
+
+Substantial retrofitting is needed for energy efficiency. Building codes should be strengthened to mandate net-zero or near-net-zero energy performance for new construction. Zoning codes and development policies should encourage infill development, multifamily buildings, and clustered mixed-use development. Using more energy-efficient appliances will also help.
+
+The food system is a significant energy consumer. Increasing the market share of organic local foods can dramatically lower the amount of fossil fuels used to manufacture fertilizers as well as in food processing, and in transportation. We can also sequester enormous amounts of atmospheric carbon in topsoil by promoting farming and land management practices that build soil rather than deplete it.
+
+By our calculations, these actions could reduce carbon emissions by 40 percent in 10 to 20 years.
+
+Level Two: The Harder Stuff
+---------------------------
+
+Solar and wind technologies provide energy intermittently. When they become dominant, we must adapt to this with substantial amounts of grid-level energy storage and a major grid overhaul to get the electricity sector to 80 percent renewables. We’ll also need to time our energy usage to coincide with sunlight and wind energy availability.
+
+The transport sector will require extensive and costly restructuring. Densified cities and suburbs can be reoriented to public transit, bicycling, and walking. All motorized human transport can be electric, with more public transit and intercity passenger rail links. Heavy trucks could run on fuel cells, but it would be better to minimize trucking by expanding freight rail. Sails would increase the fuel efficiency of shipping, but relocalization or deglobalization of manufacturing would be a necessary co-strategy to reduce the need for shipping.
+
+Although much of the manufacturing sector runs on electricity, many raw materials used during the manufacturing processes either _are_ fossil fuels or require fossil fuels for mining or transformation. By replacing fossil fuel-based materials and by increasing the recycling of nonrenewable materials, we can reduce dependency on mining.
+
+If we do all this and build far more solar panels and wind turbines, we could, by our calculations, achieve roughly an 80 percent reduction in emissions.
+
+Level Three: The Really Hard Stuff
+----------------------------------
+
+Eliminating the last 20 percent of our current fossil fuel consumption will take even more time, research, investment, and behavioral adaptation. One example is that we currently use enormous amounts of cement in construction with concrete. Cement-making needs high heat, which could theoretically be supplied by sunlight, electricity, or hydrogen—but only with a complete redesign of the process.
+
+This is the time to make all food production organic and to ensure that agriculture builds topsoil. Eliminating all fossil fuels will entail redesigning food systems to minimize processing, packaging, and transport.
+
+The communications sector—which uses mining and high-heat processes to produce phones, computers, servers, wires, photo-optic cables, cell towers, and more—presents a challenge. The only good long-term solution here is to make devices that last and then repair, fully recycle, and remanufacture them only when absolutely needed. The internet could be maintained via low-tech, asynchronous networks now being pioneered in poor nations, using relatively little power.
+
+In the transport sector, scrapping petroleum will require costly substitutes (fuel cells or biofuels). Global trade will inevitably shrink. With no ready substitute for aviation fuels, we may have to relegate aviation to a specialty transport mode. Planes running on hydrogen or biofuels are an expensive possibility, as are dirigibles filled with (nonrenewable) helium.
+
+On land, paving and repairing roads without oil-based asphalt is possible, though it will require a complete redesign of processes and equipment.
+
+If we can do all this, we can get beyond zero carbon emissions; with carbon sequestration in soils and forests, we could reduce atmospheric carbon each year.
+
+Scale Is the Biggest Challenge
+------------------------------
+
+It is possible to design a renewable energy system that 1) has minimal environmental impacts, 2) is reliable, and 3) is affordable—as long as relatively modest amounts of energy are needed. Once current U.S. scales of energy production and usage are assumed, something has to give.
+
+We sacrifice the environment (due to the vast tracts of land needed for siting wind turbines and solar panels) for the purposes of reliability (because solar and wind are intermittent) and affordability (because of the need for storage or capacity redundancy).
+
+Power is another hurdle: massive ships and airplanes require energy-dense fuels. Renewable energy resources can supply the needed power, but scale is crucial. While building and operating a few hydrogen-powered airplanes for specialized purposes would be technically feasible, operating fleets of thousands of commercial planes with hydrogen fuel is daunting from both a technical and economic perspective.
+
+It’s Not All About Solar and Wind
+---------------------------------
+
+Solar and wind are the favored energy sources of the future; equipment prices are falling, the rate of installation continues to be high, and there is considerable potential for further growth. However, their inherent intermittency will pose increasing challenges as they become more dominant. Other renewable energy sources—hydropower, geothermal, and biomass—can more readily supply controllable baseload power, but these sources have much less opportunity for growth owing to limits on siting, geology, and supply.
+
+Hopes for high levels of wind and solar energy supply are driven mainly by the assumption that industrial societies can and should maintain very high levels of energy use. The challenge is always scale: If energy usage in the United States could be scaled back significantly (70 to 90 percent), then a reliable all-renewable energy regime would become much easier to envision and cheaper to engineer.
+
+We Must Adapt to Less Energy
+----------------------------
+
+Considering the speed and scale of emission reductions required to avert climate catastrophe, people in industrialized countries will have less energy than they are used to consuming.
+
+Despite our understandable wish to maintain current levels of comfort and convenience, it’s worth keeping an ecological footprint analysis in mind.
+
+According to calculations by the Global Footprint Network, the productive land and water available to each person on Earth to live sustainably in 2019 was 1.6 global hectares. Meanwhile, the per capita ecological footprint of the United States was 8.1 global hectares per capita in 2018 (if the entire world population lived at this footprint, it would require five planet Earths).
+
+Clearly, we should aim for a sustainable energy and material consumption level, which, on average, is significantly lower than at present. If we don’t achieve this, we will eventually be caught short, with significant economic and political fallout.
+
+What should we do to prepare for energy reduction? Look to California as a model: Since the 1970s, its economy has grown while its per capita electricity demand has not. The state has encouraged cooperation between research institutions, manufacturers, utilities, and regulators to determine how to keep demand from growing by changing how electricity is used.
+
+Consumerism Is a Problem, Not a Solution
+----------------------------------------
+
+Conservation beats consumption in the dawning post-fossil fuel era. If it becomes more difficult and costly to produce and distribute goods, people will have to use them longer and repurpose, remanufacture, and recycle them wherever possible. The switch from consumerism to conservation will transform America’s culture, economy, and government policy.
+
+The renewable economy will likely be slower and more local. Economic growth may reverse itself as per capita consumption shrinks. If we are to avert a financial crash, we may need a different economic organizing principle. In her 2014 book on climate change, _This Changes Everything_, Naomi Klein asks whether capitalism can be preserved in the era of climate change. Although it probably can, in the absence of overall growth, profits for a few will have to come at a cost to everyone else, a situation we have seen in the years since the financial crash of 2008.
+
+Population Growth Makes Everything Harder
+-----------------------------------------
+
+Population is a climate and energy issue. If energy and materials are likely to dwindle in the decades ahead, population growth will mean even less consumption per capita. On a net basis (births minus deaths), we are gaining 83 million humans each year—according to a 2017 UN report—an unprecedented number, even if the percentage rate of growth is slowing.
+
+Policymakers can help reduce the population by promoting family planning, public persuasion, raising the educational level of poor women, and giving women complete control over their reproductive rights. (For detailed recommendations, consult population organizations such as Population Institute and Population Media Center.)
+
+Fossil Fuels Are Too Valuable to Allocate Solely Based on Market Forces
+-----------------------------------------------------------------------
+
+For non-energy purposes, industrial societies will need fossil fuels for some applications until the final stages of the energy transition—and possibly beyond. Crucially, we need fossil fuels for industrial processes and transportation to build and install renewable energy systems. We also need them for agriculture, manufacturing, and general transportation until robust renewable energy–based technologies are available. This poses several problems.
+
+As the best of our remaining fossil fuels are depleted, we extract and burn ever lower grade and harder to get coal, oil, and natural gas. Virtually all new production prospects involve tight oil, tar sands, ultraheavy oil, deepwater oil, or Arctic oil—all of which entail high production costs and high environmental risk compared to conventional oil found and produced during the 20th century.
+
+Refining heavier, dirtier fuels (in the case of tar sands) creates ever more co-pollutants, with disproportionate health impacts and burden on low-income communities. The fact that the fossil fuel industry will require ever-increasing levels of investment per unit of energy yielded has gloomy implications for the energy transition: the deteriorating fossil fuel sector will need a large chunk of society’s available capital to maintain current services, just as the build-out of renewables will require even more capital.
+
+The danger is that fossil fuels will become so costly we’ll no longer be able to afford the transition project.
+
+But we cannot accelerate the transition too much. Rushing the transition will mean an overall increase in emissions—unless we reduce other current uses of fossil fuels. To fuel the transition without increasing overall greenhouse gas emissions, we may have to deprive some sectors of the economy of fossil fuels before adequate renewable substitutes are available. This would mean reducing overall energy consumption and the economic benefits of energy use while taking care to minimize the impact on already vulnerable and economically disadvantaged communities.
+
+We are entering a period of fossil fuel triage. Rather than allocating fossil fuels simply on a market basis (those who pay for them get them), it would be fairer to find ways to allocate fuels based on the strategic importance of the societal sectors dependent on them and on the relative ease and timeliness of transitioning these sectors to renewable substitutes.
+
+Agriculture, for example, might be deemed the highest priority for continued fossil fuel allocations, with commercial air travel assuming a far lower priority. Perhaps we need not have just one price on carbon but different prices for different uses. Not only do we see scant discussion of this prospect in energy policy literature, but few governments even acknowledge the need for a carbon budget. The political center of gravity, particularly in the United States, will have to shift significantly before decision-makers can acknowledge the need for fossil fuel triage.
+
+As fossil fuels become more costly to extract, there may be an ever greater temptation to use our available energy and investment capital merely to maintain existing consumption patterns, putting off any effort to effect the transition. If we procrastinate too much, we will reap the worst possible outcomes—climate chaos, a gutted economy, and no way to build a bridge to a renewable energy future.
+
+Everything Is Connected
+-----------------------
+
+Throughout the energy transition, great attention will have to be given to the interdependent linkages and supply chains connecting various sectors (communications, mining, and transport knit together most of what we do in industrial societies). Some links in supply chains will be hard to substitute, and chains can be brittle: a problem with even one link can imperil the entire chain.
+
+Consider, for example, the materials required to manufacture and operate a wind turbine. The components come from different manufacturing sectors in various places in the world.
+
+Planning will need to take such interdependencies into account. As every ecologist knows, you can’t do just one thing.
+
+This Really Changes Everything
+------------------------------
+
+Energy transitions change societies from bottom to top and from inside out. From a public relations standpoint, it may be helpful to give politicians or the public the impression that life will go on as before while we unplug coal power plants and plug-in solar panels. Still, the reality will probably be quite different.
+
+During historic energy transitions, economies and political systems underwent profound metamorphoses. The agricultural revolution and the fossil-fueled industrial revolution constituted societal watersheds. We are on the cusp of a transformation that is every bit as decisive.
+
+If the renewable energy transition is successful, we will achieve savings in ongoing energy expenditures needed for each increment of economic production, and we may be rewarded with a quality of life that is actually preferable to our current one.
+
+We will enjoy a much more stable climate and greatly reduced health and environmental impacts from energy production activities. However, converting to 100 percent renewable energy will not solve other environmental issues such as deforestation, land degradation, and species extinctions.
+
+Possibly, the most challenging aspect of this transition is its implication for economic growth. Whereas the cheap, abundant energy of fossil fuels enabled the development of a consumption-oriented growth economy, renewable energy will likely be unable to sustain such an economy.
+
+Rather than planning for continued, unending expansion, policymakers must begin to imagine what a functional post-growth economy could look like. Among other things, the planned obsolescence of manufactured goods must end in favor of far more durable products that can be reused, repaired, remanufactured, or recycled indefinitely.
+
+It seems wise to channel society’s efforts toward no-regrets strategies—efforts that shift expectations, emphasize quality of life over consumption, and reinforce community resilience. Even though it may be impossible to envision the end result of the renewable energy transition, we must seek to understand its scope and general direction.
+
+Our descendants will inhabit a renewable world that works differently from ours. Whether it will be better or worse depends on our current decisions. The sooner we address the most obvious and pressing decisions (starting with a mandatory global cap on carbon emissions), the earlier we can anticipate the succeeding waves of problems and choices.
+
+Author Bios:
+------------
+
+**David Fridley** is a retired staff scientist and an affiliate of the Energy Technologies Area at Lawrence Berkeley National Laboratory. He is an advisor at Post Carbon Institute. He is a contributor to the Observatory.
+
+**Richard Heinberg** is a senior fellow at Post Carbon Institute and the author of _Power: Limits and Prospects for Human Survival_. He is the co-author, with David Fridley, of _Our Renewable Future_. He is a contributor to the Observatory.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Independent Media Institute](https://info.scoop.co.nz/Independent_Media_Institute) on InfoPages.

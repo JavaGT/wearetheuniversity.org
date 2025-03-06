@@ -1,0 +1,126 @@
+---
+slug: taxes-up-last-year-no-money-this-year
+title: "Taxes Up Last Year – No Money This Year"
+date: 2001-05-28
+source-url: https://www.scoop.co.nz/stories/PA0105/S00586/taxes-up-last-year-no-money-this-year.htm
+author: act-new-zealand
+---
+Taxes Up Last Year – No Money This Year
+=======================================
+
+**Monday, 28 May 2001, 9:55 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Budget 2001: Taxes Up Last Year – No Money This Year
+
+Monday 28th May 2001
+
+Rodney Hide
+
+Post-Budget Speech, Waipuna Hotel, Auckland 27 May 2001
+
+Finance Minister bounces cheques
+
+We knew that the government was in financial trouble when we learnt that Michael Cullen had bounced cheques to taxpayers owed GST refunds. The cheques were bounced and then Michael Cullen announced that he was passing retrospective tax legislation so that he won’t have to honour the cheques.
+
+I thought then that the government must be in a tight position. But it was still a surprise to realise just how tight it is.
+
+Growth forecast piddling
+
+But we need a comparison. Let’s just cast our minds back a moment to the 1995 Budget. Back then the economy was growing at over five percent. The forecast was for New Zealand to grow at four percent a year. The surpluses were forecast to rise to $8 billion dollars – or eight percent of GDP.
+
+Our current growth rate is a piddling 2.6 percent and the forecast ahead is for a growth of less than three percent. The largest forecast surplus up ahead in four years is $3.6 billion.
+
+The difference in these years? Seven years of policy drift and poor spending decisions. The reason the Budget is tight is because the economy is tight. A one percent difference in forecast growth for ten years costs over fifty billion dollars in lost output.
+
+Of course, four percent growth is still not enough. Our aim must be to get the economy growing at five percent or more if we truly want to transform the economy and move into the top half of the developed world’s economic ladder.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+But it’s not enough that we just wish for that to happen – we must put in place the very policies that will provide for that to happen. What we have done in New Zealand in recent years is the exact opposite. The reason the government finds itself with a tight Budget is same reason that the rest of us find ourselves with a tight budget: our economy is under-performing. And it is under-performing not just a little – but by a lot.
+
+The reason for this under-performance is not “The World Situation” but precisely what we have done to ourselves in recent years. But more on that diagnosis and prescription in a moment.
+
+Fiscal Responsibility Act wraps up Cullen and Anderton
+
+First, we should give thanks to Ruth Richardson and her Fiscal Responsibility Act. Following her sacking as Finance Minister she stayed on in Parliament for one reason and one reason only – to conceive an Act of Parliament that would force politicians to be more accountable for their spending decisions. Her Fiscal Responsibility Act is a truly lasting legacy and is being copied now around the world.
+
+She is the heroine of this Budget as her Act reigns in the big spenders.
+
+It’s easy to see why Michael Cullen and Jim Anderton were so against the Fiscal Responsibility Act. Under this Act, Michael Cullen must spell out all his spending decisions and have them costed by Treasury over the next four years. We get to see the expected impact of spending decisions not just for this year but for the years ahead. A Finance Minister now can’t “cook” the books and he must also balance the books not just for the coming year but for the four years ahead. The Fiscal Responsibility Act has certainly served to reign in the big spenders and, along with the Reserve Bank Act, has served to knock out the worst excesses we would otherwise have expected from a Jim Anderton and Michael Cullen Budget.
+
+$692 million spend-up
+
+The bouncing cheques signalled that things were tight. The extra spending of just $692 million for the year confirmed it. Yet, this is $142 million more than Michael Cullen had promised just last December. $692 million is less than two percent of government expenditure. This is not what Labour promised in Opposition and it will not satisfy the insatiable appetite of our social services. The government is in trouble over the next 18 months as every spending itch goes unscratched.
+
+Tax take down a whooping $2,500 million
+
+The real devastation comes when you look at the operating surpluses. They have dropped since December by $3,000 million over four years. The result is that the government is going to have to borrow a whole lot more – even as Michael Cullen is firing up his super fund. The cause of the big drop is a drop in forecast tax revenues of $2,500 million. That more than wipes out any expected revenue from the hiking the top rate of tax to 39 cents.
+
+He hike in the top rate of tax was expected to reap in an extra $400 million a year. We have seen more than that wiped from the government’s forecasts in just six months.
+
+The hike in taxes has produced no extra money – just as we predicted. The year following the tax hike the government is as short of money as it ever was.
+
+Where’s the money for pre-funding?
+
+The drop in the surpluses puts Michael Cullen under pressure especially given his commitment to pre-fund super. After allowing for his super-fund commitments, he has only a billion or less to play with. His forecast surpluses after allowing for prefunding are now well within normal forecasting error. These surpluses could easily be wiped out.
+
+Michael Cullen is being squeezed by his tax revenue losses and by his need to set aside future funding for his scheme even though he doesn’t set aside sufficient by his own plans until 2005. Next year, he only sets aside $600 million which his own projections show is $1,500 million short.
+
+The Treasury’s “weaker economy” forecast wipes out Michael Cullen’s ability to provide for his super fund – even in the easy years.
+
+He’s in trouble with his scheme and he knows it. Ruth Richardson haunts him as he must prepare a Budget next year as well and show again how he plains to fund his funding scheme out to 2006.
+
+“Economic Transformation” and “Closing the Gaps”
+
+Last year, the government’s flagship policy was “Closing the Gaps”. The 2000 Budget threw $184 million over four years to this end. This year’s Budget doesn’t even mention the policy. The Prime Minster has abandoned the policy and banned the phrase.
+
+This year’s goal is to “transform the economy” and the Budget throws $192 million over four years to shoot us up once again to the top half of the developed world’s economic ladder. That spending represents just one-tenth of one percent of the tax take!
+
+Transforming the economy for real
+
+Since the election Helen Clark, Michael Cullen and Jim Anderton headed the country in the exact opposite direction to the one required transforming New Zealand into a high-growth, high-wage productive economy. We are now completely out of step with best practice in the rest of the developed world. The Labour-led government is:
+
+\* Re-regulating, not deregulating. Employers must now negotiate collective contracts through third-party unions and meet vague ‘good faith’ provisions. To “transform” the economy we must return the labour market to a straightforward contract. We should also be reversing the mess of the Resource Management Act and recognising the importance of private property rights being secure and certain and not up for political grabs.
+
+\* Re-nationalising, not privatising. The Accident Insurance Industry has been re-nationalised. The problems with both TVNZ and NZ Post highlight the costs of the stalled privatisation programme. TVNZ remains on the books as an unquantified fiscal risk!
+
+\* Increasing expenditure, not cutting it. The $5 billion NZ First extra spending has been topped by another $6 billion. The government needs to get its own finances under proper control especially in welfare. The “pouring in the money at the top approach” is satisfying no one and is failing the very people the money is supposed to assist. We desperately need a “bottom up” where the customers are in control – that’s why we need competition and choice.
+
+\* Increasing taxes, not cutting them. The top rate was hiked to 39 cents, $100 million in tobacco tax, roll-back of tariffs and a $200 million retrospective GST grab. The six-billion dollar spend-up is sufficient to halve the company tax rate. We need to get our taxes down well below that of other nations to ensure a competitive economy. This is all the more urgent with Australia have dropped its company tax to 30 cents.
+
+\* Expanding welfare , not curtailing it. Income related rents favour those in a state house over private accommodation, student loans favour rich students as well as poor, and pensions have increased at the expense of the young. We need to be limiting welfare entitlements, not expanding them.
+
+The good news
+
+The Government has done one thing : they have tested to destruction the theory that social services can be funded simply by hiking taxes. The student and university protests are proof of that. They have also shown that hiking taxes slows the economy.
+
+Those two negative conclusions point the way forward for the future. We need to open up social services – health, education and welfare – to competition and to put the power with the New Zealanders who use these services, not the politicians who try and win votes off them. Second, we desperately need to bring taxes down to ensure a freer and more prosperous society.
+
+The Labour and Alliance parties are going to have a tough time of it over the next 18 months following this Budget. The challenge for ACT and for National is to provide the alternative that will put the country on track.
+
+We have seen what happens when a government turns its back on the free market and private enterprise. What we now need to see is what New Zealanders are capable of achieving when a government truly commits to the free market and to private enterprise.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

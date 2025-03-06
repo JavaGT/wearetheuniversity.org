@@ -1,0 +1,259 @@
+---
+slug: erica-stanford-mp-maiden-speech
+title: "Erica Stanford MP: Maiden Speech"
+date: 2017-11-14
+source-url: https://www.scoop.co.nz/stories/PA1711/S00083/erica-stanford-mp-maiden-speech.htm
+author: new-zealand-national-party
+---
+Erica Stanford MP: Maiden Speech
+================================
+
+**Tuesday, 14 November 2017, 4:41 pm**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+**  
+14 November 2017**
+
+**Erica Stanford MP: Maiden Speech**
+
+Mr Speaker, can I congratulate you Sir, on your successful election to the role of Speaker.
+
+I look forward to your rigorous application of the rules of this House and of course your great leniency when dealing with this freshly-minted member from the East Coast Bays.
+
+Under your stewardship Sir, I can see this House is moving with the times.
+
+I was so very pleased to see you bouncing one of the beautiful babies of the House on your knee during a debate last week.
+
+The Member from Pakuranga certainly seemed to enjoy his time on the big chair.
+
+In all seriousness Sir, your commitment to making this a family friendly workplace is admirable and to see you leading, literally from the front, was quite a special moment.
+
+I would like to start today, by acknowledging and thanking the people of the East Coast Bays for their trust and confidence in electing me as their representative to this Parliament.
+
+I am deeply humbled by the support that I have received from my community - and I am especially proud to be the first female MP for East Coast Bays.
+
+This is my first rodeo... and as a rookie I owe a debt of gratitude to many people for their support on this ride into Parliament.
+
+In particular I would like to thank my electorate Chair, Scott Browne, my high-school buddy and campaign chair Vernon Tava, and my dear friend and right-hand man, Tony Hannifin.
+
+Today I must also acknowledge and thank my predecessor, and former boss of four years, the Honourable Murray McCully.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Murray was first elected as MP for East Coast Bays in 1987, a day after my ninth birthday, with the slim majority of 311 votes.
+
+For 30 years he was a hard-working and well respected local MP, evident in the fact that he left Parliament with an impressive majority of over 15,000, which is a monumental effort and ... just shy of my very first majority of 16,000.
+
+I jest Mr Speaker, but I am well aware I am fortunate to ride the shoulders of this political giant.
+
+And of course he will go down in history as one of our finest Ministers of Foreign Affairs.
+
+I am who I am because of my family and I owe them all so much for their part in getting me here today.
+
+To my parents. Thank you for making me watch the 6 o’clock news every single night growing up.
+
+Thank you for coaching me through all those debates and speeches at school and for encouraging me every step of the way.
+
+To my incredible husband, and partner of 21 years, Kane.
+
+Our names on the Rangitoto College 5th Form Speech Trophy, a year apart, sum us up so well.
+
+While I pontificated over the relevance of the United Nations and the changes that I believed were required for a more effective organisation for 10 - probably insufferable - minutes, he talked about bus drivers.
+
+You are the Yin to my Yang and we make a great team. Thank you for supporting me in this role and taking charge at home while I’m away.
+
+And to my children - Holly and Alex - you guys ROCK.
+
+I am so very proud of you. Holly you changed my world and you continue to amaze me with the things that you accomplish.
+
+Alex, my special little guy - you make my heart sing.
+
+My journey to Parliament has been a rather windy road with many deviations along the way.
+
+My first job was stacking shelves on the night shift at the Warehouse for $4.50 an hour.
+
+A job as a telephone market researcher helped to support me through my Political Science degree at Auckland University.
+
+From there I had three distinct careers and a short stint as a stay at home mother, the combination of which has provided me with many insights across the private and public sector.
+
+I worked as Export Manager for two iconic New Zealand manufacturers.
+
+I spent most of my 20s travelling through Asia, Europe and the Middle East promoting unique and innovative Kiwi products from placemats to acoustic insulation.
+
+I know first-hand that the incredible reputation of our country and our people overseas is invaluable.
+
+And that we must continue reducing trade barriers to create a level playing field for our exporters and access much larger markets.
+
+I stand for a confident, ambitious, outward-looking New Zealand that sees the world as a field of opportunities, not a vast unknown to be regarded with fear and suspicion.
+
+We should be open to the world, not try to close ourselves off from it.
+
+After a short break to start a family I took on a new career as a television producer - of everyone’s favourite genre…. reality TV.
+
+I worked on a number of shows involving noise control officers, dog control teams and the Lifeguards of Piha Rescue.
+
+I put it to you Mr Speaker - that my skills in reality television will hold me in good stead for my time in this House.
+
+Whether that be for the Neighbours at War across the floor…. the explosive drama of THE Marriage at First Sight between New Zealand First and the Greens. Or this Parliament’s special edition of Survivor with the Member from Epsom.
+
+From there I worked for Murray McCully in the East Coast Bays electorate office, helping thousands of locals, businesses and organisations navigate their way through various government departments. This really was the pointy end of policy and reinforced my passion for my community and for solving problems.
+
+Mr Speaker, the East Coast Bays is a very special place and has always been my home.
+
+Kane and I raise our family a stone’s throw from where I spent my childhood, swimming at Long Bay beach, and traipsing through the Okura Bush.
+
+I was born and raised there, met Kane at Rangitoto College and we married on the bank of the Long Bay marine reserve.
+
+I play in a local hockey team, chaired my local business association, and I’ve worked in the electorate for the last eight years.
+
+The East Coast Bays reaches from the majestic Okura Estuary in the north - a pristine marine reserve and breeding ground for the Hauraki Gulf.
+
+To Murray’s Bay in the south, where kids do bombs off the new wharf in summer and west out to Albany - once orchards and strawberry fields - now the bustling business hub of the North Shore.
+
+We are home to Rangitoto College, the largest high school in NZ, High Performance Sport New Zealand, Massey University’s Albany campus and Business North Harbour, the largest business association in NZ.
+
+About half of the electorate was born overseas.
+
+We have thriving communities of South Africans, Koreans, Chinese, British, Dutch, and many others. Our ethnic diversity makes the Bays a unique, culturally rich, interesting place to live.
+
+It’s a beautiful, busy, thriving place, and it’s growing at a rate of knots.
+
+There are many things that I want to achieve for the East Coast Bays and my priority is to ensure that we accommodate this growth.
+
+That we continue to deliver more classrooms for our local schools, some of which are nearing capacity.
+
+I will be advocating for better transport solutions for the somewhat overlooked Shore.
+
+I will be applying pressure to clean up our waterways that feed into the beaches that our kids swim in.
+
+To help protect our marine reserve for future generations.
+
+And to preserve those precious green spaces that the rural urban boundary has, up until now, been safeguarding.
+
+And it is my community from which I draw my inspiration.
+
+I’m inspired by parents in my electorate who make great sacrifice for their children, working to ensure that the next generation have opportunities they did not.
+
+I’m inspired by businesses like Rex Bionics and Sealegs Marine in Albany who are taking on the world, punching above their weight in typical Kiwi style.
+
+By people that get together to preserve and protect our environment like Restore Deep Creek, Friends of Okura Bush and the Long Bay-Okura Great Park Society.
+
+By people who go above any beyond the call of duty like our local school principals and our famous bird lady, Sylvia.
+
+In my electorate, every day, I see people working hard to do great things, to protect our place, provide for future generations and to help their community.
+
+I want to work in a Parliament that gives these Kiwis, all Kiwis, the opportunity to succeed.
+
+Where you are brought up influences your values. So does how you are brought up.
+
+My parents have played a huge part in shaping the values that have guided me through life thus far and will, indeed, guide me here in this Parliament.
+
+My father arrived in New Zealand from the Netherlands as a five year-old with his parents and three brothers.
+
+Like so many immigrants, they came to this country in search of a better life, willing to work hard, to embrace their new country, and to make sacrifices to achieve their dreams.
+
+Despite having very little, and losing his father at a young age, dad worked hard at school, and later took a job at the local freezing works to support himself through flight school to follow his dream of flying for his new nation’s airline.
+
+His 40 years of service and elevation to 747 Captain at Air New Zealand are testament to the fact that there is no substitute for hard work and that fruits of your labour are a direct result of the effort that you put in.
+
+My mother worked in our family business growing hothouse grapes for export. The long hours she spent in that intolerably hot glasshouse were to pay for school fees to give my brother, sister and I, the best start in life.
+
+Thank you Mum, for your sacrifice, for your hard work and for making me the kind of mother that sacrifices everything for my children.
+
+Perhaps one of the most valuable things I inherited from my father is that famous Dutch pragmatism.
+
+I come to this House with an open mind.
+
+My outlook is not restricted by the blinkers of inflexible political ideology.
+
+Rather, I am a firm believer in the importance of constantly scanning for great ideas that can so often lie in the periphery of our vision.
+
+I am interested in what works.
+
+An example of something that works and one of the great success stories in my electorate is the Vanguard Military Academy.
+
+Vanguard is a partnership school that has been incredibly successful at helping young people who have not done well in the mainstream education system.
+
+Not only were many of these young people not succeeding academically, they told me that they’d lost any belief in their own ability to succeed.
+
+This school, quite simply, has turned their lives around.
+
+I sat down with students from Vanguard and I have seen for myself, the confidence and hope in the eyes of these young people who now have futures that they are looking forward to, for the first time.
+
+That’s why I find it very troubling indeed that this government plans to shut down these schools purely on the basis of rigid political ideology.
+
+If we are serious about helping young people with dramatically different backgrounds and life experiences then we can’t rely on the same old approaches, done the same old way.
+
+The backdrop to my childhood was sausage sizzles, cake stalls and garage sales to raise money for one community project or another. But it was my parents’ work to protect the Okura Estuary from a proposed tip site that had the greatest impact on me.
+
+Okura is officially recognised as a jewel in our back yard, part of a pristine marine reserve bordered by a protected native forest and a coastal walkway visited by over 70,000 people a year.
+
+But had it not been for a group of passionate locals and environmentalists who fought for over a decade in the 1980s it would now be an environmental disaster zone.
+
+This battle was one of the defining moments for the electorate, it led to the protection of the Okura native forest and the establishment of the Long Bay Marine Reserve.
+
+I would like to pay tribute to the many different local conservation groups who fought, and continue to battle, to protect this very special place.
+
+I am sad to say that the potential removal of the rural urban boundary will likely mean that your work is far from over.
+
+I am committed to continuing to work with the many environmental community groups in the East Coast Bays….. to muck in with you, to help you, and to promote the work that you do.
+
+Because our greatest treasure is this beautiful land.
+
+In the immortal words of Neil and Tim Finn, we glisten like a pearl at the bottom of the world. But we can’t take this for granted. It is a priority for us to restore and preserve this great treasure.
+
+It has always bothered me that environmental protection is cast as somehow a left-wing issue.
+
+Conservation, the care and preservation of nature, is part and parcel of the conservative political tradition to which my party belongs.
+
+I, for one, don’t believe that capitalism and environmental protection can’t sit together.
+
+The reality is - that environmental protection is a priority for all of us. To solve the challenges that face our generation and the ones to follow, we will need to go beyond conventional political boundaries.
+
+I am interested in what works.
+
+We need a successful economy to pay for the choices that we make to protect our environment.
+
+We need a diverse economy to add value to our world-class primary produce and tread more lightly on the land.
+
+We need to co-operate across sectors and across parties so that the good work of one government is not undone by the next.
+
+Sir, I come to this House believing in freedom, personal responsibility and achievement through hard work and determination.
+
+And I believe that, as a society, it is our duty to help those most in need.
+
+If we are to improve the lives of all Kiwis, we need a society that fosters these values.
+
+We must be ambitious in our thinking and be aspirational about what we can achieve.
+
+Open to the world, not fearful of it.
+
+Flexible in our approach and focussed on what works, wherever the ideas may come from.
+
+Mr Speaker - I love seeing the world through my children’s eyes, and seeing how ‘normal’ can change so much in just one generation.
+
+It will be normal for them to have a young female Prime Minister, it will be normal for them to have their marriages defined by love and not gender, and it will be normal for them to think about sustainability in every aspect of their lives.
+
+Sir - I relish the challenge of working on policy that will continue to place us on the right side of history.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

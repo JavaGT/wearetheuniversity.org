@@ -1,0 +1,135 @@
+---
+slug: address-in-reply-speech-jeanette-fitzsimons
+title: "Address In Reply Speech - Jeanette Fitzsimons"
+date: 2004-02-10
+source-url: https://www.scoop.co.nz/stories/PA0402/S00141/address-in-reply-speech-jeanette-fitzsimons.htm
+author: green-party
+---
+Address In Reply Speech - Jeanette Fitzsimons
+=============================================
+
+**Tuesday, 10 February 2004, 4:11 pm**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Address In Reply Speech - Jeanette Fitzsimons
+
+10 February, 2004  
+Speech by Green Party Co-leader  
+Jeanette Fitzsimons  
+in reply to the PM's statement to Parliament
+
+Aotearoa-New Zealand begins the year 2004 with the tragic feeling that the barricades are going up between Maori and other New Zealanders. Trust is at its lowest ebb for many years. The silent sadness I witnessed at Waitangi is far more tragic than the open anger and will take far longer to heal than the effects of a mud pie.
+
+Shortly we will be presented with legislation to override the legal process Maori have won access to, and declare a new title for the Crown, dressed up as public domain, over the foreshore and seabed. It offends the sense of fair play of most New Zealanders to legislate away a legal right that has been won in the courts after 8 years of due process. And remember this is only a legal right to have a day in court. The massive over-reaction was unnecessary and unfair. It would have been simple to legislate to remove the power of the court to issue a fee simple, saleable title to foreshore and seabed but to confirm the power of the court to determine whether it could be shown to be ancestral land which confers kaitiakitanga.
+
+It's interesting, isn't it, that when you discuss customary title on a marae they talk of their responsibility for caring for that land, generation after generation, and to extend hospitality to visitors. When you discuss title with Europeans they so often talk of the right to exploit and exclude.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+It would still be possible to resolve the issue in a way that recognises both the mana whenua of ancestral title, and the customary right of others to go to the beach. It is still possible to rebuild the trust, to heal the damaged relationship, to create reconciliation with justice. But only by taking time, sitting down together and listening as well as talking, and being prepared to design a solution by co-operation rather than imposition. The outcome might even have a lot in common with what is proposed now - the important thing is the process that develops it. Without that relationship, without that trust, there can be no just resolution. Sadly, I sense that that option is not on the table.
+
+Against this the speech at the Orewa Rotary Club by the man in the white hat is just a diversion and a distraction. The errors of fact are hardly worth a mention - does the National Party no longer have any researchers who can get the figures and do the simple calculation that Maori are only half as likely to be in the top income quartile as other New Zealanders?
+
+Much more worrying is the underlying ignorance of our history, our Treaty and our cultural diversity.
+
+He undermines the Treaty with a monocultural argument based on equality, an easy hit with many New Zealanders who are feeling economically marginalized or who are unaware of the Treaty agreements. What it assumes is that all people are the same, and the sameness means to have the attributes of a white middle class male.
+
+The argument that people should be supported on the basis of need, and not race denies the reality in New Zealand that need, in terms of education, health, economic resources is particularly real for Maori. Let's take health spending - less than 3% of the health budget goes to Maori providers or services provided by mainstream providers targeted at Maori. Yet their results are good because they deliver the service in a way that respects cultural differences. Is that not equality - to have services delivered in a way that is culturally appropriate?
+
+Overall, roughly 14.7% of the health budget gets spend on Maori - about the same as the proportion of Maori in the population. Given the relatively poor health statistics of Maori they ought to be getting a higher proportion than that, on the basis of need. Despite a higher death rate from cardiovascular disease, there is evidence that Maori receive fewer cardiac interventions than would be expected, and these differences remain even after controlling for gender, age and deprivation
+
+Only 4% of the population older than 65 are Maori who tend to live ten years less on average than pakeha so they also get far less than their share of superannuation. I guess Dr Brash would argue that in a "needs based" system they don't need it when they're dead. But we won't have equality until pakeha and Maori lead equally long and fulfilling lives, and addressing that means addressing complex questions of targeted health, education and welfare spending.
+
+All Maori over 60 were born into families which received a lower rate of family benefit, pension, invalid and widows benefit than pakeha families, just because they were Maori. This changed only in 1945. We have had race based laws throughout our history, always to the detriment of Maori. And some would still deny them the chance to catch up.
+
+And then he argues that Maori can still practise their language and culture, just like the Chinese - positioning them as immigrants in their own land.
+
+It seems to be the role of each generation to rebel against their parents. I had the privilege of knowing Rev Alan Brash well when I lived and worked in Geneva some 30 years ago. He was a fine, compassionate and visionary man, dedicated to social justice. Perhaps Don's present stance is just youthful rebellion.
+
+Another matter that takes me back 30 years is the cross roads we have reached in energy policy. Not since the so-called oil crises of the seventies have we been faced with such stark choices. The issues have not changed since then, but failure to act then has left us fewer options now.
+
+There has been surprisingly little discussion of the fact that Maui gas, which used to provide a quarter of our primary energy has run out, as it was always planned to do. It has coincided with three other events which limit our options for electricity: - the onset of a period of lower rainfall in the catchments of the main hydro lakes which is predicted to become the norm for the next twenty years - rapid growth in demand which has caught up with the surplus of generating capacity we used to have. - our signing - and not before time - of the Kyoto protocol on climate change which rules out burning coal, in order to limit greenhouse gas emissions.
+
+The response from our state owned electricity generating system has been the same as ever - if we want more power, we can wreck a bit more of our environment to provide it. I had thought that the days of Think Big were over. Governments now talk of sustainable development but only the language has changed. As though we had learned nothing from the Clyde dam, the Synfuels plant, and the Aramoana smelter the response to rising power consumption is to wreck another river - to divert 73% of our largest braided river into a canal, drying up the habitat of threatened birds and native fish, ruining trout and salmon fishing, dominating the landscape of the Waitaki Valley with a structure as high as the beehive and as wide as Parliament buildings.
+
+Even Project Aqua won't save us of course - by the time it is built, if present trends continue, demand will have risen by the same amount as the scheme will produce and we will be looking for more. $1.2 billion is a lot of money just to stand still. Worse still, in a very dry winter it will provide nothing as there will be no spare water for the canal. The temptingly low cost of Aqua is a mirage -when you add on the cost of the new thermal stations that will have to be built to provide for dry winters it is not cheap power.
+
+The Energy Efficiency and Conservation Strategy is too timid, and aiming too low. It is seriously underfunded - less than 1% of the capital cost of Aqua goes into energy efficiency each year - yet we know it is capable of producing far more in power savings eventually than Aqua will generate.
+
+Last year this House saw many futile debates about whether we should build more hydro or more coal. The real point is that unless we get energy efficiency investments happening fast, it will not be hydro or coal or this river or that - it will be all our rivers ruined, coal stations on every corner, some token wind farms, imported liquefied natural gas at huge cost, eventually nuclear power and still we will be having power cuts. This is the year to face our energy future seriously and take a stand: to say "we will not expect our environment to keep paying for our waste and our carelessness and our greed."
+
+Because it's not just about electricity. The war in Iraq and recent fluctuations in oil prices are signs of the inescapable reality that we are close to the time when oil flows from known wells will not be enough to supply world demand. What does it matter whether that will be in five years or ten, or whether we have already passed the peak of oil production? The world is already using four barrels for every one discovered. The oil companies know this. This Government, like all previous governments, is in denial. Its advisors are still publishing predictions that the price of oil will stay constant for the next twenty years.
+
+There is a lot we could do to prepare, by making ourselves less reliant on oil. The Transport Strategy and the new legislation on which the Greens have worked very closely with the Government is a start, with its emphasis on energy efficient modes like rail and public transport. We must make sure that the opportunities it opens up are grasped this year.
+
+This government could be the one that wakes from the sleep of denial and leads a nation into a future where, with good planning, we can have prosperity and quality of life, despite the constraints of both oil supply and carbon emissions.
+
+We are waiting.
+
+Meanwhile, despite distancing ourselves somewhat from the US invasion of Iraq, we are still being led into that country's agenda. To justify their invasion of Iraq and whatever countries come next they are scaring the world into sacrificing their democracy and their civil liberties in the name of a "war on terror" which is in fact a war of terror.
+
+We continue to see the growing power of the security services combined with a dramatic deficit of accountability. Ahmed Zaoui personifies this - a man in prison without being charged, for crimes unknown, based on evidence the security services refuse to reveal. How does locking up a democratically elected politician on the run from a military government determined to execute him make New Zealand a safer place?
+
+If this government is serious about dealing to the causes of terrorism, they would do well to separate NZ from US foreign policy in the Middle East and increase the overseas aid budget to 0.7% of Gross National Income, as requested by the Council of International Development on the steps of Parliament today.
+
+Nothing better illustrates the foolishness of buying into the US agenda than this government's determination to follow them into the dead end of genetic engineering - especially when their agricultural exports are the very low value commodities decried by the Prime Minister in her speech. Ours need to be high value products; products where buyers are discerning - buyers who have repeatedly demonstrated their rejection of GE food.
+
+It is time we were brave enough to make our own decisions and control our own economy. The long darkness of free trade trampling unchecked over communities and ecosystems may be passing - in the last few days the EU's trade commissioner has suggested that countries ought to be allowed to ban imports from countries that did not share their national values and standards. Pascal Lamy says the WTO rules give too much weight to science - he could have said pseudo-science - and too little to local social and political sensitivities. It is time for us to side with the EU and the public on this issue, and in doing so stand up for sustainability over corporate greed.
+
+When we abandon control of our own economy the first places that suffer are small communities, especially rural communities, and they are hurting. Cutting tariffs will put people out of work in areas such as Levin, Lower Hutt and Te Kuiti. Other communities that are still reeling from the closure of their post offices are now facing no-go zones, a total lack of effective rural public transport and the closure of their schools - schools which are often the only community centre, meeting place, focus for the people who live there.
+
+Regional development policy is not helping these people. Big industrial wood processing plants do not support local economies, they make them more reliant on overseas owners, cheap energy and a favourable exchange rate.
+
+We need a strong local economy that sets global standards for social and environmental responsibility. We need to be much more self-reliant and we need to produce much more that lasts. Quality, durability and flexibility need to become the new bywords of industry.
+
+The Greens support local initiatives that keep finance and production localised - green dollar schemes, community banks, credit unions, cooperatives and regional business support schemes. Opportunities abound for local eco-development and ecologically innovative business - in areas as diverse as waste reduction, energy efficiency retrofits, ecological restoration and organics.
+
+The Greens have lobbied the government since it took office to release some of the surplus Dr Cullen is squirreling away, to improve the lives of ordinary New Zealanders. We hope that the government will deliver generously on its promises in the Budget Policy Statement. The Greens want to see an end to the discrimination against parents on a benefit and to extend eligibility of the Child Tax Credit to all children of low income families.
+
+We applaud the government's continuing investment in early childhood education, but it is not enough if children are going hungry and parents are unable to financially cope at home.
+
+One step to addressing this is the reintroduction of a Universal Child Benefit and we are asking the government and New Zealanders to support Sue Bradford's private members bill.
+
+National's new leader has done us a service by reminding us that there are political choices in New Zealand, most obviously between reconciliation and blinkered denial. But the choices are more than that - the agenda for the right represents an unparalleled denial of the ecological crisis facing our planet - theirs is a call for more cars, more coal and more consumption. One could almost think they have given up and simply want to party while the ship sinks.
+
+The Greens also get extremely frustrated with Labour (as I am sure they do with us) Labour in our view has a lot to learn about ecological wisdom, peace and justice. But we can and do work together - there is a common interest in a better future and a common belief that we are more than rational economic maximisers. We look forward to principled cooperation with Labour in the future on the issues we share.
+
+We will continue to work with the Government this year to progress the issues where we agree. In particular we want to see the new transport legislation start to work, freight move off our congested roads on to rail, and commuters have the option of excellent public transport systems, and the ability to walk and cycle in safety
+
+We are pleased to see the government will allow more students to qualify for allowances from next year. Of course, we would like to see the allowances universally available and to see a real programme to phase out fees altogether. This is an investment in our future not a cost.
+
+We are also pleased that government is looking at improvements to the Paid Parental Leave scheme. This scheme must be made available to more parents including those with less than one year tenure and self employed women. Leave should meet the international minimum standard of 14 weeks.
+
+We will continue to co-operate on bills such as the Care of Children, Resource Management (energy and climate change), Employment Relations Law Reform and the promised Civil Union, most of which rely on our support.
+
+However we cannot vote confidence in this government. Two-thirds of New Zealanders asked for the protection of the GE moratorium to be extended for a few years while more is learned about this unpredictable technology. They wrote letters, emailed, marched, wrote submissions, reasoned, brought the best scientific evidence, pleaded, argued the overwhelming economic case, but were ignored and often insulted.
+
+Almost every day I see new scientific articles on the down side of GE crops - their instability, their weediness, their contamination of other crops, the growing consumer opposition to them throughout the world.
+
+Only ERMA and a resolute public now stand between us and the release of those crops. My money is on the public! We said we could not support a government which allowed the release of GE organisms but we do not share National's reasons for voting no-confidence. So, as I have done since the last election, I move:
+
+"That the amendment be amended by omitting all the words after 'this house has no confidence' and substituting the following words 'in the Labour led minority Government because, despite there being some positive elements in its programme, its decision to allow the release of genetically engineered organisms exposes our health, our environment and our economy to significant and quite unnecessary risks.'"
+
+(Ends)
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

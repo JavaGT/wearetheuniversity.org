@@ -1,0 +1,173 @@
+---
+slug: cunliffe-securing-savings
+title: "Cunliffe: Securing Savings"
+date: 2011-10-27
+source-url: https://www.scoop.co.nz/stories/PA1110/S00423/cunliffe-securing-savings.htm
+author: new-zealand-labour-party
+---
+Cunliffe: Securing Savings
+==========================
+
+**Thursday, 27 October 2011, 3:28 pm**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+  
+David  
+CUNLIFFE  
+Finance Spokesperson  
+Thursday 27 October, 2011 SPEECH
+
+Securing Savings
+
+Phil has explained why New Zealand cannot afford to stand still.
+
+Why our low savings rate and high private debt have left New Zealand vulnerable in a turbulent world.
+
+It is refreshing to see a long-term view. It is time politicians were up front and honest – trusting the public to see the big picture and to support what is right for our country.
+
+We know we are living longer. We know that the superannuation of the baby boom will need to be paid for. We know that current policies are unsustainable.
+
+We want certainty that when we retire, NZ Superannuation will be there for us.
+
+That is why we must act now. We must provide certainty and ensure superannuation is sustainable and secure for us all.
+
+My role today is to brief you in on the detail of the policy changes we are proposing in the two key areas of Universal KiwiSaver and Superannuation policy.
+
+FIRST LET’S LOOK AT UNIVERSAL KIWISAVER
+
+The goal is to increase the country’s savings rate and ensure New Zealanders have secure personal savings there when they need it.
+
+NZ’s net international debt (NIIP) currently stands at 70% of GDP. Within 20 years, the savings plan Labour’s has announced today will improve NZ’s net international debt by over 17% of GDP.
+
+Labour’s plan means New Zealanders will save approximately four times faster than under National’s auto enrolment proposal.
+
+Here’s how Universal Kiwisaver will work: The principle planks are: all employees are participants; the primary contribution is employer based; and incentives and flexibility respond to individual need.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Every employee aged 18 to 65 will be enrolled in KiwiSaver from 2014. Participation will be compulsory. There will be a range of drawdown provisions similar to those in the current scheme today.
+
+Part time employees will be included but there will be a de-minimus threshold. Participation will be voluntary for self-employed people. Beneficiaries and students not in work will not be required to join KiwiSaver.
+
+Second is the key role of the employer contribution
+
+Labour will gradually increase employer contributions from 3 per cent to 7 per cent, over 9 years.
+
+Currently the minimum employer contribution is 2 per cent. National increased this to 3 per cent as part of Budget 2011, with effect from 1 April 2013.
+
+Labour will introduce compulsory savings in 2014 with the first increase in the employer contribution a year later. Contributions will increase at just 0.5 per cent annually and take 9 years to fully phase in. The increase in contributions will be fully phased in by 2022.
+
+The impact of the 0.5 per cent annual increase on wage negotiations will be a matter for discussion between unions and employers. Treasury has estimated average wage growth of 3.8% over its forecast period and 0.5% is only a small part of that.
+
+Labour will review the employer contribution in 2020 to examine whether further increases in the employer contribution are feasible. This review will include consultation with business and employer representatives and employee representatives
+
+Third is the employee contribution – let’s look at what the scheme means to you: National increased the employee rate to 3 per cent in Budget 2011. This is due to take effect 1 April 2013.
+
+We will reverse this change.
+
+Retaining the current minimum employee contribution of 2 per cent is a more affordable option for low-income New Zealanders and reflects the cost of living pressures that so many families face right now.
+
+Kiwis will retain the right to “opt up” to 4% or 8% employee contributions if they wish, but that will not change the employer contribution.
+
+Contributions will be deducted automatically via the wage system so it will be easy for Kiwis to contribute.
+
+When it comes to accessing and withdrawing KiwiSaver funds: Universal KiwiSaver is a long-term policy that makes it simpler for New Zealanders to build a secure retirement savings. While membership of the scheme will be compulsory for all employees, there may be circumstances where, as in the current KiwSaver rules, early access or withdrawal is needed.
+
+All Kiwi savers will be fully able to access their savings from 65 years of age.
+
+New Zealanders will continue to be able to access their KiwiSaver funds on the grounds of hardship. This includes situations relating to economic hardship or hardship as the result of illhealth.
+
+Hardship grounds will also be applied to allow the suspension of contributions. The detail around the operation of these new provisions will be dealt with through the tripartite consultation First home buyers will still be able to access their KiwiSaver savings to put towards their first home.
+
+Helping New Zealanders into their first home is a priority for Labour. Labour will retain the first-home deposit subsidy of up to $5,000 per saver.
+
+Labour will examine the details around migration as part of the tripartite consultation. Provisions applying to Australia’s compulsory saving scheme will be considered by the review.
+
+Labour will also examine the details and implications for relationship property and bankruptcy as part of the tripartite consultation process. These are detailed areas and ones that would benefit from specialist advice.
+
+Fourth is the role of Government Incentives
+
+Labour is committed to retaining the current incentives to help New Zealanders to save.
+
+The only change will be the way the kick-start payment is paid into KiwiSaver accounts. Under Labour’s plan the $1,000 kick-start will be spread over 5 years. This will make the scheme more affordable by spreading the cost over 5 years. Labour will not make any changes to the member tax credit.
+
+New Zealanders will not have to change their investment scheme, provided the scheme becomes KiwiSaver compliant.
+
+KiwiSavers will retain the choice of putting their funds with a default scheme or choosing from a range of investment options. We will review the operation of the scheme to ensure transparency of fees and costs, and to ensure low cost default options are available. We want the tripartite process to look at very low risk, low cost options like government stock-based funds.
+
+And finally the role of tripartite consultation
+
+Labour will establish a tripartite consultation process involving government, business and employer representatives and employee representatives.
+
+Bringing together the key parties to settle the policy detail will ensure KiwiSaver endures over the long-term. This will give New Zealanders the confidence and certainty they need to plan for their future.
+
+Labour will ensure the regulation of the KiwiSaver scheme is adequate and suitable for a universal scheme. Labour is committed to an enduring KiwiSaver. The tripartite consultations are critical in ensuring the detail of the scheme works for employers and employees.
+
+SECURING SUPERANNUATION
+
+New Zealand is facing a fiscal crisis. The cost of NZ Super is set to double. By 2050 the number of people aged 65 and over more than doubles from 550,000 to 1.35 million – that’s roughly the population of Auckland.
+
+This year we spent $8.8bn on NZ Super. This cost is forecast by Treasury to double over the next 40 years from 4 to 8% of GDP.
+
+If we are to ensure NZ Superannuation is there for everybody, now and into the future we need a plan. Here’s how we can do it: We raise the Eligibility Age for NZ Super from 65 to 67 starting in 2020 and taking 12 years to phase in.
+
+The age will be lifted 2 months each year starting in 2020. This means no change for anyone born before 1955. Those 45 years or younger will have at least 22 years to plan for this change in the eligibility age. For those 46 to 56, the eligibility age will increase at 2 months a year starting in 2020. No surprises – plenty of planning.
+
+The Rate of NZ Super gets guaranteed – we retain the current rate of 66 per cent of the average wage and protect super for this generation and the next.
+
+We know that for the great majority of retirees NZ Super is their main source of income. Making these changes now will ensure that future generations are able to rely on it when it comes time for them to retire.
+
+We provide Transitional Assistance for those who need it For some in manual labour an additional 2 years would not be physically possible and Labour is committed to ensuring the transition to a NZ Super eligibility age of 67 is done fairly. To address this issue we will ensure there is transitional assistance for those who can’t readily keep working in their normal occupation.
+
+Those aged 65 or 66 who are not readily able to keep working in an occupation of the same kind, and not well-off enough to be able to support themselves, would qualify for a NZ Super Transition payment. This payment would be set at the same level of NZ Super.
+
+As part of our commitment to ensuring the transition is fair, Labour will also explore options for the introduction of further flexibility in the draw-down of NZ Super. These options will be considered as part of the tripartite negotiation process.
+
+Let me stress again – Labour is absolutely committed to ensuring that the transition is fair and manageable for all workers.
+
+Resuming contributions to the NZ Super Fund
+
+Labour will restart contributions to the New Zealand Super Fund. Contributions will be increased every year, starting with $750 million in 2012/13, and then ramping up by $750 million a year until we reach $2.6 billion.
+
+Current Governments decision to suspend contributions has meant there will be a $30 billion hole in the fund by 2050.
+
+Basically meaning less money available to help meet the future cost of NZ Super has reduced the Fund’s ability to contribute to these future costs by 20 per cent.
+
+Over the course of thirteen years, Labour will contribute $5.5 billion more than current plans allow, resulting in an estimated $12.8 billion more in the Fund at the end of that period.
+
+Over time, our higher capital cost from contributing earlier is more than offset by the higher tax revenue that results from increased New Zealand Superannuation Fund investments. As a result, the Crown will actually be $4.6 billion better off by 2024/25 under Labour’s approach, and have more money to meet the future cost of NZ Superannuation. It’s a win win outcome.
+
+So what is the outtake from this?
+
+The twin credit rating downgrades sent a very clear message: we can no longer afford to avoid the tough issues like public and private debt, lack of savings, and an aging population. Papering them over with short term fixes leaves us short for the future and at the mercy of global economic winds.
+
+Under Labour’s plan we can own our future. Making savings easier, introducing a fairer tax system and ensuring NZ Super is affordable will give us control over the direction our future takes.
+
+These savings policies are the second part of Labour’s comprehensive economic plan that – along with a capital gains tax – lets us pay off government debt, retain our assets and better prepare for future economic shocks, like the aftermath of the Canterbury earthquakes and the rising cost of NZ Super.
+
+Making saving easier will reduce our dependence on borrowing from foreign banks and allow us to accumulate a bigger pool of national savings that can be invested in NZ businesses, and gives New Zealanders more control and certainty over their future.
+
+Right now we have to have the courage to take these decisions because that is what we need to do to secure our country’s future, and to ensure what lies ahead economically is sustainable and future proofed, for all New Zealanders.
+
+  
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

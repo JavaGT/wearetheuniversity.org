@@ -1,0 +1,56 @@
+---
+slug: lincoln-university-selwyn-campus-master-plan
+title: "Lincoln University Selwyn Campus Master Plan"
+date: 2013-06-18
+source-url: https://www.scoop.co.nz/stories/ED1306/S00095/lincoln-university-selwyn-campus-master-plan.htm
+author: lincoln-university
+---
+Lincoln University Selwyn Campus Master Plan
+============================================
+
+**Tuesday, 18 June 2013, 4:35 pm**  
+**Press Release: [Lincoln University](https://info.scoop.co.nz/Lincoln_University)**
+
+**Lincoln University Selwyn Campus Master Plan**
+
+Lincoln University has today (18 June) made public the building development plan for the Selwyn campus for the next 25 years. 
+
+“The Campus Master Plan for the University’s Selwyn campus sets the blueprint for the next 25 years of building development that incorporates learning, working, and living on-campus,” says Vice-Chancellor, Dr Andrew West.
+
+“Significantly, this plan also expands the current ‘campus’ to include partnership developments through the Lincoln Hub, and includes the Lincoln township community”.
+
+Work by the University has been underway for a number of years to develop a long-term plan to upgrade the building stock on campus and to anticipate the learning and teaching needs of a contemporary University well into the future.
+
+“The 2010 earthquake and subsequent seismic activity has added momentum to the planning and changed the thinking by adding new constraints and imperatives,” said Murray Dickson, Group Manager Corporate Services.  “Through the post-earthquake Better Business Case process with Government a number of additional opportunities have arisen – the most significant of which is the Lincoln Hub, which now forms an integral part of the new Campus Master Plan”.
+
+The Campus Master Plan provides an anticipated building footprint and envelope for space-planning purposes that has been developed in consultation with staff, students, alumni, industry, local community and other stakeholders.   Through this consultation important elements of Lincoln University’s identity have been highlighted and remain essential to the plan such as, sustainability, connectivity, biculturalism, flexibility, and excellence in teaching and research.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The Campus Master Plan includes aspects of the Lincoln Hub – a joint venture between the University and key partners: AgResearch, Plant & Food Research, Landcare Research and DairyNZ.
+
+The feasibility of the Campus Master Plan and the phasing of associated work will be determined by outcomes from discussions with Government and insurance companies, as well as other initiatives being undertaken by the University. 
+
+Implementation will be a staged process that will include teaching spaces for modern collaborative learning; interactive breakout spaces and tutorial rooms; modern scientific labs within the Lincoln Hub; shared meeting and community spaces; accommodation and recreational spaces; world-class sporting facilities; research zones and teaching fields and farms; administration and student support services and the student association space.
+
+**ENDS**
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Lincoln University](https://info.scoop.co.nz/Lincoln_University) on InfoPages.

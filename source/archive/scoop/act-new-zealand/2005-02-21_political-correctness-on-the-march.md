@@ -1,0 +1,69 @@
+---
+slug: political-correctness-on-the-march
+title: "Political correctness on the march"
+date: 2005-02-21
+source-url: https://www.scoop.co.nz/stories/PA0502/S00444/political-correctness-on-the-march.htm
+author: act-new-zealand
+---
+Political correctness on the march
+==================================
+
+**Monday, 21 February 2005, 9:59 am**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Thu, 17 Feb 2005
+
+Political correctness on the march
+
+Newman On-Line: Political correctness on the march This week, Newman Online looks at two recent cases of political correctness gone mad: playdough being banned in kindergartens; and the case of an employer finding themselves in the firing line after refusing to employ a woman because she had a moko.
+
+I wonder how many parents – and grandparents - up and down the country share my outrage about the latest victim of the rampant political correctness that is sweeping the country: playdough!
+
+It was with a sense of disbelief that I read news reports last weekend that many kindergartens had totally banned the use of playdough - and other foodstuffs - because they are considered to be culturally offensive to Maori. This is yet another example of how political correctness is relentlessly damaging and undermining the Kiwi way.
+
+What is so insidious in this case is that the kindergarten movement has been around for well over 100 years, and if the use of foodstuffs was really so culturally offensive to Maori isn’t it strange that their use wasn’t banned at the outset when Maori culture was at its strongest? New Zealand’s first free kindergarten opened in Dunedin in 1889, with Playcentres arriving on the scene some 60 years later. As a result of our strong tradition of early childhood education, generations of Kiwi parents have been taught the benefits and joys of using food in their child’s play: foodstuffs are cheap, readily available and safe for young children. In fact, children through the ages have spent many happy hours creating macaroni necklaces, pasta collages, and colourful cards and paintings using potato stamps.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I still recall, as a proud young Mum, running a session centred around a baby hedgehog that I had found in the garden the night before. The children were treated to a morning of observing the ravenous baby, as it chomped its way through a breakfast of 35 snails before curling up for a snooze, followed by Mr Prickle stories and the highlight - creating and painting model hedgehogs made out of potatoes and toothpicks.
+
+To think that children can no longer mould playdough, make potato hedgehogs and enjoy all of the other delights of food-based play simply because someone, somewhere has said that such activities are culturally offensive to Maori, is ridiculous. It also begs the question of why, if Maori mums and dads really do find the use of foodstuffs in play intensively culturally objectionable, that they are not invited to simply take their children to a taxpayer-funded Kohanga Reo early childhood center. That way all the rest of us can be left to freely enjoy the traditions that we hold dear.
+
+At the heart of this issue is whether or not it is right and proper that in a society which is increasingly culturally diverse, one minority group should be able to impose their will on the majority? Under normal circumstances minority views do sometimes take precedent over accepted ways, but such outcomes are normally achieved through persuasion not coercion.
+
+In the playdough case, political correctness has been used as a weapon to silence and intimidate opposition. By claiming the use of food in play is culturally offensive to Maori, the small group of ideologically-driven radical academics who are behind such change can call anyone who speaks out in opposition, a racist. It is a classic example of the modern-day tyranny that is constantly being wreaked by minority groups over the majority of New Zealanders, through the use of political correctness.
+
+That situation was reinforced this week through the revelation that an unsuccessful applicant for a job in a coffee shop is going to lodge a complaint with the Human Rights Commission on the grounds that she was refused the job because her moku might put off the customers. She has claimed that the employer’s actions are culturally offensive to Maori. In this case, it appears that the decision by a woman to disfigure her face with tattoos must, because she is Maori, over-ride the right of an employer to hire the best person for the job. It is outrageous!
+
+Employers should have the right to hire whoever they want. The law in this whole area has become so politically correct, that it now rides roughshod over logic and common sense. What we really need to do is to bring back the right for a person to be hired knowing that if it doesn’t work out, then the employer or employee can call it quits without the threat of legal action.
+
+  
+That way, employers with a sense of community spirit and social justice will once again be willing to give those people who find it hard to get a job – like the lady with the moku, people with disabilities, the long-term unemployed, or people with a criminal record – a go. In fact, I have a private members’ bill in the ballot that would help in this regard. My bill would bring back the right to a three-month trial or probation period. Unfortunately, in this Parliament, if the bill was drawn it would be defeated by the Labour Party and the Greens, who are clearly in the pockets of the unions and, in spite of their fine rhetoric, don’t really want to make it easier for marginalised workers to get jobs.
+
+However, it is the sort of legislative change that would occur if ACT has a role in a new government later this year. Having said all of that, there are still some employers today who are brave enough to give such people a go. One such business owner contacted me earlier this week to share his story – and his frustration. He had finally hired someone who had been long-term unemployed, but at the start of his second week of work, not only did he fail to turn up, but he couldn’t be contacted by telephone either.
+
+As a result, the employer rang the man’s Work and Income caseworker who came up with a ‘great’ solution – the worker would be ‘given’ a taxpayer funded cell phone so that he could be more easily contacted!
+
+Under the rule of the Labour Party, common sense, personal responsibility and traditional values are all becoming things of the past. Political correctness is now ruling supreme driven by Prime Minister who is looking more like a dictator as each day goes by! If you oppose political correctness in all of its forms check out the www.pcfreenz.co.nz website and support my campaign!
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

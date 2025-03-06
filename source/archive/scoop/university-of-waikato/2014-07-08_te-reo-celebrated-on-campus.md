@@ -1,0 +1,54 @@
+---
+slug: te-reo-celebrated-on-campus
+title: "Te reo celebrated on campus"
+date: 2014-07-08
+source-url: https://www.scoop.co.nz/stories/ED1407/S00053/te-reo-celebrated-on-campus.htm
+author: university-of-waikato
+---
+Te reo celebrated on campus
+===========================
+
+**Tuesday, 8 July 2014, 11:35 am**  
+**Press Release: [University of Waikato](https://info.scoop.co.nz/University_of_Waikato)**
+
+8 July 2014
+
+**Te reo celebrated on campus**
+
+Can you kōrero Māori? If not, July is the month to start as the nation celebrates Te Wiki o Te Reo Māori – Māori Language Week. As part of the celebrations, the University of Waikato is showing full support by running a number of activities for staff, students and the wider community.
+
+The university’s Pro Vice-Chancellor Māori, Professor Linda Smith, says Māori Language Week is an opportunity for staff and students, from beginners to fluent speakers, to embrace and use the language.
+
+“The university has a strong history in language revitalisation, and teaching and research excellence in the te reo Māori space. We are continually making sure that we are providing a culturally rich and diverse experience for all staff and students, and Te Wiki o Te Reo Māori provides us with the avenue to do that.”
+
+On the Monday and Friday of Māori Language Week, the university will be hosting free te reo workshops which are open to the public. On the Wednesday, a public seminar will take place at the university’s Te Kohinga Mārama Marae, featuring Dr Jillian Tipene and Dr Roger Lewis.
+
+Dr Tipene (of Te Rarawa and Ngāti Kahu descent) will be speaking on _Te Tuhirau i Rehu i Ringa: He Titiro ki te Whakamāoritanga o Ngā Tuhinga Tawhito (Translating Sacred and Sensitive Texts: An Indigenous Perspective)_. Dr Lewis’ topic will cover language revitalisation from an in-depth perspective.
+
+Coffee cards will be distributed amongst staff and students encouraging them to order their coffee in te reo Māori, and a staff _Dress Your Space_ competition will run during the week encouraging staff to label their reception areas, tea rooms and hallways with kupu (Māori words).
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The te reo workshops will take place 12pm to 1pm Monday (21 July) and 1pm to 2pm Friday (25 July) in A1.01, University of Waikato, Gate 8, Hillcrest Road. The public seminar will take place on Wednesday (23 July), starting with a pōwhiri at 10am, at the university’s Te Kohinga Mārama Marae, Gate 4, Hillcrest Road. For more information on these events visit events.waikato.ac.nz.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Waikato](https://info.scoop.co.nz/University_of_Waikato) on InfoPages.

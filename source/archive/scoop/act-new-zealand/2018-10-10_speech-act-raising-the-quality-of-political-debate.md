@@ -1,0 +1,81 @@
+---
+slug: speech-act-raising-the-quality-of-political-debate
+title: "Speech: ACT - Raising the Quality of Political Debate"
+date: 2018-10-10
+source-url: https://www.scoop.co.nz/stories/PA1810/S00094/speech-act-raising-the-quality-of-political-debate.htm
+author: act-new-zealand
+---
+Speech: ACT - Raising the Quality of Political Debate
+=====================================================
+
+**Wednesday, 10 October 2018, 7:03 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+**Speech - Raising the Quality of Political Debate in New Zealand**
+
+  
+You only have to look at the recent issue of fuel prices to see how low quality our political debate is in New Zealand.
+
+Any politician who is vaguely in touch with the community will know that people are hurting. I spoke to a taxi driver this morning who told me that even with a hybrid, petrol has taken three thousand dollars per year from him. He is not happy. If you go to any University campus you’ll hear how petrol prices are biting.
+
+And so all the parties are trying to have their say. National, who raised petrol taxes by around 20c per litre in Government, are seriously trying to argue that the 50c petrol tax increase is because the Government added a 3.5c tax on October 1st.
+
+The Prime Minister’s position is now to stop people exploring for more oil and gas, and make it cheaper. True to form as a Labour Prime Minister, she is whipping the oil companies because they are businesses.
+
+Labour’s approach is a lot more dangerous to New Zealand. They are going to pass legislation urgently, allowing the Commerce Commission to do a ‘market study’ into the petrol market. This is bordering on corruption.
+
+A Market Study means the Commerce Commission can go after any industry it doesn’t like on the suspicion that they are uncompetitive. They have the power to demand all of the industry players’ internal information, then decide if they are making too much money or not based on theoretical calculations and models that may or may not reflect the practical realities faced by the business. If the Commerce Commission finds against a business, it could be broken up into parts.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Understandably, the Commerce Commission has been asking the Government for this kind of power for years. What bureaucrat doesn’t want power? Commerce Minister Paul Goldsmith, a historian, said no. His successor Jacqui Dean, a former playschool presenter, said yes. Now Kris Faafoi is rushing through legislation. The Commerce Commission finally get their wish, and their first task is to issue a report on an industry the Prime Minister has already said is fleecing the public.
+
+If the Commission finds that petrol prices are not high because of profiteering petrol companies, are they really going to say that? If they report that is the problem, will anyone trust them? Labour have damaged an important institution to win the political argument for a couple of news cycles. That just isn’t leadership.
+
+To give the Greens credit, they have been quiet. I would guess the social justice side of the Greens are outraged by petrol prices, while the environmental side celebrate every increase. I don’t know if you can fight on a full stomach of tofu, but if you can the Green Party may have a civil war over this issue.
+
+No New Zealand politician, present company excluded, has had the guts to tell it like it is. If you subscribe to ACT’s _Free Press_, you will know that the combination of the weakening Kiwi Dollar and the rising price of oil on the international market have increased the price of oil in New Zealand dollars by 66 per cent in the last year. The margin made by retailers has not changed. Taxes outside Auckland have increased by only 3.5c. The rising price of petrol is due largely to factors beyond the control of any New Zealand politician.
+
+There’s one way the government might be partly responsible. Some of the decisions made by the Government in the last year have probably affected the New Zealand dollar. Suddenly banning oil and gas and haphazardly banning foreigners from buying residential property has probably dented international confidence in our economy. Even then, the dollar is about where it was at the beginning of 2016, and it is not the Government’s fault that the Americans are sucking money home by raising interest rates.
+
+The real issue is this. If you earn over $70,000, you are paying $3.75 a litre for petrol.
+
+What? That’s right, you need to earn $3.75 so you can pay 33 per cent income tax, and spend $2.50 on a litre of petrol. Maybe you’re not in the bracket yet, but nearly half of earners are. If you earn over $48,000 you pay 30 per cent, so you have to earn $3.57 and pay $1.27 in income tax before you can buy petrol. Even if you earn only $14,000, you need to earn $3.03 and pay 53c income tax before you can buy a litre for $2.50 at the pump.
+
+It is difficult to argue that petrol taxes should be dropped. All the taxes except GST go into transport expenses anyway, and GST is on everything. If you want to drop petrol taxes, you are actually saying that people who don’t use roads, or don’t use them very much, should pay as much as the biggest users. That’s not fair. Fair would be cutting the largest tax on a litre of petrol, and that is the income tax you pay before you even get to the station.
+
+Real leadership would be to stand up and say “petrol prices suck but they’re not actually something New Zealand politicians can control, instead we are going to relieve pressure on all households, whether they use a lot of petrol or not, by cutting income taxes.” Alas, here is the state of political debate in New Zealand today. The Nats are pretending they never raised petrol taxes, and Labour are doing serious long-term damage to one of the most professional civil services in the world.
+
+Here is a further idea that nobody else has mentioned. The tax on petrol is confusing, poorly understood, and unfair on people with less efficient vehicles, such as poor people and students. It is unfair on people who make arrangements to drive off peak, such as shift workers. It is unfair on taxi and uber drivers who just have to stomach the cost because it’s too hard to explain what the cost is.
+
+On the other hand, we could lead the world from New Zealand. We could choose to be the first country to take full advantage of the miracle of GPS and introduce full Electronic Road Pricing. Every vehicle would have a GPS tracker. Many cities in the world already have electronic devices in car windscreens for toll roads. We could go further.
+
+We would drop petrol excise taxes, and fund roads through user fees. These would be clear and transparent. They could vary with the time of day to reward people who travel off peak or use public transport. Easing congestion would release billions of dollars of value by easing delays in major cities. It would also reduce emissions be cars idling in traffic.
+
+Of course, National ducked this idea when Simon Bridges was Transport Minister. Labour have run a mile from it since being in Government. However, this crisis is actually an opportunity to improve the quality of policy in New Zealand. It is a shame that the other parties are missing it, or unwilling to even have the debate.
+
+If you look at the quality of debate on the petrol tax, what hope can we have that other parties will confront very real challenges that we face over the coming decades?
+
+Will we build homes at the same rate as the Boomers did? Will we catch up the long tail of underachievement in education? Will we raise productivity so New Zealand remains an attractive place for people to come and remain?
+
+The last week of petrol price debates has made me skeptical. But I am absolutely committed to leading an ACT Party that tells it like it is and raises the standard of debate in this country because a high quality policy debate is essential to our country’s future.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

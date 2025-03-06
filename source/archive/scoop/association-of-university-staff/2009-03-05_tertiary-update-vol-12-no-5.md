@@ -1,0 +1,217 @@
+---
+slug: tertiary-update-vol-12-no-5
+title: "Tertiary Update - Vol 12 No 5"
+date: 2009-03-05
+source-url: https://www.scoop.co.nz/stories/ED0903/S00018/tertiary-update-vol-12-no-5.htm
+author: association-of-university-staff
+---
+Tertiary Update - Vol 12 No 5
+=============================
+
+**Thursday, 5 March 2009, 3:47 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+72 STAFF CUT FROM TEC AS POLITICAL FUNDING CUTS BITE
+
+The Tertiary Education Commission has announced today it will cut 72 of its current 364 full time equivalent jobs. The cuts follow pressure from the tertiary education minister on the commission to cut costs.
+
+The Tertiary Education Union has responded saying the tertiary education minister needs to launch an open and wide ranging discussion about the future delivery of tertiary education along the lines of the Job Summit. “Instead, she seems to be following through on a pre-election political vendetta by cutting jobs away from the Tertiary Education Commission,” says TEU transitional co-president Associate Professor Maureen Montgomery.
+
+\"We have been proposing for some time that we need to have a public debate about the role that the whole tertiary education sector, not just the commission, can play helping New Zealand in the next few years. We need to look at creating job opportunities not job cuts."
+
+"The focus must be on getting more people into training and post-compulsory education so that New Zealand can be prepared to seize opportunities when the global recession abates. Granted that we always expect value for our tax dollars but redundancies and restructuring often fail to increase efficiency. Rather, they result in low morale among the remaining staff who are run ragged to cope with the increased workload.”
+
+"While tertiary education workers have had our occasional battles with the Tertiary Education Commission and the compliance costs and bureaucracy it has brought to our jobs, the commission has also brought some much-needed order to the duplication and chaos of tertiary education provision in the 1990s. When the commission was first established it was hard to find tertiary education specialists in the public sector. It would be a waste to lose the years it took to rebuild that base of expertise at the very time we need those people to address the increased demand for skills and training," concludes Dr Montgomery.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+ALSO IN TERTIARY UPDATE THIS WEEK:
+
+Jobs Summit proposes massive investment in worker education  
+Jobs Summit dilemma: what kind of education will create real jobs?  
+Displeasure at pay-equity cancellation grows  
+90-day employment-probation period comes into force  
+Education ministry concludes no discrimination against ITP degrees  
+British tertiary-education teachers doing even more unpaid overtime  
+Unionists ready to influence UN session on equality for women and men  
+Education should be in “The Global Deal”  
+“Go to work in the countryside and mountainous areas!”  
+Iowa debates academic freedom to teach creationism  
+JOBS SUMMIT PROPOSES MASSIVE INVESTMENT IN WORKER EDUCATION
+
+The Jobs Summit hosted last week by the government concluded with a strong focus on providing education and skills training for workers to help protect them from the oncoming recession. Among the mooted proposals to protect or create jobs was the CTU’s suggestion of financial support for training or education if workers opt for a 9-day fortnight and the inclusion of skills and training provisions in infrastructure tenders.
+
+CTU secretary Peter Conway argues that New Zealand faces a global crisis on a scale we have not seen for 50 years:
+
+“There are big risks and costs associated with more public debt. It has to be paid eventually, and a credit-rating downgrade is threatened. But there are risks everywhere. A bigger risk could be that the NZ government fails to invest in people, skills, natural capital, and major physical infrastructure enough at this time and we not only suffer for years from the effects of high unemployment but our economy has a much weaker base to underpin productivity improvements, real wage rises, and export market expansion.”
+
+The New Zealand Vice-Chancellors’ Committee (NZVCC) was quick to put on the public record the combined support from Treasury and Business New Zealand for an increased focus on tertiary education. At the summit, secretary to the Treasury, John Whitehead, stated that New Zealand now has an opportunity to invest to raise education and training levels:
+
+“In my view investing in these areas may have the best pay-off and there is scope for more flexibility for government and the private sector to work together around this.”
+
+And Business NZ chief executive, Phil O’Reilly, wrote of the summit in the Dominion Post that “there was general agreement that we should use the downturn to upskill our people. What a great outcome that would be: to emerge into the upturn better skilled than before. That the Government already plays a large part in tertiary-education provision will help us turn this ambition into reality.”
+
+JOBS SUMMIT DILEMMA: WHAT KIND OF EDUCATION WILL CREATE REAL JOBS?
+
+At this stage it is uncertain which, if any, of the Jobs Summit proposals the government is likely to support and to what extent it will support each proposal. However, the renewed focus on education, skills, and training means representatives in the tertiary-education sector are now assessing how to meet the demand.
+
+The New Zealand Herald editorialised on Saturday that “the Government should listen more favourably to on-site training proposals than those involving tertiary education. One of the unspoken trends of the past 20 years has been the institutionalisation of training. Every course takes several years and, in many cases, the knowledge could be acquired in a fraction of the time.”
+
+However TEU national secretary, Sharn Riggs, believes it is essential that any skills and training package is integrated into a formalised public-education system that ensures that workers learn and earn real qualifications.
+
+“Education is the right tool to combat the recession. But if investing in education for workers is the tool we choose we can’t then take shortcuts. We need to make sure we invest in high-quality public education that gives workers recognised skills and qualifications.”
+
+NZVCC chair, Professor Roger Field, argues that universities have a role educating the vast majority of the professional workforce through research-led teaching. “Public investment in key areas of the university system will help to address skill shortages in the professional workforce,” he has said.
+
+Chairperson for the lobby group Quality Pubic Education Coalition (QPEC), John Minto, says that the crisis in availability of skilled workers for the New Zealand economy can be traced directly to a government drive in the 1990s for worksite based training:
+
+“On job training generally trains a person for a specific job in a specific industry rather than up-skilling the person with portable, wide ranging skills which empowers them and gives them real choices in employment. On -job training too often is cheap, low-quality with the focus on the needs of industry rather than the needs of the person.”
+
+For more commentary from QPEC on the issue visit http://www.teu.ac.nz/?p=1368
+
+DISPLEASURE AT PAY-EQUITY CANCELLATION GROWS
+
+Women’s groups and unions have expressed ongoing concern following the government’s decision last month to discontinue two pay and employment equity investigations which would have looked to address the pay gap between men and women in the public sector.
+
+CTU president Helen Kelly said after the state sector minister's announcement:
+
+“It is one thing to urge pay restraint in the public sector but quite another to endorse the unfair underpayment of these workers. The Government is effectively telling its own female employees that it doesn’t care if it is discriminating against them.”
+
+“Women deserve better treatment than this. The Government’s actions send out an unacceptable message to other employers in New Zealand. We say that the economic situation cannot be used to justify discriminatory pay and conditions.
+
+The cancelled investigations do not affect the tertiary education sector, where a programme to investigate pay and employment equity is continuing to progress in almost all institutes of technology and polytechnics, in one wananga and at least one university. However, it does undermine the comprehensive ambitions of the pay and employment equity programme, which may require government support to address specific findings that emerge from the pay investigations and work to date.
+
+Feminist group, the Hand Mirror, has organised a “faxathon” for tomorrow encouraging working women to organise a morning tea at their workplace and send the minister faxes expressing their displeasure at his decision to cancel the two pay and employment investigations and “immediately re-instate this important commitment to fairness and equality.”
+
+TEU national secretary Sharn Riggs is supporting the faxathon saying it is important to let the new government know that pay and employment equity is an important issue in the tertiary sector:
+
+“The pay and employment equity programme in the tertiary education sector is expected to show up some areas of inequality and bias against women, similar to the public sector. The government needs to support the programme fully and challenge this discrimination in our workplaces. Now is not the time for it to be signalling that it does not value pay and employment equity.”
+
+For more about pay and employment equity and the “faxathon” visit http://www.teu.ac.nz/?page\_id=1311
+
+90-DAY EMPLOYMENT-PROBATION PERIOD COMES INTO FORCE
+
+The government’s 90-day probation period legislation came into force this week but continues to face challenges to both its fairness and efficacy from unions who have dubbed it the “fire at will” law.
+
+Most workers in the tertiary-education sector are safe from the legal consequences of the legislation, which applies only to workers in workplaces of fewer than twenty employees. However, TEU national secretary Sharn Riggs has a concern about the way the legislation may be used by employers in small private-training establishments, as well as some of the small business units appended at arm’s length to a number of universities and institutes of technology and polytechnics.
+
+“The problem for all workers, not just those in tertiary education, is not so much the threat of being sacked after 90 days but the way it changes the relative negotiating positions of the employer and employee if the employer has the ability to sack a worker without reason,” Ms Riggs said.. “Legislation like this can, in the long run, drive down fair employment conditions and wages by reducing workers’ ability to stand up for their rights.”
+
+The CTU has set up a freephone helpline, 0800 1 UNION, and website, www.fairness.org.nz, to give advice to all workers, not just union members, who are affected by the law. It is also threatening to name and shame employers who use the legislation to hurt workers.
+
+CTU president Helen Kelly says “unions will not stand by and see workers treated unfairly”.
+
+“The 90-Day Fire at Will law doesn’t make it any easier for small businesses to hire workers, it only makes it easier to fire them.”
+
+EDUCATION MINISTRY CONCLUDES NO DISCRIMINATION AGAINST ITP DEGREES
+
+The Ministry of Education has released a series of reports this week analysing the efficacy of the New Zealand tertiary-education system. A report by Roger Smyth, Jamie Hyatt, Bhaskaran Nair, and Warren Smart, Does it really matter where you study finds that there is no evidence of labour-market discrimination against institute of technology and polytechnic degrees. In particular, it finds that there is no discrimination at the point of entry into the labour market: the median earnings of those entering the workforce with a bachelor’s degree from a polytechnic are roughly the same as those with a university bachelor’s degree. Over time, university graduates gain a modest margin over ITP graduates but, in many areas where the polytechnics have specialised in degree teaching: business, computing, and engineering, the differences are very slight and, in some fields, ITP graduates earn more than university graduates on average.  
+http://www.educationcounts.govt.nz/publications/tertiary\_education/35968/35970
+
+Warren Smart’s Making an impact study examines the influence of the Performance-Based Research Fund (PBRF) on the academic impact of research by staff in New Zealand universities as measured by citations per publication. He finds that the share of world-indexed publications produced by New Zealand university authors and share of world-indexed citations from New Zealand university research has increased since the PBRF was introduced. The overall relative academic impact of research has also increased since the PBRF was introduced.  
+http://www.educationcounts.govt.nz/publications/tertiary\_education/35980/35982
+
+Meanwhile a short analysis from from the Adult Literacy and Life Skills Survey 2006 notes that people with higher levels of education, literacy skill, and/or income have better physical and mental/emotional well-being. However, once gender, age, ethnicity, and other characteristics are taken into account, higher levels of education are related only to better physical well-being and not related to the level of mental/emotional well-being. If literacy skill and income are also taken into account, education level is not related to either physical or mental/emotional well-being.  
+http://www.educationcounts.govt.nz/publications/tertiary\_education/36000/36013
+
+WORLD WATCH
+
+BRITISH TERTIARY-EDUCATION TEACHERS DOING EVEN MORE UNPAID OVERTIME
+
+A new survey from the British Trades Union Congress (TUC) shows British university lecturers are doing more unpaid overtime than last year and far more than the national average.
+
+Almost half of staff teaching in universities (45.7 percent) said they did unpaid overtime and, on average, put in an extra 52 days’ work over the course of the year, well above the national average of 41 days.
+
+The TUC released the figures on its “Work Your Proper Hours Day”, when the average person who does unpaid overtime would start to get paid if they did all their unpaid overtime at the start of the year. Teaching professionals across education again top the annual chart of occupations that put in the most extra unpaid hours, although higher education was the only sector to see a rise in the number of days of unpaid overtime worked a year.
+
+University and College Union general secretary, Sally Hunt, said, “It comes as little surprise that university staff are working extra hours to get the job done. Rising class and seminar sizes, increased bureaucracy, and ever-greater pressure to compete make a mockery of the work-life balance for many staff. Their continued commitment to the profession must be properly recognised by our institutions, which must understand that we cannot build a world-class education sector on just the goodwill of staff.”
+
+More details on “Work Your Proper Hours Day” can be found at: www.workyourproperhoursday.com
+
+UNIONISTS READY TO INFLUENCE UN SESSION ON EQUALITY FOR WOMEN AND MEN
+
+Over 40 trade-union delegates and union equality officers from around the world gathered at the United Nations Commission on the Status of Women (CSW) which began on Monday 2 March in New York to advocate and make progress on gender-equality and non-discrimination policies within the framework of the “Decent Work, Decent Lives for Women campaign.
+
+Education International, the international body for education trade unions, helped compile the 40-women-strong trade-union delegation to the CSW, which is based on the fact that the achievement of decent work/decent lives for all has to overcome some obstacles such as the differences and inequalities of the situations of men and women, and discrimination against women in the world of work. On of the focuses of the delegation is the unequal distribution of domestic and care responsibilities between women and men. This continues to be a major obstacle to women’s participation and advancement in paid work, since men tend not to share either in housework or in child care-associated activities.
+
+The conclusions that will arise from the CSW are to negotiated and agreed by all UN member states, including New Zealand. They are likely to include a comprehensive set of recommendations to be implemented at the international, national, regional, and local levels. The agreed conclusions are a tool that can be used to hold governments and international institutions to account for the actions they take or do not take in achieving women’s equality.
+
+Currently, the draft agreed conclusions from the commission’s 2009 meeting include policies to adopt and implement legislation and policies to promote reconciliation of work and family responsibilities, including efforts to close the gap between women’s and men’s pay. They also include policies to reduce occupational segregation and increase flexibility in working arrangements such as part-time work, as well as ensuring the protection of workers with flexible working arrangements with regard to wages, social protection, and other benefits and targeting such measures to all workers.
+
+EDUCATION SHOULD BE IN “THE GLOBAL DEAL”
+
+Education International (EI) general secretary Fred van Leeuwen is arguing that education should be in “The Global Deal” at the G20 (Group of 20) summit in London on 2 April 2009.
+
+The British government, which is hosting the summit, is proposing “The Global Deal” as a basis for recovery from the worldwide financial and economic crisis. The G20 is a group of 20 economies, comprising 19 countries plus the European Union. Collectively, the G20 economies make up 90 percent of world trade (including EU intra-trade) and two-thirds of the world’s population.
+
+EI is calling for “The Global Deal” to include investment in education and achievement of the United Nations’ Millennium Development Goals, particularly Education for All
+
+The British government’s preparatory paper for the summit is available on the G20 summit website. (URL?) While the paper includes useful comments on the importance of investing in education as part of national stimulus packages, and on the achievement of the Millennium Development Goals, these two critical items are not included in “The Global Deal”.
+
+EI has written to member organisations in the G20 countries recommending that they raise this matter with their governments. While the G20 brings together only major industrialised and emerging economies, its decisions are likely to affect all countries.
+
+“GO TO WORK IN THE COUNTRYSIDE AND MOUNTAINOUS AREAS!”
+
+Beijing has been compelled to return to Mao Zedong’s wisdom in its efforts to help ease the problem of worsening unemployment among urban university graduates.
+
+The government has adopted the slogan “Go to work in the countryside and mountainous areas!” Metaphorically, this slogan is now shouted to encourage university graduates to lower their job expectations and take up jobs in rural areas or at the grassroots that would have previously been regarded as inferior.
+
+The idea of encouraging urban, educated youths to “go to work in the countryside and mountainous areas” originated during the Cultural Revolution. In the early 1950s, an idealistic Mao started to advocate that educated urban youths should go to work in rural areas to help eliminate the differences between urban workers and rural peasants, and thus help attain the goal of communism.
+
+The government today can no longer launch a compulsory campaign to force a university graduate to take up a job, let alone to go to the countryside. But that doesn’t mean it won’t try to persuade them.
+
+According to official statistics, about 6 million university students will graduate this year. Add that to the number of past graduates still seeking employment and there will be some 7 million graduates looking for jobs.
+
+Under the gloom of the global financial crisis, the government this week forecast that 2009 unemployment will soar as the economy takes a downturn. Officials earlier said the global financial crisis had already cost 20 million rural migrant workers their jobs. The government is now worrying about the potential for political unrest from millions of unemployed or unemployable students and graduates.
+
+Thus, launching a nationwide propaganda campaign, the authorities have picked up the Cultural Revolution slogan appealing for students to take whatever jobs are available to them. But students may not need authorities to remind them of this.
+
+By Wu Zhong at the Asia Times
+
+IOWA DEBATES ACADEMIC FREEDOM TO TEACH CREATIONISM
+
+The US state of Iowa is in the midst of a fiery political debate over a bill that professes to protect academic freedom. HF 183, “The Evolution Academic Freedom Act,” was introduced to the state legislature last month by Republican representative, Rod Roberts.
+
+The bill maintains that alternate theories on evolution fall under academic freedom, which should be protected for teachers and students who want to present such theories as scientific views in the classroom.
+
+Mr Roberts said he thinks people misunderstand the intent of the bill.
+
+“It’s more about the freedom that an instructor and students can engage in without fear of criticism, censure or fear of losing one’s job.”
+
+Opponents say the bill would allow teachers at all education levels to introduce religious views as science, and it would forbid teachers from discounting non-science-based answers from students. A petition of academics and teachers from Iowa State University, the University of Iowa, and the University of Northern Iowa, as well as seventeen other Iowa universities, colleges, and community colleges, seven primary and secondary schools, and three research organisations is now gathering signatures.
+
+James Demastes, an associate biology professor at the University of Northern Iowa who has spearheaded the petition drive, is worried that a similar bill passed and was signed into law in Louisiana.
+
+“This type of legislation feeds off a false premise that there is a controversy within the field of science about the validity of evolutionary theory,” said Dr Demastes. “The legislation is just a mechanism to introduce religious or non-scientific doctrines into the science curriculum.”
+
+By Brian Morelli at Iowa City Press-Citizen
+
+FOR MORE TERTIARY EDUCATION NEWS
+
+Currently Education Review is offering free access to its website
+
+Until the end of April, Education Review is providing free access to its website. Education Review is the national newspaper dedicated to covering education sector issues. Updated every Thursday afternoon, the website provides the same content as the print edition, but several days earlier than most readers receive it in the mail. The free access period provides people working in the school or tertiary education sectors with an opportunity to find out why Education Review is valued by so many of their peers.
+
+www.educationreview.co.nz
+
+TEU Tertiary Update is published weekly on Thursdays and distributed freely to members of the Tertiary Education Union and others. Back issues are available on the TEU website. Direct inquiries should be made to Stephen Day, email: stephen.day@teu.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

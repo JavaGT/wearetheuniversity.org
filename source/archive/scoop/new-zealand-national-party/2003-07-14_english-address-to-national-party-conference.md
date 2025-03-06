@@ -1,0 +1,183 @@
+---
+slug: english-address-to-national-party-conference
+title: "English Address to National Party Conference"
+date: 2003-07-14
+source-url: https://www.scoop.co.nz/stories/PA0307/S00244/english-address-to-national-party-conference.htm
+author: new-zealand-national-party
+---
+English Address to National Party Conference
+============================================
+
+**Monday, 14 July 2003, 8:58 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+  
+English Address to National Party Conference
+
+Hon Bill English
+
+National Party Leader
+
+Keynote Address to NZ National Party Conference
+
+Embargoed until 1140 Saturday, 12 July 2003
+
+Check against delivery
+
+On election night 2002, I talked about the heritage of the National Party, that our philosophy had deep roots in the community, that National had strong instincts for what is best for New Zealand.
+
+You, the National Party, have been true to that heritage. In troubled times you seized the need for change - changes in structure and changes in attitude. We will elect a board and a president to implement the biggest change in the party in 70 years . And attitudes have changed. You decided that to win, we must earn the voter ' s respect. You have decided for unity, loyalty and discipline. So we have turned the pain of defeat into forward momentum.
+
+Now the time for navel gazing is over. Let ' s stop looking in the rear vision mirror. A country that wants to move ahead can elect National only if we are also looking ahead. Enough of debating the future of our party - this weekend we debate the future of our country.
+
+I have never doubted that our principles appeal to the best in every New Zealander, I have never doubted that our appeal to aspiration and enterprise and generosity lifts the human spirit.
+
+National is on the move. The president and general manager tell me we are getting a growth of membership from people who are seeking us out because they are concerned about the direction this country is taking. Many of you have been telling me the same thing. It ' s the feedback I have been getting as I move around the country: the concern about this constant social engineering.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Let me tell you just a couple of stories to illustrate this:
+
+Labour has introduced 15 new disguised taxes and levies. The latest and most outrageous is the flatulence research levy on farm animals. The Government rushed into signing the Kyoto Protocol ahead of our trading partners so it could show off to its European mates. Then it nationalised the forestry credits. Then it hit the hard-working farming sector with the flatulence tax. In the process Labour has made us a laughing stock around the world, it has broken another promise and punished farmers. National is right behind the farmer protests over this tax. The first task of a National Government will be to consign this tax to the dustbin.
+
+Then there ' s the case of Human Rights Commissioner Joris de Bres. He made a speech comparing the actions of our European ancestors to the Taleban in Afghanistan. Murray McCully made a complaint to the Disputes Tribunal - You won ' t believe the saga that ' s developed. The MP versus the QC ' s. Vast amounts of taxpayer dollars are being consumed in legal fees by the Human Rights Commission to try to prove that Joris is the only person in the country exempt from his own law.
+
+National will see the law is applied equally to every citizen, including the members of the Human Rights Commission.
+
+There are so many signs of Labour ' s determination to change New Zealand ' s way of life: legislation which declares female partners to be fathers; a definition of a family as any group of people with a psychological attachment; NCEA credits for picking up rubbish in the playground; 150 failing schools with several bad ERO reports stay open - and up to 500 successful schools will be rationalised - that means closed. Heart patients overdue for their operations aren ' t allowed to go to private hospitals. And as for Maori TV - twice the budget and 3 times the staff promised, and when it does get going it will be watched by about as many people as watch Pam Corkery.
+
+But the issue which concerns me most, and which is storing up the most awful problems for the future. Labour ' s determination to march New Zealand down the road of separatism.
+
+Well let me make it clear, here and now, for National, one standard of citizenship is our path to the future.
+
+And another promise here and now: National will see that the coastline and the beaches of New Zealand remain in the hands of ALL New Zealanders.
+
+Three weeks ago the Government promised legislation to settle this issue - they have been backtracking ever since. But don ' t worry - your rights to go to the beach, and throw a line in the water, are in the hands of Margaret Wilson! She ' s trying to do a deal behind closed doors with Labour MP ' s. But they will have to bring in legislation to safeguard our rights otherwise we will do it for them, to settle this issue once and for all.
+
+It is difficult for Labour to get this right. We will support the right legislation. But we won ' t back Helen Clark on any compromise over the ownership of our foreshore.
+
+Ken Mair compared the National Party to the Ku Klux Klan when I stated this position. We won ' t be fazed by abuse. It ' s the birthright of every New Zealander to go to the beach, to walk the coast, to throw a fishing line in the water - its about what it means to be a New Zealander.
+
+I want for my children a country where rights come from a common citizenship, not from ethnic identity.
+
+What do I mean by citizenship?. Our future is a nation of four main population groups; Maori, Pakeha, Polynesian and Asian.
+
+New Zealand ' s 21st century will be a century of coming together, convergence by birth and convergence by citizenship. People who look the same will have different cultures; people who look quite different will share much in common. The one thing they all share is that they are citizens of this great country. Whatever ability, or race or status or belief they were born to, they all have the advantage of citizenship of New Zealand.
+
+I ' m talking about citizenship because I want my children to be proud of the history and the unity of their country. I want them to know New Zealand can solve the problems of our history and move on. I do not want a country splintered by ethnic distinctions.
+
+The journey from 1840 to here has been a long and winding road through the gullies and hills of our history. A colony has become a nation. New Zealanders have earned citizenship, a set of rights and obligations, honoured in depression and war - through times of national sorrow and national protest and times of massive change.
+
+We have been at our best when we have worked to make sure citizenship is fulfilled and preserved. Citizenship erases the prejudices and privileges that go with birth, race or belief.
+
+One standard of citizenship is the foundation of national unity, national pride and national ambition for every New Zealander.
+
+We have learned a lot about how to live together in the only place we all call home.
+
+Things Maori are knitted into our way of life, our sport, our politics, our work, our idea of how the world sees New Zealand. We use Maori words and ideas every day - more than we realise. And our children use them more than we do.
+
+Many Maori have the same vision of a shared future. More and more Maori enjoy the benefits of a good education and good jobs. Maori organisations now own a majority of the fishing industry - in time they ' ll own a large part of our forestry industry. They are large successful players in farming and tourism. National stands with them - we have enormous respect for the pride and self-determination that can thrive in New Zealand.
+
+Some Maori, like some other New Zealanders, are poor and dependent.
+
+A hand up to a job will be worth more to those New Zealanders than tokenism and membership of a committee. We have faith in the capacity of Maori to strive and succeed in work and politics on the same basis as everyone else.
+
+That ' s why a National-led government will abolish the Maori seats. It ' s an act of faith, that a minority no longer needs this protection from the majority.
+
+We make common cause with Maori who share the philosophy of freedom and choice and self-reliance. National offers choice in education and diversity in the provision of health services. National supports private and community organisations working with and for government. National ' s philosophy offers more opportunity, more of a fair-go for Maori than political correctness and promises of partnership.
+
+Our opponents think Maori can ' t succeed without the government, that the rights of New Zealand citizenship are not enough, that more must be done to make up for the past. This is why National opposes the proposed Supreme Court being set up to turn the Treaty of Waitangi into a constitution that rules every facet of our lives.
+
+It ' s almost 30 years since Parliament opened the floodgates on 160 years of grievances - that ' s most of my lifetime, living with the problems. I want my children to be brought up living with the solutions.
+
+We do not believe in endlessly relitigating events of the past. National will close the books on new historical treaty claims within one year of becoming the Government - and we will move to clear up the 900 claims within five years of closing the books on new claims.
+
+National will also move to end the culture of dependency. The vision of Mickey Savage has been corrupted. It was meant to be a safety net for people facing hard times. Now some can choose welfare as a way of life.
+
+Now we have 350,000 adults of working age on benefits - more than the population of Christchurch.
+
+And these dependents have 250,000 children. Four years of economic growth have hardly dented the numbers - and the Treasury projects more people on welfare. By next year the invalids ' benefit will cost over $1 billion - and these are people who are classified as unable to ever work again.
+
+I recently met an occupational therapist who told me the worst thing for clients was the abolition of work testing. She said \" now they believe they can ' t work, so they have a stronger sense of entitlement. "
+
+I am concerned the community is splintering between those who can and do work, and those who have never known it, that more of our children grow up with no experience of the stability and fulfilment of work. We are a nation built on a work ethic. Welfare dependency cuts at those foundations and undermines our future.
+
+Fewer and fewer are paying for more and more. Fewer and fewer people in work, and raising families, are paying for more and more who are not working. The rising burden of welfare comes on top of the bills our working people already pay. Student loans, higher rates, rising health and superannuation costs, more stealthy taxes.
+
+National believes everyone is capable of doing something. We believe that with strong and smart support we can push back the tide.
+
+\* There will be support as well as sanctions.
+
+\* National will reintroduce work testing.
+
+\* We will act on truancy.
+
+\* We will bring in work for the dole.
+
+The response to National ' s welfare discussion document has been overwhelmingly thoughtful. Because even those who disagree on the solutions know there is a serious problem.
+
+We have faith in our fellow citizens, and we have the political will to lift people out of the grinding poverty of spirit that is long-term dependency.
+
+And there is no shortage of jobs - just a shortage of people to do them. Ask anyone in business if they can get the tradesmen, the truckdrivers, the doctors they need. Our defence forces are suffering from a chronic lack of people. Here is a comment which shows how we can change the culture.
+
+It ' s from Elizabeth in response to our welfare paper.
+
+I have a friend in Hamilton, now aged 56. She collects the dole. She is able-bodied. She has never been asked if she is applying for jobs. She has turned down the occasional offer from WINZ because she can ' t be bothered. No one checks up on her. Doesn ' t New Zealand care!!! "
+
+If John Tamihere spent less time trying to gatecrash National Party parties and more time trying to change the mind of his blinkered Welfare Minister Steve Maharey, then the country might benefit. But as he hasn ' t got much hope of success with this Labour Government, National will step in to stop this rot, to turn dependency around, to encourage youngsters into jobs. One foot on the job ladder -- any job -- is better than none. National says welfare is a safety net, not a lifestyle choice.
+
+We can ' t stay complacent about dependency or about the economy. You all know that New Zealand households earn an average of $200.00 per week less than an Australian household. I want to close that gap. There is no good reason why we should earn less than Australians. We might be small, we might be a long way away but we back ourselves, our people and our businesses. National ' s principles are the way ahead, private enterprise, giving people the freedom to face the ups and downs of the market, and limiting the role of government.
+
+Don Brash will tell you tomorrow how this translates into lower taxes, reducing compliance costs, eliminating waste from government and boosting our infrastructure.
+
+We will cut through the red tape so that it becomes easier, rather than harder, for businesses to hire and expand. We have to cut the form-filling procedures, which force people in small businesses to spend so much time working for the Government as tax collector, ACC collector, OSH inspector and all the rest. This bureaucracy is making life a misery for the best of our business and hampering development and expansion.
+
+New Zealand will be carried forward on the spirit of enterprise, and we will need all the spirit we have. The population will age. There will be less people putting in. Health costs are growing fast, dependency has to be turned around. Our young people will compare their opportunities here to the opportunities with other countries, just one cheap plane flight away.
+
+When last in government, National worked for an open competitive economy. New Zealand is now enjoying the benefits. We won ' t stand by and watch it slowly suffocate.
+
+Since the election we have produced discussion papers on Welfare and Economic Direction. We have more coming on Education and the Treaty.
+
+The caucus is committed to six months hard work filling out the detail of these policies. We intend to be a government that knows what it wants.
+
+In the last two months the Government has been very much on the defensive in Parliament as the Opposition parties have been successful in exposing weaknesses and poor administration.
+
+Our MPs are a great bunch of New Zealanders which I ' m proud to lead. Our MPs, as I pointed put yesterday, comprise a mixture of hard political experience, from our last time in government, and the fresh thinking and enthusiasm that comes with the newcomers.
+
+Together they represent the traditional beliefs and philosophies of the National Party.
+
+Our MPs feel the frustrations of Opposition the same as you. They deserve recognition for all their hard work and your support in the drive to regain the government benches.
+
+These MP ' s are the core of the next Government, and they ' ll lead a centre right Government for the next decade.
+
+As for my routine as Party Leader, it is my plan now to spend more time on the road, meeting people face to face to listen to their concerns and to explain our policies.
+
+I ask you all to go away from here with a strong message to our members and the public: National is the only Opposition Party which can change this Government.
+
+We can work with other centre-right parties, but a strong National Party is essential if we are to reverse the social engineering. We are the party of national unity, national pride and national ambition.
+
+We need National to rebuild New Zealand as a country where our children can experience a healthy social and economic environment and one standard of citizenship for all.
+
+Only National can do this. And to achieve this we need your committed support.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

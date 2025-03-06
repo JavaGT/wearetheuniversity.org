@@ -1,8 +1,9 @@
 ---
-title: Contact
-slug: contact
+slug: 'contact'
+title: 'Contact'
 ---
 
-This page is under construction, but in the meantime, you can contact *We Are The University* at [email@wearetheuniversity.org](mailto:email@wearetheuniversity.org)
+# Contact
+You can contact WATU at [email@wearetheuniversity.org](mailto:email@wearetheuniversity.org) or message us on [instagram](https://www.instagram.com/wearetheuniversity/).
 
-We love to hear from you!
+Are you wanting to leak information to us? [Resources here.](/leak)

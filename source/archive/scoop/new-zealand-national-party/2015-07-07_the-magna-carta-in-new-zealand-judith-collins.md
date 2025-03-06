@@ -1,0 +1,91 @@
+---
+slug: the-magna-carta-in-new-zealand-judith-collins
+title: "The Magna Carta in New Zealand - Judith Collins"
+date: 2015-07-07
+source-url: https://www.scoop.co.nz/stories/PA1507/S00113/the-magna-carta-in-new-zealand-judith-collins.htm
+author: new-zealand-national-party
+---
+The Magna Carta in New Zealand - Judith Collins
+===============================================
+
+**Tuesday, 7 July 2015, 9:06 am**  
+**Press Release: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+**Hon Judith Collins**  
+**MP for Papakura**
+
+Speech to mark the 800th anniversary of the Magna Carta 1215, University of Auckland Magna Carta Series
+
+**The Magna Carta in New Zealand**
+
+Good law takes time. Sometimes it takes several attempts to get it right and then, as any Minister of the Crown who has carefully shepherded major law changes through, first cabinet and secondly, through the New Zealand Parliament in the MMP era, the first thing to start planning – after implementation – are the amendments. The Magna Carta is no exception. The Magna Carta is one of the most quoted and occasionally misused sources of New Zealand’s flexible constitutional arrangements.
+
+Recently, in one of those rare shows of unity normally reserved for New Zealand tragedies or more happily for sporting achievements, Parliament debated a Notice of Motion celebrating the 800th Anniversary of the First Magna Carta of 1215. The efforts ranged from the witty and informed to the Wikipedia version and finally to the ‘Denis Denuto’ interpretation from that excellent Australian movie, ‘The Castle’. That saw the effect of the Magna Carta being described as ‘the vibe’.
+
+Some of the contributions were a bit embarrassing but to be frank, it’s probably the first time that the Magna Carta has had such an airing since a hundred years ago in 1915. The Magna Carta of 1215 didn’t last long. It was annulled by Pope Innocent III. Imagine that happening today! Perhaps the modern equivalent would be the European Parliament or the European Court of Justice declaring a UK law annulled. That would be enough to get a referendum in the UK to leave the European Union.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The annulment led to another Baron’s War and the Magna Carta was reissued a year later in 1216. It was reissued again in 1225 and finally was confirmed as part of English statute law in 1297.  
+It is section 29 of the 1297 version of the Magna Carta that is still in force in New Zealand. It provides that:
+
+_‘No Freeman shall be taken or imprisoned, or be disseised of his Freehold, or liberties, or free Customs, or be outlawed, or exiled, or any otherwise destroyed; nor will we not pass upon him, \[nor condemn him\] but by lawful judgment of his Peers, or by the law of the land. We will sell to no man, we will not deny or defer to any man either Justice or Right.’_  
+_1297 c.9 (Regnal.25 Edw\_1\_cc\_1\_9\_29) Section XX1X_
+
+In today’s language this has been taken to mean, there shall be:  
+• No imprisonment,  
+• No taking of land or rights,  
+• No outlawing,  
+• No denying or deferring of the right to justice  
+without, first, a lawful judgment of the Courts.
+
+It doesn’t mean that a specific law applies equally to all. What it does mean is that all are entitled to the protection of the law and the exercise of that protection. It means that all are subject to the Law – not necessary every single law. The Rule of Law in its most basic form is a principle that no one is above the Law. No one (including the sovereign or the Crown) can ignore the Law.  
+I have been asked to consider the Magna Carta from my experience as a Minister of the Crown. It might be useful to also consider it as a Member of Parliament. In doing so, I am going to briefly consider our New Zealand constitutional arrangements to provide context.
+
+When we consider the modern day application of the Magna Carta, it is unhelpful to try to substitute the 1215 King John for Her Majesty the Queen or even for the Prime Minister. The Barons could possibly be the Cabinet but really the exercise of the Cabinet on behalf of the Crown, sits the Cabinet more firmly with the Crown – after all Cabinet Ministers are Ministers of the Crown.
+
+No, as representatives of all the people of New Zealand, perhaps it is Parliament that is more akin to the Barons of 1215. Our Parliament, as a unicameral Parliament is comprised of the House of Representatives. When our forebears voted out the concept of an Upper House, they voted out the concept of a House of Lords or those who had particular leadership, by birth, or by political convention or even donations. All New Zealand Members of Parliament are equal. Every vote counts the same. The Prime Minister’s vote has the same standing as that of the Leader of the Opposition or any other Member of Parliament. So when New Zealand laws are passed, they have to be passed by the House of Representatives and unlike the Barons of 1215, if the people don’t agree with us then, every three years, they get to decide if they still want us representing them.
+
+Recently, I read an opinion piece from an academic that asked whether the law change to casino gambling to allow Sky City to have more pokie machines could be in keeping with the Magna Carta. “Was that equality before the law?” In other words, was the law change consistent with the Rule of Law? I thought it a rather spurious argument.
+
+For example, the law can take into account the special needs, rights or obligations of people in industry, or by age. Police Officers, for example, are legally entitled to carry firearms in airports. Anyone else doing so, would be met with the full force of the law. Alcohol cannot be sold to those under 18 years but can to those 18 and over. The Treaty of Waitangi forms part of our constitutional arrangements. Certain customary rights to fishing are retained by Maori solely. It’s not equality of the law but it is accepted by law.
+
+New Zealand Ministers of the Crown, unlike their US counterparts, are all Members of Parliament and therefore have a dual role of representing both the people and the Crown. If we consider the US constitution was developed during the time of George III, it’s clear to see that the President gained the executive powers of George III, the Senate – those of the House of Lords and US House of Representatives – those of the then UK House of Representatives.
+
+As our New Zealand experience of self-government and democracy came substantially later than the US example, our constitutional arrangements reflect a constitutional monarchy rather than that of a monarchy (or a presidency) with executive powers. So, for instance, the US President exercises the power of veto as it was exercised by the 18th century King George III while the New Zealand Prime Minister votes in Parliament and has no power of veto. The Governor–General representing HM The Queen retains that right but doesn’t exercise it – respecting at all times the will of the people.
+
+Having been a senior Minister of the Crown for 6 years, I can assure you that Cabinet does not consider the exact wording of the Magna Carta. Parliament doesn’t either. They do however consider the principles of the Magna Carta especially as they are provided for in the New Zealand Bill of Rights Act 1990. Every proposed law is considered by my former ministry, the Ministry of Justice, which considers the proposed law against the Bill of Rights Act 1990.
+
+The Bill of Rights Act (known as BORA) is very much part of discussions both in Parliament and at Cabinet. It does not have the status of supreme law and it cannot be used by the Courts to overturn the Supremacy of Parliament but it can be used to promote better law, it is a conscience to both Ministers of the Crown and to Parliament.  
+Provisions of BORA reflect that early rendition in 1215 and later 1279.
+
+The right against unreasonable search or seizure, the right not to be arbitrarily detained in Sections 21 and 22 of the BORA reflect clause 29 of the Magna Carta. The right to a fair and public hearing by an independent and impartial court is also provided in both the BORA and the Magna Carta. Section 7 of the BORA requires the Attorney-General to draw to the attention of Parliament any Bill that is inconsistent with the BORA. This is taken very seriously by both the Crown and by Parliament. It is not a finding that one takes lightly.
+
+New Zealand has been without serious social discord since the last of the New Zealand Land Wars. Even times such as the 1951 waterfront strike or the 1981 Springbok Tour have not led to a breakdown in society or the rule of law. The rule of law and the need to comply with the law, as exercised by the majority of people, keeps New Zealand free of major social discord.  
+The Magna Carta is just one of a number of constitutional laws, principles and conventions that comprise our uniquely New Zealand constitution.
+
+Our laws belong not to Government or to the Courts but to the people. Laws are no more static than the lives of New Zealanders. What was once thought etched in stone such as marriage being between a man and a woman, or even a Papal veto of law, can be thrown aside at the will of the people. New Zealand law is based on the principles of the rule of law, the sovereignty of Parliament (representing the people) and the separation of powers.
+
+Our constitutional experience does not travel to other countries any more than theirs travel well to ours. Our history is different. Our future is different. But we can be very assured that the principle of the Rule of Law as seen in the Magna Carta will continue to be as important into the future as it has been for 800 years.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

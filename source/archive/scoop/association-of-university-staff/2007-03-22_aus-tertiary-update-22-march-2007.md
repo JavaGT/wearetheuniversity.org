@@ -1,0 +1,212 @@
+---
+slug: aus-tertiary-update-22-march-2007
+title: "AUS Tertiary Update, 22 March 2007"
+date: 2007-03-22
+source-url: https://www.scoop.co.nz/stories/ED0703/S00077/aus-tertiary-update-22-march-2007.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update, 22 March 2007
+==================================
+
+**Thursday, 22 March 2007, 1:01 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+AUS Tertiary Update
+
+Volume 10 Number 8, 22 March 2007
+
+  
+Tertiary Update is also available on the AUS website
+
+www.aus.ac.nz
+
+  
+Link between economic transformation and tertiary-education reinforced
+
+The Minister for Tertiary Education, Dr Michael Cullen, reinforced the link between economic transformation and tertiary education in an address to an audience at Massey University last Friday, saying that an innovative high skilled, high knowledge economy is the best way to raise living standards for all. He said that the Government is investing heavily in skills, learning, research and science and technology as part of its commitment to increasing the skills and knowledge of all New Zealanders.
+
+Dr Cullen told his audience that the tertiary-education sector was being reformed in order that taxpayers, students and employers could have more confidence that the sector is delivering to their needs, and that courses are better aligned with employment opportunities so that graduates have a better chance of getting a job.
+
+According to Dr Cullen, the Government is has been actively working to improve the teaching and research environment at universities, saying that, under reforms due to start next year, tertiary-education institutions would determine what their distinctive contribution will be and invest in capabilities and staffing around these priorities. He said that improvements already underway in the sector include increased investment in the Performance-Based Research Fund, to $207 million this year, the allocation of more than $21 million to seven centres of research excellence to support world-class research, the establishment of a National Centre for Tertiary Teaching Excellence and the provision of $10 million on projects to increase the quality and relevance of tertiary education.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Dr Cullen said that the Government’s efforts were already paying off. “In a few weeks, on 1 April, we celebrate one year since interest-free student-loans were introduced,” he said. “The number of tertiary students has almost doubled, to over 500,000. The number of New Zealanders with a bachelor’s degree or higher has increased by 140 percent in the last nine years.”
+
+“In 2000, the average full year full time tuition fee at tertiary institutions was equivalent to nearly six weeks' gross income for a person employed on an average wage. Now it’s less than four weeks,” said Dr Cullen.
+
+Dr Cullen’s speech can be found at:
+
+http://www.beehive.govt.nz/ViewDocument.aspx?DocumentID=28686
+
+  
+Also in Tertiary Update this week
+
+1\. Unions denied role at Health and Safety Conference
+
+2\. Call for Te Tiriti to be reinstated to TES
+
+3\. Auckland under funded, but still banks $20 million
+
+4\. Waikato posts $7.5million surplus
+
+5\. Wananga’s watchdogs cost $3 million
+
+6\. Australian staff spurn individual agreements
+
+7\. UK Government to sell off student debt
+
+8\. Canadian budget fails to address funding woes
+
+9\. University of Manchester to axe 400 staff
+
+10\. Chinese university demotes dean after web-rant
+
+  
+Unions denied role at Health and Safety Conference
+
+The Association of University Staff (AUS) has expressed concern that unions have been excluded from any involvement in a Health and Safety Conference focusing on issues in the tertiary-education sector and hosted by the University of Auckland from 18 to 20 March.
+
+Although the Health and Safety in Tertiary Institutions Conference is advertised as being of interest to health and safety professionals, including union and staff representatives, the organising committee has been restricted to University of Auckland management and the speakers confined to managers and consultants. Although the invited speakers include a representative of the Northern Employers’ and Manufacturers’ Association, a request made by AUS in early March to participate at the Conference has been denied, the explanation being that the programme had already been finalised.
+
+AUS General Secretary, Helen Kelly, said the refusal to have genuine union participation in the Conference flew in the face of the Health and Safety in Employment Act, which was built on the a collaborative approach between management and unions to workplace health and safety. “All modern thinking on best health and safety practices accepts that safe workplaces are those where employees and unions participate and use their knowledge to reduce accidents and health hazards. The fact this Conference is ignoring that raises questions about how useful it will really be in improving practice in the sector,” she added.
+
+Ms Kelly said that the university unions have health and safety participation agreements with all universities, including having health and safety representatives selected by union members, and union involvement could have contributed greatly to the Conference.
+
+  
+Call for Te Tiriti to be reinstated to TES
+
+The Association of University Staff is calling for the Government to reinstate references to Te Tiriti o Waitangi in its Tertiary Education Strategy, after an admission by the Ministry of Education that it was a mistake to remove similar references from its draft curriculum for schools.
+
+Last week, the Secretary for Education, Karen Sewell, said that consultation on the draft schools’ document revealed that many Maori groups opposed the omission from the curriculum and that the Ministry had “got it wrong \[by removing the Treaty of Waitangi\]”.
+
+According to the Government, references to Te Tiriti o Waitangi were not included in the TES because they are to be included in the Maori Education Strategy (MES), due to be released later this year. It also considered it sufficient that individual tertiary-education institutions are already required to include references to Te Tiriti in their charters and operational plans and to work with Maori to ensure the development and achievement of Maori aspirations.
+
+More than 400 submissions, made to the Tertiary Education Commission and the Ministry of Education during consultation on the TES last year, argued that references to the Te Tiriti should not be relegated to the MES, but included in the full strategy, given that Te Tiriti is an issue affecting all New Zealanders, not just Maori.
+
+AUS Maori Officer, Naomi Manu, said that the Te Tiriti o Waitangi is important for all New Zealanders, and that it is widely recognised as having an important role in the development of pathways forward for all New Zealanders. “Appropriate reference should always have been included in the Tertiary Education Strategy as well as the Maori Education Strategy,” she said.
+
+Mrs Manu said that Maori participation in tertiary education is declining, and omitting Te Tiriti reference from the single-most important document which underpins tertiary education would not help increase that participation or reduce the sense of disenfranchisement many Maori have with the tertiary-education system.
+
+  
+Auckland under funded, but still banks $20 million
+
+The University of Auckland says it took a leading role in 2006 in preparing some of the best-researched submissions on university funding that the New Zealand Vice-Chancellors’ Committee has ever presented to Government, according to its Vice-Chancellor, Stuart McCutcheon. In the University’s recently published 2006 Annual Report, Professor McCutcheon says that the submissions not only showed convincingly the deficiencies in current government funding policies, but also made very strongly the argument that the social and economic returns from higher and better-targeted expenditure on tertiary education are high.
+
+Despite under funding, the Annual Report shows that the University had a successful year financially, turning in an operational surplus of $20.7 million, $2 million ahead of budget. Although student numbers were down by 4 percent, with a resultant drop of around $7 million in tuition-fee income, Professor McCutcheon says its financial management systems performed well. Other revenues, principally externally funded research, were well ahead of budget, with the University generating an overall income of $673.1 million, $10.1 million (15.2 percent) ahead of budget.
+
+The Annual Report says that, in some areas, expenditure was held back in response to lower student numbers, but in other areas costs increased in tandem with higher research revenues. Total expenditure was $652.3 million, or $9.0 million (1.4 percent) higher than budget, with the net result an operating surplus of 3.1 percent of revenue.
+
+Professor McCutcheon reports that management of the University during the year was dominated by the need to respond to falling student numbers in the Faculties of Arts, Business and Economics and Education by reducing permanent academic staff numbers.
+
+Last year, the University had 1,956 full-time equivalent (FTE) academic staff, 2,405 FTE general staff and 29,331 EFT or 37,924 enrolled students. More than $177 million was spent on academic staff salaries and $154 million on general staff salaries.
+
+The University of Auckland Annual Report can be found at:
+
+http://www.auckland.ac.nz/uoa/fms/default/uoa/about/uoa/docs/Annual%20Report%202006.pdf
+
+  
+Waikato posts $7.5million surplus
+
+Like its Auckland counterpart, the University of Waikato has announced an higher-than-budgeted operating surplus for 2006, in this case $7.5 million or a 4.2 percent surplus of income over expenditure. Vice-Chancellor Professor Roy Crawford said the positive result was due to a number of factors, including a 6 percent increase in new domestic students and a rise in the number of masters and doctoral students.
+
+Professor Crawford said that increased enrolments resulted in a $2.1 million increase in revenue, while revenue from other activities increased by 8.1 percent to $24.7 million. Further savings of $6.3 million resulted from what he described as careful management of the University’s operational and labour costs.  
+Total consolidated revenue of $183.5 million was 2.1 percent higher than in 2005. The consolidated surplus, including $2.0 million generated by the university's commercial arm, WaikatoLink, was $9.5 million, compared with $8.5 million the previous year.
+
+Professor Crawford said the university was very pleased with the result as it had not been an easy year. “The operating surplus exceeds the 3.0 percent target set by the Tertiary Advisory Monitoring Unit to fund development,” he said. “It means the University overall is not only financially well-positioned to meet the challenges ahead, but we can move with confidence on the new capital works programme planned this year.”
+
+  
+Wananga’s watchdogs cost $3 million
+
+Trouble-shooters brought in to fix the financial problems at Te Wananga o Aotearoa (TWOA) have been paid more than $3 million in less than two years, according to a report this week in the Dominion Post.
+
+In 2005 the Government effectively took control of TWOA, appointing Brian Roche from PricewaterhouseCoopers, as a Crown Manager, after concerns about nepotism and poor financial management.
+
+The Minister for Tertiary Education, Dr Michael Cullen is reported in the Dominion Post as saying that, that between March 2005 and June 2005 the bill for the Crown appointments was $545,223, from July 2005 to June 2006 the cost was $1,742,237 and from July 2006 to the end of February 2007 another $562,528. That amounts to more than $3.2 million.
+
+Dr Cullen is reported as defending the cost, saying that TWOA is a complex business that needed specialist expertise to ensure its long-term viability. Mr Roche’s role would continue “as long as required but at least until the end of this year”.
+
+Council Chair Craig Coxhead said that the TWOA Council was yet to formally consider its position on a timetable for a return of control. It forecast a significant loss for last year, from restructuring costs, but a surplus of $3 million to $4 million this year.
+
+  
+Worldwatch
+
+Australian staff spurn individual agreements
+
+In the two years since the Australian Government introduced significant financial inducements for universitiees to dump collective employment agrements and offer staff Australian Workplace \[individual\] Agreements (AWAs), only about 2,000 or less than 3 percent, of Australian university staff have taken them up. Most are reported to be non-academic exectutives.
+
+At the Australian Higher Education Industrial Association Annual Conference last week, the Federal Education, Science and Training Minister, Julie Bishop, criticised universities’ lack of commitment to the higher-education workplace reform requirements. “I found all universities compliant with the letter but it is the spirit of the \[reforms\] that I want, and expect, universities to embrace,’ she said. “The workplace arrangements are simply matching those in the collective agreement and they’re not providing the level of diversity the sector should be embracing.”
+
+National Tertiary Education Union Senior Industrial Officer, Ken McAlpine, said that up to half of the union’s academic members had loadings and special conditions that would obviate an individual agreement. “There is no reason for AWAs in higher-education other than to de-unionise the workplace. It’s entirely ideological,” he said.
+
+From The Australian
+
+  
+UK Government to sell off student debt
+
+Student loans worth an estimated £16 billion are to be privatised by the British Chancellor, Gordon Brown, in a move that will give him extra funds for education in next weeks budget.
+
+The sale would give an immediate cash injection for the Treasury and is considered a safe investment for any investors considering buying the student debt. They would have a steady long-term income from graduates, guaranteed by the government and collected painlessly by the Inland Revenue. Defaulting is expected to be rare, although graduates have been slower to start repaying student loans than ministers hoped.
+
+Details of the new sell-off, and the reasons behind the decision, appeared this week in the Financial Times and comes just two weeks after the Education Guardian revealed that influential economists believe the time is right for the student loan system to be overhauled.
+
+Nicholas Barr, Professor of Public Economics at the London School of Economics, said the blanket interest rate subsidy was “very expensive” for the Treasury and cost the taxpayer £1.2 billion a year. He suggested that existing subsidies should be replaced by a “targeted interest subsidy”, with the interest rate tied to government borrowing. At present, interest on student loans is pegged to inflation.
+
+From the Education Guardian
+
+  
+Canadian budget fails to address funding woes
+
+The Canadian Association of University Teachers (CAUT) has said that the country’s budget, delivered this week, has failed to adequately address the chronic imbalance in Federal funding for Canada’s universities and colleges. While some additional Federal money has been made available through grants to selected research centres of excellence, new graduate scholarships and support for research, universities and colleges will not receive any additional operational funding.
+
+CAUT Executive Director, James Turk, said that the budget had not delivered any new cash transfer for post-secondary education for the 2007-08 year. “The increases for subsequent years are over a billion dollars short of getting us to the levels we were at in 1993, when adjusting for inflation and population growth,” he said. “The biggest disappointment for CAUT is that the Government did not create a separate transfer for post-secondary education as was widely anticipated.
+
+Mr Turk said that the failure to adequately invest in post-secondary education means families and students will continue to bear the burden and face even higher costs and student debt levels. He said that while CAUT is pleased to see increased research funding, it is concerned that the Federal Government is specifically targeting the funding rather than allowing priorities to be set by the research community.
+
+  
+University of Manchester to axe 400 staff
+
+Four hundred jobs are expected to be lost at the England’s University of Manchester as it looks to clear a £30 million debt created by the merger between the Victoria Manchester University and the University of Manchester Institute of Science and Technology in 2004.
+
+While there are apparently no plans for compulsory job cuts, the assurance has failed to reassure the University and College Union (UCU), which has accused the university of mismanagement and is opposed to any jobs disappearing. David Beale, from the Manchester Branch of UCU, said that the union does not accept the need for the redundancies and that the financial case has yet to be made for them. “Despite the Vice-Chancellor’s reassurance that there will be no compulsory redundancies, the voluntary severance deal is poor and any job losses will greatly intensify the work loads for those who remain,” he said.
+
+In a letter sent to all staff the University’s Vice-Chancellor, Professor Alan Gilbert, explained the background to the debt and the need for job cuts. The letter said that a third of the debt was predicted following the merger of the two universities, and another £10 million was due to a deliberate decision to move further into the red to build up the new University’s research base. The remaining £10 million can be attributed to the 10 percent rise in the payroll following national wage settlements between 2005 and 2006 and the doubling of energy costs.
+
+From the Education Guardian
+
+  
+Chinese university demotes dean after web-rant
+
+A prestigious Chinese university has demoted one of its dean’s days after complaining about being sidelined for bold remarks on academic freedom and berating the country’s higher-education woes on the Internet. Zhang Ming, Dean of Political Sciences at Renmin University of China, posted details of a row with his superior and attacked the “bureaucratisation of Chinese colleges” on his blog last week.
+
+Zhang was formally stripped of his deanship on Friday, but will remain as a professor at the University and will be permitted to continue teaching.
+
+Zhang said that he had irritated his superior by telling the media that the University had withheld some dissertation subsidies from graduate students and for speaking up for a colleague he believed was wronged by a reviewing panel.
+
+Renmin University’s School of International Studies, which administers Zhang’s department, dismissed his blog posts as “lies” which had “brought great pressure to the school,” ”victimised its faculty” and “damaged its reputation.”
+
+From Reuters
+
+ENDS
+
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz .
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

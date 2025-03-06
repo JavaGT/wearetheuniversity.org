@@ -1,0 +1,75 @@
+---
+slug: two-tertiary-teaching-awards-for-canterbury
+title: "Two tertiary teaching awards for Canterbury"
+date: 2015-08-12
+source-url: https://www.scoop.co.nz/stories/ED1508/S00049/two-tertiary-teaching-awards-for-canterbury.htm
+author: university-of-canterbury
+---
+Two tertiary teaching awards for Canterbury
+===========================================
+
+**Wednesday, 12 August 2015, 3:37 pm**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+12 August 2015
+
+Two tertiary teaching awards for Canterbury
+
+Two dedicated University of Canterbury (UC) academics received Ako Aotearoa Tertiary Teaching Excellence Awards at a presentation at Parliament last night.
+
+The outstanding Canterbury teachers are Dr Herb de Vries from UC’s College of Business and Law and Professor Angus Hikairo Macfarlane, who is Professor of Māori Research at UC and the University’s first winner in the Kaupapa Māori category.
+
+The UC duo was recognised alongside 10 other recipients from around New Zealand and will each receive awards of $20,000 for their achievements.
+
+The judging panel commented on Professor Macfarlane’s strength in culturally inclusive learning and teaching – in particular his ability to engage with both individuals and groups. They stated that Dr de Vries’ commercial background gave authenticity to his teaching, noting that his willingness to engage with students in a very interactive manner was a particular strength.
+
+Dr Herb De Vries left high school at 17 and overcame learning difficulties to excel in his own successful manufacturing business, before deciding at 36 that he wanted to be a university lecturer. Dr de Vries completed an MBA and a Certificate in Adult Teaching, which led to a period of contract lecturing and then a position in the Christchurch College of Education Business School. Dr de Vries says the outstanding teaching culture there had a positive impact on his development as an educator and, after completing a Masters and PhD in management, he accepted a position in UC’s College of Business and Law when the Christchurch Teachers College became the UC College of Education.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Long impressed with the difference great teachers can make to students’ lives, Dr de Vries has gone on to inspire others.
+
+“As a youngster I was plagued with reading and writing problems, but fortunately I had inspiring teachers who encouraged me to overcome these problems,” says Dr de Vries.
+
+“Students need to grow as learners and as people, so I encourage them to engage with other students as a learning community. It’s not about me – it’s about inspiring them to set high expectations for themselves. When I walk into a classroom, my students are the centre of my universe – for that period of time, nothing else matters more,” he explains.
+
+This philosophy saw Dr de Vries through the obstacles created by the Canterbury earthquakes, when he delivered lectures to 400 students in tents and offered support to many via drop-in sessions at UC’s Intent Café.
+
+Professor Angus Macfarlane’s award recognised his contribution and commitment to the professional advancement of kaupapa Māori imperatives for pre-service and in-service teacher education. He states that he attempts to adopt an approach to teaching and learning that is culturally-grounded, evidence-based, student-focused and committed to advancing awareness and understandings that can be translated into practice.
+
+Educated in Rotorua and Auckland, Professor Macfarlane’s leadership in Māori traditions was fashioned and refined at secondary school where the emphasis was on te reo and tikanga Māori, scholarship, performing arts and sport. A period as head teacher of a school for students with profound behaviour difficulties focused Professor Macfarlane’s interest in educational and cultural psychology, which became the foundational disciplines of his university teaching and research. He is also Kaihautū (Senior Māori Advisor) for the New Zealand Psychological Society.
+
+“The greatest satisfaction I derive from tertiary teaching is the development of human potential, which must be highly valued and reflected in the content and context of teaching programmes,” says Professor Macfarlane.
+
+“While my teaching is primarily geared toward kaupapa Māori orientations, I strive to be inclusive of all cultures. The fine examples of excellence that my tipuna \[ancestor\], Makereti, provides are the qualities that I draw from to guide and inform my tertiary teaching practice,” he explains.
+
+Professor Macfarlane recalls and acknowledges the many key people who have inspired him and kept him motivated over the years.
+
+“A real sense of purpose and enjoyment was inspired through working in proximity to tertiary education leaders such as Fred Kana, Waiariki Grace, Tamati Reedy, Linda Tuhiwai, Ted Glynn, and others,’ says Professor Macfarlane.
+
+The annual awards were established by the Government to recognise and encourage excellence in tertiary teaching and were presented for the first time in 2002. UC has a strong track record of success in the awards, with nine previous winners.
+
+Professor Macfarlane was presented with his award by the Minister of Tertiary Education, the Hon Steven Joyce, while Dr De Vries’ wife accepted his award on his behalf as he is currently overseas in Vienna
+
+  
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

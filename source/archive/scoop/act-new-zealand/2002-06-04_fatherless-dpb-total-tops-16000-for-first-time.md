@@ -1,0 +1,59 @@
+---
+slug: fatherless-dpb-total-tops-16000-for-first-time
+title: "Fatherless DPB Total Tops 16,000 for First Time"
+date: 2002-06-04
+source-url: https://www.scoop.co.nz/stories/PA0206/S00007/fatherless-dpb-total-tops-16000-for-first-time.htm
+author: act-new-zealand
+---
+Fatherless DPB Total Tops 16,000 for First Time
+===============================================
+
+**Tuesday, 4 June 2002, 9:10 am**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Fatherless DPB Total Tops 16,000 for First Time
+
+Sunday 2 Jun 2002 Dr Muriel Newman Press Releases -- Social Welfare
+
+ACT Social Services Spokesman Dr Muriel Newman today revealed new figures which show that for the first time the number of women on the domestic purposes benefit who won't name the fathers of their children has topped 16,000. The facts that a total of 16,009 Domestic Purposes Benefits were being paid with a Section 70 deduction imposed, including 31,289 children, was in an answer to one of Dr Newman's written Parliamentary questions.
+
+"In the past 10 years both the numbers and proportion of mothers not naming the fathers of their children have doubled. Today one sole mother in seven has refused to name the father of her child. Tens of thousands of children do not have their father's name on their birth certificate. Those children are being denied the support of their father. It is simply unacceptable that tens of thousands of fathers are either abrogating their responsibilities to their children, are colluding with the mothers, or are being denied their right to be fathers by the mothers.
+
+"I would like to know what Minister Steve Maharey is doing about this situation, which is deteriorating and creating huge potential social and financial costs to the country.
+
+"Before Mr Maharey took office the number of mothers not naming fathers was less than 14,000. When I publicly raised the issue just months after the election he told the media he would get officials to look at the issue. When I raised the issue again as the figures approached 15,000 early last year Mr Maharey once again gave the media platitudes, saying: \`There are far too many men who shirk their responsibility when it comes to financial support for their children. We will get a better way of handling this issue'.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+"So what has happened since then? Nothing. Except we now have tens of thousands kids growing up not knowing who their fathers are. The Minister's problem is that the issue can't be tackled in his usual manner with glossy publications full of ideological and incomprehensible sociological claptrap.
+
+"What's needed on this issue is real action:
+
+"ACT believes that while the state should have the power to exercise discretion in such tragic circumstances as rape, every child in New Zealand has the right to know who their natural parents are. Similarly, every mother in New Zealand being supported by taxpayer funds has an obligation to the taxpayer to ensure that the father who is responsible pays his due, and that he is able to provide the maximum level of support possible to his children.
+
+"While the ACT party does not believe in retrospective legislation, we do believe in sending a strong signal that it is totally unacceptable that children are being denied the knowledge of who their father is through collusion between the mother and the state. ACT would introduce the requirement to name the father as a condition of DPB eligibility," Dr Newman said, "so that every New Zealand child has the full support of both their mother and their father. "
+
+  
+For more information visit ACT online at http://www.act.org.nz or contact the ACT Parliamentary Office at act@parliament.govt.nz.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

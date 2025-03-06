@@ -1,0 +1,446 @@
+---
+slug: chris-hipkins-labour-2023-campaign-launch
+title: "Chris Hipkins: Labour 2023 Campaign Launch"
+date: 2023-09-02
+source-url: https://www.scoop.co.nz/stories/PA2309/S00011/chris-hipkins-labour-2023-campaign-launch.htm
+author: new-zealand-labour-party
+---
+Chris Hipkins: Labour 2023 Campaign Launch
+==========================================
+
+**Saturday, 2 September 2023, 8:26 pm**  
+**Press Release: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+E ngā mana, e ngā reo, e ngā iwi, e rau rangatira ma.
+
+Tena koutou tēnā koutou tēnā koutou katoa.
+
+Mālō e lelei
+
+Kia Orana
+
+Talofa Lava
+
+Fakaalofa lahi atu,
+
+Mālō Ni
+
+Ni sa bula.
+
+Namaste
+
+As-salamu alaykum
+
+Ni hao
+
+Or as we say in the Hutt, gidday mate.
+
+Thank you so much for that amazing welcome and it's fantastic to be with you all today.
+
+It’s energy like this that’s going to carry us forward to victory in 6 weeks time!
+
+As Helen said earlier, we’ve been here before and we won. And we’re going to do it again.
+
+We've made so much progress over the past six years but there is so much more to do.
+
+We head into this election campaign proud of our track record, realistic about the challenges before us, and incredibly optimistic about New Zealand’s future.
+
+After a difficult three years, our economy is turning the corner, inflation is coming down and wages are growing.
+
+And after a tough start to the year with the Cyclone and floods, there are signs the economy is growing again.
+
+We’ve reconnected with the world and our exports are increasing year on year.
+
+We have record low unemployment, more Kiwis in work than ever before, and so many opportunities ahead of us.
+
+After years of neglect, we’re rebuilding the country’s infrastructure with record investments in road maintenance, rail, new and rebuilt classrooms, schools and hospitals, and yes, the biggest public housing build programme since the 1950s.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+We’re lifting children out of poverty, tackling climate change by reducing our carbon emissions three years in a row, and supporting our businesses to grow and create new jobs.
+
+And we’ve got a plan to invest in our future prosperity by taking on some big projects - light rail, renewable electricity, and first world water supplies.
+
+We’re making so much progress, now is not the time to turn back to the failed approach of cuts and neglect that created all those problems in the first place.
+
+You know I’ve been around politics a while and this campaign feels a bit different – and not just because there is finally a ginger in charge!
+
+In my experience elections are usually about moving forward – how we build on things we’ve achieved and then take the next steps in our nation’s progress.
+
+The best governments have built on the success of their predecessors and stamped their mark on what comes next.
+
+Now I get that times are tough out there at the moment.
+
+We led one of the most successful COVID-19 responses in the world, and there are thousands of people alive today who might not be if we hadn’t as a country come together as a team to achieve that.
+
+But following the pandemic new challenges emerged, here and around the world.
+
+Inflation has eroded household budgets.
+
+Huge disruption to their education has seen more kids disengaging and achievement fall.
+
+Our health system has been under huge pressure and some people have had to wait longer for healthcare as a result.
+
+These are all consequences of the global pandemic, but we can and we will turn those things around.
+
+In tough times it’s natural to think about change.
+
+But turning back to the failed policies of the past ultimately won’t make things better.
+
+Simplistic solutions and clickbait driven policies won’t pave the way to a brighter future for the country we all love.
+
+Labour has always been the party of change.
+
+The party with the plan for the future.
+
+The party willing to take on the big challenges and not kick the can down the road.
+
+But I see the National, ACT, New Zealand First Coalition of Cuts lining up to take us backwards, removing hard won gains, and stopping progress on so many urgent things that matter.
+
+Things like child poverty.
+
+In six years, Labour has lifted 77,000 children out of poverty.
+
+Despite COVID-19 causing an enormous economic downturn globally, our actions ensured child poverty rates kept falling.
+
+Programmes like food in schools, which has delivered over 100 million free and healthy lunches and saves parents around $33 a week per child.
+
+That’s three times what a minimum wage worker gets under National’s unfunded tax plan.
+
+We’ve increased funding so schools don’t have to rely on donations and scrapped NCEA fees.
+
+Labour has lifted the minimum wage by nearly $7 – delivering a fulltime low paid worker $278 more a week.
+
+National and ACT have opposed every one of those increases and now think minimum wage workers will be fooled by the promise of a 25 cents an hour tax cut.
+
+We made doctors visits free for children under 14.
+
+We lifted benefit rates so over 100,000 families with kids are better off on average by $190 per week.
+
+We made prescriptions free, with three million scripts provided in the two months alone.
+
+We made public transport free or half price for children and young people. That’s a $30 per week saving for a family with two young children.
+
+These are the bread and butter policies that have delivered reductions in child poverty.
+
+They are at great risk if there is a change of government.
+
+National and ACT’s policies amount to a full-frontal attack on children from low-and-middle-income families, who without these supports would be worse off.
+
+When you tally them all up we’re talking a hundred dollars a week worse off in some cases.
+
+I encourage everyone to look closely at the policies on offer this election.
+
+I back our plan against theirs everyday of the week because I know it will actually make New Zealand and New Zealanders better off.
+
+In National’s upside-down cost of living crisis they think property speculators, international investors and millionaires need Government support more than our children, especially our poorest.
+
+And get this, just last week National announced they’ll reverse how benefits are adjusted each year so families receive less - meaning more and more kids will fall into poverty.
+
+The former Children’s Commissioner called our indexing of benefits to wage growth the best thing a government could do to combat child poverty.
+
+But progress will stop under the Coalition of Cuts.
+
+More kids in poverty shouldn’t be how you fund tax cuts, but that’s exactly what National’s proposing.
+
+It’s cruel, and I’ll put everything into stopping it, and I want everyone here today and watching at home to join with me.
+
+In addition to having a Government that cares, kids need a home to live in, and we’ve been building those in record numbers too.
+
+The 13,000 extra public houses we’ve delivered is the largest number of any Government since the 1950s.
+
+And there are more to come.
+
+But National want to pick up exactly where they left off last time, by not building public houses, unwinding tenants’ rights and bringing foreign buyers back into the market.
+
+In fact National’s pretend-tax plan relies on the sale of around $20 billion worth of properties to overseas buyers over the next four years.
+
+Their plan also assumes Kiwis will take up online gambling at four times the rate they do now.
+
+They’re basically saying Kiwis should give up hope they can save for a first home and take up gambling instead.
+
+And let’s not forget their tax plan relies on rolling back every measure we’ve taken to combat climate change by reducing our carbon emissions.
+
+Climate and the increasing impact extreme weather is having on our communities is indisputable.
+
+Cyclone Gabrielle and the Auckland floods reminded us all of that.
+
+I’d say National’s burying their head in the sand, but with sea levels rising, that’s not going to be an option for them.
+
+I’m proud of the fact that for the first time in decades emissions are dropping in New Zealand because of Labour.
+
+And I want to acknowledge here the positive and constructive working relationship we’ve had with the Green Party over the past six years and the important role James Shaw has played as our Minister for Climate Change.
+
+We put in place the clean car discount that’s made it cheaper for families to buy an EV or Hybrid, resulting in one of the fastest uptakes of low emissions cars in the world.
+
+We’ve partnered with companies like New Zealand Steel and Fonterra to stop burning coal.
+
+New Zealand can and should be one of the cleanest, greenest, most sustainable food producers in the world.
+
+Rather than going backwards I want us to lead the way on renewable energy and stay relentlessly focussed on driving down our greenhouse emissions.
+
+This year I’ve been on the road to China, Europe and the UK securing new trade deals and strengthening existing ones to help grow jobs and our economy.
+
+Wherever I go the message is clear: our country trades on our brand and our economic success is heavily dependent on maintaining our environmental credentials.
+
+We have to be at the front of the pack.
+
+So I find it unbelievable that National has committed to scrap nearly every Government initiative that reduces New Zealand’s emissions.
+
+That’s not just bad for the environment, it’s economic sabotage.
+
+It'll cost jobs, it'll cost exports, it'll cost our farmers, and it'll cost our communities.
+
+Elections might be about choices, but governing is about leadership.
+
+And In politics, values matter
+
+What choices will you make if given the privilege to lead?
+
+I’ve learnt in this job that every day is different.
+
+The number of things that come across your desk that you never could have planned for mean you have to fall back on your values and beliefs more often than you might think.
+
+You can’t put in an election manifesto how you’ll respond to the worst terrorist attack in our nation’s history.
+
+Or how you’ll lead the country though a pandemic.
+
+Labour has found ourselves leading New Zealand through some of its darkest days.
+
+It’s in those pivotal moments when you dig the deepest and your values come to the fore.
+
+I hope New Zealanders know my values.
+
+With me, what you see is what you get.
+
+I’m about bringing New Zealanders together, because I know we’re at our best when we’re united.
+
+I believe that good governments create opportunities that benefit everyone, not just those at the top.
+
+I believe people are entitled to dignity and to be respected for who they are.
+
+I’m up front and clear about our plans and our goal of taking our country forward.
+
+You don’t see that with our opponents.
+
+You see parties that want to win at all costs, and bugger the consequences.
+
+Hoping people won’t notice that our homes and roads will be up for sale to overseas investors.
+
+There’s a $10 billion hole in their transport plan, and over recent days it’s become apparent there’s a multi-billion-dollar hole in their tax swindle.
+
+Where’s the money going to come from?
+
+Massive cuts to public services, and the types of support so many families rely on.
+
+They’re robbing Peter to pay Paul.
+
+They’re giving with one hand and taking more back with the other.
+
+And they’re more than willing to use race, gender, and whatever else to win votes.
+
+That’s the last thing New Zealand needs right now.
+
+That’s why I ruled out working with Winston Peters and New Zealand First.
+
+As political leaders we have choices – to divide of unite. I choose unity.
+
+Because one thing everyone’s feeling right now is the cost of living crunch.
+
+And I know that middle and low income New Zealanders are feeling that the most.
+
+The two most important things we can do to help Kiwi families deal with the cost of living is bring down inflation and grow wages.
+
+Getting inflation under control means interest rates fall, and real wage growth helps families right now, and in the long term too.
+
+On inflation we’re starting to win the battle.
+
+While there’s still a way to go, inflation will fall over the coming year.
+
+The Government’s done our bit by looking for appropriate savings.
+
+With economic conditions tightening we’ve had to trim back spending to ensure we live within our means and aren’t contributing to inflation.
+
+On wages, our focus has been on keeping people in work while increasing incomes.
+
+With prices and mortgages going up I know it doesn’t feel like it, but average wage increases have outstripped inflation while we’ve been Government.
+
+And we’ve gone about increasing wages for workforces that need and deserve it.
+
+When Labour took office in 2017, the top of the Registered Nurses pay scale was $66,755.
+
+When the new agreement is implemented it will be $106,738, a near $40,000 increase in only six years.
+
+Teachers at the top of their pay scale will have had an increase of $27,000 or 36 percent by the end of next year under
+
+Labour, compared to a 10 percent increase under the nine years of the last National Government.
+
+In fact 67 percent of secondary teachers will now earn a base salary of more than $100,000 a year as a result of the investments we have made in this critical workforce.
+
+I’m proud of our record on wage growth, but we haven’t stopped there.
+
+Since the spike in cost of living we’ve delivered targeted support to families to help ease the pain.
+
+We invested close to $2 billion over 18 months to buffer the spike in oil prices following the invasion of Ukraine, saving families money every time they fill up the car.
+
+We also introduced half price public transport fares, something we carried on for 13 to 24 year olds and have made it free for children – delivering a saving of around $30 per week for a family with two kids – something National now want to take away.
+
+Public transport users are unquestionably worse off under Nationals sneaky tax cuts mean families with kids would need to stump up the full fare again.
+
+We’ve continued to support our older New Zealanders by lifting superannuation payments for a couple by $326 per fortnight since we took office.
+
+But Labour’s commitment to our seniors is not matched by the Coalition of Cuts who are lining up to mess with Kiwis’ super again.
+
+National and ACT plan to raise the retirement age to 67 and ACT’s plan to stop Government contributions to KiwiSaver could see a young saver lose nearly $100,000 in savings over the course of their working life.
+
+Labour will not lift the retirement age and we will protect KiwiSaver.
+
+In tough times, and when the Opposition has such a negative outlook, it’s easy to fall into pessimism.
+
+But I choose hope and optimism.
+
+Because this country, New Zealand, is bursting with opportunity and talent.
+
+As we start to turn a corner economically, I will make sure that everyone in New Zealand can have a chance to get ahead.
+
+I believe that future is possible.
+
+I believe that with the right leadership, we can create a New Zealand that is the most successful trading nation on earth.
+
+One that respects the environment, honours our past, looks after our elderly and our young and all those who need support.
+
+One that has the economic strength to pay for world class health and education and housing and infrastructure.
+
+To get there, we need to build our economy in a smart way.
+
+We need people and nations overseas to buy our goods and services and talent.
+
+But why would anyone want to buy our goods and services if our rivers are dirty? If our children live in poverty? Or if our hospitals and schools are gradually underfunded?
+
+A Government I lead will continue to invest in health and education and housing and transport and clean energy.
+
+I will do so because it is the right thing to do but also because it builds a better New Zealand, strengthens our economy, and makes us all better off in the future.
+
+One area that’s always been core to Labour’s mission is healthcare.
+
+We’re focused on fairness – that belief that everyone is entitled to care no matter who they are or where they live – or whether they can afford it.
+
+Of course it was the First Labour Government that removed nearly all health charges, opening access to affordable medical care to working people.
+
+It was one of that Government’s most transformative changes
+
+That’s still Labour’s goal. Regardless of means, you can access the health care you need.
+
+It’s why we’ve made medicines free by removing the $5 co payment, with nearly a million kiwis already benefiting.
+
+It’s why we extended free doctor’s visits to under 14s.
+
+And provided more services in pharmacies and general practice to take pressure off our EDs
+
+And we’ve invested in our health workforce, delivering nurses the pay equity they so deserve.
+
+We have a proud history and a proud record in health to build on.
+
+And today we make the next leap forward in the health of New Zealanders.
+
+I’m pleased to announce that if re-elected Labour will make dental care free for all New Zealanders up to the age of 30.
+
+New Zealanders should be able to access dental care when they need it, without worrying about the bill and at the moment they can’t.
+
+In 2022 1.5 million Kiwis didn’t visit a dentist because it was just too expensive.
+
+And nearly half of the lowest income New Zealanders who need to see a dentist don’t because of the cost.
+
+For too long, successive governments have treated oral health differently from other health needs.
+
+It makes no sense.
+
+Under our plan Labour will provide free annual check-ups, cleans, X-rays, basic fillings and extractions to nearly 800,000 under 30-year-olds.
+
+By the end of our next term in Government 40 per cent of all Kiwis will have access to this free dental care.
+
+Between the ages of 20 to 30 is an important time for our teeth.
+
+At age 18, one-in-four participants in the Dunedin longitudinal study had a decayed tooth surface.
+
+By age 26 that number had skyrocketed to nearly two in three.
+
+By focusing on young adults we are putting our resources where we can make the biggest difference and where declines in oral health begin.
+
+But the extension to 30 is just the start.
+
+Labour’s ultimate goal is to provide free universal dental care to all New Zealanders.
+
+Now that’s a long term goal, but in order to do this work we will need more dentists.
+
+So I’m thrilled to also announce that Labour will increase the number of dental places at university by 50 per cent so we have a bigger home grown workforce to take care of our peoples teeth.
+
+This policy is one of the centrepieces of Labour’s 10-point Cost of Living Plan, and an integral part of our wider series of targeted cost of living investments.
+
+It’s a bold vision.
+
+It’s a Labour vision.
+
+And it will be a gamechanger for many.
+
+I think of all the families this policy will help so much – for the first time getting the oral care they need to live without pain and so that they can smile with confidence.
+
+So I put this to you.
+
+Who are you in it for this election?
+
+The children at risk of falling into poverty?
+
+The young New Zealanders who could save hundreds on dental care?
+
+The family saving at least $30 a week on public transport to get their kids to school?
+
+The young parents set to save $130 a week on childcare costs?
+
+Or property speculators and foreign buyers?
+
+Millionaires getting more than mums and dad on the minimum wage?
+
+These aren’t just policy decisions.
+
+They’re moral decisions.
+
+I know who we’re in it for and what we’re in it for.
+
+I’m proud of everything we’ve achieved over the last six years.
+
+It’s been a lot.
+
+But there is also a lot more to do.
+
+Our targeted cost of living policies are affordable, accurately costed and provide relief today while building a better tomorrow.
+
+Whether you’re Maōri, Pacifica, Pakeha, gay, straight, born here, migrated here, a man, a woman, trans, young, old, or different in your own way.
+
+We’re in this together.
+
+There are better days ahead.
+
+Let’s keep moving forward.
+
+I’m in it for you.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

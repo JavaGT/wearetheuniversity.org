@@ -1,0 +1,131 @@
+---
+slug: social-security-(entitlement-cards)-amendment-bill
+title: "Social Security (Entitlement Cards) Amendment Bill"
+date: 2007-05-03
+source-url: https://www.scoop.co.nz/stories/PA0705/S00104/social-security-entitlement-cards-amendment-bill.htm
+author: te-pati-maori
+---
+Social Security (Entitlement Cards) Amendment Bill
+==================================================
+
+**Thursday, 3 May 2007, 3:36 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Social Security (Entitlement Cards) Amendment Bill
+
+Te Ururoa Flavell; Member of Parliament for Waiariki
+
+Tuesday 1 May 2007
+
+It would appear from the outset, that the Social Security (Entitlement Cards) Amendment Bill has not exactly taken the nation by storm. I understand that three submissions have been received and one heard.
+
+But none the less, there are two important issues that the Maori Party wants to raise in this debate.
+
+Support for Elderly
+
+The first is that of the intention of the Bill to improve the living standards of our senior citizens. We believe that is a worthy goal, a commitment to our elders which we, the Maori Party wholeheartedly accept.
+
+We all know the stats about increasing poverty levels of elderly peoples in Aotearoa.
+
+The Maori Party placesparticular priority on valuing the contribution and continued participation of older peoples.
+
+We believe that the SuperGold Card will help our pakeke to have easier access to services and facilities; and to be able to benefit from concessions, which can only be good.
+
+Such a proposal targetingthe aged and elderly will ensure we protect the special place that they have in our society, as repositories of experience and knowledge. In that respect, this Bill has our full support.
+
+Recognition of Special Needs of Maori Elderly
+
+We are happy to put forward our support, also in recognition that older Maori people experience a worse health status than their non-Maori counterparts in a range of indicators.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+In February of this year, a report produced by Public Health Intelligence, the Ministry's epidemiology group, revealed the grim fact that at the age of fifty years, both Maori males and females had a shorter life expectancy than non-Maori.
+
+The data also revealed that Maori suffered from higher hospitalisation and mortality rates for
+
+• almost all types of cardiovascular disease,  
+•  
+• cancer, and  
+•  
+• chronic obstructive pulmonary disease.  
+•  
+The weird thing is that the data also reveals that Maori males aged 50 to 64 years were significantly more likely than their non-Maori counterparts to report doing physical activity – as is borne out, right here, I suspect, in this Parliamentary complex we currently sit in.
+
+For proof of this assertion all you need to do is to go down to the gym on any day and you are bound to find Mr Tau Henare, (even with a push and a shove); Hone Harawira, Mr Clem Simich; our trusted Kaiwhakamarama reo – Wiremu Haunui; our loyal security guards and many other mighty Maori men working up a sweat on the treadmill.
+
+In fact, I have also been known to lift a few weights, sprint a couple of hundred thousand miles on the treadmill, and play the odd game of rugby for the greater good of the Parliamentary rugby team in my time. I have a photo to prove it by the way.
+
+But despite this we suffer shorter life expectancy; the rates for renal failure and lower limb amputation are significantly higher for Maori; and the prevalence of doctor-diagnosed diabetes is over two and a half times higher in Maori males aged 50 to 64 years.
+
+We support the proposal to give effect to theSuperGold Card to enable Maori seniors to be eligible for government entitlements such as New Zealand Super, the Veterans Pensions and Community Services Card entitlements.
+
+But there is one snag, and it’s a biggie.
+
+Clause 5 (2) to be precise.
+
+That clause amends section 132A (2) of the Social Security Act 1964 in creating a new regulation making power. What this means in its effect is to allow the entitlement cards to contain the information set out in that subsection on either a magnetic stripe or an embedded microchip.
+
+Every time we access the internet; draw a salary, dial the phone, join a club, enter a hospital, hook up to Sky TV, or zipzap our credit cards for the weekly groceries, we are giving up our rights to privacy – whether or not we know it.
+
+So we might ask, what’s another smartcard amongst many?
+
+The Government insists that it has no plans to implement smartcard technology in relation to the SuperGold Card or indeed entitlement cards generally at this time.
+
+So no problem. We say to the Government, that it should delete the offending clause.
+
+Mr Speaker, the key issue is, that as the New Zealand Law Society pointed out in their submission, is that this will be the first time in which legislation has been introduced to authorise the use of microchips on cards on such a large scale.
+
+It has massive implications.
+
+We’re talking about around 340,000 seniors who already have a Community Services card.
+
+Why would we venture down the track of an embedded microchip which the Privacy Commissioner herself has expressed serious reservations about?
+
+Marie Shroff, our Privacy Commissioner, has asked a series of questions which take us to the very heart of the concern around privacy and personal freedom:
+
+• How do individuals have any real control or choice?  
+•  
+• How will the information be kept up to date and accurate?  
+•  
+• Who will be able to access it?  
+•  
+• How could it be misused? What protections are there?  
+•  
+• Will its advantages outweigh disadvantages?  
+•  
+These are all important considerations which this House should consider if it was to proceed any further along the microchip line.
+
+Indeed, Ms Shroff has recommended that the proposal not proceed until a comprehensive assessment of the potential privacy impacts has been undertaken.
+
+And we in the Maori Party absolutely agree with her.
+
+The Maori Party has consistently raised our concerns about the snooping culture; the environment of surveillance where Big Brother is the holder of all power.
+
+We support the call from the Social Services select committee that a more general inquiry into the use of microchips, particularly around issues of privacy, must be undertaken before any legislation allowing microchips is enacted.
+
+We are assured by the Ministry of Social Development, that if clause 5 (2) was deleted from the Bill, there would be no immediate impacts to prevent the launching of the SuperGold Card.
+
+We are therefore happy to support the Bill, as a useful way of recognising the contribution that Pakeke continue to make to Aotearoa; and we most strongly object to the proposal in clause 5 relating to the micro-chipping function.
+
+  
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

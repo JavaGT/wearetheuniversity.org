@@ -1,0 +1,114 @@
+---
+slug: maiden-speech-julie-anne-genter
+title: "Maiden Speech - Julie Anne Genter"
+date: 2012-02-15
+source-url: https://www.scoop.co.nz/stories/PA1202/S00172/maiden-speech-julie-anne-genter.htm
+author: green-party
+---
+Maiden Speech - Julie Anne Genter
+=================================
+
+**Wednesday, 15 February 2012, 5:09 pm**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Julie Anne Genter
+
+Tena koe, Mr Speaker.
+
+Tena koutou, tena koutou, tena tatau katoa.  
+Nga mihi whakanui kia koutou.  
+Kia koutou, kia tatau katoa.
+
+Te mea tuatahi nga mihi kia Ranginui raua ko Papatuanuku  
+tena koutou.
+
+Tuarua ki nga tini mate kua  
+Haere ki te po, haere, haere, haere.
+
+Te whare e tu nei  
+Tena koe
+
+Ko rererangi te waka.  
+Ko sierra nevada nga maunga.  
+Ko yuba te awa.  
+Ko te moana nui a kiwa te moana.  
+Ko ngati merikana, ko ngati pakeha nga iwi.  
+No kareponia ahau.  
+Ko Tamaki Makaurau toku kainga inaianei.  
+Ko Julie Anne Genter ahau.
+
+It is with the greatest respect that I address this House for the second time.
+
+It is with gratitude and humility that I stand here. Gratitude to those who have gone before, gratitude to all those who have taught me on my journey so far. Special thanks to my father John and my brothers Sean and Liam, who are here today; to my mother Pauline and my grandparents who are watching from afar. I owe my presence here today to a great many people: family members, housemates, friends, colleagues, who are far too many to name. I especially want to acknowledge the fantastic and tireless efforts of Green Party staff and volunteers, who achieved an unprecedented result this past November. We hope to do you proud, and to help turn your efforts into a greener and fairer New Zealand.
+
+I stand here with utmost humility. It is an incredible honour and privilege to serve the people of Aotearoa New Zealand. I’d like to take this opportunity to affirm my allegiance to te Tiriti o Waitangi, as the reason I and all Pakeha are able to be here with legitimacy.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Like many of my neighbours in Auckland, I was not born in Aotearoa. I chose this land to be my home because I love it. I love the forests, I love the lakes & rivers, I love the mountains and the beaches. I love the people. Like many New Zealanders, I grew up swimming in the Pacific Ocean, though it was on the far side. The Sierra Nevada mountains, the redwood forests and the crystal clear Yuba River are among the precious places that taught me a deep love and respect for the natural world that sustains us.  
+However, the wild beauty in the remote corners of California contrasts starkly with the place where I actually grew up. Anyone who has ever attempted to walk in the undifferentiated suburban sprawl of Los Angeles county, along a loud and polluted eight lane arterial, flanked by asphalt deserts of mostly empty car parks and ugly strip development, will understand. As a young person, I often wondered why it was so difficult and unpleasant to walk anywhere. Why, in a large metropolis with a nearly perfect climate, the only place I saw other people was at the mall. And how it could be less costly for each and every person to have to make even very short trips in their own expensive two tonne box of glass and steel rather than by walking, cycling, or taking a bus or train.
+
+The wealth of my homeland, and the material comfort that I was raised with, also contrasts starkly with the endemic poverty that lies beneath the shiny movie screen image of America. As a child I recall a few trips to downtown LA, another world from the big houses in our predominantly white neighbourhood. We visited mini cardboard towns of homeless people set up underneath motorway flyovers. We brought them hundreds of brown bags with sandwiches and carefully walked around the broken glass, hypodermic needles and rubbish that covered the footpaths. We went home to our safe quiet neighbourhood, where it was easy for me to read, study and achieve.
+
+Why is like this? Does it have to be this way? Could the spaces between the buildings be places that we love? In a wealthy society, could everyone have a safe place to live, and have the same opportunities to achieve? These are the questions that have shaped the journey of my life so far.
+
+The week I turned 18 I left home, to seek adventure beyond the safe confines of the suburbs. I ended up in a small town in the mountains in Northern California, where I lived and worked with people from all different backgrounds. We lived week to week on minimum wage jobs in restaurants and cinemas. We bought most of our clothes and furniture in op-shops. We were happy, though in the winter we sometimes had to break the ice in the toilet which had frozen overnight, and we couldn’t really afford to go to the dentist or doctor. My friends were all doing their best, and were smart and hardworking enough to make a great contribution to society, but many did not feel that path was open to them. My privileged upbringing made it easy for me to move on when I was ready to continue my studies.
+
+I studied philosophy at UC Berkeley to try and uncover the rational underpinnings of my political and ethical convictions. In my final year I took up French, in part due to a love of Voltaire, and his pragmatic to humanism.
+
+Ten years ago I left the United States. I initially went to France to gain fluency in the language, but I stayed because I could not bear to return to a country engaged in the futile and destructive wars championed by George W. Bush. After some time working and travelling in Europe, I was fortunate enough to receive a scholarship to undertake post graduate study at Sciences Po in Paris, where I was able to study economics and political history.
+
+My questions about the places we live, and the nature of our economy, were slowly informed by my experiences as well as my studies. I eagerly delved deeper into new approaches to urban planning, transport and resource management at the University of Auckland, and in my subsequent work as a transport consultant.
+
+Mr Speaker, every one of us travels most days, and every one of us consumes goods that have been transported. We are all very personally familiar with the annoyances and injustices that inevitably occur when we are running late and need to be somewhere. But there is a much bigger picture.
+
+The places we live are fundamentally shaped by the transport system and policies put in place by government. In turn, this affects the money and time we must spend travelling, the quality of our air and water, the fact that nearly 40% of our energy is used for transport. We increasingly see that it affects our health, the value of land and the cost of development, the affordability of our housing. It even affects the amount of interaction we have with our neighbours. Perhaps most pertinently for this Government, it affects our balance of trade and the amount of money we have left over each week to save or to spend in the domestic economy.
+
+The latest research in transport and urban planning tells us it is entirely possible to foster healthier, safer and more liveable towns and cities. Doing so will even save government, households and businesses money, while facilitating economic development. So why aren’t we doing just that?
+
+It was working as a consultant with district and regional councils, government agencies and private developers that I realised there are no technical, economic or cultural barriers to sustainable towns and cities. The impediments holding us back from doing things smarter are mainly political, and this is true in areas beyond transport. That is why I joined the only party with a good understanding of transport, and indeed a coherent vision for the future of our economy and society.
+
+I am sure all members of this House will agree that we face some very daunting challenges. The global financial crisis, the end of cheap oil, climate change and increasing inequality are the four big ones—and they are all interrelated. The flip side of these challenges is that we have the opportunity to improve the ways we live and do business, and it will enable us, our children and our grandchildren to meet these challenges successfully. But to do so, we will need to approach “problems” differently than we have in the past. We will all need to listen to one other. We will need to move past ideology and look beyond our prejudices.
+
+There is an emerging view in cognitive science called the argumentative theory of reasoning. Since the Enlightenment, it has been commonly assumed that each person had a uniquely human faculty of reasoning, which they could individually use to deduce the truth. However, the evidence from psychology does not support this. In fact, people of all levels of education and all backgrounds perform very poorly on reasoning tests. But, it turns out that people are very good at finding evidence to support their arguments. In fact, humans are so good at arguing, that we have a tendency to confirmation bias. That is, we mostly notice the evidence that supports the views we already hold.
+
+This theory does not suggest that reasoning can’t lead to good decisions. The idea is that humans evolved in groups, and reason actually functions socially through argumentation, rather than individually. We can see this as the wisdom of crowds, and it has very interesting and inspiring implications for deliberative democracy.
+
+We often assume life would be better if we could just getting on with ‘it’, whatever our favoured course of action happens to be. But doing more, faster, without the buy-in of everyone, is not necessarily advantageous. It turns out that we make better decisions collectively, when more people are involved in the debate, even if it takes longer. Having multiple perspectives represented means more valuable information is included in the evaluation and more minds weigh up the validity of the arguments put forward. This gets around our confirmation bias, makes for more robust decisions. It is why MMP is so crucial, because it allows many more perspectives to be represented in Parliament.
+
+I am proud to be a member of the Green Party, which uses a consensus model of decision making. Consensus doesn’t mean we all agree, we often have heated arguments. But by taking the time to allow everyone to have their say, and to continue until everyone can live with the decision, I believe makes our policy much more robust.
+
+Greater participation in decision making could help us with the challenges we face in two ways. Firstly, it will prevent us from being seduced by “expertise” that may create more problems than it solves. As an example, our transport predicament is at least in part due to the perfectly understandable but misguided approach of traffic engineering, which focussed on increasing the volume and speed and of vehicles, to the exclusion of all else. When we take wider impacts into account, represented by the public health sector and local communities, we get a better idea of the true economic impact of our infrastructure projects.
+
+Secondly, groups that have profited from the status quo and become very powerful have a vested interest in maintaining it. They will claim that any move to a more sustainable and fair economy will kill jobs or drain New Zealand of innovation. It is understandable that they react this way to protect their short term interests, but over and over again we see evidence that when small powerful groups have too much sway, it benefits no one. We have seen special interests consistently lobby for deregulation that ended up costing everyone more in the medium term. Examples include leaky homes, US car manufacturers, hedge funds, deep sea oil contractors, and are barely the tip of the iceberg.
+
+All arguments are not equally strong. By not favouring certain points of view just because they are powerful or have claims to expertise, and by having many people involved in the debate, I believe we can collectively find the solutions that will enable us to create a better world.
+
+For my part, during my time here, I hope to use my unique perspective and experience to contribute to law and policy that will enable all of us to flourish. I would like to encourage and enable greater participation in our political process. I hope to move beyond the traditional assumptions and persuade members from all sides of the House that all New Zealanders will greatly benefit from a much smarter transport and urban policy, a fairer, more transparent, and less punitive justice system, and independent, publicly-funded broadcasting.
+
+Mr Speaker, I believe that every member of this House has come here because they believe in the possibility of democracy, and that their contribution can have a positive impact on our fellow citizens, and on this beautiful place we inhabit. To the 50th Parliament I say, I acknowledge and respect our shared passion for service, and I look forward to working constructively with each of you where we can find common ground. I believe we can move beyond our traditional assumptions and find new ways of doing things, which will leave us all better off.
+
+Kia ora koutou.
+
+  
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

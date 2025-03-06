@@ -1,0 +1,70 @@
+---
+slug: tweets-and-web-data-help-track-languages-around-the-globe
+title: "Tweets And Web Data Help Track Languages Around The Globe"
+date: 2020-08-11
+source-url: https://www.scoop.co.nz/stories/CU2008/S00090/tweets-and-web-data-help-track-languages-around-the-globe.htm
+author: university-of-canterbury
+---
+Tweets And Web Data Help Track Languages Around The Globe
+=========================================================
+
+**Tuesday, 11 August 2020, 2:20 pm**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+Billions of words typed into the World Wide Web and Twitter have been meshed into a unique ‘linguistic atlas’ showing how languages are being used internationally.
+
+The atlas has been developed by University of Canterbury (UC) Linguistics lecturer Dr Jonathan Dunn and his UC Computer Science Senior Lecturer colleague Dr Ben Adams.
+
+Dr Dunn says the language mapping website they’ve created, called earthLings.io, is the result of several years of work.
+
+“It’s probably the biggest multilingual data set available in the world and we’re making it available for free for other people to use.”
+
+Publicly available “Common Crawl” web and Twitter digital data from 2013 to 2019 – including more than 400 billion words in 148 languages – has been collated by the two academics and combined with population information to reveal how people in 158 countries are using language.
+
+In countries where more than one language is used the data will show which one is dominant and how dialects vary across different areas and over time.
+
+The site uses an advanced identification model designed by Dr Dunn to categorise 460 different languages.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“Before this we didn’t have any shared data on this scale that people could use,” Dr Dunn says. “Now, we have language samples from tens of millions of people which would never have been possible with dialect surveys in the past.
+
+“The site shows how language diversity changes over time and how the distribution of languages is constantly evolving and moving.
+
+“Digital formats have become our primary means of communication so it’s important that we can harness them to accurately track how language is developing around the world.”
+
+Making the site available as a free and open resource was one of the main goals, Dr Adams says. “We want the data to be easily used by other researchers. As a benchmark dataset it can be used by language modellers who want to get a more complete and comprehensive understanding of how languages are used around the world.”
+
+Dr Dunn, who has been contacted by Google’s language technology team about the earthLings.io site, has also been shortlisted for a Marsden Fast Start grant for a related project investigating how population movement changes language and whether migrants change and influence the language spoken in the country they arrive in.
+
+He says sometimes people continue to use their home language long after they move to another country, and this is often true of Arabic speakers. But Hindi speakers, who move a lot as a population, tend to stop using their native language when they reach their destination.
+
+“We don’t have a good understanding of why that is. One of the possibilities is that people who speak some languages are much more likely to be bilingual and when they encounter another language like English they’ll switch to that.”
+
+Dr Dunn, who is from the United States and has been at UC for two years, says most people don’t realise that the average Kiwi’s grammar is as similar to the English spoken in South Africa and Britain as it is to the speech of the average Australian.
+
+“One of the things that makes New Zealand interesting is how much of the population is made up of people from outside New Zealand. And a lot of people who were born in New Zealand live elsewhere so we have a lot more population movement per capita than many other countries.”
+
+Dr Dunn has also received a grant of $200,000 from the Science for Technological Innovation (SfTI) for his research into developing language technologies to support more recognition for Polynesian languages such as Māori and Tongan by creating novel domain adaptation methods.
+
+This is important because just 20 languages account for 90 per cent of all online language use.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

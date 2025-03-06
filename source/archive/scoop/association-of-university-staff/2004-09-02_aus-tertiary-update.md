@@ -1,0 +1,90 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2004-09-02
+source-url: https://www.scoop.co.nz/stories/ED0409/S00012/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 2 September 2004, 4:42 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+“University” cleared to sue for defamation  
+The High Court has cleared the way for a Wellington-based company, the University of Newlands, to sue Nationwide News, publisher of The Australian, for defamation after its internet site named the “University” in a list of “wannabe,” “degree mill” universities it said conferred degrees based on life experience. The University of Newlands and its sole Director, Rochelle Forrester, sued for defamation, saying that the wannabe university title implied that its courses did not confer proper qualifications.  
+In response, Nationwide News applied to have the proceedings struck out on the basis that any defamation proceedings should be heard in Australia and, in any event, there was no case to answer. Its lawyer, Bruce Gray, argued that because the Education Act prohibits use of the name university and “purporting to offer degrees”, the University of Newland’s degrees are worthless. He also argued that the “University” either had no reputation to harm, or already had a bad reputation.  
+Associate Judge David Gendell rejected the argument that the degrees were worthless, saying that while they might be illegal, and purporting to offer such degrees could be deemed dishonest or unethical conduct, “it does not follow logically that they (the degrees) are worthless.” He also ruled that defamation occurs in the country where the material is downloaded. “If a defendant chooses to upload information on the internet, being aware of its reach, then they assume the associated risks, including the risk of being sued for defamation,” he said.  
+The University of Newlands’s website says it teaches its BA, MA, and PhD courses by distance education techniques which involve students receiving lecture notes or prescribed readings over the internet. Assessment is by means of essays and theses, ranging from 2,000 words at stage one, to up to 100,000 words at PhD level. Fees are set at $US390 per course for undergraduate study and at levels to be assessed for MA and PhD enrolments. The website does not appear to list any physical or postal address for the University and provides no details of staff. Extensive course prescriptions are set out, with most being listed as not being offered at present.  
+Rochelle Forrester told Tertiary Update that the “University” was not operating at present and that she would need look at some things, including the use of the title university, before proceeding.  
+The Associate Minister of Education (Tertiary), Steve Maharey, said he had asked for advice on the use of the protected term “degree” from the New Zealand Qualifications Authority, and from the Ministry of Education on the term “university”. “The Government takes the matter very seriously. Misuse of the term university is an offence under the Education Act,” he said. “Once the Government has the advice it will take appropriate steps to ensure legal compliance.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Call for greater differentiation  
+2\. Tourism research funding for Lincoln  
+3\. Record numbers of new apprentices  
+4\. Research planned on privatisation of education  
+5\. USQ staff plan Dubai campus  
+6\. London lecturers protest over new agreements
+
+Call for greater differentiation  
+Tertiary education should be characterised by a greater differentiation among institutions, and universities should be recognised for their special role, according to the Association of University Staff (AUS) submission on the Tertiary Education Commission’s paper, The Distinctive Contribution of Tertiary Education Organisations.  
+The consultation paper was aimed at generating discussion about roles in the tertiary education sector and to help tertiary education organisations align with the Government’s objectives for the sector. It included a proposal that all universities should have a significant proportion of their students in postgraduate research programmes. Other issues include determining where sub-degree provision should be taught; examining the role of polytechnics; asking whether colleges of education should have a closer integration with universities; and investigating the concept of “dual sector” tertiary organisations. The paper also questioned whether all degrees should be underpinned by research, and asked whether the legislative requirement that all degrees must be taught mainly by people engaged in research should be revisited.  
+AUS National President, Dr Bill Rosenberg, said that while the Association strongly supported reviewing the future roles of tertiary education organisations, he warned against dropping the legislative requirement that degrees be taught mainly by people engaged in research. Dr Rosenberg said that rather than compromising the value of university degrees, the Government should be funding universities at a rate which is appropriate to the higher costs associated with teaching and research.  
+Dr Rosenberg said it was also an opportune time to examine the role of private training establishments (PTEs). “We believe that public money should not be used to fund private providers,” he said. “Currently, large amounts of public money are used to subsidise PTEs that have poor accountability systems and limited mechanisms to ensure quality educational outcomes. Recent examples of PTEs collapsing show that public investment in private tertiary education has not been successful.”  
+The AUS submission can be found on the AUS website: www.aus.ac.nz
+
+Tourism research funding for Lincoln  
+Lincoln University has been awarded $1.407 million over the next three years for a major new programme of tourism research. Announcing the new funding, Minister of Tourism Mark Burton said it would be used to examine the areas that contribute to tourism yield. “The knowledge gained will be significant and will result in the development of a set of tools to enable improved financial performance across the sector,” he said.  
+A Lincoln Professor, David Simmons, said that information gained from more than 200 tourism providers would allow researchers to provide examples of best practice for the wider tourism industry. He said he believed the success of the project was contingent on the cooperation of the tourism business, and the aim project would be to get the best possible return from tourists visiting New Zealand.  
+Mark Burton said that increasing yield, relative to visitor numbers, is one of the core objectives of the Tourism Strategy 2010 developed by the Government and wide tourism interests, and had been a central priority of his.  
+The three-year programme is a partnership between the Government, the Tourism Industry Association and Lincoln University.
+
+Record numbers of new apprentices  
+New reports on industry training and modern apprenticeships show that government and industry are working together to tackle skills shortages and build the skill level of the New Zealand workforce, according to Associate Minister of Education (Tertiary), Steve Maharey.  
+Mr Maharey said the latest figures for the Modern Apprenticeship Programme showed continued expansion to 6,874 modern apprentices by 30 June, 374 above the target. “This is an increase of 20 percent since last year, 1,135 more apprentices in the space of a year,” he said. “What’s more, we now have reached the five-hundredth female modern apprentice.”  
+The Industry Training Report 2003, which was released last night, showed that more than 126,000 trainees participated in industry training in 2003, up more than 20,000 on 2002; 14,181 National Certificates were completed, up 45% on 2002; and almost 2.5 million National Qualification Framework credits were achieved by trainees, up 22 percent on 2002.  
+Mr Maharey said that the results were evidence that workplace learning is a respected option and an important part of our tertiary education system. “The Government has committed itself to getting 150,000 workers into industry training during 2005. These results show that we are well on track to achieving this target,” he said.  
+The New Zealand University Students’ Association (NZUSA) has reacted by saying the figures show that there are clearly barriers in the industry training model which are preventing women from participating at the same rate as men. “If only the Government was as enthusiastic about pay equity and addressing that fact that women take, on average, twice as long as men to repay their student loans as they are about workplace training and modern apprenticeships,” said Camilla Belich, NZUSA National Women’s Rights Officer.
+
+Research planned on privatisation of education  
+The Quality Public Education Coalition (QPEC) has announced that it is planning a major piece of research relating to the privatisation of education in New Zealand. It will include tertiary education, and examine funding for the public and private sectors, the effect of competition, governance, accountability and quality regulation. Included in the specifications for the research is an examination of the sub-contracting of courses from the public to the private sector, and an analysis of existing research on private training establishments. The internationalisation of the education market, including New Zealand’s situation under the GATS and other free trade treaties, will be investigated as part of the research, as will the contribution of education to the national economy.  
+The researchers will analyse data from other relevant countries and regions, including Britain, the United States, South America and Scandinavia.  
+QPEC has called for tenders from researchers interested in undertaking the research. Details can be obtained from Emeritus Professor Ivan Snook, iasnook@clear.net.nz
+
+Worldwatch  
+USQ staff plan Dubai campus  
+Three senior staff at the University of Southern Queensland in Toowoomba have been suspended after it was discovered a campus was being set up in Dubai without the knowledge of the Vice-Chancellor or the University Council. The new campus, which is due to open this month and already has more than one hundred students enrolled, was first drawn to the attention of the Vice-Chancellor when he read about it in a newspaper advertisement.  
+According to The Australian, the three staff, including a deputy vice-chancellor, had their computers seized and were escorted from the University last Friday. The matter has been referred to Queensland’s Crime and Misconduct Commission for investigation.  
+In an interesting twist, it was reported yesterday that the Vice-Chancellor now believes the new campus should proceed. After meeting with Australia’s Ambassador to the United Arab Emirates, Vice-Chancellor Professor Bill Lovegrove said he would recommend to the Council that it proceeds with the campus. USQ’s Dubai partner, the International Academic Corporation, is currently fitting out two levels of a multi-story building in Dubai’s new education precinct, Knowledge Village. The University plans to offer fee-paying degrees in business administration, information technology and mass communication.
+
+London lecturers protest over new agreements  
+Lecturers at London Metropolitan University (LMU) took protest action yesterday against the imposition of new employment agreements their union says will threaten the jobs of almost four hundred staff and compromise academic freedom. The dispute over the new agreements follows the merger of the University of North London (UNL) and London Guildhall University (LGU) in 2002 to create the new LMU. The University said it wanted all staff on one agreement, that of the UNL, and gave former LGU staff until Wednesday this week to accept the new agreements.  
+The Director of Human Resources has written to the lecturers’ union, the National Association of Teachers in Further and Higher Education (Nafthe), saying that those staff refusing to accept the conditions of the new agreement will not receive any remuneration and steps will be taken to terminate their employment. They had previously been told that silence would be deemed to be acceptance of the new agreement.  
+Nafthe members passed a resolution last week saying they rejected LMU management’s assertion that they had accepted the new so-called “preferred” agreement, and maintained their right to remain on the LGU agreement until a new University-wide agreement has been negotiated and agreed.  
+Earlier in the year the academic community across the United Kingdom was asked to withdraw professional links with LMU in an academic boycott as the dispute deepened. Earlier strike action over the issue will be followed by a series of short strikes planned for induction week at the University.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

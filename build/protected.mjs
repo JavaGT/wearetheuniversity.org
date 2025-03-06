@@ -1,0 +1,2 @@
+// this file will eventually be used to genearte an protected page (encrypted) for sharing a directory of resources with trusted allies.
+// this will use https://github.com/robinmoisson/staticrypt to encrypt the page, which is then decypted clientside via a password.

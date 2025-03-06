@@ -1,0 +1,101 @@
+---
+slug: a-green-new-deal-for-aotearoa
+title: "A Green New Deal for Aotearoa?"
+date: 2008-12-11
+source-url: https://www.scoop.co.nz/stories/PO0812/S00169/a-green-new-deal-for-aotearoa.htm
+author: green-party
+---
+A Green New Deal for Aotearoa?
+==============================
+
+**Thursday, 11 December 2008, 5:07 pm**  
+**Opinion: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+### A Green New Deal for Aotearoa?
+
+  
+
+**Gareth Hughes**
+
+  
+We are facing a perfect storm: climate change; high fuel, resources and food prices; and a financial and economic crisis are all converging on our doorstep posing a significant threat to our economic and environmental future. Up until now many have assumed the future will always be brighter, richer and hopefully greener – however that optimism is being seriously eroded. It seems clear that we are in the midst of a global recession, of what severity seems uncertain, and whilst the global community likes to focus on only a small number of big issues at one time, all of the factors in the storm stem from the same structural economic problems.
+
+In the 1930s President Roosevelt termed his economic plan to lift the U.S. out of the Great Depression the ‘New Deal’ and now in the twenty-first century environmental commentators are calling for a similarly ambitious project with sustainability as its focus. The Green New Deal concept is a response to the climate, credit, food and fuel crises. It aims for large investments in renewable energy, technology and jobs and a new alliance between environmentalists, government and business. What would a Green New Deal look like, how would we modify one for New Zealand and do we have any hope in hell of seeing one soon?
+
+World-wide, governments’ responses to the global financial crisis have been swift and massive. Responses have included injecting huge amounts of tax-payers money into the markets to increase liquidity, lowering interest rates, and increasing spending as an economic and job stimulus strategy. The U.S. Government authorised a $700 billion bailout plan and federal takeovers of giant mortgage lenders Fannie Mae and Freddie Mac while in Britain the Government authorised a 500 billion pound bail out plan. Longstanding economic dogma has been jettisoned in matter of days in an attempt to save the financial system. Meanwhile climate action in the lead up to Copenhagen and a Kyoto successor seems stalled, and worldwide emissions continue to soar. We are willing prop up those with toxic debts but continue our own toxic legacy? The risk is that global economic fears may backslide efforts to curb emissions. George Monbiot appropriately asks: are we going to be the generation that saved the banks and let the biosphere collapse?
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The solution for many is a Green New Deal. The United Nations’ Environment Program has been leading the call and it envisions a Deal that will mobilise the global economy towards investments in clean technologies and natural infrastructure such as forests and soils, promoting real economic growth, combating climate change and triggering an employment boom. It says the five sectors likely to generate the biggest transition in terms of economic returns, environmental sustainability and job creation are:
+
+\* Clean energy and clean technologies, including recycling;  
+\* Rural energy, including renewables and sustainable biomass;  
+\* Sustainable agriculture, including organic agriculture;  
+\* Ecosystem infrastructure;  
+\* Reduced Emissions from Deforestation and Forest Degradation;  
+\* Sustainable cities, including planning, transportation and green building.
+
+In the U.S. President-elect Barack Obama has proposed creating five million new jobs by investing $150 billion over the next ten years in clean energy projects. Obama is also ensuring 10 percent of US electricity will come from renewable sources by 2012 and 25 percent by 2025. His environmental record isn’t picture perfect: supporting offshore drilling, coal to liquids, and accepting tens of thousands of dollars from Exxon Mobil, but he is still a clear shift from the previous administration and at least he emphasises his ‘greendentials’. The attitude of the soon-to-be president shows a profiling of environmental issues in the U.S. hitting the mainstream, and this event is a heartening example of sustainability not being seen in conflict with, but actually an aid to, economic growth.
+
+In the U.K, The New Green Deal Group has been formed with high profile political, environmental and academic members. In July the group issued a groundbreaking report calling for a Keynesian style ‘war economy’ with much lower interest rates and tighter controls on international finance. In their recent report Time for Plan B, the U.S. based Earth Policy Institute, sees 80 percent cuts in carbon emissions by 2020 as an opportunity for economic growth. In New Zealand no large call has been made for a local Green New Deal but I believe that is just a matter of time.
+
+Does the new National-led Government look likely to think big and sustainable, like what is being proposed by UNEP? Unlike the recent U.S. election, it looks less likely that we will see the sort of transformational leadership embodied by Obama or previously by Roosevelt. Key and English are very much made in the same generational and economic mould as Clark and Cullen and blandly campaigned on a few points of difference. ACT's support agreement with the National Party is resulting in an immediate delay and a review of the Emissions Trading Scheme, a lifting of the ban on non-essential fossil-fuel generation and a possible review by politicians on the science of climate change. We can't afford the time or the policy uncertainty. The science is clear: we do not need a select committee to tell us climate change is real.
+
+Proposing a $7 billion economic rescue package recently, Key demonstrated the funds are there, when the will is too. The New Zealand Government’s response to the financial crisis is to look at bank guarantees and a big push on infrastructure spending as an economic stimulus and part of a jobs creation programme – more roads and bridges, schools and broadband investment. A pledge was made pre-election to find $790 million for the Waikato Expressway and to find the cash - be it private, or public, or both - to fund the Waterview Connection and Transmission Gully motorways. It seems we are all Keynesians now, but the questions has to be asked – what kind of big spending projects to keep and create jobs and promote economic activity should we be promoting for the long-term?
+
+Rather than spending our scarce resources on more motorways, locking us further into a car-centric future - we need a big, bold shift in direction and some joined-up thinking. Rather than seeing environmental initiatives as a cost and a burden to business, to prioritise against in a recession, we need a plan that sees sustainability and carbon reductions as a business growth opportunity. UNEP reports that global economic growth over the last 50 years has been accompanied by accelerated environmental decline - we can’t play one off against the other any more.
+
+We need a new deal between economic growth, society and the environment. It is a big new concept, not just a new environmental policy initiative. It is something that could capture people’s imagination and provide a sense of positive national direction amidst the gloom of the World Section in the newspaper. A Green New Deal for New Zealand would grasp the opportunity presented by the financial crisis to re-invest in natural capital, clean technology and green jobs and transition away from the old system of regulation and subsidies that keep old and dirty industries like fossil fuels propped up. We’re going to be making big new investment decisions anyway – the question is where? It’s about mobilising and refocusing the economy to achieve a win-win outcome for the environment and the economy.
+
+How would it start? Perhaps Parliament could start with a plan to green itself, setting a positive example – imagine John Key installing solar panels to feed into the national grid on the roof of Beehive, and super-efficient appliances inside, ditching the ministerial limos for electric cars He could start by announcing the new direction – the ‘Green Kiwi Way,’ the ‘New Zealand New Green Plan’ or any other inspirational name the media advisors could come up for the New Green Deal, and like Roosevelt’s he could launch an ambitious ‘100 days of lawmaking’.
+
+We would keep the big infrastructure spend already on the books – at least the broadband ‘fibre to homes’ plan -- but ditch the new motorways for modern efficient public transport. Electrifying and expanding Auckland’s rail system and moving Wellington’s system onto the city streets in the form of a light rail system linking the transport nodes would incentivise cleaner transport options and ultimately reduce our expensive oil imports. Faster, cheaper and more reliable should be the catch-cry encouraging people out of their cars, and people into work.
+
+We would invest in green-collar jobs to replace the ones disappearing in financial services and other sectors of the economy, with good jobs in renewable energy and clean business, conservation and biodiversity services. Agriculture has been described as the backbone of the economy and sustainable, innovative agriculture will be the calcium making sure the backbone doesn’t go brittle. The free-falling construction industry need not have to lay off thousands – certainly, we don’t need any more poorly-insulated, suburban McHouses but we do need plenty of insulation retrofits and sustainable building projects to provide jobs and invest funds in. It’s a pity the $1 billion earmarked for home insulation has disappeared as a result of the election, just to go into the Government’s general coffers. Reducing illness from cold damp homes and peoples’ power bills was a good example of joined-up thinking with multiple benefits in the short and long term. The Business Council for Sustainable Development estimated recently there would be an economic gain of more than $500 million if all homes were made comfortable, warm and energy and water efficient.
+
+We’d set an ambitious greenhouse reduction goal with regular achievable milestones delinking carbon from our economic growth. Investing now in carbon reduction projects provides both jobs and an economic stimulus. It also provides long-term strategic resilience from imported energy insulating us against high oil prices and unreliable supply and the inevitably higher price of carbon credits in the future.
+
+Rather than ditching the ban on non-essential fossil-fuel generation, we’d encourage renewable production, not by having to make a Clayton’s choice and damn the Mokihinui or Waitaki Rivers, but through a mixture of cost-saving efficiency gains and do-it-yourself electricity production. One successful measure we could adopt here is Germany’s feed-in tariff law, where those producing renewable electricity can sell it back to the grid at four times the cost price. At present, 20 percent of Germany’s electricity is produced this way – on people’s roofs and backyards – this would mean we wouldn’t face a supply crisis and I’m sure would appeal to the Kiwi self-reliant, DIY mindset.
+
+The financial markets would have to be cleaned up and made fairer. While Key is modifying the Cullen Super Fund, mandating a percentage that needs to be invested in NZ, he could take the opportunity to make sure unethical investments in the likes of manufacturing nuclear-weapon components would be stopped.
+
+How would we fund such an expansive system of green investments? Former New Zealand Premier Julius Vogel funded his ambitious railway building programme and assisted migration schemes through expansive overseas borrowing. While all parties in Parliament agree borrowing may be part of the solution, it is clear we have to look domestically as well. The Government could launch a Green Treasury Bond for citizens to invest in – much like Victory Bonds from the Second World War. The Super Fund – essential our nation’s savings account should be used to invest in the future. Clean energy and green jobs will give a good rate of return.
+
+The ideal situation would be a tax shift – moving away from taxing work and people’s salaries to taxing pollution. A carbon tax or an Emissions Trading Scheme will deliver a substantial amount of money to the government coffers and should be used on reducing our greenhouse gas footprint further – just spending it on the day to day business of government in the consolidated fund misses the opportunity to invest in further reductions.
+
+Globally a Green New Deal could be funded through a refocusing of priorities. Billions could be saved from military spending, which in 2007 was over $1 trillion, and from fossil fuel subsidies, estimated at $150-200 billion a year. One particularly interesting idea is the Tobin Tax – essentially a levy on foreign exchange transactions, which in 2007 amounted to $3.7 trillion daily – to act as both a source of revenue and a dampener on currency speculations.
+
+Whilst it seems unlikely an ambitious green legislative process and inspired leadership is imminent in New Zealand, the only way we can see it happen is a large and coordinated alliance between business, unions, environmentalists, students and educators, Maori and communities across New Zealand
+
+We can’t let the opportunity slip from our grasp.
+
+Momentum is building internationally for a New Green Deal and New Zealand can catch the first wave. We have a history of bold and ambitious leadership where transformational changes have paid dividends for the nation in the past – Vogel’s railways, Seddon and Ballance’s use of the state to achieve social aims, and Savage and Fraser’s re-writing of the State and economic rule book. Often environmentalists argue that we need to improve our environmental credentials to protect ‘100% Clean Brand New Zealand’, whereas a Green New Deal adds that it will also make our economy bigger, stronger and more resilient.
+
+Let’s look to the past – both internationally and domestically for guidance, and to the future for inspiration on how we can deal to the financial and economic crisis and actually make ourselves better off.
+
+It definitely is a crisis and we shouldn’t doubt its severity but we also shouldn’t just hunker down and try and use the same myopic thinking that got us in this mess to get us out. It’s a crisis and an opportunity. As UNFCCC Secretary Yvo de Boer, said recently: "To use the financial crisis as an excuse not to act on climate change would basically amount to setting yourself up for the next financial crisis. For example, within the next five to ten years we will be replacing about 40 percent of the power-generating capacity worldwide. If, in the light of the financial crisis, a decision is made to go for cheap and dirty technology, as in the past, that technology will still be around in 30 to 50 years" he said.
+
+So the choice facing us, as the old Chinese proverb goes – when the wind changes direction do we want to be the type of person who builds walls or windmills?
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

@@ -1,0 +1,273 @@
+---
+slug: the-warning-signs-are-there-for-the-government
+title: "The warning signs are there for the Government"
+date: 2000-05-24
+source-url: https://www.scoop.co.nz/stories/PA0005/S00512/the-warning-signs-are-there-for-the-government.htm
+author: new-zealand-first-party
+---
+The warning signs are there for the Government
+==============================================
+
+**Wednesday, 24 May 2000, 12:33 am**  
+**Speech: [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party)**
+
+An Address by Rt Hon Winston Peters to Whangaparaoa Combined Probus Club at the Manly Bridge Club, Ladies Mile, Manly at 11am on Wednesday 24 May 2000
+
+  
+Theme: “The warning signs are there for the Government”.
+
+Over the past week or two the atmosphere of Parliament has changed.
+
+Government MPs seem to have lost some of the spring in their step and some of them seem to have long faces when caught in a reflective moment.
+
+There’s also less laughter in the lifts.
+
+These MP’s are learning about reality – something that every new government has to face after the first flush of an election victory fades into political history.
+
+It is a simple lesson of politics.
+
+What is promised before an election is sometimes hard to deliver afterwards.
+
+However, the government is not under any threat at the moment – especially from the other side of the House.
+
+Instead of examining and challenging government policies, as any responsible opposition should, the unlovely allies, National and ACT are providing a laugh a minute.
+
+How can you take National seriously when its leader re-brands them as Radical Conservatives, and uses a song called “Wild Thing”.
+
+We hear ACT are going to re-brand themselves the Conservative Radicals and that Richard Prebble and Rodney Hide will re-emerge to the sound of Muriel Newman singing “Bring on the Clowns”.
+
+The Greens, of course, like to think of themselves as Radical Radicals. Their theme song is “Smoke gets in your eyes”, sung by a pot group from a cannabis patch on the Coromandel.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+They apparently want cigarette smoking banned in favour of marijuana.
+
+To be fair though, it is not that easy being a Green, and to have the need to feel unhappy about everything all the time.
+
+The trouble is they want the rest of us to feel miserable as well!
+
+All jokes aside, New Zealand First’s task in the middle of this muddle is to make a critical appraisal of what the Government is doing and to provide some political stability.
+
+Our assessment of the current situation is that the Government should concentrate on the basic problems facing the country and avoid getting carried away with the zeal of endless social reforms.
+
+Parliament is being flooded with legislation.
+
+Much of it is not urgent and should not be dealt with as such.
+
+While there is no doubt that some Labour supporters want same sex marriages treated as a priority by the Government, New Zealand First believes that the Government should concentrate on the issues that matter to the mass majority of New Zealanders.
+
+Labour has been out of power for nine long years. How can same sex marriages be a priority for a normal party?
+
+And so what are these issues that matter to the vast majority of voters?  
+1\. Exports
+
+The first of these is the seemingly intractable crisis in our balance of payments. As a country we are spending more than we earn and we simply cannot continue to do this.
+
+The Government must come up with measures in the forthcoming Budget to give exporters the incentive to dramatically increase exports, and I mean incentives like every First World country gives its exporters.
+
+Our biggest export at the moment is yacht crews. In real terms each one is probably worth ten million dollars.
+
+We must take advantage of the lower value of the New Zealand dollar to sell more in overseas markets.
+
+While there has been some ill-informed sniping from the so-called “Market” about the value of the dollar, there is no need to panic.
+
+Much of the problem is caused by the strength of the American dollar and the rise in interest rates in the United States.
+
+It is not actually the fault of someone in the Beehive - as some bank economists and foreign exchange dealers would have you believe.
+
+These people are not known for the accurate forecasts and outcomes that they are so fond of inflicting on the rest of us.
+
+Nor do they have a reputation for their productive skills or social consciences.
+
+The simple fact is that the dollar’s value now gives us an edge in just about every export market in the world and we must work with export groups to exploit this situation.
+
+We cannot afford a hands off approach any longer.
+
+Increasing exports is the only way to increase the wealth of the country and to provide more jobs.
+
+And what our exporters, or for that matter the rest of us don’t need, is for the Reserve Bank to do as it did last week, misread the current environment.
+
+In putting up interest rates unnecessarily, the Reserve Bank is going way beyond the current policy targets agreement under which it operates.
+
+It is no longer focusing on inflation but outside its powers, has decided unilaterally to determine what growth New Zealand can aspire to as an economy and it has put a ceiling on that at three per cent a year.
+
+Unelected, and without any public mandate or discussion, it has been encouraged by business opinion to use what George Bush once described as “voodoo economics” to stifle this country’s growth.
+
+And so the revolving enigma continues.
+
+Question: How do you get high growth?
+
+Answer: Low inflation.
+
+Question: How do you maintain low inflation.
+
+Answer: Threaten increased interest rates and stifle growth.
+
+A year from now New Zealanders will see it that way.
+
+2\. Superannuation
+
+Hand in hand with the balance of payments crisis is the lack of a New Zealand Savings and Superannuation scheme.
+
+This has always been a centre plank of New Zealand First policy because we recognise that the problem will not go away.
+
+As the events of the past few weeks have shown, we can’t keep relying on the savings of overseas investors, and we can’t keep putting off the reality of the needs of an ageing population.
+
+We just witnessed how quickly foreign investors and foreign money flee these shores for greener pastures.
+
+New Zealand must create a savings fund for development and savings purposes just as Singapore did so successfully many years ago.
+
+It is interesting to remember that we once owned an international and domestic airline.
+
+Now we are facing the prospect of that airline becoming a branch of Singapore Airlines.
+
+Singapore has one of the most successful carriers in the world – and flying testimony to the wisdom of successful planning and wise investment.
+
+Foreign interests are swallowing our companies with the resultant drain of profits overseas. We must reverse this trend and take back control of our resources.
+
+New Zealand First wants a stand-alone State funded superannuation fund set up as soon as possible and has already raised this issues, amongst others, with Labour.
+
+Our main difference is that we believe the fund should be established in the names of all the contributors which is the only way to prevent a future Government tampering with it. There is no constitutional safeguard from tampering but no Government is going to contemplate raiding the savings accounts of 2.8 million New Zealanders. That is the only safeguard.
+
+However these are details that can be negotiated and we hope the Budget will begin to deal with this urgently.
+
+  
+3.Government
+
+Another problem this Government must quickly face up to is the administration of Government itself, and sorting out who is in control.
+
+Labour has to rein in some of their own monsters, created by Roger Douglas and Richard Prebble between 1984 and 1990, and nurtured by National until last year.
+
+They set up taxpayer owned corporations as State-owned Enterprises in preparation for selling off while ministries and departments were set at arm’s length from the Cabinet Ministers who were supposed to be in charge of them.
+
+It’s amazing really how some of the apologists last week for the Airways Corporation so blatantly admitted the true purpose of the SOE model.
+
+Ignoring New Zealand Post’s world-wide success and lamely excusing the Airways Corporation, Sir Ronald Trotter, a leading light of change in the eighties, said the problem was that the SOE’s were meant to be privatised and had not been.
+
+So now we know what the true purpose was for these taxpayer owned organisations.
+
+Some of these State-owned Enterprises are now totally out of control and are run by people who think they own them.  
+They are half way successful at emulating Robin Hood. In short taking from the rich – and keeping it!
+
+We have the Airways Corporation, which is supposed to have the safe management of the New Zealand skies as its main function, posing as a major player on the world corporate stage.
+
+Three of its senior people are living in London working on a take-over of part of the British system.
+
+In fact, the Chief Executive Officer has bought a house there.
+
+Who paid for the relocation, the shipping, the schooling, and everything else that creates an expense when executives move between jobs?
+
+Does anyone really care – because we should – it’s our money.
+
+Who is running things back in New Zealand? If that job can be done from England perhaps we never needed a CEO for that SOE.
+
+It is obvious that Airways Corp has become branch office New Zealand right under our noses. Silly us – I thought we owned it!
+
+Perhaps it is time for the Government to place the Airways Corporation, as in the United States and other First World countries, in the Ministry of Transport so it can be kept to its main function.
+
+The Government must also get on with addressing the problems that exist within Television New Zealand and the obscenely high salaries that the self created stars pay themselves.
+
+Have you noticed that in news and current affairs and talkshows, the staff interview each other?
+
+There was a classic last week. The Fijian Government was being held hostage so TVNZ interviews the current expert on South Pacific Affairs and the constitutional rights of indigenous Fijians - Richard Harman.
+
+This technique is to avoid the cost of travel to locations where people actually know what they are talking about.
+
+The money to do the job properly is needed to pay the mega-stars.
+
+After all the criticism of this situation by Labour, things seem to have gone quiet on the much needed reforms at TVNZ.
+
+From time to time we will be reminding the Government about the problems with the SOEs and offering suggestions for improvement.
+
+It is a sorry fact that the new culture that has infiltrated the public service needs a shake up.
+
+Taxpayers look with horror at the corporate luxury enjoyed by the public service hierarchy in places like WINZ but the public don’t know the half of it.
+
+Everybody who gets paid a salary by taxpayers must be accountable to them.
+
+It is not acceptable for the bureaucracy to exist for itself.
+
+Cabinet Ministers should be taking back control of their portfolios and the government departments that administer them.
+
+  
+4\. Political Correctness and Separatism
+
+I now want to touch on some of the taboo subjects that we are not supposed to mention – political correctness and separatism.
+
+These are two areas of nonsense that have reached ridiculous proportions.
+
+Gender differences are no longer allowed. The language has been neutered and we now all have to be called persons.
+
+What’s more, a whole bureaucracy has sprung up around this nonsense, and we are supposed to live in fear and trembling at the thought of offending people.
+
+Remember a few years back when a golf club in Nelson came under-fire because of its married couples tournament?
+
+Someone probably wanted to call it the “Together Person” tournament!
+
+The legislation that deals with the property rights of people who live in de facto relationships contains some of these gender neutral phrases.
+
+It has been changed from the Matrimonial Property Bill to the Property (Relationship) Bill.
+
+It has also changed the language so there will no longer be spouses, wives or husbands.
+
+Matrimonial property becomes relationship property and no longer will there be a matrimonial home.
+
+Everybody will become a “partner” as though they are bigwigs in a law firm.
+
+New Zealand First is against marriage being reduced to a partnership relationship.
+
+We will be opposing these measures in their present form because we do not believe any government has the right to abolish the concept of marriage in our society.
+
+We, as a country, have become obsessed with rights relating to gender and race.
+
+We concentrate on our differences instead of our similarities and as a result we are getting a fragmented society in which we look sideways at each other.
+
+Thousands of Maori people lost their jobs during the restructuring of the eighties and nineties.
+
+Their biggest problems now are health, education and employment.
+
+Instead of concentrating on solving these huge basic problems, we concentrate on protocols and pronunciation.
+
+We say to Maori, we can’t give you a job, but when you go to prison we will teach you to use the taiaha and build up your self esteem.
+
+And rather than creating an economy that provides jobs we’ll build a prison in Northland so the whanau won’t have to drive all the way to Auckland or further south.
+
+This attitude is dragging Maori down.
+
+In the South of the United States, the black civil rights movement of the fifties and sixties sought the right of access, if they individually earned it, to the best things that everyone else had.
+
+They broke down the barriers of class and privilege, and becoming no less black, shared in the mainstream.
+
+Here in New Zealand the very reverse is happening and the seeds of separatism are being sown with the naïve support of the establishment.
+
+A poisonous cocktail is being concocted that we will bitterly regret unless we stop making the ingredients, and change from that course now.
+
+New Zealand needs a change of attitude on these issues and that change is long overdue.
+
+The genie may have escaped from the bottle, uncorked by social alchemists, of which this country in recent times has had too many.
+
+The genie must be contained in the interests of every New Zealander.
+
+  
+Contact: Frank Perry phone: (04) 471 9606  
+mobile: 021 890 307
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party) on InfoPages.

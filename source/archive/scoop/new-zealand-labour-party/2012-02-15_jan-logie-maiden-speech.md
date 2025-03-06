@@ -1,0 +1,111 @@
+---
+slug: jan-logie-maiden-speech
+title: "Jan Logie – Maiden Speech"
+date: 2012-02-15
+source-url: https://www.scoop.co.nz/stories/PA1202/S00175/jan-logie-maiden-speech.htm
+author: new-zealand-labour-party
+---
+Jan Logie – Maiden Speech
+=========================
+
+**Wednesday, 15 February 2012, 5:21 pm**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Jan Logie – Maiden Speech
+
+  
+I acknowledge this House, the land it stands on, and the indigenous people of this place. To all the women and people on the margins who have gone before me in this place – I thank you. I will do my best to live up to your vision of a future where we can all speak constructively. To those still on the margins, I promise you my best efforts to redress hardship and injustice and to live up to your expectations. And to all the amazing green party activists and voters, again my thanks. I look forward to our on-going journey.
+
+I pledge to this House and to those who elected me that I will seek to honour Te Tiriti o Waitangi, the Declaration of Independence and the principles of co-operation, inclusion, integrity, justice and fairness.
+
+I stand here today as a lefty, feminist, lesbian who sometimes despairs about what we’re doing to each other and our planet. I stand here as an ordinary Pākehā New Zealander. I stand here knowing how much better things could be if we did things differently.
+
+I grew up in Invercargill. Both my parents worked really hard to give my brother and me the opportunities they never had. Dad worked for the electricity department and Mum was a theatre nurse.
+
+My mother was brought up in Lebanon, the daughter of Baptist missionaries. I remember as a child watching the Israeli bombing of Lebanon on TV and her pointing out a massive pile of rubble that had been her childhood home. It was an early grounding in global affairs and world politics and I felt lucky to have her and to be watching from afar.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+My dad grew up in rural New Zealand and he passed on his love of the outdoors to us whilst teasing my brother Ian and me for being townies. His history as a polar explorer was incredibly exotic and gave me a sense of unlimited possibility.
+
+Mum and Dad always told us we could do anything we wanted to, if we worked hard enough, and I’d like to thank them for bringing me up to care about fairness and justice, the world and our precious places. I’d also like to apologise in advance for all the times in the coming years that you’ll feel bemused by your radical daughter.
+
+Despite having an amazing start in life, my teenage years were pretty tough. Like many other New Zealanders, I suffered from an undiagnosed mental illness. I was bewildered by the changing world, not sure of who I was, scared I wouldn’t be able to live up to my own expectations and angry about the greed and cruelty I was seeing around me.
+
+It was the eighties and New Zealand was in the middle of massive social and cultural change. It was the time of the women’s conferences and the catch phrase “girls can do anything”, as well as a lot of media and discussion telling us we couldn’t. It was the Springbok tour, Bastion Point and Homosexual law reform.
+
+During this time my friends were dealing with racism on a daily basis, as friends are still now. Being followed in shops, stopped in their cars, patronised, ignored and mistrusted. Their tears, frustrations, anger or extra efforts to conform disturbed and still disturb me.
+
+The eighties was also a time of radical economic change. I saw this through a spate of suicides of fathers of students at my school when, due to the removal of Government farming subsidies, many faced the loss of the family farm and their identity. This was a tragic lesson on the human cost of decisions made in this place.
+
+Being unwell I went off the rails for a while during the 80s and early 90s and I was very, very lucky that my friends and family, particularly my brother, managed to get me through university and hold me here until I managed to get back on track. It was an incredibly precarious time for me and I can’t express how grateful I am to have got through it.
+
+What got me back on track was discovering activism and community work. I started working for Women’s Refuge in the early 1990’s and this gave me a sense of purpose, of being able to make a difference and solidarity with others wanting a better world. I finally felt part of something and had a sense of how I could contribute to the world.
+
+I have never lost that feeling of purpose or the sense of responsibility that comes from thriving, when I know others aren’t.
+
+Since then, I have seen the focus in New Zealand turn to individuals and individual responsibility rather than families, community or shared endeavour. Yet societies cannot function if everyone acts as an individual. It is connection that makes our society work, not isolation.
+
+Today, one of the key stories I carry with me into this House is from the nineties when I was working in youth health. I was doing a suicide prevention workshop with a group of unemployed, disenfranchised and disconnected young people. I asked these young people about what it takes to be successful and they came up with responses like - “being smart”, “working hard”…
+
+I asked, in a rather leading way, whether they thought getting help from other people made a difference, they disagreed. When I asked whether they thought Jenny Shipley or even Tupac received help to get where they were, they again refused to acknowledge that possibility.
+
+These young people were already on the margins, out of school, out of work, and they believed it was their own fault they were in this position. They believed individual responsibility was all. But, rather than the myth spurring them into action, it put their lives at risk and significantly increased their chances of remaining unemployed. All their charisma, energy and ideas were left floating in the ether of individualism and self-blame.
+
+If we can’t see we are inter-dependent then we won’t ask for help when we need it, and we will be left floundering in polluted waters unable to breathe. We are all beneficiaries and should be proud to be so. I am the beneficiary of years of support from family, friends, the state, not to mention the beneficiary of colonisation and at times the unemployment benefit. There should not be a stigma in accepting help when you need it. And there is benefit in sharing and helping others when they need it. Individualism locks in inequality and oppression and as a result we all lose out.
+
+I also carry with me into this House all too many stories of gender-based abuse and violence. One in three girls, one in seven boys, one in eleven women, and up to one in two trans-people will experience sexual abuse in this country.
+
+One in three women experience psychological or physical abuse from their partners in their lifetime. On average, 14 women, six men and 10 children are killed by a member of their family every year. Police are called to around 200 domestic violence situations every day – that’s one every seven minutes on average. Police estimate only 18 per cent of domestic violence incidents are reported.
+
+Like most of you, I carry some of these stories etched into my heart from experience; my own, of others I love and those I have worked with through Women’s Refuge and Wellington Sexual Abuse Helpline. The people of these stories who have been victimised by what is predominantly men’s violence are from all ethnicities, of all ages, genders and sexualities, across an ability spectrum, and from every economic stratum.
+
+It is important to me that I bring these stories into this House, because these stories need to be shared and the shame taken away from those holding the stories.
+
+We representatives of the people of this country have a duty to honour the extraordinary strength of survivors and those who are healing by ensuring that first and foremost they have adequate support. They also need to see that we are working to prevent the same thing happening to others. We have a duty too to those perpetrating the abuse to help them learn the fulfilment that can come from equal relationships rather than ones of power and control.
+
+It is not enough to have a taskforce. We need to implement the recommendations of those taskforces. And it is not acceptable that funding for sexual abuse counselling has been cut by half and domestic violence support services have effectively been cut, with a 12 per cent increase in workload. There are immediate changes we can make; they need to be a priority. For all our sakes.
+
+I also bring stories of hope with me into this House today. One is about the launch of the Assume Nothing exhibition at the Dowse Art Gallery in 2008. Assume Nothing is a photographic exhibition by Rebecca Swan celebrating diverse gender identities. The exhibition showed a range of people who do not fit traditional gender roles or narrow definitions of sex, looking strong and beautiful. Attending the exhibition, having recently returned from overseas, I felt so proud to be a New Zealander; proud to live in a country that has such spaces and people willing to share so intimately of themselves in the pursuit of understanding and the celebration of diversity.
+
+I am here in this House to work for a world where we can enjoy our differences of gender, sexuality, culture, ethnicity, ability, and age in every aspect of our society. We are a diverse population and I hope to see the potential of this diversity realised. It would be wonderful to see government as a whole drive to increase innovation and productivity by addressing the barriers that are holding all too many people and communities back.
+
+I will work to grow this hope so we can all see the beauty of difference rather than the fear of the “other”.
+
+We all need to know we count. We all need to know that together we can make a difference for ourselves, our friends, our families and our communities.
+
+Through my work in the community sector, for women, for children and for communities, I’ve learnt the importance of creative solutions, involving people in change, of having politicians who will work collaboratively with you, of keeping to your values and how to make a lot happen with not very much. I bring these skills and others to this place.
+
+All the stories I have shared today demonstrate who I am and who I am working for.
+
+To remind myself of these values I got a tattoo over the holidays with the Audre Lorde quote “my silences have not protected me”. And I will do my best to speak out for all of us so one day we can all be protected and free. Though my sister-in-law has suggested I get my other leg tattooed with “discretion is the best part of valour.”
+
+I am very proud to be a Green Party MP because the Green Vision is a new vision. It’s a vision that holds equity, economy and environment together and acknowledges we are all important and have a duty of care for each other and this planet.
+
+I would like to thank the Green team and parliamentary staff in advance for doing all the work that enables us to make a difference. Finally, I would like to thank all my family; Mum, Dad, Noel, Ian, Anna, Liz, Maria, Kyran, Deb, Whetū, Jac, Caroline, Denise and Billy for all their support and trust.
+
+With your food basket and my food basket the people will thrive.  
+No rei rā tēnā kotou tēnā kotou tēnā kotou katoa.
+
+  
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

@@ -1,0 +1,118 @@
+---
+slug: key-notes-7-9-12-proceeding-with-share-offers
+title: "Key Notes 7/9/12: Proceeding with share offers"
+date: 2012-09-07
+source-url: https://www.scoop.co.nz/stories/PA1209/S00098/key-notes-7912-proceeding-with-share-offers.htm
+author: new-zealand-national-party
+---
+Key Notes 7/9/12: Proceeding with share offers
+==============================================
+
+**Friday, 7 September 2012, 3:52 pm**  
+**Column: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Key Notes: Proceeding with government share offers
+
+  
+**07 September**  
+[Key Notes: The Prime Minister's Newsletter](http://www.vadmin.co.nz/vadmin/emstracking/131-20996.link)
+
+On Monday I announced the Government will proceed with an initial public offering (IPO) of up to 49 per cent of Mighty River Power, between March and June next year.
+
+[This is part of our plan to sell minority shares](http://www.vadmin.co.nz/vadmin/emstracking/131-20997.link) in four state-owned energy companies to New Zealand investors. We want to free up between $5 billion and $7 billion which we can reinvest in important assets - like schools and hospitals - without having to borrow from overseas lenders.
+
+Claimants to the Waitangi Tribunal raised concerns that the partial share of Mighty River Power would make it more difficult for the Crown at some point in the future to recognise Maori rights and interests in water.
+
+The report of the tribunal offered a concept called "shares plus", which it suggested would address this issue.
+
+My Cabinet colleagues and I carefully considered the Waitangi Tribunal report. We don't believe that "shares plus" is necessary or desirable.
+
+We have decided that the right thing to do at this point, however, is to test our preliminary view and undertake a short period of consultation with relevant iwi on "shares plus" to ensure we have considered all possible aspects of the concept. We intend to do this over the next five weeks.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Despite the delay, the Government is firmly committed to the share offer programme.
+
+The alteration to the timeframe for the initial public offering of Mighty River Power does not change our commitment to providing investment opportunities to New Zealanders.
+
+By taking the time to consult with iwi, we will also be able to provide potential investors with more certainty and confidence as to the timeframe for the share offer.
+
+[You can read my press release on this issue for more information.](http://www.vadmin.co.nz/vadmin/emstracking/131-20998.link)
+
+**Christchurch Hospitals' redevelopment to proceed.**  
+This week we marked the second anniversary of the first earthquake in Christchurch. In the past two years, more than 10,000 earthquakes and aftershocks have been felt in the region.
+
+Cantabrians have been persevering through very difficult circumstances. But we're committed to rebuilding their city and the surrounding area.
+
+This is one of the Government's four top priorities for this term in office.
+
+Despite the on-going challenges, we've made [some great progress.](http://www.vadmin.co.nz/vadmin/emstracking/131-20999.link) We've moved from the rescue and recovery stages, to one of momentum to rebuild a vibrant city.
+
+In late July, I unveiled [a blueprint for the Christchurch CBD rebuild](http://www.vadmin.co.nz/vadmin/emstracking/131-21000.link). While Christchurch will look different, it will be a vibrant, new, and great place to live, and the CBD plan will give Cantabrians and all New Zealanders confidence in the city's future.
+
+On Tuesday the Government announced [the redevelopment of Canterbury's two main hospitals](http://www.vadmin.co.nz/vadmin/emstracking/131-21001.link) - Christchurch and Burwood. The project will be the largest hospital build in the history of the New Zealand public health service.
+
+The estimated cost of more than half a billion dollars will be met a number of ways, including from the proceeds of our government share offer programme.
+
+Being able to fund important projects such as this without borrowing from overseas is another reason we remain committed to freeing up capital through this programme.
+
+**Highlighting trading opportunities at APEC**  
+This week I'm in Vladivostok, Russia, [attending the 20th Asia-Pacific Economic Cooperation (APEC) Leaders' meeting.](http://www.vadmin.co.nz/vadmin/emstracking/131-21002.link)
+
+New Zealand operates in an increasingly global marketplace and the links we have with our major trading partners are going to play an important role in our future economic success.
+
+Trade and investment liberalisation, regional economic integration, and establishing reliable supply chains are topics that I intend to discuss with other world leaders at the APEC summit.
+
+The Asia-Pacific is set to be the engine for future global growth. New Zealand's current and future economic prosperity depends on how successfully we can support Kiwi businesses to integrate into this region.
+
+This is part of the Government's strong economic plan to [build a more productive and competitive economy](http://www.vadmin.co.nz/vadmin/emstracking/131-21003.link) at home, enabling our businesses to take advantage of future growth in the APEC region.
+
+**Did you miss these important stories?**  
+[Latest health targets show even more good news from DHBs.](http://www.vadmin.co.nz/vadmin/emstracking/131-21004.link)
+
+[200 students to gain valuable R&D skills over the summer.](http://www.vadmin.co.nz/vadmin/emstracking/131-21005.link)
+
+[The alcohol purchase age will remain at 18.](http://www.vadmin.co.nz/vadmin/emstracking/131-21006.link)
+
+**From my diary**  
+At the conclusion of APEC on Sunday evening I'm flying to Japan for a three-day visit to mark 60 years of diplomatic relations with Japan.
+
+I'm going to visit the tsunami-affected Tohoku region to commemorate the victims of the Great East Japan Earthquake, and acknowledge the support Japan and New Zealand provided each other in the aftermath of our natural disasters last year.
+
+I'll also be meeting Prime Minister Noda to discuss regional issues and further strengthen our relationship.
+
+Last week I attended the successful 43rd annual Pacific Islands Forum in Rarotonga. It was a great chance to catch up with leaders from the region, and I enjoyed a bilateral breakfast with Australian Prime Minister Julia Gillard.
+
+US Secretary of State Hillary Clinton also attended the Forum. I was able to have a chat with her about regional issues and we discussed the role of the Pacific in global affairs.  
+Regards,
+
+**John Key  
+Prime Minister**  
+[www.johnkey.co.nz](http://www.vadmin.co.nz/vadmin/emstracking/131-21007.link)  
+
+  
+Pre-Prospectus Disclaimer  
+The Crown is considering offering shares to the public in one or more of Genesis Power Limited, Meridian Energy Ltd, Mighty River Power Ltd, Solid Energy New Zealand Ltd and Air New Zealand Ltd. No money is currently being sought and no applications for shares will be accepted or money received until after an investment statement containing information about the relevant offer of shares is available.
+
+  
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

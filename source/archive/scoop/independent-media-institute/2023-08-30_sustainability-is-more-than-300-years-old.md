@@ -1,0 +1,86 @@
+---
+slug: sustainability-is-more-than-300-years-old
+title: "Sustainability Is More Than 300 Years Old"
+date: 2023-08-30
+source-url: https://www.scoop.co.nz/stories/WO2308/S00226/sustainability-is-more-than-300-years-old.htm
+author: independent-media-institute
+---
+Sustainability Is More Than 300 Years Old
+=========================================
+
+**Wednesday, 30 August 2023, 4:53 am**  
+**Press Release: [Independent Media Institute](https://info.scoop.co.nz/Independent_Media_Institute)**
+
+**Teaser:** Modern sustainability evolved from forest management of the 18th century, and its ancient roots go back even further. Could it help with today’s climate crisis and lumber shortage?
+
+The proverb “necessity is the mother of invention” has roots that go back to Aesop’s fable “The Crow and the Pitcher” and to Plato’s “Republic_._” It is realistic to assume that Hans Carl von Carlowitz, mining manager for the Saxon court in Freiberg, Germany, during the late 17th and early 18th centuries, was also driven by necessity and a severe shortage of wood to invent the concept of sustainability (“_Nachhaltigkeit_”).
+
+Or to be more precise, he coined the word to describe the quintessential principles of a human activity that goes back to the dawn of history: the sustainable use of natural resources. Although it may not have been called sustainability until Carlowitz, societies had practiced it for a long time as a vital part of cultural or religious practices. Ancient Egypt pursued sustainable systems for more than 3,000 years. The Maya, according to anthropologist Lisa Lucero, practiced a “cosmology of conservation.” The literature of ancient India is brimful with references to the preservation of the environment.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+On the other hand, there are ancient civilizations that may have collapsed because they despoiled the natural world that gave them life. The earliest example may be found in the ancient Mesopotamian “Epic of Gilgamesh,” the first version of which dates back to 2000 B.C. Clay tablets tell the tale of vast cedar forests cut down by the eponymous hero in defiance of the gods, who punish him by cursing the land with fire and drought, turning the region into a desert. Nothing grew anymore, forcing the Sumerians to flee to Babylon and Assyria.
+
+Now, 300 years after Carlowitz gave sustainability its modern name when Europe was short on wood, we have again experienced a timber shortage—this one triggered by the COVID-19 pandemic and caused by climate change.
+
+The modern concept of sustainable living on a planet with limited resources evolved from the work done by Carlowitz regarding the need for the sustainable management of forests.
+
+In 1713, just a year before his death, Carlowitz published the 432-page folio book, _Sylvicultura Oeconomica oder Anweisung zur wilden Baum-Zucht_ (“Silvicultural Oeconomica or the Instructions for Wild Tree Cultivation”).
+
+_Sylvicultura Oeconomica_ documented the beginning of scientific forestry. It also invented sustainability, which had to be accepted to assure the continuity of human societies and of nature. Without scientific forestry, people across Europe and around the world would have faced far more severe economic and social disasters than the ones witnessed in the last few centuries. “In the beginning was the Earth,” said Christof Mauch, a modern-day German sustainability specialist and historian, in a 2013 lecture. “The Earth does not need humans to survive, but humans need the Earth.”
+
+In fact, Carlowitz envisioned the three pillars of sustainability: environmental, economic, and social justice. He rejected short-term thinking. He offered solutions, scientific details, guidelines and practical proposals on how to save, select, nurse, plant, re-grow, maintain and protect forests and their biodiversity. He presented an inventory of conditions across Europe and discussed threats caused by extreme weather conditions, diseases, pests and humans. He pled for careful, frugal consumption and recommended the art of saving timber. His ideas for using energy-efficient stoves in housing or furnaces in smelters, tips on improving the insulation in buildings, and finding substitutes like peat for heating homes are not unlike today’s sustainability efforts. The main part of the book deals with the urgent work that needs to be done to overcome the _Holznot_, or wood emergency. In his 2010 book, German journalist Ulrich Grober calls _Sylvicultura Oeconomica_ “the birth certificate of our modern concept of _sustainability_.”
+
+These concepts developed by Carlowitz have been adopted across the globe in the course of the last 300 years. Unfortunately, today the rapid deforestation of large areas continues unabated in various regions, mostly in the Global South. The developed Global North had already done much of its massive deforestation during the era of industrialization. It should be noted that today, the greed of wealthy individuals, corporations and governments from the rich countries often exacerbate the climate crisis in tropical regions, while Indigenous peoples and those who are not in positions of power due to lack of access to capital or being located in the Global South (particularly island nations) often have proven, long-term sustainable forest management and environmental practices and are most affected by the unsustainable practices of developed nations.
+
+But the rich world has been reeling from the climate impacts of unsustainable development for decades, with increasing temperatures and a rise in the frequency and intensity of extreme weather events. In many ways, we are losing a race against time. During the summer of 2021 in the United States, firefighters wrapped aluminum foil around the trunk of a giant old sequoia, hoping to save the world’s largest tree from “a raging wildfire” in California. Sequoias, which can live for up to 3,400 years, have coexisted with occasional forest fires for millennia. They don’t burn easily and have survived wildfires over the years, even benefitting from fires that clear away the underbrush, creating new space and providing the required sunlight for seedlings. But this no longer works. The new wildfires of the climate change era last too long and burn too hot even for these huge trees, who were once regarded as invulnerable. According to the New York Times, “in last year’s Castle fire, between 7,000 and 11,000 large sequoias died across the Sierra Nevada or about 10 to 14 percent of them.”
+
+All these natural calamities have come in a cluster, bundled together in the last few years: the pandemic, ever more and ever bigger forest fires in the West and leaping north into Canada, excessive heat, lasting drought and the destruction of millions of trees by a tiny creepy-crawly bark-eating beetle. Businesses closed their doors, sawmills halted production, truckers stopped trucking and logistical bottlenecks multiplied. Builders ceased construction and people were stuck in lockdowns at home.
+
+Then, contrary to expectations, a DIY frenzy broke out. Confined to their houses or apartments because of pandemic-related restrictions, Americans started to improve their private spaces. Perhaps they felt it was the only reality they could count on. It was something they valued as a zone of safety and personal freedom in the midst of turmoil: a room of one’s own.
+
+Wood became a high-demand commodity. Trading at $381 for 1,000 board feet back in 2019, in May of 2021 lumber hit a record high of $1,711.20. Costs for lumber have come down again, but house prices have not. According to the National Association of Home Builders (NAHB), “the average price of a newly constructed single-family home has increased by about $ 36,000 since April of 2020.”
+
+It’s a vicious cycle: trees are stressed by heat and drought, which makes them less resilient. A cold climate used to keep the mountain pine beetles under control but warming temperatures have upset the balance and increased their numbers. With more mouths to feed, the beetles advanced into new areas, attacked weakened trees, and have already devastated 27 million hectares of forest across North America “an area more than three quarters the size of Germany.”
+
+There are also more and more people who are directly confronted by climate change. The Washington Post reports that “\[n\]early 1 in 3 Americans live in a county hit by a weather disaster in the past three months… On top of that, 64 percent live in places that experienced a multiday heat wave.”
+
+So how long can people function and be productive under the present and increasingly worse circumstances? How can governments govern? When will the governed discover that the powerful Wizard of Oz isn’t so mighty after all?
+
+Americans are still embedded in a never-ending stream of the same-old growth and consumption messages that contradict what society as a whole must do to become sustainable. But finally, there is a shift in public awareness. According to the Yale Program on Climate Communication, “three out of four Americans now believe that global warming is happening today.” It is hard to tell if this change of mind will last; public opinion is fickle, and there is the fact of a short attention span.
+
+Perhaps it is helpful to acknowledge that the world was in trouble before, and that, driven by necessity 300 years ago, it found solutions. The challenges being faced by people across the globe are far bigger today, but the tools available to them are better too. The world has added much science, and people should have a better understanding of how nature and societies work.
+
+Three scientists were awarded and share the Nobel Prize for physics 2021: Syukuro Manabe of Princeton, Klaus Hasselmann of the Max Planck Institute in Hamburg, Germany, and Giorgio Parisi of the Sapienza University of Rome, Italy. All three of them did long-term groundbreaking work related to complex physical systems and modeling the Earth’s climate.
+
+Hans Carl von Carlowitz had no access to such advanced science. All he had was his observation, the science of his time, and a bold mind. But he would most certainly agree with the physicist Giorgio Parisi, who commented on the timing of the awarding of the Nobel Prize in physics to climate change researchers: “It is clear that for the future generations, we have to act now in a very fast way and not with a strong delay.” We’ve had sustainability concepts for more than 300 years—it’s certainly past time to utilize them.
+
+ENDS
+
+By Erika Schelby
+
+**Author Bio:** Erika Schelby is a contributor to the Observatory and author of _Looking for Humboldt and Searching for German Footprints in New Mexico and Beyond_ (Lava Gate Press, 2017) and _Liberating the Future from the Past? Liberating the Past from the Future?_ (Lava Gate Press, 2013), which was shortlisted for the International Essay Prize Contest by the Berlin-based cultural magazine Lettre International. Schelby lives in New Mexico.
+
+**Source:** Independent Media Institute
+
+**Credit Line:** _This article was produced by_ _Earth | Food | Life__, a project of the Independent Media Institute._
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Independent Media Institute](https://info.scoop.co.nz/Independent_Media_Institute) on InfoPages.

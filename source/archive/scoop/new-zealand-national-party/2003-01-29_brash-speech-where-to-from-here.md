@@ -1,0 +1,117 @@
+---
+slug: brash-speech-where-to-from-here
+title: "Brash Speech: Where To From Here?"
+date: 2003-01-29
+source-url: https://www.scoop.co.nz/stories/PA0301/S00249/brash-speech-where-to-from-here.htm
+author: new-zealand-national-party
+---
+Brash Speech: Where To From Here?
+=================================
+
+**Wednesday, 29 January 2003, 9:42 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+  
+Brash Speech: Where To From Here?
+
+An address to the Orewa Rotary Club by Don Brash National Party Finance spokesman 28 January 2003
+
+Mr Chairman, Ladies and gentlemen,
+
+A few weeks ago, I was asked what my vision for the Auckland business community was. I said I didn't really have a vision for the Auckland business community, nor even for the business community more generally. Rather, as National Party Finance spokesman what I had was a vision for New Zealand.
+
+This evening, near the start of another year, I want to share that vision with you.
+
+New Zealand is a great country, with so much to offer us all. We enjoy a wonderful natural environment. Every child has the opportunity to enjoy free primary and secondary education, and heavily subsidised tertiary education. Every person suffering an accident or acute illness has the opportunity to enjoy free hospital care. We have none of the ethnic or religious violence which plagues so many other countries. We have inherited a British legal system which gives us access to impartial justice. We have a public service which is almost entirely free of corruption. As Chris Trotter remarked after a pleasant dinner overlooking a beach on the Whangaparaoa peninsula last year, \"New Zealand is an unqualified success. We are free. We are at peace. And we are rich in all the things that matter."
+
+Yes, but....
+
+What Chris Trotter overlooked was why we are an "unqualified success". In the past, the National Party has led Governments that have seen New Zealand succeed. National's values were New Zealand's values. The present Labour Government is reaping the benefits of past policies, but is not only failing to make further progress but is actually undermining past progress - coasting on the back of strong commodity prices, strong net immigration and, until recently, a very low exchange rate.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I worry that Trotter's "unqualified success" faces challenges which could rip us apart. At a time when a trained mind has never been more important for earning a decent income than it is today, more than 40 per cent of adult New Zealanders are unable to read and write well enough to perform adequately in a modern economy - with more illiterate people coming out of our schools every year. At a time when government spending on healthcare has never been higher - either in dollars or as a share of the national cake - we have hospitals up and down the land asking those with serious heart conditions to wait, and wait, and wait. At a time of almost unprecedented buoyancy in the domestic economy, we have some 400,000 adults of working age (to say nothing of their tens of thousands of children) living on a benefit. At a time of near-record export prices, we are still spending more overse
+
+Reading my Christmas mail this year I was struck by how many letters were from people whose young adult children had just left for overseas, or who were just about to leave. Some will come back of course, as they have always done in the past. But the risk is that an increasing number will never come back, or at least will come back only to visit Mum and Dad on holiday. They will take their training and their flair to other countries, and we will be the poorer, both in personal and in economic terms. A growing diaspora of our brightest and best is not the way to future prosperity, and it's not the kind of export industry that I want to see in my country. These are your children, my children, our children - the future of New Zealand.
+
+And why are they less likely to return now than in the past? Essentially because, while New Zealand is still a pleasant place to live, our standard of living fell during the sixties, seventies and eighties relative to that in many other developed countries. In 1960, New Zealand's living standard was closely similar to that in Australia. Now, Australia's living standard is about one-third higher than that in New Zealand. This means that the average Australian is better off to the tune of about $250 per week than the average New Zealander. As a direct consequence of this, a nurse can leave a job in Auckland and fly to Brisbane and earn substantially more. And a person with cancer in Australia has a better life expectancy than a person with the same disease in New Zealand.
+
+If, as seems entirely possible, we lose an increasing proportion of our brightest and best to the bright lights of Sydney, London and New York, there must be a serious danger that the pleasant society which Chris Trotter rightly praised will gradually unwind - with a whimper rather than a bang, but unwind nevertheless. We might end up like Argentina perhaps or, worse still, like some of the troubled societies of the South Pacific, with racial tensions and conflict to add to the economic woes.
+
+I want something much better - a society where every child is loved; where every child has a good education; where every person is free to pursue his or her dreams provided they don't cause nightmares for others or expect other people to fund their dreams; where the state protects the natural environment and provides security for all; where all can live at peace, irrespective of race or religious belief.
+
+There are no doubt many ways to achieve this goal, but I believe seven steps are essential.
+
+First, we must be willing to acknowledge that most of the policy changes wrought between 1984 and 1999, first by a Labour Government and then by a National Government, were steps in the right direction. We will get nowhere as long as we pretend that those policy changes were mistaken. Of course, no 15 year period is totally devoid of policy mistakes, but by and large that period saw policies changed for the better - inflation reduced, public sector debt reduced, employment laws freed up, shopping hours deregulated, the banking sector liberalised, import controls abolished and tariffs drastically reduced, telecommunications deregulated, public sector entities privatised. Overwhelmingly, those policy changes have been for the better, and have benefited most New Zealanders. Pretending otherwise is dishonest and, perhaps even more serious, is likely to take us off in directions whic
+
+Second, our education system must be improved and National is committed to doing so. It would be nice if all that was needed was more money, but alas the problems are more deep-seated than that. In New Zealand, the government already spends more on education, relative to the size of our economy, than in almost all other developed countries. In the last 50 years, per pupil government spending on education has quadrupled, even after adjusting for inflation; indeed, it has more than doubled in the last 30 years. And we have some good schools to show for that expenditure; and some very well educated people.
+
+But too many children come out of school unable to read and write, or to perform basic arithmetical functions. I have often told the story of the managing director of a small company in Hawke's Bay whom I met early last year. He had advertised for a forklift-truck driver, and was dismayed to find that three-quarters of the applicants could not read well enough to be considered for the job: they could not read the pallet labels or the safety instructions.
+
+We need to look again at how we teach children to read; at how we give parents more choice about the kind of education their children get and the kind of school they attend; and at how we give schools themselves more control over their own destiny. As long as the state is funding education, so that all children get an opportunity to be educated to the best of their ability, we should not be afraid to use private education providers. Tragically, the present Government is moving in absolutely the wrong direction in education - towards less parental choice, towards a more highly centralised system, and towards a system where teacher unions have even more power. National is committed to making improvement in our education system a key priority in the months and years ahead.
+
+Third, I believe we need to take a fresh look at the way in which the welfare system has evolved over the last half century, and what we can do to change it. More than 60 years ago, Apirana Ngata warned that the unemployment benefit would destroy the Maori people, while Peter Fraser was desperately concerned that too many people expected welfare to provide an armchair ride to prosperity. There is a depressing amount of evidence that the current benefit system has indeed destroyed a great many people, both Maori and Pakeha. I realise that roughly one-quarter of the 400,000 adults of working age on a benefit today are not able to work, being physically or mentally incapacitated in one way or another. But that still leaves something like 300,000 who are able to work but for one reason or another do not do so, despite a desperate shortage of workers in many parts of the country.
+
+This is one of the biggest challenges facing New Zealand today - not just because of the economic cost of paying those benefits, though that is substantial, but because of the even more serious social and human cost of having hundreds of thousands of adults and their children relying on hand-outs. Solutions will not be easy, though I am optimistic enough to believe that there would be a great deal of public support right across the political spectrum for fundamental change. I well recall, for example, talking to a Maori leader in South Auckland in the early nineties, when unemployment was much higher than it is at present: she told me that, in her opinion, the only way to solve Maori unemployment was to abolish the unemployment benefit completely. I don't believe that that could be done in isolation, but it might well be done in conjunction with other measures, such as having loc
+
+Too many people see benefits as an absolute and indefinite entitlement, carrying no reciprocal obligation to actively seek employment.
+
+My purpose this evening is not to set out a blue-print for social welfare reform, but rather to argue that fundamental reform of the current system is long overdue, and will be an important part of ensuring that New Zealand remains a desirable place to live. Again, National is committed to looking hard at the social welfare system and to finding ways of improving it - continuing to provide help for those who genuinely need it but assisting others to find employment.
+
+Fourth, we need to look again at the healthcare system, which is suffering serious strains because of the way it is funded and provided. District Health Boards are under huge pressure from their staff for higher salaries, from their patients and would-be patients for better or faster service, and from the Government to live within their budgets.
+
+And yet government spending on healthcare has been rising steadily for many years, both in dollar terms and relative to the size of the economy. Indeed, at the present time government spending per head of population is 40 per cent higher than it was just 20 years ago, even after adjusting for inflation. With the impending epidemic of lifestyle diseases such as diabetes, the increasing range of pharmaceuticals available, and the ageing of the population, there can be no doubt that there will be pressure for health expenditure to continue growing faster than the economy.
+
+No country has devised an entirely satisfactory way of dealing with this conundrum - and I admit I haven't yet found the complete answer either, but I am absolutely sure we ought to be making better use of the private sector in providing hospital care, just as we make use of the private sector in providing medical services.
+
+Fifth, I believe we must be moving towards a colour-blind society, not towards a society where people have special rights and privileges on the basis of their race. The National Party has an honourable record of trying to resolve Treaty of Waitangi grievances. We are committed to continuing that process, fairly and expeditiously, and indeed to finishing it.
+
+But from that point on, as Bill English said in his speech last week, there can be no basis for special privileges for any race: no obligation for local governments to consult Maori in preference to other citizens, no obligation on government agencies funding research to consider the impact of that research on any particular racial group, and no obligation on the Inland Revenue Department to consider the impact of tax laws on any particular racial group.
+
+And perhaps it is time for us to be honest: much of that special consideration is window-dressing, and totally unproductive - indeed, much of it is counter-productive.
+
+As Bill English argued in an important and under-reported speech last year, the Treaty of Waitangi established a single sovereignty in New Zealand, and not two sovereignties - and therefore, a single citizenship, and not two citizenships. Indeed, it is quite unclear to me why we now need separate Maori electorates.
+
+Sixth, I believe that the Government needs to take more seriously one of the most fundamental responsibilities of all governments, namely the protection and security of all New Zealanders. And by that I mean both security from external threats and security from local criminals.
+
+This is not simply a criticism of the present Government. Successive governments have allowed our defence forces to run down to the point where the number of people we could deploy in a hostile environment is very limited - and even that small number would be poorly equipped. Over the past two years, no doubt in response to the more difficult international environment, the United States has increased defence spending by 18 per cent, and Australia by 15 per cent. We, by contrast, have reduced our defence spending over the same period by 13 per cent.
+
+A great many New Zealanders feel very insecure within New Zealand also. They worry about violent, capricious, crime; they worry about child abuse; they worry about home invasions. That's hardly surprising when a recent United Nations report found that New Zealand has one of the highest crime rates in the developed world - worse than the United States, Germany, or any other of the world's 20 largest nations. And the Government's response? A reduction in spending on the police, at least relative to the size of the economy, and a situation where there is a chronic shortage of front-line police officers, particularly in Auckland.
+
+Finally, we need a more serious commitment to increase our rate of economic growth, because without more growth we will never close the gap between the living standards in New Zealand and those in other developed countries, such as Australia. Until we close that gap, we will constantly be vulnerable to the loss of our kids and their friends to foreign parts; we will not be able to afford the first-world health care which Aussies take for granted; we will not be able to afford the first-world universities which we want for our children; and we will see a steady increase in income disparities as we are forced to pay some approximation of Aussie salaries to those with skills who remain.
+
+To be sure, we now talk the talk - even the present Government claims it wants to restore New Zealand to the top half of the OECD in terms of living standards. But everything it actually does reduces the chance of achieving that.
+
+In the past few months alone, we have seen a whole series of measures introduced - the Local Government Act, the Health and Safety in Employment Act, the Kyoto Protocol, and all the rest - which will reduce the chances of our increasing our growth rate in any sustainable way. Late last year, Business New Zealand estimated that the costs facing a small company employing just 20 people would increase by about $44,000 a year because of various Government-initiated measures - hardly the sign of a Government actually committed to increasing our growth rate.
+
+In my view, Government should be required to seek and publish a report from the Treasury on every new law or regulation, assessing whether that law or regulation would enhance our growth prospects - or detract from them.
+
+The reality is, if we are serious about reducing the gap between our living standards and those of Australia and other developed countries, we need to attack the problem on a whole range of fronts - reducing the compliance costs facing the businesses which alone can create the growth we need, reducing the tax burden on those most likely to introduce new technology and invest in additional plant and equipment, and building the infrastructure which is fundamental to growth.
+
+Mr Chairman, New Zealand is at risk. We're at risk of ending up like Argentina, or worse still like Papua New Guinea or Fiji, yet another Pacific Island basket case where none of us will want to live.
+
+Or we can take some tough decisions, with less gravy now but the prospect of plenty later.
+
+What we desperately need is political vision and political leadership - not the mediocre and complacent management which panders to every union official, every Maori radical, every Greenie that we have now. I have not the slightest doubt that, with vision and strong leadership of the kind which National can provide, New Zealand can once again return to its historical position - one of the wealthiest countries in the world.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

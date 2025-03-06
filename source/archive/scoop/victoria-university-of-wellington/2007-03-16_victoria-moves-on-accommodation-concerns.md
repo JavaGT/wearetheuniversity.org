@@ -1,0 +1,60 @@
+---
+slug: victoria-moves-on-accommodation-concerns
+title: "Victoria moves on accommodation concerns"
+date: 2007-03-16
+source-url: https://www.scoop.co.nz/stories/ED0703/S00057/victoria-moves-on-accommodation-concerns.htm
+author: victoria-university-of-wellington
+---
+Victoria moves on accommodation concerns
+========================================
+
+**Friday, 16 March 2007, 3:41 pm**  
+**Press Release: [Victoria University of Wellington](https://info.scoop.co.nz/Victoria_University_of_Wellington)**
+
+16 March 2007
+
+Victoria moves on accommodation concerns
+
+Victoria University is responding to neighbourhood concerns about its student accommodation complex proposal by creating a comprehensive social engagement strategy to enhance management of its halls of residence and promote more socially responsible student behaviour.
+
+As a part of the strategy, the University will investigate establishing neighbourhood liaison groups in the residential areas around its halls. The University believed this was a more effective way to address the concerns raised than was possible through the Resource Management Act process and it would not be asking the Wellington City council to publicly notify its resource consent application.
+
+Deputy Vice-Chancellor (Research), Professor Neil Quigley, said the University’s halls of residences were well managed and the proposed Fairlie Terrace complex would be no exception.
+
+“The Fairlie Terrace complex will have a similar mix of undergraduate and postgraduate students to our long-established hall, Weir House, which was subject to just three formal complaints last year. The new hall, while owned by the University, will be managed to high standards of pastoral care by an established provider of student accommodation.
+
+“However, at our public meeting on March 1, a range of concerns were expressed that went beyond this proposal to the behaviour of students in a wider area. Some 2,300 students—about 11 percent of our students—live in our accommodation and the University can, and does, set standards of behaviour for those using its accommodation.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“The social engagement strategy will go beyond this accommodation proposal to look at the way all of our halls connect with the community around them. We will investigate establishing a neighbourhood liaison group for this hall and others in residential areas as a part of this strategy.”
+
+Professor Quigley said while a decision on whether to publicly notify the University’s application for resource consent lay with the City Council, the University has been asked by residents to consider requesting the City Council to notify the proposal.
+
+“Neighbours have raised a range of issues that suggest the University should review the social impact of its proposed student residence on the local community. But as those issues are also related to existing halls of residence, and are not matters the City Council has reserved control over under its District Plan, they are best addressed outside the resource consent process.
+
+“We considered it could be unfair to all parties to raise community expectations about participation in the consent process, where most of the matters that have been raised during consultation are unable to be addressed through the Resource Management Act process. The University is also mindful that the project complies with the University Precinct Guidelines set out in the District Plan that was negotiated with neighbours in the past.”
+
+Professor Quigley said the University would be communicating this information to neighbours in a letter in the next week. Information on the University’s response to the March 1 meeting can be viewed at: www.vuw.ac.nz/home/about\_victoria/consultation.html
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Victoria University of Wellington](https://info.scoop.co.nz/Victoria_University_of_Wellington) on InfoPages.

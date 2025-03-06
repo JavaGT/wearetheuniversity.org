@@ -1,0 +1,48 @@
+---
+slug: a-new-surgical-device-among-velocity-$100k-challenge-winners
+title: "A new surgical device among Velocity $100k Challenge winners"
+date: 2017-10-25
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/new-surgical-device-among-velocity-100k-challenge-winners.html
+---
+A new surgical device among Velocity $100k Challenge winners
+============================================================
+
+25 October 2017
+
+![Velocity $100k 2017 winners Joevy Lim, supporter Sunny Li, and Adrian Ng](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/new-surgical-device-among-velocity-100k-challenge-winners/_jcr_content/par/textimage/image.img.jpg/1508900938127.jpg "Velocity $100k 2017 winners Joevy Lim, supporter Sunny Li, and Adrian Ng")
+
+Velocity $100k 2017 winners Joevy Lim, supporter Sunny Li, and Adrian Ng
+
+A new surgical stitching device is being developed in New Zealand that could prevent complications during the surgical process and even save lives by saving time.
+
+The team behind Suture Future, which includes University of Auckland medical students Joevy Lim and Adrian Ng and commerce/arts student Rui Han Yeu, says by improving efficiency their device will directly translate to lower rates of complications and deaths from surgery.
+
+Last week, they won $25,000 in seed capital in the Velocity $100k Challenge, the University of Auckland competition for emerging entrepreneurs. Their first prize also gives them access to the Potential Programme, which includes support from experienced mentors and access to a wide range of support programmes.  
+
+They aim to launch their first product by early 2019.
+
+Past prize-winners have successfully developed their ventures, including PowerbyProxi, the wireless charging technology firm recently sold to Apple. Last year’s runner-up, CAT-TRAX, uses cloud computing to replace the current paper-heavy system used to refer and manage cataract patients. It has already been rolled out in the Waikato area, with the aim of dramatically enhancing the provision, delivery and quality of cataract surgery throughout New Zealand.
+
+This year’s runner-up was MicroVision, an accurate computer vision technology that allows measurements of deformations never before possible. It can monitor, analyse, and predict the mechanical behaviour and performance of large structures such as cranes and wind turbines as they operate in-field. “This will provide valuable insights into design, performance, maintenance and safety,” says team member Craig Squire.
+
+Kara Education, an online educational platform that aims to deliver education material to deaf children using sign language, won the Social Enterprise category. “We plan to work with educational institutions and online material providers to become the Coursera for the hearing impaired,” says team member Arash Tayebi.
+
+STOP Smart Sewer System, which offers data collection and/or round the clock monitoring for wastewater networks, won the University Research category. “Currently, wastewater authorities around the world struggle with monitoring sewer function and struggle with subsequent overflows and other network failings,” says team member Wei-Qin Zhuang. “STOP will offer a simple, cost effective, yet highly effective solution to provide insight into these complex and expansive networks.”
+
+Augmented Reality (AR) tool Invoke, which summons real-world objects into an augmented experience, took out the New Ventures award. “AR is a rapidly growing industry that will completely change the way you consume and interact with media in the future. We’re working with a host of AR developers to showcase this tech soon,” says team member Geoff Zink.
+
+Velocity is a student-led entrepreneurship programme delivered in partnership with the Centre for Innovation and Entrepreneurship, based at the University of Auckland Business School.
+
+Velocity CEO Matt Bastion says: "We are incredibly proud of our 2017 $100k Challenge finalists. They are some of the University of Auckland's most exciting ventures and feature many of our most promising innovators. We will follow them keenly. 
+
+“The 100k Challenge is also a chance to celebrate the thousands of students and staff we have inspired, educated and supported throughout our programme in 2017. After 14 years, we know that many of the people we engage each year go on to achieve amazing things all around the world, so we wish the best of luck to our class of 2017." 
+
+Centre for Innovation and Entrepreneurship Director Wendy Kerr says: “This year we have had over 2,000 students and staff involved in our programmes at the Centre, representing a 30 percent increase from 2016. This massive increase represents not only the rich array and quantity of ideas we have, but also the growing desire of students to acquire entrepreneurial capabilities as part of their university journey.”
+
+### **Contact:**
+
+**Nicola Shepheard**
+
+Email: [n.shepheard@auckland.ac.nz](mailto:n.shepheard@auckland.ac.nz)
+
+Tel: +64 9 923 1515  Mobile: +64 (0)27 537 1319

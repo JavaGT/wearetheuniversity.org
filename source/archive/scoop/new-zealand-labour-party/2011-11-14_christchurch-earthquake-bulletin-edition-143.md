@@ -1,0 +1,62 @@
+---
+slug: christchurch-earthquake-bulletin-edition-143
+title: "Christchurch Earthquake bulletin edition 143"
+date: 2011-11-14
+source-url: https://www.scoop.co.nz/stories/PA1111/S00258/christchurch-earthquake-bulletin-edition-143.htm
+author: new-zealand-labour-party
+---
+Christchurch Earthquake bulletin edition 143
+============================================
+
+**Monday, 14 November 2011, 11:45 am**  
+**Press Release: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Christchurch Earthquake bulletin edition 143
+
+A regular bulletin started by the Labour Party's Christchurch electorate MPs, Clayton Cosgrove (Waimakariri), Ruth Dyson (Port Hills), Lianne Dalziel (Christchurch East) and Brendon Burns (Christchurch Central) to keep people in their electorates and media informed about what is happening at grass roots level.
+
+CANTERBURY EARTHQUAKE RECOVERY PLAN:
+
+Labour will:
+
+\* Purchase 1500 properties and sell them at cost to red zoned residents \* Ring-fence $100 million as compensation for home improvements \* Release all available geotechnical information \* Resolve the insurance gridlock \* Intervene in the insurance market as a last resort \* Make community engagement a priority \* Use youth unemployment to fill the skills gap \* Establish an independent insurance commissioner
+
+For full policy details go to: [http://www.labour.org.nz/news/leadership-needed-to-rebuild-canterbury](http://www.labour.org.nz/news/leadership-needed-to-rebuild-canterbury)
+
+LABOUR'S CHANGES TO EQC WILL INCLUDE:
+
+\* Ensuring widespread EQC coverage - making it universal by collecting levies through the local authority rates system. \* Increasing the cap on EQC Cover from $100,000 in consultation with the EQC and the insurance sector. \* Making the levy proportionate by basing it on rateable values. \* Reviewing the Operations of Earthquake Commission to ensure the lessons of the Canterbury earthquake are used to secure the long-term reliability of the Commission. \* Covering temporary accommodation expenses.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+For full policy details go to: [http://www.ownourfuture.co.nz/earthquake-commission](http://www.ownourfuture.co.nz/earthquake-commission)
+
+CLAYTON COSGROVE: Earthquake Recovery Minister Gerry Brownlee has finally responded to my request for an answer on whether the Government will intervene to assist those with contaminated water wells as a result of the earthquakes. Unfortunately Mr Brownlee has, after months of knowing about the issue, said the Government won't be intervening. This is despite EQC initially paying for water treatment immediately after the earthquakes. What is hard to understand is that Mr Brownlee now appears to be saying that homeowners with contaminated water supplies can be relieved that their situation is being addressed as the Red Cross has recently announced a water filter grant up to $5,000. It is rather hard to fathom the Minster's logic here, as the provision of a safe drinking supply hardly seems like the responsibility of a charitable organisation like the Red Cross. Surely it is a Government responsibility. The unfortunate thing is that people are now left in no-man's land having to apply for a grant with no guarantee that it will be approved, or if it is that it will meet the costs of bringing their water supply up to a safe drinking standard. It really does leave people with absolutely no certainty. It now appears that people will be left high and dry as EQC is discontinuing its potable water supply for affected residents. This is just madness and one can only hope that common sense prevails.
+
+BRENDON BURNS: Today sees the start of a schedule of meetings for property owners announced last Thursday by CERA as it attempts to explain, in particular, the new technical foundation coding guidelines - Grey, Yellow, Blue or TC1, TC2 and TC3. Continuing its bizarre and frustrating communications strategy, there are still no details about the meetings on CERA's website this morning. I am aware of letters have been sent to at least some of those "recently zoned green" - the 6430 announced a fortnight ago. There are thousands more who were made green earlier who are also yellow and blue coded who are just as desperate for information. I can only presume they will not be turned away. The first meeting is at 1pm at the Geodome at Hagley Park. It was much more uplifting to be at the A and P Show on Friday among the thousands of people enjoying our annual provincial holiday. And a big thumbs up to the hundreds of people, organisations and business who supported the Special Childrens' Christmas Party on Saturday at the CBS Arena. Thousands of children from disadvantaged families who've had an especially tough year had a ball.
+
+LIANNE DALZIEL: The questions from constituents continue to flood into my office. The government's failure to communicate with people about the land decisions in an open and transparent manner is causing enormous anxiety. Here is a typical example: "Why, given the information given on the CERA website, is category 3 land - classed as green/blue - deemed suitable for rebuilding? My concerns focus on 2 statements: "...moderate to significant land damage from liquefaction is possible in future significant earthquakes" and "Site-specific geotechnical investigation will identify the best foundation design for your property to reduce the risk of injury to people and damage to your property in future earthquakes." These points make it clear that it is unsafe and while the site-specific foundations will, one hopes, reduce (not eliminate) the risk of death or injury, the likelihood of further land damage is obviously extremely high. One can but wonder at the enthusiasm for insurance companies to insure the property - particularly for a new owner - or potential buyers to purchase a property with category 3 classification on the LIM report. This means, in effect, that owners of these properties have to return, knowing they are not only very vulnerable but have lost most of their equity and are trapped. ...Have the council and the government not learnt the lesson that building on marginal land will lead, sooner or later, to disaster? Or do they just not care?"
+
+RUTH DYSON: I have had a few people ask me which bit of the CERA website is correct in relation to their land zoning because they have been zoned differently on 'landcheck' than on the map (where you still type in your individual address). I was puzzled by this and tried it myself and discovered large numbers of homes that were differently zoned from one part of the website to another!! Well, it turns out that the mapped address information was wrong (perhaps ahead of its time, literally) and the landcheck info is right CERA has now had the map taken down and is fixing the errors on the system. This information is really important to people and I really hope that better oversight is given in future to the accuracy of information. The City Council organised street meetings have a clear and specific focus on houses with a Section 124 notice on them (ie at risk of rockfall or landslide). The CERA meetings are for the recently zoned Green/Blue, Green/Yellow or Green/Grey residents. The white zoned people are still waiting for their promised localised meetings. I also hope that the current round of meetings that CERA is kicking off are clearly advertised in terms of their purpose. Another huge meeting last evening, completely packed out the St Martin's School Hall. The meeting was organized by the Huntsbury Residents' Association primarily to talk about the Geotech issues in the area. Community Board Chair Phil Clearwater ably ran the meeting, but there was a strong feeling of individual agencies not connecting with each other or passing the buck from one to the other. Many questions were answered which is good, but the total picture was still a puzzle for many I spoke to at the end of the meeting. Lots of people mentioned quite minor repairs that are needed on their homes and then they would be able to move back in and live there, but EQC and/or Insurance companies won't sign off the repairs until the land is zoned. Meanwhile, my constituents are using up the insurance money on renting a place to live, paying their mortgage as well, and soon will have only the government subsidy to help them when their insurance money runs out. I understand that it would be a huge waste of money to totally rebuild a house on land that is not fit to build on. That is blindingly obvious. But repairing a roof so that a family could return home would seem sensible. The insurance and government money being spent on their alternative rental will be a far greater cost. And the family would be home.
+
+Authorised by Clayton Cosgrove, Parliament Buildings Wellington.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

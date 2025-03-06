@@ -1,0 +1,58 @@
+---
+slug: university-and-kura-experiment-with-science-in-te-reo-māori
+title: "University and Kura experiment with science in te reo Māori"
+date: 2016-04-04
+source-url: https://www.scoop.co.nz/stories/ED1604/S00008/university-and-kura-experiment-with-science-in-te-reo-maori.htm
+author: university-of-otago
+---
+University and Kura experiment with science in te reo Māori
+===========================================================
+
+**Monday, 4 April 2016, 2:39 pm**  
+**Press Release: [University of Otago](https://info.scoop.co.nz/University_of_Otago)**
+
+University and Kura experiment with science in te reo Māori
+
+Experiments that extract DNA from saliva and use disclosing tablets to look at plaque on teeth may not be new, but the University of Otago, Wellington, (UOW) and Te Kura Kaupapa Māori o Ngā Mokopuna are doing these experiments in te reo Māori.
+
+Staff from the Department of Pathology at UOW recently worked with a group of 13 and14-year-old students from the Kura for a day of science, exploring how bacteria grow in your mouth.
+
+The day was held primarily in te reo Māori, and the wānanga is part of the ongoing partnership between the Kura and the University of Otago, Wellington. Students gain NZQA credits, while UOW staff gain an appreciation of how science can be taught with te reo.
+
+Dr Sara Filoche from UOW led the science teaching and experiments on extracting DNA from saliva using shampoo, and using disclosing tablets to see plaque on the students’ teeth. Dr Filoche taught in English, while her UOW colleague Ruruhira Rameka translated into te reo Māori. The students translated the experiments beforehand.
+
+“This is an opportunity for students to learn about science and its practical uses first-hand, but also great to continue and expand our partnership with the Kura and build those relationships. The programme is helping individuals learn and practice hands-on science and is a valuable contribution to the local Wellington community,” Dr Filoche says.
+
+“There were lots of ‘ewws’ and ‘ahhs’ this time round, with the students making their own DNA extraction solutions and visualising the bacteria in their saliva. I feel honoured to have been part of this effort to provide this experience for these students. Hearing te reo being spoken among the students and staff throughout that time was incredibly rewarding, with big smiles and singing waiata in the lab – brilliant!” Dr Filoche says.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Christian Mauriri, one of Te Kura Kaupapa Māori o Ngā Mokopuna Year 10 students, says that going to the University of Otago, Wellington campus “to see how science works was a fun, and educating experience.”
+
+“One of the fun highlights for me was when we were asked to chew a special type of pill and it will show the bacteria inside our mouths; if it was really red that would mean you don’t brush as much as you should. If it was clear that would show you have clean and healthy white teeth. I can honestly say everyone’s teeth were red, including mine!” Christian says.
+
+Dr Filoche says the success of the day hinged on the huge amount of support from those involved, including Te Kura Kaupapa Māori o Ngā Mokopuna science teacher Kanapu Rangitauira, support from University of Otago, Wellington Dean and Head of campus Professor Sunny Collings, and numerous UOW staff with a special mention of thanks to Ruruhira Rameka, Emily Bowden, Robyn Lutzenberger and Jane Anderson.
+
+“It was an amazing, collaborative effort, and the student mihi at the end were a touching and heartfelt confirmation that this day was another success. We will be working with the Kura over the next year to develop the next series,” Dr Filoche says.
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Otago](https://info.scoop.co.nz/University_of_Otago) on InfoPages.

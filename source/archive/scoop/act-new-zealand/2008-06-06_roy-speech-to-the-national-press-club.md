@@ -1,0 +1,128 @@
+---
+slug: roy-speech-to-the-national-press-club
+title: "Roy: Speech to the National Press Club"
+date: 2008-06-06
+source-url: https://www.scoop.co.nz/stories/PA0806/S00077/roy-speech-to-the-national-press-club.htm
+author: act-new-zealand
+---
+Roy: Speech to the National Press Club
+======================================
+
+**Friday, 6 June 2008, 11:51 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Speech to the National Press Club
+
+Heather Roy MP  
+Thursday, June 5 2008
+
+Speech to the National Press Club; Bellamy's, Parliament, Wellington; Thursday, June 5 2008
+
+It is considered something of an honour to speak to the National Press Club, and I thank you for the invitation.
+
+When he invited me, Peter Isaac very kindly said that my weekly email newsletter - Heather Roy's Diary - deserved a wider audience. Truth be told, my Diary has caused some grief recently - but not grief of my own making.
+
+The Electoral Finance Act has brought with it nothing but confusion and frustration and now, according to the Act, my newsletter to constituents - who have signed up for it - is considered a legitimate product of my job in non-election years, but an election advertisement from January 1 in an election year. That means it must be authorised by the ACT Party financial agent, and the cost of its production counted as an election expense. I've brought a few back copies for distribution so that you can each make up your own mind about the voracity of this allegation - to my mind, though, this law is an ass.
+
+There is any number of things I could speak to you about today - with an election just around the corner I could have taken the opportunity to deliver a Party political broadcast, but I didn't think you'd thank me for that. Although our own election is heating up the US race for President is the one that has captured the television time, the newspaper headlines and the minds of many here. I've partly been fascinated by the candidates' campaigning tools and techniques - particularly their highly rated websites. Barack Obama played the old town hall meetings well and tied it in with his IT campaign. Hilary Clinton ran on "experience" and detailed policy.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+It remains to be seen how Mr Obama's undoubted charisma will compare with what Senator John McCain can deliver.
+
+Senator McCain has endured tests of integrity that would leave most of us wanting. He was a pilot in the Viet Nam War, was shot down over the North and endured deplorable conditions as a Prisoner of War for four years. When his captors learned he was the son of the Commander of America's South Pacific Fleet they offered to let him go. The sons of senior officers are ordered to decline such offers and McCain did - I doubt many could have withstood what he did.  
+So the campaign has begun between two remarkable men.
+
+Mr Obama was clearly confident of winning the Democrats' nomination when he delivered a speech on June 1 in Sioux Falls, announcing his policy for the veterans of the US wars. His delivery was strong on ideals and patriotism, and contrasted sorely with the Crown Apology delivered here last week by the Prime Minister to our own Viet Nam veterans. This was the topic of my Diary last week, and where I'd like to start today's di
+
+Forty-three years ago last week, then Prime Minister Keith Holyoake announced that New Zealand would contribute to the defence of South Viet Nam by sending troops.  
+Last Wednesday the Crown offered a long-awaited apology to those Defence Force personnel for the lack of recognition and inadequate support extended to them on their return. It was delivered to a full public gallery of veterans in Parliament because it was very important to them.
+
+New Zealand wasn't the only nation whose people neglected the Viet Nam veterans - John Howard gave the Australian apology in November 2006 at Long Tan in Viet Nam, and former US Senator and disabled US Army Viet Nam veteran Max Cleland has summed up the situation:
+
+"Within the soul of each Viet Nam veteran there is probably something that says 'Bad war, good soldier.' Only now are people beginning to separate the war from the warrior."
+
+Although our Viet Nam veterans served with as much heroism and distinction as the veterans of all other wars, they flew home under cover of darkness so their return would not become the focus of demonstrations. Yet our veterans have many reasons to be proud, including the fact that New Zealand's contribution included a large humanitarian component.
+
+That these men, and a small number of women, had endured great privation in the service of their country never seemed to enter the national consciousness despite the 37 fatalities and 187 wounded.
+
+  
+As it was our troops' duty to defend the nation, it is our duty to care for them on their return. They did as they were ordered but we failed them. So a long overdue recognition of the contribution of over 3,000 kiwis was made alongside an apology for lack of support these veterans received.
+
+My own involvement in the military has given me a much better understanding of the issues. I'm proud to have been added to the long list of politicians who have served their country in this way - from James Hargest who was highly decorated for bravery, to Jack Marshall and Trevor de Cleene among many others. In our current Parliament Ron Mark and Wayne Mapp both have previous military experience, but what was once commonplace has now become something of an exception.
+
+Just over two years ago I completed six weeks of Territorial Basic Training at Waiouru Military Camp - I 'marched out' at Queen's Birthday weekend 2006. The training was hard - challenging both physically and psychologically - but it was also exciting and enjoyable. I graduated alongside my 41 army recruit colleagues from recruit to soldier with a real sense of achievement and, as I had been advised by my military friends, wore my uniform with pride.
+
+The Army News broke the story of my enlistment at the end of April. The article began by asking why a 42-year-old married mother of five, who is also a Member of Parliament, would join the Territorials. Good question, and one I asked myself several times during my training - especially when struggling out of bed at 5.30 every morning, cleaning toilets or sweeping leaves at 6am, or when my hands were so cold in the Waiouru wind and rain I could hardly feel them but gloves weren't an option because I had a weapon to carry.
+
+There is no simple answer. Joining the Territorials was something I'd thought about for some time, but family and work commitments had made going away for six weeks impossible. When I became ACT's National Security Spokesman after the last election, and spent some time working on defence issues, my interest was rekindled. With some gentle encouragement from military friends, the time seemed right.
+
+I discovered shortly after arriving that one of the young men, an 18-year-old, had been in my son's class at primary school - that was a particularly sobering moment. As I have said, the training is very demanding and, I wondered how I was going to keep up with the fit young men and women. I have always taken exercise seriously and had made some effort to get fit before training. As it turned out I passed the required fitness level with a G1 pass - the top category. I managed a 2.4 km run in 11 minutes 21 seconds, 21 press ups and 118 sit-ups. I didn't think that was too badly for an 'older woman'.
+
+The issue of age was never raised, and the other recruits treated me as just one of the crowd. The army promised no special treatment, and certainly the NCOs had no more difficulty shouting at me than at the 18-year-olds. For six weeks I was Recruit Roy - most often just 'Roy'- with my name on sticky tape attached to my jungle hat along with everyone else.
+
+In some areas I had certain advantages over the young men - some of whom struggled to make a bed with hospital corners and were up until the small hours ironing their uniforms. With a full programme and little spare time, lights out at 10 and constant uniform inspections there was no other option. I have to confess to now realising the great benefits of ownership of a head torch for ironing in the dark too.
+
+Shortly before I left for Waiouru I received a letter from a fellow Territorial. He commented that nowhere else had he come across the situation where you are brought together with others from all walks of life, live in close proximity and work together for a common aim. I was amazed at how quickly a group of very different people managed just that. In my platoon we had a lawyer, a farmer, policeman, a teacher, two hairdressers, a receptionist, government department employees, army employees, tradesmen, several unemployed people - and an MP. Many of us have become firm friends and, I suspect, these friendships will be lifelong.
+
+Waiouru in May and June is not known for its clement weather, but the army stops for nothing. Some had never seen snow before and had the opportunity to get an 'up close' inspection doing press-ups. We also did some serious square bashing in driving snow - there is nothing quite like the cold to concentrate one's mind.  
+Much of the first two weeks of training involved an introduction to weapons. My Styer rifle became my constant companion and it took some time drastic disciplinary training to make sure I had it with me at all times. One morning in the field I left it sitting where I had been eating breakfast. Worse still, I didn't realise I'd left it unattended - until one of our instructors brought it over to me. My punishment was to leopard crawl 100m with the rest of my platoon in the wet, muddy field we were working in. Those who know me well will be very surprised at my new-found skill with weapons. Previously I had no experience
+
+But we did get to throw two live grenades. Everyone got pretty excited about this but, to be frank, I found them a bit of an anti-climax. They aren't hard to operate and, after many dummy runs, we were given the real thing: you simply cradle the grenade, remove the safety catch, pull the pin and throw - in my case not very far. Then you duck, to avoid being injured - very sensible, but it means that you don't get to see the explosion. I've decided I'm better at throwing metaphorical grenades in Parliament than throwing the real variety.
+
+I much preferred the stalking and live fire manoeuvres. Simply put, stalking involves sneaking through the countryside evading patrols and requires a degree of patience. The young chaps doing McGyver rolls simply drew attention to themselves and made it easier for the likes of me to sneak along unnoticed. Live fire manoeuvres incorporated much of our fieldwork and weapon firing techniques. We stalked a stationary enemy for a few hundred metres working in pairs. You place a lot of trust in your partner when you know that real rounds are being fired and a mistake will be disastrous. It makes you very careful.
+
+All activities were a basis for teamwork, and the utilisation of some people's strengths to overcome the weaknesses of others was brought home very clearly on the assault course. The course - incorporating a six foot wall, rope and monkey bar obstacles to clamber over, water races over barbed wire and wire bridges, amongst other obstacles - was run as a competition between sections, groups of around 10 in which we did all our field work. Here the team really was only as fast as its weakest man and we quickly learnt to help each other to get a good result.
+
+There were some very amusing moments too: as we were in Waiouru in autumn, the leaves were falling from the trees - usually on to wet concrete, where they then stuck - faster than they could be swept up around our barracks. After several days of trying to do our best with well worn army brooms, one young men in my section decided our plan of attack was completely misguided. Lining us all up with our black leaf-holding plastic bags, he proceeded to strip all the nearby trees of leaves. We didn't have to sweep again for days and this was, I thought, a great army solution to a silly army problem.
+
+There has, of course, been the predictable criticism of being absent from Parliament during my six weeks of training. I can say in my own defence that two weeks was Parliamentary Recess, and while I was crawling through the mud in Waiouru some were taking Business Class trips abroad. It's hard to strike a balance: if you sit in Parliament, the accusation is that you're out of touch with ordinary Kiwis; when you get out and about, you're neglecting your taxpayer-funded duties. Nonetheless, I still have to justify the time commitment. I don't apologise for my time away and don't regret a moment of my soldier training. I have had a unique insight into the armed forces that will be invaluable in my day job. No amount of reading - or even talking to servicemen - could replace the experience and skills I have gained. And on the money front, all I earned from the Defence budget has been donated to an RSA charity - a worthy cause going mainly to Viet Nam vet
+
+One of the things the defence force does best is train leaders. Showing recruits that they have responsibilities to others as well as themselves is woven amongst the skills the army teaches, and the development of leadership is evident - especially in team based activities. When I'm asked what I learnt in the army the answer is discipline, teamwork, leadership and pride.
+
+The Territorials perform many functions. One of the most significant is to weave the army thread throughout the fabric of society. It is important that the defence forces are seen as an extension of the people - the army is our army.
+
+Recruitment and retention have been problem areas for the defence force services for some time, and it's not hard to see why: several of my fellow recruits had to take annual leave or leave without pay to attend their basic training. This is particularly hard for those with families to support. To add insult to injury, most are then taxed at the secondary tax level and were essentially serving for the honour and the glory. There is plenty of work here for an MP. ACT has already announced that one of our bottom lines in post-election negotiations will be to abolish the top 39 cent rate of personal tax and to move towards a lower, flatter rate of tax.
+
+At a much higher level, the question remains: ‘what should New Zealand's Defence Policy be?'
+
+It will always be hard to answer because it involves the prediction of the future. The Prime Minister has said we live in an amazingly benign defence environment. Not true, but we are unlikely to have to fight a war of the traditional kind again. The demand in the immediate future is likely to be for: peacekeeping soldiers - forces for anti-terrorism and counter-insurgency operations, where our forces occupy a position halfway between traditional soldiers and a police force and are faced with many types of threat including guerrilla warfare. Our servicemen and women must be prepared for all eventualities and so their training needs to incorporate the traditional skills as well as new techniques and technologies - even for peacekeeping missions.
+
+The Government has decided that the likely demand in future will be for infantry and other army units. The airforce and navy are likely to be required to augment the activities of the army. That's why the current Government, rightly or wrongly, disbanded the combat wing of the airforce and is moving to make our navy a fisheries protection service. The demand from our allies is for infantry, infantry and more infantry.
+
+To its credit, the current Government has increased the defence budget - but the military still runs a shoestring operation. We were limited to 25 rounds each during our practise with the light machine gun and when training with rockets we only saw empty launchers. And that is not sophisticated equipment.
+
+New Zealand's defence policy should centre around what our contribution to the Pacific Region and to our allies further afield should be. This can only be determined following both internal and external discussions with the relevant nations - co-ordinated and integrated planning. To date these discussions haven't been entertained so the role, strength, capability and funding of a useful defence force appropriate to our size cannot be achieved. Much greater use of reservists, for example, would mean our overseas obligations could be carried out at the same time as our National Security (Civil Defence, Fisheries, Customs, Coastguard, to name a few)
+
+Given my own positive experiences of military training I'm frequently asked if I want to see a return to compulsory military training. I'm constantly amazed at the respect with which our older generations regard military service. My own parents' attitude is a case in point: after much discussion and planning, Mum and Dad eventually decided against coming to Parliament to hear me deliver my maiden speech and listened to it instead on the radio. There was no way, however, that they would miss my army marching out parade - Dad looked as if he would burst with pride.
+
+The short answer to the CMT question is no, because the army doesn't want it. There is a lot of truth in the saying that one volunteer is worth 10 pressed men.  
+Nor do I agree with army training for delinquent youth, as is perennially proposed and has been raised again recently with the National Party's ‘boot-camp' proposal. It might have some benefits for the youth involved, but for the army would be just one more job to do. Their job is to train soldiers, not to be a welfare agency. That doesn't mean that properly-funded and well-run programmes like the Limited Service Volunteer Scheme don't have a place - they do but they should remain the funding domain of MSD with practical army involvement. The success of such programmes will always depend too on co-ordinated follow-up with the defence force and employer liaison.
+
+What we do need is a plan to encourage and to recognise service. I want to see a programme of Voluntary National Service where those prepared to serve their country are rewarded for their efforts. Incentives provided for those prepared to join one of the forces - perhaps even extend this to other areas of National Security such as the police - by for example writing student loans down or off depending on the length of commitment. The National Party has suggested bonding for doctors in rural areas. This could be expanded to all areas where we have skill and experience gaps.
+
+I could tell you much more about my own military experiences - the digging of holes to sleep in, putting up barbed wire fences in the dark, the art of camouflage or my more recent training as a Field Engineer with my unit - 5 Wellington, West Coast and Taranaki Battalion Group. However I've spoken for long enough and I've managed to pretty much ignore the topic I was billed as speaking about - that's a little trick that Richard Prebble taught me, and I hope you'll forgive my indulgence. As a means of contrition I'm more than happy to take questions on that topic.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

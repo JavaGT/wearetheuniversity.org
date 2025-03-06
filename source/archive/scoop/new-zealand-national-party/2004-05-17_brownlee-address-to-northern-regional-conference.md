@@ -1,0 +1,266 @@
+---
+slug: brownlee-address-to-northern-regional-conference
+title: "Brownlee Address To Northern Regional Conference"
+date: 2004-05-17
+source-url: https://www.scoop.co.nz/stories/PA0405/S00330/brownlee-address-to-northern-regional-conference.htm
+author: new-zealand-national-party
+---
+Brownlee Address To Northern Regional Conference
+================================================
+
+**Monday, 17 May 2004, 9:18 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Gerry Brownlee MP  
+National Party Deputy Leader  
+15 May 2004
+
+Address to National Party Northern Regional Conference
+
+Madam President, Leader Don Brash, Parliamentary colleagues, delegates.
+
+I think we're all in a pile of trouble.
+
+The Labour Government has completely lost the plot. It has thrown its principles out the window, and it's resorting to increasingly hysterical scaremongering.
+
+Everything is someone else's fault. After nearly five years you'd think it might be time to show a bit of spine and take some responsibility.
+
+That's not Labour's style. Helen Clark's content to paper over the cracks - let the real problems get worse - and convince the public that everything's okay.
+
+But it's not okay.
+
+This is a Government that's stifled innovation and imagination for nearly five years - and the public of New Zealand are saying enough.
+
+This Labour Government is letting our infrastructure decay - it's allowing our social fabric to unravel - and it punishes any sector that dares to question its ideological agenda.
+
+This is indeed a very mean Government - that has given up on governing because it has run out of ideas.
+
+Day after day after day - Labour is embarrassed by another public failure. It responds with report after review followed by inquiry.
+
+Of course, all but a few of those reviews, reports and inquiries are carried out by the same people responsible for the mistakes in the first place.
+
+This Government has banished all use of the word 'accountability'.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+And that starts at the top down. With a Prime Minister who's always having her photo taken somewhere else when the tough decisions are being made.
+
+She'd rather meet with 'sheep' than front up to the people that her Government has led along with unrealistic expectations for the past four years - and frankly it has delivered little despite 70 years of Maori loyalty in the Maori seats.
+
+Once dubbed the Minister for everything, Helen Clark is taking responsibility for less and less.
+
+At the same time our Party has undergone the most dramatic turnaround in New Zealand polling history. We have re-engineered our Party machine to give it the grunt we need to turn the tide on Helen Clark's minority coalition Government, and win the next election. History will show how a mild-mannered former Reserve Bank Governor with a social conscience gave New Zealanders a new voice and a fresh view on issues which have been bubbling under the surface for decades.
+
+But there is a long way to go before the poll that really matters. We all know that we have a lot to do.
+
+What Helen Clark hates most is that we're not going away, despite her best attempts to shut us down. It's racist and divisive, she declared - it's a single-issue poll, she confidently proclaimed - only to be proven wrong again and again. Within weeks, what was at first racist and divisive, became the genuine concerns of genuine New Zealanders.
+
+Labour's spin doctors tried more than eight different tactics in the aftermath of Orewa - Helen Clark assumed more positions than the Karma Sutra before settling on policy back-flips that an Olympic gymnast would struggle with. "Bring It On" she challenged from the pulpit - but then invented a conspiracy theory to use as an excuse for not "Bringing It On".
+
+The public is fed up with Labour's elastic principles and its overwhelming desire to hold on to power at any cost. For the first time in years increasing numbers of New Zealanders are seeing through the spin. This is definitely not a Government that's in control. It's a Government that's spending all its time in damage control.
+
+And what a mess they're in.
+
+After fanning the flames of Maori expectation over the foreshore and seabed issue for the past 11 months, what did Helen Clark expect?
+
+She is the master of her own misfortune and Tariana Turia is merely the messenger - a messenger who, I might add, should have been sacked long before she was given the opportunity to resign. Helen Clark's blatant disregard for the conventions of Parliament and Cabinet collective responsibility further illustrate her contempt for the people of New Zealand. Now we've ended up with the farcical situation where the Government is not brave enough to defend its Maori policies during a by-election in a seat which, under normal circumstances it should win.
+
+And why? Because Labour knows it cannot win. It's a humiliating concession of defeat - before the race has even begun.
+
+Labour knows the foreshore and seabed proposal will be the jumping-off point for a whole new Treaty grievance industry.
+
+National supports limited customary rights - but it cannot support a proposal that will lead to Maori having effective veto over virtually the entire coastline. It's a blank cheque for extremists who will exercise their rights if they think there's a pot of gold at the end of the so-called 'consultation' process. And who can blame them for taking what's on offer.
+
+The untested concept of 'ancestral connection' will cover, according to Margaret Wilson, 'virtually our entire coast' and even Maori agree it will create massive uncertainty.
+
+So if people think Labour has the magic bullet on this issue, they are sadly mistaken.
+
+If people think the likes of Ken Mair, or the Harawiras of this world will be reasonable about exercising rights granted under the proposed Bill - they are mistaken. They need to remember who led the hikoi because they wanted more.
+
+If non-Maori think Labour will give them equal rights to representation about issues affecting the foreshore and seabed then they, too, are mistaken.
+
+The foreshore and seabed policy is nothing less than a fraud - Labour can't sell it to Maori and they haven't bothered asking non-Maori for their views.
+
+They're telling non-Maori they own the beaches, but telling Maori - in the PC code that Labour uses - that they will control those same beaches. We will face decades of uncertainty as Maori test and exercise their rights of 'governance'.
+
+The Government is enacting policy that will lead to more division and more resentment.
+
+But it's the latest in a long line of Labour policies that threaten to condemn our country to further division on the basis of race.
+
+This week I have called on all New Zealanders to exercise their rights through the democratic process.
+
+Through its website the National Party is preparing to help kiwis exercise those rights.
+
+We want all New Zealanders - both Maori and non-Maori to make their views known - either through our website or by sending submissions direct to Miles Reay, Select Committee Office, Office of the Clerk, 9.12, Bowen House, Wellington.
+
+I find it suspicious that Parekura Horomia and John Tamihere are already telling Maori there is 'room to move'. The media has also been asking me about a secret deal with Tainui to keep Nanaia Mahuta onside
+
+There's only one conclusion anyone can reach - Labour will make changes to the legislation at the select committee stage, aimed at suring up its hold on the Maori seats.
+
+I cannot emphasise enough how important it is for all New Zealanders to make their views known. We must present a balanced range of views to the select committee if we are to influence the final shape of this Bill. If we don't, you can bet there will be further concessions for Maori slipped past us through the back door.
+
+All New Zealanders need to make their feelings known on this important issue.
+
+All Kiwis need to stand up and demand equal rights. It's just a nonsense to say that Maori care any more about our coast than say - for instance, my family which has been here for five and six generations.
+
+\[PERSONAL REFLECTION\]
+
+Ancestral connection will place in the New Zealand statutes the concept that non-Maori can never feel the same way about the coastline or land as Maori do.
+
+National totally rejects that concept. It is divisive and very insulting and no member of the house should support it.
+
+Don Brash asked this question at Orewa and the public have made it very clear that they want a country where everyone is treated on the basis of need - not race.
+
+No one could have predicted it would be Winston Peters riding to Helen's rescue - I don't even think Mr Peters would have predicted it. But then again, when Winston is the answer you must be asking some very, very strange questions.
+
+Of course, it's in every other political party's interests to bury this issue. To dig a deep hole, fill it with good intentions and hope for the best. Labour doesn't want the public to decide what's in our national interest - they want a Royal Commission of the great and the good to prescribe future policy.
+
+What is that they're trying to hide - because surely the public have made their wishes clear?
+
+We want a country that's founded in equal rights - not two standards of citizenship based on our ancestry.
+
+We want a country where everyone enjoys the same opportunities and where historical Treaty claims have been put to bed once and for all.
+
+That's the only way we can move forward - together.
+
+Labour, New Zealand First, the Greens and, of course, Helen's helper, Peter Dunne, are all planning to abdicate responsibility for their relationships with Maori.
+
+They're dumping this issue in the too-hard basket - knowing they won't be around to sort out the mess.
+
+I want to tell them today that our children, and our children's children, deserve better than this inter-generational buck-passing.
+
+The reality is that Labour has no Maori policy that it can talk publicly about.
+
+So what are they serving up to New Zealanders? More spin than a tumble dryer and just as much hot air.
+
+That's why Helen Clark ran a mile when challenged. That's why she's handing decisions about these important decisions over to someone else - and that's why more and more New Zealanders don't trust her.
+
+The public face a clear choice at the next election.
+
+They can vote for National, which has stood fast on its principles in the face of strong opposition, or they can back Labour, which has shown that it is prepared to abandon its principles for the sake of a few votes and another three years of running rough-shod over all of our views.
+
+And while Helen Clark strikes politically expedient compromises with Tariana Turia and Nanaia Mahuta, Don Brash will be out listening to what Kiwis have to say.
+
+That's why he will be the next Prime Minister.
+
+Since Orewa, he has spoken to thousands of New Zealanders. Six hundred people in Tauranga, 400 in Masterton, hundreds at every meeting. Some of these electorates haven't seen that sort of interest for more than 20 years.
+
+New Zealanders appreciate his honest forthright approach and they like the strength of character that marks him as a leader.
+
+At this point it might be timely to remind you all that Helen Clark's biggest public speech recently was made in a church. Laying the hypocrisy of that to one side, it's clearly been a long time since she took time out from her hectic schedule of overseas junkets and photo opportunities to actually speak to hard-working New Zealanders.
+
+If she had bothered, she would know this debate is happening everywhere and affects everybody. It cannot be contained in the Beehive and the decisions must not be left to some worthy Royal Commission. The decisions are being made over dinner tables, in staff rooms, in smoko rooms and at public meetings. Their verdict will be delivered at the ballot box.
+
+National has a team and we will be ready to form a Government.
+
+John Carter
+
+Lockwood Smith
+
+Murray McCully
+
+Clem Simich
+
+Wayne Mapp
+
+Judith Collins
+
+Maurice Williamson
+
+Pansy Wong
+
+Richard Worth
+
+Paul Hutchison
+
+Phil Heatley
+
+John Key
+
+He knows the bucket of cash that Dr Cullen will give away in the Budget has been taken straight from the pockets of hardworking New Zealanders.
+
+Despite that over-taxation our infrastructure is in a mess.
+
+We must provide an alternative vision for our most vulnerable - especially our young. We must encourage them with opportunity and imagination. It's just not acceptable that our most talented young people are leaving in droves to chase better salaries overseas. We need our youth - our collective futures depend on them ­- and to keep them we have no choice but to make sure they can earn as much here as they do over there. Perhaps that's where the aspirational values of Prime Minister Brash will be most valuable.
+
+Aspiration is not in the vocab of the current Government.
+
+Alarmingly, we've become distant observers to the Australia/US Free Trade deal, which Michael Cullen tellingly describes as 'a few lamp-chops on American dinner tables'.
+
+Dr Cullen's flippant comments hide the fact that if we could get a few lamb chops on ALL American dinner tables that all our sheep wouldn't feed them for much more than a week.
+
+If this is how seriously the Finance Minister treats trade deals, it's little wonder New Zealand has been left out in the cold clutching expectations and little else.
+
+I can confirm for you all here today that it's only going to get worse while this increasingly erratic Government is allowed to 'educate' us on what it says is politically correct and acceptable.
+
+Of course, being politically correct applies only to the rest of us. It clearly doesn't apply to Government MPs who've been using choice phrases like "haters and wreckers", "white trash", "irresponsible tart" and "racist".
+
+They are pushing us into a bubble-wrap world where the state wants to tell us where we can live, how we discipline our kids, what we are allowed to watch on TV, what we hear on some radio stations - and they're even telling the Symphony Orchestra what to play.
+
+Labour's feeding us a non-stop diet of propaganda as part of its 'education' campaign.
+
+But take it from this Big Fella - I'm sick of that diet and so are many New Zealanders. Any Government that starts telling me what to eat is biting off more than it can chew.
+
+Don Brash values freedom and Don Brash values personal responsibility - they are the values the National Party stands for.
+
+We need a return to more logical compromises which don't involve telling hotel owners that they can serve non-smokers but everyone else must stand outside.
+
+The smoking ban in bars makes as much sense as taxing animal flatulence - but I don't know how we can work a tractor into the protest. I'm sure Shane Ardern will have some ideas on that.
+
+Of course, Shane wasn't the only National MP keeping the courts in business this year. His case was rightly dismissed as a politically motivated waste of time, while Nick Smith wasn't so lucky.
+
+But in the end, the final result was just as embarrassing for the Government's leading lawyer - who spent more than $100,000 on the prosecution, only to get a small fine out of Nick as a rebuke from the bench.
+
+Needless to say the same rules don't apply to Labour - the law was changed retrospectively to save Harry Duynhoven, and Helen Clark was never charged with forgery despite the police conclusion that there was a case to answer.
+
+But the Oscar for best use of spin has to go to Lianne Dalziel, who was caught out doing what her Government expected of her - which is 'massaging the message'. She was like a guinea pig on a hot plate trying to explain how a brown envelope from her office ended up on TV3's news desk and how NO means YES.
+
+It's typical that it took Helen Clark a couple of days to reach the same conclusions as the rest of us. Now George Hawkins is on the hot plate - watch Helen Clark wait to see what the polls tell her before she acts.
+
+That obsession with spin cost many elderly Monte Cassino veterans their last chance to take part in the battle's 60th commemorations. There was absolutely no way that 'Bring It On Helen' was prepared to sacrifice the seats reserved for a devoted media scrum in favour of real Kiwis who'd put their lives on the line for our freedom.
+
+Richard Worth understands our history, he's given up his place so one of those who really deserves to be there can be - Helen Clark's media should have done the same.
+
+On behalf of all New Zealanders the National Party, too, has fought and won a number of other important battles on many fronts.
+
+The Fart Tax is gone.
+
+The axing of smaller schools is gone and the sale of our airline to the Australians is all but dead in the water.
+
+It's being joined by the Civil Unions Bill, the anti-smacking agenda and the Treaty education course.
+
+But there are many more battles to be fought and won by your loyal Opposition.
+
+We will continue working for you. We are under no illusion - there is a long way to go and not much time, but we have started strongly. We need to make sure there is gas in the tank at the end of our journey because a sprint at the start is worth nothing if we're not first through the tape.
+
+That is the message that I want to leave you with today.
+
+We need your help. We need your collective experiences and your commonsense. We need your support and we need you to spread the word.
+
+National is the Party of Principle - National means what it says and says what it means. And right now - we mean business!
+
+Thank-you.
+
+Ends
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

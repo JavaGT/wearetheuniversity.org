@@ -1,0 +1,102 @@
+---
+slug: approach-to-violent-crime-has-struck-a-chord
+title: "Approach to Violent Crime has Struck a Chord"
+date: 2001-02-20
+source-url: https://www.scoop.co.nz/stories/PA0102/S00303/approach-to-violent-crime-has-struck-a-chord.htm
+author: act-new-zealand
+---
+Approach to Violent Crime has Struck a Chord
+============================================
+
+**Tuesday, 20 February 2001, 4:49 pm**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Call for Tougher Approach to Violent Crime has Struck a Chord
+
+Tuesday 20th Feb 2001 Dr Muriel Newman Speech -- Social Welfare
+
+The recent call for a tougher approach to violent crime has struck a chord. It should come as no surprise to politicians, since 92% of New Zealanders told us at the election that they wanted government to get tough on crime and the causes of crime. People are sickened at the patent failure of the criminal-justice system to protect them from blatant law-breakers, and serial criminals.
+
+The problem hinges around a pervading liberal attitude in government: anyone who commits a crime must come from a troubled background and so can’t be personally blamed for their actions. Instead of wanting retribution, the liberals want rehabilitation.
+
+The reality is that people who commit crimes make the personal choice to do so. If we are to continue functioning as a decent society, we must take a strong stand, making people accept responsibility for their actions, ensuring that they pay a price if they transgress. But that is where we have another problem. For many repeat offenders - and the recidivism rate is moving towards 80% - going to prison is a bit of a doddle: it provides good food, shelter, camaraderie, and a chance to catch up with the criminal network. For many, life in prison is actually better than life on the outside. The answer therefore surely has to lie in developing a system that has strong disincentives to anyone considering committing a crime.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I recall being told of how offenders apparently rarely ever went back into military prisons. The main reason was the tough discipline, but also the plain food, the complete absence of drugs and alcohol, and the lack of leisure and camaraderie. There was one facility in particular that had a notorious reputation based on the meals it provided – nutritionally balanced with an OK taste, but the texture of porridge - morning, noon and night.
+
+As I understand it, Japan has a two tiered system: retribution in a military styled penal institution, followed by rehabilitation in a separate facility. Sentences clearly specify the mix. Maybe that is the sort of model we should look at for New Zealand.
+
+Another issue, which makes the problem worse, is the tendency of politicians to pass general laws, which affect the majority of law abiding citizens, instead of passing specific laws which get tough on crime. That was certainly the case with the Arms Amendment Bill (No 2) which was designed to stop unlawful people illegally using guns to commit crime, but which would have had a massive adverse impact on thousands of law-abiding, responsible gun owners. Instead, surely a law could have been introduced which specifically related to the criminal use of guns, such as a mandatory five-year sentence for the use of firearms in crime. That type of law brought a dramatic drop in gun crimes in the USA.
+
+The driving licence changes last year are another good example of a blanket law effecting us all, which was brought in to catch the small number of criminals who are illegally in possession of a motor vehicle, don’t have a licence and drive dangerously.
+
+Then there are the laws that cause trouble because they don’t mean what they say. Present concerns over the length of sentences for violent criminal offenders, is a case in point. ACT’s Richard Prebble’s Truth in Sentencing Bill was designed to change all of that, to bring truth into sentencing by making a prisoner serve at least 80% of their sentence before being eligible for parole, instead of the present one-third of their sentence. Unfortunately, the government voted down his bill.
+
+ACT’s Stephen Franks drafted a bill to ensure that committing a crime while on parole meant going back to prison. That bill got voted down by the government as well.
+
+But it is not good enough to focus only on stopping re-offending. It is important to look at the causes of crime, and in particular, the causes of social deprivation used by the liberals to excuse crime. Social deprivation is the product of deliberate social welfare policy, that has destroyed the family as an institution and created an under-class that is undermining our once strong society.
+
+But it wasn’t always like this. The Rt Hon Michael Joseph Savage was the architect of our social welfare system back in the late thirties. The system he designed served us well for more than three decades. It put in place a welfare safety net that provided a hand up to work. With welfare support for the able-bodied regarded as temporary, the numbers receiving a benefit remained relatively stable until 1970: a few hundred on unemployment, 5,000 or so on sickness and 9,000 odd on the invalid benefit. In fact in 1950, there were only twelve people receiving an unemployment benefit. During those years, families and communities were strong and there was virtually no crime. Things changed in 1972 as a result of well-intentioned recommendations by the Royal Commission of Inquiry into Social Welfare. The changes, adopted by the Labour government, transformed the safety net into a dependency trap and created the welfare family. Universal entitlement to a welfare benefit replaced a system that sanctioned people who were irresponsible - alcoholics, drug addicts and ‘layabouts’. Benefits were raised to a level akin to a working wage, creating a disincentive for people to move off a benefit. The final nail in the coffin for New Zealand society was the introduction of a statutory benefit for sole mothers.
+
+Today the numbers are dramatically different: around 140,000 on the unemployment benefit, nearly 34,000 on a sickness benefit, around 50,000 on an invalid benefit and nearly 110,000 on the DPB. The cost of welfare is higher than health or education, and what is worse, the cost of the consequences, of increasing crime, violence and child abuse, is impossible to measure.
+
+The DPB was designed to be used by women who needed to leave a violent relationship. There was an expectation of some 20,000 women taking up the benefit. Today there are 110,000 sole parents on the DPB and of the teenage mums who take up the DPB, 70% have never left. Two thirds of those teenage mothers have more children to different fathers. In fact according to parliamentary questions, over 64,000 new babies have been born to women continuously on the DPB. These women remain unsupported by the fathers of those children and the children lack the essential guidance and support of a father.
+
+Another growing problem is the 16,000 or so women who have told welfare agencies that they ‘cannot’ or ‘will not’ name the fathers of their children. The system does little to ensure that the basic human right of a child to know who their father is, is protected.
+
+As a result of thirty years of disastrous welfare legislation, New Zealand, which used to be a child rearing paradise, now leads the world in infant mortality, child abuse, teenage pregnancy, and youth suicide. Our young people are, in increasing numbers becoming victims of systemic social exclusion, finding themselves at younger and younger ages hooked on drugs and alcohol, and entrenched in the criminal justice system.
+
+At the heart of the problem is the incentives that exist in welfare legislation that encourages families to split up and go on a benefit. If a couple is going through a rocky patch, rather than work it out, the welfare system provides one of the parents with significant benefits if they separate: the kids, the house, a secure income in the DPB, child support, and extraordinary power over the other parent, if they choose to use the children as a weapon.
+
+As a result, the non-custodial parent – and it’s usually the fathers – become alienated from their children. The system has produced the most under-fathered generation in the history of the western world: every year there are over 9,500 divorces and as a result more than 20,000 children lose all effective contact with a parent. It is estimated that 300 children lose their father every week, 20 times the rate of the Second World War. With research indicating that children brought up without a father are nine times more likely to end up in a penal or psychiatric institution, it is little wonder that violent juvenile crime more than doubled between 1990 and 1997.
+
+And it is going to get worse: by the year 2010, a half of European and three-quarters of all Maori children under twelve months old will be living in families where there are no fathers. With clear evidence linking child abuse and youth crime to increasing family breakdown and long-term welfare dependency, the very structure of our society is now under threat.
+
+But just as legislation has caused the problem, so legislation can be changed to fix the problem. Last year, following the lead of other countries, which have faced up to similar social problems and turned the situation around, I drafted two private members bills to do the same.
+
+The first, the Shared Parenting Bill, which was defeated by the government last year, was designed to replace preferential sole custody as the preferred outcome when parents separate. Under shared parenting children have a right to frequent and on-going contact with both their mother and their father. Under shared parenting, they retain the support of their grandparents and the rest of their family as well. Countries that have adopted shared parenting, such as Sweden, France, Holland and the USA, have enjoyed a marked improvement in the wellbeing of those children who are the victims of family breakdown, and warfare between parents has also shown a dramatic reduction.
+
+My second bill was based on the Family Court. It appeared to me, that with the court that deals with New Zealand’s at-risk children – custody and access cases when parents separate, and the care and protection of abused children – being secret, the public has little understanding of the problems and the circumstances of children who are at risk. In other countries where the family court is open, the public has demanded reform. They wanted laws changed to improve outcomes. They would not accept the sort of damage to children that we accept here on a daily basis.
+
+My Family Court (Openness of Proceedings) Amendment Bill, which will be debated on Wednesday, seeks to model our family court on Australia’s – the court would be open to public and media scrutiny, with the identity of individuals being protected, and the judge retaining the right to close the court on a case by case basis. As a result of such openness, in some Australian states, 80% of custody and access cases are now solved through mediation rather than costly and aggressive litigation. The number of false allegations have also dramatically tumbled. This included unsubstantiated domestic violence claims made, without any burden of proof, which resulted in a parent having to leave the family home, preventing them from seeing their children for weeks, months and even years. Such allegations are a major problem here in New Zealand - For example there are some 8,000 protection orders taken out against fathers in the Wellington region alone.
+
+In New York, when the Family Court was opened in 1997, child abuse decreased, as the public demanded that the welfare department improve its performance, and as adults who beat their children were no longer protected by a secret court, but had to face up to the shame of their actions in a more public forum.
+
+A philosophy that underpins our whole justice system is that justice is not done, unless it is seen to be done. With the Family Court operating like a secret society, opening it up would be a step in the right direction. Enabling the media to report on family court cases would also be a proactive move: With the court that deals with our at-risk children being secret, and New Zealand children doing so poorly, there is nothing surer than the fact that if the public remain uninformed of what is really going on, the problem will get worse. In a democracy, the free press play a vital role in highlighting issues that the public need to know. Giving the press more freedom to highlight the problems our children face, enabling a public mandate to be built for government to address the causes of the problems, not just the symptoms, will surely lead to better outcomes. Increased freedom is at the heart of this issue.
+
+Former American President Ronald Reagan describes it this way: “Freedom is the right to question and change the established way of doing things. It is the understanding that allows us to recognise shortcoming and to seek solutions. It is the right to put forth an idea, scoffed at by experts, and watch it catch fire among the people. It is the right to dream – to follow your dream and stick to your conscience, even if you are the only one in a sea of doubters”.
+
+As New Zealanders who live in a free society, we often take democracy for granted. Working in the areas of family law and welfare has opened my eyes: we need to fight for the right of any citizen to individual liberty, free speech, and an independent media, because the modern enemies of freedom now comes disguised under banners like safety, health, welfare and other lofty ideals.
+
+Interestingly, each small regulation on its own seems relatively trivial, but taken together they amount to a wholesale attack on our independence. And when you compare the raft of rules and regulations – OSH, RMA, privacy laws, local body laws, employment laws, human rights laws – that control our lives today with the freedoms we once enjoyed, you realise how far things have gone.
+
+What is particularly worrying is the erosion of freedom under the name of “compassion.”
+
+I maintain that people dependent on welfare are not free and that is why it is my goal to empower and liberate families from the welfare trap. I want to see the system changed so it does not destroy, creating incentives for strong families and encouraging people to work hard to build successful lives for themselves and their children.
+
+I would like to leave you with a final thought from Italian economist Antonio Martino, who, in New Zealand a couple of years ago, stated: “Regulation is for today’s socialists what public ownership of the means of production and central planning were for the communists half a century ago. No-one has to nationalise industries any more, because the extraordinary growth of regulation has given effective control to the government without its having to assume the hassle of ownership. Socialism has re-invented itself as regulation”.
+
+His message reminds us that if we value freedom, we must be vigilant.
+
+For more information visit ACT online at http://www.act.org.nz or contact the ACT Parliamentary Office at act@parliament.govt.nz.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

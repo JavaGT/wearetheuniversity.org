@@ -1,0 +1,64 @@
+---
+slug: a-week-of-real-change
+title: "A Week Of Real Change"
+date: 2024-12-12
+source-url: https://www.scoop.co.nz/stories/PA2412/S00113/a-week-of-real-change.htm
+author: act-new-zealand
+---
+A Week Of Real Change
+=====================
+
+**Thursday, 12 December 2024, 11:34 am**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+**The Haps**
+
+ACT is rising in the polls, thanks to _Free Press_ readers and their friends and allies. More Charter Schools were announced last week to engage children who aren’t reaching their full potential in existing schools. They included: a successful Māori early childhood operator from the far north setting up a primary school, successful chain of Australian schools that specialises in getting students into vocational education, a French school teaching the French Government’s Internationale Baccalaureate curriculum, and a new school started by four Christchurch State School Principals who want more options for students in their schools.
+
+**A Week of Real Change**
+
+This week Parliament is working double time for a week of Real Change. Four ACT projects are debated in the House. They are all good policy, but most importantly they have ACT values in common. They all make New Zealand a more respectful, fairer place that celebrates success. It’s a fitting end to the year, with only two days of Parliament scheduled for next week before the House rises and your property is safe for the Summer.
+
+Brooke van Velden was first up with the partial strikes legislation. The long and short of it is that currently you can go on a partial strike, for example high school teachers refusing to teach a different year level all week, but remain on full pay. Normally the point of a strike is to test the will of an employer by effectively saying ‘we don’t need your money at these rates, you’ll need to pay us more to get us back to work’.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+While _Free Press_ is not exactly a unionist publication, there’s something we really admire about strikes. There’s dignity in saying you know your worth and you won’t be back until you get it. Then the Labour, New Zealand First, and Green Government came along and said, oh no, you can eat your cake and have it too. They banned employers from paying people less for doing less work, by saying partial strikers needed to be fully paid.
+
+In the meantime, people have missed out on medical scans, students have missed out on classes, trains have been cancelled, without the people who did it facing any cost. The underlying belief is that workers are feeble and should be allowed to strike for more money and put the cost on to someone else. It’s the kind of policy that erodes the spirit of the whole country. Thank God for Brooke van Velden, restoring the basic idea that you get paid for the work you do, allowing employers to dock pay for partial strikes.
+
+This comes on the back of Brooke removing ‘unjustified dismissal’ personal grievances from people earning over $180k. If you’re old enough to sit at the big table, you should not be in your job just because the Government made you too hard to fire. She’s also tackling the way personal grievances have been used to reward poor behaviour. Her changes mean an employee at fault cannot expect to be paid out because of a technicality in dismissing them.
+
+Next up is Nicole McKee, bringing back Three Strikes. The logic is so simple. A small number of people commit a disproportionate amount of crime, so let’s lock them up for as long as possible. How do we know who they are? Because they commit a violent or sexual offence, go to jail, get out, commit another one, get out, then do it again. Then what is the longest sentence?
+
+The longest sentence for each crime is set out in the Crime Act. If you do a serious crime three times you get the maximum sentence for your latest crime. Some people say that it will reduce judges’ discretion, but that’s only true if they decide to go soft on someone who’s up for the third time. Others say it will increase the prison population, we say incarcerating a third striker is the best money the taxpayer ever spent. All you need to do to avoid the consequences of Three Strikes is join the rest of us who get by without victimising our fellow citizens.
+
+Turning to welfare, there has long been a dilemma with benefits. The New Zealand public won’t tolerate people being cut off completely, e.g. time limits, but too many people take advantage of our soft hearts. Welfare as a lifestyle choice is destroying New Zealand. Why go to school if three generations of practical experience tells your family you can get money for nothing?
+
+The way to thread this particular needle is a long-term ACT policy, ‘Electronic Income Management.’ If you don’t fulfil your obligations to look for work, then you get your benefit in the form of an electronic form. You still get the means to live your life, but on a plastic card that only buys certain things. A violation of your rights? No problem, just get a job like everyone else. Legislation in the House will make this a reality. Another ACT policy that recognises freedom and responsibility are two side of the same coin.
+
+Finally, a reversal of Labour’s war on landlords. They believed they could improve a renter’s lot by giving renters the right to effectively stay in someone else’s house forever, with it being nearly impossible to evict someone (you needed three verified complaints in a 90-day period). The obvious problem is nobody has to be a landlord in the first place, so if the government makes it less attractive to be one, you get less choice for tenants.
+
+Alongside the removal of mortgage interest deductibility, Labour managed to create record rent increases. This week Parliament is legislating that a fixed-term tenancy doesn’t automatically go periodic, and that a periodic tenancy can be ended with 90 days’ notice for any reason, or 42 days for specific reasons (like the landlord needing to move in themselves). In short, restoring the rights of the person who actually went to the trouble of saving, buying, and maintaining a property so someone else could have a place to live without those troubles.
+
+Most people are too busy, to sensible, or too interesting to follow Parliament, but if you’re an ACT supporter, it’s a great week of real change, restoring to law the values that make any free society succeed.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

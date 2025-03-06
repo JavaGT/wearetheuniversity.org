@@ -1,0 +1,110 @@
+---
+slug: speech-to-the-nz-tourism-industry-association-conf
+title: "Speech to the NZ Tourism Industry Association Conf"
+date: 1999-07-29
+source-url: https://www.scoop.co.nz/stories/PO9907/S00076/speech-to-the-nz-tourism-industry-association-conf.htm
+author: new-zealand-labour-party
+---
+Speech to the NZ Tourism Industry Association Conf
+==================================================
+
+**Thursday, 29 July 1999, 10:08 am**  
+**Press Release: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+[![Labour
+2000 web site](http://www.labour.org.nz/images/logomed.jpg)](http://www.labour.org.nz)Labour Leader Helen Clark  
+Address to the NZ Tourism Industry Association Conference  
+Queenstown  
+28 July 1999
+
+Thank you for the invitation to give the opening address to this conference. It is a privilege to be involved with a conference representing the industry which earns more foreign exchange for New Zealand than any other single industry. That's a measure of just how important tourism has become to New Zealand, and it can become more important yet.
+
+For tourism to reach its full potential in New Zealand it needs a clear strategy and vision. That strategy and vision need to be part of a broader strategy and vision for developing New Zealand to its full potential. I want to outline for you today where Labour sees tourism fitting into the vision we have for New Zealand and the importance of tourism's contribution to that overall vision.
+
+Our vision for New Zealand in the twenty-first century is simply expressed. Our economy must be dynamic, competitive, and growing sustainably. It must be based increasingly on knowledge, technology and skill. It must produce ever more sophisticated goods and services. By creating more wealth, New Zealand must be able to raise its living standards across the board and offer more opportunity to its people. We must be capable of sustaining world class public services and infrastructure. And we must offer a quality of life unparalleled anywhere else in the world environmentally and culturally.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Tourism will be a major contributor to that vision for a new New Zealand. Through your growth there can be more employment, more opportunities for business and regional growth, and even more foreign exchange earnings.
+
+For tourism to realise its full potential, there needs to be a development strategy to promote its sustainable growth. Right now, it is hard to find a clear direction for tourism. Ever since the abolition of the Ministry of Tourism, government has lacked a strategic focus on and effective policy advice for the sector. The Tourism Board has been embroiled in much controversy and has yet to demonstrate that it can chart a clear way forward. Meantime there is concern that the strategy it is about to unveil has not been the subject of close enough consultation with the tourism industry.
+
+The Tourism Industry Association is devising the development of an industry strategy for 2010. That is commendable because it means that the industry itself can bring to the table a clear sense of direction for the future.
+
+For the future of the industry it is essential now to work to bring the government's and the industry's thinking together to produce that national strategy for sustainable tourism which we are lacking. I do emphasise that it must be a strategy for sustainable development. Increasing the number of visitors to existing attractions is not sustainable in the long run. Already some of our main attractions are under pressure. That reduces the quality of the visitor experience and can lead to the degradation of our environment which is our greatest asset.
+
+Labour in government will want to put a lot of energy into seeing that national strategy developed. There is no point in our national tourism agency and the industry working at cross purposes or in isolation from one another. Both are making substantial investments in promotion. That spending will be most effective if it is harnessed to an agreed national strategy.
+
+We are interested therefore in exploring further with the Tourism Industry Association your ideas on how the Tourism Board's efforts might be made more effective through a partnership with the industry in an industry-led, market-driven approach.
+
+At this conference the President of the Canadian Tourism Commission will outline how that approach works in his country. I am sure that more value can be added to our industry if we line up together the government and private sector contributions and strategies.
+
+Apart from its meddling in recent times with the Tourism Board's efforts to market New Zealand, government has not set out clearly its vision for the contribution tourism can make to New Zealand's well being. There is a need to go beyond government's present stated goals of a sustainable flow of tourism earnings, removing barriers for tourism, and removing barriers for the industry. While these goals are fine as far as they go, I believe we should be more explicit about the contribution tourism can make to our future. So let me outline some of the areas where Labour believes tourism's contribution to our national well-being can be increased.
+
+In the first place we believe that tourism has an even greater contribution to make to regional development than it has been able to make to date. One of the distressing aspects of life in this country is to see the decline of regional New Zealand as the returns on the primary industries' commodities drop. Two New Zealands are emerging: there are the metropolitan centres, and there is the rest. Auckland has an economic dynamism driven by its size. Wellington has had significant government investment - and smart regional strategies, particularly for tourism, which have capitalised on that. Christchurch's cluster of leading edge manufacturing and service industries is taking it forward.
+
+Lopsided development is placing pressure on infrastructure in the major centres, but leaving infrastructure under-utilised and employment opportunities lost in regional New Zealand. A drive to boost tourism in the regions therefore we see as one of the keys to regional renewal.
+
+Part of Labour's economic development strategy involves establishing a new Local Economic Assistance Fund to encourage the development of local economic initiatives. The fund will back:  
+· research and development of local economic strategies  
+· specific promotional activity for regions, and  
+· initiatives to secure new investment in regions.
+
+The amount available for regions will vary depending on its level of unemployment, its rate of economic growth or decline, and its rate of population growth or decline. That will enable us to target support to areas with the greatest need for economic stimulation.
+
+I have no doubt that tourism will emerge as an area of potential growth in many of our regions and that this new fund will be instrumental in facilitating its growth.
+
+Secondly Labour sees the growth of domestic tourism as an important source of import substitution. We benefit locally both by supporting our own industry, and by spending our dollars at home rather then seeing them flow out in the form of foreign exchange.
+
+The Tourism Industry Association's campaign to promote domestic tourism is a worthy initiative. We believe it is time those efforts were backed from the public purse available for tourism too.
+
+The Tourism Board has focused on international tourism and promotion, although there appears to be nothing in its statute which prevents it supporting domestic promotion. In our view it is time that some of the public money available for tourism promotion was allocated for that purpose.
+
+That is not to say that the Board need do that marketing itself. We would be interested in feedback from the Tourism Industry Association in how public money for domestic marketing would be best allocated. One model could be to make it accessible to regional tourism organisations on the same principles as for the Local Economic Assistance Fund; that is, weighted towards those areas most in need of economic stimulus - providing that they have devised a viable promotion strategy.
+
+As an Aucklander, I am only too conscious of the heavy advertising of attractive packages out of my city to Australia, Asia, and the South Pacific. By comparison there is so little marketing of the wonderful attractions in our own country. It is time to redress that imbalance by supporting the regional tourism organisations who work so hard, often on a shoestring, to publicise their regions' attractions.
+
+Thirdly Labour sees the growth of tourism as a vital part of our overall strategy to boost sustainable business development and job growth. Small businesses are a major component of the tourism industry, and, as it expands, there is a capacity for many more. Labour will be restoring a programme of small business grants for start ups and expansion which I know will be of assistance in the tourism sector.
+
+We are also placing huge emphasis on the importance of industry training and raising the skill levels of those in industry generally. Tourism is very much a people industry where the quality of the employees is critical for the success of the business. We want a training culture to develop across New Zealand industry to boost our skills base overall.
+
+Many people entering the tourism industry now do so after full time tertiary study geared to the industry's needs. Their study is not cheap - and the cost is a deterrent. Labour wants to get the costs to students down. Our first steps will be to ensure that full time students and other low income students do not have to pay interest on their student loans while they are studying. This will be done to ensure that their debts are kept under control - rather than spiralling when students have no capacity to service them.
+
+Developing a sustainable tourism strategy requires the production of quality research. I know that the Tourism Industry Association is a strong proponent of a better statistical information base for the industry and for more support from government for that. The Association correctly points out that none of the limited range of official statistics gathered on the tourism industry is currently funded through Vote:Statistics, whereas other key economic sectors are provided with official statistics at public expense. Tourism has also had only the tiniest share of funding from the Public Good Science Fund. The Commercial Accommodation Monitor is at risk because of funding pressures on the Regional Tourism Organisations who have been backing it.
+
+Labour accepts that it is in the public interest to produce accurate statistical information about tourism as a base for developing strategies for the industry. In government we are prepared to accept responsibility for funding time series data captured by Statistics New Zealand in the Commercial Accommodation Monitor and in the Tourism Satellite Account.
+
+We hope that this commitment will encourage the industry in turn to increase private sector funding for research, and also encourage researchers in our universities and polytechnics to pursue more tourism-related research.
+
+The tourism research and development strategy released by a broadly based steering committee last year is excellent and we give a commitment in government to playing our part in seeing it implemented.
+
+There is one other significant issue of public policy, which I wish to highlight today. A coalition of tourism industry interests was instrumental in forcing the government to postpone its plans to introduce the user pays regime for border control services which was announced in the Budget last year.
+
+I can announce formally today that that regime will not be established by the incoming Labour government. We will continue to fund those border control activities which the  
+state presently funds. Funding such core responsibilities has a far higher priority for us than the meaningless dribs and drabs of tax cuts announced by our opponents. Make no mistake: those who promise tax cuts in the present low growth environment plan on financing them through more user pays and spending cuts. Passing on the costs of border control through the tourism industry is an obvious part of that strategy.
+
+In my speech today I have outlined why Labour believes the tourism industry is so important and how it fits into our vision for the development of New Zealand, our regions, and our workforce. I have also outlined our commitment to the development of an adequate statistical base for industry planning and to accepting responsibility in government for the existing costs of border control.
+
+I conclude by re-emphasising our commitment to seeing an effective partnership develop between the agencies of government and the industry in developing a national strategy for the sustainable growth of tourism. We are prepared to discuss with you any structural changes which need to be made to achieve that industry-led, market-driven approach to the promotion of New Zealand which we believe would benefit the sector and the economy. And we accept that government itself will need stronger policy advice on tourism and on how other policies impact on its development.
+
+Thank you again for the opportunity to address the conference. I have no doubt that the discussion and debate here will contribute greatly to the development of a national strategy for tourism which we can all rally around.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

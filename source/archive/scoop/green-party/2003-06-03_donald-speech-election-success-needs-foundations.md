@@ -1,0 +1,142 @@
+---
+slug: donald-speech-election-success-needs-foundations
+title: "Donald Speech Election success needs foundations"
+date: 2003-06-03
+source-url: https://www.scoop.co.nz/stories/PA0306/S00002/donald-speech-election-success-needs-foundations.htm
+author: green-party
+---
+Donald Speech Election success needs foundations
+================================================
+
+**Tuesday, 3 June 2003, 8:31 am**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Election success needs strong foundations
+
+Speech to Green Party AGM, 31 May 2003 Rod Donald, Co-leader
+
+Last weekend I had time to have a leisurely read of the paper.
+
+Our people had a lot to say in it.
+
+On one page Meriel Watts was warning of the "chemical cocktail" going into our foods; on another, the paper advised that Sue Kedgley would be launching the New Zealand Children's Food Awards this week, awards that would have a special appeal to parents who cared about the Sickly Sweet and Full O'Fat rubbish their kids were ingesting. There were some comments from me about the folly of trade deals that are neither "free" nor fair. Yet another page featured Keith Locke giving a well-reasoned argument for why a republic offered New Zealand a brighter future than a monarchy did.
+
+All were prominent placements, all were topics close to the heart of ordinary New Zealanders, the sort of debates and issues that you hear on every bus, in every workplace, round every kitchen table.
+
+Which made it all the more confusing when I delved further into that paper and found a political column that suggested the public were questioning our relevancy.
+
+That's a question I'd like you to consider as we start this conference: are the Greens relevant in 2003?
+
+Are the 150 or so delegates who have come here from all over the country, the four thousand members you represent, the nine MPs here today relevant to New Zealand's future?
+
+Let me answer that by looking back at all that's happened since Labour called a snap election in July. Jeanette has talked about the Greens in an international context. I want to focus on what we have achieved and what we still can achieve, both in and outside parliament.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+We have a much stronger parliamentary team than we had before the election. I'm not just talking quantity. Although there are benefits from having two extra MPs - they entitle us to more seats on select committees, more speaking and question slots in the house and additional staff and funding.
+
+I'm talking about quality. Metiria and Mike both bring a wealth of talent, experience and passion, which adds enormously to our capacity and momentum. Meanwhile us "old hands" have three more years of parliamentary experience to our credit that we're putting to good use when negotiating with Ministers, lobbying select committees, liasing with constituencies or communicating with the public.
+
+With Mike and Met on board we were able to reallocate spokespersonships to reflect more closely our strengths and interests. While each of us still has too many portfolios to cover, we have been able to focus better and are having more impact.
+
+Overall, our teamwork has improved, our confidence has grown and our credibility with those who count is increasing. In short, we are a force to be reckoned with. A RELEVANT force.
+
+Just how relevant are we to the Labour government?
+
+Under our co-operation agreement we have some issues where we work as though in coalition, with both parties having sign off to the results and neither attacking the final outcome. This is where we make our greatest gains in legislative and policy terms but not in terms of publicity and profile. The new Land Transport Strategy and the Land Transport Management Bill implement Green policy on transport to a greater degree than anything else we have done this term. They put sustainability at the heart of transport policy, move away from just a roading focus to an integrated view that includes rail, barges, public transport, cycling and walking, and ensure that the funding follows that model. They offer a solution to Auckland's gridlock while avoiding pouring billions forever into the black hole of new motorways.
+
+We have achieved small but important changes to other legislation too - Nandor got student representation on the Tertiary Education Commission; Sue K strengthened the Broadcasting Charter in relation to violence on TV even though the Government reneged on the agreement about structure. Metiria strengthened the governance and management in the Maori Television Service Act. Sue B managed to protect volunteers in the Health and Safety legislation.
+
+Behind the scenes our select committee work has succeeded in improving both the RMA Amendment and the Local Government Act, legislation that will be with us with a huge impact on people and the environment for a long time to come.
+
+Green budget initiatives continue to deliver positive outcomes in environmental legal aid, support for environment centres, conservation education and awareness in communities, the Community Internship Programme, the Youth Drug Education Strategy and more funding for New Zealand authors. One of our most significant budget successes has resulted in national organic standards being implemented.
+
+Then there are the things that would have happened if we hadn't been there to make a relevant protest. Jeanette's thanked you all for taking part in the massive protests around the country over the Iraq war. The Government very wisely stayed out of that conflict but I ask you this: would they have rebuffed the White House if we hadn't helped mobilise the country and spoke out in Parliament and on the streets against that unjust war?
+
+Then there's GATS. At the summer conference we focussed on the GATS round and the risk that our sovereignty over our education, water and other public services would be signed away, allowing overseas companies to be subsidised by our taxes to provide those services here. Working with other groups outside parliament, we kept up a barrage of questions in the House exposing the fact that ministers did not know which parts of their portfolios were under threat or what our trading partners had asked us for.
+
+In the end, while the Government would not consult properly or extend the deadline for its offer, very few new concessions were in fact offered and we take some of the credit for that.
+
+What about the Climate Change Response Act, the Maori Television Service Act, the Tertiary Reform Amendment Act, the Land Transport Management Bill, the Status of Redundancy Payments Bill and the Supreme Court Bill? These Bills depended on our support. They only passed or progressed because of Green votes. That is the reality of minority government. Labour may be able to govern without us but we are central to them being able to deliver on the "progressive" - small "p" - parts of their agenda and thereby keep faith with their supporters. In other words, they need us where it counts.
+
+And their traditional supporters know they can count on us. They are increasingly working with us, not only to ensure that good legislation is passed but also to help the Greens' improve it. For example, we are currently working very closely with the union movement on the review of the Employment Relations Act to achieve significant improvements to it.
+
+Ask the people who rely on us to keep Labour honest, just how "relevant" we are.
+
+How we strengthen our credibility and connections with those people will go a long way towards determining our success at the next election. We must continue to demonstrate to a wide range of constituencies, including unions, social justice, Maori, student, environmental and peace groups, that we strongly represent their concerns and needs in parliament. Our relevance is without doubt. Not only would the bills cited above have been spiked without our support but left to govern alone or in cahoots with centre-right parties, Labour would continue to sacrifice those in need.
+
+Dr Cullen' s recent budget is case in point. It's not a budget Labour should be proud of. In fact it looks like one you would expect of a National government. The budget surplus is built on the backs of kiwi kids living in poverty, hard working low-income families who deserve a tax break and young people who are being denied an affordable tertiary education.
+
+If Labour had cooperated with the Greens, the budget would have contained significant measures to future-proof the economy, strengthen New Zealand's social fabric and protect our environment. They did not and therefore it does not.
+
+Without doubt the reason why we do not have a closer relationship with the government was its intransigence on genetic engineering. I agree with Jeanette that the government's refusal to extend the moratorium beyond October is a stance that is becoming harder and harder for them to defend. There is growing evidence that New Zealand should stay GE free. Our markets don't want GE food, the negative economic impact of losing our clean green status could be significant and contamination of non-GE crops is inevitable.
+
+We must do everything in our power over the next few months to stop the government taking this irreversible course of action. We were right to take our principled stand before the last election and we were right not to roll over afterwards.
+
+But the bottom line is that, despite our differences in many policy areas, we would still rather Labour led the next government than National, Act or New Zealand First. We know we can work with Labour because we DO work with Labour, when they are taking steps in the right direction. Whether or not we can make the government see sense by October I believe we need a robust debate within the party to decide what our attitude should be to Labour in the lead up to the next election.
+
+We have a lot to offer a Labour government, starting with our wisdom and our vision.
+
+Take the energy crisis as an example. It took two "one in sixty year" events for our calls for greater energy efficiency in conservation and more renewable wind and solar energy to even begin to be taken seriously.
+
+There would be no crisis if Jeanette and other green politicians had been listened to thirty years ago. The 1975 Values manifesto called for an expanded ministry of energy resources to coordinate the use of all energy sources and to bring down a comprehensive energy policy aimed at: preventing further increases in energy consumption, increasing the efficiency of energy use, minimizing the consumption of non-renewable resources and environmental disturbance and discouraging highly energy intensive industries. That all sounds like plain commonsense to me!
+
+And so do our calls for this government to improve bio-security through 100 per cent container inspection, buy back the rail track, to create an integrated land transport infrastructure, introduce country of origin labelling for food products, raise the minimum wage, tackle child poverty, adopt buy-local and buy NZ-made policies, recognise the Maori version of the treaty, and so on.
+
+They are commonsense policies - and that MAKES them relevant.
+
+Just as relevant is our role in saving this government from itself. We have opposed very little Labour legislation in the last four years, but each time it has been for good reason.
+
+We opposed the Singapore free trade deal and we were right, because our trade deficit with that country has gone up, not down. We opposed the Hong Kong free trade deal because it would have allowed Chinese sweatshops to destroy what is left of New Zealand's manufacturing sector. And we continue to oppose a free trade agreement with the Unite States. Jim Sutton may want to revisit our nuclear free status but Helen Clark has finally agreed with the Greens that our sovereignty is not for sale.
+
+Our concerns about the government gambling away superannuation funds on the overseas sharemarket have been proved sadly right. The government superannuation fund has suffered a net loss of $233 million for the seventeen months to March, while the shares it bought are currently worth 35 per cent less than when they were purchased. The $3.518b fund had made a profit of $169 m in the year before Dr Cullen set out the GSF authority and told it to make more money by investing on the overseas sharemarket. It's now worth barely more than $3b.
+
+Meanwhile Dr Cullen is poised to let loose his $1.9 billion New Zealand superannuation fund on to the sharemarket and intends to add another $2 billion a year to that fund to "secure our retirement."
+
+A two-billion dollar a year gambling problem should be enough to secure HIS retirement!
+
+As we've said before - and as we'll say again till every Government minister, every media commentator and every voter is listening - the best way to secure our future is to invest in New Zealand and New Zealanders.
+
+If the government is serious about development then it needs to build strong foundations - a self reliant economy, a cohesive society and a sustainable environment.
+
+And I would make the same challenge to this conference and to the party. This year and next are when we need to put down the foundations for the next election. The success of our election campaign depends on developing coherent policy, building our electorate level organization, investing in campaign systems, training candidates and campaign workers, raising funds, involving members, and reaching out to key constituencies in local communities. Do all that well and the campaign itself will go much more smoothly.
+
+The parliamentary team is endeavouring to play its part. We have reorganized the out-of-parliament offices to provide a better geographic spread than before - see the back of Green Times for their locations. We've also taken the innovative step of appointing campaigners outside parliament to work on key issues such as social and economic justice, a fair economy, safe food, sustainable agriculture and local body electoral reform. Green MPs are also taking on buddy MP responsibilities for electorates around the country. What are you willing to do to make this happen?
+
+At the very least, you must be visible. Too often Greens are shrinking violets. I attended two conferences recently where Greens were well represented, but you wouldn't know it. Only about four of the twenty or so Greens at each of the national Organics and Peace conferences were wearing Green T-shirts or badges. Their fellow activists in those movements were probably not aware that they are greens too. Increase your visibility and we will increase our share of the vote. Make YOURSELVES relevant.
+
+Let's go back to that newspaper I quoted at that start of my speech.
+
+One thing we certainly should have learnt from the last election campaign and in the year since then is that we can't rely on the mainstream media to communicate our message faithfully and forcefully. In fact it's not their job to be our publicists. The more they question our political "relevance," or our alleged "fixation" with single-issue politics, or even our dancing, the more it's obvious that we have to communicate directly to the people we want to reach. That's why we need local spokespeople and I'm pleased to see that the first three nominations have been approved, and that's why we need to build our mailing lists of supporters and people likely to vote for us.
+
+We know that target marketing works. At the last election we won 11.5 per cent of the special votes compared with 6.5 per cent of the ordinary votes. That difference won us our ninth seat and we achieved it by sending a post card to newly enrolled voters. Another group of voters who responded well to our direct approach was teachers. We sent them a postcard outlining our education policies and, according to the latest PPTA newsletter, the number of secondary teachers voting Green more than doubled from 6.8 per cent in 1999 to 15.2 per cent in 2002.
+
+Teachers clearly picked up something "relevant" in what we're saying - that we believe they deserve to be valued, rewarded and resourced for the work they do.
+
+Teachers are getting the message that we want to get through to other sectors of society. Unlike conventional politicians and commentators, they understand that you have to think beyond tomorrow.
+
+We now have 4000 members, 1500 more than three years ago. We have enough people to do the foundation-building, including the all important strategic planning that we are focussing on tomorrow. But more of you need to get on the soap-box and become candidates. Now is the time to seriously consider standing for next year's local body elections. We can draw on the recent success of the Greens in England who have just won 53 seats on 26 councils. And we should make the most of what STV has to offer, if only to prove to sceptical journalists how relevant STV is to our future local body success. I hope tomorrow night's panel will inspire many of you to take the plunge. And you haven't got a lot longer to think about standing for the next parliamentary elections either. I'm looking forward to more of you joining us in Parliament. Our 7.6 in yesterday's NBR poll suggests more of you will.
+
+My thanks to every one of you for what you are doing for the Green Party. Are we relevant? You bet we are.
+
+Have a great conference and dynamic year ahead.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

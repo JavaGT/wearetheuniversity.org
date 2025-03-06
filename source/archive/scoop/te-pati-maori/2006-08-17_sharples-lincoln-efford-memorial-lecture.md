@@ -1,0 +1,168 @@
+---
+slug: sharples-lincoln-efford-memorial-lecture
+title: "Sharples: Lincoln Efford Memorial Lecture"
+date: 2006-08-17
+source-url: https://www.scoop.co.nz/stories/PA0608/S00287/sharples-lincoln-efford-memorial-lecture.htm
+author: te-pati-maori
+---
+Sharples: Lincoln Efford Memorial Lecture
+=========================================
+
+**Thursday, 17 August 2006, 10:01 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+The Lincoln Efford Memorial Lecture: ‘Peace and Justice’;
+
+WEA; Christchurch
+
+‘The Leadership of A Butterfly’
+
+Dr Pita R Sharples; Co-leader of the Maori Party
+
+Wednesday 16 August 2006; 7.30pm
+
+World-stopping events are often marked by place and time.
+
+“I was at hui in Aranui when the news came through that Man had walked on the Moon”;
+
+or
+
+“I remember the rain sheeting down - I was driving to Huntly at the time - when we heard about the Wahine disaster”.
+
+So it will be for me that:
+
+“I was at a launch of a project, Preventing Violence in the Home, when we heard that Te Arikinui Dame Te Ätairangikaahu had departed this earth”.
+
+And in the truest example of serendipity, as the news came in of the loss of the ‘heart of our nation’, a star-studded cast was gathered last night in Newmarket to promote the "Get Organised Auckland" event for Preventing Violence in the Home.
+
+There was Judy Bailey, Trelise Cooper, mayor Dick Hubbard, the Prime Minister, the Warriors and many others who came together, united under the kaupapa of Preventing Violence in our Homes.
+
+It was as if Te Arikinui herself had set the scene for her enduring legacy to be poignantly marked in all our lives.
+
+Dame Te Atairangikaahu, the only child of King Koroki and Te Atairangikaahu; was the sixth line in the distinguished heritage of the Kingitanga.
+
+Over the next few days we will see leaders from all over the world, pay tribute to her outstanding presence. They will talk of her impact on the world scene, her national leadership of the Kauhanganui or tribal parliament.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+They will remember her drive for greater financial autonomy for her Waikato people, and the Tainui settlement that is associated with the deprivation that resulted from the Crown’s confiscation of over 400,000 hectares of land.
+
+The obituaries will describe the prominence of the Kingitanga; and they will express the profound grief of international leaders; Pacific and Commonwealth dignitaries; the British royalty.
+
+But who will report on the lamenting and loss that will be felt in the homes, the marae, the gathering places of our people?
+
+The grassroots phenomenon that is Dame Te Atairangikaahu will have touched every home in this land.
+
+And our hope lies in the fact that while her physical form may be departing this world, her spirit will always live within us. And as she begins her final journey to Te Rerenga Wairua, that spirit will grow within as her inspiration sustains us.
+
+I have thought of her as a butterfly, a beautiful Monarch butterfly, flying from flower to flower, touching us all with her love, her serenity, her grace.
+
+The Japanese have a saying that “Happiness is like a butterfly which when pursued, is always just beyond your grasp, but which if you sit down quietly, may alight upon you”.
+
+Te Arikinui was like that - she would sit down with any child and share a joke, she would be next to you in times of hardship, she inspired us all to have confidence in ourselves, to believe in ourselves.
+
+That image of the butterfly - came to me too when I thought of Te Ata’s role as patron of the Kohanga Reo movement, and as patron of the Maori Women’s Welfare League.
+
+I thought about that waiata left by the great Kahungunu and Tuhoe composer, Dr. Hirini Melbourne, Purerehua, which he wrote for his daughter - to one day be like the beautiful free butterfly.
+
+Another leader - who while a member of Nga Tamatoa in the 70s, was petitioning Government to have Maori taught in schools; fighting the good fight alongside his commitment to peace in the home.
+
+We know that every path taken by the purerehua is unique - it cannot be replicated. But every path forward, also provides us with a new horizon, a new aspiration, that can lead our own distinctive journey. So it is - with Te Arikinui.
+
+Her incredible vision was unique to her - but it is a vision that we can also make our own. A vision of enduring peace alongside of a lifelong fight for justice.
+
+That peace is inextricably linked with justice, was a concept nurtured in Te Arikinui by her aunt - Princess Te Puea Herangi.
+
+After the devastating influenza epidemic of 1918, Te Puea gathered up one hundred orphaned children and founded the community at Ngäruawahia now known as Türangawaewae.
+
+Te Puea walked the talk - playing a leading role in negotiating settlements for the confiscation of Waikato land while at the same time, guiding and nurturing the children embraced in her care.
+
+She delivered peace - she modelled peace - and at the same time she fought for justice.
+
+I am greatly honoured to be here tonight, to pay tribute to a noble heritage of peacemakers; peacemakers who lived their lives, dedicated to a calling for justice.
+
+It is indeed apt, to be here in Christchurch, reflecting on the difference made in our world through the contribution of Waitaha, Ngai Tahu, the great Taumutu leader, Riki Te Mairaki Ellison; Kate Sheppard, Elsie Locke, Norman Kirk, Rod Donald, and of course the person whom this lecture honours, Lincoln Arthur Winstone Efford.
+
+We recall the lasting mark of Lincoln Efford - and his unique role in the establishment of the New Zealand peace movement.
+
+In the 1930s Efford was pioneering leadership in pacifism and politics. He lived the adage - politics begins at home - carrying out an investigation of social problems for the Christchurch City Council, becoming a tutor for the WEA, while at the same time campaigning for the abolition of compulsory military training.
+
+Efford set up the New Zealand No More War Movement - in which he gathered 42,000 signatures for a nationwide disarmament petition.
+
+Yet it was at a huge cost - his printing press on which he printed the best part of New Zealand’s anti-war literature was confiscated; his home was frequently searched; he was charged for wilful contempt, and “helping the enemy:” through his role in the Fellowship of Conscientious Objectors - he was a man who lived and breathed, peace and justice.
+
+True leadership is in those who walk the talk. Who espouse high ideals and integrity - and then practice what they preach.
+
+Efford did that. Te Arikinui Dame Te Atairangikaahu did that. Te Puea did that. The question is - will we, you and I?
+
+The achievement of Peace and Justice is an aspiration that is not only reserved for the world-changing leaders - those we respect and revere from afar.
+
+We will all have examples of the influential, the inspirational, the aspirational individuals who had made a mark in our homes.
+
+The aunties who cared, the mother who dared to speak out, the brother who stood up against a perceived injustice.
+
+And nowhere is this more apparent than in the savage impact of violence that this nation is currently wrestling with.
+
+It is not as if violence has not been with us throughout our lives.
+
+The violence of colonisation - and the flipside of justice, peace and freedom, is probably best associated with Te Whiti o Rongomai and Tohu Kakahi.
+
+These two men - motivated a movement of passive resistance - which challenged widespread confiscation of the Taranaki lands; which culminated in the savage attack of 1,589 Armed Constabulary, who invaded Parihaka on 5 November 1881.
+
+In speaking with his people, Te Whiti said in March 1880:
+
+“Though some, in darkness of heart, seeing their land ravished, might wish to take arms and kill the aggressors, I say it must not be. ... I want not war, but they do. The flashes of their guns have singed our eyelashes, and yet they say they do not want war ... They work secretly, but I speak in public so that all may hear”….
+
+Such public encouragement, for the people to put their hands to the plough, to not look back, to continue to speak of justice, of freedom and the right to the return of their tribal lands, eventually led to Te Whiti and Tohu being jailed here in Addington; and many, many of their supporters from Parihaka, quarantined/imprisoned for six months without trial, in the buildings erected on the small island of Ripapa - on the shores of Whakaraupo - Lyttelton harbour.
+
+Yet despite being unjustly detained, Te Whiti - and his supporters - composed literally hundreds of verses about the injustice of land theft, of war, of persecution - but without ever giving up hope.
+
+Like Efford and his advocacy with the Howard League for Penal Reform; like Riki Ellison and his lifelong fight for the land of this rohe through his roles with the Mawhera and Waitutu Incorporations; like Te Ata and her pursuit for the return of confiscated land amidst the turmoil of the claim negotiations; there was always a greater force driving them, which led to immense strength in the face of adversity.
+
+And it is that same fierce determination which we must all now call on, to stand up for the right for peace in our homes.
+
+We must join hands that link in unity for the revolution of all revolutions - the movement to rid our homes of violence.
+
+Just as Te Whiti and Tohu stood tall, in the path of the plough, so too, must we be resolute in our strength of purpose to make each day a day of peace.
+
+Te Arikinui demonstrated strength by talking about peace in a most serene way.
+
+The Chinese have a proverb, the butterfly becomes only when it is entirely ready.
+
+Is not now the best time of all, to be united in our campaign, to be entirely ready to fly a different path?
+
+Is not now the optimum time to stand up for peace, to sing our waiata of tranquility, of serenity and for the words to actually be heard?
+
+Could there ever be a better time, to sit in stillness, and make the commitment which will allow peace to land on all our shoulders?
+
+Te Arikinui leaves behind her, her beloved husband, Whatumoana, and their treasured seven children and many many mokopuna.
+
+But her greatest legacy yet, may be in the hearts and minds of all peoples for a peace that endures - in our homes, in our lands, in our nation.
+
+Tena tatau.
+
+  
+_The Lincoln Efford Lecture is held every year to commemorate the life and work of Lincoln Efford, Secretary of the Workers Educational Association (WEA) from 1948 to 1962. WEA is a voluntary organisation that provides educational events for adults and communities._
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

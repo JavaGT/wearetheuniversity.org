@@ -1,0 +1,119 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2006-08-31
+source-url: https://www.scoop.co.nz/stories/ED0608/S00098/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 31 August 2006, 12:56 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Collective agreements ratified  
+New collective employment agreements have been ratified for academic and general staff at seven New Zealand universities, with the result that the salary increases negotiated as a result of the tripartite discussions among unions, vice-chancellors and the Government can be implemented.  
+The settlements follow a lengthy process during the year culminating in the decision by the Government to provide a funding package of $26 million to universities as an interim step to resolving long-term funding and salary problems in the sector.  
+Provisional figures show that more than 98 percent of those participating in the ballots voted in favour of the settlements at Auckland, Waikato, Massey, Victoria, Canterbury, Lincoln and Otago universities. The ratification will see salary increases for academic staff of between 6.0 and 7.5 percent and for general staff of between 4.0 and 5.5 percent over the course of the year.  
+Association of University Staff (AUS) General Secretary Helen Kelly said that, while the salary increases varied among universities and between academics and general staff, she believed that AUS members saw the settlements as a positive step towards resolving salary problems. “Union members also know that the government money, which funded a major portion of the increases, was a direct result of their campaigning over the past three years, and that this campaign would continue” she said. “The vote indicated an overwhelming mandate for the national approach to bargaining and our priority now is to enter the second stage of the tripartite process.”  
+Ms Kelly said she expected that tripartite process would provide an opportunity to engage with the Government on the new funding model for and governance of tertiary education as well as salaries and associated issues around national collective bargaining.  
+The AUS Council is meeting over the next two days, during which time it will consider the organisation’s approach to the tripartite process.  
+The most recent bargaining newsletter, with details of the salary settlements, can be found at:  
+http://www.aus.ac.nz/national\_bargaining/2006/Newsletter-June.pdf
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Sharpening the tertiary education focus  
+2\. Tertiary-education bureaucracy doubles  
+3\. Hunger pangs for fee rise  
+4\. New Tertiary Education Strategy reports available  
+5\. CPIT loss may be $3.5m  
+6\. Scholar under fire for 9/11 views  
+7\. US Government fails to act on ruling over academic  
+8\. UNSW protests over job cuts  
+9\. China's elite tee off at University
+
+Sharpening the tertiary education focus  
+A Tertiary Education Strategy discussion document released on Tuesday this week aims to reinforce the contribution that the tertiary-education system makes to the performance of the economy and New Zealand's social and cultural development.  
+The discussion document will form the basis of consultation on the development of a new Tertiary Education Strategy (TES) from which the Government will be able to establish detailed priorities for the sector. In turn, these will be published in the next Statement of Tertiary Education Priorities (STEP) in December.  
+The discussion document is open for public consultation until 27 October, with the current TES and STEP both expiring in 2007.  
+The TES and STEP will be important components in the new tertiary-funding framework, with tertiary-education organisations funded according to how their plans align with the new priorities for the sector as set by the TES and STEP.  
+According to the Minister for Tertiary Education, Dr Michael Cullen, the discussion document is the first step in providing a clear statement of the Government's priorities in tertiary education and one that will give a broad direction for the sector. “The first TES and STEPs set a broad and inclusive direction for tertiary education. We propose to build on this and provide a sharper focus on the shifts that the Government expects in tertiary education in order to achieve greater quality, relevance and value for money. The sharper focus is not at the expense of New Zealand's broad and inclusive tertiary education system, which must be maintained.”  
+Dr Cullen said the sector faces significant challenges in the next five to ten years. “A large group of young New Zealanders, the ”baby blip”, will be moving into the tertiary sector and the workforce. At the same time, there will continue to be urgency to lift skills, qualifications and productivity during a time of high employment,” he said. “It is critical that the tertiary-education sector plays its part in accelerating the transformation of New Zealand into a high-wage, knowledge-based economy. We must continue to grow globally competitive firms through improving our creation, transfer and application of knowledge.”  
+The discussion document can be found at:  
+http://www.minedu.govt.nz/index.cfm?layout=document&documentid=11445&data=l
+
+Tertiary-education bureaucracy doubles  
+Figures released this week by the National Party spokesperson on Education, Bill English, show that administration costs from the government agencies overseeing the tertiary sector rose from $64 million in the 2000/01 financial year, to $140 million in 2005/06.  
+Mr English says that, while the tertiary-education bureaucracy has more than doubled under Labour, students haven’t benefited at all. “Taxpayers are paying more and more for public agencies which are moving in ever-decreasing circles trying to implement increasingly impractical strategies,” he said. “There is no evidence of any benefit for anyone and plenty of evidence to the contrary.”  
+According to Mr English, a National Government will cut back on what he describes as a growth in spending which has failed spectacularly to ensure value for taxpayers’ investment in tertiary education. “This is the bureaucracy that has overseen uncontrolled and arbitrary growth in low-value, low-relevance sub-degree courses which less than a third of enrolees ever complete, at the expense of skills and trade training where providers can’t keep up with industry demand,” he said. “The massive growth in the state sector is double that of the overall economy, which had job growth of just 3 percent. This continues the trend of a rapidly growing state sector. We’ve now got to the stage where one in fifty jobs in New Zealand is as a bureaucrat, and that's contributing nothing productive to the economy.”
+
+Hunger pangs for fee rise  
+Ahead of the Massey University Council meeting tomorrow morning, when tuition-fee levels for 2007 are expected to be set, students are sending a clear message that fee increases will not be tolerated. A “Stop Lecture Protest” today at Palmerston North, during which lecture times will be shortened to allow protest action, will build on a hunger strike currently under way by Massey Albany student President, Josh Clark.  
+In a statement earlier this week, Mr Clark said that he was personally disgusted at a move signalled by the University that student tuition fees could rise next year by 10 percent, and that he would go on a hunger strike to protest “this injustice to students”. He said the proposed 10 percent increase would see domestic students having to pay up to an extra $500 to study at Massey University in 2007. “Current student debt is already over eight billion dollars and steadily climbing, the University has a responsibility to students to help reduce this massive debt burden and not put up excessive fee increases,” he said. “Students are already struggling to support themselves while they study at university, and this proposed fee increase will just exacerbate the problem. Students are one of the poorest and most debt-ridden groups in our society; why the university would want to take more money from them in 2007 is beyond me and that is why I am going on a hunger strike,” he said.  
+Meanwhile, the University of Canterbury Council last night increased domestic student tuition fees for 2007 by 5 percent, the maximum permitted under the Government’s fee-maxima policy. Fees for current College of Education students will rise by 10 percent to bring their fees into line with those at the University when the two institutions merge next year.  
+Canterbury Vice-Chancellor, Professor Roy Sharp, is reported as saying that the University had little choice but to raise fees because its costs are increasing at a rate higher than that of inflation, and government funding next year was due to increase by only 2.5 percent.
+
+New Tertiary Education Strategy reports available  
+A number of new reports examining the influence of the Tertiary Education Strategy (TES) are now available on Education Counts, a government-sponsored website for educational statistics and research in New Zealand.  
+The first of the reports, Lining Up? The influence of the Tertiary Education Strategy 2002/07 on tertiary education organisation profile objectives, presents an analysis of the 2005/07 and 2006/08 profiles of tertiary-education institutions and a sample of industry-training organisations. The analysis looked at the organisational objectives in the profiles and mapped them to the Tertiary Education Strategy to establish a sense of where change is planned across the various areas of the strategy, and by which types of organisations. The analysis provides a view of governance and senior-management perspectives of important changes in their organisations in relation to the Tertiary Education Strategy.  
+The second report, Making Use? - views on the use and usefulness of the Tertiary Education Strategy 2002/07, presents results of interviews with key people in tertiary education organisations and stakeholder groups on the use and usefulness of the Tertiary Education Strategy 2002/07. The information in this report contributes towards the evaluation of the TES.  
+Outcomes of the New Zealand tertiary education system - a synthesis of the evidence, the third report, provides a synthesis of the evidence of the outcomes of the New Zealand tertiary-education system. The report quotes a number of statistical studies completed over the last six years and also reproduces some previously published summaries of the evidence.  
+The final report, Tertiary Education Strategy 2002-2007 Monitoring Report 2005, tracks further progress of the tertiary education system against the Tertiary Education Strategy 2002-07 in the period following implementation of the key aspects of the tertiary-education reforms up to the end of 2005.  
+These reports can be found at: http://educationcounts.edcentre.govt.nz/index.html
+
+CPIT loss may be $3.5m  
+A report this week in The Press reveals that the country’s second largest polytechnic, the Christchurch Polytechnic Institute of Technology, is on the brink of major financial strife this year. The report says that CPIT is looking at a possible $3.5 million loss in 2006, and that early indications are that things could be worse still in 2007.  
+The current financial problems compound those of last year, when CPIT ran a deficit of $2.5 million after earlier predicting a surplus of $429,000  
+In May this year, CPIT said a 6 percent drop in student numbers would cut revenue by $3.56m and ultimately cost it around $2.7m. The original target of 6349 equivalent full-time students for the year has now been pruned to 5942.  
+New CPIT Chief Executive, Dr Neil Barns, told The Press that the estimated $3.5 million deficit was only a rough figure and he was working on getting more accurate accounts ready for Council members. He acknowledged the institution’s money problems were a “real issue for both CPIT and for the region”, but said it was important not to be alarmist about the situation. “Despite the reduction in revenue that we face this year, we will still enrol and provide tertiary education to over 20,000 Cantabrians this year, and I am sure we will continue to do so in the future.”
+
+Worldwatch  
+Scholar under fire for 9/11 views  
+The University of New Hampshire in the United States is refusing to fire a tenured professor whose views on 9/11 have led a number of politicians in the State to demand his dismissal. William Woodward, a professor of Psychology, is among a number of academics who believe that US leaders have lied about what they know about 9/11, and were involved in a conspiracy that led to the massive deaths on that day, setting the stage for the war with Iraq.  
+State legislators have demanded Woodward’s dismissal and are threatening to consider the issue when they next review the University’s budget funding. New Hampshire Republican politicians are also calling for the University to fire Woodward, with one quoted as saying that “there are limitations to academic freedom and freedom of speech” and that “it is inappropriate for someone at a public university which is supported with taxpayer dollars to take positions that are generally an affront to the sensibility of most all Americans.”  
+The University of New Hampshire is reported to have been quick to back its professor, with officials saying there are no plans to take any action against Woodward and that it would be inappropriate to do so.  
+“What we’re saying is that we support and are committed to academic freedom,” said Kim Billings, a University spokesperson. “We may not agree with Professor Woodward, but he is entitled to his opinion.”  
+Woodward, who describes himself as an “aging hippie”, said that he has never tried to hide his controversial political views, but had never before had politicians demand he be fired. “It’s a little unsettling,” he said.  
+From Inside Higher Education
+
+US Government fails to act on ruling over academic  
+In a case considered a bell-wether of policy towards foreign scholars, the United States Government has decided not to appeal a court ruling ordering it either to issue a visa to Tariq Ramadan, a prominent Swiss Muslim scholar, or to provide good reasons for not doing so.  
+A Federal court issued the ruling in June in a lawsuit brought on Mr. Ramadan's behalf by a number of groups, including the American Association of University Professors.  
+In 2004, US authorities revoked a visa issued to Mr. Ramadan when he was hired as a tenured professor at the University of Notre Dame. Neither the professor nor the University received an explanation for this action, but a spokesperson for the Immigration and Customs Enforcement Division of the US Department of Homeland Security told media that the visa was revoked because of a section in Federal law that applies to aliens who have used a “position of prominence within any country to endorse or espouse terrorist activity”. That language appears in section 411 of the US Patriot Act, and is known as the “ideological exclusion” provision.  
+Federal authorities now have thirty days to act on a visa request from Mr. Ramadan, filed in September 2005, which has been left pending since then.  
+From the Chronicle of Higher Education and AAUP
+
+UNSW protests over job cuts  
+Protest action at the University of New South Wales in Australia has followed an announcement last week that the University will outsource 120 cleaning and security jobs and shed as many as 500 administrative and support jobs. The cuts will affect as much as 10 percent of the University’s workforce.  
+An initial protest meeting last Friday was followed with another yesterday addressed by Midnight Oil rock star turned politician Peter Garrett.  
+UNSW Vice Chancellor, Fred Hilmer, has sent an email to staff calling for expressions of interest in voluntary redundancy after previously saying that the University had too many general staff.  
+The University has also recently released a discussion paper to staff proposing a major restructure of its campus libraries which will see the disappearance of reference desks and a reduction in the number of professional and specialist librarians on campus.  
+The UNSW National Tertiary Education Union Branch President, Susan Price, said that the proposed job-shedding was short-sighted, would lead to long-term damage to the institution and would undermine the core research and teaching activities. “We understand that \[management’s\] intention is to redirect spending away from administrative and support staff into an advertising and marketing strategy, undergraduate first-year scholarships and research-infrastructure projects, with only a portion of these cost savings spent on employing additional staff in research areas," she said. “This protest rally is just the beginning of our campaign against these job losses.”
+
+China's elite to tee off at University  
+Peking University, where Mao Zedong once worked as an assistant librarian, plans to teach China's intellectual elite how to play golf, according to the Beijing News.  
+The report said lessons in golf would be offered to students at the University, and that permission would be sought to build a driving range on its scenic campus in the northwest of China’s capital.  
+Since the first golf course opened in mainland China twenty-two years ago, the sport has become extremely popular among the newly affluent. During the 2003 SARS epidemic, many Chinese entrepreneurs decided that doing business on the golf course was preferable to the office, where the risk of contracting the virus was considered to be higher.  
+Reaction to the news was mixed among students at the University. “Golf isn't a proletarian sport,” one told the paper. “Most students wouldn't be able to afford it and the University should concentrate on providing better facilities for more popular sports.”  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

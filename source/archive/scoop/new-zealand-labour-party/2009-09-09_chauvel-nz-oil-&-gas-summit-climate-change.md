@@ -1,0 +1,252 @@
+---
+slug: chauvel-nz-oil-&-gas-summit-climate-change
+title: "Chauvel: NZ Oil & Gas Summit: Climate Change"
+date: 2009-09-09
+source-url: https://www.scoop.co.nz/stories/PA0909/S00104/chauvel-nz-oil-gas-summit-climate-change.htm
+author: new-zealand-labour-party
+---
+Chauvel: NZ Oil & Gas Summit: Climate Change
+============================================
+
+**Wednesday, 9 September 2009, 11:43 am**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+9 September 2009  
+Speech
+
+Climate Change – the time for action is now
+
+  
+Speech to the NZ Oil and Gas Summit, New Plymouth at 11am
+
+Thank you for inviting me to speak to you today on behalf of the New Zealand Labour Party.
+
+I want to begin by acknowledging the contribution that the people in this room make to the New Zealand economy. I have some personal knowledge of that contribution. Before my election, I practised law in a firm known as Rudd Watts and Stone, now Minter Ellison Rudd Watts.
+
+For many years, one of its cornerstone clients was Shell, and the firm maintained an office in this City largely as a result of that relationship. Along with most of my partners, I transacted work on behalf of the Shell Group, including appearing as senior counsel in what I am told remains a leading employment law case on the applicability of foreign employment law in the New Zealand Courts.
+
+I also spent some years prior to politics on the board of Meridian Energy Ltd, and so from that connection I have some appreciation of the issues that face the energy sector in New Zealand.
+
+The Emissions Trading Scheme  
+I want to spend most of my speech today talking about something that I know is of great interest to the oil and gas industry: the emissions trading scheme.
+
+The Select Committee Report  
+It has to be said at the outset that Labour regards the just completed select committee process as mostly being a massive waste of public time and resources. It would have been far preferable for the Government to have tabled amendments to the existing law for the Committee to consider.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Instead, the Committee spent weeks hearing submissions, but only hours discussing the issues they raised, let alone forming a collective view on them. Consideration of the many issues raised by submitters was compressed into a few short meetings. In the end, our deliberations were rushed, and those who have read the report and the supporting material that has now been released will see that in places, it is little more than a cut and paste of officials’ views, with a bland recommendation expressing vague support tacked on at the end.
+
+As a result, the main body of the report isn’t going to tell Ministers anything more than what they have already been told by their officials.
+
+But in the four minority views appended to the report, you do get some substance. At least now the people of New Zealand know what 62 MPs think about the ETS, even if we still await concluded views from the 58 National MPs.
+
+So we can take a few things from the report.  
+The Committee makes a compelling case for New Zealand taking an active approach to addressing the clear threat that unmitigated climate change presents.
+
+The scientific case for action is clear; the moral imperative clearer.  
+There is strong support for a world-class emissions trading scheme that takes account of New Zealand’s special circumstances.
+
+The need for certainty  
+The task that I now have, as Labour’s spokesperson on climate change, is to work with my colleagues to try to take the high-level views expressed in the Committee’s report and turn them certainty as soon as we can.
+
+To get that agreed position is going to require compromise.  
+Now, compromise is an interesting word. It means an agreement reached by each side making concessions. It can also mean the expedient acceptance of standards that are lower than is desirable.
+
+My message today is that when it comes to the ETS, Labour is all for the first meaning, and opposed to the second.  
+Labour thinks that Parliament passed a good ETS in September 2008.  
+When the legislation for the ETS was introduced into Parliament, we had high hopes that it would pass with overwhelming support. You might recall that the vote to send it to a select committee was 110 votes to 2: ACT is nothing if not consistent. They opposed the ETS then and apparently nothing has happened to change their mind.
+
+Labour has long sought a bipartisan agreement on the ETS. David Parker wrote to Nick Smith in February 2007 proposing such an approach. That was before the Emissions Trading Group that designed the current scheme was even established.
+
+But rather than agree to be part of a genuine process of seeking an enduring solution to an immensely complex policy problem, National decided to play politics.
+
+Labour is fairly flexible on the ways in which the scheme could be amended to achieve National's stated goals while retaining the scheme’s original integrity.
+
+We do accept that National and its supporters have legitimate expectations that the scheme will be changed. National campaigned for that at the last election, and won that election. But National also has to remember that it wasn’t delivered a clear majority by the electorate either. They are the Government, but our MMP system restores in a real sense the necessity that they gain parliamentary approval for their legislative proposals.
+
+So Labour is realistic. All our discussions with National to date have been directed at trying to find the principled compromises that will allow acceptable amending legislation to pass by a substantial majority. But we aren’t prepared to compromise our principles to do so.
+
+Principles underlying Labour’s approach  
+Labour inserted a carefully crafted minority report into the Select Committee’s report. In it, we spent a lot of time talking about the principles underlying our approach.
+
+We did this so that people, including those in the National Party, could see very clearly where we are coming from. Not only do we want the right ETS, we want the ETS for the right reasons. Understanding the “why” is probably more important than the “what”, especially as we move to the next phase of negotiations with the Government.
+
+So let me outline Labour’s principles.  
+Climate Change is an issue that New Zealand needs to address at a global, regional and national level.  
+Labour recognises that New Zealand cannot possibly effect the pace and nature of climate change – we are too small. But we must be part of concerted international action within the United Nations Framework Convention on Climate Change that sees the world moving to stabilise concentrations of greenhouse gases at safe levels. Securing a global agreement that has concentrations of greenhouse gases in the atmosphere reduced to prudent levels on a prudent timetable is the ultimate goal.
+
+Regional and national actions need to be a combination of both implementing New Zealand global obligations (which is a reactive policy) and demonstrating that New Zealand is prepared, with other like-minded and like-circumstanced countries, to show leadership by taking on obligations in advance of a global agreement covering developing countries (which is a proactive policy).
+
+Policies have to be effective to be credible. New Zealand emissions of greenhouse gases are high on a per capita basis, and growing. Any policies have to be of sufficient power to turn this trend around over a reasonable time.
+
+Policies have to address the specifics of New Zealand circumstances. New Zealand’s largest and fastest growing sources of emissions are agriculture, forestry and transport.
+
+Policies have to be enduring to be effective. If the behaviour of both consumers and producers is to change, both groups have to be convinced that polices are here to stay. Polices that are seen as a political football that will be reversed at each change of government will not be credible and will thus not be effective.
+
+Policies also have to be fair. Fair between consumers and producers and between different sectors.  
+Addressing climate change will have costs as well as benefits. But New Zealand should be looking to take action at least cost, not at any cost.
+
+Market-based mechanisms are to be preferred, as they allow individual consumers and producers to discover the least-cost ways of achieving any given environmental outcome.
+
+Climate change policy should be developed in a transparent, consultative manner, with independent assessment of costs and benefits of proposals.
+
+Addressing New Zealand’s issues  
+The Select Committee heard much evidence comparing policies proposed in New Zealand with those proposed in other countries. In particular, various submitters have suggested that New Zealand should closely follow the policies proposed in Australia.
+
+While Labour agrees that New Zealand should align with Australia when it is in our interest to do so, care is needed to ensure that we do not simply import policies that are directed at solving problems that do not exist here. This is particularly so when we consider that the Australian scheme is not yet legislated for.
+
+In New Zealand, most greenhouse emissions come from the agriculture and transport, and are offset by large removals from the forest sector. In Australia, energy (especially coal fired electricity generation) is the main issue.
+
+It is hardly surprising, therefore, that the proposed Australian Carbon Pollution Reduction Scheme focuses on the energy sector and gives less weight to either forestry or agriculture.
+
+Specific policy proposals  
+We have set out specific proposals for change in four parts of the ETS that we think will deliver the bipartisan support we know New Zealanders want.
+
+On sectoral entry, Labour’s position is that stationary energy, industrial processes and transport should enter the scheme on 1 July 2010, all other sectors should join on 1 January 2013, and that we should introduce a voluntary agricultural emission offset scheme from an early date
+
+For industrial processes, the issue is by when an allocation plan can be prepared. We should take officials’ advice here.
+
+For agriculture, the issue is one of principle.  
+An ETS not covering our largest source of emissions is neither credible nor fair. Australia is not exempting coal-fired electricity from its scheme. The US is not suggesting that emissions from motor vehicles be exempt. New Zealand should follow suit and solve its principal pollution problem. We cannot continue to put this problem off.
+
+An offsets scheme rewards farmers who can reduce their emissions. The US climate change Bill, already passed by the House of Representatives and now awaiting consideration by the Senate, includes such a scheme. Labour thinks that we should study it.
+
+Free allocation of units is clearly one issue where the two main parties have some work to do. Labour’s position is that while we prefer status quo, we are prepared to consider providing free allocation to individual trade-exposed firms based on their actual emissions (an intensity-basis), within a fixed pool of units (based on historical sector emission levels)
+
+Labour’s position is based on three principles: assistance should be transitory, not open-ended; there has to be a clear incentive to reduce emissions, and the quantum of assistance should be fair.
+
+Within these parameters, we can consider alternatives, even ones that treat agriculture and other industry separately.  
+Australia has only decided that it will not put agriculture into its ETS before 2015. Because it has not even decided if it will include agriculture in its scheme, Australia has not designed an allocation system for it. The system proposed for its relatively small industrial sector is not a good precedent for our relatively large agriculture sector.
+
+An intensity-based allocation system with no cap on the number of units to be given away, applied to industry and agriculture, would be economically, fiscally and environmentally irresponsible. It would provide no long-term incentive for New Zealand-based polluters to reduce emissions, would involve an ongoing and expensive transfer from ordinary New Zealanders to heavy emitters, and would be seen overseas as incompatible with our clean green image.
+
+We cannot give dairy farmers an open-ended incentive to continue to increase emissions.  
+We can consider a number of alternatives. These include an intensity basis with a fixed cap or even applying the forestry treatment (lump sum payments of units to compensate for loss of sunk asset values) to agriculture.
+
+On prices, Labour says that if there is to be a cap on the price of units, it should be for a limited and fixed duration, starting well above current prices, and applying to emissions, not removals. If it is absolutely necessary to achieve consensus, we would consider adopting a one or two year fixed price for units, provided the forestry sector is protected.
+
+Any caps on prices must cushion emitters from price spikes while the post-Kyoto international carbon market stabilises, not provide an ongoing subsidy. There is no reason why forestry should not face the full world price and the full incentive.
+
+Forestry is probably our cheapest mechanism to reduce emissions at scale.  
+Finally, Labour has proposed that climate-change policy should be developed via a transparent, consultative process, with independent assessment of the costs and benefits of proposals.
+
+We think that a climate change committee should be established, as an independent standing body charged with providing advice to Ministers and promoting informed public debate on the public policy response to climate change. The Committee would be required to consult affected parties before giving its advice. The UK Climate Change Act provides a model.
+
+Recent Government decisions on climate change targets show why we need a new way of developing policy in this area.  
+The Government has released a slew of figures justifying its weak emissions reduction target. Based on highly dubious assumptions, the Government is suggesting that New Zealand should be less ambitious than many other developed countries.
+
+The Government is trying to blind us with science. They are pretending that they have taken a principled stand, based on rigorous economic analysis. Nothing could be further from the truth.
+
+I have no confidence in the analysis underlying this decision. Fundamental issues, like the vital role that forestry offsets can play in reducing the risk of dangerous climate change, have been simply ignored or assumed away.
+
+While Labour is hopeful that a cross-party agreement on climate change can be secured this year, leading to a period of policy certainty, the need for ongoing analysis will not disappear. Climate change is a long-term issue, and as the science develops, and international negotiations continue, we can expect New Zealand to need to make further policy calls in the years to come.
+
+We need to get to a position where everyone has confidence that New Zealand decision-makers have access to the best possible analysis before they make decisions.
+
+National’s Policy  
+You’ve heard from me about Labour’s principles and the changes to the ETS legislation that we are prepared to consider.  
+What about National?  
+Unfortunately, you won’t find anything concrete about National’s thinking in the Select Committee’s report. But we do have the six principles that they set out in the minority report from the Finance and Expenditure Committee when it considered the Bill establishing the ETS prior to the election last year.
+
+I’d now like to run though those principles, and Labour’s response. Again, this is presented in the spirit of compromise of the good kind.
+
+National’s first point is that the ETS must strike a balance between New Zealand’s environmental and economic interests. It should not attempt to make New Zealand a world leader on climate change.
+
+Labour says that emissions trading is now very much mainstream. Australia and the US, together with Korea, Japan and Mexico, are all proceeding to introduce some form of emissions trading. The 27 nations in the EU scheme have done so for many years now.
+
+Since the election of President Obama and Kevin Rudd, we have seen the prospects of a Kyoto-replacement deal increase. It is not a matter of New Zealand leading the pack. Further delay, particularly if we wait for Australia, will see New Zealand being seen as clearly trailing the pack.
+
+Secondly, National said that the ETS should be fiscally neutral rather than providing large windfall gains to the Government.
+
+This is a matter of fiscal and budget policy. While National and Labour will have different priorities for the revenue from emissions unit sales post 2013, there is no issue for us in agreeing to have this as a joint position.
+
+But, at the same time, New Zealanders want to know that the money from the ETS is being spent wisely. From sometime next year, New Zealanders will be paying more from their power and fuel as the ETS takes effect. So the question will be “where is all the money going?”. While National say they don’t want to see a windfall for the Government, Labour wants to make sure that there isn’t a windfall for the big emitters either.
+
+Thirdly, National believe the ETS should be as closely aligned as possible to the planned Australian Carbon Pollution Reduction Scheme, with, where possible, common compliance regimes and tradability.
+
+Now that Australia and New Zealand are both fully committed to taking a strong international, regional and national position on climate change, close co-operation is clearly both desirable and possible.
+
+Harmonisation should not, however, be an excuse for delay. New Zealand should set a firm deadline by which it will have an ETS in place regardless of what happens in Australia.
+
+Fourthly, National says that the ETS should encourage the use of technologies that improve efficiency and reduce emissions intensity, rather than encourage an exodus of industries and their skilled staff to other countries.
+
+This refers to the proposals to give free allocations of emission units to trade-exposed heavy emitters. Basing allocation on emissions intensity, rather than actual emissions, means that firms can see their total emission increase at little or no cost to them, but with a cost to the taxpayer.
+
+This could be a point of on-going difficulty, as firms have been very active in lobbying National MPs.  
+Labour will oppose any proposals that would allow total emissions to increase at taxpayers’ expense.  
+If National is not prepared to support the current provisions, we would propose two options.  
+The first involves basing free allocation to individual firms on their actual emissions in previous years (i.e. an “intensity basis”), but this must be within a fixed pool of emissions units. Overall emissions would not drive the quantum of free allocation for any individual firm.
+
+The alternative is to think about shifting the focus of transitional assistance to compensation for loss of sunk asset values, rather than on-going assistance for heavy emitters. This could be distributed over several years but would be full and final compensation for stranded assets in a world with a price on carbon. In effect, we should propose applying the rules for forestry more widely, and/or a combination of fixed and low prices for emissions units in the first years that sectors enter the scheme.
+
+Next, National wants the ETS to recognise the importance of small and medium enterprise to New Zealand and not discriminate against them in allocating emissions permits.
+
+The issue is more one of compliance costs than discrimination.  
+Including more business within the currently proposed fixed cap would be acceptable, but it is unlikely that many would see a net benefit, given the costs involved.
+
+Finally, we have the proposal that the ETS should have the flexibility to respond to progress in international negotiations rather than setting a rigid schedule. National says this is to so that industry obligations can be kept in line with those of foreign competitors.
+
+I think it is actually code for not phasing-out free allocation on a fixed timetable.  
+Labour cannot support the idea that transitional assistance should be permanent.  
+There are growing signs that the next round of climate change talks in Copenhagen could achieve a breakthrough deal that sees developing countries agreeing to take actions that would be quantified, measured and reported. This will reduce the need for the main reason for transitional assistance: to prevent leakage of industrial production from developed country, which have emissions targets, to the developing world that does not.
+
+It would be a mistake to buy into permanent assistance for competitiveness-at-risk companies when the question of alleged “leakage” (their movement to other countries to avoid carbon pricing) may be short term.
+
+So what is Plan B?  
+What will happen if National insists on proposals that are inconsistent with Labour’s principles? Well, we have to be clear: we are not going to agree to anything just for the sake of agreement. If National is not prepared to put politics aside and address what’s best for New Zealand and the atmosphere, then we will walk away from the talks.
+
+The first thing to say about that is that the current ETS is on the statute books waiting for the next sectors to come into the scheme on 1 January next year.
+
+So if National wants to prevent that, and they haven’t got the support of Labour, then they are going to have to deal with either the Maori Party, the Greens, or ACT.
+
+I would think a deal with the Greens is highly unlikely. So the actual alternatives to a deal with Labour are a narrowly-based ETS supported by the Maori Party and National with significant design flaws, or an eviscerated measure supported by National and ACT.
+
+Both ACT and the Maori Party have called for a simple carbon charge or energy tax as a stop-gap measure while further work is done on the ETS. Labour cannot support this. Not only are claims that it is actually possible to design and implement a “simple”carbon tax at best mischievous, emissions trading is now the mainstream policy vehicle internationally for addressing climate change. The time is for action, not more analysis. Parliament knows what needs to be done and should get on and do it.
+
+We will also see the ETS remain a political football right the way through to the next election if there isn’t legislation passed with broad support.
+
+The investment blight caused by the current policy vacuum will continue, with businesses having no certainty. Who can invest in 30 or 40 year assets if climate policy could dramatically change every three years? We won’t see the billions in investment on forestry, clean technology and clean energy that a price on carbon will trigger.
+
+Job growth will suffer, as will New Zealand’s brand abroad, threatening our trade and tourism.  
+We won’t see hundreds of thousands of hectares of new carbon sink forests planted in the next decade.  
+And we can kiss good-bye having a credible voice in the international negotiations which will set the global climate change rules for us for decades to come.
+
+Conclusion  
+New Zealand could have had an Emissions Trading Scheme with broad centrist support had National not chosen to play politics with it last year.
+
+As a result of those games, we have lost over a year’s worth of progress on climate change policy and emissions reduction.
+
+Unlike National in opposition, Labour is working constructively and in a principled fashion with National to restore an ETS that is meaningful and retains the major design principles we enacted.
+
+Parliament has a golden opportunity to reach a broad consensus and take New Zealand's ETS design off the political battlefield once and for all. We hope National will seize that opportunity. If they do, Labour is ready and willing to work with them.
+
+This would also mean that the last nine months spent rehearing evidence on the ETS already traversed last year by Parliament would not be a total waste of time.
+
+Since the Rio Earth Summit in 1992, New Zealand has debated extensively whether, how, and when we should take action to fulfil our international obligations to be part of a global solution to climate change. But we have never been able to bring these debates to an agreed conclusion.
+
+The Labour Party is committed to working in good faith with all other parties in Parliament to maintain a world-class ETS that shows that, as a country, we understand that environmental, social, and economic considerations are complementary, not in competition with one another.
+
+Only by achieving that understanding will we be able to deliver to our children the bright future they deserve. Labour has put forward its proposals to change the ETS. We await the Government’s response.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

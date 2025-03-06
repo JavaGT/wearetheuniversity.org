@@ -1,0 +1,223 @@
+---
+slug: kerr-lessons-from-labour-market-reform-in-nz
+title: "Kerr - Lessons From Labour Market Reform in NZ"
+date: 2005-03-21
+source-url: https://www.scoop.co.nz/stories/BU0503/S00236/kerr-lessons-from-labour-market-reform-in-nz.htm
+author: new-zealand-business-roundtable
+---
+Kerr - Lessons From Labour Market Reform in NZ
+==============================================
+
+**Monday, 21 March 2005, 10:35 am**  
+**Speech: [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable)**
+
+18 March 2005
+
+The H R Nicholls Society's XXVI Conference
+
+Lessons From Labour Market Reform In New Zealand
+
+Roger Kerr - Executive Director Melbourne
+
+New Zealand Business Roundtable 18 March 2005
+
+LESSONS FROM LABOUR MARKET REFORM IN NEW ZEALAND
+
+Introduction
+
+I am honoured to be the recipient of the Copeman Medal for 2005. Charles Copeman’s successful struggle as chief executive of Peko-Wallsend Ltd against the union rorts at the Robe River iron ore operation in the Pilbara in Western Australia was an inspiration to those of us engaged in the battle for labour market reform in Australia and New Zealand.
+
+I am particularly honoured to receive the award from the Hon Ian McLachlan AO, who was another leader in that battle as president of the National Farmers’ Federation. A comment he made about the 1978 dispute over the export of live sheep, when farmers took over the wharves in Adelaide, has always stuck in my mind. “Industrial relations were once considered complex”, he said, “until we simplified them somewhat”. That statement encapsulates the message that I wish to leave with you tonight.
+
+The background to labour market reform in New Zealand Before New Zealand embarked on its economic reforms in the 1980s, it had the most regulated economy of all the member countries of the Organisation for Economic Cooperation and Development (OECD). Indeed, the entire economy was a network of controls and cross-subsidies, in which almost every sector did its best to live off every other sector.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The so-called Fortress New Zealand regime involved very high levels of import protection through a mixture of tariffs and import licensing. Exporting manufacturers received tax breaks, while farmers came to depend on subsidies to help offset the costs of protection. The main agricultural industries were subject to the monopoly control of agricultural marketing boards or other regulations. The domestic economy was as heavily regulated as the international sector.
+
+We had adopted the British system of industrial relations with craft-based trade unions and compulsory union membership. Most workplaces were covered by industry or national awards setting out wages and conditions. There was minimal scope for individual employers and employees to opt out of awards and agreements. Workers and management were locked into a system that put them in perpetual conflict with each other. Productivity was greatly compromised and strikes were endemic.
+
+Where the government was not merely regulating it was running its own businesses – and doing so very badly. There was a raft of government trading activities, from financial institutions to a hotel chain. Many made losses. Almost all were inefficient and gave poor service. The need to 'protect' the 'jobs' in these businesses meant many government activities were shielded from competition. Financial markets were also tightly regulated, and interest rates were controlled. There were foreign exchange controls and different variants of a fixed exchange rate regime over time.
+
+The tax system relied heavily on direct rather than indirect tax, and was full of loopholes. Increasingly high personal and company tax rates were being levied on an inadequate tax base. With government spending out of control, fiscal deficits were routine from the 1970s onwards. Monetary policy was inconsistent. From the early 1970s, inflation ranged between 10 and 20 percent. In desperation, the Muldoon government in 1982 imposed a comprehensive freeze on wages, prices and interest rates.
+
+Around the same time it embarked on its ‘Think Big’ programme of state-financed major energy projects. The cumulative effect of these policies was to make New Zealand the most inefficient and worst performing economy in the OECD. From having the third highest average living standard of any country in the world, we had fallen to 23rd place in the OECD by 1984 and were continuing to lose ground relative to both the developed and the newly industrialised economies. Our productivity growth had been the worst of any OECD country for decades.
+
+Unprocessed pastoral products still accounted for the bulk of exports, and the manufacturing sector was grossly inefficient. Since the first oil shock economic growth had slumped, and unemployment had begun trending upwards. At the same time we were failing to live within our means as a country.
+
+There was a rapid build-up of public debt which led to a downgrading of our credit rating in 1984. The Muldoon era ended with a foreign exchange crisis when the 1984 election was called. The revival of New Zealand's economy follows one of the most remarkable economic liberalisations of modern times. Although the reform period is often dated from 1984, it actually began in the early 1980s with the signing of the Closer Economic Relations treaty with Australia and other tentative moves towards trade liberalisation and deregulation.
+
+The reform process accelerated sharply when the Labour government came into office in July 1984. From the mid 1980s to the early 1990s, New Zealand embarked on two waves of economic liberalisation under successive governments. The cumulative shape of these reforms closely parallels those in Australia over the last 20 years, although there were many differences of timing, sequencing and detail. New Zealand’s rate of growth in real gross domestic product in the period since 1993 has averaged 3.7 percent, only a fraction below that of Australia.
+
+The extent of the freeing up of the economy can be seen from the Fraser Institute’s Economic Freedom of the World (EFW) Index. Between 1975 and 1995, New Zealand’s score on the EFW Index rose from 5.6 to 8.6 out of 10, while its rank jumped from 34th to 3rd. While reform progress slowed from the mid-1990s (and regrettably has been reversed in numerous areas under the Labour government elected in 1999), New Zealand remains among the freest economies, as measured by the EFW Index, although its absolute score has fallen to 8.2.
+
+The reform programme included the removal of all wage, interest and other price controls, the dismantling of import licensing and tariffs, the deregulation of financial markets and exchange controls and the adoption of a freely floating currency, a disinflationary monetary policy, extensive product market deregulation, moves to corporatise and privatise state trading enterprises, and other public sector reforms. In most respects these were moves in the direction of policies that the more successful OECD countries had long practised or were also implementing.
+
+The Labour government, however, found it difficult to apply a similar liberalising philosophy to labour markets. It abolished compulsory arbitration but reintroduced compulsory unionism in 1985. In that year the wage freeze ended in an environment where disinflationary policies and increased competition had not fully taken hold, with the result that average private sector wages increased in a 12-month period by around 18 percent (and public sector wages by an even higher amount).
+
+This real wage shock instigated by the trade unions was a major factor in the steep increase in unemployment in the late 1980s, which they subsequently bemoaned. Between 1987 and 1990 the Labour government made some further changes to labour market regulation including the introduction of limited contestability among unions for members and narrow provisions for initiating enterprise-specific negotiations.
+
+These reforms were minor and piecemeal, however. They failed to meet the needs of firms having to adjust to new competition and did little to facilitate the reallocation of labour from declining to expanding sectors. More significant and successful changes were made to public sector employment arrangements, to waterfront employment and to shop trading hours, which were substantially liberalised.
+
+However, not until the Labour government lost office and a National Party government was elected in 1990 did labour market reform get addressed in a more coherent fashion. The Employment Contracts Act 1991 The Employment Contracts Act (ECA) was enacted in May 1991.
+
+Its stated objective was to promote an efficient labour market. Essentially the ECA deregulated employment contracting and removed most of the structures that upheld the previous centralised system. Compulsory unionism was replaced by freedom of association, enabling employees to choose whether  
+or not to join an 'employee organisation'.
+
+A number of aspects of the ECA are worth highlighting: the words 'trade union' did not appear in the ECA, nor did unions have special statutory backing or privileges. However, they could acquire legal status as voluntary societies or through other forms of incorporation; there was no bias either for or against collective bargaining in the ECA. Employees could choose either to negotiate an individual employment contract with their employer or be bound by a collective employment contract; in negotiating employment contracts, employees could freely choose their own bargaining agent – themselves, a union or any other agent such as a lawyer; and strikes and lockouts were permitted but only if they related to the negotiation of an expired or new collective contract for the employees concerned (or on health or safety grounds).
+
+The ECA represented a significant advance over the previous system of labour market regulation in New Zealand. In the words of an American labour academic, Professor Charles Baird, the ECA was: … a bold, giant step toward the worthy goal of restoring freedom of contract to New Zealand labour markets. It has totally abolished compulsory unionism and obliterated the special privileges that unions have unjustifiably enjoyed in New Zealand since 1894.
+
+In no other advanced country in the world … has the legislature been willing to challenge the hegemony of trade unions to such an extent. The ECA went a long way to fully deregulating the process of employment contracting and introducing standard principles of freedom of association and contract. An exception to this was that the ECA did not permit union-only or union-free voluntary workplace contracts. Despite its many strong points, the ECA was an incomplete revolution.
+
+A key weakness was that it retained a number of provisions that regulated the content of employment contracts and thus treated them differently from normal contract law, and it introduced some new forms of regulation. The worst feature of the ECA, especially as it came to be interpreted by the courts, was its mandatory personal grievance provisions.
+
+These were particularly important in the case of so-called unjustifiable dismissals, and included both procedural and substantive elements. It was not possible to contract out of these provisions, which in effect required employers to show 'just cause' for dismissals. As a result, employment at will (the ability of an employer to dismiss without showing cause, matching an employee's ability to quit at will, unless employment contracts provide otherwise) was abolished in New Zealand.
+
+Prior to the ECA, non-union workers on individual contracts, who accounted for a significant proportion of the workforce, could be employed on an at-will basis. By widening the ambit of the unjustifiable dismissal rules, the ECA was actually a step backward for New Zealand labour law.
+
+Such rules, by making it harder for firms to dismiss non-performing staff and riskier to take on marginal employees, are effectively a tax on employment, as a 1996 study demonstrated. A second major weakness of the ECA was that it did not give the task of administering a regime based on contract law to the general courts. Instead, it retained separate institutions in the form of a low-level Employment Tribunal and an Employment Court.
+
+The latter in particular has been reluctant to respect contract law principles and has maintained a pattern of third-party interference in employment relations. A third key weakness was that the freedom of contract approach that underpinned the ECA was not extended to other aspects of labour market policy. In particular, the ECA left untouched three minimum codes that were found in other pieces of legislation: legal minimum wages, legally mandated holidays and occupational safety and health regulations.
+
+The New Zealand statutory minimum wage is set at a proportion of average wages which is around the middle of the OECD range. It was extended to youth wages in 1994. Minimum wages have increased significantly in recent years, especially for those aged under 21. In 2001, the government lowered the age of eligibility for the adult minimum wage from 20 to 18 years of age and increased the youth minimum wage in two steps from 60 percent to 80 percent of the adult minimum wage.
+
+As a result, the minimum wage for 18 and 19 year-olds increased by 69 percent, while the rate for 16 and 17 year-olds grew by 41 percent. Holiday entitlements remain governed by statute. In 2004, the government announced an increase in the statutory annual leave entitlement under the Holidays Act from 3 weeks to 4 weeks from 2007.
+
+Most New Zealanders would be astonished to learn that the United States has no mandatory holidays requirements at all: firms and their staff work out what suits them best. The government also restored the state monopoly in accident insurance (the no-fault accident compensation scheme was partially opened up to competition in 1998). In 2002, the government introduced taxpayer-funded paid parental leave of 12 weeks.
+
+This was extended to 13 weeks in 2004 and will be further extended to 14 weeks in December 2005. Health and safety arrangements are governed by regulation rather than contract, and in the 1990s other employment-related legislation adopted included a Human Rights Act, prohibiting discrimination on the basis of age and other grounds, and a Privacy Act. The present government has enacted clean slate legislation denying employers access to most criminal records after seven years.
+
+Professional occupational regulation has remained largely untouched in New Zealand, with accounting being the main exception. Experience under the ECA The ECA saw major changes in industry practices.
+
+Prior to the ECA, employment arrangements in New Zealand were characterised by: a significant proportion of employment contracts set by parties other than the individual employers and employees to whom they applied; costly disputes over contract negotiation and interpretation and coverage; different rules applying to different employees (eg whether or not they were members of a union) and different contract types (eg collective versus individual contracts); frequent union demarcation disputes; and the exercise of market power by some employee and employer groups.
+
+In contrast, the ECA facilitated the formation of individual contracts at the firm level, encouraging firms and workers to negotiate terms and conditions that reflected their circumstances. In doing so, it enhanced incentives to invest in best-practice skills and technologies.
+
+The ECA also reduced the incidence of costly disputes and it did away with arbitrary distinctions regarding the status of different employees or contract types. At the time, the liberalisation of the labour market was greeted by howls of protest by entrenched interests in the union movement, the media, the church and academia.
+
+Ken Douglas, head of the Council of Trade Unions at the time, described the legislation as the “‘Pol Potisation’ of the union movement”. Raymond Harbridge of Victoria University at Wellington (now at LaTrobe University) commented that “the bill might open New Zealand to the ‘worst excesses of gangster unionism’ so far seen only overseas”.
+
+John Kennedy, who was the editor of a Catholic paper – and, to his credit, later recanted his views – argued that the bill “goes too far… it is revolutionary, almost an act of revenge. It displays the same degree of sensitivity as Saddam Hussein has shown in Kuwait”. Not to be outdone, Patricia Herbert of Radio New Zealand (now the minister of finance’s media spokesperson) described it as “a recipe for exploitation”. You get the picture.
+
+Needless to say, the effects of the ECA were much more positive and more orthodox than what was predicted by its opponents. Because it was only one of a large number of policy changes that were impacting the economy, it is not a simple task to disentangle its influence from others. The interpretation of some of its effects remains controversial.
+
+Moreover, while a broadly sound and consistent economic policy framework was established in the early 1990s, that framework has become substantially weaker in recent years – and especially since the election of the Labour government in late 1999.
+
+Having said that, the first striking result to note in looking at experience under the ECA is the virtual disappearance of multi-employer contracts. The evidence suggests that in a freer environment most employers want to deal directly with their own workforces and vice versa. Trust and cooperation largely supplanted former adversarial relationships.
+
+There were substantial gains in the operating performance of many firms with the elimination of inefficient work practices, demarcation arrangements and penalty and overtime pay, and their replacement by performance elements in remuneration, flexible work practices and multi-skilling. The ECA gave employers and employees the opportunity to develop employment conditions appropriate to their circumstances.
+
+Unions survived and continue to be the predominant bargaining agent for workers opting for collective contracts. Union density fell from over 50 percent of the workforce in 1989 to around 20 percent in 1999. It remains around that level today – despite the changes to employment law made by the current government. Union density in the private sector is even lower – around 12 percent – and unions are almost non-existent in some sectors of the economy.
+
+The trend toward lower unionisation rates was evident for a number of years, but the ECA appears to have accelerated it. Industrial disruption fell dramatically. In the five years before the ECA, annual work days lost through strikes averaged 266,000. The number fell to 11,778 in 1998 – the lowest in 64 years, before rising somewhat to 16,674 in 1999, the last full year of the ECA. Work stoppages increased following the passage of the Employment Relations Act (ERA) in 2000, but remain well below pre-ECA levels.
+
+New Zealand’s labour market performance under the ECA was impressive. In the five years to 1996, employment growth in New Zealand was the highest in the OECD. Unemployment fell from 11 percent of the labour force in 1991 to 6 percent by late 1996, a very sharp fall by international standards, despite substantial inward migration during the period.
+
+After a brief upswing due to the Asian economic crisis, the unemployment rate has continued to fall, despite the passage of the ERA. In December 2004, the unemployment rate in New Zealand stood at 3.6 percent – the lowest in the OECD. Maori rates of unemployment have fallen significantly from over 25 percent in the early 1990s to 8.9 percent in the December 2004 quarter.
+
+The ECA also contributed to labour force participation ratios that are well above the OECD average. This is true for both men and, particularly, for women. According to the most recent OECD figures, the overall participation rate now (2003) stands at over 76 percent compared with the average rate for the OECD of just under 70 percent. Contrary to the views of those who subscribe to unequal bargaining power theories, average real wages did not fall significantly in the freer environment despite the recession of the early 1990s.
+
+And contrary to other predictions, wages did not 'blow out' as labour markets began to tighten. This is true even now, despite historically high growth rates and widespread reports of labour shortages – supply and demand conditions are dictating wage adjustments, as they should.
+
+Nevertheless real wages are rising on average and there has been an increase in wage dispersion. The direct and indirect effects of the ECA clearly played a part in the improvement in all these labour market indicators. There has been controversy about the impact of the ECA on productivity growth.
+
+The evidence seems to indicate that aggregate labour productivity improvements were initially modest, which is not surprising given the movement of many previously unemployed and low-skilled people into work. Nonetheless, the most recent evidence is that multifactor productivity growth improved noticeably after 1993 in New Zealand.
+
+Average multifactor productivity growth increased from .09 percent per annum between 1988 and 1993 to 1.32 percent per annum for the period 1993 to 2002. Between 1988 and 2002, market sector multifactor productivity growth was similar in Australia and New Zealand.
+
+This research is consistent with other studies that show an improvement in productivity in the years following the introduction of the ECA. Productivity-enhancing changes to work practices were also visible at the micro level.
+
+A survey by the New Zealand Institute of Economic Research found that the most common changes to employment contracts as a result of the ECA were an increase in flexible work practices, reduced demarcations, greater multi-skilling and an increase in performance-based remuneration. Three-quarters of firms surveyed said the ECA was positive for their overall performance, with the most significant outcomes being higher productivity, operational flexibility and greater training.
+
+The culture of enterprise in New Zealand was transformed, with greater awareness of human resources issues generally. A climate of trust and cooperation has displaced, in most cases, previous adversarial relationships. Close to two-thirds of employees surveyed in 1998 described their pay and conditions of employment as ‘good’ or ‘very good’ and a higher proportion agreed that if an aspect of their employment caused dissatisfaction, they felt ‘comfortable’ about talking about it with their employer.
+
+Much academic opinion about the ECA and assessments by organisations such as the OECD and the International Monetary Fund (IMF) were strongly positive. In 1999, the OECD remarked that the employment relations framework that existed under the ECA was “sound”.
+
+By the late 1990s, opinion surveys suggested that most people thought the ECA had been good for the economy and that most people were happy with their own working conditions, although opinion was fairly evenly divided over whether workers overall had benefited.
+
+The absence of a significant increase in unionisation rates following the passage of the pro-union ERA suggests that workers had ‘moved on’ from the class-based, cloth-cap unionism that characterised New Zealand prior to the ECA. The Employment Relations Act 2000 Despite the evident success of the ECA, unions remained implacably opposed to it.
+
+When a Labour-led government was elected in 1999 it replaced the ECA by the Employment Relations Act which came into effect in October 2000. The ERA enacted a number of changes, including the introduction of so-called ‘good faith’ bargaining; the promotion of mediation over litigation; strengthening the role of unions through the reintroduction of a union monopoly on collective bargaining; and the promotion of collective bargaining by various means, including requiring employers to provide union representatives with information and workplace access. Union membership remained voluntary.
+
+The underlying philosophy of the ERA is that there is inherent inequality of bargaining power in employment relationships. The ERA was a backward move. There was no policy justification for the repeal of the ECA. The detailed contents of the bill were never the subject of a proper process of analysis and consultation. Nonetheless, the adverse impact of the ERA was lessened by two factors. First, the worst features of the bill were removed as a result of business opposition (the so-called ‘winter of discontent’ in 2000).
+
+Second, the ERA remained an enterprise-focused statute, with only a small push towards collective bargaining and multi-employer contracts. However, these changes were not enough for the trade unions, which continued to agitate for more.
+
+The government complied with their demands in 2004 when a number of further changes were made, notably: the duty of good faith was extended, although the new meaning of the term remains undefined; union access to the workplace was extended; there are new requirements to give employees access to information if a proposed decision is likely to affect the continuation of employment; it is now more difficult for employers to ‘pass on’ collective contract terms to non-union employees; parties bargaining for a collective agreement are now required to conclude a collective agreement unless there is “genuine reason”, based on reasonable grounds, not to do so; the Employment Relations Authority can now facilitate bargaining under certain conditions (eg if there has been a “protracted or acrimonious” strike or lockout or a “serious and sustained” breach of good faith); a new two-tier arrangement has been introduced to ‘protect’ employees involved in situations where a business (or part of it) is being restructured; and so-called ‘vulnerable’ employees (those in sectors such as food catering and laundry) have been given additional rights, including the ability to elect to transfer to the new employer in cases where a business is sold.
+
+Although advertised as ‘fine-tuning’, these changes constituted a more significant alteration of the labour relations landscape. Their overall aim was to promote collective bargaining, unionisation and multi-employer collective agreements, and expand the role of third parties in labour relations.
+
+Although the legislation does not explicitly use the phrase ‘national award’, or include compulsory unionism or compulsory arbitration, its cumulative effect will be to push employment relations toward all of those end points. Unquestionably, it will limit the freedom of both employees and employers. The amendments only came into effect in December 2004 and it is too early to judge their consequences, although we are already seeing pressures for across-the-board wage increases and multi-employer contracts.
+
+Moreover, the Council of Trade Unions has signalled that it is seeking further changes to the industrial relations environment in New Zealand (notably a general regime of national awards) and this cannot be ruled out if the Labour government is re-elected.
+
+The amendments were so partisan, however, that they cannot possibly survive a change of government and the National Party, the main opposition party, has said that it will repeal them. Thus while New Zealand and the United Kingdom moved further than other OECD countries from the 1980s to liberalise their labour market arrangements, the New Zealand record was by no means perfect under the ECA. Indeed, the system retained many restrictions, which in some cases are more stringent than those in a number of OECD countries and which have little public policy justification.
+
+Good progress, but could do better would be the overall assessment of the ECA. Changes introduced since 2000 have seen New Zealand move in the opposite direction. In its most recent report on New Zealand, the OECD noted that: Although the labour market remains one of the most flexible in the OECD, recent years have seen a clear trend towards greater rigidities and higher labour costs. Further such changes are in the pipeline.
+
+Individually the measures have been fairly benign, but cumulatively their impact may be important … social objectives need to be balanced against the benefits of labour market flexibility – namely faster productivity growth and a more stable and resilient economy.
+
+This is borne out by a number of measures. For example, despite its high overall ranking in the EFW index in 2002, New Zealand scored only 5.9 out of 10 and ranked only 33rd for the regulation of labour markets, which measures economic freedom in the areas of minimum wages, hiring and firing practices, the share of the labour force whose wages are set by centralised collective bargaining and the extent to which the unemployment benefit preserves the incentive to work.
+
+This was below the rankings for countries such as Hong Kong (3rd), the United States (7th), the United Kingdom (17th) and Australia (25th). New Zealand’s ranking was down from 21st in 2001. Another study from 2001 showed that, in the late 1990s, New Zealand was poorly placed in international comparisons of strictness of eligibility criteria for unemployment insurance and suspension of unemployment insurance payments, and only moderately well placed in the late 1990s in terms of strictness of employment protection for regular employment. According to that study, employment protection laws in New Zealand were less strict than in Japan and some European countries, but more strict than in Australia, the United States, Denmark and Switzerland.
+
+A 2003 study by Botero et al placed New Zealand behind countries such as Singapore, Denmark, the United Kingdom, the United States, Hong Kong, Sweden, Ireland and Malaysia in terms of the strictness of employment laws. The World Bank’s Doing Business in 2005 report provides a somewhat more optimistic view – placing New Zealand 6th equal on its rigidity of employment index – behind countries such as Canada, the United States, Singapore, Malaysia and Hong Kong.
+
+Lessons for labour market reform in Australia I have learnt from long experience to be cautious about taking messages to other countries. I recall the story of an aspirin company that had decided to enter the Singaporean market. Its marketing department prepared a simple advertisement with three panels.
+
+The first was a picture of a person with his head in his hands and agony on his face, clearly suffering from a terrible headache. The second panel showed the sufferer with a glass in his hand swallowing the new product. The third panel showed the individual smiling and free of pain. Everyone in the company was happy and the aspirin was duly launched in a blaze of publicity. There was only one problem – the advertising company had overlooked the fact that Chinese-speaking people read from right to left.
+
+With that word of warning, let me venture a few points. First, no one should underestimate the importance of a free and flexible labour market as a key requirement of a well-performing economy. It is one of the ‘big ticket’ items. Labour costs represent around two-thirds of the costs of production in our economies.
+
+If Australia and New Zealand are to be successful in facing the challenges of international competition, businesses must be able to deploy such an expensive resource efficiently and there must be strong incentives for work and skill formation. I would nominate an efficient labour market alongside openness to trade and small government/low taxes as the ‘Holy Trinity’ of policies for economic growth.
+
+Secondly, do not be put off by the hyperbole and dire warnings of opponents of labour market reform. Claims that sound reform will lead to greedy employers exploiting helpless workers, industrial strife or riots in the street have all been proven false in New Zealand.
+
+New South Wales industrial relations minister John Della Bosca argued recently that the Howard government's workplace reforms \"will undermine the Australian family in a bigger way than any other issue that has undermined Australian family life in the last 30 years."
+
+This is transparent nonsense. Thirdly, support for the reform process will need to be strong and sustained. In New Zealand, the Business Roundtable had begun working on labour market issues in the mid-1980s. By the time the opportunity for serious reform arose when the National government was elected in late 1990, we had developed clear perspectives on desirable changes. They were set out in greatest detail in a book entitled Freedom at Work: The Case for Reforming Labour Law in New Zealand, by Penelope Brook.
+
+But don’t be surprised if there is some reticence about change even among some businesses or business groups. In New Zealand, the business sector was generally supportive but elements of it were still signed-up members of our industrial relations club. Some argued that the ECA would give workers too much freedom of choice and were fearful of union power.
+
+I remember a former head of our Employers’ Federation saying to me: “So you want to let the gorillas out of the cage”. By 1990 the Employers’ Federation wanted significant change but in the form of modifications of the existing legislation rather than a re-write in the form of a contract-based statute. As things turned out, most firms adapted readily and positively to the freer environment and the Employers’ Federation (which subsequently merged with the Manufacturers’ Federation to form Business New Zealand) argued strongly against the repeal of the ECA and the ERA changes.
+
+Fourthly, I would predict that throughout the reform process, there will be calls for compromise and gradualism. Such tendencies should be resisted. New Zealand’s experience shows that labour market reform needs to be comprehensive. Those aspects of the New Zealand labour market policy that were not reformed – for example, the Employment Court and the unjustifiable dismissal provisions – represented a source of frustration for both employers and the government throughout the 1990s.
+
+The government understood these features were weaknesses when the ECA was passed and talked privately about addressing them later, but that never happened. You may only get one shot at reform. Make it a good one. Above all, any new regime should meet the test of simplicity that Ian McLachlan so concisely set out in 1978. Governments around the world have made industrial relations arrangements far more complex than they need to be. A key reason for this complexity is the longstanding idea that underlies much labour market regulation, unionisation and collective bargaining – the notion of 'unequal bargaining power'.
+
+This idea, which is seldom explained or defended, is an explicit premise of the ERA, which states that its object is to: … build productive employment relationships through the promotion of mutual trust and confidence in all aspects of the employment environment and of the employment relationship … (iii) by acknowledging and addressing the inherent inequality of bargaining power in employment relationships … The fallacy of bargaining inequality has been exposed by a vast body of law and economics scholarship. It owes its origins to Marxist economics – the class struggle – and is based on a false understanding of the nature of markets and competition. In competitive labour markets, firms compete with one another for the services of employees, and employees compete with one another for jobs: firms don’t compete with workers.
+
+Wages and other conditions of employment are set through voluntary exchanges that yield mutual gains. Bargaining power depends on available alternatives. At times labour markets, like any others, may favour buyers or sellers but there is no systematic or long-run bias in favour of employers. If the notion of unequal bargaining power were true, we would expect employers to use it until wages and other conditions of employment were driven down to subsistence levels, as Marx predicted.
+
+But this is the case in no modern labour market: wages in Hong Kong, for example, are among the highest in the world, yet unions hardly exist there. Because the notion of unequal bargaining power is simply wrong, as shown by both theory and evidence, there is little need for complex employment legislation.
+
+The combination of common law, voluntary contracting and competitive markets, which would be conducive to full employment and thus more alternatives for workers, protects them far better than complex statutes.
+
+Probably the only reason for any special legislation at all is that many judges could not be trusted to administer employment contracts in the same way as other contracts. For that reason, you might need a short statute to make sure that they did just that. This was the advice of University of Chicago legal scholar Richard Epstein, who commented in a recent article: The Employment Contracts Act was not perfect, but it was a great advance and it certainly did not cause the sky to fall in. New Zealand should heed its lessons: labour markets are not special; they are not characterised by unequal bargaining power; common law provides protections against fraud, misrepresentation and duress; and voluntary contracting is in the best interests of firms, workers and the unemployed – if not in the interests of protected unions.
+
+Who knows? If the Howard government has the wisdom and fortitude to pass legislation based on these principles, it could serve as a future model for New Zealand.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable) on InfoPages.

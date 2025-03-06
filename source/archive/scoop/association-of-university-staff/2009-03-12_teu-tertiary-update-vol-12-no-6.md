@@ -1,0 +1,202 @@
+---
+slug: teu-tertiary-update-vol-12-no-6
+title: "TEU Tertiary Update Vol 12  No 6"
+date: 2009-03-12
+source-url: https://www.scoop.co.nz/stories/ED0903/S00043/teu-tertiary-update-vol-12-no-6.htm
+author: association-of-university-staff
+---
+TEU Tertiary Update Vol 12 No 6
+===============================
+
+**Thursday, 12 March 2009, 1:50 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+INCOMING TEU PRESIDENT RYAN CALLS FOR END TO REDUNDANCIES
+
+Newly elected TEU national president, Dr Tom Ryan, says it is time for the CEOs and vice-chancellors of the country’s tertiary-education institutions to join up the dots and take action if they are going to step up to the challenge New Zealanders have laid down for them to combat the economic crisis.
+
+Dr Ryan was elected yesterday by TEU members and takes up the new position on 1 April. The other candidate was current national co-president, Tangi Tipene of Waiariki Polytechnic.
+
+“Too many institutions are working in last year’s economic climate with last year’s enrolment figures,” said Dr Ryan. “We need to deal with the fact that student enrolments are up all over the country, but that funding is capped for institutions enrolling students above the cap. While the country is calling out for tertiary education and skills training, we have institutions still engaged in last year’s restructuring plans, job lay-offs, and redundancies. It doesn’t make sense any more.”
+
+Dr Ryan added that New Zealand’s tertiary-education workers have the capacity and the skills to help educate and train the thousands who need a new chance in our fragile economy. “But, for that to happen, institutions need to make staff workloads and student education their focus, not overseas business ventures and flashy business diversifications.”
+
+Dr Ryan is a senior lecturer in anthropology and labour studies at the University of Waikato. He says it is fantastic to be leading a strong, united union in its inaugural year. He has been a union leader since the 1970s, when he held elected offices in Australian mining unions. More recently, Dr Ryan has been president of the Lecturers’ Association at the University of Auckland, a member of the council and academic board at Waikato, and academic vice-president of the Association of University Staff.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+In other contested elections for leadership positions within the newly formed Tertiary Education Union, Michael O’Connell of UCOL was elected ahead of Peter McLuskie of the Open Polytechnic as institutes of technology and polytechnics (ITP) academic vice-president. Glennis Birks of Waikato Institute of Technology, Richard Draper of Christchurch Polytechnic Institute of Technology, Lesley Francey of Manukau Institute of Technology, Sarah Hardman of Unitec, Eric Stone of NorthTec and Peter McLuskie of the Open Polytechnic were elected as the six academic representatives to the ITP sector group.
+
+ALSO IN TERTIARY UPDATE THIS WEEK:
+
+1\. High hopes for Lincoln-AgResearch merger  
+2\. Massey leads pay-equity way for universities  
+3\. New students challenging government EFTS-funding caps  
+4\. Tighter belt no excuse for more workload, says TEU  
+5\. 9-day fortnight a reality but day 10 missing cash and training  
+6\. Gillard gives speeches but not yet dollars  
+7\. South Africa to split education ministry  
+8\. Irish unionist wins academic freedom in court  
+9\. Liverpool University will probably axe probability department
+
+HIGH HOPES FOR LINCOLN-AGRESEARCH MERGER
+
+Crown Research Institute AgResearch and Lincoln University announced on Tuesday plans to investigate a merger of the two institutions. The plans will now depend in large part upon support from the government, which must work out how to merge two bodies constituted under different acts of parliament. With this support, the two institutions could be one by the middle of the year. The new institute would take Lincoln University’s name and would have combined assets of about $485 million and annual revenue of $230 million.
+
+Proponents of the merger say it could add $1 billion annually to New Zealand’s food and farming income. Federated Farmers’ president, Don Nicolson, was strongly supportive, arguing that the merger will result in research being focused on productivity while eliminating research duplication. “If the merger succeeds, it will create a research leviathan. One of the biggest in the world and based right here in New Zealand,” said Mr Nicolson.
+
+The Public Service Association (PSA), which represents CRI scientists, however, is worried that AgResearch staff may face job cuts. “We want to know what’s driving the proposed merger and how it will enhance the work done by AgResearch staff,” said PSA national secretary, Richard Wagstaff.
+
+Dr Lyn Boddington, co-president of Lincoln University’s TEU branch, said that the mood is positive among university staff and that “people are cautious but excited”. “Lincoln could be a much, much stronger institution if this goes ahead. It has huge opportunities for synergies and growth. We have been told the merger will be premised on growth, not cuts,” noted Dr Boddington.
+
+Dr Boddington added that the university had informed staff of what was going on at an early stage and that, until now, staff had been respected and involved in the discussion. She is looking forward to “lots of information and lots of consultation” in the coming months.
+
+MASSEY LEADS PAY-EQUITY WAY FOR UNIVERSITIES
+
+Massey University’s announcement that it will undertake a pay and employment equity investigation of its employment practices is exciting news for all university staff, says Tertiary Education Union women’s vice-president, Dr Sandra Grey.
+
+Massey will be the first New Zealand university to comprehensively analyse its pay and employment practices using a gender analysis programme, and then develop an action plan to redress any inequities the investigation identifies.
+
+“There has been some concern following the government’s decision to cancel two pay and employment investigations in other areas of the state sector,” observed Dr Grey. “However, within the tertiary-education sector, the pay equity reviews process is progressing well. Tertiary education has a female-dominated workforce and the investigations in the polytechnics are showing revealing information about how the jobs of women are sometimes valued differently from those of men. More importantly many tertiary education institutions are now committed to addressing the inequalities that pay and employment equity investigations are uncovering,” continued Dr Grey.
+
+“There’s a very real chance, now New Zealand’s largest university has taken the first step, that other universities will join the rest of the tertiary-education sector in committing to addressing inequitable pay and employment of women,” Dr Grey concluded.
+
+TEU members in institutes of technology, polytechnics, and wānanga are currently participating in pay and employment reviews in more than fifteen institutions.
+
+NEW STUDENTS CHALLENGING GOVERNMENT EFTS-FUNDING CAPS
+
+As hopeful students flock to tertiary education in the face of the economic recession, increasing numbers of tertiary-education institutions are growing concerned that student enrolments may exceed government funding limits.
+
+The Southland Times reported this week that the Southern Institute of Technology (SIT) and other tertiary-education institutions might have to start turning people away to avoid losing part of their funding as the recession pushes enrolments beyond government approval. SIT’s equivalent–full-time student (EFTS) numbers have increased by 5 percent since last year.
+
+Meanwhile, the Waikato Times reported yesterday that figures from Wintec and the University of Waikato show that student numbers are up 4.1 percent and 14 percent respectively on the same time last year. “A lot will depend on what happens throughout the year,” Wintec chief executive Mark Flowers told the paper. “I will be sorry if we have to turn people away.”
+
+In 2007, the Tertiary Education Commission capped EFTS at tertiary-education institutions until 2010 and introduced the ability to take away funding if institutions exceed or fall short of predicted student numbers by more than 3 percent.
+
+Christchurch Polytechnic Institute of Technology, Wellington Institute of Technology, and Waiariki Institute of Technology in Rotorua have all reported EFTS growth above 10 percent on last year.
+
+At this stage, no institute has said publicly that it will turn away students but Lisa Finucane, the communications director at Waikato University where student enrolments are still safely within the 3 percent bracket, has said the university would never turn people away from studying “even if it means having to teach more people without the extra funding”.
+
+TIGHTER BELT NO EXCUSE FOR MORE WORKLOAD, SAYS TEU
+
+Education Review reported TEU national secretary Sharn Riggs last week as saying that the union will face a round of pay negotiations this year “against a background of tight finances in the tertiary sector”.
+
+“We wouldn’t be holding our breath for additional government funding this year,” Ms Riggs is quoted as saying while commenting on the recession and the nature of the new government. However, she also committed the union to defending members’ pay packets against inflation and focusing on the workload impacts for staff if universities and polytechnics take on more un-subsidised students.
+
+Ms Riggs subsequently told Tertiary Update that higher enrolments are placing burgeoning pressure on many institutions and “it is up to those institutions, the champions of innovation and creativity, to find innovative ways to reduce rather than increase the workloads their staff currently face”.
+
+“New Zealand tertiary-education institutions are competing with institutions all over the world for our staff,” said Ms Riggs. “Pay isn’t the only solution to keeping them here: institutions can win and retain good workers by addressing lifestyle factors like workload and job satisfaction.
+
+“Institutions will have a challenge and a duty to show creative ways of addressing workload, because keeping their workers productive and successful here in New Zealand is crucial at a time when everyone is turning to the tertiary-education sector for solutions,” concluded Ms Riggs.
+
+9-DAY FORTNIGHT A REALITY BUT DAY 10 MISSING CASH AND TRAINING
+
+A nine-day fortnight is set to become a reality in the next few weeks but without the original proposal for funding to help people into tertiary education and skills training. The government announced yesterday a Job Support Scheme that will be aimed at private-sector businesses with over 100 full-time employees.
+
+Employers and workers and their unions will negotiate voluntary agreements to reduce their hours of work to a nine-day fortnight. The government will pay employers $12.50 an hour per worker, the adult minimum wage, for up to five hours a fortnight. While workers are in the scheme they cannot be made redundant.
+
+The minister for social development and employment, Paula Bennett, has said that the idea of a nine-day fortnight was one of the most popular to emerge from last month’s Jobs Summit. “However we recognised cutting up to ten hours a fortnight from workers’ pay packets simply wouldn’t be manageable for many families. To that end, the Government is stepping in to do its bit,” Ms Bennett said.
+
+Engineering, Printing and Manufacturing Union national secretary, Andrew Little, said that the Government’s nine-day-fortnight announcement was underwhelming and the subsidy will have to be met with substantial employer top-ups if it is going to work. “Five hours at the minimum wage is a miserable level of subsidy for a day’s lost pay and our members simply won’t wear that sort of loss.”
+
+Mr Little added that it is also disappointing that the plan to provide free training for workers on their tenth day has been abandoned. This was a core part of the programme outlined at the Jobs Summit.
+
+CTU president Helen Kelly, however, believes the scheme provides opportunities for workers and employers to negotiate deals which would prevent permanent job losses. “The strong message we are getting from workers is that they want to protect employment,” said Ms Kelly.
+
+Sadly for the the hundreds of state employees whose jobs are being cut in the Ministry for the Environment, the Ministry of Social Development, and the Tertiary Education Commission, the scheme will be available only to private-sector businesses.
+
+WORLD WATCH
+
+GILLARD GIVES SPEECHES BUT NOT YET DOLLARS
+
+The Australian minister of education, Julia Gillard, has given three speeches over the last fortnight outlining her government’s response to the the Bradley review into higher education . None of them, however, have outlined just how much money will be available for higher-education reform; that looks likely to remain a mystery until budget night in May.
+
+The sector had been hoping to pin the government down on some aspects of its response to the Bradley Review, and to gain some sense of where the government is headed. Instead, it has been presented with a series of broad statements which have been heavy on the feel-good factor yet contain little detail.
+
+The review, released in December, called for fairer access for poorer, rural, and regional students to higher education. Professor Bradley also recommended a $A7 billion expansion of higher education and research, boosting the proportion of 25- to 34-year-olds with at least a bachelor’s degree from 29 percent to 40 percent by 2020, and a new funding mechanism based on student vouchers or “learning entitlements”.
+
+Professor Glenn Withers, chief executive of Universities Australia, says that, while he shares the enthusiasm in the rooms where Gillard spoke last week about education reform finally being discussed, he remains fearful of what would finally be achieved when no one is talking money.
+
+He says a grand battle is taking place in Canberra over money and that the reason that the government is holding back on any funding announcement is easy to determine: the incredible load of economic issues besetting the Rudd government.
+
+Another possible reason the figures are being held back, Professor Withers says, is because the financial state of the budget is changing so rapidly that the details are still being worked out. He adds that the sector should remain fearful and push hard for a good funding result, despite the goodwill of the past seven days.
+
+From Heath Gilmore at the Sydney Morning Herald
+
+SOUTH AFRICA TO SPLIT EDUCATION MINISTRY
+
+The South African government intends to overhaul its education ministry, splitting it into two, and possibly three, separate ministries under different ministers. As well as allowing one minister to focus solely on the schooling system, this would also allow specialised focus on tertiary-education institutions, including reversing former education minister Kader Asmal’s mergers of key institutions.
+
+African National Congress (ANC) secretary-general, Gwede Mantashe, argues that having one ministry of education makes for an unwieldy situation that does not allow proper focus and attention from the minister in charge. “We can’t go on with business as usual in education,.”
+
+While minister of education Naledi Pandor is likely to remain in charge of one of the ministries, South African Communist Party general-secretary Blade Nzimande is tipped to be added as a minister overseeing one of the education ministries in ANC president Jacob Zuma’s cabinet.
+
+The ANC is expected to unveil further details of this refurbishment to the department of education next week. But Mr Mantashe said that it is critical to get the system working so that matriculants are ready to enter tertiary-education institutions and tertiary-education institutions are churning out the quantity and quality of skill that the economy needs.
+
+Mr Mantashe said that universities in predominantly black areas should be the very ones churning out black engineers and doctors. He noted that, fifteen years after the advent of democracy, not one former black university had an engineering faculty and that Medunsa University’s output of doctors had dropped following Mr Asmal’s plan of merging key universities.
+
+From Troye Lund at Finance 24
+
+IRISH UNIONIST WINS ACADEMIC FREEDOM IN COURT
+
+The Irish Federation of University Teachers has won a major academic-freedom court case against Trinity College Dublin. This is believed to be one of the few cases in the world where an issue of academic freedom ended up in an industrial-relations forum and its progress has been monitored by trade unions internationally.
+
+The court ruled that disciplinary warnings against a faculty member at Trinity who had been punished for not following orders regarding his research plans should be quashed and expunged from his employment record. The dispute began in September 2007 when the faculty member’s professor issued new procedures to all academics in his area regarding reporting to him on their research, where and how their research should be published, and the seminars they would have to give to explain it.
+
+Until then there had not been any “line management” type of control of academics which would encroach on their freedom regarding their choice of research and where they published their findings.
+
+The academic asked his professor to defer this proposal until its implications were dealt with by the university and the union. This request was denied and the academic was threatened with disciplinary action if he did not comply. Two stages of discipline were subsequently recorded against the academic.
+
+The court ruled the disciplinary measures should be quashed and directed the matter to be resolved by negotiating a new understanding around the issue of research and how it should be monitored. Union general secretary Mike Jennings described the outcome as “a tremendously important development”.
+
+“To be quite honest, I am also not a little relieved because, if we had lost, it could have had major adverse implications for the whole question of academic freedom and, indeed, for academics not to be forced into surrendering control of their research,” Mr Jennings said.
+
+From John Walsh at University World News
+
+LIVERPOOL UNIVERSITY WILL PROBABLY AXE PROBABILITY DEPARTMENT
+
+Academics at Liverpool University have threatened strike action if management push through proposals to axe its politics, philosophy, and probability departments in what appears to be the the first casualty of poor scores in December’s national exercise to judge research quality in Britain.
+
+The draft proposals to close the departments include similar plans for civil engineering, cancer studies, dentistry, sociology, and Latin and American studies. They will be discussed this week at Liverpool University’s senate meeting.
+
+The school of politics and communication studies, the philosophy department, and the division of statistics and probability failed to do well in the government’s recent research assessment exercise (RAE).
+
+The vice-chancellor, Professor Sir Howard Newby, has told staff that in “driving towards world-class excellence in areas where we are globally competitive, we need to undertake reviews of academic departments where performance is not of the same exceptional standard”.
+
+If the senate passes the proposals then it and the university’s council will decide the final fate of the departments in June.
+
+The university says it will honour obligations to students in any departments affected, including those entering in 2009-10. It will also “honour all existing staff contracts and will only consider compulsory redundancy measures as a last resort”.
+
+But both staff and students are mobilising against the moves, despite finding out about the proposals only late last week. A source at Liverpool’s University and College Union (UCU) branch said, “What they are proposing subsequently is to measure everybody according to their research star rating. The fear is that they will get rid of people with 1\* or 2\* (can’t work this out) research or offer them teaching-only contracts,” the source said.
+
+Sally Hunt, UCU general secretary, said, “Liverpool University must not overreact to the RAE results; institutions do not build long-term reputations for excellence by axing departments on short-term results.”
+
+From Anthea Lipsett at the Guardian
+
+FOR MORE TERTIARY EDUCATION NEWS
+
+Currently Education Review is offering free access to its website. Until the end of April, Education Review is providing free access to its website. Education Review is the national newspaper dedicated to covering education sector issues. Updated every Thursday afternoon, the website provides the same content as the print edition, but several days earlier than most readers receive it in the mail. The free access period provides people working in the school or tertiary education sectors with an opportunity to find out why Education Review is valued by so many of their peers.
+
+www.educationreview.co.nz
+
+TEU Tertiary Update is published weekly on Thursdays and distributed freely to members of the Tertiary Education Union and others. Back issues are available on the TEU website. Direct inquiries should be made to Stephen Day, email: stephen.day@teu.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

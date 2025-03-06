@@ -1,0 +1,114 @@
+---
+slug: speech-launch-of-whanau-ora-centres
+title: "Speech: Launch of Whanau Ora Centres"
+date: 2010-11-19
+source-url: https://www.scoop.co.nz/stories/PA1011/S00405/speech-launch-of-whanau-ora-centres.htm
+author: te-pati-maori
+---
+Speech: Launch of Whanau Ora Centres
+====================================
+
+**Friday, 19 November 2010, 8:48 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Speech: Launch of Whanau Ora Centres - Hon Tariana Turia
+
+Associate Minister of Health
+
+\[cid:image001.jpg@01CB874D.D408D010\]
+
+Thursday 18 November 2010; 1pm
+
+  
+Launch of Whanau Ora Centres: Te Kohao Health Ltd and Taumarunui Kokiri Community Trust
+
+The words of King Potatau te Wherowhero have provided inspiration to whanau, hapu and iwi throughout the land - and are embedded in every action and events involving Te Kohao Health.
+
+I refer of course to the legacy of his message
+
+Kotahi ano te kohao o te ngira E kuhana ai te miro ma, te miro pango, te miro whero. I muri i ahau, kia mau ki te aroha ki te ture me te whakapono.
+
+Today is about bringing together the white, the black and the red threads; in the name of Whanau Ora.
+
+I come to congratulate Te Kohao Health and Taumarunui Community Kokiri Centre, for the model you have created to support whanau to lead healthy lives, capable of eliciting wonder and inspiring action.
+
+I always associate the concept of whanau with the concept of wonder - it is that feeling of bursting pride when our mokopuna perform; it is that sense of incredulity when we watch our kuia quietly managing a full scale marae operation; it is in the miracle of birth; the quiet stillness of the last few breaths of life.
+
+The speakers before me have spoken eloquently about the high quality of holistic services that will be provided in order to achieve whanau aspirations for wellness.
+
+I want to focus on what it is - over and above services and practitioners - that creates Whanau Ora - and that is of course, whanau themselves.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+There is no better example of Whanau Ora than in thinking of the history that unravelled here at Kirikiriroa marae.
+
+Of course we think of the enduring presence of Wikuki Kingi; of Kirikowhai Kingi (nee Te Wiata), of Te Arikinui Dame Te Atairangikaahu who all watch over us today.
+
+The conception of Te Kohao Health emerged out of their love for their people. And it was a love that surpassed the limitations of a five dollar fee, or a fifteen minute consultation. When an appointment was made to see the doctor at Te Kohao, the whole whanau would come - and the expectation was established that health and wellbeing was a whole of whanau affair.
+
+I have brought with me today, Te Atarangi Whiu, who is my Whanau Ora advisor in my office. She has shared with me the very special memories she has of her time with you during the 90s; memories which express to me the powerful legacy you have created for her, and for hundreds of whanau whom you have cared for.
+
+Te Atarangi first came to this marae with the kapa haka group - somewhere along the line was invited to help with some of the admin here - and eventually took on a management role. It is the classic talent of our elders that they can identify talent, nurture their potential, and then set them up for life.
+
+It is very much the same approach that we can learn from in our whanau - watching out for the unique talents that all of our children possess, and then providing them with the support to grow.
+
+When Te Kohao was first set up, the Board was driven by an amazing group of kaumatua who wanted to work together in the best interests of whanau.
+
+They were not health specialists, or practitioners in the health sector - but that didn't stop them for one minute. They quickly took on the challenge of a foreign vocabulary - not just outputs and inputs - but the magic of mysterious three letter acronyms like the HFA, the RHA, the THA and the CHI.
+
+And slowly but surely, they wove together a whariki that would last the test of time. The service grew from a two bedroom facility to this state of the art centre; and along the way they always remained true to the kaupapa.
+
+Even in the most dire circumstances, when the financial restraints appeared overwhelming, the vision was upheld, to care for the people; to nurture their health; to enable whanau to take control of their own wellbeing.
+
+I want to mihi to that rock-solid leadership, that took on the challenge of an ever expanding journey. This is about leaders who never blinked - people who knew there was much to learn and willingly took it on; realising all the time that the landscape was constantly changing.
+
+Those same heroic qualities are mirrored everywhere we look in this centre. Indeed, if we were to stop and wonder at any of the artworks, the sculptures, the carvings, the metallic works, the kowhaiwhai - we would hear stories of a difference being made; and the resilience and courage of people who made it possible. It all comes together, like the joining of the threads, to provide a perfect platform to launch these two new Whanau Ora centres.
+
+For what we are doing today, is not only about congratulating and commending the initiative of Taumarunui community Kokiri Trust - and Te Kohao Trust in coming together as part of the Toiora PHO Coalition.
+
+This is also a very important opportunity to acknowledge the korowai provided by the national Maori PHO Coalition which has been chosen by the Ministry of Health to lead the implementation of a national primary health care initiative from a Whanau Ora perspective. Thank you for the very good work you are doing.
+
+And I do just want to say that I have a very keen interest in learning about what is happening for health services in Maniapoto, and how the whanau, hapu and iwi within that rohe are determining what will be able to support them to achieve the best outcomes.
+
+And so I return to the inspiration of King Potatau. What we celebrate today, is the transformation of thousands of whanau, who are being supported to live their tino rangatiratanga; to be strong, healthy, vibrant and prosperous.
+
+We recognise the coming together of the white, the black and the red threads; the connections across marae; the linkages across sectors. We are connecting Mama, Pepi and Tamariki within the embrace of whanau; we are motivated by outcomes rather than activities;.
+
+\>From Taumarunui to Kirikiriroa we can be confident that these Whanau Ora Centres are going to become synonymous with wellness.
+
+Whether it is in early childhood, housing and employment; or smoking cessation, alcohol and drug dependency or medical practice there is one central driver - and that is Whanau Ora.
+
+I want to just make it absolutely clear that Whanau Ora is not about me; Whanau Ora is not about the Government. Whanau Ora is about whanau; Whanau Ora is about whakapapa.
+
+It is about caring for each other; looking after our own; relying on our whanau to restore the very essence of who we are.
+
+I am hoping that marae groupings will have a key role in implementing Whanau Ora - those who are at the very heart of our whanau.
+
+Finally, let us remember the challenge of Potatau, kia mau ki te aroha, ki te ture me te whakapono.
+
+Whanau Ora is about doing what is right - holding fast to our faith; trusting in our own solutions; leading the way forward to wellness.
+
+Tena tatou katoa.
+
+  
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

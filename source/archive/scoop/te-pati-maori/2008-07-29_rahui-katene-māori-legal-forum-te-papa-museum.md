@@ -1,0 +1,132 @@
+---
+slug: rahui-katene-māori-legal-forum-te-papa-museum
+title: "Rahui Katene: Māori Legal Forum: Te Papa Museum"
+date: 2008-07-29
+source-url: https://www.scoop.co.nz/stories/PO0807/S00354/rahui-katene-maori-legal-forum-te-papa-museum.htm
+author: te-pati-maori
+---
+Rahui Katene: Māori Legal Forum: Te Papa Museum
+===============================================
+
+**Tuesday, 29 July 2008, 9:39 am**  
+**Press Release: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+  
+Māori Legal Forum: Te Papa Museum, Wellington
+
+‘The Future of Māori Parliamentary Representation in Government’
+
+Rahui Reid Katene, Candidate for Te Tai Tonga, Māori Party
+
+Monday 28 July 2008
+
+  
+It is a great thrill to be here, discussing the future of Māori parliamentary representation in Government, straddling, as I do, the world outside of the Whare Miere, and the world within.
+
+Twelve days ago I was announced as the Māori Party candidate for Te Tai Tonga and so I am embarking on a journey in which I know I am facing many seasoned travellers - including those who have spoken earlier today - and indeed my fellow panel members.
+
+But although my face is fresh, and my profile is new, the experience that we bring as tangata whenua to Government, is of course built on the wisdom and journeys of many before us.
+
+As uri of Ngati Koata, I am proud of our role as kaitiaki of the tuatara of Takapourewa Island - the precious taonga often called the last ‘living fossil’ - having existed for at least 225 million years.
+
+And so - while perhaps I am not personally seeking to be the last living fossil of Parliament - I do bring a huge passion and a dedication towards preserving the Māori Parliamentary Seats as our Treaty right.
+
+It is about protecting our history, protecting the parliamentary seats as a symbol of their constitutional status, it is about the protection of our national identity.
+
+We in the Māori Party are absolutely committed towards protecting the Māori seats in Parliament until such time as tangata whenua determine that it should be otherwise.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The Māori seats, just like law and order, is one of those issues that has become a lighthouse, warning that an election is on the horizon.
+
+The Business Roundtable tried to kick-start the debate this election by calling the Māori seats ‘repugnant’ and claiming that “the abolition of the Māori seats would accelerate the number of general seats held by Māori”.
+
+The fact that no evidence was provided to substantiate the claims was of course beside the point.
+
+History of Māori Seats  
+Let’s be quite clear - the history of the Māori seats is not exactly a glorious one.
+
+In fact there is a long history of inequitable treatment - we were not allowed to vote unless we had individual title to land (1858); there were no electoral rolls for the Māori seats until 1948; and until some thirty years ago in 1975 only so-called ‘half-caste’ Māori had the choice of either voting in a European or Māori seat - for everyone else, your eligibility was determined by the racist criterion of 'blood quantum' .
+
+Despite this inauspicious history, the presence of Māori seats has guaranteed a presence for Māori in Parliament, something that we means we have become the envy of indigenous people worldwide.
+
+Catherine Iorns in her 2003 paper on this topic described our parliamentary seats as being seen as “contributing to Māori self determination largely through being a symbol of Māori’s special status as a Treaty partner and thus partner in Government”.
+
+The Iorns paper tracked back to the 1986 Royal Commission on the Electoral System in which the overwhelming evidence from Māori was that they wanted to retain the seats given the Treaty significance, and in the belief that Māori interests were best protected by Māori decision makers.
+
+When the Royal Commission overruled Maori opinion, a claim was lodged with the Waitangi Tribunal, which found in favour of the Maori claimants, that Maori representation should be guaranteed, not just left to the statistical probabilities of MMP.
+
+Seven years later the Parliamentary Electoral Law Reform Select Committee determined to keep the Māori seats, alongside of the introduction of Mixed Member Proportionality in 1996, as well as introducing a new convention by which the number of Māori seats would be proportional to the Māori electoral population.
+
+Just last year, a research study by Massey University confirmed again, the strong preference for the retention of the Māori seats in parliament. The study, produced for the Electoral Commission, revealed that participants were strongly of the view that the status of the Treaty of Waitangi should not be weakened by suggested amendments to current constitutional arrangements.
+
+Quantity is not Quality  
+One of the issues that seems to confuse entities like the Business Roundtable is the tendency to count the number of Māori MPs and equate this to representation.
+
+This is the crux of the issue in my opinion. Simply from virtue of having Māori whakapapa doesn’t necessarily equate to effective Māori representation.
+
+Members are subject to the dictates of party discipline and collective responsibility over and above their whakapapa as Māori - unless of course that collective responsibility is to the Māori Party who are driven by their obligations to the whānau, hapū and iwi who placed them in Parliament.
+
+One only has to look at the Foreshore and Seabed Act - or more recently New Zealand First’s Bill to delete the principles from the Treaty of Waitangi - to see how Māori as Treaty partner fare with broad Māori representation in Parliament.
+
+This particular bill sought to eliminate all references to the Treaty of Waitangi and its principles from all New Zealand statutes, preambles, schedules, regulations and interpretations. When it first came before the House just two years ago, there were only five Māori who opposed the Bill -voting in support were Māori members from Labour, NZ First, National - and the other parties.
+
+Fortunately when it came to a second reading, the four members of the Māori Party and the Greens Māori MP were reinforced by the strength of public opposition. Out of 171 submissions received, a massive 160 rejected the Bill outright, and so it wasn’t long before the Bill was voted out of Parliament as well.
+
+But the point is, that just like the overwhelming opposition that came from the education sector when Labour moved to take the treaty out of the school curriculum, it was not the Māori members of that party that who were protecting Treaty rights.
+
+This is why I am so passionate about becoming part of the team of Māori Party Members in Parliament. The conclusion I have reached is that record numbers of Māori MPs have not resulted in substantive gains in policy - the crux of the matter rests in Māori MPs acting for Māori , and accountable to Maori, not to the party first and foremost .
+
+What we have seen over successive Government and successive Ministers is that we can not assume that a Māori in cabinet is wielding any influence at the Cabinet table.
+
+The key lies in the nature of representation - and for the Māori Party we see that representation having the most force in coming through as a voting bloc for the seven Māori electoral seats in their entirety.
+
+Entrenchment  
+The Māori Party has a Members Bill waiting in the wings which seeks to entrench the Māori seeks.
+
+The current Māori seats are excluded from the entrenched provisions of the 1956 Electoral Act. What this means in effect is that all the provisions related to Māori representation in the Act can be repealed by a simple majority (ie 51%) while for the general seats, 75% is required.
+
+Professor Ranginui Walker has described this as “perhaps the most discriminatory measure of all in the application of the law to Māori representation”, but it no doubt is behind pressure by organizations such as the Business Roundtable to abolish them.
+
+Finally, the biggest issue facing us all, must be to promote the importance of democratic participation.
+
+It would have escaped no-one here, that last week the Electoral Enrolment Centre reported some 47,000 Māori who were enrolled at some stage during the previous three years are no longer enrolled.
+
+Māori Democratic Representation  
+When you think that the electoral quota for each Māori electoral district is 59,583 people what we’re seeing is almost the equivalent of three quarters of an electorate completely missing from the rolls.
+
+We know that the Marae Digipoll earlier this year reported that some 23% of Māori voters did not know there was an election this year, and we know further, that Māori turnout on election day is historically at least ten percentage points lower than other New Zealanders.
+
+So the central issue facing us all, is how do lift the vote to ensure that Māori have a voice in choosing the Government of the day.
+
+We absolutely believe that Māori must make the decisions about Māori representation, and that the current existence of the Māori parliamentary seats is seen by Māori themselves as indispensable to Māori political representation.
+
+I would remind us all of the aspirations outlined in the Declaration on the Rights of Indigenous peoples - which to our shame, the Labour Government rejected and 143 other nations of the world endorsed.
+
+Article 19 of that Declaration states: “Indigenous Peoples have the right to participate fully, if they so chose, at all levels of decision-making in matters which may affect their rights, lives and destinies through representatives chosen by themselves….”
+
+As parties to Te Tiriti o Waitangi, we believe that Māori should at least be guaranteed representation in the organs of kawanatanga.
+
+The Māori Party is proud to pick up that mantle, to defend Māori interests and uphold Māori aspirations in the best interests of this nation, Aotearoa.
+
+Ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

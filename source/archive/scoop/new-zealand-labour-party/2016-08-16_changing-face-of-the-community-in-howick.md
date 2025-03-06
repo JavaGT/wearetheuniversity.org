@@ -1,0 +1,98 @@
+---
+slug: changing-face-of-the-community-in-howick
+title: "Changing face of the community in Howick"
+date: 2016-08-16
+source-url: https://www.scoop.co.nz/stories/AK1608/S00492/changing-face-of-the-community-in-howick.htm
+author: new-zealand-labour-party
+---
+Changing face of the community in Howick
+========================================
+
+**Tuesday, 16 August 2016, 9:17 am**  
+**Press Release: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Changing face of the community needs to reflect the next Howick Local Board
+
+The Labour Party wants to reflect Howick’s evolving and diverse community so it’s contesting the Howick Local Board election next month with seven candidates.
+
+Labour Party, Howick Local Board candidate Alan Papprill contesting the Howick ward says the current Board needs a shake up to reflect the cultural diversity “this community represents. It needs new faces and fresh ideas."
+
+Mr Papprill, a semi retired teacher, who has lived in Howick for over 17 years, and taught English at Howick College for six years, has a personal interest in being a strong voice for the arts, culture and heritage groups in the Howick ward to create a more vibrant community.
+
+"I was talking to a local businessman recently who, just like me, wished Howick had more of a heart,” He says. “He suggested filling Cook Street with stalls and entertainers at the Saturday Market so that Howick village becomes the place to be every weekend. It’s fantastic ideas like this that not only create a vibrant community, but deserve to be heard by a responsive and community focused Local Board.”
+
+Tofik Mamedov, Labour Party, Howick Local Board and Auckland Council candidate, who has extensive community service and governance experience, is contesting the Howick ward and the Auckland Council.
+
+The Howick resident says he is standing under a Labour Party ticket for the local board because he wants to be transparent to the public about which political party he stands for and to push for the Labour Party policies. “I am passionate about Auckland and committed to working across political boundaries to achieve the best for Howick and its people.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Publisher Mark Johnson, who has a young family and lived in the Botany ward for a decade, is contesting the Botany ward. The former high school teacher from Botany Secondary College is committed to the development of inclusive communities for the younger generations. "I can't think of one public space in this area dedicated to young residents and their families,” he says. “We need a community centre. We need a common area for the people to gather and meet.”
+
+Additionally, Mr Johnson wants to see a more effective transport system. He says Botany, Howick and Pakuranga deserve a dedicated bus services to the city, “instead of our current services that crawl through every possible eastern suburb on the way to town. Our community loses needless hours in the day because of the time it takes to get into the city. Eastern transport has been ignored and underfunded for generations and that must stop."
+
+It is Ormistion resident Baljit Kaur’s first stand for the local elections on the Labour Party ticket.
+
+The Medical Underwriter for Southern Cross Health Society says she wants to focus on bringing more cultural diversity to the board and make positive links within community groups.
+
+“As a Chairperson for New Zealand Sikh Women Association Otahuhu, we support families experiencing the dynamics of domestic violence to lead productive and harmonious lives,” Ms Kaur says. “Our major stakeholders are the South East Asian migrants, Asian women and their families.
+
+I am also passionate about helping and looking after our senior citizens, and so I am a member of the board of Life’s Charitable Trust NZ.”
+
+Passionate about public safety, lobbying for better transport systems, stronger community links and heritage preservation is former Policeman Gyanandra Kumar, contesting the Botany ward and Auckland Council.
+
+The Auckland Regional Public Health Services Health Protection/Technical Officer, Justice of Peace and Marriage Celebrant has lived in Flat Bush for ten years.
+
+“Public safety is paramount to me,” he says. “I want everyone to feel safe in their own home and on the streets.”
+
+Allan Hawea, is standing in the Pakuranga ward because “I want to bring to the local board greater representation of the growing multi-cultural and tangata whenua face of the ward.”
+
+The ordained Anglican minister serving South Auckland, has held positions on numerous health and social services organisations at the governance level overseeing and implementing in particular a ‘whanau ora’ model, “I have managed iwi Treaty of Waitangi settlements, and a wide range of educational, criminal offending rehabilitation and local economic development initiatives,”
+
+he says. “I believe New Zealand as a whole benefits by a real commitment to the Treaty of Waitangi,” he says.
+
+Wanting to see more community connectivity and more emphasis on cultural diversity in
+
+Pakuranga is Tania Mahoney who is contesting under the Labour ticket.
+
+The Accountant, who has lived in the Pakuranga ward for over 30 years, is standing because “I believe Pakuranga needs to regain community spirit.”
+
+Ms Mahoney, currently studying towards a Masters Degree in Psychology Health Practice in Violence and Trauma, says her voluntary work for Safe Man, Safe Family in helping the organisation to co-ordinate the community connections and programme development for perpetrators and support for families affected by domestic violence, mental health and other challenges, will help encourage a cohesive strong community and “respect for each other and the cultural diversity that makes up this area,” Ms Mahoney says.
+
+The Labour Party team have seven policies of focus if elected, including:
+
+\- being more accessible to the public
+
+\- lobbying for better transport links with Howick and Auckland
+
+\- to better preserve, adequately fund and resource our local heritage
+
+\- provide better community facilities that cater for our vast local interest groups
+
+\- focus on better events and support networks for senior citizens and those with disabilities
+
+\- push for better public safety
+
+\- build a stronger community through the arts and cultural heritage.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

@@ -1,0 +1,167 @@
+---
+slug: prebble-speech-why-labour-will-lose-next-election
+title: "Prebble Speech: Why Labour Will Lose Next Election"
+date: 2003-05-29
+source-url: https://www.scoop.co.nz/stories/PA0305/S00736/prebble-speech-why-labour-will-lose-next-election.htm
+author: act-new-zealand
+---
+Prebble Speech: Why Labour Will Lose Next Election
+==================================================
+
+**Thursday, 29 May 2003, 2:38 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Why Labour Will Lose The Next Election
+
+  
+Richard Prebble Speech to Wellington Diplomatic Club, Duxton Hotel, Wakefield Street, Midday.
+
+Thank you for the invitation to speak to the Diplomatic Club. I thought it would be helpful to give you an insider's view of the political scene and why Labour faces electoral defeat.
+
+First we shape our buildings, then our buildings shape us. We have MMP and the electoral system shapes our politics.
+
+No political party has achieved the 50% needed to govern alone in my adult lifetime. The old parties are in relative decline. Labour's vote last election is the lowest vote achieved by a Labour Government in history. National's polling was that party's worst vote ever.
+
+MMP means coalition government and often - what we now have - minority government.
+
+The latest TV One poll sees Labour without any coalition allies. The Greens are at 3%. Without the safety net of an electoral seat the Greens would be wiped out. The United Future Party is on just 1.8%. Even if Peter Dunne held his seat United would at best have two seats. So if an election was held today Labour would have no coalition ally.
+
+Labour's problems get worse. Labour is polling around 50%, a little below the Party's pre-election polling of 54%. During the election campaign Labour's support collapsed to 41%. In two successive campaigns Labour has been stuck 9% below the 50% needed to govern.
+
+If the TV One poll is accurate, if an election was held this week, while Labour would be the biggest party, it would not be able to form a government. Will Labour's coalition partners survive? In Germany, the reason that Labour's equivalent, the Social Democrats, have spent most time in opposition, is they have not been able to find a coalition partner.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Labour faces the same dilemma. The United Party looks doomed.
+
+Peter Dunne, an accidental politician, survived purely because National did not run against him. More on that in a moment. Dunne was left as the single representative of a non-existent party. Since then he has looked for a cause. In 1999 Dunne decided to become an ethnic party. He found a Hindu Vice President. He saw there are over 100,000 new New Zealanders and began turning up at ethnic functions, mouthing greetings in Mandarin. Without a coherent alternative his party did not appeal to Chinese New Zealanders any more than Pakeha and he received less than 1% support.
+
+In two MMP elections, Christian fundamentalist parties have received around 5%. But for a sectarian split between the hard-line Christian Heritage Party and the more moderate Christian Democrats, the Christians would have won representation.
+
+The smaller Christian Democrats decided to repackage themselves as the Future Party. Then Dunne offered to merge. He brought with him a seat, so no quota. Any votes would bring electoral representation. The Christian Democrats brought Party organisation, candidates, policy and money.
+
+Conventional wisdom is that the United Future Party is the invention of the worm. It's true the worm gave his party profile; TVNZ and the media gave Dunne great coverage even though I, for example, lifted the worm higher than Dunne achieved in any answer.
+
+What was far more important to United's success was that the party captured the Christian vote. The Christian Heritage Party's vote collapsed, the entire Christian Democrat vote came over to United and produced the 6% final vote.
+
+Peter Dunne has been in denial of the nature of his Party's vote. The Christian fundamentalist programme in this country means support of the family, and by that they mean the biblical description: father, mother and children. That's how United sold its proposal for Commission for the Family. United's Judy Turner said that the Party's policies were biblically sound.
+
+The bill to set up the family commission includes homosexual marriage, an anathema to fundamentalists. Ironically the family commission with its politically correct definition of the family was the strongest State attack yet on the Christian Fundamentalist view of family values. It is fair to say that United's support of Labour's social agenda has come as a complete shock to its supporters
+
+The United Future collapse is not, as media commentators like to say, because a big party has made it difficult for the small party to differentiate. United core supporters feel they have been betrayed - and they have. In a three-year electoral cycle, such betrayal cannot be compensated for. The United Party is finished.
+
+Will Peter Dunne hold Ohariu-Belmont? The conventional wisdom is he is a popular local MP. But he is no more hardworking than most constituency MPs and in 18 years has done nothing either good or bad.
+
+The seat is the safest National seat in the lower North Island. Sir John Marshall used to have a huge majority, far larger than Peter Dunne has achieved. Dunne won it when Sir Bob Jones ran and split the centre/right vote. Then the Lange Labour government was centre right. In 1996 he was saved by National not running and in 1999 by very favourable boundary changes giving him Khandallah, Cashmere and Ngaio - suburbs where I received a higher vote than Peter Dunne. None of those voters expected him to go into coalition with Labour.
+
+As Winston Peters demonstrated in Tauranga when one of the largest majorities was reduced to just 33, a coalition can be fatal to the biggest majority.
+
+A strong centre/right candidate will beat Peter Dunne. Maybe any centre/right candidate will beat him. Peter Dunne needs Labour not to stand a candidate, but even that concession will probably not save him. There are not enough centre/left votes so United Future faces having no MPs and no future.
+
+The Greens are in a stronger position. Even though they do not have the safety net of a constituency, they do have a strong (international) brand. The Greens' low polling has the party's strategists perplexed. Some put it down to Ewen-Street's extraordinary embrace of a fishing company's solicitor. If so, they will bounce back.
+
+The Greens strategy has been to move to the left and scrape up the far-left vote that was the Alliance. The Greens have taken such an anti-US position that they said there was no moral difference between John Howard and Saddam Hussein. This extremism does not appear to have worked.
+
+The Green's dilemma is that Labour is destroying their credibility. Helen Clark campaigned last election to be given a mandate to govern without relying on the Greens. She has labelled the Greens as extreme.
+
+Labour has rejected the Greens' anti-GE stance. Labour abandoned the Greens' RMA amendments without consultation and gave the Greens nothing in the Budget.
+
+United's total support for Labour - Labour Ministers have said it is easier to get United's vote on a proposal than it is to get their own Caucus to agree - has made the Greens irrelevant.
+
+The Green Party is itself a total shambles. The party has less than a thousand members and no organisation. The Party is at the whim of the electorate's mood. 2002 was the Greens' moment. Next election the "cool" Green Party will look old. Nandor Tanczos is going bald. A 40-year-old on a skate-board just looks ridiculous.
+
+While not writing the Greens' chances off, you have to say the odds are not good. The Greens, like the Values Party before them, could just vanish.
+
+Then there is Labour. Labour has been the luckiest government in New Zealand's history. They were elected with a favourable set of books, a growing economy, increasing tax revenues, good terms of trade and three wonderful summers of no drought.
+
+Labour's luck seems to have changed. The milk price has fallen, the Kiwi dollar is rising, a drought, a power crisis and our yachtsmen lost the Cup. The Iraq war and SARS have added to Labour's difficulties.
+
+Under pressure, Labour has not looked good. Helen Clark's loose lips seem to have sunk a Free Trade Agreement with the USA. Labour's poll ratings have started to slip and on issues like energy, the electorate is not happy with Labour's performance.
+
+Labour is starting to lose its legendary discipline. To use some foreign affairs examples of interest to this audience - either Jim Anderton got approval for his recent intemperate attacks on the United States, which shows a total lack of judgement by the Prime Minister, or the situation is - as I understand it to be - that neither the Prime Minister nor the cabinet approved the extreme language used by Mr Anderton. Either way it wasn't good government.
+
+Then we have Phil Goff's decision to meddle in the Middle East and to interpose his body between the Palestinians and the Israelis. Again I understand Phil Goff did not seek Cabinet approval and the Minister of Trade for one is very annoyed. We have the Prime Minister publicly claiming that the Government is seeking to improve relationships with the United States and that she is, in her famous phrase, "moving on", and two of her key Ministers are going out of their way to damage NZ/US relationships. Not a good look.
+
+Labour can no longer blame National for problems like the health sector, rising crime, poor education standards and the never-ending Treaty claims. Labour's decision in this year's Budget to give no tax relief to ordinary families means, in effect, that 38% of all fulltime workers are now paying the 39 cent tax rate. Labour's election promise was that only 5% of all taxpayers would pay the new higher rate. In Labour's own heartland, ordinary working New Zealanders feel that they're paying more and more tax but getting nothing more for it.
+
+So what about the centre/right?
+
+National, by its own admission, fought an awful election campaign - no policy, and no alternative. But the party did get much better new MPs elected in 1999 and again in 2002 than Labour. MPs like John Key, Judith Collins, Katherine Rich and Richard Worth are all future cabinet ministers. Bill English appears secure as leader.
+
+Don Brash, as a former Governor of the Reserve Bank, gives National what every Opposition needs - economic credibility.
+
+National has just put through an extensive revision of its constitution and streamlined the organisation so the party is now much better able to fight an MMP election. The National Party has a formidable record at fighting elections and I believe they will perform much better in the next campaign. Indeed it is difficult to imagine that they could fight an election as bad as the last one again.
+
+National appears to be rising at the expense of United and also Labour.
+
+Then we come to the maverick of New Zealand politics, that uniquely New Zealand phenomena, New Zealand First and its erratic leader, Winston Peters.
+
+Mr Peters himself is a popularist and his economic ideas, such as they are, are on the left. As Finance Minister, Mr Peters outspent the present Labour government. But Mr Peters is personally a social conservative. His views on immigration are xenophobic and irrational. And he is Maori.
+
+Mr Peters and his Party could easily be on the left. Prior to the last election that was where Mr Peters was positioning his Party. It was a considerable shock to Mr Peters when Helen Clark rejected any sort of political compromise with New Zealand First.
+
+In the last Parliament, Mr Peters used his indubitable skills to attack National and ACT more than Labour.
+
+This year he has made no attacks on National and has joined in National and ACT's attacks on the Government. The combined attacks have been devastating for Labour. Helen Clark as Prime Minster has not had a good Question Time for six weeks. I have to confess that I have been surprised at how effective the combination of Bill English, Winston Peters and myself has been. As experienced Ministers, we know the right questions to ask and Peters and myself think faster than Helen Clark.
+
+While Helen Clark looked commanding when the political winds were fair, she is now demonstrating that she is not a good captain in a political storm.
+
+In our Westminster parliamentary system, an inability to command the House is very damaging for a government.
+
+Peters has continued his attacks on immigration, typically raising complete red herrings.
+
+But on two other issues, the Treaty and law and order, New Zealand First, National and ACT now have similar policies.
+
+As my Party initiated the policies, time limits for Treaty claims and zero tolerance for crime, we are rather pleased with our success.
+
+Which brings me to ACT.
+
+ACT is a classic liberal party.
+
+ACT has survived the left's attempts to demonise us as extreme, and the media commentators and our opponents now recognise that ACT is a liberal party that supports free enterprise, low taxes, the rule of the law, and personal responsibility. ACT has been very successful in promoting our fresh ideas and alternative solutions.
+
+ACT has always campaigned well, doubling our pre-election average support. In the last parliament our polling support was 3 - 4%, in the election 7%. Now ACT is polling 6% - so a result more than 10% is achievable.
+
+Is a grand centre/right coalition achievable?
+
+The last coalition between National and New Zealand First collapsed. As Peters was Finance Minister what's more remarkable is how long the government lasted.
+
+Peters has been a Minister twice and has not lasted two years on both occasions. His economic popularism and his anti-Asian stance are not acceptable to ACT.
+
+Based on history a centre/right grand coalition does not look a good prospect. ACT and National could form a workable stable government but can anyone work with New Zealand First?
+
+The TV One poll indicates the electorate may be working out a solution. In the TV One poll New Zealand First is down from 9% to 7%. ACT is up from 5% to 6%.
+
+Project ahead and ACT will overtake New Zealand First.
+
+A grand coalition where ACT is the second party guaranteeing a commitment to less tax and a more free enterprise approach, with New Zealand First as the smaller third party with responsibility to sort out the Treaty issues. Now that is a formula for a stable centre/right government.
+
+The electorate can see a grand coalition with ACT as the insurance for stability as a viable alternative. If an election was held now, always a possibility with a minority government, a grand centre/right coalition would win office and govern effectively.
+
+New Zealand is still learning how to operate in an MMP environment. But we are fast learners. The signs are that the electorate is, as it always does, tiring of Labour after just two terms.
+
+The electorate wants stability and security.
+
+A stable grand coalition would not only provide workable solutions but also provide stable viable government for a very long time.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

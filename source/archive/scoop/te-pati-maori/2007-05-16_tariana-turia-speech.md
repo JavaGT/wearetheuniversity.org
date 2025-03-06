@@ -1,0 +1,140 @@
+---
+slug: tariana-turia-speech
+title: "Tariana Turia - Speech"
+date: 2007-05-16
+source-url: https://www.scoop.co.nz/stories/PA0705/S00372/tariana-turia-speech.htm
+author: te-pati-maori
+---
+Tariana Turia - Speech
+======================
+
+**Wednesday, 16 May 2007, 10:14 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Social Security (Entitlement Cards) Amendment Bill (third reading)
+
+Tariana Turia, Co-leader, Maori Party
+
+Tuesday 15 May 2007
+
+Tena koe Mr Speaker, Tena tatou katoa.
+
+Today is an auspicious day to be debating the Social Security (Entitlement Cards) Amendment Bill. The 15th May was proclaimed by the United Nations General Assembly in 1993, as ‘International Day of Families’.
+
+And so, as we mark this international day of whanau, we turn to the thoughts of our kaumatua who are at the very heart and core of whanau.
+
+In thinking of our elders and in farewelling the late Head of State of Samoa, the Maori Party takes this moment to express our sympathies in the sad passing of another revered elder; that of kuia, Maera Moekau Couch, who gave her life to the communities of her beloved Pae-o-Hauraki, and Rapaki.
+
+It wasn’t so long ago that this 92 year old kuia was honoured with an award that recognised the distinctive contribution she made in encouraging other seniors to play an active role in society.
+
+Moe mai te whaea rangatira ki tou moengaroa.
+
+Any proposals which come into this House to improve the standard of living for our elders, to enhance their access to government services and entitlements, and to improve the provision to information - will earn the support of the Maori Party.
+
+Particularly because only 4.1% of our population ever live long enough to benefit from superannuation.
+
+Our elders are those who provide us with the leadership and the vision to guide our future directions.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+We in the Maori Party are very conscious of wanting to protect the special place they have in our communities; to value their contribution and to put strategies in place by which we can ensure the continued participation of older peoples.
+
+We believe that theSuper Gold Card, recognises the contribution that Pakeke have made and currently make to Aotearoa, and we have been happy to support it.
+
+And we thank NZ First for negotiating such a great opportunity for our senior citizens in their coalition agreement, and the Honourable Ruth Dyson, the Minister for Senior Citizens, for her support.
+
+And so, as we have debated the pros and cons of this Bill, we have been aware that in improving the standard of living for seniors; we need to be also mindful of the need to ensure that whanau members and caregivers are informed of the purpose of the entitlement card and the opportunities it represents.
+
+Far too often, individual entitlements are not promoted to the degree of attracting universal understanding.
+
+We do not want the eligibility for particular services to be granted only to those‘in the know’ – the wellbeing of all senior citizens must be guaranteed. If this card brings with it commercial concessions thereby reducing the costs of goods and services; we must ensure whanau are supported to take up these rights.
+
+And so we hope that when the first tranche of Supergold cards come off the production line in August, that our senior citizens aged 65 and over; or aged under 65 and receiving the Veterans Pension in their own right, will be well informed of exactly what their entitlements are.
+
+But there is one very significant concern that we have with this Bill.
+
+It’s the hidden danger behind the honourable intentions of supporting our pakeke which is of course the element of intrusion and surveillance piloted in this Bill – the micro-chipping proposal.
+
+The Maori Party supported the amendment by Heather Roy to have the micro-chipping clause removed from the Bill.
+
+And we did so on the grounds that this Bill, as the Law Society advised, was the first occasion on which legislation has authorised the use of microchips on cards.
+
+We have heard all the arguments including that by the Minister, that it would be ‘irresponsible’ to introduce a discount card without ensuring it could apply to the technology of the future.
+
+And of course we know the future ofRadio Frequency Identification tagging (known as RFID) isn’t too far off.
+
+The micro-chips introduced in this Bill are just one step along the way to the global surveillance society.
+
+The concern for the Maori Party has been the way in which such a significant proposal has been slipped in the backdoor, riding on the coat-tails of a proposal designed to support our pakeke in enhancing their golden years.
+
+I remember when George Orwell’s1984 seemed fanciful fiction. And in that novel, thought crime was monitored by the Thought Police, who had telescreens in every home, hidden microphones and informers, in order to catch the potential thought-criminals.
+
+The Ministry of Truth exercised complete control over; subjecting the nation to a re-education to the ‘newspeak’ of the totalitarian Government.
+
+At one point, the key player, ironically, also with the name of Winston, (Winston Smith), is told:
+
+“But always — do not forget this, Winston — always there will be the intoxication of power, constantly increasing and constantly growing subtler. Always, at every moment, there will be the thrill of victory, the sensation of trampling on an enemy who is helpless”.
+
+But of course, the Social Security Entitlement Cards is set in 2007, not 1984; and we are given every assurance by the Rt Honourable Winston Peters of this Bill, that microchip technology isnot being introduced without the Privacy Commissioner’s and the State Services Commissioner’s agreement.
+
+Mr Speaker, the tension for us all, is in allowing microchips to be introduced, none of us really know what else lies in store.
+
+What other government social service cards will be next?
+
+Twenty years after1984, the 25 Privacy Commissioners of the European Union adopted an initial position on RFID technology.
+
+In their statement on 19 January 2005, they expressed their concern at the possibility of RFID’s technology’s ability to, and I quote: “violate human dignity as well as data protection rights”.
+
+The questions we raised at the second reading of this Bill, reiterated the concerns of New Zealand’s Privacy Commissioner, Marie Shroff.
+
+Concerns such as:
+
+• Who controls the access to the information?  
+•
+
+  
+• What sort of technological protections should be mandated to guarantee privacy?  
+•
+
+  
+• How do we avoid ‘function creep’ - with the information from the micro-chipped cards being used for wider purposes than originally intended?  
+•  
+The concerns around micro-chipping are influenced by a paper from Dr Paul Roth, Professor of Law at University of Otago.
+
+And in his paper, Workplace Privacy Issues raised by RFID technology, he described a case in 2004 when the Mexican Attorney General and 160 of his employees had rice-sized RFID tags implanted in their arms, to regulate access to restricted areas of the headquarters.
+
+Then there’sVeriChip - the first food and drug administration approved human-implantable RFID microchip. It was approved in 2002 in the United States and is typically implanted in the arm. Code-named by privacy advocates as spychips the primary concern of course, is that like Big Brother in the Orwellian tale, the movements of a person can be traced without their will.
+
+Mr Speaker, these new types of electronic bloodhounds, the biochip implants, the biometric fingerprints; may indeed be part of the future that we must all be prepared for.
+
+And so, in the context of the SuperGold Card, we cannot be oblivious to the risks inherent in the microchipping device. It may not be the Ministry of Truth or the thought-police but there are certainly sufficient grounds for concern to have us worried us as the Maori Party.
+
+So we welcomed the amendment by Taito Phillip Field that the micro-chipping will only go ahead after consultation with the Privacy Commissioner, the State Services Commissioner and any other relevant bodies; and we will be following that process with great interest, to ensure every concern is explored.
+
+We remain convinced that the jury is out, as to whether the microchip technology is of such critical importance to the senior citizen discount cards that one could not have been voted on without the other.
+
+But we will not stand in the way of our elders – and it is with their interests at heart, that we vote in support of this Bill.
+
+ends
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

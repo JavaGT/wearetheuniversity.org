@@ -1,0 +1,203 @@
+---
+slug: brash-saving-new-zealand
+title: "Brash: Saving New Zealand"
+date: 2011-08-25
+source-url: https://www.scoop.co.nz/stories/PA1108/S00512/brash-saving-new-zealand.htm
+author: act-new-zealand
+---
+Brash: Saving New Zealand
+=========================
+
+**Thursday, 25 August 2011, 4:07 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+**_Saving New Zealand: Building a More Prosperous New Zealand_**
+
+**Don Brash, Leader ACT New Zealand  
+Address to Workplace Savings Industry Conference**  
+**Pullman Hotel, Auckland**  
+**25 August 2011**
+
+Mr Chairman, ladies and gentlemen,
+
+Thank you for inviting me to address your Workplace Savings conference this morning.
+
+I’m here today to present you with a very simple proposition, and that is that to build a more prosperous future for you and your children requires less government, not more.
+
+Today, a great many New Zealanders are having a very hard time making ends meet.
+
+Everything from tomatoes to All Black jerseys to housing seems to cost more, while our incomes stagnate.
+
+65,000 people between 15 and 24 years of age are unemployed and not in any kind of education or training. 38% of Maori between the age of 15 and 19 are unemployed.
+
+The Prime Minister himself has told us that we are poorer today than we were six years ago.
+
+220,000 children are growing up in benefit-dependent households.
+
+While government debt is low by the standards of some countries – thanks to the surpluses which successive governments ran from 1994 to 2008 and to the sale of some government-owned assets – it’s rising fast; indeed by some $300 million every week, the equivalent of $300 per week for every household of four in the country.
+
+Our _net_ debt to foreign creditors – public sector and private sector – is about 90% of GDP. That puts us right up there with Greece. And that ratio looks likely to continue rising over the years ahead according to the government’s own projections.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Despite the Government’s promise to close the gap between incomes in New Zealand and those in Australia by 2025, that gap currently stands at around 38% and seems certain to get wider in the years ahead.
+
+No wonder that the exodus of New Zealanders across the Tasman continues at a rapid pace: most Kiwis can go to Australia and get a significantly higher income, even after allowing for cost of living differences, than they can get here.
+
+All these things are symptoms of two fundamental problems – our poor record of improving productivity and deep structural imbalances in the New Zealand economy.
+
+A low rate of productivity growth was a long-standing feature of the New Zealand economy. As a result of the reforms of the late eighties and early nineties, productivity growth accelerated sharply.
+
+But this acceleration has reversed in recent years as the Clark-Cullen Government complicated the tax system, re-regulated the labour market, increased regulatory burdens at central and local government level, and generally abandoned any commitment to faster growth – despite their protestations to the contrary.
+
+Today, productivity growth in New Zealand is among the slowest in the developed world, and pathetic compared with the very rapid growth of productivity in the fast developing countries of Eastern Europe and Asia.
+
+And as for structural imbalance, Bill English has pointed out that the export sector has been in recession since 2004, with growth in export volumes being not much more than 1% annually over the last six years – and that despite strong export prices in recent years and a favourable exchange rate against the currency of our largest export market, Australia. No wonder the current account deficit averaged 8% of GDP between 2005 and 2009.
+
+Yes, it’s got down to respectable levels over the last year or two, thanks to exceptional export prices and weak import demand because of the recession, but the government’s Budget projects it will be back to near 7% of GDP in a couple of years’ time. No sign of any reduction in our net indebtedness to foreigners there.
+
+There’s not the slightest point in worrying about foreigners buying a stake in our assets while we continue to have a large current account deficit: one way or another, foreigners will have a greater stake as long as that continues.
+
+To be fair to the National Government, they didn’t create this mess. For the most part, it was created by the Clark-Cullen Labour Government and, if you like, by the loss of reform momentum on the part of the Bolger-Peters Government of 1996 to 1999.
+
+But the present Government has done far too little to fix the mess.
+
+Yes, the Government has taken some steps to improve our transport infrastructure. They’ve made a tentative start in improving employment law by introducing a 90 day probationary period in employment contracts – in significant part as a result of pressure from the ACT Party. They’ve set up a Productivity Commission, again as a result of pressure from the ACT Party. They’ve made a very tentative start at trying to improve the Resource Management Act. They’ve announced some first steps towards reforming the welfare system, at least as it affects teenage beneficiaries. They’ve taken some steps to streamline building consents for construction companies wanting to build houses. And I applaud these steps.
+
+But relative to the size of the challenge, they are baby steps. Better, to be sure, than those which most other parties would’ve been willing to contemplate, which is why I’ve already made it clear that ACT would much prefer to support a National Party after the next election than any other party.
+
+But we need much, much more.
+
+The reality is that the “bigger and bigger government model”, which has become typical of virtually all developed countries, is broken, and that is surely evident from the serious economic problems which now face most of them.
+
+The Eurozone looks to be in serious trouble in large part because too many of its members, including some of the biggest, have run up enormous government debts, in some cases well exceeding 100% of GDP – a direct result of governments promising more and more generous spending programmes without being willing to increase taxes to fund that spending.
+
+The United States has a federal budget deficit this year of over 10% of GDP, and the outlook has prompted Laurence Kotlikoff, professor of economics at Boston University, to state in a recent Bloomberg article that “the US is bankrupt”. He quotes an IMF paper from July last year which notes that “the US fiscal gap associated with today’s federal fiscal policy is huge for plausible discount rates… Closing the fiscal gap requires a permanent annual fiscal adjustment equal to about 14% of US GDP.” Professor Kotlikoff puts that in perspective by noting that current US federal revenue totals only 15% of GDP, so that a 14% adjustment would require a permanent doubling of the total tax take – or of course a massive reduction in current and planned federal spending.
+
+Clearly, New Zealand’s not the only economy with problems. But that’s not much consolation.
+
+Government spending is higher today, as a fraction of the total economy, than it was at any time during the Clark-Cullen Government. Indeed, between the 2007/08 year and the 2010/11 year, government spending increased by $15.8 billion. Over the same period, the total economy grew (in nominal terms) by $16.4 billion – meaning that government spending absorbed 96% of all the growth in the economy over that three year period.
+
+Of course, some of the increase in spending was caused by dealing with the consequences of the Christchurch earthquakes, and nobody would’ve expected the Government to walk away from that responsibility.
+
+But most of the increase was a result of the Government’s failure to get core government spending under control, spending which blew out during the last term of the Clark-Cullen Government as a result of some outrageously extravagant electoral bribes.
+
+One of these bribes, of course – described by Bill English at the time as “an election year bribe on an unprecedented scale” – was waiving interest on student loans. It is entirely unclear to me why the average wage-earner in Otara should be paying most of the cost of educating the children of those on high incomes to be doctors and lawyers.
+
+Another bribe – and I’m sorry to have to make this point at this conference on workplace savings – was the introduction of KiwiSaver. Let me make it quite clear that KiwiSaver is a wonderful scheme for savers – the subsidies from the government are so generous that if you’re a New Zealand resident under the age of 65 and don’t belong to a KiwiSaver scheme you don’t understand it!
+
+But does KiwiSaver increase national saving? Almost certainly not. The only study I’ve seen suggests that KiwiSaver has _probably_ increased private sector saving to a very modest extent – most of the private contributions coming not from reduced spending but from a diversion of saving from other areas – but at the cost of very substantial _dis-_saving by the government, because of the scale of those subsidies. It’s certainly very hard to see the logic in the government borrowing a billion dollars a year – the cost of the subsidies – most of it from overseas, to achieve a very small increase in private sector savings and the creation of a bunch of KiwiSaver schemes most of which invest most of their money overseas.
+
+This is not to say that New Zealanders wouldn’t be better off if they saved more than they have historically. I’m simply saying that KiwiSaver is probably on balance reducing national saving – and indeed, I’m saying that governments all over the world have discovered that they don’t actually _know_ how to increase private saving.
+
+There are lots of other examples of poor quality government spending, introduced by the Clark-Cullen Government, strongly attacked by the National Party in Opposition, but retained by the National Government.
+
+What would the ACT Party like to see happen to build a more prosperous New Zealand – one where every able-bodied person could get a decent job paying wages high enough to enable him or her to live comfortably at a standard of living comparable to the citizens of Australia and other developed countries?
+
+I must first of all insist that there’s no silver bullet. There’s no magic wand. There’s no single legislative change which would transform the economy. Not tax, not employment law, not the RMA.
+
+But there are certainly policy changes which would transform our standard of living. Many were recommended by the 2025 Taskforce, which I had the privilege of chairing. They were endorsed by the major business organisations. But so far most of them have been ignored by the Government.
+
+Some policy changes would require no additional government spending and would have immediate benefit. (Indeed, they could result in fiscal savings.)
+
+For example, ACT would promptly re-introduce youth minimum wages – or better still, abolish minimum wages entirely for those under 20. The most important thing for a teenager coming straight out of school or tertiary education is to get into a job without delay, whether that job pays $8 an hour or $13 an hour. We know that Labour’s abolition of the lower, youth minimum wage in 2008 has hugely increased unemployment among teenagers, as the National Party predicted it would at the time. It’s a scandalous indictment on the Government that they’ve failed to reverse that cynical decision.
+
+Another measure which could be taken quickly and without fiscal cost would be further reform of employment law. Employers have repeatedly claimed to me that, especially since the Labour Government’s 2004 amendments to the Employments Relations Act, employment law is heavily stacked against employers, making it harder to improve productivity and leading to considerable compliance costs.
+
+Next, we’d scrap the Emissions Trading Scheme. Whatever you believe about the causes of climate change, it makes no sense at all for New Zealand – producing a minute fraction of 1% of global greenhouse gas emissions – to have an all sectors, all gasses, ETS when none of our major trading partners has anything similar (of course, Australia is talking about a fixed carbon price, but who knows whether the Australian government will succeed in getting it up, or whether it will last even if they do). The ETS has already pushed up electricity prices by 5% and petrol prices by 4 cents per litre, and will double that impact by 2013. Everybody’s cost of living is increasing as a result.
+
+A fourth vitally important measure without fiscal cost would be a radical reform of the RMA, and possibly even the complete replacement of the RMA. I am in no sense an expert in legislative drafting, but I’ve been regaled with so many horror stories from people – homeowners, farmers, manufacturers, and even government agencies – about the costs and delays caused by the RMA, and the way it has been interpreted by far too many local governments, that I have to conclude that it’s a major obstacle to improved living standards in New Zealand.
+
+Why on earth should a farmer seek approval from anybody to build a hay-barn on his own farm? Why should an agricultural equipment company in the Wairarapa wait five months to get approval to erect a sign on its own property? Why does it take more than a year for a local government in Auckland, with the involvement of umpteen staff and consultants, to give approval for the removal of a dangerous palm tree and a poisonous shrub?
+
+It is impossible to avoid the conclusion that the interaction of the RMA, the Local Government Act and local government staff all over the country has produced a major obstacle to improved living standards.
+
+One of the ways this has happened is through the way in which this interaction has pushed the price of housing well beyond the reach of far too many New Zealanders – or more accurately, has pushed the price of residential land well beyond the reach of far too many New Zealanders.
+
+We know, from the annual surveys undertaken by the Demographia organisation, that housing in our major cities is now among the most expensive in the world, relative to household incomes. And why? In large part because too many local governments have quite deliberately limited the supply of residential land.
+
+Arthur Grimes, now chairman of the Reserve Bank, found that the effect of the Metropolitan Urban Limit imposed by the Auckland Regional Council had increased the price of land just inside that Limit by some 10 times compared with the price of land just outside the Limit.
+
+This is absolutely nuts, in a situation where New Zealand is one of the most under-populated countries in the world, and where Auckland is one of the most densely populated cities in the world – in terms of people per square kilometre, Auckland is more densely populated than Vancouver, Melbourne, Portland, Adelaide, Perth or Brisbane.
+
+I’m delighted that one of the first projects of the newly-established Productivity Commission is to look into the affordability of housing.
+
+And of course of fundamental importance is making a start on reducing government spending as a share of the economy. Over the next three or four years, ACT would seek to reduce government spending to below 30% of GDP, the level it was at at the end of Labour’s second term in office in 2005.
+
+Government spending should be focused on doing the things that only governments can do efficiently – such as maintaining law and order, defending our borders, and providing a range of “public goods” – and on providing assistance to those who most need assistance. It should not extend to providing subsidies for me to go to the doctor, or my son to go to university, or my grandchildren to save into a KiwiSaver account.
+
+Longer term, as the economy grew, we would want to get the government share of the economy to a lower level, perhaps 25%, as it was for much of our history up to the mid-seventies.
+
+Reducing government spending in this way would make it feasible to reduce the tax burden on the community. Unfortunately, given the extent to which the government is now spending well ahead of its revenue receipts, there’s no scope for immediate tax reductions until spending is brought under control.
+
+Should taxes be increased in preference to a reduction in government spending in order to eliminate the government’s borrowing requirement? That argument is almost always brought by those who are paying little or no tax themselves. It’s important to remember that a very large number of so-called “taxpayers” actually pay no net income tax at all – in other words, they are in receipt of more cash payments from the government than they pay in income tax. A person earning $50,000 a year, with a partner and two children, actually receives $218 more from the Working for Families programme than she pays in income tax, whereas the person earning $100,000 in the same family circumstances pays a net $24,000. After adjusting for all cash transfers from the government, the top 10% of taxpayers already pay 76% of “net income tax”. Increasing the share of tax paid by higher income earners still further would run the serious risk of encouraging them to leave!
+
+What about the scope to squeeze more tax revenue from the company sector? Well, the Government did that in its 2010 Budget – the Government ostensibly reduced the tax on company profits from 30% to 28% but simultaneously changed the depreciation and other rules, resulting in an effective increase in the tax on company profits of about 1%.
+
+And at the moment, our company tax rate is still above the average company tax rate in small developed countries – and of course well above the rate in countries like Singapore and Hong Kong. There’s no scope at all for increasing the company tax rate if we wish to attract more investment in New Zealand.
+
+As government spending is brought under control, the ACT Party would be aiming at a major reduction in tax rates.
+
+One option would be to lower the top personal, company and trust tax rates to a common rate. Harmonising those rates has a lot to commend it in terms of the efficiency of the tax system. The 2025 Taskforce calculated that if government spending were reduced to 29% of GDP, where it was in 2005 at the end of Labour’s second term in office, those rates could be harmonised at 20%. (Note that that is different from a flat tax rate of 20% - it’s the alignment of the _top_ rates at 20%.) Without having access to the detailed modeling which the Treasury can do, I believe that it would still be possible to harmonise the top personal, company and trust tax rates at 21% were government spending reduced to where it was, relative to GDP, in 2005.
+
+Alternatively, it would be feasible, by accepting a continuing difference between the company tax rate on the one hand and the personal and trust tax rates on the other, to radically reduce the company tax rate, to perhaps 10 or 15%, with the top personal and trust tax rates remaining at, say, 28%.
+
+This would not be designed to reward the ACT Party’s “rich mates”, as some commentators will no doubt be quick to argue, but rather to increase investment. The _only_ way to increase the incomes of wage and salary earners in New Zealand is to make New Zealand a more attractive place to invest. It’s increasingly clear that capital moves quickly in response to differences in tax rates, so it’s therefore highly desirable that New Zealand has a company tax rate which stands out, and attracts both local and international investment in New Zealand.
+
+For the longer term, far-reaching welfare reform and reform of the education system will be vitally important if we are to achieve higher living standards.
+
+Far too many working age adults – some 350,000 in all – are now dependent for all their income on a taxpayer-funded benefit. That’s not only a huge direct cost to the taxpayer – well in excess of $1 million an hour – it’s also a huge indirect cost because of the effects on those who have become dependent on such benefits – costs of alcohol and drug abuse, child abuse, domestic violence and all the rest. The ACT Party has some strong views about how these problems should be tackled, but these are the subject for another day.
+
+I spoke about the need to reform our education system just a few days ago. But it’s very clear that while one in five children leave school functionally illiterate we have little prospect of achieving the kind of living standards we want for them and for the rest of us. That must change.
+
+For the very long term, it will be important to take steps to ensure the fiscal viability of New Zealand Superannuation. New Zealand Superannuation is, by international standards, a very good scheme – it’s a major factor in New Zealand’s having some of the lowest rates of poverty among over 65 year olds in the developed world, at a relatively low fiscal cost. But of course, that situation is going to change as the baby boomers hit 65 about now. Every objective observer can see that the age of entitlement has to rise gradually over the next 10 years or so, as is happening in many other developed countries.
+
+Of course, that does not mean that the _retirement_ age needs to change – people are, and should be, free to retire when they choose. It just means that the age at which other taxpayers pick up the tab will have to gradually rise, and it’s an indictment on both John Key and Phil Goff that neither of them seems willing to be honest with New Zealanders about that reality.
+
+And in case you think I’ve forgotten the P word, no, I haven’t. Hands up all those who think that governments run commercial businesses better than private owners do? The evidence is overwhelming that, while there may be a very few exceptions, private owners, with their own money at stake, run businesses much more efficiently than do government shareholders. For this reason, the ACT Party favours the sale of government-owned businesses, and supports National’s rather timid proposal to sell minority stakes in four of the SOEs.
+
+An issue which I don’t propose to discuss today – but which I will discuss in another speech at some stage – is whether laws around Maori property, and other Maori issues, are an impediment to faster growth. Suffice it to say at this point that I believe there are issues there which reduce New Zealand living standards, and particularly those of Maori New Zealanders. It should also be noted that the policies which I’ve outlined this morning would be of enormous benefit to Maori New Zealanders, as to all New Zealanders.
+
+So much for the policy changes which the ACT Party favours to move us towards a more prosperous New Zealand.
+
+There are three institutional changes which we also favour.
+
+First, we want to see legislation passed which would constrain the future growth of government spending – legislation similar to that introduced by Rodney Hide a few weeks ago, constraining the growth in government spending to the growth in inflation and population. In other words, legislation which would aim to hold core Crown expenses constant in real per capita terms.
+
+Of course, we’d like to see government spending reduced as a share of GDP, as I’ve explained. But we believe there’d also be very considerable merit in trying to increase the difficulty which governments would have to overcome before they increased government spending. At the moment, as Labour showed in 2005 and subsequently, it’s just too easy for governments to increase spending – they know that taking $1,000 off one taxpayer and giving $200 to each of five taxpayers wins them four votes, and that becomes hugely difficult for future governments to reverse, as National proves very clearly.
+
+Second, we want to see legislation passed which would make it harder for governments to pass laws and regulations which would impinge on the rights of citizens – again, in line with the legislation introduced a few weeks ago by Rodney Hide. Too often in the past, laws and regulations have been passed which involve massive costs to many people. I’ve already mentioned the abolition of youth minimum wage rates, in cynical disregard for the effect of that move on youth unemployment. The OECD has noted that New Zealand has slipped well below best practice in product market regulation, while the 2025 Taskforce cited one estimate that lifting the quality of regulation in New Zealand to world’s best practice could by itself close a third of the income gap with Australia. The RMA is a classic example of a law passed with little consideration of the costs imposed, or for whether the costs are commensurate with the benefits. I visited a farm in the Waikato a few days ago, and was told that planners retained by the district council had designated large parts of the farm as having “outstanding landscape value”. As a consequence, the farmer had lost his right to build on that land without getting approval from the district council, and no thought at all had been given to compensating the farmer for that considerable loss of value.
+
+And finally, and related to the last point, we’d want to see the Bill of Rights amended to protect the property rights of citizens. It’s far too easy for governments to ride roughshod over those rights, without any thought of compensation for the people whose property is affected. Too often, the community acquires something of perceived benefit – often a perceived environmental benefit – without any cost to the community as a whole, but at very considerable cost to those whose property is in some way constrained. One of the many things making investment less attractive in New Zealand than it needs to be is this current disregard with which property rights are treated in New Zealand.
+
+So there you have it: the ACT Party prescription for a more prosperous New Zealand.
+
+Mr Chairman, I’m seeking re-election to Parliament for one simple reason: my children and grand-children. This is, perhaps, a rather extreme example of special interest politics, but I make no apology for it because what’s good for my children and grand-children is good for your children and grand-children also.
+
+There’s absolutely no good reason why New Zealand can’t again lead the world in living standards, with good jobs paying good wages for all New Zealanders. We can eliminate poverty and give our children and grand-children the option of having a good life here or a good life abroad. Our children shouldn’t feel they _have_ to leave for the sake of their own children. We can provide world-class education and world-class healthcare to all New Zealanders, not just the rich. If this is extreme, then I gladly accept the label.
+
+Most political parties promise to make you more prosperous by having a bigger and more active government.
+
+The ACT Party contends that the only way to deliver a better life for you and your children is through _less_ government.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

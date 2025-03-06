@@ -1,0 +1,94 @@
+---
+slug: hot-debate-served-up-tasty-evening-of-ideas-&-entertainment
+title: "Hot Debate served up tasty evening of ideas & entertainment"
+date: 2012-04-05
+source-url: https://www.scoop.co.nz/stories/ED1204/S00029/hot-debate-served-up-tasty-evening-of-ideas-entertainment.htm
+author: lincoln-university
+---
+Hot Debate served up tasty evening of ideas & entertainment
+===========================================================
+
+**Thursday, 5 April 2012, 10:55 am**  
+**Press Release: [Lincoln University](https://info.scoop.co.nz/Lincoln_University)**
+
+5 April 2012
+
+**Hot Debate served up tasty evening of ideas and entertainment**
+
+A mixed menu of views and opinions about the _Future of Food in Canterbury_ was served up at the Kim Hill Hot Debate on the topic at Lincoln University on Thursday 29 March.
+
+Presented by Lincoln Envirotown Trust as an Earth Hour 60 event for 2012, and organised by Trust Coordinator Dr Sue Jarvis, an Adjunct Senior Lecturer in the Department of Environmental Management at Lincoln University, the occasion was introduced by chairperson Kim Hill as more of a “discussion” than a “debate”. In the end it became a fusion meal of wit, humour, earnestness and advocacy.
+
+Taking part, in front of an eager and responsive audience of 300, which filled the Stewart One Lecture Theatre, were six panellist – John Donkers, Chair of Irrigation New Zealand; Dr Carolyn Lister, Phytochemicals and Health Team Leader, Plant and Food Research; Nick Pyke, CEO, Foundation for Arable Research; Dr William Rolleston, South Canterbury farmer and National Vice-President of Federated Farmers; Dr David Whitehead, Science Leader, Global Changes Processes, Landcare Research; and Professor of Ecology Steve Wratten, Lincoln University.
+
+After introductions by Selwyn District Deputy Mayor Sarah Walters and Kim Hill, the panellists quickly made clear their positions –
+
+John Donkers said it was hard to be a farmer in Canterbury today without water. Irrigation provided farmers with choice, he said. If farmers had water, they had choice. “But we’re going to have to do things differently in the future to ensure good water quality”.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Carolyn Lister said that food production “all comes down to the bottom line of dollars”.
+
+Nick Pyke saw “integration” as the key theme for the future. How could things best work together, he asked. The days of single product farming might be numbered and farmers in the future might have to integrate several different activities, he said.
+
+William Rolleston argued for the pre-eminence of science. Science was too important to “dumb down”. “We need a second Green Revolution and must be open to new technologies such as nanotechnology and genetic modification - based on “good science”.
+
+David Whitehead said the challenge was to grasp opportunities while retaining “environmental integrity”.
+
+Steve Wratten said the future lay with “agro-ecology”. Tweaking what we’re currently doing isn’t enough, he said. A greater shift in approach was required.
+
+For one-and-a-half hours the panellists grappled with issues of climate change (it’s not going to affect farming in Canterbury in the next 50 years or more, said David Whitehead); peak oil; genetic modification (including light hearted talk of “two-headed carrots” and carrots that could self-harvest by jumping out of the ground); household food budgets (the proportion of household incomes allocated to food was going to increase, said William Rolleston); vegetarianism vs. meat consumption (we probably eat more meat than we need to, said Alison Lister); and definitions of sustainability (most agreed it was about passing on to the next generation an environment no worse than when received; David Whitehead said it was about setting environmental limits and ensuring environmental integrity; a member of the audience suggested it meant caring _more_ for the land than the previous generation and leaving it in _better_ shape).
+
+At the 90-minute mark chairperson Kim opened discussion to the audience, with the panel members invited to respond to questions. Asked about the role of science, John Donkers answered that “farmers are looking for sound scientific changes”. The “guilt” that farmers are made to feel by the media about their activities was responded to by William Rolleston who said “we don’t celebrate enough the good things that farmers do”.
+
+Picking up on the media point, another questioner criticised the seeming lack of good information about farming practices and claimed that the media was “compromised” as a source of such information by its relationship with big agricultural chemical and technology companies.
+
+A question about the volume of food wasted in the world while many starved, led to agreement from Steve Wratten that this was indeed a scandal. He pointed out that in the United States of America rotting food waste had become a significant source of atmospherically harmful greenhouse gas emissions.
+
+Another member of the audience said “we have become disconnected from the source of our food and we must get back to the roots of where our food comes from.”
+
+Soon members of the audience started making statements of personal belief and dogma rather than asking questions - there was even an attempt to get fracking into the discussion (closed down by Kim as outside the topic, despite an appeal from the questioner based on its connection with ground water).
+
+At 10pm, after a two-and-a-half hour smorgasbord of panel discussion, audience questions, point making (“it is surprising that there are no social scientists or philosophers on the panel tonight, said an academic), medical controversy (advice to midwives about historical leachate levels in Canterbury drinking water) and sectional interest statements (from advocates of organics, bio-dynamics, and composting), a frustrated Kim pleaded: “Let’s at least get something on the table tonight”.
+
+In the final 15 minutes the panellists offered their conclusions -
+
+John Donkers said he was confident that the way the community was requiring farmers to change would in fact lead to change, and that change was already taking place.
+
+Carolyn Lister said there appeared to be “no consensus” around the table but that the solution to problems did not rest solely with farmers. “We all, as consumers, need to think more wisely, and especially about food waste.”
+
+Nick Pyke said he had acquired some new idea to take away from the evening’s discussion. A lot of things were happening in Canterbury, he said and he saw “integrated farming” as offering a range of input opportunities and a range of beneficial outputs.
+
+William Rolleston said that change would happen in response to the market. Everything runs in cycles, and that will probably apply even to dairying. “What we will do is adapt to market signals. The key thing is that people should try to understand the point of view of others.” He was particularly concerned about the “big divide” between urban and rural.
+
+David Whitehead said all the technical know-how to achieve change existed, but it was the socio-economic behaviour that was important. “It is important that we don’t put the system under so much stress that it won’t allow for the emergence of other new systems in the future that we don’t at present know about.” He warned that there was a risk that we could “run our systems down”.
+
+Steve Wratten concluded by saying that he was “not against farmers. After all, I eat! However I work at a university and my job is to challenge.” He said he and his students were not knocking farming but challenging things and asking questions. He saw major contributions ahead from agro-ecology and said that enrolments in his third year Ecology class at Lincoln University were the highest ever, which was a healthy sign for the future of Canterbury and New Zealand.
+
+Wrapping up the debate/discussion, Kim Hill said the future well-being of food production in Canterbury appeared to lie with the community, consumers, producers and scientists “all talking, rather than closing doors”.
+
+Sponsors for the evening in addition to Lincoln Envirotown Trust were Landcare Research, Lincoln University, Plant and Food Research, Selwyn District Council, and CRT Real Estate Lincoln branch.
+
+For further information visit www.lincoln.ac.nz/news
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Lincoln University](https://info.scoop.co.nz/Lincoln_University) on InfoPages.

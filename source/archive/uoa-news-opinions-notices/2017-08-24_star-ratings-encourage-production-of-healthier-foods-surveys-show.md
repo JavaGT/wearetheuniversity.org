@@ -1,0 +1,51 @@
+---
+slug: star-ratings-encourage-production-of-healthier-foods-surveys-show
+title: "Star ratings encourage production of healthier foods, surveys show"
+date: 2017-08-24
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/star-ratings-encourage-production-of-healthier-foods.html
+---
+Star ratings encourage production of healthier foods, surveys show
+==================================================================
+
+24 August 2017
+
+![Head and upper torso portrait, photo taken at an angle in a covered walkway outside a building on a sunny day.](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/star-ratings-encourage-production-of-healthier-foods/_jcr_content/par/textimage/image.img.jpg/1503525904545.jpg "cliona-ni-mhurchu")
+
+The voluntary Health Star Rating is encouraging manufacturers to create healthier foods, surveys of more than 44,000 New Zealand supermarket products over a three-year period have shown.
+
+The survey was part of the study: _Effects of a Voluntary Front-of-Pack Nutrition Labelling System on Packaged Food Reformulation: The Health Star Rating System in New Zealand_ conducted by University of Auckland academics and published in the journal [_Nutrients_](http://www.mdpi.com/2072-6643/9/8/918/pdf).
+
+Lead researcher Professor Cliona Ni Mhurchu of the University’s School of Population Health, says the results show that the HSR labelling system is driving healthier reformulation of some packaged food products.
+
+New Zealand and Australia adopted the voluntary HSR labelling system in 2014. The HSR rates the nutrition content of packaged food in half-star increments from half a star (least healthy) to five stars (most healthy).
+
+“We wanted to evaluate the effects of the HSR on food composition in New Zealand because these kinds of interpretive, front-of-pack nutrition labels may encourage healthier reformulation of packaged foods,” says Professor Ni Mhurchu, who leads a Nutrition Research Programme at the National Institute for Health Innovation.
+
+“Our analysis used food labelling and nutritional composition data for more than 44,000 packaged food products on sale in New Zealand supermarkets over a three-year period spanning implementation of the HSR. Our aim was to evaluate the effects of implementation of the HSR programme in New Zealand on food reformulation.”
+
+Annual surveys undertaken by trained fieldworkers collect brand, barcode, nutrient, ingredient and front-of-pack labelling information for all packaged food and non-alcoholic beverage products in four large supermarket stores in Auckland between February and April each year. The surveys were done before the adoption of the HSR in 2014, and again in 2015 and 2016.
+
+The four stores from which data are collected represent the largest retail brands of the two main national supermarket retailers, Foodstuffs and Progressive Enterprises.
+
+The research looked at the HSR uptake by food group; star ratings of products displaying a HSR label; nutritional composition of products displaying HSR compared with non-HSR products; and the composition of products displaying HSR labels in 2016 compared with their composition prior to introduction of HSR.
+
+In 2016, two years after adoption of the voluntary system, 5 percent of packaged food and beverage products surveyed (807 out of 15,357 products) displayed HSR labels. The highest rates of HSR uptake were for cereals, convenience foods, packaged fruit and vegetables, sauces and spreads, and “Other” products (predominantly breakfast beverages). Products displaying HSR labels had higher energy density but had significantly lower mean saturated fat, total sugar and sodium, and higher fibre contents than non-HSR products.
+
+The study found approximately eight in 10 products (83 percent) displaying HSR graphics had been reformulated to some extent, and small but significant favourable changes were seen in mean energy, sodium and fibre contents, compared with composition of the same products prior to adoption of HSR.
+
+HSR-labelled products had also been reformulated more than non-HSR-labelled products over the same period, e.g., energy reduction in HSR products was greater than in non-HSR products (−1.5 percent versus −0.4 percent), and sodium content of HSR products decreased by 4.6 percent while that of non-HSR products increased by 3.1 percent.
+
+In 2016, 84 percent of HSR-labelled products displayed star ratings of 3.0 to 5.0, and only 16 percent displayed ratings in the 0.5 to 2.5 star range.
+
+Professor Ni Mhurchu says that while early indications of healthier product reformulation are promising, far greater uptake of the HSR system by industry, and adoption across the full breadth of the packaged food supply, are necessary for such reformulation to impact population diets in a healthful way.
+
+The research was funded jointly by a programme grant from the Health Research Council NZ and the Ministry for Primary Industries.  
+  
+
+### **For media enquiries please contact;**  
+
+**Anna Kellett |** **Media Relations Advisor**  
+Email: [anna.kellett@auckland.ac.nz](mailto:anna.kellett@auckland.ac.nz)  
+Tel: +64 9 373 7599 ext 89336  
+Tel: +64 9 923 9336  
+Mobile: +64 (0)27 838 9202

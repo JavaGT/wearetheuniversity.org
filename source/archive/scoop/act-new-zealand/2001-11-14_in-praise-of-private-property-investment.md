@@ -1,0 +1,113 @@
+---
+slug: in-praise-of-private-property-investment
+title: "In Praise of Private Property Investment"
+date: 2001-11-14
+source-url: https://www.scoop.co.nz/stories/PA0111/S00272/in-praise-of-private-property-investment.htm
+author: act-new-zealand
+---
+In Praise of Private Property Investment
+========================================
+
+**Wednesday, 14 November 2001, 3:58 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+In Praise of Private Property Investment
+
+Wednesday 14 Nov 2001 Dr Muriel Newman Speeches -- Economy
+
+Speech to Property Investors Federation Auckland, Tuesday, 13 November 2001
+
+Thank you for inviting me here tonight to address the Auckland Property Investors' Association meeting. This is the second of a series of meeting with private property organisations, that I am planning to hold around the country in an attempt to keep groups, not considered to be "mates" of the government better informed of developments in their area.
+
+To begin with, I want to acknowledge the important role that private property investors play in housing our nation. In particular, they provide for the majority of the housing needs of families who don't own their own home. In spite of the impression given by the Labour-Alliance government, of the 315,000 rental housing units in New Zealand, only 70,000 of those are owned by the state, while 15,000 are owned by local authorities and 230,000 by the private sector.
+
+There are some 170,000 private property investors in New Zealand who invest, according to the ASB bank, an estimated $42.5 billion into the rental property market. The Bank claims that rental property is the second most popular investment option after managed funds. Yet in spite of that significant investment in meeting the housing needs of families who don't own their own home, private property investors have been maligned, even pilloried by the Labour-Alliance government. It appears to view a market-based rental contract between tenant and landlord as some form of exploitation.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+That was a very clear message at the last election when Labour and the Alliance campaigned on income related rents for state house tenants. They claimed income related rents would alleviate poverty, and at the same time drive down private property rents.
+
+The reality is that income related rents will never be a cure for poverty, as they well know, only proper welfare reform can do that. Further, choice and the free market have ensured that rental returns have remained steady, illustrating that the government understands neither business nor incentives.
+
+While 270,000 families continue to receive financial assistance through the accommodation supplement, income related rents, has brought rent reductions for some 40,000 low-income families. This has caused an increased housing need. Why would you bother to have a lodger if you are only paying $50 a week in rent? The increase in housing need has strengthened the rental housing market, not weakened it as the government had hoped.
+
+Income related rents have re-introduced privilege and discrimination into our welfare system. Those who have the state as their landlord can now obtain cheaper rents than those who do not, irrespective of need. As such, it is not a policy that ACT can support. It is also a policy that historically was shown to be a disaster.
+
+In the eighties, with Helen Clark as Minister of Housing, income related rents caused waiting lists to grow to over 50,000. Overcrowded families lived in garages and shacks to get themselves to the top of the waiting list. It spiralled out of control.
+
+As a result, the Labour government introduced market rents and the fore-runner to the accommodation supplement. Yet in spite of that lesson of history, the labour government have once again introduced income related rents, not because it will be sustainable in the long term, but by sounding caring and compassionate, it helps them to buy power.
+
+Already there are over 10,000 families on the waiting list for a state house, and the number is growing rapidly. There are also some 20,000 families who live in state houses who do not qualify for income related rents. The government did not have the courage to include in the legislation mechanisms to encourage families to move into private sector homes in order to free up state houses for more needy families.
+
+The pursuit of political power is also, I believe, the major reason for the outburst by the Minister of Housing against private landlords earlier this year. In June he hit the headlines with landlord stories: "Bad landlords should be penalised" , "Government to toughen up on landlords", "Crackdown on landlords likely".
+
+The Minister has responded to such lobbying by talking tough about bad landlords and promising to bring in harsher penalties against them. By doing so he hopes to win voter support from the hundreds of thousands of tenants who will gain the impression that he is looking after their interests.
+
+The question that needs to be asked, however, is how big the so-called problem of \`bad' landlords really is? Is the problem so widespread that the government can justify bringing in legislative or regulatory change to deal with it?
+
+I don't think so.
+
+Of the 42,000 applications to the Tenancy Tribunal, the state agency which deals with disputes that landlords cannot sort out between themselves, only 8% are filed by the tenants against landlords. According to the Ministry of Housings annual report, only a couple of hundred of those were complaints about work needing to be done on the property they were living in. It is not clear how many of those landlords were the state or local government.
+
+The Minister has already acknowledged that most landlords readily comply with the Tribunals orders. A government report "found no evidence that the current legislative standards for rental housing were too low or flawed. Instead the problems seem to be in administering and enforcing the legislation".
+
+For the minority of landlords who are derelict in their duty, severe penalties already exist. The recent case of a landlord being fined $40,000 by a local authority for providing substandard housing illustrates the extent of their enforcement powers. The Tenancy Tribunal can also issue orders and award penalties of up to $12,000.
+
+If the Minister carries out his threat of regulating for stiffer penalties on landlords, he would be targeting an estimated 170,000 residential property investors, in order to punish maybe 15-20 \`bad' landlords. That action would bear the hallmarks of a crusade against private landlords. It would send the message that this government intends to treat all landlords as criminals. It would be an example of extremely poor governance, using a sledgehammer to crack a nut.
+
+Because the Labour Government doesn't understand business, they have failed to appreciate that the last thing an investor would want to do is to devalue their investment. Rather than risking undermining the equity in their property, most landlords are only too willing to fix problems when they occur.
+
+On the basis of information available, the government's call for tougher penalties against landlords is a one-sided affair, driven largely by tenants' advocacy associations and housing lobby groups. Organisations representing property owners and landlords allege that not only has the government failed to inform them of proposed changes to housing legislation, but that the Minister of Housing has even refused to acknowledge their correspondence.
+
+This is simply not good enough. The Minister of Housing has a responsibility for all housing mattes and a duty to promote balanced solutions to perceived problems.
+
+The proposed changes to the Residential Tenancy Act, will toughen up on landlords. It also proposes major changes to the legislation effecting boarding houses in order to bring them under the auspices of the Act. However, I understand the changes that are being proposed could effectively make the running of boarding houses too difficult, and its effect could be to rob society of an important residential option.
+
+The reality is, that private property investors are under attack by this government. They must be active and vigilant in opposing such proposals. They must make submissions when the time is right. If they don't, the point of view of tenants' advocacy groups will dominate the parliamentary process and there will be no balance.
+
+The Government needs to recognise that private landlords offer affordable accommodation to hundreds of thousands of New Zealand families, many more than the government could ever hope to house with its state housing supply. In light of this partnership, it is also surely the role of government to help prevent disillusionment by landlords who feel that the government doesn't care about their concerns.
+
+The problem is that if too many landlords decided to sell out of the more problematic lower end of the housing market, it could result in a worrying shortage of rental property.
+
+In the spirit of that partnership, the government should look more closely at sorting out the causes of the 39,000 complaints to the Tenancy Tribunal by landlords against their tenants. Most of them, in fact, fall into two categories: recompense for damage to the property and failure to pay the rent. For years, landlords have expressed concern about tenants who owe money and disappear, because the pursuit of justice can be fraught with difficulty.
+
+The problem is, that after such cases appear before the Tenancy Tribunal where a court order for rent arrears or damage is issued, it then becomes the responsibility of the landlord to provide their former tenant's new address to the Court, so the debt can be collected. If the former tenant is a beneficiary, the Department of Work and Income hides behind the Privacy Act and refuses to provide details of that new address to the Court.
+
+This situation is clearly untenable. As a party that upholds the rule of law, ACT intends to amend the Social Security Act 1964 to require the department to provide address details to an officer of the Court for the purpose of debt collection. In our mind, withholding that information in the present manner is tantamount to aiding and abetting the miscarriage of justice. This is an issue that has been in front of the Ombudsman, for a year, but he has not released his finding as yet. We await his decision with interest.
+
+There is a further issue of concern that landlords have raised, which needs to be addressed. It relates to ensuring that beneficiaries who rent a house from a private landlord have the same ability to deduct their rent at source as they have if their landlord is the state. ACT would look to extend the automatic deduction mechanism to all beneficiaries who rent, just so long as they agree and complete the appropriate authorisation forms.For some time, there has been a call by tenancy advocacy groups to introduce a certificate of fitness for rental properties. ACT would vigorously oppose regulating rental properties in this way. The RTA already requires landlords to keep their property in good order, and there is no clear evidence that such a measure is necessary.
+
+What ACT would like to see however, is more effort being made to address issues relating to unsafe housing where owner-occupiers are at risk of fire, ill health or other negative consequences. A recent spate of house fires, which cost the lives of children, have highlighted the dangers of owner-occupied substandard housing.
+
+A recent report on the issue confirmed that over 90% of housing that fell into that substandard category was owner-occupied, a matter that must be of concern to local authorities. It is however important to recognise that the cost of bringing these houses up to a safe standard, should be the responsibility of the homeowners themselves, not ratepayers or taxpayers.
+
+That is why ACT so strongly opposes the government's new Special Action Housing Zone Scheme. The SHAZ scheme as it is called, has given seventy applicants who own homes that they have allowed to fall into disrepair, with collapsed verandas, rotting floorboards and the like, interest free grants of up to $50,000 These grants don't have to be repaid and are written off after three years.
+
+Giving taxpayer's money to people to spend on their own private housing, without having to pay it back, is bad enough, but this scheme sends absolutely the wrong signals. The message SHAZ sends is that if you are a responsible home owner, you have to spend your own money fixing your property, but if you are not, the government will bail you out. The scheme also demonstrates the absolute commitment of the Labour-Alliance government to the redistribution of wealth from those who are better off to those who are not, irrespective of the negative incentives it creates.
+
+Although the government has taken a hands-on approach to housing for the purpose of buying voter support, it is imperative that it keeps a balanced view. It should ensure that not only do tenants and landlords alike know their right, but that they should also understand their responsibilities and obligations as well.
+
+Housing a nation is a major responsibility. It is a joint effort that needs the private sector to work alongside the government. Rather than attacking landlords, the government would be wise to not only address their concerns, but also to acknowledge their contribution.
+
+  
+For more information visit ACT online at http://www.act.org.nz or contact the ACT Parliamentary Office at act@parliament.govt.nz.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

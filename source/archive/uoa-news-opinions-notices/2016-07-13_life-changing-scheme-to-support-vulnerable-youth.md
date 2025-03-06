@@ -1,0 +1,54 @@
+---
+slug: life-changing-scheme-to-support-vulnerable-youth
+title: "Life-changing scheme to support vulnerable youth"
+date: 2016-07-13
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/life-changing-scheme-to-support-vulnerable-youth.html
+---
+Life-changing scheme to support vulnerable youth
+================================================
+
+13 July 2016
+
+![Kelsey Deane and Pat Bullen from Campus Connections posing for photograph.](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/life-changing-scheme-to-support-vulnerable-youth/_jcr_content/par/textimage/image.img.jpg/1468535894915.jpg "Kelsey Deane and Pat Bullen")
+
+Kelsey Deane and Pat Bullen from Campus Connections.
+
+In a first for New Zealand, at-risk teenagers excluded from mainstream education are set to benefit from an innovative youth mentoring scheme.
+
+Due to start in July 2017, around 25 young people enrolled in alternative education in West Auckland will receive 48 hours of mentoring over a 12-week period from student mentors, counsellors and social workers at the University of Auckland’s Faculty of Education and Social Work in Epsom.
+
+Each young person will then be supported to move into other social services, educational or employment opportunities.
+
+Called Campus Connections Aotearoa, the scheme has recently received $455,000 from the Ministry for Social Development, the Vodafone New Zealand Foundation and the Fletcher Trust.
+
+It will be led by Drs Pat Bullen and Kelsey Deane, who specialise in youth development and mentoring in the faculty.
+
+Spread over three years, the funding will allow them to set up a therapeutic programme involving third-year social work students mentoring teenagers who have fallen out of the system for a variety of reasons. The scheme uniquely combines intensive one-to-one mentoring with group-based activities and on-site therapy.
+
+The programme was inspired by the Campus Connections initiative at Colorado State University in the United States, one of the places Dr Bullen was able to visit in 2014 after receiving a year-long $90,000 Vodafone World of Difference Fellowship to further her expertise in this area.
+
+After seeing how successful it was, Drs Bullen and Deane were determined to introduce it here.  
+
+“Youth mentoring, if done well, can be life-changing,” says Dr Bullen.
+
+“Campus Connections will provide a wrap-around service that simultaneously addresses the social, emotional, and educational needs of vulnerable young people, in a safe, well-supported and welcoming environment.”
+
+Dr Bullen says the NZ Youth Mentoring Network has identified a significant service provision gap for high-risk youth, particularly those involved in alternative education and Campus Connections Aotearoa will help to fill this gap.
+
+Drs Bullen and Deane are delighted with the continued support from the Vodafone NZ Foundation ($220,000), Fletcher Trust ($20,000) and the $215,000 from Youth Minister Nikki Kaye, announced on Friday.
+
+“We are incredibly grateful to receive this funding,” says Dr Bullen. ”I’m also really humbled because Minister Kaye’s three-year commitment demonstrates her belief in the value of mentoring and in the University’s ability to successfully develop and deliver the programme.”
+
+She says the money will allow her team to create a comprehensive programme adapted to the New Zealand context.
+
+As well as supporting vulnerable young people, Campus Connections Aotearoa will provide opportunities for University of Auckland students studying counselling, social and youth work to experience authentic youth mentoring, case management and transition support.
+
+### **Contact**
+
+Julianne Evans, Media Relations Adviser
+
+Phone:+64(0)9 923 6589
+
+Mobile:+64(0)27 838 9202
+
+Email: [julianne.evans@auckland.ac.nz](mailto:julianne.evans@auckland.ac.nz)

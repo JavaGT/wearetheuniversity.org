@@ -1,0 +1,129 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2007-11-01
+source-url: https://www.scoop.co.nz/stories/ED0711/S00001/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 1 November 2007, 6:46 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Cracking or crumbling – staff relations hit rock bottom?  
+The year just gets worse for the University of Auckland which continues to have its transactions aired in public, this time in a nine-page feature in the November issue of Metro magazine. Under the headline, ‘Stress Fractures at the Architecture School’, Metro chronicles the appointment and subsequent resignation of Peggy Deamer, a top international professor, and links it with a deep divide between University management and almost everyone else.  
+Metro says that, seven months into her much-acclaimed appointment as Professor of Architecture and Head of Architecture and Planning at the University, “Deamer was gone – her dispatch Tudor-like in its abruptness”. Deamer cited a deep misalignment of views between her and management as being behind her departure. It is understood that one of the terms of her departure is that she is not allowed on the University premises but for public events. Neither was Deamer permitted to work out her notice period, instead being ordered to clear out her desk and go.  
+Metro’s article is the latest in a series highlighting problems in the University’s National Institute of Creative Arts and Industries (NICAI), including a prominent recent feature in the Weekend Herald (“Cracks appearing at the Foundation”) and in the British paper, the Guardian. Most identify not only the strained relationship between staff and NICAI Dean, Professor Sharman Pretty, but also what appears to be the unwavering defence of Pretty by the Vice-Chancellor, Professor Stuart McCutcheon.  
+Metro says that, since NICAI was formed in 2005, the faculty has not been a “happy camp”, with an unprecedented number of senior staff resigning. The number of formal complaints has also been high. Two lecturers in NICAI’s School of Music have successfully won personal grievance cases and, two years ago, after twenty positions were contracted into six in the School of Fine Arts, ten staff lodging personal grievance claims. In addition, a number of formal complaints have been made against Pretty and a survey, carried out by the Association of University Staff, shows morale at an all-time low and the place characterised by a climate of fear.  
+Commenting on the Metro story, AUS National President, Professor Nigel Haworth, said that the repeated, public and, often, adverse commentary in both national and international media is a matter of concern for all involved in the University of Auckland and for the New Zealand university system as a whole.  
+But perhaps the last word should go to Ian Athfield, President of the New Zealand Institute of Architects: he says the Architecture School ought to jump the NICAI ship and head to the Faculty of Engineering.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. University staff welcome Hodgson into tertiary-education role  
+2\. Auckland VC closes in on half-million salary  
+3\. TEC to review PBRF  
+4\. National urges caution on new Law school  
+5\. Women overtake men in gaining bachelors’ degrees  
+6\. Concern over potential Vic job losses  
+7\. Unions throw down challenge on academic freedom  
+8\. Universities need academic, not business leadership  
+9\. “Invincible Donovan University’ no hippy dream
+
+University staff welcome Hodgson into tertiary-education role  
+The Association of University Staff (AUS) has welcomed the announcement that Pete Hodgson has been named as the new Minister for Tertiary Education in today’s Cabinet reshuffle. He has also been named as Minister in the allied fields of Research, Science and Technology and Economic Development.  
+Mr Hodgson comes to the portfolio with a wealth of Cabinet experience, including most recently being the Minister of Health. Chris Carter has been named as the new Minister of Education.  
+AUS National President, Professor Nigel Haworth, said that Mr Hodgson is an experienced minister with a tremendous opportunity to integrate the work of three related portfolios. “His recent background in Health, in which tripartism plays a growing role, equips him well to play a leading role in the university tripartite process,” he said. “AUS looks forward to working closely with Mr Hodgson as we have done successfully with his predecessors.”  
+Professor Haworth expressed his appreciation of the role played by the outgoing Minister, Dr Michael Cullen. He said that Dr Cullen had made a dynamic contribution by taking tangible and productive steps to reform the tertiary-education sector, including his active participation in developing a process to address salary and funding problems.
+
+Auckland VC closes in on half-million salary  
+University of Auckland Vice-Chancellor, Professor Stuart McCutcheon, was the highest paid chief executive in the tertiary-education sector in 2006, according to the latest State Services Commission Annual Report. He received a remuneration package worth between $470,000 and $479,000, up from between $410,000 and $419,999 in 2005. The $60,000 increase equates to a 14.63 percent jump, more than twice that of his academic staff and three times that of the University’s general staff.  
+Professor McCutcheon joins the country’s top three highest-paid public servants whose salaries are reported by the State Services Commission. He joins the Chief Executives of the Ministry of Foreign Affairs and Trade, who also received between $470,000 and $479,999, and the Ministry of Social Development, who received between $490,000 and $499,999. During the same time period, the Prime Minister received a salary of $347,000.  
+The next-best-remunerated vice-chancellors were Professors David Skegg from the University of Otago and Roy Sharp from Canterbury. Each received between $400,000 and $409,999, up from between $330,000 and $339,999 (or 21 percent) and between $360,000 and $369,999 (or 11 percent) respectively.  
+The only vice-chancellor not to have moved from one remuneration band to another was Professor Judith Kinnear, the beleaguered and soon-to-be-retired Vice-Chancellor of Massey University. She received between $320,000 and $329,999 in both 2005 and 2006.  
+The remuneration packages for the other vice-chancellors were worth between $350,000 and $359,999 for AUT University’s Derek McCormack, between $320,000 and $329,999 for Victoria University’s Professor Pat Wash and University of Waikato’s Professor Roy Crawford and between $280,000 and $289,999 for Lincoln University’s Professor Roger Field. All are in the top ten remuneration packages paid to tertiary-education chief executives.  
+The State Services Commission Annual Report also reveals that, excluding chief executives, there is one other person employed in a tertiary education institution who received between $390,000 and $399,999. More that 2100 others in the sector received more than $100,000.
+
+TEC to review PBRF  
+The Association of University Staff will call on the Tertiary Education Commission to investigate the misuse of Performance Based Research Fund results as part of a proposed independent strategic review of the Fund. The call follows the release of draft terms of reference for the second stage of a review of the PBRF to be undertaken in the early stages of next year.  
+Part of the scope of the review is identifying the overall effects on the PBRF, including its positive and negative effects in relation to the management of research and human resources in tertiary-education organisations and identifying whether the current PBRF system could be improved. The draft terms of reference also say that the review will be cognisant of participation costs upon the sector, inclusive of all types of tertiary-education organisations that are part of the PBRF and that it will utilise all information made available to it in its deliberations.  
+Included among the specific areas to be looked at are the undesirable consequences of the PBRF, particularly for new and emerging researchers, and impacts on “risky and innovative research”.  
+The review will involve consultation with stakeholders across the sector and draw on the analysis of secondary data undertaken by the TEC and the Ministry of Education. The review will be a relatively brief, high-level independent assessment undertaken over a three-month period.  
+AUS National President, Professor Nigel Haworth, said that the union would participate fully in the review, particularly as concerns have been expressed that the PBRF is intruding into employment relationships in a variety of ways. “Universities are far too often failing to keep individual scores private and, moreover, they are used improperly in performance reviews, for promotion and in appointment processes,” he said. “AUS believes that the PBRF has never been suitable for individual performance assessment and should be limited to the function for which it was developed: to distribute research funding to institutions.”  
+The draft terms of reference for the review can be found at:  
+http://www.tec.govt.nz/upload/downloads/pbrf-phase2-draft-terms-of-reference-for-review-october07-v2.pdf
+
+National urges caution on new Law school  
+The National Party spokesperson on tertiary education, Dr Paul Hutchison, says that approval for another Law school in Auckland needs careful consideration before it becomes a reality. Dr Hutchison was commenting on a decision by the Council of Legal Education to approve a programme for the AUT University to offer a Law degree, saying the proposed programme met its criteria for educational merit. Although its Council has approved the new Bachelor of Law course, AUT now needs the approval of the Committee on University Academic Programmes (CUAP) and the Tertiary Education Commission before it can begin offering the degree. The Commission will also determine whether there is demand for another Law school and whether it should get public funding.  
+Dr Hutchison said that, unless the arguments are extremely compelling, it is difficult to imagine why a country of four million people needs a sixth Law school. There are already Law schools at Auckland, Waikato, Victoria, Canterbury and Otago Universities.  
+Dr Hutchison said that the TEC needs to give serious thought to whether this project for a new Law degree should be better utilised in another speciality or a different region. “TEC’s reform of the tertiary sector has emphasised quality, relevance and value for money,” he said. “This is a prime example of where those criteria should be met.”  
+Association of University Staff National President, Professor Nigel Haworth, said that it seems hard to justify another university offering a Law degree, particularly as it would mean head-to-head competition between AUT and the University of Auckland. The University of Auckland currently has more than 1600 students enrolled in its Law programme.  
+Professor Haworth said that, while the Council for Legal Education simply looked at the academic merit of the proposed programme, the TEC would need to give real consideration to whether another school was justified.  
+The CUAP approval process is expected to be completed this year and, if approval is given, the new programme could be up and running by 2009.
+
+Women overtake men in gaining bachelors’ degrees  
+Women have made significant gains in gaining of tertiary qualifications, with a higher proportion of women than men now attaining bachelors’ degrees, according to information obtained from last year’s Census. Tertiary education of New Zealanders, a census analysis, shows that, in 2006, about 11 percent of women reported a highest qualification at the bachelor level (up from 4.8 percent in 1996), compared with 9.3 percent for men (6.0 percent in 1996). Around 10 percent of women reported a highest qualification of a level 5 to 6 diploma, compared with 7.0 percent for men. The proportion of women and men holding level 5 to 6 diplomas in 2006 has not changed from 1996.  
+The data from the 2006 Census, which has been published by the Ministry of Education, shows that more people in the population in New Zealand hold higher qualifications, but significant differences in educational attainment remain in terms of age, gender and ethnicity.  
+In 2006, 36 percent of all adults fifteen years or older reported they had a tertiary qualification and 14 percent reported a highest qualification of a bachelors degree or higher, an all time high. This compares with 26 percent and 8.0 percent respectively in 1996. The percentage of people without any qualification decreased from 32 percent in 1996 to 22 percent in 2006.  
+The greatest increase in the attainment of tertiary qualifications was among those with a highest qualification at the bachelor level, up from 5.4 percent of the population in 1996 to 10 percent in 2006. There was also a moderate increase in the proportion of the population with a highest qualification at the non-degree level in 2006. The proportion of the New Zealand population which reported a highest qualification at the postgraduate level increased from 2.7 percent in 1996 to 4.2 percent in 2006.  
+The fact sheet can be found at:  
+http://educationcounts.edcentre.govt.nz/\_\_data/assets/pdf\_file/0014/14423/Census\_factsheet\_-\_attainment.pdf
+
+Concern over potential Vic job losses  
+The Dominion Post has reported this week that Victoria University is looking to cut costs by at least $1 million at its Education Faculty, sparking fears of job losses. The University says that the changes are needed to make the Karori campus more research-intensive with the Vice-Chancellor, Professor Pat Walsh, reported as confirming that, while the University is looking to make savings, it is still to be decided how this would be achieved. Nearly 300 staff work in the Faculty.  
+Association of University Staff Deputy Secretary, Nanette Cormack, said a proposal had been put to the union last week which appeared to aim for cuts of about $1.2 million. “What they are talking about is reduced staffing levels, and so we would want to discuss further what the impact of that is,” she said.  
+The Dominion Post reports Professor Dugald Scott, Victoria’s Pro Vice-Chancellor and Dean of Education, as saying that it is too early to estimate potential job losses, with that being something that will be determined as a result of the consultation process when the proposed new structure has been finalised.  
+The Faculty had been identified as needing to improve its research capability. “From 2008, growth in enrolments will no longer automatically attract funding, as was the case in the past, and this is a factor that has contributed to this . . . proposal,” Professor Scott said.
+
+Worldwatch  
+Unions throw down challenge on academic freedom  
+The two main teacher unions in the United States have this week issued statements promoting academic freedom, with each saying that, as the proportion of tenured staff drops across universities, the need to protect academic freedom becomes greater. They say that academic freedom can best be protected through activism, collective bargaining and political action.  
+The American Federation of Teachers (AFT) and the American Association of University Professors (AAUP) both assert that professors do their jobs best with full freedom of thought and expression and job security, largely in the form of tenure. Their statements also say that universities should be run with shared governance in which professors have a meaningful say in the way institutions are run.  
+Each union has documented the growing ranks of adjunct (or non-tenured) professors, with the AFT highlighting the importance of having the principles of tenure and academic freedom outlined in collective employment agreements. To achieve their goals, the AFT has called for more campus discussions and forums about academic freedom and its importance, more outreach to the public and policy leaders about why these principles matter, more emphasis on negotiating protections for tenure and academic freedom in employment agreements and political activity designed to improve the treatment of adjuncts.  
+Meanwile, the AAUP says that just 32 percent of US professors are now tenured or on tenure track, compared with 97 percent four decades ago. To highlight that, it has been holding campus equity meetings to highlight the issues faced by “contingent” workers, sponsoring hearings during which community leaders will accept testimony from faculty and students about the effects of heavy reliance on contingent faculty and organising letter-writing and other campaigns.  
+More on the AFT campaign can be found at:  
+http://www.aft.org/higher\_ed/?AL\_Call\_Papers.htm  
+More on the AAUP campaign can be found at:  
+http://www.aaup.org/aaup
+
+Universities need academic, not business, leadership  
+Amid recent government pressure to increase the influence of business leaders in the running of universities, in the United Kingdom, a Warwick University research fellow says that her research over several years shows that “top” universities need “top” researchers among their leaderships.  
+According to the researcher, Dr Melanie Goodall, evidence suggests that research universities require leaders who have technical expertise from within the academy. “If you want to be world class, you need a world-class scholar at the helm,” she said.  
+A former Chief Scientific Advisor to the Government and former President of the Royal Society, Lord Robert May, agrees. He has criticised the Tony Blair-led Government for its inclination to invite people from the world of business to advise on the management of universities, or to head them. “Given that UK universities still stand significantly higher on international league tables than does most of the UK business sector, this seems odd,” he said.  
+Dr Goodall has carried out a statistical study showing a clear correlation between the personal research records of vice-chancellors and the positions of their universities in the world rankings. She showed that institutions higher up the Shanghai Jiao Tong University Ranking of World Universities are more likely to have presidents, vice-chancellors and rectors whose own personal research was highly cited.  
+A second, longitudinal study found that universities perform better in the Research Assessment Exercise if they have a vice-chancellor with an excellent personal research history.  
+The Times Higher Education Supplement
+
+“Invincible Donovan University” no hippie dream  
+Sixties pop star Donovan is working on a plan to open a university in Scotland which will concentrate on transcendental meditation. The singer says that guru Maharishi Mahesh Yogi told him to build the university on a visit to India in 1968, but it wasn’t until he met film director David Lynch in recent years that he decided to fulfill the Maharishi’s request.  
+“I know it sounds like an airy-fairy hippie dream to go on about 60s peace and love,” Donovan told the Associated Press. “But the world is ready for this now.”  
+David Lynch and Donovan intend to contact education officials in Scotland to make the Invincible Donovan University a legitimate place of learning. “For a country the size of Scotland it would take only 250 students meditating to protect Scotland from its enemies and to bring peace, to stop violence and drug abuse. That is just a byproduct of the students meditating together,” Lynch said.  
+According to Donovan, the Invincible Donovan University will create an invincible Scotland, a prosperous, healthy, problem-free Scotland with a nourishing role in the family of nations, offering inspiration and friendship to all.  
+New Musical Express and The New Scotsman
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

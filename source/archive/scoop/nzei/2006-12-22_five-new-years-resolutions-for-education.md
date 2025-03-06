@@ -1,0 +1,90 @@
+---
+slug: five-new-years-resolutions-for-education
+title: "Five New Year’s Resolutions for Education"
+date: 2006-12-22
+source-url: https://www.scoop.co.nz/stories/ED0612/S00074/five-new-years-resolutions-for-education.htm
+author: nzei
+---
+Five New Year’s Resolutions for Education
+=========================================
+
+**Friday, 22 December 2006, 2:31 pm**  
+**Press Release: [NZEI](https://info.scoop.co.nz/NZEI)**
+
+December 22, 2006
+
+Five New Year’s Resolutions for Education
+
+2007 looks to be a massive year for schools and early childhood education centres in New Zealand.
+
+The country’s largest education union, NZEI Te Riu Roa, looks forward to some major steps forward, such as funding for a reduction of class sizes and 20 free hours of early childhood education for three and four year olds.  
+“But there are still many problems in the education system,” says NZEI Vice President Elect Frances Nelson. “And with collective agreements covering more than 40,000 teachers and support staff up for negotiation in 2007, now is the time to fix them. Here are five major New Year’s resolutions for 2007.”
+
+Resolution #1: Primary teachers and principals’ negotiations
+
+More than 27,000 primary teachers and principals are involved in negotiations next year to renew their collective employment agreements. The major issues they’ll be seeking to address are the development of new career pathways and alleviating their workload.
+
+NZEI has been working on these areas for the last two years, with the Ministry of Education and the School Trustees Association, as part of a Longer Term Work Programme.
+
+“We’ve done the ground work over the last two years and primary teachers and principals expect to see some results in the negotiations,” says NZEI Vice President Elect Frances Nelson. “They expect to see those teachers who take on extra roles have the time they need during the school day to carry out the extra work, and they expect to be fairly rewarded for the extra responsibility.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“They also want to see progress made on alleviating the ever-increasing workload of primary  
+teachers and principals,” says Frances Nelson.
+
+Resolution #2: Ensure funding for smaller class sizes
+
+Primary teachers and principals are looking forward to seeing the Government provide funding in next year’s Budget to reduce class sizes for new entrants in primary schools to no more 15 students.
+
+The current new entrant class size is around 23 students and the Government committed, in August last year, to reducing this to no more than 15 students from the start of 2008.
+
+“Primary teachers and principals applaud the move because research shows that reducing the class size for children in their first year at school leads to improvements in their literacy and maths achievement,” says Frances Nelson.
+
+A major study in Britain found that having smaller new entrant classes gave children the chance to learn how to be students and to acquire knowledge. This lifted their performance in literacy and maths.
+
+“The research also shows that reducing class sizes is an effective way of lifting the performance of lower achieving students,” says Frances Nelson.
+
+“This is why we’re hoping that next year’s Budget will provide enough funding to fully implement the reduction of new entrant class sizes to no more than 15 students from 2008.”
+
+second page to come
+
+Resolution #3: Keep Quality in Kindergartens
+
+Remember the Kindergarten strike in December 2005? Teachers will once again be fighting to keep kindergarten quality when they begin renegotiating their collective agreement in January.
+
+It’s a period of huge change for teachers as kindergartens adapt their services to meet the changing needs of families. They’ve been discussing major changes to key working conditions as part of these reorganisations.
+
+“The teachers support changes in kindergarten services provided they suit the needs of the families in their communities, are fair to teachers, and that they maintain the quality of education kindergartens are noted for,” says Frances Nelson.
+
+“Its crucial that the employers recognise that while teachers are prepared to adapt the service their kindergarten provides, to meet the needs of families, they’re committed to ensuring that the children they teach continue to receive a high quality education.”
+
+Resolution #4: Fix School Support Staff Funding
+
+School support staff want to see Education Minister, Steve Maharey, follow through on the recommendation of the School Operations Grant Review. It calls for a workstream to look at how they “might best be supported and resourced to fulfill their roles in the schools of the future.”
+
+The review report, released by the Minister on December 19, highlighted the urgent need to develop a fairer and more effective system for funding the tens of thousands of support staff working in primary and secondary schools as teacher aides, therapists, office managers, librarians, ICT staff, kaiarahi i te reo (fluent Maori speakers) and in more than 80 other jobs.
+
+“Schools can’t function without quality support staff,” says Frances Nelson. “And yet we’re losing them to the private sector because of low pay and a lack of job security, stemming from the current system of bulk their salaries from each school’s operations grant.”
+
+“This is why it’s essential that the Minister move to establish the support staff funding workstream, recommended by the School Operations Grant Review.”
+
+Resolution #5: School Funding, not School Fundraising
+
+The review also highlighted an urgent need to address the funding of computer technology in schools. It recommended a second workstream be established to “develop a framework for resourcing ICT across the sector.”
+
+“Schools rely on their ops grant and community fundraising, like school fairs, to pay for their computer technology,” says Frances Nelson. “This is not the way we should be ensuring our children have the ICT skills they need to equip them for life in the 21st century.”
+
+“That’s why it’s vital the Minister establish the ICT workstream recommended by the operations grant review.”
+
+“We also need to take a comprehensive look at what it costs to run a school, so we can ensure that the staff have the resources they need to provide their students with the education they require to reach their full potential.”
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)
+
+Find more from [NZEI](https://info.scoop.co.nz/NZEI) on InfoPages.

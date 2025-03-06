@@ -1,0 +1,147 @@
+---
+slug: northern-division-conference-prebble-speech
+title: "Northern Division Conference - Prebble Speech"
+date: 2000-11-13
+source-url: https://www.scoop.co.nz/stories/PA0011/S00202/northern-division-conference-prebble-speech.htm
+author: act-new-zealand
+---
+Northern Division Conference - Prebble Speech
+=============================================
+
+**Monday, 13 November 2000, 9:10 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Hon Richard Prebble Speech to Northern Region Divisional Conference
+
+Saturday 11th Nov 2000  
+Richard Prebble Speech -- Governance & Constitution
+
+Hon Richard Prebble CBE Speech to Northern Region Divisional Conference
+
+At Parklane Motor Inn, Cnr Lake Rd And Rewiti Ave, Takapuna 10am, Saturday, 11 November 2000
+
+Delegates – I enjoy Party Conferences. I relish the interchange of ideas between like-minded people. I also believe that people of conviction are special people. It takes courage to join a political party. It is easier to be on the sideline.
+
+Our democratic process depends not just on voting, but people being involved in grass-roots politics. To be an ACT Party member requires even more. In my time in Parliament, and it goes back to 1975, no parliamentary party has been subject to more attack.
+
+According to the Finance Minister, ACT is responsible for the collapse in business confidence. According to the Minister of Labour ACT is responsible for all the opposition to the union-promoting Employment Relations Act. According to Ruth Dyson ACT is --responsible for the widespread public opposition to ACC nationalisation.
+
+I warned the Parliamentary Party, when ACT took on the task of leading the opposition, when National felt it could not – that we would be savaged.
+
+Others in ACT have been anguished that National benefited from campaigns ACT has lead. I do not share that anguish. Having ACT at 9% and National at 30% equals three more years of the Labour-Alliance coalition.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The ACT party is parliament's best campaigner, we have never failed to lift our support in an election. So to have National on 39% and ACT on 4% after the strongest honeymoon in history is a real achievement.
+
+There is only a two per cent gap, within the margin of error, between the Labour/Alliance coalition and National and ACT. This has enabled us to move from opposition mode to ACT's traditional role of promoting fresh ideas and positive solutions to the problems the two main parties can’t, or won’t, tackle.
+
+I am proud of the performance of the parliamentary party.
+
+The Westminster system of democracy will only work when someone is prepared to ask whether the Emperor has any clothes. This government does not!
+
+ACC nationalisation will result in increased red tape, increased compliance costs and tragically, more preventable accidents.
+
+The Employment Relations Act has made it more expensive to employ your fellow citizens. Bogus employment grievance cases are already increasing and it is only a matter of time before unions abuse the strike weapon the new law has given them.
+
+While the increased income tax falls on just six per cent of New Zealanders, the tax increase is having a profound effect. It is discouraging investment and the IMF quarterly report stated that increasing tax on our most talented people has contributed to the brain-drain.
+
+Of course ACT goes further. We say that the government will not collect the $400 million extra revenue it has predicted. The damage to the productive sector is so great that the tax rate increase will produce no more revenue.
+
+A week ago the Finance Minister released figures claiming tax revenue is on target and company tax is up. I still stand by my prediction.
+
+Companies pay provisional tax based on last year’s performance. GST receipts, which are based current performance, have fallen in June, July, August and September. We have entered an important contest of ideas.
+
+Labour and the Alliance are conducting, at great expense to the nation, an experiment to see if big government can work. If you can raise taxes without affecting investment or the economy, then we will know that big government is a viable option.
+
+If, however, raising taxes chokes off investment, if unemployment goes up because no investment means no job creation, if the increase in tax doesn't raise more tax revenue, then we will know that big government is harmful.
+
+Delegates, I have no doubt that ACT is being proven correct. The investment gap between what is needed for five per cent growth and what has been invested has never been wider. The country is over $10 billion short of the investment required to grow at five per cent and create jobs.
+
+This expensive experiment is an opportunity for ACT. We have never had a better chance to promote the advantages of low flat tax. If a tax increase of 18% has had such a devastating effect – then a tax decrease should have great beneficial effects.
+
+To strengthen our argument we have examples like Ireland, where Irish politicians both left and right believe that their company tax rate of 12½ per cent is responsible for their economic success.
+
+This week I heard Mrs Anson Chan, the Chief Secretary of Administration of Hong Kong. She stated to the largely business audience that Hong Kong’s prosperity rested on a personal tax rate of 16 per cent, and a company tax rate of 15 per cent. The New Zealand audience applauded. I noticed Dr Cullen did not.
+
+I observed a National MP also puzzled by the response because National believes that real tax cuts are not electorally popular. Flat tax is ACT’s issue.
+
+ACT has also welcomed the government opening up the superannuation issue. National’s record is appalling. National gave us the unsustainable Muldoon scheme – and cancelled the Kirk scheme.
+
+National ensured that Winston Peter’s scheme never had a chance. The country finds itself dependent on an unsustainable tax-based scheme because of failures by both major parties.
+
+The Cullen scheme has flaws. It’s a government savings scheme, and like Bush (I am not sure whether it’s Governor or President elect) – ACT says you must trust people, not governments, with their money.
+
+Having 50 per cent of GDP in a central government fund, enough money to buy every share in every public company, is frightening.
+
+Many people think this is a permanent scheme. It is not. Dr Cullen’s scheme winds down to nothing. By paying all the money out, the scheme only benefits baby boomers - like Michael Cullen and myself. A twenty year old will pay into the fund all their working life only to find it exhausted during their retirement.
+
+Critics have pointed out the distortionary effect of a scheme that large – I believe the greater distortion will come as government sells investments worth the equivalent of the total share capital of the share market – it could cause a 20 year share market depression.
+
+But let’s give Cullen some credit. Under National no Minister was prepared to examine an issue that is only critical in 20 years time. As the cynical politician observed – “when has the future ever done anything for me?”
+
+Yet we all know that for New Zealand to achieve the prosperity and security this beautiful country is capable of, we must have a 20 year vision. ACT is the only party with a 20 year vision of what this country could be – that’s why we are so keen on education.
+
+We are the party that says – it’s a choice between trusting government and trusting people. Successive governments have said “trust us”.
+
+ACT says – we trust you. New Zealanders will always make a better decision than the bureaucracy. ACT does not say no government. We are saying smaller government means better government.
+
+We in ACT believe government must improve its performance in those tasks that are government's tasks. Let me give some examples. 610 violent repeat offenders are to be given automatic early release under a system of releasing offenders that the two major parties have colluded in setting up.
+
+The offenders are supposed to be under close parole supervision. All MPs know they are not. Those 610 offenders will next year murder at least four people, rape a dozen women, commit 50 aggravated assaults and hundreds of other crimes. Very few will be recalled to jail. Under ACT’s parole reform, over 400 of them will be recalled to jail.
+
+ACT wants to put some integrity into our justice system – Justice is an ACT issue.
+
+ACT’s the “cut red tape” party. ACT has private members bills to reform the Resource Management Act. Labour and National enacted the Resource Management Act for the best of reasons but have created a bureaucratic mess. Only ACT can, and is willing to, reform the Resource Management Act.
+
+Labour and National have identical Treaty policies. Again, for the best of motives, the two parties have embarked on a policy course that far from resolving grievances is creating a grievance industry.
+
+ACT’s policy of fair, full and final settlement of genuine claims not only represents the views of over 60 per cent of New Zealanders, it is the right thing to do. Clause 3 of the Treaty guarantees equal citizenship – British citizenship means the right to be treated equally, the rule of law and a colour blind government.
+
+We are the only party with viable policies to resolve the treaty grievance industry and ensure that New Zealanders are one people.
+
+ACT is also the only party to say simple economic truths. The reason a New Zealander receives higher wages than a Fijian worker is because there is more capital behind the New Zealander.
+
+The enormous US superannuation funds which invest billions of dollars each year pay no tax. So when they look at a country like new Zealand and consider investing here they look at the after tax rate of return. Every time we increase tax we just make New Zealand uncompetitive.
+
+The reason my 26 year-old daughter, after just eleven months in London is only earning eight thousand dollars less than I earn as an MP - in New Zealand dollars - is that there is more capital behind Cheryl.
+
+We are in a global market for capital. The Chinese economy is growing rapidly because thousands of billions of dollars of capital have been attracted to China. New Zealand has stalled and our best and brightest are leaving because a 39 percent personal tax rate and a 33 percent company rate are just not attractive.
+
+The answer is simple. Hong Kong knows the answer, and so does Ireland. I think its an answer the Irish politicians stumbled on by chance - a 10 cent in the dollar tax on new investment, now extended to a 12.5 percent tax on all companies.
+
+Huge investment has flowed into Ireland. The investment created jobs, thousands of jobs and at good pay.
+
+Not only is Ireland growing rapidly, Irish per capita income has over taken Great Britain for the first time for 1000 years, migration figures have turned around. Young talented Irish men and women are returning home to Ireland. For the last six years in a row, returning Irish nationals have dominated immigration figures.
+
+I want Cheryl to return. I want us to create a New Zealand so attractive that she and the thousands like her will come home to New Zealand because they believe in this country again. It's my motivation for being in politics.
+
+Only ACT has the courage to say that we must cut the taxes on investment or there won't be any jobs.
+
+Only ACT has the policies and the vision to bring a generation of New Zealanders home again.
+
+Let's make it happen.
+
+For more information visit ACT online at http://www.act.org.nz or contact the ACT Parliamentary Office at act@parliament.govt.nz.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

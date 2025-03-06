@@ -1,0 +1,132 @@
+---
+slug: mike-wards-maiden-speech
+title: "Mike Ward's Maiden Speech"
+date: 2002-08-29
+source-url: https://www.scoop.co.nz/stories/PA0208/S00294/mike-wards-maiden-speech.htm
+author: green-party
+---
+Mike Ward's Maiden Speech
+=========================
+
+**Thursday, 29 August 2002, 4:16 pm**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+29 August 2002
+
+Maiden speech  
+Mike Ward - Green MP  
+EMBARGOED UNTIL 3.45pm
+
+Mr Speaker
+
+Could I just thank the members for the warmth of their welcome. From the Prime Minister who came up and welcomed me by name while I was having dinner with Jeanette on my first night in Bellamy's, to fellow Coast to Coaster Bill English and all of the other members who have gone out of their way to welcome me.
+
+I haven't met any of you that I couldn't get to like, although I have to admit, I haven't met you all and some of you have had some lousy press, but I have no doubt that the kind of aspirations that I have for my friends and my family are little different from the aspirations the members have for their families and their friends.
+
+And I thank you Mr Speaker for the warmth of your welcome. On my first day here, you took the time out to welcome Metiria and me into your beautiful office and if I am speaking slowly enough to be understood, that is a reflection of your good advice.
+
+Others have tried to slow me down but I am an excitable fellow. And if occasionally I use the 'you' word inappropriately put it down to youthful exuberance and if, not inexperience, then a different experience.
+
+I would like to thank all of the wonderful people who helped me to get here, and who have contributed to whatever skills and whatever wisdom I bring to this place, my loyal and generous Nelson campaign team, all of the lovely people of Nelson who have shared their affection with me for many years, the Green Party membership, and before that the pioneers of the Green movement in the Values Party, and my family.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+In spite of what people say about parliament, and I have heard it variously described as dreadful and toxic, I expect to enjoy being here. Life isn't nearly long enough to live it any other way.
+
+Let me tell you about myself. In addition to being a politician, (I have spent four terms on the Nelson City Council), I am an artist an athlete and an adventurer. I make beautiful things, I write words; that is how I have earned a living for most of my life. I run, I cycle and I kayak.
+
+I have raced from one end of this lovely country to the other; mountain biked down Ninety Mile Beach, run over Ruapehu. Around the Crater Lake, snow all the way, from the Top of the Bruce to Turoa with ice axe and crampons. I have kayaked from Pipiriki to Wanganui, and I have Coast to Coasted in Scotland once and New Zealand many times. I have enjoyed this extraordinarily beautiful and abundant country close up.
+
+I am also a father and a grandfather. Joy and I have three lovely children: Nicola, Rebekah and Jonty, and four delicious grandchildren: Ashleigh, and Laura Louise, and Brodie, and Jessie Rose - I love them all dearly and I enjoy their love.
+
+So I have spent my life in this beautiful country politicking, having fun, and loving and being loved. I figure that my life is about as good as life can get, and the reason for our being here is to keep this lovely country lovely, and to make sure that all of the people we serve enjoy their experience of living here. To make sure that for them, life is fun, that they are valued and able to contribute and participate and that they know love.
+
+Mr Speaker, it is all too easy for us to concentrate on our differences, to look for our opposition's weaknesses and I am not going to change years of confrontation with one speech or however many years I spend in this place, but I will work hard to make sure that I do not contribute to it. Cynicism and ridicule I do not do well. My criticisms will be well intended and I hope they will be gentle. If I occasionally take the Mickey, I hope I can do it with good humour.
+
+How am I going to change the world, or at least the lives of the folk that live in my bit of it, because that is why I am here.
+
+When my youngest daughter, Rebekah was in her early 20s she said of her two little girls, "I don't say no to them Daddy, I just find them something better to do." And that is the essence of the only effective strategy for saving ourselves and our planet from our own worst excesses. Because it is what we do, each and every one of us, how we live, the choices we make, that will decide both the quality of our own lives and the state of the planet that we bequeath to our children.
+
+It is the very same behaviour that distorts our lives and the lives of the people around us, that also makes life difficult for all of the other species, communities and generations with which we share our planet.
+
+Let me be clear, it is entirely probable that the planet will eventually shrug us off whatever we do and over the ensuing millions of years strike a new equilibrium. Whether that happens sooner or later is largely dependent on the options that are forced on to us and on the choices we make. Certainly whether we enjoy our lives depends on us changing the way we live.
+
+I have friends who tell me people have to be made to behave.
+
+But let's look at the regulatory option. That's the one where "we" tell "them" what to do, complete with police and penalties to make sure they do it. Only problem with that approach is that if they don't like what we tell them or if they think our backs are turned, they are likely to try and find ways around are rules. Worse, they will probably replace us with politicians that will let them please themselves.
+
+So if regulation is flawed what are the other choices?
+
+Well, we can simply tell folk about the consequences of their actions - global warming, desertification, cancer, hell, etc. Sort of frighten them into changing. Between them, Jesus Christ, Karl Marx, John Pilger, Rachel Carson, Ingrid Klein, David Suzuki have been trying that approach for several thousand years and while some of us certainly make an effort, most of the signals we get are of the other kind and we have showed little evidence that the "change or else" approach has even slowed us down.
+
+So if regulating and frightening haven't managed to do it, what are the other choices? "We just have to find them something better to do."
+
+So what are we doing that is so extraordinarily dreadful? We are just extraordinarily wasteful. To quote Geoffrey Palmer from a booming campaign speech in 1990, "We are profligate consumers". We are hell bent on using up my grandchildren's share of the Earth's resources with precious little regard for the consequences either for ourselves or for the future. It's not as though we don't know what's happening or even that we don't care. We just don't care enough.
+
+Successive governments have put in place an assortment of measures that attempt to protect bits of the planet or prevent some of our worst excesses, but a large part of the rationale for addressing our problems is based on perpetuating the very behaviour that is responsible for those problems.
+
+It seems to me self evident that before we do anything else we should at least examine what it is that is causing the problems and address those causes. I have mentioned that it is the rationale of successive governments all over the world that perpetuates our destructive behaviour. Continued economic growth is the name of that rationale. It is a rationale that says we must work harder and produce more in order to earn the money to pay for solving our problems.
+
+Oppose that rationale and you leave your self open to ridicule, but is it even reasonable to seek to increase our consumption in a country that already consumes vastly more than its share of the earths resources? So many resources in fact that we throw away 20kg per man, woman and child every week. And that only accounts for the waste we measure. Add to that the tonnes of greenhouse gas per year per car and the waste generated in the countries from whence cometh the cargos that feed our cargo cult: Alan Alkisson in "Believing Cassandra" suggests that for every kg of finished product there are 100kg of waste generated.
+
+It doesn't end there.
+
+We are already working more hours per man woman and child probably than at any other stage in human history, in order to earn the money to pay for the stuff that we use as substitutes for the kind of experiences that once enriched our lives, experiences we no longer have time for because we are just too darned busy earning the money to buy the stuff...
+
+The mindless, endless, growth rationale is all about working longer and consuming more stuff, when what most of us in our part of the world have too much of is stuff and what too many of us have too little of is time. Time to enjoy the experience of living in this beautiful country. Time to enjoy the company of our families and our friends.
+
+It is time to find us something better to do and time to find us better ways of doing the things we need to do.
+
+Daniel Quinn in I think it was "The Story of B" wrote that if the world is to be saved it won't be saved by old thinking and new programmes, it will be saved by new thinking and no programmes. In short by people with vision.
+
+So what might some of the components of that vision be?
+
+Let the things we buy and use be good things. Quality products, and let more of them be made in New Zealand. Products that are made to last and that are unlikely to wind up in our landfills. Products that keep our friends and our families and ourselves in work.
+
+All New Zealanders deserve better than the cheap and not so cheap products of sweatshop, endangered forest, or scarce and dwindling resources.
+
+Let us start with our food in a country that has been producing great food for many hundreds of years, it is absurd that the bulk of processed food on our supermarket shelves is imported.
+
+And let more of us live closer to where we need to be: our schools shops, work places and the places we play and socialise. Within biking and walking distance, so that we don't overheat the planet with our fossil fuels or condemn ourselves and our children to diabetes or cardiovascular disease as a consequence of our inactivity, or emphysema and asthma as a consequence of the vehicle-generated pollutants.
+
+Instead of perpetuating the practice of enabling the least vulnerable to drive much too fast and condemning the most vulnerable to live dangerously on the narrow strips at the edges, let us turn more of streets that divide our residential suburbs into parks and walk and cycle ways that connect, with just sufficient room for vehicles to drive at speeds that minimise risk and pollution.
+
+And I can just hear my critics saying yes, but will there be as much work if we consume less and drive less?
+
+Possibly not, but more of our needs would be met by New Zealanders and there are many things we could be doing that really do enhance the quality of our lives, initiatives in education and the arts, initiatives that help us meet our greenhouse gas targets and make our homes more comfortable, our businesses more efficient and our energy resources more renewable.
+
+And if we share our work around we can help to address the injustice of unemployment as well as easing the workload on those of us who work too hard. Five per cent unemployment is more than a statistic, it is far too many families living in poverty, far too much alienation, and it is far too many people feeling undervalued and unable to contribute and participate.
+
+This is an extraordinary planet, and we must begin to treat it with the wonder it deserves. When the Polish philosopher and theologian Hendryk Skolimowski visited New Zealand a year or two back he spoke of the need to live frugally and reverently. Frugal sounds a tad miserable and I am not a theologian so I prefer a sense of wonder to reverently, but he was essentially right.
+
+But it is not about going without, rather it is about knowing when we have enough and leaving ourselves with time for the experiences that we really do value.
+
+Until we realise that all policy is social policy and all policy is environmental policy we are condemned to perpetuating our absurdly, tragically, high levels of dysfunctional behaviour.
+
+We need to have good law and we need to know where we are going wrong but instead of trying to compete with Ingrid Klein and David Suzuki in the "we're on our way to hell in a hand cart" mode or those who would regulate us into obedience, let us excite and inspire and let us make the vision and the good choices so darned attractive that once more numbers of New Zealanders let out a collective yes. Not a yes do it to us, or a yes do it for us, but a yes let us make it happen.
+
+Is that not a proper purpose of government? To inspire, to excite and to enable? To find people something better to do?
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

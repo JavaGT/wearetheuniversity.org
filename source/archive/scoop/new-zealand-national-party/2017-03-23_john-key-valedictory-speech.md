@@ -1,0 +1,152 @@
+---
+slug: john-key-valedictory-speech
+title: "John Key - Valedictory Speech"
+date: 2017-03-23
+source-url: https://www.scoop.co.nz/stories/PA1703/S00386/john-key-valedictory-speech.htm
+author: new-zealand-national-party
+---
+John Key - Valedictory Speech
+=============================
+
+**Thursday, 23 March 2017, 10:55 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+_From Hansard on the [New Zealand Parliament website](https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20170322_20170322_28). This is a draft text that may be subject to correction, Check the Hansard for latest version._
+
+**VALEDICTORY STATEMENTS**
+
+**Rt Hon JOHN KEY (National—Helensville)**: I rise to address this House for the very last time. It has been a huge privilege to have served the people of Helensville as their member of Parliament and, of course, the people of New Zealand as their Prime Minister. Even though it was 15 years ago—the time has passed—when I first came here, in many ways it feels not that long ago that I rose to speak for the very first time, with all the emotions this House can invoke: excitement, trepidation, fear, and hope. This place is like no other. It is all-consuming, life-changing, mostly powerful, occasionally trivial, but never boring. What happens here matters a great deal to the lives of millions of Kiwis, who every day trust us, as politicians, to get it right on their behalf.
+
+I came here on a different path from many who had come before me. I had not been a member of my party's youth wing. In fact, I had not been that involved with the National Party at all prior to throwing my hat in the ring for the selection for the Helensville seat, although I had always been a National supporter, and proud of it. I had not come here from a life of politics and protest. In fact, I came here from Wall Street.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+But long before Wall Street, my political views had been shaped by my Austrian Jewish mother, Ruth, who single-handedly raised me and my sisters in the now-infamous State house at 19 Hollyford Ave., Christchurch. My mother was a no-nonsense woman who refused to take no for an answer. She would not accept failure. She was an immensely hard worker, firstly as a night porter in the Clarendon Hotel so that she could earn money while our family slept. Then, for many years, she worked as a cleaner, and even in retirement, as a volunteer.
+
+She was often abrupt. While I was at high school, I had a weekend job in some stables, and I remember coming home one day at the age of 15 to tell Mum I had this brilliant idea: I was leaving school to train racehorses. "No.", she said. "Shall we talk about it?", I enquired. "No.", she said. "Not even the pros and cons?", I suggested. "No," she said, "you're going to university to study accounting." That was it. To Mum, no meant no. I do not think she would have lasted very long in coalition Government, but that is by the by.
+
+Not that she was always lost for words. One day, early on in my first job, I bounced a cheque. The bank manager aired a view on that, but he was a novice. He should have taken lessons from Mum. As I said, she was often abrupt, but that day she was in full flight. She had worked hard all of her adult life to make sure she paid her bills on time, and she expected her three children to do the same.
+
+By nature, I am a pragmatist, not an ideologue. That is because, in my experience, most people just want results that work. Some people have said that my pragmatism indicates a lack of a clear set of principles. I do not think that is true. It is just that my principles derive mostly from the values and ethics instilled in me by my upbringing, rather than by the "Politics 101" textbook.
+
+Once, when I was about 12, I rather thoughtlessly asked my mother over dinner why everyone else had nicer things than we did—why they had a better house than we had, and how come they went on more holidays and to more exciting places. For a moment, Mum was quite taken aback. "I'm doing my best for you.", she said. "I may not be able to give you what some other kids have, but I can give you my love and I can give you determination. I can give you the belief that through your own actions and your own hard work, you can make your life better." I never forgot that night, and I never will. And, of course, she was right. Mum taught me the things that allowed me to succeed and which I think are echoed by so many Kiwi parents—that you get out of life what you put in to it, that hard work can create opportunities. And that you really can change your own life, not by wishing it was different, but by working to make it different.
+
+I have brought to politics an unshakable belief that, regardless of our circumstances, most of us share the same aspirations: we want our children to be fulfilled and we want them to do better than we have. To most of us, what matters more than anything else are the health, welfare, and happiness of those people about whom we care most. In the end, Mum did not leave me any money, our holidays were always pretty basic, and the house we lived in for a long time was owned by the State Advances Corporation. But, truthfully, she left me the most important gift of all: the determination to succeed and the work ethic to make it happen.
+
+As I am sure all of us here can attest, life in Parliament is odd. Our job is a mix of community worker, public speaker, local advocate, legislator, and policy maker. We face a glaring spotlight, relentless scrutiny, and the possibility every 3 years of being turfed out regardless of how hard we have worked, and we all spend long and lonely nights away from our families, who in turn spend many nights without us.
+
+I recall early on as an MP being asked to address a visiting class of 6- or 7-year-old children from Bill English's electorate of Clutha-Southland. "What on earth should I tell them?", I thought as I wandered down to meet them. Anyway, I babbled on for about 15 minutes about the importance of democracy and the place of Parliament in our society, then I opened for questions. A little girl immediately put up her hand. "Excellent.", I thought. "Yes, dear?", I said. "Do you have a dog?", she said. It was an early lesson in adjusting for my audience and to appreciate that people from Southland get to the point quickly.
+
+When I first came here, like all of us, I was an eager backbencher with much to learn. I remember walking out of the Transport and Industrial Relations Committee with Roger Sowry, who was an experienced MP, and so I started asking him a million questions. He gave me what I thought was great advice. "John," he said, "every moment you get, go to the House and watch the politicians who are good in the Chamber—not necessarily the ones you agree with or whom you want to be friends with, but those who can move the place with the power of their argument. Don't stay in your office or go drinking. You're here to learn." It was good advice, and I followed it. Every chance I had, I came down and watched Michael Cullen, Richard Prebble, Winston Peters, Rodney Hide, Bill English, Simon Power, and Gerry Brownlee. Roger also gave me another lesson in the peculiarities of the place when he added, in the very next breath: "And by the way, John, just because I talk to you, it doesn't mean I like you."
+
+Working with constituents has been an important part of my life as an MP. One day a father wrote to me to say that his son had gone off the rails and, among other things, had been stealing cars and racing them around the streets. The father was convinced that life in the military would sort out his son, but the army had declined to take up the opportunity of enlisting the boy, so the father wanted some help on how his son might reapply. My secretary got his request and wrote an email to me, pointing out in no uncertain terms that if the little toe-rag was not such a drop kick and stopped nicking other people's property, the army might just consider his request. Except, in one of those instances we all fear, she accidentally hit "Reply" instead of "Forward", and so sent her forthright views straight to the father.
+
+I was at the time in the middle of being interviewed by Radio New Zealand when she realised her mistake and burst into my office, close to tears, with her mea culpa. At that point, I decided either I was calling the father or the press gallery was, and in all probability both of us were, so I had better get on with it. It is fair to say the conversation started a little frostily, but the upshot was that I wrote a few letters and, in the end, the army took the boy on. The last I heard, he was doing pretty well. That experience also made me an early convert to the good that the Limited Service Volunteer scheme can do to help some kids get back on the rails and see that they have a useful future.
+
+I became Prime Minister in 2008. It is an incredible privilege to lead your country, but when I arrived on the ninth floor, New Zealand was in recession, unemployment was rising, finance companies were falling over, and the global financial crisis (GFC) was hitting.
+
+Early on, we decided to hold the Job Summit. For the first time, we got the Government, unions, and the private sector all together to nut out some solutions, and although the 9-day fortnight and various other policies were a more effective response to the GFC, the Job Summit became the birthplace of the successful national cycleway scheme. Who would have believed that someone who loves golf and who had not been on a bike since my last one was flogged from Jellie Park when I was 15 would, all of a sudden, become a national advocate for off-road cycling? It is fair to say that the Minister of Finance was a tad sceptical that this was a good use of $50 million of taxpayer money, but I am proud to say that in January of this year alone, more than a million people used the cycleways. They have become a great earner. And the good news is that even Bill English was converted, once he realised you could get a trim soy latte in Dipton.
+
+I am immensely proud of the achievements made by the Government that I led. Our economic reforms: the 90-day trial periods ensure that young, and sometimes marginalised, Kiwis get a shot at proving their worth to an employer. There is the huge investment in infrastructure and, in particular, the roll-out of ultra-fast broadband. There is our support of the film industry, without which _The Hobbit_ movies would have been made in London.
+
+I am proud to have led a Government that balanced the books and that gave parents better information about the progress their child is making. There are the vastly improved health services, ensuring children under the age of 13 can go to the doctor for free, and the fully funded Herceptin for women diagnosed with breast cancer. It is a Government that put more police on the street and lifted benefits in real terms for the first time in 43 years. It is an administration with the ambition to make New Zealand predator-free by 2050, and one that advanced our trade agenda. I am also proud that so many Treaty settlements were completed, because apart from acknowledging past wrongs, they reflect the same aspirations we all share of improving our independence, creating opportunities, and providing our kids with a chance to better their lives.
+
+In politics, disappointments are inevitable. It is futile to relitigate the flag debate here—well, I could start. However—
+
+**Grant Robertson**: Go on.
+
+**Rt Hon JOHN KEY**: —yeah, go on; give it a go—I will always hold the view that a fresh, new flag, without the Union Jack on it, would have been one more step towards New Zealand's growing profile, reputation, and uniqueness on the world stage.
+
+For the most part, as a liberal MP, I feel I got my voting record right, although I regret voting against civil unions. I was pleased that Louisa Wall's bill for gay marriage was drawn, and I am glad I supported it.
+
+I regret that the Trans-Pacific Partnership did not get over the line. Trade has helped lift millions of people in the world out of poverty. On a local level, we want Kiwi businesses, large or small, to have opportunities to compete with others from around the world on the same terms and for the same rewards.
+
+I hope that one day the Kermadecs will be an ocean sanctuary so that long after we are all gone, it remains pristine and untouched.
+
+As Prime Minister, I got to travel to many interesting places and promote New Zealand's case and profile with many world leaders. A perennial favourite for the media were the silly shirts of the ASEAN and APEC summits. Those outfits might be OK for Justin Trudeau and Barack Obama, but as recent photos of me in my togs in Hawaii can attest, I am neither. So, on many occasions, I felt responsible for mangling not only the local language but the national costume as well.
+
+It is fair to say my natural enthusiasm means I have had a few problems with handshakes over the years. I hate to think how many three-way handshake selfies I have done, but they sure make O-Week go quickly. The ASEAN summit features a rather odd, cross-handed handshake known as the ASEAN way. I remember, on one occasion, after a photo in front of the world's media, the then Philippines leader, President Aquino, leaning over to me and saying: "John, if that's the ASEAN way, I'd hate to see what the other way looks like." I felt like replying: "Ring Richie McCaw."
+
+Getting to go to some of the most iconic places in the world as Prime Minister has left memories I will never forget, and getting to share them with Bronagh, Stephie, and Max made them even more special. From Balmoral to Chequers, we saw it all. I will never forget taking the kids, when they were quite young, to China. The last time I had been there was as a businessman, so when I went back as Prime Minister, I asked whether, over the weekend, I might go to a couple of places to allow the kids to see some of the most famous sites, like Tiananmen Square and the Great Wall. Our Chinese hosts kindly agreed. As we were approaching both sites, I said to Max: "Best to stay close or maybe even hold my hand, because there'll be more people around you than you've ever seen in your entire life." When we arrived, Max looked out of the car window, looked at me, and said: "Where is everyone?". I took one look and realised that the entire Tiananmen Square had been emptied in the middle of the day so that my kids could get to see it, and when we arrived at the Wall, we were the only people on it for 5 miles in each direction. You sure get some cool photos when you are Prime Minister.
+
+One time, I was at the Pacific Islands Forum in the Marshall Islands, and when the summit finished we had some downtime before leaving, so I hatched a plan to go tuna fishing. The trouble was, I was due to get an important phone call from the then British Prime Minister, my friend David Cameron, about the atrocities taking place in Libya and to talk about why Britain was taking military action. "No worries," someone said, "we have the satellite phone." So we headed out to sea, and just as I had hooked a big one and was hauling it on board, the phone rang. I handed the rod to my diplomatic protection officer, who found some implement to finish off the tuna, which was flapping mightily in the boat. It is fair to say there was a huge amount of noise in the background, and Cameron, who was used to taking calls on secure phones and in quiet offices, said to me: "What the hell is going on there?". "Oh," I said, "don't be alarmed. It's just that we're on a fishing boat about a mile out to sea in the Marshall Islands, and I've landed a big tuna." There was this long silence, and then he wistfully said: "God, I wish I ran a small country."
+
+One of the unexpected parts of Government was dealing with tragedy and disaster. When the first Canterbury earthquake happened, I had just landed in Christchurch to see the damage for myself when I received a text from the department informing me that a skydiving plane had crashed at Fox Glacier, killing all nine people on board. That tragic and sudden loss of life put into perspective the terrible damage I was seeing around me in Christchurch. Bad as the earthquake had been, at least it had not claimed any lives.
+
+That all changed on the afternoon of 22 February 2011. We felt that quake so strongly in the Beehive that we thought it must have been centred near us. But moments later, my Chief of Staff, Wayne Eagleson, came in and said: "That wasn't Wellington. That was Christchurch." I arrived in Latimer Square to the sound of sirens blaring and the air full of smoke from the burning CTV building. The media was reporting 12 dead, but the police commander told me that the number was 65 and rising. "How sure are you?", I asked him. "Very sure.", he said. "We've counted at least 65 body bags, and they're only the ones that we've managed to get to so far." The Christchurch earthquakes really hit home to me. It was my home town, and the death toll was so high. Right then, New Zealand seemed a particularly vulnerable and fragile place.
+
+Time and again we have seen that the answer to nature's devastation is people's resolve. Standing behind Christchurch was hugely important for my Government and, indeed, for this Parliament as a whole. Gerry Brownlee deserves a lot of credit for dealing with the situation, which was without precedent. It was Gerry who knew we had to establish a red zone, buy the 10,000 homes we did, support the small businesses, and pass the Canterbury Earthquake Recovery Authority legislation. In my view, Christchurch and New Zealand owe Gerry a huge debt of gratitude for putting in place the mechanisms that allowed New Zealand to literally save a city.
+
+I will also never forget the Pike River mine disaster. As the full gravity of the situation became clear, I flew to Greymouth. The impact that event had, and continues to have, on the small community of the West Coast is profound. It also had a far-reaching impact on New Zealand's workplace health and safety laws. No one should leave home to go to work and never return.
+
+One thing that maybe is not well known is that 5 days after the initial explosion, the Mines Rescue Trust had decided it was safe to re-enter the mine. That Wednesday, I was receiving regular briefings on the planned re-entry, so when the phone rang I thought it was to inform me they had gone in. Instead, I learnt that a massive explosion had occurred. Had those rescuers been in the mine, they too would have perished. Let me say to those families directly affected by the disaster that I sincerely wish you could have been provided with the closure you deserve, but I can honestly say I never, in my time as Prime Minister, saw a credible and safe plan to achieve that.
+
+A responsible country must sometimes stand alongside others to try to create a less violent and more stable world, but the risks and costs can be high. As Prime Minister, I was ultimately responsible for committing New Zealand troops overseas. The burden of doing so weighs heavily on any leader, and no news grieved me more than the loss of our troops in the course of duty that happened in my time. My heart continues to go out to the Defence families for their sacrifice, and on this, my final day in this House, I want to again salute the bravery and commitment of those who have died serving their country in our national interests.
+
+New Zealanders can be rightfully proud of the men and women of our armed services. They are professional, dedicated, and highly regarded around the world. In my time as Prime Minister, I had quite a lot to do with them, and in particular I want to thank the air force personnel who flew and supported the 757s, the King Airs, the Hercules, and the helicopters that took me safely around New Zealand and the world. In particular, I want to thank the crew that landed the 757 in Sao Paulo, Brazil in the worst electrical storm I have ever seen. I owe you a beer.
+
+The truth is my confidence in the air force and the SAS grew so much that late last year I decided to tag along on an SAS training day to do a parachute jump from Whenuapai, in my electorate. Needless to say, my office was a touch nervous about the jump, and the kitchen cabinet did not find out until the day before. Anyway, I jumped from 12,000 feet, and sometime after 7 a.m., when I was on the ground again, I rang Bronagh, buzzing with excitement, to declare I was alive and well. I then texted Bill English. I kept it short. "I'm alive.", I said. His reply was even shorter: "Bugger!". One minute later, I got another text from him: "Going to give it another go?". It was at that point I decided he was just a little bit more ambitious than he was letting on.
+
+Bill—Prime Minister—can I acknowledge and thank you for a decade of service as the most loyal, capable, and perceptive deputy a leader could ever have asked for. I believe you will prove to be a highly successful Prime Minister of this country, which you know and understand so well. Bronagh and I wish you and Mary all the very best.
+
+To my former caucus and Cabinet colleagues, I am proud to have worked alongside each and every one of you. It has been an honour to lead you. You have been, and continue to be, an amazing, tight, and loyal team, and every day your cohesion helps to provide New Zealand with great stability and a hugely competent Government.
+
+Although I am trying not to single out individuals, I do have to mention Steven Joyce. Not only did he mastermind three election victories but throughout my entire time as Prime Minister he was a close adviser on almost everything that was going on. We constantly talked about the events of the day and how we should tackle and explain them.
+
+To our support partners—ACT, United Future, and the Māori Party—thank you for your crucial part in providing our country with strong, diverse, and stable government.
+
+In my time, I was surrounded by hugely loyal, longstanding, and talented staff. There are just so many people to thank, so please forgive me for any omissions, but I am extremely grateful to all those who worked so hard, sometimes through nights that never ended.
+
+Wayne Eagleson, my Chief of Staff for a decade—Wayne, your dedication, ability, and good sense under pressure are second to none.
+
+My press team, so ably led by Kevin Taylor, Kelly Boxall, Sia Aston, and Julie Ash, who tried so hard to keep me out of trouble and only sometimes succeeded.
+
+My policy advisers, including the most brilliant Grant Johnson—or "Boff", as we all know him—Paula Oliver, Phil de Joux, Sarah Boyle, Nicola Willis, Jane Fraser-Jones, Cameron Burrows, James Christmas, Josh Cameron, and Craig Howie.
+
+The people who kept my life and travel organised, including Emma Holmes, Susan Tomlinson, Rachel Beauchamp, Jane Nixon, Danny Coe, Laura Malcolm, Becky Mackay, and Libby O'Brien.
+
+My electoral agents, without whose incredible commitment the people of Helensville would have suffered: Genelle Bailey, Heather Hitchings, Mel McDonald, and Jenny Collins.
+
+The party presidents I worked under, Judy Kirk and Peter Goodfellow, and my electorate chairs Tom Grace, Stephen McElrea, and Stephen Franklin.
+
+My department, the Department of the Prime Minister and Cabinet, so ably led by Andrew Kibblewhite, and before him Sir Maartin Wevers.
+
+My tourism and intelligence officials, and my foreign policy advisers—all truly gifted: Tony Lynch, Ian King, and Taha McPherson.
+
+I also want to thank you, Mr Speaker, and the Speakers who have preceded you, the VIP Transport Service, the wonderful Margaret Smith from Premier House, and all the other staff of the complex, who serve the people of New Zealand so well.
+
+To the press gallery: a free press is essential for a democracy. Thank you for your dedication and commitment to your craft.
+
+To the Diplomatic Protection Squad (DPS), whose tasks were many and varied—keeping me safe was the major one, but also finding the five things I left behind every day, including my wallet, was another. Maybe your role in our lives is best summed up by our son, Max, who said: "It seemed weird when they arrived, and it seems weirder now they've gone." You guys were great. I will lose a lot more golf balls now that you are not around. But I am happy to say that not everything you did required 21st century policing. For example, the first death threat I got as Prime Minister, and I kid you not—one of those milestones that goes with the job—was from a not-very-bright guy who faxed it from his house, not realising his phone number was on the fax. I think my secretary had solved it before the DPS even got to it.
+
+I leave having made some great friends in and out of this place, and many of them are here today. Thank you for being alongside me and keeping it real. And to Eric, Rhys, and David, thanks for getting my handicap down.
+
+I have been touched by the warmth and kindness many Kiwis showed me and my family while I was Prime Minister. It has been a privilege to have met so many of you.
+
+Last but not least, to my family. To my sisters, Sue and Liz: thanks for all the encouragement, support, and laughs. Max and Stephie, I hope you know that I was proud of being the 38th Prime Minister of New Zealand, but Mum and I are prouder still of being your parents. Stephie, you have grown into a beautiful and talented young woman. May you always retain the passion to create the best you can. Max, you have had to grow up under a lot of pressure, in a harsh spotlight. But the world is your oyster. You are a fine young man. You have great insights. Always trust them.
+
+Finally, Bronagh, when you said yes to marrying me, 32 years ago, I am guessing you did not think our family home would sometimes be surrounded by protesters and that we would have armed police in the living room. When I came into Parliament, I was told that if you have a good marriage, it will survive; if you do not, it will not last. Our marriage has not only survived but I think it has grown stronger over these amazing years. Your endless sacrifice, your willingness to let me follow my dreams, and your utter loyalty make any words I choose here hopelessly inadequate. I love you and I thank you.
+
+And so, Mr Speaker, my time here is done. I take away many memories of this most remarkable place. I would like to think I leave having made a positive difference to the country, and that is satisfying. I have few regrets in my life, but one is that Mum did not live to see how it all turned out. I hope that she would have been proud. So that is it. It has been a privilege, an honour, and a blast. Goodbye, and good luck.
+
+_Waiata_
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

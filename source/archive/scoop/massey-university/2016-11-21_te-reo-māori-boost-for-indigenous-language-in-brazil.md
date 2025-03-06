@@ -1,0 +1,79 @@
+---
+slug: te-reo-māori-boost-for-indigenous-language-in-brazil
+title: "Te Reo Māori boost for indigenous language in Brazil"
+date: 2016-11-21
+source-url: https://www.scoop.co.nz/stories/ED1611/S00088/te-reo-maori-boost-for-indigenous-language-in-brazil.htm
+author: massey-university
+---
+Te Reo Māori boost for indigenous language in Brazil
+====================================================
+
+**Monday, 21 November 2016, 11:59 am**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+**Monday, November 21, 2016**
+
+![](http://img.scoop.co.nz/stories/images/1611/c088597b810848b57fee.jpeg)  
+_Mari Ropata-Te Hei and Te Rina Warren at the community centre in Nonoai_
+
+**Te Reo Māori boost for indigenous language in Brazil**
+
+Indigenous children in southern Brazil have been twirling poi while learning how to nurture their own indigenous language with the help of Te Reo Māori language revival specialists from Massey University.
+
+A group of children from the small, remote village of Nonoai, a municipality in the Rio Grande do Sul state and home to the Kaingang people, learned poi dances and other aspects of Māori culture as part of a collaborative project between Brazilian and Massey academics to support language revitalisation in Brazil.
+
+Dr Arianna Berardi-Wiltshire, a lecturer in linguistics from the School of Humanities, and her colleagues Te Rina Warren and Mari Ropata-Te Hei, lecturer and tutor at Te Pūtahi-a-Toi (the School of Māori Art, Knowledge and Education), recently travelled to Brazil to give lectures to university students in at the Federal University of Rio de Janeiro (UFFRJ) and visit village schools working on language revitalisation.
+
+The team is now exploring further ways to adapt Māori language learning immersion methods to help preserve the language of the Kaingang people of Brazil, where Portuguese is the lingua franca and the official national language. Kaingang is one of over two hundred endangered indigenous languages in the vast country, and the academics hope their connections will contribute to the wider issue of indigenous language revitalisation across other parts of Brazil in the future.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“We visited the village schools and shared talks with the community leaders, indigenous education and government representatives in support of the establishment of a full-immersion indigenous language preschool and school inspired by the principles of Māori Kohanga Reo and Kura Kaupapa centres in New Zealand,” says Dr Berardi-Wiltshire.
+
+The women teamed up with Brazilian academic Professor Marcus Maia, of the Federal University of Rio de Janeiro. He visited New Zealand last year to give lectures at Massey University’s Auckland and Manawatū campuses on indigenous language revitalisation efforts in Brazil.
+
+While here, he took an interest in Māori successes in language revival, and saw an opportunity for knowledge collaboration and exchange.
+
+“The Māori case is quite famous around the world because it’s one of few success stories,” Dr Berardi-Wiltshire says.
+
+“We started thinking about the ways the Māori experience in New Zealand might be used to inspire or inform or in some way support the language revitalisation on the other side of the ocean.”
+
+**Forging links to empower Brazil’s indigenous people**
+
+Ms Warren, who is doing her PhD, says she was “humbled by the opportunity to share the history of Te Reo Māori, and the subsequent journey of revitalisation with other indigenous peoples.”
+
+“Learning about the unique position of the Kaingang people was enlightening – it’s heartening that there are a huge number of committed Kaingang people who are willing to re-educate their youth in their native language and in accordance to their customary practises,” she says.
+
+She noted that Brazil’s tertiary system of education provides excellent support to indigenous students, and shows “a real commitment to developing indigenous studies within the universities. I think we could learn a lot from their approach to indigenous education for the Māori context in Aotearoa.”
+
+Dr Berardi-Wiltshire says among memorable moments was a speech by the community chief, who is PhD student Marcia Nascimento’s father. He told his people he was “saddened, angry and ashamed” when parents in his village who could speak their indigenous language opted to speak Portuguese at home.
+
+**Preserving language to save cultural knowledge**
+
+“When you lose a language – and this is particularly true for indigenous languages – you lose thousands of years of history, culture, knowledge and ways of thinking about the world, your identity. These people are not linguists but they know these things instinctively.
+
+Indigenous populations become vulnerable, and the risk of problems such as alcoholism and crime rise. We’ve seen this in New Zealand and everywhere that indigenous communities have been stripped of their roots,” she says.
+
+Dr Peter Petrucci, a senior lecturer in linguistics at Massey’s School of Humanities who spearheaded Professor Maia’s visit last year and is currently in Brazil to deliver lectures to postgraduate linguistics students, says across Latin America people are looking to New Zealand as a role model for language revitalisation.
+
+He will deliver a Memorandum of Understanding on behalf of Massey with the Federal University of Rio de Janeiro – Brazil’s top tertiary institution for research into indigenous languages – to collaborate with linguists and Māori language experts here.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

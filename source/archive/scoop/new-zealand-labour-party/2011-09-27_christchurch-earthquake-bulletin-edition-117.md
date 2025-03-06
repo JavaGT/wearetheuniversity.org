@@ -1,0 +1,63 @@
+---
+slug: christchurch-earthquake-bulletin-edition-117
+title: "Christchurch Earthquake bulletin edition 117"
+date: 2011-09-27
+source-url: https://www.scoop.co.nz/stories/PA1109/S00469/christchurch-earthquake-bulletin-edition-117.htm
+author: new-zealand-labour-party
+---
+Christchurch Earthquake bulletin edition 117
+============================================
+
+**Tuesday, 27 September 2011, 11:47 am**  
+**Press Release: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Christchurch Earthquake bulletin edition 117
+
+  
+A regular bulletin started by the Labour Party's Christchurch electorate MPs, Clayton Cosgrove (Waimakariri), Ruth Dyson (Port Hills), Lianne Dalziel (Christchurch East) and Brendon Burns (Christchurch Central) to keep people in their electorates and media informed about what is happening at grass roots level.
+
+Description: CANTERBURY EARTHQUAKE RECOVERY PLAN Labour will:  
+\* Purchase 1500 properties and sell them at cost to red zoned residents  
+\* Ring-fence $100 million as compensation for home improvements  
+\* Release all available geotechnical information  
+\* Resolve the insurance gridlock  
+\* Intervene in the insurance market as a last resort  
+\* Make community engagement a priority  
+\* Use youth unemployment to fill the skills gap  
+\* Establish an independent insurance commissioner For full policy details go to: [leadership-needed-to-rebuild-canterbury](http://www.labour.org.nz/news/leadership-needed-to-rebuild-canterbury) \]
+
+  
+CLAYTON COSGROVE: It is pleasing to see that the Insurance and Saving Ombudsman's office has set up a team to deal specifically with earthquake victims' complaints. Although it has been reported today that the office is dealing with only 9 complaints, but has fielded 250, if the anecdotal evidence is anything to go by there will be many, many complaints regarding disputes about whether a damaged home is a repair or rebuild. A day would not go by when I have not had constituents tell me that prior to being zoned red they had a commitment from their insurance company that they were a total rebuild but once zoned red insurers have come back to say they now believe they are a repair. This is one of the biggest causes of stress for earthquake victims and many hold the view that the reassessment by insurance companies is more about minimising their costs and limiting their liabilities rather than doing the right thing.  
+The Government's own cabinet papers foresaw that the repair / rebuild issue would be a massive point of dispute and notes that a disputes resolution process will be needed. So far the Government has done nothing about this. We say there needs to be an independent Insurance Commissioner whose primary job is to protect consumers and resolve disputes swiftly (where possible by using existing disputes resolution mechanisms). The Government needs to address this issue and address it fast.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+BRENDON BURNS: I have opened up a debate today in the Press about the future of heritage in Christchurch. The prompt for it has been learning that the historic Warners hotel faces imminent demolition. What makes the looming loss of this 100-plus year old treasure especially lamentable is the fact that Christchurch ratepayers contributed three-quarter of a million dollars towards strengthening it against the very sort of event it has now experienced. The Historic Places Trust's role since the September quake has been woeful. It is the public body charged for standing up for heritage. Its Chief Executive, Bruce Chapman, is saying today that it has advocated for dozens of buildings but it cannot point to a single success in saving one from demolition. I was also pleased to see the Press pick up on the fate of my constituent Mike Mallia who lives in Richmond. Mike has shown me a copy of a letter from his insurer saying that his house is a total loss and must be rebuilt, but is now trying to tell him that it can be repaired. This is one of the most concrete examples where people took to heart assurances from insurers that were later overturned.
+
+LIANNE DALZIEL: Having held cottage meetings throughout the electorate since the zones were announced, I have seen hundreds of people on tenterhooks for a range of reasons. Some are green who want to be red; others are red who want to be green; and then there are the orange zones that want to be green or red. The reason people are expressing these views is that they have been given very little information about how the government balanced the different factors that led to the assessment of their land. This is particularly so for those on green zoned land that borders on the red zones. Many have, in good faith, lodged for a review of their zone as they were told to do. Now they have been told that as they are green they have to go to the back of the queue and won't be dealt with until all the orange zones are assessed. I have recommended to the Minister that the bordering properties get re-zoned orange, so that they can be prioritised. My constituents now tell me that there are different shades of green and those that have tried to get geotechnical sign off on their properties cannot do so as they are next to the red zone. People in some parts of the orange zones have had their spirits lifted by assurances that very few of their properties will go red, but this turns out to be speculation rather than fact. It is time for complete transparency from the government - get the facts on the table and treat people with the respect that they deserve.
+
+  
+RUTH DYSON: I am frustrated and angry at the news that Terra Lana has laid off five staff because the Wellington-based company EnergySmart has gone into liquidation. What makes me angry about this is that the owner of EnergySmart , Hutt Mana Charitable Trust, has more than $30m in assets but owes Terra Lana $527,000. Terra Lana, a Bromley based company, has earned a reputation as a manufacturer of high quality products, as well as being an important and very well regarded employer. They make insulation from wool, both recycled and virgin. They deserve much better treatment than this. EnergySmart are described as a major player in the Government's home insulation scheme. How can its owners have so much wealth in assets, while the company can also owe a good business like Terra Lana so much and cause so much heartache as a result? This is just wrong!
+
+  
+Authorised by Clayton Cosgrove, Parliament Buildings Wellington.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

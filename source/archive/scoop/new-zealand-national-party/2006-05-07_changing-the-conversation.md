@@ -1,0 +1,259 @@
+---
+slug: changing-the-conversation
+title: "Changing the Conversation"
+date: 2006-05-07
+source-url: https://www.scoop.co.nz/stories/PA0605/S00165/changing-the-conversation.htm
+author: new-zealand-national-party
+---
+Changing the Conversation
+=========================
+
+**Sunday, 7 May 2006, 5:12 pm**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Simon Power MP  
+National Party Law & Order Spokesman
+
+7 May 2006
+
+Changing the Conversation
+
+Speech to the National Party Canterbury-Westland Regional Conference
+
+In a year in which National celebrates its 70th anniversary, it’s inevitable that we will end up talking a lot about the past.
+
+National has been most successful when our message has resonated with the temper of the times.
+
+Although National was forged in opposition to socialism, this was an era when that ideology was associated with a totalitarian state.
+
+Our first victory was not based on an absolute rejection of the welfare state, but on the promise of freedom to prosper following the restrictions imposed by the first Labour Government.
+
+The Holyoake and Muldoon Governments responded to New Zealanders’ search for security as their country was buffeted by the international winds of change.
+
+And the last National Government built consensus around the resolution of historic Treaty claims and successfully managed the transition to MMP.
+
+It is a history of intuitive politics, rather than the poll-driven micro-management of the current administration.
+
+But despite the best efforts of our leader in rehabilitating our support at the last election, Labour successfully scared enough voters to form a Government in 2005.
+
+If we are to avoid continually being typecast by our opponents, we need to adopt new and pragmatic solutions to problems that the Government have failed to solve.
+
+Labour have overseen a massive build-up of the bureaucracy, with little to show for it at the coalface.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+None more so than in the field of law and order.
+
+The most powerful act that the state may exercise over one of its citizens is to deprive them of their liberty.
+
+It is reserved for those who have, by their own act or omission, threatened the right of others to live free from harm and loss.
+
+As one loss of freedom leads to another, imprisonment is the social end product of crime.
+
+In my first seven months as law and order spokesman, I have deliberately focused on the corrections system as an initial reference point.
+
+I figure that from there we can start to work backwards to find out what the problems are.
+
+What we know is that New Zealand has the second highest rate of imprisonment per head of population in the world. This is not ideal, but neither is our violent crime rate, which in the latest crime statistics was up 6.9% in the last year, and up 16% since 2000.
+
+Does that make our country a success in terms of its law and order policy?
+
+The Labour Government can’t decide.
+
+It pinched Tony Blair’s slogan that it was going to get tough on crime and tough on the causes of crime.
+
+So it’s not surprising that former Justice Minister Phil Goff should claim that more prisoners have resulted from the tougher sentences he introduced under the Sentencing Act 2002.
+
+The trouble is, official reports from the Corrections Department on new inmates show that the biggest increases are prisoners on remand and those sentenced to less than six months.
+
+Growth in the number of prisoners serving longer than two years is “somewhat muted, suggesting that the Sentencing Act 2002 has not necessarily played a significant role in current muster issues”.
+
+The “tough on crime” line has also been used to justify the fact that the construction of four new prisons has haemorrhaged half a billion in taxpayer dollars over budget.
+
+It’s stretching credibility to argue that a forecast 17% increase in inmates by 2010 warrants a 123% increase in the cost of building prisons.
+
+The fact is, that at $550,000 per bed, it would have been cheaper to buy a house for each of them to live in.
+
+The deeper we dig into this disaster, the more National is convinced there’s something rotten in the piles.
+
+Mr Goff might have expected Corrections Minister Damien O’Connor, as one of the dwindling number of “good old boys” within Labour, to join him in trumpeting the increasing imprisonment rates.
+
+But the fact that their Government has overseen an incarceration rate second only to the United States is a source of embarrassment for the left within Labour, particularly those angling for a job with the United Nations after the next election.
+
+The leadership decided that the prison numbers were a problem after all.
+
+O’Connor was dispatched on a $57,000 trip to look at European prisons - and he spent two hours looking at one prison in Finland. On his return he proclaimed that “almost 30 percent of the inmates” currently in jail are “no risk to society”.
+
+In tune with a number of left-wing commentators, O’Connor sang the praises of Finland’s low prison rate and their use of “open prisons” where inmates have relative freedom to come and go.
+
+But if those commentators had been doing their research, they would have discovered that after reaching historic lows in the late 1990s, Finland’s prison population increased by a staggering 40% from 2000 to 2005.
+
+Is this really the kind of prison system the Minister wants for New Zealand?
+
+For all his enthusiasm about open prisons, 90% of Finnish inmates are committed to closed prisons that are becoming rapidly overcrowded.
+
+One such prison, Mikkeli, with a capacity of 65, now holds 112 inmates.  
+Large cells with a capacity of six prisoners hold eight or nine, and single cells hold two prisoners, with a bucket for a toilet.
+
+A shortage of guards means that inmates spend almost all of their time locked-down in their cells, rather than working or undergoing rehabilitation.
+
+Is this really the kind of prison system the Minister wants for New Zealand?
+
+In 2004, there were 46 escapes from Finnish prisons - strangely, over half of them from open prisons. New Zealand had a total of 19 escapes over the same period.
+
+The prison that the Minister visited, Kerava, had five escapes within one week last year.
+
+This included an inmate who pedalled out of the gate and onto the motorway on a rickety old bicycle that he found near the prison workshop.
+
+In 2004, a guard at the Pelso prison was murdered by two inmates with a hammer.
+
+Is this really the kind of prison system the Minister wants for New Zealand?
+
+Well, unlike Labour, National will not accept a lower standard of public safety just to get around a political problem.
+
+The people in our prisons right now are there because they committed crimes against other New Zealanders.
+
+A government that claims to be tough on crime should not simply be satisfied with an increasing number of prison convictions. The job, after all, is to reduce crime in our communities.
+
+But nor should it seek to reduce the number of prisoners by throwing open the cell doors, just because it’s “embarrassed”, to use the Minister’s own words.
+
+We know that Labour has asked the Law Commission to look at ways of “managing the prison muster”, bearing in mind the “fiscal parameters”, by looking at options for “enhancing the credibility of community-based sentences as an alternative to the use of imprisonment.”
+
+The Government’s focus is clearly on reducing the number of prisoners by softening the sentences that apply to them.
+
+That’s wrong for two reasons.
+
+First, the best way to reduce the number of prisoners is to cut crime.
+
+Secondly, cutting crime and the victims of crime should be the focus, not the number of prisoners. Tough, effective and real policing will significantly increase the risk of being caught. We also need to be active in our intervention for those drifting into a life of crime.
+
+That’s where Labour fall down again.
+
+Not only have they failed on crime, they have failed in dealing with the causes of crime.
+
+You only need to look at the way Labour have approached rehabilitation in prisons.
+
+The fact that 42.3% of prisoners will be re-convicted within one year of release means that for many, a prison sentence does not mean an end to their offending, just an enforced career break.
+
+But it’s almost as if the Government have given up trying to reverse what is a major source of further crime.
+
+For those who’ve already jumped the fence at the top of the cliff, there’s no ambulance at the bottom - just another paddy wagon.
+
+Incredibly, the Corrections Department’s own studies have shown that inmates who participate in some of their generic rehabilitation courses are actually more likely to re-offend than those who do not.
+
+We know that drugs and alcohol are major contributors to criminal behaviour, and it’s estimated that 83% of inmates have some sort of substance abuse problem.
+
+But, despite an increase in the number of prisoners, the number on drug and alcohol rehabilitation programmes last year was only 103 - one third less than that of the previous year.
+
+For the most serious cases, the number of prisons with specialist drug treatment units has been cut from four to two, and there are 199 on the waiting list for just 44 beds.
+
+When I hear of the kinds of horrific crimes committed by those high on P, I cannot comprehend the madness that must course through their veins.
+
+But I am equally dumbfounded by a Government that would actually cut drug treatment in the face of a 13-fold increase in the number of positive tests for methamphetamine.
+
+This rehabilitation policy clearly isn’t working, but then again, neither are the prisoners.
+
+An Ombudsmen investigation into the prison system in December condemned the lack of work for prisoners.
+
+The Government has cut funding for work programmes by over a third since 2002.
+
+As one prison officer put it, “prisoners who have spent all day (possibly for years) lying in bed are not going to be released and say, ‘I'm now going to go to work’.”
+
+Despite warnings by the Ombudsmen that “idleness does nothing for rehabilitation”, in the space of a year the proportion of prisoners on skills-based Corrections Inmate Employment has reduced from 26% to 20%.
+
+The average prisoner now works 12 hours a week rather than 18 in 2002, and there are 100 prisoners who actually refuse to work.
+
+  
+It would be funny if it weren’t tragic, but the Corrections Department have adopted a new Maori name, which translates as “Towards Wellness and Wellbeing”.
+
+Apparently the old translation was dumped because it “tended to convey the punitive aspects of Corrections’ work”.
+
+It may surprise some to hear the National Party talking about the need for better rehabilitation programmes in our prisons.
+
+Some will baulk at any suggestion that we should be putting more resources into prisoners.
+
+Make no mistake - these people must be punished for their crimes against others.
+
+A number of them will never be able to be rehabilitated.
+
+But few people are hard-wired for a life of crime.
+
+If there’s no attempt to short that circuit, then releasing them back into society is just like re-setting the clock on a time bomb.
+
+All it will create is more victims. More pain.
+
+That is the real crime, and it’s a sin of omission being perpetrated by this Government.
+
+National will focus on what the Government is failing to do: reduce the number of victims by putting more effort into crime prevention.
+
+As I said at the beginning, I’ve approached the law and order portfolio by starting with prisons and working backwards.
+
+That means not only straightening out criminals, but stopping the criminals of tomorrow from being created.
+
+In short, good social policy is a crucial adjunct to effective law and order policy.
+
+And there is good reason to believe that this Government is also failing on this front.
+
+Take youth offending for example.
+
+It may surprise and alarm many of you to learn that the government agency in charge of youth justice is CYF.
+
+This is the same organisation that allows some young offenders to have as many as 14 family group conferences, but can’t tell us whether they actually work or not.
+
+They’ve been asked to review their own youth justice capability, but even that is nine months behind schedule.
+
+Chief Youth Court Judge Andrew Becroft describes education as our ultimate crime-fighting tool, not surprising when 52% of prisoners have no qualifications of any sort.
+
+But despite promising a national student database to combat truancy for three elections in a row, Labour still cannot tell us how many children are missing out on their best chance to escape a criminal life.
+
+There’s also a need for fresh thinking about the broader societal influences on crime, as some of the traditional theories crumble around us.
+
+Where once the left would blame crime on economic conditions, in the past year record levels of employment have been matched by the biggest single increase in violent crime.
+
+Since the building blocks of character are normally instilled during childhood, we need to think about how we support our parents in the important job that they do.
+
+After all, parents are the first government that our children live under.
+
+We also have an opportunity to put the Police at the centre of crime prevention by re-focusing their work on the maintenance of order in their local communities.
+
+My next priority as Law and Order Spokesman will be to show that we could be doing much more to prevent crime. After seven years, New Zealanders deserve a better answer than a stack of reports and failed strategies.
+
+It shouldn’t be a surprise that National should focus on crime prevention.
+
+We are a pragmatic party, for which the old proverb “an ounce of prevention is worth a pound of cure” holds intuitive appeal.
+
+National’s careful watch over the spending of taxpayer dollars means we will only fund programmes that can be shown to work.
+
+We can do things in the law and order portfolio that Labour cannot, because we are not beholden to a particular ideological approach.
+
+Nor are we vulnerable to the claim of being soft on crime.
+
+We have the ability to act decisively and to do things differently.
+
+I said that at the beginning that the most powerful act of the state is to deprive one of its citizens of their liberty, as they have denied others their freedom to live without harm.
+
+Perhaps real power lies in actually preventing that loss of freedom in the first place.
+
+Ends
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

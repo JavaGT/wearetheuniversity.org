@@ -1,0 +1,126 @@
+---
+slug: uc-academics-excel-in-marsden-funding
+title: "UC academics excel in Marsden Funding"
+date: 2017-11-02
+source-url: https://www.scoop.co.nz/stories/ED1711/S00016/uc-academics-excel-in-marsden-funding.htm
+author: university-of-canterbury
+---
+UC academics excel in Marsden Funding
+=====================================
+
+**Thursday, 2 November 2017, 5:29 pm**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+**UC academics excel in Marsden Funding**
+
+Eleven University of Canterbury academics have been awarded 2017 Royal Society Te Apārangi Marsden Funding to continue research in a diverse array of areas, adding further to the University’s increasing success in attracting research funding.
+
+Last year, eight UC proposals secured $5.2m funding. This year, 11 proposals have secured $6.38m funding.
+
+UC Deputy Vice-Chancellor Professor Ian Wright said the 2017 Marsden success continues to show that UC is advancing its research portfolio in highly competitive and prestigious funding opportunities.
+
+“It is particularly gratifying to see nearly half of our success is with young emerging researchers through Fast Start grants. These young emerging researchers are our future research leaders,” he said.
+
+Further information is available online at: https://royalsociety.org.nz/news/diverse-topics-important-for-nz-in-2017-marsden-round/
+
+The successful UC academics are:
+
+**Dr Anna Faye McLeod**
+
+_The impact of massive stars on the lifecycle of galaxies: tracing massive star formation feedback in the nearby Universe_
+
+One of the most fundamental problems in modern astrophysics is constraining the physics driving the matter cycle in galaxies, namely: describing how galaxies turn their gas into stars; how the feedback from these stars regulates the growth of galaxies; and how these processes may have changed with galactic environment and across cosmic time. To date, the physics of massive star formation and the (re)distribution of mass, energy, and metals by massive stellar feedback are the main missing ingredients required to connect the observed galaxy population to models of galaxy evolution. By exploiting novel and ground-breaking new astronomical instruments and analysis techniques, this project aims at obtaining an observational census of quantities describing the effect of feedback in massive star-forming regions, and, for the first time, directly correlate these to the feedback-driving massive stars. This project will therefore deliver the observational constraints that are crucial to the advancement in the fields of massive star formation feedback and galaxy evolution.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+**Dr Daniel Price**
+
+_The solution to the Southern Ocean's sea ice mystery - its thickness_
+
+At maximum seasonal extent, Antarctic sea ice covers an area two and a half times the size of Australia. Its formation drives oceanic circulation; its drift and melt patterns transport billions of tonnes of freshwater annually; and its reflective surface completely alters the surface energy balance of the Southern Ocean. Yet many questions remain about this key component of the climate system, largely stemming from the fact we have been unable to monitor its thickness. This research will use a multi-sensor statistical analysis of regionally-varying snow and ice types to decrease uncertainty in measurement of thickness from satellites. After validating the output using airborne and surface campaigns we will be able to combine data from sequential satellite missions producing a two decade evaluation of the sea ice thickness distribution. With mass balance quantified, a holistic interpretation of the state of the Antarctic sea ice cover will be possible, with accurate estimates of brine and freshwater input to the Southern Ocean. This will deliver a crucial data set to the wider community to forecast future change in this fundamental part of the climate system.
+
+**Dr Elissa Cameron**
+
+_Does mother know best? Mothers, fathers and sexual conflict in sex allocation_
+
+In mammals, it is the chromosome received from the father (X or Y) that determines the sex of offspring. Until recently, it was thought that this contribution is genetically fixed by the process of meiosis, but provides mothers with an opportunity to influence offspring sex. Evolutionary theory predicts that parents should be advantaged by having control over which sex is produced in relation to the current local conditions and the potential reproductive success of their offspring. However, the ratio of X- to Y-chromosomes can vary substantially between ejaculates, suggesting that fathers have more control over offspring sex than previously thought, requiring a reinvestigation of mammalian sex allocation which has focussed only on mothers. The composition of seminal fluid also varies substantially, influencing the survival of X and Y chromosomes, and oviductal fluid responds dynamically and sex–specifically to the ejaculate. Our project will simultaneously test the roles of both parents in sex allocation, and the unexplored cryptic interaction between parents prior to implantation, and tests their role in sex allocation. We address gaps in our understanding of sex allocation by integrating proximate physiological causation and evolutionary theory, and use these to develop models that integrate the contributions of both parents.
+
+**Dr Mitja Remus-Emsermann**
+
+_Using synthetic communities to visualise bacterial plant leaf community development and pathogen invasion processes at the single-cell resolution_
+
+The ecological drivers impacting community development and bacterial infection of plants are largely unknown. Plant leaves are excellent systems to study these drivers: most leaf colonising bacteria can be cultured and can be inoculated onto germ free, laboratory-grown plants. When the bacteria carry fluorescent proteins they can be visualised on leaves, in real-time, using microscopy. This is facilitated by the flatness of leaves, although leaves have a significant topography at the microscale. To build a predictive understanding of colonisation processes on leaves, we propose using “synthetic” bacterial communities to investigate spatial community development and early stages of infection in planta. To do so, we will investigate 1) how overlap in nutrient utilisation between bacteria impacts community spatial structure and 2) how community structure impacts on secondary colonisation success. Furthermore, we will 3) unravel the impact of the host plant on bacterial communities by using artificial copies of the leaf surface topography. This will unveil if leaf topography alone is sufficient to drive community development or if plant exudates determine what is colonising leaf surfaces and where.
+
+This project will deliver comprehensive insights into how bacteria colonise plant leaves and how plants impact on community spatial structure.
+
+**Professor Jason Tylianakis**
+
+_A bird in the bush with the data at hand: predicting ecological networks using traits and phylogenies_
+
+All species depend on interactions with others for their survival. These interactions can be seen as a complex network, the architecture of which is important for maintaining functioning ecosystems. Currently, we cannot predict how these networks of interactions will change under future conditions, because it is unclear when the characteristics of species (‘niche’ processes) or their probability of encountering one another at random (‘neutral’ processes) determines the occurrence of interactions. This project will study networks of interactions among plants and their pollinators and seed dispersers to understand the situations under which niche vs. neutral processes are most important. In particular, we will test whether exotic species and species that interact with many others choose their interaction partners less on the basis of their traits, and more based on their abundance. Then we will test whether the importance of niche vs. neutral processes is constant in time and space, and along environmental gradients. Finally, we will use these findings to model how changing importance of niche vs. neutral processes influences the vulnerability of interaction networks to invasions by exotic species, and the survival of native species.
+
+**Associate Professor Peter Gostomski (co-Principal Investigator Ms Kim Baronian)**
+
+_Removing nitrate from contaminated water using methane. Which microbes are doing the work?_
+
+Nitrate-contaminated water causes serious health and environmental problems (e.g. blue baby syndrome, toxic algae blooms and cancer). Intensive farming and municipal wastewater disposal are the leading causes of high nitrate levels. For complete nitrate removal to occur, an oxygen-free (anaerobic) environment is required. This converts the nitrate to harmless nitrogen gas. Recent research has indicated that methane can be used to drive nitrate removal. However, it is unclear how methane drives nitrate removal, as the typical methane-using microbes require oxygen, which normally prevents the conversion of nitrate to nitrogen.
+
+To understand the methane-driven system, we need to determine which microbes, among the many different types of microbes present in water, are removing the nitrate. We will use methane labelled with a stable isotope of carbon. Only microbes feeding on the methane will incorporate the isotope allowing us to identify which groups of organism are active in the microbial community under different conditions during nitrate removal.
+
+This project will be the first attempt to obtain this knowledge and couple it to nitrate removal in different environmental conditions. This project will increase the fundamental knowledge of the biological nitrogen cycle and improve the design of systems that remove nitrate from contaminated waters.
+
+**Dr Chris McGann**
+
+_A hybrid 3D-1D framework for site-specific seismic response analysis_
+
+Current state-of-the-art analytical techniques for site-specific seismic response analysis are largely based on 1D wave propagation assumptions, while the growing body of evidence raises questions about the validity of this approach. This project will develop and validate a hybrid 3D site response analysis framework that considers 3D soil heterogeneity, 3D input ground motions, and multidimensional nonlinear soil constitutive models using data from over 5000 observations at over 100 vertical array sites in Japan. This extensively validated modelling framework will enable a critical examination of the limitations of 1D analysis, provide important insights into residual ground motion prediction uncertainty, and establish a framework for a paradigm shift away from the current 1D approach to seismic site response analysis.
+
+**Dr Kevin Watson**
+
+_Towards an improved theory of language change: understanding the covariation of linguistic variables within and across speakers_
+
+The study of language variation and change is rooted in the notion of the sociolinguistic variable. Examples of well-studied variables in New Zealand English are the /t/ in words like "butter" (which might sound more 't-like' or more 'd-like'), and the vowel in words like "fish" (which might be more 'feesh'-like or more 'fush'-like). These pronunciations vary considerably across speakers. They are also used variably by individuals in the course of everyday conversations. A vast literature studies the use of such variables, but the focus is on studying them in isolation - one study might consider /t/, and another might consider a particular vowel. This project builds on 20 years of research on the ‘Origins of New Zealand English’ corpus - comprising over 1500 speakers, 3 million words and 130 years of sound change. We will innovate a 'big data' approach to this corpus, analysing millions of data points together, to provide new insight into how sociolinguistic variables work together. This project thus radically pushes the field in a new direction: developing a sociolinguistics of sound systems, which shifts the focus away from the isolated sociolinguistic variable, and onto the sociolinguistic system as a whole.
+
+**Professor Charles Semple (co Principal Investigator Mike Steel)**  
+_The Combinatorics of Reticulate Evolution_  
+Darwin viewed evolution as a treelike process. However, non-treelike (reticulate) processes such as hybridisation and lateral gene transfer mean that evolution is a much more complicated and perplexing process. Indeed, some of the most difficult questions in biology concern unravelling the ancestral relationships of species that have undergone reticulate evolution. This project will develop and apply new mathematical, statistical, and computational techniques to study the combinatorial properties of evolution under random processes of reticulation. We will focus on three key mathematical questions. Answers to these are central to understanding how reticulation in evolution may have obscured ancestral relationships in the past, based on what we can observe today, and the extent to which a tangled network can be viewed as having an underlying treelike structure.
+
+**Dr Brendan Creutz**
+
+_Brauer groups, degrees and rational points on algebraic varieties_
+
+The study of rational solutions to polynomial equations is as old as mathematics itself, yet much remains unknown. To this day new discoveries continue to lead to major advances in both mathematics and its applications to cryptography and the transmission of information on noisy channels. This project does not focus on these applications, but rather the mathematical foundations that underlie them.
+
+This research is motivated by the problem of understanding how the existence of rational solutions to a system of polynomial equations may be influenced by the geometric and arithmetic properties of the algebraic variety defined by that system. For many important classes of varieties it is conjectured that these properties are encoded in an object associated to the variety known as the Brauer group. However, a general understanding of this group and how this information can be extracted from it are lacking.
+
+The aim of this research is to identify proper subgroups of the Brauer group that capture this information, thereby elucidating its effect on the existence of rational points on algebraic varieties. The outcomes of this research will have practical applications to solving of systems of polynomial equations algorithmically.
+
+**Professor Alison Downard**
+
+_Tailored environments for highly active and stable electrocatalysts_
+
+Electrocatalysts play a critical role in technologies that can tackle the challenges of climate change and sustainable energy production. Electrocatalysts accelerate electrically-driven chemical transformations and increase their energy efficiency, yet many environmentally-friendly technologies are hindered due to poorly-performing catalysts. Our work will boost the efficiency of molecular electrocatalysts through a new approach: molecular-level design of the catalyst environment.
+
+To develop our novel strategy, we will focus on catalysis of the oxygen reduction reaction which is central to fuel cells and metal-air batteries, and catalysis of carbon dioxide reduction which gives carbon monoxide, a useful feed-stock for fuels, and other commodity chemicals. Iron porphyrin catalysts will be immobilized on carbon electrodes through well-defined linkages and detailed electrochemical investigations will reveal how the immobilisation mode influences the catalytic performance. We will then add selected molecules to the electrode to tailor the chemical environment of the catalyst. In this task, we will be guided by known catalytic mechanisms and factors that influence catalytic activity. Through systematic investigations we will fabricate electrodes bearing catalysts with tailored environments that optimise their performance. Our goal is to demonstrate a general strategy for fabricating highly efficient electrocatalysts so that sustainable technologies become technically and economically feasible.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

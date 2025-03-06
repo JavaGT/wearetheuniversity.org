@@ -1,0 +1,308 @@
+---
+slug: flavell-address-at-the-maori-party-10th-anniversary
+title: "Flavell: Address at the Maori Party 10th Anniversary"
+date: 2014-07-14
+source-url: https://www.scoop.co.nz/stories/PA1407/S00248/flavell-address-at-the-maori-party-10th-anniversary.htm
+author: te-pati-maori
+---
+Flavell: Address at the Maori Party 10th Anniversary
+====================================================
+
+**Monday, 14 July 2014, 9:36 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+**Saturday 12 July 2014**
+
+**SPEECH**
+
+**Address at the Maori Party 10th Anniversary Celebrations**
+
+**Te Papaiouru Marae, Ohinemutu, Rotorua**
+
+**EMBARGOED TILL 9.45PM**
+
+**CHECK AGAINST DELIVERY**
+
+First of all, happy birthday!
+
+Ten years in politics is much more than a milestone, it’s a marathon, if not a millennium!
+
+It’s been hard work, but e hoa ma, we have only just begun the journey.
+
+It’s been a hard and rewarding journey and we now find ourselves on a highway to the future fuelled by enthusiasm, experience and momentum.
+
+What we have achieved in the last ten years is amazing, but the next ten will be even more amazing.
+
+Today is all about our future.
+
+Ehara Te Pāti Māori i te tauhou ki tēnei mahi - kei te mura o te ahi tonu tātou!
+
+Kua hikoi i te hikoi roa e akina nei e ērā o ngā hikoi rongonui i roto i te ao tōrangapū, arā koia ra te take e tu nei Te Pāti Māori ki roto i Te Whare Paremata i tēnei wā.
+
+Tariana, e kore e mutu ngā mihi kia koe. I timata mai ai to tatou kaupapa i a koe. Ko koe te matakahi, ko koe te mea i whakakaa i te ahi, i whakahihiko i te ngakau o te tini, o te mano, ao Maori mai, ao Pakeha mai i raro i te korowai o te kotahitanga. Nau ano te tika me te pono i whakairi ki mua i te aroaro o te motu, hei mea wananga. I tona mutunga, ko tika raua ko pono i toa. I whai tuara koe i to tatou matua i a Whatarangi, me te toa o Tumatauenga, te Whare Tu Taua, e Pita. Na koutou te motu i whakakao, kei konei tonu tatou i tenei wa.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Kua tuhia o koutou ingoa i nga pukapuka o te motu, kei aku rangatira tena koutou katoa.
+
+_(The Maori Party are not strangers to being in the heat of battle._
+
+_We have followed the path of the other efforts made to have our place in the political environment and that is why the Maori Party is where it is today._
+
+_Tariana, we will never stop acknowledging you. We started because of you. You were to be the sharp edge of the axe, you were the one who lit the fire, you lifted the hearts of the many, both Maori and Pakeha under the cloak of unity. It was you who espoused the virtues of honesty and justice to the nation and in the end, they prevailed. You were joined by our father figure Whatarangi and of course, the fierce warrior, Pita. It was all of you who pulled us all together and here we are today._
+
+_Your names will be written into history, to my chiefly ones, we thank you)._
+
+As we celebrate tonight, we say to our people and to the country, we are no longer political novices. The Māori Party are serious contenders for a piece of political pie with very healthy appetites, thank you very much.
+
+We’ve walked the talk, motivated by one of the most radical walks in political history. It is the reason we are able to stand here today. Thank you Tariana.
+
+That walk stirred an awakening in me and thousands of other Māori. And we’re not about to stop making momentous gains like that anytime soon.
+
+What the Māori Party has achieved in the last ten years has turned heads, begrudgingly at first but now with respect.
+
+We pushed the door of Government wide open, we have been the party to say to our whānau, hapu, iwi “nau mai!” “nau mai ki roto i te whare, ki te mura o te ahi!” We have brought you all with us.
+
+When in our entire political history – have you ever known a political party to do that for our Māori people? Answer. Never!
+
+I want to tell you that there is no better time to be in the Māori Party than there is today.
+
+I want to tell you that while some people have tried unsuccessfully to count us out, to kill us off, and wished us out of the way and gone, the Māori Party has remained. And let’s be clear. The Māori Party is not going anywhere.
+
+We are resilient.
+
+We are warriors.
+
+We are more than survivors, we are champions.
+
+The Māori Party will continue to be that conscience that keeps that whare - accountable to our mokopuna, and generations of tomorrow.
+
+The Māori Party will continue to be that voice that questions – how does this move us towards rangatiratanga?
+
+The Māori Party will continue to be the instrument of our ancestors to ask – how does this honour Te Tiriti o Waitangi?
+
+Yes, the Māori Party is all of the above and more.
+
+At ten years old, we have only just scratched the surface of the people that we are, and the people we can be.
+
+We are most definitely UP, not down.
+
+We are more IN than we’ve ever been out.
+
+We are definitely on the rise.
+
+We are here to stay.
+
+Brace yourself Aotearoa, I repeat, the Māori Party and its supporters are here to stay and we’re a force to be reckoned with.
+
+We have been moving amongst our communities, our people – listening, talking, growing. We have been planning, and building like Maori Ninja’s operating in stealth mode. We have been designing our Party for the future, our policies for the future – and we are now ready to accelerate, and take our people with us. We are here to stay.
+
+People have tried without success to tell us to lie down and die.
+
+In 1856 – Parliament’s apparent role was to smooth down the pillow of our dying race.
+
+In the early 1900s – they actively tried and failed to colonise us through education – advocating Māori language was a language of the past. Māori culture was a culture of the past. Māori way of life was uncivilised, and not where the public really want to be as New Zealanders.
+
+The Māori Party have been written off at every single election – calling us the last cab off the rank. Well look who’s still here, who’s still strong ten years later.
+
+For decades upon decades, people, politicians and political parties – have been telling us Māori culture and way of life – was destined for a future like the moa.
+
+So . . . I wanted to remind us all today, on our 10th anniversary – that anyone trying to halt our belief in ourselves - it is ‘never going to happen.”
+
+Our culture is exciting. It is invigorating. Our culture and our people are truly innovative, and offer much to the nation.
+
+On this our 10th birthday celebration let us revive the very first speech given in Parliament by the Māori Party – the speech Tariana made on the 27th July 2004 after an incredible victory in the Te Tai Hauāuru by-election where she attracted 92% of the vote.
+
+In that first Māori Party speech, Tariana said, Ko tenei te wā o te ao Māori. It is time to look to ourselves. The best form of leadership for Māori is Māori. We need to seek leadership from within, to find the inspiration that exists in our people.
+
+And that is the currency the Māori Party is bringing with us into this election, and what we promote in Parliament. A passion for our culture, and an unwavering knowledge that our cultural voice and perspectives can absolutely transform the future of our whānau, and the future of our nation.
+
+Today is about our future.
+
+Today is a reminder – that we are toka tū moana. We are the rocks that stand steadfast against the breaking tide. We are leaders, and we will be the architects of our own dynamic futures as Māori.
+
+2013 Māori Businessman of the Year Ian Taylor voiced that view just two days ago, encouraging iwi and Māori to take up our $40 billion economic engine to create our own research fund, saying “it’s time to take control ourselves, let’s stop asking if this engine is real, let’s start making it hum’.
+
+It’s a view that Pita has been pushing hard, through the Māori Economic Strategy, He Kai Kei Aku Ringa – literally providing the food we need with our own hands.
+
+It’s a view that 47,000 New Zealanders have been taking up through Whānau Ora – which is kicking on, by means of the three independent Commissioning Agencies.
+
+And it’s a view I’m promoting through what we announced in Budget 2014 as Māori on the Move – taking our own health seriously, drawing on the strength on indigenous models to claim back our future wellbeing.
+
+In all of these approaches our unique difference is our collective strength. We are the only party in which whānau – the simplest unit of our existence – is core to our policy framework. Our whānau hold the key.
+
+That is what the Māori Party stands for. That is who we are.
+
+This year, we have a new line up of candidates. I am really excited, because each of our people represents what the Māori Party is all about. They are dynamic, they are fresh, energetic and they are Māori – they carry our values and our tikanga in their hearts, they wear them on their sleeves, and they, above all, have stood up and said – “I will speak for you”. “I will represent whānau, and I will speak for you” – in that often hostile place called Parliament.
+
+We have seven extraordinary individuals, who have offered themselves to the service of our kaupapa. But we are more. Collectively we have:
+
+• 39 tamariki
+
+• 8 mokopuna
+
+Combined I think we still don’t beat Tari’s count, but hei aha – the point is – you cannot get more whānau friendly than us. You cannot get more representative of the diversity of Māori realities in this contemporary and global world than us.
+
+And I want to quickly introduce our people now:
+
+• Standing in Te Tai Tokerau – we have a graduate of kōhanga, kura and wharekura our immersion education system, he would be the first of that generation to get into parliament, he’s also a kapa haka superstar - Te Hira Paenga
+
+• Standing in Tamaki Makaurau – we have the stalwart of South Auckland, at every hui, out there with our people in Auckland - Tunuiarangi McLean
+
+• Standing in Hauraki Waikato – our dynamic, forward focussed education and entrepreneurial wahine, Susan Cullen
+
+• Standing in Te Tai Hauāuru – we have our very clever, capable, ex Treaty negotiator, passionate about community and regional development - Chris McKenzie
+
+• Standing in Ikaroa Rāwhiti – we have an educator extraordinaire, passionate about whānau, and so focussed on transforming the lives of our people - Marama Fox
+
+• Standing in Te Tai Tonga – we have someone who knows first hand the capability of human spirit, someone who has worked on the frontline with our whānau in some of the toughest circumstances - Ngaire Button
+
+• And of course, I need no introduction, I will be leading our Party standing in Waiariki and I declare again, Waiariki is Maori Party turf!!!
+
+Together we will represent you and our people in Parliament, and I want to quickly talk to you about the Māori Party’s position on future coalition partners.
+
+Let me be clear here – the Māori Party will work with anyone who supports our kaupapa. The Māori Party will work with either Labour or National, and both of those parties would work with us.
+
+I want to just put it out there that if people vote either red or blue, 50% of the time your vote will take that party into power.
+
+The Māori Party can be in Government 100 percent of the time.
+
+We are there to make a difference – to do whatever it takes to make the gains you seek of us.
+
+We will make sure our nation is inclusive; it has a strong indigenous basis for its development; we are preparing the future for our babies who will take on the world.
+
+We will work hard to get into government no matter who else is sitting at that table.
+
+It’s not just about the gains we make, and we have made many, it’s also about stopping what we can, putting our Māori voice forward on every issue, and when things go south – it’s about being in the right position to at least try to make a difference.
+
+E hoa ma, politics is hard work. But we didn’t go to Parliament to stand on the sidelines – we are there to work, and I can hand on my heart say – that every single thing that we have done has been in the service of our people, our whānau, hapū and iwi – and damn it! we have worked hard. We pushed hard. We won some, we lost some – but we live to fight another day of an exciting future.
+
+On that note, it’s important that today we reaffirm for te ao whānui what the kaupapa of the Māori Party is all about.
+
+We said from the very start that we aimed to be a strong, independent, Maori voice in Parliament with influence. I say we pass with merit on all counts and this is how we intend to continue into the future.
+
+We will to protect Māori rights and promote Māori interests for the advancement of the nation.
+
+We were born out of protecting Māori rights under threat in 2004 – our very first bill in the House was to repeal the Foreshore and Seabed Act – and our very latest bill will protect the right to speak our language.
+
+We are all about whānau.
+
+We are a party that speaks up for social justice.
+
+We put Maori front and centre and not as a tack on.
+
+We are a party that has works hard to uphold the kaupapa this party was founded on – manaakitanga, kaitiakitanga, rangatiratanga, kotahitanga, mana whenua, te reo, wairuatanga, whakapapa, whanaungatanga.
+
+We negotiated with National to reverse Labour’s decision in 2007 to vote against the Declaration on the Rights of Indigenous People, and in 2010, I was there as Pita stood at the feet of the United Nations and placed Aotearoa once more on the global map.
+
+We established a Māori Statutory Board on the Auckland Council to protect the representation of tangata whenua in Tāmaki Makaurau.
+
+We have acted in ways that say all our whānau matter – there has been no stronger advocate for whanau haua than Tariana who has championed the Enabling Good Lives strategy, for disabled persons to live the life of their choice;
+
+We have fought day in and out for a better future for our tamariki – we demanded a Ministerial Committee on Poverty; we brought Rheumatic Fever out onto the agenda; we enabled the Kickstart Breakfast campaign to be spread to every school; we are creating a future which will be smokefree by 2025; where gambling harm is eliminated; where every home is warm, dry and passes a warrant of fitness to say so.
+
+We are a party that upholds Te Tiriti o Waitangi, that believes in creating better futures for our mokopuna, and who believes that our tupuna in all their passion who fought for their lands, for their rights, for the whanau, deserve to have their legacy honoured. To honour them, ka whawhai tonu matou.
+
+Over the coming weeks we will be releasing details of our policy. As a little taster for you today, however, I want to present you with our policy for the future of Whānau Ora.
+
+Whānau Ora is the cornerstone of the Māori Party’s philosophy.
+
+Whānau Ora – is simply about empowering whānau to lead their own development.
+
+Gone are the days where the State will disempower our whānau by doing for them, and to them.
+
+As of one week ago, Whānau Ora took heart from a brave new direction forwards with three commissioning agencies spearheading the move to place faith in our families by getting as close to our whānau as is possible. Te Pou Matakana in the North; Te Pūtahitanga o Te Wai Pounamu in the South, and Pasifika Futures all play a vital role in mapping out the journey ahead – a journey where we must be brave enough as a nation to believe that our people have the solution.
+
+Just today, Tariana announced that more money will be vested in Te Pou Matakana from Housing – which will support the growth and development of this initiative.
+
+Under the Māori Party, Whānau Ora will remain a priority.
+
+Whānau Ora spans the entire spectrum of health, housing, education, social development, youth affairs, women’s affairs, employment, Māori Affairs and more.
+
+The Māori Party will continue to push Whānau Ora into the future by ensuring that we are dragging more and more agencies in – and wrapping their services around the needs of whānau; not the other way around – where our whānau are forced to fit around them.
+
+The future that the Māori Party is going to push towards – is a future where whānau are free from poverty; they are free from family violence; they have the best choices in life; they have the world at their feet – and we don’t want our whānau to just survive – we want them to thrive! We want our whānau to experience the best of the best, to be global, to be free, to be happy, to be well.
+
+To do that, we must confront head on the ngārara that everyday families are confronting: poverty; abuse and neglect, social hazards such as alcohol, P, gambling – and yes as long as we are facing the desperate cancer statistics we do, tobacco reform will continue to be a priority for our party.
+
+The Māori Party – will tackle these things for our tamariki, our mokopuna, and our whānau by pledging to:
+
+• Lift the minimum wage, in line with the living wage.  
+•  
+• Invest in trade training, apprenticeships and job skills AND invest in further learning – so that we aren’t just getting people into jobs, but we are getting them on the ladder and ensuring they continue to move up  
+•  
+• Ensure that our schools are producing equitable outcomes for Māori, Pasifika and all children of New Zealand, by implementing cultural competency support programmes, whānau support programmes, and pastoral care for our children and their whānau.  
+•  
+• Free health care has been expanded to children under 13 years, well we want to lift that up to include children up to 18 years of age  
+•  
+• We will establish warrants of fitness for all rental houses, state owned AND privately owned  
+•  
+• We will work towards free public transport for all low income whānau, children aged 18 years and under, and students.  
+•  
+• We will ensure the Training Incentive Allowance is lifted to include undergraduate and post-graduate degree programmes  
+•  
+• We will investigate means to dampen down the rising rents in Auckland and across the country  
+•  
+• And we will support low income whānau into home ownership by bringing back capitalising the family support allowance, while at the same time accessing accommodation supplement to maintain quality living standards.  
+•  
+• We will make the eradication of family violence, and violence against our tamariki a priority issue, and we will introduce new measures that focus on prevention of and protection from violence.  
+•  
+• We will undertake to ensure that every city, every town, and every street in Aotearoa is safe - by initiating a ‘whānau friendly cities’ discussion across Aotearoa.  
+•  
+• We will introduce Food for Thought in all decile 1-4 schools, in conjunction with Foodstuffs and the Heart Council, to prioritise healthy nutritious kai, in collaboration with our Maara Kai programme of action.  
+•  
+All of these things are about Whānau Ora. All of these things are about Te Tiriti o Waitangi (Article 3). All of these things are about tackling inequality, and are about ensuring that our rights as citizens of Aotearoa, and as indigenous people of Aotearoa are met.
+
+This focus on whānau, is the basis of our policies leading us into the future. This is Whānau Ora 2.0.
+
+And we have set the scene in the last few weeks with the release of:
+
+• The Maori Health Strategy: Te Korowai Oranga
+
+• The Maori Housing Strategy: Te Whare Ahuru
+
+• The Maori Language Strategy:
+
+I want to say, that this vision for the future, this new direction for the Māori Party would not be possible, without the hard work, the passion, the sheer commitment of my two colleagues over here Tariana and Pita.
+
+It has been a whirlwind. No one will ever know what it is that we have been through together over the ten years. There have been many up, there have inevitably some downs.
+
+We broke new ground in 2008 by writing into the Relationship Accord with Government, that we sought a relationship which would be mana enhancing. At the time, there were the predictable critics and cynics, but we have surpassed the scepticism and made it possible to uphold a relationship of respect. That one feature in itself, is a tribute to your leadership, your integrity and your faith.
+
+What you have both given in service to our Kaupapa is immeasurable. You have given your lives to our people. Your sacrifice has been immense and I challenge anyone who would criticise your commitment to our people. Your records of achievement and service speak for themselves.
+
+Your legacy will endure through the lives you have influenced, the houses repaired, the reo spoken, the histories known, the kura built, the children protected from harm, the pride in all of our hearts restored; the whānau strengthened. We are better for your vision.
+
+It has been a huge privilege for me to have served with you and under your leadership.
+
+And on behalf of all of us here, I want to say, thank you. Thank you for all that you have given in service to our whānau, our communities, and our kaupapa.
+
+A future without both of you right there in Parliament with me, it’s going to be a massive change. It’s going to be hard. But together, we have built a Party that we can be proud of. We have built a new and fresh team – who will take us forward. We have built a fresh new vision for the party moving into the future. I know that the next part of our journey will be safe, because our waka was cast in the right direction, and has been buoyed by safe and steady hands for the last ten years.
+
+Here is to our next ten years. Here is to our future.
+
+Now let’s smash this election – and show them all, the Māori Party is here to stay
+
+**ENDS**
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

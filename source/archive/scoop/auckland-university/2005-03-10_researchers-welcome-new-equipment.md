@@ -1,0 +1,64 @@
+---
+slug: researchers-welcome-new-equipment
+title: "Researchers Welcome New Equipment"
+date: 2005-03-10
+source-url: https://www.scoop.co.nz/stories/ED0503/S00035/researchers-welcome-new-equipment.htm
+author: auckland-university
+---
+Researchers Welcome New Equipment
+=================================
+
+**Thursday, 10 March 2005, 4:51 pm**  
+**Press Release: [Auckland University](https://info.scoop.co.nz/Auckland_University)**
+
+10 March 2005
+
+Researchers Welcome New Equipment
+
+Scientists from research institutions, universities and industry will benefit from two major sophisticated pieces of equipment, worth more than $1 million each, bought by The University of Auckland.
+
+An Environmental Scanning Electron Microscope (ESEM) and an X-ray Photoelectron Spectroscope (XPS) were today launched by the Minister for Research, Science and Technology, the Hon. Steve Maharey. Both machines are the only ones of their kind in the country.
+
+Faculty of Engineering Dean Professor Peter Brothers says he is delighted with the addition of the equipment to the Faculty’s existing research facilities.
+
+“They are both significant purchases and will help advance research in many areas, offering an even wider range of research and learning opportunities for our staff and students.
+
+“In addition, we welcome the opportunity to work with researchers from Crown Research Institutes, other universities and industry, who will use the equipment in their work,”says Professor Brothers.
+
+Dr Bryony James, Director of the Research Centre for Surface and Materials Science, which will house the equipment, says it will be used by food and biological scientists, as well as surface and material scientists from around the country.
+
+The ESEM is an advanced version of conventional SEM microscopes, which are relatively commonplace having been commercially available since the 1960s. Unlike the older style machine, which requires samples to be placed in a vacuum chamber, the ESEM can examine materials in their natural state.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“This means we can now research wet items such as blood, water, apple, cheese, or adhesives in water vapour or other gasses because the ESEM has overcome the problem of moisture evaporating.
+
+“This will allow us to do more advanced research in food technology and other areas. For instance, we could look at what makes dough rise or gluten react, or the consistency of cheese at different times of production. “
+
+The second item, the XPS, was bought to replace the one-and-only machine of its kind in New Zealand - a 17-year-old XPS at the University. Available to a wide range of industry and university researchers, the XPS is used to examine the surface chemistry of materials, providing detailed analysis of the top ten atomic layers.
+
+“It gives us more information about what is happening on the surface of a material – for example why there is a stain on a plastic or why a glue joint is failing. It will be a fantastic item for helping to solve industry problems with adhesion, corrosion and other issues.”
+
+The ESEM and the XPS, both fully-funded by The University of Auckland, were made-to-order and shipped to New Zealand from Europe.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Auckland University](https://info.scoop.co.nz/Auckland_University) on InfoPages.

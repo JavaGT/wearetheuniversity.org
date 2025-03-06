@@ -1,0 +1,57 @@
+---
+slug: christchurch-earthquake-bulletin-edition-41
+title: "Christchurch Earthquake bulletin edition 41"
+date: 2011-05-12
+source-url: https://www.scoop.co.nz/stories/PA1105/S00263/christchurch-earthquake-bulletin-edition-41.htm
+author: new-zealand-labour-party
+---
+Christchurch Earthquake bulletin edition 41
+===========================================
+
+**Thursday, 12 May 2011, 12:02 pm**  
+**Press Release: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Christchurch  
+LABOUR MPs
+
+  
+12 May 2011 MEDIA STATEMENT  
+**Christchurch Earthquake bulletin edition 41**
+
+The Labour Party’s Christchurch electorate MPs, **Clayton Cosgrove (Waimakariri), Ruth Dyson (Port Hills), Lianne Dalziel (Christchurch East) and Brendon Burns (Christchurch Central)** have started a regular bulletin to keep people in their electorates and media informed about what is happening at grass roots level.
+
+**CLAYTON COSGROVE:** It is crucial that insurance companies take a more flexible approach to paying out people and businesses for damage to goods and equipment caused during the quake. Basically, the insurance companies are telling businesses --- we won’t pay out on your photocopier or your PC or your fax machine or even the office fridge until you show us the damaged goods in question. It’s a Catch 22 situation when the damaged goods in question are in a red-stickered building or a building which the business can’t access for quake-related reasons. It’s an even more difficult Catch 22 situation when business and their staff can’t get on with re-building their future because they are not being paid out for essential equipment and materials they need. I just can’t understand the attitude of the insurance companies. There has to be a way through this. Gerry Brownlee needs to show leadership to sort the impasse out. He also needs to explain what’s going to happen with the business support package ending. That will make it even more likely that businesses will fold, and their staff will fold with them. It is worth recalling the warning from Massey University’s Centre for Small to Medium Enterprise that up to 40 per cent of small companies could eventually fold after an event like the earthquake. It is so important for our future livelihood that we do everything we can to keep small businesses afloat, not make it more difficult for them. On another issue I see that a survey of the construction sector shows many expect more work and higher prices in the next year across the country because materials and labour will be heading to Christchurch for the rebuild. The second part of the equation --- the shortage of skilled labour --- is very much in Gerry Brownlee’s hands. There is still no plan in Canterbury --- eight months on from the first quake --- to increase the number of people in skills training in the region. In fact, the opposite is happening. Apprentices have lost their jobs, and skilled young people are heading to Australia and other parts of the country. We should be training the people we have got here now. It’s hardly rocket science. Let’s get on with it. Finally today, I was pleased to receive a call from a senior executive at Fletcher’s following my comment yesterday about the importance of local contractors and subbies getting their share of the rebuild work in Canterbury and suggesting Fletcher’s could release information about how many jobs have been issued, and how many firms had received those jobs. The executive who rang me said he’d taken my comments on board, and promised Fletcher’s would look closely at the way work is allocated. Good on him.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+**RUTH DYSON:** As I mentioned yesterday, I was very impressed with the presentation about the recovery plan work in Sydenham and Lyttelton, which have been chosen as the two “pilot” areas. Other communities are now asking, “what about us?” This is another question in the long list, all of which would be answered if we had a clear timeframe from the Minister. We will keep raising this in our meetings with him and I hope, this will be produced soon. I am also hearing a lot of questions about the various roles of the council and CERA. There is a lack of clarity about who is responsible for what, and this needs to be sorted out soon particularly to avoid buck-passing or lack of accountability. The Government has decided to remove the so-called emergency payments to people (such as the host accommodation payments for people who have evacuated folk staying with them). This decision has been very poorly planned and communicated, and for those who are still having difficulty with their insurance claims, this will cause more stress and financial hardship. I have asked the Ministry of Social Development to look at their communication on critical issues such as this. Their own staff didn’t even seem to understand the policy, as I got four different answers in the space of one afternoon. At select committee today, we are looking at the Building Act Amendment. There’s a good submission from the Christchurch City Council, and we will be working hard to make sure that the new laws work well for everyone.
+
+**LIANNE DALZIEL:** My office is still being inundated with calls and emails from constituents who have issues with EQC and/or their insurers. There seem to be more complaints this time about contents claims not being paid out – EQC seemed a lot quicker last time. The issue that just won’t go away, however, is the state of the land. I have suggested to the Minister an improvement on the communication adopted last year – where the only people directly communicated with about the Stage 1 Report were those identified as being on severely damaged land, while others whose houses were still totalled were not. And then there was the Stage 2 Report. I am still responding to people who thought the perimeter treatment was designed to prevent liquefaction (which it cannot) as opposed to its true purpose, to prevent damage caused by lateral spreading when the land under the properties and roads slips towards the waterways. With the extent of the drop in some land it seems that the perimeter treatment option may not be realistic in all areas any more. At the round of meetings I held recently, people were clear they didn’t want to read information for the first time in the newspaper. That means it will be important that meetings are held suburb by affected suburb (simultaneously where possible) with experts – engineers for example – so the information in the report can be explained carefully and so questions can be asked and answered. The need to handle the release of this information sensitively will be paramount in terms of how the community copes with the news – which will be good or bad depending on what each individual wants at heart. I know this because I am one of them. It is vital that this information is shared with the community before the government makes its decision.  
+  
+**BRENDON BURNS:** I was right to ask questions about delays in providing new heaters for homeowners who lost chimneys. This has been a slow train wreck coming. Mr Brownlee is the only person who can clear the tracks. He says it is “totally unreasonable” to highlight the shortfall, and that “every effort” is being made, but comments I made late last year are now proving correct. My fears were real long before the February quake brought down many more chimneys. I’m reflecting the annoyance of constituents waiting for heaters. I said yesterday that Fletchers had only been able to install around 1800 heaters, when its own target was 4,500 by this weekend. Fletchers now says those figures are out of date, but they are the figures Mr Brownlee gave cross-party MPs on Tuesday. When I quizzed him he did not correct them. I don’t doubt Fletchers is doing its best. It says it had in fact installed 2780 heaters by May 6. If Fletchers can install more than 1700 heaters in 9 days, nobody will be more pleased than me, but even if that happens, thousands of eligible people won’t get a new heater until well into winter or even by its end. The scheme to replace chimneys lost in the September 4 quake was announced 11 days later, but by Christmas, not one new heater had been installed. By late January only 12 had been installed. Spring and summer is the quiet time for the heating industry; that’s when leadership was needed. By February, when Fletchers got underway, the heating industry was climbing back towards its usual seasonal bulge. Fletchers picked up a hospital pass Red Cross has promised help for people with winter power bills if they have to run inefficient heaters in a damaged house. That’s welcome but the level of support is unclear. We still need a Government assurance to people who can’t get a new heater that they won’t be left with power bills that go through the roof.
+
+**ends**  
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

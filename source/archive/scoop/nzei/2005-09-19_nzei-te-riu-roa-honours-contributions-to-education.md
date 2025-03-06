@@ -1,0 +1,171 @@
+---
+slug: nzei-te-riu-roa-honours-contributions-to-education
+title: "NZEI Te Riu Roa Honours Contributions To Education"
+date: 2005-09-19
+source-url: https://www.scoop.co.nz/stories/ED0509/S00064/nzei-te-riu-roa-honours-contributions-to-education.htm
+author: nzei
+---
+NZEI Te Riu Roa Honours Contributions To Education
+==================================================
+
+**Monday, 19 September 2005, 11:51 am**  
+**Press Release: [NZEI](https://info.scoop.co.nz/NZEI)**
+
+NZEI Te Riu Roa Honours Contributions To Education
+
+A group of outstanding principals, teachers and other education professionals who have made a significant contribution to education, are being honoured by the country’s largest education union.
+
+The awards are being made by NZEI Te Riu Roa which has 44,700 members. They work as teachers and principals in primary schools. Teachers in early childhood education services. Support staff in early childhood education services, primary and secondary schools. Special education staff in early childhood education services, primary and secondary schools. And as school advisers.
+
+Twelve people are being honoured at the opening of the union’s 2005 Annual Meeting in the Wellington Town Hall on Sunday September 25.
+
+Hapimana Toby Rikihana, a retired teacher and principal, is being given the union’s highest honour, Life Membership.
+
+Toby is a passionate advocate of Te Reo Maori who has devoted his life to promoting and teaching the language. He has worked in education for more than 40 years as a teacher, itinerant teacher of Maori, resource teacher of Maori, deputy principal and principal. For almost 30 years he chaired a non-profit organisation that produced Maori educational resources, many of which are still in wide use. Toby was awarded a Companion of New Zealand Order of Merit (CNZM) for services to education in 2001 and a Toi Whaka Toa award by Creative New Zealand for services to the Maori language in 1999.
+
+Three primary principals are being made Fellows of NZEI Te Riu Roa. Two are from Auckland. They are Liz Horgan, principal of St Joseph’s School in Otahuhu and Brian Laing, principal of Wesley Primary School, in Mt Roskill. The third is Anne Gover, the principal of Tapanui School, north of Gore.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Liz Horgan has worked in education for 33 years and has been principal of St Joseph’s for the last 12. She chairs the NZEI Principals’ Council and is involved in guiding and mentoring new principals. She was a founding member of the Otahuhu branch of NZEI and served as the branch secretary, vice president and president and as secretary and chairperson of the union’s Auckland District Council. She also represents the union on a number of educational organisations. Liz has been netball coach and referee for 30 years and has also spent years organising events for the Otahuhu/Mangere Sports Association and musical festivals at Otahuhu schools.
+
+Brian Laing has worked in education for 37 years, and has been a principal for 14. He’s taught in Wanganui, Waiouru and Auckland. Under his leadership, Wesley School has become a place where the multi-ethnic community of Mt Roskill is welcome and many groups use it as a base for their activities. Through the school students and their families also have access to health care, social workers and home helpers. Brian sits on the board of a  
+non-profit medical service, Hauora o Puketapapa, and is closely involved with teacher education programmes. He’s been a member of NZEI’s National Executive since 1997.
+
+Anne Gover has been a teacher, deputy principal and principal for almost 30 years. She has taught in Nelson, Christchurch and Gore before being appointed principal at Tapanui School five years ago. She is the deputy chair of NZEI’s Principals’ Council and chair of the Eastern Southland Principals Association and has served as president of the union’s Southland branch and its Murihiku (Southland) District Council. Anne is also the South West Pacific Constitution Convenor for Soroptomist International, a women’s international service organisation.
+
+Donna Mason, the secretary at Sunset Primary School in Rotorua, is being given a Special Service Award in recognition of service to school support staff and to her community. Donna is a member of the union’s Rotorua branch, Bay of Plenty District Council and the Support Staff National Caucus Kaiawhina Tautoko. She’s established holiday and after-school programmes at Sunset Primary and been active in fundraising for the school. In 2003 she received a Multi Serve award for services to education.
+
+Seven members are also being made Associates of NZEI Te Riu Roa.
+
+Caroline Mareko, the Ministry of Education’s Pasifika education co-ordinator for the Central South region, based in Lower Hutt, formerly a teacher at Cannons Creek School in Porirua.
+
+Dawn Osman, senior kindergarten teacher with the South Taranaki Kindergarten Assocation, based in Hawera.
+
+Denise Cornford, formerly a Resource Teacher of Learning and Behaviour in the Hutt Valley.
+
+Judith Hinton, head teacher at Alexandra Kindergarten, Otago.
+
+Sandra Jenkins, principal of Mangonui School, Doubtless Bay, Northland.
+
+Sara Rogers, deputy principal of New Windsor School, in Avondale, Auckland.
+
+Winnie Emery, school adviser, based in Rotorua.
+
+The awards ceremony is being held in the Wellington Town Hall Auditorium on the first day of NZEI Te Riu Roa’s 2005 Annual Meeting. It starts at 4pm Sunday September 25.
+
+ENDS
+
+  
+OTAGO KINDERGARTEN TEACHER HONOURED
+
+Judy Hinton, the head teacher at Alexandra Kindergarten in central Otago, is being honoured for her contribution to education and to NZEI Te Riu Roa.
+
+She is being made an Associate of NZEI Te Riu Roa, the country’s largest education union.  
+She is one of 12 education professionals being honoured by NZEI Te Riu Roa which has 44,700 members. They work as teachers and principals in primary schools. Teachers in early childhood education services. Support staff in early childhood education services, primary and secondary schools. Special education staff in early childhood education services, primary and secondary schools. And as school advisers.
+
+“This award is given in recognition of the commitment to education shown by Judy Hinton,” says NZEI Te Riu Roa National President, Colin Tarr. “It also acknowledges the work she has done on behalf of NZEI and her fellow members of the union.”
+
+Judy began her teaching career at Nayland Kindergarten in Stoke, near Nelson, 31 years ago. In 1975 she moved to Dunedin and taught at Bayfield and Kaikorai kindergartens. Two years later she moved to Alexandria to teach at the Terrace Kindergarten, where she is now head teacher. Last year she completed a degree in Early Childhood Education and is working towards a Post Graduate Diploma.
+
+Judy is the current president of NZEI’s Central Otago branch, a position she also held for two years from 1996. She has also served as secretary and vice president of the branch and been on the union’s Otago District Council for six years. Judy also supports NZEI members through the Member Support structures. She was previously active in the Kindergarten Teachers Association, before kindergarten teachers became part of NZEI Te Riu Roa in 1994.
+
+  
+AUCKLAND DEPUTY PRINCIPAL HONOURED
+
+Sara Rogers, the deputy principal of New Windsor School in the Auckland suburb of Avondale, is being honoured for her contribution to education and to NZEI Te Riu Roa.
+
+She is being made an Associate of NZEI Te Riu Roa, the country’s largest education union.  
+She is one of 12 education professionals being honoured by NZEI Te Riu Roa which has 44,700 members. They work as teachers and principals in primary schools. Teachers in early childhood education services. Support staff in early childhood services, primary and secondary schools. Special education staff in early childhood education services, primary and secondary schools. And school advisers.
+
+“This award is given in recognition of the commitment to education shown by  
+Sara Rogers,” says NZEI Te Riu Roa National President, Colin Tarr. “It also acknowledges the work she has done on behalf of NZEI and her fellow members of the union.”
+
+Sara has worked in education for 28 years. She is currently deputy principal at New Windsor, which is a large multi-cultural school in Avondale. She has also taught at Henderson North School, Lincoln Heights School and Grey Lynn School in Auckland.
+
+Sara is literacy leader for her school and is a former president of the Auckland Reading Association. She is currently an executive member and programme committee convenor for the association. Last year she helped organise a conference of the International Reading Recovery Institute in Auckland.
+
+Sara has been on the management committee of NZEI’s Auckland Branch for eight years and has been a representative at the union’s Annual Meeting for six years. Through her involvement with Membership Support Personnel she has given support to many members. She has also represented NZEI on Auckland College of Education selection panels for recruiting future teachers.
+
+  
+FORMER HUTT VALLEY TEACHER HONOURED
+
+Denise Cornford, who taught in the Hutt Valley and Wainuiomata for 25 years, is being honoured for her contribution to education and to NZEI Te Riu Roa.
+
+She is being made an Associate of NZEI Te Riu Roa, the country’s largest education union.  
+She is one of 12 education professionals being honoured by NZEI Te Riu Roa which has 44,700 members. They work as teachers and principals in primary schools. Teachers in early childhood education services. Support staff in early childhood education services, primary and secondary schools. Special education staff in early childhood education services, primary and secondary schools. And school advisers.
+
+“This award is given in recognition of the commitment to education shown by  
+Denise Cornford,” says NZEI Te Riu Roa National President, Colin Tarr. “It also acknowledges the work she has done on behalf of NZEI and her fellow members of the union.”
+
+Denise began her teaching career 28 years ago at Porirua Primary. A year later she moved to Tawa Primary before moving to Parkway Primary in Wainuiomata in 1980. She then taught at Eastern Hutt School and Wainuiomata Intermediate, before becoming a Resource Teacher (Learning and Behaviour) in the Hutt Valley in 1988, a position she held until this year.
+
+Denise has been active in the union as a worksite representative, a Membership Support counsellor, as president of the Hutt Valley branch, and as a Wellington District Council representative.
+
+  
+TARANAKI KINDERGARTEN TEACHER HONOURED
+
+Dawn Osman, a senior kindergarten teacher based in Taranaki is being honoured for her contribution to education and to NZEI Te Riu Roa.
+
+She is being made an Associate of NZEI Te Riu Roa, the country’s largest education union.  
+She is one of 12 education professionals being honoured by NZEI Te Riu Roa which has 44,700 members. They work as teachers and principals in primary schools. Teachers in early childhood education services. Support staff in early childhood education services, primary and secondary schools. Special education staff in early childhood education services, primary and secondary schools. And as school advisers.
+
+“This award is given in recognition of the commitment to education shown by Dawn Osman,” says NZEI Te Riu Roa National President, Colin Tarr. “It also acknowledges the work she has done on behalf of NZEI and her fellow members of the union.”
+
+Dawn has worked in education since 1983. She has taught at kindergartens in New Plymouth, Wanganui and Bulls before being appointed to her current position as a senior teacher with the South Taranaki Free Kindergarten Association based in Hawera. Senior teachers provide professional support to a number of kindergartens in the area in which they’re based. They monitor the teachers’ practice, carry out appraisals and provide professional development and advice.
+
+Dawn has been active in the union movement for 23 years, firstly in the Kindergarten Teachers’ Association, then in the Combined Early Childhood Union of Aotearoa, which amalgamated with NZEI Te Riu Roa in 1994. Dawn has served on NZEI Te Riu Roa’s National Executive, and has chaired the union’s early childhood national caucus.
+
+  
+FAR NORTH PRINCIPAL HONOURED
+
+Sandra Jenkins, the principal at Mangonui School at Doubtless Bay in the Far North,  
+is being honoured for her contribution to education and to NZEI Te Riu Roa.
+
+She is being made an Associate of NZEI Te Riu Roa, the country’s largest education union.  
+She is one of 12 education professionals being honoured by NZEI Te Riu Roa, which has 44,700 members. They work as teachers and principals in primary schools. Teachers in early childhood education services. Support staff in early childhood education services, primary and secondary schools. Special education staff in early childhood education services, primary and secondary schools. And as school advisers.
+
+“This award is given in recognition of the commitment to education shown by  
+Sandra Jenkins,” says NZEI Te Riu Roa National President, Colin Tarr. “It also acknowledges the work she has done on behalf of NZEI and her fellow members of the union.”
+
+Sandra has worked in education for more than 30 years. She has taught at schools in Napier and Auckland and worked as an advisor for the Education Board before being appointed principal of Ruakitiri School in Wairoa. She moved to Northland in 1987 to become principal at Kohukohu School at the northern end of Hokianga harbour. She took up her current position as principal at Mangonui School at Doubtless Bay eight years ago.
+
+Sandra has been a member of NZEI Te Riu Roa thoughout her career. She has held various offices in the Hokianga Branch, and on the union’s Tai Tokerau District Council, which she currently chairs. She has served on the NZEI Principals’ Council, is the North Island co-ordinator of the union’s Rural Teaching Principals’ Network and chairs the Far North Principals’ Association.
+
+  
+ROTORUA SCHOOL ADVISER HONOURED
+
+Winnie Emery, a Rotorua based school adviser, is being honoured for her contribution to education and to NZEI Te Riu Roa.
+
+She is being made an Associate of NZEI Te Riu Roa, the country’s largest education union.  
+She is one of 12 education professionals being honoured by NZEI Te Riu Roa which has 44,700 members. They work as teachers and principals in primary schools. Teachers in early childhood education services. Support staff in early childhood education services, primary and secondary schools. Special education staff in early childhood education services, primary and secondary schools. And school advisers.
+
+“This award is given in recognition of the commitment to education and in particular Maori education shown by Winnie Emery,” says NZEI Te Riu Roa National President, Colin Tarr. “It also acknowledges the work she has done on behalf of NZEI and her fellow members of the union.”
+
+Winnie Emery is an Adviser Maori employed by School Support Services Waikato. She is based in Rotorua and uses her expertise in Te Reo Maori to help primary teachers in the region who are teaching in Maori.
+
+She began her career in education 36 years ago as a classroom teacher at Whakarewarewa School and has also taught at Te Teko, Tawera, Whangamarino, Rotorua Primary and Rotoiti schools. She was appointed principal of Te Kura Kaupapa Maori o Rotoiti in 1995. Winnie has worked as an Adviser Maori since 1999 and has been involved in assisting Maori medium teachers to achieve full registration.
+
+Winnie has served on the National Executive of NZEI Te Riu Roa and on its national Maori body, Te Reo Areare. She has also been active at local level and represented the union at international conferences.
+
+  
+LOWER HUTT BASED PASIFIKA EDUCATOR HONOURED
+
+Caroline Mareko, the Ministry of Education’s Pasifika education co-ordinator for the Central South region, based in Lower Hutt, is being honoured for her contribution to education and to NZEI Te Riu Roa.
+
+She is being made an Associate of NZEI Te Riu Roa, the country’s largest education union.  
+She is one of 12 education professionals being honoured by NZEI Te Riu Roa which has 44,700 members. They work as teachers and principals in primary schools. Teachers in early childhood education services. Support staff in early childhood education services, primary and secondary schools. Special education staff in early childhood education services, primary and secondary schools. And school advisers.
+
+“This award is given in recognition of the commitment to education, and in particular Pasifika education, shown by Caroline Mareko,” says NZEI Te Riu Roa National President, Colin Tarr. “It also acknowledges the work she has done on behalf of NZEI and her fellow members of the union.”
+
+Caroline began her education career 18 years ago as a teacher at Waitangirua Intermediate School in Porirua and has worked at two other schools in the area. In 1995 she moved to Cannons Creek School then became assistant principal at Porirua East five years later. In 2004 she moved back to Cannons Creek to become deputy principal before taking up her current position with the Ministry of Education.
+
+Caroline has been involved in the union movement at a local, national and international level. She served on the NZEI Te Riu Roa National Executive for nearly 10 years and was instrumental in the establishment of Komiti Pasefika. This is the national body that supports and promotes the interests of NZEI’s Pasifika members. Caroline has also been active within the New Zealand Council of Trade Unions and has attended the biennial conference of the Council of Pacific Education (COPE) since 1996. She has also hosted visits by COPE scholarship recipients.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)
+
+Find more from [NZEI](https://info.scoop.co.nz/NZEI) on InfoPages.

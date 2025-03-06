@@ -1,0 +1,63 @@
+---
+slug: study-of-migrant-sex-workers
+title: "Study of migrant sex workers"
+date: 2018-10-10
+source-url: https://www.scoop.co.nz/stories/PO1810/S00136/study-of-migrant-sex-workers.htm
+author: university-of-otago
+---
+Study of migrant sex workers
+============================
+
+**Wednesday, 10 October 2018, 9:43 am**  
+**Press Release: [University of Otago](https://info.scoop.co.nz/University_of_Otago)**
+
+Wednesday, 10 October 2018
+
+**University of Otago, Christchurch releases first study of migrant sex workers**
+
+The majority of migrant sex workers in New Zealand who participated in new University of Otago research, are in safe employment situations and working to fund study or travel rather than being desperate, exploited or trafficked, the research shows.
+
+A small minority of non-English speaking sex workers interviewed as part of the University of Otago, Christchurch study were in vulnerable situations and exploited by disreputable brothel owners. This included non-payment of money or having passports withheld.
+
+Associate Professor Gillian Abel from the University of Otago, Christchurch led the Ministry of Business, Innovation and Enterprise-funded study, and says more research needs to be carried out to understand the experiences of the most vulnerable migrant sex workers in underground employment. Dr Michael Roguski of Kaitiaki Research and Evaluation worked with her on the study.
+
+They found the biggest stress for the majority of migrant sex workers surveyed was being reported to authorities and deported. This allowed unscrupulous people aware of their immigration situation to blackmail them and avoid being reported to police. New Zealand law (specifically Section 19 of the Prostitution Reform Act) prohibits migrants working in the sex industry, although it is legal for New Zealand citizens and residents to engage in sex work.
+
+All of the migrant sex workers surveyed, even the most vulnerable, came to New Zealand and engaged in sex work of their own choice rather than being trafficked.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Associate Professor Abel says consideration should be given to repealing Section 19 of the Prostitution Reform Act as it creates conditions in which exploitation can flourish. Exploitation could be addressed if migrant workers were more able to report disreputable brothel operaors and others to authorities without fear of deportation.
+
+She and Dr Roguski conducted in-depth interviews with 11 female migrant sex workers and nine people with a detailed understanding of them such as the New Zealand Prostitutes Collective and sexual health workers. The interviews took place in Auckland, Wellington and Christchurch. Sex workers from China, Britain, the United States, India, Germany, Singapore, Brazil and Vietnam took part.
+
+Associate Professor Abel says the majority of those interviewed chose sex work in brothels over lower paying minimum wage work to fund study or travel. They were not worried about their safety as a sex worker but knew their work was illegal and worried if they came to the attention of authorities they would be deported and this “black mark” would make travel to other countries difficult. This group had access to information, safe sex supplies and sexual health care through the New Zealand Prostitutes Collective.
+
+The most vulnerable workers in the study were non-Europeans, who did not speak fluent English, and worked in private situations or outside mainstream reputable brothels. Associate Professor Abel says those working privately had less support from colleagues or management. When they advertised their services online, advertisers required them to identify their nationality, making them feel more vulnerable their immigration status would be discovered.
+
+Non-English speaking workers were the least likely to know about and access health and welfare services offered by the New Zealand Prostitutes Collective. This group was also the most vulnerable to unscrupulous brothel owners and most likely to be subject to exploitation, including being forced to work long shifts, pay fines and bonds, having their passports withheld, being forced to offer unprotected sex, and being subjected to sexual violence by clients or brothel management. Because of the illegal status of their work, and language barriers, this group was unlikely to report maltreatment to the authorities.
+
+Associate Professor Abel says migrant sex workers need to have confidence they can report violence and exploitative practices to authorities without fear of deportation. More research needs to be carried out with the most vulnerable migrant sex workers in order to gain a better understanding of their experiences, she says.
+
+  
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Otago](https://info.scoop.co.nz/University_of_Otago) on InfoPages.

@@ -1,0 +1,81 @@
+---
+slug: armistice-day-and-the-legacy-of-wwi
+title: "Armistice Day and the legacy of WWI"
+date: 2018-11-05
+source-url: https://www.scoop.co.nz/stories/ED1811/S00007/armistice-day-and-the-legacy-of-wwi.htm
+author: massey-university
+---
+Armistice Day and the legacy of WWI
+===================================
+
+**Monday, 5 November 2018, 10:44 am**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+It was the worst disaster ever for New Zealand in terms of lives lost per capita, and for its legacy of suffering. An estimated nine million people – soldiers and citizens – in many countries and of numerous nationalities died. In a double whammy, an influenza pandemic claimed another eight million lives in the final two years.
+
+As we, along with other nations around the world, prepare to mark the centenary of the end of the First World War (1914-1918) on Armistice Day, November 11, war historian Professor Glyn Harper reflects on the impact of the so-called Great War.
+
+**1: What should we be most mindful of this November 11 in terms of the impact of WWI on this country?**
+
+The First World War was a very significant event. It shaped New Zealand as we know it and left a destructive legacy. Whole families were damaged or destroyed through grief and suffering. It was the most serious health challenge New Zealand faced. Several generations of New Zealanders have been affected and we need to be aware of this.
+
+**2: How many New Zealand soldiers were killed or wounded?**
+
+The generally accepted figure is just over 18,000 killed or died during the war with a further approximately 41,000 wounded. Current research with the Centenary History Programme indicates that these numbers are too low and probably need to be increased. One of the main reasons for this is that our figures do not include those who served with other countries’ forces in a military or medical capacity.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+**3: We focus a lot on Gallipoli as the most significant military campaign for New Zealand and the Anzacs. But are there other battles that have been overlooked in terms of lives lost?**
+
+Gallipoli tends to cast a long shadow over our collective memory of the First World War. There are certainly important battles that have definitely been overlooked. For example, the 1916 Battle of the Somme was New Zealand’s costliest battle of the war with more than 7500 casualties. During the centenary commemorations, this battle was barely mentioned. The Sinai Palestine campaign is all but forgotten too. Our bloodiest day of the war, 12 October 1917, was at Passchendaele, where 846 New Zealanders were killed in action, with a further 138 dying of wounds in the week that followed.
+
+**4: What was the estimated total number of casualties (army and civilian) for all participating nations?**
+
+The exact figures will never be known. However, I tend to use the London School of Economics historian Professor David Stevenson’s calculations. He cites the number of war dead as 9,450,000 and estimates that with civilian deaths included, as well as babies never conceived because of the war, the total population deficit in Europe between 1914 to 1921 may have exceeded 60 million. Then there are the many millions of wounded or psychologically damaged by the war to consider as well.
+
+**5: Could anyone at the time have imagined how widespread, protracted and devastating this war would be?**
+
+Very few people predicted that the war would be long and costly. Surprisingly Lord Horatio Kitchener (a famed war hero who was made British Secretary of State for War in 1914) was one of the few who did predict the length and cost of the war.
+
+**6: Why did it last as long as it did? And was there a point at which it came close to a different outcome?**
+
+The war lasted as long as it did because there had been such an advance in modern weaponry (machine guns, bolt action rifles, smokeless powder, heavy and medium artillery, barbed wire, aerial reconnaissance and food preservation technology), which made it far safer to defend ground than attack across it. The military tactics and doctrine of the time did not keep up with these vast improvements in weaponry. People did not know how to fight a modern war.  
+Few people realise that after defeating the Russians in the East and transferring the bulk of their forces to the Western Front that Germany came very close to winning the war in March 1918. With the entry of the Americans into the war in April 1917 this really did swing the balance against the Central Powers. (Germany, Austria Hungary, Ottoman Turkey and Bulgaria)
+
+**7: Who were the main players in brokering the Armistice and how difficult was it to achieve?**
+
+The Armistice was very tricky for the Germans who wanted the fighting to stop but without acknowledging that they had been defeated. The German delegates during the Armistice process had an impossible task to obtain favourable conditions from the Allies who were determined to resist this at all costs. The head of the German delegation, Matthias Erzberger, had the most difficult task for which he would pay with his life. Right wing extremists assassinated Erzberger in 1921 and they were not brought to justice for this for another 30 years. Field Marshal Ferdinand Foch (a French general and military theorist who was appointed Commander-in-Chief of the Allied Armies in March 1918) was the main Allied representative at the armistice negotiations.
+
+**8: Adolf Hitler fought in the First World War – how did it affect him in terms of becoming later becoming a German dictator, Nazi leader and instigator of WW II?**
+
+Hitler had joined the war effort immediately and it transformed his life. He was incensed at the terms of the armistice and the Treaty of Versailles and believed that Germany had been betrayed. According to Mein Kampf \[the title of the Nazi leader’s autobiography and political ideology\] it was the sense of betrayal and the myths of a stolen victory and stab in the back that persuaded him to enter politics.
+
+**9: What are some of the key legacies of WWI that we (in New Zealand and globally) continue to be affected by?**
+
+There are many legacies from that stem from the First World War but the most obvious is the conditions in the Middle East including the problems in Syria, Palestine/Israel and Saudi Arabia. These are all legacies of the collapse of the Ottoman Empire, which came about because of the First World War. We still live with these problems 100 years later.
+
+**10\. What drew you to want to research and write about WWI and what are you working on now. Is there still more to be studied and understood?**
+
+I have always had an interest in military history and, to me, the First World War was one of the most significant military conflicts that had every occurred. I have been working in this field for 18 years but the book I am writing now, For King and Other Countries, as part of the Centenary History Project will probably be the last I write on the subject. I want to focus more on the Second World War now and am about to start on a book of images of New Zealand and the Second World War.
+
+_Professor Harper, one of the country’s foremost military historians, is the author of more than 20 books. He is the project manager of the Centenary History Programme, a partnership between Massey University, the Ministry for Culture and Heritage, and the New Zealand Defence Force. It has produced 14 volumes that form the first complete and detailed account of New Zealand’s First World War experience. He is co-author of a paper just published in the Australian and New Zealand Journal of Public Health, titled: The health impacts of the First World War on New Zealand: a summary and a remaining research agenda._
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

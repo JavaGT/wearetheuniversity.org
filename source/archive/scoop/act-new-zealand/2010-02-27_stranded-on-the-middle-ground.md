@@ -1,0 +1,144 @@
+---
+slug: stranded-on-the-middle-ground
+title: "Stranded on the Middle Ground?"
+date: 2010-02-27
+source-url: https://www.scoop.co.nz/stories/PA1002/S00396/stranded-on-the-middle-ground.htm
+author: act-new-zealand
+---
+Stranded on the Middle Ground?
+==============================
+
+**Saturday, 27 February 2010, 1:30 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+**Stranded on the Middle Ground?**
+
+  
+_**Speech by Hon Sir Roger Douglas, ACT New Zealand  
+ACT National Conference; Wellington College, Dufferin Street, Wellington; Friday, February 26 2010**_
+
+National has now been in Government for over a year, and I believe it is fair to start passing judgement. Before the last election, many Labour and Green voters believed that National had a secret agenda to slash the size and scope of the state, deliver massive tax cuts, and sell off the businesses that Labour think they are so great at running.
+
+Today, these people should be able to sleep easy at night. National is now spending more as a percentage of GDP than Labour ever did in their nine years. Proposed tax cuts will be funded not through reducing Government expenditure, but by increasing other taxes. No state businesses will be sold off. The most courageous initiative so far seems to be the idea of mining some small sections of national parks. Any royalties or other money earned through this process will go to Government, probably increasing the level of state spending, rather than being used to reduce taxes.
+
+New Zealand is stranded on the middle ground. Labour continue to argue for higher levels of Government expenditure, new and extravagant social programmes and, in the midst of the recession, were even calling for full-blown central planning in order to “create jobs.” National continue to respond to Labour's agenda setting – justifying their continual erosion to the left as a form of pragmatic centrism. If National's role in modern day politics is merely to slow the growth of the state, the end point is clear – bigger Government, more interference in the lives of ordinary people, and higher taxes.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The process of oscillation between Labour and National has left the nation stranded on the middle ground – a messy contradiction where we profess a belief that the individual should be free, and then proceed to steal 40 percent of their income through a multitude of taxes.
+
+In 2008 the ACT Party, for the first time ever in our brief history, formed part of a Government. Since then, I believe that we have achieved an awful lot. Rodney is working hard to restrain the growth of regulation, as well as negotiate a possible cap on Government expenditure. Heather has been a reliable Minister with a heavy workload in defence and consumer affairs, and also did a wonderful job chairing the Inter Party Working Group on Education, which I was part of. John Boscawen is the hardest working MP in New Zealand. He has done the heavy lifting on the Emissions Trading Scheme, on Local Government reform, at the same time as running campaigns against the smacking law and against corrupt finance companies. David Garrett has steered his three strikes policy into law, and has also dealt with a heavy workload in justice and law and order.
+
+I have had some limited success with the Voluntary Student Membership Bill, and this week my Bill – which would reintroduce youth rates – was drawn from the ballot.
+
+However, ACT is also in real danger. The successes that we have had in Government have not been reflected in the polls or other measures of support for the party, such as membership. This is not new territory for the ACT Party, but it is certainly a place in which we would rather not be.
+
+Tonight, I want to talk about the future of the ACT Party, and kick off a debate that I believe is sorely needed within the party. I don’t claim to have all the answers – indeed, some of what I say may be wrong. However, we need to engage in an internal debate to figure out what we are doing wrong, and how we can do it better.
+
+I talked before about how New Zealand was stranded in the middle ground – that Labour are willing to massively expand the size and scope of the state, and National's willingness to move to the centre rather than fight it is seeing us move in the direction of ever-bigger Government. I also believe that ACT is at serious risk of being stranded in the middle ground.
+
+What do I mean? Some believe that ACT's role is to be to the right of National – that our role is to deliver stable right-of-centre Government. But if National are essentially willing to move to the centre to win votes, then we are defining ourselves in reference to a moving target. Defining ourselves in that way will see us sacrificing our principles to follow National blindly as it convulses around the political spectrum trying to hoover up votes.
+
+Moreover, if we say that we are to the right of National, then we are essentially powerless. Will National really believe that we won't support them? Our support can and will be taken for granted, leaving us in the position of supporting a party and policies that our principles tell us not to.  
+  
+**The Key is Differentiation**
+
+What I believe ACT needs to do is not aim for the middle ground – as Labour and National do – nor define ourselves by reference to other political parties. Instead, we need to aim for the common ground.
+
+What is the common ground? The common ground is what we all know to be true about the state. The state spends an enormous amount on healthcare, and yet many are not healthy. The state showers the educational institutions with cash, and yet many are uneducated. The state hands out welfare wherever it sees poverty, and yet many lack genuine well being and security. This is the common ground because it is something that we all know to be true – something that is verifiable by fact.
+
+When we are aiming at the common ground, we realise that we share the same aims and goals of pretty much all major political parties. Labour and National both know that there are enormous problems in the areas of social policy. Somehow, however, they have convinced themselves that minor tinkering will deliver massive improvements in output. Labour honestly believe that Annette King is a much better central planner than Tony Ryall, and National believe the reverse. The big difference between those parties and ACT is the means we use to solve the problems in health, education, and welfare.
+
+When ACT had real momentum in terms of membership, but also day to day commitment, we considered ourselves – and were considered by others – to be different from the rest. We were the party of ideas, with our own slice of the political spectrum. There was National, Labour, the Greens, NZFirst, all of whom wanted to spend your money and tell you where to line up for health, education, and welfare. Amongst them, there were only differences at the margin. Then there was ACT, and we believed that New Zealanders could spend their own money better than any politician or bureaucrat.
+
+This different world view had radical implications for policy. When Labour supported funding health through the Ministry, and National was advocating an independent health funding authority, the only real opposition to the concept of socialised healthcare was the ACT Party. The implications of devolving funding to individuals who would purchase insurance and meet day to day costs out of pocket were massive. Health providers would suddenly be competing, individuals would now control their own money and would have greater choice.
+
+Today, some in ACT have either lost sight of that original message, or have allowed it to become so blurred that, for all intents and purposes, they consider us a faction of the National Party. We have lost sight of what makes us different.
+
+Some may say that I’m wrong – that the public understand the ACT Party perfectly well. The public knows our policies, but they just do not like our policies. People who believe this tend to believe that the only reason we are in Parliament is because National voters think we are necessary for National to govern.
+
+The lesson some take from this is that there’s no real point trying to sell our policy
+
+– we need to market ourselves as the key to National being in Government.  
+No political party will be successful if it adopts the position of not advocating its policies. It may well be true that the public does not support, for example, education vouchers. But that’s not a reason not to advocate them – in fact, it’s a reason to convince the public of the merit of vouchers.
+
+If we continue to see ourselves as an appendix to the National Party, then we will be incapable of ever having more than, say, 5 or 6 MPs. The National Party is essentially a conservative party. They adopt the status quo and try to manage it better. The idea that we should preserve the massive state apparatus, despite the enormous harm that it is causing, is an idea with which all in ACT should feel uncomfortable.
+
+To differentiate ourselves, we need to focus on the areas that most affect people – tax, health, welfare, and education. The overwhelming amount of Government expenditure occurs in those three areas, and any dollar Government spends is a dollar they must first tax. There can be no substantial reduction in the tax burden unless we address those areas.
+
+Our position
+
+The ACT Party should always start with principle. This is what makes us different. Unlike National and Labour, our policies are not formed out of the musings of a randomly selected focus group. We start with principles.  
+On particular occasions, it will be necessary to modify a policy position in order to create policies that have the potential to be passed, but we should never start from that position.
+
+A good example is minimum wages. It is pretty obvious if you think about it for two seconds that minimum wages create unemployment, harming those that they are intended to help. While there are a few rogue studies to the contrary, this is the overwhelming evidence from the body of expert opinion and analysis. That's the principle. But there's no way anyone else is going to support that. So we can, in the short term, reduce the harm of minimum wages by reintroducing a lower minimum wage for those with few skills and little experience.
+
+However, if you start from a position of asking what is possible, you actually avoid engaging the public on the most important issues. You will never convince anyone, because you are already going down the path of accepting public sentiment as out of your control. And if you believe public sentiment is set in stone, then you are really undertaking the process that Labour and National have done in recent years – a rush to the centre in order to gain control of the state apparatus.
+
+Some may rightly point out that the policies we support today are largely the same as the policies we supported in 1996. That may well be true – but what has changed is the way we present them to the public.
+
+That's the problem now – that ACT sometimes thinks tactically, not strategically. Equally, we allow the socialists in National and Labour to set the agenda, while we respond in isolated ways to the issues they raise. We are constantly involved in minor battles, while the philosophical war is lost to those who support more and more centralised power. Is there really much gain, for example, if we get some competition in ACC, while the public oppose such a measure, when we need far more radical reform, and need to take the public with us?  
+  
+**Bootleggers and Baptists**
+
+We need to stress that we do not disagree with the goals of most other political parties. We too have soft hearts. The difference is, we have not let that softness spread to our heads. We can be caring, but also think critically about policies. The policies that are implemented to alleviate poverty or help those who are least well off often have the unintended consequences. More often than not, those policies harm those that they are intended to help.  
+Behind almost every law, there is a bootlegger and a baptist. Let's take minimum wages. The baptist is the guy who supports the policy out of the goodness of his heart – he genuinely wants to help out those on low incomes. The bootlegger is the person who stands to gain from the policy. In the case of minimum wages, there are two kinds of bootleggers. The first is employers who pay above the minimum wage, but compete against those who pay the minimum wage. A higher minimum wage may drive their competitors out of business. In other words, they support minimum wages because they are anti-competitive.
+
+The other bootlegger is the unions, which are often trying to stop low wage competition with their labour. The workers who most benefit from minimum wages are those with skills – they were already earning more than minimum wage, but no longer have to compete against those with low skills who could get a job at a much lower wage. In other words, unions are interested in their own workers, not the ones who lose jobs from minimum wages or don’t get offered jobs in the first place, because their productive value to the employer is below the minimum wage.
+
+These laws are all around us. The recent discussion of making it harder to become a lawyer will benefit all those people who are already lawyers – there will be less competition. Moves for safety regulation in taxis are a way to drive out part-time taxi drivers who do not want to equip their cars with complex security gear. Many laws that seem innocuous are often driven by bootleggers, who use the baptists as their cover.
+
+ACT is different because we believe that intending to do good is not enough – we actually look at the effect of policies. Only ACT stands up against the harm that is perpetrated against the least well off by the State. And only ACT would implement policies which help the average New Zealander.  
+  
+**Our Beliefs**
+
+New Zealand has many social ills – and they cannot be solved unless we have an economy that can deliver the wherewithal to solve them.  
+There are seven factors that lay the groundwork for economic growth, and New Zealand does well on only two of them. We have an essentially stable monetary regime, and we largely support a policy of free trade.
+
+The other five let us down. We need competitive markets to keep the cost of goods and services low and force businesses to respond to consumer demand. Private enterprise is a necessary element of competition, because without it you create state privilege. Private enterprise and competition drives efficient use of resources. Regulation needs to be minimal in order to allow private enterprise to exploit opportunities. When you have those four components, they deliver low taxes.
+
+We believe in private enterprise, low tax, competitive markets, and better use of resources. We should not be ashamed of these beliefs – they are necessary in order to help the least well off.  
+  
+**Let's look at concrete examples**.
+
+We need the public to ask the following question: why do we keep voting for the socialists in Labour and National, who give us about $230 a week in our retirement, whereas we could vote for the ACT Party, whose system of individualised accounts would see most people retire with over $1 million in the bank? The current deal is even worse for those with low life expectancy – like Maori and Pacific Islanders,
+
+Let's look at education. The Government administers a system which sees 20 percent of Maori leave without any formal qualification. Overall, the education system is failing about 150,000 kids. And apparently, making those kids meaningful in the system by forcing schools to compete for them, is radical. It's far more radical to give schools money and hope like hell that they educate the kids there. We know incentives work, so it surely is radical to pretend otherwise. It is radical to suggest that teachers should not be paid based on their performance – we know that if we did that in any other workplace, performance would decline.
+
+Let's look at minimum wages. Many of those who leave school with no skills go out to find a job. But, currently, the Government bans employers from employing someone who does not produce more than $12.75 an hour. They say it's because they care. And yet, those who do not produce that much value end up on the unemployment benefit – a benefit that pays $3 an hour.
+
+So, the Government stops someone from voluntarily working for $400 a week, and therefore forces them to earn $120 a week. How ruthless – how heartless.  
+Let's look at the proposed GST rise. Now, I don't buy into the rubbish that suggests GST is regressive – all the data shows that it is proportional. Regardless, it is unnecessary to increase GST.
+
+It is estimated that GST will raise 2.2 billion. Then there’s automatic benefit changes, reducing it to $1.9 billion. After any compensation for those on low incomes – probably through Working for Families - we're down to around $1 billion. Now, $1 billion represents less than 1.5 percent of expenditure. Is National really claiming it can't find that much to cut? Nonsense. As Milton Friedman once said, “if you choose any three letters of the alphabet randomly, put them in any order you want, you will have an acronym denoting a Government agency which we do not need.”  
+  
+**Conclusion**
+
+I just want to make a few concluding remarks.  
+First, politicians exist in a market just like any one who sells something. We sell ideas. People buy what they want. If we dedicate ourselves towards tactical wins through our relationship with National, we will go out of business unless we also dedicate ourselves to convincing voters that our ideas have merit. That is our most important role. That role cannot be left to the 5 MPs.
+
+Second, I also want to stress that the ideas I have for how to advance the ACT Party cause can no doubt be improved – but that is precisely why we need to have an open exchange of ideas and debate, rather than ignoring the reality. I believe that we need to sell ourselves better – we need a change of focus. I have outlined what I think we need to do. I am happy for my ideas to be critiqued and developed. I will be disappointed if once again we put off debating the key issues because we are worried about offending a few people.
+
+Third, it seems to me that the electorate is willing to hear what we have to say. After nine years of Labour and now one year of National, it is time to differentiate between sound economics and nonsense spouted by other parties. That means taking the message to the streets to the streets.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

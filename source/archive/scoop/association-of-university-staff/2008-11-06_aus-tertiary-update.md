@@ -1,0 +1,122 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2008-11-06
+source-url: https://www.scoop.co.nz/stories/ED0811/S00012/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 6 November 2008, 8:50 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+National policy set to undermine public tertiary education  
+The National party appears intent on undermining the planned provision of public tertiary education, with an announcement today that, if elected to government, it will provide at least $6 million in capital funding to a South Auckland education centre to establish a trades’ academy. According to National party leader John Key, it will be one of at least five trades’ academies that National will establish in the next three years.  
+The announcement follows earlier suggestions by the National party’s tertiary-education spokesperson, Dr Paul Hutchison, that public and private tertiary-education providers should compete for funding to run the same or similar courses.  
+Both the Association of University Staff and Association of Staff in Tertiary Education (ASTE) have slammed this week’s announcement, saying that it shows that the National party is on an ideological course to return the tertiary-education sector to a free-for-all competitive environment.  
+AUS acting general secretary, Nanette Cormack, says that, while it is important that high-quality trades’ training is provided, it needs to be delivered as part of a cohesive package of tertiary education through the many public tertiary-education institutes that already exist throughout the country.  
+ASTE national secretary, Sharn Riggs, said that considerable time and effort had been spent over the last few years developing a tertiary-education strategy that is responsive to the economic and social goals and needs of the country, and ensuring that the component parts of the sector complement rather than unnecessarily compete against each other. “Mr Key clearly wants to return to the uncontrolled and deregulated practices of the past and, as such, illustrates that the National party cares more about its private-sector friends than in the quality and relevance of tertiary education,” she said.  
+AUS and ASTE have produced an election guide to tertiary-education policies for the forthcoming general election. The guide summarises the positions of the Act, Green, Labour, Māori, National, NZ First, Progressive, and United Future parties. It is available only to members of the two unions from local AUS and ASTE branches.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. National says it will improve tertiary education  
+2\. Massey a “defining university”?  
+3\. Students critical of “National’s surrender”  
+4\. New Zealand’s first associate dean Pasifika  
+5\. Another blow to privatisation  
+6\. Four-university postgraduate programme in Europe  
+7\. Academic divide linked to divorce  
+8\. Academic liberalism not contagious  
+9\. Nietzsche ist tot
+
+National says it will improve tertiary education  
+National party tertiary-education spokesperson Paul Hutchison said in a press release yesterday that, over the past nine years, Labour’s approach to tertiary education has lurched from allowing uncontrolled funding and arbitrary growth in low-quality courses, through to heavy-handed centrally driven control. “National will seek a better balance between, on the one hand, freeing up education providers to innovate and respond to economic and community demand and, on the other, ensuring the government has certainty about overall levels of spending,” he is quoted as saying.  
+Mr Hutchison added that National will ensure, through clear funding signals and spending controls, that providers of education and training are encouraged to offer the courses the economy needs and that students want, not the cheapest courses that attract the most government funding and are the easiest to run. It will also retain restrictions on the amount by which institutions are able to annually increase fees for publicly funded courses.  
+Arguing that the Tertiary Education Commission (TEC) has grown into a large and demanding agency that places an excessive compliance burden on education providers and stifles innovation, Mr Hutchison said that National will clarify the role of the TEC, trim its bureaucracy, and streamline its functions and ensure that information collected by the government about the quality of publicly funded tertiary courses is made readily available to the public. This will include, for example, completion and retention rates.  
+Mr Hutchison added that National will target specialties and qualifications of which the country is in need and repeated National’s commitment to retain interest-free student loans, CPI indexation of loans for living costs, and the introduction of a 10 percent repayment bonus for graduates who make voluntary repayments.
+
+Massey a “defining university”?  
+Arguments between Auckland and Otago as to which is New Zealand’s leading university may be a thing of the past if a new development at Massey is anything to go by. At his recent welcome to the university’s Wellington campus at Kuratini marae, new vice-chancellor Steve Maharey advanced the idea of Massey as “New Zealand’s defining university”.  
+As an indication of what such a role may entail, Mr Maharey explained, “By 2020 \[Massey\] will be known as a university that embraces change, is ambitious, with a Massey-first attitude, innovative, a New Zealand style, looks for opportunities, works collegially and has autonomy to be its own boss.”  
+He suggested that it is Massey’s multi-campus character, with sites at Albany, Palmerston North, and Wellington, that makes it uniquely placed to make an impression nationally. “It’s the only one which qualifies as a multi-campus, and that makes it a New Zealand university,” he said.  
+In welcoming Mr Maharey to the Wellington campus, Massey chancellor Nigel Gould described the university council’s decision to appoint Mr Maharey as relatively easy. “He showed clear strengths and passion, and over his almost twelve-month induction has had the energy and capability to look at developing a strong strategic base,” he added.  
+Questioned as to his role as vice-chancellor on the national stage, Mr Maharey declared that his former perspectives a a tertiary-education minister would not inhibit his support for his fellow vice-chancellors in securing more funding for the tertiary-education sector. “Would I be as critical?” he asked. “Yes. I work for a university now. They don’t expect me to just sit back and keep the peace.”
+
+Students critical of “National’s surrender”  
+Auckland students are highly critical of what they describe as “National’s surrender” on student support this week. The criticism comes in response to National saying that it is unlikely to make an announcement about its student-allowances policy before the election, instead hinting at changes in the 2009 Budget if elected.  
+“National party spokespeople have repeatedly stated to students at various debates over the past year that National’s tertiary-education policies were yet to be finalised and would be announced closer to the election,” said David Do, president of the Auckland University Students’ Association (AUSA). “In response to Labour’s universal-allowance announcement three weeks ago, National said they would announce a more generous scheme but that it won’t be universal,” Mr Do said.  
+“This announcement shows their past statements to be disingenuous and reveals a policy vacuum in this economically and socially significant policy area. Political parties are supposed to bring their policies to the electorate before polling day, not make them up afterwards. This is simply unacceptable,” Mr Do added.  
+“On the issue of tertiary education, National appears bereft of ideas: delivering nothing to address students’ financial situations, and nothing to address underfunding of universities and polytechnics,” Mr Do continued.  
+AUSA is worried about what National might do to tertiary education if it is elected. “In the 1990 election, Lockwood Smith promised to resign if National did not abolish tertiary-education fees if elected to office. Neither occurred. Can National really be trusted on tertiary education?” Mr Do asked. “AUSA calls on the National party to be transparent with the public and release its tertiary-education policy before the election,” Mr Do concluded.
+
+New Zealand’s first associate dean Pasifika  
+In what it believes is a first for New Zealand, the University of Auckland has appointed Dr Meaola Amituanai-Toloa to the position of associate dean Pasifika in its faculty of education. Although other tertiary institutions have appointed associate deans to focus on Māori and equity issues, the university says, an equivalent position dedicated to the academic support and achievements of Pacific Island students has not previously existed.  
+The appointment is said to be an integral part of the university’s dedication to improving educational outcomes and opportunities for Pacific peoples. It also reflects the leadership role played by the faculty of education (formerly the Auckland College of Education), which boasts the first Pasifika early-childhood education programme at diploma and degree level; the first graduate-studies programme and qualification in Pacific-languages education and in Pacific bilingual education; and the first Pacific-focused services for academic achievement. The faculty also has the largest team of Pacific education academics in New Zealand.  
+Dr Amituanai-Toloa says that she sees her role as a bridge that connects the myriad of schools in the faculty of education, all of which aim to help future teachers raise student achievement. She believes that, given the growing diversity of the school population in New Zealand, it is increasingly important to research the best ways to teach students from different ethnic backgrounds, especially Pacific students.  
+“The Pacific Island population is increasing in New Zealand. Our greatest challenge is to think about teaching in innovative ways to enable these students of today to realise their full potential and participate fully in our country’s future. It is a huge undertaking and, in the establishment of this role, the University of Auckland has shown it is committed to the challenge,” says Dr Amituanai-Toloa.
+
+World Watch  
+Another blow to privatisation  
+Staff and students at Britain’s Goldsmiths College have issued a resounding rejection of proposals to privatise the recruitment and teaching of international students through INTO University Partnerships, a private company which offers English language courses and international student management. In an online poll hosted by the University and College Union (UCU), staff and students were asked what effect they thought a joint venture would have on the academic reputation of the college.  
+A total of 764 staff and students at Goldsmiths participated with 720, or 94 percent, of those voting saying a joint venture with INTO would adversely affect its academic reputation and 702, or 92 percent, saying they thought it would adversely affect the college’s reputation as an employer. The online poll formed part of the campaign by Goldsmiths United Against INTO, uniting staff and students’ unions on the campus against the threatened privatisation.  
+A similar poll at Essex University, in which 90 percent of voting staff said that the university would be damaged by a joint venture with INTO, led to that university announcing that they would not be proceeding with a joint venture. An earlier UCU campaign at Oxford Brookes also led to the withdrawal of that university from negotiations with INTO.  
+Commenting on the result at Goldsmiths, UCU general secretary Sally Hunt said, “This result shows that whenever and wherever university staff are asked they are overwhelmingly against these joint ventures which privatise academic departments and reduce staff working conditions. Goldsmiths is a special place with a unique ethos and I hope that the warden will listen to the college community and join the growing number of universities to reject privatisation,” Ms Hunt concluded.
+
+Four-university postgraduate programme in Europe  
+A new postgraduate course on European civilisation has been established by four of the oldest and most traditional universities across Europe. The aim is to give students the opportunity to approach the subject from a multicultural standpoint within an overall international co-operation programme.  
+The four universities participating are the Aristotle University of Thessaloniki in Greece, the University of Bologna in Italy, the Université de Haute-Alsace, Mulhouse, and the Université Marc Bloch, Strasbourg, in France. The agreement on academic co-operation was signed at the University of Bologna last month by the four university rectors.  
+The new, two-year postgraduate programme will be taught in the Greek, Italian, and French languages. Students will attend classes in either two or three universities, giving them the opportunity to acquire double or triple special qualifications.  
+“It is with a great deal of satisfaction that the Aristotle University of Thessaloniki is co-operating academically with three of the oldest and more traditional universities of Europe in a common postgraduate programme whose basis is the European civilisation and the European approach to philosophy, life, and generally social attitudes,” said Professor Anastasios Manthos, rector of Aristotle University. “It is a co-operation which confers added value to research activities and that has a far greater importance because these activities concern the whole of the humanities, the sciences, and European civilisation.”  
+It is believed that the initiative of these four universities may open the way for similar programmes and study schemes in other areas of higher education by other universities in the future.  
+From Makki Marseilles in University World News
+
+Academic divide linked to divorce  
+Women with tertiary education who choose men who have not finished high school as partners are ten times more likely to separate or get divorced than women whose education is less than or equal to that of their partners. The finding is contained in a new study by researchers at the Australian National University commissioned by the federal government, which looks at the factors behind the break-up of Australian families with children.  
+“Compared to couples in which partners had similar levels of educational qualifications, those couples in which women reported tertiary-education qualifications and men reported not completing high school had a tenfold greater risk of divorce/separation,” the report says. “This may reflect two factors. Firstly, women’s educational attainment may be a proxy for financial independence and, thus, the opportunity for women to support themselves outside of the marriage. This removes a potential barrier to divorce or separation.”  
+“Secondly, these couples may experience greater conflict or dissatisfaction within the relationship, perhaps associated with the fact that they are not fulfilling the traditional gendered roles within marriage,” the report continues.  
+The analysis found couples with the opposite pattern of educational attainment, where men had the tertiary qualifications and women did not complete high school, did not demonstrate an increased risk of subsequent marital instability and, if anything, showed greater than average stability. The lowest rate of separation was found among couples where both partners reported tertiary qualifications.  
+The study also found there was no association between alcohol consumption and relationship instability. But couples in which women were smokers, regardless of whether the male partner smoked, were at increased risk of divorce or separation. “We consider that this reflects the effectiveness of women’s smoking as a marker of social and economic disadvantage and adversity,” the report says.  
+From Patricia Karvelas in the Australian
+
+Academic liberalism not contagious  
+An article of faith among conservative critics of US universities has been that liberal professors politically indoctrinate their students. This conviction has led state lawmakers to consider requiring colleges to submit reports to the government detailing their progress in ensuring “intellectual diversity”, prompting universities to establish faculty positions devoted to conservatism, and spurring the creation of a network of volunteer watchdogs to monitor “political correctness” on campuses.  
+Just a few weeks ago, Michael Barone, a fellow at the conservative American Enterprise Institute, warned in the Washington Times against “the liberal thugocracy,” arguing that today’s liberals seem to be taking “marching orders” from “college and university campuses.” A handful of new studies, however, have found such worries to be overwrought. A variety of researchers have recently concluded that academics have virtually no impact on the political views and ideology of their students.  
+If there has been a conspiracy among liberal faculty members to influence students, “they’ve done a pretty bad job”, said A Lee Fritschler, a professor of public policy at George Mason University and author of Closed Minds? Politics and Ideology in American Universities. The notion that students are induced to move leftward “is a fantasy”, said Jeremy D Mayer, another of the book’s authors. “Parents and family are the most important influence”, followed by the news media and peers, he said. “Professors are among the least influential.”  
+A study of nearly 7,000 students at 38 institutions published in the current PS: Political Science and Politics, the journal of the American Political Science Association, as well as a second study that has been accepted by the journal to run in April 2009, both reach similar conclusions. “There is no evidence that an instructor’s views instigate political change among students,” Matthew Woessner and April Kelly-Woessner write in that second study.  
+From Patricia Cohen in the New York Times
+
+Nietzsche ist tot  
+At Temple College, a community college in Texas, Friedrich Nietzsche’s celebrated words from Die fröhliche Wissenschaft, “Gott ist tot” (God is dead), have been barred from a lecturer’s office door. While the college says that to leave the phrase up would offend others and constitute and endorsement of the phrase, the professor and others see a double standard in place, and a violation of academic freedom.  
+Kerry Laird, a literature and composition lecturer who does not have tenure, is in his first year at Temple. He said that, as a student and instructor, he always enjoyed the way academics use their office doors to reveal bits of their personality and to challenge students with cartoons, artwork, and various phrases.  
+After receiving a complaint about a cartoon with a caption containing an indecency on his door, he turned to Nietzsche and, striving to challenge while being more subtle, he used only the German version of the quote, not the English translation. “I didn’t want to be too blunt,” he said. But he was quickly told that Mark A Smith, interim vice-president of educational services, had ordered the saying removed. And Dr Laird said he had no choice in the matter.  
+Professor Smith outlined his views in an e-mail message he sent to a student who complained about the quote’s removal. “Temple College as a public institution cannot be represented as showing preference toward any religious philosophy/perspective or toward the opposite, being atheism. The same practice goes for politics. The decision to have the quote removed was that the quote can be considered very controversial and offensive to others. In fact, other people have already expressed that the wording is offensive!” he wrote.  
+From Scott Jaschik in Inside Higher Ed
+
+More international news  
+More international news can be found on University World News:  
+http://www.universityworldnews.com
+
+AUS Tertiary Update is published weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct inquiries should be made to the editor, email: editor@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

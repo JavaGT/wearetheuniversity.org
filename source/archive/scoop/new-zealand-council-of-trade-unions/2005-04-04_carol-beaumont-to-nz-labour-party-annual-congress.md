@@ -1,0 +1,170 @@
+---
+slug: carol-beaumont-to-nz-labour-party-annual-congress
+title: "Carol Beaumont to NZ Labour Party Annual Congress"
+date: 2005-04-04
+source-url: https://www.scoop.co.nz/stories/PO0504/S00031/carol-beaumont-to-nz-labour-party-annual-congress.htm
+author: new-zealand-council-of-trade-unions
+---
+Carol Beaumont to NZ Labour Party Annual Congress
+=================================================
+
+**Monday, 4 April 2005, 10:16 am**  
+**Speech: [New Zealand Council of Trade Unions](https://info.scoop.co.nz/New_Zealand_Council_of_Trade_Unions)**
+
+11AM, SUNDAY, APRIL 3, 2005
+
+Speech of CTU Secretary, Carol Beaumont to NZ Labour Party Annual Congress 2005
+
+Tena Kotou katoa.
+
+It is a great pleasure and honour for me to be able to convey very warm greetings from the Council of Trade Unions. In particular let me convey greetings from our President Ross Wilson and our Vice President Helen Kelly who are in China. Ross was allowed in this time! These annual opportunities to address key activists within the Labour Party provide a welcome chance to reflect on our common issues and shared vision and the progress we are making.
+
+In 1999 when a Labour led government was elected we saw there was a critical need to rebuild after the devastation of the previous decade. In identifying what was needed for working people, our families and communities the CTU clearly saw the need to rebuild a strong union movement so we could effect change both politically and industrially. We also saw the need to support the rebuilding of the state both in terms of public services in the widest sense but also as an active involved government.
+
+We saw too that the union movement alongside business had a role to play at all levels of decision making. This agenda has been one we have refined but largely maintained since that time. Much has been achieved since 1999
+
+In the first of our election campaign leaflets this year we remind working people that the Government since 1999 has bought in the following:
+
+\- fairer employment law
+
+\- paid parental leave
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+\- four weeks' annual leave
+
+\- increases to the minimum wage each year
+
+\- a publicly funded ACC scheme
+
+\- penal rates for public holidays
+
+\- improved health and safety laws
+
+\- increased superannuation payments and the creation of a superannuation fund
+
+\- modern apprenticeships
+
+\- unemployment at record low levels
+
+\- income-related rent for low income families
+
+Clearly there are many more successes we have campaigned for and this Government has delivered. I would like to acknowledge the lead that the Government has played as employer in respect of some high profile wage settlements, in actively establishing processes to engage with their workforce and establishing the new state sector retirement scheme.
+
+But it is not just about changing laws and entitlements. We have promoted, as has the government, an active approach to social and economic development. We have committed ourselves to working in partnerships and promoting change that will lead to greater prosperity for all New Zealanders. As Helen stressed yesterday this is our shared vision. We constantly talk about the need for a highly productive, highly skilled and high waged workforce. But we do more than talk. We have deliberately and actively worked for and with government initiatives that are about promoting prosperity for New Zealanders. Some examples are - the Workplace Productivity Agenda; the Growth and Innovation Advisory Board; the skillnz strategy, the Food and Beverage Sector Taskforce, governance of Industry Training Organisations, and the recent Hui Taumata.
+
+Why do we put such a premium on the involvement of unions in these initiatives?
+
+Because we believe the purpose of economic and social life can not be just to play host to successful business. The maximisation of shareholder value and the single-minded pursuit of economic efficiency must not become ends in themselves. Other human values - the need to sustain families, to treat all women and men (of whatever race) equally, to safeguard the environment, and to foster creativity, dignity and fairness in the workplace - also require expression. These are surely the end to which successful business is but the means.
+
+NZs economic performance has been consistently strengthening under this government. One very real indicator of solid growth is the world leadership we have in levels of employment. We have the lowest level of unemployment in the OECD.
+
+The CTU is now calling for working people to receive a greater share of economic prosperity. There is a real need to lift wage levels in NZ. The gaps between rich and poor that grew hugely during the 1990s are unacceptable. The CTU and the Government have a common vision about a fair share.
+
+As is the case in a number of areas the differences between us are about the extent and pace of change. We acknowledge what has been done, for example the increasing of the minimum wage by 36% since 1999. But we are still a low wage economy.
+
+The sluggish wage growth in light of significant and persistent skills shortages is a paradox explained primarily by low levels of collective bargaining caused in part by the low level of union membership particularly in the private sector. We expect there will be improvements that occur as a result of amendments to the Employment Relations Act that strengthen good faith and provide additional ways of dealing with deliberate attempts to undermine both union membership and collective bargaining. We also recognise our own responsibility to unionise workers and have actively focussed our efforts - with some success. There are 13% or 34,200 more union members now than in 1999.
+
+A low wage economy means there is still too little investment in the workforce in terms of skill development and too little capital investment in many parts of the economy. This is starting to change but the pace must be lifted. We must be able to compete globally on the basis of a highly productive, highly skilled, high wage economy. We cannot compete on low wages. We know this point is accepted by government and many business people.
+
+Of course, Don Brash cynically bemoans the fact that Australian workers get paid on average 25 per cent more than their Kiwi counterparts when we know he will disembowel industrial fairness if given the chance. And he still refuses to acknowledge that it was the policies of the 1990s that created the gap. Furthermore he uses low wages to justify tax cuts when the consequence of such cuts would be to further disadvantage working New Zealanders.
+
+Some Business leaders are pressing the panic button about skill shortages, but adamantly opposing improvements in wages and conditions here that might attract skilled Kiwis back home or increase participation in the paid workforce. Instead they want to continue the low wage strategies by importing cheap labour.
+
+In fairness I would acknowledge an increasing constituency of employers who accept the "high road' approach we advocate. I also acknowledge those who have begun to operate as an industry to look at what they can do to improve recruitment and retention of workers and change work to recruit workers who cannot participate easily in paid work as it is currently structured.
+
+We accept that we are part of a global economy and we will work with you, both domestically and internationally, to promote and achieve a fair and enforceable system of labour standards for the protection of workers, whether through trade agreements or other mechanisms. Working for a fair share of the fruits of the globalising economy is consistent with our shared social justice objectives. As part of a global economy we need to trade with the world but we can only do this as a highly skilled, highly productive and high wage economy.
+
+The impact of China on all countries, including ours, is going to be immense over the coming years, whether or not we have a free trade agreement.
+
+As Ross Wilson said to conference last November "While it is true that a Free Trade Agreement with China may open up large opportunities, in the primary production and processing sector in particular, we must be careful not to just "talk up" those gains while "talking down" the manufacturing losses."
+
+We still have 300,000 jobs in manufacturing and so we have to carefully think through our manufacturing strategy in New Zealand. Part of the solution is to move our products and services up the value chain so we aren't competing on price, but on Kiwi innovation and skill into higher value products which China won't match. Three weeks ago the CTU hosted a Future of Manufacturing seminar as a start to seeking a consensus on how we protect and expand manufacturing work for New Zealanders.
+
+Any growth strategy must encompass social goals, and speak to a wider range of people than just the business elite. We must look at our people and deliberately ensure equity. The gaps in average wages between men and women are persistent as are the gap in average wages between Maori and pakeha workers and Pacific and pakeha workers. Unemployment figures while improving spectacularly for all groups also show major ethnic disparities. This is partly a consequence of the youthful Maori and Pacific populations. Such disparities are troubling from a social justice perspective but also from the demographic reality that with an ageing population overall these people will be the future workforce of our country. We must ensure that poverty, low skills and poor health do not undermine our future potential. There are a significant number of initiatives that have been put in place to address these inequities but there is more to be done.
+
+We accept our responsibility too - the reality is that many areas of low pay are areas we have not successfully unionised and consequently have not benefited from wages and conditions negotiated through collective bargaining. In some industries, in the absence of an award system setting minimum conditions for that industry the default is the minimum code. 30,000 workers 18 years or over and 15,000 workers between 16 and 18 years are paid the minimum wage of $9.50 and $ 7.60 respectively. We are attempting as a union movement to now concentrate our strategies on an industry rather than enterprise level.
+
+We are committed to seeking industry standards which take out a cost cutting approach to wages and conditions as the basis of competition and instead focus on quality, service, productivity and innovation. It is fair to say that there is still much to do to make this change.
+
+One industry we are currently focussing on is Aged and Disability Care. Decisive action is required by Government in these areas. We acknowledge the willingness shown to date by Government in exploring options to improve skills, wages and conditions.
+
+The other area that requires clear action is initiatives to continue to increase participation in the paid workforce. While the current skills and labour shortages is the critical imperative, the demographic reality of an ageing population and equity considerations are also important drivers. Improving wages will clearly assist in lifting participation rates. We must however recognise differing needs and life experiences.
+
+Balancing work and other responsibilities is a key issue for most New Zealanders and for those who have caring responsibilities changing the structure of work - the number of hours required, the need for certainty of hours as well as flexibility are some of the issues. Leave provisions such as paid parental leave are also critical. Much has been done in this area and more has been suggested. We must also acknowledge and welcome the recent significant improvements to childcare subsidies as part of the Working for Families initiative.
+
+New Zealanders also want to work in workplaces where they are respected; where their ideas and innovation are valued and implemented. We have argued strongly that an engaged and active workforce is vital for economic and social development in a modern economy.
+
+This is why we are very focussed on the role of worker representatives and education for those representatives and the workforce generally. Education and training which provides the skills and knowledge for the workforce to engage, gains their commitment to improving the workplace and to sharing their ideas for such improvements is necessary. An engaged, active, skilled workforce requires knowledge not only of their own workplace but their industry and how that industry operates in the NZ and global markets. We have successfully run economic development seminars on both regional and industry basis and the level of interest and enthusiasm is heartening
+
+The Growth and Innovation Advisory Board "growth culture" survey of New Zealanders showed that people distrust a top-down agenda, distrust big business, and are seeking quality of life outcomes, for all, not just economic growth. We must change the perception and reality to one where sustainable growth is seen as necessary to achieve the standard of living we all seek and to ensure economic stability individually and collectively. To ensure this working people must have confidence that the outcomes of growth and productivity will be shared equitably. This means worker participation is required at all levels so workers can see that their views are valued and acted upon to transform our economy.
+
+As we know, the relationship between unions and this Government is not just about policies - it is about the people also. The access to senior Ministers and particularly to Helen is highly valued by the union movement.
+
+The CTU- Government forums held in 2003 and 2004 have been some of the most successful events we have conducted and two thousand plus union delegates have been provided with a genuine opportunity to engage with the Prime Minister and senior Ministers. Helen, you have provided strong and respected leadership of our country and have listened to our concerns when we have voiced them. You cannot underestimate the positive message this sends to union delegates. The efforts made by both the government and the CTU in ensuring the forums took place indicate the importance we both put on this engagement. We are looking forward to the next round of forums and see these as an ongoing demonstration of the importance of our relationship.
+
+The union movement and the Labour party have a shared vision about a strong participatory democracy. Unions have an important role to play in a democracy, and are an expression of democracy itself. It is not only our right, but our duty to encourage union members to exercise their democratic rights. We take great pride in the fact that the CTU, with our 300,000 members, is the largest democratic organization in New Zealand.
+
+I believe the promotion of democracy is something that we need to do a lot more about both within NZ and throughout the region.
+
+I was impressed when attending a recent union conference in Fiji that the conference pack contained educational material about the concept of democracy and the responsibility for protecting and using the democratic system. We take so much for granted here.
+
+The election campaign is a key way we are able to engage with working people about democracy and we have a huge responsibility. 780,000 eligible New Zealanders did not participate in the last election.
+
+So the CTU and individual unions must and will ensure that workers do participate in this election. The democratic right to vote is fundamental. For working people, the choice in this election will be a vitally important one.
+
+We need to remind working people of the impact of the divisive policies of the 1990s. Don Brash helps this cause by continuing to target and vilify particular groups. National's industrial relations policy will be a key plank in our campaigning to make people understand the need to vote. Wayne Mapp outlined National's approach last month. It included, unsurprisingly - repealing the ERA and replacing it with an Act which includes the so called best of the Employment Contracts Act 1991. The policy also outlines undermining the role of unions, introducing a 90 day probation period with presumably no rights to fair treatment and undermining key provisions of the Health and Safety and Holidays Acts. These policies have the potential to create a very bitter industrial relations sideshow; a diversion from the real challenge of continuing to rebuild our country.
+
+So the job for all of us here, and in the wider labour movement, is mainly an educational one. But also to instill a sense of urgency and awareness of what could happen if we don't all vote.
+
+The CTU began the election campaign process last year and over the next couple of months a highly visible campaign supporting a Labour led government will commence. The CTU is not affiliated to any political party and we also acknowledge the contribution of other parties supporting the Government's initiatives. But campaigning on our issues in reality means campaigning for more of what we have seen since 1999 - not a return to the bad old days.
+
+We have a lot to celebrate five and a half years down the path of rebuilding a social democratic programme in New Zealand.
+
+When we recall the gloom and doom predicted by business organizations and opposition parties to every Government measure from the ERA to health and safety laws, it is particularly satisfying that we have:
+
+\- Strong and sustained economic growth
+
+\- The lowest unemployment in 19 years
+
+\- A marked increase in fulltime jobs and participation of women in the workforce
+
+\- A much fairer employment law.
+
+\- Strong investment in training and social development strategies
+
+\- ACC back among the best compensation schemes in the world
+
+I think that what we have seen since 1999 is a determined programme that has been nation-building. Whether it is an independent foreign policy, a welcoming of migrants, tolerance of diversity and life-style choices, economic and social development, a commitment to the environment, arts and culture, or fairness at work - it has been about Government policies and processes that are genuinely inclusive and do reflect both the common threads and diversity of New Zealanders.
+
+So the CTU looks forward to continuing to work with this Government. We know that there is much still to do and that the party and the CTU have a range of new policies we want to see actioned this year and in the next Parliamentary term. For instance there is a great deal of interest in further moves on workplace superannuation and assistance for first home buyers. For the CTU other future policies are around ensuring that the participative approach we have promoted is formalized and resourced and that we take steps to facilitate greater industry cooperation.
+
+I know that everyone here has been part of the success to date. It is impossible to acknowledge individuals adequately but I must note the debt of gratitude owed to Helen Duncan by the union movement. Helen is retiring as an MP due to ill health. She has been a staunch advocate for working people as a trade unionist and an MP. Helen's retirement is a great loss to us all but I know Helen will continue to fight for social justice and be a voice people will listen to.
+
+Finally I want to acknowledge the hard work that we will now all be putting into winning the election. Lets get out there and passionately articulate our vision of the NZ we believe in.
+
+Thankyou
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Council of Trade Unions](https://info.scoop.co.nz/New_Zealand_Council_of_Trade_Unions) on InfoPages.

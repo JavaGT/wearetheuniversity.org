@@ -1,0 +1,81 @@
+---
+slug: acts-the-letter-8-september-2003
+title: "ACT's The Letter: 8 September 2003"
+date: 2003-09-08
+source-url: https://www.scoop.co.nz/stories/PA0309/S00143/acts-the-letter-8-september-2003.htm
+author: act-new-zealand
+---
+ACT's The Letter: 8 September 2003
+==================================
+
+**Monday, 8 September 2003, 3:47 pm**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+THE LETTER  
+8 September 2003
+
+**THE MAORI CRISIS**
+
+The Treaty, Maori, and what sovereignty means, are going to be the defining issues for a generation. The four Ministers who attended the first of government funded hui on Labour’s proposals for the fore-shore and seabed have come away stunned by the highly organised and virtually unanimous opposition to the government’s proposal. The unspoken message - Labour faces electoral defeat in the seven Maori seats.
+
+**THE TREATY INDUSTRY**
+
+Political power comes from money and votes and the Treaty industry has both. Iwi like Ngai Tahu, who have received hundreds of millions in Treaty settlements, are bankrolling the foreshore claim. The Treaty lawyers and consultants who have earned millions in fees are contributing their skills to widen the Treaty industry to include marine farming, oil, minerals and both sea and fresh water.
+
+**MAORI MEDIA**
+
+While mainstream media report the $70 million spent on Maori TV and not one picture, Maori radio receives over $10 million a year plus spectrum worth many more millions. There are now 22 Iwi radio stations on both FM and AM broadcasting 24 hours a day. Iwi radio stations now have their own parliamentary press gallery office - in effect their own news service. Some iwi stations have 50% of the Maori audience. Labour has found that in Maoridom it cannot compete with the better-funded Treaty industry and its radio network.
+
+**A MISSION IMPOSSIBLE**
+
+There was no way Labour Ministers could succeed at the hui. First, the powhiri. Everyone had to be formally welcomed. Then, marae culture requires everyone is fed - another hour. Each speech requires a song. Complaints from the government about shortage of time resulted in much longer songs. Maori complained the four hours had gone before any meaningful debate could be had. But if Parekura Horomia had four hours or 40 hours, he would be no more able to explain the concept of public domain on the marae than he is in parliament.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+**A RADICAL GENERATION**
+
+At the hui Ministers faced a well educated new generation of Maori who speak the language well, have attended full emersion language schools and then been radicalised by university departments like Margaret Wilson’s Waikato law school. It’s ironical that it’s Margaret Wilson’s own graduates who lead the opposition to Wilson’s proposed legislation.
+
+**WHAT MAORI WANT**
+
+The Maori who brought the Court of Appeal case have put forward the Te Ope Mana a Tai principles saying the entire foreshore and seabed was held by Maori and the Treaty guarantees customary rights that include governance, economic development and access. “It is not for the Crown to determine the nature and extent of customary rights but rather it must respect those rights.” While government was formulating its response, iwi was endorsing what is a full on challenge to the sovereignty of parliament.
+
+**THE FOX HAS ESCAPED**
+
+Derek Fox went within 695 votes of taking Parekura Horomia’s seat. Clark cynically offered him Maori TV to close down his party but now he is out and keen to restore his mana. Peters, after his experience with Maori constituency MPs, is not keen to have NZ First MPs from the Maori seats (Peters genuinely believes separate Maori seats are divisive and bad for Maori and followed ACT’s lead in refusing to stand in the Maori seats). But Peters wants the Maori list vote. This week a new possibility occurred - a Derek Fox Maori party that wins the seven Maori seats giving the list vote to NZ First. Such a tactic creates what is called an overhang - more than 120 MPs. For Labour it’s an electoral nightmare but only fair - the Electoral Royal Commission recommended abolishing the Maori seats and it was Labour that insisted on their retention.
+
+**FORESHORE, LAW AND POLITICS CONFERENCE**
+
+The government plans no hui for the general public so ACT has stepped in. ACT is sponsoring a top quality conference on the foreshore issue. The conference intends to explore the current law, the government’s proposals and what the centre-right’s response should be. ACT is flying in Brian Lee Crowley, President of the Atlantic Institute for Market Studies - a North American think tank - and world authority on this issue. Speakers include Briony Davies from Chapman Tripp, Tahu Potiki and John McEnteer to present what Maori want, Paul Cavanagh QC, Doug Gordon, Roger Beattie, Owen McShane and Bruce Mason. ACT MPs will be facilitators and also participate in a panel discussion with Dr Wayne Mapp (National MP and former law lecturer). The government has been asked for a speaker, as has NZ First. The conference is on Saturday 4 October, 10 a.m. to 4:30 pm, in the Beehive Banquet Hall, Parliament Buildings. The cost is $65. For details, programme and registration see http://www.act.org.nz/foreshore.
+
+**RURAL ANGER**
+
+The establishment was taken by surprise by the farmer’s tractor protest over the flatulence tax. There are so few fulltime farmers as MPs that parliament is out of touch with rural opinion. It’s noteworthy that the two real farmers, ACT’s Gerry Eckhoff and National’s Shane Ardern, figured so prominently. It was Gerry Eckhoff who organised the petition that the farmers came to deliver with 64,000 signatures! It was Shane who took the tractor up parliament’s front steps - a good piece of driving.
+
+**DEVELOPMENT RIGHTS**
+
+John Tamihere who has been attending, but not speaking at the hui, is now floating the concept that customary rights do indicate development rights, e.g., a right to fish must include a right to develop fishing such as marine farming.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

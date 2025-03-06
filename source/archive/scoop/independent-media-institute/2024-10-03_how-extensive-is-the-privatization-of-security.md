@@ -1,0 +1,100 @@
+---
+slug: how-extensive-is-the-privatization-of-security
+title: "How Extensive Is The Privatization Of Security?"
+date: 2024-10-03
+source-url: https://www.scoop.co.nz/stories/WO2410/S00036/how-extensive-is-the-privatization-of-security.htm
+author: independent-media-institute
+---
+How Extensive Is The Privatization Of Security?
+===============================================
+
+**Thursday, 3 October 2024, 4:10 am**  
+**Article: [Independent Media Institute](https://info.scoop.co.nz/Independent_Media_Institute)**
+
+In August 2024, due to a $4 million budget shortfall, Idaho’s Caldwell School District terminated its $296,807 contract with the local police department, opting instead for armed guards from Eagle Eye Security. The new $280,000 contract is just a drop in the bucket of the roughly $50 billion U.S. private security industry and the $248 billion global market that is reshaping law enforcement worldwide.
+
+While private military companies (PMCs) like Blackwater (now Academi) and Wagner have gained notoriety in war zones, private security companies (PSCs) are rapidly expanding in non-combat settings. Despite some overlap between the two, PSCs generally protect assets and individuals. Often collaborating with law enforcement, the effectiveness and ethical standards of PSCs vary widely, and armed guards are increasingly common. Security guards in the U.S. in 2021 outnumbered police by about 3:2.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Public policy is still playing catch up. Unlike police forces, PSCs operate under contract rather than direct taxpayer funding. They also don’t have the same level of regulation, oversight, or accountability. Criticisms of the police—such as excessive force and inadequate training—are frequently directed at private security officers as well. Many former police officers with controversial histories find employment in PSCs, where barriers to entry are low. Turnover, meanwhile, remains high, while wages are minimal. Yet the sector’s ongoing expansion appears inevitable.
+
+Government forces and private security forces have been a part of society for millennia. Government forces mainly responded to unrest rather than preventing crime, often relying on volunteers. Private security options included hiring guards and bounty hunters, while communal efforts like the “hue and cry"—where villagers collectively chased down criminals— were also common ways of enforcing security. With increasing urbanization, though, traditional law enforcement methods became less effective, prompting the creation of the first modern police force, the London Metropolitan Police, in 1829. Distinct from the military, more accountable to city authorities and business interests, and focused on crime prevention, this model was adopted by Boston in 1838 and spread to nearly all U.S. cities by the 1880s.
+
+The emergence of public police forces coincided with the birth of the modern private security industry. Founded in the U.S. in 1850, the Pinkerton National Detective Agency, as it was eventually called, is considered the first modern PSC. With its nationwide reach, investigative expertise, and role in safeguarding companies, Pinkerton distinguished itself by protecting businesses from theft, vandalism, and sabotage. Its controversial role in events like the Homestead Strike of 1892, when the company “essentially went to war with thousands of striking workers,” led to greater regulatory scrutiny, but the company continued to drive industry growth.
+
+After World War II, the rise in PSC use within U.S. residential communities boosted demand, further accelerated by the racially tinged civil unrest of the 1960s and 1970s, which spurred private initiatives to police cities. The 1980s brought deregulation and professionalization, as many corporations established in-house security departments and PSCs prioritized hiring former law enforcement officers over those with military backgrounds.
+
+Today, private security has a global presence, providing services ranging from bouncers and bodyguards to crowd control units and specialized armed teams. PSCs are generally cheaper than using police forces, and the widespread adoption of surveillance and other technologies has increasingly leveled the playing field. However, private personnel primarily serve as a visible deterrent, discouraging crime through their presence rather than direct intervention. They are often focused on monitoring and patrolling, which can divert criminal activity rather than resolve it. As the demand for private security grows, debate continues over their role and broader societal impact.
+
+U.S. ratios of police staffing to civilian population peaked around the early 2000s, and police agencies say shortages are now widespread. As police departments have struggled to boost their ranks, PSCs have filled the gap. Allied-Universal, with 300,000 American employees, is one of the largest private employers in the country. Meanwhile, for high-net-worth individuals like Mark Zuckerberg, personal security expenses can exceed $14 million annually.
+
+PSCs have stepped in to respond to a variety of situations, including protests at universities. In January 2024, Apex Security Group personnel dismantled pro-Palestinian encampments at UC Berkeley, later clearing similar sites at Columbia University in April and UCLA in May. Many PSCs, however, pursue more lucrative long-term contracts. UCLA has paid Contemporary Services Corporation (CSC) for campus patrols for years, and UC San Francisco spent $3.5 million on CSC in 2023, according to watchdog group American Transparency.
+
+PSCs are also widely employed to target the unhoused and address shoplifting in California. Following a rise in the state’s homeless population by 40 percent since 2019 and an increase in petty crime, PSCs have secured valuable contracts with local governments, private businesses, families, and individuals. The Bureau of Security and Investigative Services oversees the sector in the state, but incidents still raise concerns. In May 2023, an Allied Universal guard fatally shot Banko Brown, an unarmed Black person suspected of shoplifting. The San Francisco district attorney’s office chose not to file charges, sparking public outcry.
+
+In Portland, police budget cuts spurred by defunding initiatives following the 2020 Black Lives Matter protests led to the disbanding of special units and a wave of officer resignations and retirements. 911 hold times increased fivefold from 2019 to 2023, as more lenient crime policies allegedly contributed to a rise in crime rates.
+
+In response, thousands of private security personnel now patrol the city, with the number licensed to carry firearms rising by nearly 40 percent since 2019. More than 400 local businesses pay Echelon, a Portland-based PSC, to deploy dozens of guards around the clock. Echelon and its personnel have attempted to build relationships with the homeless and people suffering from addiction and mental illness by providing food, responding to overdoses, and de-escalating conflicts. While crime in Portland has gone down since its peak in 2022, this reflects nationwide trends and comes as the city has attempted to reinstate police numbers.
+
+American PSCs are expanding their roles across the country. In Las Vegas, Protective Force International formed its own squad in May 2024 to clear out squatters from an apartment complex, in addition to its other security services in the city. In New Orleans, Pinnacle Security is one of many firms operating, with roughly 250 security guards patrolling neighborhoods, businesses, and government buildings.
+
+In Chicago, a 2021 accusation by Mayor Lori Lightfoot that businesses were failing to take adequate theft prevention measures spurred greater private initiatives. The Fulton Market District Improvement Association, a local group supported by local restaurateurs and developers, launched private patrols with P4 Security Solutions in 2024. P4 personnel operate both on foot and by car and provide security to other Chicago neighborhoods, with plans to expand further.
+
+Private security, however, is not just a U.S. phenomenon. PSCs are well established globally, no more so than in Latin America. From the 1970s onward, the War on Drugs fueled massive transnational criminal empires and widespread police corruption. As military dictatorships ended in the 1990s, the transition to democratic governments in Latin America often resulted in weak institutions, leading to instability and security challenges. In response, private security boomed, primarily serving the wealthy.
+
+Today, Latin America is home to more than 16,000 PMCs and PSCs employing more than 2 million people, often outnumbering police forces in poorly regulated markets. Their rapid expansion has led to serious issues, including criminal infiltration of PSCs in Mexico and El Salvador and claims of extrajudicial killings in Guatemala. Western resource companies, in coordination with local authorities, have also used PSCs to safeguard their operations and confront protesters in the region.
+
+Latin America has typically been a source of recruitment for the private security industry, with many U.S. PMCs employing personnel during the War on Terror. Recently, the region has also become a market for foreign PSCs. Chinese PSCs, while restricted domestically, are increasingly involved in China’s Belt and Road Initiative (BRI) projects in the region, as well as in private ventures.
+
+Zhong Bao Hua An Security Company, for example, has contracts with businesses in El Salvador, Costa Rica, and Panama. Tie Shen Bao Biao offers personal protection services in Panama, while the Mexico-Chinese Security Council was established in 2012 to protect Chinese businesses and personnel from violence.
+
+The collapse of security states in Eastern Europe in the 1990s, combined with the adoption of capitalism, created fertile ground for both PMCs and PSCs. In Bulgaria, early PSCs were often founded by sportsmen, particularly wrestlers, with connections to organized crime. By 2005, a United Nations report estimated that 9 percent of working men in Bulgaria were employed in private security—a pattern found across the former Eastern Bloc.
+
+Though growth has been slower in Western Europe, PSCs have still expanded. France recently deployed 10,000 security guards across Paris for the 2024 Olympics, only for many of them to strike over working conditions weeks before the opening ceremony.
+
+The European Union has increasingly relied on PSCs to manage its migrant crisis, generating massive profits for the industry. Private actors were quick to label migration as a security threat while supporting policies that promote instability abroad. Major arms dealers and security firms like Airbus and Leonardo, for example, sell weapons in conflict zones that fuel violence and displacement. They then profit again by selling security equipment to European border agencies.
+
+While violence has decreased across Africa in recent decades, localized instability has led to a surge in the security industry. The distinction between PSCs and PMCs is often blurred on the continent, with PSCs frequently finding themselves undertaking quasi-military roles such as convoy protection, protection of natural resource extraction sites in hostile areas, and armed confrontations.
+
+Chinese PSCs have become more prevalent to compensate for the security gaps left by African governments for BRI investments, contrasting to Russia’s use of conflict-oriented PMCs in Africa. Regulation varies, with minimal oversight in countries like the Democratic Republic of the Congo and more stringent controls in Uganda.
+
+South Africa’s PSC industry in particular has flourished since the end of apartheid in the 1990s. Rising crime and falling police numbers have led citizens to rely more on the private sector for safety and asset protection. According to the Private Security Industry Regulatory Authority, there are 2.7 million registered private security officers working in South Africa, outnumbering police 4:1. Services include patrolling neighborhoods, providing armed guards, and tracking and recovering stolen vehicles.
+
+The PSC industry’s rise has been fueled by gaps in state security measures. However, in areas where PSCs operate, crime rates frequently remain high due to their focus on protecting private property and individuals rather than maintaining public order. Financial incentives can also lead to problems being managed superficially rather than addressing underlying issues. Additionally, PSC employees frequently face burnout, low pay, and negative working conditions. As PSCs intersect with private prisons, this has raised further concern over their expanding influence and overlapping roles.
+
+Despite its growth in recent decades, the PSC industry’s progress has proven reversible in the past. By 2001, Argenbright Security controlled almost 40 percent of U.S. airport checkpoints, but the creation of the Transportation Security Administration (TSA) after 9/11 centralized airport security back under government control, with limited private sector involvement.
+
+Nevertheless, the industry is likely to continue expanding, particularly as new initiatives find uses for them. India, which has the world’s largest private security force at approximately 12 million, is expected to continue seeing strong industry expansion, especially in securing its increasing number of private communities, colloquially termed “gated republics.”
+
+Private security already plays a major role in private cities, which are becoming more prevalent worldwide. In these cities, governance is largely handled by boards and CEOs rather than elected officials, and profit motives often overshadow public needs. The safety divide between rich and poor is further exacerbated, as security becomes a commodity instead of a public concern.
+
+In Honduras, the island of Roatán is at the epicenter of a clash between the government and local communities on the one hand and international entrepreneurs behind Próspera, a company developing a private city on the island, on the other. The escalating tensions highlight the realities of under-resourced government forces facing off against well-funded companies backed by heavily armed private guards.
+
+As the role of private security continues to expand, regulations must evolve at the same pace. In the U.S., with regulations primarily established at the state level and lacking uniformity, there is a need for greater oversight to address potential issues effectively. Failing to do so will undermine public accountability by allowing private companies to operate with minimal restrictions, as well as deepen societal divides.
+
+By John P. Ruehl
+
+**Author Bio:** John P. Ruehl is an Australian-American journalist living in Washington, D.C., and a world affairs correspondent for the Independent Media Institute. He is a contributor to several foreign affairs publications, and his book, _Budget Superpower: How Russia Challenges the West With an Economy Smaller Than Texas’_, was published in December 2022.
+
+_This article was produced by_ _Economy for All__, a project of the Independent Media Institute._
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Independent Media Institute](https://info.scoop.co.nz/Independent_Media_Institute) on InfoPages.

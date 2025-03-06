@@ -1,0 +1,123 @@
+---
+slug: tax-issues-and-political-threats
+title: "Tax issues and political threats"
+date: 2005-07-18
+source-url: https://www.scoop.co.nz/stories/PO0507/S00162/tax-issues-and-political-threats.htm
+author: new-zealand-council-of-trade-unions
+---
+Tax issues and political threats
+================================
+
+**Monday, 18 July 2005, 12:23 am**  
+**Speech: [New Zealand Council of Trade Unions](https://info.scoop.co.nz/New_Zealand_Council_of_Trade_Unions)**
+
+### Tax issues and political threats
+
+_**In a speech to the Christchurch CTU/Government post-Budget briefing, CTU president Ross Wilson explains why tax cuts will cost working people - and the threat posed if National wins the election.**_
+
+\- Introduction to CTU Government Forum - Post Budget briefing.  
+Christchurch 13th July 2005 Ross Wilson PresidentN Z Council of Trade Unions
+
+It is my pleasure on behalf of the CTU to welcome you all to this forum, and to extend, on your behalf, a very warm welcome to the Prime Minister and her Ministers.
+
+This forum is part of a second round of CTU Government Forums. The first forum last year was very popular with union delegates and more were called for. So here we are.
+
+The CTU Officers regard these meetings as a vital opportunity for direct communication between union delegates and our Prime Minister and key Ministers.
+
+You are the heart of our movement. You are the workplace leaders, and other members look to you for guidance on issues. This forum gives you access to information direct from Government Ministers.
+
+These events must be unique in any country of the world. This is participatory democracy in action and we should acknowledge that with pride.
+
+Prime Minister, we are very grateful that you have again taken the time to attend and engage in a dialogue with us. We have had a very successful partnership with your Governments over the past 6 years and, working together, we have delivered a lot for union members and working families.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+When we recall the gloom and doom predicted by business organizations and opposition parties about every Government measure from the ERA to health and safety laws, it is particularly satisfying that we have: The strongest economic growth of any OECD country The lowest unemployment in 19 years A marked increase in fulltime jobs and participation of women in the workforce A much fairer employment law framework - and workplace policies including paid parental leave. Strong investment in training and economic and social development strategies An ACC which is once again back among the best compensation schemes in the world
+
+We want that partnership to continue.
+
+We have developed this forum as a post-Budget briefing because it is important that we hear direct from you on that announcement and how it fits into the overall programme of economic and social development of the Government. It is important firstly because the content of the Budget has been overshadowed by the media focus on tax cuts, and secondly because the tax cuts issue has itself developed into a matter of lively debate and interest in our workplaces and homes.
+
+**Are we overtaxed or underpaid?**
+
+Where do we stand on tax within the OECD? We are ranked 12th lowest in the OECD on total tax revenue as a proportion of GDP. The single income New Zealand family with two children is currently 10th lowest in the OECD in terms of tax and will be 4th lowest when Working for Families is fully in place.
+
+The average wage in New Zealand is taxed at 20.6%. In Australia, the tax on that wage would be 20.9%. Sure they have wider tax bands, but their top rate is 48.5% compared with 39% here.
+
+But their average wage is around $AUD1000 a week compared with approximately $NZ800 here. So - are we overtaxed? No. Are we underpaid? Yes.
+
+Why are wages so much higher in Australia? Well for a start they have an award system that sets industry and occupational minimum rates. But they also have a more productive economy. This is mainly because they have 50% more investment in capital per worker as shown in a recent Treasury paper. And it was during the Employment Contracts Act period that a lot of the damage was done.
+
+So surely we need wages to rise to boost incomes rather than focus on tax cuts. A 5% pay increase on the average wage amounts to about $27 a week in the hand. Pay increases of say 5% for the first year and 3% or 4% for subsequent years add around $65 a week to take home pay over that period. And who has been bitterly and hysterically opposing our 5% wage campaign? Yes the National Party....Brash, Key and Mapp.
+
+**Tax Cuts Favour those on High Incomes**
+
+A tax cut of $27 a week costs the Government around $5.4 billion. Just think how many vital services would be affected by a cut of that size.
+
+The media in New Zealand made a big fuss over the tax cuts in the Australian budget. It amounts to $21.7 billion. But that is over a 4-year period. Over one year it is more like $5.4 billion. But Australia is 5 times our size. So the equivalent in NZ would be a $1.2 billion a year package once we divide by five and allow for exchange rate differences. Labour has in fact given tax relief. About $1.2 billion a year targeted at low-income families.
+
+But the Australian tax cuts also illustrate the point about who benefits from tax cuts. The average increase was $AUD6 a week but the top earner gets $86 a week. The same thing happened in New Zealand in the 1990s. When National cut taxes twice in the mid-1990s, the over $2 billion of tax cuts went mainly (71%) to those in the highest incomes bands.
+
+These tax cuts were made at a time when we had hundreds of foodbanks handing out food parcels each week to hungry families, infectious diseases spreading because of overcrowded houses, a collapse in industry training, high unemployment, massive under-investment in roading, the rail network and other infrastructure, and a desperate need for economic development on a regional and industry basis. So these tax cuts were not only unfair, they were incredibly shortsighted and workers are still paying the price. Is the Government on a spending binge?
+
+Central government spending has fallen from being worth 33% of the economy in 1999 to 30% in 2004. If we look at overall outlays (including capital, local government), it was 41% of the economy in 1999 compared with 38% now. The OECD average is 40.6%. This gives a lie to National party claims of a spending binge. Controversy of the quality of Government spending is not new. Remember WINZ in the 1990s under National-NZ First? Remember all the team-building conferences, training workshops, corporate videos and advertising. Quality of Government spending will always be an issue. And this Government, as with previous Governments, has not got everything right.
+
+But when spending is in the order of tens of billions of dollars, mistakes worth a few thousand dollars need to be put into perspective. What we know for sure about the Labour-led Government since 1999 is that their spending priorities have been - health, education, economic development, infrastructure, low-income families, paid parental leave, superannuation. Compare that with National and NZ First in the 1990s. We know that tax cuts have historically meant cuts in public services; that was our experience of the National Governments of the 1990s.
+
+There could also be an effect on mortgages for a period if interest rates either increase (0.25% on a $200,000 loan amounts to over $8 a week) or do not reduce when they otherwise would. We want to continue to rebuild our health, education and other public services; not return to the slash and burn approach of the 1990s.
+
+**We want real wage increases.**
+
+And we also know that any minor benefits from tax cuts will be quickly offset not only by cuts to our social wage through the cuts in public services but also directly to our salaries and wages.
+
+**National Declares War on Workers**
+
+The National Party has already announced its industrial relations policies. Its policy is nothing less than a declaration of war on unions and the gains we have made for workers under your Government. For a start National has explicitly committed to axing the Employment Relations Act and restoring an Employment Contracts Act.
+
+National is absolutely clear on this. They will repeal each and every provision of the 2004 amendments. In addition they have confirmed they will scrap: The union right of access to workplaces. Union meetings. Hold them outside work time they say. Right to deduction of union fees Trade union education leave Union right to negotiate collective agreements.......bargaining agents will be back. The right of every worker to challenge an unfair dismissal during the first 3 months in a job. There are 200,000 workers who start a new job in New Zealand every year. Many of us have 7 or 8 jobs in our lifetimes. Imagine that you can be sacked for no reason in the first 3 months every time you start a new job. And they won't stop there. The Howard Government has given them some new ideas, so look across the Tasman to see what will be next.
+
+And that's not all. They also intend to gut the Holidays Act: Four weeks annual leave will be axed because under National an employer can require an employment contract to have 3 weeks only Rate and a half for work on public holidays will be axed Payment for public holidays, sick days and bereavement leave will not include overtime and productivity bonuses.
+
+In the health and safety area National has confirmed they will: strip the 15,000+ workplace health and safety representatives of their important role in workplace health and safety. Remove workplace stress as a specific ground for OSH action. Review the HSE Act and privatise ACC.
+
+And lets not forget the minimum wage. When the National party was last in Government they only lifted the minimum wage in a whole 9 years from $6.13 an hour to $7.00. This was an increase of a pathetic 14% in almost a decade. From March 1997, National actually froze the minimum wage at $7.00 for 3 years with a rate for those under 20 years of $4.20 an hour.
+
+In contrast, Labour since 1999 has increased the minimum wage from $7.00 to $9.50. This is a 35.7% increase in just over 5 years. The increase for 18/19-year-olds has been from $4.20 to $9.50 (126%) and for 16/17 year olds from $4.20 to $7.60 (81%).
+
+A Government that invests in our future People expect a lot of Government. When there are floods the cry is - "what is the Government doing"? It was the Government that invested in Air New Zealand to avert a major crisis. The Government bought back the railway track. Every day we hear constantly the phrase "The Government should....". and usually it involves some expenditure. Well with significant tax cuts, people should expect a lot less of Government. They should expect a Government like the one we had in the 1990s. Mean-spirited, let the market sort it out, trickle down theory, user pays, cuts in benefits and so forth.
+
+After 5 years of strong growth, the economy is slowing. The increased revenue for the Government over the last few years has been a reflection of a strong economy. More people in work. More businesses paying tax. Higher profits. But this Government has also increased spending significantly. Health and education spending is up by 39%. Industry training spending has almost doubled. They have already put away over $8 billion to make future payments of New Zealand Superannuation more secure. They have reduced debt.
+
+But as the economy slows, the surpluses reduce. They have put in place a sensible plan to maintain these new spending levels when revenue is not growing so strongly.
+
+**2005 Budget**
+
+It is against that taste of what a National led Government would do that I now ask the Prime Minister and her Ministers to speak on the 2005 budget in the context of the programme which has been built over the past 6 years; a programme which, subject to the General Election, will continue into the future.
+
+And as they do so, lets just reflect on the price we will pay if New Zealanders are drawn into seeing the issue for this years election as a tax cut.
+
+We all have a very important responsibility in providing information, and leadership, to our union members. It is not our role to tell our members how to vote, but it is certainly our responsibility to tell them what to expect if a Brash Government is elected.
+
+And the message is: **expect the worst you can imagine.**
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Council of Trade Unions](https://info.scoop.co.nz/New_Zealand_Council_of_Trade_Unions) on InfoPages.

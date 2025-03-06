@@ -1,0 +1,56 @@
+---
+slug: scholars-sacrifices-spotlighted
+title: "Scholars’ sacrifices spotlighted"
+date: 2016-06-14
+source-url: https://www.scoop.co.nz/stories/ED1606/S00036/scholars-sacrifices-spotlighted.htm
+author: lincoln-university
+---
+Scholars’ sacrifices spotlighted
+================================
+
+**Tuesday, 14 June 2016, 10:49 am**  
+**Press Release: [Lincoln University](https://info.scoop.co.nz/Lincoln_University)**
+
+**Scholars’ sacrifices spotlighted**
+
+A bitter winter, strange food and homesickness weren’t enough to deter scholarship students Greg Joseph and Randel Esnard from the tiny Caribbean island nation of St Lucia in their pursuit of master’s degrees from Lincoln University.
+
+Greg and Randel were selected to come to New Zealand on New Zealand Scholarships – Greg on a Commonwealth Scholarship and Randel on a New Zealand Development Scholarship.
+
+Almost two years after their arrival, they have completed their degrees and are heading home to put their newfound skills and knowledge to use there for a minimum of two years as part of their scholarship conditions.
+
+Friends since 2005, they made significant sacrifices to come to New Zealand in 2014. Although they applied at the same time, it took Randel some time to find the right supervisor and Greg waited a year for before giving up his job to take up the Commonwealth Scholarship, while Randel took extended study leave to accept the New Zealand Development Scholarship.
+
+Coming to New Zealand together was a good strategy, they say, as they had each other to talk to when times were tough, travelled the South Island together and even both joined the Lincoln University football team. “We now know people from around the globe which will make travelling in future easy,” says Greg. A bungy jump was the highlight of his time in New Zealand, while Randel says interactions with his supervisor were the most rewarding aspect of the experience. “And playing football on high quality pitches!”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Making sacrifices so your studies can come first was a stark reality for Zimbabwean student Machiweyi Kunzekweguta (or “Kunze”, as he is known as) who is here on a New Zealand Development Scholarship. Giving up a good job, leaving a wife and young baby behind in his home country and arriving in mid-winter, Kunze says focusing on his studies and knowing he was making an investment in his future was essential to keep him going until the arrival of Thande and Caleb after six months. “My family and my profession are the two most important things in my life. I’m so thankful to NZ Aid or the opportunity. I couldn’t do this at home.”
+
+His master’s degree topic centres on the impact of conservation agriculture on small holders in the Masvingo District of Zimbabwe will be put to use when he returns home to assist subsistence and communal farmers there.
+
+New Zealand Aid Scholarships Administrator, Sue Bowie, says Kunze became popular amongst the staff and his fellow students. “Whilst here, he has been an exemplary student, achieving highly whilst also ensuring that his family integrated well into the Kiwi lifestyle. He has managed his time well and made the very most of the opportunities the scholarship has given him, which is just brilliant”.
+
+A completion ceremony will be held at Lincoln University for eight scholarship students, including Greg, Randel and Kunze, who are unable to attend graduation in New Zealand due to the fact that the scholarship specifies that they must return home 14 days after their study is complete. The ceremony is important to these students, as it means they are able to wear the regalia and that they have their achievements recognised by their fellow NZ Aid Scholars and also the staff that have been involved with them during their time in New Zealand.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Lincoln University](https://info.scoop.co.nz/Lincoln_University) on InfoPages.

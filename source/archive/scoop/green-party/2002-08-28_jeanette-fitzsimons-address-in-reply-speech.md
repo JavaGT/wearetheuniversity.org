@@ -1,0 +1,201 @@
+---
+slug: jeanette-fitzsimons-address-in-reply-speech
+title: "Jeanette Fitzsimons Address In Reply Speech"
+date: 2002-08-28
+source-url: https://www.scoop.co.nz/stories/PA0208/S00269/jeanette-fitzsimons-address-in-reply-speech.htm
+author: green-party
+---
+Jeanette Fitzsimons Address In Reply Speech
+===========================================
+
+**Wednesday, 28 August 2002, 6:25 pm**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+Jeanette's speech in response to the Prime Minister's speech from the throne  
+Jeanette Fitzsimons MP, Green Party co-leader
+
+Parliament, 28th August 2002
+
+  
+Mr Speaker
+
+I move that the amendment be amended by omitting all the words after “this House has no confidence in the Labour-Jim Anderton’s Progressive Coalition Party minority Government” and substituting the following words:
+
+“because of its determination to allow the release of genetically engineered organisms, exposing our health, our environment and our economy to significant risks;
+
+because, despite there being some elements in the Government’s programme which continue the positive reforms of the last three years, its economic policies will undermine ecologically sustainable development and fail to seriously address poverty and inequality;
+
+because this Government fails to invest in our young people by providing a universal student living allowance or by initiating a common sense drug law reform programme;
+
+and because this Government continues to erode New Zealand’s sovereignty by supplying troops to the US-led war against the Afghan people and by supporting corporate globalisation policies which undermine the Treaty of Waitangi and endanger our unique identity.”
+
+  
+I cannot adequately express my sadness at having to begin the new Parliamentary term in such a way. I speak for all the Green members of Parliament when I tell you that we entered this House to work for positive change, to improve the lot of New Zealanders, our country and - in whatever modest way we are able - our planet.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I would prefer to begin - and I will begin - by acknowledging the tangata whenua, including those who provided that stunning welcome at the State opening yesterday; by acknowledging those who have preceded us here, including those who have just left, for whatever reason, and by welcoming those who have just joined us for the first time.
+
+I also acknowledge the voters who have taken the trouble to exercise their democratic right and have entrusted us all with the positions we hold. And I celebrate the return of the Greens with a 35% greater share of the vote and two excellent new MPs. I welcome to our caucus and to the House Metiria Turei, resource management lawyer, Ngati Kahungunu ki Wairarapa - an articulate young Maori woman; and Mike Ward, artist and athlete, long time city councillor and Green activist for sustainable ways of living.
+
+They add a richness and a diversity to this House. And diversity - of culture, outlook and opinion - is the real fruit of the MMP environment.
+
+Every election since the adoption of MMP has returned a parliament with a different structure. First a majority coalition which became a minority depending on a group of individuals; then a minority coalition needing confidence and supply from either of two smaller parties; and now a minority coalition with a confidence and supply agreement with one party but unlikely to be able to pass significant parts of its legislation without co-operation from a fourth party.
+
+We are getting closer all the time to Parliament achieving its full significance where alliances of parties shift from issue to issue. Provided all parties vote in accordance with the policies they put to the people, we can expect the outcomes to reflect more accurately what the public thought they were voting for.
+
+The Greens in this term will play a role of constructive independence. We cannot commit to supporting this government on confidence and supply but that does not mean that we renounce and oppose all of its policies.
+
+We reject the old first-past-the-post mindset where only two sides of the House are possible and will vote for good legislation wherever it comes from, and against bad. We will support urgency where we agree with its purpose and there is a need for it and not otherwise.
+
+We will work closely with the Government on agreed issues we have in common and we have signed a protocol outlining the processes we will follow.
+
+As I listened to the speech from the throne yesterday I could not help comparing it with the one I listened to three years ago . After nine years of National government it was refreshing and exciting to welcome a change of direction, a rejection of the market model in all areas of society, and acceptance of a stronger role for Government, a commitment to reducing inequality and even to sustainable development.
+
+Even though we had some major disagreements with the Labour-Alliance government it was easy to vote confidence in a government that stopped the Timberlands logging, increased conservation funding, committed to ratifying the Kyoto protocol, did some real work on waste, stopped state asset sales, spent more on public transport and took some small steps to restore a progressive social agenda with lower state housing rents, paid parental leave, restored levels of superannuation, funded Plunket line and eased student loan interest.
+
+There were of course disappointments. A years’ painstaking work on the Resource Management Amendment Bill has languished on the Order Paper for 16 months, denying developers, community groups and councils valuable cost and time savings and simplification of processes because the Government wants to go back on its Cabinet decisions on some clauses.
+
+The promise in the year 2000 speech of a “simple and comprehensive system of labelling of genetically modified food, and of any food derived from genetically modified organisms” has not been fulfilled. The consumer is still denied the right to know the genetic status of oils, sugars, starches, fast foods, restaurant foods and additives. The bulk of GE foods on our shelves are unlabelled because of these loopholes, determined by an unelected and unrepresentative Trans Tasman organisation where we are hopelessly outnumbered by Australians in setting food standards for New Zealanders.
+
+We could not support the Government in its view that you can fight terror by bombing innocent civilians and we are still ashamed that we used the horrific deaths of Americans to justify the horrific deaths of even more Afghanis who had nothing to do with that crime.
+
+But overall we were proud to be a part of the turning round of New Zealand to face a more sustainable and just future.
+
+By comparison this year’s speech appears to abandon that reforming agenda and has substituted management for vision. We suspected this might be the case when we saw Labour’s credit card promises for the election. Most people I talked to could only, like me, remember one of them - to double apprenticeships.
+
+Worthwhile, but not inspirational. The rest of the promises were so vague they accurately prefigured yesterday’s speech - full of corporate buzz words but hard to remember anything real.
+
+The modest steps taken last term to reduce inequality have not yet delivered. The income gap remains where it was. It is too soon to judge many worthwhile programmes in housing, mental health, early intervention with children at risk. We want to give these programmes time to deliver and support any additional measures to this end.
+
+But we note that there is no mention of the voluntary sector in yesterday’s speech when many community groups are struggling or going under in an environment where funding is still decreasing and there is little recognition of the role the voluntary sector can play in development of the local economy, as well as in social wellbeing.
+
+The Green Party welcomes the government's commitment to protecting workers when businesses transfer, are sold or contracted out. We are also pleased that the government is going to review and refine the employment relations act, but there is more work to be done for workers in New Zealand. The Government talked about the need to ensure trade met International Labour standards, yet our own domestic policy does not meet ILO standards in many areas such as the right to strike for political, social, environmental reasons, and full payment of treatment costs for injured workers.
+
+The Greens would also liked to have seen a commitment from the government to further improve the minimum code for all workers. In the last term minimum wages were increased but we believe a further increase, possibly to $10 an hour is needed.
+
+If the government is serious about addressing youth offending and other problems with youth then they need to treat them with respect and dignity and phase out youth rates so workers earn the same regardless of their age. Benefits for 16 and 17 year olds should also be restored.
+
+The Government has made much of the development of a family friendly work / life programme. However, before the review has even started the government has stated it will not increase annual leave to 4 weeks a year. Surely, giving parents more time with their children in holidays is one of the most important steps we can take. Other steps should be the introduction of separate sick leave for dependents and legislation to give parents the right to work part time.
+
+The Greens are pleased to see a Government commitment to a drug education strategy. We hope this work builds on the Greens’ 2002 budget initiative that establishes a Ministerial advisory group on drug education. This group will develop and implement measures for evaluating drug education programmes so as to improve delivery of drug education messages to young people. The Greens want to see more resources going into health promotion and drug education. This Green initiative was the first step towards putting in place properly evaluated, evidence-based, credible and effective drug education strategies in our schools and communities.
+
+We are concerned that the government's partners in this term the Progressive Coalition and United Future who both cite drug education as significant areas for work, are blinkered in their approach to drug law reform. In 1998, the health select committee inquiry into the mental health effects of cannabis, chaired by Brian Neeson (that radical drug reformer), concluded that "we view the double standard which sometimes surround the cannabis issue as an impediment to effective anti-drug education".
+
+Further the committee "acknowledged that cannabis prohibitively enforced by traditional crime control methods has not been successful in reducing the apparent number of cannabis users in New Zealand. We recommend that the Government review the appropriateness of existing policy on cannabis and its use and reconsider the legal status of cannabis".
+
+As we launch this new term of Parliament world leaders are gathering in Johannesburg for the UN World Summit on Sustainable Development. Whatever else this event may or may not achieve, for a few days it focuses the world’s attention on the rate at which we are exhausting the planet’s resources, polluting its ecosystems and driving its unique and special creatures to extinction.
+
+It turns a spotlight on the twin problems of global ecological destruction and crippling poverty and shows how closely they are related. As in Stockholm in 1972 and Rio in 1992 poverty and disease are closely linked with third world debt, war, theft of land, forests and fisheries and the failure of a world that can produce cluster bombs and space travel to provide clean water for its citizens.
+
+Three years ago the incoming Labour-Alliance government committed to policies that would reduce inequality and be environmentally sustainable. There was a lot of language around that time that suggested sustainable development would guide our new economic direction. The speech from the throne even told us that the new Industry New Zealand would provide policy advice on ecological sustainability!
+
+In fact it was so far from reality that Industry NZ does not even have criteria of sustainability against which to measure applications for funds. Nor does the new funding for research and science or the innovation policy or any of the new programmes that aim to develop the economy in a skills based value added direction.
+
+This has been a huge disappointment to many New Zealanders who thought that at last we might be about to get some integration of economic, social and environmental policy which is what sustainability is all about.
+
+A wonderful opportunity was lost in the “broad structural review of the taxation system” that was promised in the last speech from the throne. In welcoming that announcement I said “We take that to mean the questions of what should be taxed, not just how large the total tax should be. This is an opportunity to consider how the incentives built into the NZ economy to waste materials and energy and conserve labour might be changed by shifting tax from work and enterprise to waste, pollution and natural resources. We look forward to contributing to this debate.”
+
+Sadly, that was not to be. Our requests for input to the terms of reference and the personnel hit a blank wall and our well researched and substantial submission advocating adopting OECD levels of ecological tax reform went unheeded.
+
+Just recently the same call has been taken up by the Parliamentary Commissioner for the Environment in his report “Creating our Future” which assesses progress - or lack of it - towards sustainable development over the 10 years since the Rio Earth Summit. He finds that tax reform is an important step to the goal; that local government has had some impressive successes in implementing sustainable development but that central government is really not taking it seriously.
+
+So how can we take seriously the stated objective of the NZ delegation to the current Summit to “position NZ as a champion of sustainable development, at home and internationally, committed to developing and following best practice”?
+
+How can we help small island states with their concerns about sea level rise and the health of the oceans when our greenhouse emissions have continued to rise since Rio, we still slaughter thousands of threatened seabirds and marine mammals in our fisheries, and our Oceans Strategy has so far failed to fire?
+
+How can we declare a priority interest in poverty eradication when poverty in NZ has hardly improved over the last term? How can we claim a priority interest in sustainable patterns of production and consumption, and at the same time in trade liberalisation, when this inevitably means less sustainable consumption with higher energy use in long distance transport and a race to the bottom in terms of environmental standards in order to attract foreign investment?
+
+In particular, how can we claim leadership in sustainable development when reports on the pre-Summit negotiations show us aligned with the JUSCANZ countries to oppose any agreement on targets for cancelling debt, reducing poverty and providing fresh water, in favour of vague principles?
+
+Yesterday’s speech provides the clue as to why we will not make much progress on sustainable development. The Government acknowledges that our absolute standard of living has risen but sees this as a problem. Why is it a problem? Because it has not risen as fast as some other OECD countries. Standard of living of course is measured by the sum of all expenditures in the economy - GDP and the Government’s economic strategy can be summed up by increasing it faster.
+
+As long as other countries are increasing their GDP by faster throughput of natural resources, more waste, more pollution, more extinction, then if our aim is to keep up we must do the same.
+
+There is no room in this strategy to redefine standard of living as economic wellbeing, measure it with genuine measures of economic progress that subtract the expenditure on negatives, and aim for a high quality of life within the capacity of our natural environment to provide. This would count, under the Government’s strategy, as failure. Until we look specifically for quality rather than quantity of expenditure there can be no sustainable development. It’s as simple as that.
+
+Mr Speaker, the Government says it has endorsed the approach of the royal commission on genetic modification to proceed with caution and preserve opportunities. If it were in fact doing this we would be supporting it, but it is not.
+
+There can be nothing cautious about the release of genetically engineered organisms. Caution is possible with laboratory work and field trials but when it comes to approving crops or animals for growing across New Zealand in our farms or forests there are no meaningful conditions that can be applied.
+
+Nor does this approach preserve opportunities. The royal commission itself found that organic and GE crops could only co-exist if the organic standard was changed to allow 1% contamination with GE material. Growers don’t want that; consumers don’t want it. Why should it be forced on them because some other grower wants the right to contaminate?
+
+Rather than promoting caution and preserving opportunities this is a strategy of forcing a new unproven technology on to producers and consumers who do not want it all in the name of freedom for some corporates who wish to get a return on their misguided investments.
+
+Since the Government announced their policy position last October a number of things have happened which could have changed their minds. The Sustainability Council, made up of a number of eminent New Zealanders including a previous head of Federated Farmers and a current Professor and businessman specialising in genetic engineering, has called for a five year moratorium. They say no business case has been made for the release of GE and that ERMA does not have the capacity to protect us from the economic consequences of allowing release.
+
+The US and Canadian experience suggests the Government’s policy is in fact economic sabotage. Their farmers have seen their markets and prices collapse as consumers don’t want their crops. GE soy turns out to have lower yields than conventional soy. So-called pest resistant corn turns out to be more susceptible to other pests, requiring increased spraying. GE cotton has been a total failure in India and in Indonesia it has yielded less than normal varieties and required more water.
+
+In desperation, the US is trying to force GE grain on to starving countries as “aid” but even amid the famine and suffering Zambia has turned it down, recognising that if any of the food corn was planted it could destroy the country’s capacity to supply beef to Europe which will not accept meat fed on GE grain.
+
+After years of calling for seed imports to be tested for GE content my worst fears have been realised with the discovery of GE contamination in corn and maize. It is worth noting that both incidents revealed to date were discovered by industry testing to ensure they could meet the requirements of their clients.
+
+In December 2000 despite the frequent warnings officials were totally unprepared. The papers released by the Government on 12 July show complete chaos as officials lurch from a policy of destroying the crop and remaining seed to adopting the proposal of the PR agent for the US seed company involved, to set an allowable threshold for GE contamination. This was a change to NZ law (reversed some months later) and would have allowed the import and release of a few hundreds of thousands of GE seeds every season without any assessment by ERMA, the regulatory authority.
+
+What the official papers show is that that change was agreed by a few MAF and MfE officials and a few ministers; Cabinet was merely advised and ERMA (the authority) was not involved although its CEO knew and had expressed some discomfit.
+
+This is the regulatory system the Government says is the strictest in the world. At its first test it has been shown to be woefully inadequate.
+
+It is interesting that the UK Government also says its regulatory system is the best in the world. Perhaps they should be going for first equal?
+
+Because in that country many field tests of GE crops have been found to be massively contaminated with other GE strains not even approved for any kind of use. The UK Independent calls this a “breathtaking bungle by the regulatory authorities”. The Independent also reports on canola trials where, after harvesting, the stubble was allowed to grow and reflower with no controls.
+
+The same editorial describes controls on GE foods as “scandalously perfunctory” - yet these are the same foods allowed on our shelves here. It goes on “Every assurance trotted out by the industry and its fans in the Government now lies in ruins.” “Just what will it take to persuade the Government that it is disastrously wrong over genetically modified crops and food?
+
+We are asking the same question. Why, when none of the claims of the GE industry have delivered, is our Government so determined to proceed to release? Why, when no NZ product and no product offering any benefit to the consumer will be ready for release within the next three years, will the Government not extend the moratorium? Why must we move so fast to allow release when only those same failed crops like Bt corn and Roundup resistant canola will be available to release for several years?
+
+Even GE pine trees, so beloved by the Minister of Science, will not be ready in that time.
+
+The only possible explanation is that this government wants to please the US and its corporate agribusiness in order to get a Free Trade agreement with that country.
+
+It is clear from the US legislation passed recently giving trade promotion authority to the president, and from the US - NZ Free Trade Agreement Act introduced last year that the primary agricultural aim of such agreements for the US is to remove barriers for their corporations to selling their GE products into our country.
+
+We can expect the real legislation governing ERMA to be the WTO rules and the Free Trade agreement, rather than the Hazardous Substances and New Organisms Act which supposedly protects our health and our environment. The Act already forsees and provides for this situation in section 6(f) where the purpose, which is about health, safety and the environment, is qualified by a “matter relevant to the purpose” - New Zealand’s international obligations.
+
+This is one of the many ways in which a free trade agreement, and even the WTO agreements we have already signed, can nullify domestic legislation which we think is there to protect us. I can just see an ERMA decision - “many submitters have argued that this Bt corn offers no advantage to NZ farmers and risks contaminating our soil and destroying our organic certification and our markets for GE Free products but under the US Free Trade agreement we are bound to allow it in so we hereby approve it under section 6(f) of this Act”.
+
+This is just one way in which the commitment to corporate globalisation will undermine our domestic legislation.
+
+The US Secretary of Trade Robert Zoellick has identified as a trade barrier those minor restrictions we have on sales of land to foreigners. While the Overseas Investment Commission is mainly a rubber stamp and virtually always says yes, the fact that purchases of islands, sensitive coastal land and farms has to go before it for consent may deter some of the most blatant land grabs from applying. That regime is too tight for the US and is likely to be weakened still further if the Government achieves what it sees as the great economic prize of a US free trade agreement.
+
+The question is whether New Zealanders are entitled to own, enjoy and respect the resources of their own land or whether those resources are mere chattels to be traded to overseas interests in return for some monetary or other short-term gain.
+
+We believe New Zealand has already tied itself far too closely to America’s apron-strings in regard to foreign policy. We oppose New Zealanders getting involved in America’s wars and want the SAS troops withdrawn from Afghansitan.
+
+The White House continues to press ahead with preparations for an attack on Iraq. Not only would many innocent Iraqis be killed in such an assault, but it would be against all international law, the UN Charter and the practice of civilized relations between nations.
+
+We do not support the Saddam Hussein regime but an invasion by the United States will only serve to further inflame the crisis in the Middle East.
+
+The Greens will continue to promote and support peacemaking and peacekeeping of the kind New Zealand has successfully done in East Timor and Bougainville. We will continue to condemn acts of terrorism and wars of aggression by any faction or country and we expect this Government to do the same, no matter what carrots are dangled by erstwhile allies to tempt it to do otherwise.
+
+While we cannot express confidence in this government for the reasons we have outlined above we will not be voting for any no-confidence motion except the one I have just moved. We have disagreements with this government which are too great to express generalised confidence but we would have even less confidence in a government led by National and we do not support the reasons they have given for their lack of confidence.
+
+Despite our differences there are many issues on which the Greens and Labour will co-operate. In the last Parliament there were thirty pieces of legislation which passed only because of the Greens’ support. There are a number of bills currently on the Order paper which will not proceed without our vote unless United Future changes its position. There is also on-going policy development that will lead to legislation for which the Government will need our support and where we will be happy to give it. There are other issues where the Government does not strictly need our support but is willing to work jointly on developing ideas we both have.
+
+Fundamentally both parties believe in an inclusive society where no-one is discriminated against and everyone is encouraged and enabled to reach their full potential. We may disagree on the best ways to achieve it and on the degree of spending needed but on social policy there is a broad similarity of direction.
+
+The Government also says it believes in sustainable development. So far its actions have not been very consistent with that but we hope there will be opportunities to move that agenda forward too. We will continue to put forward ways in which we can have a prosperous, skilled, innovative and inclusive economy that lives within the limits of the earth’s systems provided we do not continue to hitch ourselves to league tables driven by those who have no interest in the health of the planet and all its people.
+
+The Green Party stands for an ecologically sustainable, socially just, participatory and peaceful society. We will continue to encourage the Government to share these goals.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

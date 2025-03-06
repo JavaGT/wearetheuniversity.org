@@ -1,0 +1,81 @@
+---
+slug: democracy-and-solidarity-in-doubling-refugee-quota
+title: "Democracy and solidarity in doubling refugee quota"
+date: 2018-11-29
+source-url: https://www.scoop.co.nz/stories/PO1811/S00333/democracy-and-solidarity-in-doubling-refugee-quota.htm
+author: fightback
+---
+Democracy and solidarity in doubling refugee quota
+==================================================
+
+**Thursday, 29 November 2018, 2:18 pm**  
+**Press Release: [Fightback](https://info.scoop.co.nz/Fightback)**
+
+Community, democracy and solidarity in doubling New Zealand’s refugee quota
+
+  
+Launched in 2013, the campaign to double New Zealand’s refugee quota – after three decades of stagnation – went from a radical ask to a mainstream success. In this article, the campaign’s founder discusses the way that community support and solidarity led to the campaign’s success.
+
+Today, the double the quota campaign is at a rare moment for campaigners: reflecting on a hard earned success. I review the troughs as well as the peaks, wonder at how things might have been otherwise and take pleasure in the way that a wide arc of civil society solidified around the singular ask to do more for refugees.
+
+As I speak to others and read mainstream media representations of the campaign’s success I come to see two general explanations. The first explanation draws from the discourse of politics as intrigue and heroic struggle. This approach explains the increase with reference to the savvy, even heroism, of political leaders and campaigners. In this explanation, change is achieved by a combination of moral fortitude and individual doggedness. This view of political change is singular and acute.
+
+The second explanation comes from the opposite vantage, locating success in a plurality of actors and forces. Civil society and community are foregrounded. While the first explanation offers an easy trajectory for how change comes about, the second is less direct. Change is posited as the result of either spontaneity, coincidence, luck, or a kind of tectonic build up that is eventually unleashed. If the first explanation leans too heavily on the agency of individuals, the second succumbs to a kind of unknowable, almost mystical, fatalism: the view is so diffuse that it offers nothing beyond platitudes of community empowerment.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Both of these go-to explanations simplify the five years of campaigning into a narrative that places too little emphasis on the specific organisations – of which, roughly, there was a dozen – and individuals that rallied members and associates towards this end. These organisations were civil society – such as Amnesty International and ActionStation; religious – the Anglican church, and Quakers Peace Service; anarchist – Peace Action Wellington; social-good businesses – Lush cosmetics and Scoop News; and community service providers and already resettled refugee representatives – groups like the Red Cross and ChangeMakers Refugee Forum, both of whom had to be more cautious of how public support for the campaign might impact on their funding.
+
+Alongside these groups were a similar number of individuals who offered regional organising or economic support to the campaign. These people were drawn into the campaign by pre-existing friendships, our extensive use of Twitter and Facebook and by about forty opinion articles written for almost every major newspaper and website in the country. To name and enumerate what all of these individuals and organisations did and how we came together would take a book. Hence, the recently published Doing Our Bit: the Campaign to Double the Refugee Quota. In lieu of summarising that, I want to focus on a couple of moments of community solidarity from the first third of the campaign when doubling the quota was most often seen as a radical ask.
+
+The first point to note is that community support was the means, but not the end of the campaign. The double the quota campaign was what we came to call a pressure campaign. That means that we tried to make the most acute pressure as possible on decision makers at a specific time. Compare the pressure campaign to a social change campaign which, if it were focussed on refugees, might be geared towards something like changing the New Zealand public’s attitudes towards refugees. In the pressure campaign, we had a very specific goal and it was very obvious who had the authority to make it happen. Social change campaigns don’t have such tidy or measurable ends. The benefit of the pressure campaign is that it doesn’t require massive budgets for television ads, nationwide pamphleteering or strategic lawsuits.
+
+The pressure campaign focussed on the Immigration Minister and then the Prime Minister. We aimed at three pressure points: two elections and one scheduled triennial review of the refugee quota. These specific time periods focussed the campaign on moments where we could proactively pressure the government. This might all sound obvious, but compared to the vague way I began the campaign with the ideas of putting up posters and holding protests, it was all very strategic.
+
+Despite this focus on the decision makers, we still needed to show them that the campaign had broad support. People in the tech-world speak of social proof. The concept suggests there is a threshold that organisations and campaigns need to surpass in order to have further followers feel that they’re a part of a movement that is growing. The start of our campaign focussed on a raft of measures of social proof: a thousand Facebook likes, five-hundred Twitter followers, five articles or press releases centred on or from our organisation. The assumption is that these are the metrics that people first consider and judge us on when noting the campaign, rather than the validity of the ask. In pop-psychology this approach might be described as the first-follower concept. The enthusiasm of the campaigner is less important than the enthusiasm of the first person to understand the campaign and to give their support to it.
+
+To achieve our metrics of social proof I contacted pretty much all of my personal acquaintances and explained the campaign to them asking them how they would help on a scale of one to five. Three’s would commit to sharing five posts in the next six months. Four would do that, plus some on the ground assistance in organising. Five would be available to assist in a more collaborative, open-ended manner. This filtering and volunteering secured our first community support on terms each person was comfortable with, on a time-frame that they decided.
+
+I came to see first supporters as a finite resource, but one that met the needs of social proof so we could move to the next level of reaching out to other organisations. In early 2015, Amnesty International were the first organisation to join us in the call to double the quota. They made it their focus of campaigning for the next eighteen months. As the refugee crisis became acute in Syria and surrounding countries, more organisations adopted the call to double the quota, and the campaign ask became an acceptable, mainstream position.
+
+The notion of community support changed as we started to see stories appear in the media which we had not seeded or suggested and which didn’t mention us. How is a volunteer-run organisation supposed to exist alongside organisations with decades of experience and a four-million dollar budget? One answer came through discussions with Amnesty – we had no reputation and so no one could say, ‘ugh, not bloody that lot again’. Nor were we restrained by the need to have good relationships with political parties into the future. We could say the radical things they could not.
+
+Organisations with budgets also operate through a hierarchy – social media posts and press would have to be discussed and agreed on, while I could churn ours out in the minutes after news breaks. We, like most activist-led campaigns, were nimble. But we were also friendly. As with Elias Cannetti’s Crowds and Power the perception of a growing crowd of supporters was enough to buoy all organisations instead of each closing ranks and asserting themselves based on an identity as outsiders, originators or any other antagonism that would make one more legitimate than another.
+
+The second aspect of community I want to gesture towards involves a caution about democratic logics. The tensions in New Zealand politics about migraton can be usefully analysed through Chantal Mouffe’s disambiguation of the oft-hyphened term liberal-democracy.
+
+When considered alone, most on the left saw the justice inherent in our campaign. But once the austerities of neo-liberalism were factored into people’s view of the social terrain, we heard a constant refrain to sort out ‘our own’ problems first. While the logic of the refugee as a problem or a cost without end1 to be borne is riven with blind spots, I want to dive a little deeper into arguments of us and them. Mouffe describes the need of democracies to constitute themselves by an included and an excluded – the demos who can decide how they are ruled and the outside who have no say.
+
+In contrast, it is the liberal logic of human rights without exclusions that propels the commitment to refugee protection. And yet to enact this universal right, campaigners need to work with the included group of a democracy. Central to that task has been convincing those in the democracy that liberal values are essential to the democracy’s internal functioning. As Mouffe notes, this intertwining of liberalism and democracy have been the compelling urges of most Western democracies for at least the last hundred years.
+
+In recent years, the privileging of the economic side of liberalism – read neo-liberalism – has undermined people’s faith in the pairing of liberalism and democracy, including the social forms of liberalism like human rights. And so we see the urge to tightly define who is a part of the democracy and nation, as as blaming outsiders for the ills of speculative investment and high finance.
+
+In the New Zealand case, there is a community memory of anti-racist work that is doing well to challenge the desiccating of democracy. While some people are seduced by the virile patriotism of putting New Zealanders as numero uno, many more understand that the exclusion of new migrants and refugees would never be the end of exclusions. If new refugees and migrants were excluded, then next would be migrants who are already citizens, then others who aren’t quite Kiwi enough for the steaming mess of ethno-nationalists.
+
+We saw this most acutely in the way that some of the several hundred thousands supporters of ActionStation responded to the campaign to double the quota. Most specifically, a not insignificant number of the tens of thousands drawn to the campaigning organisation around the notion of TPPA and sovereignty were horrified that the government would increase the refugee quota.
+
+The irony in much of these discussions on outsiders and inclusion is that it is those communities in New Zealand, and countries around the world, where there are the fewest refugees that are most able to let their fantasies of the refugee and conspiracy run wild. It is much harder to see migrants and refugees as barbaric hordes or plants from the UN when they merge into the banality of everyday life.
+
+1See my article ‘Refugees without end forever and ever and ever’ in Fair Borders? Migration in the Twenty-First Century, ed David Hall, Bridget Williams Books, 2017, Wellington.
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Fightback](https://info.scoop.co.nz/Fightback) on InfoPages.

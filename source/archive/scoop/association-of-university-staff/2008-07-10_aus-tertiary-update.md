@@ -1,0 +1,129 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2008-07-10
+source-url: https://www.scoop.co.nz/stories/ED0807/S00027/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 10 July 2008, 9:07 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Rationality for tertiary education in Auckland?  
+The minister for tertiary education, Pete Hodgson, has announced that the Tertiary Education Commission (TEC) will conduct a review of tertiary-education provision across Greater Auckland, the area covered by the Auckland Regional Council. The goal of the review is to identify the contribution of the tertiary-education sector “to the development of Auckland as a globally competitive city”.  
+The review is intended to produce information on the key requirements necessary to meet the above goal in light of the country’s Tertiary Education Strategy. It has also been asked to specify what the tertiary-education sector needs to do to support Auckland’s development and to recommend to the TEC an appropriate investment strategy beyond 2010.  
+“Auckland is New Zealand’s major centre of population growth and home to a range of diverse and vibrant communities,” Pete Hodgson said. “Having access to high-quality tertiary education is vital in order to support Auckland to meet the significant challenges and opportunities it faces, particularly in Counties Manukau and Waitakere.”  
+To that end, the minister has asked TEC to take into account the distinctive contributions that can be made by universities, institutes of technology and polytechnics, wānanga, industry training organisations, private training enterprises, and other tertiary-education providers. “Auckland already has a range of tertiary providers offering high-quality, relevant provision and they have an integral role both in the review and the implementation of the outcomes,” the minister added.  
+In its submission to the Royal Commission on Auckland Governance earlier this year, the Association of University Staff called for a coherent process that could be “employed to bring together TEC, tertiary-education providers, communities, business, and industry to develop a long-term plan for tertiary-education provision in the Auckland region”.  
+Welcoming the minister’s response to the needs of the region, AUS academic vice-president, Dr Grant Duncan, said, “It is high time some rationality was brought into the overall provision of tertiary education in Auckland, rather than just having every player jump into the region to compete with everone else. It is hoped, though, that the TEC review will be an inclusive process, and that the needs of staff and students will be heard.”  
+The minister has asked TEC to begin the review immediately and work closely with the Government Urban and Economic Development Office for Auckland. A report to cabinet is expected by 31 July 2009.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. University bargaining under way  
+2\. South Auckland campus positive but puzzling  
+3\. Massey and Otago raise international-student fees  
+4\. Student leaders seek universal allowance  
+5\. “Self-plagiarism” catching on  
+6\. Blue card to intensify brain drain  
+7\. Ditch honours, boost reputation  
+8\. East Timor police gas student protestors  
+9\. Diversity exaggerated in brochures
+
+University bargaining under way  
+Negotiations between the combined university unions and management representatives got under way in earnest this week, with bargaining in Christchurch on Monday and Tuesday. Central to the unions’ position are a claim for two national collective employment agreements, one for academic staff and one for general staff, to replace the more than sixteen single-employer agreements in the sector, and an across-the-board salary increase of $5,000.  
+The salary claim is in addition to the $15 million provided by government through the tripartite process to be allocated on the basis of a 1.53 percent salary increase for academic and 0.51 percent for general staff.  
+Fundamental to the unions’ proposals is a drive towards national terms and conditions of employment, including improved leave and overtime provisions, the establishment of a standard 37.5 hour working week for all general staff, and for there to be a bargaining fee ballot which, if passed, would require non-union members to pay to the unions a fee when they benefit from union negotiations.  
+Also under discussion is a proposal for the establishment of a national working group to develop a new, national salary structure for general staff, developed around an equity-based job-evaluation process and pay and employment equity reviews.  
+Following presentation of the unions’ claims on Monday, each of the eight university employer representatives presented proposals on an individual basis, with a number indicating a clear preference to retain single-employer bargaining. Only two universities, Auckland and Massey, have tabled a salary offer at this point, of 3.5 and 3 percent respectively.  
+The parties are due to meet again on 16 July, in Wellington, when it is expected the substantive debate on all proposals will occur.  
+The full details of the employer proposals can be found at:  
+http://www.aus.ac.nz/Current/bargaining/bargaining.asp
+
+South Auckland campus positive but puzzling  
+The Association of Staff in Tertiary Education (ASTE) has supported the proposed establishment of a major campus of the Auckland University of Technology (AUT) in Manukau, but has expressed some concern about the process leading up to the proposal.  
+The government is providing $25 million for the purchase of the South Auckland site to enable the university to develop the first major university base in the area. Initially catering for 190 full-time students early next year, it is expected to offer courses for around 1000 students upon completion in 2014.  
+ASTE national secretary, Sharn Riggs, responded to the government’s announcement by saying that the move is a positive one for students in South Auckland but she expressed puzzlement that the move did not seem to involve the Manukau Institute of Technology (MIT), the major provider of tertiary education in the area. “Given the direction of the tertiary-education reforms,” she said, “we would have thought that any such move would have been done in partnership with MIT.”  
+Observing that the last thing South Auckland needs is a competitive environment in which the two institutions vie for custom from a single community of students, Ms Riggs emphasised the need for more co-ordination in provision. “We are only now beginning to see the benefits of co-operation among institutions and our members need some confidence that this move doesn’t create the potential for duplication in areas such as nursing and foundation courses, for example,” she said.
+
+Massey and Otago raise international-student fees  
+From 2009, all new international students studying at Massey University will face an immediate 6 to 7 percent average increase in tuition fees and ongoing annual increases as a result of the university’s decision to remove fee-grandparenting. Grandparenting, introduced by Massey in 2005 to give international students financial stability while they studied, meant that students did not face tuition-fee increases during their courses.  
+“The decision by the Massey University council to remove these protections will severely harm international students,” said Albany Students’ Association president, Brad Heap. “This decision was made entirely behind closed doors; students had no knowledge of this move and the university did not consult with a single student on the changes.”  
+At the same time, the University of Otago council has resolved to raise international-student tuition fees by an average of 4.3 percent, with increases ranging from 2.9 percent for dental students and 5 percent for education. International students will now pay approximately $16,200 per annum for arts courses, $16,800 for education, $20,000 to $23,000 for science, and $28,000 for all postgraduate degrees. Students commencing studies in medicine will pay $51,000 in total and dental students $65,100.  
+While the increases are considerably lower than those introduced last year, when medical and dental fees went up by 12.8 percent and 33.1 percent respectively, they were opposed by Otago University Students’ Association president and council member, Simon Wilson. Mr Wilson said that the decision meant that education students, for example would face paying an additional $800 a year.
+
+Student leaders seek universal allowance  
+Student leaders at a national conference on tertiary-education issues have renewed their call for increased access to student support to promote independence from debt. Speaking in advance of the conference, the co-president of the New Zealand Union of Students’ Associations (NZUSA), Paul Falloon, said, “As the general election draws nearer, we’re making it clear that our top priority is to strike a blow to the failed experiment that is the student-loan scheme with the introduction of a universal student allowance.”  
+“While 90 percent of students undertake paid work on top of a full study load,” he said, “lack of government support sees many also forced to take out loans and charge up credit cards to make ends meet.” According to NZUSA’s Income and Expenditure Survey 2007, average student-loan debt had increased 54 percent since 2004, to a level of $28,838.  
+“While the causes are obvious, such high debt levels are deeply concerning and totally unsustainable,” Mr Falloon said. “In comparison, a universal student allowance is just smart banking, an investment in the education of New Zealanders is a smart investment in the future of our nation.”  
+“New Zealand is losing skilled citizens to the rest of the world,” he continued. “Our economy is suffering and the knowledge economy is in jeopardy. With industry groups now joining the chorus of calls for action on making education more accessible, it’s time for real solutions,” Mr Falloon concluded.
+
+World Watch  
+“Self-plagiarism” catching on  
+Pressure to publish is pushing many academics to “plagiarise” large volumes of their own work by “dressing up” their old research to appear as if it were new, a study has found. Researchers using text-matching software have highlighted the phenomenon of “self-plagiarism”, in which academics recycle sections of their previously published work without proper citations.  
+Scholars who engage in the practice, which undermines academia’s pursuit of original knowledge, can gain an unfair career advantage over their more honest colleagues, the researchers say.  
+The pilot study, by Tracey Bretag and Saadia Carapiet from the University of South Australia, found that 60 percent of authors in a random sample of 269 papers from the Web of Science social science and humanities database had self-plagiarised at least once in the period 2003-06. Self-plagiarism was defined “quite generously” as occurring when 10 percent or more text from any single previous publication was reused without a citation.  
+“The truth is that, if these authors had self-cited in each case, it is unlikely that the editors would have published their work because they would have seen that it had all been published before,” Dr Bretag said. And she believes academics need clearer rules. “I think we ask more of our students than we do of ourselves,” she said.  
+“This issue underpins everything we do as academics. Are academics here to churn out paper after paper saying the same thing over and over again? Academic work is supposed to be original knowledge creation. But as long as you reward this behaviour, it is very hard to change it,” she concluded.  
+From Rebecca Attwood in Times Higher Education
+
+Blue card to intensify brain drain  
+Serious concerns have been raised about a European Union (EU) plan to attract highly qualified immigrants because it is likely to fuel the African brain drain. At a European Parliament hearing late last month on “blue card” visa proposals, fears were expressed that easing immigration procedures for academics, researchers, and scientists from developing countries would cause economic damage to their home states.  
+Under proposals prepared by the European Commission, the EU’s executive body, blue card visas would ease immigration procedures for skilled migrants. With the cards, the migrants would be able to move more easily between the EU’s twenty-seven member states, something often hindered by red tape today.  
+There was general agreement at the parliamentary hearing that Europe fared poorly in attracting highly trained immigrants compared with the United States, Canada, and Australia. But Portuguese socialist MEP Armando França asked whether “attracting highly skilled workers from non-EU states does not undermine solidarity” with developing countries. Mr França said pro-actively seeking to poach home-grown talent from Africa and elsewhere “seems paradoxical when we see that the \[European\] union has policies to support less developed countries”.  
+“I have major doubts about this proposal,” Mr França declared and he asked whether the EU should concentrate instead on forging cooperation agreements with non-EU countries with skilled migrants sought by European universities and companies.  
+Africa is the major concern. An analysis written by the secretariat for the parliamentary committee on civil liberties, justice, and home affairs, which staged the hearing, focused on Europe’s neighbours to the south. The analysis paper voiced concerns that a blue card scheme would exacerbate the problem of brain drain from the African continent.  
+It also noted that the United Nations Development Programme had reported that outward migration cost African countries more than EUR2.5 billion (NZ$5.2 billion) through the employment of 150,000 expatriate professionals annually.  
+From Keith Nuthall in University World News
+
+Ditch honours, boost reputation  
+Abandoning the honours-degree classification system would boost the reputation of British higher education, it has been claimed at the annual conference of the United Kingdom’s Higher Education Academy. A fixation on students obtaining at least a high second-class classification is putting pressure on academics to inflate grades and is eroding public confidence in the system, according to Carl Gilleard, chief executive of the Association of Graduate Recruiters (AGR).  
+Speaking in advance of the conference, he said, “There is too much emphasis on degree classification, and we are at risk of just valuing the higher education experience on the basis of whether the student receives a 2:1 or not.” He continued, “Research has shown that a significant proportion of students ‘switch off’ from preparing for life after university and simply concentrate on getting that ‘all-important’ 2:1 - which suggests they’ve come to the conclusion a 2:2 is equivalent to failing the course.”  
+He said employers had contributed to this by failing many job applicants with a 2:2 at the first hurdle. Last year, about 64 percent of AGR members said they used the 2:1 as a screening tool. This year, this has dropped to about 55 percent.  
+“It is a move in the right direction. It does suggest that some employers are recognising that they might be missing out on some very suitable candidates,” said Mr Gilleard, who has welcomed plans to introduce the more detailed higher-education achievement report.  
+In support of his argument, he cited a recent review assessment group’s assertion that the honours classification system is “not fit for purpose” and concerns expressed by the Quality Assurance Agency that it is “arbitrary and unreliable”.  
+“The classification is a very crude measure,” he concluded. “What insight does it give, for example, as to the distance that a student may have travelled during their higher-education experience?”  
+From Rebecca Attwood in Times Higher Education
+
+East Timor police gas student protestors  
+East Timorese police have fired tear gas and arrested twenty-one students in a raid on a university campus to break up a protest over imported cars for lawmakers. About 200 students took part in the demonstration at the National University of Timor Leste to protest, saying the money would be better spent on the poor. One protester was hit by a gas canister and rushed to hospital after police entered the campus, across the street from the parliament building, and forcibly broke up the demonstration.  
+UN Police spokesperson Carlos Perreira said the students had ignored warnings to disperse, had not obtained a permit to protest, and had violated an agreement not to hold rallies within 100 metres of public buildings. “The police had to shoot three times with tear gas because the students disregarded police warnings to break up the protest immediately,” he said. The students carried banners reading “We need lower rice prices, we don’t need cars” and “The students will fight for the poor”.  
+About 500 students staged a similar demonstration last month, claiming the government had ordered 65 Toyota Landcruisers from Japan for more than US$2 million. The government says the order is for only 26 cars at US$900,000. Police were not immediately available for comment.  
+From Agence France Press
+
+Diversity exaggerated in brochures  
+In September 2000, the University of Wisconsin at Madison and the University of Idaho were embarrassed when they were forced to admit they had doctored promotional photographs to make their campuses look diverse. In both cases, non-white faces were added to real student photographs of all-white groups. Now a study of the viewbooks of hundreds of colleges and universities has found that more than 75 percent appear to over-represent black students.  
+At the universities of Wisconsin and Idaho, officials insisted that they meant well, but just about everyone agreed that Photoshop diversity isn’t the real thing.  
+A sociologist at Augsburg College, together with an undergraduate, recently studied the viewbooks of hundreds of four-year colleges and universities, selected at random. The research team counted the racially identifiable student photographs and also gathered data on the actual make-up of the student bodies.  
+The findings were that Black students made up an average of 7.9 percent of students at the colleges studied, but 12.4 percent of those in viewbooks. Asian students are also more likely to be found in viewbooks than on campus, making up 3.3 percent of real students on average and 5.1 percent of portrayed students. More than 75 percent of colleges appeared to over-represent black students in viewbooks.  
+So why are Black students more prevalent in viewbooks than on campus? “Black equals diversity for many people,” said Timothy D Pippert, an assistant professor of sociology at Augsburg, who led the study. “If you show African American students, people think that means your institution is diverse. They are defining diversity as that face.”  
+From Scott Jaschik in Inside Higher Ed
+
+More international news  
+More international news can be found on University World News:  
+http://www.universityworldnews.com
+
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct inquiries should be made to the editor, email: editor@aus.ac.nz.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

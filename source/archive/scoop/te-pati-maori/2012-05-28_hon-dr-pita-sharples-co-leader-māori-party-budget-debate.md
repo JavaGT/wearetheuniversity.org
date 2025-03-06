@@ -1,0 +1,54 @@
+---
+slug: hon-dr-pita-sharples-co-leader-māori-party-budget-debate
+title: "Hon Dr Pita Sharples, Co-leader, Māori Party: Budget Debate"
+date: 2012-05-28
+source-url: https://www.scoop.co.nz/stories/PA1205/S00495/hon-dr-pita-sharples-co-leader-maori-party-budget-debate.htm
+author: te-pati-maori
+---
+Hon Dr Pita Sharples, Co-leader, Māori Party: Budget Debate
+===========================================================
+
+**Monday, 28 May 2012, 10:24 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+24 May 2012
+
+**Hon Dr Pita Sharples, Co-leader, Māori Party: Budget Debate**
+
+So it is with the knowledge of the state of the country’s economy that we come to speak to this Budget and to tell you that we are pleased that we have been able to make some headway, i.e. in getting some assets for Māori at this troubled time—for example, our fight for rheumatic fever, which has taken a few years to double the amount. Instead of $12 million we have got $24 million now going out, because Māori are 23 times more likely to get rheumatic fever and Pacific Islanders are 50 times more likely than other ethnic groups. So the impacts of this disease are really serious and long term. Approximately 145 people die each year from that disease. Worse still, it is a disease of the Third World, developing countries, so it should not even be here.
+
+Housing is a very important thing, and that is why we have supported the social housing fund.
+
+True; it is not enough. It is a start, at least. We have turned towards that, and we are hoping that we will have a say, or our people will have a say, in the development of housing. But not only that, there is the Warm Up New Zealand programme. We have had a significant effect on the Warm Up New Zealand programme. I know now that we have reached 150,000 houses that have been warmed up, and we have added 20,000 of those houses to that programme, the Māori Party has, so we are pretty pleased that that has happened. Two nights ago I launched a cadetship programme whereby 50 trainees, and they are actually in work, have the desire to go on to pursue a career and a degree in the electricity supply industry. So we had companies like Contact Energy, InfraTrain, Mighty River Power, Northpower, Transpower, Vector, and so on, who took on Māori trainees with a view to guiding them into the industry.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+That was the end result of 150 cadetships that we have launched. And today I announced another 250 Māori cadetships, for Māori to begin this training in various occupations. That will get 1,000 into those positions over four years. Hopefully, in a year’s time we can match that with another $10 million to get another 1,000. These are the kind of things that the Māori Party has been working on. As one who has spent a lot of time on rehabilitation programmes in prisons, I am really pleased that we have been able to find $65 million towards rehabilitation programmes, which include drug programmes, job training, education programmes, and actually getting people into work. It is not going to be an easy programme, because when you do things behind the wire there is a prison culture, which makes it very difficult. But at least it is a big change from the path that the Government has taken in recent times of the hard line on imprisonment. So that has got to be a good thing that has happened there, for us.
+
+I would like to talk about the tobacco measures. This work has been led by our party ever since we got into Parliament. We believe that we should have a drive to cease smoking in this country on the grounds of what smoking contributes to ill health and the related diseases that it accentuates. We are proud to say over each of the next 4years there is going to be an increase in tobacco excise of 10 percent. So I am telling smokers now to just get ready to pay more, and more, and more—it is cumulative. We are also proud of the $20 million that the Government has put forward for a new innovation called the “Pathway to Smokefree in 2025”. This is a good thing. It is interesting that an Otago University study showed that even smokers recognise that these moves to make tobacco sales tougher, including plain packaging, which the Māori Party supports, have got to be a good move for New Zealand.
+
+There will be $132 million for the disabilities programme. Tariana Turia is the Minister for Disability Issues . We all know that this will help their way of life. It is quite a lot of money, but it is a need. There will be $7.6 million for Enviroschools . We have championed the funding of Enviroschools, Kura Taiao, right from their beginning. As far as I can tell, we are the only party that has done that until now, when the National Government has come in behind us and with us, as partners, to float this programme for another four years, and allow the programme to grow. What is good about Kura Taiao is that it teaches children respect for Papatūānuku and Rangi, Sky Father, and it also teaches them to grow food, whakatupu kai, and to learn about the environment and preservation. It is an excellent programme. It is a very good programme.
+
+Well, I have been going around the schools now for five years and this is my thing. So this is it, and we launched this programme out at a kura just last week. So these are good programmes that we have launched, despite it being a zero Budget and a hard time for us. In education there are many benefits that have come through this. Although it is reorganised money, nevertheless this is what is going out for Māori: $90 million to improve Māori early childhood services; $8.5 million resources to support kohanga reo, and te puna reo; $50 million in equity funding, especially with te reo and tikanga Māori, and $33 million to lift Māori achievement in the mainstream. I might just talk about that because we have instigated a programme called “Reading Together”, and we trialled it in two areas It was so good in bringing mothers and parents into the school to help their children with reading, that now with this Government we have put it into every—and I mean every—decile 1, 2, and 3 school in New Zealand. This has got to make a major change in the reading ability and therefore comprehension and the growth of our children in schools. There are other things, but I see you waving at me, Mr Speaker, so, thanks very much for the opportunity to talk on the Budget. Although, again, these are hard times and a zero Budget, there are benefits in there for people recognising the situation that we are in. Kia ora.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

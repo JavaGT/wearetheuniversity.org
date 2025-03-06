@@ -1,0 +1,67 @@
+---
+slug: pushing-the-boundaries-of-architectural-and-planning-practice
+title: "Pushing the boundaries of architectural and planning practice"
+date: 2016-02-24
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/pushing-the-boundaries-of-architectural-and-planning-practice-.html
+---
+Pushing the boundaries of architectural and planning practice
+=============================================================
+
+24 February 2016
+
+![Moon-hoon-image](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/pushing-the-boundaries-of-architectural-and-planning-practice-/_jcr_content/par/textimage/image.img.jpg/1456691980639.jpg "Moon-hoon-image")
+
+Moon Hoon, Seoul Prizone, 2009
+
+New and radical modes of practice in architecture, urban planning and urban design will be up for discussion and debate at the upcoming Fast Forward autumn lecture series taking place at the University of Auckland.  
+  
+Hosted by the School of Architecture and Planning, the series features eminent local and international architects and planners, who will speak on the topic _Taking on the City / Taking on Practice.  
+  
+_Grassroots political, social and urban movements have often had architectural and planning agendas and the speakers in this series will discuss this aspect of their recent work. Others will introduce their engagement with new, and some with radical, modes of practice.
+
+Fast Forward begins with renowned artist-architect Moon Hoon, fresh from exhibiting at the first Chicago Architecture Biennale, presenting a lecture called _Doodle Constructivism_. The South Korean-born, Tasmanian-raised practitioner pushes the boundaries and hybridises architecture with related disciplines in order to achieve playful, fantastic, buildings and interiors.
+
+Second in the series is Yo Shimada, founder of Japanese firm Tato Architects. His lecture _Misinterpretation_, will explain his diverse approach, illustrated by his innovative house projects, for creating positive outcomes for everyday life.  
+  
+In the following lecture, Professor Peggy Deamer, from Yale University, will present _San Precario: Prayers for Architectural Workers_. A founding member of the advocacy group, the Architecture Lobby, Professor Deamer’s work analyses the relationship between architectural labour, craft and subjectivity.
+
+Next Kenneth Bailey, co-founder of the Design Studio for Social Intervention at MIT will talk about the work of ds4si, including the Public Kitchen series, part of a larger project called The Public: A Work in Progress, which engages communities in claiming public space and focuses on social and food justice issues.
+
+The fifth speaker in the series is Julie Stout, co-founder of Mitchel Stout Architects, whose well-known, award-winning projects include Lopdell House and the New Zealand entry to the XIV Biennale di Venezia. Stout, who has a particular interest in community building and public advocacy, leads the lobby group Urban Auckland, which successfully took the Auckland Council to court for granting consent to the Ports of Auckland to expand into Waitemata Habour. She will look at the battles that architects have waged over the years trying to make Auckland a better city.
+
+Then Professor Kester Rattenbury, from the University of Westminster, London, and 2016 Architect in Residence at the University of Auckland, will deliver a lecture called _Crits and Criticism_. A writer, teacher and journalist, Rattenbury looks at her career involving the un-theoretical side of criticism, so important in teaching and practice and asks what it's for, how do we do it, and what's happening to it in the digitised, financially driven and risk-schizophrenic world of today?   
+
+This is followed by architect Allan Matson’s lecture on _Valuing Our Architectural Heritage_. A specialist in built heritage, Allan provides advice to both building owners and community groups and undertakes heritage advocacy. Over the past decade he has worked to persuade councils, property owners and the public of the value of New Zealand’s architectural heritage. Past failure by councils to properly assess that heritage, recent earthquakes and legislation requiring its seismic upgrade, and current urban intensification are now converging to threaten its survival. Allan will discuss some of the issues and initiatives being undertaken to preserve this valuable resource in a sustainable and equitable manner.  
+  
+Next architectural historian Dr James Jacobs will present a lecture about post-World War II domestic architecture, typified by the middle-class American home. These suburban households adopted casual living en masse, reinventing the dominant mode of living in Middle-America and started an inventive period of domestic architecture that included new rooms, new functions, and striking new house forms.  
+  
+Then Anne Cunningham from Te Pūtahi and FESTA will explore the energy and expertise of Christchurch’s transitional city-makers. She has a background as an international consultant (Mexico, Poland and Finland) in the management of cultural charities with several decades working in participatory development, particularly in cultural activism, architecture and urbanism. She will explore how the energy and expertise from Christchurch’s transitional city-makers has evolved and outline successful new programmes and practices that are bringing people and places together.
+
+Finally Mario Cucinella from Mario Cucinella Architects, delivers a lecture entitled _Sustainability is Diversity_. Standing in opposition to exported models indifferent to specific places, Cucinella’s sustainability is not global by definition. It is against a principle of flattening and simplification of architectural languages. Cucinella founded Green Building the Future in 2012_,_ a non-profit organisation with the goal of integrating sustainable architecture and renewable energy to improve living conditions and access to resources in developing countries, and SOS, School of Sustainability in Bologna in 2015, which focuses on sustainability training for architects.
+
+All lectures target issues relevant to architecture and planning and are intended to foster critical discussion and debate. The full list of Fast Forward autumn speakers follows:  
+  
+**Fast Forward autumn 2016_: Taking on the City / Taking on Practice.  
+_**6.30pm, the University of Auckland.  
+
+• 2 March – Moon Hoon, Moonbalsso, Seoul: _Doodle Constructivism_  
+  
+• 9 March – Yo Shimada, Tato Architects, Kobe: _Misinterpretation.  
+  
+_• 14 March – Professor Peggy Deamer, Yale University, Boston: _San Precario: Prayers from Architectural Workers.  
+  
+_• 23 March – Kenneth Bailey, ds4si, Boston: _Public Kitchen comes to Auckland.  
+  
+_• 30 March – Julie Stout, Mitchell Stout Architects, Auckland: _Victories and the Vanquished  
+  
+_• 6 April – Kester Rattenbury, University of Westminster, London; Architect in Residence 2016, the University of Auckland: _Peculiar Practices: Crits and Criticism.  
+  
+_• 20 April – Allan Matson, Auckland: _Valuing Our Architectural Heritage._
+
+• 27 April – James Jacobs, Wellington: _Bi-Levels, Split-Levels, and Split-Foyers: Living Casually in Postwar America.  
+  
+_• 11 May – Anne Cunningham, Te Pūtahi & FESTA, Christchurch: _Beyond a Transition: Te Pūtahi, Christchurch Centre of Architecture and City-making.  
+  
+_• 17 May – Mario Cucinella, Mario Cucinella Architects, Paris and Bologna: _Sustainability is Diversity._
+
+All lectures are free and open to the public. For further information visit [www.creative.auckland.ac.nz/fastforward](http://www.creative.auckland.ac.nz/fastforward)

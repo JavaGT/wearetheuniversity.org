@@ -1,0 +1,132 @@
+---
+slug: organised-crime-(penalties-and-sentencing)-bill
+title: "Organised Crime (Penalties and Sentencing) Bill"
+date: 2008-07-02
+source-url: https://www.scoop.co.nz/stories/PA0807/S00025/organised-crime-penalties-and-sentencing-bill.htm
+author: te-pati-maori
+---
+Organised Crime (Penalties and Sentencing) Bill
+===============================================
+
+**Wednesday, 2 July 2008, 9:31 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Organised Crime (Penalties and Sentencing) Bill
+
+1 July 2008
+
+Hon Tariana Turia, Co-leader of the Maori Party
+
+Tena koe Madam Speaker, tena tatou katoa.
+
+In parts of my electorate over the last week, the mountains have been brushed with snowfall.  In the quiet stillness of the fresh snow, there is a purity which is akin to wiping the slate clean.  Everyone waits for the first person to tread a new path across the front lawn, the first footprints to leave their trail.
+
+And it made me reflect on Bills that we are so hell-bent on passing into law, to crackdown on gangs, to stamp out organised criminal activity, to get tough on crime.
+
+What is the new path that we are treading here, with this Organised Crime (Penalties and Sentencing) Bill?  And where will that pathway lead us?
+
+Make no mistake.  The Maori Party is as concerned as any New Zealander is, about the mammoth costs of crime, both personal and financial.  
+
+We understand the recently estimated economic and social cost to the nation was around $9.1 billion.  The forecasted budget for the core criminal justice agencies for 2007/08 is approximately $2.7 billion.  These are extra-ordinary costs which we all know could be spent much more effectively, on building social capital.
+
+But the cost to families is just as savage.  At 150 inmates per 100,000 persons, New Zealand has one of the highest per capita imprisonment rates in the western world, second only to the United States.  And in particular, we have an extremely high rate of imprisonment for first offenders and young people.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+And if we’re not worried about this, perhaps the comment of Baroness Vivien Stern from the International Centre for Prison Studies at King's College London, might make us think again.  She came here to attend the Prison Fellowship's 25th anniversary conference and was reported to be astounded at the high rate of imprisonment in New Zealand.
+
+Baroness Stern’s comment was, and I quote, “I would have thought that ideas of equality and justice would have been stronger in the face of pressure to lock up New Zealanders”.
+
+This Bill is at its very essence, all about locking up New Zealanders.
+
+Locking them up, even though the Ministry of Justice’s recent Effective Interventions overview concludes, and I quote:
+
+“Prison is not the most effective or efficient approach to reducing crime”.
+
+And yet here we are in this Bill, increasing the maximum penalty for the offence of participating in an organised criminal group from a five year maximum to a ten year maximum term of imprisonment.
+
+Here we are in this Bill, amending section 9 of the Sentencing Act 2002 to make participation in organised criminal groups an aggravating factor which the court must take into account when sentencing.
+
+And yet, “Prison is not the most effective or efficient approach to reducing crime”.
+
+Everyone in this House is of course aware that in an Election Year, some politicians and political parties are inspired to make political capital out of the misery of violence and crime. 
+
+It is not as if this is a new issue.  In relation to the issue of gangs, one of our Judiciary reminds us, and I quote:
+
+“There is probably no subject in the field of law and order that can provoke more selective and distorted coverage from the media, or more emotive and often ill-informed rhetoric from those in authority, than gangs”.
+
+The legal authority in question was Justice Sir Clinton Roper.  The year was 1987.
+
+The thing is we have been here many times before. 
+
+In 1979, there was a Parliamentary Committee on Violent Offending; two years later in 1981 a Committee of Inquiry was held into gangs (the Comber report).
+
+The Group Employment Liaison Scheme (GELS) grew out of this report.  Another six years later in 1987, a Commission chaired by Justice Sir Clinton Roper also came up with recommendations to address the gang issue.
+
+The Bail Act 2000 made bail harder for those who were charged with serious crimes and who had been in prison before. 
+
+And here we are twenty years later, with another crackdown on gangs.
+
+Just six months ago, Mel Smith, Ombudsman, released his report to the Prime Minister in which he reminded readers, that the barren, inhumane and psychologically destructive nature of imprisonment makes offenders more likely to be recividists upon release. 
+
+He cited a research report which looked at fifty studies dealing with recividivism, which concluded that prisons should not be used with the expectation of reducing criminal behaviour, and that on the basis of present results, excessive use of incarceration has enormous cost implications.
+
+And so I return again, to the fresh-fallen snow – whose footprints are we seeking to lead us into the future?
+
+I put on record again, my utter disgust for bullying or intimidation.  I place on record again, our stand as the Maori Party, in opposing violence of any nature.  And I repeat our enormous sadness at the high rate of crime we are exposed to.
+
+But I must ask, when the Prime Minister asks the Chief Ombudsman for advice about improvements in the criminal justice system, and that advice appears to be disregarded, what hope do we have for rational debate on the sector?
+
+I remind the House of the Ombudsman’s key recommendation: ‘to establish a Commission of experienced and appropriately qualified people to investigate not only the operations of the entire criminal justice system, but to put forward explicitly, the philosophies and values which should guide its policies and practices into the future’.
+
+Mel Smith believes that a Royal Commission is both necessary and appropriate precisely because the issues of crime and criminal justice have become highly politicised; torn between two opposite philosophies – penal populism or soft liberalism.
+
+The most distressing aspect of the whole context of gangs for me, is the impact of this culture on our younger people.
+
+A recent visit from British criminologist, Kate Broadhurst, reported her analysis that in New Zealand, our school gang problems are as bad as those in Britain. 
+
+She reported that certain risk factors, such as the wearing of certain colours, or the language that students use, laid the ground for recruitment into gang culture. 
+
+And yet the Ministry of Education supposedly disagreed, saying the levels of violent behaviour were not nearly as bad as Britain.
+
+I have to say, wake up, and look at the scarves, the bandannas, the colours that we know that are being worn under school uniforms.  Wake up and find ways to work with young people which will prevent them from wanting to find a future with a gang.
+
+We cannot support this Bill.  We believe that as a Parliament we need to come up with much better answers than being behind bars.  We call on society to stop isolating its young people and create a culture of inclusion.
+
+Let’s invest in young people in every way that we can.
+
+And I have to reflect on the issues we have given priority to in this Parliament.  We have debated the Prohibition of Gang Insignia Bill; the SFO Abolition Bill; the Criminal Proceeds Recovery Bill; the Young Offenders (Serious Crime) Bill – all which emphasise violence and criminality and yet not one Bill has come to this House to address child poverty.
+
+I want to leave the last word to someone who has experienced the senseless rage of gang violence in the last month.  I am referring to the Hastings District Councillor, Henare O’Keefe, whose daughter and mokopuna hid in fear while her partner was smashed, stomped on and kicked in a brutal attack in their own home.
+
+Following this savage assault, Keefe said, and I quote,
+
+\"The community has really got to take ownership in the homes. Every parent and everyone who has aspirations to be a parent, they have really got to rethink their role and say \`Right, what sort of a child do I want to raise'.  There's no substitute for good parenting, none at all. No legislation will give you that."
+
+But he did more than talk.  Henare O’Keefe called a march, at which 2000 local people, joined together, to say ‘Enough is enough’.
+
+And in the quiet stillness of his speech, he apologised on behalf of all parents who had deprived their children of proper role models; and he laid down the challenge to our young generation, to stand up and break the cycle.
+
+His footprints are the pathway forward that we in the Maori Party, want to follow.
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

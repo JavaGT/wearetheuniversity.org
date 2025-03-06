@@ -1,0 +1,77 @@
+---
+slug: more-needed-to-reduce-persistent-gambling-related-harm
+title: "More needed to reduce persistent gambling-related harm"
+date: 2018-08-06
+source-url: https://www.scoop.co.nz/stories/PO1808/S00062/more-needed-to-reduce-persistent-gambling-related-harm.htm
+author: aut-university
+---
+More needed to reduce persistent gambling-related harm
+======================================================
+
+**Monday, 6 August 2018, 9:29 am**  
+**Press Release: [AUT University](https://info.scoop.co.nz/AUT_University)**
+
+  
+Monday, 6 August 2018
+
+The latest National Gambling Study (NGS) report, released today, confirms that although gambling participation continues to fall, levels of gambling-related harm remain unchanged.
+
+Professor Max Abbott, Director of the Gambling and Addictions Research Centre, says gambling participation dropped from 80 percent in 2012, to 75 percent in 2015.
+
+“Participation fell across most gambling forms including electronic gaming machines (EGMs) and casino table games. Paradoxically, rates of problem gambling have not similarly reduced and gambling continues to impact heavily on Māori and Pacific peoples,” he says.
+
+In 2015, two percent of adults were problem or moderate-risk gamblers. Almost a further five percent reported a lower level of risk or harm.
+
+Professor Abbott says rates of problem and at-risk gambling have stayed much the same for the past 15 years, but the number of people harmed by gambling, directly and indirectly, has increased. This is because the population has grown.
+
+The study also found that Māori and Pacific peoples are much more likely to develop problems.
+
+Professor Abbott says this is of major concern, as other research shows that gambling-related harm significantly outweighs the harm associated with drug misuse and comes close to that linked with major depression and alcohol dependence.
+
+The NGS, conducted by Auckland University of Technology (AUT) and funded by the Ministry of Health, is one of only two gambling studies in the world that has followed and assessed a large national sample over time. Because the same people are being re-assessed, it is possible investigate new cases of problem gambling and changes in individuals’ gambling behaviour and its consequences. The study provides much greater understanding than has been possible from previous research.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Professor Abbott says that although there was no change in problem and at-risk gambling rates over the first three years of the study, there were large changes at an individual level.
+
+In any given year, just over one percent or 40,000 adults become problem or moderate-risk gamblers. In the year following, 40 percent of problem gamblers remain problem gamblers and continue to experience destructive consequences and harm to family members and wider society. The remaining 60 percent become problem free or experience lower level problems. Most achieve this through their own devises as well as informal support from family and friends.
+
+“On the face of it, this paints a far more optimistic picture than once prevailed. However, we also found that a substantial proportion of ‘new’ problem gamblers had experienced problems in the past and were relapsing,” he says.
+
+“If we could follow problem gamblers for longer periods of time, it may well be that the majority are actually relapsing. High relapse is a large part of the reason why rates of harm have remained much the same in the face of declining participation.”
+
+Professor Abbott says a number of factors contribute to the development of future gambling problems. Higher gambling expenditure and frequent participation, especially involving EGMs, were strong predictors of risky and problem gambling. Māori and Pacific peoples were at higher risk.
+
+People who experienced major life events, higher levels of deprivation and psychological distress were also at much higher risk. Whereas higher household income was a protective factor. Asian ethnicities were at lower risk.
+
+Professor Abbott says that while the number of EGMs in pubs and clubs has declined, they remain heavily concentrated in high deprivation communities. He considers it highly likely that the combination of deprivation and high exposure to EGMs contributes to persistent ethnic differences in gambling-related health and social problems.
+
+He believes that an accumulating pool of past problem gamblers are relapsing over time and are being joined by first time problem gamblers from high deprivation groups and neighbourhoods. This goes a long way in explaining why rates of harm have not fallen with declining EGM numbers and gambling participation rates.
+
+The study findings have important policy implications.
+
+“To reduce gambling-related harm, relapse prevention needs much greater attention through strengthened public policy, education and treatment measures,” says Professor Abbott.
+
+“We also need to reduce electronic gaming machine numbers in vulnerable communities and modify other risk and protective factors, such as economic and social disparities, educational attainment, housing and employment. Progress on these fronts can be expected to reduce mental health and addiction disorders generally, as well as those more directly linked to gambling.”
+
+\[ENDS\]
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [AUT University](https://info.scoop.co.nz/AUT_University) on InfoPages.

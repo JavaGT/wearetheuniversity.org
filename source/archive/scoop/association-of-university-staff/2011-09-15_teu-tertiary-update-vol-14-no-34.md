@@ -1,0 +1,153 @@
+---
+slug: teu-tertiary-update-vol-14-no-34
+title: "TEU Tertiary Update Vol 14 No 34"
+date: 2011-09-15
+source-url: https://www.scoop.co.nz/stories/ED1109/S00060/teu-tertiary-update-vol-14-no-34.htm
+author: association-of-university-staff
+---
+TEU Tertiary Update Vol 14 No 34
+================================
+
+**Thursday, 15 September 2011, 2:42 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Massey staff asked to donate to university
+------------------------------------------
+
+Massey University has sent its staff a glossy magazine encouraging them to set up regular donations back to the university. The direct-from-salary donations will all go to the Massey University Foundation - a registered charity that supports teaching, learning and facilities at Massey.
+
+\"We all recognise that we want to build and maintain Massey as a world-class facility. We are, therefore committed to significantly increasing our income to invest in our future," the brochure tells Massey employees. "This fund will ensure that vital areas such as teaching, research and learning remain first class, allowing us to drive New Zealand forward and compete in the global academic market place."
+
+Staff can choose either to have their donation go towards unrestricted projects, or they can specify a specific cause, such as the Massey University Staff Fund Appeal, which will support academic and general bursaries for the development of staff.
+
+Massey notes if each of its 3000 full time equivalent staff gave $6 per fortnightly pay Massey would gather around $9 per employee or $650,000 a year.
+
+TEU national president Sandra Grey says it is astonishing that well a regarded university should feel the need to ask its own workers to dip into their pockets so it can 'remain first class'.
+
+"Luckily, for Massey one of its alumni is currently the tertiary education minister. Perhaps it should be asking him, rather than staff, for the funding to 'remain first class'?"
+
+Also in _Tertiary Update_ this week
+-----------------------------------
+
+1.  New rules for student services funding
+2.  Trades training sparks political debate
+3.  Draper and Francey to contest vice-presidency
+4.  Synchronised student protests draw police response
+5.  TEU women celebrate Suffrage Day and MMP
+6.  Other news
+
+New rules for student services funding
+--------------------------------------
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Tertiary institutions have a small window of time to respond to new government rules about how student services are provided. The voluntary student membership (VSM) bill is likely to become law on 28 September, and take effect on 1 January next year. Based on previous experience, here and in Australia, student’s associations are likely to attract small numbers of paying members, and thus need to reduce significantly the services they provide.
+
+The government has also proposed new regulations for how tertiary education institutions (TEIs) can collect and spend student service levies. These are likely to be decided at the end of the month and take effect next year. Under the proposed new regulations TEIs will only be allowed to spend their student service levies on advocacy and legal advice for individual students, careers information, financial or employment advice and guidance, counselling services, health services, media, childcare, sports and recreation facilities.
+
+That allows the possibility that levies may go towards some but not all of the services that most compulsory students’ associations provide. For instance the regulations allow tertiary institutions to fund student newspapers and radio stations but at this stage they do not appear to allow for funding cultural support and services such as music concerts or Pasifika student events.  NZUSA's co-president Max Hardy has [criticised](http://www.scoop.co.nz/stories/PO1109/S00171/new-regulation-acts-to-snuff-out-students-associations.htm) the combination of the levies and the voluntary membership bill saying they radically undermine students’ associations' transition plans "leaving associations and institutions with nowhere near enough time to plan for a voluntary membership environment".
+
+Education Directions' CEO Dave Guerin says in practice most students’ associations and TEIs will need to consider introducing services agreements. He agrees one of the big issues for institutions is managing the transition smoothly.
+
+"Most institutions have, or will soon, set their fees, while enrolment materials and processes are also well underway. (Time constraints) will be a problem both for dealing with VSM and for setting up the consultation structures for student services fees," said Mr Guerin.
+
+Trades training sparks political debate
+---------------------------------------
+
+Opposition leader Phil Goff and tertiary education minister Steven Joyce debated trades and skills during question time in Parliament last week.  
+
+Mr Joyce told Parliament the government has increased the output of industry training by 14 percent since 2008.
+
+"That is why we have created 16,500 more full-time places across the tertiary sector since 2008, and that is why we have introduced the Youth Guarantee, which will provide 7,500 places next year. That is why we are establishing 21 trade academies... and that is why we have more than trebled the number of people participating in level 1 and 2 courses with embedded literacy and numeracy in just the last 3 years."
+
+However Mr Goff disputed this, arguing "Is it not actually true that the number of people in industry-based skills training has dropped by 31,000 under this government’s watch and that the number of apprenticeships has declined, particularly in the area of building and construction, where those skills are desperately needed to rebuild Christchurch?"
+
+Mr Joyce contested that the government is no longer funding imaginary trainees as the previous government did.
+
+"In 2008 more than 96,000 people—in fact, 96,831 people—were listed and were funded by the previous government as being in industry training, where they did not achieve a single credit."
+
+Mr Goff suggested that Mr Joyce had failed to act on the advice from the Tertiary Education Commission to double the amount of funding going into training building and construction workers, to overcome a massive skills shortage.
+
+Prior to that advice Mr Joyce's government had cut $145 million out of industry training in this year's budget.
+
+Mr Joyce responded that Budget 2011 made available $48 million more for industry training and for trades-related training in polytechnics.
+
+"On top of that, we announced $55 million for job opportunities placements with the Ministry of Social Development and employers to subsidise people into industry training for trades-related training... If there is anybody interested in taking up trades training opportunities, there are hundreds and thousands of those available right now for trades training in Christchurch."
+
+In response to this debate TEU national president Sandra Grey says the bottom line is that during the 1990s the government stripped trades training out of polytechnics in the name of competition, laying the ground for the shortage of skilled tradespeople that the country faces today.
+
+"Whoever is in power needs to understand that trades training and a proper apprenticeship process needs to be planned for and funded properly," said Dr Grey.
+
+Draper and Francey to contest vice-presidency
+---------------------------------------------
+
+The University of Canterbury's Helen Kissell, and the University of Auckland's Alexandra Sims have both been re-elected unopposed as TEU general staff vice-president and women’s vice-president respectively. However, the ITP academic staff vice presidency will be a contest between incumbent Richard Draper from CPIT and Manukau Institute of Technology's Lesley Francey.
+
+Mr Draper and Ms Francey are both experienced TEU officials who many of their union colleagues will know well. Details of the election, including campaign material from the candidates, will be available soon. All TEU members who are academics at an ITP will be eligible to vote.
+
+Sharn Riggs, the union's national secretary and returning officer announced the results of a recent round of nominations for TEU officer positions.
+
+Sean Sturm, University of Auckland, John Prince, AUT, Scott Walters, Lincoln University, Diane Ruwhiu, University of Otago, Dov Bing, University of Waikato and Brian Marsh the teacher education rep were all elected unopposed to the University Sector Group. Likewise Helen Brett, University of Otago , Roland (David) Brownlee, University of Auckland and Annie Barker, University of Waikato were elected unopposed to the General Staff Sector Group.
+
+Synchronised student protests draw police response
+--------------------------------------------------
+
+Protests at Victoria University of Wellington and the University of Auckland both ended in confrontation between police and students yesterday. Victoria's student newspaper _Salient_ reports that a peaceful protest of about 150 students and supporters turned angry as students try to deliver a letter to vice-chancellor Pat Walsh. About 80 students entered the university's Hunter Building, but quickly met security guards, and subsequently police.
+
+Meanwhile TVNZ reports that police arrested two protesters in Auckland last night after about 60 people staged a protest at the University of Auckland library. The protesters said the action was over funding cuts to education, with several participants barricading themselves in on the library's ground floor. Auckland student protesters had initially been holding a teach-in in the library, discussing how to reassert student power.
+
+The two protests were part of a 'Nationwide Day of Student Action' involving students from Victoria University of Wellington, the University of Auckland and Massey University Wellington. The Auckland and Victoria groups were both calling for their respective vice-chancellors to be sacked for attacks their own university communities - Victoria protesters citing recent proposals to cut or close of programmes such as gender studies, the Crime and Justice Centre and political science, and Auckland protesters citing rising fees and the on-going dispute between university management and academic staff over their professional academic working conditions.
+
+Salient photographer Rachel Brandon has photos of the Victoria protest online.
+
+TEU women celebrate Suffrage Day and MMP
+----------------------------------------
+
+Women at several TEU branches will be celebrating the 118th anniversary of women’s suffrage next Monday. TEU women at both Victoria University and Lincoln University are hosting Suffrage Day breakfasts, while Waiariki polytechnic women have organised a series of events during the day with a strong focus on encouraging women to enrol for the upcoming election and referendum.
+
+The universities themselves are both supporting the respective breakfasts at Lincoln and Victoria, with the vice-chancellor at Lincoln funding the entire breakfast, and the vice chancellor at Victoria funding half of the breakfast.
+
+A central issue for women commemorating Suffrage Day this year is the upcoming referendum on MMP. 
+
+"Suffrage wasn't something that happened just once, a hundred years ago," said TEU women's vice president Alexandra Sims. "It's an on-going process to ensure women have fair representation and participation in all aspects of politics. MMP has given more women a voice in Parliament - that's why it's a suffrage issue this year."
+
+When MMP was introduced the number of women in Parliament rose immediately from 21 percent to 29 percent and has subsequently remained over 30 percent ever since.  
+
+"Across the world women are better represented in parliaments with proportional voting systems. If we want to protect and grow our political voice women need to vote to retain MMP at this year's referendum," said Associate Professor Alex Sims.  
+
+Other news
+----------
+
+"The sector sorely lacks strategic leadership, in part because of the games played between university managements as they deliberately construct a faux market in which they pretend to compete. That approach is, in my opinion, the single most damaging dimension of the university sector. I am often tempted to advocate a return to the University of New Zealand as an antidote to corporatisation and its effects" -  Nigel Haworth
+
+"The annual increase in food prices of 6.6 percent in the August 2011 year has outstripped wage increases of just 1.9 percent as shown in the Labour Cost Index”, says CTU Secretary Peter Conway - CTU
+
+"The QS World University Rankings last year raised questions over the investment in teaching resources in New Zealand as faculty to student ratios slipped across the sector," QS vice-president John Molony said - _New Zealand Herald_
+
+Australia has dramatically improved its position with among the highest proportion of 25 to 34 year olds with a degree, according to a new OECD report - _The Australian_
+
+More students enrolled in higher-level qualifications in 2010, while the number in lower-level certificates continued to decline. Participation rates in tertiary education increased for younger people. Upward trends in international student numbers continued in 2010 - Ministry of Education enrolment data
+
+\---
+
+TEU Tertiary Update is published weekly on Thursdays and distributed freely to members of the Tertiary Education Union and others. You can subscribe to Tertiary Update by email or feed reader. Back issues are available on the TEU website. Direct inquiries should be made to Stephen Day.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

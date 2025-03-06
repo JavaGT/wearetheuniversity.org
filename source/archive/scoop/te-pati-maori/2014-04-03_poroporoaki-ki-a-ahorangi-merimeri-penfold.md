@@ -1,0 +1,62 @@
+---
+slug: poroporoaki-ki-a-ahorangi-merimeri-penfold
+title: "Poroporoaki ki a Ahorangi Merimeri Penfold"
+date: 2014-04-03
+source-url: https://www.scoop.co.nz/stories/PA1404/S00062/poroporoaki-ki-a-ahorangi-merimeri-penfold.htm
+author: te-pati-maori
+---
+Poroporoaki ki a Ahorangi Merimeri Penfold
+==========================================
+
+**Thursday, 3 April 2014, 10:03 am**  
+**Press Release: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Poroporoaki ki a Ahorangi Merimeri Penfold
+
+E te whaea o te motu, e te reo whai mana o Te Tai Tokerau, e te kaiārahi o ngā whakatupuranga. E Merimeri, kua haere koe, kua ngaro koe! Auē, taukuri ē!
+
+E tū papaki ana ngā tai ki Te Reinga. Ka horonuku ngā onepū i Pārengarenga.
+
+Ngāti Kurī, kei te tangi tātou ki tō koutou kuia kua mate.
+
+Mā wai mātou e kohete kia whakapūmautia tō tātou reo rangatira? Mā wai ō mātou waiata e tito? Mā wai ā mātou tamariki i roto i ngā taone e ārahi ki ō rātou pūtaketanga mai i te ao Māori? E Kui, hoki atu ki ō mātua tupuna, ki ō whanaunga kua rehu atu ki tua o te ārai.
+
+Haere, haere, haere ki te pō!
+
+The Māori Party joins with Ngāti Kurī and other northern hapū and iwi to mourn the loss of Dr Merimeri Penfold (Ngāti Kurī).
+
+“We are deeply saddened to hear of the passing of Dr Merimeri Penfold, staunch advocate for the recognition of the Treaty of Waitangi, te reo Māori, Māori education and human rights,” says Dr Pita Sharples.
+
+“I particularly remember her as the big sister for all of us Māori students in the 1960’s, being only a handful compared to today’s numbers. She has been a stalwart at Auckland University for all things Māori and together with Distinguished Professor Dame Anne Salmond many initiatives were pioneered in support of Māori student progress during her time.”
+
+“Merimeri was also the infant teacher at Ratana Pā school in the 1960s. She was absolutely committed to the advancement of whānau, hapū and iwi particularly through her leadership positions in the Māori Women’s Welfare League. Her life has been one of service to the people,” says Māori Party Co-leader Tariana Turia.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Dr Merimeri Penfold was a Commissioner for the Human Rights Commission, lectured in te reo Māori at Auckland University for more than 30 years, was a member of the Māori Education Foundation and the University of Auckland Marae Establishment Committee and an executive member of the Broadcasting Commission from 1989 to 1991. Dr Penfold was also a co-member of the editorial team that worked on the seventh edition of Williams Māori Language Dictionary. She was made a Companion of the New Zealand Order of Merit for services to Māori in 2001. In 2008 she was also awarded a Te Waka Toi Award ‘ Te Tohu Aroha mō Ngoi Kumeroa Pewhairangi’ for her contribution to te reo Māori.
+
+“Merimeri’s love of te reo Māori and its place in Aotearoa-New Zealand was implicit in everything she did. Her compassion for all people was obvious in her work in the area of human rights as well as her absolute belief that human rights for all New Zealanders derives from the Treaty of Waitangi,” says Māori Party Co-leader Te Ururoa Flavell.
+
+“Nā reira e te kuia, e te taonga a te mate, whakangaro atu rā ki te pō ē.”
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

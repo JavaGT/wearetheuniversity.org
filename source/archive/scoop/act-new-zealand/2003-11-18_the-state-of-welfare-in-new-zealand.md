@@ -1,0 +1,107 @@
+---
+slug: the-state-of-welfare-in-new-zealand
+title: "The State Of Welfare In New Zealand"
+date: 2003-11-18
+source-url: https://www.scoop.co.nz/stories/PA0311/S00352/the-state-of-welfare-in-new-zealand.htm
+author: act-new-zealand
+---
+The State Of Welfare In New Zealand
+===================================
+
+**Tuesday, 18 November 2003, 9:10 am**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+  
+The State Of Welfare In New Zealand
+
+Speech to the Annual General Meeting of the Northern Division of the Presbyterian Support Services, Whangarei
+
+Thanks for inviting me to the Annual General Meeting go the Northern Division of the Presbyterian Support Services, one of New Zealand's oldest social service providers and a model of private sector partnerships. Presbyterian Support has made an impressive commitment to continual improvement to deliver more effective services through innovation - finding better ways to build on the strengths of people and families in a holistic and multi- dimensional manner.
+
+I know that the contracting environment you work in today is more challenging than ever and that as a non-Maori provider your hurdles are higher, but I urge you to persevere. You are doing a great job as a leading edge provider supporting people who are the most vulnerable in society to have a better quality of life and for that you all deserve medals!
+
+I have been invited here tonight to give a frank view of the state of welfare in New Zealand, I apologise up front if my remarks offend your sensibilities. I have worked hard during the last seven years to educate myself about the problems facing our families and our nation, and I have learnt a great deal. Officially, that's the reason I am here tonight, to share some of those views. But more importantly I'm here as a mother who can no longer stand by and condone a welfare system that is destroying lives and damaging children.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Everyone of us here tonight knows that every day there are children born to fail. They will not enjoy the love, support and security they should expect in normal family life, but will face risk, fear and violence ... often from the very people they should be able to trust.
+
+These are the children who have been failed by governments who have designed and perpetuated a welfare system that destroys family values and erodes parental responsibility to the extent that tens of thousands of children are now exposed to abuse, violence, crime, drugs and alcohol - on a daily basis.
+
+These children of broken families who live in unstable welfare dependant houses overwhelmingly make up the 25,000 clients of Child, Youth and Family. Yet Child, Youth and Family, the failing government department that should be helping these children, is wracked with deep and systemic problems of its own. CYF's workers, trying to cope with New Zealand's most difficult families, have a Minister who, unbelievably, refuses to accept any responsibility for the department. Well I say that if Ruth Dyson will not accept responsibility for CYF then she should pass the job on to someone who will take responsibility because in politics, the buck stops with the Minister.
+
+This situation is very, very serious. WE have already seen Labour's Senior Social Welfare Minister Steve Maharey, who had been in charge of the department since 1999, slide out from accepting any culpability one he realised how damming the government's Baseline Review was gong to be. And now we have a new Minister who has categorically stated that she will not accept ministerial responsibility. That leaves us in the very difficult and potentially explosive situation of have a state agency that takes children into care, but a government that refuses to take responsibility.
+
+Not only is this a recipe for disaster, but the ultimate conclusion is that Labour has washed its hands of child welfare in New Zealand. In doing so not only it is failing the most vulnerable citizens in our society but it is also hanging those social workers, who are trying their best to cope under extremely challenging circumstances, out to dry.
+
+It is now my considered view that in light of the deepening crisis in child welfare in New Zealand, the Department of Child, Youth and Family as it presently operates is charged with an impossible task. I believe it is now time to modernise and rebuild our child protection strategies from the bottom up.
+
+The problem for the department is that is was established in the nineteen eighties when the traditional family was strong and long term welfare dependency had not been created.
+
+Today the picture is very different. One third of New Zealand children now live in benefit dependant families. The overwhelming majority of these children no longer have a mother and father who are married. Some welfare recipients have been on welfare since the seventies with many being second and third generation welfare dependants. Those that have children have little understanding of the values that drive parents who work for a living, who strive to give their children a better life than they themselves have had and who take their responsibility to raise their children to be hard- working, successful, contributing citizens seriously.
+
+While these people are the victims of a welfare system that had now gone seriously off the rails, right up until the seventies welfare used to work. There were never more than 40,000 people on benefits and the Labour department knew the name of everyone who was unemployed. Back in 1972, it all changed: Labour swept into power, lifted benefit levels and introduced the domestic purposes benefit. As a result there are now almost 400,000 working age adults dependant on welfare, in spite of the best economic conditions in decades and a critical shortage of skilled and unskilled labour. The ratio of full time workers to beneficiaries has now changed form 28:1 to 4:1 and is set to become unsustainable.
+
+While the Labour government is presently crowing about low unemployment, it has failed to address entrenched welfare dependency. The numbers of people on Sickness and Invalid Benefits have skyrocketed and the softening of requirements for the DPB, including the fact that recipients are not required to take a job until their youngest child is 18 years old, means that the problems are set to get worse. On top of that, and in spite of Labours rhetoric, the number of people who have been out of the workforce in the long-term is still unacceptable high.
+
+And when the economy turns down, as it inevitably will - especially when New Zealand's relatively buoyant economy can be largely attributed to two "mistakes": the fall in confidence after Labours 1999 election which drove down the dollar.
+
+Producing high rural and export returns, and the influx of 30,000 extra unplanned immigrants following the September 11 terrorist attacks - the problems will get worse.
+
+Not only that, but Labour has failed to address the real problem - the welfare system's perpetuation of an underclass of welfare dependents who treat children as a meal ticket - unplanned and unwanted babies born to parents who have no intention of dedicating their lives to their upbringing.
+
+I believe it is long past time to once again promote adoption as the best choice for not only these unwanted babies, but for any child who is subjected to persistent abuse and neglect.
+
+I hope you can now begin to understand my passion for welfare reform: having a system that supports people in genuine need but requires those who can work to work, to take responsibility for earning living, for supporting their family and becoming a positive role model for their children.
+
+That means changing the welfare system for the able-bodies, introducing time limits and mandatory full-time programmes of work, education, training, job search, adult literacy and innumeracy, programmes designed to help the participant become job-ready. Proving childcare support, transport help, even relocation assistance to those who need it.
+
+Such pro-work programmes are designed to develop the habits, skills and disciplines of the workforce and must be modelled on employment: if you don't turn up or turn up late you don't get paid and if you have more children there is no financial gain.
+
+This is a system that has worked well overseas and with some adjustment could work just as well here. Over time, it would eliminate New Zealand's underclass, dramatically reducing the number of children at risk of abuse and neglect.
+
+But more needs to be done.
+
+Just last week, two reports by the Children's Commission and the Chief Social Worker into the deaths of 12 year old Saliel Aplin and her 11 year old sister Olympia Jetson outlined serious concerns about the fragmentation of social work practice in New Zealand:
+
+"Many opportunities for appropriate intervention were lost because no single agency had the whole picture, or a complete understanding of the risks present in their lives. No one agency stepped back and asked: \`What is going on here? Are these children safe?
+
+New Zealand has a fragmented approach to the wellbeing of children. While there is not a lead agency responsible for them their rights, interests and wellbeing will continue to be compromised."
+
+That is why our child welfare agency need to be rebuilt as a one-step county based family service with police, welfare, health and education professions working together as a team with the goal of reducing child abuse in their community. This model is used overseas and was the basis of the successful Starship Hospital "Puawaitahi" initiative.
+
+Such an agency would know the relatively small number of at-risk families in each community, and could use their network of Family Start, police, youth aid officers, school social workers and community social service experts - like Presbyterian Support - to proactively support those families as soon as difficulties arose rather than waiting on the sidelines for a crisis to occur and children to be harmed.
+
+Further, the responsibility for establishing whether a child abuse crime has taken place should rest squarely with the police's Child Abuse Team - as occurs in Australia - who should focus on bringing the offenders to justice.
+
+There are two other family law issues that I also believe would help to reduce child abuse in our community: introducing \`shared parenting' and opening up the Family Court.
+
+When a couple separates, there should be an assumption that the children will retain frequent and ongoing contact with both their mother and their father as well as both sets of extended families - shared parenting - unless of course one of the parents is unfit.
+
+Since natural parents are a child's best form of protection from harm and the best form of support, our present custodial laws which all too often eliminates non-custodial parents and their families from a child's life should be changed.
+
+Similarly, children who are the victims of family breakdown should be able to enjoy the benefits of an open Family Court since openness has been seen to reduce the bitter litigation that fuels custody battles by encouraging mediation, and it also produces a dramatic reduction in false allegations against parents. Further, child welfare agencies operating in an open court environment are seen to rapidly improve their performance, resulting in a significant reduction in the number of children in care and better stewardship of difficult cases.
+
+I started out raising serious concerns about the Labour Government's failure to provide an effective child welfare service to protect New Zealand's most vulnerable children and I have outlined here are changed - reforming welfare, encouraging adoption, rebuilding a county-based family service, introducing shared parenting, and opening up the Family Court - child abuse will continue to grow like a cancer deep with New Zealand society.
+
+I know the situation can be turned around and I know that organisations like Presbyterian Support can play an important part. Let's hope that Labour recognises that firstly it must accept responsibility for what is happening child welfare and secondly recognises that a new approach is needed.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

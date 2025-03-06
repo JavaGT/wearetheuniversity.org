@@ -1,0 +1,321 @@
+---
+slug: key-canterbury-westland-regional-conference
+title: "Key: Canterbury-Westland Regional Conference"
+date: 2008-05-12
+source-url: https://www.scoop.co.nz/stories/PA0805/S00180/key-canterbury-westland-regional-conference.htm
+author: new-zealand-national-party
+---
+Key: Canterbury-Westland Regional Conference
+============================================
+
+**Monday, 12 May 2008, 9:32 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+John Key MP
+
+National Party Leader
+
+11 May 2008
+
+**Speech to the National Party**
+
+**Canterbury-Westland Regional Conference**
+
+_Christchurch_
+
+Thank you for your welcome. The Canterbury-Westland branch of the National Party has put on a great regional conference.
+
+It’s good to feel the election-year buzz in the air. That’s a buzz born of excitement but also, I hope, a sense of the size of the task ahead of us.
+
+2008 represents a huge opportunity for the National Party, but more importantly it’s a huge opportunity for New Zealand.
+
+As I travel up and down the country, from Nelson to the suburbs of Auckland, from schools to small businesses, from public meetings to marae, I am hearing a consistent message from our fellow New Zealanders: They are ready for change. They are tired of this Labour Government and they sense that Labour is simply tired and unfocused.
+
+New Zealanders are looking for a government that puts their needs first and that can give them real hope for the future of this country.
+
+They want a government that is thinking about how to make the most out of tomorrow, not how to cover up the mistakes of yesterday.
+
+They are looking for fresh leadership, with fresh ideas, that is focused on tackling the problems they increasingly confront in their everyday lives.
+
+National’s task over the coming months is to prove to Kiwis that we are ready to form the government they hope for and deserve.
+
+There is no doubt in my mind that our MPs and our candidates are ready. We have the ideas. We have the determination. We have the energy. We have the vision. And we are hungry for the opportunity to give this country the fresh leadership it so badly needs. We’re going to campaign hard and we’ll be relying on your help.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+**Acknowledgments**
+
+Each and every National Party member, volunteer, and supporter is needed to make this year’s campaign a success. So let me take this chance to thank all of those who will play a part in ensuring that election 08 delivers Kiwis the positive change they deserve. Your contributions are essential and I am very grateful for your efforts.
+
+I’d like to express my particular thanks to National Party President Judy Kirk. Judy works tirelessly for this party and I am hugely appreciative of the experience and energy she brings to our team. I’d also like to thank Canterbury-Westland Regional Chair Roger Bridge.
+
+And, of course, our National Party Members of Parliament. Our caucus is in fighting form. I’m privileged to be leading a team of men and women with talent, determination, and a real understanding of the communities they are in Parliament to serve.
+
+Today I’d particularly like to acknowledge Ilam MP Gerry Brownlee. Gerry’s work as Shadow Leader of the House is a vital driver of National’s performance in Parliament. And it’s a job he’s been doing extremely well.
+
+Finally, let me welcome on board Canterbury-Westland’s new candidates – Marc Alexander, Aaron Gilmore, and Terry Heffernan. Best of luck for your campaigns, guys.
+
+**The case for change: Kiwis are hurting and Labour has no solutions**
+
+Let’s be clear about what we’ll all campaigning for this year – we’re campaigning to make Kiwis’ lives better.
+
+By and large, New Zealand is a great place to live, work, and raise a family. But right now, thanks to Labour, everyday Kiwis are really hurting. The past nine years have been a story of lost opportunities. Labour has failed to turn the years of good economic weather into increased financial security for Kiwi families.
+
+Labour should have used the good times to lock in real improvements in our economy, to cut tax, to improve economic productivity, to build effective public services. If it had done that, Kiwis wouldn’t be feeling the pinch so badly now.
+
+Instead, Labour has seriously mismanaged the economy. The results of its failure are everywhere to be seen:
+
+• Interest rates have doubled. They’re now the second highest in the developed world.
+
+• The largest quarterly loss of jobs since 1989.
+
+• 43,000 Kiwis leaving for Australia every year – a 20-year high.
+
+• Households going deeper into debt just to meet the basic costs of living. Total household debt has more than doubled but Michael Cullen’s surplus just keeps growing. As does the core bureaucracy.
+
+• After-tax wages falling further and further behind those in Australia.
+
+• Aussies are promised yet another tax cut and Kiwis are told to wait longer, for less.
+
+• Public services are underperforming. Doctors are striking. More kids are playing hooky. Greenhouse gas emissions are up. Violent crime is up.
+
+ And, to top it all off, the economy is slowing dramatically.  
+
+
+Those are the facts of Labour’s record. Helen Clark and Michael Cullen can dream up as many excuses as they like, but the results of their economic management speak louder than their rhetoric ever will.
+
+If this is what Labour can deliver after eight years of good global economic conditions, then why should voters trust it to turn things around in the bad times?
+
+While Helen Clark and Michael Cullen will desperately try to make amends in the coming Budget, the truth is there is nothing they can do that could possibly excuse them for the mess they’ve already created.
+
+• Committing around a billion dollars to buy back trains won’t solve it.
+
+• Hiring hundreds of new foreign affairs bureaucrats won’t solve it.
+
+• A screw-the-scrum Electoral Finance Act won’t solve it.
+
+  
+None of those things will do anything to help families afford the groceries each week, improve after-tax incomes, or stop the flood of Kiwis leaving for Australia.
+
+And a last-minute election-year tax-cut won’t solve it either. It’s too late and it’s not enough.
+
+If New Zealanders had that money last year or the year before, it could have paid down more of their mortgage, wiped their credit card debt or saved for a house deposit. But Labour has been asleep at the economic wheel, blinded by the ideological belief that it knows best how to spend your money.
+
+New Zealand needs a Government that is focused on the big economic challenges our country is facing. We need a Government that has a serious, considered plan for delivering financial security to New Zealanders, for balancing our economic opportunities and our environmental responsibilities and for delivering high quality public services.
+
+That’s what National has and that’s what we will deliver.
+
+**National’s Economic Plan**
+
+National knows that urgent action is needed to ease the financial burden currently suffocating Kiwi households.
+
+We also understand that if New Zealand is to meet the challenges of an increasingly competitive world then we must make a step change. New Zealand must make a step change to deliver our children and grandchildren the wages and living conditions they have a right to expect.
+
+We have an economic plan to deliver that step change. This five-point plan isn’t a short-term set of Band-aid solutions. Our economic plan focuses on the long-term needs of New Zealand. In good times and in bad, National will be resolutely focused on strengthening our economy and delivering better wages and living conditions to New Zealanders.
+
+One, National will deliver an ongoing programme of personal tax cuts.
+
+Two, National will take a disciplined approach to government spending, so interest rates track down, not up.
+
+Three, we will stop the massive rise in head-office bureaucracy that Labour has encouraged, and we will deal with the regulatory and compliance issues that smother Kiwi businesses and families.
+
+Four, National will have an unwavering focus on improving education standards.
+
+And, finally, number five, National will invest in the infrastructure this country desperately needs to grow.
+
+Last month I was very pleased to announce a vital part of National’s infrastructure commitment: Our ultra-fast broadband plan. As you know, for several years the availability of affordable fast broadband Internet services has been severely limited.
+
+I believe New Zealand needs ultra-fast broadband connections to future-proof our economy and maintain an edge in the modern world. Together with my caucus, I have carefully considered what National will do in Government to achieve this.
+
+We will invest up to $1.5 billion to accelerate the roll-out of ultra-fast fibre to the home of 75% of New Zealanders. In the first six years, priority will be given to business premises, schools, health facilities, and the first tranche of homes.
+
+National will also take steps to accelerate the roll-out of high-speed broadband services to rural and remote areas. As a first step, we will double the size of the Broadband Challenge Fund, and give it the primary focus of providing fast broadband solutions for remote and rural communities.
+
+National’s broadband plan will be a growth-enhancing investment that will help New Zealand take a step up. It will provide positive returns to the economy as a whole which, in turn, will benefit all taxpayers.
+
+Independent experts estimate the benefits of a plan like ours will be worth between $2.7 billion and $4.4 billion a year to New Zealand.
+
+This broadband plan vividly illustrates just how different National’s investment approach will be from Labour’s. While National will invest in the technology that will dominate the next century, Labour has chosen to invest in the technology of 150 years ago, in the form of a train set – which was already there.
+
+National’s infrastructure goals, like all the elements of our economic plan, are focused on future-proofing the economy. We are ambitious for New Zealand and we are focused on the things we need to secure our future prosperity.
+
+**The Emissions Trading Scheme**
+
+In realising those ambitions, National will be careful to balance our economic opportunities with our environmental responsibilities.
+
+At this Regional Conference last year I spoke of the important role a clean green environmental brand will play in New Zealand’s future. As a responsible international citizen, New Zealand must do its best to reduce greenhouse gas emissions. We need sound, practical environmental policies. What we don’t need is more inflated rhetoric of the type promoted by Helen Clark.
+
+Far from heading toward carbon neutrality, emissions have gone up every year Labour has been in government. Labour’s programmes – such as the negotiated greenhouse agreements, animal emissions levy, carbon tax, and solar water heating initiative – have all turned to custard.
+
+So, it’s little wonder that National is sceptical about Labour’s proposed emissions trading scheme.
+
+While National supports an emissions trading scheme in principle, we have reservations about the timing of Labour’s legislation and the effect it will have on households in its current form. The simple reality here is that just as you can’t trust Labour on tax, you can’t trust them on climate change, either.
+
+National wants to build consensus on climate-change issues, and ensure the wider economy, and the financial security of Kiwi families, aren’t sacrificed in pursuit of a poorly thought-out emissions trading scheme.
+
+And, in addition to balancing our economic opportunities and environmental responsibilities, National will work hard to improve the public services that New Zealanders rely on.
+
+Because, despite Labour’s big-spending ways, the fact is that just as they have failed to deliver an economic dividend to New Zealanders, they have failed to deliver a social dividend as well.
+
+**Labour’s crime failure: National’s plan to crack down on P and gangs**
+
+This failure is showcased in growing hospital waiting lists, illiterate and innumerate school leavers, and in rising crime levels, and it’s that last point I want to single out today.
+
+  
+Labour came to power saying it would be tough on crime, and tough on the causes of crime.
+
+New Zealanders rightly expected that meant Labour would ensure they could feel safer in their own homes, in their communities, and when they ventured out at night. But, sadly, this is not the case. Labour’s record on crime is clear:
+
+ Violent crime has risen.  
+  
+ Violent youth crime has risen.  
+  
+ Drug-related crime has risen.  
+  
+ And gang-related crime has risen.  
+
+
+The cycle of violence and law-breaking isn’t just a statistical reality – it has a very human face. When crime gets out of hand, everyday New Zealanders are robbed of the right to feel safe.
+
+Things have become so bad here in Christchurch that Mayor Bob Parker has said he wouldn’t recommend walking in the city streets after midnight.
+
+That's not an acceptable state of affairs. Christchurch should be a beacon city for our country and a showcase for what New Zealand has to offer. Soaring violent crime is not consistent with those goals.
+
+So I congratulate Christchurch Mayor Bob Parker for his commitment to tackling crime in Christchurch. In Government, National will ensure our law and order policies assist him in his efforts to reduce crime.
+
+All New Zealanders need to know that improving their security is an important part of National’s vision.
+
+There are four key areas where National has already announced law and order policy. They include:
+
+• Improved rights and services for victims of crime.
+
+• New and practical youth justice initiatives, with increased tools for the Youth Court, including Fresh Start Programmes to instil discipline and personal responsibility in young offenders.
+
+• Tougher bail laws to ensure the public is protected from dangerous criminals.
+
+• An improved toolkit of powers and resources to assist the police.
+
+  
+On the one hand, these policies are about better protecting the public from known dangerous criminals. On the other hand, they’re about tackling the root causes of criminal offending.
+
+Today, I want to lay out National’s approach to one of the major causes of criminal offending in New Zealand: illegal drugs.
+
+In recent years, the illegal drug that has caused more problems than any other is ‘P’, or pure methamphetamine. New Zealanders up and down the country have shared with me their concern about this frightening drug. It’s dangerous, it’s devastatingly addictive, it leads to violence, and it destroys lives.
+
+Disturbingly, as gangs have become more powerful in New Zealand, ‘P’ has become more and more available.
+
+• In Canterbury alone, an offence related to the possession, supply, or manufacture of ‘P’ now occurs once every three days.
+
+• Nationwide, the number of ‘P’ offences has tripled in just four years.
+
+• Official analysis puts the ‘P’ trade at the billion-dollar mark and rising.
+
+This increased availability of ‘P’ has, in turn, led to increased crime rates, with younger and younger kids becoming involved in the trade.
+
+The clear association between ‘P’ and violent crime was clearly illustrated by the case of the Auckland youth gang the Killer Bees. In January, they were shown to be one of the many gangs that are resourcing their criminal activity and random violence with a ‘P’ dealing operation.
+
+There’s no doubt that this drug is a major force behind growing crime rates:
+
+• Around one in 10 people arrested for a crime admit they’ve been using ‘P’ in the lead-up to that crime.
+
+• Record-levels of assaults on police men and women have been attributed to ‘P’. In the words of Police Association President Greg O’Connor: “More people are on it, so more people are prepared to have a go”.
+
+• It’s been a factor in several murder cases, including the killing of schoolgirl Coral-Ellen Burrows.
+
+  
+Meanwhile, Labour’s record on this drug is one of abysmal failure.
+
+Just two weeks ago, Labour’s Justice Minister, Annette King, conceded on the front page of the New Zealand Herald that her Government was losing the war on ‘P’. That is a shocking admission.
+
+Even more shocking than that was Labour’s response. Instead of taking immediate action to crack down on this awful drug, Labour put off legislative action against ‘P’ gangs in favour of more reports, more hand-wringing, and more interdepartmental working groups.
+
+If Labour is no longer prepared to put themselves in the driver’s seat to tackle ‘P’, then they should make room for new leadership that is. National will offer the leadership needed to crack-down on ‘P’.
+
+Today, I’m sending a warning to every single ‘P’ dealer, every ‘P’ manufacturer, and every gang involved in the ‘P’ trade: National will not put up with your criminal activity. A National-led Government will launch a serious assault on this drug. And the number one way we will do this is by cracking down on the criminal gangs that manufacture and distribute it.
+
+We will make targeting and undermining criminal gangs a key priority for the police. In mandating this priority, we will give the police significant new powers to enable that crack-down.
+
+As a matter of urgency, National will pass laws that will dramatically reduce the power and legitimacy of gangs.
+
+1\. We will give the police increased legal powers to listen in on gang communications and conduct surveillance of their comings and goings. If police suspect a gang of involvement in the ‘P’ trade then we want to give them every chance of busting their operation  
+2.  
+3\. We will give police and local authorities increased power to storm gang fortifications and destroy them.  
+4.  
+5\. We will strengthen the provisions in the Crimes Act that make it illegal to be a member of a criminal organisation. We want law enforcement agencies to have the power to crack down, not just on the foot soldiers’ doing the ‘P’ dealing, but also on the gang leaders who are overseeing the operation.  
+6.  
+7\. We will give the courts increased sentencing powers for dealing with those involved in gangs. We will amend the Sentencing Act to make membership of a gang an aggravating factor in sentencing.  
+8.
+
+In addition to these four immediate steps, National will work on developing new legal mechanisms to give law enforcement agencies and courts an appropriate range of powers for discovering and punishing those involved in the ‘P’ trade.
+
+Finally, National will investigate banning known ‘P’ dealers and manufacturers from having the right to electronic bail or home detention. We view these drug-related offences as dangerous to the public and we believe those responsible for them should be sentenced accordingly. We will also ensure that those accused of ‘P’-related crimes don’t escape trial on the basis of court backlogs.
+
+Taken together, these policies – an increased emphasis on breaking up ‘P’-dealing gangs, increased police powers for catching them, and tougher consequences for those who are caught – will make it much, much harder to be involved in the ‘P’ trade in this country.
+
+Labour has talked some talk on gangs, but at every turning point they have favoured deferral and inaction over tough measures. This failure of will has allowed the ‘P’ trade to flourish.
+
+National has the will necessary to get tough on ‘P’. We have practical policies for achieving this and we are absolutely committed to reducing this key cause of crime in New Zealand.
+
+**Conclusion**
+
+Taken together, National’s economic plan, balanced against our environmental responsibilities and backed up by a commitment to quality public services, can deliver Kiwis the security and quality of life they deserve.
+
+National will lead a better managed government which focuses on strengthening our economy, returning fairness and incentives to our tax system, retaining our best people in New Zealand, keeping dangerous prisoners away from our communities, improving our healthcare, and ensuring standards in education that equip our children with every opportunity to succeed in our modern world.
+
+As Prime Minister I promise to bring energy, fresh thinking, and straightforward, practical ideas to the job.
+
+Over the past 18 months I have announced policies that illustrate that approach. Policies like National’s Youth Guarantee, which includes no-fees school-level education for all under-18-year-olds, whether that be at a typical high school, a polytechnic, wananga, or at a private training establishment. Policies like our Fresh Start Programmes for young offenders, which will combine the best youth justice expertise with the use of facilities like those offered by the army. Policies like a crack-down on criminal gangs.
+
+You can be sure you will hear more examples of our approach in the months ahead.
+
+I also promise to bring a sense of optimism about New Zealand and its future.
+
+I truly believe we live in one of the best countries on earth, and I believe we can be far greater still. But to be as good as we can be, we have to constantly think about tomorrow, and next year, and the decades ahead. We can’t get bogged down by fads, distractions, or the ideological battles of the past.
+
+I’m just not interested in the tired old political debates from 20 or 30 years ago. I believe New Zealand’s future depends on grasping good ideas, no matter where they come from, and putting them into action.
+
+I know that the National Party has the energy and determination to win this election and lead this country.
+
+Over the next five to six months, between now and election day, we must prove ourselves to Kiwis by being resolutely focused and disciplined.
+
+Victory will be hard-won. We’re up against some of the most wily and tricky politicians in the business. Labour is desperate and it will stoop to just about anything to win.
+
+So, during what I’m sure will be a challenging few months, we must never lose sight of what we are fighting for. In this election, we’re not just fighting for a National Party victory – we’re fighting for a better future for New Zealand.
+
+While Labour may think this election is all about another trophy in the cabinet, National is focused on giving this country a real future.
+
+Every one of us must raise our sights to that goal and resist the temptation to be drawn into petty sideshows.
+
+I know that the people in this room are hugely frustrated by the day-to-day workings of the Electoral Finance Act. I share your frustrations. But don’t despair, the EFA won’t beat us. Labour‘s attempts to screw the electoral scrum are based on an under-estimation of the intelligence of Kiwi voters.
+
+It doesn’t matter how many millions of dollars of public money Labour spend on swish government ads, Kiwis will be judging Labour on its record – its record of sky-high taxes, wasteful spending, poor public services, and missed economic opportunities.
+
+New Zealanders work hard, do the right thing, pay their taxes and try hard to raise their families responsibly. They have a right to a government that is focused on the issues that matter and that is committed to a plan that will build a stronger future for this country.
+
+National is the only party ready to deliver New Zealanders the government they deserve.
+
+Election 2008 is this party‘s big opportunity. Election 2008 is New Zealand’s big opportunity.
+
+Let’s make the most of it and deliver change in 2008.
+
+**ENDS**
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

@@ -1,0 +1,124 @@
+---
+slug: tariana-turia-speech-on-2011-budget
+title: "Tariana Turia Speech on 2011 Budget"
+date: 2011-05-19
+source-url: https://www.scoop.co.nz/stories/PA1105/S00464/tariana-turia-speech-on-2011-budget.htm
+author: te-pati-maori
+---
+Tariana Turia Speech on 2011 Budget
+===================================
+
+**Thursday, 19 May 2011, 5:27 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Taxation (Annual Rates and Budget Measures) Bill
+
+Hon Tariana Turia, Co-leader of the Maori Party
+
+Thursday 19 May 2011; 5.10pm
+
+The Bill that we are speaking about gives effect to tax reforms announced in Budget 2011 to reduce the fiscal costs of the Kiwisaver and Working for Families tax credits programmes.
+
+This budget was never going to be a walk in the park.
+
+The astronomical fiscal impacts of the 6000 earthquakes that have accumulatively taken their toll on Canterbury, was unprecedented and certainly not anticipated. And then of course there have been blizzards, droughts, leaky homes, finance company collapses and the AMI and the South Canterbury Finance saga to name a few.
+
+The damage caused by the two earthquakes has been estimated as facing a cost of around fifteen billion dollars – which is about eight percent of GDP.
+
+At even the most minimal budgeting, we require $55 billion for expenditure such as temporary housing, repairing roads, restoring infrastructure with another $3.3 to recognise the costs of both the Earthquake Commission and Accident Compensation Corporation.
+
+So something had to give.
+
+I want to acknowledge that for most New Zealanders, there has been the incredible sense of generosity of spirit, that recognises there was simply no room in this years budget for discretionary spending.
+
+Of course there are always those looking for a soapbox from which to project their particular brand of attack – but actually the biggest challenge any of us face, is how to reprioritise in order to ensure the best value for the limited resources we have.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+This is a concept particularly well-known to tangata whenua.
+
+The practice of kaitiakitanga entails an active exercise of responsibility in a manner beneficial to resources and the welfare of the people.
+
+Kaitiakitanga is synonomous with the notion of being prudent. The practice of rahui illustrating how one might have to exercise restraint in order to ensure sustainable management and growth of the economy so as to provide a stable and secure environment for future generations.
+
+And so when we look at both of the key tax reforms articulated in this Bill, it reminds us of the behaviours and attitudes of our tupuna, in tightening the belt, curbing the excesses, and living within our means.
+
+The objective of the changes in the Working For Families scheme to reduce the fiscal costs of the scheme while protecting amounts of tax credits for lower income earners, and minimising the effects on work incentives.
+
+As a result of alignments that will be made as a result of Budget 2011, the scheme is going to be much better targeted to the vulnerable families.
+
+A number of the families who are earning higher up the income scale, will receive a little less than they currently do now, or worse case scenario for them – they may no longer apply.
+
+Ten weeks ago, the Maori Party issued a challenge to the Government, asking for support from higher income New Zealanders – to exercise what we might call manaakitanga or good old fashioned charity begins at home.
+
+In our statement entitled, ‘time for those who have to help those who have not’ we asked the Government to promote generosity, by raising taxes for those on incomes over $70,000.
+
+This Taxation (annual rates and budget measures) bill is an honourable response to that tono. It better targets Working for Families at lower-income families who need more help. It will be less generous to higher income families.
+
+Take as an example the case of Amohia and Hemi – on a combined family income of $40,000 per year, with three tamariki. Currently they receive $280 a week in Working for Families tax credit. From 1 April next year, this will go up by $4 a week.
+
+Down the road lives Sonya, on a salary of $90 grand, with two children. Her income level is right near the top – and so she currently only receives $18 a week from Working for Families. After the changes, she’ll only receive $7 a week.
+
+When we talk about impacts like this in single dollar terms, it’s always hard to understand just how effective the changes can be. But the important thing is that the changes will be made gradually in a way that minimises the impact on families.
+
+I think it is really important that each of us start to cultivate the art of financial literacy in our homes, so that we truly understand the state of the nation and the different levers that impact on our wellbeing.
+
+I have heard a lot of ranting about how the two percent lift in GST has brought the country to its knees.
+
+And yet missing from that same korero is a flabbergasting statistic, that under the term of Labour electricity prices rose 72% - that is akin to an eight percent jump a year. While the prices have risen 9.5% since this Government took office, the rates of the rise have halved to under four percent a year.
+
+But it’s still a hefty rise from one decade to the next.
+
+Added to that, the price of petrol has risen by 17.1 percent. Our heavy reliance on oil demands that we need to look seriously at establishing alternative renewable sources of energy – a cause that the Maori Party and many hapu, iwi and marae are actively considering.
+
+The other raft of changes in this Taxation Bill are to do with Kiwisaver to alter the balance of contributions to Kiwisaver accounts away from public funding and towards private saving.
+
+This is another approach which the Maori Party has supported in terms of reducing how much money the Government borrows from overseas to put into Kiwisaver.
+
+Our concerns around Kiwisaver are that whilst savers and employers will have to pay more in move to make the scheme more affordable over the long term, the Government is lessening its commitment – and this may have a backlash effect in terms of discouraging the other two partners to the scheme.
+
+In other words, we are mindful that reductions in incentives may end up undermining confidence in the scheme.
+
+And if I could just refer to the comments made by the Honourable David Cunliffe.
+
+If we were to believe what that member said, we would think the majority of Kiwisavers were in fact Maori families and I think if we were to look into that particular issue we would find they are in the minority in that scheme as they don’t earn the $70000 that he talked about and in fact they don’t earn the $40,000 that he talked about either.
+
+The other key concern we have put forward is whether any increase in the minimum payment by savers could prove unaffordable for lower and middle income constituents already struggling to cope with rising costs.
+
+That was why we actually opposed the introduction of Labour’s KiwiSaver scheme when the individual contribution was four percent as we believed it did not do enough for the less well-off, particularly the whanau of the working poor and the families of beneficiaries.
+
+We certainly are of the view, that those people on lower incomes should carry less burden proportionally than those who are on higher income levels and we will be concerned if any disincentive to save – as in increased payments – would cause them either not to enter the scheme or to take contributions holidays
+
+But we also don’t want to over-emphasize the focus on Kiwisaver – we all need to return to the ways of old – and practice good saving. And there are many other methods of encouraging this to happen, than simply insisting that everyone get in behind Kiwisaver.
+
+We have been very supportive of ‘iwisaver’ initiatives such as the Whai Rawa programme. This is a scheme which is designed to provide a base level of savings for all registered Ngai Tahu members, as well as supporting and incentivising a culture of savings and asset buildings – and from all accounts it has been highly successful.
+
+Mr Speaker, the Taxation (Annual Rates and Budget Measures) Bill provides Parliament with the opportunity to make alterations to the generosity of those schemes, particularly Working for Families, where it reaches into very high income levels and where those people have enjoyed reasonably good tax cuts.
+
+We appreciate the efforts Government has made to respond to our consistent advocacy to protect the most vulnerable, while delivering a sound and affordable budget.
+
+It is yet another marker of the importance of being able to have influence in the Executive, rather than creating noise on the opposition benches.
+
+We support the first reading of the Taxation (Annual Rates and Budget Measures) Bill.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

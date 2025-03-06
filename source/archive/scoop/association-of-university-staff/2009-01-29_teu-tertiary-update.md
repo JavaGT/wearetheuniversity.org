@@ -1,0 +1,201 @@
+---
+slug: teu-tertiary-update
+title: "TEU Tertiary Update"
+date: 2009-01-29
+source-url: https://www.scoop.co.nz/stories/ED0901/S00040/teu-tertiary-update.htm
+author: association-of-university-staff
+---
+TEU Tertiary Update
+===================
+
+**Thursday, 29 January 2009, 9:27 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Students turning to tertiary education in face of recession
+
+Last week’s report in the New Zealand Herald that, in the face of a recession, the University of Auckland has seen a 12 percent rise in applications for courses across the board makes it even more imperative that tertiary institutions be adequately funded, says TEU transitional co-president, Associate Professor Maureen Montgomery.
+
+“This growth in enrolments follows a long period of disinvestment in public tertiary education and the capping of funding for student enrolments means that institutions will be even further stretched financially to provide students with a quality education,” said Dr Montgomery. “At a time of recession, it makes good sense for students to seek to improve their chances of employment by gaining tertiary qualifications. At the same time, a more highly skilled workforce will make an important contribution to New Zealand’s recovery from the recession and for the future.”
+
+The Herald reports:
+
+Deputy vice-chancellor Raewyn Dalziel has compared enrolment numbers to unemployment rates over the past decade and says there is a clear correlation between rising unemployment and higher numbers of university students. It is most evident this year.
+
+TEU’s transitional co-president, Tangi Tipene, notes that increased numbers of students trying to improve their skills in a recession is going to coincide with the mini baby boom of young people moving into tertiary education.
+
+“The primary and secondary education sectors have both seen teachers come under significant pressure as this large cohort of students has passed through their schools. Now it is the turn of teachers in tertiary education”, said Ms Tipene.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“We need to invest in tertiary education and especially in staff numbers, staff recruitment, and staff retention if we are going to serve those many new students and the New Zealand economy well.”
+
+Also in Tertiary Update this week  
+1\. Baby boom about to explode in tertiary education  
+2\. EFTS caps may be limiting employment opportunities  
+3\. SIS spying threatens academic freedom  
+4\. Funding sought for assault on casualisation  
+5\. Obama’s financial rescue package promises billions for tertiary education  
+6\. Universities dread China recession  
+7\. Entrepreneur plans free, global, online university  
+8\. New Indian higher education regulations would violate GATS  
+9\. Jobs shrink, swimming pool expands
+
+Baby boom about to explode in tertiary education  
+Tertiary-education providers may be underprepared for the dual impact that an arriving baby boom and a recession may have on staff levels and staff workloads according the the TEU’s national secretary Sharn Riggs.
+
+Since the early 1990s a mini-baby boom has been passing through our education system, bolstering enrolments by tens of thousands of students. Primary education came under significant pressure during the mid-1990s as this baby boom passed through primary schools between 1994 and 2002. Secondary schools then felt the pressure between 2001 and last year.  
+Each period was a time of significant industrial unrest for the two unions representing the respective sectors. During the mid-1990s, primary teachers faced large workload and staffing pressures. Likewise, during the early part of this century, secondary teachers came under similar workload pressure.  
+Now, with those students turning 18, 19, and 20, tertiary-education providers can expect an echo of the same staffing problems. This combines with increased pressure on tertiary-education institutions as intending new students look to up skill or re-educate in the face of a looming recession.
+
+“Tertiary-education institutions can react pre-emptively to encourage new staff and retain existing staff,” said Ms Riggs. “But they need to do it quickly while they still have a window to do so. It’s no use promoting tertiary education heavily if we do not have the resources and, more importantly, the people to meet the demand we are generating.”
+
+EFTS caps may be limiting employment opportunities
+
+AUT has blamed government restrictions on the number of funded student placements in health science courses for the fact that it is turning hundreds of potential students away, despite many employment vacancies in those fields.
+
+The university’s dean of health and environmental sciences, Professor Max Abbott, told the Herald yesterday that the limits on health science student numbers were in conflict with the critical shortages of many kinds of health workers. The supply of graduates was an important factor in the shortages.
+
+Professor Abbott told the Herald that he had emailed Finance Minister Bill English last month to point out that the extension of Tertiary Education Commission caps in health sciences, previously confined to medicine, dentistry, and large-animal science, but now including midwifery and oral health, had severely constrained growth in student numbers.
+
+“Last year, and again this year, I have found it very distressing to have to turn away many hundreds of able applicants in programmes where we face workforce crises. \[This\] is most unfortunate given that we have unprecedented numbers of applicants seeking to enter health education programmes.”
+
+Such limits on EFTS are likely to become an increasingly problematic area for the Tertiary Education Commission as increasing student numbers push up against the limits of budgets.
+
+TEU transitional co-presidents Tangi Tipene and Associate Professor Maureen Montgomery argue that the government needs to invest quickly in many fields if New Zealand is to learn its way out of financial trouble.
+
+“There is plenty of work available for New Zealanders, even in the face of our current economic crisis,” said Tangi Tipene, “But first of all we need to invest in giving them the opportunity to learn the skills and knowledge they need. We can learn our way out of the recession but it requires us to invest now.”
+
+SIS spying threatens academic freedom
+
+Revelations yesterday in the Press that the SIS has in the past been keeping files on tertiary education employees and academics reveals how tenuously government authorities have regarded basic principles of democracy, including free speech and academic freedom, according to TEU transitional co-president Associate Professor Maureen Montgomery.
+
+The Press reports that a recently more open approach to releasing “historical” files by the SIS has seen 26 people so far granted access to their personal files, including former AUS president Bill Rosenberg and his family. This raises the question of whether current practices of the SIS continue to display scant regard for such principles.
+
+Academic freedom is an important tenet of a free, democratic education system. It ensures that students and the public are not exposed solely to research and teaching that has been pre-approved by the government or other institutions. The Tertiary Education Advisory Commission, in its 2001 Report, publicly acknowledged that “the tertiary education system – particularly the universities – has had a traditional and important role as a ‘critic and conscience’ of society” and that this was “fundamental to democracy and academic freedom”.
+
+“It is problematic,” said Dr Montgomery, “when one part of our government over-rides the fundamental values and principles of democracy using the limitless cover of national security concerns to survey the legitimate political activities of citizens and permanent residents.”
+
+“Bill Rosenberg is a person of the greatest integrity who espouses strong ethical standards and the fact that the SIS compiled a file on him goes to show the lack of judgment and unfounded paranoia of the SIS. I entirely agree with the SIS spokesman that the release of such information may not reflect favourably on the service,” said Dr Montgomery. “However, his attempt to confine such kinds of information gathering to the past does not allay concerns about current practices.”
+
+Following yesterday’s revelations in the Press about the SIS using its power to spy on university staff, the government should assure both the public and university staff that it is committed to the principle of academic freedom and will review the role that the SIS plays in spying on tertiary-education institutions.
+
+World Watch
+
+Funding sought for assault on casualisation
+
+Australian universities would be offered subsidies worth $NZ60,000 for special academic-development places under proposals from the National Tertiary Education Union (NTEU) to tackle looming staff shortages. In a pre-budget submission to the federal government, the NTEU proposes such subsidies for 1800 appointments over three years at a cost of $NZ268 million.
+
+The cost, however, would be offset by the scrapping of the previous government’s Workplace Productivity Program, for a total net cost of $NZ126 million over the period. The future of the program could then be reviewed, the NTEU says. The new appointments would represent a 2.5 percent increase in total full-time academic employment and the subsidies would cover about half the full cost of the new entry-level positions.
+
+In a move designed to reverse the trend towards casualisation at universities, the proposal includes making universities use the subsidy to fund the creation of 600 Secure Employment Placements (SEPs), in which casual teaching academics who meet minimum service levels would be upgraded to more secure employment.
+
+The target would be equivalent to about 10 percent of the existing casual, full-time-equivalent workforce. Candidates for SEPs would have to have a recently completed PhD or be in the final stages of completing one.
+
+The NTEU says the move would boost the quality of teaching and learning and provide “career opportunities to the thousands of highly qualified casual staff unable to obtain entry into the academic workforce, in part because of the high levels of casualisation of that workforce”.  
+The subsidies would also go towards funding about 1200 Training and Development Placements that would help universities employ recent PhD graduates to work as full-time academics. “The whole purpose of the plan is to deal with the ageing workforce, but it also has the advantage of reducing the casualisation of employment,” said NTEU general secretary Grahame McCulloch.
+
+From Andrew Trounson in the Australian
+
+Obama’s financial rescue package promises billions for tertiary education
+
+The new collection of Democrats that came to power on Obama’s wave are now looking to spend billions of dollars on tertiary education over the next two years as part of their response to the economic crisis. The House of Representatives fiscal package, released last fortnight, could see US$550 billion in new spending directed to postsecondary institutions and to students and potential students, including US$275 billion in tax breaks over two years, of the package’s total US$825 billion. The Senate’s less generous package would still spend well over US$80 billion on higher education and research.
+
+The details are still shaky and the package still needs to win the support of both Congress and Senate; however, if implemented, it could see new funding in the following broad categories:
+
+• Nearly US$30 billion in financial support for students, including increased grants, study funds, loans and tax credits for students from low income families.
+
+• A share of the US$39 billion that would flow to state governments to “help restore cuts to critical education programs” in both elementary/secondary education and higher education. Language in the legislation says that governors are supposed to “provide the amount of funds to public institutions in the state that is needed to restore state support for postsecondary education to the fiscal year 2008 level.”
+
+• At least US$8 billion in increased funding of research and researchers, including research on energy efficiency and renewable energy, biomedical research, and climate change research.
+
+• At least US$3.5 billion in infrastructure support at colleges and universities to help modernise their facilities and make them environmentally friendly.
+
+• A portion of $3 billion in grants for adult education and job training. It’s also possible that some money for job training and education could emerge from the bonds the stimulus package would provide to states or municipalities to create “recovery zones” in areas with significant unemployment, home and business foreclosures, or poverty.
+
+President Obama has been defending the general make-up of the packages from growing Republican unease over their size and, particularly, their make-up. The White House has argued that the package will allow nearly one-fifth of high-school seniors who receive no tax credit under the current system to “receive a tax cut to make college affordable for the first time”. It will also triple the number of undergraduate and graduate fellowships in science, “to help spur the next generation of home grown scientific innovation”, and will prevent layoffs and education cuts.
+
+From Doug Lederman in Inside Higher Education
+
+Universities dread China recession
+
+The possibility of China going into recession poses a “cataclysmic” threat to global higher education, according to Professor Malcolm Gillies, vice-chancellor of City University, London. While universities in the United Kingdom have relied on income from overseas students’ fees up until now, Professor Gillies told a Higher Education Policy Institute seminar on globalisation in London this week that the period of growth in international students is over.
+
+Warning that the world of international higher education is going to get colder, Professor Gillies went on to say, “We’re in a world where we can see a whole lot of factors. It’s getting chillier and we don’t know what bits will get frozen out or who will take the competitive advantage and break through. But if China does go into recession, that’s more cataclysmic than anything else.”
+
+Professor Gillies added that Australian universities, whose academic year starts in February, had reported huge numbers of international students from China, Korea, and Japan deferring their places, with a multi-billion-dollar impact. They are the first intake since the credit crunch. Furthermore, falling applications to take the test needed to study at US universities, and the record low of the pound sterling, had created a “fear factor” in higher education.
+
+“Students may commit for one year but not three. At City University, 40 percent of students are international and the number of overseas undergraduates has dropped, but one-year international student numbers are up, with students asking to pay their fees upfront while the pound is weak,” Professor Gillies said. “We’re now into uncharted waters and should assume very little.”
+
+Here in New Zealand, China is the main source of export-education earnings from the sale of professional services such as teaching, training, curriculum development, quality assurance, and consulting and advisory services. China is also the largest country of origin of foreign fee-paying students, accounting for 24,800 out of 91,300 students. South Korea follows with 17,900 students.
+
+From Anthea Lipsett in the Guardian
+
+Entrepreneur plans free, global, online university
+
+An Israeli entrepreneur with decades of experience in international education plans to start the first global, tuition-free, internet university, a nonprofit venture he has named the University of the People. “The idea is to take social networking and apply it to academia,” said the entrepreneur, Shai Reshef, founder of several internet-based educational businesses.
+
+“The open-source courseware is there, from universities that have put their courses online, available to the public, free,” Mr Reshef said. “We know that online peer-to-peer teaching works. Putting it all together, we can make a free university for students all over the world, anyone who speaks English and has an internet connection.”
+
+About four million students in the United States took at least one online course in 2007, according to a survey by the Sloan Consortium, a nonprofit group devoted to integrating online learning into mainstream higher education.
+
+The University of the People, like other internet-based universities, would have online study communities, weekly discussion topics, homework assignments, and exams. But in lieu of tuition, students would pay only nominal fees for enrolment ($NZ27 to $NZ90) and exams ($NZ18 to $NZ180), with students from poorer countries paying the lower fees and those from richer countries paying the higher ones.
+
+Experts in online education say the idea raises many questions. “We’ve chatted about doing something like this over the last decade but decided the time wasn’t yet right,” said John Bourne, executive director of the Sloan Consortium.
+
+“It’s true that the open courseware movement is pretty robust, so there are a lot of high-quality course materials out there, but there’s no human backup behind them. I’d be interested to know how you’d find and train faculty and ensure quality without tuition money,” Mr Bourne added.
+
+From Tamar Lewin in the New York Times
+
+New Indian higher-education regulations would violate GATS
+
+India’s higher-education regulators are proposing new rules to combat an influx of low-quality, private higher education providers into the country. Professor Sukhadeo Thorat, chairman of India’s University Grants Commission, announced in late November that he was considering prohibiting commercial foreign institutions from operating.
+
+“India does not believe in commercial gain in this endeavour, as our ultimate aim is the strict adherence to human rights in terms of providing education to the needy,” Professor Thorat told The Hindu. However, the proposed prohibition on commercial higher education would run afoul of GATS rules, according to Education International (EI).
+
+In a letter sent to Professor Thorat, EI said that it supports India’s initiative to limit the commercial provision of higher education in order to protect quality and accessibility, but warns there is an inconsistency between India’s regulatory objectives and its position in the GATS negotiations.
+
+“Your plan to regulate foreign commercial providers is at odds with India’s current position in the GATS negotiations,” EI wrote. “Indian negotiators have indicated to us that your government is likely to take GATS commitments in higher education services. If India were to take commitments in higher education services, a restriction on commercial higher education providers would be illegal under the GATS as it would represent a limitation on the activities of a specific ‘type of legal entity’ – in this case, for-profit companies and institutions.”
+
+Monique Fouilhoux, EI deputy general secretary, said this was a clear case of how GATS rules can work against domestic policy objectives.
+
+“Trade ministries are often making decisions on matters such as education without considering the full impact of trade rules,” she said. “It underlines the importance for governments such as India to take a precautionary approach and not to include education and other vital public services in trade agreements like the GATS.”
+
+From Education International
+
+Jobs shrink, swimming pool expands
+
+Britain’s University and College Union (UCU) has slammed plans by Plymouth University to splurge ₤2.5 million ($NZ6.3 million) on improvements to a local swimming pool as it considers compulsory redundancies among key academic staff. UCU described the plans as “insensitive” and questioned the priorities and direction of the university. The ₤2.5 million will pay for two lanes at the Plymouth Life Centre’s swimming pool.
+
+Four months ago, the university announced plans to make 101 academic staff redundant. Forty staff will leave the university in the summer having taken voluntary redundancy, but a further cull is expected to be announced soon. The university claims that the staff have to go because the institution had been “operating at a financial loss for a number of years”. However, despite expecting a deficit equal to $NZ12.6 million in 2007-08, the university has recently announced a surplus of $NZ1.7 million.
+
+UCU general secretary, Sally Hunt, said, “The University of Plymouth has got its priorities completely wrong. How can it justify getting rid of valuable people, when it can afford ₤2.5 million towards a swimming pool? A well-staffed university is surely more important than investing in a pool. UCU applauds universities that work within the local community, but never at the expense of jobs.”
+
+UCU regional officer, Philippa Davey, said, “We risk losing some of Plymouth’s best academic minds if the university goes ahead with its plans. Forty staff have already accepted voluntary redundancies and now we face the prospect of losing more through compulsory job losses.”  
+“The spending on this pool is completely out of proportion and not what the university needs right now. The timing couldn’t be worse and the last thing the university can afford to do is let experienced Plymouth people go,” Ms Davey added.
+
+More international news
+
+More international news can be found on University World News:  
+http://www.universityworldnews.com
+
+TEU Tertiary Update is published weekly on Thursdays and distributed freely to members of the Tertiary Education Union and others. Back issues are available on the TEU website: www.teu.ac.nz. Direct inquiries should be made to Stephen Day, email: stephen.day@teu.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

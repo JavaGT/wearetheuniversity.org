@@ -1,0 +1,110 @@
+---
+slug: real-issues-no-273-equality-education
+title: "Real Issues No. 273 – Equality, Education"
+date: 2007-10-05
+source-url: https://www.scoop.co.nz/stories/PO0710/S00068/real-issues-no-273-equality-education.htm
+author: maxim-institute
+---
+Real Issues No. 273 – Equality, Education
+=========================================
+
+**Friday, 5 October 2007, 9:30 am**  
+**Column: [Maxim Institute](https://info.scoop.co.nz/Maxim_Institute)**
+
+### 
+
+Real Issues No. 273 – Equality, Education, Bioethics
+
+_**Maxim Institute - real issues - No. 273 4 October 2007 www.maxim.org.nz**_
+
+Forced equality or genuine sentiment?
+
+Partnering with government Dead man walking
+
+**IN THE NEWS** New sentences boost justice system Organ donation and Treaty Principles Bills rejected by Select Committees
+
+**Forced Equality Or Genuine Sentiment?**
+
+With great éclat, the British Government has launched the new Equality and Human Rights Commission, consolidating three former commissions designed to deal with discrimination. This conjunction of bureaucracies has been marked by the utterance of vague rhetoric about: 'achieving potential,' 'eliminating discrimination' and continuing the work of 'changing Britain into a fairer place.' Equality Minister Harriet Harman, not to be outdone, expressed the usual commitment to 'fighting discrimination, prejudice and hatred.'
+
+There are legitimate issues of discrimination which need addressing, and sometimes these issues do require government action. But according to a survey to be published later this year '46% of people in Great Britain' 'feel discriminated against.' With nearly half of the British population feeling this way you have to wonder; either discrimination has reached the undreamed of proportions of an epidemic, or the cultural environment has become so sensitive to perceived discrimination that it is in danger of over-analysing, over-bureaucratising and arguably making the problem worse.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+While real discrimination does exist, and is even more prevalent than we might like, a culture which loses sight of people's equal dignity, possessed simply by virtue of their personhood, and substitutes for it the constant assessment of quotas (based on gender, age, ethnic origin or disability), ends up promoting a mentality of victimhood and rights unbalanced by responsibilities.
+
+The drive towards the expression of correct opinions and the constant stream of 'campaigns' to promote 'equality' or 'fairness' give rise to a number of big issues which seem to be minimised or ignored. Forcing equality of outcome is not only impossible, but undesirable, and fairness is not an end in itself; opportunity and dignity are. While creating 'a fair chance to participate in society' is in itself a desirable goal, government policing, not of actual discrimination, but of 'underlying attitudes' only seems useful in persuading half the populace that they have or are being oppressed by the other half.
+
+The great advances for civil rights and human dignity have been the result of ordinary people confronting social injustice. From slavery to women's suffrage and civil rights, we find a narrative of ordinary people claiming their dignity, and engaging in the hard work of persuasion on the basis of common dignity and a common ethic. This often requires government action or amendment of existing law, but the work of social persuasion is best done at the grassroots, and not by government fiat. Appointing unelected activists to scan public sentiment only drives real prejudice underground and breeds resentment. If we really want a culture which values human dignity, it should come from below, and not be imposed from above.
+
+**Partnering With Government**
+
+With schools still on holiday this week, the debate about how to provide and run them has become a whole lot livelier. National party leader John Key has spoken out, raising the possibility that private interests could become involved in building and running state schools. The idea has met with heavy, but unfounded criticism from some. However, giving private groups the opportunity to help out our strained education system, does not remove the Government from providing access to education, and it does not equal wholesale privatisation. Instead, partnerships between private organisations and the Government are simply another way of increasing the quality of state schools for more of New Zealand's children.
+
+Similar arrangements, termed public-private partnerships, are popular in the education systems of various countries and territories overseas, although the level of involvement private interests have differs. In Britain, 'Academies' have become a core plank in the British Labour party's education policy. 'Academies' are established in partnership between government and sponsors. The sponsors can be individuals, businesses or even voluntary groups. In Britain and also New South Wales (NSW), private interests have also been involved in financing, building and, in some cases, managing schools for the Government. Sometimes the arrangements involve the schools being given to the Government at the end of the partnership, which can be for as long as 30 years.
+
+In the United States, private interests have an even greater role, in the form of charter schools. Charter schools are schools within the public system managed by private interests, including local communities, which are not subject to the same regulations as other public schools. This means they have more flexibility about which pupils they enrol, staffing, curriculum and assessment. However, they are still accountable to the school board or authorising agency which establishes the charter for the school for delivering quality education.
+
+Because they are a relatively recent phenomenon, the impact of public-private partnerships on school performance and the academic performance of pupils attending those schools is not clear. A review of the NSW programme, however, published in 2005, did find general improvements in the quality of the delivery of schooling. The review stated that 'schools were delivered some two years earlier, on average, than would have been possible had traditional public sector funding been used. ... the schools were constructed in a shorter time frame, some three months faster, than is usually achievable under traditional design and construct contracts.' Arguably, in some cases, private and community interests can also do a better job at providing schools as they may understand the needs of the community they belong to better than the physically remote central Government.
+
+Encouraging collaboration in education is an innovative way to offer improvements to the quality of schools and to expand the number and, perhaps, the range of schools parents can access. Communities would no doubt benefit too from the better access to state schools the proposal has the potential to generate. But, as the experience of charter schools in the United States demonstrates, New Zealand could consider allowing communities an even greater measure of involvement in providing public education.
+
+**Dead Man Walking**
+
+The Health Select Committee report on the Human Tissue Bill was submitted to Parliament this week, with a recommendation that it pass with a few suggested amendments. The Bill would create a new regime which 'regulates the collection and use of tissue from dead human bodies and sets up a framework for informed consent for human tissue use.' This new framework would provide greater security for individuals and their families over the use of their tissue; however it also opens up some worrying possibilities for future practices.
+
+Human gametes and embryos are expressly outside the scope of the Bill, however, towards the end there is one lone clause, amending the Human Assisted Reproductive Technology Act 2004. The amendment would permit regulations to be made under the Act, allowing for a system of consent for the retrieval of gametes or embryos from a dead body, a practice that the Advisory Committee on Assisted Reproductive
+
+Technology has recommended be prohibited. The Bill would give potential for this area of law to be reconsidered with an extremely broad span. The collection of gametes and embryos could be consented to if for 'the performance of assisted reproductive procedures, the conduct of human reproductive research, or any other lawful use.' Under this wording, not only could research be conducted, but a dead man could go on to father a baby.
+
+Aside from this somewhat disturbing clause, the Bill would also create a comprehensive new system for consent when donating tissue. 'Human tissue' broadly covers most parts of the body, from organs to blood to stem cells. The current law is light on details concerning when tissue can be donated, and with such procedures becoming increasingly commonplace, improved regulation and security in this area is clearly necessary.
+
+Overall, the Bill would bring clarity to an area of law that is complex and continuing to develop. A greater emphasis on informed consent is encouraging, as such decisions do not impact not just on the individual, but also on the family surrounding them. However, it is alarming to see the amendment to the HART Act, with the potential to allow significant change in our reproductive laws, thrown randomly into the middle of such a Bill.
+
+Read the report of the Health Select Committee report on the Human Tissue Bill http://www.parliament.nz/NR/rdonlyres/2087DD0D-4B93-4839-B915-ECAEB8DD56C4/66588/DBSCH\_SCR\_3890\_5399.pdf
+
+**New Sentences Boost Justice System**
+
+The introduction of new sentencing options this week provides a boost to New Zealand's justice system. The three new non-custodial sentences are: community detention; home detention; and intensive supervision. They will allow judges to return offenders, where appropriate, to the community to serve their sentence. In some instances this kind of approach can be better than a prison sentence, as it can force offenders to more fully realise the consequences their actions have had on those around them. It can also help to offset a lot of the problems associated with imprisonment such as removing someone from their community and support networks, and the possibility of learning more criminal techniques from other offenders.
+
+**Organ Donation And Treaty Principles Bills Rejected By Select Committees**
+
+While Parliament has been in recess for the past two weeks, several Select Committees have taken advantage of the time to complete reports to Parliament on various Bills. The following two Bills have been recommended not to be passed by their respective Committees, and will now await their second reading in Parliament:
+
+The Committee considering the Human Tissue (Organ Donation) Amendment Bill has recommended that it does not pass. They suggest it is unnecessary as the Human Tissue Bill, also before Parliament, is looking at the issue of organ donation. The Committee has made provision in the Human Tissue Bill for a register to be established in the future, if deemed necessary. Nonetheless the Committee's recommendation has caused outcry from some who argue a donor register is necessary to increase the rate of organ donation in New Zealand.
+
+The Principles of the Treaty of Waitangi Deletion Bill which would remove all references in existing legislation to 'Treaty of Waitangi and its principles,' has also reached a halt. The Committee considering the Bill disagree with claim that the principles are undefined and vague, and cause confusion in the law. Instead they have argued 'that the passage of this Bill would severely erode the relationships between the Crown and Maori.'
+
+Read the report of the Health Committee on the Human Tissue (Organ Donation) Amendment Bill http://www.parliament.nz/NR/rdonlyres/792A4831-5B60-4A2F-9FC0-4357400720CA/66586/DBSCH\_SCR\_3889\_53991.pdf
+
+Read the report of the Justice and Electoral Committee on the Principles of the Treaty of Waitangi Deletion Bill http://www.parliament.nz/NR/rdonlyres/99F7FA08-0179-4E4C-9EBD-BA4129860130/66463/DBSCH\_SCR\_3887\_5396.pdf
+
+**Talking Point**
+
+'I think that democratic communities have a natural taste for freedom; left to themselves, they will seek it, cherish it, and view any privation of it with regret. But for equality their passion is ardent, insatiable, incessant, invincible; they call for equality in freedom; and if they cannot obtain that, they still call for equality in slavery. They will endure poverty, servitude, barbarism, but they will not endure aristocracy.'
+
+_Alexis de Tocqueville (1805-1859)_
+
+A registered charitable trust, funded by donations, Maxim Institute values your interest and support.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Maxim Institute](https://info.scoop.co.nz/Maxim_Institute) on InfoPages.

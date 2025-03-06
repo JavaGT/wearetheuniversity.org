@@ -1,0 +1,141 @@
+---
+slug: cullen-address-to-government-superannuitants
+title: "Cullen - Address to Government Superannuitants"
+date: 2005-09-05
+source-url: https://www.scoop.co.nz/stories/PA0509/S00109/cullen-address-to-government-superannuitants.htm
+author: new-zealand-labour-party
+---
+Cullen - Address to Government Superannuitants
+==============================================
+
+**Monday, 5 September 2005, 12:52 am**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Address to Government Superannuitants Association
+
+Evans Bay Room Airport Hotel, Kemp St, Kilbirnie, Wellington
+
+Saturday 3 September 2005 at 11.00am
+
+It is a pleasure to be able to speak to you again. It has been a good year for older New Zealanders generally speaking, and I believe a good year also for government superannuitants.
+
+In the last five years, New Zealanders have become wealthier and healthier and our communities have become more secure. Our economy has grown by around 20 per cent, and that has translated into an average 11 per cent increase in household incomes.
+
+We have made important advances in many areas of health care, with more affordable primary care, extended screening programmes for early detection of cancers and significant increases in surgical procedures. For example, over the past three years, there have been around 16,500 major joint procedures such as hip and knee replacements. In the next three years, there will be over 26,500. Similarly, cataract operations will increase from 24,000 in the last three years to 31,500 in the next three years.
+
+Since July last year, everyone aged 65 or over enrolled with a Primary Health Organisation has been eligible to receive a reduction in the cost of visits to their family GP or nurse. And those people now only pay a maximum of $3 for prescribed medicines that are fully subsidised by the government.
+
+Crime rates in almost all categories have dropped, with total recorded crime down by 7.1 per cent over the past year. That's 30,000 fewer offences committed compared to the year before, and in fact the crime rate per head of population is lower than any year since 1981.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+This is due to a combination of big increases in Police funding and a range of policies that have put New Zealanders into jobs, raised their standard of living and given them a real stake in their community.
+
+The government has endeavoured to maintain a constructive dialogue with older New Zealanders, and this has led to a range of policy reviews and initiatives.
+
+For example, Budget 2005 included funding for a revamped rates rebate scheme. Up to 300,000 low-income New Zealanders will become eligible to have up to $500 deducted from their annual rates bill. We plan to raise the maximum rebate available under the rates rebate scheme from $200 to $500. The income threshold under which people will become eligible for a full rebate is to increase from $7,400 to $20,000.
+
+Another recent example is the abolition of the mandatory requirement for age-based driving tests for people aged eighty years and over. The current regime is costly on older people, it is stressful, and it is unfair.
+
+We established a Review of Older Driver Licensing Policy, involving a Stakeholder Consultative Group. We will develop a new older driver licensing regime based on their recommendations, which were:
+
+\- No mandatory age-based on-road test;
+
+\- Retaining the current GPs "medical fitness to drive" certificate at age 75, 80 and two yearly thereafter;
+
+\- The possibility of an optional on-road test in certain circumstances;
+
+\- Medical practitioners to make greater use of a range of conditional/restricted licence options; and
+
+\- Increased provision of educational materials.
+
+What this demonstrates is our commitment to listening carefully to those who advocate for older New Zealanders. We may not see eye to eye on everything, but we share a positive view of ageing, one characterised by a high level of security and of participation in the life of the community.
+
+Of course, the centrepiece of our policy over the past five years has been a series of reforms to superannuation. Our first move was to reverse the previous National government’s cuts to superannuation, and restore New Zealand Superannuation to not less than 65 per cent of the average ordinary time weekly wage.
+
+Then in 2001 we passed the New Zealand Superannuation Fund Act, establishing a commitment to the partial pre-funding of superannuation. Without that fund:
+
+\- no government can guarantee the level of superannuation and the floor below which it cannot fall (and you all know National lowered the floor when they had the chance);
+
+\- no government can guarantee the age of entitlement (so it could go higher than 65 years); and
+
+\- no government can guarantee that it won’t be income and/or asset tested.
+
+The need to build up the Superannuation Fund is an important reason why I have resisted calls to cut taxes. It is true that the government is running surpluses. But it is also true that we have been using those resources to reduce our debt, and to build up the Super Fund and to invest in essential infrastructure such as major roading projects and upgrading electricity and water supply systems.
+
+We are fully committing our resources to grow our economy, build up our infrastructure, care for health and education needs, maintain law and order and put something aside for managing future costs. For example, we announced recently that we would abolish interest on student loans for graduates who remain in New Zealand. That was a major cause of concern for many families as they watched their younger members struggle to establish their careers. We addressed that as a high priority.
+
+Significant tax cuts would mean something has to give. National would need to find something in the region of $7 billion to fund their tax proposals. About half of that would be by way of extra debt, which, of course, means higher debt servicing costs and a more fragile economy.
+
+But the remaining $3.5 billion would be through spending cuts and they are very coy about is what would be sacrificed. Would they cut health? Would they cut pensions? Would they reverse the rates rebate?
+
+So the Superannuation Fund, alongside a tight fiscal policy and lower debt, is one of the pillars of a stable superannuation policy. The other is promoting personal savings.
+
+Last year we established a new retirement savings scheme for state sector employees. That reflects our desire to promote retirement savings amongst state employees, and our dedication to building a strong public service. We believe it is important that the government – as a major employer - sets a good example in encouraging retirement savings.
+
+And this year we announced the KiwiSaver scheme. This will be a voluntary scheme, enabling people to put 4 or 8 per cent of their gross salary automatically into a managed savings fund. However, to make participation easy, new employees will be automatically enrolled in KiwiSaver and have three weeks to decide whether to remain members. Existing employees, the self-employed and beneficiaries will be able to opt in.
+
+Savers will have personalised accounts they can take with them as they shift jobs.
+
+There will be no tax incentives for saving per se; however, the government will contribute directly with a contribution of $1000 to each new account. It will also pay part of the fund management fees, increasing the return that people get on their investment.
+
+A secondary feature of KiwiSaver is to assist with first home purchase. As you know, home ownership has been declining in New Zealand. This is a matter for legitimate concern, since the security of home ownership is linked with better health and educational achievement and a stronger sense of community. Ownership helps people participate in society, giving a sense of control and independence.
+
+So while KiwiSaver's main purpose is to help people save for their retirement, first home buyers will be able to withdraw their funds for a deposit on a house. They will then be able to divert their fund payments into repaying their mortgage.
+
+When people have been KiwiSaver members for at least three years and are ready to buy their first home, the government will help with their deposit. They will receive $1000 for each year's membership in KiwiSaver, up to a maximum of $5000.
+
+Our estimates are that KiwiSaver will enable around 3000 households a year to realise the dream of owning their own home.
+
+Regarding government superannuitants, we have demonstrated a commitment to the integrity of the scheme. There are certainly some difficult questions worthy of ongoing review, and we are happy to look into those. Your association raised two of those in a recent letter to me, and I would like to respond to both of those today.
+
+The first was the question of whether GSF members should receive compensation for tax reductions. You will recall that in 1990 the government changed the way that New Zealand superannuation schemes are taxed. Previously, superannuation schemes were not taxed on their investment income and pensions paid by the schemes were taxable in the hands of the recipients. Following the change, income earned by the schemes was taxed but pensions were paid free of tax.
+
+To move from one tax regime to another it was necessary to adjust pensions for those people already in retirement. Pensions were reduced by the amount of tax that would have been payable had the pension been a recipient's only source of income. Reducing pensions in this way ensured that no pensioners were worse off after the change and some were better off. Furthermore superannuitants have benefited from this treatment in that their other income is subject to tax at lower rates.
+
+The adjustment made when the tax treatment of pensions changed was a one-off adjustment to bring pensions into line with the new tax regime. Some have argued that additional adjustments should be made to take account of subsequent changes in the tax rates. This is both impractical and inappropriate, in my view. To attempt to preserve some notion of parity with the pre-1990 tax treatment would lead to the creation of winners and losers amongst pensioners. Moreover, if the approach was to compensate members for tax reductions then, by the same principle, any subsequent tax increase should also trigger a revisiting of the regime for schemes.
+
+The issues came to the fore again when the government announced an intention to change the taxation of investment income so that income earned by a fund on behalf of members is taxed at each member’s marginal tax rate.
+
+You will appreciate that the unallocated nature of funds under defined benefit schemes (such as the GSF) gives rise to very complex issues when considering changes to the tax treatment of investment income. Some of these issues are canvassed in the Taxation of Investment Income discussion document. You are welcome to make a submission on the proposals by 30 September 2005.
+
+The other issue the association raised regards pensions paid to GSF members living overseas, and the fact that GSF members living overseas are likely to be taxed in their overseas jurisdiction on the GSF pension they receive. This ‘double tax’ is a complex issue, and a number of points should be borne in mind:
+
+\- At the time of the change to TTE when pensions were made tax exempt, GSF members living overseas saw a fall in the value of their pension. As the association acknowledges, the government recognised this and passed legislation so that all GSF members receiving a pension and living overseas before 1989 did not have their pension reduced.
+
+\- New Zealand has double tax agreements (DTAs) with many countries. It is a basic principle of DTAs that the country where the pensioner resides is given the sole taxing rights over his or her pension income. This is because the pensioner is expected to consume public services in their country of residence. DTAs ensure that a pensioner contributes to the cost of these services through taxation.
+
+\- No two countries' taxation systems are the same. While governments may attempt to mesh tax treatment using DTAs, achieving a perfect fit is unrealistic. People contemplating emigration need to take into account the tax implications of such a move.
+
+\- New Zealand follows the OECD model DTA, so our position on the taxation of pensions is not out of step with other OECD countries.
+
+In summary, the tax position of a GSF member living overseas is largely out of the control of the New Zealand government. If we were to attempt to adjust pensions for those members who decide to live overseas, that would treat a certain section of members differently from other members, and would be difficult for the GSF to implement. In my view, it would be inappropriate to treat members differently solely because of an individual’s decision to emigrate.
+
+I am more than happy to continue dialogue on these and other issues. The government takes very seriously its ongoing commitment to GSF members, and that includes robust debate where appropriate. I believe we have demonstrated that commitment through various amendments we have made to the GSF which have lifted the incomes of recipients.
+
+I look forward to that ongoing relationship.
+
+Thank you.
+
+  
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

@@ -1,0 +1,58 @@
+---
+slug: auckland-cancer-scientist-gains-global-recognition
+title: "Auckland cancer scientist gains global recognition"
+date: 2015-11-09
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/auckland-cancer-scientist-gains-global-recognition.html
+---
+Auckland cancer scientist gains global recognition
+==================================================
+
+09 November 2015
+
+![Dr Francis Hunter from the Auckland Cancer Society Research Centre at FMHS.](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/auckland-cancer-scientist-gains-global-recognition/_jcr_content/par/textimage/image.img.jpg/1453431045047.jpg "Dr Francis Hunter")
+
+Dr Francis Hunter from the Auckland Cancer Society Research Centre at FMHS.
+
+An outstanding early career oncology researcher from the University of Auckland has gained one of four annual places on a leading global cancer research council.
+
+Dr Francis Hunter, a scientist at the Auckland Cancer Society Research Centre at the University of Auckland, is the first New Zealand scientist to be selected for a three-year term on the Associate Member Council of the American Association for Cancer Research (AACR).
+
+The AACR is the largest organisation for cancer research in the world, with a global membership of 37,000 clinicians and scientists. Of those, more than 14,000 are represented by the Associate Member Council (AMC) – a group established to provide training support and leadership for early career cancer researchers.
+
+“Francis’ appointment to the AACR Associate Member Council, as one of very few from outside the US, is an outstanding achievement for him at this early stage of his career and is also a great opportunity”, says Co-director of the ACSRC, Professor Bill Denny from the University of Auckland.
+
+Dr Hunter’s nomination came from Professor Bradly Wouters, the Research Director of the Princess Margaret Cancer Centre in Toronto – one of the top five cancer centres in the world. Dr Hunter is recently returned from his third visit to the Centre where he has been working alongside Professor Wouters.
+
+“The AACR plays an important global role in unifying cancer research efforts and promoting communication and collaboration,” says Dr Hunter. “A pivotal component of my appointment was recognition that the AACR has an important role to play not just in North America and Europe, but in smaller countries such as New Zealand, where we have a long and distinguished history of cancer research. We had a strong case for representation on the AMC.”
+
+Dr Hunter says that while the longstanding struggle to find effective treatments for cancer has been compared to the initiative to land astronauts on the moon in the 1960s, the key difference is that cancer is a vastly more complex challenge.
+
+“Cancer is also a global burden and its solution requires an intergenerational effort,” he says. “We are now in the fourth or fifth generation since the great founding scientists in cancer therapeutics. It is this concerted effort over multiple generations that will allow us to make progress and have a positive impact on public health. The mission of the AMC is to ensure that this legacy continues.”
+
+The collaboration between Professor Wouters and the Experimental Therapeutics Group in Auckland, (led by ACSRC Co-Director Professor Bill Wilson and of which Dr Hunter is a member), has recently produced a published joint paper investigating a protein that determines sensitivity to hypoxia-activated pro-drugs.
+
+The paper (also involving input from the Peter MacCallum Cancer Centre in Melbourne), was published in the leading international journal Cancer Research – the most highly cited cancer journal in the world.  
+
+“There are a lot of synergies between our two organisations and this is one of the aspects of the AACR that is so important - that it brings divergent institutions together,” he says. “Often we can achieve things that neither of us would be able to accomplish independently.”
+
+“One exciting aspect of this collaboration is the integration of our expertise in pharmacology and drug discovery here in Auckland with our counterparts in Toronto and Melbourne at two of the leading research-active cancer hospitals in the world,” says Dr Hunter. “Now that we have published our first body of work, we have started to broaden out into new areas involving additional researchers in both Auckland and Toronto,” he says.
+
+In Auckland at the ACSRC, Dr Hunter is working on several major oncology projects. In December of last year he received the John Gavin Postdoctoral Fellowship from the Genesis Oncology Trust, which provides a salary for two years.
+
+He also received his first grant as lead scientist (from the Cancer Society of New Zealand) and is investigating personalised medicine approaches to the treatment of head and neck cancers together with Professors Wilson and Cristin Print.
+
+He is working with Professor Wilson, who supervised Dr Hunter’s PhD research, on a three-year, $800,000 Marsden Fund project looking at new approaches to the treatment of drug resistant and relapsed leukaemia.
+
+“Bill and I work closely together as a team,” says Dr Hunter. “He is a real visionary and mentor whereas I work closely in the laboratory with our students and technicians. We form a good, dynamic team.”
+
+The major technology they are using in both of those projects is a new tool for genome editing, called CRISPR-Cas9.
+
+“Essentially, that is a molecular tool that allows us to inactivate individual genes with exquisite precision,” he says. “What this allows us to achieve - in an unprecedented manner - is to understand the effect of genes with respect to the sensitivity of cancers to treatment,” he says. “The longer term objective is to use a rational, genomic approach to selecting treatments for patients.”
+
+“CRISPR-Cas9 is a technology that has just matured in the last two years, so it is cutting edge capability that is important to establish in Auckland,” says Dr Hunter. “This technology has the potential to create value for many different research groups and we have initiated several joint research projects already.”  
+
+*   Dr Francis Hunter (now aged 30), graduated from the University of Auckland with a BSc and Honours in Biomedical Science. He completed his PhD at the University of Auckland in December last year and officially graduated in May. He gained a place on the Dean’s List for the excellence of his doctoral research.
+*   He has already participated successfully as a winner (from more than 680 entries, in 2014) in the global Breast Cancer Startup Challenge (run by the Avon Foundation, Centre for Advancing Innovation, and National Institutes for Health, and the National Cancer Institute). He and fellow University of Auckland graduate Dr Graeme Fielder started the biopharma company, Mesopharm Therapeutics to advance this entry.
+*   He was also a member of the international winning team in the Merck Serono Innovation Cup in April (run in Darmstadt in Germany) where he was selected as one of 30 finalists, from a pool of 850 entries. His proposal was chosen as the overall winning concept for the Merck Serono Innovation Cup, sharing the €20,000 prize and trophy among the winning team. Discussions are now ongoing with Merck to implement the project, which will involve technology developed at the University of Auckland.
+
+For media enquiries [email Suzi Phillips at this link](mailto:s.phillips@auckland.ac.nz).

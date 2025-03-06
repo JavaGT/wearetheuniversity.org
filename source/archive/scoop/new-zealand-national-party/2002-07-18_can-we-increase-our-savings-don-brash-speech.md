@@ -1,0 +1,116 @@
+---
+slug: can-we-increase-our-savings-don-brash-speech
+title: "Can We Increase Our Savings? - Don Brash Speech"
+date: 2002-07-18
+source-url: https://www.scoop.co.nz/stories/PO0207/S00188/can-we-increase-our-savings-don-brash-speech.htm
+author: new-zealand-national-party
+---
+Can We Increase Our Savings? - Don Brash Speech
+===============================================
+
+**Thursday, 18 July 2002, 3:56 pm**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Can We Increase Our Savings?
+
+An address to the annual convention of the Financial Planners and Insurance Advisers Association
+
+By Don Brash
+
+18 July 2002
+
+Introduction
+
+In late January this year, I gave a speech to the Canterbury Employers’ Chamber of Commerce entitled “An Indebted People”. In that speech, I highlighted the fact that we New Zealanders have for many years now been saving less than we have been investing, with the result that our debt to foreign savers has now reached some 80 per cent of GDP, the highest level, relative to GDP, of any developed country in the world. I also noted that that high level of borrowing from abroad had not led to rapid growth in GDP (as similarly high levels of overseas borrowing had done in, for example, Singapore) because much of the borrowing had been used to finance relatively low-yielding investments and consumption.
+
+The speech provoked quite a reaction, with some suggesting that I had understated the full extent of saving in New Zealand, some suggesting that the allocation of savings between different investment alternatives was actually more important than the quantity of savings, and some even seeing the speech as an attack on property investment motivated by signs of life in the Auckland property market.
+
+I was in fact making none of those points. I don’t know whether the savings data understate or overstate “true” savings - I suspect that they slightly understate the actual level of savings, at least in comparison to other countries. I am quite sure that the sensible allocation of savings is hugely important, and arguably much more important than the total quantity of savings. I certainly have no interest in attacking property investment as such, and recognise that for many people it is a perfectly rational investment choice.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The fact remains that there has been a gap between how much we save and how much we invest for many years, and that gap has made New Zealand unusually dependent on the savings of foreigners. And in principle that dependence on the savings of foreigners makes us vulnerable should those foreigners tire of our profligacy, or for some reason, perhaps quite unconnected to New Zealand (perhaps related to the financial health of the overseas-owned banks through which much of this overseas saving is channelled to New Zealand), want to lend us no more - and even more vulnerable should the foreigners actually want us to repay some of the debt we already owe.
+
+Fortunately, our vulnerability is not high at the moment. Both fiscal and monetary policy have been well regarded by international lenders, the banking system is sound and, with the possible exception of some rural land prices (and perhaps of some property prices in the eastern suburbs of Auckland!), it is not obvious that there is a bubble in asset prices. It will be very important that we maintain those things that make us attractive to foreign lenders while our dependence on the savings of foreigners’ remains at such a high level.
+
+And in that connection, one of the areas where we will need to be very careful, judging from recent political comments, is to avoid any impression that the government might succumb to the temptation to interfere with the operational independence of the Reserve Bank.
+
+Should we really be concerned about this high dependence on foreign savings? There is a school of thought, which suggests that we should not be concerned, arguing that since the foreign obligations are mainly in the private sector, not in the government sector, there will be a natural tendency for this dependence to be self-correcting when New Zealand debtors, or foreign creditors, feel that the dependence has gone far enough.
+
+I feel uneasy about this conclusion, not least because attitudes can change suddenly in financial markets. If New Zealand suddenly became “unfashionable” in international financial markets, for example, we could see an abrupt increase in the risk premium attached to New Zealand interest rates, with potentially serious implications for New Zealand asset values and the stability of the banking system itself.
+
+Alan Greenspan has recently expressed concern about a similar growing dependence on foreign savings in the United States. Noting that over the last six years about 40 per cent of growth in the US capital stock had been financed by foreign capital, and pointing to the large US current account deficit, he observed that “countries that have gone down this path invariably run into trouble, and so would we. Eventually, the current account deficit will have to be restrained.” He went on to say that, while boosting saving does not affect the number of people in the workforce, “it surely affects capital investment, which it finances, and the productivity that it engenders.”
+
+So while being happy to concede that a lack of saving may not be the most serious problem facing the New Zealand economy, and being happy to concede also that some of the countries which have the most serious problems today are suffering from too much saving, I nevertheless feel uneasy about the extent to which we have become, and continue to be, dependent on the savings of others.
+
+Causes of our poor saving performance
+
+Knowing what to do about the issue is complicated because it is not entirely clear why our (private sector) saving record has been so poor.
+
+I used to think that we were poor savers because we were all very confident that the state would provide fully and generously for the education of our children, for our healthcare, and for our retirement income. But that hardly explains why we save less than do the citizens of the countries of Western Europe, most of which have similarly generous social welfare systems. Nor does it explain why some of the data suggests that we have been saving even less in recent years than a few years ago, despite the fact that we now need to pay some of the costs of the tertiary education of our children, to pay for some types of healthcare, and have a rather less generous state retirement income scheme than was envisaged 20 years ago.
+
+Some have argued, including no doubt some in this room, that the reason we save so little in New Zealand is that there are no incentives to save here (by which they obviously mean no incentives other than the obvious ones of having something put aside for a rainy day and for a rather more comfortable retirement than will be provided by New Zealand Superannuation). Well, it is certainly true that there are no tax incentives for saving in New Zealand. And perhaps this is indeed a reason for our poor saving performance. The National Party has pledged to provide a modest tax incentive for saving into a retirement income fund if we become the Government following the forthcoming general election, and may look to increase that incentive as the fiscal position allows. But before any additional incentive was provided it would be important to assess whether the initial incentive actually had the desired effect, not just of increasing the flow of saving into the tax-preferred areas but of increasing aggregate national saving. Previous studies undertaken in connection with assessments of the adequacy of income for retirement have consistently argued that tax incentives do not increase aggregate savings, and tend to be inequitable in that they go overwhelming to those on high incomes who would have saved whether or not there had been tax incentives.
+
+Perhaps one of the reasons for our poor savings performance is that savers lack a readily accessible, low risk, instrument in which to invest their savings. Most of those who have the ability to save well remember the precipitous fall of the New Zealand share market in 1987 and 1988, with listed company after listed company collapsing. Most have lost money in international share markets more recently, and still feel very nervous about the prospect for international share prices. Most recall the way in which their savings were pillaged by the great inflation of the seventies and eighties, inflation that eroded the real value of their financial assets by more than 90 per cent in 20 years. Many have lost money investing in property, or have suffered endless problems dealing with abusive and uncreditworthy tenants. Many have lost money investing in highly-leveraged property trusts in recent years. Some have read of the problems afflicting managed funds in the United Kingdom, and of rates of return which would look good were it not for that little minus sign in front of them! Is it any wonder that we don’t save? Even quite well educated people don’t know where to turn. It might well assist New Zealanders to save more if there was a readily available retail savings instrument which provided complete protection against credit and inflation risk, at very low or nil cost (in terms of brokerage or commission) - such as an inflation-indexed instrument issued by government providing a probably-low-but-assured after-tax-and-inflation return.
+
+And if that did not work? Perhaps after all we need to be compelled to save. A recent study of saving behaviour in the United States suggests that people save too little for four reasons:
+
+1) They are uncertain about how much they need to save.
+
+2) There is a natural human tendency to procrastinate - to put off till tomorrow the unpleasant or difficult things people know they should do today.
+
+3) They tend to be averse to losses - indeed, they dislike losses about twice as much as they like gains of the same magnitude.
+
+4) They lack self-control.
+
+The authors suggest that, because of these characteristics, the typical American’s household wealth consists only of their entitlement to social security (an asset which has arisen because of a mandatory form of savings), a defined-benefit pension (an asset which has arisen because of regular, “unseen”, and often mandatory contributions over many years), and home equity (an asset which has grown in significant part also from regular, “unseen”, and mandatory payments to retire a mortgage). “None of the three forms of wealth accumulation involves any conscious willpower or deliberate choice on the part of individuals.”
+
+If this American study reflects the behavioural characteristics of New Zealanders also, and I believe it does, it is not surprising that most of the wealth of New Zealand households is in the form of home equity and their entitlement to New Zealand Superannuation, both representing a form of “unseen” and largely mandatory saving. It may also be the case that the decline in private sector savings we have seen in recent years has been related in part to the rapid decline of the prevalence of defined-benefit pension schemes in New Zealand following the change in the tax and regulatory regime relevant to those schemes in the late eighties. It is at least clear that employees are much less inclined to join defined-contribution savings schemes, even when heavily subsidised by employers, when they have the option of not contributing, than they were to join the often-mandatory defined-benefit schemes associated with many employers prior to the late eighties.
+
+Thaler and Benartzi suggest the creation of what they call the “Save More Tomorrow” programme. This gives employees the “option of committing themselves now to increase their savings rate every time they get a raise in the future. This plan has the advantage of tackling the problems of self control (through the pre-commitment), loss aversion (by way of forgoing a portion of future pay rises, rather than taking a current cut in take-home pay), inertia (once people enrol, few ever opt out), and (lack of information about how much to save)(by assisting employees in deciding how much to save). The SMT plan takes precisely the same behavioural tendency that induces people to postpone saving indefinitely and puts it to use.”
+
+In some respects, the Australian model of compulsory savings for retirement is similar to this Thaler and Benartzi SMT plan. As an economist, I am reluctant to advocate any form of compulsion, and I am not sure that even in Australia it is clearly established that aggregate savings have been increased in recent years. It is also fairly clear that, when New Zealanders were last asked to vote on a compulsory saving scheme, they rejected it by a very substantial majority. But if this decision were ever revisited, I suspect that a scheme like that advocated by Thaler and Benartzi might well prove worthy of further consideration.
+
+Does the Cullen Fund make sense in this context?
+
+Given that the private sector is such a relatively poor saver, perhaps the Cullen Fund makes sense after all? Unfortunately, I don’t think so. There are several problems with the Fund:
+
+\- The Government has marketed it as in some way providing a high degree of certainty that the present level of New Zealand Superannuation - 65 per cent of the average wage to a married couple at the age of 65 - can be sustained indefinitely. Maybe it can be, but the Cullen Fund will make only a small contribution to that outcome - contributing only some 10 per cent of the fiscal cost of New Zealand Superannuation, on average, over the years during which the Fund will be drawn down. But by creating the illusion of certainty, the Fund may well have a quite perverse effect on private sector saving behaviour. The Treasury warned the Government of this risk when the scheme was first being discussed, and there are some tentative signs that the Fund may already be having this effect.
+
+\- Because the Fund will absorb large amounts of cash for a number of years, at a time when the government is also undertaking a substantial investment programme, the government will have to borrow substantially more than would otherwise be the case. The National Bank of New Zealand has calculated that the additional borrowing required by the need to pour large amounts of money into the Fund has added about 0.25 per cent to the interest rate on 10 year bonds and, by thus increasing the cost of capital, has resulted in a permanent reduction in the economy’s potential growth rate of about 0.2 per cent per annum.
+
+\- It is not at all clear to me why it makes sense for the Government to invest in overseas shares and overseas bonds while at the same time increasing its borrowing in New Zealand. No fund manager worth his salt would advise a private individual to invest in overseas shares before the individual’s home mortgage had been repaid because no investment in overseas shares can give a risk-adjusted after-tax rate of return equivalent to the return gained from retiring debt. Why then does it make sense for Government to invest overseas before retiring its debt - indeed, while still increasing its debt? (This would seem risky even if the projected rate of return on equities, of around 12 per cent per annum, seemed reasonable. To my mind, that assumption is quite unrealistic given the still-high level of international share prices.)
+
+\- Fundamentally, the ability of the economy to pay for New Zealand Superannuation in 20 or 30 years’ time depends on the size of the economy at that time. From that perspective, the question to ask is: does the investment of very large amounts from Budget surpluses over the next umpteen years in (primarily) overseas shares and bonds make a greater contribution to the growth of the economy than other possible uses for that surplus - such as greater investment in the education system, or tax reductions designed to encourage investment by the private sector, or greater investment in the roading infrastructure? If it was really a good idea to fund future government spending by investing in overseas share markets, somebody would surely have thought of it long ago.
+
+On balance, therefore, the Cullen Fund looks to me like a serious mistake.
+
+Increasing growth is crucial
+
+I strongly suspect that a major reason for our poor saving performance is simply that for many years our living standards have been increasing very slowly, and certainly more slowly than growth in living standards in other developed countries. With financial sector liberalisation making loans easy to get, and the abolition of import controls and tariffs making first-world goods and services more readily available to us, perhaps increased debt was the inevitable result.
+
+If that is the case, improving our sustainable growth rate may well be the answer to improving our saving performance. Alas, there is no sign of our sustainable growth rate increasing with present policies. The Government has expressed the hope that growth can be accelerated to 4 per cent per annum over the next few years. But the Minister of Finance’s own Budget, in May, projected GDP growth slowing steadily from 3.1 per cent next year to 2.0 per cent in 10 years’ time. There is simply no sign of the Government being willing to adopt policies designed to increase our growth rate in any substantial way. Until our trend growth rate is increased, it seems hard to see why the constant pressure for more and better housing, more and better healthcare, more and better education, more and longer annual leave, more and more generous parental leave, and all the rest, will leave much scope for the saving which we need to increase our growth while reducing our dependence on the savings of others.
+
+Of course, there is no silver bullet which will deliver that faster growth. But in my own judgement, a National Party Government would give New Zealand the best shot at achieving faster growth - which of course is why I decided to step down as Governor of the Reserve Bank in April to seek election on the National Party ticket.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

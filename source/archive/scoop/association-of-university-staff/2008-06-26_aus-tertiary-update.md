@@ -1,0 +1,126 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2008-06-26
+source-url: https://www.scoop.co.nz/stories/ED0806/S00076/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 26 June 2008, 9:30 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Twenty-nine jobs to be axed from Victoria’s college of education  
+Both the Association of University Staff and the Association of Staff in Tertiary Education have expressed extreme disappointment that Victoria University is pressing ahead with plans to cut twenty-two academic and advisory and seven administrative positions from its college of education by the end of this year. The original proposal was for a cut of more than 15 percent to existing staff numbers, a reduction of twenty-two out of 141 academic positions and seven out of forty-one general, and closure of the college’s resource centre.  
+The proposal was described by the unions at its release in May as “a crude shift in emphasis from teacher education to research in education” based purely on an “arbitrary” figure for budget overspending. The unions called for both the shape and scale of the cuts to be seriously reconsidered in order to maintain the college’s “long and proud history of producing creative, innovative, and dedicated graduates”.  
+However, despite receiving 204 submissions from staff and students largely opposed to the cuts, the university has now announced that the cuts will proceed without any adjustment to the original proposal. “We are not sure how 204 submissions can fail to have any impact on the number of proposed job losses when that number was certainly the result of some arbitrary assumptions,” AUS organiser Michael Gilchrist said. “This outcome heightens our overall concerns about the university’s change processes. We believe that there should have been broader input on the decision panel.”  
+“We now believe that it is vital that an observer nominated by staff be included on that panel when its members select who stays in employment and who is made redundant,” he added.  
+“Staff deserve at least that degree of assurance about the objectivity and impartiality of the process. However, we have so far encountered a staunch refusal from the university to make this process more open and transparent,” Mr Gilchrist said.  
+Commenting on the logic of cutting jobs to bring the college within an arbitrary budget, Mr Gilchrist blamed the government as well as the university. “The Government has effectively reduced the funding for teacher education by shifting resources towards research and away from teaching. “But while the university continues to balance its books with such enthusiasm, the pressures on high-quality teacher education caused by funding reductions will not be felt by the government,” he said.  
+“We have faith in our members, who will continue to work to deliver the very best education for students at the college, but they deserve more support,” Mr Gilchrist concluded.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. A reprieve for gender and women’s studies  
+2\. Auckland moves to limit student numbers  
+3\. Trans-tasman pay disparity not only concern  
+4\. Students welcome stronger protection for casuals  
+5\. “Servants” carrying teaching load  
+6\. Tertiary-education investment on the rise in China  
+7\. Massive Essex majority opposes privatisation  
+8\. University presses attempt to reKindle interest  
+9\. How to turn on a robot
+
+A reprieve for gender and women’s studies  
+In a related move, Victoria’s gender and women’s studies programme, which had recently been removed from the faculty of humanities and social sciences to the university’s college of education, has received at least a temporary reprieve. A unanimous resolution of the university’s academic board has called for more consultation on the future of the programme before any further action is taken.  
+The resolution, a response to concerns expressed by staff and students, was moved and seconded by Professors Janet Holmes of the linguistics programme and Lydia Wevers of the Stout research centre for New Zealand studies. It noted that the changes proposed for the college of education risk the dissolution of the gender and women’s studies programme and it requires university management to go back to staff, students, the programme’s board of studies, and the wider community before taking any further steps.  
+Furthermore, the resolution reflects the continuing struggle gender and women’s studies has had over the years to reinforce the need for a stand-alone programme as a necessary complement to the integration of feminist perspectives into other disciplines.  
+The proposed consultation process will pay particular attention to the disciplinary focus of the programme, its physical location, and the maintenance and growth of its research and research-degree programme. The programme has, consequently, been separated out from the other changes taking place at the college of education and will have its own budget and remain on the Kelburn campus, at least until the end of 2009.  
+A timeline, process, and discussion document for the consultation will shortly be made available.
+
+Auckland moves to limit student numbers  
+The University of Auckland council has this week approved new limits on student numbers that will restrict entry to all undergraduate courses from 2009. According to the university, the decision will provide for better control of student numbers in response, it claims, to the new Tertiary Education Commission (TEC) funding model, which moves away from the previous “bums-on-seats” approach.  
+The limits on previously open-entry courses, revealed to the public for the first time at the council meeting, largely match 2008 admissions. Typical examples are the bachelor of arts, capped at 2000, including 120 international students, in 2009 from a 2008 semester one figure of 1679; the bachelor of education at 650, against about 600 in 2008; and the bachelor of theology capped at 60 against a 2008 admission of forty-seven.  
+Commenting on the new limits, AUS Auckland branch president, Dr Helen Charters, said, “Many AUS members at Auckland struggle under excessive workloads, driven in part by cramming too many students into too few classrooms, with insufficient teaching staff, all a consequence of long-term under-resourcing of the university sector. This leads to a poor learning and working environment all round. However, it is by no means clear that capping entry to arts and education programmes is the answer to these problems,” she continued.  
+“AUS supports stable long-term funding of universities but, in return, those universities have an obligation to serve society at large. There is a real and predicted shortfall of teachers in New Zealand; to limit entry to education programmes in these circumstances seems irrational,” said Dr Charters.  
+“Moreover, open entry to the bachelor of arts degree is a historic right of all New Zealanders, enabling them to pursue an advanced education in areas of broad social, political, and ethical concern. Arts programmes teach people to be innovative and critical thinkers, a valuable resource in any society,” she concluded.
+
+Trans-tasman pay disparity not only concern  
+Research conducted for the Association of Staff in Tertiary Education (ASTE) reveals that polytechnic lecturers in New Zealand are paid approximately 60 percent of the salaries of their equivalents in Australia’s Technical and Further Education system. The research mirrors the recent Deloitte report, commissioned by the New Zealand Vice-Chancellors’ Committee, indicating that New Zealand university salaries are lagging behind corresponding Australian and other international rates.  
+Focusing on twenty-three different points on the salary scale, the research shows that the New Zealand polytechnic rates, adjusted for purchasing-power parity, range between 50 and 62.5 percent of equivalent Australian rates. Overall, average New Zealand rates were 58.5 percent of the Australian average.  
+Average purchasing power of the New Zealand polytechnic rates ranged from $US18,010 to $US51,695 against Australian adjusted rates of $US28.825 to $US98,845. The differential is lowest at the bottom of the salary scale, with New Zealand salaries 62.5 percent of those of Australian equivalents, and highest towards the top, where, for example, New Zealand’s $US41,088 is a fraction over half of Australia’s $US81,835.  
+Commenting on the figures, ASTE national secretary Sharn Riggs said that they form only part of a much broader research project stemming from the formation of a joint employer and union working party on institute of technology and polytechnic salaries. “It is no surprise that the figures show such a disparity,” she said.  
+“However, we are equally concerned about other ramifications of the evidence emerging from the overall research project. In particular, we are worried about the implications for internal New Zealand markets and the likely effect of the sector’s low salaries on its relationships with other sectors from which polytechnic lecturers have previously been recruited and to which they are attracted by higher rates of pay,” she added.
+
+Students welcome stronger protection for casuals  
+University of Auckland students have welcomed this week’s government announcement of its intention to legislate for increased protections for temporary and casual workers and to run awareness campaigns to ensure that employees know their rights at work. “These developments are highly relevant to students,” said Auckland University Students’ Association president, David Do.  
+“Many university stuudents balance part-time work with their studies, and tend to work in areas with a high concentration of casual employment, namely the hospitality, service, retail, and call-centre areas,” he said. “Many students turn to part-time work to support themselves, often because they’re not eligible for support through student allowances.”  
+“Even borrowing living costs through student loans is not enough even to cover rent in most parts of Auckland. Some international students also work part-time, and are more likely to be subject to substandard treatment. They face increased difficulties due to English language barriers and lack of knowledge about New Zealand conditions,” he continued.  
+“There is potential misuse of casual employment relationships by employers. It is not unusual for some students who are effectively part-time employees to have been kept permanently on casual contracts. Facing increased financial pressures, student workers may not be able or willing to assert their rights if employers do not give them their minimum legal entitlements in pay, sick leave, training, and holidays,” Mr Do continued.  
+“We support all efforts to increase workers’ and employers’ awareness of their rights at work, and look forward to joining in any future campaigns planned in that area.”
+
+World Watch  
+“Servants” carrying teaching load  
+Sessional lecturers in Australia are the domestic servants of the contemporary campus and carry as much as 80 percent of the undergraduate teaching load, according to a new report on the rise of the casualised class of academic. “In many ways the lifestyle of the traditional teaching and research academic is totally dependent on the contribution of sessional staff, in the way that Victorian middle-class lifestyles were dependent on the domestic servant,” said the University of Wollongong’s Professor Rob Castle, spokesperson for the Recognition, Enhancement, Development (RED) project group.  
+The report says that up to 50 percent of Australian university classes are taught by sessional staff and that official figures, stated as full-time equivalents, do not make clear the sector’s dependence on casualised academics. In two of the sixteen universities that took part in the RED project, sessional staff led 80 percent of undergraduate classes.  
+The National Tertiary Education Union (NTEU) is seeking to place strict limits on the number and kind of casual appointments as a central part of its national wage campaign. Under Howard-era collective agreements, some not due to expire until June next year, universities are prohibited from capping casual employment. NTEU general secretary Grahame McCulloch has expressed concern at an estimated 60 percent increase in casual appointments during the Howard years.  
+Professor Castle noted, however, that the use of sessional staff did not automatically imply anything about the quality of teaching. Part-time teachers came in all shapes and sizes, from highly qualified experts through to PhD students starting careers. “If anything, we are better off than the US, where so much is done by teaching assistants,” Professor Castle said.  
+He further suggested that the trend towards casualisation could not be turned back. “The reality is that there is not going to be a great deal of extra funding for universities, so the use of sessionals is unavoidable and the overwhelming pressure on academics makes them essential,” he concluded.  
+From Stephen Matchett in The Australian
+
+Tertiary-education investment on the rise in China  
+China’s increasing investment in education will accelerate economic development, lead to rapid wage rises and increased consumer demand, and slow population growth, says a new report from MAPI, the Arlington, Virginia-based Manufacturers’ Alliance.  
+The report, China’s Educational Performance: Implications for global competitiveness, social stability and long-term development, is the latest in a series of MAPI research reports on the evolution of the Chinese economy and its impact on the emerging global economic order.  
+Since the 1990s, when China made higher education a priority, the proportion of graduates from senior secondary schools who go on to pursue higher education has risen significantly, from nearly half in 1995 to 75 percent by 2006. The gross enrolment ratio in tertiary education rose from 6 percent in 1999 to 20 percent in 2005, more than India’s 11 percent and Vietnam’s 16 percent, but well behind Japan’s 55 percent and the United States’ 83 percent. However, a recent Rand Corporation report notes that China is graduating more scientists and engineers than the US.  
+More than half of Chinese students graduate in natural sciences and engineering, compared with a world average of 27 percent and only 17 percent in the US. In 2006, 36 percent of Chinese undergraduate degrees and 37 percent of graduate degrees were awarded in engineering, whereas fewer than 7 percent of US undergraduate degrees awarded in 2004 were in engineering.  
+In January 2006, China initiated a fifteen-year medium to long-term plan for the development of science and technology. The nation aims to become an “innovation-oriented society” by 2020 and a world leader in science and technology by 2050.  
+From Subbiah Arunachalam in University World News
+
+Massive Essex majority opposes privatisation  
+Staff at Essex University in the United Kingdom have delivered a massive rejection of the university’s plans to set up a joint venture to teach students with private company INTO. In an open referendum, hosted by the University and College Union (UCU), 90 percent of staff voting said they believed that any “partnership” with INTO would damage the university.  
+INTO has a track record of paying staff less and signing deals that consign land over to property speculators, while locking universities into highly disadvantageous thirty-five-year leases. UCU members in INTO ventures have raised concerns about the quality of its provision. INTO’s chairman, Andrew Colin, has admitted that “rates of pay are probably worse” at his ventures and INTO does not recognise unions. INTO failed to declare its company accounts on time last year and made a loss of $NZ4.18 million in 2006.  
+The referendum is a blow for the university’s plans, indicating that the vice-chancellor has failed to convince staff that the joint venture would do anything other than damage their university. It is also a blow for INTO, which is trying to sign a series of deals with universities in the face of growing opposition from university staff.  
+UCU general secretary Sally Hunt said, “I urge the vice-chancellor to draw back from plans which have little or no support among the staff and students of the university. This vote is yet another indication that UCU is right to oppose the creeping privatisation of higher education.”  
+“We are not prepared,” she said, “to watch our universities risk hard-won reputations and future financial health by signing capital and revenue over to what are, in effect, private-sector property developers. We’ve seen the disastrous consequences of this kind of privatisation across the public sector and will fight it wherever it rears its head.”
+
+University presses attempt to reKindle interest  
+Launched last November, and already attracting considerable attention, Kindle, Amazon’s portable reader that allows for downloading of complete books, has been hailed as potentially opening up a new kind of reading experience. Of course, many such claims have previously been made, but Kindle’s Amazon backing has given it a market that is attractive to many publishers, including university presses.  
+By the beginning of the US autumn, Princeton plans to have several hundred books available for sale through Kindle. Yale University Press and Oxford University Press already have a similar presence there. The University of California Press recently had about forty of its volumes placed on Kindle and is gearing up for more.  
+Press officials say that they are generally putting a wide selection of current and backlist volumes on Kindle, and aren’t selecting any one particular kind of volume as more likely to sell in this format. However, you are unlikely to find on Kindle any books that benefit from illustrations. Permission is so difficult to obtain for online books that most presses aren’t trying, and many believe that Kindle doesn’t yet provide optimal viewing for all illustrations. Yale, for example, is known for its publishing of art books, but is not putting them on Kindle.  
+The university presses participating in Kindle were reluctant to describe the specific financial arrangements they have with Amazon (which also declined to discuss them), but said that they were revenue-sharing deals, and that preparing the books for release on Kindle was not particularly burdensome or expensive.  
+From Inside Higher Ed
+
+How to turn on a robot  
+Academics from around the world met recently at the University of Maastricht in the Netherlands at the First International Conference on Human-Robot Personal Relationships to discuss a not-so-distant future when robots care for the elderly, participate in the military, and are used as sex partners. One speaker gave her talk from California via a robot-mounted view screen.  
+The conference was organised by David Levy, author of Love and Sex With Robots, who expects that, in about forty years, artificial intelligence will have progressed to the point where human-robot dating will be commonplace. “Being loved by a robot?” Levy asks. “It sounds a bit weird, but someday, for many, many people, being in love with a robot will be just as good as love with a human.”  
+Conference participants grappled with other issues of a complicated, roboticised future. Will having perfect, compliant robots make us less patient with vexing human relationships? Will using female robots for cleaning promote gender stereotypes? If you force your robot to have sex with you, is it rape?  
+Ron Arkin, a professor of computing at the Georgia Institute of Technology who participated in the conference, says the questions aren’t spurious. Just as pornography provided incentive for the development of videorecording and the internet, Professor Arkin says, sex will drive robotic developments. “It’s gonna be here before we know it,” he claims. “If the questions aren’t asked, the technology will just show up on your doorstep.”  
+From Ingrid Norton in The Chronicle of Higher Education
+
+More international news  
+More international news can be found on University World News:  
+http://www.universityworldnews.com
+
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct inquiries should be made to the editor, email: editor@aus.ac.nz.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

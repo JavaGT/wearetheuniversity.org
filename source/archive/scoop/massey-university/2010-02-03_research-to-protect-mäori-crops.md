@@ -1,0 +1,62 @@
+---
+slug: research-to-protect-mäori-crops
+title: "Research to protect Mäori crops"
+date: 2010-02-03
+source-url: https://www.scoop.co.nz/stories/SC1002/S00017/research-to-protect-maori-crops.htm
+author: massey-university
+---
+Research to protect Mäori crops
+===============================
+
+**Wednesday, 3 February 2010, 2:36 pm**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+Wednesday, February 3, 2010
+
+Research to protect Mäori crops
+
+Master of Science student Aleise Puketapu will start new research this month that may save traditional crops, including kumara, taewa and poroporo, from extinction.
+
+It will be the first study of its kind on the effects of the insect pest tomato potato psyllid on traditional Mäori crops.
+
+Tomato potato psyllid has been an established pest in New Zealand since 2006, when it was first identified in a tomato crop in an Auckland greenhouse. Both adults and nymphs cause damage to tomato, capsicum and potato crops and the insect is also a threat to several species harvested by Mäori.
+
+Ms Puketapu, 23, (Te Atiawa, Tainui) will examine the lifecycle and epidemiology of the tomato/potato psyllid. She says this will enable growers to make informed management and control decisions. “I will be assessing pest host preference and population dynamics.”
+
+The research will provide an insight into the relationship between pest and host plant, and what can be expected in terms of pest population and infestations within a single growing season. “During the 2008-09 cropping season I was working on a growers guide regarding pests and diseases affecting taewa and witnessed the devastation that the tomato potato psyllid posed to Mäori potatoes.”
+
+Research being undertaken by Ms Puketapu is supported by a $18,500 Te Tipu Pütaio Fellowship from the Foundation of Research Science and Technology. She says the fellowship also adds structure to her research. “I have set milestones to achieve and specific outputs that are required of me which will inevitably keep me on track through the year and ensure I complete my research on time.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The tomato potato psyllid proved to be a serious horticultural pest to many crops in the 2008-9 summer cropping season. The most significant effects were apparent in Solanaceous crops of which tomatoes, potatoes, tamarillos and capsicums are major consumable products. The tomato potato psyllid is a carrier of a bacterial disease commonly known as zebra chip which causes yield losses that can be as high as 80 per cent.
+
+Infected plants appear stunted, yellow to brown in colour and the leaves may roll and turn pink at leaf margins. There is also the possibility that the insect carries a second disease, Candidatus Phytoplasma australiense, which caused the decline of the cabbage tree.
+
+Ms Puketapu grew up in Whanganui, attending Sacred Heart College and Cullinane College, winning a junior scholarship and then a tertiary scholarship as a senior. She enrolled at Massey in year-13 and won a Rangatahi Mäia Scholarship.
+
+While completing her Bachelor of Science and Postgraduate Diploma in Resource and Environmental Management, Ms Puketapu worked closely with Dr Nick Roskruge, a senior lecturer in Horticulture and Mäori Resource Management at Massey, who also coordinates the National Taewa Mäori project and chairs Tahuri Whenua, the National Mäori Growers Collective. “Through working with Dr Roskruge, I’ve gained hands-on experience with traditional Mäori crops, learning their whakapapa and significance to Mäori society.”
+
+This summer she worked on a scholarship with the National Bioprotection Research Centre.
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

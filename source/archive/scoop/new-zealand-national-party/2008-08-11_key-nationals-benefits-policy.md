@@ -1,0 +1,246 @@
+---
+slug: key-nationals-benefits-policy
+title: "Key: National’s Benefits Policy"
+date: 2008-08-11
+source-url: https://www.scoop.co.nz/stories/PA0808/S00169/key-nationals-benefits-policy.htm
+author: new-zealand-national-party
+---
+Key: National’s Benefits Policy
+===============================
+
+**Monday, 11 August 2008, 1:01 pm**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+John Key MP  
+National Party Leader
+
+11 August 2008
+
+Speech: National’s Benefits Policy
+
+Ladies and Gentlemen, today I am announcing National’s policy on the benefit system.
+
+This is a very important part of National’s welfare policy but it’s not the only part.
+
+At a later date we will be announcing policies on other aspects of the wider welfare system, including vulnerable children and families, child support, and the community and voluntary sector. But today I want to talk about benefits.
+
+There is also a background policy paper that goes into some more detail, and this can be downloaded from the National Party’s website.
+
+I don’t need to tell you how significant this policy area is.
+
+We have a very comprehensive benefit system in New Zealand, and almost 260,000 working-aged people currently receive a benefit. The vast majority of these people are on the domestic purposes, sickness, invalids, or unemployment benefit.
+
+Historically, the unemployment benefit was the focus of most people’s attention, but there are now just over 17,000 people on an unemployment benefit and most get off it within six months.
+
+At the same time, however, there are 130,000 people on either the sickness or invalids benefit. Since 1999, the number of people receiving these two benefits has increased by more than 50%.
+
+The benefit landscape has changed and our policies need to change to reflect this.
+
+Before I get into that, I want to talk a little more about welfare in general.
+
+You might ask why I use the word “welfare” when the vogue nowadays is to talk about “social development”. I unashamedly use the word welfare because I believe in the welfare state. I have a personal commitment to it. My father died when I was seven years old. My mother, my two older sisters, and I had no other family in New Zealand. For a period of time after my father died, my mother relied on the safety net provided by the Widows Benefit.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+My family was poor, and we knew it, but the benefit gave my mother enough security to keep us together and keep us focused on a time when things would improve. By having our most basic needs covered as a family, we were able to hold on to that most precious human emotion – hope.
+
+Over time, my mother moved off the benefit and into work. The welfare system continued to support us, however, by providing us with a state house. It wasn’t flash, but it was home.
+
+I think almost all New Zealanders believe in the desirability of the welfare state. In particular, I think New Zealanders take it on trust that there will always be a safety net of social welfare benefits. We’re a compassionate and fair people whose instinct is to give a person a helping hand when they need it.
+
+National is committed to a benefit system that is a genuine safety net in times of need. We’re committed to a comprehensive system of benefits that provides temporary support to people as they return to independence, and also provides indefinite, compassionate support to people who are physically or mentally unable to support themselves.
+
+In addition, we believe the benefit system should be one that treats people with dignity but is not afraid to call a spade a spade. It should be fair and should provide certainty to people during what are often some of the most difficult and vulnerable times of their lives.
+
+In terms of providing certainty, we want to send a clear message that benefits will continue to rise each year in line with inflation, and that there is no question of benefits being cut.
+
+While it’s currently convention that benefit levels rise with the CPI, there is no law that ensures it. National will rectify that.
+
+We will enshrine CPI adjustments in legislation, as is the case with New Zealand Superannuation. National will give beneficiaries the same certainty that superannuitants enjoy about future levels of their payments.
+
+I want to talk now about honesty in the benefit system, and about calling a spade a spade.
+
+The first point to make is that we will be rejecting Labour’s planned new benefit terminology.
+
+Labour has spent eight years, millions of dollars, and thousands of hours in meetings and committees trying to pretend that different people don’t have different needs.
+
+Labour’s pursuit of a “single core benefit” has ended in a complete farce. The different benefit types will still exist, and will be different from each other, but will all be simply called “income support”. The Labour Government is going to issue a directive telling case managers and government officials that they are forbidden from using use terms such as “DPB” and “invalids benefit”.
+
+Ruth Dyson has one opinion about this. She says this will “remove the stereotyped language and bureaucracy of a bygone era \[and\] will ensure that Work and Income responds to people as individuals rather than as categories”.
+
+I have another opinion. I say that is a load of politically correct rubbish, it will waste money in rewriting everything, and it will not help beneficiaries in a single way. National will not be making those changes.
+
+Another area where we are going to bring some much-needed honesty is around the planning process for beneficiaries.
+
+Currently, beneficiaries, and their partners, who don’t have work obligations requiring them to look for a job must take part in a “planning process”. Most are required to complete what are called “Personal Development and Employment Plans”.
+
+The manual for Work and Income case managers says this:
+
+“The set of goals contained in the client's Plan are the general objectives that the client wishes to obtain. Goals may be long- or short-term and focused on strengthening any aspect of a client's life. They should include pre-employment, employment, and social activities, as appropriate to the client’s individual circumstances.”
+
+Isn’t it great that busy case managers are required to help people develop an annual plan for social activities? I don’t think so.
+
+National will require that the planning process be focused squarely on preparing people for work, either at that time or at the time they face work obligations. We are going to change the name of plans to just “Employment Plans” and make them focused on employment-related activities and pre-work preparation.
+
+The final point I want to make about honesty in the benefit system is around benefit advances.
+
+Work and Income is allowed to pay a portion of a person’s benefit in advance, to cover lump-sum expenses like school uniforms and appliance repairs. These advances have to be paid back over time, out of the benefit.
+
+That’s fine, except that benefit advances are being granted with apparent ease to people who apply multiple times, and who are finding themselves more and more in debt as a result. In the past year, 20,689 beneficiaries received three or more benefit advances. Total beneficiary debt has increased by around 75% since 1999.
+
+Let’s not pretend that people can repay benefit advances, when they can’t. Lending to people who can’t realistically pay it back is creating a group of people who are not just dependent on benefits but who are also burdened with increasing debt.
+
+National will require the most frequent applicants for benefit advances to attend a budget advisory service, at the government’s expense, to get qualified, experienced, non-judgmental budgeting advice to help them manage their finances. People who do not attend this service, in good faith, will not be eligible for any further benefit advances.
+
+We consider that people who are regularly finding it difficult to make ends meet, for whatever reason, need more assistance than a continuing stream of benefit advances, which may or may not ever be repaid. They need expert help and we are going to ensure that help is provided.
+
+I want to talk now about work, and about the work expectations that National has for people on a benefit.
+
+Many people on a benefit will realistically never be able to work. They will be people on the Invalids Benefit whose illness or disability is all-encompassing, or who are terminally ill, and we will not expect them to be seeking work or training for work.  
+But for most people, a benefit should provide support when circumstances temporarily make them dependent.
+
+National is going to have an unrelenting focus on work. We will do this for two reasons.
+
+The first is that paid work is the route to independence and well-being for most people, and is the best way to reduce child poverty. Long-term welfare dependency locks people into a life of limited income and limited choices.
+
+We all know there is little chance of a better future for beneficiaries and their children unless they come off a benefit and work for an income. Work is beneficial not only for the greater earning potential it provides, but also for the dignity, self-worth, and sense of belonging that is part of being in a workplace, having colleagues, and being productive.
+
+I truly believe work has more than a monetary value, and there is more than just an income to lose by not working.
+
+The second reason we will have an unrelenting focus on work is that people who receive a benefit are able to do so only because other people are going to work every day, earning a wage, and paying taxes. And, in many cases, these are people who are themselves, especially in the current economic climate, far from well off.
+
+New Zealanders don’t mind giving people in less fortunate situations a helping hand, but they equally don’t like to feel that their helping hand is being taken advantage of. It’s not fair on the people who pay the nation’s welfare bill to have people receiving benefits and not making every reasonable attempt to pick themselves up, find a job, and stand on their own two feet.
+
+Most people on a benefit do this. But it’s clear that some have got too used to being on a benefit and see it as a permanent entitlement. They think it’s their right to receive money from the state. Perhaps because it’s been so long since they worked themselves that they really have forgotten or don’t even know that someone else has worked to make their benefit possible.
+
+So, in summary, National thinks the welfare system should be squarely focused on helping people get back to work as soon as possible, and ensuring that they do so.
+
+To do this, we need a benefit system that focuses on what people can do, rather than on what they can’t do; that challenges people, not treats them as passive recipients of benefits; and that provides support, training and opportunities for people to return to the workforce.
+
+National’s commitment as the party of work is evidenced by our support, over the years, for a “work for the dole” or “community wage” scheme.
+
+We have never wanted to see people languishing for long periods on an unemployment benefit, effectively having a licence to sit around because there are few paid jobs available. The scheme we introduced in 1998 let the government compel people to work part-time for community organisations if they couldn’t get a paid job and still wanted to draw the dole. And fair enough.
+
+Here in 2008, we think that the number of people on the unemployment benefit for long periods of time has got down to such a level that it permits us to go one step better than “work for the dole”. After all, why would you want people to be working and getting the dole when they could be working, earning their own income, not being dependent on the taxpayer, and being off the dole altogether?
+
+In 2008, we are going to focus on the long-term unemployed by requiring them to get a paid job, and get off the benefit, rather than requiring them to do community work. That’s because there are jobs out there and we’re going to require people to take them. Healthy, able people on the unemployment benefit will no longer be able to choose not to work.
+
+Within 12 months of a new National Government, every person who has been on the unemployment benefit for more than a year, of which there are around 5,000, will be required to re-apply for their benefit and undergo a comprehensive work assessment. All long-term unemployment beneficiaries will be required to do what it takes to secure employment. This may include practical training, attending a basic-skills course, or attending drug and alcohol rehabilitation.
+
+After that, they will be required to actively look for a job, to go to any job interview they are referred to, and to accept any offer of suitable employment, whether full-time, part-time, temporary, or seasonal. If they do not comply with these obligations, they will have their benefit reduced in the first instance, then suspended, and then cancelled.
+
+  
+Now I want to talk about other benefits.
+
+The evidence is clear from the unemployment benefit that work obligations are successful in reducing the number of people on a benefit. You might say that work obligations work.
+
+But, currently, people receiving the domestic purposes, sickness, or invalids benefit do not face any work obligations whatsoever. This is a mistake, because many of them can and should work. It’s the way out of poverty.
+
+So, National’s policy is to extend part-time work obligations to two groups of beneficiaries:
+
+ DPB recipients, once their youngest dependent child is aged six or over, and  
+ People on sickness and invalids benefits who have been assessed as being able to work part time.
+
+  
+These groups will be required to spend at least 15 hours per week in employment, training, or job-seeking activities. It’s in the long-term interest of sole-parent families to engage in paid work because this is the most effective way of reducing the risk of family poverty.
+
+In 1999, a similar policy was implemented and DPB recipients faced work obligations when their youngest child turned six. The Ministry of Social Development studied the results of this policy and found that:
+
+ There was an increase in the number of sole parents moving off the benefit.  
+ Most of those who moved off the benefit and into employment said they were eventually better off financially; and  
+ 60% of sole parents who moved off the benefit and into employment reported that the overall effect on their families of them obtaining paid work was positive or very positive, with only 4% describing the overall effect as negative or very negative.
+
+  
+So, the policy really worked. But by the time MSD confirmed that it worked, an ideologically driven Labour Government had got rid of the policy.
+
+Opponents sometimes argue that requiring a sole parent to seek work is detrimental to his or her children. This is not borne out by the international evidence. In fact, I’d like to see the evidence that growing up in a long-term benefit-dependent household is better for children. It isn’t.  
+The system of work obligations also has built in safeguards. Work and Income already has the discretion to exempt parents from work obligations if, for example, they are caring for a child with a physical or intellectual disability, or a chronic or recurring illness.  
+We will ensure that this discretion is exercised in a compassionate way and takes into account a sole parent's individual circumstances.  
+Our policy of introducing part-time work obligations for some sickness and invalids beneficiaries is a new and significant one.
+
+Currently, doctors can indicate on the Work and Income medical certificate if they consider that the sickness or invalids beneficiary is able, in their opinion, to work part time – that is, to be regularly in employment for 15 hours or more a week. Based on this and other information, Work and Income has categorized 5,629 sickness or invalids beneficiaries as capable of working right now.
+
+So you’d think there would be an obligation for these people to actually find work. But there isn’t. There’s no obligation for them to do anything more than simply plan for a possible return to work at some stage – and to talk to their case manager once in a while.
+
+Under a National Government, sickness and invalids beneficiaries who have been categorised as work-ready will be expected and assisted to work part time. This means they will be required to spend at least 15 hours per week in employment, training, or job-seeking activities.
+
+There are other changes we are going to introduce to help address the growth in numbers on the sickness and invalids benefits.
+
+The first is that National will require more frequent reassessments during the first few months that a person is on a sickness benefit. We believe it’s important to have frequent medical assessments, and active and intensive case management, during the initial period of a person’s benefit receipt.
+
+Therefore, we will require that the first two medical certificates issued to a sickness beneficiary will be for a maximum of only four weeks. This will ensure more frequent assessments from the person’s doctor, and from Work and Income, at the outset of their benefit receipt. The third, and any subsequent medical certificate, will continue to cover a period of up to 13 weeks.
+
+The second change we are going to make is that if a person has been receiving a sickness benefit continuously for 12 months, Work and Income will automatically send them to a ‘designated doctor’ for a second opinion on their work prospects.
+
+Currently, Work and Income has a number of designated doctors around the country which it contracts to give second opinions in some cases, but these second opinions are not automatic. Making second opinions compulsory reduces the pressure on doctors and case managers who may be reluctant to initiate second opinions.
+
+Moreover, it’s taxpayers who are footing the bill for the sickness benefit, which is supposed to be for a short-term medical condition. A compulsory second opinion enables Work and Income, on behalf of taxpayers, to seek assurance that the sickness beneficiary is appropriately receiving the benefit, even after a year’s continuous receipt.
+
+I mentioned earlier the subject of sanctions. I expect that people who do not abide by their work obligations will suffer consequences and I have no qualms in saying that.
+
+But currently, Work and Income case managers have, with few exceptions, only one option and that is to stop payments of a person’s benefit altogether.
+
+This is a severe sanction, and has very significant effects on people’s lives. Consequently, case managers have to think long and hard about whether they apply this sanction, especially to single people and to people who only have part-time work obligations. It is a big call to stop a person’s benefit altogether.
+
+Therefore National is going to introduce a more graduated system of sanctions for people who do not comply with their work obligations.
+
+We are going to introduce at least one intermediate step which will be a reduction in benefit, before a full suspension of the benefit applies. This step, or steps, will give Work and Income case managers more flexibility and additional tools to encourage beneficiaries to comply with their work obligations.
+
+Details of these graduated sanctions will take some working through, given the complexity of the benefit system. The system needs to differentiate between different benefit types, whether a person has a partner, whether a person has children, whether they face part-time or full-time obligations, and so on. We will make sure that sanctions are equitable across these different permutations.
+
+And as a result of making sanctions more graduated we will expect to see them used more frequently, in cases where people are not complying with their work obligations.
+
+National wants to see sanctions used, but we also want there to be appropriate incentives in the benefit system so that people on benefits actually want to work, and can better themselves by working.
+
+We are going to increase work incentives by making the benefit abatement regime more generous to beneficiaries.
+
+Beneficiaries and their partners can currently earn up to $80 a week before their benefit is affected. Above that level of earnings, their benefit is reduced at the rate of 70 cents for every dollar they earn, unless they are on the DPB or invalids benefit, in which case it’s initially reduced at 30 cents in the dollar.
+
+Benefit abatement is a necessary part of the system, but the high marginal tax rates it creates are a disincentive for people to work even a few hours a week.
+
+National’s policy is to raise the earnings threshold. We will allow beneficiaries to earn up to $100 a week before their benefit begins to be abated.
+
+We are doing this because we want to encourage work wherever possible. Raising the earnings threshold gives beneficiaries an additional incentive to work a few hours a week, to get into the work habit, to gain some confidence, and to start building work skills. That’s an important step in the progression towards full-time work.
+
+Ladies and gentlemen, I have long believed that you can measure a society by how it looks after its most vulnerable.
+
+Yet you can also measure a society by how many vulnerable people it creates – people who are able to work, and able to take responsibility for their own lives and their children’s lives, yet end up depending long-term on the state.
+
+Good welfare policy involves supporting people when they are most in need, encouraging people when they should be thinking about getting back to work, and occasionally giving people a kick in the pants when they are not taking responsibility for themselves, for their family, and for other taxpayers.
+
+I believe that the policy I have announced today achieves the necessary balance between supporting people in genuine need, and reassuring hard-working New Zealanders that their taxes are being spent wisely.
+
+Mostly, though, this policy is about providing help for people to help themselves.
+
+It’s about encouraging those who can do so to take and create opportunities, to see themselves as something more than just the passive recipient of a benefit. Some can’t wait to take that step. Some are fearful of it, and others are downright resentful. But the world of work is always going to offer more possibilities than the limitations of welfare.
+
+A National Government will ensure that welfare is a safety net, but not a net in which people are too easily entangled and entrapped.
+
+For most people, the real opportunity to improve their lives, and the lives of their children, is through work.
+
+And we all prosper, and society prospers, by having fewer people languishing on the fringes, and more of us productively engaged in our communities.
+
+That is the philosophy on which National’s policy is based, and that is why I’m pleased and proud to have announced these measures today.
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

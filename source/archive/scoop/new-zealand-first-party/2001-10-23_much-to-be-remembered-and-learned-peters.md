@@ -1,0 +1,160 @@
+---
+slug: much-to-be-remembered-and-learned-peters
+title: "Much to be Remembered and Learned - Peters"
+date: 2001-10-23
+source-url: https://www.scoop.co.nz/stories/PA0110/S00408/much-to-be-remembered-and-learned-peters.htm
+author: new-zealand-first-party
+---
+Much to be Remembered and Learned - Peters
+==========================================
+
+**Tuesday, 23 October 2001, 3:34 pm**  
+**Speech: [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party)**
+
+Media Release
+
+1:00 pm Tuesday  
+23 October 2001
+
+SPEECH: RT HON WINSTON PETERS MP  
+LEADER OF NEW ZEALAND FIRST
+
+THEME: There is Much to be Remembered and Learned Under MMP
+
+(Extracts from an Address to a Meeting of the Newmarket Rotary Club, Ellerslie Racecourse Convention Centre, Greenlane, AUCKLAND)
+
+Peter Barron, Ladies & Gentlemen:
+
+Thank you for the opportunity to speak to you this afternoon.
+
+The Rotary does some fantastic work for the community and this club is no different. But it seems not everyone in Parliament today seems to agree.
+
+In the August 1981 edition of Socialist Action current Green MP Keith Locke said that the Rotary and Lions clubs were “social clubs of the rich” and that many of your members are “protectors of racism” and that many of your members were recruited by the police during the Springbok tour as instruments of violence to protect Apartheid.
+
+I want you to remember that the next time one of the Greens come bearing gifts.
+
+As we all know the world changed forever on September 11th. And while nothing can compare to the devastation and terror that happened in New York last month, there are some changes in our own country which relate to that event and that are worth noting.
+
+One of our major political parties, The National Party has, since the 11th of September acquired a new political leader. Forget for a moment performances in the House and whether Mr English can foot it on the public stage with Helen Clark. For neither of these things are the greatest challenge facing National’s new Leader or important to the public.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The key question political commentators and those within his own party should be asking is - does Bill English have what it takes to be the FIRST National Party Leader to see his Party succeed long-term under MMP?
+
+Of her many failings perhaps the most telling and fatal was Mrs Shipley’s inability to understand MMP and coalition politics. Her First-Past-the-Post arrogance, shared by many of her caucus colleagues and the rank and file of the National Party, was, after all, the reason she became Leader- and why, in her Party’s eyes “Jim had to go”.
+
+But whatever else you can say about Mr Bolger, he did understand the changes MMP required of the major parties if they wanted to be in power. Jim Bolger understood this on election night 1996 and during the post 1996 negotiations – but on this he was a lone voice in the National Party – as was evidenced by his downfall – and the reasons for it.
+
+Whilst Mr Bolger appreciated what was required to keep power under MMP he failed to take his caucus colleagues and party organisation with him – to make them also understand.
+
+Mrs Shipley never understood. She had her blinkers on from day one believing that she could destruct a Coalition, lead an unmandated minority government of party hoppers and not pay the political price on election day.
+
+But even after that Mrs Shipley continued to show an amazing ability to ignore the realities of coalition politics even when they were staring her right in the face … in the forms of Helen Clark and Jim Anderton. Even then Mrs Shipley would, in speeches in the House, berate the Prime Minister for not reigning in Jim Anderton and the Alliance. For not pulling the “minor” partner into line. Astonishing really when the Labour and Alliance coalition agreement is one and a half pages of motherhood and apple pie containing not one demand of Alliance policy.
+
+Clearly she had learned NOTHING.
+
+The question now is whether Bill English has learnt anything from his predecessor. Whether he has learned enough to be the first National Leader to embrace MMP to lead with the qualities that are needed to succeed under proportional representation and, perhaps most importantly, to do this with the support and backing of his caucus and his party.
+
+If he has learned anything from the experiences of the two most recent National Party Leaders he has succeeded he will follow Helen Clark’s example. A former First-Past-the-Post supporter, the Prime Minister has publicly embraced MMP – which has seen her and her party prosper far more than they would have otherwise. Remember in 1996 Helen Clark led her party to its worst defeat since 1928.
+
+Make no mistake – Helen Clark and the Labour Party don’t like having to share political power any more than National did.
+
+But Labour learned from their 1996 post election experience when they let their arrogance, despite the election night disaster for Labour, deny them the opportunity to be in government. That clearly was a mistake the Alliance also made. Labour have since learned that the only way they would ever be in government under MMP was to embrace the system and be seen to be sharing political power -- hence their very public marriage with the Alliance well before the 1999 Election -- and the rest is history.
+
+It is not an easy challenge facing Bill English. Many of those who surround him on the Front Bench are the same former Ministers within the National/New Zealand First Government who were the worst at accepting the reality of power sharing.
+
+His own Deputy, Roger Sowry, the Present Deputy Leader of the National Party was one of the very worst.
+
+And Mr English himself, when given the opportunity hardly showed any of the constructiveness, compromise and co-operation that is required to make coalition governments succeed.
+
+His arguments with former New Zealand First MP Neil Kirton were legendary – and regardless of the rights and wrongs – the way he handled the matter hardly gives one the confidence that Bill English has what it takes to lead a coalition government.
+
+Thus far, Helen Clark has largely proven herself to have these personal qualities and until the National Party has someone to match Clark’s overall handling of these issues, the future does not bode well for National.
+
+Many of the long-term MPs that Mr English has surrounded himself with still display the First-Past-the-Post arrogance that led to National’s downfall. Many of them will be no more accepting of the sharing of political power now than they were between 1996 and 1998.
+
+And some of the nondescript MPs who now find themselves on Mr English’s front bench for no other reason than the role they played in the Shipley coup will hardly be much help either. One or two senior MPs who do understand MMP politics have been fired to the backbench for reasons that seem inexplicable.
+
+If the National Party is to have any future Mr English is going to have to be bolder and increasingly look to the talented MPs in his caucus – and less to a faction who will only spell death for this once grand political party.
+
+Traditional supporters of the National Party who have become disillusioned and disheartened by the Party’s direction and leadership want a return to centre of the road politics.
+
+That is what the loyal National voter is wanting and waiting for in heartland New Zealand.
+
+Herein lies Bill English’s next real problem. How can he move his party’s politics closer to the centre of the political spectrum, where middle New Zealand wants it to be – whilst keeping the extremists in the National and ACT Party onside?
+
+For trying to appease their potential coalition partner will spell electoral disaster for Mr English and the National Party if that means more extremist policies and the continued abandonment of provincial New Zealand.
+
+Hence it must have been alarming for National supporters to read in today’s Herald that in the space of one week, National has changed its position on bio-technology. Last week in the face of the Greens’ threat to withdraw their “without conditions” commitment to the Government on supply and confidence, National said it would back any moves in Parliament required to implement the Royal Commission of Inquiry into Genetic Modification’s findings.
+
+Yesterday, Bill English reversed that when he said that his party would not support any GM Parliamentary vote if it was a confidence issue. “We are not there to prop-up the Government,” he said: a position which for different, but purely political reasons, now has the Greens and National on the same side on this issue.
+
+He is wrong of course. Whilst none of us in opposition are there to prop up the Government we are surely there to support sound government and sound policies.
+
+A number of parties, including New Zealand First, demanded the Royal Commission as did the public. We got it, at a cost of $6.2m and now we should work our way through its voluminous evidence and findings and not use it to threaten New Zealand’s political and economic security or its reputation abroad.
+
+Or put another way: if the Greens don’t support military action against Afghanistan based terrorists, and they don’t, is National’s position now that on a confidence vote on this issue they would also withdraw their support?
+
+A vote of confidence on the Government’s handling of the terrorist crisis is not an unlikely prospect, but how many New Zealanders would fail to see crude opportunism if National took a similar stand to that threatened yesterday on GM?
+
+In the last 17 years, the National party has abandoned nearly every principle that once great party ever stood for.  
+\- On state asset sales  
+\- On national interests over trans-national interests  
+\- On direct support for New Zealand exporters  
+\- On monetary policy, serving the whole economy and not merely capital markets  
+\- On adequate national defence  
+\- On tertiary education support  
+\- On proper public health  
+\- On race-based policies  
+\- On housing  
+\- On decent salaries and wages  
+\- And above all, on developing our own human capital, not substituting it with an ad-hoc immigration policy
+
+Clearly some tough decisions lie ahead for Mr English and the National Party.
+
+It is almost painful to see a once great party, a party of such immense personalities, become a shadow of itself. National’s other great problem is the fact that it has lost its soul.
+
+There is no secret why the National Party dominated New Zealand politics for the 40 years following the end of the Second World War. They represented the values of New Zealanders and were not ashamed to put New Zealanders first.
+
+The party of Holland, Holyoake, Marshall, and Muldoon, is now a shadow of its former self. A façade of the benevolent force that once ruled New Zealand in the greatest time of social and economic growth. It is now a party rife with sectional prejudices and special interests.
+
+That is why they are a sad case today.
+
+If Mr English wants to rejuvenate the National Party then he should read some of the manifestos of the National Party of the past—they are in the Parliamentary Library.
+
+The answers to this country’s problems do not lie with the bright young things in Treasury, they do not lie with PR consultants and spin-doctors, they lie in the traditional values that National once held.
+
+I read through the old National Party manifestos. They make for worthy reading.
+
+Here is an excerpt from the 1949 Manifesto, underlying the principles of the party:
+
+“The National Party is a nation-wide political organisation offering the only alternative to Socialism and Communism…The National Party believes that human progress, spiritually, morally and economically, is best assured when the private individual is free from state dictatorship…The National Party has common bonds with all who cherish the principle of freedom…The National Party seeks to build a country in which everyone can enjoy a life of happiness, good health, security and freedom…”
+
+It goes on to say that the National Party stood for “the benefit of the people as a whole and not just for sectional interests…”
+
+This country may be small but it has huge problems. Those problems cannot and never will be solved by the namby-pamby politically correct policies espoused by the Labour Party, or the new-age policies of the Greens. I believe that more and more New Zealanders are searching for a change and they are looking for pragmatic traditional answers to their problems.  
+They will not get those answers from the National party anymore.
+
+Only time will tell if Mr English’s answers will save his Party or push it past the point of no return.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party) on InfoPages.

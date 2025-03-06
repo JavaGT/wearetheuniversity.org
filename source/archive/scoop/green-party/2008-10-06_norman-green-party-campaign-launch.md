@@ -1,0 +1,166 @@
+---
+slug: norman-green-party-campaign-launch
+title: "Norman: Green Party Campaign Launch"
+date: 2008-10-06
+source-url: https://www.scoop.co.nz/stories/PA0810/S00103/norman-green-party-campaign-launch.htm
+author: green-party
+---
+Norman: Green Party Campaign Launch
+===================================
+
+**Monday, 6 October 2008, 9:33 am**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+RUSSEL NORMAN
+
+Green Party Co-Leader  
+CAMPAIGN LAUNCH 05 OCTOBER 2008  
+Vote for the Future
+
+  
+ADDRESS BY CO-LEADER RUSSEL NORMAN TO GREEN PARTY CAMPAIGN LAUNCH  
+Check against delivery
+
+The real question we need to ask at this election is who will be the voice for those who have no voice. Who will be the voice for children?
+
+900,000 children and young people can’t vote at this election - 900,000 children and young people who have a deep interest in the future of this country and this planet. They have more at stake than anyone else – it’s them that will inherit the world we leave. Who will be their voice in parliament?
+
+The Green Party will be the voice for those who will inherit the earth.
+
+Who will speak out for parents’ right to know where their kids’ food comes from? At a time when Labour and National gang up together, united against the right of a parent to know the true source of their children’s food, which party has the basic human decency to say people have a basic human right to know where their food comes from?
+
+The Green Party will speak out for people’s right to know, while Labour and National protect agribusiness’ right to make money.
+
+And who will tell Fonterra and the rest that it’s not good enough to sit on your hands while the authoritarian Chinese Government suppresses the truth about poison milk; it’s not good enough to look the other way while the Chinese Government spies on anyone using the words ‘milk powder’ on Skype.
+
+Helen Clark belatedly complained that Fonterra took too long to go public while her government didn’t go public either, after they found out about poisoned milk, and it wasn’t recalled for 20 days after the New Zealand government was officially notified by Fonterra.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+If you can’t trust Labour and National to go public about poisoned baby milk then what on earth can you trust them on. Surely staying quiet about poisoned baby milk is some kind of moral Rubicon which we would never expect a New Zealand government to cross, and then they did.
+
+Who will be the voice who speaks out about poisoned baby food, only the Greens.
+
+Who can you trust to take a precautionary approach to food safety? Who will support sustainable organic food production and protect kids and our clean, green reputation.
+
+  
+The Green Party.
+
+Who will be the voice for the children of the future who will miss out on swimming in a New Zealand river because it’s so polluted it’s dangerous? Kiwi parents who had a baby 10 years ago might have expected that their child would today be able to swim in the rivers and streams where they themselves swam as children. Yet now that 10 year old child can’t safely swim in most of our rivers because they are so polluted with effluent from agribusiness.
+
+Who will be the voice for the children of today and tomorrow who will never have a chance to swim in a clean river while Labour and National are in control?
+
+The Green Party will be that voice.
+
+Who will speak up for the 111 Maui dolphins that remain? Who will say it is simply unacceptable that the next dolphin to become extinct in the world will be a New Zealand dolphin?
+
+Who will speak up to protect the last 36 New Zealand Fairy Terns whose habitat is threatened by coastal development encouraged by a district council that thinks progress means sub-divisions?
+
+The Green Party will speak up.
+
+Who will speak out to protect the future water supply of Aucklanders threatened by dairy conversions in the Waikato river catchment?
+
+Who has the courage to stand up to the giant dairy companies who want to convert pine plantations to industrial dairy farms across the central north island and then demand that the taxpayer picks up their billion dollar bill for their greenhouse pollution?
+
+Who will speak out for that threatened species the family farmer under assault from industrial agribusiness; who will speak out for the farmer who is kaitiaki of the land and the rivers?
+
+The Green Party will speak out and we will stand up.
+
+And who has the courage to stand up against the death threats of the fundamentalists who demand the right to beat their children?
+
+Who will stand up for the child living in fear of a hiding from a water pipe or a piece of four by two?
+
+The Green Party will stand up for children and we will stand up against violence.
+
+Who will be the voice for the children and adults growing up and living in poverty? Poverty which denies them the chance to grasp all that this beautiful country has to offer.
+
+The Green Party is a voice against poverty even when it’s not trendy. The Green Party believes in a fair go for everyone, no matter what side of the tracks you’re from.
+
+Who has the guts to say to the roading lobby ‘we’re sick of subsidising your trucking companies; we’re sick of your roads wrecking our cities; we’re sick of your pollution; we’re sick of all the giant trucks making our roads unsafe.
+
+  
+Who has the guts to say it’s not good enough that people can’t afford to get around our cities and towns because of rising petrol prices and we need affordable reliable public transport to get to work and home again?
+
+The Green Party has the guts to fight for decent reliable public transport and we’ll get you home cheaper and faster.
+
+In a time when Labour and National are competing as to who has the longest motorway, who has the audacity to call out ‘the emperor has no clothes’ - oil will never be cheap again?
+
+In a time when Labour and National are competing as to who can waste more billions on motorways; who has the audacity to say to the Road Transport Forum we don’t care that you’re funding the Labour and National party election campaigns, we need better public transport.
+
+Only the Green Party has the audacity to say the emperor has no clothes, that building an empire on oil is like building an empire on sand.
+
+Only the Green Party will build a decent public transport system now. We will make it safe to bike and walk to work and school.
+
+Labour and National are running from the real debate, trying to suppress any diversity of views.
+
+They don’t want to have the real debate because they’ll be revealed for the sell-outs that they are - selling out our children’s future - leaving a legacy of social, environmental and economic debt which will have to be repaid.
+
+The leadership of Labour and National know that when the repo man comes calling they’ll be long gone.
+
+Who will be the voice for the generations to come who will ask how could we possibly have suspended disbelief, how we could possibly have bought the argument that we had to destroy the planet to save the economy.
+
+Surely the lesson from the current financial crisis is that you cannot keep borrowing from the future forever.
+
+Only the Green Party recognises this simple truth.
+
+Who will stand beside Ngati Tara in their attempt to save stunning Doubtless Bay in the far north from a council that wants to fill the water with sewerage and fill the land with suburbs and subdivisions?
+
+The Green Party stands beside tangata whenua and all those who fight to protect this country.
+
+Who will be the voice for the heart and soul of Aotearoa New Zealand?
+
+There are plenty of voices in Parliament for the greedy of this country. We have a Parliament full of wallets, a Parliament full of stock options, a Parliament full of multiple investment properties; a Parliament which gives voice day in and day out to the interests of the developer, the polluter, the speculator.
+
+  
+But who will be the voice in Parliament for the land of this country, for the people of this country, and for the very earth itself?
+
+The Green Party.
+
+We are a nation led by politicians who are racing towards a future that they cannot see or understand because they have their faces turned towards the past. Every year they run faster, using more resources producing more pollution, running ever faster while looking where they have been instead of where they are going. Hoping that magic will save them from the reality that there is only one planet and resources are limited.
+
+Who will have the courage to turn around and actually face the future?
+
+The Greens will face up to the future and won’t live in the past.
+
+We know that we must urgently reduce our greenhouse emissions.
+
+We know that we must urgently prepare for rising oil prices.
+
+We know that protecting safe healthy food is fundamental.
+
+In a world made uncertain by out of control financial speculation on Wall Street, we need to learn to value what is important.
+
+In Aotearoa New Zealand we are blessed with a fantastic natural environment. It is the foundation of our economy and society, we must treasure it and look after it.
+
+And in Aotearoa New Zealand we are an amazing people. We have potential for greatness. Michael Joseph Savage showed that we can lead the world in looking after people; the nuclear ban showed that we can lead the world in looking after the world itself.
+
+Now we can once again lead the world by making clean and green a reality and not just a marketing slogan.
+
+At this election don’t waste your vote on the old grey parties, don’t vote for the past.
+
+At this election vote for a strong green voice in parliament, vote for the future.
+
+Party vote Green.
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

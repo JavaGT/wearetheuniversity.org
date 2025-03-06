@@ -1,0 +1,200 @@
+---
+slug: rt-hon-jacinda-ardern-speech-to-2021-labour-party-conference
+title: "Rt Hon Jacinda Ardern: Speech To 2021 Labour Party Conference"
+date: 2021-11-06
+source-url: https://www.scoop.co.nz/stories/PA2111/S00072/rt-hon-jacinda-ardern-speech-to-2021-labour-party-conference.htm
+author: new-zealand-labour-party
+---
+Rt Hon Jacinda Ardern: Speech To 2021 Labour Party Conference
+=============================================================
+
+**Saturday, 6 November 2021, 2:23 pm**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Kei aku nui, kei aku rahi, tena koutou katoa
+
+I’m going to start with something that I never thought I would say at a Labour Party conference.
+
+I miss remits.
+
+I miss remits, because they are indicative of something else that I know we have all missed of late, and that is being face to face with our friends, families, and Party members across the country.
+
+No one knows that more than our whanau in Tamaki Makaurau.
+
+So to you especially I want to begin by saying nga mihi ki a koutou katoa. Thank you.
+
+For what will feel like endless weeks now, you have carried a burden on behalf of the rest of the country. You have maintained a border, stayed home, and sacrificed much to protect your community, but also to protect the rest of Aotearoa New Zealand.
+
+I know at times that will have been an extraordinarily lonely place to be. But please never doubt that what you have done has had a profound impact on New Zealand.
+
+I have talked before at conferences about the many letters that I receive in this job. It’s one of the privileges of being Prime Minister in a country of our size. So many of the letters I get start with “I doubt you’ll ever read this, but…..”
+
+I remember many of these letters. One that I received in the middle of the pandemic has stayed with me. It was from an intensive care Doctor, and they simply wrote “during this pandemic, you have all saved more lives than I will in my entire career.”
+
+I never saw that letter as directed at me. I saw that letter directed at us. Because none of what we have done, was ever achieved by one, but by many. An entire team of five million.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+From the day COVID arrived on our shores everything we have done has been about protecting New Zealanders lives and livelihoods.
+
+Collectively we have seen fewer cases, hospitalisations and deaths than any other country in the OECD.
+
+We have also seen an economy that has done more than survive, but in fact has grown and kept people in jobs; just this week delivering the lowest unemployment on record.
+
+But none of that is to say that it has been without cost. It has had a huge toll on people and businesses, especially in recent months. But I know that we have it in us to continue to move forward through this tough transition, into a new phase.
+
+And so to all of New Zealand, but especially Auckland I say - he rā ki tua, better times are coming.
+
+Over the coming weeks, we will see the level of protection in our communities increase as more people are vaccinated. In fact we’re on track to have amongst the highest vaccination rates in the world, already having overtaken the likes of Australia the US, the UK, France, Germany and Ireland.
+
+And that brings with it the opportunity to transition to the new COVID protection framework. That new system, will mean more certainty for businesses that they can stay open. It will mean that not every COVID case will trigger the anxiety of sudden lock downs, but it will also mean that we continue to treat COVID seriously and take measures to protect people from it.
+
+It is a plan firmly rooted in a view that we can carve our own path, and our own response. One that is right for New Zealand and our people.
+
+Once these changes are bedded in, they then gives us the chance to change some of our other settings, in a careful and considered way. We will look to our international borders, using home isolation as a way to reunite more kiwis with their loved ones, taking pressure off MIQ.
+
+Over time, we’ll then have the chance to open up more broadly, and welcome back those we have been so used to sharing our hospitality and nation with.
+
+Life may be different for a time. But it can and will feel more familiar again. And after so much disruption, so much anxiety, everyone deserves that.
+
+And so in the meantime, we continue to be steadfast in our response, which has begun to tilt towards vaccination over restriction.
+
+Because we’re a Labour Government, we will focus on our most vulnerable and also accelerate Maōri vaccination rates. We will protect our health system. We will keep adapting and evolving but we will always first and foremost protect lives and livelihoods.
+
+That is the measure of good government. And it’s a measure of a Labour Government.
+
+But there is another measure.
+
+And that’s what we do in spite of these tough times.
+
+COVID didn’t make any of our existing challenges go away. In fact it made some of them worse. But despite taking on the worst health and economic challenge of our lifetimes, we have not stopped addressing the housing crisis, child poverty, water quality or climate change – just to name a few.
+
+Since we’ve been in office, we’ve created 8,591 public housing spaces with thousands more on the way.
+
+We’re reforming the RMA to ramp up building work.
+
+We’ve overseen insulation and heating for more than 38,000 homes meaning more families can stay warm and dry.
+
+We’ve worked hard to build a whole new level of primary mental health care with our record investment in frontline services seeing around 10,000 people every month accessing support at their trusted local health clinic.
+
+We’ve made doctors’ visits cheaper for 600,000 New Zealanders and we’re fixing up our hospitals and training more ICU nurses.
+
+We made the largest boost to main benefit rates in a generation and finally turned around those 1991 cuts.
+
+We introduced free and healthy lunches in schools, and 200,000 children have benefitted from them this year.
+
+And under the steady hand of Grant Robertson, who runs an economy that looks after everyone, GDP is up and unemployment is down, our debt is amongst the lowest levels in the OECD, and we’ve experienced record export growth. Growth that will only continue with our new UK FTA.
+
+And while we may have unemployment rates at the lowest levels in more than a decade, we have plans to continue to rebuild and recover, with $57 billion invested in infrastructure alone ready to roll out over the next five years.
+
+But as we undertake that rebuild, it is both our people AND our environment that must sit at the centre. Through initiatives like jobs for Nature we are improving pest control and restoring waterways. But we need to make systemic changes for our environment too.
+
+That’s what three waters is about.
+
+In Three Waters, we’re fixing crumbling water pipes that without change will lead to ballooning costs for ratepayers, decreased water quality, and unsustainable sewage discharge. The status quo is not an option.
+
+To leave the situation as it is, is to condemn the already 34,000 kiwis who get sick from water each year, to keep getting sick.
+
+It is to say to the first home buyer that the lack of infrastructure underground will continue to get in the way of affordable home ownership options now and in the future.
+
+And it tells those that care for our environment and want to swim at our beaches that we’ll keep seeing over 3,000 incidents of sewage discharge into our water ways every year.
+
+To those who want to cancel three waters, to them I say this – the problem is clear, the status quo is not an option. If your concern is losing public ownership – then commit to retain these assets in public ownership, as we have, and support the legislation to lock that in.
+
+But don’t pretend there isn’t a problem.
+
+But this is not the only challenge to the environment where the status quo is not an option.
+
+As we come together today, so too have world leaders convened for COP26 in Glasgow. Thankfully for the most part, we have moved on from a time where climate change itself is questioned, to a period where we must all be held to account over both our ambition and our action.
+
+We have a lot of work to do. But I remain incredibly proud to have presided over a government that has done more in four years than previous governments combined. But that has been born out of necessity.
+
+We have but a short window to do what is required to meet our 1.5 degree commitments.
+
+I’m not able to attend COP this year. Our role as chair of APEC has prevented me from standing alongside our pacific neighbours in advocating for our region, and being held to account ourselves. But if I was there, and asked the question “what has your government done?”
+
+This is what I would say:
+
+First, we built the foundations. We passed the landmark Zero Carbon Act, established the Climate Commission, and established our carbon budgets.
+
+Now we’re taking the next steps.
+
+We want to be ambitious. We’ve set a goal for 100% renewable electricity by 2030 and we’re investing in the initiatives to help us get there.
+
+We want our public sector to be carbon neutral by 2025 and we’re setting up the programmes to get there too.
+
+But our big problems lie in the fact we produce food, process it, and the way we get around.
+
+And that’s why we’ve invested in research to reduce agricultural methane, and why we have a world first agreement with our farmers to both price and reduce our agricultural emissions.
+
+And it’s why we have increased public transport spending by 40%, introduced a clean car standard and incentivised low and no emissions vehicles.
+
+But I would also explain that while there are some areas like transport where we are catching up, there are some areas where we will lead too. That in fact we are the first country in the world to pass a law that will ensure financial organisations disclose and ultimately act on climate related risks and opportunities. And that we continue to be a leading advocate internationally for the removal of fossil fuel subsidies.
+
+And I would finish with a pledge, that we would do our bit. Which is why in the last few weeks alone we have quadrupled our climate finance commitment to the most vulnerable countries to $1.3 billion over four years, and increased our contribution to the global effort to tackle climate change by reducing net greenhouse gas emissions by 50% by 2030.
+
+We have more to do, no doubt. But when we look back on this COP, and in fact, as we look back on our nuclear free moment, I want to know that we did everything we could.
+
+As I said at the beginning though, so much of government is about what you do in spite of what is going on around you. And no matter what the day to day has brought, the motivation for this Labour government and for me has not changed. It is people. And especially, our children.
+
+Here, there is much we have done, and much left to do. But we know that the issue of child poverty especially is one that has been made even worse as a result of COVID.
+
+Lock downs hit everyone, but especially those who have the least.
+
+I’m proud to have been part of the Labour family that introduced the Working for Families system. At the time it was the most significant change to children’s policy in decades, and made a massive difference to child poverty. It gave us a foundation to build upon, and we have.
+
+When we came into office, we introduced the Best Start tax credit, a payment that recognised that the first 1000 days of a child’s life is critical, and gave extra support to families with new borns. We increased the family tax credit. We removed the hours test for the in work tax credit. And we lifted the rates of the Orphans Benefit, the Unsupported Childs Benefit and the Foster Care Allowance. Taken as a whole, these changes helped to lift 43,300 children out of poverty, and have given families more choices.
+
+And we need to keep going.
+
+We have made commitments to halve child poverty over 10 years. Since we took office we have made positive progress on all 9 of the child poverty indicators we have set. We have turned around stats that showed that children were doing worse, not better. But we will never say the job is done. And every change we make here, large or small, will make a difference.
+
+And here, I want to share with you the next change we’re making.
+
+To recognise the impact of COVID on families, and the increased cost of living, we are increasing the Family Tax credit so that 346,000 families will be better off by an average of $20 a week.
+
+The family tax credit was due to be CPI adjusted.
+
+But we have added an additional investment of $272 million over four years to boost the amount it will be increased, and made changes to the abatement rate from 25% to 27% to reach those who need it most.
+
+As a result, the eldest child rate for the Family Tax Credit will increase by $14.69 per week, and the subsequent child rate will increase by $12.83 per week.
+
+Because of our additional investment an estimated 6,000 children will be lifted out of poverty.
+
+And while we lifted the rates of the Orphans benefit, and Unsupported Child Benefit and the Foster Care Allowance in 2020 by $25, we will do so again by an extra $5 a week. The Best Start payment will also increase by the same amount.
+
+As a result of this package hundreds of thousands of families will have a meaningful boost to their incomes from April of next year.
+
+To Carmel Sepuloni, and David Parker. Thank you in particular for your work on this issue. It is just one extra thing we can do for families in this tough time.
+
+I want to finish today where I started. And that is by acknowledging the Labour team gathered together remotely today. You’ll notice my address to you is a little shorter than usual. That’s because in this zoom world, and while we are at a greater distance from one another, we wanted to try and build in the things we are missing the most. Interaction, and a good remit or two.
+
+But I can’t and won’t wrap without a personal message of thanks.
+
+One thing I have noticed in recent times in this job, is that when you have a chance to talk to another world leader, the conversation quickly turns to how difficult the last twelve months have been. It’s a shared experience for all of us. No one has been unaffected. In fact, bi laterals run the risk of becoming group therapy. But while this time may be a unique one, I have never, ever felt alone. None of the cabinet, and caucus have.
+
+You are hugely valued members of our team of 5 million. We wouldn’t be here, sharing some of the steps we have taken in our journey in recent times, or the journey we are aiming for in the future, were it not for the role you played in getting us here, and keeping us motivated once we arrived.
+
+In fact none of us in parliament reached these privileged roles on our own. Before we were in caucus, we were in LECs, we were volunteers. And we are here because of the faith and belief you had in us to represent you in parliament. So on behalf of caucus, thank you. We hope we have, and continue to make you proud.
+
+Me mahi tahi tātou mo te oranga o te katoa.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

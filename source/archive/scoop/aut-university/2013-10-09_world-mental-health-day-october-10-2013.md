@@ -1,0 +1,73 @@
+---
+slug: world-mental-health-day-october-10-2013
+title: "World Mental Health Day: October 10, 2013"
+date: 2013-10-09
+source-url: https://www.scoop.co.nz/stories/GE1310/S00051/world-mental-health-day-october-10-2013.htm
+author: aut-university
+---
+World Mental Health Day: October 10, 2013
+=========================================
+
+**Wednesday, 9 October 2013, 1:40 pm**  
+**Press Release: [AUT University](https://info.scoop.co.nz/AUT_University)**
+
+**World Mental Health Day: October 10, 2013**
+
+Mental disorders among older people often go undetected and there is concern about recent increases in suicides says AUT’s Professor Max Abbott on World Mental Health Day (WMHD). Mental health and older people is the focus of this year’s WMHD on 10 October.
+
+“While more needs to be done to help older people with mental health problems and to support informal caregivers, overall the prevalence of mental disorders is lower for this group than for other adults,” says Professor Max Abbott, co-director of AUT’s National Institute for Public Health and Mental Health Research.
+
+“The New Zealand Mental Health Survey found that the prevalence of mental disorders peaked at 29% for those aged 16-24. Rates dropped with age and only 7% of people over 65 had a mental disorder.
+
+“With an ageing global population, the mental health of older people is increasingly an issue not just for those affected, but all of society.
+
+“By the year 2050 the world population over the age of 60 is estimated to be 2 billion and for the first time in human history older persons will outnumber children under the age of 16.
+
+“Anxiety and depression are the most common mental health problems for older people, as they are for people generally. The incidence of dementia increases with age and is the leading cause of dependency and disability for older people.
+
+“The recent Sovereign Wellbeing Index Survey, conducted by colleagues at the Human Potential Centre, AUT Millennium, found that depressed mood was significantly lower for people aged 70-79 than for younger groups, however, there is an increase again after the age of 80.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“The survey concluded that ‘_Five Winning Ways’_ were most important for wellbeing. They include socially connecting with others (_Connect_), giving time and resources to others (_Give_), appreciating and taking notice of things around oneself (_Take notice_), learning new things (_Keep learning_) and being physically active (_Be active_).
+
+The ‘Five Winning Ways’ and AUT’s never2old programme http://aut.ac/never2old will be discussed at a free seminar marking WMHD at AUT’s North Shore Campus from 4pm-7pm.
+
+**WMHD event at AUT’s North Shore Campus**  
+A panel of speakers will discuss successes and challenges at the seminar addressing mental health disorders among older persons and the promotion of positive health and wellbeing.
+
+Speakers include….
+
+Hon Jo Goodhew, Minister for Senior Citizens and Associate Minister of Health, will speak on behalf of Government regarding national policy and initiatives to meet mental health needs.
+
+Dr Murray Patton, Clinical Director of Mental Health Waitemata District Health Board, will provide Auckland and clinical perspectives.
+
+Professor Grant Schofield, AUT Professor of Public Health and Director of the Human Potential Centre, will give an overview of the recent national Sovereign Wellbeing Index survey findings and the Five Winning Ways to Happiness.
+
+Phillipa Batts, Operations Manager for the never2old programme will discuss the programme’s role in relation to health and wellbeing. http://aut.ac/never2old
+
+Mental Health Foundation, Health Promoter, Marie Hull-Brown will comment on the prior presentations and discuss the importance of ‘connection’ to mental health.
+
+Professor Max Abbott is available for media commentary on issues relating to the mental health of older people and more widely on mental health issues.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [AUT University](https://info.scoop.co.nz/AUT_University) on InfoPages.

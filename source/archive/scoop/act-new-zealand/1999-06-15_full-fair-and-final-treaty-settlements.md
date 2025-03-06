@@ -1,0 +1,111 @@
+---
+slug: full-fair-and-final-treaty-settlements
+title: "Full, Fair and Final Treaty Settlements"
+date: 1999-06-15
+source-url: https://www.scoop.co.nz/stories/PA9906/S00051/full-fair-and-final-treaty-settlements.htm
+author: act-new-zealand
+---
+Full, Fair and Final Treaty Settlements
+=======================================
+
+**Tuesday, 15 June 1999, 4:28 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Full, Fair and Final Treaty Settlements
+---------------------------------------
+
+Speech Notes - Hon. Ken Shirley MP  
+ACT New Zealand Regional Conference,  
+Bureta Park Motor Inn, Tauranga  
+Saturday, 12 June 1999
+
+  
+Throughout New Zealand the Waitangi Claims grievance industry is causing bewilderment and anger.
+
+Hard working ordinary New Zealanders (both Maori and Pakeha increasingly resent hundreds of millions of their tax dollars being handed to tribal elites, with lawyers, consultants and fellow travellers riding this self perpetuating 'gravy train'.
+
+According to recent Waitangi Tribunal research no less than 570 people are drawing salaries from this process. Civil legal aid for Waitangi Tribunal Claims blew out to $6.5 million in 1998, six more than the previous year. Wealthy Iwi Incorporations are making claims in the names of impoverished individuals to ensure that taxpayers, through legal aid, meet all expenses no matter how absurd the claim. This tactic of so called 'straw people' being put up as lead plaintiffs to front the claims and the blow out of legal aid for such cases is extremely concerning.
+
+Iwi Incorporations were established by statute some ten years ago with the principle purpose of receiving the proceeds of negotiated settlements. They are a modern day attempt to reinvent tribalism. The tragedy is that historically mana and property rights resided with hapu, not iwi and this flawed settlement process is leading to new litigation between Maori. The ten-year debacle surrounding the Maori Fisheries Commission highlights the point.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+While we can all rejoice and celebrate our cultural heritage, tribalism as an economic unit is a failure. It has no place in a global market based on individual property rights. The politics of tribalism in a modern world are even more unstable, whether they be the tribes of Europe or the tribes of Africa. In summary, the model we have created for the treaty settlement process is fundamentally flawed.
+
+ACT New Zealand acknowledges the importance of the Treaty of Waitangi that marked the beginning of constitutional government in New Zealand. We support the prompt and fair settlement of legitimate grievances where the Crown has transgressed clearly established property rights that were assured under Article 2 of the Treaty.
+
+However, no one in their right mind could possibly believe that all 720 claims before the Waitangi Tribunal last year are justified. We have Maori growers of kiwifruit seeking exemption from the KMB monopoly claiming that trade is a taonga guaranteed by the treaty.
+
+Tainui is seeking an environmental pollution tax on Waikato River water users. A consortium of 6 Maori covering New Zealand have claimed intellectual property rights over all indigenous flora and fauna. Presumably, if successful, a royalty will be payable if one chooses to plant a Cabbage Tree or Kowhai in the back yard. The Wai 262 claim as it is known has received $530,000 legal aid so far. That is the highest amount of legal aid ever paid in a single civil case. And it's not over yet with the case expected to continue for at least another two years.
+
+We have a treaty claim for the electro-magnetic spectrum which includes, among other things, all light and sound waves, while Professor Winiata, claims that Maori own the light from the stars including sunlight. One is left wondering whether it is just the light and those elements of the electro-magnetic spectrum that fall on Aotearoa, or whether perhaps the vision is more global, or even universal.
+
+While such fanciful and absurd claims consume precious resources the real issues in education, health, employment and social well being largely go unanswered.
+
+The Treaty of Waitangi is a relatively simple document thrown together by Governor Hobson over the first 6 days of February 1840. Irrespective of which version or translation you refer to, the three articles are very clear.
+
+Article One provides that all rights and powers of sovereignty are ceded by the signatory chiefs to the British monarch. This is the clause that most treaty apologists ignore and yet it is certain that without it the other two would not have been offered by the British government.
+
+Article Two enshrines and guarantees Maori property rights including the right to sell.
+
+The third Article confers the rights and privileges of British law on the native population.
+
+The Treaty of Waitangi was for many years regarded as a symbol of enlightened, humane and generous respect for the rights of indigenous population by colonising government. This is not to say that in subsequent years injustices weren't perpetrated by the Crown - they clearly were. The point is that the Treaty was perceived as a good and fair deal in the context of 1840 conferring rights that were never offered in the colonisation of North America, Africa or Australia.
+
+In the decades preceding 1840 New Zealand was a notoriously lawless society. Kororereka was the hellhole of the Pacific. Maori were engaged in brutal inter tribal warfare, mass enslavement and cannibalism. Ngai Tahu were all but annihilated by Te Rauparaha and other invading North Island chiefs. Tainui conquered the Taranaki tribes with the survivors fleeing to the south. The Moriori of the Chathams were brutally suppressed, enslaved or eaten. The concept of ethnic cleansing is not new and certainly was not invented by Slobidan Milosovich.
+
+The Treaty of Waitangi was based on good principles and put in place the right incentives. It was forward looking, offering equality between all races, the protection of property rights, and one law for all. The Treaty is something we can all be proud of.
+
+Conversely the treaty grievance industry is backward looking driven by perverse incentives and based on the wrong principles. It is something we should all be thoroughly ashamed of.
+
+Today the concept of 'treaty partnership' pervades society. Politically correct institutions and bureaucracies including government departments, local bodies, universities, schools, polytechnics and hospitals all parade their cultural correctness assigning treaty partnership a top priority.
+
+'Treaty partnership' is an invention of the 1980's. It is a Court of Appeal generated nonsense. The Treaty of Waitangi is a political document but the politicians of the mid 1980's (myself included) abrogated their responsibilities and invited short-sighted judges to rewrite history and law. A task they undertook with relish.
+
+The single sovereignty of Article One and the conferment of full citizenship in Article Three have nothing to do with partnership. To extend a concept of mutual rights and obligations of two distinct populations in 1840 to an outright partnership between their 6th and 7th generation descendants is bizarre in the extreme.
+
+'Partnership' is becoming codeword for split or dual sovereignty. Increasingly, statutes such as the Environment Act and Conservation Act are being amended to enhance the concept of shared sovereignty. Some deluded radicals see the independent Scotland as a model for Maori sovereignty - I suspect they have watched Braveheart a few too many times. Suffice to say Scotland is a distinct geographic area with common laws for all citizens irrespective of race.
+
+Separate Maori representation in the New Zealand parliament is an anachronism in need of serious review. It was introduced in 1867 when only property owning males could vote and joint owners of Maori land were disenfranchised. Those Maori who met the gender, age and property qualifications were entitled to vote in both Maori and European constituencies.
+
+The Royal Commission on Electoral Reform reporting in 1986 observed that a dual electoral system had not served Maori well, recommending that it be discontinued upon the introduction of MMP.
+
+MMP has seen an improved representation for Maori in parliament and this could only be enhanced if the Maori vote is no longer marginalised into separate seats. This marginalisation encourages a narrow focus of both representation and accountability that was most graphically illustrated by John Delamere's blatantly racist maiden speech.
+
+We now face a situation in the Bay of Plenty where the Regional Council is proposing separate Maori seats. A local bill is to be introduced to parliament this year. If passed all local bodies will be placed under pressure to follow.
+
+I will continue my vigorous opposition to this move and have in draft a Private Members Bill that precludes separate roles based on race for local body elections.
+
+While better Maori representation is a desirable goal, apartheid policies of separate representation and accountability are not the answer. Such policies can only result in a polarisation of issues and increased social disharmony. If Maori are disadvantaged by the present electoral system then address that issue directly by introducing proportional representation. The single transferable vote (STV) method would be ideal for local government.
+
+ACT New Zealand is the only political party addressing key issues surrounding Treaty settlements. The endless stream of fanciful claims must stop.
+
+ACT says:  
+\- Set a deadline for the lodging of 'new' historic claims.  
+\- The Waitangi Tribunal must be adequately resourced to process to finality, legitimate grievances. Settlement must be full, fair, and above all, FINAL.  
+\- Time limits should be established with the Waitangi Tribunal ceasing to exist as a separate judiciary body beyond this point.  
+\- There must be one law for all New Zealanders and no special privilege or disadvantage should be conferred to an individual by virtue of race or ethnicity.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

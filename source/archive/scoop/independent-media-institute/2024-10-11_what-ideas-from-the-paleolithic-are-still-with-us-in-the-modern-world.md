@@ -1,0 +1,162 @@
+---
+slug: what-ideas-from-the-paleolithic-are-still-with-us-in-the-modern-world
+title: "What Ideas From The Paleolithic Are Still With Us In The Modern World?"
+date: 2024-10-11
+source-url: https://www.scoop.co.nz/stories/WO2410/S00148/what-ideas-from-the-paleolithic-are-still-with-us-in-the-modern-world.htm
+author: independent-media-institute
+---
+What Ideas From The Paleolithic Are Still With Us In The Modern World?
+======================================================================
+
+**Friday, 11 October 2024, 10:00 am**  
+**Article: [Independent Media Institute](https://info.scoop.co.nz/Independent_Media_Institute)**
+
+By Jan Ritch-Frel
+
+Is the order of the modern alphabet connected to how our shared ancestors counted the phases of the moon and its effect on tides 50,000 years ago? Did the first stirrings of government and bureaucracy emerge from the efforts of early astronomers to reconcile solar and lunar calendars? These are the kinds of questions that have kept economic historian Michael Hudson up at night.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+On the surface, learning about the origins of the methods people use to bring order to their lives—such as time, weights and measures, and our financial systems—seems like just another history lesson. One ancient practice leading to another, resulting in guesswork of what people did before the last Ice Age.
+
+But it goes beyond _interesting_. It’s very useful. The more we can parse out and extrapolate the beliefs and attitudes of previous eras, the more we might be able to step out of present behavior patterns and perceive social problems we keep creating because we thought we had to.
+
+A deeper reach into human history is now possible, thanks to a growing body of archaeological and scholarly research collected in recent decades. Many experts in related fields have speculated that this research will have a large social impact as it percolates through centers of influence and we become accustomed to relying on a wider, global human historical evidence base as a reference. Society will greatly benefit from minds that are trained to think in deeper timescales than a millennium or two—archaeology and biological sciences increasingly permit useful insights and pattern observations into humanities at a historical depth spanning millions of years.
+
+> Hudson’s research has already made inroads into modern life. Many contemporary economists rely on his understanding of financial history in the Ancient Near East. Hudson’s collaboration with the late anthropologist and activist David Graeber inspired his launch of the debt cancellation movement during Occupy Wall Street. Graeber’s book _Debt: The First 5,000 Years_ is a popularized adaption of Hudson’s research on the early financial systems of the Near East, encouraging Graeber to follow up and coauthor the bestselling book _The Dawn of Everything_, an overview of new interpretations in archaeology and anthropology about the many paths society can take.
+
+I reached out to Hudson for a conversation on these topics, starting with his reflections on what drew him into prehistory in the early 1970s, and his collaborations with Harvard prehistorian Alex Marshack.
+
+**Jan Ritch-Frel:** Alex Marshack was well-known for his idea that many of the social institutions we live by today are derived in large part from the “thought matrix of the Paleolithic”—the ideas and attitudes, social systems, and means of recording and transmitting information developed over thousands of millennia until the most recent Ice Age. How did you two find each other?
+
+**Michael Hudson:** I had read in the New York Times about Alex Marshack’s analysis of carvings on a bone found in France, made approximately 35,000 years ago with markings that he viewed as tracing the lunar month, not mere decorations. We became friends. He was living and working in New York City, with a housing arrangement between NYU and Harvard to provide housing for each other’s faculty.
+
+Marshack was working from the Paleolithic forward, the time before the last Ice Age, to see how it shaped the Neolithic and Near Eastern Bronze Age. My approach was to study the Bronze Age because my study was about the origins of money and debt and its cancellation. And then to work _back_ in time to see how these practices began.
+
+Marshack was most focused on how the measurement of time began before there was any arithmetic. Counting began with a calendrical point of reference. Marshack showed that lunar months initially were pre-mathematical, indicating symbolic literacy proliferated in the Paleolithic. He developed the idea that a motive was to arrange meetings—groups separated by distance tracking the passage of time to convene at pre-agreed locations. I was interested in the calendar as an organizing principle of archaic society: its division into tribes, and as providing a model of the cosmos that guided the structuring of social organization.
+
+I had been writing on ancient debt cancellations, and the idea of economic renewal on a periodic basis. We both had this basic question—how did this awareness of time turn into actual counting and provide a basis for ordering of other systems, from social organization to music? Marshack showed what I’d been writing to the head of the Peabody Museum at Harvard University, who invited me up for a meeting, and soon enough I was a research fellow there too.
+
+I began my work on how order was created by trying to think about how the calendar became the basic organizing principle certainly for the entire Bronze Age, and no doubt leading up to it.
+
+**Ritch-Frel:** The words “month,” “measure,” and “menstruation” are all derived from the word moon in Proto-Indo-European: “mehns” according to scholars of the early Bronze Age Language, which is ancestral to many of Eurasia’s major languages spoken today. Going back to Marshack’s research direction of looking at the thought matrix of the Paleolithic, what answers was he looking for with the evidence from the past?
+
+**Hudson:** Marshack saw the centrality of social and prosocial behavior as a driver among separate groups—today’s humans thrive on the interaction between groups. The management of that, diplomatically and administratively through a calendar process had to be a key basis for survival across time; it had an ordering function. The need for dispersed populations to come together for trade and intermarriage.
+
+> Marshack believed that Paleolithic leaders would have understood that this lunar calendar and the notations associated with it were technologies of chieftains, of governance. Oftentimes, leadership comes down to organising meetings and the rules these meetings have. The lunar calendar was the basis for figuring out when separate groups were all going to meet together at some annual interval, and maybe there were meetings at the monthly or seasonal interval, such as the equinoxes or solstices. And it was probably based on a new moon.
+
+Here’s a case of the thought matrix of the Paleolithic shaping societies that we call ancestral: Marshack and I came to interpret that the key meeting date would be a new moon—time was thought of as a baby, the moon grows and becomes older. This goes right down to the Roman calendar. The new year was the shortest day of the year. When the year is born, it’s the smallest before it grows. The idea of a life course of a year, with weather, people, and animals traveling along with it was at the heart of the Paleolithic thought matrix. Marshack, for example, studied the amount of attention and care Paleolithic cave painters of Europe put into drawing animals to indicate a particular time of year. If there was a painting of a fish, it would have the long jaw that fish developed in the mating season. You could look at whether the animals were molting or not. Paleolithic artists across the world were always careful to note that.
+
+To show you how the year’s 12 lunar months were a format often adopted for organizing other social structures, let’s consider the social models we see in the Near East and the Mediterranean that are recorded in the Bronze Age: As populations settled into increasingly sedentary communities, a typical form of association was the amphictyony, divided into 12, four or six “tribes” or regions. These tribal divisions enabled the rotation of chiefs by the month or season so that all members of the amphictyony would be equal. “Foreign relations” were standardized carefully to provide equality.
+
+**Ritch-Frel:** I am mindful that when people elect to use an ordering system for some part of life, it’s based on good reputation and there being a convention that connected social groups share. If people decide to organize society into groups using a 12-month lunar calendar logic, it’s a measure of its latency in the wider human culture and is still with us today. This Paleolithic tradition organizes the backgammon board we play on today, designed by Sassanid Persians, it’s rooted in the lunar calendar logic of 12. We don’t pay much attention to ordering systems once they’re in place, as long as they work.
+
+**Hudson:** Certainly by the Neolithic, people began to count everything. Even if they didn’t have systems of mathematics, they were counting—and trying to find correlations and associations with natural phenomena around them, from weather to the behavior of animals. For instance, an archaic cosmologist might count the number of teeth of a horse and attempt to correlate that with something that shared the same number.
+
+The assumption was that maybe we could control things by taking some proxy that shared the same number or some other cosmological characteristic with another, and we could have a ritual on earth that would somehow manipulate the heavens and our environment in the way that we wanted to.
+
+We might call that pseudoscience—confusing similarity with true correlation, confusing correlation with causation. While many of us might make a living in science using higher-grade scientific standards, there’s quite a lot of that still going on today—in conversations with family and friends, in sports and its statistics, and fortune telling is an industry that’s still going strong.
+
+**Ritch-Frel:** We can regard this general instinct as leading to know-how and in some cases part of science, as the process gets refined.
+
+**Hudson:** Think of it as experimentation: “Let’s see if we can do this and see what works.” They were experimenting, but the logic was to think in terms of a system, and I think that’s what made the Bronze Age societies work.
+
+The key to archaic science was to think in terms of a cosmos, in which everything was interrelated. The so-called Astrological Diaries of Babylonia correlated grain prices, the level of the Euphrates, and other economic phenomena, including royal disturbances and behavior much as modern astrology seeks to do. They were seeking order, and they started by correlating everything they could, including the movements of the planets.
+
+Today, we think in the decimal system. But it’s not automatic to assume 10 fingers as the basis for how hunter-gatherers are going to count; even in cases of using the body as a memory device. Some Indonesian societies, for example, counted across the span of their outstretched arms, with 28 spots. That would be a measure of using the body to follow the phases of the moon. I also noted that these tended to track with a range in the number of letters in the alphabet that we see in many languages today, in the mid-20s and 30s. It seems that before numbers, something like the alphabet was used to name the moon’s phases.
+
+The number of letters in many early alphabets that we know of corresponded with the lunar months. And the most important characteristic of the alphabet is its _sequential order_. We don’t say AMD, we say ABC. They’re always in the same order. Does that contain an older pattern? The key is the fixed sequence, a pre-mathematical organisational system.
+
+We know that many Paleolithic communities across Eurasia and the Americas were following the phases of the moon. And we know from Neolithic structures such as Stonehenge that people were also focusing on the key solar intervals, especially the solstices that were turning points for the birth of the year on the shortest day, and equinoxes that were the turning points.
+
+There was a permanent need to combine a lunar calendar, which governed local social life, with a solar calendar, which told the story of the seasons, separated by solstices and equinoxes. And, of course, that was a big problem because imagine the frustration that they had when they realized that the lunar and solar months don’t correspond exactly: A lunar year has 354 days, and a solar one has 365. The mathematics of the form of solstices and equinoxes, and the time gap between the 354-day lunar year and the 365-day solar year (as well as the leap year) could lead to divergences in cosmology and social ritual using the calendar as a basic organising principle. The solstices and the seasons, often highly social events with important rites and traditions, would be more complicated to schedule and would be pushed to different dates as the years went by.
+
+Marshack thought that once arithmetic was developed, some priest-like individuals or chiefs began counting everything, looking for a pattern, an explanation. “Let’s see what works.”
+
+I became curious about how Mesopotamia and others blended their cosmological calendars and kept their traditions on schedule and societies harmonized. We know that many of the lunar years remained the basis for many religions all the way from Mesopotamian practices to Jewish practices, down to today, and yet there was also the solar year.
+
+**Ritch-Frel:** As Near Eastern societies became more complex in the 3rd and 4th Millennium BCE, how did they reconcile all this? And how did the calendrical system become imbued into an arithmetic basis of weights and measures and rations?
+
+**Hudson:** The early Sumerian cities like Uruk or Lagash frequently experienced the upheavals of warfare and disease. That meant there were large numbers of widows, orphans, and slaves in these cities. The place they found for them was basically in large weaving workshops around the temples. A large, exploited workforce producing textiles required an administrative system to feed the labor pool over the course of the year—a new calendar system.
+
+> Leaders worked with their astronomers and cosmologists to develop this administrative calendar to feed this workforce population. It seems that the convention of 12 months per year borne out of the lunar calendar was assumed, the question came down to how many days are there in that month. Neither the 354-day lunar or 365-day solar calendar worked—for causes of variability in length, their need to be corrected to follow the seasons, or the inconvenience of the way the numbers couldn’t be divided by 12. There couldn’t be oversights in the administrative calendar that missed a day—mistakes made in provisioning food for people are quickly noticed.
+
+It seems natural they’d want to land on a day that both served the administrative needs and could be correlated with the 354-day lunar calendar and the 365-day solar calendar. After trial and error, 30 rations per month, 12 months per year produced a social logic of 360, pretty close to the two ancient cosmologies.
+
+The standard ancient daily ration in these early Mesopotamian cities for the workers and enslaved people was two cups of grain per day per person. Using the administrative 30-day calendar, 60 cups of grain was one month’s ration. A slave or a temple worker required 60 cups of grain a month—it became a rule of thumb for the city leaders and managers. One month’s rations, 60 cups, is a unit of weight, a bushel. That key weight, organized by the number 60 has a forcing effect on how the commodity grain is often exchanged for silver. It led to silver being organized in weight units of 60, called a mena, so that the trades for weights of grain and silver could correspond easily.
+
+The palace calendar became the administrative ration calendar model, the 12-month, 30-day calendar. And there was administrative efficiency. They saw correspondence in the rations with the units they used for weights and measures, and for calculating loans and mercantile trade. Naturally, if silver and grain are organized on the basis of 60, it was convenient for minds trained to calculate on the basis of 60 to use it as the numbering structure for interest rates. You can see how units of measure, once they become convention, have an easy time traveling across categories of activity. To hammer it home, the time units for payment plan structures on early Mesopotamian debt were derived from Paleolithic time units: monthly, borrowing from the lunar calendar; quarterly, borrowing from the four annual seasons divided by solstice and equinox; or annually using the solar calendar.
+
+That annual part is the next phase of this to discuss, as you’ll remember, the 360-day calendar is a social artifice that needed a process every year to correctly align with 354- and 365-day calendars. The incompatibility between these calendar years was treated as a time of anarchy, which required harmonization—long before the administrative one was invented. The process of bringing order to chaos was also brought over from the Paleolithic—it was as familiar a convention as the 12 lunar month calendar. The resumption of a new solar year was treated as an occasion for setting affairs back in order and clearing up old dues—not just getting the calendar to align, but the social imbalances and unresolved appeals to justice inside groups and among them. The cleaning of the slates, which listed debts and obligations in increasingly large settlements, would have drawn their justification from this Paleolithic process.
+
+The importance of recording grain supplies and the related mercantile trades and the lending system around them, the palace administrative calendar, and forecasting lunar and solar cycles to find concordance dates for future calendar years put pressure on the astronomers and cosmologists of the Bronze and Iron ages to develop fuller arithmetic, quadratic equations, and even analogue computers with gears to determine the movement of the sun and the moon and other heavenly bodies that served as useful fixed points for their calculations.
+
+**Ritch-Frel:** The process is important here, and so is this example for understanding how existing human social conventions like the Paleolithic lunar calendar form the basis for future ones. How did Bronze Age rulers adapt Neolithic and earlier traditions of resetting the annual calendar, old debts, and unresolved justice?
+
+**Hudson:** Archaic societies knew well that social order required active intervention to restore order. Unlike the calendar, realignment in the social economy was not achieved automatically. The birth of a new year was a tool and natural marker to clean up debts and obligations from the year before. This became especially important with the spread of interest-bearing debt in trade and agriculture: It was necessary to prevent an oligarchy.
+
+Cosmology is a system. And calendrical cosmology is a system with an inherent source of disorder: the gap between the solar and lunar years. Certainly, both in Mesopotamia and Egypt, the idea that the gap between the lunar year and the solar year was a time out of time—when repair of social inequality and imbalance could be addressed.
+
+Debt cancellations were normal practice throughout the Bronze Age in the form of royal proclamations of clean slates. Not only were debts wiped out, but bondservants were free to return to their own families (and enslaved people were also returned to their debtor owners), and lands that had been lost through debt or other misfortune were returned to their former holders. The logic of the statements in the proclamations follows a thought line of, as above, so below; on earth as it is in heaven. It’s useful to cloak the ancient calendar convention of the Paleolithic chaos-into-order period into the social-economic principles that the new agricultural society lived by.
+
+And while you’re dealing with this cosmology trying to create order and restore order in terms of time, how do you prevent the disorder from the increase in wealth that occurs as technology and population grow and societies become more and more productive and wealthy? That was a big challenge to civilisation. The Asian societies met it very well. The Middle Eastern societies met it very well.
+
+They had a system that was able to keep time, and generally prevent or remedy social polarisation. They wanted to have a system that maintained order on a continuous basis without creating disorder. And that’s what led me to work with David Graeber and other people trying to think, well, how is it that you’d have some very archaic societies that very often lasted a lot longer than the ones we have today? And as Graeber pointed out in his more recent book, _The Dawn of Everything_, there are many Mesoamerican, and generally speaking, Native American communities that had a very careful standardization of social poles—you didn’t want there to be wealthy people, it creates egotism, it tends to be abusive to other people.
+
+**Ritch-Frel:** Can you share a bit about your collaborations with David Graeber?
+
+**Hudson:** Graeber’s basic aim was to show how some societies had _avoided_ polarisation and inequality as social wealth developed. How do we explain the origins of inequality and how do we prevent it? We had talked originally about economic historian Karl Polanyi and his circle’s attempt to go beyond the economic orthodoxy that social organisation began with individuals bartering and lending money based on its rate of return. He took the viewpoint that there was a wider society in motion that was shaping our economic structures, not just merchants and customers.
+
+Well, he had read my books, and I mean, we had long discussions and he said, he wrote _Debt: The First 5,000 Years_ largely to popularise my work, and because he realised that debt was the great polarising fact of antiquity. And that’s why he pushed the Occupy Wall Street movement to focus on debt cancellations.
+
+One of David’s activist tactics was to buy defaulted debts of people for 1 cent on the dollar, which everybody thought was collectible. There are marketplaces for defaulted debt that lenders have given up on, and there’s a secondary market for debt-collecting divisions of banks that want to take their chances, buying the debt at very steep discounts. And Graeber wanted to raise money to buy these debts and tell the debtors, you don’t owe this money anymore. Look, we paid it all off for you.
+
+What David and his friends couldn’t have bargained for is just how depraved and corrupt the banks were—the banks had sold the same collection rights to many different collectors. The debtors were still being harassed by debt collectors even after their loans were bought off.
+
+The tactic didn’t work, but the idea was right. David and I both wanted to advocate debt cancellations here because that’s what’s destroying the economy today. Western civilization never developed the means of canceling debts in the way that the Near East and other parts of Asia did.
+
+> Today, we are smothered in a fake storyline, a fake origin myth for economics. Margaret Thatcher typifies this attitude. You have to pay the debts. You have to let the rich people take over because they get wealthy. And unequal wealth is what civilisation is all about. The ability of wealthy people to crush and destroy civilisation is Western progress.
+
+The myth goes like this:
+
+In the beginning, there were individual entrepreneurs who tried to make money, the government then stepped in and wouldn’t let them make money, canceled the debts, and nobody would lend money anymore, so economies couldn’t develop. But fortunately, our modern economy figured out how to grow: the payment of debts is a must, and that gives security to the creditors. We can’t have a free market, wealth-creating economy if the 1 percent can’t drive the 99 percent into debt. And that’s why the stock and bond market and the real estate market have gone up when the rest of the American population economy, the 99 percent since 2008 have gone down.
+
+Meanwhile, if you look under the hood of the Bronze Age, the Neolithic that preceded it, and the Paleolithic before it—the evidence overwhelmingly points to a default: mutual aid, and common wealth.
+
+Our leading economists say civilisation couldn’t have begun this way: “If you began this way, how could you ever have the security of creditors to make the loans, to help everything develop?” They’ve just never lived in that world, so, therefore, it’s unimaginable for them.
+
+**Ritch-Frel:** A fuller account of human history that stretches millions of years into the geological time scale, across a wider geographic area, is part of the infrastructure humans need to pave a road back to more resilient and equal societies. What have you gathered as you have followed the evolution of social insurance and mutual aid systems into government administration, modern banking, and finance? Did you spot paths not taken that lead to more humanistic outcomes?
+
+**Hudson:** In my opinion, the key driver of Western economic history is the shifting and unstable political relationships that grew out of the financial dynamic of debts growing at compound interest faster than the economies can pay. Casting the net wider, we can see that it was a tenet of Chinese law, Indian law, and Middle Eastern law, to prevent an independent financial oligarchy from developing.
+
+How did we lose all of that?
+
+A series of historical events, of course, rooted in what we call the Classical Era in the Mediterranean. When Phoenician and neighboring sea traders expanded their trading posts into the Mediterranean and mixed with various colonies, they enforced the concept of charging interest on debts, and the chieftains of city-states and colonies adopted this policy without the debt cancellation cure that centralised rulers adopted across the Near East. The traders just wanted their silver, they weren’t terribly bothered by upheavals in the social order that occurs when you don’t cancel debt. The economies of Greece and Rome and their political heirs in Western Europe were all about creating a financial oligarchy and sanctifying debts instead of sanctifying the cancellation of debt.
+
+By explaining the Mesopotamian and other Near Eastern royal proclamations canceling debts and reestablishing order, it is possible to show people another path—one that has worked for thousands of years, and emerged out of that Paleolithic thought matrix. What we call Western civilisation and progress is a detour from the direction that human civilisation had been traveling for a much longer time.
+
+This whole detour of not being able to control the egotism borne by wealth and the development of a creditor class—who eventually gain control of the land and the basic needs of life—is a civilisational problem.
+
+**Author Bio:** Jan Ritch-Frel is the executive director of the Independent Media Institute and publisher of the Observatory, where he edits the Human Bridges initiative.
+
+**Credit Line:** _This article was produced by_ _Human Bridges__, a project of the Independent Media Institute._
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Independent Media Institute](https://info.scoop.co.nz/Independent_Media_Institute) on InfoPages.

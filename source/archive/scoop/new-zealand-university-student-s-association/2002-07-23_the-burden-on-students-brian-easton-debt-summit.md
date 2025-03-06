@@ -1,0 +1,116 @@
+---
+slug: the-burden-on-students-brian-easton-debt-summit
+title: "The Burden On Students - Brian Easton Debt Summit"
+date: 2002-07-23
+source-url: https://www.scoop.co.nz/stories/ED0207/S00058/the-burden-on-students-brian-easton-debt-summit.htm
+author: new-zealand-university-student-s-association
+---
+The Burden On Students - Brian Easton Debt Summit
+=================================================
+
+**Tuesday, 23 July 2002, 4:35 pm**  
+**Speech: [New Zealand University Student's Association](https://info.scoop.co.nz/New_Zealand_University_Student's_Association)**
+
+The Burden On Students
+
+For the NZUSA Student Debt Summit, July 23, Auckland.
+
+July 23, 2002 Brian Easton
+
+Substantial tax reductions for the rich, if they are not to be fiscally irresponsible, require cuts in government spending and the raising taxation on those who are not rich. Thus the generous lowering of income tax on top incomes of the late 1980s required others to take a larger burden – including directly: social security beneficiaries, wage earners, many public servants and government employed professionals, and tertiary students, and indirectly the social wage and those who benefit from it.
+
+The cuts to tertiary students involved the raising of student fees, the reduction of student support (and also – it should not be forgotten – pressures which are compromising the quality of the tertiary sector, and hence giving students an inferior education). For obvious political reasons these cuts could not be justified in terms of the reality of raising the standard of living of the rich by cutting taxes on them. Instead human capital theory was called upon.
+
+Human capital theory treats expenditure on education as if it is an investment which only enhances the student's earning power. The commercial logic is that people make private investment decisions about their education, deciding whether to go, and which course to take, on the basis of the financial return their decisions obtain. The best outcome, so the theory argues, is if they make the decision themselves. There should be no subsidies to distort their decisions.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+This very limited account of the role of tertiary education, has major problems. The first was captured by James Fitzgerald, the first superintendent of the Province of Canterbury, some one hundred and fifty years ago. In his inaugural address he said:
+
+‘There is something to my mind awful in the prospect of the great mass of the community rapidly increasing in wealth and power without that moral refinement which fits them to enjoy the one or that intellectual cultivation which enables them to use the other.’
+
+There is no such role for that ‘merit goods’ function of the university in human capital theory.
+
+A second limitation is that if we really believed human capital theory, then we should apply it to pre-tertiary education. Why dont we? I once asked a Minister of Education this. His unsatisfactory answer was that the earlier education was compulsory (ignoring the upper secondary school is not). But why is it compulsory? And if we make tertiary education ‘compulsory’ and so make it free?  
+Implicit in the social contract was that a New Zealander has a set of social entitlements, including that of the famous Peter Fraser/Clarence Beeby declaration ‘a free education of the kind for which he or she is best fitted, and to the full extent of her or his power. Those desperate to lower taxes on themselves, if not others, simply revoked that part of social entitlement, even though they had been beneficiaries of it in their youth. (They revoked other parts of the entitlement too). As Isaiah Berlin observed those who advanced the rhetoric of freedom were often quick to limit the freedom of others.
+
+But even if economic growth were the only end in itself – and not a merit good and a fundamental civil entitlement – the theory is still flawed.. Economists have been unable to identify the relation between universities and economic growth with any precision. Perhaps many of the benefits from tertiary training are captured by producers in higher productivity and lower costs, or by consumers in lower prices and new products, rather than by graduates obtaining a higher income as a result of the education and training they have undertaken. Perhaps not, and all the long run benefit goes to the student in their earning higher income. We just do not know.
+
+However insofar there are these former effects, so that the students do not capture all the benefits these ‘externalities' invalidate the conclusions from the simplest human capital theory. For even if there were no private return (and even if there were no merit goods aspects from education), it would still be in the nation's interest to proceed with mass tertiary training.
+
+There is still severe complications if the narrowest assumptions of human capital theory apply. Consider what we might call \`human cattle theory'. Suppose a student of bovine disposition went to university, obtained a degree, and as a result of that degree enhanced subsequent earning powers in terms of higher milk production. The tax liability of this cow would differ from that of human student. The costs of obtaining the degree would be tax deductible. Since in their student years they would make a loss from their training expenses, and from the feeding, watering, and housing of the animal, there would build up a tax credit over the years during which they obtained a qualification. Immediately out of university the cow would pay no tax on her earnings, until the tax credit was exhausted. This happens for real cattle, but not for human cattle. Surely according to human capital theory, expenses incurred in obtaining the capital increment should be deducted for tax purposes?
+
+There is another difference between real and human cattle. Farmers are able to raise a higher proportion of the value of the beast as a loan from the private financial system, than human students can on their human capital. Why? Bankers can own cattle, but due to anti-slavery laws they cannot own people. This restriction represents an important distortion in the labour market, which severely limits the usefulness of human capital theory.
+
+In summary then, the human cattle theory demonstrates there are serious limitations to the human capital theory even in its narrowest version. Perhaps the application of human capital theory often contains a bit of bull.
+
+In the light of these inadequacies why does public policy place so much reliance on human capital theory? The short answer is that it is being used to disguise the grimy political reality that the tax burden was raised on students to fund tax cuts on the rich. So students lost their social entitlement, and were required to pay a much higher share of their tertiary education and training costs.
+
+Another element that got lost was the merit good element of education. As Fitzgerald indicates, material progress does not need the refinement, the intellectual cultivation, the enlightenment, the ethics that education provides. What it needs is highly trained technicians – lawyers, accountants, engineers and so on. One of the first signals of the impending attack on tertiary education was the 1989 Report on Post-Compulsory Education (the Hawke Report), which said that public policy should make no distinction between education and training. What it meant was that educational goals should be abandoned and the focus of the tertiary system should only be on training.
+
+Even so, there was still a flaw in the narrow approach. Despite the economy needs of narrow technicians, the withdrawal of social entitlement and the raising of cost of attendance would cut off the supply of these workers, leaving the economy with far too many unskilled workers and insufficient skilled workers, not all of whom could be substituted for by immigration. However human capital theory offered a sort of solution. If tertiary training is an investment, then the student could borrow the training costs and recoup them and the accumulating interest with the higher incomes they would earn in the future. But since students are not livestock, the capitalist financial system cannot cope with this proposition. To cut a long story short the government ended up advancing the loans to the students instead of leaving it to the private sector.
+
+However, students could not always repay the loan, so the government introduced a variable payment system, which in raises the effective rate of taxation on graduates until they have payed off the loan. So the circle is complete. In order to fund low taxes on themselves, the rich introduced a scheme which put high taxes on recent graduates. This is not to be said too loudly, because all the arguments which the rich use to justify lower taxes on themselves, apply equally – and in some cases even more so – to recent graduates. So even if we want to ignore the merit role of education and the notion of a social entitlement to education, the student loan scheme is inefficient because it raises top tax rates.
+
+It is also inefficient also because it is not understood. Student debt is not a simple liability like a mortgage or overdraft, although its holders to treat it that way. Repayment is contingent on the income stream of the debtor involved, and that income stream is uncertain. The technical term for the loan from the position of the student is a ‘contingent liability’.  
+There is a good reason why the proponents of the student loan scheme do not use the precise term. For one thing it would display to the world that the scheme is no more than a raising of the income tax levy on some parts of the population in order to lower it on others, particularly those of us who got a free tertiary institution, or who have been able to pay off their contingent liability.
+
+Because we cannot be honest about the nature of the contingent loan, students are mislead. The loan conditions infringe the standard rules of human borrowing as set down by Chicago economist Richard Thaler, particularly his fifth proposition ‘Borrow only on the security of a real asset’. This means is that students are almost certainly under-investing in their education and training (although the subsidies that the government still makes to the tertiary sector probably distorts this story).
+
+The loans end up on the government’s balance sheet. Every liability of a person or institution has to be matched by an asset of some person or institution. Thus if student debt is a contingent liability, it has to be matched by a contingent asset. The holder of the contingent asset is the government.
+
+At the last student debt summit two years ago I reported that the government then had a net worth – called the ‘Crown Balance’ – of $8.2b, made up of $ 60.9b of assets less $52.6b of liabilities. Some $3.4b of those assets are loans to students. That means 41.4 percent of the government’s net worth was invested in those loans.
+
+Today, June 2002, the total student debt is $4.8b, or 33.7 percent of the government’s net worth. The Treasury forecasts for June 2006 student debt is $7.8b, 28.1 percent. That is a 14.8 percent growth a year. The burden on students is projected to grow – doubling in five years to six years.
+
+The reduction in the proportion of the contingent asset of student debt in the government balance sheet is to be welcomed. A contingent asset is a poor quality asset, student debt is probably the poorest quality large asset in the government balance sheet. The inferior quality arises from the various assumptions which are necessary to value it, including when students will have sufficient income to pay them off when they are not being on a low income, or bankrupt, or disappearing out of the IRD records, or finding a tax haven to shield them from the repayment of the liability.
+
+The Crown’s Balance Sheet allows for this, because total debt owed by students is discounted for such contingencies. It is that discounted amount which appears in the balance sheet. In total the students and ex-students think they owe more than the numbers I have just reported. That is another poor quality signal.
+
+Despite its defects, as long as we confine ourselves to the human capital model the student debt scheme it is about the best we have, as the Todd review concluded, with the merit of keeping taxes low on the rich. To change the scheme significantly, we have to break out of the narrowness of students as livestock model, and look at the broader issues.
+
+The NZUSA strategy is to emphasise the social entitlement element in tertiary education. As one who is a beneficiary of such an entitlement, I am in complete sympathy with the general principle although I have a couple of caveats. The first is that I am not sure that entitlement extends to training as distinct from education. Perhaps students who obtain vocational training which adds to their higher incomes in later life should pay more than those who get an education. My second reservation is that social entitlements involve social obligations, which are perhaps avoided by those graduates who go overseas and never return. Overseas experience for graduates is a vital necessity for the well-being of the nation, but permanent migration gives us little back. I mention these two caveats because, while they are not overwhelming, they may be able to be fine tuned into any new strategy.
+
+The real problem is cost. A full educational entitlement system could cost around a billion dollars a year. Unless it raises taxes or cuts government spending savagely elsewhere, the next government has only an extra two billion dollars a year to spend by 2006, and that has to meet the additional pressures for spending on social security, family policy, health, core education, law and order, industries assistance, culture and recreation, the environment, and so on – not to mention the demand for further tax cuts. We are also going to have to spend more on tertiary education to improve its quality. Given these other pressures, it is extremely unlikely that tertiary students can command half the available extra spending.
+
+During the election campaign those who dont expect to be in government after the election are making a number of generous offers to tertiary students, and to just about every other voting group in the country, which they cannot possibly fund in the current fiscal regime, and probably cant in any practical one. (Note the government operating surplus is necessary for macroeconomic management as is the so-called ‘Cullen’ superannuation fund. I am reminded how Muldoon promised, in the 1975 election campaign, to use superannuation funds for his expensive National Superannuation Scheme. When he got power he faced the fiscal reality, and destabilised the economy to fulfill his election promise.) So let me try to suggest a strategy which might have some prospect over the next three years.
+
+First let us get the nation to formally adopt the Fraser/Beeby principle that each of its citizens has an entitlement to a reasonably free and appropriate education. The principle already applies to primary and secondary education. In an affluent and technologically innovative economy it extends to a tertiary education entitlement. Initially it would apply to one free post-secondary year, and increase as increasing affluence and fiscal restraints permitted. It is likely to get support from the public at large, and also from primary and secondary school lobbies because it guarantees free core education for them too. Initially the practical effect of the proposal might be that tertiary fees would be minimal in the student’s first year and be progressively (albeit, perhaps, selectively) reduced for later ones..
+
+The second leg of the strategy is to recognise that the next term government is going to have to be more distributionally innovative, and for NZUSA to seize this opportunity to support vigorously the need for relief to poor students by improved student allowances. This is a quite different issue from the entitlement principle, because that is independent of personal and family income – just as one’s entitlement to health care the law, access to the national parks is so independent. Even the Todd Taskforce saw a case for distributional interventions, given how onerous the student debt scheme is.
+
+The third leg of the strategy is a response to the merit good element of education, with student debt relief in exchange for social contribution. National’s proposed ‘you stay, we pay’ is an example of graduates who work in New Zealand get faster relief than those who work overseas. I have reservations about the precise details of National’s proposal, but the principle is sound. It could be extended to greater relief for those who chose to live and work in the outer regions of New Zealand, which do not have universities, so that benefits of education are more widely spread through the country. (In past we had ‘country service’ for teachers for exactly this purpose. One of its greatest benefits is that it gave a lot of New Zealanders who ended up in senior positions in big cities an early provincial experience which help shape their view of their nation.) There may also be an opportunity for faster debt relief for those who have low paid jobs for voluntary organisations. There are strong social reasons to share the fruits of tertiary education with the regions and the voluntary sector, but there will also be a strong lobby of regional politicians and employers and voluntary association who will be on students side for this sort of debt relief.
+
+The merit good argument also suggests that there should be stronger incentives to students to do non-vocational courses: the arts and humanities, natural and social sciences, creative studies, Maori studies and the like. The benefits of such courses to the nation are not directly captured in the vocational output of the student. This suggests that student fees should be lower for them. This could be effected by the government funding these courses at a higher rate, with the higher subsidy being used to reduce student fees. Again there are other lobby groups which would support such a policy.
+
+To conclude. Students rightly see student debt as a burden. I have tried to extend their perception in two respects. First that burden arose as an offset to the tax reductions given to high incomes and, second, there are a number of inefficiencies that arise from the debt system. But this paper has also tried to move the debate from simply seeing these consequences of student debt to explaining how the theory which underpins the debt is too narrow. A broader vision of our nation is one in which New Zealanders have social entitlements to an education, and in which education is distinguished for vocational training.
+
+Notes
+
+1\. The paper The Sustainability of Student Loans which I gave to the Student Debt Summit in 2000 is on my website (www.eastonbh.ac.nz).
+
+2\. Also on the website is a brief account of Richard Thaler’s savings principles, and an earlier Listener column on student loans.
+
+3\. Some of the issues in this paper are elaborated in my books The Commercialisation of New Zealand and The Whimpering of the State: Policy After MMP.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand University Student's Association](https://info.scoop.co.nz/New_Zealand_University_Student's_Association) on InfoPages.

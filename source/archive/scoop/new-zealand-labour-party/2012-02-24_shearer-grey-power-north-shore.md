@@ -1,0 +1,257 @@
+---
+slug: shearer-grey-power-north-shore
+title: "Shearer: Grey Power North Shore"
+date: 2012-02-24
+source-url: https://www.scoop.co.nz/stories/PA1202/S00286/shearer-grey-power-north-shore.htm
+author: new-zealand-labour-party
+---
+Shearer: Grey Power North Shore
+===============================
+
+**Friday, 24 February 2012, 2:26 pm**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+**Grey Power**
+
+**North Shore**
+
+**24 February 2012**
+
+When I stood for the Labour leadership, I promised change and renewal, and I stand by that.
+
+The Labour Party has a clear set of values that endure – but they will need to evolve and adapt to meet the needs of new generations and new circumstances.
+
+I will be laying out a comprehensive set of policies in the run up to the 2014 election that I believe will make the difference for NZ.
+
+We will be very deliberate and considered in this process.
+
+As part of that I will be moving around the country, speaking to a range of different audiences, setting out our vision of where Labour will be going – and listening hard to people I meet.
+
+What I want to talk to you about today is the future of New Zealand, the future Labour wants to create and why we need to stand up for New Zealand.
+
+So I’m particularly pleased that Grey Power has put our future at the front of your agenda.
+
+You realize how important planning for the future is – and that it’s not only important right now, but for our children and grandchildren.
+
+I am aware of the Grey Power National Council wanting to lead a campaign against asset sales.
+
+We will be doing what we can to support you and the community with this important campaign.
+
+You believe in the future of New Zealand.
+
+I want to talk about that future because that’s what our politics should be about.
+
+I’m not the kind of leader who believes in rival tribes playing ‘gotcha’, where bickering and partisanship are prized.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Of course that’s what a lot of people look for. They want to score the game, give points for the best smart remark in Parliament. But that’s not what most New Zealanders want.
+
+They want leaders to focus on the future. They want us to set out a vision of where New Zealand should go, how we work together, how we strengthen our communities – and above all: how we make people’s lives better.
+
+And how we plan to make a difference.
+
+A couple of experiences in my life taught me why our vision for making people’s lives better should always be at the centre of what we do.
+
+It began a few years ago. I was travelling around the world on my OE as many Kiwis do.
+
+A friend and I decided to follow the Nile River to its source in Uganda. I think we had this romantic idea of following in the footsteps of those great explorers.
+
+In South Sudan we were sitting in the back of a truck peeling a mango and throwing the skins over the side. I heard noises below and looking down I saw children fighting over the skins – desperate because they were hungry.
+
+It was a real shock. Over the next few days we saw many people who were just skin and bones, their lives devastated by a drought and conflict in the area. Many were close to dying.
+
+Here was I, having grown up as fairly typical Kiwi kid in Papatoetoe to experiencing life in a land where people were so hungry they fought over mango skins.
+
+For me it was one of those turning points – it hit me that I should be doing something more to make a difference in the world.
+
+That has continued to be my motivation. Not to become a politician, but to make a difference, to truly improve people’s lives.
+
+It’s what I’ve done in my work ever since. It’s what I stand for.
+
+I went on to head teams in some of the most difficult places in the world. My last job was in Iraq, leading a team with a two billion dollar budget rebuilding hundreds of schools and hospitals, and making sure there was electricity and water to people’s homes and businesses.
+
+When you have to solve problems in countries with those issues, you have to focus on the future - on what works, how to make a difference.
+
+A country like ours has so many advantages, so many more options. We have no excuse for not being constructive.
+
+I want a new kind of politics, pragmatic and attentive to what works, not tied up in the squabbles of the past.
+
+We should be prepared to accept ideas according to whether they work or not, not where they come from.
+
+Our future policies have to pass this test: “does this idea help us achieve the New Zealand we want to create ten years from now?”
+
+When shaping our future, we need to respond to New Zealand as it is today not attempt to recreate the past.
+
+When I entered the workforce, New Zealand looked different to what it is today.
+
+There were far fewer people on welfare. A young person preparing for a working life could choose an apprenticeship or a university degree, and then expect to find a decent job.
+
+People could retire at 60 and most families could afford to buy a home of their own.
+
+That’s not how New Zealand looks today.
+
+Now, thousands of kids are growing up in single-parent households, fewer school leavers enter a trade, and working people are less likely to belong to a union.
+
+More people find themselves having to spend their evenings at the kitchen table filling in GST returns. Their kids are likely to have a student loan and put off starting a family and buying a house because they can’t afford it.
+
+In another 10 to 20 years, New Zealand will look different again.
+
+We need to plan for that.
+
+If we are going to make a difference to the lives of New Zealanders, we need ideas that are designed for their future, not for the past.
+
+I want us to have a world class economy that provides high-skill, high-value jobs.
+
+I want to lead a government that gets behind people who are working hard, who are making good choices and who are doing their best to raise their kids.
+
+I want a New Zealand where families and communities are strong; where there’s a place for everyone no matter where they grow up, or what their parents do.
+
+I want an exciting New Zealand - clean, green with creative industries and businesses, with a lifestyle the world envies, and an economy run in our interests, not someone else’s.
+
+That’s the future I want for New Zealand.
+
+I want us to be bold enough to transform our economy. I want us to be bold enough to reach for a better future.
+
+But to do that, we need to start making decisions in our best interests.
+
+Let me tell you a quick story. Twenty years ago, Finland suffered an economic slide more sudden and serious than ours, but it was caused by similar factors.
+
+They had a too-narrowly based economy, too much of their growth was debt-fuelled, and they were vulnerable to economic shocks.
+
+Their choice was similar to what we face today: they could sell down assets, sell off land and ownership, try to compete by keeping wages low and under control – do more of the same but hope for better results.
+
+Or they could set their sights on a world class economy, prospering through their skills and science and increasing their incomes by exporting more.
+
+So what did they do? They invested in the future, in schools and great teachers, in science and R&D.
+
+Today they have one of the world’s greatest small economies.
+
+We can learn from that experience and other countries that have done the same, like Denmark, Israel and Singapore.
+
+They have done well because they invested in their talent and creativity. And that’s something we have in abundance.
+
+New Zealand is at a pivotal point in our history. We must be bold enough to make the changes New Zealand needs.
+
+When I look at the Government’s asset sales, and at the sale of our productive farm land to overseas owners, I can’t see how these ideas will create the future we want to see in 10 or 20 years’ time.
+
+We need to stand up for NZ. We need to keep control of the assets that will be the foundation of our future economy.
+
+I believe passionately that selling our New Zealand assets and our productive land will strangle the future we want to build.
+
+We welcome investment that brings jobs here, that brings new technology or opens up new markets. That kind of foreign investment helped to build New Zealand in the first place, and it will always be welcome.
+
+But our land is different. Selling off our productive land is selling off our competitive advantage.
+
+Most of the rest of the world recognises this. You can’t just go to China and buy 16 farms.
+
+Last week the High Court overruled the Government’s approval of the Crafar farms deal. It is a victory for common sense and New Zealand’s best interests.
+
+The Court said the same thing I’ve heard from New Zealanders right across the country. That the Government got it wrong. New Zealand was not going to get sufficient value out of the deal.
+
+It made a mockery of the government’s claim that their hands were tied by law and they couldn’t go against the Overseas Investment Office’s decision to sell the land. We know now that was wrong.
+
+But questions for me still remain. Why is the government so anxious to sell off our land? Why did it delay the announcement of the deal until January, during the holidays and after the election?
+
+Why has Shanghai Pengxin’s bid been propped up by the taxpayer in the form of Landcorp – our state owned enterprise?
+
+Under the deal, Landcorp – which is owned by you and me – will rent the farms off Shanghai Pengxin. It will be its sharemilker.
+
+Without Landcorp, Shanghai Pengxin’s bid for the farms would likely fall over because they don’t have the farming expertise. Yet the government has allowed Landcorp into the deal.
+
+Effectively the government will be in the business of farming for the benefit of a large foreign-owned corporation. We will be paying Shanghai Pengxin millions of dollars a year for the privilege of farming their land for them.
+
+We will be tenants in our own land – exactly what John Key said he wouldn’t stand for.
+
+And that brings me to the government’s intention to sell our major assets – in particular our power companies.
+
+The government promised that selling them would help our economy. It won’t. We can’t sell our way to a brighter future.
+
+When we first heard about this deal the Government talked up the benefits. They said it would raise up to $10 billion dollars. Then it was $6.6 billion, then about $6 billion.
+
+Then last week Bill English admitted they were just ‘guessing’ at what the sale price would be.
+
+It’s the sort of shambles you’d expect to see at a backyard garage sale not when you’re selling off our nation’s valuable assets.
+
+Nothing about this deal makes sense for New Zealand.
+
+Selling your assets means you lose the income they generate.
+
+Selling your assets while the world economy is in turmoil and the market is at the bottom of the cycle flies in the face of common sense.
+
+You’ll see today that Air NZ has announced a massive drop in revenue and the possible loss of more than 400 jobs. It’s never a good time to sell an asset, but selling Air NZ now, at the bottom of the market is crazy.
+
+Once our assets are gone, they’re gone. And experience tells us where they’ll go.
+
+These assets will end up in foreign ownership.
+
+Ultimately, this means we lose the dividends, have less control, and face higher power prices.
+
+That’s a raw deal for New Zealanders. It’s a raw deal at time when we can ill afford it.
+
+We need to keep control of our strategic assets. And let’s remember the assets were built up over generations for future generations.
+
+Today, we face different challenges to the ones from the 80s and 90s.
+
+We need to ensure that our ideas and solutions have moved with the times. Asset sales and selling off our productive land are tired ideas.
+
+Through bitter experience we’ve learnt that you cannot sell your way to prosperity.
+
+Selling our assets is just a short-term fix that won’t solve the problem. We can’t hope to get richer by selling off our inheritance.
+
+We need to be smarter than that. So let’s look at the deal through my lens of how we should grow our economy.
+
+If we sell our public power companies, will it help our innovative small businesses to grow and take on more staff?
+
+If we sell down our public power companies, will that help our world-leading scientists to contribute their work to higher value exports?
+
+Will it help exporting businesses open new markets around the world for uniquely New Zealand products that can’t be manufactured anywhere else?
+
+What we need to do is look at how to build a world class economy. We have to look at our own national interest.
+
+We either do that or we take the path the government is following today.
+
+The difference between Labour and National is this:
+
+They want to continue with the tired ideas of the past, just selling and cutting. We want the government to work in our own national interest, not someone else’s.
+
+The way the government is spending our taxes means more of the same, which has led to growing debt, slower growth, and now selling out our assets as a result.
+
+The alternative way is to get stuck in helping create more skills, more jobs, more successful exports that we build with our brilliant science, and stronger small businesses.
+
+That’s the future I want.
+
+Both National and Labour agree we should pay down debt and pay for the rebuild after the earthquakes – of course we must.
+
+Our difference lies in our intention to create a new destiny for New Zealand – and their hope that foreign buyers will somehow act in our interests instead of their own.
+
+I can assure you that as the leader of Labour, I will be making sure we stand up for New Zealand and build the productive economy that we so desperately need.
+
+We should do whatever works to get there.
+
+My top priority – as it has been all my life – is to focus on a future that will make people’s lives better and make a difference.
+
+And that is the future I am working for.
+
+  
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

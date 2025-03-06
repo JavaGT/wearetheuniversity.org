@@ -1,0 +1,68 @@
+---
+slug: women-lead-uc-into-the-future
+title: "Women lead UC into the future"
+date: 2019-03-08
+source-url: https://www.scoop.co.nz/stories/ED1903/S00021/women-lead-uc-into-the-future.htm
+author: university-of-canterbury
+---
+Women lead UC into the future
+=============================
+
+**Friday, 8 March 2019, 9:53 am**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+**Women lead UC into the future**
+
+**_Celebrating women’s achievement - International Women’s Day 2019 (8 March)_**
+
+The University of Canterbury is understood to be the first and only New Zealand university to be led by two women. For the first time in its nearly 150-year history, UC is led by two women – lawyer and UC alumna Sue McCormack as its new Chancellor, and former Vice-Chancellor of South Africa’s largest research university Professor Cheryl de la Rey as UC’s new Vice-Chancellor.
+
+**UC leadership**
+
+Among the five colleges that make up the University of Canterbury, four of the five Pro-Vice-Chancellors are women, including the heads of Business and Law (Professor Sonia Mazey); Education, Health and Human Development (Professor Letitia Fickel); Engineering (Professor Jan Evans-Freeman); and Science (Professor Wendy Lawson), with UC’s College of Arts led by a male Pro-Vice-Chancellor (Professor Jonathan Le Cocq).
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+In the 14-member UC senior management team, eight positions are currently held by women, including two executive directors and an Assistant Vice-Chancellor.
+
+**Professor Cheryl de la Rey**
+
+Professor De la Rey served as Vice-Chancellor and Principal of the University of Pretoria, South Africa’s largest research university, from November 2009. After working her way up the academic ranks within South Africa’s university sector, she took up her first executive position at a relatively young age when she became Executive Director at the National Research Foundation. Thereafter she was appointed as Deputy Vice-Chancellor at the University of Cape Town. Prior to her current position, she was the CEO of the Council on Higher Education. She has 18 years’ experience as an executive in higher education in South Africa. She has a reputation for visionary, strategic thinking accompanied by strong management ability.
+
+Professor De la Rey is an accomplished public speaker, has a strong record of managing stakeholder relations successfully and she has a considerable international reputation. She has served on a number of national and international committees and boards. She has served as vice-chairperson of the Council of the Association of Commonwealth Universities (ACU) and she was the founding co-chairperson of the Australia-Africa Universities Network (AAUN) and the South Africa-Japan Universities Forum. She was a member of the executive board of the International Council for Science (ICSU), the University Social Responsibility Network (USRN) and vice-chairperson of the Talloires Network, an international association of institutions committed to strengthening the civic roles and social responsibilities of higher education.
+
+She has published books and several journal articles in her discipline, Psychology. Professor De la Rey is registered as a psychologist by the Health Professions Council of South Africa, is a fellow of the Psychological Association of South Africa, a fellow of the Royal Society of South Africa and of the Academy of Science of South Africa.
+
+**Chancellor Sue McCormack**
+
+The UC Chancellor since 1 January 2019, Sue McCormack was UC’s Pro-Chancellor from 2013 to 2018 and a member of the UC Council since 2009.
+
+She chaired the Vice-Chancellor Employment Committee and led the search and appointment process for UC’s new Vice-Chancellor, Professor Cheryl de la Rey, who took up the role on 1 February 2019.
+
+Ms McCormack also serves on the UC Council’s Audit and Risk Committee, Finance, Planning and Resources Committee, Honours and Appointments Committee, and is one of three members of the Executive Committee.
+
+A UC alumna, Ms McCormack is a partner at Mortlock McCormack Law. In her professional practice Ms McCormack specialises in corporate and commercial law and, following the 2010-11 earthquakes, has had a leading strategic role in the CBD development The Terrace.
+
+She is a Chartered Member of the Institute of Directors and is a Director of KiwiRail. She has previously been a Director of the Lyttelton Port Company, the New Zealand Symphony Orchestra, and the Public Trust.
+
+ends  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

@@ -1,0 +1,114 @@
+---
+slug: heather-roy-seeking-the-best-for-our-children
+title: "Heather Roy: Seeking The Best For Our Children"
+date: 2009-07-19
+source-url: https://www.scoop.co.nz/stories/PA0907/S00204/heather-roy-seeking-the-best-for-our-children.htm
+author: act-new-zealand
+---
+Heather Roy: Seeking The Best For Our Children
+==============================================
+
+**Sunday, 19 July 2009, 1:20 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+**Seeking The Best For Our Children  
+_  
+Hon Heather Roy, ACT Deputy Leader  
+Saturday, July 18 2009_**
+
+**_Hon Heather Roy speech to ACT Regional Conference; Bunnythorpe Methodist Church Hall, Bunnythorpe; Saturday, July 18 2009_**
+
+The current economic climate has had a significant effect on our decision-making. Things that we, as a country and as individuals, had previously been able to afford are now thought about much more carefully before the cheque is written.
+
+A recent article in the UK's 'Telegraph' newspaper told a story that we in New Zealand are already well familiar with. It's essentially about parents, unable to afford a private school education and wanting to send their children to particular State-run schools because they like the style of education offered, but then being unable to do so for a variety of reasons - most often because they live outside the enrolment zone. The article concluded that:
+
+_"To win an elusive place in the school of their choice, parents are using tactics that make Machiavelli look like Snow White."_
+
+It is always difficult to completely overlook one's own experiences as a parent when considering education. I have five children and we have had experience of just about every schooling option, including at two independent schools.
+
+We had an interesting discussion around my family's dinner table recently: my 13-year-old, who started this year at a popular State secondary school, told us unprompted of all the tricks engaged in by 'out of zone families' in his class to get their children in to this particular school.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+He told us of the different experiences of three of the students in his class of 32. One is living with grandparents during the week, so as to have an 'in zone' address; another's family has moved in to an 'in zone' apartment for a year.
+
+This is nothing new - but the fact that the kids themselves obviously compare stories tells a story of its own. I know of some Boards of Trustees who dedicate a Boardmember to the role of private investigator - their job is solely to make sure students really do live where they purport to.
+
+Why am I telling you about these difficulties with state school enrolments? Because at the core of the issue is choice. Who can blame parents for doing everything in their power to gain the best for their children? Why do we tolerate an education system that allows for this?
+
+Many would love to send their children to an independent or integrated school, but just can't afford to. Parents will move house; hire a flat for a year; send children to live with family members who are 'in zone'. Parents want the best education for their children and will often go to extraordinary lengths to get it.
+
+Choice is important to parents, to children, to society on just about every front - yet we limit the choices parents have when it comes to sending their children to the best school for them. There is something wrong with this picture - it's the way we think about access to education, availability of educational options and affordability of those options.
+
+The annual per capita rates for independent schools have not changed since 2000 when the subsidy rate was capped. As a consequence, most private schools have had to increase tuition fees - which, in turn, means parents look more carefully at their budgets before choosing one.
+
+This year's Budget announcement will help independent schools in a small way. Private schools currently receive $35.4 million annually in funding. Starting next year, an additional $10 million per annum will increase the overall funding to $45.2 million per annum. If calculated per head on enrolled student, this equates to a 28 percent increase per student.
+
+This additional funding honours the National-ACT Government's commitment to increase families' education choices so they have more freedom to select schooling options that best meet their children's needs. A small start, but a good one.
+
+There has been some comment in recent months regarding additional funding to private schools, with some commentary going so far as to label this as 'stealing' from State schools. Nothing could be further from the truth.
+
+Parents who send their children to an independent school actually help to alleviate the burden on the State education system. These parents are actually paying for their children's education twice: once through their taxes, and again when they cover the cost of choosing a private school for their child.
+
+Tough times call for innovative thinking - this applies to schools, business, and to the Government itself. While no one wants to see business closures in the short-to-medium-term, where firms would have survived had it not been for the credit-crunch, it is not the role of Government to intervene and keep businesses afloat when they are no longer viable.
+
+Businesses are being encouraged to look at innovative ideas and solutions in order to get through these uncertain economic times.
+
+National and ACT in Government want to provide parents with greater freedom to send their children to the school of their choice based on educational quality, school ethos, and the needs of their children - not based on central planning or a particular ideology. Education should be a network of provision that strives for excellence in all sectors - whether that is state-run or independent.
+
+Under the Education ACT of 1877 education was to be free, secular and compulsory for children aged seven-13. Today the Government funds education for students aged five-19. But nowhere is it written that the Government must provide the education outcomes, own education property or even employ the teachers and staff.
+
+Take roading, for example. While Governments are committed to building roads that are free to drive on, they often contract private companies to plan, build and maintain them. So why not in education?
+
+I see no impediment to the Government contracting private organisations to provide education - so long as that provision is cost-effective, performs well and is of a high quality. Providing choice means providing options for parents and students - a 'one size fits all' State-run model provides only one option which, by its very nature, offers no choice at all.
+
+As part of the National-ACT Confidence & Supply Agreement, it was agreed that an Inter-Party working group would be established to consider options for increasing parental and student choice in education. I am pleased to announce that this group has been formed and a robust work programme established. I am chairing this project along with members from the ACT, National and Maori Parties.
+
+The group has begun work on this very complex area and plans to report back to the Minister of Education by the end of the year. Despite ACT being a small Party in Government, we have been able to deliver on one of the key initiatives from the Confidence & Supply Agreement with National.
+
+This means we can finally enter into a proper discussion about education - an open and frank dialogue that focuses on the needs and aspirations of all, without the shackles of dogma and ideology. The ultimate outcome of this will be that parents and students have greater freedom when choosing an education path without interference from central Government.
+
+Greater freedom from central Government is something that ACT campaigned on in 2008 - promising to reduce red tape and cut bureaucracy in order to free up business and grow the economy.
+
+Independent schools already enjoy some freedom from Government regulation, and I'd like to see this extended. But businesses - and I place private schools in this category because, to survive, they have to provide a quality service people want to buy - risk become hamstrung by excessive regulation and compliance requirements.
+
+This is why ACT drafted the Regulatory Responsibility Bill and commitment for ongoing work - so that businesses could operate more effectively without the yoke of needless compliance and red tape.
+
+But accepting Government funding also means accepting that Government will want a say in how that money is utilised. In my experience, Government assistance nearly always comes with a catch - Government interference in daily operations.
+
+It is very important that all schools are able to focus on the needs of students and parents, rather than on the demands of Government.
+
+I want principals and teachers to lead learning; I want schools to get on with teaching and boards to provide proactive governance. Valuable time and energy shouldn't be wasted on satisfying an over-powering and needless bureaucracy. Our sole aim needs to be delivering the best education outcomes for all children and young people so they have all the tools and opportunities with which to reach their full potential.
+
+We need to place high trust in leaders at the front-line, and encourage and promote self-managing schools. This means strong educational leadership in every school is critical to achieving education goals be that state, integrated, independent, Rudolph Steiner - whatever the philosophy.
+
+I recently received a letter with this paragraph included in it. I couldn't have said it better myself:
+
+_"Blind ideologies and politically driven philosophies should not stand in the way of supporting an independent education sector that has a proven track record, that promotes choice, diversity and innovation, that gives parents the basic right to choose the education that best suits the needs of their children, that provides a net fiscal benefit to the State, that frees up valuable resources for the State school sector and that prevents New Zealand from taking a backward step towards a State-controlled monopoly education system, one that would serve only to produce mediocrity and strip this nation of its ability to education and produce exceptional young New Zealanders who will rightfully take their place on the world stage as outstanding leaders."_
+
+I wish to end by emphasising my belief that a strong and dynamic independent sector can improve the overall performance of the education sector as a whole.
+
+I believe that parents have the right to choose what is best for their children's education and that - far from creating barriers - the role of Government should be to encourage choice, and nurture an environment where the best outcomes for students are paramount. An environment with a level playing field that encourages every student to reach their potential. A strong, vibrant and healthy school sector is critical to the success of this goal.
+
+  
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

@@ -1,0 +1,304 @@
+---
+slug: act-state-of-the-nation-speech-david-seymour
+title: "ACT State Of The Nation Speech: David Seymour"
+date: 2022-02-03
+source-url: https://www.scoop.co.nz/stories/PA2202/S00031/act-state-of-the-nation-speech-david-seymour.htm
+author: act-new-zealand
+---
+ACT State Of The Nation Speech: David Seymour
+=============================================
+
+**Thursday, 3 February 2022, 12:54 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Thank you very much to Russell McVeagh for hosting this event. Thank you to Tim Clarke for your hospitality. Omicron, and the Government’s isolation rules in response to it, have thrown businesses into a cacophony of continuity planning. I’m grateful that you were nonetheless able to host us.
+
+The ACT Party, for its part, has divided into two teams, so Brooke and half our caucus can’t be here today. Thank you for the introduction, Nicole, and Simon, Karen, and Toni, good to see you here. We have a big year ahead.
+
+Nine people from all walks of life have absorbed the shock of entering Parliament and thrived.
+
+Brooke has been extraordinary. As Deputy, Whip, Health, and Housing spokesperson, she has organised our Caucus, broken stories on neglect of patients, led the campaign against mortgage interest deductibility changes, and even forced Parliament to face up to the evil of the CCP when our Government wanted to look the other way.
+
+Nicole has become loved as Parliament’s leading knitter. She has also skewered our hapless Police Minister on her softly softly approach to gangs and given the licensed firearm community a firm and rational voice in Parliament.
+
+Chris has stuck up for small business and our over stretched police force that same Minister won’t stand up for with his cutting speeches in the House.
+
+Simon has travelled the country connecting with people in energy, mining and construction, taking their feedback that it must be easier to do business back to Wellington.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+James has worked hard for many people neglected by the immigration bureaucracy and introduced legislation to Parliament that would protect freedom of speech on campus.
+
+Karen is a battler, and she keeps building the case for fundamental reform of the way we care for the children displaced from their natural families.
+
+Mark has become the beloved authentic voice of rural New Zealand, standing up for a vital sector that gets no love anywhere else.
+
+Toni has promoted a better way to break the cycle of crime with her work in Corrections. Not many people are prepared to go to prison for a cause, but Toni has been inside to promote ACT’s approach of rehabilitation.
+
+Damien has done the heavy lifting on the Finance and Expenditure Committee and melted the parliamentary precinct with his Celtic charm.
+
+It’s a solid base for nine new MPs to become the household names of the future, and this year we have everything to play for.
+
+The best way of finding out the state of our nation is asking the people who pay the bills. The citizens, the taxpayers, who go to work so we can all buy coal from Indonesia to keep the lights on.
+
+The pollsters have been asking the people, and here’s what they’re saying. For the first time since the GFC, the majority of New Zealanders have said our country is going in the wrong direction.
+
+The gap between Government and opposition parties has closed from 25 points on election night to six points now. 100,000 more voters changing their mind about Jacinda is now enough to change the Government.
+
+_**The COVID Response**_
+
+More and more people know that Jacinda’s COVID response is a grand illusion. Nearly every day brings another even more bizarre disaster, showing we benefited from good luck rather than good management.
+
+A million Kiwis offshore know anyone can quarantine an island. It took a hundred million years of continental drift, but the work was already done for Jacinda. We have entered Wonderland where the Red Queen is talking backwards, and that great feminist organisation called the Taliban gave a New Zealand woman asylum from the policies of her own Government.
+
+Closing the border is easy, the hard part is safely reconnecting with the world. The Government needed an actual outbreak before it acted on Delta. That cracked the illusion. Finding ourselves in the exact same situation with Omicron four months later shattered it.
+
+Most people need to work for a living. The streets are empty because they can’t risk their household being isolated for 24 days thanks to draconian isolation requirements. The only good news is it’s going to be hard to test positive.
+
+Self-testing is banned, and the Government is busy confiscating tests. Contact tracing is unlikely to make you a close contact. After a week of kissing babies nationwide, the Prime Minister’s isolation period was nearly over by the time the Ministry of Health found her.
+
+And yet, senseless policies continue. Isolation doesn’t work, MIQ doesn’t work, but we still pay their costs. The real reason for this caution is the Government has not done the one thing that would have worked: boosting ICU.
+
+Jacinda’s real goal of COVID policy is to make sure there is never a TV camera at the ambulance bay. That is the one thing the Government cannot tolerate politically. Our COVID response turns on the fulcrum of hospital capacity.
+
+We started with few ICU beds, but nobody could imagine there’d be fewer after two years of a pandemic. Then the Minister of Health announced there’d be more by the middle of 2022. I wish I was making this up.
+
+_**The Hangover**_
+
+The Government’s failure at everything but locking out, locking down, and borrowing printed money is now felt by every person every day.
+
+Families know that the price of everything has skyrocketed. It is partly the result of supply constraints and inflationary pressures that affect the whole world, but we have it worse because of our own policies. We had the second largest government stimulus behind the U.S. who have the worst inflation, even before our Spring lockdown.
+
+The economy is busy, but it is busy spending printed and borrowed money. The result is inflation that is effectively a six per cent tax on everything people buy. Low interest rates mean the Government can rightly claim that its interest repayments have gone down, even as it piled on $60 billion in additional debt.
+
+If the Government increased GST by six per cent to pay for COVID, there would be outrage. Inflating away its debt amounts to the same thing. You cannot evaluate the COVID response without considering the massive fiscal cost that has been put on families, and it’s not just debt.
+
+We are seeing record tax takes. The average taxpayer is now paying $2,138 more tax than when this Government was elected. Inflation is pushing New Zealanders into higher tax brackets and increasing the GST take. If inflation is a thief in your pocket, then the Government is guilty of receiving stolen goods.
+
+Not all COVID costs are measured in money though. By October last year it was estimated 81,000 had delayed medical procedures thanks to COVID. Brooke van Velden revealed thousands of women have missed breast cancer screening. The Government freaked and cancelled screening for one of the biggest annual killers of New Zealanders. It goes on.
+
+Kids in Auckland missed half a year of school. For kids with good digital connectivity, parents at home, and perhaps private schools, it won’t make much difference. For kids with little to no internet, parents out working shifts, and disorganised schools, the impact will be life changing. It’s already showing up as last year’s NCEA results get reported.
+
+Then there’s the division and loss of trust and capital after the Government used fear to control the population for two years. One of the most important tasks will be restoring the balance between the citizen and the state. In other words, when do we get our freedom back?
+
+The great irony is that this Government was celebrated for its wellbeing budget. Jacinda even sat on a stage with Bill Gates where she excitedly explained that she wouldn’t focus only on GDP, she’d balance all aspects of New Zealanders’ wellbeing. Along came COVID and we are back to focusing on just one thing. Stranded pregnant citizens be damned, or perhaps saved by Allah.
+
+_**Business as usual**_
+
+Some people find the shattered illusion surprising. Surely Labour couldn’t make a mess of COVID? Actually, if you look at their track record on every other policy, it would be surprising if they _didn’t_ screw it up.
+
+First home buyers know this. Jacinda was elected to fix housing, but on her watch the average house price has risen 58 per cent, or 387 thousand dollars. That gap between homeowners and non-homeowners has never been wider. This Labour Government has presided over the largest increase in inequality in New Zealand history because they are bad at policy.
+
+First there was KiwiBuild. Then there was tilting the market towards first home buyers by taxing their landlords more.
+
+Infrastructure, labour, and materials are holding back housing supply. Enter the Labour-National joint lunacy of letting anyone build three three storey homes up against your boundary, and Kainga Ora bidding up the price of those same resources by trying to build its own homes.
+
+To top it all off, Labour changed the Credit Contracts and Consumer Finance Act so you have to choose between Netflix and getting a mortgage.
+
+Every Labour policy has the same problem. The world’s first Instagram Prime Minister has a cartoonish view of how the world works. So long as the pictures look good and the words sound good, then we are making progress. She keeps smiling as reality crashes down around her.
+
+There are now more Teslas imported into New Zealand than BMWs, and most of them get a subsidy paid for by people buying utes. But the ute tax won’t reduce emissions because New Zealand’s total emissions are now determined by a capped Emissions Trading Scheme. Every tonne of carbon a new Tesla driver doesn’t emit is now freed up to be emitted by someone else.
+
+The same can be said for the new bureaucracy created by the Zero Carbon Act. It is the greatest centralisation of power since Muldoon, with the Minister for Climate Change setting carbon budgets for every sector of the economy. Everything from what you drive to how your dinner gets cooked is now under the control of a commanding heights bureaucracy. Like the Tesla subsidy, it won’t change the net emissions that are already set by the ETS cap.
+
+The Government banned 240,000 centre-fire semi-automatic rifles and bought back 60,000 of them. Gangs know what happened to the other 180,000. Today we have record gun violence and for the first time in our history the majority of serving police officers want to be armed themselves.
+
+Labour said they would put children at the centre of everything. Then they changed the Oranga Tamariki Act so that children are reverse uplifted from safe loving houses if the foster parents are the wrong race.
+
+Our lives have become playthings for overgrown student politicians who believe it’s their job to remake us. All the while, everyday Kiwis who just want to get on with making tomorrow better than today for themselves and their families are left bemused, picking up the tab.
+
+_**A Healthy Economy**_
+
+Many New Zealanders know that there is something deeply unhealthy about our economy. They work longer and harder than ever, but never seem to get ahead. Unless, that is, they have surfed the property wave.
+
+The next Government will need to deliver a healthier economy. It will need to answer the question, why are New Zealanders constantly working harder for less? Why does a comfortable life seem so difficult to achieve?
+
+Under Labour, the size of Government, and the cost it puts onto everyday people has erupted. Take the size of the public service. This doesn’t include nurses, doctors, teachers or police.
+
+The number of full-time staff rose by 13,845 from 2017 to 2021. Labour inherited a public sector of 47,252 full time equivalents, now it has 61,097. Their average salary has risen from $75,400 to $87,600. The total cost of public servant salaries - remember this doesn’t include doctors and nurses, or teachers or police or midwives - has increased by fifty per cent, from $3.56 billion to $5.35 billion under Labour.
+
+Take just one department, the Ministry of Education. There are about 2,550 schools in New Zealand, and Labour inherited 2,632 full-time equivalents at the MoE. They earned an average of $82,600 when the top of the pay scale for a senior teacher was $78,000.
+
+Today there are 3,900 full-time equivalents at the Ministry of Education. They earn an average salary of $93,900. Total spending on salaries at the Ministry has gone from $217 million to $366 million in four years.
+
+This spending could be worth it if the trend in declining test scores were to reverse, but the opposite is happening.
+
+Altogether, Labour has increased debt by 72 per cent, from $59 billion to $102 billion.
+
+Labour has increased spending by 41 per cent, from $76 billion to $108 billion.
+
+They will say that’s COVID, and they’re partly right, but they have also gone on a tax rampage.
+
+Total taxation in 2017 was $76 billion, or $17,003 per person. Today it is $98 billion, $19,141 per person. Those numbers are adjusted for inflation, in 2021 dollars.
+
+Under Labour’s tax and spend approach, the average person is paying $2,138 more tax than they were four years ago. That’s _after_ inflation, and that’s before we think about future taxes to pay for COVID borrowing.
+
+The problem is not just that departments are sucking up more and more taxpayer dollars to achieve very little. They actually do even more damage trying to keep themselves busy.
+
+Principals I talk to say the Ministry of Education just makes their job harder, insisting they follow the latest fads, modern learning environments instead of classrooms and compliance costs that make teachers wonder why they took the job.
+
+The bureaucracy becomes self-justifying and self-perpetuating. They are always finding new things to do that end up putting compliance costs onto business.
+
+The Commerce Commission is busy doing market studies that come to nothing, petrol prices are driven by the currency, the oil price, and tax instead of the importer margin.
+
+The Financial Markets Authority and the Reserve Bank did a ‘conduct and culture review’ into commercial banks and found nothing. We now know they should have been looking closer to home.
+
+The Ministry for the Environment is busy looking at farms and taking away land use rights by declaring significant natural areas, then making freshwater rules that are unworkable in large parts of the country.
+
+The Energy Efficiency and Conservation Authority is busy telling people to save power when we already know prices are at record highs.
+
+MBIE is dreaming up new regulations that make it hard for people to get credit.
+
+The Overseas Investment Office is busy making it hard to bring overseas investment into New Zealand.
+
+The Police are busy making new firearm regulations that treat licensed firearm owners like criminals while letting criminals be firearm owners.
+
+The sum total is that people who try to make a difference in their own lives face an avalanche of regulation and compliance costs.
+
+Landlords know it’s got harder to offer someone a place to live. Farmers know it’s got harder to grow food and feed the world. Bankers know it’s got harder to take deposits and give credit. Small business owners know it’s got harder to employ people and serve their customers.
+
+The reason our economy is unhealthy is that Government is ravaging it at every turn. We will never get wealthier if we don’t refocus and resize it.
+
+_**Zero-basing Government**_
+
+Another cycle of National holding the line, so Labour can pick up right where it left off last time, just won’t do.
+
+We need to stop assuming government departments and activities should continue because they always have. It’s easy to think of New Zealand companies that no longer exist. Anyone shopped at Warnocks or Deka lately? Read the _Auckland Star_? Got a loan from South Canterbury Finance? Had Mainzeal put anything up for you? Anyone here had a night in thanks to Video Ezy this decade?
+
+For a variety of reasons those national brands along with a lot of other local businesses are gone. Basically, if they don’t deliver better than anyone else could, they go. But when was the last time you heard of a government department being surplus to requirement and closed down?
+
+How many zombie departments and zombie bureaucrats does this country have? People who just carry on collecting a pay cheque for their own purposes instead of any public purpose. Why do we put up with the idea that government can get bigger, but it can never get smaller?
+
+How is it possible that the Ministry of Education has gotten BIGGER, while its achievements shrink with every generation?
+
+ACT says we need to zero base government. By that I mean going back to zero and asking ourselves, if the departments and bureaucracies we have now didn’t exist, would we establish them today?
+
+We would ask every department to answer the simple question; if you didn’t exist, who would notice and why?
+
+The justifications will have to fit with a robust view of what government can, and can’t, do.
+
+*   Can the private sector provide this service?
+*   Is there a genuine conflict between citizens’ interests that cannot be resolved without government intervention?
+*   What are the costs and benefits of this activity, and do the benefits outweigh the costs?
+
+I would be amazed if we couldn’t get the size of government back to where it was in 2017 by eliminating activities that don’t fit with these simple questions.
+
+I suspect whole departments would go.
+
+_**The Kiwi Identity**_
+
+At the centre of nearly every Labour policy, from the school curriculum to the management of three waters infrastructure is an obsession. The Labour Party is obsessed with the Partnership State, putting the Treaty at the heart of everything.
+
+Interestingly, the Treaty is not at the heart of the Labour Party. Its 123-page constitution mentions the Treaty only three times, and in passing. There is no co-governance in the Labour Party; its first principle is that ‘All political authority comes from the people by democratic means, including universal suffrage, regular and free elections with a secret ballot.
+
+Why might that be? Because the idea of co-governance is incompatible with democracy. Democracy means one person, one vote. It’s the basis of New Zealand’s one globally significant political achievement, realising the idea that every adult New Zealander should have the vote.
+
+The opposite of that principle is being rolled out in healthcare, with two systems. It is being rolled out in infrastructure, with co-governance of Three Waters. It is being put into resource management law. The three bills replacing the Resource Management Act will be filled with co-governance provisions. The history curriculum is being designed to tell the next generation that everything in New Zealand is about colonisation and most of the students are guilty before they open their textbook.
+
+People came from England to escape class. From India to escape caste. From China to escape the one-party state where party members get special rights. From South Africa to escape apartheid. If you were to sum up New Zealand’s history, it is people dreaming of an equal chance.
+
+_We have moved towards the light of liberty by removing distinctions in law that once treated people differently depending on their religious conviction, their gender, or their race, and most recently \[parliament\] decided to remove gender from the marriage laws. Many countries have never achieved that, but it is extraordinary that as if engaged in some form of historical shuttle run, we who were first to touch the cone are now rushing back to create new distinctions in law. I refer to those who claim that the only way to achieve a material equality between the Māori side and the British side of my ancestry is to create more legal inequality. No doubt they have noble intentions, but public policy should be measured only by results._
+
+Now I realise people might be skeptical about a party leader giving a speech on nationhood at this point in the political cycle. That last paragraph is lifted word-for-word from my Maiden Statement to Parliament in 2014.
+
+Here is another passage from my 2017 book _Own Your Future:_
+
+_In the Auckland Town Hall, 456 people from 58 different countries take an oath and accept New Zealand citizenship. You can’t avoid feeling emotional as these 456 souls proudly throw their lot in with New Zealand. Many of them are tearful as they get something most of us reading this were born with._
+
+_A great showman, if nothing else, Mayor Len Brown stops \[the\] ceremony for a new citizen whose birthday is that day. He leads the crowd in an impromptu singing of Happy Birthday, the old Town Hall has a carnival atmosphere. At the end of the ceremony the MC asks people from each country to make some noise. Huge cheers for South Africa, the United Kingdom, and China. Everyone gets into it with an Estonian couple, a family from France, and a guy from Namibia doing their best. Then it comes to Australia, and there’s a low nervous murmur from the crowd before the whole hall erupts into applause. In a split second these new New Zealanders show they understand that the Aussies are the butt of our jokes and our best friends, too._
+
+_That’s New Zealand at its best. Four hundred and fifty-six people from 58 countries uniting as true Kiwis. The idea that one group of people should be Tangata Whenua, elevated above all others, seems alien in this environment._
+
+Labour forgets that New Zealand is not just Māori and Pakeha. There are now as many Asians as Māori and half as many Pacific Islanders calling New Zealand home. We need to reinvent the Kiwi identity as an outward looking, multi-ethnic nation state committed to liberal democracy above all else.
+
+No society where people have different political rights based on birth has ever succeeded. Actually, all the good political movements of the past 400 years have been about equality. This pervasive drift to division has to stop.
+
+That involves a blunt reality. Nobody is born special in New Zealand. There cannot be two types of people, Tangata Whenua, here by right, and Tangata Tiriti, here by the grace of the Treaty. All people born in this country, and who immigrate here, have a right to one five millionth of the opportunity it has to offer.
+
+The next Government will not be able to simply stop doing new things that divide New Zealand. We will have to actively push back against the divisive idea that there are two kinds of New Zealanders.
+
+We will need to remove the constant references to the Treaty from the law and replace it with a commitment to liberal democracy. One person, one vote, and equality for all in a multi-ethnic nation state.
+
+It means removing co-governance structures from healthcare, from resource management, infrastructure, and education. It means going through the statute books and removing the distinctions in law that hold my Māori ancestors as legally different from my European ones.
+
+It doesn’t mean that there cannot be devolution of services. Charter schools were a shining example of devolution. There is no reason that a school such as Te Kopuku High in Hamilton cannot thrive, but on the same basis that any other group of New Zealanders might choose their own style of education, like Pacific Advance Senior School, just up the road.
+
+It doesn’t mean that we are not deeply concerned about making sure that opportunity truly is equal, but Māori do not have any unique challenges, just bigger versions of what everyone faces. We need to make housing more accessible. We need to reduce recidivism in the justice system with better prison rehabilitation. We need to close the yawning gap in University Entrance between decile one schools and decile ten schools, and all those in between.
+
+The difference is that we are committed to uniting rather than dividing New Zealand.
+
+We should be proud of our history, even as we learn from it. Our laws and traditions, based upon justice, individual freedom and equal opportunity are the best way to ensure everyone gets the same chances. This isn’t an either/or choice with our Māori - and other - heritage. We should celebrate them ALL.
+
+_**Healthy, thriving communities**_
+
+New Zealand is a small, intimate country, but it feels like we are coming apart.
+
+I can’t put it better than what I heard a year ago from someone just home from OE. ‘This is supposed to be a time of enlightenment, but you have to walk on eggshells with everything you say.’
+
+People need to communicate to be human. Societies need to discuss their differences to move past them. Labour’s straitjacket of conformity is the biggest threat to the long-term health of our communities. Its hate speech laws are the legislative conclusion of a culture that suppresses the human spirit.
+
+But words are not all that’s in danger. Women in our largest cities do not feel safe. This week I spoke to a businesswoman visiting Auckland who stayed in the Epsom Electorate instead of Auckland Central. It’s not just because we have a better local MP. She didn’t think it was safe over there, and if you’ve been to Queen Street lately you’ll probably agree with her.
+
+What I didn’t tell her is that in the Epsom Electorate we’ve had a dairy ram raided almost every fortnight for the last three months. The police, busy manning MIQ and internal borders, cannot keep up. I asked one dairy owner, what happened to your arm?
+
+She held up her cast and said, I was fighting a robber. When you consider she and her husband live upstairs from their store, you start to understand how much fear is affecting every day New Zealanders.
+
+Labour’s soft on crime approach has seen gang numbers become out of control and more Kiwis are becoming victims of crime. The problem starts at the top. The Prime Minister said nobody was accountable for March 15. She sacked her health minister, not because he broke lockdown rules cycling in Dunedin when he should have been in the Beehive, but because he upset old Bloomy.
+
+Now Labour’s big idea in crime is to cancel three strikes. Their own analysis says it will put 95 more recidivist violent and sexual offenders on the streets by 2025.
+
+It’s not in this Government’s DNA to say, actually, that behaviour is not acceptable. Our values are personal freedom and personal responsibility.
+
+ACT would put gangs on good behaviour contracts, declare open season on their assets if they deal drugs with illegal guns, and reorient the whole corrections system towards rehabilitation before people get out.
+
+We have inter-generational welfare that is encouraged by this Government. They have gone low on work obligations, and high on benefit numbers. Only Labour could close the borders and achieve rising benefit numbers in the middle of a chronic labour shortage while fruit rots on the ground.
+
+ACT would put mutual obligation at the heart of welfare and use electronic income management and counselling to help people fulfil it. If you received taxpayer dollars you should want to get a job and pay it back.
+
+ACT would free your kids education from the bureaucracy and put it in the hands of the community. Bringing back charter schools is one thing, but we would give every student a Student Education Account, letting them choose the school of their choice whether their parents were rich or poor.
+
+Truancy is at record highs and even when kids do go to school, the quality of education is slipping further behind with each passing year.
+
+But what about those in real need? Kiwis with serious diseases and illnesses struggle to get the same access to medicines as those overseas and have long waits for surgeries.
+
+If it wasn’t for Brooke van Velden we wouldn’t be having a PHARMC review, and she’s the one making sure they won’t get away with a phoney one that doesn’t even consider funding.
+
+ACT believes that healthy, thriving communities start with good values, and this year we’ll be campaigning for thriving healthy communities based on the values of personal freedom and personal responsibility.
+
+_**Conclusion**_
+
+The Government took a huge political dividend for quarantining an island. Unfortunately for New Zealanders, that was their only trick.
+
+On the more challenging task of actually managing a pandemic, Labour has returned to form. It has implemented impractical and ideological policies that achieve the opposite of what it intended.
+
+Added to the mix is an obsession with putting the Treaty at the heart of everything, even though the Treaty is not at the heart of the Labour Party.
+
+The growth of government has sucked up resources and left everyday New Zealanders feeling that the economy does not work for them, while those who try get beaten down.
+
+While the challenges of the pandemic have been, and remain, impossibly hard, they also present an opportunity.
+
+ACT is campaigning for a healthier economy where people who try are not constantly beaten down by a self-serving bureaucracy.
+
+ACT is campaigning this year for New Zealand to be a modern multi-ethnic society where any two children are born with the same political rights, and the same economic opportunity.
+
+ACT is campaigning for healthy and thriving communities, and we start with the value of personal responsibility.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

@@ -1,0 +1,148 @@
+---
+slug: negotiations-underway-for-pay-claim
+title: "Negotiations underway for pay claim"
+date: 2007-08-22
+source-url: https://www.scoop.co.nz/stories/ED0708/S00062/negotiations-underway-for-pay-claim.htm
+author: nzei
+---
+Negotiations underway for pay claim
+===================================
+
+**Wednesday, 22 August 2007, 3:27 pm**  
+**Press Release: [NZEI](https://info.scoop.co.nz/NZEI)**
+
+Negotiations underway for pay claim for primary school principals.
+
+What are the leaders in a knowledge economy worth? In the run-up to principals’ pay negotiations next week, NZEI Te Riu Roa President and primary school principal Irene Cooper argues that recruiting and retaining school leaders is an essential pre-requisite for a quality public education system for New Zealand's children and future citizens.
+
+We all believe in quality education: it’s like apple pie. Yet we have a real problem in this country attracting and retaining the primary school leadership that inspires and oversees a quality education for our children. Recent research by NZEI Te Riu Roa, the union representing primary principals, shows that 39 percent of the 90 schools advertising for a principal in the Education Gazette over the past six months have had to do so more than once. Some small rural schools were advertising more than four times.
+
+Being a principal can be wonderful, challenging, exciting, isolating and demanding - but never boring. It requires stamina, commitment and the ability to put in long hours on a huge diversity of tasks while also focusing with your leadership team on the central purpose of student learning. While principals report great satisfaction with their job, they also find the multi-tasking nature of the job highly stressful. Ministry initiatives and paperwork (NZ principals an administrative workload 49 percent heavier than colleagues in other OECD countries), frustration at not having enough time to provide leadership on the “core business” of teaching and learning, inadequate school operations grant funding and long work hours (90 percent of principals work more than 50 hours a week on average; only 2 percent worked less than 45 hours a week, according to a 2005 survey) all take their toll.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Perhaps unsurprisingly, only 14 percent of teachers aspire to be principals, and nearly a third of principals are within ten years of retirement. If New Zealand schools cannot attract and recruit good people to be school leaders, eventually students’ learning will suffer, along with our internationally respected schooling system.
+
+A fundamental way to address the question of attracting and retaining principals is through better pay. NZEI begins negotiations with the Ministry of Education over a primary principals' claim for a pay increase of between 5% and 18%, depending on the size of their school, on Monday (August 27th). The total cost of the pay claim is likely to be around $35 million: a significant cost, because the problem we face with the recruitment and retention of principals is a substantial one.
+
+The increase principals are seeking would also reinstate a sensible margin between the base salary of a small school principal and the top rate of a classroom teacher. Without that margin, there is little incentive for someone to take on the job of a teaching principal, where management of staff, school administration, compliance issues and managing relationships with a Board come on top of hours in the classroom.
+
+NZEI also wants to see “growing leadership” as a deliberate strategy in education. With the Ministry of Education and the School Trustees Association, we have created a new career pathway model leading to principalship. It now requires appropriate resourcing, something we are negotiating through the current primary teacher collective agreement negotiations.
+
+Principals are united in their concern about workload and stress arising from the 24 hour a day nature of the role and the diversity of tasks and skills the role requires. The concern for many current principals is to provide the conditions and support that help make the job “do-able”.
+
+Sustaining principals’ energies and supporting their professional learning is another critical factor if we are to retain principals and make their role more attractive for future recruitment. Support for on-going learning is central to the principals' claim. It includes a call for 200 sabbatical leave positions of 10 weeks durations, up from a current 40.
+
+An abundance of research shows that investing in school leadership is fundamental to ensuring we maintain and enhance quality public education in the 21st century. As with any human endeavour, the quality of leadership is a significant factor in creating good environments for children's learning. We need to ensure we have the incentives and support in place to get that leadership. Realistic pay and making a job “do-able” are fundamental incentives, and ones the NZEI believes the community supports principals pursuing.
+
+  
+\[Note: Two diaries follow: please feel free to use either or get a Principal from your local Primary to provide you with details.\]
+
+A day in the life of a Primary School Principal.
+
+7:30 am Arrive at school and prepare for a parent meeting. Edit “Individual Education Plan” written the previous day and photocopy sets of notes for all participating.
+
+8am Lead meeting with parents, Group Special Education psychologist, health worker and several school staff. Mihimihi and karakia, discuss student’s progress, needs and plans for the next six weeks. Plan a review date. Karakia.
+
+9am Write birthday cards for the week including the new entrants.
+
+9:30am Meet parents of new family to the area who are on a school visit with children enrolling next week. Show them round the school so they can understand how a full primary school works. Visit the Technology room, Information Technology suite, French and drama rooms and the library as well as a selection of classrooms from Year 1-8.
+
+10.00am Meet with architect to approve the plans for new swimming pool sheds and sign the contract.
+
+10:15am Meet with the caretaker to go over quotes and prioritise for property developments in the next year and make notes for a report to the board.
+
+10:30am Morning tea - informal chat with the public health nurse over coffee, compliment staff on children’s use of laptops in class programme during staff forum and remind staff to bring laptops to staff meeting.
+
+11:00am Visit classrooms to deliver birthday cards and talk with children.
+
+12:00pm Prepare agenda and monthly report for Board of Trustees meeting, including checking budgets and staffing report for BoT. Include curriculum, staffing, property, finance, health & safety, community sections.
+
+12:30pm Lunch meeting with two deputies to discuss assessment programme for the term.
+
+1pm Duty in the playground.
+
+1:30 pm Give some release time to the new entrant teacher by taking her class. Take guided reading and a game and read my favourite book, “Kiss, Kiss, Yuck Yuck” to the class which includes a boy who started school yesterday. Children excited that the “Boss” is teaching them!
+
+3:00pm Greet new entrant parents, catch up with secretary about the financial report to the board, grab a coffee.
+
+3:15pm Participate in staff meeting about using “Blogs” and “Wikis” and other social software for classroom computers and laptops. Staff bring laptops and log onto the wireless server while we learn together. Support the two lead teachers to assist staff who need it.
+
+4.30pm Scan the 45 incoming emails from the day and read the 10 most urgent, reply to three of them.
+
+5:00pm Write the principal’s comment in the school newsletter and an article for the monthly Community News about the school.
+
+5:30pm Write up the report from this morning’s parent meeting, and write a note to the secretary so she can photocopy and mail them. Email staff and GSE the notes. Catch up on phone messages from the day. Tidy desk and sort items needed for tomorrow. Pack up the mail and the cheques for home.
+
+6 pm Go home for dinner.
+
+7:00 pm Go for a walk (if there’s no evening meeting and I have time).
+
+7:45 pm Sign invoices and cheques for the month, read school mail and respond as necessary, write a priority list for the next day. Prepare for the 7:30 am Leader’s Meeting, read agenda and write report for the Principal’s Association exec meeting, write up notes from the lunch assessment meeting and email staff.
+
+9:30 Watch a programme on TV or read if not too tired!
+
+This is based on today’s diary. I fitted in much more such as giving children who had done special work Principal’s awards, answering the phone while the secretary was out of the office, talking to visitors who popped into the school, chatting with the painter and parents calling in to the office, organising a reliever for a last minute need, mentally reprioritising my day, multi tasking!
+
+  
+A day in the life of an Intermediate School Principal
+
+  
+8.00 am. Arrive at school.Open emails. Meet with deputy principal and associate meeting re matters for the staff meeting. Follow-up and deal with emergency from Friday. Prepare admin plan and strategy.
+
+8.20 am Full staff meeting to discuss day to day matters and the week’s activities.
+
+8.30 am. Payroll have not paid a teacher. Determine why and correct situation.
+
+9.00 am Meet parent of a child who has had issues with out of school bullying. Discussed a strategy. Agreement formed. Took parent home as he and daughter were saturated. Found a pair of track pants for the student.
+
+9.15 am Check emails. Priority check: download those to action today and those later this week.
+
+10.00am Sorted the matter pertaining to bullying arising from last week. Meet with each girl and discussed solutions. Put solution. Agreement by a hand shake.
+
+10.10 am Continued a report to NZEI about Principal matters for a meeting coming up in Wellington.
+
+10.25 am Morning tea.
+
+10.35 am Interrupted by technician here to fix server and check computers. Took classes from some teachers who needed to be released from their classrooms to give passwords and information about malfunctions to technician.
+
+12.00 pm Back at my office to pick up admin matters for the day.
+
+12.30 pm Meeting with RTLB (resource teacher: learning and behaviour) re an application for enrolment. Group Special Education involved. Lunch...on the run.
+
+12.50 pm Had to look after two classess as teachers tied up in a meeting during the short lunch time.
+
+2.00 pm Back at the office with a student who has been sent out of tech class because of his behaviour.
+
+2.20pm Photograph dodecahedrons being made by room 14. Positive project but costly in terms of materials used. Teacher bought most of this.
+
+2.30 School finishes early. Back to admin. Removed a printer from a cluster as it is not working. Older type Epson Colour 800. Attempt to repair it. Too costly to replace? Finish a payroll matter and NZEI form. Prepare for interview with Daily News reporter.
+
+3pm Senior staff meeting. Discussed staff meeting procedure. Reviewed the progress on our 2007 School Goals. Progressing well. Planning procedure reviewed. AsTTle (assessment process) progress discussed. Need for overview of results at next week’s staff meeting.
+
+3.30pm Interview with Education reporter from local paper on how we spent funds from a grant.
+
+4.00 pm Teacher comes in to discuss the operations of making a movie. Showed her the laptop, camera and the process. Demonstrated this as well as reviewed some movies I had made.
+
+4.30pm. Due at a meeting at the High school on bullying. Did not make this meeting as too many other matters. Three other staff attended.
+
+5.00pm Informed the the school’s kaiawhina will be away at tangi for three days. Caretaker away for most of the day. Doctor’s appointment.  
+Senior teacher also has a tangi to go to tomorrow or Wednesday or both.
+
+6.30pm Opti-MINDS parent meeting re Australian trip in November.
+
+8.00 pm Home for tea
+
+8-11pm Draft newsletter for this week. Draft letter of introduction for a grant application. Run off copy of photo for funding application. Article for PKW AGM report. Catch up on reading, emails and watch the late news. Relax!
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)
+
+Find more from [NZEI](https://info.scoop.co.nz/NZEI) on InfoPages.

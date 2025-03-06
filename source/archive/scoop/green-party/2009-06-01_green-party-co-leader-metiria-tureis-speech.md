@@ -1,0 +1,182 @@
+---
+slug: green-party-co-leader-metiria-tureis-speech
+title: "Green Party Co-Leader Metiria Turei's Speech"
+date: 2009-06-01
+source-url: https://www.scoop.co.nz/stories/PA0906/S00006/green-party-co-leader-metiria-tureis-speech.htm
+author: green-party
+---
+Green Party Co-Leader Metiria Turei's Speech
+============================================
+
+**Monday, 1 June 2009, 3:30 pm**  
+**Press Release: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+**Green Party Co-Leader Metiria Turei's Speech to the Party Annual Conference 2009**
+
+June 1 2009  
+Full Text
+
+There is much to celebrate today.  
+We have elected a new co-leader and should celebrate is that it was an election, an act of democracy.
+
+The Green Party is carving a distinctive path through New Zealand's political landscape and our commitment to democracy is part of what makes us distinct.
+
+In other parties a handful of MPs or some inner circle appoints a leader. We make the decision collectively.  
+We commit to honest politics and open government and we stand proudly apart from other parties in New Zealand.
+
+That commitment to honest politics is particularly important today. We all know of the funding scandal in England, MP's claiming money for mortagages that were already paid, the cleaning of ones moat (only in England) and barbecues sets..
+
+Fortunately our system does not work like that. New Zealand has a more robust system for MP's claims. New Zealand MPs are accessible and under scrutiny by the public.
+
+But we can improve our system. The Green Party has led the debate on open government and public participation for many years.  
+We are leading again to meet the public unease over the funding to MPs for parliamentary work.
+
+I am very pleased to tell you that our Green Party caucus has committed to making our MPs spending public.
+
+Following the example of Russel Norman as our candidate in Mt Albert, this week we will release the costs of all MPs air travel, taxi use, rental car hire, Wellington accommodation and out of Wellington hotel costs for the period 1 January to 30 April. Thereafter we will release this information annually.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+We are the first political party to make this commitment to transparency and we hope that the others will follow suit. It is traditionally the role of the Green Party to keep the old grey Parties honest and we will do so again.
+
+There is significant public discussion about how funding to MPs and political parties is managed.
+
+There are complicated issues around political campaigns and party funding for example.
+
+What is not complicated is the principle that the public has the right to know and to make decisions about their own democracy.  
+That's why we have fought for a citizen's assembly on electoral funding, so the public can have their say over how their democracy is funded.
+
+If our commitment to democracy gives all of us reason to celebrate. For me personally it adds to the responsibility and accountability that comes with the female co-leadership.
+
+While I bring a new face and I hope a new energy to the role, it will be energy devoted to the same cause and founded on the same values of our Party.
+
+In other parties, leadership changes can mean a change in direction as well. But in the Green Party, just as the appointment is a collective decision, our direction is also decided together.
+
+I look forward to working with and learning from Russel who has shown exceptional leadership after assuming the male co-leader's role in difficult circumstances. I look forward to forging an even stronger partnership in the coming months.
+
+I am also very glad that Jeanette's reservoir of wisdom remains with us. There will be many lessons to learn and Jeanette I will welcome your guidance in this challenge just as you've guided so many of us in the Party for so long.
+
+I want to thank Sue Bradford again. Sue is one of the most effective MP's this parliament has ever seen. And she has made a unique contribution to both our caucus and to NZ politics as a Green MP.  
+As I have campaigned with her over the last few weeks, my respect for her passion and her work has grown. She has helped to protect children from violence, and taken the heat for all of us in doing so.
+
+But that is not her only contribution to our party and I want to acknowledge the breadth of Sue's expertise on mental health, workers rights and in Green economics. For those of our members whose preference was for Sue, their work ensured we had a democratic process and I will do my best to make you proud of my leadership.
+
+I want to thank those who supported me in the campaign for the co-leadership. Like any campaign it is crucial to have a group of people around you who will provide support, criticism and advice. And I can't thank you enough for that support and advice.
+
+And of course, my family. This is not a job, it's a dedication and our family has together made this commitment to our party.  
+Every leader of course brings their own style to the task.
+
+I believe that the means is the ends. What we create is determined by how we create it. What we change is determined by the changes we make first to ourselves.
+
+We heard that philosophy from Kevin Clements last night. He challenged us to look at our own methods as agents of change and to take risks to reach out to those who challenge us, frighten us, disagree or mistrust us.  
+As he spoke I was reminded of a story that Kim Workman tells of his school in the Hutt, where the children of gang members were disruptive and mostly failing to even turn up. He along with the principal and the school board decided to be inclusive, treating the families of their students not as 'gang members who happen to be parents' but as 'parents who happen to be gang members'.
+
+They met with the parents and were told of how the parents were excluded from the school community, unsure of how to communicate with teachers and how passionate they were about their children having a decent education.
+
+This approach eventually meant the doors of the school opened to these parents who happened to be gang members and their families. Their children are now attending, now achieving. These families have an investment in the school community.
+
+We need more of these stories of engagement and connection. We hear enough of the results of exclusion and retribution. The means is the end.
+
+I came to Parliament to protect the vulnerable from the violence and degradation inflicted by the powerful. I well remember the economic disaster of the 1990's when unemployment rose and hundreds of thousands of New Zealanders lost their jobs through no fault of their own.
+
+I remember how those people were treated by the laws that cut their income, and by the policy that treated them as failures. I, like many of you, watched our families suffer from that political cruelty.
+
+As we watch our country go into this current recession, watch more and more New Zealanders losing their jobs, the Green Party vows that we will do everything, everything in our power to protect them and their whanau.
+
+It's not just our people who are vulnerable, but our environment too. One area where our environmental protection laws are weakest, and where destruction and degradation continues out of sight, is our ocean. Our ocean area is 15 times larger than our land area. Yet, there is NO environmental regulation for the ocean beyond our coastal zone, and we still have NO marine reserves in our exclusive economic zone.
+
+New Zealand's much-touted Oceans Policy has been lost at sea for a decade. The latest draft focuses more on commercial exploitation and ignores climate change.
+
+Our oceans are sick. Coral, cockles and krill struggle to create their skeletons and shells. The UN reports that 80% of the world's coral reefs may die within decades. The impact of this on marine biodiversity will be devastating. Our kaimoana, on which so many communities and jobs depend, is at serious risk.
+
+We heard on Saturday from the Otakou whänau about efforts to establish a mätaitai in Otago Harbour. We fully support the exercise of kaitiakitanga and rangatiratanga. And we continue to support pakeha tools such as marine reserves.  
+Our ocean is not "out of sight, out of mind"; it is our backyard, our pätaka kai and a marvel of nature for all New Zealanders.
+
+I work in hope that the power of community, conservationists, iwi and hapü and fishers who understand will win out against those who put short term profit first.
+
+The old economics of pillaging are over
+
+There is a growing unease about National's absence of vision, most clearly its lack of economic direction.  
+At a time of economic crisis, National promised New Zealand a 'rolling maul' of stimulus. That maul collapsed without much progress. The over hyped jobs summit achieved little because National failed to engage training or education.
+
+The National-led Government bowed to the climate-change deniers in the ACT party and it continues to dither over New Zealand's Emissions Trading Scheme, creating uncertainty for New Zealand industry and businesses.
+
+This dithering means trees remain unplanted and so the emissions reductions we need to make will simply be more expensive to implement. The longer we leave it the more expensive it gets.
+
+If National promised anything to New Zealanders, it promised tax cuts. Tax cuts that it swiftly introduced and then quickly reversed. That meager vision proved to be a mirage.
+
+This weeks Budget was notable only for one bright spot: a home insulation fund, the Green Party's home insulation fund.  
+The budget also confirmed $50 million to develop a network of cycleways in New Zealand. It was a new idea to National but it has been Green Party policy for a very long time.
+
+Green Party members can carry their heads high in any New Zealand political discussion. We are the party with a plan.  
+It is clear that the best ideas for economic recovery belong to the Green Party. We can be exceptionally proud of this.
+
+We can be proud that more New Zealanders will live in warm, healthy homes because of the Green Party, that New Zealand's energy efficiency will increase because of the Green Party, and that New Zealand's rate of asthma and bronchitis will decrease because of the Green Party.
+
+And can I pause to acknowledge Jeanette's role in making this happen. While we have all played a part in this, Jeanette has been a tireless and patient champion of this cause in Parliament. The result is the $323 million warm homes fund. Jeanette, it is a fitting finale to your time as co-leader.
+
+We also celebrate the rest of the Green Party's economic vision. We recently launched an economic stimulus package. It is a package that tackles the economic crisis and the climate crisis at the same time. It is a package that grows the right parts of the economy, moving us towards a sustainable prosperity.  
+In broad terms, the stimulus package spends $3.3billion over three years and creates more than 43,000 jobs.
+
+Importantly, the Green Party's stimulus package is costed, meaning we did the maths carefully and conservatively. Respected economic and political commentators such as Colin James and Brian Fallow have reviewed it enthusiastically.
+
+So it is another point of pride for us as a Party that our policy is more than a wish list. It is a clear plan for economic wellbeing in New Zealand, a plan grounded in reality. It is a path to prosperity for our people, as well as our water, land and wildlife.
+
+The Green Party initiatives all share certain characteristics with the home insulation fund; they create jobs, they transform our economy and they help the environment. And like the home insulation fund, we will share these ideas with other political parties.
+
+And like the home insulation fund we will celebrate each of them when the economic logic, when the pull of commonsense and common decency means they become Government policy.
+
+So what are the additional implications of well-designed economic stimulus.
+
+One of the effects of better public transport is a reduced need to import oil. Even if you look at this issue through just the narrow financial lens the effects are profound.
+
+New Zealand spends $8 billion every year importing oil. Most of that oil is used in cars and trucks. That $8billion, in turn, contributes to our current account deficit which currently stands at about 8.5% of GDP.
+
+In simple terms it means that, as a nation, we spend more money than we've got and we borrow from other countries to fill the gap. And the problem is the gap continues to grow. The last time we saved more than we spent was 1973. More motorways are part of this problem. Better buses and trains are part of the solution.
+
+The Green New Deal would also create 43,000 jobs. We have not included in our calculations the savings that come in unemployment benefits. These are calculated at nearly half a billion dollars. That is half a billion dollars that the government can spend elsewhere.
+
+How do we quantify in economic terms the social impacts of employment; what it means for the well-being of families, what it means for the dignity of working men and women?
+
+Similarly, when you make schools more energy efficient what are the impacts on learning? What are the benefits to society if we take the money saved from school power bills and spend it on teachers?
+
+These are very the questions Green politics was designed to address. Our thinking always unites the environmental and the social.  
+These are the braids of our Green river- caring for our people, our economic wellbeing and our environment - that I will focus on within the broader Parliamentary and Party flow.
+
+I began today by saying there is much to celebrate. As well as our unique Green politics, this is an opportunity to celebrate our Party's strength.
+
+We are over four thousand members strong and we are growing steadily.  
+We have nine Members of Parliament.
+
+We have a champion sprint horse in Mt Albert, galloping up from behind to seize the day. While we have gathered here in Dunedin, other Green Party members are on the ground in the electorate, knocking on doors, delivering flyers, putting up billboards.
+
+Meanwhile many of you have been part of our effort to take an economic message directly to New Zealanders. In recent weeks, Green Party members have delivered more than 300,000 copies of Green Times to households. 300,000.
+
+Our effective and consistent work this year makes the 2008 general election feel like a long time ago. But it is worth remembering the Green Party has been recognized for running an excellent campaign. When I spoke to a group of public relations professionals earlier this year, it was our campaign that was celebrated, especially our online work.
+
+We are growing, we are energetic, we are smart. This success is the fruit of our collective effort and it is a collective achievement worth celebrating.  
+From this conference you can take a sense of pride and excitement about the Party and its work back to your families and communities. I hope it will give all of us an impetus to our work, whether that is developing policy, branch organising or campaigning on Green issues.
+
+You can take home and into your communitites a message of reassurance. The Green Party has a plan for the future. We understand how to confront the formidable challenges our country and our communities face. And today we are ready to lead.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

@@ -1,0 +1,52 @@
+---
+slug: ideology-and-profits-drive-ppps-not-economics
+title: "Ideology And Profits Drive PPPs, Not Economics"
+date: 2010-04-15
+source-url: https://www.scoop.co.nz/stories/PO1004/S00143/ideology-and-profits-drive-ppps-not-economics.htm
+author: new-zealand-council-of-trade-unions
+---
+Ideology And Profits Drive PPPs, Not Economics
+==============================================
+
+**Thursday, 15 April 2010, 12:20 pm**  
+**Press Release: [Council of Trade Unions](https://info.scoop.co.nz/Council_of_Trade_Unions)**
+
+Ideology And Corporate Profits Drive PPPs, Not Economics
+
+Experience in the UK and Australia shows that Public Private Partnerships are a recipe for profiteering, higher costs to the taxpayer, and loss of control for school principals, said CTU Economist and Policy Director Bill Rosenberg today.
+
+“Even with the levels of the debt that the government carries, which are considerably lower than most other OECD countries, it would be lower cost and a better deal to stay with public provision,” said Rosenberg.
+
+“Examples from the UK are sobering. In January this year the UK’s Independent newspaper analysed 667 schools, hospitals and other public assets in similar ‘Public Finance Initiative’ schemes, and showed that they would pay 262 billion pounds over 30 years for assets with a capital value of 55 billion pounds. Another detailed analysis of six such schemes in 2008 showed that the private interests were earning astronomical returns – 17 to 23 percent rates of return. Three of the projects (hospitals and a college) could have been built for half the cost through normal government borrowing, and ‘huge savings’ could have been made on the other projects, including 11 schools.”
+
+An analysis of PPP roading projects showed the additional cost of PPP projects over public debt was up to 40 percent of the revenues for the roads.
+
+School principals have expressed their frustration at having to wrangle with building owners. They may also lose control of the use of school halls and other potentially money-making facilities. Authorities find themselves left with the bill if numbers of pupils fall or the company pulls out.
+
+“No contract can cover all contingencies,” continued Rosenberg. “Contracts become hugely complex and are a gold mine for lawyers and accountants, both in drawing up the contracts and in finding loopholes for contractors to ask for more.”
+
+“Contrary to the rhetoric, this is a recipe for increasing government debt and communities losing control of their schools and other facilities.”
+
+ENDS
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Council of Trade Unions](https://info.scoop.co.nz/Council_of_Trade_Unions) on InfoPages.

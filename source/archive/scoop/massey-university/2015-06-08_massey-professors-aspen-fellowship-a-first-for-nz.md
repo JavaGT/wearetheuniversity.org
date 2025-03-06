@@ -1,0 +1,73 @@
+---
+slug: massey-professors-aspen-fellowship-a-first-for-nz
+title: "Massey professor’s ASPEN Fellowship a first for NZ"
+date: 2015-06-08
+source-url: https://www.scoop.co.nz/stories/ED1506/S00050/massey-professors-aspen-fellowship-a-first-for-nz.htm
+author: massey-university
+---
+Massey professor’s ASPEN Fellowship a first for NZ
+==================================================
+
+**Monday, 8 June 2015, 3:35 pm**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+**Massey professor’s ASPEN Fellowship a first for NZ**
+
+A long and illustrious career investigating the complex issue of feeding people using tubes has seen Massey University’s Professor Gil Hardy elected as the first non-American Fellow of the American Society for Parenteral and Enteral Nutrition (ASPEN).
+
+Professor of Clinical Nutrition in the School of Food and Nutrition, Professor Hardy helped establish the Master of Nutrition and Dietetics at Massey University.
+
+“Being elected a Fellow is a great honour and one I wasn’t expecting,” says Professor Hardy. “They usually elect past presidents as Fellows, but when the current president announced the award and made the presentation, it was a very nice feeling. It’s good not only for me but also for Massey and the School of Nutrition in the College of Health.
+
+Founded in 1976, ASPEN is an interdisciplinary organisation whose members are involved in the provision of clinical nutrition therapies, including enteral (tube feeding directly into the intestinal tract) and parenteral (tube feeding directly into the vein). It has more than 6000 members worldwide, comprised of dietitians, nurses, pharmacists, physicans, scientists, students and other health professionals working in the field of nutrition support clinical practice, research and education.
+
+Professor Hardy says ASPEN is the largest and longest-serving organisation in this field. Over the last forty years the process of feeding by tube has changed quite a bit.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“There is a spectrum of problems with the intestine and food absorption. At the extreme end, people have no intestinal function at all, which used to result in death, until in the late 1960s when surgeons developed techiques for inserting a sterile feeding tube into the heart. In the early days, most of the emphasis was on this intravenous (by vein) feeding, otherwise known as parenteral nutrition (PN). If you go further along the spectrum where people may have some partial gut function, they can take food in a liquid form by nasogastric tube feeding into the stomach. That’s called enteral nutrition (EN).
+
+“In the early days it was thought that our gut was just a convenient tube to take food down into the stomach and then out, but increasingly it was found to be a major organ that affects our immune system. So today the motto is “if the gut works, use it” – even if only partially. It’s always been a strong recommendation for when a baby is born to get it to suckle, to stimulate the gastro-intestinal system. Even for babies fed intravenously, nurses still try to get them to attach to improve the generation of immune factors.”
+
+With the advent of multi-disciplinary medical teams in the 1990s, Professor Hardy says a wider range of health professionals became involved in nutrition support teams (NST), and this helped to raise the profile of dietitians.
+
+“Most large hospitals have a NST with either a surgeon or gastro-enterologist, a pharmacist, a dietitian and a specialist nurse. This team approach has been good for all the disciplines, and we’ve seen that reflected in the membership the professional societies, such as ASPEN and AuSPEN (the Australasian society) – with something like 75 per cent of the members being dietitians or nutritionists.”
+
+Professor Hardy is also in great demand as a speaker for other nutrition societies in Europe, South America and Asia.
+
+“An increasing area of interest is the potential for drug and nutrient interactions. People know not to eat grapefruit with particular drugs – but there are all sorts of potential interactions between many common drugs and different foods, and and that’s more acute when you’re feeding by PN or EN. However, a lot of the evidence at the moment is anecdotal, so there’s a major opportunity for more evidence-based scientific research. In ASPEN we’ve selected 10 of the most common drugs that are likely to cause some kind of interaction – and our task force is looking to see just what the evidence is, and what new clinical research is needed”.
+
+But it’s not only the research aspects that Professor Hardy enjoys. Five years ago he was instrumental in helping set up a support group called Parenteral Nutrition Down Under (PNDU). There are around 200 adults and children with intestinal failure (IF) in Australia and New Zealand, who are dependent on PN tube feeding every day at home.
+
+“There aren’t large numbers being fed this way, but it’s the extreme end of the feeding spectrum and quite often people can feel isolated when they’re told they can manage their therapy themselves at home (called HPN). There’s lots to learn; using sterile techniques to change the tube connections and minimise the risk of infection, setting up an electronic pump to infuse their feeds, usually overnight.”
+
+The organisation has produced several guide booklets, set up a Facebook page and a private internet chat forum, so that people have somebody else in a similar situation to email or phone, and talk to.
+
+“There’s lots of discussion, about national or international travel with their pumps and feeding bags, and practical problems such as pump alarms going off in the middle of the night,” he says.
+
+Professor Hardy says that being involved with PNDU is extremely rewarding. “I think that’s one of the most satisfying parts of the job – being more directly involved with “HPNers.” We’ve organised a few seminars and little social get-togethers – afternoon tea without the tea – so that patients (and their carers/families) can meet somewhere informally and share their exeriences. I think that’s what has always fascinated me – because if you’re just doing nutrition research you can sometimes forget that there’s a person at the receiving end. So it’s been great to see how people cope with IF – and I have great admiration for them.”
+
+For more information on ASPEN, visit their website: https://www.nutritioncare.org/about-aspen/
+
+  
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

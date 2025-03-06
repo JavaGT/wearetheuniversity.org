@@ -1,0 +1,83 @@
+---
+slug: national-science-challenge-tackles-childhood-obesity-learning-and-mental-health
+title: "National Science Challenge tackles childhood obesity, learning and mental health"
+date: 2016-02-19
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/national-science-challenge-childhood-obesity-learning-mental-health.html
+---
+National Science Challenge tackles childhood obesity, learning and mental health
+================================================================================
+
+19 February 2016
+
+![Science leadership team for A Better Start](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/national-science-challenge-childhood-obesity-learning-mental-health/_jcr_content/par/textimage/image.img.jpg/1455840895807.jpg "A Better Start")
+
+Science leadership team for A Better Start (from left to right) Professor Wayne Cutfield, Director; Professor Gail Gillon, Co-director; Professor Sally Merry; Professor Barry Taylor, Co-director; Professor Angus Macfarlane.
+
+A new National Science Challenge – _A Better Start: E Tipu e Rea_ – aims to reduce obesity and improve learning skills and mental health in New Zealand children.
+
+The Challenge, launched today by Science and Innovation Minister Steven Joyce, is one of eleven National Science Challenges designed to find solutions to large, complex issues facing New Zealanders.
+
+Challenge Director Professor Wayne Cutfield of the Liggins Institute at the University of Auckland says a healthy weight, good learning skills and sound mental health are key to a child’s health and success.
+
+He says _A Better Start’s_ mission is to find better ways to predict, prevent and treat obesity, learning and mental health problems in children and teenagers.
+
+Professor Cutfield says _A Better Start’s_ research strategy is new for New Zealand because it will target the children most in need as early as possible in life, engage their families and communities, and draw together experts from different disciplines and institutions. The science leadership team will also take a holistic view of obesity, learning and mental health, which are usually studied in isolation.
+
+He says the Challenge will use state-of-the-art big data tools to understand problems, identify risk factors, test solutions and quantify their costs and benefits over a child’s lifetime. It will also work with international researchers on data from studies on large groups of children around the world.
+
+“Our children are our future and our job is to make science work for them. Some of the biggest difficulties they can face are with obesity, learning and mental health. There is a big overlap among those at risk in each area, and each can influence the others. We’re aiming for practical, evidence-based solutions that make a measurable difference for our tamariki,” Professor Cutfield says.
+
+“Problems that begin in childhood often get worse in adolescence and get ingrained in adulthood. The costs to the child, their community and the nation only multiply as life goes on. The earlier we tackle these problems, the greater the benefit to the child throughout his or her life, and to the country.”
+
+Professor Cutfield says one in three of all New Zealand children is overweight or obese, one in three children is not meeting the National Standard for reading in their first year at school, and one in three young people will have had a significant mental health problem by the age of 18.
+
+“We will target children as early in life as possible, when we can make the most difference, and focus on those most in need, to reduce the inequities for Māori, Pacific and poorer children. Māori and Pacific communities will help us design, execute and interpret our research in a way that’s culturally right for them.
+
+“Scientists specialising in paediatrics, education, psychiatry and psychology will collaborate with health and education experts, epidemiologists, big data analysts, software designers and economists. We will have over 75 researchers from institutions across New Zealand. Our team will include Māori and Pacific researchers. Our science leaders will collaborate with other leading international experts.”
+
+Challenge Co-director Professor Barry Taylor of the University of Otago says the big data team will offer scientists, policy makers and community groups a new depth of information and understanding.  
+
+“We will be analysing the links between anonymous health and sociodemographic data sets for new insights. The tools we are developing will also tell us when our solutions are working.”
+
+Challenge Co-director Professor Gail Gillon of the University of Canterbury says Māori scientists and communities are integral to the research strategy.
+
+“Our research will be designed in line with kaupapa Māori principles, to braid together indigenous and Western scientific understandings and processes.”
+
+### Research Outline – A Better Start: E Tipu e Rea
+
+**Obesity** research goals:
+
+*   to develop tools to predict which infants are at risk of becoming obese by the age of five – using sociodemographic and research data, body measurements and biological samples
+*   to develop strategies to prevent or treat obesity in children and teenagers at risk.
+
+Research will include investigating environmental factors such as food, activity, sleep and gut microbiome, as well as genetic inheritance and epigenetics – the way the environment can change the behaviour of a child’s genes.
+
+**Learning** research goals:
+
+*   to develop strategies to help children at risk of literacy problems succeed from their first year at school  – using the best techniques and services in the education and health sectors
+*   to support children who are emerging as bilingual in English and either Te Reo Māori or Samoan, as they move from preschool to primary school.
+
+Research will include investigating the best ways to teach vocabulary and phonological awareness – the ability to read a word by sounding out the letters in it, and the best ways to integrate health and education services to support children and their families.
+
+**Mental** health research goals:
+
+*   to develop next-generation online self-help tools for teenagers and those around them to help detect common mental health problems
+*   to use these tools to offer help to at-risk teenagers, first with an evidence-based online treatment programme, and then, if needed, with access to mental health services.
+
+Research will include designing the next generation of behavioural intervention technologies – developing rigorous tests of their effectiveness, and presenting them in an engaging way.
+
+Learning and mental health researchers will also explore new methods of detecting and treating young children with developmental and behavioural disorders. 
+
+### A Better Start: E Tipu e Rea’s science leadership team
+
+*   Professor Wayne Cutfield – Obesity Leader, Director – Liggins Institute, University of Auckland
+*   Professor Gail Gillon (Ngāi Tahu) – Literacy Leader, Co-director – University of Canterbury
+*   Professor Sally Merry – Youth Mental Health Leader – University of Auckland
+*   Professor Barry Taylor – Big Data Leader, Co-director – University of Otago
+*   Professor Angus Macfarlane (Te Arawa) – Māori Research Leader, University of Canterbury.
+
+_A Better Start’s_ Māori name, E Tipu e Rea, means “grow and branch forth”. It is the opening phrase of a passage written in a schoolgirl’s autograph book in 1949 by Māori leader and scholar Sir Āpirana Turupa Ngata, of Ngāti Porou, to express his vision for Māori youth.
+
+Website: [A Better Start: E Tipu e Rea](http://www.abetterstart.nz/en.html)
+
+For media enquiries, please contact Geraldine Eller - [g.eller@auckland.ac.nz](mailto:g.eller@auckland.ac.nz)

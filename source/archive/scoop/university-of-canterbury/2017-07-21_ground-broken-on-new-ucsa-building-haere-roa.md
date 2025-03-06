@@ -1,0 +1,70 @@
+---
+slug: ground-broken-on-new-ucsa-building-haere-roa
+title: "Ground broken on new UCSA building Haere-roa"
+date: 2017-07-21
+source-url: https://www.scoop.co.nz/stories/ED1707/S00074/ground-broken-on-new-ucsa-building-haere-roa.htm
+author: university-of-canterbury
+---
+Ground broken on new UCSA building Haere-roa
+============================================
+
+**Friday, 21 July 2017, 6:32 pm**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+The press release that follows is released by the University of Canterbury on behalf of the University of Canterbury Students’ Association (UCSA):
+
+A ground-breaking ceremony was held today to celebrate the new University of Canterbury Students’ Association (UCSA) building, with Leighs Construction to begin work before the end of the month.
+
+The UCSA has been without a building since the February 2011 earthquake. The new building will open in 2019 and include student welfare and advocacy spaces, as well as student club, meeting, hospitality and event spaces.
+
+UCSA President James Addington says that over the last 120 years, the UCSA has been a voice for University of Canterbury (UC) students and an integral part of the student experience.
+
+“The UCSA has over 140 staff and provides advocacy and support services, clubs and societies, and entertainment to ensure UC students have the best experience possible. We’re here for students and we’ve always been about student success, support and belonging.
+
+“At the centre of the student experience will be the new UCSA building. It’s an environment, a homebase on campus that is especially designed for students and it’s where most of this activity will happen,” Mr Addington says.
+
+UC Chancellor Dr John Wood says the new UCSA building will be a vibrant hub on campus for student life and activities.
+
+“The new building will serve UC students long into the future. Their experience at UC will be enriched by a place which complements their study with social, recreational and community engagement opportunities. These experiences help to prepare our graduates to go on and succeed in their chosen fields,” Dr Wood says.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+A key feature of the building will be the new Ngaio Marsh Theatre and Performance Centre, a flexible space that will be able to host 300 people seated or 1,000 people standing. As well as being used for student performances and concerts, it will be a central space the UCSA’s 130 affiliated clubs and societies can use for meetings and events.
+
+Mr Addington says students are keen to share the facility with the wider community.
+
+“The Ngaio Marsh theatre has a rich history. The public will again be able to enjoy watching shows and going to concerts when it opens. We also aim to make this facility available for the community to use, perhaps for a production or event, when students are not on campus,” Mr Addington says.
+
+At today’s ceremony Mr Addington also announced the new UCSA building will be named Haere-roa. The name has been gifted to the UCSA by mana whenua, Ngāi Tūāhuriri and is linked to the Ōtākaro Avon River, which flows past the UCSA site. The name also strongly aligns with UC’s campus-wide cultural narrative.  
+“The name Haere-roa translates to the longest stream or the long wanderer. It recognises the UCSA as a space that hosts and welcomes people. For many UC students the UCSA will be an important part of their journey, it’s a place where they will receive support, access resources, learn new things and meet new people, preparing them for the next part of their journey,” Mr Addington says.
+
+Both the UCSA and UC have contributed funds towards the new building, but the UCSA needs to raise a further $5 million to achieve its goal of majority ownership of the building.
+
+“We are currently running a fundraising campaign, which is being led by UC alumnus and former UCSA President David Caygill CNZM, and his fundraising committee. This is important for the UCSA as the building has always been part of its identity as a student-led organisation.
+
+“The campaign has got off to a great start. We already have two corporate sponsors on board, Hellers and BECA, and other sponsorship opportunities are available. We’re incredibly grateful for the considerable support we’ve already received from businesses, alumni and friends of the UCSA and UC, but there’s still a way to go before we reach our target,” Mr Addington says.
+
+When completed, the new building will mark the start of a new chapter for the UCSA.
+
+“The new UCSA building will give future generations of UC students the opportunities and experiences that past students have enjoyed. It will be a place where long-held traditions continue and life-long memories are made,” Mr Addington says.  
+Ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

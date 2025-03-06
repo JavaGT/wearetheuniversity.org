@@ -1,0 +1,103 @@
+---
+slug: best-and-brightest-awarded-government-prizes
+title: "Best and brightest awarded Government prizes"
+date: 2010-11-26
+source-url: https://www.scoop.co.nz/stories/ED1011/S00108/best-and-brightest-awarded-government-prizes.htm
+author: victoria-university-of-wellington
+---
+Best and brightest awarded Government prizes
+============================================
+
+**Friday, 26 November 2010, 12:24 pm**  
+**Press Release: [Victoria University of Wellington](https://info.scoop.co.nz/Victoria_University_of_Wellington)**
+
+**MEDIA RELEASE**
+
+Embargoed until 7pm, 25 November 2010
+
+  
+**Best and brightest awarded Government prizes**
+
+Deputy Prime Minister, Hon Bill English, will present prizes to the top scholars of Victoria University's School of Government programmes at the School’s eighth anniversary celebrations on 25 November.
+
+The celebrations will be held at the Pipitea Campus, Rutherford House Lecture Theatre One, from 6pm.
+
+Pro Vice-Chancellor and Dean, School of Law and Pro Vice-Chancellor Government Relations Tony Smith says, “We are proud to reward the excellence of our top students, many of whom are already making a significant contribution to the public sector.”
+
+Mr English will present three Prime Minister's Prizes for the students with the highest grade point average in their overall Master’s Programme. All three are ‘straight A’ students. In addition, six other prizes will be awarded.
+
+Details of the winners:
+
+**The Prime Minister’s prize in Public Policy – Melf-Jakob Kuhl**  
+Melf-Jakob Kuhl is currently working in Manila, Philippines advising local government in their decentralisation and anti-corruption efforts with the Decentralization Programme of the German Development Cooperation (GTZ).
+
+Mr Kuhl holds a Bachelor of Arts from the Martin Luther University in Halle and; and Master of Laws, or LLM, (named best Victoria University LLM 2009) and a Master’s in Public Policy degree from Victoria University. His professional experience includes analysis for New Zealand Agency for International Development (NZAID) and the New Zealand Council for International Development.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+**The Prime Minister’s Prize in Public Management –** **James Bess**  
+Dr James Bess has been at the Ministry of Fisheries since 2001. He is currently the Spatial Allocations Manager responsible for advising the Minister of Fisheries and Aquaculture on proposals to establish customary fishing areas and no-take marine reserves.
+
+Dr Bess has a PhD in strategic management applied to the New Zealand seafood industry and individual seafood firms. Prior to immigrating to New Zealand, he commercially fished in Alaska and completed a BA degree in Philosophy and a MBA degree.
+
+**The Prime Minister’s Prize in Strategic Studies –** **Clare Bennett**  
+Clare Bennett started her career as a psychologist with the New Zealand Defence Force. During her 20 years of regular force service Ms Bennet held various roles in psychology, research, and policy development, and in her last three years was the Director of Strategic Human Resource Requirements. Ms Bennett is currently the Organisational Capability Manager, Human Resources at Inland Revenue where she is responsible for the learning and development, organisational development and recruitment functions of the department. She also continues to serve as a Lieutenant Colonel in the Army Territorial Force.
+
+In 2003, Ms Bennett was awarded the Member New Zealand Order of Merit (MNZM) for contribution to human resources, and this year received the Jamieson Award from the New Zealand Psychological Society, an award which recognises significant contributions to industrial and organisational psychology in New Zealand.
+
+Ms Bennett has a Bachelor of Psychology, a Master’s in Business Studies (Hons) and a Master’s in Strategic Studies (with Distinction).
+
+**Laurie Cameron Scholarship – Timothy McNamara**  
+Mr McNamara is currently studying for a Master’s Public Policy. The Laurie Cameron Scholarship was established in memory of the late Laurie Cameron, awarded to students whose research ensures private sector engagement with issues of governance, and the promotion of ethical behaviour in both the public and the private sectors.
+
+**Institute of Public Administration New Zealand Prize (two winners this year) – Jennifer Browne, Kirsty Clement**  
+The Institute of Public Administration New Zealand Prize is awarded annually to the best undergraduate student in public administration.
+
+Jennifer Browne returned from five years in Spain running a small business to complete a Diploma of Commerce. In 2004 she completed a BA of Psychology and Political Science. She is excited to begin a short-term contract with Statistics New Zealand in relation to the upcoming 2011 national census.
+
+Kirsty Clement, who was born and raised in New Plymouth, completed a Conjoint Bachelor of Commerce and Administration and Bachelor of Science, majoring in Public Policy and Geography in 2009 with the aspiration of becoming a planner.
+
+**SOLGM/Local Government Careers Academic Prize in Public Policy – James Smart** James Smart will receive recognition for receiving the highest grade in the Second Year ‘Introduction to Public Policy’ paper.
+
+Mr Smart, at 21 years of age, has just completed his final trimester of undergraduate study at Victoria University, and intends to graduate with a BCA in Economics and Public Policy in 2011.
+
+**Marsh Postgraduate Prize – Sandra Moore**  
+Sandra will receive the Marsh Postgraduate Prize for being the top student in Programme Evaluation or Risk Assessment and Management. She graduated from Victoria University in 1990 and last year completed her Master’s in Public Management. In September this year, she was appointed as a Principal Advisor in the Ministry of Social Development, with a particular focus on disabilities and the interface between social services and the health sector.
+
+**The Holmes Prize** **–** **Alexander Mladenovic**
+
+Alexander Maldenovic is a research assistant at the Institute of Policy Studies at Victoria’s School of Government. Before taking up his role at the Institute in November 2009, he completed studying for a Master of Public Policy within the School of Government. Prior to a period of full-time study for this degree and a Graduate Diploma in Arts (Political Science), he worked as a senior analyst in the consulting arm of The Marketplace Company Limited, and earlier as a senior analyst at the New Zealand Commerce Commission. He originally graduated with a Bachelor of Commerce and Administration, also from Victoria University.
+
+Under the supervision of Professor Jonathan Boston, Mr Mladenovic’s research addresses political finance as an area of concern for public policy.
+
+The Holmes Prize is awarded to the best research paper or thesis in the Master of Public Policy, Public Management, or Strategic Studies programmes.
+
+**Bernard Galvin Prize – Hamish Cameron**  
+Hamish Cameron will receive the Bernard Galvin Prize for his quantification of how public goods can be efficiently allocated while considering voting rules, political externalities and bureaucratic incentives. He is also this year's top student in the undergraduate course, PUBL 203 Public Economics.
+
+Mr Cameron is currently on a summer research scholarship at the Research School of Asia and the Pacific at the Australian National University, researching conflict in Papua New Guinea.
+
+The Bernard Galvin Prize is awarded annually to a student in the School of Government who has demonstrated the best application of economic analysis to public policy or public management.
+
+  
+**ENDS**
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Victoria University of Wellington](https://info.scoop.co.nz/Victoria_University_of_Wellington) on InfoPages.

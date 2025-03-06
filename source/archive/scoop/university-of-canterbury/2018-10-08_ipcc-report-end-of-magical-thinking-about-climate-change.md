@@ -1,0 +1,84 @@
+---
+slug: ipcc-report-end-of-magical-thinking-about-climate-change
+title: "IPCC report ‘end of magical thinking’ about climate change"
+date: 2018-10-08
+source-url: https://www.scoop.co.nz/stories/SC1810/S00038/ipcc-report-end-of-magical-thinking-about-climate-change.htm
+author: university-of-canterbury
+---
+IPCC report ‘end of magical thinking’ about climate change
+==========================================================
+
+**Monday, 8 October 2018, 5:03 pm**  
+**Press Release: [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury)**
+
+**New IPCC report marks ‘end of magical thinking’ about climate change - UC expert**
+
+_Limiting global warming to 1.5C would require rapid, far-reaching and unprecedented changes in all aspects of society, the IPCC said in a new assessment released today (2pm Monday 8 October NZTime). With clear benefits to people and natural ecosystems, limiting global warming to 1.5C compared to 2C could go hand-in-hand with ensuring a more sustainable and equitable society, the Intergovernmental Panel on Climate Change (IPCC) said today._
+
+_University of Canterbury Associate Professor Dr Bronwyn Hayward was the only New Zealand Lead Author on the IPCC Special Report on Global Warming of 1.5°C, released today. She is an Associate Professor of Political Science and International Relations at the University of Canterbury, where she is also the Director of the Sustainable Citizenship and Civic Imagination research group Hei Puāwaitanga and Associate Dean of Postgraduate Research._
+
+**_Associate Professor Bronwyn Hayward gives her perspective on the IPCC report:_**
+
+In my view this hard-hitting 1.5C Global Warming Report marks the end of ‘magical thinking’ about climate change.
+
+The report is unequivocal, our climate is changing now. These changes are already affecting human wellbeing through extreme weather events and sea level rise, and risking far-reaching losses including coral reefs and Arctic sea ice.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+For the first time, this IPCC report also places climate change _within_ a social context, it asks how can we limit climate change and achieve other important related goals of sustainable development and reducing poverty?
+
+The report makes clear that without unprecedented cuts to emissions now, we will have fewer opportunities to develop sustainably and will be required to rely increasingly on unproven, risky and possibly socially undesirable technologies to remove carbon from the atmosphere in the future.
+
+But to avoid climate warming above 1.5C, we have to scale up action in unprecedented ways across all sectors of our economy and everyday life, over the next 10 years.
+
+**Warming – why 1.5** **degrees?**
+
+The report estimates that temperatures have already risen by 1C higher than pre-industrial averages and that our world is now warming at a rate of about 0.2C per decade.
+
+This doesn’t sound like much but if we carry on like this, effectively the world will be warmed 50% more that it has already experienced, between 2040 and 2050, and some regions will feel the effects of these changes even more severely and quickly.
+
+The report has also clear that avoiding a warmer future above 1.5C will bring significant benefits for millions of people who will face significantly reduced risks of flooding, food insecurity and climate stress, including Pacific communities
+
+**_Avoiding a higher than 1.5C warmer future matters to New Zealand in many ways – I want to highlight three:_**
+
+**Implications for New Zealand’s coastal communities**
+
+If the world’s temperatures remain at or below 1.5C the report suggests we could avoid an additional 10cm of sea level rise on average, over and above the trajectories we are already committed to by 2100. Here in New Zealand where many of our cities are coastal, this matters a great deal. As Tim Naish’s work shows, a 20cm to 30cm rise by 2060 is pretty much given due to warming from carbon already accumulated in our atmosphere. This new IPCC report underscores that 1.5C to 2C could trigger rapid melting of the Antarctic and Greenland with very significant impacts locally for much higher rates of sea level rise over time. At the very least a world warmed above 1.5C has significant implications for New Zealand national adaptation planning.
+
+**Issues raised for New Zealand’s Farming Sector**
+
+The IPCC report also states that if we want to limit global warming to 1.5C and avoid “overshoot” we need to make “deep reductions” in methane – 35% by 2050 relative to the rates of emission in 2010 – and undertake targeted mitigation of nitrous oxide. Again, this presents New Zealand’s government and farming sector with difficult choices. We have some tremendous opportunities for reducing methane and nitrous oxide but the need for deep cuts in emissions raises far-reaching questions about stock and land use, and signals that we might expect significant shifts in terms of changing consumer behaviours towards more sustainable diets.
+
+**New Zealand’s challenge to achieve climate resilient development**
+
+The report is also clear that current national commitments to emission cuts are insufficient to hold the world’s climate to below 2C. The report calls for far-reaching transitions across all sectors including how we use energy, land, urban and infrastructure (transport and buildings), and industrial systems and notes the need for a wide portfolio of mitigation options that carefully manage development to help communities already struggling, to develop equitably
+
+The New Zealand government and the Opposition have already committed to debating a bill to create a New Zealand net carbon zero by 2050, but making this vision a reality presents tough challenges in a country which has historically relied predominantly on one policy tool – Emissions Trading – to address climate change. The implications of the report is that systemic, sustainable changes are required, for a low-carbon future. At the very least, this includes a wide range of life-altering actions across all sectors of our society and economy if New Zealand is to have a realistic shot at achieving climate-resilient development pathways which meet the future needs of all the community.
+
+• Dr Bronwyn Hayward would like to acknowledge the efforts of Dr Andy Reisinger, the New Zealand Vice Chair of the IPCC, and Ministry of Environment officials Dan Zwartz and Helen Plume who put in many long hours in the intergovernmental approval process for this Special Report.
+
+**What is the IPCC?**
+
+The Intergovernmental Panel on Climate Change (IPCC) is the UN body for assessing the science related to climate change. It was established by the United Nations Environment Programme (UN Environment) and the World Meteorological Organisation (WMO) in 1988 to provide policymakers with regular scientific assessments concerning climate change, its implications and potential future risks, as well as to put forward adaptation and mitigation strategies. It has 195 member states. IPCC assessments provide governments, at all levels, with scientific information that they can use to develop climate policies. IPCC assessments are a key input into the international negotiations to tackle climate change. IPCC reports are drafted and reviewed in several stages, thus guaranteeing objectivity and transparency.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Canterbury](https://info.scoop.co.nz/University_of_Canterbury) on InfoPages.

@@ -1,0 +1,54 @@
+---
+slug: kiwi-troops-contribute-to-terrorism
+title: "Kiwi troops contribute to terrorism"
+date: 2007-04-11
+source-url: https://www.scoop.co.nz/stories/PO0704/S00134/kiwi-troops-contribute-to-terrorism.htm
+author: peace-action-wellington
+---
+Kiwi troops contribute to terrorism
+===================================
+
+**Wednesday, 11 April 2007, 10:14 am**  
+**Press Release: [Peace Action Wellington](https://info.scoop.co.nz/Peace_Action_Wellington)**
+
+Kiwi troops contribute to terrorism
+
+From: Peace Action Wellington Date: 11 April
+
+The NZDF is preparing to send another round of troops off to Afghanistan to contribute to the on-going occupation of the country by US and NATO troops.
+
+"Phil Goff would have us believe that the NZDF is all about peacekeeping and reconstruction in Afghanistan. But six years on, there is no more peace or stability in Afghanistan than there was when the US started bombing the country" said Peace Action member Valerie Morse.
+
+"When you consider that there are more than 20,000 US troops in the country, it is really not surprising that there is continuing conflict. The New Zealand troops are there to support the US-puppet government in Kabul and to prop up numbers."
+
+"The government has done a good propaganda job convincing New Zealanders that NZDF deployments to Afghanistan are necessary and beneficial. If we look behind the rhetoric, it is easy to see that this is just another battlefield in Bush's imperial war of conquest. Clark and Goff want to be sure to stay on the right side of the US by offering up troops. It is a sick bit of double-speak."
+
+"Goff's revelations of SAS involvement in handing over Afghanis to the US military is evidence of NZ's complicity in the subjugation of the local population there."
+
+"When will the Labour government realise that supporting US wars of aggression only support terrorism, not stop it? Thousands of Afghani people have been murdered in bombing raids and unprovoked assassinations since 2001. Genuine peace and stability can only be achieved when the occupation ceases."
+
+Peace Action Wellington is committed to stopping the involvement of New Zealand troops in overseas wars. For more details, check out www.peacewellington.org
+
+ENDS
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Peace Action Wellington](https://info.scoop.co.nz/Peace_Action_Wellington) on InfoPages.

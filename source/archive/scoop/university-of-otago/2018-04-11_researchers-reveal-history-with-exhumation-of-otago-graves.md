@@ -1,0 +1,72 @@
+---
+slug: researchers-reveal-history-with-exhumation-of-otago-graves
+title: "Researchers reveal history with exhumation of Otago graves"
+date: 2018-04-11
+source-url: https://www.scoop.co.nz/stories/SC1804/S00012/researchers-reveal-history-with-exhumation-of-otago-graves.htm
+author: university-of-otago
+---
+Researchers reveal history with exhumation of Otago graves
+==========================================================
+
+**Wednesday, 11 April 2018, 5:08 pm**  
+**Press Release: [University of Otago](https://info.scoop.co.nz/University_of_Otago)**
+
+**Researchers reveal history through exhumation of Otago graves**  
+  
+**11/4/2018**
+
+Exhumation and analysis of skeletons and burial sites in the historic Otago town of Lawrence is underway, with University of Otago researchers conducting _The_ _Otago Historic Cemeteries Bioarchaeology Project._
+
+Professor Hallie Buckley, of Otago’s Department of Anatomy, and Dr Peter Petchey, Honorary Research Fellow of the Department of Anthropology and Archaeology and Director of Southern Archaeology, are Co-Directors of the project which focuses on the original Lawrence cemetery that closed in 1867 on Ardrossan Street, along with the Chinese area of the town’s more recent Gabriel Street cemetery.
+
+The community-supported project, which involves isotopic and DNA analyses of remains, has already uncovered exciting discoveries.
+
+“In the old cemetery we wanted to establish whether there are still graves present after supposed exhumations occurred when the area was closed. The local legend was that one person was left behind. In the first few days on-site we’ve confirmed there were at least four other people left behind, and there are at least three other grave cuts present which we are investigating for skeletal remains,” Professor Buckley says.
+
+In the new cemetery on Gabriel Street, the team are looking to establish whether there are graves in areas around the Chinese section which likely also includes the graves of other marginalised people.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Further aims of the project include creating a detailed picture of what life was like at the time of the Goldrush (early 1860’s). The remains can reveal aspects of people’s health, diet, and overall quality of life.
+
+Dr Petchey says the project provides a rare opportunity to discover new details about members of Otago’s gold-rush society.
+
+“We can learn about aspects of their health and wellbeing, the makeup of the population, burial traditions, and compare all of the above with our other research project in Milton,” Dr Petchey says.
+
+The Milton research – the first of its kind in New Zealand – involved similar processes at the St John’s Burial Ground, Milton, in 2016.
+
+Both projects have required thorough consultation processes, with respect for the dead of utmost importance. In regard to this recent project in Lawrence, the research team consulted with the Lawrence community through public meetings and media releases, and gained the permission of the Lawrence Community Board and the Clutha District council, local Chinese community leaders, and Otakou Runanga.
+
+An archaeological authority was gained through Heritage NZ, and a Disinterment license through the Ministry of Health. Findings from both Milton and Lawrence are expected in coming months.
+
+  
+  
+**Comment and background on the project provided by Dr Matthew Schmidt, Archaeologist Otago/Southland, Heritage New Zealand:**
+
+“This cemetery was believed to have had burials moved before it was closed in 1997, but from our experience historic records for cemeteries often don’t match what is still there. Heritage New Zealand suspected that burials could still be present at this site so helped facilitate the investigation for the landowner by Peter Petchey and Hallie Buckley.
+
+“This project is incredibly valuable primarily because of the outcome for the people buried here in the 19th century. While important data will be gained on the background of the people such as their sex and age, they can now be moved and re-interred with the respect they deserve. It has been really pleasing that the landowners have worked closely with archaeologists to respect the history of the site and the people associated with it.”
+
+**Background.** For the original old cemetery, Heritage New Zealand was asked in 2016 by the original owner about how to manage the selling of the land where there could still be a burial on the property. Heritage New Zealand advised that although the land was disposed of by the Crown in 1997, there was no firm evidence that burials had been moved if they were present. We gave advice to the former owner to contact Peter Petchey and Hallie Buckley to discuss having them investigate the site for burials as part of their project on 19th century cemeteries. I also contacted Peter and Hallie in 2016 to brief them on what I had spoken to the owner about and how this project could resolve the issue of what burials were on this site. This above advice was also passed on to the current owner in 2017.
+
+I surveyed the Chinese area of the new cemetery in 2004 when I was an archaeological consultant after the Clutha District Council had cleared the vegetation to record what burials may have been revealed. I mapped what burials I could locate, particularly those without headstones, and reported this to the Council and the New Zealand Historic Places Trust (now Heritage New Zealand). In 2010 myself and Hans Bader undertook a Magnetometer study of the Chinese area and found that some anomalies that featured could be burials. I also passed this data on to Peter and Hallie in 2016 suggesting this area also needed researching to determine what, where and how many burials were left in-situ.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Otago](https://info.scoop.co.nz/University_of_Otago) on InfoPages.

@@ -1,0 +1,69 @@
+---
+slug: speech-flavell-gambling
+title: "Speech: Flavell – Gambling"
+date: 2010-11-12
+source-url: https://www.scoop.co.nz/stories/PA1011/S00266/speech-flavell-gambling.htm
+author: te-pati-maori
+---
+Speech: Flavell – Gambling
+==========================
+
+**Friday, 12 November 2010, 4:48 pm**  
+**Press Release: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+**General Debate; Wednesday 10 November 2010**,  
+Te Ururoa Flavell, MP for Waiariki
+
+Tēnā koe, Mr Speaker. Kia ora tātou katoa me huri te kei o te waka ki wāhi kē. Kua waimarie te Pāti Māori i ēnei marama. Tuatahi, nā mātou te take o te kai hikareti i kōkiri ki mua i te Komiti Take Māori, ā, kātahi anō taua pūrongo ka puta. Kua oti i a Tariana Turia te whai ake i ētahi wāhanga o tērā pūrongo hei whakatinana i ōna kōrero. Koi rā te pai o te noho tūranga ā-Minita nei.
+
+Nōnātatanei i puta te pūrongo o te Kōmihana ā-Ture mō te waipiro. Arā nō ōna kōrero mō te tau e tika ana kia taea ai e te hunga taiohi te hoko waipiro, unu rānei i te waipiro, ko te rāhui tonu i ētahi inu i te tirohanga kanohi, ērā take katoa.
+
+Ko te mea tuatoru, ko te pire whakakore mihini ā-petipeti i raro i tōku ingoa. He mea tēnei i puta nā runga i te tokomaha o te iwi Māori e whai ana i tēnei momo āhuatanga. I tōku kāinga tonu i Rotorua, i a au e haere ana ki te taunga waka rererangi ki te haere mai ki Pōneke nei mā te waka kawe, i kaha kōrero mai ngā kaitaraiwa mō ō rātou kitenga, ko te āhuatanga o te hunga whakapau moni nā ngā mahi petipeti. Kua kite tonu au i te kino kua puta mai mō tētahi whānau nā tēnei mahi kino. Nō reira e tika ana kia whai te Pāti Māori i ēnei take.
+
+Ko tōna tikanga, ka tae taku pire gambling harm reduction ki mua i te aroaro o te Whare Pāremata ā ngā rā tata kei mua i te aroaro. Ko te āhua nei ka aro mai ētahi o te Whare ki te tikanga o tēnei pire. Pēnei i a au nei, kua kite tātou i te kino o ngā mīhini nei. Ehara i te mea kei te kī au, kārekau he painga e puta mai ana nā ngā mīhini, kāo! Kei te mōhio tonu tātou he moni te painga. He moni e tukuna atu ai ki ngā rōpū, ngā tīma hākinakina hei āwhina i a rātou pea ki te hoko kākahu. He moni āwhina i ngā marae, he aha atu, he aha atu. Ko tā mātou kī e pēnei ana, he kino ake te kino i te pai.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Koi nei te mea ohorere ki a au, ko ngā rōpū pēnei i a Problem Gambling, Poverty Action Waikato, Salvation Army, Family First. Ko Len Brown tonu te tumuaki hou o Tāmaki-makau-rau kua kaha tautoko mai i te wairua o tēnei pire. Ko ētahi o ngā mema o te Rōpū Nāhinara tonu kua kī mai ki a au, kei te tautoko rātou i te tikanga o tēnei pire.
+
+He pōti ā-wairua tēnei, me kī he conscience vote_._ Arā, mā te wairua o te mema ia e tohu, āe ranei me tautoko, kāre rānei. Ko te mate kē, ko te āhua nei kei te herea te kakī o ngā mema o te Nāhinara, o ACT tonu, ā, ka whai rātou ko te kōrero o tō rātou wepu. He aha i pēnei ai, mēnā kei te mōhio tonu te nuinga o te Whare, he take kei konei? He take ki te hunga pōhara, ki ngā Māori me Ngāti Pasifika, he take e pā ana ki te hunga hoko mīhini ki ngā pāpara kāuta e tuku koha, mēnā ka whakawātea mai ngā kaihoko waipiro i ngā kūaha ki wā rātou mīhini. He take kei konei i te mea, ko te moni ka puta mai i Rotorua, ka whakapauhia kētia ki wāhi kē. He take kei konei i te mea, ko ētahi o ngā moni o ngā mīhini ka haere ki ngā karapu whakaomaoma hōiho hei moni tuku. Ko ēnei kōrero katoa, kāore e kore, ka puta hei te pānuitanga tuatahi ā kō ake nei engari ko tāku kē, he āki i ngā rōpu katoa kia kaua e here i wā rātou mema mō tēnei take. He pōti ā-wairua tēnei, waiho mā te wairua o tēnā, o tēnā e tohu.
+
+Koi nei ngā akoranga o te noho i te Whare Pāremata. Tuatahi, mēnā kei a koe te minitatanga ka taea te whakatinana i ngā kaupapa here o tō rōpū. Tuarua, ahakoa pēhea, ahakoa ko te wawata me te ngākaunui, me whai hoa koe, tō rōpū rānei kia eke ki te ono tekau mā rua o ngā pōti, arā, kia toa tō pōti. Ki te kore, he moumou tāima te kōrero. Ka toru, me noho hei Kāwanatanga. Ki te kore e noho hei Kāwanatanga, ko tāu he pāinaina i te rā, he moemoeā te mahi, he whiuwhiu kōhatu te mahi. Koinei te āhuatanga o Reipa i tēnei wā, e kore e taea te aha. He kōrero noa iho te mahi, ā, karekau he whiwhinga.
+
+Koinei te āhua o ngā kōrero e rere haere nei i tēnei wā i te Ao Māori, arā, mō te pire hou mō te takutai moana. I kī ake te Pāti Māori ka ūkuia katoatia te pire takutai moana nā te mea, he mea muru taua pire. Ka rua, ka whakatuwherahia ngā kūaha ki ngā huarahi katoa, kua mutu? Aroha mai. Nō reira, kua ea te wāhi ki a mātou o te Pāti Māori.
+
+_Thank you, Mr Speaker. Greetings, one and all. Allow me to set the stern of the canoe in another direction. The Māori Party has been fortunate in recent months. Firstly, we brought the issue of cigarette smoking before the Māori Affairs Committee, which has just released its report. Tariana Turia has begun implementing some aspects of the report. That is one of the good things about being a Minister of the Crown._  
+  
+_The Law Commission recently released its review on alcohol. Among other things, it recommends a minimum purchase and consumption age for youths, and a total ban on some drinks._  
+  
+_Thirdly, there is the Gambling (Gambling Harm Reduction) Amendment Bill, under my name. It emerged because of the large number of Māori people involved in this sort of thing. It is very prevalent in my town of Rotorua. When I have been on my way to the airport to catch a flight to Wellington, taxi drivers have spoken at length about what they have seen and how people spend their money on gambling. I have seen for myself the terrible effects that some families experience as a consequence of this terrible addiction to gambling. So it is only right that the Māori Party address issues like these._  
+  
+_According to procedure, my Gambling (Gambling Harm Reduction) Amendment Bill should come before the House soon. Interest in the purpose of this bill is apparent from some members of the House. They, like me, see the evil side of these gambling machines. It is not as though I am saying that these machines have no benefits at all. Far from it! We are absolutely sure that revenue accrues. Organisations receive grants, sports teams get assistance to purchase uniforms, marae receive financial help, and so on, and so on. But what we are saying is that negatives far outweigh positives._  
+  
+_Organisations like Problem Gambling, Poverty Action Waikato, the Salvation Army, and Family First New Zealand are a surprise to me. The new mayor for all of Auckland, Len Brown, is a strong supporter of the spirit of this bill. Some National members have told me they support the purpose of this bill. This is a spiritual or conscience vote._  
+  
+_The conscience of each member will determine whether they vote yes or no. The problem is that it seems that members of both National and ACT are tied by the neck to follow what their whip demands. Why did it come to this, if most members of this House realise that there is an issue here? It is an issue for those on lower incomes, for Māori and Pasifika people. There is an issue here that relates to those who sell gambling machines to pubs, and who make donations if alcohol vendors make their gambling machines available at the door. There is an issue here because some of the revenue that comes from Rotorua is being spent somewhere else; some of the money from the machines is going to the horse racing industry as grants. All of these points will no doubt soon emerge at the first reading, but I really urge all parties not to force their members to vote along party lines. This is a conscience vote. Let each member make up their own mind._  
+  
+_This is what one learns by being a member of Parliament. Firstly, if one has a portfolio, one is better placed to implement party policies. Secondly, regardless of personal desire and commitment, a member must have an alliance, or their side must receive 62 of the votes to ensure their vote finishes at the top. If this is not achieved, talking becomes a waste of time. Thirdly, one must be in Government to be effective here, otherwise all one can do is lie in the sun, dream on, and cast stones about. That is Labour’s current position: merely talking and getting no rewards._  
+  
+_This is the current situation in Māoridom, with all the commentary flying about over the new foreshore and seabed bill. The Māori Party stated that it would repeal the foreshore and seabed Act totally, because it is confiscating legislation. Secondly, the new legislation opens up doors to every avenue. Is that it for me? I am sorry. So that is it from us, the Māori Party_.  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

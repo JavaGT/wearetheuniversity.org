@@ -1,0 +1,194 @@
+---
+slug: aus-tertiary-update-7-june-2007
+title: "AUS Tertiary Update, 7 June 2007"
+date: 2007-06-08
+source-url: https://www.scoop.co.nz/stories/ED0706/S00030/aus-tertiary-update-7-june-2007.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update, 7 June 2007
+================================
+
+**Friday, 8 June 2007, 9:32 am**  
+**Press Release: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+**University frustrated over CoRE funding**
+
+For the second time recently, the University of Otago has vented its frustration over its failure to secure funding for a centre of research excellence, notwithstanding recently being named as New Zealand’s highest-ranked university in the recently released Performance-Based Research Fund (PBRF) evaluations.
+
+The University’s Vice-Chancellor, Professor David Skegg, has slammed the current CoRE funding process, describing it a fiasco, after earlier in the year pointing out that the South Island has only one CoRE, at Lincoln University, despite Otago and Canterbury being two of the country’s top three PBRF-ranked universities. He says this week’s decision sends a disheartening message to New Zealand scientists.
+
+On Tuesday, the Government announced that seven CoREs are to receive about $31.4 million of new operating funding per year for the next six years and one-off capital funding of $20 million to produce world-class research intended to help accelerate New Zealand’s economic transformation. Only one new centre, at Massey University, has received funding approval, with the remainder of the new funding going to the six existing centres at the University of Auckland, with three, and Victoria, Lincoln and Massey with one each.
+
+University of Otago Deputy Vice-Chancellor (Research), Professor Geoff White, says he is astounded that all ten proposals submitted by Otago as part of this year’s CoRE funding round were knocked back. “Otago is New Zealand’s most research-intensive university, according to a recent Ministry of Research, Science and Technology publication, and the University has just been ranked top for research quality by the Tertiary Education Commission. It is therefore difficult to believe that after this long, time-intensive CoRE bid process, Otago still has no major involvement in national centres of research excellence,” he said.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Professor White believes the weakness was in the process used to make the CoRE selections. “Much of the process was confused, and aspects of the selection framework left us concerned.”
+
+The decisions on CoREs’ operating funding were made by the Tertiary Education Commission Board of Commissioners on recommendations by the CoRE Fund Committee, chaired by Sir Paul Reeves. Decisions on capital funding will be made by the Minister for Tertiary Education and the Associate Minister of Finance following recommendations from the TEC.
+
+There were twenty-six applications received for CoRE funding.
+
+**Also in Tertiary Update this week**
+
+1\. Putting general staff on the map
+
+2\. TEC retirement confirmed
+
+3\. VC says no attempt to bring PBRF round forward
+
+4\. Wellington’s polytechnics get funding to work more closely
+
+5\. Holding a degree benefits Māori, says report
+
+6\. Aiming high
+
+7\. Sweeping free-market reforms on Go8 agenda
+
+8\. Research wrecked by “bean counters”
+
+9\. Israel boycott decision predictably controversial
+
+10\. Edinburgh may withdraw Mugabe degree
+
+**Putting general staff on the map**
+
+The Association of University Staff (AUS) is calling for greater acknowledgement to be given to the contribution of general (or non-academic) staff in universities with the release next Monday of a manifesto setting out a vision of the role and status of general staff.
+
+AUS General Staff Vice-President, Cate Wartho, said that, although general staff are higher-education professionals with vast expertise and experience in a wide range of specialised roles, universities too often overlooked their contribution. “Quality teaching, learning and research in New Zealand universities would not be possible without general staff and the work we do in partnership with our academic colleagues,” she said. “We are an essential part of the university and we want that properly recognised and rewarded.”
+
+Ms Wartho said that the manifesto, _Our Voice_, includes action points aimed at lifting the status and recognition of general staff which would form the basis of discussions with university employers. “It is our view that such things as improved conditions of employment could easily be made through the adoption of more secure and stable employment practices, the provision of better opportunities for career development and progression and through an improved work-life balance,” she said. “Similarly, many university policies are inequitable, with the result that general staff face procedures and restrictions not imposed on their academic colleagues. These could be remedied through the implementation of measures such as ensuring that general staff are able to participate effectively in decision-making at all levels, including governing bodies and university committees, and for the Government to extend the legal rights to academic freedom to general staff as well as academics.
+
+_Our Voice_ also call for unmanageable workloads to be addressed, the principles of the Treaty of Waitangi to underpin the work of all university staff and for vice-chancellors to implement internal policies ensuring fair and equitable treatment across all staff categories.
+
+The manifesto will be launched on Monday afternoon at the University of Canterbury AUS Branch Office.
+
+**TEC retirement confirmed**
+
+A week after his position was advertised as vacant in daily newspapers, it has been officially confirmed that Tertiary Education Commission Chair, Russell Marshall, is to retire on 30 June. The Minister for Tertiary Education, Dr Michael Cullen, said yesterday that Dr Marshall had made an outstanding contribution to education over more than thirty years, and had led the TEC through one of the most significant periods of change that New Zealand’s tertiary sector has seen. “His work has been critical in building the organisation and in rolling out the tertiary education reforms,” he said. “His leadership has helped maintain stability and continuity through a period of great change and he leaves the TEC in a strong position to implement the reforms.”
+
+Dr Marshall was a Member of Parliament for eighteen years, serving two terms as a Cabinet minister, including one term as Minister of Education. He chaired the Tertiary Education Advisory Commission, whose work resulted in the formation of the TEC. He also chaired the National Commission for UNESCO, Education New Zealand, and the international education consultancy PINZ, and was Chancellor of Victoria University. He served as New Zealand’s Permanent Representative to UNESCO and was High Commissioner to the United Kingdom immediately prior to taking up the chair of the TEC in 2005.
+
+The Government is currently advertising for a replacement Chair and expects to announce the appointment in early September. An interim Chair will be appointed shortly.
+
+Another significant position in the tertiary education sector currently being advertised is that of the Chief Executive of the New Zealand Vice-Chancellors Committee.
+
+**VC says no attempt to bring PBRF round forward**
+
+University of Auckland Vice-Chancellor, Professor Stuart McCutcheon, says that a reference in _Tertiary Update_ last week was both misleading and damaging to the University after it was reported to be widely understood that the University was attempting to have the next PBRF Quality Evaluation assessment round brought forward in order to be able to wrest the top ranking back off Otago.
+
+Professor McCutcheon says that this is categorically untrue, and that the University of Auckland has made no moves, official or unofficial, to have the next PBRF round brought forward.
+
+_Tertiary Update_ is pleased to accept Professor McCutcheon’s assurance that no attempts have been made by his University to bring the next PBRF round forward.
+
+**Wellington’s polytechnics get funding to work more closely**
+
+The Government has announced an investment of $600,000 so that Wellington region polytechnics and institutes of technology can work more closely together on six joint projects. Funding has come from the Tertiary Education Commission’s Quality Reinvestment Programme.
+
+The new funding follows the establishment of the Wellington Regional Polytechnic Federation (WRPF) last year comprising the Wellington Institute of Technology (WelTec), Whitireia Community Polytechnic and the Open Polytechnic of New Zealand.
+
+The six projects which have been funded include investigating a shared approach to electronic learning; reviewing the potential for shared purchasing of goods and services to make savings through combined purchasing power; exploring the potential for common records management to make cost savings and improve service and compliance with record keeping; developing joint business continuity planning in the event of incidents or disasters; collaborating on the development of a pilot academic programme to be delivered by all three partners; and establishing collaborative regional facilitation to involve all regional tertiary education providers in exploring the needs, gaps and priorities for tertiary education in the region.
+
+WelTec Chief Executive, Dr Linda Sissons, says that the six projects identified for funding will deliver huge benefits to students and others with a stake in outcomes from tertiary education. “The Government has sent us a strong message through the tertiary-education reforms that they want a coordinated network of tertiary education across the country,” said Dr Sissons. “Each of the projects we are planning will deliver benefits and together they are designed to be a tool that will create a strong and focused network of provision to meet the needs of the Wellington Region, educationally, economically and socially.”
+
+Whitireia Chief Executive Don Campbell said that the establishment of the WRPF and the projects for 2007 are an important move towards a more collaborative and cooperative relationship among education providers in the region.
+
+**Holding a degree benefits Māori, says report**
+
+There is clear evidence that holding a degree benefits Māori economically as well as having social and cultural benefits, according to a new Ministry of Education report, _Te whai i ngā taumata atakura: supporting Māori achievement in bachelors degrees,_ published this week. The report goes on to say, however, that, while the level of Māori degree attainment has increased, it still lags behind the rest of the New Zealand population and international standards.
+
+The study on which the report is based reinforces the importance of the first-year experience, especially during the first semester, saying that support for first-year Māori students within degrees is important to ensure those who enter degree study succeed to the best of their abilities. First-year success, the study says, is a critical factor for retention of and completion by students. Passing 75 percent or more of first-year courses is an important determinant of remaining in study beyond the first year. There is also evidence that some students quit degree study having failed a number of first-semester courses. Passing 75 percent or more of all degree courses taken is also a critical factor for completing a degree.
+
+A major finding of the study is that success during the first year of study is only partially explained by the kinds of variables captured in enrolment data. They are demographics, school background and area of enrolment. This reinforces a general theme that there is a complex set of factors, institutional, personal and external, which influence student success. These include readiness for degree study, goal commitment, ability of the student to fit into the institution and ability of the institution to adapt to the student.
+
+The study also found that, in order to increase the number of Māori attaining degrees, the most important change would be to increase the number of Māori secondary school students achieving university entrance or better. This remains the major constraint on success, limiting the number of younger Māori who can enter degree studies.
+
+The report can be found at:
+
+http://www.educationcounts.edcentre.govt.nz/publications/downloads/te-whai-atakura.doc
+
+**Aiming high**
+
+_New Scientist_ reports this week that the placement of a sign in a Christchurch urinal instructing readers to “aim higher”, was probably not what the Victoria University of Wellington had in mind when it launched its new recruitment marketing campaign.
+
+**Worldwatch**
+
+**Sweeping free-market reforms on Go8 agenda**
+
+Only weeks after the disestablishment of the Australian Vice-Chancellors’ Committee, the influential Group of Eight universities has moved to seize the higher-education agenda with its first public pitch for full deregulation.
+
+In a move described as likely to spark unease among other vice-chancellors, the group has unveiled is first significant policy paper, promoting student vouchers and price deregulation. It calls on the main political parties to support a rewrite of higher-education policy with new legislation, a new student-loan scheme, more student support and a market-driven system.
+
+The group also calls for an overhaul of advisory structures, reviving the notion of an independent buffer body between government and universities in the form of an Australian tertiary-education commission. The commission would oversee planning and regulation of tertiary education and allocate funds for post-secondary education, functions presently carried out by the Education Department.
+
+A national student scholarship scheme funded by the Government is the centrepiece of the Go8 plan, along with income-contingent student loans to promote access. The number of scholarships, or vouchers, would be controlled by the Federal Education Minister and have a seven-year life span. They would be awarded to individuals on the basis of merit and paid to the institution at which the student enrols.
+
+_**The Australian**_
+
+**Research wrecked by “bean counters”**
+
+Crude performance targets are wrecking the careers of academics in the United Kingdom, according to critics who say that a Nobel laureate would have failed to meet the minimum “productivity” targets at Imperial College London.
+
+Scholars have warned that new systems for judging staff performance are reducing academe to a series of narrow output measurements, including publication volume and research-grant income. They say this distracts academics from pursuing truly ground-breaking ideas in favour of low-risk options.
+
+A professor at University College London who analysed Imperial’s system said that “bone-headed bean-counters” were threatening the sector’s ability to produce top research stars. Imperial’s staff have been given a “score” for their publications output, based on where their names appear on the list of authors in journal articles and the perceived status of the journals. They are expected to publish three papers a year, with at least one in a “prestigious journal”.
+
+The analysis argues that the winner of the Nobel Prize for Physiology in 1991 would have failed to meet Imperial’s target during six of the ten most important years of his career.
+
+Imperial said the system was “objective, rigorous and transparent” and was only the starting point for performance reviews.
+
+_The Times Higher Education Supplement_
+
+**Israel boycott decision predictably controversial**
+
+A decision last week by delegates to the University and College Union (UCU) Congress in the United Kingdom to circulate for information and discussion among its branches a Palestinian call for an academic boycott of Israel has caused a widespread international reaction, including threats that any academics who engage in a boycott will be “visited” with legal and financial ruin.
+
+Those who support the boycott point to the fact that Palestinian universities, such as Bir Zeit, have been arbitrarily closed for as long as four years. Students and teachers have been killed or imprisoned and attendance at university made hazardous or impossible by the everyday imposition of checkpoints. Research, they say, is blocked by Israeli refusal to allow books or equipment to be imported.
+
+Despite warnings from the UCU leadership, delegates voted by a margin of 158 to 99 in support of the resolution, which requires branches to consult the union’s 120,000 membership on the issue before a further debate at next year’s Congress.
+
+Included among those criticising the decision has been the UK National Union of Students, a number of organisations with an interest in Israel and academic freedom, university employers and two United States university unions.
+
+Perhaps the bluntest reaction has come from a US academic lawyer, Alan Dershowitz, who has promised he will personally visit legal and financial ruin on any UK academic supporting a boycott of Israeli academe. “I guarantee that we will obtain legislation dealing with this issue, imposing sanctions that will devastate and bankrupt those who seek to impose bankruptcy on Israeli academics,” he said.
+
+Following the vote, UCU General Secretary, Sally Hunt, said that she had made clear in the past, and reiterated on the floor of Congress, that she does not believe the majority of UCU members support a boycott, nor did she believe that members see it is a priority for the Union.
+
+From UCU, the _Education Guardian_ and _The Times Higher Education Supplement_
+
+**Edinburgh may withdraw Mugabe degree**
+
+The University of Edinburgh Senate is to decide today whether to strip African leader Robert Mugabe of his honorary degree. A panel of three senior professors investigating the case of the Zimbabwean President is to recommend to the University’s highest decision-making body that the degree, conferred in 1984, should be withdrawn.
+
+“This recommendation has been made after examining evidence relating to the situation in Zimbabwe in the early 1980s, evidence which was not available to the University at the time the degree was conferred,” said a University spokesman. “If the Senate decides that the honorary degree should be withdrawn, the formal process for so doing will begin.”
+
+Mr Mugabe was awarded the degree for services to education in Africa.
+
+It is understood that Michigan State University and the University of Massachusetts in the United States are also considering stripping degrees from Mugabe.
+
+From the _Education Guardian_
+
+\*\*\*\*\*
+
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz .
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

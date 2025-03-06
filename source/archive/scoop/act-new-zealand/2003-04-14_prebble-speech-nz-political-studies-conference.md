@@ -1,0 +1,167 @@
+---
+slug: prebble-speech-nz-political-studies-conference
+title: "Prebble Speech NZ Political Studies Conference"
+date: 2003-04-14
+source-url: https://www.scoop.co.nz/stories/PA0304/S00265/prebble-speech-nz-political-studies-conference.htm
+author: act-new-zealand
+---
+Prebble Speech NZ Political Studies Conference
+==============================================
+
+**Monday, 14 April 2003, 9:23 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+  
+Time For Foreign Policy Based on New Zealand's Interests
+
+Richard Prebble Speech to New Zealand Political Studies Conference, Auckland University
+
+Thank you for the invitation to address this foreign policy seminar.
+
+As a small trading nation in the global economy, foreign policy is vital. Yet there was almost no debate on the issue at the last election. I was not asked a single question despite the ACT Party putting forward an alternative to every other party's position.
+
+Our Prime Minister who is a self-proclaimed foreign policy expert stated last week that it was "bleedingly obvious" that the Iraq war was not going to plan.
+
+In Parliament on Thursday, as crowds in Baghdad cheered American troops, the Prime Minister still maintained she was right to have claimed that the war was not going to plan. This sounds like the Iraqi Minister of Information when he said: "They're not even within a hundred miles of Baghdad", as a US tank rolled past in the background.
+
+The Prime Minister compounded her misjudgement by claiming the war would not have occurred if Al Gore was president. Al Gore is actually a hawk on Iraq and, as our Internet search shows, he has made no statement criticising George Bush.
+
+Our Prime Minister has steadfastly refused to admit that she might be wrong. She has only stated that she is sorry is others are offended. I don't see myself how you can apologise for somebody else being offended.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Even a backbench MP knows that the way to insult a politician is to praise his defeated opponent. It is equivalent of President Bush saying what is no doubt true - that relations with New Zealand would be so much better if Bill English were Prime Minister.
+
+President Bush may or may not accept Helen Clark's apology that the National Security Advisor gave him on Thursday but, as an elected politician, let me assure you, he will never forget Helen Clark's insult. It has not only been widely quoted in America on CBS News, and New York and Washington newspapers, but carried right around the world - our quick internet search found Helen Clark's comments being reported in Croatia, the Middle East, the Indian Subcontinent and in China. Ironically, it is the most famous statement Helen Clark has ever made.
+
+But was it reasonable for Helen Clark not to predict America's triumph? In a speech in January, one New Zealand politician predicted that when they reached Baghdad, American troops would be greeted by cheering crowds.
+
+If I can get it right, why can't Helen Clark? The answer is that Helen Clark's approach to foreign policy is ideological and mine is practical.
+
+I knew that the Americans would be welcomed because Iraqis living in New Zealand told me. I have heard firsthand of the horrors of Saddam Hussein's rule and how hated his evil regime really is. He ran a one-man thugocracy.
+
+In any foreign policy discussion we need to first determine New Zealand's objectives.
+
+In my view the first responsibility of the government is the security of the nation. Second is to advance New Zealand's interests - economic, environmental and political. Our economic priority is free trade, particularly in agricultural products. Our environmental interest is to have a sustainable world where our future growth is not prevented. Our political goals are to see the values of freedom, democracy and the rule of law and liberty spread throughout the globe. It is interesting to note that no two liberal democracies have ever gone to war with each other.
+
+The goals I have discussed have been the goals of successive New Zealand governments. First security, then economic interests, then promoting our values.
+
+The Labour government has advanced a radically different foreign policy. One that it describes as "principled"! It has been my experience that politicians who always call their ideological position "principled" call those of their enemies "expedient". So without passing judgement, let me merely observe that New Zealand's foreign policy is now based on "ideas".
+
+On the first day of Parliament this year, Helen Clark set out what these "ideas" are. Let me quote: "New Zealand's foreign policy is based on these principles: multilateralism, the rule of law and respect for the Security Council of the United Nations." (Hansard 11 February 2003)
+
+Even to a seminar on foreign policy, it is necessary to translate this language.
+
+By multilateralism, Helen Clark means nations acting together under some UN resolution.
+
+Helen Clark means by "the rule of law", the doctrine from the 17^th Century Westphalian Treaty - a doctrine that nations cannot interfere in the internal affairs of another sovereign nation. Helen Clark likes to describe the Coalition of the Willing's action as "19^th Century", which shows she is a poor historian. It is Helen Clark who is supporting a 17^th Century view of the World!
+
+The doctrine that she so strongly defends is beloved by dictators, tyrants and evil regimes. Milosevic cited it to defend Serbia's right to ethnically cleanse Kosovo.
+
+Helen Clark has stated - and let me quote her - "we really do not want to see a repeat of what has happened. It has just appalling implications in every sense.... There is no security in that for anybody - so we have an interest in asserting that, in asserting New Zealand's interests as a small, open economy".
+
+What Helen Clark is actually saying is that New Zealand, as a small democracy, is somehow threatened by a coalition of nations prepared to take action against a rogue state even if the United Nations is not.
+
+The absurdity of that position is palpable. It is a paranoid view of the world. It is also a view that says that it is of paramount importance to uphold the sovereign integrity of a rogue state like Pol Pot's regime which killed millions, or Idi Amin's dreadful dictatorship - both of which were overthrown by coalitions of the willing acting without a UN mandate.
+
+The only nations that have reason to be afraid are not small democracies but those evil states which are preparing weapons of mass destruction, and would be prepared to arm terrorists. This is the threat to world order that Helen Clark and France are not prepared to confront.
+
+The issue is really very simple. Is the world safer when the world's only superpower is prepared to act against rogue states? If the United States was to follow Helen Clark's advice, the world would be much more dangerous. But then Helen Clark is yet to give us her wisdom on what to do about North Korea.
+
+And then we come to Clark's third principle: "respect for the Security Council". This council set up after World War II gives that war's victors a veto. Why Britain and France - both second-rate powers - have a veto today is not clear.
+
+Helen Clark supports a system where France, which has significant economic interests in Iraq, can veto any Security Council resolution. The reality is the Security Council is nothing more than a talk shop that can only offer hand ringing and endless appeasement as a means of diplomacy - it is not and never has been able to provide security for small nations.
+
+There have been dozens of wars since World War II. New Zealand has been involved in the Korean War, the Malaysian "Counter insurgency", and Vietnam. Of those, only the Korean War was authorised by the UN in advance. What is unusual about today's Coalition of the Willing is that before this Coalition formed and took action, there were 17 existing UN resolutions, including a number authorising force.
+
+At the UN today, we have resolution inflation. The currency of UN resolutions are diminishing and becoming meaningless. New Zealand is now a prime offender, voting for inflated resolutions, like total nuclear disarmament, knowing that they will never be carried out. When nations are asked to enforce resolutions they voted for - like Resolution 1441 - they are shocked. Nobody was meant to take them seriously!
+
+All law requires enforcement. The UN Charter, by Chapter 7, specifically allows for the authorisation of the use of force to maintain and to restore international peace and security.
+
+While our Prime Minister loves the foreign policy cocktail circuit, this is no way to advance New Zealand's interests.
+
+Where is Helen Clark's foreign policy taking us?
+
+For a start Helen Clark has no mandate for the very significant change in direction she is now taking New Zealand. She has never put her case to the country in any election manifesto, parliamentary resolution - nor has she made her case on any public platform.
+
+When Labour came to office, New Zealand foreign policy was in reasonable shape. New Zealand had a good relationship with Australia, and New Zealanders enjoyed full citizenship rights in Australia. Any New Zealander of any age could go to Australia to live, work, enjoy full social welfare benefits, and vote. Under a Treaty signed by Helen Clark, these rights have been stripped away.
+
+New Zealand's relationship with the United States of America was on the mend. Although our ANZUS Treaty membership was still suspended, the United States had offered us at extraordinarily favourable terms F16 Fighters. What the war in Iraq has shown us is that a country without air cover - as we now are - is essentially defenceless.
+
+We were making good progress on the trade issue. President Clinton had shown an interest in a trade agreement known as P5 between Australia, New Zealand, Chile, Singapore and the United States. Today, Singapore and Chile are about to sign free trade agreements with the US. Australia is now negotiating its agreement, and only New Zealand is out in the cold.
+
+Our foreign policy debacle is such that for the first time in our country's history, we find ourselves opposed to our traditional allies Australia, the UK and the USA - a remarkable state of affairs.
+
+Helen Clark says that we are not with France, Germany and Russia, even though we voted with those nations at the UN. That's because even Helen Clark recognises that France's foreign policy - which includes strong opposition to the liberalisation of agricultural products - is not sympathetic to New Zealand's interests.
+
+Helen Clark says we are with "like-minded" nations: Mexico, Norway, Canada and Chile. Think about the absurdity of that statement. Where is the common interest between New Zealand and Norway? New Zealand's trade with Norway is 0.04% of our total trade. The Parliamentary Library could not find a single occasion where the two heads of state have ever met. Since when have we been allied with Mexico? Chile rebuffed Labour's suggestion of a free trade deal. We do not really share the anti-American popularism of the French Canadian Prime Minister.
+
+The only thing we have in common is an association with the eight-nation New Agenda Coalition - a group of countries with the sole common interest of seeking nuclear disarmament. It is one of the examples I gave of resolution inflation. Not one of the eight nations really expects or actually wants global nuclear disarmament. In such a scenario, the first nation to secretly develop nuclear weapons is in a position to blackmail the entire world - and who doubts that some future Saddam Hussein would not attempt to do it?
+
+If we are reduced to a friendship status with Mexico, we really are friendless.
+
+This is a coalition with a very fragile commitment. It could just as easily come apart as it came together. It's certainly no basis for a sound foreign policy.
+
+Let me ask this question: When did Helen Clark get a mandate to declare that this country is now part of a coalition of Mexico, Norway, Canada and Chile?
+
+Helen Clark is flying solo on foreign policy. I'm advised that she does not take these propositions to either the Labour Caucus or Cabinet. The Ministry of Foreign Affairs and Trade learns of our foreign policy from the media, and is appalled at the recklessness of Helen Clark's statements. It is an incredible arrogance based on Helen Clark's self-belief that she alone is a foreign policy expert.
+
+I want to suggest a different way of making foreign policy. Let's start by envisaging the ideal, and then work back. Imagine a New Zealand Foreign Policy that:
+
+· Guaranteed our security
+
+· Advanced our economic interest
+
+· Gave the country a place at the world's decision-making tables.
+
+· Gave us intelligence of what was really happening.
+
+· Resulted in other nations seeking our views and our support.
+
+Does it matter? Well Helen Clark got her views of the Iraq war from CNN. How do I know? I heard that there was to be a Prime Ministerial statement on the war. When I asked the Leader of the House, "Helen has to wait to see President Bush on CNN to find out if the war has started" was the answer.
+
+We could achieve the vision that I described - because that is exactly the position we had as an ANZUS ally.
+
+The US Seventh fleet is our security.
+
+The US has consistently promoted free trade and New Zealand's national interest.
+
+As an ANZUS ally we had access to the world's best intelligence.
+
+As an ANZUS ally we not only participated in the decision-making but other countries sought our support knowing we had influence.
+
+New Zealand has suddenly realized that 10 nations are about to join the EC and make the EC an even more important trading block. New Zealand has no diplomatic ties with new Europe. New Europe is strongly pro-American. Polish SAS troops are fighting In Iraq.
+
+New Zealand has no representation in any of the former Soviet-bloc nations. They are countries that have experienced dictatorship and have no time for western anti-Americanism. Helen Clark's ideology has no appeal to these nations. We are about to find that in the new EC, we could find ourselves without any real friends, with absolutely no influence. A frightening prospect.
+
+But as an ally of the United States of America, we would be a country whose views would be worth seeking.
+
+We could rejoin ANZUS tomorrow. Lift an absurd ban on nuclear-powered ships - Auckland Hospital in one week puts out more radioactive material than the total US nuclear-powered fleet in a year. Even if a nuclear-powered ship caught fire and sank in Auckland harbour, our own scientific review says there is no risk.
+
+We should contribute to the rebuilding of Iraq - while the US is in charge. Clark and Goff said "there would be no assistance while there is a US mandate". I can advise this policy has been reversed.
+
+On advice from Foreign Affairs this week in order to repair the diplomatic rift with the US which Helen Clark has agreed with, New Zealand has advised America that it will provide aid while Iraq is under effective US administration - a major U-turn that the Government is yet to admit having made.
+
+Which shows that reality can pierce even Helen Clark's ideology. Governments come and go, but foreign policy interests remain the same.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

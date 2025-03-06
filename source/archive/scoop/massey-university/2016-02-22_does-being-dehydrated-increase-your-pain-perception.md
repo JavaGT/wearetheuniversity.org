@@ -1,0 +1,72 @@
+---
+slug: does-being-dehydrated-increase-your-pain-perception
+title: "Does being dehydrated increase your pain perception"
+date: 2016-02-22
+source-url: https://www.scoop.co.nz/stories/SC1602/S00055/does-being-dehydrated-increase-your-pain-perception.htm
+author: massey-university
+---
+Does being dehydrated increase your pain perception
+===================================================
+
+**Monday, 22 February 2016, 11:50 am**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+  
+**Monday, February 22, 2016**  
+**Does being dehydrated increase your pain perception and reduce your brain blood flow?**
+
+New research from Massey University’s College of Health has shed light on the impact dehydration has on our perception of pain, and our blood pressure and brain blood flow response.
+
+Two studies, using the same methodology but with a different focus, looked at what not drinking enough, known as hypohydration, does to our bodies.
+
+Dr Toby Mündel, a senior lecturer in Sport and Exercise Science, says previous studies have used drugs (diuretics), exercise and heat stress to get people to lose body water in order to become dehydrated. But he says the majority of us become dehydrated simply by not drinking enough.
+
+“Everyone has done it. You wake up late, rush to work skipping breakfast, next thing you know its lunchtime and all you have had to drink is your morning coffee. So, since dinner the night before until midday is around 17 hours and you’ve had a paltry 300 millilitres of fluid, compared to the litre-plus you are supposed to have had!”
+
+Dr Mündel says typically studies on hydration levels also involve exercise, getting hot, restricting caffeine and altering people’s diets. “All of these things have huge effects on our mental and physical responses and so dehydration may not actually be the thing having an effect. We wanted to simplify things down to one source.”
+
+So how were these studies carried out? Participants visited Massey’s Manawatū campus twice, keeping their diet, activity and caffeine levels the same. The only difference was on one occasion they consumed their usual amount of fluids, while the other time they refrained from fluids for 24 hours.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+On both visits, their feet were immersed in ice-cold water, known as a cold pressor test. “It’s a great way to create pain, which was the focus of one of our studies, and it’s a standard way of challenging the body and observing how it responds, like the fight or flight response, which was the focus of the second study. Plus it’s a commonly used clinical test to measure how ‘normally’ a person’s cardiovascular system is working,” says Dr Mündel.
+
+Bachelor of Science student Tracey Bear wanted to find out whether hydration levels affect how we sense pain. Dr Mündel says this is an important area for a number of reasons. “If you have any condition where the sensation of pain is heightened, including clinical conditions like arthritis, cancer, musculoskeletal disorders, or migraines for example, or you’re preparing for or recovering from surgery where food and fluids are sometimes restricted, if dehydration were to increase your level of pain, that wouldn’t be good.
+
+“These findings would allow medical professionals to recommend something really simple for people to manage their pain better by staying well hydrated. Also, it’s important to know common treatments like analgesics \[pain-killers\] or cognitive behaviour therapy, may be less effective in a dehydrated state.”
+
+Ms Bear got participants to rate how painful it felt while their feet were immersed and also how much they worried about this pain. She found that the more dehydrated people became, the more intense the feeling of pain. However, those people already worried about pain showed less of a change.
+
+In the second study, Massey PhD graduate Dr Blake Perry hooked participants up to a cardiovascular “rig” during the cold pressor and measured their blood pressure, heart rate and brain blood flow responses.
+
+Dr Perry’s study found that dehydration amplified the pain of the cold pressor, which made people hyperventilate or breathe more, reducing their brain blood flow response. “While it’s difficult to fully translate the results, the take-home message is that for any clinical assessment or research setting that performs the cold pressor test, hydration level should be assessed and preferably kept the same as it may skew results,” says Dr Mündel.
+
+**More information:**
+
+Student Tracey Bear received $4,000 in funding from the Neurological Foundation to complete her study. The 34-year-old now wants to undertake a PhD, and is interested in nutrition interventions for pain and mood. The next step is to look at whether this acute pain is the same as for chronic pain (like in arthritis or fibromyalgia) with a view to recommending healthy habits like good hydration. Ms Bear’s research was a collaboration with two Massey staff members from the School of Psychology, Dr Stephen Hill and Dr Michael Phillip.  
+You can read the full paper published in _Psychophysiology [here.](http://onlinelibrary.wiley.com/doi/10.1111/psyp.12610/abstract)_
+
+Dr Blake Perry completed his Massey PhD (2014), looking at the brain blood flow response to certain types of exercise, under the supervision of Dr Toby Mündel in collaboration with Dr Sam Lucas from the University of Birmingham, UK. The 27-year-old is currently employed by Massey University, as the Human Performance Laboratory manager for the School of Sport and Exercise, based in Palmerston North.  
+You can read the full paper published in _Experimental Physiology_ here.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

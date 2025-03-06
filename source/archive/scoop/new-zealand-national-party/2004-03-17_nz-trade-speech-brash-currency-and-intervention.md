@@ -1,0 +1,131 @@
+---
+slug: nz-trade-speech-brash-currency-and-intervention
+title: "NZ Trade Speech: Brash - Currency and intervention"
+date: 2004-03-17
+source-url: https://www.scoop.co.nz/stories/PA0403/S00346/nz-trade-speech-brash-currency-and-intervention.htm
+author: new-zealand-national-party
+---
+NZ Trade Speech: Brash - Currency and intervention
+==================================================
+
+**Wednesday, 17 March 2004, 8:43 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+  
+NZ Trade Speech: Brash - Currency and intervention
+
+Speech at the NZ Trade Centre Tuesday, 16th March 2004
+
+NOTE: PLEASE CHECK AGAINST DELIVERY
+
+It is a pleasure to be here this evening to take part in this celebration and exhibition of New Zealand export products and services. I intend to speak on the international outlook and the currency, before touching briefly on some of the policy areas that are a particular priority for the National Party.
+
+If we put aside the issue of the exchange rate for a moment - but I will come back to that issue - the global economic environment is looking considerably brighter for New Zealand exporters than it was as recently as 9 months ago. Geopolitical uncertainty related to the Iraq war has largely receded, as has the ominous threat of a SARS epidemic, and economic recovery across a number of New Zealand's trading partners now looks well established.
+
+The United States remains the key driver of global growth. Large tax cuts together with very stimulatory monetary policy have underpinned strong household spending, with business investment also picking up. Consensus forecasts are for GDP growth in the United States to exceed 4 ½% this year, which would be its fastest rate of growth since 2000, prior to the equity market collapse. However, there are several clear points of vulnerability to the US growth outlook. The recovery has yet to deliver an improvement in the job market and, perhaps more importantly, there is the emergence of the "twin deficits" in the US government budget and current account balances.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+In step with the US, Japan looks to be finally emerging from an extended period in the economic doldrums - with growth having lifted to near 3% for 2003. The rest of Asia also appears to have shrugged off the dramatic downturn caused by the SARS outbreak and is benefiting from the strengthening US economy.
+
+Closer to home, the outlook for Australia, our largest trading partner, looks relatively solid as well, with their farm-sector rebounding strongly following a return to normal growing conditions after severe drought. All in all, the improved world outlook should translate into ongoing demand for New Zealand's export goods.
+
+Stronger demand has contributed to the historically high level of world prices for New Zealand's main commodity exports, although supply factors, such as the recent Australian drought, have also contributed. This is reflected in the ANZ Bank's measure of world commodity prices rising to an eight year high.
+
+But of course there is the issue of the exchange rate.
+
+When converted back into New Zealand dollar terms, the very sharp appreciation of our currency has totally swamped the recent gains in international commodity prices. The impact of the New Zealand dollar appreciation on our export returns has been marked, with annual receipts falling $4 billion from their peak two years ago, despite export volumes holding relatively steady.
+
+There can be no doubt that the exchange rate is placing a huge amount of pressure on most exporters. (A few exporters - those importing materials from the United States but exporting to Australia, for example - have not been seriously affected, and in a few cases have actually been helped by the exchange rate.)
+
+What can be done about it? First, we need to be clear about what has been driving the sharp movement in our exchange rate. For the most part, it has actually been a story about US dollar weakness. On a trade-weighted basis, the US dollar has fallen around 20 per cent from its early 2002 peaks.
+
+That said, the New Zealand dollar has risen more than most other currencies against the US dollar and, consequently, has also appreciated against the currencies of our other major trading partners. To some extent at least, this would seem justified by our stronger economic performance and higher interest rates compared with other countries. In addition, the appreciation of the New Zealand dollar was from unusually low levels. And we should remember that those low levels greatly reduced the pressure that would otherwise have hurt exporters at a time when trading partner growth was much more subdued.
+
+While I recognise that the New Zealand dollar is now well above historical average levels, it's not clear to me that one would, as a matter of policy, necessarily want to attempt to do anything about the exchange rate at the moment. But there is plenty I would want to do about business costs, and I will come back to that later.
+
+You will all be aware of the Reserve Bank's announcement last week that it would be recommending to the Minister of Finance that it should have the capacity to intervene in the foreign exchange market to influence the level of the exchange rate. And you will probably also be aware that the Minister of Finance has intimated on numerous occasions over the last few months that he is in favour of the Reserve Bank using such powers. Should Cabinet approve the Reserve Bank's proposal, this will be a radical shift in the Reserve Bank's policy since the floating of the dollar in March 1985. But, to be fair, it doesn't represent a rash or sudden decision by the Bank. In fact, a significant amount of work on the issue was done during my time as the Reserve Bank Governor. However, there are considerable risks in what is proposed.
+
+First, as Alan Bollard and Michael Cullen have acknowledged, at its very best, such intervention is only capable of knocking a cent or two off the top or bottom of the range. It is one thing to get an "announcement effect" shift in the currency, but it is quite another thing for that move to be sustained. As my colleague, John Key - a former currency dealer himself - so elegantly describes it, it's a little like "Holding up a pop-gun in a bank robbery". Daily foreign exchange turnover in the global market is around US$1.5 trillion. It would be a wild exaggeration to describe the Reserve Bank as capable of being even a minor player in that market.
+
+So Reserve Bank intervention will not substantially alter the level of the exchange rate. The experience of the Bank of Japan, which is continuing to lose billions of US dollars in its attempt to stem the Yen's rise against the US dollar, is a powerful example of the limitations of central bank intervention, and the potentially huge costs involved.
+
+This leads me to my second point, which is that there are clearly risks for the Reserve Bank in intervening. Certainly, as Alan Bollard has pointed out, there is potential for the Bank to make money. But, on the other hand, if the Bank were to get it wrong, the taxpayer will pick up the tab.
+
+Another, and perhaps even more significant risk, is that those in the tradable sector may come to expect that the Bank's new capacity to intervene will mean an end to fluctuations in the New Zealand dollar. For the reasons I've outlined, the Reserve Bank's capacity to intervene certainly would not guarantee that, meaning that exchange rate volatility could have even greater adverse effects on those in the tradable sector unprepared for that volatility. The Reserve Bank of Australia's long involvement in currency intervention has not stopped the Aussie dollar from exhibiting very similar levels of volatility to the New Zealand dollar.
+
+Lastly, and this particular point appears to have been overlooked by most commentators, if the Reserve Bank were to be successful in reducing the appreciation of the New Zealand dollar, an important trade-off would be higher inflation pressure than otherwise, and consequently the need for higher interest rates. No doubt partly in response to the Reserve Bank's announcement, the New Zealand dollar has since fallen by 2 cents from its pre-announcement levels. Had Alan Bollard realised that this response would follow his press release, he may well have chosen to lift interest rates one quarter of a percentage point rather than leave them unchanged when he reviewed the Official Cash Rate last week.
+
+As an economist or central banker would say: you can control interest rates or exchange rates, but not both.
+
+However, all these reservations about intervention considered, the impact on the business sector of potential Reserve Bank involvement in the currency markets is likely to be relatively insignificant. Indeed, the Governor has indicated that possible intervention would only arise in extreme situations, and his view is that we have not yet experienced those extremes, either high or low.
+
+Other policy, or lack of it, from this Government has much more sinister implications for business, and consequently for the future of all New Zealanders.
+
+The direction that Labour is taking this country is of real concern to me. Fifty years ago, New Zealanders enjoyed living standards not too dissimilar from those enjoyed by Americans, and higher than those enjoyed by Australians. That meant my generation were able to enjoy the same opportunities, the same experiences, and the same goods and services, as those enjoyed by the Americans and Australians who grew up at the same time. It simply isn't true any longer. Today we enjoy a living standard only three quarters that of Australians, and a little more than half that of Americans. And despite all the hype and spin from the Labour Government, the official prognosis is for the gap between us and the developed nations of the world to continue to widen.
+
+\>From a trade perspective, one of the significant developments over the last few months in our part of the world has been Australia's achievement of a free trade agreement with the United States. Although the terms of the agreement were not as favourable, particularly with regard to the Australian primary sector, as Australia had originally hoped, it nevertheless represents the establishment of a very significant relationship with by far the largest, most innovative and dynamic economy in the world, a relationship that will deepen as time goes by. Not that long ago it would have been unthinkable for New Zealand to be excluded from such a deal. It is a sad reflection on how far the relationship with our most important friends and allies has slipped that the unthinkable is now routine.
+
+We are left in the unfortunate position where what is being rightly celebrated by our friends across the Tasman will likely have a detrimental impact on our economy - not only in terms of losing preference to our Australian export competitors in the US market but, probably more importantly, through the loss of foreign investment and technology to Australia that otherwise may have come here. It is easy to see why a foreign operation, or even a New Zealand operation for that matter, looking to export into the US would now be more enthusiastic about setting up in Australia. A National Government will be working hard to ensure that New Zealand remains a highly competitive location.
+
+What are New Zealand's prospects for an FTA with the US? The reality is that we aren't even on the radar screen for any sort of trade agreement as far as the US is concerned. And that will, over time, cost New Zealand dearly.
+
+If I can turn back now to domestic issues, the pressure of the high exchange rate is something which will expose the consequences of a range of government policies that are bad for exporters, bad for domestic businesses, bad for economic growth and therefore bad for our future as a prosperous nation.
+
+This Government has had the good fortune to be in office at a time of moderately strong economic growth. There are few things as odd as hearing the Prime Minister talking about how she has got the unemployment rate down, because in fact it is the sort of people in this audience that have got unemployment down, together with the hundreds of thousands of small businesses around this country, not Helen Clark. She is like a water-skier who thinks that by holding on to the rope she is somehow causing the speedboat to pull her along.
+
+It would go faster without her.
+
+A growing economy has emboldened the Government to load costs on to business and introduce labour market laws highly favourable to their union supporters. These are things the Government can control, unlike the exchange rate, and the costs of these policies will show up when New Zealand encounters a less favourable economic environment. The costs will fall predominantly on business and on the least skilled and most vulnerable workers.
+
+The Employment Relations Law Reform Bill is an attempt to impose a failed European model of industrial relations on New Zealand. It is bizarre that we should attempt to imitate the industrial relations law of countries where unemployment rates are stuck at around 10%. The Bill will reduce the incomes and job opportunities of workers, and destroy the hard-earned wealth tied up in many small businesses.
+
+The Bill, if passed, will be extremely damaging to job prospects, and will further slow income growth in New Zealand. We will be fighting this Bill every step of the way. The best solution is for the Government to perform another of its numerous recent U-turns, and abandon the Bill.
+
+We also have to get serious about cutting compliance costs, which are continuing to increase with RMA processes, OSH, ACC levies, the never-ending tax forms to be filled in and the ever-increasing tax burden.
+
+We need to work on our tax structure.
+
+Our company tax rate currently says "Invest in Australia".
+
+The high marginal tax rates affecting those trying to get off benefits and into a job say to the unemployed "Don't get a job".
+
+Our top personal income tax rate says to skilled and successful people "Look overseas". For example, when young doctors are finally fully trained, many with large student debt burdens, this Labour Government punishes them with a 39% marginal tax rate, plus GST of 12.5% on what is left to spend.
+
+The Government's tax policy is utterly self-defeating. I will have more to say on National's approach to taxation policy in a speech tomorrow morning.
+
+Our roading infrastructure in New Zealand is an embarrassment, particularly in Auckland, but also in many other parts of the country, as you know only too well. The Government hoped to sideline the issue last year with their transport package - but it is hopelessly inadequate, as the public will soon become aware.
+
+If we are serious about improving living standards in New Zealand, rather than dabbling with currency speculation, we should be addressing these problems that are restraining income growth in New Zealand. That is the best way to help the exporting, and every other, sector. Reducing business costs is a top priority for National, as part of a comprehensive growth strategy.
+
+I have previously indicated five key priorities for the National Party: the economy is one, of course, and I have touched on those issues here. The other four are focused on what sort of nation we will have in the future, and the sort of aspirations we can offer our children and grandchildren. Those priorities are the urgent need to: improve the performance of our educational system fix our entrenched culture of welfare dependency, improve security by much tougher and more effective law enforcement, and reverse the dangerous drift to racial separatism in New Zealand. As you will know, I addressed this last point in a speech earlier this year asking whether New Zealand is to be a modern democratic society, embodying the essential notion of one rule for all, or a racially divided one with two standards of citizenship.
+
+What has become clear in the ensuing debate is that our once vigorous culture has been hijacked by a phoney sense of 'offend-no-one' biculturalism.
+
+The reality is that, as a community, we are an assertive multi-ethnic, multicultural society. Based entirely on our own choices and preferences, we have taken the values and spirit of our forebears - both Maori and the European settlers that came later - and added to them a range of ideas and symbols, sporting and cultural enthusiasms, business techniques and technologies, even our preferences for food and wine, from all over the world. In recent decades that mix has been spiced up with migrant groups from Asia and elsewhere, and out of all of this we have forged, and are still forging, a unique national identity.
+
+We are not all the same. We all have different preferences and interests and sympathies. But we are still all unquestionably, and proudly, New Zealanders.
+
+And as this exhibition of New Zealand's exporting prowess demonstrates, we can compete on the world stage in business, as we do in sport and the arts.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

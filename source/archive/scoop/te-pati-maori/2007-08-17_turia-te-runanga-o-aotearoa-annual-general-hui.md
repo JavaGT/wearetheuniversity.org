@@ -1,0 +1,146 @@
+---
+slug: turia-te-runanga-o-aotearoa-annual-general-hui
+title: "Turia - Te Runanga o Aotearoa Annual General Hui"
+date: 2007-08-17
+source-url: https://www.scoop.co.nz/stories/PA0708/S00310/turia-te-runanga-o-aotearoa-annual-general-hui.htm
+author: te-pati-maori
+---
+Turia - Te Runanga o Aotearoa Annual General Hui
+================================================
+
+**Friday, 17 August 2007, 2:48 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Te Runanga o Aotearoa Annual General Hui
+
+Takapuwahia Marae, Porirua
+
+Tariana Turia, Co-leader of the Maori Party
+
+Friday 17 August 2007
+
+E nga mana, e nga reo, tena koutou. Ngati Toa Rangatira, tena koutou. E nga kaiwhakahaere o tenei hui, tena hoki koutou.
+
+It is inspiring to come here to the Marae Matua of Ngati Toa Rangatira, as we gather to consider the mana of tikanga in everything that we do.
+
+And as I thought about our hui today, I looked back over a history that had been written at the time of the opening of Parehounuku, the wharekai, in 1992. That moment was described as a new beginning, and I quote:
+
+“A new resurgence in our tribal culture and a platform for going forward into the next millennium. As importantly, it is a culmination of the work of the hundreds that have gone before. Back at least to the advent of Ngati Toa, te hekenga mai, when Te Rauparaha and others brought the iwi to Porirua in 1820.
+
+In special recognition of this, it is appropriate that the name of the new building is from deep in our past and links this new beginning to our origins as a tribe. This is not advocating regression to a mystic past, but it is a reaffirmation of who we are in 1992”.
+
+As we lead off into this annual general hui, the advice and strength from Ngati Toa Rangatira gives us an impressive foundation to strengthen our focus as nurses, midwives, students, healthcare works, kaimahi Maori, health professionals – and throughout all – as whanau, hapu and iwi.
+
+The culmination of the work of hundreds before us, is also the story of Te Runanga o Aotearoa and the New Zealand Nurses organisation. I love the whare model you have, which places your ancestors, your tupuna and kaumatua as the central pou of this organisation – their knowledge and wisdom guiding your every move.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+This organisation is truly blessed from the:
+
+\- legacy of Te Kaunihera o Nga Neehi Maori o Aotearoa;
+
+\- the leadership and inspiration of women such as our distinguished kuia Vera Morgan or Puti Puti O’Brien;
+
+\- and the strategic direction of Brenda Close as Te Runanga Chairperson, the National Executive Komiti and the Board of Directors.
+
+And to be honest, I can never come to a hui like this without knowing that our dear friend Irihapeti Ramsden is with us.
+
+Some of you may remember Irihapeti addressing the Grace Neil Memorial Lecture Series in 2001, to commemorate a century of nursing registration in Aotearoa, where she said:
+
+“If there are three kinds of people – those who make things happen, those who watch things happen and those who never knew what hit them – let nurses be in the first category”.
+
+It’s a great message to start this hui-a-tau - Ma Mahi, ka ora - by work, one is sustained.
+
+So what will we do, to make things happen? How do we, as Ngati Toa has suggested, reaffirm who we are in 2007?
+
+I was asked to share some ideas around kaitiakitanga – demonstrating the mana of tikanga in everything we do.
+
+As we gather here today, of course, our hearts will also be up at Ngaruawahia, as the people bid a final farewell to the late Dame Te Atairangikaahu, and commence the formal inaugural koroneihana for the new Kingi Tuheitia.
+
+And in a fitting testimony to the woman that she was, we remember how at her tangi, the final tributes accorded to the late Queen were reserved for the cooks, the ringawera, the labourers, for those who had toiled on her behalf, upholding her absolute commitment to manaaakitanga.
+
+For Te Arikinui, the greatest responsibility of her role, had been to manaaki the people, to uplift and nurture those whom she saw herself destined to serve.
+
+That example, is something that which I believe is so inspirational for the journey we are all on, to uphold and enhance the health and wellbeing of the peoples of Aotearoa.
+
+If the values of Te Runanga o Aotearoa, are determined by tikanga, we must be proactive and visionary in restoring to ourselves the rights and responsibilities of being tangata whenua.
+
+We must continue to advocate for the constitutional status of Te Tiriti o Waitangi to be honoured.
+
+We must be actively involved in designing and giving life to tribal strategies around the social and economic advancement of tangata whenua.
+
+We need to be committed to sustainability; to resource management; to valuing the world in which we inhabit.
+
+It is the practical application of our tikanga in our every day lives.
+
+We all know that part of the secret recipe of the Maori menu is that within every whanau, we have those who have the sweet hands – those who are the experts in the boil up; who knead the superior rewena.
+
+It’s a bit like the whanau members we may refer to as having green hands – the ones that can coax life into even the most limp of plants. Even a broom stick will grow if planted by these people I am told.
+
+Kaitiakitanga – the active exercise of responsibility in a manner which is beneficial to resources and the welfare of the people – means that we look to each other, we look to our tikanga, and we know that collectively, we have the solutions in our own hands.
+
+And this is where I want to lay the particular challenge for Te Runanga o Aotearoa – in the crisis that has confronted us all in recent weeks.
+
+The Government has come up with their bright quick fix solution that family violence is going to be solved overnight, by the nurses in A and E asking women, “do you feel safe in your homes?”
+
+Well apart from being told to ‘butt out, pokey nose’; or the fact that many people will just feel too scared either for themselves or the whanau they are asking, the idea seems a bit of a no-brainer.
+
+Anyone who has spent time with our families, know that whanau members are often nervous – whether it is justifiable or not – that in disclosing the story of their lives, there could be harsh repercussions for the whanau. WINZ may cut the benefit; CYFS may take their kids away; social workers may be knocking down their door.
+
+I am not saying that we shouldn’t talk about violence at all – but more to think, who should do the asking, and how? Let us determine our own strategies, within our own whanau.
+
+We must be solutions focused, and work together, to offer support to ensure families can learn to nurture and be good parents.
+
+I have been really impressed at the wealth of ideas that have come into my office over recent weeks, reminding us that we must be vigilant in speaking out about violence.
+
+We must name it, we must step up to take responsibility; we must encourage ownership.
+
+We must all take collective responsibility to engage with our community, to care about our neighbours, to work wonders.
+
+We must all be more vigilant on behalf of our children. It is about restoring a sense of compassion, the courage to care. It is up to us, to shelter our babies so that they may all blossom into full bloom; te puawaitanga o te kakano.
+
+When we think about reaffirming who we are, it may be that new solutions can be found in the history of our people, in our songs, proverbs and stories. There may be particular strengths from our tupuna that we draw on – as well as the often unknown strengths of those grandparents and elders all around us.
+
+One of the calls that I received over the last month was from Ngaire Whata, of Te Korowai Aroha in Rotorua. Ngaire reminded me of the wisdom of kuia Aunty Putiputi O'Brien, who after over forty years of service as a public health nurse was calling for the return of the Maori district nurse.
+
+Ngaire believed that if there was a professional Maori workforce, such as Maori district nurses, RNs, enrolled nurses, out in the community, becoming friend and advisor to whanau from mothers and pepi through to kaumatua, that we may have a more structured and positive form of support.
+
+It is an idea that I would be interested in hearing your views about, in the time we share together.
+
+There are many, many challenges confronting our whanau, hapu and iwi in these present days.
+
+The persistent onslaught of poverty, not enough money to pay the Bills, to cover the costs of bread and milk, to cope with dental and medical costs, are real problems, real issues for our real families.
+
+There is the challenge of addressing the faces of racism – institutional, personal, cultural. We must always be aware of the need for vigilance, ka whawhai tonu mātou, in every area of our lives; standing up for what is right, and what is true.
+
+I remember the message of the late Hon. Matiu Rata who once said: "New Zealand has never had a colour problem; just colourless people in power, with colourless ideas and colourless ideals."
+
+These are all, and just a few, of the very many issues that kaitiakitanga embraces in our commitment to do all that we can to attain wellness and well-being for Mäori.
+
+My final challenge is to all of us – to restore the colourful vitality, the dynamic energy of our lives as tangata whenua.
+
+And we must always hold fast to the hope of justice, the spirit of optimism, and the strength of kotahitanga that will allow us to travel onwards in our journey to reaffirm who we are.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

@@ -1,0 +1,353 @@
+---
+slug: speech-ardern-labour-party-congress-2020
+title: "Speech: Ardern Labour Party Congress 2020"
+date: 2020-07-05
+source-url: https://www.scoop.co.nz/stories/PA2007/S00053/speech-ardern-labour-party-congress-2020.htm
+author: new-zealand-labour-party
+---
+Speech: Ardern Labour Party Congress 2020
+=========================================
+
+**Sunday, 5 July 2020, 2:11 pm**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Tena koutou katoa
+
+Nga tangata whenua o tenei rohe o Pōneke, tena koutou
+
+Nau mai, haere mai ki te hui a tau mo te roopu reipa
+
+Ko tatou!
+
+Ko to tatou mana!
+
+Ko to tatou kaupapa kei te kokiri whakamua
+
+Tena koutou, tena koutou, tena tatou katoa
+
+Welcome. I consider it an honour and a privilege to be with you all here today.
+
+This will sound perhaps a little bit dramatic, but no one could have predicted a few months ago that we would be here, all together, in what we used to call a Labour Congress but we now all know as a ‘mass gathering.’
+
+And I know we have all been around the Labour Party long enough to know that not all of our gatherings would deserve that metric.
+
+But here we are. And I am very grateful for that.
+
+And I am very grateful for all of you.
+
+What has been happening over the last few months in New Zealand, it’s not over.
+
+But I don’t want to wait till it is before I say thank you.
+
+You, our Labour members, you were amongst our team of 5 million.
+
+But more than that, you were worried for the rest of the team. Like many kiwis, you wanted to know that everyone had what they needed during lock down, that they were well looked after.
+
+So hundreds of you joined our teams of volunteers, and you called people for no other reason than to ask if they were ok. Over 81,000 calls. It’s that kind of thing that makes me proud to be a New Zealander, and proud to be Labour.
+
+I’m also very proud to be part of our parliamentary team.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Each and every one of them work so hard, and while I am loathe to single any one person out, I feel safe in doing so for Kelvin Davis.
+
+I saw who Kelvin is captured perfectly recently by one of our amazing new candidates, Ibrahim Omer who wrote recently on Facebook “Hon Kelvin Davis was kind enough to invite me to his office today. As well as warmly hosting me and giving me good advice, he told me that when he first became a Labour candidate he didn’t have a suit and had to borrow one from his mate. He then reached into his wardrobe, pulled out this collection of his suits and handed them to me. What a bro.”
+
+And that is the Kelvin I know, a person who helps makes our team, a team.
+
+I’ve thought a lot about this idea of a team lately.
+
+Mainly because our team, and by that I mean our entire team of 5 million, have been through a lot in the last fifteen months.
+
+I can’t think of a time in our recent history when we have been collectively challenged by such a cruel combination of events – a terrorist attack, a volcanic eruption, a global pandemic and now its ensuing financial crisis.
+
+Our national character has been repeatedly put to the test and yet, somehow we have come back with an almost stronger sense of ourselves, and of what matters most to us.
+
+Gamal Fouda, the Imam of Al Noor mosque, perhaps said it best when in the wake of March 15 he said, we are broken-hearted but we are not broken. We are unbreakable. We are alive. We are together.
+
+And a year on, in the midst of such uncertain and tough times, together we remain.
+
+Being a team, and being unified, does not mean though that we are uniform.
+
+We are still a country of diverse belief systems, a place with strongly held opinions and views on issues and politics - in fact we frequently try to model that even around the Cabinet table.
+
+But that is what makes us, us. That’s what has always given us the confidence to do things our way.
+
+When a terrorist tried to divide us we came together and we said they are us.
+
+When a volcano erupted we threw our arms around those effected whether they were from near or far.
+
+And when Covid arrived we didn’t hesitate to act, knowing it was the only way to protect those around us.
+
+We stayed home.
+
+We stayed home, sometimes juggling care and work and kids and schooling.
+
+We stayed home despite not knowing if there would be a job to return to at the end of it or a business to re-open.
+
+We stayed home even when it meant we were separated from loved ones, sometimes in amongst grief and hardship.
+
+We stayed home, and that made all the difference.
+
+As I stand before you today we are 65 days since we last had a case of community transmission in New Zealand. That has meant we have been able to open up our economy sooner and more fully than most other places. It has given us opportunities that many others do not have.
+
+I know that none of us take that for granted.
+
+There is no playbook for what the world is going through, no rules on what we should or shouldn’t be doing. That means we won’t always get it right, but it also means we can make our own choices, and have our own plan.
+
+And that is exactly what we have done.
+
+Through our health response, our plan was simple. Go hard, go early. That gave us the best position to save lives and livelihoods by opening up our economy sooner.
+
+Had we chosen another path, if we’d chosen to have an ongoing tolerance of Covid and cases all around us in the community, I have no doubt we would still have restrictions in place that would be costing us in many, many ways.
+
+The health response has not ended. It will need to be ongoing as the pandemic surges around us.
+
+And it is surging. When we closed our borders on the 19th of March there were 240,000 cases in the world. Today there are more than 10 million.
+
+So while we in New Zealand experience huge freedoms the rest of the world is still battling to keep the virus under control.
+
+Our strong health response now gives us an economic head start, the ability to move from responding to Covid-19, to recovering and rebuilding.
+
+Today I am announcing our 5 point plan for our economic recovery.
+
+It’s about investing in our people, it’s about jobs, preparing for our future, supporting our small businesses, entrepreneurs and job creators and positioning ourselves globally.
+
+I’ve seen economic downturns before and what they can do to those left behind.
+
+And yes we must be mindful of the debt that future generations may carry because of what we need to do now.
+
+But we would be wrong to characterise debt as solely being financial.
+
+If we choose not to invest now, during the rainy day we have been preparing for, we burden the future with debt of another kind.
+
+Some call it economic scarring – the long lasting damage to individuals of an economic down turn. I call it the loss of potential, and the greatest of wastes.
+
+I am a child of the 80s and 90s. I have seen responses to troubled times that have failed to take this into account, and have left people behind. We see the impacts of that still. Poverty, inequality, persistent unemployment.
+
+It does not have to be this way, and under Labour, it won’t.
+
+We are the Party that puts people first. It is in our DNA.
+
+The First Labour Government delivered New Zealand from the Great Depression and created the platform for the longest period of economic prosperity we’d ever seen off the back of investments in health and education, social security and public housing, employment and decent wages.
+
+Michael Joseph Savage called it applied Christianity, I call it kindness. But no matter what we call it the principle is the same. If we put people at the heart of what we do, and at the heart of our recovery, we will prevail, and we will prosper.
+
+Which brings me to **point one of our plan – investing in our people.**
+
+With economies around the world shutting down, health systems being overrun by the virus, and borders closing the IMF is describing this as an economic crisis like no other and is projecting the global economy to decline by 4.9 percent in 2020. US unemployment was estimated to have reached as high as 16%.
+
+New Zealand is not immune to what is happening in the rest of the world, but we can buffer our people from it. And we can do that, because we were prepared.
+
+New Zealand is a place where the unexpected can happen. That’s why, when we were criticised for being focused on getting debt down to under 20% of GDP, we steadfastly argued that it was necessary – it was for a rainy day.
+
+Thank you for your foresight Grant Robertson. You have been the Finance Minister New Zealand needed at this time, because that rainy day has arrived.
+
+Now is the time to put the umbrella up, to provide support to those who need it. You were smart and tough enough to put us in the position to do that, but kind enough to know when it needed to be called on.
+
+We have doubled the winter energy payment, increased main benefit rates by $25 a week, made changes to the In Work Tax Credit so we can reach more families, and introduced the Covid income relief payment.
+
+We have supported Whānau Ora agencies who played an absolutely critical role in supporting whanau on the ground and will continue to do so.
+
+We have brought back PACE, a scheme that supports our artists and our creatives in a time that has been devastating to their sector and made sure in the meantime that they were eligible for the wage subsidy.
+
+But truly investing in our people, means much more than just an income.
+
+Long before Covid, as we faced the challenges of digital transformation, the changing the nature of work, the need to move to a low carbon economy, and issues of low productivity. There was already a pressing need to prepare our people for a very different future through training and retraining.
+
+Now we have the opportunity to make sure our Covid response does just that, and to do what I have heard Joseph Stiglitz calls “double duty” - solutions that solve multiple problems, and get us ready for what the future holds.
+
+That’s why we made a $1.6 billion investment in trades and apprenticeships training, which includes making all apprenticeships free.
+
+We’ve also made those areas of vocational training where we need people the most like building and construction and mental health support workers – all free. The potential impact of these policies is huge.
+
+I was talking to someone from one of our industry training organisations recently who reminded me that this is not just a policy for those exiting school.
+
+He had received a call recently from a mum, whose son had seen an ad for the trades. He was already in the work force, but was deeply unhappy. He decided to retrain, and in her words, it had saved his life.
+
+But retraining isn’t enough if there aren’t jobs to go into at the end of it.
+
+**And this is where the second part of our plan kicks in, what I like to simply call, jobs, jobs, jobs.**
+
+Again this is where we are marshalling our resources to ensure there are not only jobs available but that they are in areas that address long term challenges – the under investment in infrastructure, housing and protecting our environment.
+
+Now stay with me as our run through this, because these initiatives are substantial.
+
+First is the Big New Zealand Upgrade Programme designed to tackle our core infrastructure deficit. We announced it at the beginning of the year, and it amounts to $12 billion of road, rail, public transport, school and health capital funding. It could not have come at a better time.
+
+It’s expected to create thousands of direct and indirect jobs in every community in New Zealand – already more than 1200 schools have had projects totalling over $200 million approved or completed; delivering new teaching spaces, laboratory upgrades and much needed renovations, opening up job opportunities the length and breadth of the country.
+
+Next up is our investment in housing. During Covid-19 something many of us thought wouldn’t be possible in such a short space of time happened – we housed our chronically homeless.
+
+Now we need to keep it that way.
+
+As part of our Covid response we have committed funding to providing an additional 8000 public houses, bring the total number of state and transitional houses to be built by this Government to over 18,000 by 2024 – thank you Megan Woods and Kainga Ora.
+
+It is the largest house building programme of any Government in decades, and I’m proud of it.
+
+But when we’re talking about infrastructure, it’s not just about the projects we in the government are responsible for, we also have the opportunity to partner with communities, with iwi and local government.
+
+That’s what the $2.6 billion worth of shovel ready projects we announced earlier this week were all about.
+
+Things like Home Ground, a project by the Auckland City Mission that will provide 80 apartments with wrap around support and care, or the Poverty Bay Rugby Park Grandstand, least Kiri Allen stage a sit in, right through to the Invercargill inner city development.
+
+Collectively these projects are estimated to create over 20,000 jobs in the next 5 years.
+
+But there is one more area where double duty can be truly brought to life. And that is our environment.
+
+We campaigned on cleaning up our waterways.
+
+David Parker, alongside ministers like Damien O’Connor, has worked tirelessly on delivering on that promise, and we have.
+
+The essential freshwater programme aims to make our rivers swimmable again. But we know there is much we can do to support this work. And now is the time.
+
+In the Budget we allocated $1.1 billion for nature-based jobs.
+
+DOC already has a number of conservation projects already underway, such as clearing wilding pine, but we are now stepping up the pace.
+
+Today I am announcing a package of 23 projects across the country that will clean up our waterways and deliver over 2,000 jobs.
+
+These projects will help restore our wetlands, rivers and streams, regenerate native bush and control pests while creating much needed meaningful work in the regions.
+
+Whether it’s Environment Southlands plans to actively manage 1000 of their top biodiversity sites across 300,000 hectares with pest control, wetland creation and fencing.
+
+Or Tairawhiti Environment Centre who plan to create hapu employment opportunities through hill country restoration and erosion mitigation.
+
+Or Bay of Plenty regional council who will create 170 jobs through a conservation cadets programme.
+
+These are projects that are ready to go and have the support of local councils and iwi.
+
+They’re projects that are not just part of our recovery, they are part of our rebuild.
+
+They will help restore our environmental reputation to what we know it should be, a reputation that underpins so much of our tourism, our trade, our brand.
+
+These initiatives aren’t just double duty, they’re triple, and they’re helping pay down the environmental debt that would otherwise be paid by the next generation.
+
+That brings me to the third plank of our plan – preparing for the future.
+-------------------------------------------------------------------------
+
+Restoring our environment is one thing, decarbonising it is another.
+
+Investments in waste management and improving energy generation will be key- and this is where I am signally there is more to come.
+
+Preparing for the future also means supporting our businesses to innovate, especially as we go through a period of digital transformation.
+
+There will be few among us who haven’t changed our routines and habits as a result of Covid-19. By the end of lockdown I can confirm that Damien O’Connor did indeed discover the unmute button on zoom.
+
+We want to support our small businesses through this digital transition, which is why we established a $10 million fund to incentivise e-commerce and train more digital advisors.
+
+It’s also why we will keep encouraging innovation in all forms. So we’ve created a $150 million fund to provide loans to R&D-intensive businesses.
+
+All of this builds to the **fourth part of our plan, supporting our small businesses, our entrepreneurs and our job creators,** work that is being ably led by Stuart Nash, and on this occasion I don’t mind you recording what I say next.
+
+One of the first thing we did when the virus arrived in New Zealand was to introduce the Wage Subsidy programme.
+
+Over 1.6 million New Zealanders have benefitted from the scheme – keeping them in work, and providing them with an income during the most difficult months of lockdown.
+
+It has meant our unemployment rate hasn’t spiked as it has in other countries where there has been little or no support to keep businesses and their staff afloat.
+
+I know this part of our plan has made a huge difference to business owners, because they have told me that. In fact, over the course of our Covid response, during lock down and beyond, Grant Robertson and I would frequently discuss some of the mail we were getting from employers. I remember at the end of a particularly hard day, Grant sent me a message.
+
+It was headed “Kia ora from a small business in Blenheim”
+
+It read “12 weeks ago today we received the wage subsidy to help maintain us during the tough times. I have to admit I had a lump in my throat when I explained the prospects to our staff at the end of March. Many scenarios played out in my head, but I promised that we would all hold tight for the 12 weeks of the subsidy and do our best.
+
+You all know how the last 12 weeks has played out so I thought it prudent to offer my sincere thanks. We are now back on our feet and even taken on a staff member laid off from another related business.
+
+The email was signed off with a simple, “No grizzles here. Nga mihi maioha.”
+
+But I want to say thank you back. To all those businesses who passed on that wage subsidy and provided that shelter to others, who worked so hard and gave so much to help over 1.6 million New Zealanders people put food on the table - nga mihi maioha to you.
+
+And now, our support for you must continue.
+
+Alongside the wage subsidy sits the Small Business Loan Scheme. This scheme provided access to zero interest loans, administered by IRD and underwritten by the Government.
+
+It filled a much needed gap not being filled by the banks and helped business meet their cashflow needs.
+
+Not so long ago I met a business owner in the Hawkes Bay – they shared their story, and that the loan scheme had provided them with a buffer as they faced the uncertainty of rebuilding their business in such unchartered territory.
+
+A building services business told us the loan gave them breathing space after lockdown. They had a lot of outgoings but nothing coming in so the loan bridged the gap as work came back on stream.
+
+These businesses are not alone in facing cashflow issues - we’ve received more than 90,000 applications from small businesses so far, and paid out over $1.5 billion in loans. Around 80 per cent of firms who applied have between one and five staff.
+
+Currently this much needed lifeline is due to close for applications on 24 July.
+
+Today I am announcing that will be extending the scheme through to the end of the year.
+
+This means those businesses who are doing ok now, but who may experience cash flow difficulties further down the track will still have access to it.
+
+**And the final plank of our five point plan is to continue to position New Zealand globally** as a place to trade with, to invest in, and eventually to visit again.
+
+This has been an export led lockdown, and so too will it be an export led recovery.
+
+Since February 1, our merchandise exports to the rest of the world have kept pace with last year’s, which is incredible during one of the biggest global recessions the world economy has seen.
+
+Exports of Gold Kiwifruit in March were double the same month last year. The rest of the world wants not only our protein, but our furry fruit as well.
+
+It’s no surprise. We market ourselves based on our clean, green and safe production. But we cannot take that for granted.
+
+That’s why a few months ago we provided $200m to help exporters re-engage with international markets, and support firms looking to export for the first time.
+
+It’s also why we continue to expand our trade relationships. The limitations of the last few months didn’t stop us launching our free trade agreement talks with the UK - apparently Boris is interested in importing Orcs. And before that gets written up as a metaphor I’m pretty sure he meant it quite literally. I’m yet to break it to him that they are fictional – at least they are outside of politics anyway.
+
+But our position on the world stage will continue to be linked to the ability to come here. To be part of the culture of Aotearoa, to experience this place, our environment and our manaakitanga.
+
+We are investing $400 million in tourism because we know it is part of our future, and because open borders will be again too. It is not a matter of if, but when it is safe
+
+And on that, we already have work underway.
+
+We are progressing with all the checks and balances needed for a trans-Tasman bubble, and also on reconnecting with our Pacific neighbours. We have a framework in place will help Cabinet made a decision on when quarantine free travel with these parts of the world should resume.
+
+In the meantime, we are applying the same approach we have to biosecurity at the border, to health, working with the likes of Singapore on smart border. And I thank Jenny Salesa and her team for that work. All in preparation for developments like rapid and reliable testing at the border, or treatment.
+
+Covid is hitting everyone hard, and it’s hit every aspect of our lives.
+
+So that’s what our response has had to do. That’s why our immediate response has been to be support our people, and invest in them. But as we move to recover and rebuild, we must also grow and create jobs, but not just any jobs, but the kind that supports the investment we are making in infrastructure, the environment, and our future.
+
+There wasn’t a playbook for Covid. There wasn’t a play book for the recovery. And speaking frankly, there hasn’t been one for much of what has happened this term.
+
+But as a team of 5 million we have achieved so much anyway.
+
+We have shown grit and determination.
+
+We have shown unity.
+
+We have shown a commitment to supporting one another.
+
+And Labour has been there every step of the way.
+
+So today my ask of you is simple.
+
+Don’t put on the breaks when now more than ever is the time that we need to speed up.
+
+When we need to put people at the centre of our recovery.
+
+When we need to do what Labour has always done.
+
+So let’s keep up the momentum.
+
+Let’s keep rolling out our plan.
+
+Let’s keep rebuilding
+
+Let’s keep moving
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

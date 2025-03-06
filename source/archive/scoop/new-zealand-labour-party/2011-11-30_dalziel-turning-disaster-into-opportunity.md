@@ -1,0 +1,137 @@
+---
+slug: dalziel-turning-disaster-into-opportunity
+title: "Dalziel: Turning Disaster into Opportunity"
+date: 2011-11-30
+source-url: https://www.scoop.co.nz/stories/PA1111/S00521/dalziel-turning-disaster-into-opportunity.htm
+author: new-zealand-labour-party
+---
+Dalziel: Turning Disaster into Opportunity
+==========================================
+
+**Wednesday, 30 November 2011, 2:58 pm**  
+**Speech: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Hon Lianne Dalziel  
+MP for Christchurch East  
+Australian & NZ Institute of Insurance & Finance Conference  
+Wednesday 30th November 2011  
+Sky City Convention Centre  
+Auckland  
+1.20pm
+
+**Turning Disaster into Opportunity**  
+I wish to begin by thanking you for inviting me to present this address today. As a Member of Parliament outside the government there have been few opportunities to publicly reflect on the recovery issues facing Christchurch, and I welcome the opportunity this presents to provide you with a glimpse of life from the eastern suburbs of Christchurch and the challenges we face.
+
+I have given my address the title Turning Disaster into Opportunity because despite some of the criticisms I will level at the recovery effort, I remain committed to and optimistic for the city of my birth. As an elected representative I feel a personal sense of obligation to my constituents and to the city as a whole. That’s why I want our earthquake legacy to be a powerful message of recovery leading to new opportunities that makes us more resilient and more committed to sustainability than we were before – and that is a legacy that I want us to share with the rest of New Zealand, so that the cost of rebuilding our city becomes an investment in our future as a nation.
+
+Social capital and resilience were words which I thought I understood 18 months ago, but a 4.35am wake-up call on Sept 4 last year and the even more devastating Feb 22 event and all that followed have left me with a practical understanding of something that was nothing more than theory until then. There is much to learn from our experience in Christchurch.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+I have read a lot about disaster recovery this year; I’ve attended several seminars; I’ve met with the Queensland Reconstruction Authority and visited the Disaster Prevention & Research Institute at Kyoto University, as well as a number of agencies in Kobe, which experienced a 7.2 earthquake just over 16½ years ago. Can I say that there is a wealth of international expertise out there wanting to help us. And it is a shame that I found it easier to get access to international authorities than the local authority. I wish to share some of the insight I have gained and reflect on what I believe would not only help Christchurch in its recovery, but also provide the basis for better preparedness for future disasters.
+
+Last year, on the fifteenth anniversary of the Great Hanshin–Awaji Earthquake which struck Kobe and surrounding areas, the Hyogo Prefecture published a booklet called ‘Disaster Management in Hyogo Prefecture – working towards disaster reduction based on experience and expertise.’ They listed the lessons they have learned – the importance of preparedness; the importance of an initial response, (they identified the lack of disaster management personnel and what needed to be done with telecommunications paralyzed); the importance of cooperation among disaster management organisations; the importance of community response capability (it was estimated that 80% of people were rescued by family or neighbours); the importance of making cities disaster-resistant. The booklet sets out the planning they have instituted over the preceding fifteen years to address all of these. The biggest legacy is the Hyogo Framework for Action which is an international strategy for disaster reduction that identifies the need to mitigate risks but also the effects of a disaster.
+
+One thing I have learned is that we prepare well for disasters in New Zealand – but we have not yet learned how to prepare for the recovery. And in this we are not alone.
+
+What I didn’t appreciate before I started my research is that preparedness and response are only the beginning of what is a much longer journey after a disaster; and that is the journey to recovery. We have all heard the expression that response is the sprint; recovery is the marathon. What happens in the immediate response though can have a lasting impact on the recovery, which is why I am convinced that we need to be better prepared for the recovery. Following the Civil Defence & Emergency Management planning template the recovery process kicks in immediately after the response is initiated and runs parallel to the response effort. There is then a managed transition to the lead role when the response phase is over.
+
+In Christchurch, the recovery process was in place within 48 hours of the first earthquake. It is a textbook model which saw a regional co-ordinating role established around four task-groups – economic environment, social environment, built environment and natural environment – all centred on the community which sits at the heart of the recovery effort. It is the role of those leading the recovery to focus on the immediate and long-term needs of the affected communities, as well as establishing a platform for identifying the opportunities that are presented. As our own Canterbury Civil Defence Group Plan says: ‘recovery must not just aim at recreating the past, but creating the future’. Or as one of the presenters at a recovery seminar I attended said – ‘it’s not about bouncing back – it’s about bouncing forward’. But something went wrong and we need to understand what that was so we can learn from the mistakes that were made.  
+
+So what did go wrong? Very simply, the government managed to render inactive the very part of the template that was designed to automate the recovery process and the transition to recovery from response, when they set up the Canterbury Earthquake Recovery Commission (the Commission). I believe this was inadvertent, but it has cost Christchurch – not just financially but also in terms of the confidence of the communities that were affected by the first earthquake. When the Minister admitted to me later that he hadn’t read the recovery chapter of the Canterbury Civil Defence Group Plan, I wasn’t surprised.
+
+The Commission was established as part of the emergency legislation, passed under urgency 10 days after the September earthquake, which meant it did not go through the usual regulatory impact analysis process; which in turn meant its design benefited neither from detailed analysis of recovery best practice, nor from the scrutiny and feedback from experts that consultation would have provided.
+
+This inadequate process exacerbated the confusion about who was meant to be doing what, which effectively unraveled the recovery planning processes that were already in place. The Christchurch City Council completely failed to take over the role of leading the recovery for Christchurch as the Civil Defence & Emergency Management regime required and decided to operate ‘business as usual’ processes, effectively stalling Christchurch’s rebuilding effort as well.
+
+This was not the case in the Selwyn District Council or the Waimakariri District Council – the latter of which must be recognised for the extraordinary role that it played – with community engagement at the core of all its decision-making and communication.
+
+Meanwhile, back in Christchurch, virtually nothing happened to advance our recovery from the moment the Commission was up and running until the February earthquake struck. There was no recovery plan and no-one in charge. The government and the Christchurch City Council must learn the lesson of this failure.
+
+The February earthquake saw the Commission replaced by the Canterbury Earthquake Recovery Authority (CERA). But it wasn’t set up under the legislation that gave it its powers – the Canterbury Earthquake Recovery Act (which was also passed under urgency). CERA was established the week before under the State Sector Act as a government department. The Cabinet Papers may have referenced international best practice but there was no evidence to support CERA being a government department. Every example they cited had a layer of governance between the authority and the politicians. And this remains a fundamental weakness in CERA’s design - they have replaced an independent body with no power with a powerful body without independence.
+
+I have been critical of what I have observed as government spin designed to influence what people outside the particularly affected communities think is happening, as opposed to genuine and meaningful engagement with the affected communities. The government always announces its decisions to the media as opposed to the affected communities, without preparing those communities for what will be devastating news to some, and this is having an impact that the rest of the city and the country cannot see.
+
+The Minister is convinced that consultation and community engagement hold up the decision-making process. My very strong view, backed up by what I have learned this year, is that community engagement actually strengthens the decision-making process.
+
+When I was talking to the Queensland Reconstruction Authority they said that the most important take-home message was communication, communication, communication. My experience is that this is true.
+
+I want to describe Brooklands to you. It is a small self-contained community tucked in alongside a lagoon between the Waimakairi and Styx Rivers. They have a volunteer fire brigade, an active residents association, they operate a civil defence sector post and they own their own community hall. They were badly hit in the first earthquake and hardly touched in the second one. I drove out there on the day of the first earthquake and was on time for the first civil defence meeting at 9am. There was nothing to report because they hadn’t been contacted yet. People were confused and wanted to know what was going on. A week later and reassurance was being offered by the Prime Minister. It was clear that the community knew about the EQC land cover by then, with the formula potentially leaving them out of pocket. The government knew about the issue and would be working on it.
+
+There followed the Stage 1 & Stage 2 reports from Tonkin & Taylor – as MPs we took these reports out to the communities and helped them understand the issues. People were pleased that virtually all properties could be rebuilt. It was good news in Brooklands – the colour on the map just meant that co-ordination would be required for the rebuild.
+
+We then saw the Kaiapoi community being involved in discussions about the rebuilding plans with their Council on the other side of the Waimakariri River and yet we still couldn’t get answers from our Council about the impact of a Plan Change that introduced new finished floor levels in flood management areas, which included Brooklands.
+
+And then February happened. Nobody told anyone that this was a game-changer. But there was no need in Brooklands. The government’s announcement that they would have to revise the land decisions didn’t impact on them at all.
+
+And then there was June 23 announcement – and they were zoned orange – a state of limbo they hadn’t expected. They were told they would know their zoning in 2-6 weeks. At the end of that period they were told that further work was required. Apparently the snow had affected the opportunity to re-fly the LiDAR plane. And then there was the October 28 announcement to the media – Brooklands remained orange. Members of the community went on line to a system that crashed – only to find out that their decision hadn’t been made. Why did the government not tell them that they weren’t in this announcement?
+
+And then November 17 – no warning; just an announcement to the media. A journalist went to Brooklands to get a response and ended up being the bearer of bad tidings to many people – they were red and would have to leave their community. And the promise that the government would be looking at the difference between the EQC payout on the land and its real worth – that’s ended up being lost in the narrative that because property prices fell on average by 5% the 2007 rating valuation is an extremely fair offer to people in the red zone.
+
+This is no way to treat people and is no way to promote recovery. How does a community recover from this? And what happens to those individuals who want to take the money and run and think discussion about staying is threatening their choice? And what happens to communities when they are treated this way?
+
+I think Brooklands is a community that could be moved. It doesn’t mean every single person would have to go, but having heard what it is about Brooklands that people love, and having described the social capital and resilience of this community, I think there should be options for swapping nearby land that does not pose the same risks.
+
+I use this example because I want people to know what challenges are faced. But there are plenty of others. And they relate to the narrative I spoke of. I sat next to someone who knows that I have been red-zoned and he said well at least you get a new house. I said that wasn’t going to happen because my insurer could repair my house. He queried this saying that he thought we had to move because we were red-zoned. I explained that wasn’t the interpretation they have chosen. The government offer is good for me, but I could hardly describe myself as a winner when I would have to borrow $50,000 to $100,000 to buy an equivalent house in another area. This is the trouble with the winners and losers scenario. There are varying degrees of losing.
+
+I believe this could have been avoided by a process of engaging with the affected individuals and using the rating valuations as a starting point rather than an end point. This was the government’s original intention as evidenced by the Cabinet Papers which said that there would be a process to deal with a “material discrepancy” between the rating valuation and the market value.
+
+Such a process would have highlighted the lack of robustness around the establishing of land values for rating purposes and then using it for another purpose. It also could have given a better picture what land needed to be released for subdivision and whether any government intervention was required. Putting thousands of people into the market at the same time has an effect on land prices and house prices, as many of my constituents have found out. And it’s had an effect on rental prices as well.  
+It is time that we all took stock of where we are at and committed to recovery planning that is both meaningful and well-resourced. That’s why I agreed to speak today. Your industry has to be at the table with central and local government, but you also need to be part of the community engagement so you better understand their needs – not just as individual customers, but as communities – so that you can work in a collaborative way that helps rebuild those communities.
+
+Part of the problem as I see it is that there remains a lack of leadership in the recovery despite the fact that the government chose for CERA an inspirational leader in the true sense of the word. But he must be given the chance to perform. He needs to be reporting to a board not a Minister. He must be free to devolve recovery planning down to the affected communities so that we can tap the wealth of local knowledge that lies within them and so that we can get everything on the table, including all the potential opportunities that must emerge from the disaster if we are to gain any meaning from it all. And it must be truly apolitical – using MPs, councilors, community board members and leaders from community groups, residents associations, churches, sports clubs, businesses – as partners in recovery not political risks to be managed.
+
+In presenting my submission to the Christchurch City Council’s Central City Plan, I felt there was something surreal about following on from a developer who was pleading for a realistic plan that would mean his investment would earn a commercial rate of return. I ditched my submission and pleaded with them to develop an investment strategy and to see the developers, the business community and all central city tenants many of whom have locked into lower cost, longer term leases, as stakeholders in the future of the city, not submitters on a plan.
+
+Unsurprisingly, the public reaction to businesses saying that they may not be able to reinvest in a city that limits building heights and reduces car-parking was a negative one. Letters to the editor tell the businesses that if that is their attitude they can go; but if we want to rebuild our city we need investment from our investors and business communities. A much more structured approach to community engagement around the ‘Share an Idea’ campaign, which did inspire interest, could have prevented this pointless division. It should not be an either/or. The truth is we all have a stake in our city and the decision to split the recovery planning between the central city and the wider city was a political decision. And yet what is possible in the CBD will require detailed geotechnical advice as to what lies beneath. Our forbears built our city on a swamp, which includes liquefiable estuarine silts as well as river gravels. The gravels that give strength to the suburbs to the west of Hagley Park do not give uniform strength to the land within the four avenues and maybe we should be preparing the community for what is possible before asking them what they want.
+
+I hope I don’t sound unduly harsh, but I am frustrated that the people leading the recovery both within the CCC and within CERA don’t appear to have any understanding of the knowledge that has been gained from other disasters. I keep returning in my mind to New Orleans post Katrina, where the most compelling analysis for me was one that identified the missing story – understanding what was going on in New Orleans pre-Katrina.
+
+This invites an analysis of the historic choices that left New Orleans vulnerable to what occurred – pre-existing patterns of physical development, issues of public risk and levels of community resilience, all wrapped up in the overarching issue of sustainability. By ignoring the third story in the recovery process, pre-event vulnerabilities can be simply re-entrenched. It also means that vulnerable communities can be further marginalised as against those powerful interests who always have access to the corridors of power and who have in many cases invested considerably in the status quo – which is why ‘business as usual’ is anathema to genuine recovery.
+
+These are serious issues for Christchurch. There are high stakes in play depending on who owns what in terms of residential and commercial development opportunities under the existing plans and strategies; and it will be important to ensure that there is full disclosure. I have been calling for transparency and accountability – not as a political slogan, but as a baseline for a recovery effort that must be centred on people.
+
+Christchurch’s recovery must identify those historic choices. Patterns of physical development includes for me the nature of the affected suburbs in terms of how they operate as communities – one question I have asked is where are the places where communities naturally gather so that information hubs can be established immediately. Communication is vital from day one and does not diminish in its importance. Some communities have small shopping centres or are well-served by purpose built facilities, community group offices, school halls, church halls or club rooms. It is much harder to communicate with communities when there is a major gap in their community infrastructure.
+
+Public risk is the second historic choice and this is about where we have chosen to build our suburbs. This is not an exercise in identifying earthquake risk either. We know where our soils will experience liquefaction in an earthquake event, but our topography coupled with better science on future ocean levels and planning for storm events presents major areas of risk around inundation. Water views have always attracted a premium for residential property, which is why I keep telling people that the west/east divide is not simply one of socio-economics – people’s dream homes were destroyed along the wetlands, the rivers and the lake reserve.
+
+As citizens we are entitled to a full transparent analysis of the damage that has occurred to our suburbs and the risks that we face as a result. We needed more than government announcements - we needed reassurance from qualified professionals about what could have realistically mitigated against those risks and what the cost would be. We still need time to ask questions and time to come to terms with the reality that we may have no choices about whether we rebuild or not. I have had many people say – we should never have been allowed to build here and threaten to sue the Council for authorising it to occur – I believe recovery requires us simply to look back for the purposes of learning lessons we will not repeat and look forward to designing the ideal community that will strengthen our resilience for the future.
+
+Community resilience is the third historic choice and I would choose this first in the immediate aftermath of a disaster. The eastern suburbs were overlooked by the powers that be (and I don’t mean the utilities companies and roadworkers and the civil defence suburban team and the myriad of volunteers) – I mean those responsible for communicating with people in their damaged homes and those making centralised allocation decisions for resources who failed yet again to connect with the sources of local knowledge. What the eastern suburbs can take pride in, however, is the way that people stepped up the plate. I can say without a shadow of a doubt that the community with the most resilience factors that was more hard hit by the second quake is a lower socio economic community called Aranui and that is because they have been practising community development for the past decade.
+
+When I read New Zealand’s national progress report on the implementation of the ‘Hyogo Framework For Action’ I understood why this hasn’t been identified in the current reviews of the earthquake. And that is because the government appears to have no idea what community development is and no comprehension of what is needed to build resilience and social capital and this is despite the local regional council being involved in a number of resilient community projects.
+
+  
+And the last item on the historic choices list is sustainability. And for me I have told every group who wants to “help” our recovery that what they offer must be sustainable. I have said the same to those who want to help rebuild our communities – let us use our own people. Make it a condition of the contracts that locals are first. Turn our local high school into a trades academy that provides free foundation courses for students and for adults wanting to join the decade of rebuilding. Sustainability is also about our building codes and the opportunity to make our new houses more energy efficient and capture the capacity of the sun and the rain. Sustainability is also about ensuring children learn to be more self-sufficient. And sustainability is also about knowing your neighbours – the greatest recovery preparedness strategy which costs nothing but offers everything.
+
+I could describe a litany of failures that have combined to drain away what is the lifeblood of a community in recovery and that lifeblood is hope for the future. We all have immediate needs. But our communities also need to be inspired and we need to believe that life is going to get better. We need milestones that enable us to celebrate along the way because it is going to be a long, slow, arduous journey – and we know there will be setbacks along the way.  
+And we also need to know that our ‘new kind of normal’ is going to be better than getting back to normal would ever be – because that is now lost to us forever. And most importantly we need to know that we can each contribute something of value and that we will be heard so that we can truly own our own recovery and own our own future.
+
+A couple of weeks ago the Assembly of the Baptist Union of New Zealand passed a resolution that recorded its appreciation to all those leading the recovery and rebuild in Canterbury following the devastating and tragic earthquakes of 2010 and 2011. The resolution reads as follows:
+
+_We are praying for you, thanking God for all the good work you are doing, and asking that you may be blessed with wisdom, insight, courage and strength. Our prayer is that because of your efforts and all the efforts of people in this region and nation, future generations will want to say that they were well served by the decision makers and those in authority through these difficult and painful times. We pray that together we all leave a legacy that builds strong and vibrant communities into the future._
+
+This should not have to be expressed as a prayer. This is precisely what is needed and it should not be left to chance.
+
+  
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

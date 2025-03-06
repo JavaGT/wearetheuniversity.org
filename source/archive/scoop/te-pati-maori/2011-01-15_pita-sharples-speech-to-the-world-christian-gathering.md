@@ -1,0 +1,184 @@
+---
+slug: pita-sharples-speech-to-the-world-christian-gathering
+title: "Pita Sharples speech to the World Christian Gathering"
+date: 2011-01-15
+source-url: https://www.scoop.co.nz/stories/PA1101/S00036/pita-sharples-speech-to-the-world-christian-gathering.htm
+author: te-pati-maori
+---
+Pita Sharples speech to the World Christian Gathering
+=====================================================
+
+**Saturday, 15 January 2011, 9:12 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+  
+Dr Pita Sharples, Co-leader of the Maori Party  
+  
+_**He Karanga ki Tua: a Call to the Future – Notes for speech**_  
+**to the World Christian Gathering on Indigenous People**  
+  
+**Friday 14 January 2011, TelstraClear Stadium, Manukau, 7.30pm**  
+  
+**EMBARGOED – CHECK AGAINST DELIVERY**
+
+Mihi and introduction  
+E nga rangatira, e nga iwi kua huihui nei, mai i nga topito o te ao, tena koutou katoa.
+
+To our hosts, and special guests, it is an honour to be in such distinguished company tonight, at this World Christian Gathering on Indigenous People.
+
+My wairua Maori, my Maori spirit, wants to acknowledge our deities and ancestors, in accordance with our traditions.
+
+No reira, me mihi ki te wahi ngaro, ki nga atua, ki nga mana kei tua o te pae o maumahara, tena koutou, tena koutou.  
+Me mihi hoki ki nga mate, ki o tatou tipuna e moe mai ana i te Po.  
+Kei te maumaharatia to tatou rangatira, matua, hoa pumau, a Monte Ohia.  
+Kei tena, kei tena o tatou mate e huihui nei.  
+No reira e nga mate, huia katoatia, haere, haere, haere ki te Po!
+
+E nga rangatira, e nga tohunga o nga iwi taketake o te ao, tena koutou.  
+Mauria mai o koutou mana, o koutou tikanga, o koutou whakapono ki waenganui i a tatou, hei maramatanga mo te ao.
+
+E nga kaiwhakahaere o tenei hui, ka nui te mihi atu ki a koutou katoa.  
+E te iwi e huihui nei ki te manaaki i te karanga o te ra, tena hoki koutou.
+
+_I salute the unseen world, the gods and unknown powers from beyond our experience._  
+_I greet those who have passed before us, our ancestors who rest in darkness. I recall our leader, our father-figure and faithful friend, Monte Ohia._  
+_Each of us brings our own ancestors to this assembly, for us to bid them farewell and return to the everlasting._  
+  
+_To the chiefs and spiritual leaders of the indigenous peoples of the world, greetings to all of you, who bring your inherent status, your values and traditions, and your various faiths, to share with us, and enlighten the world._  
+  
+_I congratulate the organisers of this gathering, and I acknowledge and greet all the people who have responded to the call for us to come together._
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+It is important to acknowledge our creators and forefathers because, in a Maori world view, you see the future by looking to the past.
+
+What lies before us follows what has gone before. We are part of a continuum.
+
+Our history informs my personal vision for the future of this nation – which is what I want to talk about tonight.
+
+Traditional history  
+In pre-European days, our ancestors were confident, secure, autonomous and generous tangata whenua.
+
+They understood their place in the cosmos, their whakapapa relationships with the natural world, their links with other iwi, their own family structures.
+
+They had well-regulated societies, effective leadership and political organisation, systems of justice and dispute resolution, sustainable environmental protection and resource management regimes.
+
+So they had a robust culture and resilient communities. They saw themselves as the equal of any people on earth.
+
+They had enough confidence in their culture and society to engage with the military and technological superpower of the 19th century, to enter into a Treaty with Britain, to enhance their future.
+
+This is what I want for our future generations.  
+I want them to be in control of their destiny, the way their ancestors were. This vision of rangatiratanga has never changed.
+
+The Treaty of Waitangi.  
+When our ancestors signed the Treaty of Waitangi in 1840, they agreed to invite Pakeha settlers to share their lands and resources as an investment in a better future.
+
+The Treaty clearly foreshadowed a plural society, in which the various autonomous hapu would work in partnership with the Crown for the benefit of all citizens of the new nation. The promise has not been fulfilled.
+
+As the realities of colonisation became clear, Maori resisted the Crown’s demands, especially the pressure for extensive sale of lands. Land wars were followed by the imposition of legal and political systems that reduced our people to minor players in this nation, on terms dictated by the Crown.
+
+The main weapon of marginalisation was the systematic and deliberate deconstruction of the Maori, political and social systems, the devaluing of Maori behavioural practices, the condemnation of Maori spiritual and cultural beliefs and the forbidding of basic tikanga and Maori activities.
+
+The result was to completely overpower Maori societal beliefs, habits and aspirations. The village school master taught the 3 R’s in a Pakeha cultural environment. Maori language was forbidden to be spoken in schools right up to the 1950s. The Tohunga Suppression Act 1907-8 legislated against Maori spiritual and cultural beliefs and practices.
+
+The Land Courts deliberately destroyed the Maori land inheritance system which recognised family “rights to occupation” as opposed to the Pakeha concept of individual “ownership”.
+
+Add to this the mass confiscations of tribal lands, and some very dubious land sales transactions, and the result was Maori land holdings being reduced from 66 million acres to 3 million.
+
+Personal history  
+I am a product of this history. As a young man, we grew up quite poor.
+
+My people were farm workers in Hawkes Bay, on lands our ancestors once controlled, as far as the eye could see, from mountain ranges to the sea, and beyond the horizon in every direction.
+
+Our life was based around seasonal farm work, shearing, fencing and general labouring. My mother saw education as a passport to a better future, and I won a scholarship to a Maori boarding school run by the Anglican church.
+
+When I went to Teachers’ College, I joined the mass exodus of the 1960s from the country to the city.
+
+In the cities, away from their traditional guidance and support networks, young families struggled to avoid sinking into chaos.
+
+There were huge social problems in the cities – drinking and family violence, unemployment and poverty, truancy and petty crime, unpaid bills and evictions. For many people, life was lived from day to day, hand to mouth.
+
+Back home, the tribal communities lost their workforce, and their future leaders. Younger adults were not around to be trained up for cultural and tribal leadership roles.
+
+With gaping holes in our extended family structures, our language and history were no longer passed down naturally to future generations. The future for our hapu and iwi was looking bleak.
+
+However, within our own culture, we found sources of strength to turn around this situation.
+
+A generation of progress  
+Over 40 years of work and struggle, passion and pain, we have:  
+\- rebuilt support structures in the city, based on Maori values – urban marae, taura here groups, a Maori health system, our own iwi social services  
+\- fought for recognition of our reo, Maori broadcasting, our own voice on the public stage  
+\- established a kaupapa Maori education system,  
+o pre-school to tertiary,  
+o a generation of fluent and confident young people  
+o Maori have highest rates of participation in NZ tertiary education (Te Wananga o Aotearoa a major contributor to this - Bentham)  
+o 500 Maori PhD students or graduates  
+\- rebuilt the role of iwi and hapu, runanga and traditional leadership, and they engage with the Crown and participate in policy processes as Treaty partners  
+\- led a renaissance of traditional ‘lost’ arts and culture – ta moko, taonga puoro, waka voyaging, traditional karakia and whakapono  
+\- sent Maori leaders to indigenous forums on the world stage, to offer support and guidance to others  
+\- formed a Maori Party in the New Zealand Parliament
+
+Challenges ahead  
+Maori are building our own structures, and developing our own systems, procedures, policies and practices.  
+We need cultural spaces to do our thing, as part of a plural nation.  
+Our difference is diversity, not division.  
+As we work towards rangatiratanga, we also seek unity in diversity.  
+This was the promise of the Treaty – two parties working together in partnership for the benefit of the new nation
+
+Realising a vision  
+Monte Ohia was a role model in all these developments.  
+He knew that just articulating our own vision can make it happen.  
+It’s about inspiration with hope and confidence, and empowerment through personal and collective action – rangatiratanga in action!  
+This international gathering is just one example of his approach - have a good idea, ‘just do it’, and see what happens  
+This is a true ‘act of faith’. There is a spirituality in the way people respond, and miraculous things take place.
+
+Role of churches  
+Wairua has undoubtedly helped Maori to achieve their vision of rangatiratanga. We have a sense of connection to gods and ancestors, and responsibility for future generations.  
+Churches are very much involved in social changes in Aotearoa.  
+Churches played a role in colonisation, and may do in decolonisation.
+
+The New Zealand Anglican Church’s radical rethink of its constitution showed great courage and leadership.  
+A structure based on three tikanga is a possible model for our national constitution, which is under review at present.
+
+Other churches have examined their past dealings with Maori, and have put old wrongs right, and found new ways to work together – not because they were forced to, but because members wanted to.
+
+But the Maori renaissance poses deeper challenges – such as the revival of traditional religious beliefs and the practice of karakia.  
+How does Christianity as a faith respond to that?
+
+I ask myself, how do Maori reconcile their Christian doctrine with traditional beliefs and practices about creation, around death and the afterlife, the worship of false gods, makutu? Does it have to be one or the other, or can we make pragmatic compromises and get on with life?
+
+Can we find a whakapapa connection between the two – that all of us are descendants of God the Almighty, and therefore there is no spiritual conflict, even though our religious paths diverged at the Creation?
+
+In other words, we are all people of faith, with morals and values, and we can work together despite our different religious traditions?
+
+In all fields of Maori development, the challenge is to listen to each other, understand each other, and find a basis to work together in unity.
+
+In politics – can we recognise the fundamental right of all peoples to their autonomy, and make concessions that enhance our common good, without feeling our own autonomy is threatened?
+
+In community, can we find ways to remain good neighbours with those we disagree with?
+
+I believe that if we live by the principles of the Treaty of Waitangi - mutual recognition and respect, reasonable co-operation and the utmost good faith – our hearts can sing Psalm 133:1 –  
+_**“Ano te pai, ano te ahuareka o te nohoanga o nga teina, o nga tuakana i runga i te whakaaro kotahi!”**_  
+Behold, how good and how pleasant it is for brethren to dwell together in unity!
+
+Kia ora tatou katoa.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

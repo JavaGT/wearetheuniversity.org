@@ -1,0 +1,156 @@
+---
+slug: sharples-orewa-rotary-club
+title: "Sharples: Orewa Rotary Club"
+date: 2006-09-27
+source-url: https://www.scoop.co.nz/stories/PA0609/S00578/sharples-orewa-rotary-club.htm
+author: te-pati-maori
+---
+Sharples: Orewa Rotary Club
+===========================
+
+**Wednesday, 27 September 2006, 12:03 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Orewa Rotary Club
+
+Dr Pita Sharples, Co-leader, Maori Party
+
+Tuesday 26 September 2006
+
+(Embargoed until 6pm - Check against Delivery)
+
+  
+I am honoured to be able to speak at the ‘legendary’ Orewa Rotary Club, and I acknowledge President Doug Parker, and Assistant Governor, Ian Carpenter in extending the invitation to me to speak to the esteemed members of District 9910.
+
+Last year, a very significant event occurred, right here, in Orewa.
+
+Yes, it is just over a year in fact on the 15 September 2005, since Hone Harawira, my esteemed colleague spoke at the Orewa Rotary Club - He was welcomed by Ngati Whatua and accorded the respect of manuhiri to this club - but as you probably know the clubrooms were rented for the night - and the club itself was not present. It is great that tonight both sides are represented - I wonder, have we come full circle?
+
+But no, the significant event I was thinking of, happened just down the road at Grand Drive, at the Northern Gateway Alliance offices.
+
+The event was a pre-dawn ceremony in which Ngati Whatua officially handed over their responsibilities for eighty-two mokomoko to Ngati Manuhiri. Ngati Manuhiri would take over the guardianship role for the native lizards in their new home, the open sanctuary at Tawharanui Regional Park.
+
+It was the largest ever relocation of gecko in Aotearoa, and is the first major release to be monitored. The geckos have been in gradual decline and the relocation was essential in investing in their long-term survival.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The event was important for researchers, for environmentalists, for conservationalists, for local Government, and of course for tangata whenua as we view mokomoko as very significant in their role as kaitiaki or guardians.
+
+And yet, I would hasten to suggest that when the location of ‘Orewa’ is mentioned nowadays, it is not the consequences of the mokomoko release that first come to mind.
+
+‘Orewa’ has become a code name for a brand of political conservatism; an abbreviation associated with conflict, with condemnation, with division.
+
+I think it is interesting to note that although the Orewa Rotary Club has long been perceived to have a close association to National, marked by the late Rob Muldoon delivering his State of the Nation addresses here, it has only been in our recent history, that the Orewa experience has generated such hostile public and media perceptions. And as they say in politics, perception is everything.
+
+Yet the volatile political climate that erupted after a speech given in January 2004, at this very Rotary Club, revealed that the judgements issued by Dr Brash have hit a raw nerve.
+
+The challenge now, is how can the nation recover from the damaging impact of that speech, and Labour’s equally harmful response to it? I hope, tonight, to put forward some ideas about the vital need to move forward, together, respecting, recognising and appreciating tangata whenua and all other New Zealanders.
+
+Can I firstly say, that I believe it is extremely sad that the beautiful area of Orewa has been re-defined as a marketing tool for political branding.
+
+My own association with Orewa has always been so positive - your long white sand beach yields such richness of resources which have been enjoyed by my children in the seventies and lately by my grandchildren as well.
+
+Orewa is a base for fishing and gathering shellfish; close to the Mahurangi shark fishing grounds and the Puhoi and Waiwera rivers; and of course also boasts immense forestry resources close by. The large totara and kauri of this region have been prized resources for the construction of waka.
+
+The abundance of natural resources has also been matched with an abundance of other forms of wealth, with a rapid growth in high-rise apartments giving Orewa a reputation of a luxury beach resort.
+
+These associations - and others you in this room will have - are far more diverse than one linking Orewa to an attack on race based policies.
+
+And there will be others not here tonight - those who are proud of their mana whenua connection to this area -who have histories and stories and waiata and haka passed on through the generations that tell another tale of Orewa.
+
+And indeed, even here, in the Orewa Rotary Club, there are stories to be told which go far beyond the limits of political perception.
+
+There is the remarkable work you are doing with the North Shore Hospital Foundation, particularly your support for the advanced cardiac investigation and treatment unit.
+
+There’s the work you do in supporting both short and long-term international youth exchange programmes; the innovative ‘fitness freaks fellowship’, and indeed the national leadership you are currently involved in, in your management of Conference 2007; with I believe a little help from your friends in Kerikeri, Waipapa and others.
+
+Yet these initiatives and realities seldom make the headlines. Does that make them any less worthwhile? Any less honourable? I would suggest not.
+
+I wanted to introduce the Mokomoko recovery project for another reason. The mokomoko is a guardian of wisdom and knowledge and a protector of tribal leadership. When I think of Orewa, I think of Ngati Whatua, and how absolutely fitting that I should be here in Ngati Whatua territory, able to speak of my respect for Professor Sir Hugh Kawharu Paramount Chief of Ngati Whatua, Chairman of Ngati Whatua o Orakei Trust Board for over a quarter of a century and my own personal teacher at Auckland University.
+
+The nation has lost a distinguished leader of the people, a highly respected academic, an authority, an intellectual giant, a chief, and always a quiet, but inspiring diplomat. He has left an impressive legacy of wisdom from which to steer a path forward.
+
+Just four months ago, Sir Hugh presided over the signing of an Agreement in Principle to settle with the Crown, regarding the historic breaches of the Treaty that occurred in Ngati Whatua land. After the signing ceremony on 9 June, Sir Hugh had this to say:
+
+“I do urge people to read the Agreed Historical Account as knowledge of the past adds richness to our lives. I also want our people to understand more about our history, our customs and our language as we are tangata whenua and will be for generations to come.”
+
+It speaks a great deal to me, to the Maori Party, about our ongoing journey forward, as tangata whenua and all other New Zealanders continue to negotiate our understanding about what it means to live in Aotearoa.
+
+So where to from here? Over the weekend there have been some more unfortunate political utterances suggesting that respect for Maori should be predicated on the level of blood quota. The argument put, was that Maori are a ‘diluted race’ and that because of inter-marriage, there are few, if any full-blooded Maori left.
+
+I want to just put on the record, my absolute horror that this argument of blood-quantum, is being perpetuated in this land, at this time, for political gain. The concept of blood-quantum (literally degree of blood) can be traced back to the United States in 1705 when the colony of Virginia denied civil rights to any ‘negro, mulatto or Indian’ - and of the course the rest is history.
+
+The race-based prejudice attached to the blood quantum theory has many serious flaws, - here’s just a few….
+
+1\. It creates an impression that an outside authority (in this case a politician) can tell you if you can or cannot be Maori.
+
+2\. It creates a negative judgement about the impact on inter-marriage, as diluting or threatening the racial purity of the genealogy - which is not helpful nor takes account of the fact that ethnic intermarriage rates for Maori are high.
+
+3\. The argument of blood quantum - by implication - also denies the proud heritage of European New Zealanders, who are identified by a rich combination of cultural backgrounds comprising their blood quantum - from Celtic roots, Anglo-Saxon roots, indeed from a vast roll call of nations.
+
+4\. And most disturbingly: it guarantees the extinction not only of Maori, but potentially of every iwi in this country. By this standard, indigenous nations vanish when a certain blood threshold is reached and white becomes the default identifier. This is what has happened in the United States where identity based on blood quantum is legislated for and has led to the elimination of individuals from their tribal origins and status as indigenous people. The blood quantum ethos also operates in Hawaii and has led to the establishment of different ‘classes’ of Hawaiians.
+
+5\. The irrational nature of this type of thinking is that a politician might through blood quantum legislation deem me not to be a Maori and by doing so, will that also mean that I am not a Ngati Kahungunu? Are such politically motivated utterances designed to catch votes as a speech prior to last year’s elections certainly appeared to have achieved? Are they the thoughts of a naive politician or are they a cleverly crafted ploy at playing the race card once again?
+
+This concept of dividing our blood into parts - how Maori are you - flies in the face of one of our strongest values - the concept of whakapapa - our genealogy. Whakapapa tells us everything about who we are, from whom we descend and what our obligations are to those who come after us.
+
+Many New Zealanders marvelled at the experience of the tangihanga (funeral) of Te Arikinui Dame Te Atairangikaahu - a key component of which was this connection through whakapapa to the generations of tupuna beyond. Whakapapa was recited, tracing the descent line, connecting the late Queen and her descendants, as mokopuna of the iwi, literally a grandchild of the people.
+
+Ngati Kahungunu lawyer, Moana Jackson, sums up for me, our opposition to this ‘part-Maori’ concept. In talking of children who have a non-Maori parent, he had this to say:
+
+“The parts of their heritage which might be English, Chinese or Samoan is never denied, but in Maori terms they are simply mokopuna because it is impossible to have only a “part grandchild”. Whakapapa is not divisible because mokopuna cannot be divided into discrete parts”.
+
+The Maori Party firmly believes that our pathway forward must be a broad path where we can walk together, with our distinct cultural differences valued and acknowledged.
+
+The nation has had enough of talk which divides and fragments. Maori have had enough of being cut into bits, ‘part-Maori’; ‘half-caste’; diluted. We need the whole story, not chapter by chapter.
+
+When I went to England I knew which statue was which in London. I knew about Sir Walter Raleigh, Sir Francis Drake, about William the Conqueror.
+
+But I was depressed that New Zealanders did not know about Te Whatuiapiti a warrior chief, who reigned supreme over Hawkes Bay his whole life. Our history as Maori is not known, the movement of the tribes, the settlement patterns; the rich experiences of tangata whenua have been neglected and rendered inferior simply by omission.
+
+And now we have a Government which seeks to delete the Treaty of Waitangi from our school curriculum; from our legislation; which will threaten our very foundations as a nation.
+
+Our pathway onward must be based on Te Tiriti o Waitangi as the moral and legal source of legitimacy for all whom call this land home. The Treaty is our sacred covenant where chietainship - rangatiratanga is pivotal, and kawanatanga (governance) provides a foundation for the relationship of Maori with the Crown.
+
+The Treaty provides us with the lead in promoting justice; respectful relationships, responsible governance; and guardianship of resources. It provides us with the inspiration for our conversations together to advance, for our mutual benefit.
+
+The Treaty of Waitangi can also be looked upon as this country’s first formal immigration document - inviting settlement from Britain, - inviting the establishment of a Government, and - describing the conditions by which Maori and Pakeha could live together with mutual respect for each others customs and beliefs.
+
+And today, the Treaty still remains in this guise, to take all New Zealanders forward together, to build a strong nation respecting each others differences, but promoting our own brand of unity. By accepting the challenge that the Treaty offers we can work together to progress on what connects us, rather than what divides us.
+
+If we had a chance to talk together, we may find we have common points of view about the remarkable victory of North Harbour in the Ranfurly Shield. We might have similar concerns about the persistent access our grandchildren have to violence on their television screens. And they in turn might share common frustrations about our inability to successfully navigate our blackberry phones, or our DVDs.
+
+We may agree that the pride of knowing one’s family tree is instrumental in strengthening our knowledge, and is a vital treasure to be passed on. We may also share how the old songs, the poetry, the stories passed on to us, are important links to our history; that the ongoing links to our families are invaluable.
+
+And through our connections together, we may build a pathway to respecting our differences, to seeing that diversity can only strengthen us, that a better, more just future, is where we can all express our voice.
+
+We must look to a future where we can celebrate all that is distinctive and treasured about all the peoples who inhabit this land. Where mention of ‘Orewa’ astounds everyone with all there is to offer; where people are not divided into bits or parts, but cherished for all of the experiences which constitute their identity. Where they can be as proud of being Ngati Whatua, or Ngati Wai, or Ngati Kahungunu as they can be of being Pakeha.
+
+One of the most exciting times for me, in thinking of our pathway forward, was the inaugural Tarara Day held in 1999, which celebrated the joining of Maori and Croation cultures on the gumfields more than a century ago. More than 10,000 people attended to rejoice in the thriving Tarara heritage - providing families of Croatian-Maori descent an unique opportunity to be who they are.
+
+Just as the gecko, our mokomoko, has been given another chance to thrive and survive - our nation deserves every chance to celebrate who we are - to create our pathways forward, together. It is a challenge which we can all meet - this meeting tonight has shown me that where there is goodwill, everything is possible.
+
+Tena tatou katoa.
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

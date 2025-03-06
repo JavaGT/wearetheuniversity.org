@@ -1,0 +1,58 @@
+---
+slug: inequality-facing-women-in-tertiary-education
+title: "Inequality Facing Women In Tertiary Education"
+date: 2000-03-08
+source-url: https://www.scoop.co.nz/stories/ED0003/S00014/inequality-facing-women-in-tertiary-education.htm
+author: new-zealand-university-student-s-association
+---
+Inequality Facing Women In Tertiary Education
+=============================================
+
+**Wednesday, 8 March 2000, 2:19 pm**  
+**Press Release: [New Zealand University Student's Association](https://info.scoop.co.nz/New_Zealand_University_Student's_Association)**
+
+Inequality Still Facing Women In Tertiary Education
+
+The New Zealand University Students Association (NZUSA) is today celebrating International Women's day and reflecting on the changes to the political and social rights of women in the century just past.
+
+\"International Women's Day has been celebrated since 1908, and started with a demonstration of women clothing workers for their rights in New York City" said Tanja Schutz, Co President of NZUSA. "Women have been at the forefront of the major socio-economic advancements, such as the extension of right to vote, equal pay for equal work, matrimonial property rights, the Human Rights Act, and the Domestic Violence Act."
+
+"Today women's fight for equity and equality still continues and we still have a long way to go" said Tanja Schutz. "Issues such as paid parental leave, pay equity, quality childcare, ending rape, violence, and poverty, and ending the barriers of user pays in fundamental areas of health and education have not been adequately addressed "
+
+"Statistics which outline that women's pay are 80.5% of men's hourly rate, 77% of women earn less than $20,000 per annum and 62% of people that earn less than $10,000 are women, show that New Zealand society must make a concerted effort to rectify this situation".
+
+"In the education stakes, it takes a women graduate substantially longer than a male graduate to pay back a loan of the same size. The most recent research undertaken by NZUSA and the APSU Student Union indicates that it will take a woman on average 29 years to pay back her student loan, whereas it will take men 15 years on average. Even the Ministry of Women's Affairs has commented on the inequities of the Student Loan Scheme", said Tanja Schutz.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Over the past few years, women in students' associations have run campaigns on paid parental leave, women and user pays, the Student Loans Scheme and its effect on women, and the successful Thursdays in Black campaign, which is a campaign demanding a world without rape and violence. Today, women in students' associations will be continuing this fight through a wide variety of activities planned (listed below).
+
+"Women continue to celebrate their success and fight for our future" concluded Tanja Schutz.
+
+Guide to activities around the country:
+
+In Lincoln, the Hon Lianne Dalziel will be speaking to students and staff, while Otago women will be doing an awareness campaign via a leaflet drop and at Victoria University, Amnesty International have information in the quad, and the first meeting of the Women's group will take place.
+
+At Auckland University, the students' association is having two speakers in the quad to speak on international women's day, and trade liberalisation and its effect on women workers in South East Asia. The Women's Collective will also be launching its crèche campaign - protesting against reduced opening hours at the student crèche, and handing out flowers to women. In Palmerston North, women's from the Massey University Students' Association will be participating in a forum in town on Women and Solidarity. The student radio station Radio Massey will be running a women's music day and there will be a women's concert in the evening.
+
+Ends  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand University Student's Association](https://info.scoop.co.nz/New_Zealand_University_Student's_Association) on InfoPages.

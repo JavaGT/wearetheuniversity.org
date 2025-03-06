@@ -1,0 +1,219 @@
+---
+slug: speech-brash-one-law-for-all
+title: "Speech: Brash - One Law For All?"
+date: 2011-11-09
+source-url: https://www.scoop.co.nz/stories/PA1111/S00173/speech-brash-one-law-for-all.htm
+author: act-new-zealand
+---
+Speech: Brash - One Law For All?
+================================
+
+**Wednesday, 9 November 2011, 2:09 pm**  
+**Press Release: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+**One Law For All?**  
+**  
+Speech by ACT Leader Don Brash**  
+**  
+Tauranga; Wednesday, November 9 2011**
+
+Mr Chairman, ladies and gentlemen,
+
+Almost exactly two months ago, I gave a speech here under the same title: One Law for All?
+
+It didn’t get a lot of attention, and perhaps because of that people in many parts of the country ask me whether ACT remains committed to equality before the law for all New Zealanders.
+
+In one provincial city, after I had given a speech about the serious economic challenges facing our country, almost every question I was asked was about Treaty settlements, about the foreshore and seabed issue, about a perception that Maori have been given a special status in Resource Management issues.
+
+So today, I want to speak once again about this issue. And about whether we as New Zealanders really do want a country where everybody is equal under the law.
+
+A few months back, I was asked on a television programme whether I thought that Maori were ‘special’. I said ‘no’. I could have said that ‘all New Zealanders are special’, but if the question was designed to find out whether I thought Maori should have a special legal or constitutional status in New Zealand, then I stand by my answer.
+
+Indeed, more than that, I believe we have no future as a country if we continue building a society where people of one ethnicity have a favoured legal status as compared with other New Zealanders.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+And lest there be any misunderstanding – unintentional or deliberate – I am not suggesting that this special legal status has made the average Maori citizen better off economically than other New Zealanders.
+
+Nobody thinks that Maori New Zealanders are, on average, better off than other New Zealanders. Yes, there are some very prosperous Maori New Zealanders.  
+But far too many Maori earn well below the average wage.
+
+Maori make up only 15 per cent of our population, but 35 per cent of those on the unemployment benefit, 42 per cent of those on the DPB, and 51 per cent of those in prison.
+
+33 per cent of Maori between the ages of 15 and 19 are not in work, education or training, and in some parts of the country that figure is even worse.  
+Coroner Wallace Bain recently noted that the overwhelming majority of children who die of abuse are Maori.
+
+These are appalling statistics, and strongly suggest that present policies have failed Maori New Zealanders.
+
+We in the ACT Party believe that taxpayers should pay compensation whenever it can be established beyond reasonable doubt that the government acted improperly by confiscating or undermining property rights.
+
+But Treaty settlements will never solve these appalling Maori social statistics.
+
+Fundamentally, dealing with Maori over-representation in all the worst social statistics is not about the size of Treaty settlements, and certainly not about creating a special legal preference for Maori, but about dealing with the underlying causes of the problem:
+
+• The failure of our education system to ensure that Maori teenagers leave school with sufficient literacy and numeracy skills to participate in a modern economy – in a 1995 survey, 66 per cent of Maori adults lacked the literacy skills to participate in the modern economy, and I strongly suspect the situation is no better now;
+
+• The laws which prevent employers taking on relatively unskilled people at a wage which makes sense for employers – no employer is going to take on somebody who can’t read and can’t do basic arithmetic at today’s adult minimum wage; and any increase in the adult minimum wage, which Labour and the Maori and Mana Parties propose, would simply make that problem worse;
+
+• The communal ownership of much of the land owned by Maori. Maori own a great deal of land in New Zealand, and where that land is owned and controlled by Maori incorporations it is often used very productively, and for that we should rejoice. But too much Maori land lies almost entirely unused because, with scores and sometimes thousands of owners, it’s simply impossible for anybody to put the land to productive use;
+
+• And especially the enormous damage done by the welfare system.
+
+These are the fundamental causes of the over-representation of Maori in all the worst social statistics, and until those fundamental causes are dealt with, Maori will continue to be amongst the poorest, the most socially deprived, and the most imprisoned members of our society.
+
+Apirana Ngata warned of the damage which welfare would do to Maori at the very beginning of the welfare state, in the late 1930s and early 1940s. He was right.
+
+Almost 20 years ago, a prominent South Auckland Maori leader told me that, in her considered opinion, the only way to deal with Maori unemployment was to abolish the unemployment benefit completely.
+
+_‘Too many of my people have relatively few skills’_, she said.  
+_‘They can’t live well on the dole, but with three or four sharing a house, and doing a few cash jobs under the table, they can live adequately on the dole.’_
+
+And she saw that as a disaster.
+
+And before anybody leaps to conclusions, no, I’m not saying ACT wants to abolish the unemployment benefit completely. I’m simply quoting a far-sighted Maori leader who recognised the extraordinary damage the welfare system is doing to Maori society.
+
+So the first of the two points I want to make today is that Maori New Zealanders are not being well served by present policies.
+
+What’s needed is reform of the education system, the reintroduction of a lower youth minimum wage to give young people their first step into a career, a resolution of the problem of communal ownership of Maori land, reform of the welfare system, and perhaps the acceptance by Maori leadership that Maori attitudes themselves need to change.
+
+Of the four policy changes needed, three have been longstanding ACT Party policies.
+
+The second point I want to make is that present policies of giving a special legal status to Maori are storing up huge problems down the track and generating deep resentment among many non-Maori. They are impeding progress for Maori and non-Maori alike. And if anything, the trend’s getting worse.  
+Separate Maori electorates date back to 1867, at a time when the only people who had a vote in New Zealand were men who owned property. Since most Maori property was communally owned, virtually no Maori men got a vote. So the Maori electorates were created, initially for just five years.
+
+But of course, now every adult, regardless of whether they own property or not, and regardless of gender, can vote.
+
+The Royal Commission on the Electoral System recommended as long ago as the 80s that the Maori electorates should be scrapped if New Zealand adopted the MMP electoral system. Well, we’ve had MMP for 15 years, but we still have the Maori electorates.
+
+Actually, separate Maori electorates have long since ceased to serve any useful purpose – the number of Maori in Parliament substantially exceeds the number of Maori electorates, proving that separate Maori electorates are simply not needed to ensure that Maori are elected to Parliament. Indeed, in this electorate of Tauranga, not only is the sitting Member Maori, so are most of the other candidates!
+
+But not only have there been no moves to scrap the Maori electorates, we’ve seen a gradual extension of racially-based representation into local government.
+
+The Labour Government started that trend, by giving local governments the option to create special Maori wards. Environment Bay of Plenty was the first to do so.
+
+Then came the Waikato Regional Council, which decided just weeks ago to reserve two places for iwi.
+
+And only days ago, Nelson councilors agreed to set up a Maori-only ward for that city.
+
+The Auckland Council narrowly escaped having special wards for Maori (thanks to the strong opposition of Rodney Hide as Minister of Local Government) but has nevertheless been saddled with a Maori Statutory Board - a board which gives unelected Maori the right to vote on most of the Auckland Council committees.  
+Ironically, when the first 20 councilors were elected to the new Auckland Council, three of them were Maori, which by chance coincided fairly accurately with the number of Maori in the Auckland population.
+
+In the course of an interview on a Maori radio station a few days ago, I was asked how the Maori voice would be heard if Maori electorates and Maori wards were to be abolished. My answer, of course, is that the Maori voice would be heard in exactly the same way as the European voice, or the Asian voice, or the Pacific voice – through the ordinary voting process, where every person, regardless of race, gets an equal say.
+
+The Resource Management Act has long given Maori a special status in resource consents and local government planning.
+
+In drawing up their plans, local governments are required by that Act to consult with their communities – nobody could object to that – and also with iwi.
+
+When I went to school, requiring local government to consult with their communities and with iwi can only mean that iwi are somehow not part of the community. And I would have thought that any self-respecting Maori would find that highly offensive.
+
+Offensive or not, the wording clearly means that Maori have ‘two votes’ when local governments are drawing up their plans – one vote as a member of the community and another, potentially more powerful, vote as a Maori.
+
+You’ve seen how this works here in Tauranga of course, where local iwi have caused major delays to plans by the Port of Tauranga to deepen the port.
+
+It seems that this power of veto may be extended. The National Policy Statement on Indigenous Biodiversity, issued for consultation earlier this year but not yet formally adopted, would require anybody wanting to cut down native plants – such as manuka scrub – to seek permission from both their local council and tangata whenua.
+
+If the Government were to accept any of the recommendations of the Waitangi Tribunal on the so-called Wai262 claim, Maori authority over New Zealand’s fauna and flora – and indeed, over many other aspects of New Zealand life – would be massively extended.
+
+Among other things, the Tribunal has recommended:
+
+• a new Maori Advisory Commission to control patents and plant variety rights, with the power of veto over applications;
+
+• a new Maori Conservation Authority for dealing with all conservation matters; all decisions made by Maori under the Maori consultation processes of the RMA to be compulsory;
+
+• all public sector agencies being required to prepare Maori language plans; and an expansion of the role of Maori in the negotiation of international treaties.
+
+There has long been preferential access for Maori to some university courses, and affirmative action in the form of ensuring one or more Maori on the boards of most SOEs and other government agencies is now routine.
+
+Not content with that, establishing special Maori advisory boards appears to be increasingly common. When the Government established the Environmental Protection Authority, it also established a Maori advisory committee for that Authority, to ensure that the Maori world view was adequately taken into account.
+
+And too often that Maori world view is not based on science but on the animist views of early Maori, not shared by the great majority of Maori in New Zealand today and not shared by any of the rest of us.
+
+Those views are being increasingly listened to, at potentially serious risk to life and limb. Some years ago, the Labour Government refused to take action to clear a channel so that the crater lake on Mount Ruapehu could drain safely, despite failure to do so risking the kind of disaster which destroyed scores of lives at Tangiwai. Why? Because some Maori felt that to do so would offend the spirit of the mountain.
+
+At about the same time, GNS Science, one of the Crown research institutes, went to considerable expense to bring a mini-submarine all the way from Germany to the shores of Lake Taupo to explore the floor of the lake for geothermal, and potentially volcanic, activity.
+
+At the last minute, the local iwi forbade GNS to explore the floor of the lake – this despite the fact that knowing more about volcanic activity under Lake Taupo is of fundamental importance not just to those who live on the shores of that lake but also to all those who live in New Zealand.
+
+In 1999, ERMA put out a publication identifying issues of relevance to Maori for the benefit of those applying to use new chemicals or introduce new plant material to New Zealand. It noted the importance of applicants advising ERMA about the implications of the new product or plant for:
+
+• the sanctity of Maori cultural health and well-being  
+• the recognition of Maori cultural, spiritual, ethical, or socio-economic values  
+• the protection of the mauri (spiritual integrity or life-force) of people  
+• the protection of the mauri of Maori culture, language and knowledge  
+• the maintenance, expression and control by Maori of their traditional practices eg kaitiakitanga, tapu, rahui  
+• the protection of the mauri of valued flora and fauna  
+• the protection of the mauri of the land  
+• the protection of the mauri of waterways (inland and offshore)  
+• the protection of the mauri of air and other taonga
+
+This is surely a daunting list of matters to be considered by any applicant for the use of some new chemical.  
+Similar restrictions apply to the Ethics Committees established to assess whether clinical trials can be conducted in New Zealand. Dr Shaun Holt has written about the utterly absurd problems he encountered when he wanted to test the efficacy of honey as a treatment for a particular skin infection. He was required to consult a Maori health provider to ‘make sure there were no cultural issues if any Maori children took part’.
+
+And of course, Aucklanders are familiar with the notion that a taniwha under Auckland would need to be appeased before any underground railway was built under that city.
+
+I mentioned a moment ago that the ACT Party supports taxpayers – and that’s what we finally mean when we speak of the Crown – paying compensation whenever it can be established that some legitimate property right has been confiscated.  
+But there is a seriously worrying suggestion that, in at least a number of cases, compensation has already been paid for those 19th century wrongs, in some cases more than once.
+
+There is also evidence that the decision-making process has become seriously corrupted, with witnesses put under pressure to provide only the information which justifies additional compensation being paid.
+
+If compensation for historical wrongs is to retain broad community support, it’s absolutely imperative that the decision-making process is completely robust, and free from any suggestion of bias or corruption. Unfortunately, that’s not the case at present.
+
+In recent years, a great deal of attention has focused on the foreshore and seabed, or the marine and coastal area as it’s now called. This attention was driven, of course, by a legal case which concluded that a Maori tribe might have some right to claim a customary title to a part of the coastline in the Marlborough Sounds, and that the tribe concerned should have the ability to test that claim in the courts.
+
+After much controversy, the National-led Government, with the support of the Maori Party but not of the ACT Party, passed the Marine and Coastal Area Act. Alas, that appears to have satisfied nobody.
+
+Many Maori are angry because they seem to think that they should have ownership rights to most of the foreshore, and the seabed extending well out from the shore, and potentially the resources which lie below. The leadership of the Maori Party defend their support for the legislation by saying that they got as much as they could from this Government, while implying that they’ll be seeking more when the opportunity presents itself.
+
+Most other New Zealanders deeply resent any suggestion that the foreshore is not the common property of all of us, to use and enjoy as we choose, and ridicule the idea that Maori could ever, with a straight face, claim to have been in exclusive use of the seabed miles from the shore.
+
+The ACT Party believes that, except where small slices of the foreshore are already in private ownership – often as a result of coastal erosion – the foreshore and seabed should be in Crown ownership – in other words, held on behalf of all New Zealanders, irrespective of ethnicity. But we also accept that, if equal rights under the law are to be respected, people should have the right to go to court – not to a ministerial office – to test their claim to have a customary right to some parts of the foreshore.
+
+Unfortunately, there is an increasing trend to regard the Treaty of Waitangi as having established some kind of formal partnership between Maori on the one hand and the rest of us on the other, as Lord Cooke seemed to conclude back in 1989. Indeed, not only a formal partnership but one where Maori and other New Zealanders share in decision-making on a more or less equal basis.
+
+What did the Treaty of Waitangi really say about this issue? In fact, the Treaty is absolutely unambiguous. It says quite explicitly that all New Zealanders are to have the ‘rights and privileges of British subjects’. That was an extraordinarily enlightened statement for 1840. But extraordinary or not, that’s what it says, and in my view that’s a great basis for a modern democratic New Zealand.
+
+Apart from anything else, it avoids the whole debate about who is and who is not entitled to be called ‘Maori’, and to enjoy the legal privileges currently associated with being Maori.
+
+  
+It doesn’t matter whether Maori really are entitled to be called ‘indigenous’, whether they arrived in New Zealand first, or indeed when they arrived in New Zealand.
+
+It doesn’t matter whether all of a person’s ancestors were Maori, or whether only one of 64 ancestors was Maori.
+
+It doesn’t matter which version of the Treaty document is the ‘real Treaty of Waitangi’.
+
+In one sense, even if the Treaty of Waitangi did not say that all of us have equal rights, having equal legal rights is really the only way forward for a modern society. There can be no peace where people of different races have different legal rights, and we’re extraordinarily fortunate that our founding document already provides for such equal rights.
+
+Back in 2004, when I was Leader of the National Party, I met with a particularly wise Maori – actually, I tried unsuccessfully to persuade him to be a candidate in the 2005 election. I asked him about his vision for New Zealand’s future. He told me that his vision was that, in 50 years’ time, an educated New Zealander would be fully familiar with the Bible, with the writings of the Greek philosophers, with the works of Shakespeare, and with the writings of both Apirana Ngata and Confucius. That’s a vision I share.
+
+New Zealand culture has never been simply English culture. At one time, it might’ve been described as a blend of two cultures, European and Maori. Today it’s a tapestry of many cultures – European, Maori, Polynesian and Asian – all of them contributing to the richness of New Zealand life.
+
+Last month, the All Blacks made us all proud as New Zealanders by winning the Rugby World Cup. The All Blacks are made up of players of European, Maori and Pacific Island descent. They all had a single goal, to win for New Zealand.
+
+And they did. On the field, they were equals. That’s the goal we must aspire to – one nation of many peoples, all equal before the law.
+
+The only way in which we can all proceed into a peaceful and prosperous future is on the basis of equality under the law.
+
+The ACT Party is absolutely committed to that equality, and at the moment ACT is the only party committed to that equality.  
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

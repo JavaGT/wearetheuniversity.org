@@ -1,0 +1,106 @@
+---
+slug: new-zealands-natural-capital
+title: "New Zealand’s Natural Capital"
+date: 2001-02-22
+source-url: https://www.scoop.co.nz/stories/PA0102/S00355/new-zealands-natural-capital.htm
+author: act-new-zealand
+---
+New Zealand’s Natural Capital
+=============================
+
+**Thursday, 22 February 2001, 5:16 pm**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Thursday 22nd Feb 2001 Gerry Eckhoff Speech -- Other
+
+Speech to the Sunrise Rotary Club, Christchurch
+
+New Zealand’s natural capital is made up of land available for agriculture, for tourism and for mineral extraction. These natural resources and ecosystems provide us with essential life support systems. Our air and water, the soil and climate gives New Zealand its natural fertility. Our scenic beauty and topography, including the seas around our coasts, provide facilities for skiing, sailing and sightseeing. The oceans and forests provide life-sustaining resources. The earth gives up minerals and gas upon which we are dependent until the next ‘bridge to the future’ is found (e.g. hydrogen fuel cells). Why then do we ignore such natural bounty by denying the economic value of our greatest assets?
+
+The greatest asset of any country is unquestionably its human capital. To realise the potential of that human capital requires investment, which can only come from our natural resources. We can then build a vibrant country based on technology, and the creativity and innovation for which New Zealand was once famous. Such investment in our people yields a huge return and in a sustainable manner. Human capital, along with our natural capital, holds the key to continuing prosperity.
+
+Tragically, throughout New Zealand we have witnessed the same causes producing the same effects for the last 50 years. Government control of health, education and resource management, whether by statute, stealth or regulation, has eroded confidence and our trust in one another. In the last few years we have returned to a system in which laws are determined by the power of pressure groups and the coalitions they can form. This is never more true than when the politics of the environment is discussed.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+New Zealand’s natural capital is our unique ecology, an ecology that cannot be replicated artificially (biotech notwithstanding). It has shaped our past and it offers hope for the future. But it is almost impossible to have any rational discussion of such matters of critical importance to our welfare as a nation and as a people, without being accused of tainting the bounty of nature with commercialism and covetously sizing it up using economics.
+
+According to a World Bank report, New Zealand has the second highest natural capital per capita in the world. Only oil rich Saudi Arabia heads us off by this measure. However, in New Zealand, to speak of such things is somehow to degrade the natural environment by injecting ‘crass monetary criteria’ into debate about the use of our most treasured assets.
+
+The World Bank sees "wealth (or the asset base) as the foundation of generating wellbeing‚ … Wealth estimates are the sum of three major components: natural capital‚ (agricultural and pasture land, timber, non-timber forest assets, minerals etc); produced assets; and human resources".
+
+The political system that a nation chooses, promoting either collectivism or individual enterprise, will ultimately determine not only the success of that country, but along the way the fate of its natural capital, its people and their environment. As the World Bank observes “in all regions of the world, human resources form the lion’s share of wealth". The way we manage our people will determine how much value we get from the sustainable use of our natural capital and how well it is maintained. Our political approach, our laws and our education system will determine the level of wellbeing we enjoy now and into the future.
+
+But high natural capital ironically becomes an impediment in the modern world. There is an unreal view that preservation should outweigh conservation and that utilisation is synonymous with exploitation.
+
+Why not harness our natural capital?
+
+The rivers of pure water harnessed for the generation of clean power and for recreation are perhaps the best examples of natural capital usage. To suggest that these rivers should run unimpeded to the sea without being used for power generation and irrigation is to deny not only technology but to ignore the potential for growth that our natural capital affords. The use of water for irrigation and export is merely using the interest from the capital.
+
+Southland could have been left as one of the world’s greatest wetlands. Otago and Canterbury would have rivalled the Steppes or the Pampas, as the tussock lands of the South Island country would cover the landmass to the coast.
+
+Magnificent rainforest would cover the entire North Island where today there now stand cities and their infrastructure. New Zealand’s natural capital would remain intact but for what purpose? If wealth is defined in terms of wellbeing, then the appropriate use of nature’s harvest is essential to our future health and prosperity. Humankind has always moved forward by utilising natural resources. Today, progress in knowledge and technology allows more effective and sustainable use. This human input is the secret pathway to a sustainable future. Luddite denial is the road to failure.
+
+Society now better understands the concepts of sustainability and retention of outstanding natural assets (capital) yet the two are not mutually exclusive. Indeed they must be inclusive. The recent literal windfall of native timber in South Westland blown down by storms afforded the opportunity to sell $1 million worth of timber to sustain bird life and kiwi elsewhere. We chose to lose that opportunity: DoC decided that the trees should be left to lie where they were and rot. Biomass, including whole trees, which falls to the forest floor, returns methane to the atmosphere. DoC will not allow fallen native timber on its land to be removed and exploited. Even the popular vision of New Zealand as a carbon Mecca fails to survive scrutiny.
+
+Indigenous forests have proven themselves over thousands of years to be capable of vigorous regeneration. Research by Timberlands Westcoast Ltd shows that these forests can be harvested sustainably. We insist on using only exotic trees, such as pine, for forestry but we have no equivalent knowledge of the ability of our exotic forest to sustain harvesting. The dissent is unscientific and ideological but noisy, so it wins political arguments. These are all capital resources we ignore at our cost.
+
+Our natural capital is being set aside by government for use only by nature (and, ironically, for plunder by introduced animals). Through the provisions of the Resource Management Act and the possible implementation of the Biodiversity Strategy and of the Kyoto Protocol, the government is sending a clear signal to citizens.
+
+Do not plant indigenous forestry, do not attempt to sustain our native forestry through new private plantations because if you do, we shall regulate you, and take them as a national treasure.
+
+Why do we not do the same with our great works of art? Should not all Goldies, McCahons and so forth, be state owned?
+
+An even greater anomaly is the prohibition on the sale of our native animals and birds. There is a thriving trade in indigenous plants. Private individuals propagate and sell native plant species for profit! However, we seem to believe that the principle that applies to plants cannot apply to animals and birds. If we wish to ensure the survival of our native species, we should allow them to be bred and sold as we do with exotic fauna.
+
+The treasured kiwi, our national symbol, will be extinct on the mainland in 20 years. The dogs and cats, which are wiping them out, will survive because they can be bred, owned and sold. Why cannot this icon be owned‚ to ensure its survival? Instead, by government decree, the predatory forces of nature and humankind will ensure its demise.
+
+The tragic irony for New Zealand is that while we have a high level of natural capital we languish, in total wealth, behind countries with little or depleted natural capital, such as Singapore and Taiwan.
+
+In New Zealand, we have by our own hand turned our greatest asset into a liability. The state controls over one third of New Zealand (a figure which increases daily). State control is effectively a prohibition order on development and opportunity. We have created a totally unreal expectation that we can continue our high standard of living and well being through taxation without growing the tax-base.
+
+Current thinking, as prescribed by DoC, is to assign negative value to the environment through regulation. This lack of accessible value devalues the environment and renders it vulnerable to degradation.
+
+Without use, neglect follows. Good intentions are not enough. As the World Bank report points out: “natural capital values are primarily based on instrumental or use values of the environment."
+
+Rather than wrestle with the real value of ecosystems, we assign meaningless ‘intrinsic’‚ or ‘inherent’ value. Because the critical ecosystem in New Zealand belongs to everyone, no one is responsible. Rather, responsibility sinks into the anonymous collective.
+
+This is well illustrated by Peter Harley in A Conservation Strategy for New Zealand, He points out the foolishness of the term ‘intrinsic value’. ‘Intrinsic’ implies a value for its own sake. But value can only be ascribed by human beings. Value is the measure of what we are willing to forgo to obtain or retain the property. As the world depletes its natural capital, the remaining areas become more valuable. A country such as New Zealand could lead the way in demonstrating how to live off the interest from of its natural capital and not squander it. The creation of real wealth from natural capital follows from investment in our own people and trust in their choices.
+
+My vision for 2010 sees in NZ: -
+
+\* a mosaic of areas throughout New Zealand protected from introduced predators and all done by private landowners, supported by true environmentalists and their organisations
+
+\* a government whose role is support and research, control of predators through biotechnology, releasing more money for research into reversing the spread of weeds such as gorse and broom
+
+\* the catch phrase of sustainability replaced by enhancement
+
+\* private property respected and recognised as the only way forward
+
+\* coastal waters controlled by local communities who benefit from their stewardship
+
+\* the Kiwi is farmed and protected and its habitat improved to accommodate its increasing numbers.
+
+This can all be attained through security for our traditional values, and allowing opportunity for landowners to enhance those values through their own free will rather than compulsion. The greatest thing about this vision is that it has already begun. Private landowners are doing their best to achieve these ends. All we have to do is persuade policy makers to reward success and deny failure.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

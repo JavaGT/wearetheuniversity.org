@@ -1,0 +1,111 @@
+---
+slug: new-worthy
+title: "New Worthy"
+date: 2005-09-09
+source-url: https://www.scoop.co.nz/stories/PA0509/S00235/new-worthy.htm
+author: new-zealand-national-party
+---
+New Worthy
+==========
+
+**Friday, 9 September 2005, 12:22 am**  
+**Press Release: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+New Worthy
+
+  
+National's plan for Auckland roads and the confirmed death of the eastern corridor On 5 September 2005 National set an eight-year target to complete Auckland's base roading network.
+
+There are three components to the plan: a long-term commitment to fund roads to the full extent of petrol excise taxes, the political determination to fix the problem and the right legislative framework to make it happen.
+
+Virtually all the commentators accept that congestion in the Auckland network alone costs somewhere in the region of $1 billion a year. The congestion on Auckland's roads is worse than in Sydney or Melbourne.
+
+The particular commitments are that National will:
+
+\* Within eight years complete the Western Ring Route - an alternative SH1-to-SH1 route between Manukau City and North Shore City via Auckland City and Waitakere City by way of a seamless SH20, SH16 and SH18 4-lane motorway corridor; i.e. no intersections and no traffic lights.
+
+\* Within eight years complete the Harbour Bridge to City and Newmarket Viaduct projects - two projects needed to complete current upgrading underway in Spaghetti Junction on SH1.
+
+\* Fund the shortfall between the current Transit allocation and the required allocation (estimated - $720 million) through committing funds to the full extent of the petrol excise tax to the National Land Transport Fund. This will provide an extra $4.5 billion for roading over the next ten years.
+
+\* Introduce a substantial RMA amendment bill within three months and pass it within nine months of being elected. We will introduce mechanisms to prevent vexatious and frivolous objections, allow for direct referral to the Environment Court, and rewrite those parts of the Act that are inconsistent with our commitment to having one law for all.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+\* Simplify the Land Transport Management Act, so it is not a major impediment to road construction. Currently, it imposes narrow limits on private sector participation, and very onerous obligations on Transit NZ to consult with iwi. We will be able to double the amount of funding available for road construction by making it easier for the private sector to become involved.
+
+Epsom voters will see in the plan confirmation that there is no proposal to build an eastern corridor across Hobson Bay. I have in the past described that proposal as "dead".
+
+Announcement of health policy
+
+National announced its health policy on 6 September 2005. The core elements of the policy are to:
+
+\* Remove the uncertainty around negotiating an inflation adjustment in Aged Care funding with the 21 DHBs. National will ensure the inflation adjustment is passed on to Aged Care providers in a timely way. This will have an initial annual cost of around $24 million, exclusive of GST. National will also commit a further $35 million per year into the Aged Residential Care contract from April 1, 2006 as a second step towards redressing Labour's severe underfunding. National has already committed $19 million per annum to fund homecare workers' travel costs.
+
+\* Commit an additional one-off $100 million three-year package to slash elective surgery waiting lists.
+
+\* Boost funding to Pharmac by $75 million over the next three years to expand the availability of new drugs. National will also undertake a review of New Zealand's pharmaceutical policy.
+
+\* Retain the PHO system, but step back from the fully universal subsidy system introduced by Labour. National will retain universal doctor visit and prescription subsidies for those under 25 and those 65 and over. But universal subsidies for the rest of the working population will not be rolled out. Of the approximately $180 million annually saved by 2007/08, around $70 million will be returned through increased subsidies to the genuinely needy.
+
+\* The Community Services Card will be replaced by a new Health Card, with simplified administration, higher qualifying income thresholds, and a boost in the value of the subsidy to $30 per doctor's visit. Oh what a tangled web we weave The full line is "oh what a tangled web we weave when first we practise to deceive". In an earlier email I have made clear that I judge the tactics of ACT in Epsom as desperate and not within the legitimate bounds of politics. The events continue to accumulate.
+
+They include:
+
+\* ACT Party members canvassing in Epsom wearing blue and white colours of National seeking the ACT vote.
+
+\* children delivering ACT material into letterboxes and removing from those letterboxes National material which had already been distributed.
+
+\* Mr Hide apparently saying on radio that he was responsible for my place on the National party list when the list had been ranked on current Caucus list placing.
+
+\* Repeated assertions that voting for the ACT candidate "can deliver (in addition to the candidate) another extra four or five MPs to form a centre-right government) that is a fiction. Under the MMP formula depending on the extent of "wasted votes", ACT needs to secure between 1.5% and 1.7% of the nation-wide Party vote to add another MP. They are currently polling nation-wide at 1% or less.
+
+\* Publication of claimed ACT polling information which is widely at variance with National and Labour polling results. Labour's most recent polling results of last week announced at public meetings in Epsom on 5 and 7 September 2005 were:
+
+Worth 50%
+
+Labour candidate 31%
+
+ACT candidate 15%
+
+It is important that the centre-right vote is not split in Epsom and I am asking voters to vote for National on the Party Vote and for me.
+
+Political Quote of the Week "There is nothing wrong with this country which a good election can't fix" Richard Nixon - US President - 1968
+
+9 September 2005 No. 45
+
+Upcoming Public Meetings Sunday 11 September at 12.00pm Eden Community Church Candidates Meeting - 72-74 View Road - Mt Eden
+
+Monday 12 September at 7.00pm Affirming Works Politic Youth Forum - Papatoetoe Town Hall - St George Street - Papatoetoe Tuesday 13 September at 12.30pm Newmarket Business Assn Candidates Debate - Newmarket Club, Teed Street - Newmarket Upcoming Events 10 September Official opening of Remuera Fire Station
+
+\`"Ellerslie's Future" focus group meeting Auckland v Waikato NPC rugby game in Auckland 11 September National Party bus in Epsom Merchant Navy Day service in Teal Park 12 September Richard on National Radio - Linda Clark programme
+
+Inaugural Old Parnell School Rugby Match at Fraser Park 14 September Auckland Grammar School Epsom candidates meeting 15 September 195th Anniversary of the Proclamation of Mexican Independence 15-18 September Auckland Home Show 17 September Election Day 21 September National Day of Slovak Republic celebrations 23 September Coastguard 2005 Conference 24 September "Cherish our Children" walk Auckland v Northland NPC rugby game in Auckland 25 September Opening Day of Mt Eden Bowls 27 September SKY City Function for 2005 Community Trust Grant Recipients 30 September 2nd Anniversary of NZ Guangdong Assn
+
+Auckland v Wellington NPC rugby game at Eden Park
+
+Richard Worth
+
+Visit my website for more information at: www.richardworth.co.nz
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

@@ -1,0 +1,94 @@
+---
+slug: young-pacific-researchers-seek-obesity-circuit-breaker-with-pacific-youth
+title: "Young Pacific researchers seek obesity circuit-breaker with Pacific youth"
+date: 2017-06-01
+source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/young-pacific-researchers-seek-obesity-circuit-breaker-with-pacific-youth.html
+---
+Young Pacific researchers seek obesity circuit-breaker with Pacific youth
+=========================================================================
+
+01 June 2017
+
+![From left: Alvina Pauuvale, Heimata Herman, Siobhan Tu'akoi and Mayor Pokino.](https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/young-pacific-researchers-seek-obesity-circuit-breaker-with-pacific-youth/_jcr_content/par/textimage/image.img.jpg/1496269992452.jpg "From left: Alvina Pauuvale, Heimata Herman, Siobhan Tu'akoi and Mayor Pokino.")
+
+From left: Alvina Pauuvale, Heimata Herman, Siobhan Tu'akoi and Mayor Pokino.
+
+Four young Pacific health researchers are working with Pacific teens and their communities to help break the intergenerational cycle of obesity and other non-communicable diseases (NCDs).
+
+The research builds on an ambitious international project that empowers teenagers to use scientific evidence, community and cultural knowledge to lift their own and their family’s health.
+
+The NZAid-funded Pacific Science for Health Literacy Project involved the Liggins Institute teaming up with the Cook Islands and Tongan health and education ministries to develop student-centred programmes that link into national curricula. These have been put into action in all three secondary schools in Rarotonga and three schools in Tongatapu.
+
+“There is a growing body of evidence that the diet and health of parents even before conception has long-term consequences for the disease risks of their future children,” says Professor Mark Vickers who is supervising the research with Jacquie Bay at the Institute.
+
+“If we can empower young people to explore the evidence and use it to make decisions about their own lifestyle, the benefits will flow through to the next generation,” says Jacquie Bay.
+
+The four researchers are all postgraduate students at the Liggins Institute, based at the University of Auckland. Heimata Herman, Mayor Pokino, and Siobhan Tu’akoi received scholarships from the Health Research Council to support their work. Alvina Pauuvale received a Sir Mont Liggins Memorial Scholarship.
+
+### **Heimata Herman: small changes add up**
+
+Heimata Herman, 27, never imagined her health research would take her back to her school in the Cook Islands, where she grew up.
+
+She is surveying Year 9 students – some from her old school - before and after they took part in the science for health literacy programmes to check for any change in their attitudes towards health and wellbeing or in what they’re eating and doing. Then she’ll select a subset to do three-day food and activity diaries, and interview the students and their families.
+
+**“**It makes my work more rewarding knowing it’s for people I care about and am directly connected with,” she says.
+
+In interviews, many of the students have already reported they are making small changes, such as having fizzy drink as a treat rather than once a day.
+
+“They’ve admitted it’s harder convincing their families to change when the adults are the ones who buy the food.”
+
+Many students also highly rated getting access to NCD data on Cook Islanders. “It gets them questioning why the Cook Islands has such a huge NCD burden compared to the rest of the world,” says Herman. “They can discover for themselves that it’s an issue, rather than just being told. They say, ‘we don’t like being told what to do, people coming in and saying eat more, eat less’.”
+
+After the programme, some said they realised that even though their parents bought the food, they still had control over what food they bought themselves, and started thinking about what they could do to get healthy food sold at school.
+
+“While it takes time for knowledge to translate into behavioural change, the evidence from the pilot programmes in 2014 and 2015 shows the majority of students who were eating a lot of junk foods are talking about, and making small changes every day that will have significant impacts over a life time.”
+
+### **Mayor Pokino: a personal mission**
+
+“The Cook Islands has the highest levels of adult overweight and obesity in the world, and this is leading to many Cook Islanders being affected by diabetes and heart disease,” says Mayor Pokino, 28. “A third of NCD deaths in the Cook Islands occur in people who are under 60 years of age – which is very high. That irritates me, makes me want to do something about it – it’s like a personal mission.”
+
+Born and raised in the Cook Islands, Pokino moved to Auckland for university. Last year, she worked for the Cook Island government collecting gender health statistics (more women than men die from NCDs).
+
+Her research is looking into relationships between attitudes to health and wellbeing and NCD risk factors in teenagers. Pokino will take health data on the students collected in regular government checks from before they did the school programme and look for links to their health attitudes and behaviours, using survey data from the umbrella project.
+
+ “Before we can check whether the school intervention made a difference, we need to understand their baseline – what are the links beforehand?” says Pokino.
+
+### **Siobhan Tu’akoi: generational links**
+
+Many European-based studies have identified links between early life experiences and later increases in disease risk in their populations. PhD researcher Siobhan Tu’akoi, 22, is investigating whether similar patterns occur in Pacific populations.
+
+The hope is that identifying such links may point to critical windows for interventions to break intergenerational disease cycles.
+
+In a small pilot study completed last year with the Cook Islands Ministry of Health, she found trends tying adverse factors in mothers’ health, such as gestational (pregnancy-related) diabetes and previous miscarriages, to increased BMI and blood pressure in a small sample of 13-14 year old Cook Island children.
+
+For her current project, Tu’akoi has been granted access to the birth records of 140 Cook Island 13 year olds. Working with local doctors, Tu’akoi will look for links between health at age 13 and early-life experiences around the time of birth.  
+
+Again, it’s personal. Born and raised in Hamilton, Tu’akoi has a Tongan father and palangi mother. “I’m really excited to be doing something that hasn’t been done before for Pacific communities.”
+
+### **Alvina Pauuvale: many influences on food choices**
+
+New Zealand-Tongan Alvina Pauuvale, 23, first became involved with the Liggins Institute through its high school partnership programme exploring the science that links our early life experiences to later life health and wellbeing, which sparked her interest in science.
+
+Now Pauuvale’s research brings her back to her high school – Tamaki College in the Auckland suburb of Glen Innes, where 45 percent of the population is Pacific.
+
+She is surveying 135 Year 9 students about their eating attitudes and behaviours. She will compare their responses to those from 80 teenagers from Tonga High School.
+
+“The aim is to provide insights into why teenagers choose the foods they choose,” she says. “They may know that certain foods are unhealthy, but if they don’t have healthier food available, or the income to buy it, or the means to live a healthier life, it’s difficult for them.”
+
+Cultural influences also matter. “The gatherings where food is hospitality - the more food you have the better. And in Tonga there’s a lot of restrictions on things females can do.”
+
+The findings will also reflect the impacts of globalisation and migration on Tongan families.
+
+Pauuvale expects to find differences between Tongans and NZ-Tongans, but what kind of difference is an open question.
+
+“Although they’re both in low income areas, the way of living is different,” she says. “They have fewer resources in Tonga, they’re not exposed to the same media. In New Zealand they can access internet freely and have more cars, and there’s more variety in food available here – in Tonga there’s a more limited range of food, and a lot of poor quality food is imported.
+
+“I would think the New Zealand-born Tongans may have access to better health choices, but there are other factors at play. People in Tonga can get food freely if they grow their own crops on their land, but my New Zealand sample mainly come from low income families, so maybe their only choices are unhealthy foods because they’re cheaper.”
+
+The four researchers expect to start producing results later this year.
+
+### **Contact**
+
+**Nicola Shepheard** Media Relations Adviser
+
+**Tel**: 09 923 1515 **Mob**: 027 537 1319 **Email**: [n.shepheard@auckland.ac.nz](mailto:n.shepheard@auckland.ac.nz)

@@ -1,0 +1,98 @@
+---
+slug: greens-announce-bold-plan-to-ensure-nz-transport-tackles-climate-change
+title: "Greens Announce Bold Plan To Ensure NZ Transport Tackles Climate Change"
+date: 2020-09-29
+source-url: https://www.scoop.co.nz/stories/PO2009/S00440/greens-announce-bold-plan-to-ensure-nz-transport-tackles-climate-change.htm
+author: green-party
+---
+Greens Announce Bold Plan To Ensure NZ Transport Tackles Climate Change
+=======================================================================
+
+**Tuesday, 29 September 2020, 3:56 pm**  
+**Press Release: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+The Green Party will transform how New Zealanders get around to address the climate crisis, with a comprehensive climate-focused transport package.
+
+  
+The plan ensures that New Zealanders are better equipped to get around our towns and cities on buses, trains, and bikes, whilst moving our fleet to hybrid and electric vehicles.
+
+  
+The plan would:   
+ 
+
+*   Sustainably reboot regional economies with a large scale investment in rapid, intercity passenger rail, connecting provincial centres with major cities (route details below).
+*   Invest in urban development by accelerating transformational rapid transit networks in our major cities, including busways, light rail, and rail (route details below).
+*   Provide safe, separated school and commuter cycling routes with the capacity to be used by thousands of people each day, with a $1.5 billion Cycle Super Highway fund.
+*   Require all new imported light vehicles to be zero emissions by 2030.
+*   Set standards and incentivise heavy freight to transition to zero emissions vehicles and be 100% powered by renewable energy by 2050.
+*   Make public transport free for people under 18 or over 65, and half-price for students, with a nationwide Go Anywhere transport pass.
+
+Green Party Co-leader and Climate Change spokesperson James Shaw said today:
+
+  
+“As we recover from COVID-19, we have a once-in-a generation opportunity to rebuild our communities in a way which tackles the climate crisis and makes our communities  
+healthier in the long-term.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“Decades of under-investment in rail and public transport has led to an over-reliance on cars to get around. It’s worsening the climate crisis, and it has made getting around our cities, and between them, expensive and difficult.  
+ 
+
+“We are running out of time to address the climate crisis. Today’s announcement goes a long way to ensuring in New Zealand we do our bit to keep our planet stable.
+
+  
+“The Green Party’s Future of Transport plan will power the post-COVID-19 recovery while ensuring we drive down our transport emissions.
+
+  
+“We will connect our major cities through a major new investment in inter-city passenger rail. This new network will transform how people move throughout our country, making getting out to the regions faster, easier, and better for the planet.
+
+  
+“Rail will carry thousands of people a day from Auckland to Hamilton, from Wellington to Masterton and Palmerston North, and from Christchurch to Rangiora and Ashburton, eventually including Dunedin and Timaru.
+
+  
+“Once built, this new intercity rail network will slash the emissions caused by the status- quo of only being able to commute by car, as well as create thousands of jobs building  
+the network. It is exactly the kind of smart investment we should be making in the wake of the COVID-19 crisis.
+
+  
+“On top of this, we will invest $6.5 billion over the next decade in rapid transit networks in Auckland, Wellington, and Christchurch. People living in our larger cities should be able to easily and affordably jump on a bus or train to work, school, or the airport.
+
+  
+“This includes pushing ahead with a much-needed rail crossing to Auckland’s North Shore, which we’ve now seen is desperately overdue.
+
+  
+“Our new nationwide Go Anywhere transport pass will further reduce barriers to using public transport, making it free for under 18s and over 65s, and cheaper for students and apprentices, regardless of where in the country they are.
+
+  
+“We also know we must make cycling a safe and viable option. The Green Party will create a $1.5b Cycle Super Highway fund, to create safe, separated school and commuter cycling routes across the country.
+
+  
+“New Zealanders have shown us that if we make cycling an attractive option, they will do it. Once built, these cycleways could take thousands more cars off the road, while also improving the health of our communities.  
+ 
+
+“We will introduce a target date linked to the date set by the UK, likely to be 2030, at which point only zero emission light vehicles (cars, vans, and utes) would be able to be imported into Aotearoa. This will further help us reduce our emissions to levels which help ensure future generations have a liveable planet.
+
+  
+“We chose this date because we don’t want New Zealand to become a dumping ground for other countries’ dirty discards.
+
+  
+“With our Future of Transport Plan, we will provide meaningful work whilst driving Aotearoa towards a sustainable, green, zero-carbon future.”
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

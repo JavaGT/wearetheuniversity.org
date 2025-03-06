@@ -1,0 +1,168 @@
+---
+slug: flavell-hui-for-maori-and-pacific-literacy
+title: "Flavell: Hui for Maori and Pacific Literacy"
+date: 2009-02-17
+source-url: https://www.scoop.co.nz/stories/PA0902/S00227/flavell-hui-for-maori-and-pacific-literacy.htm
+author: te-pati-maori
+---
+Flavell: Hui for Maori and Pacific Literacy
+===========================================
+
+**Tuesday, 17 February 2009, 9:57 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+**Hui for Maori and Pacific Literacy**  
+**Practitioners and Workers**
+
+**16 February 2009; Manurewa Marae**
+
+**Te ururoa flavell, mp for waiariki**
+
+**‘Creating Strength and Kaupapa’**
+
+  
+Thank you for the invitation to be here. It is a privilege to be asked to contribute to your hui.
+
+All of our team of the Maori Party have been extremely busy adapting to living alongside our National Party friends. It has been an interesting exercise switching from being in challenge mode while in opposition, to all of a sudden being in a position to influence change. We are learning to adapt very quickly.
+
+I was given the topic of “creating strength and kaupapa”. Perhaps it is, that Aotearoa, through Mr John Key felt getting next to the stunning team of the Maori Party would _“create strength and bring kaupapa”_ to the face of this new Government. Most commentators seem to believe so and his actions thus far seem to indicate this to be so.
+
+A “new approach” started after the last election. It said, _“we will actually talk with the Maoris”_ in fact we will give them some space as they have something to contribute. A new approach to governing means that we can have a discussion about flying a flag from the Auckland Harbour bridge and we can retain the need to take cognizance of Te Tiriti o Waitangi in the Resource Management Act rather than wiping that clause and we will return to Waitangi despite protests getting physical.
+
+It seems to me that role modeling the new approach has sent waves across the nation. People can see that Maori and Pasifika people can contribute, we want to contribute but even more, we have much to offer the nation.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+So a tone of creating strength and kaupapa has been set nationally and our hope is that this message will continue to spread. We must move forward on this premise for there is much at stake. And since you never know what will happen in three years, the Maori Party’s view is, we want to get moving - now.
+
+But we are not the experts in the field and while we have some ideas, the practical implementation is what you know about. You are the experts, you know the field, we are not shy in asking for help.
+
+In education, we have had the korero for years. The Maori Party is in a position of influence now. We want action with your help.
+
+  
+The literacy needs of all of our peoples must be an urgent priority for us all, particularly on the eve of economic recession and the prospect of restricted employment opportunities.
+
+The report of the Education and Science Select Committee called “_Making the System work for all Children_” initiated by the Maori Party in the last Parliamentary term confirmed to me the priority we must have to the implementation of a literacy strategy which is able to meet the cultural context of Maori and Pasifika peoples. Not just because it sets our tamariki up to enter the education system armed and ready, but because it has huge implications across all society. Your focus on adult literacy and involvement of whanau acknowledges our context.
+
+The Youth Court Judge, Judge Becroft did not mince words when he appeared in front of us. He stated that the majority of those who arrive in front of him in court are illiterate. What more motivation can we have?
+
+The words of former UN Secretary-General, Kofi Annan, give all the reason we need for working together to address the literacy needs of our people. He said,
+
+_Literacy is a bridge from misery to hope. It is a tool for daily life in modern society. It is a bulwark against poverty, and a building block of development, an essential complement to investments in roads, dams, clinics and factories._
+
+_Literacy is a platform for democratization, and a vehicle for the promotion of cultural and national identity.”_
+
+I am sure that this sort of korero is not new to any of you. But since you are together for these next two days, I want to put to you that your task is significant.
+
+Conferences, of a kind can from time to time be “talkfests”. There is a feel good factor for participants to get together and talk. I remember well, education conferences in my time where we had plenty of talk, umpteen reports and recommendations but actions from all of that korero did not actually eventuate.
+
+So, your task is significant because we need a hand, we do want to create strength and kaupapa at the same time, using your expertise and from our perspective there is no time to waste. Not that we can do everything. But we are as close as we will ever be to being able to influence change so we must take up that opportunity.
+
+The release recently of the latest statistics from the Ministry of Education tells us little has moved in the recent past so we must step things up. The annual report on Maori education, _Nga Haeata Matauranga_, told us that Maori children’s reading level is lower than that of all other ethnic groups, and that by the time they finish school 35% of Maori students leave without qualifications, compared to just twelve percent of non-Maori.
+
+Sitting alongside Maori, are Pasifika children, who also achieve worse outcomes at school in areas such as drop-out rates, literacy and numeracy skills and NCEA achievement.
+
+No-one in this room wants to hear those statistics, or to contemplate a future without change. So the challenge is upon us all, to work together to make a difference.
+
+We must create hope, create opportunities, create a future in which Maori and Pasifika peoples are participating at high levels of literacy.
+
+The Maori Party for our part, has our sights set on all our children being able to read, write and count. Fairly simple goal one would think. It is probably no different to the desire of all parents.
+
+I believe it was an Irish gentleman from Te Arawa who had a strange spelling to his name, Yeats, who once said that, _“Education is not the filling of a pail, but the lighting of a fire”._
+
+In empowering families and communities with literacy skills, we must do more than simply impart information; we must excite and engage and enlighten learners to take active control of their knowledge.
+
+If we wanted to simply pass on the story, we could pass out free DVDs and be done with it. We have to create strength of will and determination – to stretch imaginations. Reading, writing does that.
+
+Lighting the fire of knowledge is all about the context. It’s about the inter-relationships that bind our peoples together. It’s about the fonua in Tongan; the vanua in Fiji; the whenua in te reo Maori. It’s the concept of community and environment and whanau and our unique and shared values.
+
+The catch has been in the mechanism to achieve that goal. There have been questions in the past about the system and bureaucracy even being user friendly for Maori and Pasifika peoples. But we ourselves must also take some responsibility.
+
+As we all know it starts in the home. That is why the Maori Party has put so much emphasis in promoting literacy and numeracy services to parents trying to teach children to read, write and count.
+
+We want to be innovative – to be responsive – to be creative.
+
+Some of the things we were thinking of include:
+
+• Investing in key support staff to focus on improving literacy and numeracy level;  
+• Establishing mobile literacy and numeracy services to reach children, parents and whanau in rural areas;  
+• Promoting whanau engagement by investing in communities and innovation.
+
+  
+But we are open to considering new and different strategies that may make the greatest difference.
+
+You may have heard of Randy Pausch, a computer science professor at Cargenie Mellon University in the States. In his lifestory, he talked about some of the experiences that shaped his pathway towards becoming an award winning researcher, a Walt Disney pioneer, a scientist and designer with Google, with Adobe, and Electronic arts.
+
+During his childhood, he felt an urge to paint his bedroom walls. Not an unusual childhood dream by any means but the response was. His father thought that wall-painting adventure was an exciting idea and so pretty soon the walls were adorned with a silver elevator door, chess pieces, a submarine, a Pandora’s box, the word ‘hope’ alongside the words ‘disco sucks’ and even a quadratic formula on the wall.
+
+I’m not expecting any of you to go out and encourage children to decorate their classroom and bedroom walls, but the concept of being able to dream, to imagine, and to create is surely something that all of us want for our next generation.
+
+We all know, too many Maori and Pasifika children are struggling at school.
+
+We must stretch our minds to create incentives to reward school success and innovation; where there is engagement with communities; where we recognize and celebrate cultural competency.
+
+The key, I believe, is in identifying the cultural context for literacy to thrive. I like the definition that came from Te Kawai Ora: literacy is the lifelong journey of building the capacity to read and shape Maori and other worlds.
+
+Wally Penetito has given us his vision about literacy in Maori terms, which alongside the ability to read and write in both Maori and English, includes the following, and I quote:
+
+_“Being literate in Maori should also include having the capacity to read the geography of the land, to be able to name the main land features of one’s environment (the mountains, rivers, lakes, creeks, bluffs, valley etc), being able to recite one’s tribal/hapu boundaries and be able to point them out on a map if not in actuality as well as the key features of adjacent tribal/hapu boundaries and being able to read Maori symbols such as carvings, tukutuku, kowhaiwhai and their context within the whare nui (poupou, heke etc) and the marae (atea, arongo, etc)._
+
+For Randy Pausch his bedroom walls became the context for a life of creative richness. For our women, each tukutuku speaks to the fullness of literacy – it has its own unique whakapapa, it describes a particular context, it shares stories with other families and communities.
+
+We must believe also in our own kaupapa and our own tikanga. As Wally points out, we have everything around. We talk of “the kaupapa” and “nga tikanga” as being vital ingredients to who we are and how we interact but often do not actually follow up.
+
+We sometimes use catch phrases like “kötahitanga” unity, or “manaaki i te tangata ahakoa ko wai” look after others no matter who they are, and in the same breathe, end up arguing and put downs.
+
+If we have whakataukï, kupu, tikanga whakahaere in te reo Maori, then another challenge I put to you is to action it in reality.
+
+E hoa ma, I have no tolerance for the frequent dismissal that our poor literacy rates is to be expected because we are an oral culture. We can run and walk if we want to, we can be artists and scientists, academics and scholars, designers and architects.
+
+And that is all in keeping with the early successful experiences of literacy Maori had in the 1830s and 1840s. There is ample evidence to show Maori were reading and writing with enthusiasm in their own language and in English.
+
+There has been some research which suggests that the missionaries were so successful in promoting the Bible, as the literature bore many similarities to the context of Maori life – the genealogies, the stories, the poetry, the morals and values. As I say, a literacy strategy must be put in our context to make things relevant to our people.
+
+Having taken up waka ama recently so I can go trout fishing as well as enjoy the company of others in a six person waka, every time I go out for a paddle, I read the water, I scan the horizons, I consider the conditions.
+
+Waka ama may not be known as a literary classic, but the point is, I have every confidence that I will be successful, and I completely trust in all of the other paddlers with me, that we will glide not sink.
+
+We must make literacy learning as easy as paddling the waka – we must open our eyes to see all of the strategies around us, to consider all of the cultural contexts that will enable all of our aspirations to be achieved.
+
+  
+In closing, the Speech from the Throne delivered by Prime Minister John Key spoke of the desire of New Zealanders, as expressed at the polls, for a fresh approach to our country's challenges.
+
+Within a fortnight of the ballot boxes being closed, negotiations were being sealed for the formation of a new Government.
+
+And for the first time in the history of this country, an agreement to Government was signed which recognised the importance of mana maintenance and enhancement for both parties.
+
+It is early days and time will tell as whether our agreement does what is intended. I can say there is a fierce determination on our part to do everything we can to make it work. Why? Because there are huge expectations of us as the five members of that strong independent voice in Parliament. There is no expectation of letting anyone down at all. We will work hard, we will do our best. Sometimes we may not win but we will continue to offer solutions and even more, a wider vision for the nation.
+
+A key statement in our confidence and supply agreement was the recognition that the Maori Party seeks significant outcomes in whanau ora. The ability of the next generations to read and write is a key component of whanau ora – healthy families.
+
+In the next two days, we ask you to contribute to where we want to go in this, your chosen area. If you are possibly able to consider an implementation of our key hits, secondly offer up new ideas to us that you consider would achieve the outcomes we all want, and thirdly provide feedback on the National Party’s 100 day plan in your area, that would be enormously valuable. Politicians sometimes have the ideas but the practical implementation sometimes falls over. If there are issues in their strategy, perhaps we can advocate on the implementation strategy
+
+I say to you, Government’s role, is to give legitimate and rightful recognition to the values, beliefs and aspirations that Maori and Pasifika people will present – and on behalf of the Maori Party I can assure you, we will be listening and ready to learn from you.
+
+We must create the strength in ourselves to rely on our kaupapa, to believe in ourselves, and to be in creative control of our own world of learning.
+
+  
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

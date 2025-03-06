@@ -1,0 +1,188 @@
+---
+slug: university-of-otago-recognises-leading-research-centres
+title: "University of Otago recognises leading research centres"
+date: 2012-11-12
+source-url: https://www.scoop.co.nz/stories/ED1211/S00085/university-of-otago-recognises-leading-research-centres.htm
+author: university-of-otago
+---
+University of Otago recognises leading research centres
+=======================================================
+
+**Monday, 12 November 2012, 5:01 pm**  
+**Press Release: [University of Otago](https://info.scoop.co.nz/University_of_Otago)**
+
+12 November 2012
+
+**University of Otago recognises leading research centres**
+
+The University of Otago is committing more than $2.5M over the next five years to support the internationally outstanding work of its leading research centres.
+
+Following a rigorous application process, 14 research groups have each been formally designated as a ‘University of Otago Research Centre’ for at least the next five years.
+
+The funding from the University’s Research Committee will supplement other grants and contributions from academic divisions over this period to support their world-class research activities.
+
+Deputy Vice-Chancellor (Research & Enterprise) Professor Richard Blaikie says 12 of the centres are already nationally and internationally recognised for their research excellence and the two newly established centres show similar promise.
+
+“Each of these centres bring together many of our finest researchers in collaborative, multidisciplinary research platforms or programmes pushing the frontiers of knowledge in their areas,” Professor Blaikie says.
+
+A demonstrated commitment to reach out and engage with relevant sectors of the community, business and government was among the selection criteria for the centres.
+
+“At Otago, we believe that it is important that our research activities can be translated into real-world benefits wherever practicable. This goal is much more likely to be achieved if researchers forge close links with the end users of the research and other interested external parties,” he says.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The research the centres are undertaking covers a broad spectrum. It ranges from pursuing advances in atomic and optical physics that will underpin new technologies, through to exploring the development of colonial culture and how it has shaped New Zealand society.
+
+Two centres are conducting large programmes looking at key aspects of how New Zealand can become more sustainable, while others have a strong focus on helping to bridge gaps between science and society.
+
+A number of centres are involved in world-leading health-related research, with the goal of ensuring findings can be translated into improved treatment of diseases and disorders. Areas of focus include brain health; cancer; cardiovascular disease; diabetes and obesity; lifecourse studies; infectious diseases; neuroendocrinology; and oral health.
+
+**The 14 University of Otago Research Centres and their Directors:**
+
+• **Brain Health Research Centre**  
+Prof Wickliffe Abraham
+
+• **Centre for Neuroendocrinology**  
+Prof Allan Herbison
+
+• **Centre for Research on Colonial Culture** \*new\*  
+Prof Tony Ballantyne
+
+• **Centre for Sustainability: Agriculture, Food, Energy, Environment (CSAFE)**  
+Dr Janet Stephenson
+
+• **Centre for Translational Cancer Research**  
+Assoc Prof Parry Guilford
+
+• **Christchurch Heart Institute**  
+Prof Mark Richards
+
+• **Edgar National Centre for Diabetes & Obesity Research**  
+Prof Jim Mann & Assoc Prof Rachael Taylor
+
+• **Genetics Otago**  
+Associate Professor Peter Dearden
+
+• **International Centre for Governance, Science & Society (ICGSS)** \*new\*  
+Prof Mark Henaghan & Assoc Prof Colin Gavaghan
+
+• **Jack Dodd Centre for Quantum Technology**  
+Prof Rob Ballagh
+
+• **National Centre for Lifecourse Research (NCLR)**  
+Profs Richie Poulton and David Fergusson
+
+• **New Zealand Centre for Sustainable Cities**  
+Prof Philippa Howden-Chapman
+
+• **Sir John Walsh Research Institute**  
+Prof Jules Kieser
+
+• **Webster Centre for Infectious Diseases**  
+Prof Kurt Krause
+
+**Research Centre summaries and links:**
+
+**Brain Health Research Centre**  
+Director: Prof Wickliffe Abraham
+
+A top priority for the Brain Health Research Centre is translating neuroscience discoveries into real treatments for those suffering from neurological disorders. BHRC researchers and clinicians are involved with all stages of research on the brain from puzzling out the basic mechanisms of how the brain works to finding treatments that harness the brain’s restorative potential, and testing of innovative therapies. The Centre also aims to develop active educational links with the community and schools. The BHRC includes 40 research and clinical teams spread across 12 departments and schools. Research strengths include investigations into mechanisms and novel therapies for neurodegenerative disease and memory, stroke, movement disorders, vestibular and hearing disorders, and neurodevelopmental disorders.  
+http://www.otago.ac.nz/bhrc/
+
+**Centre for Neuroendocrinology**  
+Director: Prof Allan Herbison
+
+The Centre for Neuroendocrinology (CNE) is a world-leading research centre for understanding how the brain controls hormone levels in the blood and how these hormones act back to influence brain function. It has more than 70 members and nine principal investigators; four from the Anatomy Department; four from Physiology and one from Obstetrics and Gynaecology, Christchurch campus. It represents the largest cluster of neuroendocrinology researchers in the Southern Hemisphere. CNE research leads the world in understanding the brain control of reproduction, ranging from fertility to pregnancy to lactation. Research programmes also examine neuroendocrine stress responses and the brain control of fluid balance. A wide range of cutting-edge neuroscience methodologies are utilised, ranging from molecular biology and transgenics to electrophysiological, morphological, cell imaging and in vivo approaches.  
+http://www.neuroendocrinology.otago.ac.nz
+
+**Centre for Research on Colonial Culture**  
+Director: Professor Tony Ballantyne
+
+The Centre for Research on Colonial Culture’s goal is to provide a focus for new interdisciplinary research on the cultural development of colonial society. The Centre is concerned with the ways in which colonial culture was shaped by, and in turn shaped, demographic patterns, social differentiation, technological and economic development, religion, and the elaboration of social and political institutions in New Zealand. The Centre’s research will pursue these issues in local, regional and national studies as well as through broader work using the lenses of indigeneity and empire to place New Zealand in appropriate comparative frameworks. Over the next five years the centre will be running a programme of monthly seminars, regular workshops and symposia, in addition to an annual conference.  
+https://blogs.otago.ac.nz/crocc/
+
+**Centre for Sustainability: Agriculture, Food, Energy, Environment (CSAFE)**  
+Director: Dr Janet Stephenson
+
+CSAFE’s mission is to facilitate transitions to sustainability through collaborative research. The Centre specialises in bringing together interdisciplinary teams, usually spanning social sciences and ‘hard’ sciences, which focus on sustainability issues in agriculture, food, energy and environment. As well as CSAFE’s own researchers, many projects involve researchers from other University departments, other universities and research agencies in New Zealand, and internationally. Collaborators include communities, iwi, farmers, companies and government agencies. CSAFE aims to inform choices, adaptations and transformations through research that is relevant to both policy and practice, as well as theoretically innovative. Current research includes indigenous agroecology; energy cultures in households, business and transport; community resilience; improved decision making through measuring on-farm sustainability; and the development of resilient farm systems in the face of climate change.  
+http://www.csafe.org.nz/
+
+**Centre for Translational Cancer Research**  
+Director: Associate Professor Parry Guilford
+
+The Centre for Translational Cancer Research (CTCR) combines major University of Otago research groups in cancer genetics and cancer immunology with leading oncologists and surgeons. It currently consists of over 20 senior scientists and clinicians from the University who cover most fundamental and clinical areas of cancer research. The Centre’s mission is to support and conduct cancer research with an emphasis on studies that can be expected to improve cancer treatment in a relatively short timeframe. CTCR projects range from drug development to immunotherapy and include diagnostic test design and personalised medicine. The latter includes the development of simple tests that can be used to select the best chemotherapy treatment for individual patients and other tests that predict an individual’s prognosis and the risk of treatment side-effects.  
+http://ctcr.otago.ac.nz/
+
+**Christchurch Heart Institute**  
+Director: Professor Mark Richards
+
+As the pre-eminent New Zealand cardiovascular research centre, the Christchurch Heart Institute (CHI) is at the international forefront of cutting edge advances in the diagnosis, prediction and treatment of serious cardiovascular disease; from bench to bedside to community. The Centre’s thrust has been exploration of diagnostic, prognostic and therapeutic innovation in common and dangerous cardiovascular disease including acute coronary syndromes, heart failure and hypertension. The CHI (formerly named the Christchurch Cardioendocrine Research Group) is best known for its longstanding leadership in the field of cardiovascular neurohormonal control. One example of its world-leading work is the development of a blood test to diagnose and monitor heart failure. This test saves the lives of hundreds of thousands of people each year.  
+http://www.otago.ac.nz/christchurch/research/cardioendocrine/
+
+**Edgar National Centre for Diabetes & Obesity Research (ENCDOR)**  
+Directors: Professor Jim Mann & Associate Professor Rachael Taylor
+
+The Edgar National Centre for Diabetes & Obesity Research (ENCDOR) aims to determine effective solutions for two major national health problems that are also global health challenges; obesity and diabetes. ENCDOR’s purpose is to promote collaborative cutting edge research both nationally and internationally and involves a range of disciplines, including nutrition, epidemiology, Māori health, biostatistics, public health, paediatrics, microbiology, genetics and biochemistry. Projects range from investigation of genetic profiling which might enable the identification of individuals more likely to benefit from interventions, to exploration of how policy and food marketing shape our behaviour, to the public health and economic impact of different innovative approaches to manage weight and diabetes risk at all stages of life from birth to the elderly.  
+http://www.otago.ac.nz/diabetes/
+
+**Genetics Otago (GO)**  
+Director: Associate Professor Peter Dearden
+
+Genetics Otago (GO) aims to connect with the public, media and policy makers to improve the understanding of genetics: to provide a hub where genetics is demystified; where user-friendly information, teaching resources and comments from world-class geneticists can be easily accessed, all the while supporting its members’ collaborative research projects. GO’s multi-disciplinary platform of research is enormous, ranging across sciences, health sciences, humanities, law and ethics. Key areas of GO’s strengths are human disease, developmental, microbial, evolutionary, law, epigenetics, anthropology, conservation, environment, applied genetics in animal and plant breeding and bioinformatics. With more than 180 active members across multiple disciplines, Genetics Otago’s core strength is primarily based within the University but also includes members from AgResearch (Invermay) and commercial genetics-based companies in New Zealand.  
+http://www.otago.ac.nz/genetics/
+
+**International Centre for Governance, Science & Society (ICGSS)**  
+Directors: Associate Professor Colin Gavaghan & Prof Mark Henaghan
+
+The International Centre for Governance, Science and Society (ICGSS) will promote and undertake research on the challenges of integrating medical and scientific advancements with society in the face of changing approaches being used to govern citizens and institutions, as well as their rights, relationships and responsibilities. The ICGSS aims to be an internationally renowned multidisciplinary research centre or ‘think tank’ that undertakes research and policy development work for governments, professional bodies and NGOs. The Centre will build on the work, experiences and successes of collaborations with multidisciplinary and indigenous researchers, trans-Tasman experts and international networks developed from the five-year multidisciplinary Law Foundation-sponsored Human Genome Research Project led by Otago’s Faculty of Law.
+
+**Jack Dodd Centre for Quantum Technology**  
+Director: Professor Rob Ballagh
+
+The Jack Dodd Centre for Quantum Technology has a strong international reputation due to its high-profile scientific research in the areas of atomic and optical physics. The Centre has nine principal investigators and around 20 postdoctoral fellows and students. Research efforts are concentrated on theoretical and experimental studies of ultra-cold atom systems, atomic scale quantum engineering, classical and quantum optical information processing, and biophotonics. The research areas underpin technological advances in a wide range of fields, including, medicine, communications, sensors and navigation. The principal investigators have expertise in many facets of high technology including lasers and optics, control systems, and numerical computation. The Centre has collaborations with a number of major international groups, and is developing links to New Zealand industry.  
+http://www.physics.otago.ac.nz/research/jackdodd/
+
+**National Centre for Lifecourse Research (NCLR)**  
+Directors: Professor Richie Poulton & Professor David Fergusson
+
+The National Centre for Lifecourse Research (NCLR) conducts and applies high-quality lifecourse research that informs policy and practice to improve the lives of New Zealanders. Headquartered at the University of Otago, the NCLR is an umbrella for research collaborations between six of New Zealand’s eight universities and one Crown Research Institute. Internal partners include the Dunedin Multidisciplinary Health and Development Research Unit; the Christchurch Health and Development Study; and the Centre for Research on Children and Families. External partners include research groups from AUT, Victoria, Waikato, and Auckland universities and Environmental Science & Research (ESR), Christchurch. The partners have a long history of conducting lifecourse research of two main types: i) longitudinal studies aimed at informing policy and practice; and ii) intervention research in the community.
+
+**New Zealand Centre for Sustainable Cities**  
+Director: Professor Philippa Howden-Chapman
+
+The New Zealand Centre for Sustainable Cities is an inter-disciplinary research centre dedicated to providing the research base for innovative system solutions to the economic, social, environmental and cultural development of our cities. The health and well-being of most of our population (87% of New Zealanders live in cities) is reliant on developing environments that take into account the connections between housing, transport, energy, urban form, health and governance and other issues. Centre partners include Auckland, Massey, Victoria, and Canterbury universities and NIWA. The Centre aims to work in local, regional and national partnerships to develop the tools to promote well-being and health through smarter economic development, safer and more sustainable housing, transport and energy systems, and enhanced urban design.  
+http://www.otago.ac.nz/research/centres/otago005629.html
+
+**Sir John Walsh Research Institute**  
+Director: Professor Jules Kieser
+
+The Sir John Walsh Research Institute advances research and increases knowledge for the improvement of oral health in New Zealand. Its four innovative, future-focused, inter-connected research programmes cover the spectrum of oral health research from the molecular level through biological systems to the health of populations. These programmes are: Biomechanics and Oral Implantology; Dental Epidemiology and Public Health; Molecular Microbiology; and Oral Molecular and Immunopathology. The Institute is part of New Zealand’s only Faculty of Dentistry and its members have well-established productive collaborations across the University and with other institutions in New Zealand and world-wide. Among its research objectives is to develop clinical research that translates discoveries into measurable health improvements, and to maintain fundamental research that underpins teaching.  
+http://www.otago.ac.nz/sjwri
+
+**Webster Centre for Infectious Diseases**  
+Director: Professor Kurt Krause
+
+The Webster Centre for Infectious Disease works to bring New Zealand scientists together to address important problems in infectious diseases in New Zealand. Based in Dunedin, the Centre has engaged more than 60 experts in both human and animal diseases from four universities and key Crown Research Institutes, including AgResearch, ESR and IRL. Previously focused on molecular-based projects, the Centre has now expanded its mission to include clinical and population health research as part of its core activities. As a result, the Centre now includes leaders in basic, clinical and epidemiological research. Among the many aspects of infectious diseases that the Centre investigates are bacterial drug resistance and evolution, antimicrobial design, viral pathogenesis, genetics of disease susceptibility, vaccine design, immunology and host susceptibility, diagnostics and clinical infectious diseases, and public health.  
+http://webstercentre.otago.ac.nz/
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [University of Otago](https://info.scoop.co.nz/University_of_Otago) on InfoPages.

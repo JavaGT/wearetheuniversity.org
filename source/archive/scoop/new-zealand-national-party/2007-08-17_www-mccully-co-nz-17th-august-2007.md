@@ -1,0 +1,82 @@
+---
+slug: www-mccully-co-nz-17th-august-2007
+title: "www.mccully.co.nz - 17th August 2007"
+date: 2007-08-17
+source-url: https://www.scoop.co.nz/stories/PA0708/S00315/wwwmccullyconz-17th-august-2007.htm
+author: new-zealand-national-party
+---
+www.mccully.co.nz - 17th August 2007
+====================================
+
+**Friday, 17 August 2007, 5:29 pm**  
+**Column: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+### www.mccully.co.nz - 17th August 2007
+
+_**A Weekly Report from the Keyboard of Murray McCully MP for East Coast Bays**_
+
+**Seizing Disunity from the Jaws of Consensus**
+
+The past two years have seen the National Party run the most bi-partisan approach on matters of foreign policy that this country has seen from an opposition in 30 years. Not all have welcomed this stance. But a small nation, heavily dependent upon external relationships for its economic success, simply cannot afford to have its key relationships in defence, foreign affairs and trade driven by the vagaries of the domestic political process.
+
+Such trends, one might imagine, would be warmly welcomed by the government of the day. A chance to focus fully on the challenging job at hand, free from the day-to-day necessity to protect against political exposure. Unless, of course, the field of foreign affairs is seen, not as a vehicle to advance the national interest, but instead simply a grubby forum in which to score cheap, indeed trivial, political advantage. As is evidently the case for key players in the Clark Government, who have been determined to seize disunity from the jaws of consensus.
+
+The decision to unleash the full fury of the Clark Government’s political arsenal against John Key 10 days ago was inevitable. The decision to focus that attack around foreign policy, specifically Iraq, was not. Examining the specious, trumped up basis for the onslaught, the attack now looks truly pathetic. By Wednesday of this week the opposition benches were laughing in Phil Goff’s dangerously swollen face at the increasingly try-hard nature of it all. By Thursday, it had all come back to bite the Government most embarrassingly, right on their highly exposed political backsides.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+**The Acute Embarrassment**
+
+The decision of the national flag carrier to carry Iraq-bound Australian troops by charter was always going to be a sensitive one. Which is why the airline took the precaution of checking with the Ministry of Foreign Affairs. But no-one could have predicted just how sensitive this topic would be. No-one could have predicted that Clark, Goff, Cullen and co. would, yet again, choose to put their domestic political needs ahead of the nation’s foreign policy interests.
+
+News of the troop shipments could not have been more untimely. The embarrassment was acute. Clark and Goff unleashed their anger on the airline, and the MFAT officials. Yes, the fact that Government policy had not been applied consistently was mildly inconvenient. But much more important, the Labour Party’s anti-Key missile had just shot them right in the foot.
+
+**Falling on his Sword**
+
+As Clark and Goff vented their frustrations, Foreign Minister Winston Peters was in a different space. Most of the first 24 hours were spent insisting that he couldn’t be sure that there was, in fact, a problem. Despite Australian statements to the contrary, Mr Peters appeared to be the only person on earth to believe that Air New Zealand might have been transporting, not Australian troops, but doctors, nurses and cuddly toys.
+
+By mid-day Thursday it was clear: there would have to be a victim. And Foreign Affairs Secretary Simon Murdoch was presented for the purpose of falling on his sword. That, declared Mr Peters, would be the end of the matter. How very, very convenient. Attempts to extract assurances that officials had no recollections of advising Ministers or their staffs of the flights were met with equal measures of obstruction and evasion.
+
+**The Truth?**
+
+The Government insists than no Minister was advised of the Air New Zealand flights. The truth may be difficult to establish. Any communications are most likely to have been oral. And Murdoch’s rapid acceptance of responsibility is designed to make serious enquiry redundant.
+
+It has now emerged that the list of officials who knew of the flights that no Minister has apparently ever heard of, is indeed extensive. The ODESC officials committee that advises the Government on security matters, and which knew of the flights, comprises the most senior officials in the land: chief executives from the Ministry of Foreign Affairs, the Defence Force, the Defence Ministry, the SIS, Civil Defence and Treasury, chaired by none other than the chief executive of the Department of Prime Minister and Cabinet.
+
+To accept the explanation from Ministers at face value is to believe that the most senior echelons of our Government are deeply deeply dysfunctional. As to the relationship between the Minister of Foreign Affairs and his Ministry we can only speculate as to the daily contortions required to keep the show on the road.
+
+**Murdoch**
+
+Simon Murdoch is one of New Zealand’s most senior, experienced and professional public servants. Roles as an ambassador, as head of the Department of Prime Minister and Cabinet and more recently as head of Foreign Affairs have demonstrated that he is one of our most competent public servants, amongst the least likely to make a serious mistake.
+
+The State Services Commissioner Dr Prebble has emerged from his lair to commend Mr Murdoch for his acceptance of responsibility and confirm that the issue will be included in his performance appraisal. That will be of little short-term and no long-term consequence.
+
+**The Irony**
+
+The irony, of course, is that Mr Murdoch now stands accused (mostly by himself) of failing to inform his Minister of information that, under the “no surprises” provision in the code of conduct, his Minister was entitled to receive on a matter that might draw public or political comment. His judge and jury in this respect is the State Services Commissioner Dr Mark Prebble.
+
+The very same Mark Prebble who also stands accused of failing to inform his Minister (and his deputy and the tens of thousands of readers he actively misled through his article in the DominionPost) of crucial discussions that had occurred between David Benson-Pope and his chief executive Hugh Logan. How very very ironic.
+
+Further irony is to be found in the fact that Mr Murdoch, who is to be judged, has accumulated in the span of his long career, a good deal of capital across all sides of politics, which will surely insulate him against any diminution of confidence and respect. Of Dr Prebble, who will do the judging, the same bold assertion could most certainly not be made.
+
+ENDS  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

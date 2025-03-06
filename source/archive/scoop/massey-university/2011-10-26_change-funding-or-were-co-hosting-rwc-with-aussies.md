@@ -1,0 +1,62 @@
+---
+slug: change-funding-or-were-co-hosting-rwc-with-aussies
+title: "‘Change funding or we’re co-hosting RWC with Aussies’"
+date: 2011-10-26
+source-url: https://www.scoop.co.nz/stories/PO1110/S00453/change-funding-or-were-co-hosting-rwc-with-aussies.htm
+author: massey-university
+---
+‘Change funding or we’re co-hosting RWC with Aussies’
+=====================================================
+
+**Wednesday, 26 October 2011, 2:41 pm**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+October 26, 2011
+
+**‘Change funding or we’re co-hosting RWC with Aussies’**
+
+The only way New Zealand can afford to hold the Rugby World Cup again is co-hosting with Australia – unless the International Rugby Board (IRB) shares its profits with future Rugby World Cup hosts, says a Massey University economics lecturer.
+
+Dr Sam Richardson says the country now has the infrastructure in place and has proved itself a great venue. However the funding model needs to change to allow small countries hosting the tournament to cover costs and enjoy tangible economic benefits.
+
+“If the present agreement continues, there is no way we will be able to afford it in future, it will be too expensive,” says Dr Richardson. “But the Rugby World Cup could come back here again if the present funding agreement is changed to allow the hosts some of the revenues that go to the IRB.”
+
+He notes comments by International Olympic Committee (IOC) president Jacques Rogge that New Zealand could host an Olympic Games, based on his impressions of the success of the tournament.
+
+“The IOC helps their host nations out significantly with costs – covering around 50 per cent of the costs of the 2012 London Olympics. If the IRB could cover some of the costs, it would go a long way towards making a future tournament feasible in New Zealand.”
+
+Dr Richardson, who researched public spending on major sporting events for his PhD, says he is delighted at the success of the tournament, and in particular the meeting of the ticket sales target.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+“New Zealand, as a small country, is at a massive disadvantage because we do not have stadiums the size they have in Australia or anywhere in Europe, the UK or Japan. Plus we just don’t have the population to bring in the revenue from ticket sales.”
+
+Dr Richardson says a joint bid between New Zealand and Australia would be viewed favourably by the IRB and could be hosted at a fraction of the operational cost to New Zealand. But if the success of the tournament was measured by “warm fuzzies” and not economic gains it would easily put another event on the agenda with New Zealand as a sole host.
+
+“People have backed this event,” he says. “Obviously it is helpful that we won, but we were fortunate to have teething problems with crowds at the very beginning, and not in the knockout stages. It has gone smoothly since and people right across the country have welcomed visitors in true Kiwi-style.
+
+“If the IRB was to act on calls for a review of the funding model New Zealand would be knocking at the door as a future host,” he says.
+
+Dr Richardson says the tournament is unlikely to generate the $700 million boost to the economy – closer to between $50 and $70 million is his prediction – but he will be analysing the data later this year to establish the actual economic impact on each of the major host cities. “It will be interesting to see if the present temperature of the nation continues on after the Rugby World Cup has been and gone,” he says.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.

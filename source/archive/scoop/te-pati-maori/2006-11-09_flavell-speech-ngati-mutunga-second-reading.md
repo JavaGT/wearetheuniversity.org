@@ -1,0 +1,140 @@
+---
+slug: flavell-speech-ngati-mutunga-second-reading
+title: "Flavell Speech: Ngati Mutunga, Second Reading"
+date: 2006-11-09
+source-url: https://www.scoop.co.nz/stories/PA0611/S00189/flavell-speech-ngati-mutunga-second-reading.htm
+author: te-pati-maori
+---
+Flavell Speech: Ngati Mutunga, Second Reading
+=============================================
+
+**Thursday, 9 November 2006, 5:00 pm**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Ngati Mutunga, Second Reading
+
+Te Ururoa Flavell, Treaty Settlement Spokesperson
+
+Thursday 9 November 2006
+
+Falling on Deaf Ears
+
+The timing of Select Committee hearings is often simply a matter of scheduling.
+
+Not, with Ngati Mutunga. Wednesday 6 September 2006 was a marker in Ngati Mutunga history. It was the first time Ngati Mutunga had ever dealt directly with an arm of Parliament. It was also the exact day that 141 years earlier, the Crown had wrongfully confiscated all of Ngati Mutunga’s land.
+
+And what was the nature of the argument put by Ngati Mutunga on this day of all days? It is captured in these words:
+
+“Ultimately Ngati Mutunga’s concerns fell on deaf ears and we were put in the position of having to cede to the Crown’s view”.
+
+What does it do to a people, who for 141 years, have suffered the consequences of confiscation; of military assault, to be greeted by a Government that says here it is, take it or dip out?
+
+Madam Speaker, as one of the iwi of Taranaki whanui, Ngati Mutunga lives every day with the aftermath of land deprivation and disempowerment.
+
+Having married into the Taranaki people and lived there for around six years, a very short period of time when one considers what happened in Taranaki regarding confiscation, I heard regularly how the people feel about muru me te raupatu, confiscation. You see, sir, they sing about it, they haka about it. Confiscation is a huge part of their history.
+
+Mr Mahara Okeroa knows those songs. He is from there, from Waitara, from Parihaka, symbols of the legacy of land confiscation.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Every day on the drive from Urenui to New Plymouth, members of Ngati Mutunga face the impact of perpetual leases; the promises of the reserves made in the confiscations of the 1860s, still not given effect.
+
+Madam Speaker, the Taranaki situation is quite unique. In the 1996 Taranaki report, the Waitangi Tribunal concluded:
+
+“It is a further consequence of this extraordinary record of expropriation and deprivation that there is not one hectare of Taranaki land that is now held entirely on Maori terms and by Maori rules.
+
+All that could have been done was done to destroy the land base for Maori autonomy and representation. In the governance of the Taranaki province, since the Treaty of Waitangi was signed, land has been reserved for the bush and the birds, but not one acre could be guaranteed as a haven for Maori”.
+
+Not one acre.
+
+Madam Speaker, imagine the consequences of living with that reality, promises renegged on; justice denied. Every day living with the legacy of extensive land loss and debilitating land reform.
+
+Finally, the day Ngati Mutunga has the generosity to meet with the Crown, once more the Crown fails to respect their authority.
+
+Definition of Ngati Mutunga
+
+The Maori Party strongly endorses the notion, that tikanga should take preference in such matters of definition of who is who and that it must be for iwi to define themselves.
+
+Te Runanga o Ngati Mutunga asked the Crown to define them in manner consistent with Ngati Mutungatanga. But no! The Crown insisted that the Adoption Act, Bill of Rights Act, and Human Rights Act should usurp and override Ngati Mutunga tikanga.
+
+Historical hapu which are no longer included within their iwi community were placed in the settlement by the Crown. I mean, what’s up with that?
+
+Madam Speaker, this House should by now be well aware of the conflict and internal divisions that are attached to the process of treaty settlements. And yet here the Crown willingly marches in, like troops storming Parihaka, to set up scenarios which could threaten the internal unity of the iwi. I mean, why do it?
+
+Calculation of Settlement Quantum
+
+Once the Crown has redefined the iwi, they proceeded with the ultimate offence, pulling a figure out of the air, $14.9m, and expecting Ngati Mutunga to be grateful. No explanation given as to the methodology for calculating the quantum. No transparency. Zulch.
+
+But speaker after speaker today, from the Government at least, all mention the incredible gesture of Ngati Mutunga in taking the pittance in the best interests of the country while talking up a rugby stadium and a financial surplus. Katahi te mahi höhä ko tera.
+
+The revelation to the Select Committee from the Office of Treaty Settlements that the Crown enters Treaty settlements with a pre-determined quantum in mind, while not earth-shattering news, was more definitive proof that the fiscal cap lives; that good faith bargaining is only ever one-way – the thief consistently expects to be received in good faith.
+
+The Committee concluded, as do we, that there could be no confidence that the offer of settlement was a fair assessment of the severity of the breach.
+
+In particular, Ngati Mutunga remain aggrieved that the reduction from 150,000 acres to the 75,000 acres presented by the Sim Corporation, was not reflected in the quantum. This is a massive difference, and yet, as always, the Crown authority prevails.
+
+While the minimization of their traditional boundaries was acknowledged in writing, the injustice remains for Ngati Mutunga.
+
+Relativity
+
+Ngati Mutunga I suppose went into the negotiation, eyes wide open. They knew that the commercial redress reflects less that one percent of the value of the land confiscated. But the pain of alienation has not been lessened by this settlement of that I am sure. Department of Conservation estate remains in Crown hands. All lands within their traditional rohe have been lost.
+
+And the inevitable contrast with other settlements which Ngati Mutunga perceive as having included significant commercial assets such as Crown forest licensed land, leave Ngati Mutunga with more questions I suspect.
+
+Funding
+
+But then to top it off, Ngati Mutunga incurred substantial costs in even getting to the point of settlement. It is no wonder that they described the process as “outrageous” when we consider that these are the uri of tupuna who suffered the worst excesses of war and raupatu, but are now forced to struggle to find resources to make ends meet.
+
+And yet despite all this, the sense of resentment, injustice heaped upon injustice, Ngati Mutunga was required to agree that the settlement was fair under the circumstances.
+
+What could possibly be fair about Ngati Mutunga being denied their right to development potential?
+
+What is fair about the fact that although redress has not yet been negotiated for their tupuna Maunga, a fiscal element has already been calculated as part of their settlement quantum?
+
+What is fair that the quantum is based on a figure that most understand has been plucked out of the air or someone saying, “1% sounds good???”
+
+Madam Speaker, I know Ngati Mutunga to be a proud people despite the long lasting effects of land confiscation. They and the other tribes of Taranaki are a source of personal inspiration in terms of their tenacity in hanging in with their claims. Many tell us about the toll that the process takes on people.
+
+The descendants yet to be born, will know of your determination, your united resolve, to do what could be done so that the iwi can grow.
+
+We pay tribute to your efforts in reconnecting the ahi kaa with Ngati Mutunga uri, spread throughout nga hau e wha.
+
+We of the Maori Party will support the amendment which relates to the liquidation/wind up and transfer from the Ngāti Mutunga Iwi Authority Board (Incorporated Society) to Te Rūnanga o Ngāti Mutunga (Private Trust).
+
+We note the disappointment expressed by the Select Committee, that Ngati Mutunga Iwi Authority had to incur costs of up to $20,000 to transfer the assets and functions to the post Governance entity, Te Runanga o Ngati Mutunga.
+
+We, the Maori Party, will not relent from exposing the arrogant approach taken by the Crown in their dealings with you. Hansard will record for example our shock at the Crown not initially disclosing these sorts of costs to you.
+
+I must say that we understand that you of Ngati Mutunga must be practical and make the best of a disastrous situation. The pitiful quantum allocated to the settlement, and the directive to establish the Rūnanga in place of the Iwi Authority as a requirement of the settlement; is in itself, sufficient to explain to this House, the expectation that the liquidation of the Iwi Authority be effected as part of the settlement process.
+
+We agree, that there is already well-established precedent for the use of legislation to effect the liquidation of an existing iwi representative entity and its replacement with a new entity. The Waikato Raupatu Claims Act 1995, Te Rūnanga o Ngai Tahu Act 1996, Te Rūnanga o Ngāti Awa Act 2005 and, most recently of course, the Te Arawa Lakes Settlement Act are examples of this.
+
+Madam Speaker, I attended a number of the Taranaki Tribunal hearings. The 1996 Waitangi Tribunal report said this and I quote:
+
+“If war is the absence of peace, the war has never ended in Taranaki because that essential prerequisite for peace amongst peoples, that each should be able to live with dignity on their own lands, is still absent”
+
+This Bill, does nothing to advance the peace-making process. One would assume that the giving of an apology might mean the Crown would not breach again; yet the Crown continues to do so.
+
+Ngati Mutunga survive. But an enduring conflict remains. Such is the nature of the Treaty settlement.
+
+ends
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

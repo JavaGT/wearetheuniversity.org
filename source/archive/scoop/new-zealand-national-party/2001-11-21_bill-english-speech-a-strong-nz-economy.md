@@ -1,0 +1,174 @@
+---
+slug: bill-english-speech-a-strong-nz-economy
+title: "Bill English Speech: A Strong NZ Economy"
+date: 2001-11-21
+source-url: https://www.scoop.co.nz/stories/PA0111/S00355/bill-english-speech-a-strong-nz-economy.htm
+author: new-zealand-national-party
+---
+Bill English Speech: A Strong NZ Economy
+========================================
+
+**Wednesday, 21 November 2001, 9:34 am**  
+**Speech: [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party)**
+
+Address by Hon Bill English
+
+National Enterprise / Hamilton Business Group Breakfast Quality Hotel, Hamilton
+
+8am 21 November 2001
+
+A Strong New Zealand Economy
+
+A strong economy helps the many, not just the few. For people on lower incomes a strong economy means the prospect of a job, or a better job, and increasing wages and salaries. For the entrepreneur and the investor a strong economy encourages more ideas, more risks and more profits.
+
+Even in a strong economy, some go backwards, but there is no argument that the community is better off with a strong economy.
+
+Some argue a growing economy is good primarily because it means enough tax for more Government spending on health and education. This is true but it is only part of the wider community benefits.
+
+It's hard for some to understand that a community and a family can get ahead and feel better off without government grants or schemes. A strong economy is a ladder of opportunity.
+
+National's principles of freedom, enterprise, self-reliance and contribution to the common good underpin a strong economic future for New Zealand. These principles also underpin successful families and communities.
+
+Over the next few months we will be releasing policy that will build a plan of action to lift the performance of the New Zealand economy over the next 10 years so that we can all enjoy a higher standard of living.
+
+The task ahead of us is huge and complex, but National is committed and enthusiastic about New Zealand and the potential of our people.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+The Labour Government has a public relations strategy, not an economic strategy. Lifting New Zealand's performance will require a good understanding of our strengths and weaknesses, clear policy direction and national commitment to making New Zealand a place where our young people will stay or return to.
+
+In the short-term there is little doubt that the economy is going to go through a soft patch. Don Brash wouldn't have cut interest rates if he didn't think so too.
+
+The economy was already coming off the highs of good weather, high prices and low exchange rate - and the Reserve Bank was already responding to this.
+
+Then came the terrible events of September 11, which just served to heighten the uncertainty around the global economic outlook.
+
+A few days ago it was reported that the US had suffered its first contraction in GDP in a decade. Key interest rates are at their lowest level since John Kennedy was President.
+
+How well we do depends on how quickly this uncertainty resolves itself. The risk is that it lingers and becomes even more pervasive.
+
+Only time will tell.
+
+Fiscal Implications
+
+In the short term, slower growth means the Government has less money, when it's already finding it tough to stick to the budget. Strikes in our hospitals and schools are signs of this problem.
+
+Lower growth saw the Government wipe $1.8 billion off projected operating balances in the May Budget, and they will most likely have to lower them further in the next set of forecasts, which are due in a month's time.
+
+As we predicted at the time of the Budget - the Government has spent all the money buying votes and now it doesn't have enough to run health and education properly.
+
+That fiscal pressure and all its associated risks have now been exacerbated by recent events.
+
+National is becoming increasingly concerned about the state of the nation's finances we will inherit when we are next in government.
+
+Government cornered by superfund
+
+The Government is finding they are increasingly trapped by commitments to the superfund.
+
+Helen Clark and Dr Cullen think that finding an average $2 billion a year is easy. They saw forecasts of budget surpluses and they have committed all those surpluses, and more, to the superfund. Just as the fund is getting started, the surpluses are starting to disappear.
+
+Public debt is starting to rise. If the economy weakens, debt will go up faster.
+
+National - more room to move
+
+National is creating room to move.
+
+Last week I talked about our public investment policy - whereby the Government will take a hard and critical look at what the Government needs to invest in, and how it uses the assets it has for the benefit of New Zealand.
+
+I said the Government should make choices about where it spends your money - more roads or a People's Bank, better education or more electricity generation.
+
+At the same time National will not have the constraints of needing to find an average $2 billion dollars a year to put into a superfund.
+
+So National and New Zealand have more policy options than are currently open to the Government. They have to put billions into the superfund. We can repay debt or work better public investments.
+
+We can also look at tax policy.
+
+I want to say today, National stands for lower taxes. We need enough money to meet the growing demand for more health, education and to support people who need our collective support. But if there is spare cash, it's best left with the small businesses and families who have earned it.
+
+We have just seen the release of the McLeod report on the New Zealand tax system. It makes some very sound recommendations. It's a shame the Government has opted just to brush it aside. We will be using it as a valuable resource as we move closer to finalising our position on tax.
+
+National fundamentally believes that lower taxes are better for small businesses and families.
+
+We will be taking a long-term view. We will look to lower taxes progressively and in a sustained manner over time, all the while making sure we can meet the growing costs of health and education first.
+
+It's important that we reward skills, talent and entrepreneurial effort at home.
+
+We need to stand out in the crowd. Currently, New Zealand stands out for all the wrong reasons - the highest corporate tax rate in the Asian region, and a country where the size of Government is projected to grow as proportion of GDP, and with it the tax burden. We need to stand out for the right reasons so that we retain and attract skills and talent in an increasingly borderless global economy.
+
+We want our kids to be entrepreneurial and innovative and earn the rewards for that effort but we want them to be able to do that at home - not to have to look for opportunities overseas.
+
+The reality is that our kids will have some tough choices to make about careers - big corporate jobs overseas, or smaller, innovative, entrepreneurial jobs at home.
+
+New Zealand runs on thousands of owner-operators, their commitment, and their willingness to take risks. National wants to support them and their communities by leaving more of their hard earned income with them. There is a strong consensus in the business community that if lower taxes are possible, we should pursue them.
+
+I believe this issue should be discussed more widely. We will produce a public discussion document on tax. It will include tax options and costs, as well as a discussion of the broader benefits, to society as a whole, of lower taxes.
+
+Tax not a silver bullet
+
+Tax will be part of our story - but not the only part.
+
+Tax is not a silver bullet. The task ahead of lifting the long-term performance of the economy will require huge effort on a number of fronts.
+
+This is where the Government has got it wrong - for all the talk, the biggest commitment of dollars is to the superfund. They believe savings are the answer. National believes backing and rewarding people is the answer.
+
+Labour are so committed to the superfund that they are prepared to borrow. That's like a household pushing up the mortgage to invest in overseas sharemarkets.
+
+Recent research from the National Bank shows that increased debt will lead to higher interest rates which will, in turn, lead to lower growth.
+
+The Government's only answer to our growth problem is in fact going to lower growth even further, by 0.2% per annum according to the National Bank's estimate. Just sounds like a number - but it will cost someone's job.
+
+Productivity
+
+National will be taking a much more strategic approach to growth that will focus on productivity. That's all about people learning and working harder and smarter. That's how I think of the Knowledge Economy - learn fast. One incentive for fast learning is reward, a better net income.
+
+But when it comes to lifting the overall productivity of the economy, there are a few levers we can pull. We heard about the importance of many of these ideas at the recent Knowledge Wave conference, and they have been hashed over a dozen times by groups representing small and large businesses, farmers, families, scientists and universities.
+
+1) Tax Getting incentives right to retain and attract skills and capital in an increasingly globalised world. Take a long-term approach to lower taxes if there is enough money. We need to stand out from the crowd for all the right reasons.
+
+2) Education Education is the best investment we can make in the future. This Government is all about dumbing down the education sector - taking a one-size-fits-all and overly bureaucratic approach to one of the most important ways we can develop our people. We want our teachers to be able to do what they do best - instil children with a love of learning rather than ticking boxes.
+
+3) Competition/Regulation and Compliance Any new regulation should have to prove it will do more good than harm. Business wants to know what the rules are know that they are not going to change mid stream. This month the Government introduced legislation outlawing stress in the workplace. The RMA affects everything from section prices to the cost of saving native bush. We should drop the focus on following the Australians and aim for world best practice.
+
+4) Self reliance New Zealand cannot afford to write-off its own people. Too many New Zealanders are getting the message that they just won't make it, particularly Maori and Pacific people, so they should depend on the Government to see them right. Given the opportunity almost everyone will choose self-reliance over dependency. National supports that choice.
+
+5) Infrastructure Just as much as we need to unshackle the economy from the bureaucratic red tape, we need to remove the physical roadblocks to a faster growing economy. National will apply it's public investment policy framework to ensuring that the Crown can direct its investment, in partnership with the private sector, to making sure our roads can handle the commuters, cars and the truckloads of logs, meat and milk that are the life blood of the economy.
+
+6) Foreign Direct Investment This can bring not only funds but much needed technology and management skills to kick-start our industries. We are looking at how to attract more of it.
+
+A strong economy is important. That's why it's important to have a plan of action about how to get it, and how to keep it.
+
+I can speak about the importance of a strong economy from personal experience. I have been lucky enough to have lived in and represented the far South over the last 11 years. In Southland, there was very little economic progress for a long time. Farmers had years of low returns. Companies left, jobs were lost, communities slowly shut down.
+
+I learned a poorly performing economy is bad for everyone. It grinds down their confidence and aspiration, their capacity for a vision. That's changed because of high farm prices. Everyone is better off. Even older people who only get inflation adjustments to their low incomes. They feel more secure; they see their families with confidence. Where people I know felt all their efforts didn't add up to much, now see they have made a platform for new opportunities, more progress in their community and see jobs that their own children might take, rather than leave.
+
+My community has been poor and now it's getting rich and getting rich is better. We're a more cohesive community with hope for a better future. To those without that hope, a strong economy offers much more than welfare and Government grants.
+
+Right now New Zealand is sleeping off the political, economic and social turmoil of the 90s. Helen Clark is the night nurse making sure no-one stirs too much.
+
+We have a unique national character in our economy, our people and our way of life. National wants to build on the unique strengths of New Zealanders. I want to restore New Zealand's international reputation as a dynamic and progressive people, and I want to build a new reputation for beating the odds. To achieve that we must look forward, not back, devote our energies to creating the New Zealand of the next 10 years rather than recreating the last ten.
+
+I ask for your support for our long-term plans for New Zealand and our shorter-term need to win an election so we can get started.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand National Party](https://info.scoop.co.nz/New_Zealand_National_Party) on InfoPages.

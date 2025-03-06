@@ -1,0 +1,201 @@
+---
+slug: economic-sovereignty-and-dignity
+title: "Economic Sovereignty and Dignity"
+date: 2010-09-01
+source-url: https://www.scoop.co.nz/stories/PA1009/S00014/economic-sovereignty-and-dignity.htm
+author: green-party
+---
+Economic Sovereignty and Dignity
+================================
+
+**Wednesday, 1 September 2010, 2:26 pm**  
+**Speech: [Green Party](https://info.scoop.co.nz/Green_Party)**
+
+**1 September 2010  
+Dr Russel Norman speech: Economic Sovereignty and Dignity**
+
+**Speech to Rotorua Grey Power, 1st September 2010  
+Introduction**
+
+Thank you very much for coming along this afternoon. The first day of spring, and a fantastic day in Rotorua.
+
+As the Co-leader of the Green Party I would like to acknowledge and thank you for your efforts to make New Zealand a fantastic place to live.
+
+When I ask my friends who have travelled and lived overseas why they came home, they say because New Zealand is a wonderful place to bring up a family. And what could be a better endorsement of our country than it being a wonderful place to raise our most valued treasures, our children?
+
+And it’s only like that because of the efforts of the generations who built this country over the last century. Generations of New Zealanders who fought fascism in a world war; generations who built the state housing that provided shelter to so many including our Prime Minister; generations of New Zealanders who built the dams that still generate the power to drive our industries and who wisely kept those power stations as public assets; and generations who had the wisdom to put aside national parks for future generations to enjoy the natural environment.
+
+My hope is that we can carry on your good work to ensure that our grandchildren are as well provided for as we have been provided for by those who came before us.
+
+For New Zealand is a great country. It is a country with a proud history. And it is a country with a prosperous future if we make the right decisions. New Zealand is a remarkable country that needs to confront some deep social, economic and environmental challenges as we make our way in a world that is rapidly changing. If we want to successfully navigate our way through this rapidly changing world, we will need to make the right decisions.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+But we will only have the opportunity to make the right decisions if we have the right to make the decisions at all. We can only make the right decisions for the future of New Zealand if we protect and take back our economic sovereignty.
+
+Because that’s what economic sovereignty means – it means the right to make our own decisions about our own economic future. It means the right to make decisions about our own economic future for ourselves, for our families, for our communities and for our nation.
+
+Economic sovereignty today is being threatened by governments under the sway of powerful vested interests.
+
+Right now a Hong Kong dairy company wants to buy up the Crafar dairy farms, encompassing thousands of hectares of productive farmland. So what does our parliament do? Just last week National and Labour voted for a trade and investment deal with Hong Kong that makes it easier for Hong Kong companies to buy up farmland in New Zealand.
+
+Could there be a clearer case of a parliament voting against the best interests of the nation?
+
+The Greens voted against that deal because we wanted to protect our economic sovereignty; our right to make our own decisions about our economic future.
+
+Does the government retain economic sovereignty when large tracts of land have fallen into foreign ownership? If you don’t even control your own land, the very earth on which you stand, are you really masters of your own destiny? Of course not, that’s why generations of New Zealanders fought to protect our sovereignty.
+
+Today I want to talk to you about why and how we are losing control of the country in which we live, and what we can do to take back our own destiny.
+
+_**Debt**_  
+The story about loss of economic sovereignty must start with debt.
+
+An indebted people is an enslaved people. You cannot borrow your way to freedom. New Zealand has been borrowing money from the rest of the world hand over fist for the last couple of decades.
+
+The boom in the housing market drove the increase in debt. The Aussie banks borrowed money from overseas, then pushed it on people to drive up the price of housing. They link staff pay to how much debt they can push on their customers. They ran TV ads encouraging us to borrow more and more, to put the holiday on the house mortgage.
+
+And we did.
+
+We now owe foreigners $243 billion. This is more than 100% of our Gross Domestic Product.
+
+In the last 12 months we had to hand over $5.6 billion just to pay the interest on the debt. That’s $5.6 billion that we don’t have to spend on ourselves. That’s $5.6 billion that we have to earn in other parts of the economy just to pay the interest on the debt.
+
+It’s hard to walk tall when you have a heavy chain around your neck. It’s hard to take your own decisions when someone else has their hands on the chain.
+
+The problem with being a debtor nation is that you don’t want to upset your creditors in case they decide they don’t want to roll over your loans and lend you more money.
+
+And if you are afraid of upsetting your creditors then you no longer have your freedom; you no longer control your own destiny; you are losing your economic sovereignty.
+
+_**Foreign ownership**_  
+But the problem isn’t just that we are now a big debtor to the world. It’s also that the world has been buying up big parts of New Zealand.
+
+In the last five years alone more than 150,000 hectares of farmland has gone into overseas ownership. And that’s only parcels of land greater than 5 hectares – they don’t bother to record pieces of land smaller than that.
+
+How much of the boom in the residential property market was driven by overseas buyers? We don’t know because Labour and National didn’t want to keep records. In Australia they’ve been so worried by overseas buyers purchasing houses that they changed the rules so that foreign citizens need to get approval to buy housing, and must sell it when leaving Australia.
+
+In New Zealand it’s anything goes – foreigners can buy up as many New Zealand homes as they like regardless of the impact on New Zealand families who would like to buy a house to bring up a family but have been driven out of the market by skyrocketing prices due in part to overseas buyers of investment properties.
+
+These are the facts about our economy but when you say them, people accuse you of xenophobia to try to shut you up.
+
+This is not about xenophobia. We are not frightened of foreigners; the Greens welcome migrants to our country. Some of us in this room, including myself, are migrants. The issue isn’t about people coming to live in New Zealand and getting a share of paradise – all of us who have come to these shores deserve a fair go regardless of race or creed.
+
+The issue is about overseas corporations and billionaires buying up chunks of New Zealand, driving prices beyond the reach of New Zealand residents and citizens, and sending the profits back home.
+
+Foreigners currently own about $65 billion in shares and other equity in New Zealand. And the dividend payments in the last 12 months alone were $3.9 billion. So nearly $4 billion was sent offshore as dividend payments to the foreign owners of great tracts of the New Zealand economy. And less than 10% of all of this was reinvested in New Zealand.
+
+The fact is that overseas owners are simply draining New Zealand of its wealth and re-investing very little of their profits here.
+
+_**Banks**_  
+Our banking sector is one that has particularly suffered as a result of the dominance of foreign ownership. The big Aussie banks have been ripping off New Zealanders for years – overcharging account fees and credit cards. They have established an oligopoly, divided the market between themselves and simply sat there reaping the profits, rather than competing.
+
+The Greens, Labour and the Progressives set up a Parliamentary inquiry into the banks.
+
+We had Sam Knowles, the head of Kiwibank, in front of the Parliamentary banking inquiry, and he made it clear that Kiwibank found itself competing against the existing Aussie banks that were simply maintaining market share and maximising profit rather than competing on price. The Aussie banks have divided the market amongst themselves in a cosy arrangement to maximise their returns and our costs.
+
+And what a profit. They have drained $9 billion out of New Zealand over the last five years.
+
+In the financial year ending 2009, during the global financial crisis, the banks took a profit hit and only made $790 million. Poor things. But incredibly they repatriated $1.7 billion in profits back to their shareholders, overwhelmingly in Australia. So in the middle of a giant credit crunch when the New Zealand economy was desperate for capital, the banks were sabotaging the economy by draining capital back to Australia - $900 million more than they made in profits.
+
+This is nothing less than economic sabotage.
+
+This is a graphic example of what happens when you allow total overseas ownership of a key sector of our economy. We lose control of our economy to the whims of the Australian bank bosses who will take money out of our economy right when we need it.
+
+It is also a graphic example of why we must not let the National Party privatise Kiwibank and other state-owned enterprises – if they are privatised they will inevitably fall into foreign ownership and the profits will flow overseas.
+
+To add insult to injury the banks also decided not to pay their taxes in New Zealand. They were found to have avoided around $2.2 billion in tax they owed to the government – that’s 2200 million dollars they tried to take from ordinary taxpayers. The IRD took them to court and won at great expense.
+
+You may have missed the announcement of the final settlement as it came out on December 23rd last year so that it would get lost in the Christmas rush. So let me tell you what happened. ANZ National, BNZ, Westpac and ASB handed over the back taxes they owed after years of court battles. But get this – they didn’t pay any penalties! They only paid about 80% of the tax owing, plus interest. And how many of their executives went to jail? None.
+
+Imagine if you or I broke into a bank and stole 2200 million dollars. Would we just have to hand it back and pay no penalties and not go to jail?
+
+Have you ever wondered why the banks spend so much money on those feel-good ads on TV? Because they need to convince us that they are good for us, even as they strip profits out of the country.
+
+The finance system is critical to any economy. It allocates capital to business and individuals, it is like the general head quarters of an army. And our banks are controlled from overseas, serving the purposes of the overseas owners not the New Zealand economy or people.
+
+_**Total drain on NZ economy**_
+
+The total drain on the New Zealand economy of servicing this debt and dividend payments to overseas owners was over $9.5 billion in the last 12 months. Nearly ten billion dollars drained out of New Zealand. And only $360 million was reinvested in New Zealand.
+
+Overseas owners are looking to maximise their return on their investments, and why wouldn’t they? But that doesn’t mean we have to be so stupid as to let them have a free hand to take what they like from the New Zealand larder, as prodigious as it may be.
+
+A country which already has a huge current account deficit due to the draining of profits and interest payments back to overseas owners needs to stop selling more of its assets to pay the bills.
+
+_**Taking back our sovereignty and our dignity**_
+
+Well the Greens won’t take this lying down. We can take back our sovereignty and our dignity, and we will.
+
+We wrote a bill to amend the Overseas Investment Act to prevent the sale of any farmland over five hectares to foreign buyers. This would be a good start to stop the sale of our prime farmland into overseas ownership. Labour and National have opposed the bill, but we will persist.
+
+The Chinese Communist Party Government has hundreds of billions of dollars which it is using to buy up farmland all around the world. We must stop the takeover of our farmland and we will.
+
+The Greens will build a KiwiBank big enough to fight the Aussie banks to introduce some real competition in residential and business banking. We’ll support other smaller kiwi banks to break the death grip of the tax-avoiding Australian banks.
+
+We will stop the privatisation of Kiwibank and the other state-owned assets. If the state-owned assets are privatised they too will fall into foreign ownership and the profits sent overseas.
+
+We will increase our national savings by supporting an expansion of KiwiSaver so that we can become a net saver instead of a net borrower and start to pay back the debt to become free.
+
+And we’ll make it safe to save again.
+
+We will get the state-owned enterprises to offer bonds that will be safe for investors and give those enterprises access to the capital they need to expand.
+
+We will regulate the finance sector so that the taxpayer doesn’t have to keep bailing out finance companies. It was the ideology of light-handed regulation, the ideology of laissez faire that has resulted in these finance company fiascos. It was the ideology of the loony right that said you don’t need to regulate banks and property developers because the market will sort it out. Well the loony right has cost the country billions to fix leaky houses and hundreds of millions to bail out the finance companies.
+
+It’s time to put the loony right into bankruptcy, call in receivers, and regulate the finance sector in the interests of all New Zealanders.
+
+And retaking control our lives, restoring our sovereignty, can start close to home too.
+
+Let’s start with our food.
+
+It’s time to break the supermarket duopoly. Australian-owned Woolworths made a staggering $244 million profit last year, and over one billion dollars profit over the last 5 years. They are shovelling money out of New Zealand while ripping off growers by paying rock bottom prices.
+
+The Greens have promoted a code of practice for the supermarkets and have supported farmers markets so that we can bypass the greedy middle man and buy our produce direct from the grower – saving money and keeping money circulating on our economy instead of being siphoned off overseas.
+
+And growing your own food in your backyard has become popular again, which is another great way to get some control back over your own life instead of being dependent on the supermarket for food.
+
+Then let’s move to our power bills.
+
+The Greens are working with the government to implement a scheme to retrofit insulation to 180,000 kiwi homes. We started this scheme with the last government and have ramped it up with this one. This means that we don’t have to use so much power to stay warm and we can stop spending so much money on energy bills.
+
+And the Greens started the program to subsidise solar hot water installations. Imagine getting your hot water for free from the sun instead of paying the electricity companies. Now that is economic sovereignty!
+
+And what about the nation’s fuel bill?
+
+As a nation we are totally dependent on imported oil to fuel our cars and trucks. It cost us over $30 billion over the last five years to pay for imported oil. It’s time to kick our addiction to oil. Oil will only become more expensive. There are other things we could do with that $30 billion.
+
+As a nation we need to invest in alternatives to the car and truck – like buses, trains, and safe pedestrian paths, and more rail freight and shipping freight to get the semi-trailer death traps off our roads. The Greens will make these investments and in the process save our country a fortune in imported oil.
+
+Economic sovereignty cannot be separated from energy independence. The Greens have a plan for energy independence as well as a plan for economic sovereignty.
+
+And as a trading nation we need to build on our strengths as clean and green New Zealand. We can increase the value of Brand New Zealand by protecting our environment and getting a better return on our produce. Our dairy exports to China have not increased because of the trade deal but because Chinese parents want safe New Zealand milk products for their children. Let’s protect that brand, not sell it off to the highest bidder.
+
+And we need to embrace the global green economic revolution that the Republican Governor of California talks about. We have huge potential to export clean technology to the world, building on our significant expertise in clean energy production, including geothermal right here in Rotorua.
+
+_**Conclusion**_
+
+The Greens want New Zealand to stand proudly amongst the nations of the world. We want to trade with the world, interact with the world and travel the world. But we want to stand up proud, not grovel in the face of the bankers and multinational corporations. We want to proudly greet our overseas guests and speak our minds honestly. We don’t want to kowtow and crawl in the hope that they’ll buy our land and lend us more money to pay the interest payments on the debt we already owe.
+
+By regaining our economic sovereignty we will regain the respect of our neighbours, we will honour those who came before us, we will gift genuine opportunity to those who come after us, but most of all we will regain our dignity and respect for ourselves.
+
+ENDS
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Green Party](https://info.scoop.co.nz/Green_Party) on InfoPages.

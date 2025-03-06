@@ -1,0 +1,117 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2006-09-20
+source-url: https://www.scoop.co.nz/stories/ED0609/S00084/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Wednesday, 20 September 2006, 8:25 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Jobs to be axed from tertiary-education sector  
+Following recent revelations that a number of polytechnics are facing their worst-ever year financially, a number of tertiary-education institutions, including universities, are set to axe staff numbers in an apparent effort to balance finances or invest in new areas.  
+It has been estimated that as many as fifteen academic staff at Lincoln may lose their jobs as that University embarks on the first stages of what has been described as a review of academic delivery, while the University of Auckland has confirmed that as many as fifty positions may go from Education, Arts, Business and Economics programmes. Up to thirty jobs are expected to be lost in the merger between the University of Canterbury and the Christchurch College of Education, and around twenty-five in the merger between Otago University and the Dunedin College of Education. Earlier in the year, the University of Canterbury shed eight positions from its College of Arts, and further budget cuts have sparked fears that the College will face another round of redundancies in 2007.  
+Last week, the Chair of the Institutes of Technology and Polytechnics of New Zealand, Dr Neil Barns, told National Radio’s Morning Report that cumulative losses of $35 million forecast across the polytechnic sector this year could result, as a worst-case scenario, in the loss of as many as 800 jobs across that sector.  
+In a confidential memo to staff, Lincoln Vice-Chancellor, Professor Roger Field, has advised that one of the University’s priorities for 2006 and 2007 is to reduce academic-delivery costs and staff-workload pressure, and that some positions may be disestablished. “Current commitments,” he wrote, “are impeding our abilities to invest in new strategic directions, including postgraduate supervision and research.”  
+Included among the proposals are that the University will withdraw from a number of Bachelor degree programmes, reduce subject delivery at undergraduate and postgraduate levels and review undergraduate Commerce programmes.  
+A spokesperson for the AUS Lincoln Branch, Walt Abell, said that the proposals had reached an advanced stage without wide discussion, meaning that affected staff were in the position of having to respond over a short period at one of the busiest times of the year. “The fear is that the proposals will not achieve improvements in enrolments, but fuel perceptions that course options at Lincoln are being reduced,” he said.  
+Meanwhile, the Auckland AUS Branch President, Associate Professor Peter Wills, said that poor planning and budgeting were the cause of the proposed cuts at that University, with enrolments dropping from 30,800 full-time students in 2005 to around 29,440 this year, a drop of 4.4 percent. “It seems we have arrived in this situation because of bad planning and that gives us a great deal of disquiet,” said Associate Professor Wills. “Management loves to talk about a world-class university but, in the end, a lot of their behaviour resembles more the running of a business with an eye on fluctuations in the EFTS-share price.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Lecturer wins reinstatement  
+2\. University threatens action against union  
+3\. VUW, Unitec raise fees  
+4\. Education statistics released  
+5\. A clarification  
+6\. Bias to blame for women’s under-representation  
+7\. OECD plans student tests  
+8\. University bans kegs on campus
+
+Lecturer wins reinstatement  
+A University of Auckland lecturer has been reinstated to a full-time continuing position following an out-of-court settlement in a case brought by the Association of University Staff. Earlier this year, the Employment Relations Authority ordered that the lecturer be reinstated on an interim basis until it had the opportunity to hear the complaint in full.  
+The case, claiming unjustified dismissal, breach of an employment agreement and a breach of good faith, arose after the lecturer, Glenda Keam, was unjustifiably dismissed at the end of a series of fixed-term employment agreements.  
+Ms Keam had been employed at the University on successive fixed-term employment agreements between 1996 and the end of 2005, the reason given for the last such agreement being to trial a new course. Ms Keam said there was no new course of study to trial, and it had been stated over the years that the real reason for the fixed-term agreements was that the University did not have enough money to fund a permanent lecturer position. When the University did find the money for a permanent position, however, Ms Keam was not appointed.  
+Following the settlement of her case prior to a substantive hearing, Ms Keam said that she was most grateful to AUS for its immense support and skilful advocacy. “If it were not for the union I would have lost my employment and potentially my career after over ten years of service to the University,” she said. “AUS was prepared to go the whole way to defend my employment rights, and I urge all of my colleagues to join and have faith in this strong and morally sound union.”  
+AUS Auckland Branch Organiser, Jane Adams, said that the current case was one of a number of challenges to the use of fixed-term agreements at the University. “We are continuing to work to limit the use of such agreements at Auckland University and throughout the country,” she said. “Other union members with concerns about the legality of their fixed-term agreements should contact AUS.”
+
+University threatens action against union  
+The University of Canterbury has threatened action against the Association of University Staff following an email petition launched by AUS in support of workers locked out by Progressive Enterprises in their current industrial dispute.  
+The threat of action follows an earlier move by the University which saw it block a website-based petition inviting University employees to add their names to a statement declaring that they would boycott Countdown, Woolworths and Foodtown supermarkets in protest against the current lockout of Progressive’s Distribution Centre workers.  
+In a letter to the AUS Canterbury Branch President, Dr David Small, the University’s Director of Human Resources, Paul O’Flaherty, said that if words identifying the signatories as staff members of the University were not removed, the University would be forced to take action against the AUS to stop the petition from being sent. The letter said that the “words ‘employees of the University of Canterbury’ are unacceptable because they risk external parties seeing this as a UC initiative or stance”.  
+Dr Small said that the petition never purported to be a formal University position but that it is a fact that those staff who signed the petition are members of Canterbury University staff. “Freedom of expression, the open exchange of ideas and engagement with the community are fundamentals to the role of a university,” he said. “To threaten, presumably, legal action against the AUS in such a manner is not only heavy-handed, but runs counter to the principles of academic freedom and the responsibility of the institution to act as critic and conscience of society,” he said. “University management is acting like the thought police.”  
+The AUS has refused to give University management an assurance that it will alter the words before the petition is sent.  
+A University media statement says the institution does not have an official view on the dispute.
+
+VUW, Unitec raise fees  
+Both Victoria University and Unitec raised their domestic tuition fees this week, by 5.0 and 4.5 percent respectively. While the Victoria Council increased fees by the maximum amount permissible under the Government’s Fee Maxima policy, it also voted to support a resolution from the President of the Victoria University of Wellington Students’ Association to lobby the Government to increase funding to universities so future fee increases would not be required.  
+University Chancellor, Emeritus Professor Tim Beaglehole, said the Council increased student fees with the greatest reluctance. “Every year the University Council is caught in an intolerable position. It has little option but to increase fees if it is to continue to be a quality, research-led university as required by its Charter,” he said.  
+A further resolution, to apply to the Tertiary Education Commission for an exemption to increase fees for Humanities and Social Sciences, Education, Architecture and Law students by a further five percent, was deferred for consideration at a future meeting of Council.  
+Meanwhile, the Unitec Students’ Union President, Robert Freeth, said that, while Unitec has to remain financially viable, students would be disappointed that they were again an easy target for that institution to increase its revenue by raising student fees. Mr Freeth also said that students were disturbed by an initial lack of consultation over the proposed fee rises. “Council initially tried to set fees with only two days warning to the Student’s Representative, and even then only in the confidential part of the meeting,” he said. “It is clear the tertiary sector is slowing down in terms of participation, therefore institutions need to budget with what they have in their hands rather than rely on speculative growth.”
+
+Education statistics released  
+The annual set of statistics covering the education sector for 2005 was released this week by the Data Management and Analysis Division of the Ministry of Education. The statistics cover early-childhood education, primary and secondary-school education, and formal education leading to a recognised qualification at polytechnics, universities, wānanga, colleges of education and private tertiary-education providers. Community education is also included.  
+The statistics show that at 31 July 2005 there were 350,853 students enrolled in tertiary education in New Zealand, a decrease of 4.7 percent (17,153 students) since July 2004. Those at public tertiary institutions represented 84.3 percent of the total number of tertiary students.  
+Between July 2004 and July 2005, the number of tertiary students in the public sector dropped by 12,964 students, with wānanga enrolments down by 20.7 percent and universities and polytechnics up by 0.4 percent each. Overall, the private tertiary sector had 54,969 students at July 2005 compared with 59,158 in 2004, a decrease of 7.1 percent.  
+After six years of growth, 2005 saw a decrease in the number of international students enrolled at New Zealand tertiary-education providers, falling by 7.5 percent from 38,994 at July 2004 to 36,087 at July 2005.  
+At July 2005, just over 36 percent of all tertiary students were studying at degree level, 7.6 percent studying at postgraduate level, 20.6 percent at diploma level and 35.4 percent at certificate level. Just over 61 percent of students enrolled at private providers studied at the certificate level.  
+Māori students accounted for 20.9 percent of all domestic enrolments at 31 July, down 4.1 percent (2,884) from the previous year; Pasifika students accounted for 5.7 percent of all domestic enrolments, down 4.0 percent (766); and Asian student enrolments accounted for 11.6 percent of all domestic enrolments, a decrease of 6.1 percent (2438).  
+Education Statistics of New Zealand 2005 can be found at:  
+http://educationcounts.edcentre.govt.nz/publications/homepages/education-statistics/ed-stats-2005.html  
+Nga Haeata Matauranga - Annual Report on Maori Education 2005 can be found at:  
+http://www.minedu.govt.nz/web/downloadable/dl11210\_v1/maori-ed-ar-sept06.pdf
+
+A clarification  
+On 7 September, Tertiary Update reported that fears of further redundancies in the new University of Canterbury College of Education had been heightened by a report indicating that a further $1.8 million in costs could be cut over the next few years as a result of the merger of the University and Christchurch College of Education.  
+Christchurch College of Education Principal, Dr Graham Stoop, has advised that the $1.8 million referred to had been identified as a saving to be made this year, ahead of the merger which will take effect from 1 January 2006. That figure is on top of a $2.6 million cost-structure reduction of 2005, meaning a total reduction of $4.4 million across 2005-2006 at the College.  
+A background document, relating to the merger, contains the statement that: “It should also be noted that two more years of financial reform will be required to achieve the appropriate \[University of Canterbury\] contribution margin as outlined in the merger Business Case.”  
+Dr Stoop declined to comment on what “two more years of financial reform”, might mean in terms of an impact on staff, saying that would pre-empt a process that necessarily must be followed. He says, however, that the College has worked hard to ensure that it is ahead of all pre-merger financial targets to ensure that any impact post-merger will be ameliorated.
+
+Worldwatch  
+Bias to blame for women’s under-representation  
+Women are underrepresented in academic leadership positions in Science and Mathematics, not because they are innately less capable than are men but because of biases, discrimination and outdated institutional structures, according to a report issued on Monday this week in the United States by a panel convened by the National Academies.  
+The report, Beyond Bias and Barriers: Fulfilling the Potential of Women in Academic Science and Engineering, says that, despite making up an increasing proportion of Science and Engineering majors at all institutions, women continue to be a small portion of the faculty members in those fields at research universities. It says that, typically, they receive fewer resources and less support than their male colleagues.  
+Women are underrepresented in top positions in academe, professional societies and honorary organisations not because of “a lack of talent,” the report says, but because of “unintentional biases and outmoded institutional structures that are hindering the access and advancement of women”. The report rejected the idea that the gap may be attributed to innate differences in ability, as proposed last year by then President of Harvard University, Lawrence H. Summers. Mr. Summers's suggestion sparked a wave of protest, eventually resulting in his resignation.  
+The report can be found at:  
+http://www.nap.edu/catalog/11741.html  
+Chronicle of Higher Education
+
+OECD plans student tests  
+The Organisation for Economic Co-operation and Development is looking into ways of comparing higher-education quality internationally by assessing the students produced by each country, according to a report in the Times Higher Education Supplement.  
+Under the OECD's Programme for International Student Assessment (PISA), secondary-school students are tested to gauge their knowledge as they approach the end of compulsory education. Although no formal decisions have been taken, officials believe that a parallel test for university undergraduates is a logical step from the comparative data on quantitative outcomes that the organisation has been publishing for a number of years in its Education at a Glance series.  
+They believe that the political climate has shifted sufficiently for the project to be given active consideration.  
+At a ministerial meeting in Athens, Angel Gurr!a, Secretary-General of the OECD, offered to develop new measures of learning outcomes in higher education, drawing on the organisation’s experience with PISA.  
+Comparative data from the OECD's Education at a Glance 2006 report show that the rate of university expansion in the United Kingdom is slowing in comparison with other OECD countries. The UK has significantly improved its relative share of adults with a first degree or higher over successive generations, but that progress has levelled off and the OECD warns that there is a risk that it will slip below the average for its thirty member states.
+
+University bans kegs on campus  
+Students at Fairfield University in Connecticut in the United States have vowed not to drink less just because the institution has banned kegs of beer on campus. Perhaps inspired by the recent introduction of a student Code of Conduct by New Zealand’s University of Otago, a new rule says that students cannot have kegs, beer balls or any other container that holds more than sixty-four ounces of alcohol on campus.  
+The Dean of Students, Thomas Pellegrino, says banning kegs will make students safer and healthier. Students, however, say they'll simply buy multiple thirty-pack cases of beer instead, but complain that is more expensive than buying a keg.  
+Nearby residents have expressed concern that students will just bring their kegs to the beach for drinking parties, and they have called for the University to require the same standards of conduct off campus as on.  
+From Associated Press and Connecticut Post
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz. Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

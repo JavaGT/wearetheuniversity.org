@@ -1,0 +1,141 @@
+---
+slug: shirley-speech-zero-tolerance-for-crime
+title: "Shirley Speech: Zero Tolerance For Crime"
+date: 2002-05-01
+source-url: https://www.scoop.co.nz/stories/PA0205/S00010/shirley-speech-zero-tolerance-for-crime.htm
+author: act-new-zealand
+---
+Shirley Speech: Zero Tolerance For Crime
+========================================
+
+**Wednesday, 1 May 2002, 10:19 am**  
+**Speech: [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand)**
+
+Zero Tolerance For Crime
+
+Speech by Hon. Ken Shirley, MP  
+Police Spokesman, ACT New Zealand  
+7.30 pm, Tuesday 30th April 2002 St Heliers Community Centre  
+7.31 100 St Heliers Bay Road
+
+Good Evening
+
+For the first half of the century the crime rate in New Zealand was very low compared with other societies and most prosecutions were for offences against public order such as drunkenness. This low crime rate remained stable for many decades.
+
+Over the past four decades crime levels have risen markedly with the number of offences recorded increasing more than five fold since 1960. Of particular concern is the rapid rise in recorded violent offences.
+
+Last year reported violent offending increased 8.5% when averaged across the seven police districts. Regrettably in Auckland violent offending increased by a massive 16.3% last year.
+
+There has also been a 48% rise in sex crimes reported in Auckland over the past year.
+
+This is 5 times greater than the national average.
+
+The principle role of our police is to identify unlawful acts and bring the offenders to justice. The greatest deterrent for criminals is the certainty that they will be speedily caught, convicted and punished.
+
+The Labour/Alliance Government is in the final stages of passing new legislation - the Sentencing and Parole Reform Bill. In Opposition Phil Goff, now the Minister of Justice, advocated tougher laws for criminals.
+
+He has been Minister for two and a half years and while he has promised much the Sentencing and Parole Reform Bill move reflects the views of the hand-wringers in Government who are more concerned with criminals rights than victims rights.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+This legislation is a massive step backwards. It omits punishment from the principles that the Courts must follow in sentencing. The legislation also facilitates early release.
+
+We know that early release prisoners have an appalling reoffending rate and this can only further overwhelm stretched police resources. Indications are that 50% of early release prisoners reoffend within 12 months and a massive 75% within three years.
+
+Nothing does more to erode police morale than soft sentencing and the early release of known habitual criminals.
+
+Judges have been disempowered under this legislation. Judges cannot know whether a nine year sentence means nine years, six or three. A two year sentence automatically becomes one but could actually be much less if home detention is granted.
+
+Parole has become a right, not a privilege. Parole can only be denied if the release prisoner is thought to present "an undue risk to the safety of the community". None of the other purposes, principals and aggravating factors the Judge must take into account apply.
+
+None of these are relevant for Corrections officials and Parole Board members.
+
+Once a Judge has sentenced a criminal, Corrections can ignore the community's needs to see punishment for the denunciation of crime and the deterrent of others. They need take no account of the harm to victims and the victims needs to see redress.
+
+I, like most New Zealanders, was appalled when the 23 year old Brian Garry Rees who had brutally beaten an Invercargill hairdresser Michael Shanks was granted $42,000 by the Government because he had been held in prison 129 days past his parole date.
+
+Rees had received a five year sentence but with his early release only served a fraction of that. Part of his sentence involved a restitution of $500 to the victim and even after receiving his $42,000 from Government Reese publicly boasted that he would not pay the restitution to the victim.
+
+Rees the villain publicly stated "I should have got a hell of a lot more". "My life has been completely ruined". "I should have been set up in a house full furnished at the least".
+
+I am appalled that Government made such a payment but even more appalled that they did not at least deduct the restitution owing to the victim from the amount paid.
+
+When questioned about the restitution that was owed Rees said "I have spent it now, so I don't care. They can't take it off me".
+
+Of equal concern is the inability of Ministers Matt Robson or Margaret Wilson to adequately explain why four Mangaroa Prison inmates were paid large amounts of money for mistreatment by prison guards.
+
+I don't condone the mistreatment and the guards should be punished for their inappropriate actions. However, these inmates were not deserving of the lavish payments.
+
+One, Nevara Raheke, a patched mongrel mob members, was sentenced in the Napier High Court on the 9th July 1993 for eight years imprisonment on each of two rape convictions. His brutally violated and abused victims received no compensation.
+
+In some perverse twist of justice the Attorney General Margaret Wilson somehow deemed this villain was owed $90,000 compensation by the taxpayer because of unduly harsh treatment by prison guards. They were stripped naked and left in a secure yard overnight.
+
+Even if one believes he is entitled to compensation, surely the unpaid fines should have been deducted from the $90,000 figure. We now know that following his release from Mangaroa Prison Nevara Raheke within a few weeks abducted a young couple at gunpoint, stole their car and threatened them with all manner of violations.
+
+During this incident he also managed to write-off two police cars in a high speed chase from Plimmerton to the Hutt Valley. None of this of course was deducted from his $90,000 compensation paid by the taxpayer.
+
+One of the other Mangaroa Prison villains who received a similar compensation was John Gillies who was serving a prison sentence for stabbing Constable Nigel Hendricks of Gisborne in the neck with a screwdriver. Constable Hendricks' life has been shattered. He has been incapacitated and forced to leave the police.
+
+The victim got nothing and the villain who perpetrated the crime has been handsomely rewarded. What form of perverse justice is this?
+
+Apart from the human misery the financial cost of crime is massive. Earlier this year the New Zealand Insurance Council reported that burglary, vandalism and vehicle related crimes committed against New Zealanders had resulted in insurance claims of half a billion dollars since 1999. This equated to $20 million per month which is a cost to us all through higher premium payments.
+
+In the six months to December 2001 there was a staggering 50% increase in motor vehicle thefts with a disproportionate share in Auckland. Last year private vehicles with a collective value of $60 million were stolen plus a further $30 million of commercial vehicles.
+
+Policing in Auckland is in crisis. Burglary victims have an average three day wait in spite of Police Minister Hawkins pledging a maximum 24 hour response time.
+
+I understand there are currently 20 CIB vacancies in Auckland with junior staff handling very serious inquiries alone. Most of the senior experience Detectives have left with many of them working as private detectives.
+
+There is a tendency for criminal lawyers to engage these private detectives who, with their knowledge and experience, completely outwit the inexperienced and understaffed police prosecutors.
+
+No community can defeat crime by relying on the police and authorities alone but the public must have confidence that the police have the capacity to perform their tasks. If policing loses its integrity, the public become cynical, withdraw their support and the criminals win.
+
+Public discontent and unease with New Zealand police seems to be rising. Staff shortages, frontline business with work practices and a dysfunctional Police Minister compound the discontent. The cultural of political correctness pervading New Zealand society is increasingly frustrating police activity. Communities should be told who the criminals are and where they live.
+
+Society distain and shame should be part and parcel of punishment and hence deterrents. The Sentencing and Parole Reform Bill is moving us in the wrong direction.
+
+ACT supports automatic DNA profiling of anyone convicted under the Crimes Act or Summary Offences Act. All prison inmates and those persons serving community sentence should similarly be profiled. Adequate funding and resources must be provided to ensure DNA profiling is fully engaged as a forensic tool.
+
+The success of DNA profiling was proven in Victoria where samples from 2800 prison inmates taken since 1988 linked 99 of them to 238 unresolved crimes including three murders.
+
+For over 2 years Minister Phil Goff has been promising enabling legislation - we have yet to see it, and again the hand wringers in his Caucus are inevitably trying to dissuade him.
+
+One of the greatest concerns to us all must be the level of youth offending in New Zealand and the complete failure of the youth justice system over the last decade.
+
+Violent youth offending has doubled while young people given custodial sentences has halved. Also over this decade aggravated robberies have tripled and most of these are perpetrated by young offenders.
+
+In spite of this appalling testimony Government completely rejected ACT's amendments to the Parole and Sentencing Reform Bill which would have given the Courts more power to deal with drug and alcohol abuse.
+
+We proposed amendments allowing judgements to order drug testing. We also thought it important to set alcohol limits for offenders under supervision. I am advised by Periodic Detention Supervisors that too often offenders report for community work under the influence of drugs and alcohol and no action or punishment results.
+
+ACT also proposed to extend the non-association orders while offenders are under supervision. For many people the company they keep is their biggest problem and there is a pressing need for non-association orders.
+
+The problems of youth offending have been very well illustrated in Mission Bay in recent times and many communities facing similar situations throughout the country are desperately looking for tougher measures and political leadership.
+
+The issue of parental responsibility and accountability also needs to be explored. I am sure parents would take a greater interest in their teenagers whereabouts and activities if they knew that they would be accountable for the crimes they commit.
+
+It is for these reasons that ACT is vigorously promoting the concept of zero tolerance for crime.
+
+We want certainty in sentencing and we believe more attention should be paid to victims rights and less emphasis on the feelings of hardened criminals.
+
+Ends  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [ACT New Zealand](https://info.scoop.co.nz/ACT_New_Zealand) on InfoPages.

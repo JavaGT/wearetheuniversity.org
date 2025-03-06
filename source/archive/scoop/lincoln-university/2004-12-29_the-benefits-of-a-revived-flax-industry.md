@@ -1,0 +1,64 @@
+---
+slug: the-benefits-of-a-revived-flax-industry
+title: "The benefits of a revived flax industry"
+date: 2004-12-29
+source-url: https://www.scoop.co.nz/stories/ED0412/S00081/the-benefits-of-a-revived-flax-industry.htm
+author: lincoln-university
+---
+The benefits of a revived flax industry
+=======================================
+
+**Wednesday, 29 December 2004, 9:43 am**  
+**Press Release: [Lincoln University](https://info.scoop.co.nz/Lincoln_University)**
+
+All must share in benefits of revived flax industry says researcher
+
+A revived harakeke or native flax industry must ensure that both landowners and harvesters have a share in its value-added products, says Lincoln University Kellogg Rural Leadership Scholar Michelle Riley of Golden Bay.
+
+In a research report presented to the 20th Kellogg Course at Lincoln University, Michelle said that primary industries that did not maintain links from the beginning of a process to the marketed end-product, thus reducing the middleman’s cut, were struggling in today’s economic climate.
+
+Historically harakeke was one of the most economically important native plant resources in New Zealand with the fibre being extracted and put to many uses first by Maori and then by later immigrants.
+
+Today, modern research is paving the way for a revival of the industry using new technology to make innovative products and create economic wealth with sustainable, environmentally sound practice.
+
+The New Zealand industry flourished in the mid to late 19th century and the largest processing mill was near the Makerua Swamp at Shannon from where the “Nui” brand was developed. Over the 26 years of its operation it exported $1 million worth of fibre. A disease decimated the source in the early 1930s and the mill closed in 1933. From the 1940s exports dwindled on. Dunedin-based Donaghys was one of the last New Zealand manufacturing companies to produce flax-made twine and rope.
+
+Products made at Makerua included upholstery padding, underfelts, wool packs, baling twine and fibrous plaster. The development of synthetic and cheaper sisal products relegated these products to the past and currently nothing is made from the fibre on a commercial scale.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Michelle’s research report identifies several strands of interest in a revived harakeke industry -
+
+Artistic and creative - using the flax for weaving and building on traditional techniques to develop contemporary artworks. Pharmaceuticals - the medicinal properties of harakeke were well known to early Maori and have potential for extraction and commercial use today. Current pharmaceutical interest is in its alkaloid and organic acid properties. Cosmetics - Living Nature of Kerikeri is adding harakeke extract to several skincare products. Other manufacturers are making soaps and lotions containing harakeke extracts. Ecological use - investigations are under way looking at harakeke as an efficient effluent soak. Compared to willow and poplar, commonly used plants for this purpose, harakeke is showing potential with the added benefit that all parts of the plant are useful. In addition harakeke is valuable in creating corridors of food and shelter for bird and insect life to travel within areas, thus enhancing biodiversity. Industrial - investigative work is underway to use the fibre in fibreglass, building panels, furniture, boat building and vehicle components. Fibre cell extraction has been identified as having potential in the biochemistry industry.
+
+Ecological, social and cultural values are all important in shaping the future of the revived industry, says Michelle.
+
+“I believe, however, that for there to be continued raw material available within a strongly structured industry, it is essential that landowners and harvesters both have a share in the value-added products.
+
+“Without retention of benefits right through the value chain, the landowning producer will be reduced to simply peasant status with ownership of the industry as a whole lost.
+
+“I also believe that for rural communities and iwi to maintain a wealth base, the industry must be established from the bottom up. This is the next step and provides a new challenge.”
+
+Michelle is confident there is an exciting, thriving, long-term future for harakeke in its place of origin, New Zealand. She is heartened that the Government’s Sustainable Farming Fund has granted money for a three-year research study into prospects for a revived industry. That study, being carried out by the New Zealand Flax Farmers Group, is now in its second year and one outcome of the project will be the development of a network of interested landowners and iwi groups.
+
+Michelle’s interest in harakeke first stirred when she trained as a school teacher in the 1980s and her tutors included Ngai Tahu weaver the late Cath Brown. Today Michelle and her husband Brent have a property at Patarau in north west Golden Bay, an area rich in flax industry history and she is interested in growing harakeke on the property’s estuarine and wetland margins.
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Lincoln University](https://info.scoop.co.nz/Lincoln_University) on InfoPages.

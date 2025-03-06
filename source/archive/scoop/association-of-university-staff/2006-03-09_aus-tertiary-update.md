@@ -1,0 +1,119 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2006-03-09
+source-url: https://www.scoop.co.nz/stories/ED0603/S00029/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 9 March 2006, 11:38 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+NZ universities under-funded, salaries low  
+New Zealand universities are significantly under-funded by comparison to their international counterparts and salaries are much lower than those in Australia, Canada and the United States, according to a new report commissioned by the Association of University Staff (AUS) and the New Zealand Vice-Chancellors’ Committee (NZVCC).  
+The report, University Staff and Resourcing: A Comparison of New Zealand and Selected International Data, prepared by the major accountancy firm, Deloitte, has been presented to the Minister for Tertiary Education, Dr Michael Cullen, by AUS and NZVCC representatives as part of the tripartite process set up to address funding and salary problems in the university sector.  
+Key facts from the report reveal that, while New Zealand academic-staff salaries are low by international and domestic standards, universities here do not have the internal capacity to increase salaries to the required level. Salaries are as much as 36 percent higher in Australia than in New Zealand, adjusted for purchasing power.  
+The report also shows that government funding makes up 38 percent of New Zealand university income, compared to 46 percent in comparable Australian universities. This, combined with significantly lower tuition fees in this country, means that Australian universities receive 40 percent more per student from government than their New Zealand counterparts, when adjusted for purchasing-power parity.  
+Looking ahead, the report shows that New Zealand university enrolment numbers are expected to increase by up to 14,000 full-time equivalent students by 2010-11, requiring a further 700 to 800 academic staff. This development is expected to be compounded by an international shortage of university academic staff.  
+AUS General Secretary Helen Kelly said it was clear from the report that this Government’s involvement is needed to provide both immediate and long-term solutions, and that the Universities Tripartite Forum is the ideal mechanism for this to occur. “Not only do we face international competition for high-calibre university staff, we also now have to contend with increasing competition from other sectors of the New Zealand employment market,” she said.  
+NZVCC Chair, Professor Roy Sharp, said the report provided a relevant analysis from which to work with the Government and unions to develop strategies to address funding and salary problems. “Despite the overall income of New Zealand universities being 40 per cent less per student than that of our Australian counterparts, we have to this point been able to maintain comparable staff-to-student ratios and high standards of quality. But that cannot go on indefinitely,” he said.  
+A summary of the main findings of the report can be found at:  
+http://www.aus.ac.nz/Funding/DeloittesReportSummary.pdf  
+The full report can be found at:  
+http://www.aus.ac.nz/Funding/DeloittesFundingPaper.pdf
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Morale sinks as jobs go at Canterbury  
+2\. Student-loan interest rate down  
+3\. NZQA in for shake-up  
+4\. Fancy stepping down  
+5\. Bright ideas get funding  
+6\. UK universities hit by strikes  
+7\. University of California ordered to pay $US33 million to students  
+8\. Women lead race for Harvard job
+
+Morale sinks as jobs go at Canterbury  
+Morale among academic staff in the College of Arts at the University of Canterbury is low and getting worse, according to research conducted by the Canterbury Branch of the Association of University Staff. The survey-based research also shows that staff are not happy with the amount of time available for research, stress levels are unacceptably high and they believe their opinions are not valued by University management. Staff members see no evidence of any long-term vision from the University’s senior management team, and almost half have been seriously thinking of leaving the University.  
+The release of the survey coincides with protests by staff and students at job cuts proposed for the College of Arts where it is expected that around twenty-three academic and general-staff jobs will be lost as the College moves to cut $1.6 million from its operational expenditure.  
+AUS Branch President, Dr David Small, said the survey of one hundred academic staff in the College revealed an alarmingly high sense of disaffection among the people who are employed to perform the core teaching and research functions of the University. “The survey shows, for example, that 82 percent of respondents think that the Vice-Chancellor is “uncaring” or “uncaring about the terms and conditions of employment of academic staff”, while 85 percent do not believe that the priorities of the senior management team are appropriate for the University,” he said. “Most respondents, 70 percent, believe that morale is worse than a year ago, and 73 percent reported that they are dissatisfied with the amount of time available for research.”  
+Meanwhile, at a meeting of more than 200 staff on Friday, the Vice-Chancellor, Professor Roy Sharp, said he will not be backing down on plans to cut the budget with consequential job losses in the College of Arts. He told The Press that he had not changed his mind about the direction he was moving in. “I expected \[staff\] to put their views forcefully and they did. That was no surprise,” he said.  
+Yesterday the Faculty of Humanities and Social Sciences passed a series of four resolutions expressing opposition to the proposed cuts and dismay at the failure of the Vice-Chancellor to provide adequate financial or academic reasons for them.  
+It has also been revealed that up to thirty jobs will be lost at the Christchurch College of Education as it moves to cut $1.5 million from its budget prior to its proposed merger with the University of Canterbury next year.  
+The staff-morale survey report can be found at:  
+http://www.aus.ac.nz/branches/canty/MoraleReport.pdf
+
+Student loan interest rate down  
+The student-loan interest rate for the 2006-07 tax year has been set at 6.9 percent, down slightly from 7.0 percent last year, following approval by means of a Parliamentary Order in Council this week.  
+The Ministers concerned, Dr Michael Cullen and Peter Dunne, said that the new interest rate was arrived at by means of a recently adopted formula intended to add certainty to the annual process of setting the rate. “Under the formula, the total interest rate is based on the five-year average of the ten-year bond rate, plus a margin to cover administration costs,” they said.  
+The Ministers said that most borrowers living in New Zealand will have interest-free student loans from 1 April, which will reduce the cost of tertiary education for hundreds of thousands of people. “Borrowers who qualify for interest-free loans will continue to be charged interest during the tax year but their interest will be written off after 31 March 2007,” they said.  
+Meanwhile, the New Zealand University Students’ Association (NZUSA) has called on the Government to reinstate the Emergency Unemployment Benefit so that students won’t miss out on financial support if they are unable to find jobs over the summer. “Students have to jump through hoops to get the support most  
+other people are automatically entitled to,” said Joey Randall, NZUSA Co-President. “Currently students have to go to great lengths to access financial support over the summer. The Government should increase eligibility to student allowances during the year, and it should grant all students automatic access to the Unemployment Benefit Student Hardship if they fail to find employment.”  
+Figures released by the Ministry of Social Development show that the number of students getting  
+the Unemployment Benefit Student Hardship decreased by 42 percent between December 2002 and December 2005.  
+In other news, students will march to Parliament this afternoon to protest against the 5 percent increase in tuition fees applied at Victoria University this year. Students’ Association President, Nick Kelly, says that Victoria has applied to the Tertiary Education Commission for an exemption to the fee maxima policy which, if granted, could result in a 10 percent fee increase for BA students.
+
+NZQA in for shake-up  
+The New Zealand Qualifications Authority is reported to be in for a major shake-up following its announcement this week that it has started consultation on a proposal to implement “some” structural change. This comes after an external review by the State Services Commission (SSC), ordered by Cabinet in February last year in the wake of concerns about quality, capability and leadership in the sector as a result of the NCEA and Scholarship problems, and the need to build confidence in senior-secondary and tertiary education.  
+The then Minister of Education, Trevor Mallard, said the SSC review found that NZQA, the Ministry of Education and Tertiary Education Commission needed stronger working relationships amongst themselves and with the sector and that, overall, they needed strong leadership from the Secretary of Education.  
+NZQA Acting Chief Executive, Karen Sewell, said the proposal for structural change, if implemented, would result in an improved fit between the organisation’s structure and its key business functions of quality assurance, qualifications, and corporate and strategic services. “Now that the exam round has been successfully implemented, it is time to move forward in terms of implementing some of the other recommendations in external reviews regarding the organisational design and structure of the Qualifications Authority,” she said.  
+The Board has given the go-ahead for consultation to start on the proposal. Discussions have also been held with the recently appointed Chief Executive, Karen Poutasi, who takes up her new role in May. “Dr Poutasi has been, and will continue to be, closely involved in the process,” said Karen Sewell.  
+Former NZQA Chief Executive, Karen van Rooyen, and Chair, Graeme Frazer, both stood down during 2005.
+
+Fancy stepping down  
+The Secretary for Education, Howard Fancy, has confirmed that he will be leaving his position at the end of October. Mr Fancy said that, after a decade in the role, it was time to look for a new challenge. “It has been a privilege to lead the Ministry over the past ten years. I have always been inspired by the energy, enthusiasm and commitment of the people who work at the Ministry and in the wider education system,” he said. “It has been a decade of enormous challenges and great change in education in New Zealand, and I’m proud of the achievements we’ve made over that time.”  
+Mr Fancy has led the Ministry through a series of major organisational and policy changes, with major initiatives centred on literacy, numeracy, information and communication technologies, teacher professional development, NCEA, Maori education, major school improvement projects, special education and the evaluation and monitoring of system performance. Major reforms have also taken place in the early-childhood and tertiary sectors.  
+Mr Fancy said that, over the next eight months, he would continue to lead the Ministry to work closely with the wider education sector to deliver excellent educational services for New Zealanders.
+
+Bright ideas get funding  
+Twelve tertiary-sector-based projects aimed at increasing the opportunities for the commercialisation of “bright ideas” have been awarded almost $11 million over the next three years, the Minister for Tertiary Education, Dr Michael Cullen, announced yesterday.  
+The University of Canterbury and Lincoln University are jointly receiving $2.4 million to bring private-sector biotechnology-science entrepreneurs in to teach students and researchers, to improve courses to prepare students for the commercial world and to appoint entrepreneurial research experts.  
+The University of Auckland is receiving $1.7 million to improve opportunities for innovation in the high-technology-manufacturing sector. This will assist the development of courses for design students and improve the ability of small and medium-sized businesses to tap into the design expertise of tertiary organisations.  
+“If we are to transform New Zealand into a high-wage, knowledge-based economy we must encourage greater collaboration between the tertiary-education sector and industry,” Dr Cullen said. “These projects do that by making it easier for tertiary-education organisations to work with businesses in the design, information and communications technology and biotechnology sectors.  
+The projects have been funded from the Tertiary Education Commission’s Growth and Innovation Pilot Initiatives.
+
+Worldwatch  
+UK universities hit by strikes  
+Despite torrential rain, biting winds and even snow blizzards, academics and general staff were out in force on picket lines and at rallies on Tuesday as industrial action disrupted universities across “every pocket” of the United Kingdom. The strike, which had the public support of student organisations and more than 120 members of Parliament, is understood to have been the best-supported action of its kind in more than thirty years.  
+Union members are claiming a 23 percent pay increase over the next three years but, despite having had the pay claim since last year, university employers have not made a salary offer.  
+Sally Hunt, General Secretary of the Association of University Teachers, told union members from AUT and NATFHE that the employers now had to understand the severity of the action and its consequences on campus. Ms Hunt warned that an assessment boycott, which started yesterday, would start to impact on students’ work and the employers now had to keep the disruption to a minimum.  
+In a rather odd move, university employers asked the unions to call off the strike, saying they would be prepared to meet the unions, but not for a month. “I still do not understand why the employers have said they will meet us later this month. Why not do it now? Why put students' work and their futures at risk? What do they expect to gain? The support from students today and the messages we have been receiving are proof that the employers will not drive a wedge between us. It’s time for them to give up on that approach and get back to the negotiating table and stop students from suffering,” Ms Hunt said.
+
+University of California ordered to pay $US33 million to students  
+A San Francisco judge has ordered the University of California to pay $US33.8 million to former students who accused it of breach of contract when it raised tuition fees over the past three years despite an apparent pledge not to do so. The class-action lawsuit represents a rare victory for students in litigation over tuition increases.  
+In a decision made public on Monday this week, Superior Court Judge James Warren ruled that the University had breached its contract with the students.  
+In 2002 the University raised tuition fees at the system’s professional schools from $6,000 to $9,500 the following year while, at the same time, University brochures and other materials stated that increases in fees would apply to new students only. The material stipulated that fees would remain the same for each student for the duration of his or her enrolment in the professional-degree programme.  
+Judge Warren ruled that raising the tuition fees was a breach of contract between the University and its students. Even though the University contended that it had always stated that all fees were subject to change at any time, the Court ruled that the published statements saying that fees would not increase for continuing students trumped that claim.  
+A spokesman for the University said that the ruling was "incorrect" and that an appeal was planned.  
+From the San Francisco Times and The Chronicle of Higher Education
+
+Women lead race for Harvard job  
+In something of an ironic twist, four women have emerged as potential front-runners to replace the controversial Lawrence Summers as President of Harvard University. If one were appointed, she would be the first female President in the 350-year history of the University.  
+Dr Summers resigned recently under pressure from faculty after only five years of what was expected to be a twenty-year tenure. He caused outrage by saying at an academic conference that innate differences, including their “intrinsic aptitude”, might contribute to the low number of women in Science and Engineering. He continued to be embroiled in controversy, including engaging in several clashes with Harvard faculty members leading to the resignations of some high-profile scholars, most recently that of the Dean of the Faculty of Arts and Sciences.  
+The search for a successor is expected to begin soon with the appointment of a secret selection committee made up largely of members of the governing board, the Harvard Corporation, as well as an invitation for nominations from alumni, donors and others.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

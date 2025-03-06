@@ -1,0 +1,68 @@
+---
+slug: wider-debate-vital-as-trade-treaty-nears
+title: "Wider Debate Vital As Trade Treaty Nears"
+date: 2000-09-14
+source-url: https://www.scoop.co.nz/stories/PO0009/S00072/wider-debate-vital-as-trade-treaty-nears.htm
+author: new-zealand-labour-party
+---
+Wider Debate Vital As Trade Treaty Nears
+========================================
+
+**Thursday, 14 September 2000, 2:37 pm**  
+**Press Release: [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party)**
+
+Media Release – for immediate release  
+Princes Street (University Branch) New Zealand Labour Party  
+Thursday 14 September, 2000.
+
+Wider Debate Vital As Trade Treaty Nears  
+Labour’s commitment to trade liberalisation needs to be debated within the party before any free trade agreement with Singapore is signed, says the party’s Princes Street (Auckland University) branch.
+
+“We are very concerned by the parliamentary wing’s desire to push this agreement through without adequate discussion within the Party. There is very little understanding of the implications of this agreement both within the party and the electorate as a whole,” says branch Vice Chair Todd Bridgman.
+
+“A free trade agreement with Singapore could be the most significant piece of legislation passed by this Government. We do not accept the argument that because most trade with Singapore is already free, we need not be concerned about it. The potential impact of the agreement on the services sector is as yet poorly understood.
+
+“Trade Minister Jim Sutton has clearly expressed a desire for the Singapore agreement to be the precursor to a series of free trade agreements with other Asian nations. We are yet to be convinced that these free trade agreements would be in the interests of all New Zealanders.
+
+“Once an international agreement is signed, it will bind not only this Government but future Governments. The Labour Party needs to have that debate before it heads irreversibly down the path of trade liberalisation,” said Todd Bridgman.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Branch Chair Jordan Carter, focusing on the process that has been followed so far in this area, noted that “it is a welcome change to see the Government prepared to disclose details of the proposed Treaty before it is signed, and subjected to a vote in the House.
+
+“This debate raises the larger issue of how future treaties should be entered into. Our view is that Cabinet’s power to sign treaties is a hangover from the past, when Councillors advised the Monarch on foreign policy. We urge the Government to consider requiring all treaties to be examined by the Foreign Affairs, Defence and Trade select committee, and then be approved by Parliament itself.
+
+“International agreements come with conditions that are often not properly understood. By subjecting such agreements to Parliamentary scrutiny, the Government could ensure that a wider debate is held, and that no mistakes are made, now or in the future,” said Jordan Carter.
+
+Todd Bridgman continued that “Labour was elected on a promise to change the free-market policies that have had such a detrimental effect on New Zealand society since 1984. This Government has done exceedingly well because it has delivered on these promises, as seen by its commitments to regional economic development, nation-building through the arts and the ‘Closing the Gaps’ initiative.
+
+“We struggle to understand how an aggressive approach to free trade is consistent with these core policies. There certainly seems to be a contradiction between Labour’s commitment to nation-building and its stance on globalisation.
+
+“We are constantly being told of the economic benefits that will flow from trade liberalisation. The question that needs to be asked is ‘how will those benefits be distributed, and are they big enough to be worth pursuing?’” concluded Todd Bridgman.
+
+ENDS
+
+Contact: Todd Bridgman, Vice Chair  
+09 373 7599 extn 7216 (work)  
+09 520 2128 (evenings)  
+t.bridgman@auckland.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Labour Party](https://info.scoop.co.nz/New_Zealand_Labour_Party) on InfoPages.

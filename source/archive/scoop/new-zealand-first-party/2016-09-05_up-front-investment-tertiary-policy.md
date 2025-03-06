@@ -1,0 +1,310 @@
+---
+slug: up-front-investment-tertiary-policy
+title: "Up Front Investment Tertiary Policy"
+date: 2016-09-05
+source-url: https://www.scoop.co.nz/stories/PA1609/S00071/up-front-investment-tertiary-policy.htm
+author: new-zealand-first-party
+---
+Up Front Investment Tertiary Policy
+===================================
+
+**Monday, 5 September 2016, 2:03 pm**  
+**Speech: [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party)**
+
+  
+**Tracey Martin MP**
+
+Spokesperson for Education  
+5 SEPTEMBER 2016  
+
+Speech from Tracey Martin, Education Spokesperson
+
+New Zealand First Convention 2016
+
+Glenroy Auditorium,
+
+The Dunedin Centre, Harrop Street,
+
+Dunedin
+
+3rd September, 2016
+
+**Up Front Investment Tertiary Policy**
+
+In 1992 Jim Bolger and the National Government introduced the student loan scheme. Successive governments have made amendments to the scheme but the original concept where students indebted themselves to gain their education has remained.
+
+Twenty five years on and New Zealand graduates and students can celebrate at whopping $15.2 billion of outstanding student debt.
+
+Reports show that a downstream effect of current policy is lower home ownership, even before house prices went completely nuts, young New Zealanders putting off starting a family, highly skilled and educated New Zealanders taking their skills , the skills we the taxpayer stumped up cash for, offshore to get higher paying jobs so they can clear their debt quicker.
+
+We have seen a rise in depression and anxiety among our young people and we have seen a fall in their living standards and health statistics as they have been forced to borrow to live.
+
+And what have we gained?
+
+We have seen the development of an industry and a marketing campaign to convince our young people and their parents that if they don’t pursue higher learning, if they don’t get that student loan and come out with a diploma that they won’t get that high paying job, that they won’t get a job at all.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+So more and more of our young people have placed themselves in financial debt. After 25 years student loans we have one of the most highly educated populations we have ever had and yet we have predicted skill shortages which are being used to justify high immigration, we have a low wage environment and high youth unemployment.
+
+**Qualifications and jobs**
+
+Let’s look at that promise, that a qualification will get you a job.
+
+A recent report shows that nine years **after** completing their qualification the rate of employment for our young graduates ranges from 46% to 55%.
+
+(47% employment, 21% overseas, 14% study, 11% benefit, 8% other)
+
+This means that 9 years after completing a qualification and gaining all that debt we are still only getting around a 50% strike rate of employment and an awful lot of graduates have left the country.
+
+In January 2013 the Ministry of Education put on their “Education Counts” website a paper named “Completion of Tertiary Education” where they referenced a 2010 OECD report on higher education “qualification” completion rates for New Zealand. These OECD findings were reinforced by Ministry of Education data, released in February 2016, for domestic students from 2005 to 2014 and what it tells us is that:
+
+For every 100 New Zealand students only 57 on average completed their qualification.
+
+The Ministry of Education Feb. 2016 data shows that the rate of qualification completion between for all years between 2009 and 2015 has fluctuated between 54% and 60%.
+
+So according to the OECD report and recent data a massive 43% of our students did not complete their qualification – now remember for every paper or course inside that qualification we the taxpayer have invested a significant chunk - around 70%.
+
+**Debt mounts up**
+
+But the students have also paid for those papers or courses via the student loan system – so they now have a debt but no qualification.
+
+But it gets even more interesting. According to our calculations, of the 57% who do complete all their course work to gain a qualification about 49% go on to gain employment in an industry, employment sector or area where they are able to use knowledge and skills gained through completing their qualification.
+
+About 17% are living or working overseas.
+
+But it’s the last 35% of these graduates that we are most interested in.
+
+According to the data, 6% do not use their qualification in their area of employment nor do they go on to study at a higher level – they’re the “unable to track” group.
+
+Twenty-three per cent will go on to complete further study which could be a qualification in a different field or a higher level qualification in the same field.
+
+**The horizontal shift**
+
+We estimate that more than half of these students do something really unique to New Zealand – they do what we call Horizontal Shift – they “redo” the same qualification in a different field.
+
+That’s too many young people who end up studying in another field to complete a same level qualification because the one they chose originally wasn’t right for them, or wasn’t ‘”it for purpose”.
+
+But let me repeat, 43% of the original 100 students have ended up with no qualification.
+
+So what does the National Government do when they see the OECD report on this high rate of non-completion? They changed the way they report the figures.
+
+**A matter of ‘courses’**
+
+On Wednesday this week Minister of Tertiary Education Steven Joyce put out a press release that included this comment:
+
+**“…** course completion rates have increased in recent years to close to 80 % for lower-level qualifications and close to 90 % for bachelors and higher qualifications.”
+
+It makes you think that all is rosy in the land of Tertiary Education and that we the taxpayer and our students are getting value for money doesn’t it?
+
+But notice that word “course” - a “course” is very different to a “qualification”.
+
+You have to read the really small print at the bottom of page 24 of that report to understand this vital difference.
+
+If you look at the report, not only does it tell you in very small print that these are not qualifications but merely pieces of qualifications being measured but the figures in this graph, taken from page 24 also, shows us very clearly the spin that we are being fed by this Government.
+
+What we can see from the report Mr Joyce is quoting from is a non-completion or drop out rate of up to 40% in some courses.
+
+So what is this obviously broken system costing you – the taxpayer??
+
+Last year this government spent $4 billion 183 million dollars or around 1.67% of GDP on post secondary education
+
+What is interesting about this figure is that even this amount is a cut to Tertiary Education spending.
+
+In 2009/2010 the Tertiary Education spend was 2.9% of GDP.
+
+So let’s be clear – this government has cut spending in the post-secondary sector and many of these cuts have created greater financial and social burdens for our young people.
+
+So that was the cost to the taxpayer.
+
+And there is already $15 billion dollars of student debt hanging around the neck of our future generations.
+
+To give you an idea of how fast this burden is growing, last year students borrowed just over $1,539 million to study and live.
+
+These are large amounts of money – both from the taxpayer and from the taxpayers (we hope) of the future – the students.
+
+So that is enough about the current system and the National Government – let’s get back to New Zealand First.
+
+In July 1993 New Zealand First was founded with a set of 15 Fundamental Principles. Principle number 5 reads
+
+“Money spent on education will be treated as an investment, not as expenditure.
+
+Educational advancement is both in the national and in the individual interest.
+
+Educational investment is critical for economic and social recovery.”
+
+Brian Donnelly, the first Education Spokesperson for New Zealand First, stood in front of an AGM, just as I am now, back in 1995 and gave a presentation on education – just as I am now.
+
+In that presentation he made the following statement, “the present government policy on tertiary education is immoral. It is based on the fact that levels of unemployment are so high, that the brightest and the best of our young people are prepared to mortgage themselves for life so that they can make fruitful contribution to our nation. New Zealand First would like to be able to deliver a free tertiary education system and to abolish all student loans.”
+
+Unfortunately Brian passed away on the 25th September 2008 before he was able to fulfil that vision. The caucus and I want to pick up the challenge left behind by Brian.
+
+We believe the time to address this challenge is now. So today I am announcing New Zealand First’s: Up Front Investment Tertiary Education Policy - UFI for short.
+
+We believe that through a combination of Workforce planning, stronger Careers and Vocational Guidance, Short term internship and work trials, with industry lead and joint funded apprenticeships that by cutting the non-completion rate from 43% and reducing the number of students making a horizontal shift we can save up to 25% - that equates to a saving of over $1 billion to the taxpayer – making fully funded up-front post-secondary education viable.
+
+**Industry training**
+
+First, we will reinstate the leadership role, removed by the National Government, for workforce planning by Industry Training Organisations and require all government departments, where the state provides the majority of services, to establish and participate in planning leadership e.g. Ministry of Education, Ministry of Health, Ministry of Social Development, Corrections, and so on.
+
+We will amend the Tertiary Education Commission funding model to become a control mechanism requiring ITOs and others to develop workforce plans for 5 years, with a forecast for 20 years.
+
+We will fully fund the required number of identified industry places, with a 5% to 10% buffer.
+
+Students will compete for these places at point of educational entry ensuring greater fit between the student and the field of study. Implementation of key markers during study and the ability to transfer from one line of study to another would be a feature of the overall policy.
+
+We will widen the apprenticeship scheme to include non-traditional areas such as truck driving which will minimise skill shortages and unemployment rates while providing greater support for small and medium enterprises to take on apprentices
+
+Researchers took the following industries that have documented skill shortages and conservatively calculated how tax revenue would increase by 2025 if these positions were filled.
+
+• Construction: $306 million
+
+• Science: $215 million
+
+• Comms & IT $507 million
+
+Over $1 billion in lost tax revenue
+
+This is the tip of the iceberg. It is recognised that in the next four years we are going to need:
+
+11,800 more workers in accommodation
+
+17,500 in aged care
+
+11,200 in automotive,
+
+2700 in hairdressing
+
+5400 in mechanical engineering
+
+7800 In plumbing, gasfitting and drainlaying
+
+107,000 in retail
+
+6800 in roofing and scaffolding, and the list goes on.
+
+I haven’t even mentioned the fact that Chorus right now is screaming out for high quality fibre installers.
+
+**Step 2.** We will set aside budget to upskill and develop Careers Advisors and Transition Experts inside and outside the compulsory school system. We will provide tagged funding specifically for release time to facilitate staff professional development & individual student consultations.
+
+Our policy will build on current initiatives to strengthen and modify career/vocational advice from Y7 to Y13 as per the New Zealand Curriculum and will further identify and spread best practice.
+
+We will use the recent absorption of Careers New Zealand into TEC to create closer links with **Industry work force planning**.
+
+**Internships**
+
+New Zealand First will provide greater resourcing and widen the scope of the Gateway Programme to facilitate short term internship/work experience, during and after school years, so students gain a realistic understanding of employment areas.
+
+**Job seekers benefit**
+
+This policy will be combined with the New Zealand First recently announced policy to support approved employers with the Job Seekers Benefit when taking on an apprentice who will gain an “on the job” qualification.
+
+**Apprentices**
+
+We will better support apprentices to lift completion rates to 80%. I have seen reports that currently place completion at around 46%.
+
+**Inland Revenue recording**
+
+All upfront investment will be recorded by Inland Revenue through the individuals National Student Numbers.
+
+**Loan reduction**
+
+The system will use a year by year reduction debt base. For every year studied there will be an expectation of one year skill exchange. Each year worked in New Zealand will reduce the skill debt by a year.
+
+**Bonding**
+
+There will be a greater use of bonding system models for certain industries e.g. teachers, nurses, doctors, police etc. that would accelerate skill debt reduction.
+
+**Going overseas**
+
+For those who wish/ need to go overseas to gain further international knowledge the industry lead groups e.g. Medical Council, would be required to find a similarly qualified person to come to New Zealand for the period our citizen is out of the country. This persons work would count toward the original year for year repayment.
+
+If an individual left New Zealand, without replacement and did not return, IRD would convert the skill debt to a dollar debt which would be pursued under current interest charging conditions.
+
+**Living allowance**
+
+New Zealand First will introduce a universal living allowance which is not subject to parental means testing as a priority for all full-time students.
+
+We will amend the deduction regime currently in place if a student earns over a certain dollar value per individual to an income cap yet to be established.
+
+**Accommodation supplement**
+
+We will repeal recent amendments to the Social Services Act which shut out full time students from accessing the accommodation supplement when they fit the appropriate criteria.
+
+**University councils**
+
+New Zealand First will repeal recent amendments to the Education Act that removed the Student Voice by right from University Councils.
+
+**Affordability**
+
+But is up front investment affordable?
+
+So after factoring in the 25% cost savings from higher completion rates, reduced horizontal shift and stronger use of in-work training we are confident that our Up Front Investment Policy is affordable.
+
+**Export Education**
+
+While we were researching the financials we found that educational institutions that enrol international students are only required to pay a levy of under $200 per year to the government for this privilege, regardless of how many International Students they have on their role. It is our view that Export Educations should be delivering greater direct benefit to the country so we would introduce a $200 per student levy, which we conservatively have calculated would raise around $20 million dollars.
+
+**Total cost**
+
+So the total cost of our Up Front Investment – to remove the debt burden from our young people is $4,638 million or 1.86% of GDP
+
+In 2009/2010 the government’s spend on Tertiary Education was 2.9% of GDP – and this figure did not include student loan debt.
+
+When we set out on this project our goal was to keep the policy spend to under 2% of GDP and we have achieved that goal.
+
+So let’s look at these figures side by side.
+
+Just a reminder that the total taxpayer contribution for 2015/2016 does not include the $1,539 million that was added to student debt in that financial year.
+
+Nor does it include a universal student allowance.
+
+As to the Up Front Investment figure, this does not take into account the billions of dollars in extra tax revenue predicted if we can fill current skill shortage places with New Zealanders.
+
+It doesn’t take into account the financial reduction in benefits of those that will be employed under the supported Apprenticeship Scheme. It doesn’t take into account the expected increases in productivity when industry has the right individual with the right skills in the right job.
+
+**Students who now have a debt**
+
+For those students and graduates carrying current loan debt we will:
+
+Introduce our dollar for dollar student repayment scheme – where for those who stay and work in New Zealand and pay off a dollar we will match this with a dollar write down.
+
+**Working in the regions**
+
+For those individuals who spend 5 years working in identified essential service areas in selected regions there would be a complete debt write-off.
+
+**Defaulters**
+
+We will shift from the ridiculous arrest upon exit to a stop at the border on entry for overseas-based borrowers who have defaulted so that they can organise a payment arrangement while in New Zealand.
+
+So in closing today, 24 years on from our founding, New Zealand First reaffirms its commitment to education as an investment.
+
+We have shown that the status quo is not affordable either financially or socially and that up front investment is financially viable.
+
+New Zealand First will invest in our young people and in turn we have the expectation that they will invest their skills back into our country, their country, New Zealand.
+
+Thank you.
+
+**ENDS**
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand First Party](https://info.scoop.co.nz/New_Zealand_First_Party) on InfoPages.

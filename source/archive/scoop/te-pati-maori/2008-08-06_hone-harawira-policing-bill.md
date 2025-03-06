@@ -1,0 +1,100 @@
+---
+slug: hone-harawira-policing-bill
+title: "Hone Harawira: Policing Bill"
+date: 2008-08-06
+source-url: https://www.scoop.co.nz/stories/PA0808/S00069/hone-harawira-policing-bill.htm
+author: te-pati-maori
+---
+Hone Harawira: Policing Bill
+============================
+
+**Wednesday, 6 August 2008, 9:48 am**  
+**Speech: [The Maori Party](https://info.scoop.co.nz/The_Maori_Party)**
+
+Policing Bill : 2nd Reading
+
+Hone Harawira, Maori Party Member of Parliament for Te Tai Tokerau
+
+Tuesday 5 August 2008
+
+First of all, Mr Speaker, let me just say that the police can fine me $2,000 and they can fine me right now, but if they’re pounding on my good neighbour, Mr Mangu Awarau, then they can call me, they can yell at me, they can charge me, but I ain’t going to go and give them a hand. Send me to jail if they want, but do not ever expect me to jump in and help them pound on my neighbour.
+
+  
+Mr Speaker, historian Richard Hill called our early police “the iron hand in the velvet glove”, and yet, by 1958 when the Police Act came into force, New Zealand police were still armed with just a baton, a torch, a whistle and a set of handcuffs.
+
+Fifty years on and our Police still operate under the terms of the 1958 Act - but in the wake of a massive drop in public confidence in the police following front-page allegations and convictions of horrificsexual assaults by the police themselves, thepolice terrorism raids against Tuhoe, and theBazley Commission of Inquiry into Police Behaviour, it has become obvious, that a review is well overdue.
+
+Except Mr Speaker, I can tell you that for many Maori, confidence in the police died a long, long time ago, and in many Maori communities, has been replaced by bitterness and anger, at the way in which the police have been used as stand-over agents for rip-off landlords, thieving businessmen, land-grabbing developers, and rapacious governments both red and blue.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+So this bill to tidy up how the police are run, what accountability they should have, and what the Commissioner and Deputy Commissioner should be doing, is way overdue.
+
+Now, the Maori Party had a few suggestions to make, but we were really surprised to see that a Gallup poll of 6,700 cops and support staff, released in February 2008, found:
+
+that most of them don’t even trust the Force to provide a good place for them to work in;  
+that“the fundamental requirements of a strong and vibrant workplace fall short”; and  
+that with only nine percent being really happy in their work, the New Zealand Police are way down the bottom of all places people want to work.
+
+So this bill to update police governance, accountability and organisation is a positive move, but we need to make sure that how the bill is written, actually translates into how the police operate, and it doesn’t.
+
+Dr Trevor Bradley from the Institute of Criminology, Victoria University reckons that while having principles and functions of policing is a positive development, the Bill doesn’t actually lock the principles into practice; for example, the Bill talks about public consent and legitimacy, but provides no framework for local consultation or accountability.
+
+Youthlaw Tino Rangatiratanga Taitamariki pointed out that although there are clear obligations under theUN Convention on the Rights of the Child to ensure that police respect the interests of young people, there is no reference in the Bill to the questioning or getting information from them - and there needs to be.
+
+The New Zealand Council of Civil Liberties have long called for police operational guidelines to be published, so that people know what their rights are, and what limits there are on police behaviour, and yet this requirement is not included in the bill either.
+
+Mr Speaker, these examples show clearly how this bill is big on theTALK, but nowhere, when it comes to theWALK, not surprising really, given how deaf dumb and blind this House can be when it comes to recognising and acting on principles of fair play and honour.
+
+  
+Mr Speaker, arguably the biggest omission in this Policing Bill is the fact that the principles section of the bill does not contain the Treaty of Waitangi, does not refer to the principles of the Treaty of Waitangi, and in fact, doesn’t even mention the Treaty of Waitangi at all.
+
+Which opens up a really interesting scenario, because the rationale for why a Treaty clause should be in the bill, was part of Ngai Tahu’s submission, presented on behalf of theCommissioner of Police’s Maori Focus Forum.
+
+Now that submission drew our attention to the actions of the colony’s armed police particularly during the Land Wars, and highlighted how policing has often been, and continues to be used as an instrument of government – often to brutal effect against Maori.
+
+This submission Mr Speaker, should be compulsory reading for all members of this House, as we consider how policing should operate in Aotearoa, because it confirms the role this country’s armed constabulary played in assisting the Crown’s many breaches of the Treaty of Waitangi, and Mr Speaker, our people don’t easily forget those policies, those breaches, and those police actions.
+
+We remember the use of armed police, ironically charged with‘preserving the peace’ to destroy communities all over the country, from the Hokianga to Takaparawha, from Hauraki to Whaingaroa, from Tuhoe to Taranaki, and from 1846, right through to the cowardly police terrorist raids into Tuhoe territory, in 2007.
+
+Mr Speaker, Ngai Tahu called for the Bill to say more than it does about recognising the status of tangata whenua, and thatMaori should be expressly recognised in the Bill, like in clause 10 which acknowledges the role played by those other than police in policing – and doesn’t even mention the Maori wardens who voluntarily, provide a whole range of policing, escort, security and guidance services.
+
+Ngai Tahu’s submission said that it was important for policing to reflect the foundations of our nationhood, and that the absence of a Treaty clause in the bill was a big disappointment, but consistent with the way in which statutory recognition of the Treaty seems to have fallen from political favour. 
+
+And I repeat, this submission from Ngai Tahu was on behalf of theCommissioner of Police’s Maori Focus Forum – and their criticism that this Bill does not comply with Treaty justice, should be of great concern to members of this House, and yet the Law and Order Select Committee decides to completely ignore their advice.
+
+Well, the Maori Party won’t be ignoring the advice of theCommissioner of Police’s Maori Focus Forum, and during the committee process, we intend putting up a Supplementary Order Paper to have a Treaty clause put into the Bill, and we will be reminding the government, again, that the Treaty of Waitangi is as important to police operations, as it is to the communities they are supposed to serve.
+
+  
+Finally, we wish to raise the issue of Maori in the police force, because when we had a look, we found that over the past six years, the percentage of Maori cops across the country has only gone up .1% from 11.4 to 11.5%, and that Maori in the non-sworn force, has actually dropped from 11.1 to 9.3% over the same time.
+
+Mr Speaker, everyone knows of the massive gulf in trust between Maori and the police, and yet clearly the New Zealand Police’s recruitment strategy for Maori, has failed miserably to address that mistrust by bringing more Maori into the force.
+
+  
+Mr Speaker, I wish to advise that the Maori Party will support this bill ONLY, to try one more time to get issues like the Treaty, consultation and accountability, included in the bill, but we may not support it further, if those matters are not properly and fully addressed, because without them, this bill will do nothing more than simply update the rules governing an organisation that has historic problems dealing with racism, corruption, violence, and an arrogant disregard for the rights of the citizens who pay the wages of our police force.
+
+Make no mistake Mr Speaker - the Maori Party wants a strong, positive, and well-supported police force, but take it as read, that we will no longer accept a force with the inherent problems that this force has, and that this bill simply does not deal with.
+
+Ends
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [The Maori Party](https://info.scoop.co.nz/The_Maori_Party) on InfoPages.

@@ -1,0 +1,150 @@
+---
+slug: teu-tertiary-update-vol-12-no-15
+title: "TEU Tertiary Update Vol 12 No 15"
+date: 2009-05-21
+source-url: https://www.scoop.co.nz/stories/ED0905/S00086/teu-tertiary-update-vol-12-no-15.htm
+author: association-of-university-staff
+---
+TEU Tertiary Update Vol 12 No 15
+================================
+
+**Thursday, 21 May 2009, 11:29 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+  
+CALL TO END COMPULSORY REDUNDANCIES
+
+TEU’s national bargaining team will consider putting a ‘no compulsory redundancies’ claim in front of New Zealand’s eight universities. The bargaining team, which includes TEU representatives from each university, will meet for the first time this Friday to look at the issues raised by TEU members at recently held consultation meetings, and to draft a package of claims.
+
+TEU deputy secretary, Nanette Cormack, says one of the most important issues TEU members raised at the meetings was a strong concern about job security. She says a claim around compulsory redundancy is likely to feature prominently in the draft claims when they are developed.
+
+“The simple message we got from our members was that people on a collective agreement should not be made compulsorily redundant during the term of that agreement. That seems like a reasonably easy thing for universities to agree to at this time.”
+
+“Redundancy is big issue for many workers at the moment with the global recession threatening job security. But it’s bizarre to think, when university rolls are growing and most people are saying that we currently need tertiary education and research more than ever, that job security should be a looming concern for ordinary people working in universities.”
+
+“If anything, you would think this round of bargaining should be discussing how and where we are going to find all the new staff and retain the current staff we need to deal with the influx of new students.”
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+ALSO IN TERTIARY UPDATE THIS WEEK:
+
+1\. Govt prepares for embarrassment on world stage  
+2\. TEU opposes push for more individual PBRF data  
+3\. ITPNZ names its best  
+4\. Canterbury hui to discuss role of Māori in tertiary education  
+5\. Lecturers call off ballot for action  
+6\. The cost of a degree
+
+GOVT PREPARES FOR EMBARRASSMENT ON WORLD STAGE
+
+The New Zealand government is preparing to explain to an international forum why it intends to move backwards on women’s rights at work.
+
+An official New Zealand delegation, including the Minister of Labour, Kate Wilkinson, is preparing to attend next month’s International Labour Organisation (ILO) discussion in Geneva on ‘gender equality at the heart of decent work’ (3-19 June). The discussion, which is to take place during the ILO’s annual International Labour Conference, will put New Zealand’s decision to scrap its Pay and Employment Equity Unit under international scrutiny.
+
+The ILO is a specialised agency of the United Nations and devotes itself to ‘advancing opportunities for women and men to obtain decent and productive work in conditions of freedom, equity, security and human dignity’. Each member state is represented by a delegation consisting of government delegates, employer delegates, and worker delegates, and their respective advisers. This year the worker delegate to the gender equality discussion is TEU deputy secretary Nanette Cormack.
+
+Ms Cormack says it is hard to know what the officials could say when asked to explain the government’s recent decision.
+
+“They did have a structured plan of action to address gender employment inequality and pay gaps between men and women and they were working towards implementing that plan. Now they do not.”
+
+“Countries around the world are all at different places on their climb towards gender equality. Some are higher than others. But it’s very rare for a country to start heading down the ladder rather than up. And it’s extremely embarrassing that New Zealand should be in this position.”
+
+TEU OPPOSES PUSH FOR MORE INDIVIDUAL PBRF DATA
+
+The Tertiary Education Commission (TEC) has released a consultation document as part of the review process for the 2012 Performance-Based Research Fund (PBRF) assessment. The PBRF, which aims to allocate funding based on quality and research outputs, has remained controversial since its introduction in 2003.
+
+One of the significant issues the review of PBRF faces is what information about individual staff evaluations TEC should give tertiary institutions. The consultation document notes that the main concern with providing institutions with individual staff Quality Categories is that such data might be used for purposes other than simply verifying that information supplied by the TEC is correct. In his 2008 independent strategic review of PBRF, Dr Jonathan Adams noted:
+
+“At a local level, it would be quite wrong if such information were to be used for staff appraisal, yet I found two leading research institutions that not only proposed to do exactly this but claimed that they were unable to operate unless they did so. I have rarely encountered such a blatant abdication of proper management responsibility nor such willingness on the part of academic institutions to relinquish their autonomy to government.”
+
+The consultation document lists a range of anecdotal concerns including staff with “R” Quality Categories being pressured into changes to their employment agreements to make them ineligible for the PBRF assessment, PBRF Quality Categories of individuals being used against staff in disciplinary actions, the PBRF being linked to the possibility of termination of employment of those on fixed-term agreements or fellowships, especially new and emerging researchers completing doctorates or on post-doc fellowships, and individuals being pressured by institutions to reveal their Quality Categories against their will.
+
+TEC is seeking people’s views on three broad options regarding the release of this information– giving institutions Quality Categories for individual staff as it does at present, giving institutions just a summary of information or giving them only information that is publicly available only.
+
+The TEC is also seeking comment on three options for the release of component scores – the status quo whereby scores from each point in the assessment is provided to individuals on request, releasing final scores to institutions which then advises individual staff, or releasing final component scores to individuals automatically.
+
+TEU national president Dr Tom Ryan said that “The TEU remains strongly opposed to any moves that allow institutions access to additional individual data from the PBRF evaluation. PBRF scores were designed and intended as tools for funding allocation, not for use as a proxy for good human resource practices. Allowing additional information to be released to institutions is in our view a breach of individual privacy and goes far beyond the original intent of the exercise.”
+
+ITPNZ NAMES ITS BEST
+
+Waikato Institute of Technology (Wintec) is a finalist in five out of the six categories in the Institutes of Technology and Polytechnics of New Zealand (ITPNZ) annual awards 2009. The winners of each of the six categories will be announced on 10 June at ITPNZ’s 2009 conference, ‘Skilling New Zealand’s Recovery’, in Wellington.
+
+The six categories that ITPNZ awards prizes for are ‘working successfully with other education providers, the community or industry’, ‘widening access to learning and supporting students’ success’, ‘improving the relevance of learning to community and industry needs’, ‘quality assurance processes that demonstrably improve student success’, ‘preparing New Zealanders to live and work in the wider world, or supporting the development of education in other countries’, and ‘recognising innovative non-teaching support services’.
+
+Other finalists include: Tai Poutini Polytechnic, for its plan to recognise overseas miners’ skills without retraining for Pike River Coal’s new mine on the West Coast; UCOL for its collaborative venture with private education providers in the Whanganui region; Unitec for its Te Noho Kotahitanga marae providing a focal point for students and staff on campus and a place for celebratory and ceremonial gatherings; and Waiariki for its iwi radio journalism training programme run in partnership with Te Whakaruruhau, the federation of iwi radio stations, and supported by Te Māngai Pāho.
+
+Many of the awards focus on ITPs’ attempts to meet the needs of local businesses, such as Wintec’s nomination for its programme advisory committees that give industry partners opportunities to influence what is taught in the classroom, so that training is relevant and graduates are work ready.
+
+TEU hoping for the hopeful introduction next year of a new award category recognising collaborative and progressive relationships with workers and their union.
+
+CANTERBURY HUI TO DISCUSS ROLE OF MĀORI IN TERTIARY EDUCATION
+
+Sir Tīpene O’Regan, University of Canterbury pro vice-chancellor (Māori), Moana Jackson, treaty and constitution law specialist, and newly elected TEU Māori vice president, Cheri Waititi, are scheduled on 5 June to give presentations at the University of Canterbury on Māori and tertiary education.
+
+Sir Tīpene’s presentation will focus on the role of Māori at the University of Canterbury and in tertiary education. Mr Jackson will speak on the inter-relationship of mātauranga and rangatiratanga, and Ms Waititi will extend the theme of rangatiratanga to the TEU specifically.
+
+Canterbury TEU Māori members’ representative, Diane Gordon-Burns, has organised the kaupapa with “the aim of providing an opportunity, under the auspices of the TEU, for Māori working in tertiary education within the Christchurch region to hui, whakarongo, and kōrero about issues relevant to Māori working in the sector”
+
+An invitation has been extended to Māori TEU members at the University of Canterbury, Lincoln University, and Christchurch Polytechnic Institute of Technology, along with Māori staff at all three institutions who are not union members.
+
+TEU University of Canterbury branch president, Megan Clayton, says she is happy for the branch to be supporting this important event for Māori staff.
+
+“It’s the first of its kind for the new union at Canterbury and I hope that it will inspire members as to how the TEU can support Māori aspirations within the tertiary sector.”
+
+LECTURERS CALL OFF BALLOT FOR ACTION
+
+Faced with legal threats from 78 university employers, the British University and College Union (UCU) has postponed a ballot on industrial action that would have disrupted student examinations at the end of term.
+
+In April the union announced it would hold a ballot, after university employers offered a 0.3 percent pay rise for next year, well below the 8 percent UCU had called for, and refused to guarantee that there would be no compulsory redundancies.
+
+The ballot was due to close on 22 May, but was postponed by UCU after legal threats made by the Universities and Colleges Employers Association (UCEA) on behalf of 78 universities. Employers argued that UCU had given incorrect figures on the number of staff being balloted, which would break trade union ballot laws.
+
+National employment talks between UCU and UCEA will take place this week and the union has not ruled out a ballot if the issue is not resolved.
+
+UCU general secretary, Sally Hunt, had said earlier of the no compulsory redundancies claim, "UCEA has indicated that up to 100 universities, around two-thirds of participating institutions, are looking to lose people and our own research indicates that the scale of job cuts is substantial”.
+
+"The key thing is to ensure that we have a situation where all acknowledge that redundancies are a final resort, not the first option as seems to be the case at some institutions at the moment”.
+
+"It is the failure of employers to react to the growing crisis that has forced our hand. We need to get an agreement sorted now to stop a wide-ranging cull of academic jobs without proper alternatives being considered.”
+
+From Anthea Lipsett at the Guardian
+
+THE COST OF A DEGREE
+
+A new report from the United States attempts to quantify the cost of earning a degree. That question may be basic, but it is not simple, as the report from the Delta Project on Postsecondary Education Costs, Productivity, and Accountability makes clear. The paper, prepared by Dr Nate Johnson, lays out a range of possible approaches to calculating the cost of a college degree.
+
+The paper shows that it is distinctly possible to come up with a figure, but the wide variation in the numbers - based on institution type, programme, degree level, and other factors - suggests that the answer will depend in large part on how the question is framed. And that decision is a surprisingly value-laden one, says Dr Johnson.
+
+"You frame the question one way if you are only interested in students who graduate, and another way if you want to know the cost for people who go to college and don't complete," he says.
+
+"The point is, this is not just a data question. It's a question of what it is that we want from our colleges and universities."
+
+Dr Johnson provides three assessments of what a university spends to educate a graduate in the USA ranging from US$26,485 to US$40,645. In New Zealand the total cost of funding our universities in 2007 divided by the total number of students that year was NZ$20,577. A minimum of 3 years study would add to over NZ$60,000 per student. However that includes significant costs not directly relating to that degree (such as research). And that, as Dr Johnson notes, is the other key point.
+
+The choice of how you measure cost depends, to an extent, on how you perceive the role of universities. Using the "full cost" measure, he asserts, more or less says that most of what a university does is designed to educate students, and that "all of those costs could be attributed to the cost of producing college graduates”, as overhead, he says.
+
+"If you highly value research or public service”, though, "you could almost say that the graduates are free - a by-product" of what you spend on those other purposes.
+
+Of course, these figures are just averages; Rochville University offers degrees for just US$199, and they only take 14 days to arrive.
+
+From Doug Lederman at Inside Higher Ed
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

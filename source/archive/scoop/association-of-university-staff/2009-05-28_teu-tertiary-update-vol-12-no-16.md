@@ -1,0 +1,130 @@
+---
+slug: teu-tertiary-update-vol-12-no-16
+title: "TEU Tertiary Update Vol 12 No 16"
+date: 2009-05-28
+source-url: https://www.scoop.co.nz/stories/ED0905/S00114/teu-tertiary-update-vol-12-no-16.htm
+author: association-of-university-staff
+---
+TEU Tertiary Update Vol 12 No 16
+================================
+
+**Thursday, 28 May 2009, 9:23 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+WHAT TO LOOK FOR IN THE BUDGET
+
+This afternoon’s budget follows a long-running campaign by the government to lower public expectations around available money. In the tertiary education sector in particular, both the finance minister and the minister of education have used speeches in recent weeks to promote austerity. While many politicians like to lower expectations so that a subsequent unpleasant announcement seems less harsh, analysts expect that there could be real substance to the government’s warnings.
+
+The Standard calculates that, taking into account population growth and inflation, the Vote Education allocation of $11 billion will need to grow by about $500 million, or 4.5 percent, just to maintain the status quo.
+
+Education Review suggested last week that two areas which might be cut, or at least not increased enough to match inflation, include funding to the EFTS cap and the money promised under the tripartite agreements of the past several years.
+
+With student enrolments climbing dramatically this year, there has been significant pressure on the Tertiary Education Commission’s cap on EFTS funding. If the government ignores this problem, many students could find that institutions are reluctant to enrol them without a government subsidy.
+
+The tripartite funding for the university sector has played an important role in raising salaries, especially for academics over the last three years, in an attempt to make them more internationally competitive, particularly with Australia. The government is unlikely to support such targeted funding. However, if such targeted salary increases are blocked that will put significant pressure on universities’ ability to remain internationally competitive as employers, especially when the Australian government is set to pour significant additional funding into tertiary education. There are also concerns about what will this will mean for university bargaining which is set to kick off next month
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Meanwhile, the ITP sector will be watching closely the balance of funding support allocated to industry training and public provider training. The government has expressed strong and, at times, exclusive support for industry training as the solution to workforce skills development. ITPs will be looking to see that their role is seen as critical to this and that funding reflects this.
+
+People in the ITPs will also be watching for more news about the government’s flagship Youth Guarantee scheme. TEU has previously expressed concerns at details of the scheme; especially the need to help young people into credible public education courses rather than fly-by-night private providers.
+
+You can read more coverage of the budget on the TEU’s budget webpage, which will be regularly updated over the next few days. TEU President Tom Ryan has issued a challenge in the Education Review to the government to ensure the budget helps the country learn our way out of trouble.
+
+ALSO IN TERTIARY UPDATE THIS WEEK:
+
+1\. Pay expectations falling too far  
+2\. Student journals improve learning  
+3\. School students roll out and onwards  
+4\. Single Australian framework for universities and TAFEs  
+5\. Environment before exams
+
+PAY EXPECTATIONS FALLING TOO FAR
+
+The government’s and the State Services Commission’s attempts to lower people’s pay rise expectations have been too successful, according to TEU President Tom Ryan.
+
+“Many people have heard the gloom and doom stories and have been convinced that pay increases are not justified.”
+
+The reality is that inflation is still 3 percent and the costs that are driving inflation are the same things that affect ordinary working people on average salaries the most.
+
+“For instance, it’s great that audio visual equipment has fallen 20 percent in the last year, but those things that people can’t avoid paying for keep rising – food is up 8.8 percent, electricity is up 7.5 percent and actual rentals for housing are up 2.1 percent.”
+
+“We won’t work our way out of a recession if most workers are taking an effective pay cut because inflation moves ahead of their earnings. We can’t afford to drive ordinary working families closer to poverty and austerity – that’s not good economics for the businesses that rely on those families, or for the government, which relies on their taxes,” said Dr Ryan.
+
+TEU national secretary Sharn Riggs believes it is also useful to remember that in the tertiary sector about half the workers are general staff, not academics, some earning not much more than the minimum wage and many earning below the average wage.
+
+“Furthermore, many starting academics and tutors, with years of study and student loans under their belts, earn less than workers starting in other professions like police, teaching and nursing. These workers, more than many, live in an international market and if we don’t want them, other countries do.”
+
+STUDENT JOURNALS IMPROVE LEARNING
+
+Students’ reflective skills and pedagogical insights improve when they keep a student journal during their learning, according to a paper by Dr Anne Hume in the latest edition of Higher Education Research and Development (Volume 28, Number 3, 2009).
+
+Dr Hume, from the University of Waikato’s School of Education, concludes that reflective practice in tertiary education helps students to enhance their professional learning. Her paper investigates the use of journals by students learning to become science teachers at Waikato’s School of Education. She traces, over several years, the development from informal, unplanned and ‘shallow’ reflection by students on their learning, to more purposeful, coached and scaffolded reflection.
+
+Dr Hume found as she taught her students the skills they needed to rewrite reflectively of their learning experiences that their insights into their learning deepened - but for that to happen she needed to emphasise the importance of the task she was setting, through the use of ‘compulsory’ writing workshops and sharing of exemplars and feedback to help students develop more sophisticated writing.
+
+From there students could leave the workshop situation and begin ‘freelance’ reflective journal writing with some deeper analysis (although there was some relapse to lower levels of reflection when away from the workshops).
+
+SCHOOL STUDENTS ROLL OUT AND ONWARDS
+
+The Ministry of Education has released a detailed forecast of primary and secondary school roll projections through to 2027. The statistics are used for financial forecasting and other planning, including training and hiring the appropriate number of teachers. Interestingly, the Ministry of Education does not seem to have similar public information available for tertiary education.
+
+The National School Roll Projections (2008 Update), published this month, notes that the high level of actual births in 2007 and 2008 will start to impact on primary schools from 2012 onwards, reaching a peak in 2019 with 520,000 students.
+
+Secondary school rolls are expected to decline over the next decade, and then start growing in 2017 and peak in 2024, with an estimated 302,000 full-time equivalent students.
+
+This upcoming decline will be of interest to tertiary education teachers because many of those students leaving secondary school are now choosing to enter tertiary education. TEU national secretary Sharn Riggs has warned previously of the need for greater preparedness in the tertiary sector for the ‘mini baby boom’ that has swept its way through primary and secondary schools and now appears to have reached tertiary education institutions.
+
+“We’d like to see the sort of forward thinking and roll projection analysis that the ministry undertakes in other education sectors to occur in tertiary education too. Tertiary education workers already face significant workloads and can’t afford to be left alone to face a surge in student numbers without any support,” concluded Ms Riggs.
+
+SINGLE AUSTRALIAN FRAMEWORK FOR UNIVERSITIES AND TAFES
+
+Dual sector institutions combining universities and TAFEs (polytechnics) in Australia could proliferate if a new pilot project succeeds. The pilot aims to streamline the two layers of government regulation, quality standards and industrial relations regimes that govern the two sectors.
+
+Ballarat University and partner Swinburne University have been awarded a near $1 million grant to research, with the National Tertiary Education Union, an alternative regulatory model for dual sector institutions.
+
+According to both institutions, a dual sector operation is well-placed to thrive in a tertiary environment where the government wants to boost participation and improve pathways between universities and TAFEs, but they want the regulatory burden on their institutions to be streamlined to make them more efficient, including possibly establishing a single industrial regime across universities and TAFEs to allow better collaboration between teaching staff.
+
+Ballarat and Swinburne are two of five dual-sector institutions across Australia. They incorporate TAFEs that are state-owned and regulated.
+
+Swinburne vice-chancellor Ian Young said that as TAFEs and universities work more closely together there would be a need for teaching staff to better co-operate, which will be problematic in an environment of different pay rates, hours and expectations around research.
+
+Grahame McCulloch, general secretary of the NTEU, said closer co-operation between universities and TAFEs would be vital to meeting the Government's targets on widening participation. "We see the possibility of better approaches to dual sector provision as being a major contributor to meeting that participation target," he said.
+
+From Andrew Trounson at the Australian
+
+ENVIRONMENT BEFORE EXAMS
+
+Otago student magazine Critic is warning of the hidden ‘economic environmental and personal costs that come to define the exam period’. Journalist Georgie Fenwicke notes:
+
+“Any productive day of study at the library or in your room requires a number of essential components. These include a desk and chair, pens and paper, access to the internet, and food and water. However, all these products consume the world’s increasingly finite resources.”
+
+A single Google search is estimated, for instance, to consume 0.2g of carbon, making Google one of the biggest consumers of energy in their industry. Ms Fenwicke also warns of the increased carbon footprint arising from a significant increase in consumption of junk food and its related dairy products and plastic packaging during exam period.
+
+Upon reading this Critic article, one exam marker that Tertiary Update spoke to welcomed this profound concern for the environment from students:
+
+“Obviously we want students to learn and to enrich their lives with skills and knowledge. But if they want to forego, for the sake of the environment, the exam part of that learning, we’d be willing in solidarity to make the consequent sacrifice of not marking their exam papers.”
+
+—–
+
+TEU Tertiary Update is published weekly on Thursdays and distributed freely to members of the Tertiary Education Union and others. You can subscribe to Tertiary Update by email or feed reader. Back issues are available on the TEU website. Direct inquiries should be made to Stephen Day, email: stephen.day@teu.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

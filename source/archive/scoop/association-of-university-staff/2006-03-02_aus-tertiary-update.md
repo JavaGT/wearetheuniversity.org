@@ -1,0 +1,105 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2006-03-02
+source-url: https://www.scoop.co.nz/stories/ED0603/S00008/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 2 March 2006, 12:42 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Green light for national salary bargaining in universities  
+Members of the Association of University Staff (AUS) and the other unions representing staff in New Zealand’s universities have voted overwhelmingly to support the negotiation of national collective employment agreements in the next bargaining round.  
+The ballot, conducted on a university-by-university basis, endorsed a recommendation by the unions to move from enterprise-based bargaining at each university campus to the negotiation of one national collective agreement for academic staff and another for general staff employed in the seven traditional universities.  
+A total of 1827 (95.5 percent) of the 1914 academic staff who participated in the ballot voted in support of the proposal, and 1697 (94.2 percent) of the 1801 general staff also voted to support national bargaining.  
+The result means that bargaining with the universities will be initiated in March, and it is expected that formal negotiations will commence in April. The unions’ bargaining position, including the salary claim, will be finalised at a meeting of the AUS Industrial Committee today. It will then go to meetings of union members for endorsement.  
+Combined unions’ spokesperson, Jeff Rowe, said he was pleased with the result as, following last year’s negotiations, the unions have been engaged in a tripartite process with vice-chancellors and the Government to find solutions to long-standing funding and salary problems in the university sector. “The high number of union members voting in this ballot, along with the high level of support for national bargaining, has given us a very clear mandate to continue this process with university employers,” he said. “It also shows that university staff appreciate the link between funding and salaries, and support the view that, while the Government has a responsibility to increase sector funding by a significant amount, the best means to improve salaries is through a national collective bargaining process.”  
+Mr Rowe said he expected university employers to support the decision of union members and recognise that the salary crisis in the sector was an issue that would only be resolved on a national basis, and with the co-operation of university employers, unions and the Government. “We are providing the vice-chancellors with the mechanism, through national collective employment agreements, to make this happen,” he said  
+The unions involved in the national bargaining process are the AUS, Public Service Association, Association of Staff in Tertiary Education, Tertiary Institutes’ Allied Staff Association, Engineering, Printing and Manufacturing Union, Building Trades Union and the Service and Food Workers Union.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Unitec staff take action  
+2\. Wananga maintains high profile  
+3\. Adult and community education vital, says TEC  
+4\. Questions over some tertiary-education courses  
+5\. More money needed to stop university decline  
+6\. UK strike set to proceed  
+7\. Ballarat gives undertaking to clarify AWA conditions  
+8\. Oxford head begins web charm offensive
+
+Unitec staff take action  
+More than one hundred allied (administrative and support) staff stopped work at the Auckland institute of technology Unitec on Tuesday to picket the institution’s Council meeting. They were protesting at an impasse in collective employment agreement negotiations after union members rejected a salary offer of 2.5 percent from Unitec management. Their union, TIASA, has claimed a 4.5 percent increase.  
+TIASA Chief Executive, Peter Joseph, said that the aim of the stoppage and picket was to draw the Council’s attention to the unreasonable and unrealistic approach taken by Unitec. “It is an indictment on Unitec management that allied staff have felt so insulted and undervalued, that they are taking their first industrial action in Unitec’s history,” he said.  
+Mr Joseph said the protest was good natured, but Council members were left in no doubt that staff are angry at the institute’s lack of recognition and the low value placed on allied staff. “Staff are also incensed that their willingness to accept a somewhat lower settlement last year, to assist Unitec’s financial situation, is now being exploited by the institution,” he said. “A delegation of staff sought permission to address the Council, but this request was rejected by the Chair. I would have thought that the Chair would have at least let Council decide if they wished to hear from staff, rather than dictate from the Chair,” he said.  
+The parties are to meet later this week with the assistance of a mediator, but Mr Joseph warned that the action would be stepped up if Unitec continues its “unreasonable and insulting stance”.
+
+Wananga maintains high profile  
+Although Te Wananga o Aoteaora has largely been out of the political limelight this year, it appears to be maintaining its controversial reputation. The Te-Awamutu-based institution has been recently reported as saying that a recent Waitangi Tribunal decision, on a case taken last year by the Aotearoa Institute (the Wananga’s parent body) means it is exempt from growth limits imposed by the Government. According to Education Review, the Wananga intends to enrol 1,000 equivalent full-time students (EFTS) more than it should in a course called Mauri Ora, thereby testing a limit on growth in diploma and certificate courses of 200 EFTS per year set last year.  
+In response, the Minister for Tertiary Education, Dr Michael Cullen, is reported as saying that the Wananga is not exempt from the Government’s growth limits on tertiary-education organisations, and would have to apply to the Tertiary Education Commission (TEC) for an exemption if it wanted government funding for the additional 1,000 EFTS.  
+Wananga Chief Operations Officer John Mote said the institution had not yet applied for an exemption to the cap, but had signalled its intention. “Our view is that the Mauri Ora programme meets community needs and it is already a part of the approved profile. Given this situation we would expect any application to be successful,” he told Education Review.  
+Meanwhile, TEC documents obtained under the Official Information Act by Education Review show that the Wananga agreed last year to phase out another course, Kiwi Ora, by the start of 2008. Kiwi Ora is delivered as a distance-education programme developed by Susan Cullen, the daughter of former Wananga Chief Executive Rongo Wetere. The documents show Kiwi Ora had 5232 equivalent full-time students (EFTS) in 2004, 3415 last year and this year it is projected to have 2250. The numbers are expected to fall to 1750 next year and zero in 2008.  
+This week, the Waikato Times reports that the Wananga expects to enrol 25,000 students in 2006, 1500 fewer than last year.
+
+Adult and community education vital, says TEC  
+The Tertiary Education Commission is currently working with schools, polytechnics, universities and community organisations to ensure a wider range of people have opportunities to learn through adult and community education, according to its Chief Executive, Janice Shiner. She says that a new funding system, to be phased in over the next three years, will help ensure that adult and community education is of the highest possible standard, and that the Government gets value for the money it invests.  
+To achieve this, $16.5 million will be made available over the next four year and, at the same time, the TEC will provide practical help and advice through people in its offices throughout the country. “For example, the TEC has helped set up thirty-seven networks of adult and community groups across the country. These networks encourage the groups to work together on how they can best meet the needs of their community, and share the passion that they have for adult and community education,” Ms Shiner said.  
+“A key feature of adult and community education is that it is provided by local organisations that are best placed to have a good understanding of their community. What we want to ensure is that adult and community education groups are talking with community leaders, and are steering their programmes of courses and activities towards areas of greatest community need,” Ms Shiner said. “Some adult and community education groups have also asked us to help them develop their professional skills so they can become better at managing themselves, and are more able to find out what education and skills people in their community need and how they can develop the courses to match.” To assist with this work, the TEC is investing $900,000 a year, starting from this year, and working closely with groups to ensure the money is spent in areas of greatest need.
+
+Questions over some tertiary education courses  
+Thousands of tertiary students are signing up for courses that are on “probation” for not meeting government standards, according to a report in the Sunday Star-Times. Forty-six tertiary qualifications, most of them offered by private institutions, are on notice this year to improve or face having their funding cut or withdrawn.  
+More than 6000 equivalent full-time students were enrolled in the qualifications in question, at a cost to the taxpayer of $35 million in 2004.  
+The criteria by which the value of courses is measured include the need for the qualification, either in the job market or to meet a social or community need, the value of the qualification, either in terms of work or social outcomes, or in terms of leading on to other study, that the qualification has some point of difference from other qualifications already available and that the qualification performs well in terms of course-completion and other measures.  
+The Sunday Star-Times says that the Tertiary Education Commission is refusing to name either the courses or the providers on the basis that issuing the information could lead to a provider’s reputation being compromised or that learners’ future educational or employment opportunities could be affected. Some of the information was withheld on the grounds of commercial sensitivity.
+
+Worldwatch  
+More money needed to stop university decline  
+Europe is condemning itself to decline by failing to spend enough on higher education, according to Lord Patten, the former European Commissioner and current Chancellor of Oxford and Newcastle Universities. European universities are falling behind American institutions and would soon see their best researchers “going east as well as west” with the growth of China and India, he is reported as saying in a speech to the Academie des Technologies in Paris.  
+Lord Patten said that Britain spends only half as much on knowledge as the United States, and that other European countries are even further behind. In the international league tables drawn up by Shanghai Jiao Tong University, there are two European universities in the top ten (Oxford and Cambridge) and nine in the top fifty. “Is it not a paradox that, during a period in Europe of unparalleled prosperity and stability, we have allowed the priority given to our universities in, for example, the allocation of public resources to sag so pitifully?” he said. “We are allowing our culture to wither on the vine.”  
+Meanwhile, the leaders of Canada’s provinces and territories emerged from an unprecedented summit on higher education last Friday, saying that the country needs a vision that will create a culture of higher learning if Canadians want to maintain their standard of living and compete internationally. They also called on the country’s new Government to spend billions of additional dollars on higher education.  
+From the Times Higher Education Supplement and Chronicle of Higher Education
+
+UK strike set to proceed  
+Next week’s planned strike by university staff across the United Kingdom seems destined to go ahead as the employers’ body, the University and Colleges Employers’ Association, continues to refuse to make a salary offer to staff.  
+The General Secretary of the Association of University Teachers, Sally Hunt, said that, although the employers say they want to talk about the pay dispute, they are yet to make a pay offer and are currently refusing to join unconditional negotiations.  
+Union members are claiming a 23 percent pay increase over the next three years, and say that the introduction of £3,000 tuition fees will give universities the money to restore salaries to comparable international levels.  
+The planned strike action by AUT and Natfhe members, scheduled for next Tuesday, will be followed by an assessment boycott beginning the following day. Lecturers, researchers and academic related staff will refuse to cover colleagues’ work, mark students’ work or take part in the exam process as part of an ongoing boycott.  
+“There is absolutely no need for students’ work to be disrupted and it is the last thing we want to happen,” said Ms Hunt. “If the employers are prepared at last to agree to serious unconditional negotiations, AUT will meet them as soon as possible.”
+
+Ballarat gives undertaking to clarify AWA conditions  
+The University of Ballarat has given an undertaking to the Australian Federal Court that it will issue a Clarifying Statement to its entire staff, explaining the employment conditions that staff will lose if they sign an individual Australian Workplace Agreement (AWA). The University will also be prohibited from offering any further AWAs until 6 March while the Statement is circulated among staff.  
+The decision follows the lodging of a class action against the University by staff and the National Tertiary Education Union (NTEU), claiming that it had issued false and misleading information about the content of the agreements in an attempt to induce staff to accept them.  
+The NTEU Victorian Division Secretary, Matthew McGowan, said that the Federal Court proceedings revealed that the University has a significant case to answer over the misinformation that was circulated to staff. “This is an enormous victory for the staff at the University of Ballarat,” he said. “The University is now obliged to tell the truth about what signing an AWA will mean, which is that staff will lose important employment conditions.”  
+It has also been revealed that the University of Ballarat has missed out on up to $1.4 million of funding by failing to have a new collective agreement that complies with the Government’s requirements in place by 30 November last year. Ballarat is the only Victorian university that will not receive an additional 5 percent in Commonwealth funding for 2006.
+
+Oxford head begins web charm offensive  
+Oxford University’s Kiwi Vice-Chancellor, Dr John Hood, has made an historic webcast as he seeks to win over staff and students to his controversial reform proposals. He gives regular email briefings and has held consultations with staff over governance reform, but it is the first time the head of the 900-year-old University has addressed the scholars via a webcast. The webcast is believed to be in direct response to vociferous opposition to his plans to streamline the running of the University and bring in outsiders to a ruling council, and to his leadership style.  
+The University said Dr Hood is keen to promote internal communications.  
+From The Guardian
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

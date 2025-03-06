@@ -1,0 +1,136 @@
+---
+slug: 1984-2004-twenty-years-on-roger-kerr-speech
+title: "1984 – 2004: Twenty Years On - Roger Kerr Speech"
+date: 2004-02-25
+source-url: https://www.scoop.co.nz/stories/BU0402/S00315/1984-2004-twenty-years-on-roger-kerr-speech.htm
+author: new-zealand-business-roundtable
+---
+1984 – 2004: Twenty Years On - Roger Kerr Speech
+================================================
+
+**Wednesday, 25 February 2004, 2:49 pm**  
+**Speech: [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable)**
+
+WANGANUI CHAMBER OF COMMERCE
+
+1984 – 2004: TWENTY YEARS ON
+
+ROGER KERR
+
+EXECUTIVE DIRECTOR WANGANUI
+
+NEW ZEALAND BUSINESS ROUNDTABLE 25 FEBRUARY 2004
+
+1984 – 2004: TWENTY YEARS ON
+
+This year is the 20th anniversary of the change of government in 1984 and the beginning of a period of radical economic reform. It should be a time to take stock of what the country has achieved in the last two decades and to debate the agenda for the next 20 years.
+
+Last year saw such a stocktaking in Australia, 20 years after the election of the Hawke-Keating government in 1983. Launching a series of contributions in its columns, the Australian Financial Review asked: “Can \[Australia\] aspire to be among the two or three most prosperous peoples in the world, a status we lost long ago?” It challenged politicians and institutions:
+
+… to confront the risks of reform fatigue as well as the challenges of the 21st century. These include an ageing population, new speed limits on growth from labour shortages less than half a generation away, and a fiercely competitive global economy.
+
+Back in 1983, Australia’s economic circumstances were poor. Its living standards relative to many other countries had been falling for several decades, it was saddled with heavily protected industries, inefficient infrastructure and costly work practices, and there was no reform in sight. To everyone’s surprise, the newly elected Labor government embarked on a programme of intense and broadly well-considered economic reforms, which was carried on by successive federal governments and matched at state levels. Today Australia is back in the top 10 countries in the Organisation for Economic Cooperation and Development (OECD) per capita income rankings, and few doubt that the main reasons for the turnaround were its moves to a much more open, free and competitive economy.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+In 1984, New Zealand was in a much worse situation than Australia. Years of mismanagement had led to a distorted and stagnant economy, high inflation and massive public debt. The announcement of the election led to a run on the currency. David Lange was right to describe old New Zealand as a Polish shipyard.
+
+The post-election Economic Summit reached a broad consensus. It stated in its communiqué that:
+
+There is an unacceptable level of poverty. There are people in our community who have major difficulties with housing, health care and meeting essential family needs. This … has not been a short term problem but rather a feature of the New Zealand economy for the last 30 years … Poor growth has brought unemployment, falling living standards, a decline in social services and increasing social discontent.
+
+The Summit agreed that major changes in direction were needed.
+
+The Lange-Douglas government decided that New Zealand had to break away from short-term, stop-go policies geared to the electoral cycle. It sought to adopt a consistent, predictable, medium-term economic strategy. The key tasks were to stabilise and liberalise the economy.
+
+Stabilisation required the freeing-up of interest rates, the abolition of exchange controls, floating the currency, fully funding government deficits and an anti-inflationary monetary policy. It also required regaining expenditure control, cutting government deficits and major tax reform.
+
+Liberalisation required accelerated reductions in import licensing and tariffs, the removal of subsidies, opening markets to competition and reform of state-owned enterprises.
+
+Of all the changes, I regard the removal of exchange controls and the progressive dismantling of fortress New Zealand import barriers as the most important. Capital could no longer be trapped in New Zealand – if governments grossly mismanaged the economy it would flee – and firms had to move to international levels of efficiency or die.
+
+An extraordinary amount was achieved in three years. David Lange and Roger Douglas did an outstanding job of explaining and defending the changes and maintaining confidence. Despite major restructuring and real pain in sectors such as farming, the economy proved resilient and growth exceeded forecasts. In 1987 the government was re-elected with an increased majority and it retained the support of most 1984 Labour voters – an outcome which is difficult for those who maintain the reforms were undemocratic to explain away.
+
+Shortly after the 1987 election, world sharemarkets fell sharply. New Zealand was hit more than most, due in part to the collapse of businesses that had over-borrowed and lost their way in the freer environment, and speculation fuelled by financial market and tax reforms that were not complete.
+
+The government sought to maintain confidence with its December 1987 economic package, but David Lange broke conventions of collective cabinet responsibility over the flat tax proposal and declared a teabreak on reform. From that point, any sense of government cohesion and direction evaporated. Even though much of the December package and other important reforms were implemented in Labour’s second term – including further tariff reductions, major tax changes, the Reserve Bank Act, reforms to ports and local government, and the deregulation and privatisation of Telecom – confidence was lost and the economy stagnated. Labour had proved unable to implement meaningful labour market reform, unemployment skyrocketed and the fiscal position deteriorated sharply. National won the 1990 election in a landslide, and immediately faced a crisis with the Bank of New Zealand collapse.
+
+National’s main achievements in its 1990-1993 term of office were the labour market reforms of the Employment Contracts Act and the restoration of fiscal discipline. Those of us who saw these measures as finally putting in place a broadly consistent economic framework were confident that they would lay the basis for a strong recovery. Critics of the reforms predicted doom and gloom. Fifteen economists at the University of Auckland said the recession would deepen, Jim Anderton forecast 1 percent growth in 1993, Brian Easton saw the incipient recovery as a “mirage” which would be “choked off in 6-18 months” and Bryan Philpott thought there was not “a dog’s show” of achieving 3 percent growth.
+
+In fact the economy grew by 6.4 percent in the year to March 1994 and 5.3 percent the following year, and by 1996 real gross domestic product (GDP) was 20 percent higher than in 1991. In the same 5-year period employment growth was the highest in the OECD and the rate of unemployment fell from 10.3 percent to 6.1 percent – the biggest reduction among OECD countries.
+
+In a 1994 end-of-year editorial, the New Zealand Herald wrote that:
+
+There seemed no end to the year’s good economic notices. Each week seemed to bring a sunny statistic … Yet New Zealand could not quite grasp that it was enjoying the highest growth in the developed world … It was still half-listening to academics, counsellors and clerics who had spent the previous nine years deploring \[the reforms\].
+
+There was a sense of real optimism in business as reforms which many business leaders had fought for paid dividends. As chairman of the Business Roundtable, Douglas Myers said that “Most of us in business today are, for the first time in our lives, part of a successful economy.” But he also said that “it would be folly to assume that New Zealand is on some primrose path and can now just amble along picking the flowers”; both business people and policy makers have to strive for continuous improvement.
+
+Regrettably, the last two decades have turned out to be a game of two halves. The 1993 election and the Fiscal Responsibility Act of 1994 marked the end of the reforming period. National deservedly paid a price in 1993 for making irresponsible commitments on superannuation and tertiary fees in the 1990 election which it then broke, and for the poor management and communication of some of its policies. After the 1993 election Jim Bolger dumped Ruth Richardson and declared another teabreak. For the last 10 years, governments have largely ambled along and, more recently, partially reversed earlier reforms.
+
+A vast mythology developed about the reforming period, some of which persists to this day. Let me deal briefly with some of the myths.
+
+In the early period, the stabilisation and liberalisation moves were painted by some as unorthodox – words like “extreme”, “monetarist”, and “outside the mainstream” were freely bandied about. In fact it was New Zealand’s previous inward-looking and highly interventionist policies that were well outside OECD norms. Left-of-centre governments in France, Spain, Sweden, Australia, Greece and Finland, as well as right-of-centre governments in the United Kingdom and the United States, embarked on programmes of liberalisation from the late 1970s. Today it is obvious that greater reliance on markets, fiscal discipline and firm monetary policy are internationally mainstream.
+
+Secondly, many critics judged the reforms as though they were a textbook programme which should have delivered instant results from day one. Both premises are unreal. There were many flaws, both of design and execution, and achieving a measure of coherence took many years. And the rewards of sound economic policy, given the need for restructuring and new investment, may be lagged by as much as a decade. Only in the 1990s did Australia really begin to benefit from reforms that began before New Zealand’s.
+
+A third and related point is that the policy changes were, quite properly, the decisions of elected governments, not those of their advisers or outside advocates. The Treasury is often blamed for weaknesses in the programme, yet many times its advice was not taken; for example, it advised against going ahead with the health reforms after key features had been gutted by the Bolger cabinet. Contrary to conspiracy theories, the reform programme was well underway before the Business Roundtable even existed in its present form, and we were critical of many decisions by both Labour and National governments.
+
+A fourth and major charge of critics is that many people were hurt by the reforms, and they point to poverty and growing inequality. Here several points need to be made. These problems were apparent in 1984, as the summit communiqué noted, and without the changes they would soon have been immeasurably worse. Next it should be noted that almost all OECD countries saw large increases in unemployment as inflation was squeezed in the 1980s, in some cases to much higher peaks than New Zealand (and unemployment rates are still around 10 percent in much of Europe). On top of disinflation, New Zealand had to cut burgeoning fiscal deficits and undertake industrial restructuring on a scale not unlike that of the ex-Soviet Union countries and Eastern Europe: job losses were inevitable.
+
+What was not inevitable, however, was the failure to free up the labour market to facilitate the creation of new jobs to replace those that were shed. This made the disinflation and restructuring process unnecessarily painful. And here the blame should be sheeted home to where it truly belongs. The first disaster was the union wage push of 1985/86 which saw wage increases of nearly 20 percent in the private sector and higher in the public sector. Commenting on a similar wage push in Australia in 1981, Paul Keating said that the union officials responsible carried 100,000 unemployed dead men around their necks. The second disaster was the failure in 1986-87 of the attempt by Roger Douglas and others to push through labour market reform. The continuing rigidities in the labour market drove unemployment much higher than it needed to go, and were not dealt with until the Employment Contracts Act was passed in 1991. High unemployment is almost always a prime cause of poverty and increased inequality, and certainly was in New Zealand’s case. Blame for these outcomes rests squarely on the shoulders of those in the trade union movement and the Labour Party – including several ministers in the current government – who resisted the obvious remedies. The trends in poverty and inequality caused by unemployment were arrested if not reversed in the much freer labour market of the 1990s.
+
+A fifth myth was that the programme that was being implemented was a ‘low wage’ strategy. This is a nonsense: supporters of the reforms wanted a high wage, high employment, high productivity economy. It is true that wage rates were fairly static in the first half of the 1990s; the early dividends came mainly in the form of large numbers of unemployed people and people not in the labour force getting a job – and properly so. Productivity picked up after 1993, and as the labour market tightened wages began to rise. Those on low and middle incomes also benefited from two rounds of tax cuts and higher social spending made possible by the growing economy. The idea of a ‘low wage’ strategy, like the so-called ‘trickle down’ theory, is pure invention by those who would go to any lengths to misrepresent and discredit the reform programme.
+
+Much myth-making surrounds privatisation. The evidence clearly shows that private firms outperform government-owned enterprises, not always but on average. Most New Zealand privatisations were success stories, benefiting consumers, producing better returns on investment and sparing taxpayers endless infusions of cash to cover losses. Even Air New Zealand and Tranz Rail, which are often represented as failures, are arguable cases. Air New Zealand would not have had to be bailed out if the government had acted quickly to allow Singapore Airlines to increase its shareholding, and it can be said in Tranz Rail’s favour that it cut charges substantially in real terms, came closer to covering its cost of capital, and relieved the burden on taxpayers who had been subsidising New Zealand Rail since the 1930s.
+
+The seventh and last myth that I will deal with is the present government’s rhetoric about “the failed policies of the past”. The government came into office in 1999 declaring that the reforms had failed and that it wanted to raise New Zealand’s sustainable growth rate to get New Zealand back in the top half of the OECD income rankings. I have been pointing out that the so-called “failed policies” improved New Zealand’s economic performance substantially in practically all dimensions – inflation, employment, unemployment, public debt, as well as faster growth. The real “failed policies” are those of the government in the sense that they are not lifting the economy’s growth rate further, and indeed the government’s own projections see growth falling away in the medium term.
+
+This point is easily demonstrated. Over the 10 years 1993-2003, New Zealand’s real GDP grew by 3.6 percent a year on average. This was the seventh fastest rate of growth in the OECD. Real per capita GDP growth – a measure of living standards – averaged 2.5 percent a year, a cumulative increase of around 28 percent over the decade.
+
+By contrast, for the period 2003-08, the government’s latest projections (in its Budget Policy Statement for this year) are for average GDP growth falling back to 3.1 percent a year and average per capita growth falling to 2.2 percent.
+
+The OECD confirmed this assessment in its recent report on New Zealand. It said New Zealand’s markedly better economic performance, which has continued in recent years, has been “underpinned by the programme of reforms that began almost 20 years ago”. It then added:
+
+The slide in relative living standards vis-à-vis the OECD average seems to have been arrested, but a further acceleration – necessary if New Zealand is to move back into the top half of the OECD ranking … is not in sight.
+
+The truth is that New Zealand has been living off its seed corn for a decade. After 1993 governments gave up on the heavy lifting. Mis-steps such as the large increases in government spending from 1994 on and the move to an MMP parliament reduced the economy’s attractiveness to global investors and made it more vulnerable to the Asian downturn. Coming out of that recession, the economy should have been growing at the 5-6 percent growth rates of the mid-1990s, given the exceptionally favourable circumstances New Zealand has enjoyed, but it wasn’t. None of the government’s policy changes by themselves have been fatal but cumulatively they are taking their toll, as the official projections demonstrate.
+
+My overall assessment is that New Zealand has arrived at a consensus, albeit more grudging than in Australia, that the country’s economic reforms were necessary and overdue. Early in his term of office, the then deputy prime minister Jim Anderton gave a speech in which he said that “almost everything the New Zealand Business Roundtable has ever said has turned out wrong”. In a letter to the New Zealand Herald, a correspondent asked Mr Anderton to advise readers which of a list of policies promoted by the Business Roundtable were wrong in his opinion and would be reversed. The list was as follows:
+
+The relaxation of restrictions on shop trading hours; the abolition of compulsory trade union membership; the sale of beer and wine by supermarkets; the introduction of competition in the transport, telecommunications, postal and disaster insurance markets; taxi deregulation; the removal of import licensing and tariff reductions, reforms of producer boards; the removal of farm subsidies; the revision of the Companies Act; corporatisation and/or privatisation of government telecommunications, postal, forestry and energy businesses, and its interests in ports and airports; policies to raise the performance of the public sector; the removal of exchange controls and the adoption of a floating currency; the adoption of price stability as the goal of monetary policy and independent implementation of monetary policy by the Reserve Bank; the reduction of government debt; the introduction of GST; enhanced fiscal responsibility and financial management requirements at central and local government levels respectively; self-managing schools; and raising the age of eligibility for New Zealand Superannuation from 60 years.
+
+Strangely enough, Mr Anderton never replied, and at the last election what remained of his Alliance Party got less than 1 percent of the vote. Clearly, New Zealand has moved a long way from the early 1980s when most of our political parties espoused Alliance policies. Despite its rhetoric, the government has not tampered much with the key pillars of reform – non-inflationary monetary policy, the Fiscal Responsibility Act, the open economy and a flexible labour market – though the last is under threat. What this indicates is that it knows full well that the reforms have on the whole been a success story and that turning them back would be hugely unpopular. Imagine trying to reverse the freeing-up of shop trading hours – a move that provoked a union protest outside my office – today.
+
+But while there is no strong desire in New Zealand to go backwards, for a full decade now there has been none to go forwards either. There is abundant evidence that smaller and better government and greater economic freedom – the path New Zealand was formerly on – is today’s winning economic formula. Australia has done more in the last decade and is faring better as a result; it is likely to receive a further boost from a free trade agreement with the United States. However, Hugh Morgan, president of the Business Council of Australia, made the point to a Business Roundtable meeting last week that “In both Australia and New Zealand the passion for moving forward with a reform agenda seems at the moment to be extinguished, or at least quiescent.”
+
+In that state, we sell our futures short. As Paul Keating recently said:
+
+We cannot live only by the economic changes of the 1980s and ‘90s. We will run out of puff unless the underlying components to productivity are understood and improved.
+
+New Zealand’s productivity levels still lag those of leading countries by perhaps 25-40 percent. State-dominated parts of the economy such as roading, water, electricity, education, health and welfare remain dysfunctional. Regulation is becoming ever more intrusive. The numbers of people on benefits are far too high for our economic and social health – the Maori unemployment rate, for example, is an unnecessary 10 percent. An economy that is not going forwards can easily start to slide backwards. Under the stimulus of the Kennett government’s reforms, which were modelled on those of New Zealand, the state of Victoria outshone for a period the rest of Australia. But as the Australian Financial Review noted recently, “the southern state’s economic miracle has fizzled out and its prospects are flagging after four years of lacklustre Labor government.”
+
+The truth is that we set up the economic conditions after 2010 today. In its report two months ago, the OECD said that more needs to be done to strengthen the economic fundamentals that brought New Zealand so much success. Last year in Australia, media, business organisations and others were reflecting on 20 years of economic reform and pressing for more. Let’s hope that this year our media help promote a similar debate.
+
+Change is not a one-off affair. In the long run we are all dead, as the economist Keynes observed, but some of us have children. Few of us want to see them migrating permanently to enjoy brighter lights and greener pastures abroad. We should not put their inheritance at risk. For some time, attitudes towards the economy have been complacent, but that can change. We seem to have seen a recent change of mood on Treaty issues. Those of us who want to see a better, more secure and prosperous future for New Zealand must work to promote a change of mood on economic directions as well.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [New Zealand Business Roundtable](https://info.scoop.co.nz/New_Zealand_Business_Roundtable) on InfoPages.

@@ -1,0 +1,119 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2005-10-20
+source-url: https://www.scoop.co.nz/stories/ED0510/S00065/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 20 October 2005, 1:30 pm**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+Tertiary education the big winner  
+Tertiary education was the big winner in yesterday’s announcement of a new Cabinet, with the creation of a full ministerial appointment for tertiary education, elevating the previous position from that of associate to full ministerial responsibility. Deputy Prime Minister, Dr Michael Cullen, has been named as Minister of Tertiary Education, with Cabinet’s third-ranked minister, Jim Anderton, his Associate.  
+Welcoming Dr Michael Cullen and Mr Anderton into their new tertiary education roles, Association of University Staff (AUS) National President, Professor Nigel Haworth, said that such high-level appointments are clear evidence that the Government recognises the strategic importance of tertiary education, and is committed to resolving the long-standing funding and salary problems in the university sector.  
+“These appointments show that the Government as a whole, and not just individual ministers, appreciate the extent of the problems facing universities, and that Government is committed to finding constructive solutions by working with the unions and vice-chancellors,” said Professor Haworth.  
+Professor Haworth said that Dr Cullen has already shown that he has a good appreciation of the problems faced by university staff and has expressed firm views that they must be resolved as a matter of priority. “Both new Ministers have a reputation for being decisive and delivering results, and this can only be good for university staff,” he said.  
+Professor Haworth said that the Labour Party’s General Election manifesto commitment to continuing the University Tripartite Forum, coupled with the new ministerial appointments, will give university staff confidence, and shows that the industrial campaign mounted by university staff over last two years will result in political solutions to the funding and salary problems which have been highlighted.”  
+The University Tripartite Forum is expected to meet again later this month with the expectation by the unions that its initial work will inform funding decisions for the university sector in the next Budget.  
+A former Associate Minister of Education (Tertiary Education), Steve Maharey, is the new Minister of Education and Ruth Dyson, the Minister of Labour  
+Parliament is due to resume on 7 November
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week  
+1\. Lincoln settles collective agreements  
+2\. Lincoln, Waikato fees rise, more to come  
+3\. Vice-chancellors deny collusion on fees  
+4\. Rhodes Scholars for 2006 announced  
+5\. NZQA increases fees for quality audits  
+6\. Universities pay out for grievances  
+7\. Australian universities defy Government over student union fees  
+8\. US panel on higher-education strategy established  
+9\. Italy to reform employment regulations
+
+Lincoln settles collective agreements  
+The last of the universities, Lincoln, has now settled its collective employment agreements for 2005, bringing to an end one of the most protracted bargaining rounds in the history of the AUS. The settlement, comprising a 3.7 percent salary increase from 1 May with a further 1 percent from 1 October, was ratified last Friday after union members rejected an earlier offer of a straight 3.7 percent overall increase.  
+The settlement paves the way for a broader national agreement to take effect between the unions and the vice-chancellors of the seven universities. The recently negotiated umbrella agreement requires the parties to work actively and co-operatively with each other through the University Tripartite Forum to ensure that the issue of competitive and fair salaries for all staff in all universities is given a high priority in the Forum’s workplan, and to implement, as appropriate, agreed outcomes into collective agreements. The umbrella agreement only came into effect once all local university agreements were settled.  
+The salary settlements at the other New Zealand universities in this round were 4.5 percent from 1 May plus a one-off payment of $300 to union members at Auckland; 3 percent from 1 June with a further 1.5 percent from 1 October at Waikato; 2 percent from 4 July at Massey with a further 2 percent from 1 September and 0.5 percent from 1 January 2006; 4 percent from 1 May at Victoria; 2.75 percent at Canterbury from 1 May with a further 2.25 percent from 1 October; and 5 percent at Otago from 1 May.
+
+Lincoln, Waikato fees rise, more to come  
+Lincoln University will increase its 2006 tuition fees by 4.4 percent, the University of Waikato by an average of 3.42 percent, Canterbury is expected to set its 2006 fees at a Council meeting next Wednesday and Otago, Victoria and Auckland are expected to consider increases over the next two months.  
+In a strongly worded statement following its Council meeting on Tuesday this week, Lincoln Vice-Chancellor, Professor Roger Field, blamed the Government for the “reluctant but necessary” increase in domestic tuition fees. “The Government’s intransigent attitude to the eroding effect of inflation on the ability of universities to provide the level of services expected of them puts institutions in a very difficult position,” he said. “Already a number of institutions are applying to the Tertiary Education Commission to exceed the government-imposed 5 percent fee-increase maximum and seek increases of up to 10 percent.”  
+Professor Field said that, while the University is required to meet the Government’s expectation to contribute to the knowledge economy and the “national good” through teaching and research, it must also meet the expectation of students and provide them with an internationally competitive standard of education and an internationally credible qualification. “Neither can be done adequately on an income undermined by fiscal parsimony,” he said.  
+“The Government’s contribution to student-component funding will increase by 2.6 percent over the next 12 months, but with inflation in the university sector running at significantly more than 3.4 percent, any benefit is immediately lost,” Professor Field said.  
+Meanwhile, the increasing of domestic tuition fees at Waikato, for the third year running, has been described as outrageous by Waikato Student Union President, Shiju Pushpamangalam. “Waikato University has once again decided to take the easy road to penalise their students and their families who are already saddled with huge student debt to cover their deficit. Students call on the University and the Government to sort out funding issues increasing funding for tertiary institutions to avoid any such increase in future,” he said.
+
+Vice-chancellors deny collusion on fees  
+The New Zealand Vice-Chancellors’ Committee (NZVCC), in its latest newsletter, has countered recent media reports, by saying that statements that “universities throughout New Zealand are planning a hike in fees” may have given the public the impression that the institutions were acting in concert in that regard. The NZVCC says that university councils set tuition fees and there is no decision-making at a central level, adding that such activity is prohibited by law.  
+The statement goes on to say, however, that government agencies have advanced the opinion that student representatives on university councils have a conflict of interest when it comes to setting tuition fees and should, therefore, step aside for that particular agenda item. The statement adds that recent events involving student media publishing details of confidential council papers on fee-setting options have underlined the fact that a conflict of interest could exist.  
+AUS Academic Vice-President, Dr Tom Ryan, said he believed it was unhelpful for the NZVCC to attribute its own concerns over possible conflict of interest to un-named government agencies, because the issue had been thoroughly debated and well and truly resolved. “The possibility of potential conflict of interest for student and staff representation on university councils is raised periodically by university employers, usually at the time of tuition-fee setting or collective-agreement negotiation,” he said. “By making statutory provision for staff, students and community representation on university councils, government has made a conscious decision about the positive benefits of broad participation in university governance. The relevant regulatory bodies accept that student involvement in decision-making on tuition fee levels doesn’t constitute conflict of interest; it is time the NZVCC took on board this fact.”
+
+Rhodes Scholars for 2006 announced  
+Nicholas Douglas (University of Otago), Rosara Joseph (Canterbury) and Malcolm Birdling (Victoria) were named this week as the 2006 Rhodes Scholars following a recent selection meeting at Government House in Wellington.  
+Rhodes Scholarships, generally regarded as the crowning achievement for university graduates, enable recipients to undertake postgraduate study at Britain’s Oxford University, one of the world’s leading academic institutions.  
+At Oxford, Nicholas Douglas intends undertaking a Master of Global Health Science and then reading for a Doctor of Philosophy. Nicholas plans to return to this country to work as a paediatric oncologist.  
+Rosara Joseph will pursue an MPhil degree in Law, including courses in comparative human rights, evidence, justice and the penal system. She is particularly interested in the areas where law merges with issues of fundamental policy and values.  
+Malcolm Birdling will undertake a BCL degree at Oxford, studying comparative public law and human rights as well as jurisprudence and political and constitutional theory. He would like to proceed to an MPhil in public law. Malcolm intends to teach and practice public law on his return to New Zealand.  
+The scholarships are administered by the New Zealand Vice-Chancellors’ Committee.
+
+NZQA increases fees for quality audits  
+Private training institutions, government training establishments, wananga and Unitec are facing significant increases in the cost of quality audits after changes to the audit fees were approved this week by the New Zealand Qualifications Authority.  
+Acting Chief Executive Karen Sewell said that NZQA signalled a review of the fees late last year to bring them into lines with costs. “The review is now complete and the Board has approved the changes, she said.  
+Under the new regime, which will come into effect from 1 January next year, each institution will be charged an annual fee of $775 plus $10 per Equivalent Full-Time Student (EFTS).  
+All providers will be charged according to their total EFTS, with a previous cap of 2,250 EFTS being lifted.  
+Karen Sewell said that a minimum fee of $2,975 would apply for each audit, which includes nineteen hours of auditor time and three hours of operational support. Time in excess of this will be charged at the current rate of $150 per hour.
+
+Worldwatch  
+Universities pay out for grievances  
+Universities in the United Kingdom are spending millions of pounds settling legal action taken against them by staff in employment-related disputes. One hundred and fifteen institutions have revealed that they have paid out £1.2 million to settle cases and a further £250,000 to successful litigants. Vice-chancellors estimate that this is the tip of the iceberg as universities incur substantial legal costs whether they win, lose or settle cases.  
+Figures obtained under the Freedom of Information Act show that staff took out at least 481 Employment Tribunal cases against university employers in the past three years, but the true figure is likely to be higher as a number of institutions refused to comply with the request for data.  
+The figure represents forty-seven cases for every 100,000 university employees, less than the national average of 511 cases for every 100,000 in the general workforce. Of the 264 cases where the outcome was clearly reported, thirteen cases were won by the staff member, seventy-four were lost and 127 settled out of court.  
+Andy Pike, a national official at lecturers’ union Natfhe, said that 53 per cent of cases taken to the Employment Tribunals are settled “on terms favourable to the employee”.  
+From The Times Higher
+
+Australian universities defy Government over student-union fees  
+Some of Australia’s biggest universities are pushing ahead with plans to charge compulsory student union fees in 2006, despite the Federal Government’s insistence that its voluntary student unionism legislation will pass through Parliament before the end of the year.  
+Federal Education Minister Brendan Nelson has said the institutions risk incurring fines if the Voluntary Student Union legislation is enacted, as planned, by the new year. The new legislation will outlaw compulsory student-union membership.  
+Most members of the Group of Eight universities have confirmed that their students will be charged an amenities and services fee next year. The University of Sydney, the Australian National University (ANU) and the University of NSW are the latest to formally join the Universities of Melbourne and Queensland in plans to charge the compulsory levy.  
+ANU Vice-Chancellor, Ian Chubb, blamed continued uncertainty surrounding the Bill for the decision. “We think that if \[the legislation\] does pass through the Parliament this year it will be too late to implement it for next year,” he said. “There's been uncertainty in every respect, as you could imagine when a sizeable chunk of a budget is actually uncertain through many months.”  
+From The Australian
+
+US panel on higher-education strategy established  
+A panel charged with developing a national strategy in the United States for improving access, affordability, accountability and quality of higher education began its work on Monday this week. The nineteen members of the Secretary of Education’s Commission on Higher Education agreed at their inaugural meeting that the United States’ system of higher education is the best in the world, and that it could be better.  
+The Commission’s task is to develop a “comprehensive national strategy” on higher education, with four more meetings scheduled before the August 2006 deadline for completing its work.  
+While Congress will ultimately decide whether those ideas will result in legislation, Secretary of Education Margaret Spellings told panel members that she envisages an historic role for the Commission. In her opening remarks, she placed the panel’s work in the context of the Morrill Act, which created land-grant colleges, and the GI Bill, which provided scholarships to service members returning from World War II. “We have had a dearth of discussion around higher education. For the first time, we will have a conversation around the issues and look at policy levers we can pull,” she said.  
+In a media briefing, panel Chair Paul Miller responded to concerns about the composition of the panel, which is made up of academic and corporate leaders but has no student representatives. He said he had been talking with student leaders, and would “bring them to the table” when the Commission holds its series of hearings around the country.  
+From the Chronicle of Higher Education
+
+Italy to reform employment regulations  
+Italy’s Conservative Government is bulldozing through radical reforms to the system under which academics are recruited and employed. Letizia Moratti, the Education Minister, said the aim was to stamp out nepotism in assigning posts and to encourage productivity by eliminating lifelong jobs on the low rungs of the academic ladder.  
+Under the reform, only professors and associate professors will receive tenure, and universities will be able to recruit “contract professors” from Italy or abroad for specific tasks. Researchers, who have enjoyed lifelong security, will be employed for a maximum of two three-year contracts. Those who do not win a post as associate professor within that time will be out of a job.  
+The Rectors Conference, which is reported as being furious at not being consulted, has called for a “states general” assembly of all those concerned with higher education to draft new reforms. The National Association of University Teachers (Andu) condemned the reforms as the final nail in the coffin of Italy’s universities. It accused the Government of undermining democracy and called on its members to hold a five-day strike this week.  
+University rectors and Andu are angry that funding for higher education has not been increased to support the changes.  
+Times Higher
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the Association of University Staff and others. Back issues are available on the AUS website: www.aus.ac.nz . Direct enquires should be made to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

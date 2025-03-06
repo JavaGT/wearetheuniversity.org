@@ -1,0 +1,101 @@
+---
+slug: aus-tertiary-update
+title: "AUS Tertiary Update"
+date: 2004-05-13
+source-url: https://www.scoop.co.nz/stories/ED0405/S00054/aus-tertiary-update.htm
+author: association-of-university-staff
+---
+AUS Tertiary Update
+===================
+
+**Thursday, 13 May 2004, 11:11 am**  
+**Column: [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff)**
+
+![AUS WEB SITE](http://www.aus.ac.nz/pictures/logo.gif)Staff warn about lowering university degree standards  
+The Association of University Staff (AUS) has warned against dropping the legislative requirement for degrees to be taught by people mainly engaged in research, saying that such a move would threaten the quality of New Zealand academic qualifications and the international reputation of New Zealand degrees.  
+The warning comes after the Tertiary Education Commission (TEC) yesterday announced a review of the future roles of tertiary education organisations (TEOs) in New Zealand. A consultation paper, also released yesterday, provides a number of ideas the TEC considers would help TEOs align with the Government’s objectives for the tertiary education sector. It includes questioning whether all degrees should be underpinned by research and asks whether the legislative requirement that all degrees must be taught mainly by people engaged in research should be revisited.  
+Responding to TECs proposal, AUS National President Dr Bill Rosenberg said that research-informed teaching is vital for undergraduate degrees. “It is what distinguishes degrees from other tertiary qualifications,” he said. “Any suggestion that standards for degree teaching should be lowered contradicts the Government’s intention to strengthen New Zealand’s academic reputation.”  
+“The results of the recent Performance-Based Research Funding (PBRF) assessment clearly showed that quality research in this country’s education institutions was limited to universities,” said Dr Rosenberg. “Poor PBRF results from the non-university institutions which teach degrees must not be used to justify lowering standards,” he said.  
+Despite concerns about the future of degree teaching, Dr Rosenberg said the proposed review of the future roles of TEOs was welcome. “The competitive market system in education has failed, and it is increasingly clear that universities have certain roles that cannot and should not be filled by other education providers,” he said. “We agree there is a need for greater differentiation among tertiary institutions. Each has a unique role and can complement, rather than compete against, the others.”  
+“AUS believes that the special role of universities, particularly in postgraduate research, needs not only to be recognized, but also adequately funded,” said Dr Rosenberg.  
+Other issues raised in the consultation paper include a proposal that each university should have a significant proportion of its total students in research postgraduate programmes; determining where sub-degree provision should be taught; examining the role of polytechnics; asking whether colleges of education should have a closer integration with universities; and investigating the concept of “dual sector” tertiary organisations.  
+The opportunity to comment on the proposals closes on 20 August. The paper is on the TEC website: www.tec.govt.nz
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Also in Tertiary Update this week . . .  
+1\. Allegations over integrity of PBRF scores  
+2\. $40 million international education package  
+3\. CPIT under attack  
+4\. Salary offers to go to vote  
+5\. Australian students say funding fails the test  
+6\. £100m backpay as AUT agrees deal
+
+Allegations over integrity of PBRF scores  
+Controversy continues to dog the release of the TEC’s report on the Performance-Based Research Fund, this time with allegations that some TEOs may have deliberately left poorly-performing staff out of the assessment exercise.  
+In a letter to staff following the release of the results, Massey Vice-Chancellor Judith Kinnear pointed to variability among institutions in the percentage of academic staff included in the PBRF assessment. “They range,” she wrote, “from a high of 93.1 percent for Victoria University to a low 45.2 percent in the case of Canterbury.” The clear inference was that some institutions excluded PBRF-eligible staff with weak research records in the interests of boosting their quality scores. Fewer “R” ratings provide a higher overall institutional score and, with that, a higher share of funding.  
+In a written statement to Tertiary Update, the TEC has said that a number of public statements have been made which cast doubt on whether all participating organisations have complied with the rules. “Such comments not merely call into question the integrity and professionalism of those charged with administering the PBRF in TEOs, but also challenge the results of the staff eligibility audit undertaken by the Ministry of Education,” wrote the TEC. “They equally have the potential to undermine the confidence of the tertiary sector, and the wider public, in the integrity of the results of the 2003 Quality Evaluations.”  
+The TEC has said that the data used by Massey University for its analysis was not reliable for assessing PBRF compliance. It has also concluded that no evidence had been found, or brought to its attention, which suggested that there had been systematic or widespread non-compliance with the staff eligibility guidelines.  
+University of Canterbury Vice-Chancellor Professor Roy Sharp said he was disappointed that Canterbury's excellent research-quality rating in the PBRF had been called into question. The 45.2% participation figure given for Canterbury in the letter to Massey University staff was clearly wrong and based on incorrect assumptions. The correct figure for Canterbury is over 90%. Professor Sharp said it was also wrong to think that avoiding submitting portfolios for all eligible academic staff would benefit an institution. Instead those staff would have been counted as research-inactive, thus lowering the institution's quality rating.
+
+$40 million international education package  
+In the first of his pre-Budget announcements, Minister of Education Trevor Mallard has announced a $40 million package designed to bolster New Zealand’s international education image, and to attract overseas students and staff.  
+Announcing the package, Mr Mallard said it was “critically important” that New Zealand has a strong international dimension to its education system. “Exposure to overseas thinking raises education standards and international exchanges provide our own students with a much more diverse range of cultural experiences than they might otherwise get,” he said.  
+Main features of the new package include establishing up to four education counsellors to work in key markets overseas; up to 200 scholarships to be offered to top international students by 2007; awards for teachers, students, and researchers to study overseas; innovation funding to build capacity; and promotion and marketing of an “NZInc-type” brand for international education services.  
+Mr Mallard said the package represented a five-fold increase in government spending on international education and recognised the importance of international education, both socially and economically, to New Zealand.  
+The $40 million package has been welcomed by the New Zealand Vice-Chancellors’ Committee which says the package represents a shift away from a strictly commercial approach through industry to an emphasis on international diplomacy, scholarships, innovation, and promotion.  
+The Budget is due to be delivered on Thursday 27 May.
+
+CPIT under attack  
+The Christchurch Polytechnic (CPIT) has been under something of a sustained attack this week by both The Press and National Party education spokesperson Bill English. Mr English has claimed that CPIT received more than $10 million, as part of the Government’s community education funding, for enrolling 96,000 students in community education courses last year, including 18,000 in a basic computer skills course called Cool IT. He said that government funding for community education courses ballooned from 16 million in 2002 to what is expected to be a final figure of $115 million for 2003, funding he says has “just been hosed away.”  
+Mr English has also criticised the CPIT for failing to publish annual reports in the last two years, saying that the failure to provide any record of its operations or use of public money was in breach of the Education Act and “an absolute failure of accountability.”  
+In an editorial comment, The Press described there being “the whiff of something rotten down Madras Street, where the CPIT is based.” It says that after accusations that CPIT had milked the community education system with its Cool IT programme, it transpires that CPIT’s Development Manager, former Christchurch Mayor Vicky Buck, is a director of the computer software company with which CPIT is in a joint venture to provide the computer courses.  
+The Press also alleges that although CPIT’s Chief Executive has been given extended sick leave due to burn-out, “in a bizarre twist he was evidently well enough to go on a polytechnic business trip to China.”  
+CPIT Acting Chief Executive Dean Snelling has rejected any claims of impropriety, saying the CPIT had not received any money that was outside the Ministry of Education’s guidelines for community education. He said he was awaiting an Audit New Zealand report on the Cool IT course.  
+In response to criticism of the failure to provide annual reports, Mr Snelling accused Mr English of politicking. He said the 2003 annual report had been completed and was due out soon, and the 2002 report had been held up over the status of two charitable trusts.
+
+Salary offers to go to vote  
+Following discussions between AUS and university employers, several universities have amended their offers to staff in an attempt to settle new collective employment agreements. This follows the decision to defer national bargaining, reported last week.  
+Lincoln University management yesterday increased its salary offer to 3.0%, from 2.6%, effective from 1 March. Massey University has amended its general staff offer to a 3% salary increase, backdated to 1 April. The amended position is the same as that made to academic staff and removes what had been a differential offer. The University of Canterbury has advised that its salary offer of 3.5% will be backdated to 1 May if accepted.  
+Ratification meetings will be held at Auckland, Waikato, Massey, Canterbury, and Lincoln next week.  
+Victoria academic staff will also vote on their offer. Negotiations are continuing for general staff at Victoria and for both general and academic staff at Otago.
+
+Worldwatch  
+Australian students say funding fails the test  
+After months of violent protests over rising tuition fees, the Australian student movement opted for peaceful methods this week to oppose the Budget, which they say short-changes the universities.  
+The Government allocated $2.6 billion for universities over five years, including funding for 34,000 new places, but students say tertiary education had already suffered major cuts in funding.  
+The biggest protests were in Melbourne, where about 250 students marched through the city with a giant pink pig sporting John Howard's face and chanted “Good for the rich, bad for the poor.”  
+At least fifty police protected office buildings and university campuses in the city but the students remained peaceful. Protest rallies were also held in Perth, Brisbane, Adelaide, and Canberra.  
+National Union of Students Education Officer Paul Coats said the Budget was bad for students. “They haven't given the universities enough funding, so the universities have put up fees and students are paying the price. Nothing has changed that in this budget,” he said.  
+TAFE students also hit out at the Budget, saying they had been ignored and given no funding increases.  
+This would mean up to 50,000 TAFE students would miss out on a course next year, the protesters said.
+
+£100m backpay as AUT agrees deal  
+University academic staff in the United Kingdom will receive well over £100 million in backpay following the Association of University Teachers’ (AUT) vote to accept their pay offer.  
+More than 84 per cent of union members voted to accept the improved pay offer. Academic staff will have the increase backdated to August 1 2003.  
+The rise is 3.44 per cent for last year and 3 per cent for 2004. The AUT estimates this could mean up to £120 million in back pay.  
+More than 22,000 AUT members, just over half the union's membership, voted in the three-week ballot.  
+The Union said the improved offer removed the threat of losses of career earnings and protected the pay and grading link between academic and related staff. It expected workers at the bottom end of pay scales in particular to receive significant pay rises.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+AUS Tertiary Update is compiled weekly on Thursdays and distributed freely to members of the union and others. Back issues are archived on the AUS website: http://www.aus.ac.nz. Direct enquires to Marty Braithwaite, AUS Communications Officer, email: marty.braithwaite@aus.ac.nz  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Association of University Staff](https://info.scoop.co.nz/Association_of_University_Staff) on InfoPages.

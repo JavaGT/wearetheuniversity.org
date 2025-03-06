@@ -1,0 +1,80 @@
+---
+slug: prominent-surgeon-establishes-scholarship
+title: "Prominent Surgeon Establishes Scholarship"
+date: 2004-07-08
+source-url: https://www.scoop.co.nz/stories/ED0407/S00028/prominent-surgeon-establishes-scholarship.htm
+author: auckland-university
+---
+Prominent Surgeon Establishes Scholarship
+=========================================
+
+**Thursday, 8 July 2004, 2:09 pm**  
+**Press Release: [Auckland University](https://info.scoop.co.nz/Auckland_University)**
+
+8 July 2004
+
+Prominent Surgeon Establishes Scholarship for Auckland Medical Students
+
+A prominent New Zealand surgeon living in the United States is making a substantial gift to The University of Auckland Faculty of Medical and Health Sciences for scholarships to assist medical students facing financial hardship.
+
+Dr Gregory Brick - a graduate of The University of Auckland School of Medicine in 1976 and the New Zealand Orthopaedic Association Training Program in 1984 - is a Senior Orthopaedic Surgeon at the Brigham and Women's Hospital in Boston, and Assistant Professor of Orthopaedic Surgery at Harvard Medical School.
+
+The scholarship is named The Brick Family Scholarship.
+
+Dr Brick said his motivation for establishing the scholarship was personal.
+
+"When I attended medical school fees were much lower and students could pay their own way through university by a combination of Bursary or Scholarship and working during the summer vacation. Often parental financial support was not needed. Most students graduated without any substantial debt.
+
+"Today, with higher fees, it is virtually impossible for a student to pay their own way through medical school without substantial financial backing. Many students graduate with significant debt.
+
+"I am interested in providing financial support to a gifted and motivated student with limited financial resources. This will allow the recipient to focus on their studies, not have to work part time and graduate without any significant debt.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+"Having spent the past 20 years away from New Zealand, this scholarship provides me the opportunity to give something back to New Zealand medicine.
+
+Dean of Medical and Health Sciences Professor Peter Smith said he was moved by the generosity of the scholarship.
+
+"The Brick Family Scholarship will make a significant and lasting impact on the Faculty's ability to help promising medical students who are experiencing financial difficulties."
+
+The Brick Family Scholarship will be awarded annually from 2005 to a New Zealand citizen who has successfully completed their first year of study at The University of Auckland and has been admitted to the MBChB programme within the Faculty of Medical and Health Sciences. The student must be able to demonstrate financial need.
+
+The Brick Family Scholarship will support a new second year student on an annual basis while continuing to fund the previous scholarship recipients up to and including the fifth year of study. This means that by year four (2008) the scholarship will be funding four students at any one time.
+
+Background on Dr Gregory Brick
+
+After completing his MBChB at Auckland in 1976, Dr Brick undertook post-doctoral surgical training in New Zealand and the United States. In 1985, he moved to the United States where he completed fellowship training for a year in Total Joint Replacement at the Brigham and Women's Hospital in Boston, MA. He spent a further fellowship year training in Spine Surgery at Vanderbilt University Medical Center, Nashville, TN.
+
+In 1987, he was appointed Staff Orthopaedic Surgeon at Brigham and Women's Hospital, and the West Roxbury Veterans Administration Hospital, Roxbury, MA.
+
+Since 1993, Dr Brick has been Assistant Clinical Professor in Orthopaedic Surgery at Harvard Medical School.
+
+Dr Brick's research interests include the fate of allografts (tissue grafts from genetically dissimilar donors) in total hip replacements and total knee replacements. He has also pioneered a new surgical technique for the treatment of Pigmented Villonodular Synovitis - a tumour like condition affecting the knee that is particularly difficult to eradicate.
+
+Boston Magazine voted Dr Brick one of the "Best Orthopaedic Surgeons in Boston" in 2002. Castle Connolly Medical Ltd - a research and information company founded in 1992 to help consumers find top doctors and top hospitals, has listed Dr Brick as one of the United States' top doctors for the past five years including 2004.
+
+Dr. Brick and his wife, Jane, are both native New Zealanders. They have lived in the US since 1986.
+
+Others members of the Brick Family involved in the gift include his sister Hillary who graduated from The University of Auckland with a Master of Arts in Japanese, and two brothers. Martyn Brick is a graduate of Lincoln College and kiwifruit farmer, and Matthew Brick is also a graduate of The University of Auckland School of Medicineand is an Orthopaedic Surgeon.
+
+ENDS
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Auckland University](https://info.scoop.co.nz/Auckland_University) on InfoPages.

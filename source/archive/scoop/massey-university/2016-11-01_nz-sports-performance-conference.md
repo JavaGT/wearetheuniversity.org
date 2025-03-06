@@ -1,0 +1,68 @@
+---
+slug: nz-sports-performance-conference
+title: "NZ Sports Performance Conference"
+date: 2016-11-01
+source-url: https://www.scoop.co.nz/stories/CU1611/S00006/nz-sports-performance-conference.htm
+author: massey-university
+---
+NZ Sports Performance Conference
+================================
+
+**Tuesday, 1 November 2016, 12:38 pm**  
+**Press Release: [Massey University](https://info.scoop.co.nz/Massey_University)**
+
+**Tuesday, November 1, 2016**
+
+**Secrets and strategies revealed at NZ Sports Performance Conference**
+
+If you’re looking to lift your game on the sporting field, the New Zealand Sports Performance Conference being hosted in Palmerton North later this week will feature top insights from six Massey University academics with international expertise.
+
+The conference will provide usable information and interaction for coaches, administrators, managers, trainers, practitioners, researchers and athletes who aspire to address performance and pathways in sport.
+
+The strong lineup of speakers will cover the physical, mental, and emotional aspects of sport from its top-thinkers, to those who have performed at sports highest levels, from white water slalom kayaking to World Triathlon Championships, cycling to Super Rugby Franchises.
+
+Professor in Exercise Physiology Steve Stannard, from Massey’s School of Sport and Exercise, will share his sport science perspective on why the Arthur Lydiard method of training, particularly that of the long conditioning period, has been so successful.
+
+“Arthur Lydiard was arguably the most successful coach of the twentieth century. His athletes, including Sir Murray Halberg, Sir Peter Snell, Barry Magee and John Davies, won six Olympic medals in the 1960s, and his coaching protégés continued to use his methods with success for subsequent decades.
+
+“His training programs were characterised by a long ‘conditioning’ or ‘base’ phase, which set the foundation for more specific training nearer the event. Arthur Lydiard had no formal coaching education or access to sport scientists for advice. But even now with so much sport science knowledge available, athletes are barely running faster than those Lydiard coached,” Professor Stannard says.
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+Having recently returned from his fifth Olympics as the lead team psychologist for the New Zealand Olympic Team, Professor Emeritus Gary Hermansson will share his expertise on the effects pressure plays on the mind/body relationship in top-level sport.
+
+“In sport there is a constant need to ‘get an edge’, which leads to striving for advances in training, strength and conditioning, strategies and tactics, and the use of technology. This can also, at times, lead to cheating and drug taking. There is a growing awareness in sport, however, that a vastly untapped area for advancement is harnessing the mind, and more and more athletes and coaches are looking in this direction for performance improvements,” Professor Hermansson says.
+
+He says there has been a notable shift in awareness around the importance of the mind. “From a time when sport psychology was mainly seen as something associated only with addressing problems and deficiencies, it is now being recognised as also being a positive, major and significant dimension of quality performance. There has been a notable shift over recent years from it being regarded as something shameful to be engaged with, to something normal, appropriate and important to pursue.”
+
+Professor Hermansson says because New Zealand is a very successful sporting nation, there are high expectations on our athletes to succeed.
+
+“Those expectations can be either a benefit or a burden – a benefit that can generate motivation, or a burden that can generate a fear of failing and letting the nation down. Rather too often the burden side is evident in our top-level results. If you make us underdogs, with lowered expectations, we will beat anyone on our day. But make us favourites, with very high expectations, and we often fall short.
+
+A challenge we face in psychology is looking to impact that pattern, so that our athletes and coaches can manage the pressures of expectations more effectively and consistently perform to the level we know they can,” Professor Hermansson says.
+
+Other speakers include Dr Paul Macdermid, Associate Professor Andy Martin and assistant lecturer Lana McCarthy from the School of Sport and Exercise, and Associate Professor Leigh Signal from Massey’s Sleep/Wake Research Centre.
+
+The New Zealand Sports Performance Conference is being held at Palmerston North Boys’ High School on 5-7 November.
+
+  
+
+[© Scoop Media](http://www.scoop.co.nz/about/terms.html)  
+
+Advertisement - scroll to continue reading
+
+
+
+a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}
+
+### Using Scoop for work?
+
+Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive _Pro_ features.  
+  
+[Join Pro Individual](https://pro.scoop.co.nz/Individual/?from=ProIn24) [Find out more](https://pro.scoop.co.nz/using-scoop-for-work/?from=ProIn24)
+
+Find more from [Massey University](https://info.scoop.co.nz/Massey_University) on InfoPages.
