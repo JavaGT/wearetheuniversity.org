@@ -6,8 +6,6 @@ author: We Are The University
 author-slug: we-are-the-university
 ---
 
-
-
 #### Updates
 The Royal Society, who administers the Marsden Fund, has released [a statement in response to the cuts](https://www.royalsociety.org.nz/news/open-letter-on-importance-of-the-social-sciences-and-humanities/). 
 

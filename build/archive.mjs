@@ -21,9 +21,10 @@ for await (const file of archive_markdown_files) {
         const { attributes, body } = parse(markdown)
 
         // if is doesn't have a source, list the url
-        if (!attributes.source) {
-            console.error(`No source found for ${file}`)
+        if (!attributes.source && attributes['source-url']) {
             attributes.source = attributes['source-url']
+        } else if (!attributes.source) {
+            console.log(`No source for ${file}`)
         }
 
         authors.add(attributes['author-slug'])
@@ -98,7 +99,6 @@ await fsp.writeFile('./docs/archive/index.html', archive_index_content)
 
 
 
-// write index.json as an object with keys as paths and values as arrays of word indexes
 await fsp.writeFile('./docs/search_index_archive.json', JSON.stringify({
     key: Object.fromEntries(all_words.entries()),
     indexes: Object.fromEntries(post_indexes.entries().map(([k, v]) => [k, Array.from(v)]))
