@@ -2,7 +2,7 @@
 title: More cuts are coming
 slug: more-cuts-coming
 date: 2024-08-30
- university-of-auckland-all-staff-forum-29th-august-2024
+#  university-of-auckland-all-staff-forum-29th-august-2024
 author: Java Grant
 author-slug: java-grant
 ---

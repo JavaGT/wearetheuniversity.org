@@ -16,6 +16,8 @@ const authors = new Set()
 
 console.log(`Creating pages for blog posts...`)
 for await (const file of blog_markdown_files) {
+    console.log(`Processing ${file}`)
+    // continue
     try {
         const markdown = await fsp.readFile(file, 'utf-8')
         const { attributes, body } = parse(markdown)
@@ -23,7 +25,7 @@ for await (const file of blog_markdown_files) {
         // if is doesn't have a source, list the url
         if (!attributes.source) {
             console.error(`No source found for ${file}`)
-            continue
+            // continue
         }
 
         authors.add(attributes['author-slug'])
@@ -52,6 +54,8 @@ for await (const file of blog_markdown_files) {
         }
 
         post_indexes.set(new_url, post_index)
+
+        console.log(`Processing ${file} -> ${new_filepath}`)
 
         await fsp.mkdir(path.dirname(new_filepath), { recursive: true })
         await fsp.writeFile(new_filepath, content)
