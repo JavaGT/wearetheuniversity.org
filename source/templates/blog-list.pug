@@ -4,6 +4,7 @@ block content
         if (post.date && post.date.toISOString)
             - let datestring = post.date.toISOString()
             p
-                a(href=`/blog/${datestring.slice(0,4)}/${datestring.slice(5,7)}/${datestring.slice(8,10)}/${post.slug}`)=`${datestring.slice(0,4)}/${datestring.slice(5,7)}/${datestring.slice(8,10)}: ${post.title}`
+                span=`[${datestring.slice(0,4)}/${datestring.slice(5,7)}/${datestring.slice(8,10)}] `
+                a(href=`/blog/${datestring.slice(0,4)}/${datestring.slice(5,7)}/${datestring.slice(8,10)}/${post.slug}`)=`${post.title}`
         else 
             - console.log('Post missing date: ', post)
