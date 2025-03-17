@@ -2,6 +2,9 @@
 slug: 'uoa-canvas-pages'
 title: 'University of Auckland Canvas Pages'
 ---
+
+<script src="/table-of-contents.js"></script>
+
 # 2015
 - [2015 Semester Two | Discovery Course 22](https://canvas.auckland.ac.nz/courses/194)
 - [2015 Semester Two | MUS 376: Jazz Research](https://canvas.auckland.ac.nz/courses/28)
