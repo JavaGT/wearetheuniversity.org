@@ -4,7 +4,7 @@ title: Critical University Studies Reading Group
 ---
 
 ### Overview
-The Critical University Studies Reading Group meets bi-weekly to discuss readings related to the critique of higher education institutions. The group is open to both in-person and online participation.
+The Critical University Studies Reading Group meets every-other-week to discuss readings related to the critique of higher education institutions. The group run simultaneously in-person and online.
 
 ### Values
 - Community Building: A space to connect with like-minded individuals who are passionate about critically engaging with higher education.
@@ -15,7 +15,7 @@ The Critical University Studies Reading Group meets bi-weekly to discuss reading
 - Praxis-Oriented: Bridging theory and action by exploring how academic critique can inform real-world change.
 
 ### Join
-To join the Critical University Studies Reading Group, please email the organiser, currently Java ([java.grant@auckland.ac.nz](mailto:java.grant@auckland.ac.nz)), to be added to the mailing list.
+To join the Critical University Studies Reading Group, please email the organiser, currently Java ([java.grant@auckland.ac.nz](mailto:java.grant@auckland.ac.nz)), to be added to the mailing list (it helps if you add a small decription about yourself!).
  
 ### Additional
 - **Writing Groups**: Weekly writing groups are held on Mondays and Thursdays, focusing on collaborative writing and critical discussions.
