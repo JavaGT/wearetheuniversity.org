@@ -1,6 +1,6 @@
 ---
 slug: reading-groups/critical-university-studies
-title: 'Critical University Studies Reading Group'
+title: Critical University Studies Reading Group
 ---
 
 ### Overview
