@@ -1,5 +1,5 @@
 ---
-slug: 'reading-groups/critical-university-studies'
+slug: reading-groups/critical-university-studies
 title: 'Critical University Studies Reading Group'
 ---
 
