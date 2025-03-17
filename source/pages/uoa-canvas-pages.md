@@ -2,10 +2,10 @@
 slug: 'uoa-canvas-pages'
 title: 'University of Auckland Canvas Pages'
 ---
-
 - [2015 Semester Two | Discovery Course 22](https://canvas.auckland.ac.nz/courses/194)
 - [2015 Semester Two | MUS 376: Jazz Research](https://canvas.auckland.ac.nz/courses/28)
 - [2015 Semester Two | Radhini's Test Course](https://canvas.auckland.ac.nz/courses/49)
+# 2015
 - [2016 Doctoral Academic Year | ACADINT A01: Academic Integrity Course](https://canvas.auckland.ac.nz/courses/397)
 - [2016 Quarter Four | ACADINT A01: Academic Integrity Course](https://canvas.auckland.ac.nz/courses/396)
 - [2016 Quarter Four | ACADINT A01: Academic Integrity Course](https://canvas.auckland.ac.nz/courses/405)
@@ -322,6 +322,8 @@ title: 'University of Auckland Canvas Pages'
 - [2016 Summer School | ENGLISH 256/306: Tolkien and his Worlds](https://canvas.auckland.ac.nz/courses/1995)
 - [2016 Summer School | ITALIAN 106: Italian Language for Beginners 1](https://canvas.auckland.ac.nz/courses/3036)
 - [2016 Summer School | SPANISH 104G: Beginners' Spanish 1](https://canvas.auckland.ac.nz/courses/5505)
+# 2016
+# 2016
 - [2017 Semester One | ANCHIST 210: Egyptian Language 1A](https://canvas.auckland.ac.nz/courses/21555)
 - [2017 Semester One | ANTHRO 205: Primate Behaviour, Ecology and Conservation](https://canvas.auckland.ac.nz/courses/21578)
 - [2017 Semester One | ANTHRO 211: Anthropological Perspectives on Gender](https://canvas.auckland.ac.nz/courses/21756)
@@ -495,6 +497,7 @@ title: 'University of Auckland Canvas Pages'
 - [2017 Summer School | ITALIAN 106/106G: Italian Language for Beginners 1](https://canvas.auckland.ac.nz/courses/24018)
 - [2017 Summer School | STATS 201/208: Data Analysis](https://canvas.auckland.ac.nz/courses/20997)
 - [2017 Summer School | STATS 326: Applied Time Series Analysis](https://canvas.auckland.ac.nz/courses/24077)
+# 2017
 - [2018 Full Year | Canvas LMS](https://canvas.auckland.ac.nz/courses/34572)
 - [2018 Full Year | STEMonlineNZ_Mechanics3_91524](https://canvas.auckland.ac.nz/courses/40839)
 - [2018 Full Year | UoA Example Course 2018](https://canvas.auckland.ac.nz/courses/34029)
@@ -655,6 +658,7 @@ title: 'University of Auckland Canvas Pages'
 - [2018 Summer School | COMPSCI 105: Principles of Computer Science](https://canvas.auckland.ac.nz/courses/31623)
 - [2018 Summer School | COMPSCI 111/111G: An Introduction to Practical Computing](https://canvas.auckland.ac.nz/courses/31731)
 - [2018 Summer School | ITALIAN 106/106G: Italian Language for Beginners 1](https://canvas.auckland.ac.nz/courses/32442)
+# 2018
 - [2019 Full Year | 2019: STEMonlineNZ_Algebra1_91027](https://canvas.auckland.ac.nz/courses/41607)
 - [2019 Full Year | STEMonlineNZ_Mechanics3_91524](https://canvas.auckland.ac.nz/courses/41602)
 - [2019 Quarter Four | Business Communication Team Quarter 4 2019](https://canvas.auckland.ac.nz/courses/37503)
@@ -820,6 +824,7 @@ title: 'University of Auckland Canvas Pages'
 - [2019 Summer School | Canvas LMS](https://canvas.auckland.ac.nz/courses/40720)
 - [2019 Summer School | Canvas LMS](https://canvas.auckland.ac.nz/courses/40721)
 - [2019 Summer School | COMPSCI 111/111G: An Introduction to Practical Computing](https://canvas.auckland.ac.nz/courses/40681)
+# 2019
 - [2020 Full Year | STEMonlineNZ_Algebra1_91027](https://canvas.auckland.ac.nz/courses/53640)
 - [2020 Full Year | STEMonlineNZ_Mechanics3_91524](https://canvas.auckland.ac.nz/courses/53632)
 - [2020 Semester One | ANTHRO 100: Human Cultures: Introduction to Social Anthropology](https://canvas.auckland.ac.nz/courses/46296)
@@ -1008,6 +1013,7 @@ title: 'University of Auckland Canvas Pages'
 - [2020 Summer School | COMPSCI 111/111G: An Introduction to Practical Computing](https://canvas.auckland.ac.nz/courses/46384)
 - [2020 Summer School | MEDIA 213: Cinema of Aotearoa New Zealand](https://canvas.auckland.ac.nz/courses/48154)
 - [2020 Summer School | MEDIA 313: Cinema of Aotearoa New Zealand](https://canvas.auckland.ac.nz/courses/48155)
+# 2020
 - [2021 Academic Year Term | Bachelor of Laws Honours (LLB(Hons)) FAQ](https://canvas.auckland.ac.nz/courses/33081)
 - [2021 Academic Year Term | Curriculum Transformation: Law](https://canvas.auckland.ac.nz/courses/42286)
 - [2021 Academic Year Term | Employment Law Moot - Semester 1 2021](https://canvas.auckland.ac.nz/courses/69329)
@@ -1189,6 +1195,7 @@ title: 'University of Auckland Canvas Pages'
 - [2021 Summer School | LINGUIST 310: Linguistics Essays Course](https://canvas.auckland.ac.nz/courses/56540)
 - [2021 Summer School | MEDSCI 741: Medical Imaging Technology](https://canvas.auckland.ac.nz/courses/59963)
 - [2021 Summer School | MEDSCI 742: Anatomy for Medical Imaging](https://canvas.auckland.ac.nz/courses/60235)
+# 2021
 - [2022 Academic Year Term | Employment Law Moot - Semester 1 2022](https://canvas.auckland.ac.nz/courses/84091)
 - [2022 Academic Year Term | Faculty Office Training Videos](https://canvas.auckland.ac.nz/courses/84086)
 - [2022 Academic Year Term | Family Moot Semester 1](https://canvas.auckland.ac.nz/courses/84087)
@@ -1411,6 +1418,7 @@ title: 'University of Auckland Canvas Pages'
 - [2022 Summer School | Canvas LMS](https://canvas.auckland.ac.nz/courses/77413)
 - [2022 Summer School | Canvas LMS](https://canvas.auckland.ac.nz/courses/77416)
 - [2022 Summer School | COMPSCI 111/111G: An Introduction to Practical Computing](https://canvas.auckland.ac.nz/courses/71948)
+# 2022
 - [2023 Academic Year Term | 2023 Year 5 Ethics](https://canvas.auckland.ac.nz/courses/100000)
 - [2023 Academic Year Term | Academic English Hub](https://canvas.auckland.ac.nz/courses/99838)
 - [2023 Academic Year Term | Accelerate 2023](https://canvas.auckland.ac.nz/courses/99990)
@@ -1664,6 +1672,7 @@ title: 'University of Auckland Canvas Pages'
 - [2023 Summer School | Canvas LMS](https://canvas.auckland.ac.nz/courses/89915)
 - [2023 Summer School | Canvas LMS](https://canvas.auckland.ac.nz/courses/98415)
 - [2023 Summer School | Rad 4](https://canvas.auckland.ac.nz/courses/40725)
+# 2023
 - [2024 Academic Year Term | 2024 Year 5 Ethics](https://canvas.auckland.ac.nz/courses/114395)
 - [2024 Academic Year Term | 773 Child and Young Person](https://canvas.auckland.ac.nz/courses/113987)
 - [2024 Academic Year Term | Accelerate 2024](https://canvas.auckland.ac.nz/courses/115840)
@@ -2077,6 +2086,7 @@ title: 'University of Auckland Canvas Pages'
 - [2024 Summer School | INTBUS 151: Business across Borders](https://canvas.auckland.ac.nz/courses/113172)
 - [2024 Summer School | MUS 144G: Turning-points in Western Music](https://canvas.auckland.ac.nz/courses/113240)
 - [2024 Summer School | MUS 149: Rock to Reggae: Tracking Popular Music in New Zealand](https://canvas.auckland.ac.nz/courses/113218)
+# 2024
 - [2025 Academic Year Term | Business Communication for BUSINFO Cohort 4](https://canvas.auckland.ac.nz/courses/114910)
 - [2025 Academic Year Term | Business Communication for BUSMGT Cohort 19](https://canvas.auckland.ac.nz/courses/98997)
 - [2025 Academic Year Term | Business Tuakana for 2025](https://canvas.auckland.ac.nz/courses/122643)
