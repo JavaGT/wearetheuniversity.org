@@ -1,5 +1,5 @@
 ---
-slug: 'uoa-canvas-pages'
+slug: canvas-pages/uoa
 title: 'University of Auckland Canvas Pages'
 ---
 
