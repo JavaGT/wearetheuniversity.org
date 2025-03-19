@@ -43,7 +43,7 @@ async function processEMLFile(emlFilePath) {
                 .filter(([header, value]) => value)
                 .map(([header, value]) => {
                     if (header === 'date') {
-                        return [header, value.toISOString()]
+                        return [header, value.toISOString().split('T')[0]]
                     }
                     return [header, value]
                 })

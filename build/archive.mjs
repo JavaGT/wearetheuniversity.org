@@ -18,7 +18,12 @@ console.log(`Creating pages for archive posts...`)
 for await (const file of archive_markdown_files) {
     try {
         const markdown = await fsp.readFile(file, 'utf-8')
-        const { attributes, body } = parse(markdown)
+        let { attributes, body } = parse(markdown)
+        body = body
+            .replaceAll("Advertisement - scroll to continue reading", "")
+            .replaceAll("Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive Pro features.", "")
+            .replaceAll("a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}", "")
+            .replaceAll("Using Scoop for work?", "")
 
         // if is doesn't have a source, list the url
         if (!attributes.source && attributes['source-url']) {
@@ -31,6 +36,8 @@ for await (const file of archive_markdown_files) {
 
         const html = marked(body)
         const content = archive_post_template({ attributes, content: html, title: attributes.title })
+
+
         archive_posts_metadata.push(attributes)
 
         // new path is /year/month/day/slug/index.html

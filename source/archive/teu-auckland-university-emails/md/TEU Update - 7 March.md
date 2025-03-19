@@ -1,6 +1,6 @@
 ---
 subject: TEU Update - 7 March
-date: 2025-03-07T05:20:14.000Z
+date: 2025-03-07
 from: Brent Burmester <b.burmester@auckland.ac.nz>
 to: teu-academic@list.auckland.ac.nz, teu-professional-staff@list.auckland.ac.nz
 cc: Nicole Wallace <Nicole.Wallace@teu.ac.nz>, Yasmine Serhan <yasmine.serhan@teu.ac.nz>, Lucy Fowler <Lucy.Fowler@teu.ac.nz>
