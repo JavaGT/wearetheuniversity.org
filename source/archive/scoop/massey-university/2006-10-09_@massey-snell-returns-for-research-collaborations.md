@@ -1,5 +1,5 @@
 ---
-slug: @massey-snell-returns-for-research-collaborations
+slug: massey-snell-returns-for-research-collaborations
 title: "@Massey: Snell returns for research collaborations"
 date: 2006-10-09
 source-url: https://www.scoop.co.nz/stories/ED0610/S00031/massey-snell-returns-for-research-collaborations.htm
