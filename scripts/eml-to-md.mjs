@@ -48,7 +48,7 @@ async function processEMLFile(emlFilePath) {
                     return [header, value]
                 })
                 .map(([header, value]) => `${header}: ${('' + value).replace(/\n/g, ' ').replaceAll(`"`, '')}`)
-                .join('\n')}\n---\n`
+                .join('\n')}\nslug: ${slugify(parsed.subject)}\n---\n`
 
         // extract any attachments, save with name as file hash and replace the src in the body
         const attachments = parsed.attachments.filter(attachment => !attachment.contentType.includes('image'));
@@ -129,3 +129,7 @@ async function processEMLFilesInDirectory(directoryPath) {
 // Example usage
 const stickyNotesFolderPath = './source/archive/teu-auckland-university-emails/eml';
 processEMLFilesInDirectory(stickyNotesFolderPath);
+
+function slugify(subject) {
+    return subject.toLowerCase().replace(/ |–/g, '-').replace(/[^a-z0-9-]/g, '').replace(/-+/g, '-');
+}

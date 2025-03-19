@@ -5,6 +5,7 @@ from: Brent Burmester <b.burmester@auckland.ac.nz>
 to: teu-academic@list.auckland.ac.nz, teu-professional-staff@list.auckland.ac.nz
 cc: Nicole Wallace <Nicole.Wallace@teu.ac.nz>, Yasmine Serhan <yasmine.serhan@teu.ac.nz>, Lucy Fowler <Lucy.Fowler@teu.ac.nz>
 messageId: <SY0P300MB0596FFEE92674B1A9F91B270C6D52@SY0P300MB0596.AUSP300.PROD.OUTLOOK.COM>
+slug: teu-update-7-march
 ---
 Attachment: [TEU_UoA Poster_A4.pdf](eaa301a9517b84cfa96806483d67285c.pdf)
 ![](a15825355cef143606fcd2798bedfa83.png)

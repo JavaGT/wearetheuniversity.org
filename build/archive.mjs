@@ -25,7 +25,7 @@ for await (const file of archive_markdown_files) {
             .replaceAll("a.supporter:hover {background:#EC4438!important;} @media screen and (max-width: 480px) { #byline-block div.byline-block {padding-right:16px;}}", "")
             .replaceAll("Using Scoop for work?", "")
             .replaceAll("Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop. Join today with plans starting from less than $3 per week, plus gain access to exclusive Pro features.", "")
-
+            .replace(/^\(function[^\n]+/g, '')
         // if is doesn't have a source, list the url
         if (!attributes.source && attributes['source-url']) {
             attributes.source = attributes['source-url']
