@@ -35,7 +35,7 @@ async function processVTTFile(vttFilePath) {
     // Process each line
 
     // Initialize the markdown content
-    let markdownContent = `---\nslug: uoa-council-meeting\ndate: ${filename}\nsource: youtube\n---\n# Transcript\nNote: transcription and dioarization are automated and may contain errors.\n\n`;
+    let markdownContent = `---\ntitle: University of Auckland Council Meeting ${filename}\nslug: uoa-council-meeting\ndate: ${filename}\nsource: youtube\n---\n# Transcript\nNote: transcription and dioarization are automated and may contain errors.\n\n`;
     for (let i = 0; i < vttLinesFiltered.length; i++) {
         const line = vttLinesFiltered[i];
         const lineParts = line.split('\n');
