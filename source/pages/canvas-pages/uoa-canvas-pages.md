@@ -1,6 +1,6 @@
 ---
 slug: canvas-pages/uoa
-title: 'University of Auckland Canvas Pages'
+title: 'Open University of Auckland Canvas Pages'
 ---
 
 <script src="/table-of-contents.js"></script>

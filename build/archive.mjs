@@ -24,7 +24,7 @@ for await (const file of archive_markdown_files) {
         if (!attributes.source && attributes['source-url']) {
             attributes.source = attributes['source-url']
         } else if (!attributes.source) {
-            console.log(`No source for ${file}`)
+            // console.log(`No source for ${file}`)
         }
 
         authors.add(attributes['author-slug'])
@@ -39,6 +39,7 @@ for await (const file of archive_markdown_files) {
             attributes.slug
         )
         const new_filepath = path.join('./docs/archive', new_url, 'index.html')
+        // console.log(`Processing ${file} -> ${new_filepath}`)
 
         const post_index = new Set()
         // add words to post_index
@@ -58,7 +59,7 @@ for await (const file of archive_markdown_files) {
         await fsp.writeFile(new_filepath, content)
     } catch (error) {
         console.error(`Error processing ${file}: ${error.message}`)
-        break;
+        continue
     }
 }
 

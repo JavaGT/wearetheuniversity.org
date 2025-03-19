@@ -1,6 +1,6 @@
 ---
 slug: canvas-pages/aut
-title: 'AUT Canvas Pages'
+title: 'Open AUT Canvas Pages'
 ---
 
 <script src="/table-of-contents.js"></script>

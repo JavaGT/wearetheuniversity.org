@@ -1,9 +1,9 @@
 ---
 subject: TEU Update - 7 March
-date: Fri Mar 07 2025 18:20:14 GMT+1300 (New Zealand Daylight Time)
-from: "Brent Burmester" <b.burmester@auckland.ac.nz>
+date: 2025-03-07T05:20:14.000Z
+from: Brent Burmester <b.burmester@auckland.ac.nz>
 to: teu-academic@list.auckland.ac.nz, teu-professional-staff@list.auckland.ac.nz
-cc: "Nicole Wallace" <Nicole.Wallace@teu.ac.nz>, "Yasmine Serhan" <yasmine.serhan@teu.ac.nz>, "Lucy Fowler" <Lucy.Fowler@teu.ac.nz>
+cc: Nicole Wallace <Nicole.Wallace@teu.ac.nz>, Yasmine Serhan <yasmine.serhan@teu.ac.nz>, Lucy Fowler <Lucy.Fowler@teu.ac.nz>
 messageId: <SY0P300MB0596FFEE92674B1A9F91B270C6D52@SY0P300MB0596.AUSP300.PROD.OUTLOOK.COM>
 ---
 Attachment: [TEU_UoA Poster_A4.pdf](eaa301a9517b84cfa96806483d67285c.pdf)

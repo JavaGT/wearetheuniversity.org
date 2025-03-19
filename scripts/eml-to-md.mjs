@@ -41,7 +41,13 @@ async function processEMLFile(emlFilePath) {
             `---\n${['subject', 'date', 'from', 'to', 'cc', 'bcc', 'replyTo', 'inReplyTo', 'references', 'messageId', 'priority']
                 .map(header => [header, (parsed[header]?.text || parsed[header] || '')])
                 .filter(([header, value]) => value)
-                .map(([header, value]) => `${header}: ${('' + value).replace(/\n/g, ' ')}`)
+                .map(([header, value]) => {
+                    if (header === 'date') {
+                        return [header, value.toISOString()]
+                    }
+                    return [header, value]
+                })
+                .map(([header, value]) => `${header}: ${('' + value).replace(/\n/g, ' ').replaceAll(`"`, '')}`)
                 .join('\n')}\n---\n`
 
         // extract any attachments, save with name as file hash and replace the src in the body
