@@ -1,0 +1,2156 @@
+Received: from SYBPR01MB7220.ausprd01.prod.outlook.com (2603:10c6:10:153::5)
+ by SYCPR01MB4863.ausprd01.prod.outlook.com with HTTPS; Fri, 15 Dec 2023
+ 02:44:29 +0000
+Received: from SG2PR01CA0196.apcprd01.prod.exchangelabs.com
+ (2603:1096:4:189::23) by SYBPR01MB7220.ausprd01.prod.outlook.com
+ (2603:10c6:10:153::5) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7091.31; Fri, 15 Dec
+ 2023 02:44:27 +0000
+Received: from SG2PEPF000B66D0.apcprd03.prod.outlook.com
+ (2603:1096:4:189:cafe::80) by SG2PR01CA0196.outlook.office365.com
+ (2603:1096:4:189::23) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7091.29 via Frontend
+ Transport; Fri, 15 Dec 2023 02:44:26 +0000
+Authentication-Results: spf=fail (sender IP is 103.96.20.101)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=pass (signature was verified)
+ header.d=auckland.ac.nz;dmarc=pass action=none
+ header.from=auckland.ac.nz;compauth=pass reason=100
+Received-SPF: Fail (protection.outlook.com: domain of list.auckland.ac.nz does
+ not designate 103.96.20.101 as permitted sender)
+ receiver=protection.outlook.com; client-ip=103.96.20.101;
+ helo=au-smtp-inbound-delivery-1.mimecast.com;
+Received: from au-smtp-inbound-delivery-1.mimecast.com (103.96.20.101) by
+ SG2PEPF000B66D0.mail.protection.outlook.com (10.167.240.26) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7091.26 via Frontend Transport; Fri, 15 Dec 2023 02:44:26 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=auckland.ac.nz;
+	s=mimecast20200506; t=1702608265;
+	h=from:from:sender:sender:reply-to:reply-to:subject:subject:date:date:
+	 message-id:message-id:to:to:cc:mime-version:mime-version:
+	 content-type:content-type:list-id:list-help:list-owner:
+	 list-unsubscribe:list-subscribe:list-post;
+	bh=TNd652VmhnxtCmk87497yG3JYnHRBhT7OCOB8DFKj/g=;
+	b=oK4ciYZbeOnBfvfjKeGtNbIRWY/11bXKLlSZgT7dqCUu2tUsVCBeAXnRFbhSBzqcRWdyJf
+	OPTm+cb2iGjA6zPkR+rbD2L3TGA1Ft70I/G8rTSmECr+TnQrcsshM+02lWXZaCosZGBF8E
+	hUH5Lky0kqzPkKR+MbLu4w9pMQvdhgE=
+Received: from uoasmtpprd01.its.auckland.ac.nz
+ (uoasmtpprd01.its.auckland.ac.nz [130.216.125.250]) by relay.mimecast.com
+ with ESMTP with STARTTLS (version=TLSv1.3, cipher=TLS_AES_256_GCM_SHA384)
+ id au-mta-9-c5Wck2lwOUqrL8L2gQEJZA-1; Fri, 15 Dec 2023 13:44:22 +1100
+X-MC-Unique: c5Wck2lwOUqrL8L2gQEJZA-1
+Received: from sympa.auckland.ac.nz (lists.fos.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id 00E1380245F;
+	Fri, 15 Dec 2023 15:44:19 +1300 (NZDT)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz 00E1380245F
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id E67EA39E05; Fri, 15 Dec 2023 15:44:18 +1300 (NZDT)
+X-Original-To: teu-academic@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-teu-academic@sympa.auckland.ac.nz
+Received: from au-smtp-inbound-delivery-1.mimecast.com (au-smtp-inbound-delivery-1.mimecast.com [103.13.69.101])
+	by sympa.auckland.ac.nz (Postfix) with ESMTP id 1C3FC397EC
+	for <teu-academic@list.auckland.ac.nz>; Fri, 15 Dec 2023 15:44:14 +1300 (NZDT)
+Received: from AUS01-ME3-obe.outbound.protection.outlook.com
+ (mail-me3aus01lp2233.outbound.protection.outlook.com [104.47.71.233]) by
+ relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ au-mta-79-Bzv5dTL1PvOf4eAWuzvqLQ-1; Fri, 15 Dec 2023 13:44:11 +1100
+X-MC-Unique: Bzv5dTL1PvOf4eAWuzvqLQ-1
+Received: from SYBPR01MB7177.ausprd01.prod.outlook.com (2603:10c6:10:148::13)
+ by SY0PR01MB8987.ausprd01.prod.outlook.com (2603:10c6:10:220::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7091.30; Fri, 15 Dec
+ 2023 02:44:10 +0000
+Received: from SYBPR01MB7177.ausprd01.prod.outlook.com
+ ([fe80::346b:defd:7a3:d319]) by SYBPR01MB7177.ausprd01.prod.outlook.com
+ ([fe80::346b:defd:7a3:d319%7]) with mapi id 15.20.7091.029; Fri, 15 Dec 2023
+ 02:44:10 +0000
+From: Barry Hughes <b.hughes@auckland.ac.nz>
+To: "teu-academic@list.auckland.ac.nz" <teu-academic@list.auckland.ac.nz>,
+	"teu-professional-staff@list.auckland.ac.nz"
+	<teu-professional-staff@list.auckland.ac.nz>
+Thread-Topic: TEU update
+Thread-Index: AdovAHp1DloZZB+9QjmQVhPe1X6RVg==
+Date: Fri, 15 Dec 2023 02:44:10 +0000
+Message-ID: <SYBPR01MB71774E103CCFB5A6F9BE9BFABF93A@SYBPR01MB7177.ausprd01.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-ms-traffictypediagnostic: SYBPR01MB7177:EE_|SY0PR01MB8987:EE_|SG2PEPF000B66D0:EE_|SYBPR01MB7220:EE_|SYCPR01MB4863:EE_
+X-MS-Office365-Filtering-Correlation-Id: 2090dcf7-81f8-41d8-3458-08dbfd17c0d8
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0
+X-Microsoft-Antispam-Message-Info-Original: uV/zUmDjGw7tqmlP2X7K9f6vqRUM4EykqZajaTHjGQFxcYklpIAgnUySIEEFxHpjNlN9s55fKaRr2Uqk4ik9RYtPLyGNlqWrFrF2JDh2q8PyJfMJnYCa8k1JzWVqMpcM2cHW3iJ7I3fklFq3FMCWgFKhfkGeg8ZBB2wv29RyqVC9ojWHX8F7gLXY5EPzybmSg89f1KyGzBtHCP/RfJw9Snf2czvH/mkJ7b1W5dIPW+Gct2jCAPQVvIkt4kyAInwdbsmRbA1ZwA2//98lOd7dyE2HEsWBR6BX+qqfb8WW8w7K61U5xPJ+CYSDNGtBIfa7pdFFZzUYhOq1sLMJhPVODsEWswmBJu31Zm3oaRYVeGDfzALZ485FnUAZOEeFMmcWr9S9blua0WC1q6Fg6xjZeZvH+m7FNmpFA2GKG8tYghcSDlAFOl9FZTl8FdV4aVylgJcpI3b+aImmGNOt/UU0B/QBE9nqvXsrBSrRkKlIsRIjoVtauasaPizQAqu2CpB1TBP/pGqrbXh+2JYYLJivdSSgT+GlNNBk8w0wriapglmI1bBUR79yYp1mCtabfZFUqsyKiqW5ac6MzSt6OMg1thiU8Dz7uFOWQeC48oWXEfJk0WLbFU2GGsQ20O26xpPqkWYn8gYPo3BukAJFjT8moT3Zv1sU/r8eMwd2tiN02t1V+LVmlqGv7PtT1TRE6UAofspBbSOsOu/GtfMNiXrOkEGJV8WSVeed5akxPvOEqRU=
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SYBPR01MB7177.ausprd01.prod.outlook.com;PTR:;CAT:NONE;SFS:;DIR:INT
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY0PR01MB8987
+Subject: [TEU-academic] ] TEU update
+Reply-To: Barry Hughes <b.hughes@auckland.ac.nz>
+X-Loop: teu-academic@list.auckland.ac.nz
+X-Sequence: 1385
+Errors-to: teu-academic-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: teu-academic-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <teu-academic.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/teu-academic>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:teu-academic-request@list.auckland.ac.nz>
+List-Post: <mailto:teu-academic@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20teu-academic>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20teu-academic>
+X-Mimecast-Spam-Score: 0
+X-Mimecast-Originator: auckland.ac.nz
+Content-Language: en-US
+Content-Type: multipart/related;
+	boundary="_004_SYBPR01MB71774E103CCFB5A6F9BE9BFABF93ASYBPR01MB7177ausp_";
+	type="multipart/alternative"
+Return-Path: teu-academic-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 15 Dec 2023 02:44:26.4526
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 2090dcf7-81f8-41d8-3458-08dbfd17c0d8
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: d1b36e95-0d50-42e9-958f-b63fa906beaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SG2PEPF000B66D0.apcprd03.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: SG2PEPF000B66D0.apcprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 627d2a3b-29e5-4dc7-a45e-08dbfd17b729
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report: CIP:103.96.20.101;CTRY:AU;LANG:en;SCL:-1;SRV:;IPV:CAL;SFV:NSPM;H:au-smtp-inbound-delivery-1.mimecast.com;PTR:au-smtp-delivery-1.mimecast.com;CAT:NONE;SFS:;DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 15 Dec 2023 02:44:26.0933
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 2090dcf7-81f8-41d8-3458-08dbfd17c0d8
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-AuthSource: SG2PEPF000B66D0.apcprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SYBPR01MB7220
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.3187972
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7091.030
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?windows-1257?Q?q6pcL+N/B4Vte2pbfqIPto1oAxot8OrWETNHxA0judJBCpSPjs5YsgFo?=
+ =?windows-1257?Q?F1z7Ku8ac4poIzyn5dCXMBzaU9XRqJa/q55i71AmbAUtfGjBSvbDZOiS?=
+ =?windows-1257?Q?BaPLa00WUjrW/hzCyK6X4/Ym+KtvXt1U8xuqB5zUoaorbSdInNK+TCk9?=
+ =?windows-1257?Q?uiQ8ZA4T7olJ0cazLxCjtxtfeAWxCtL/AbcODXlDLNZ3/YlhzObrpx/u?=
+ =?windows-1257?Q?19lQAQinJvqmBr8ZbbcHDar3CIJtZBBN5Fr9Jn/j5bwWFLZ0WMwTQqvi?=
+ =?windows-1257?Q?TAWopq7UdolxUTPvFdLvGitSPh9LEkTFe7hsZ3ost4daaPHVSH3tTFtI?=
+ =?windows-1257?Q?xSt1EQCq7eRlRRw+uB08IpitDPwsixV9dCXD5cJljYWIro5G3raeFFSj?=
+ =?windows-1257?Q?zjwoNXLT9rIMgswaCLt6v8ln+sJ0R+lNM9Zs8gXwO0w4wqU7cwfMHY0D?=
+ =?windows-1257?Q?9im28TcXUSdtVT6VGnz67q0kFJCEdXA84PT8VSQPRUsodOCBK8983sw5?=
+ =?windows-1257?Q?8aFMSntc28M43TntDqnQFEs4rqVVp5EDw3wA42HK0Avi0RW/reaPbufG?=
+ =?windows-1257?Q?v2kYHzAaPWSrLQt+nfNS1MNEg1Ao2mh+iag19tutJAGZ6JShbN0ghMR6?=
+ =?windows-1257?Q?NzWT1q4v7eJwRhFr+OgVjEv/lS7aWuL7XMmrDqtbnN+qRC873B8z2J6N?=
+ =?windows-1257?Q?VhdIFa9oAo7Wgpc/LQFb7tXrzmech4Fpe1CUQ1EbTfFtLZlpo+7B4VZf?=
+ =?windows-1257?Q?Xo1WxQVNLxFvkTmKaXr5/b0rQbNSpTWm54/VY1Ol7VjvpbzTcDsZVG0D?=
+ =?windows-1257?Q?AMcsoLbTunperL77+9H/1wX8hTttjto3r68SwfyReudHzcDqnSp4hvyp?=
+ =?windows-1257?Q?nVEMh9M6Tk6aqGjdqpvxuPxc3+GLQIqgT7zYtYBe74ogBWFnMl7kSRh7?=
+ =?windows-1257?Q?2wIdsmPHd2mMxY7zuzZFbfXs1CI3dK+AEL+iQYJ5LzNw7cvJwTgpL5WL?=
+ =?windows-1257?Q?aQAmK+bj9izCqPijFmzgfC1qOzl1NrDK1uUd92GVVJ4sLTR7eaduV9ZI?=
+ =?windows-1257?Q?l+gCLka9ct+YfIwZ0t2m9GqF2pbnAWWRNf3h7ziMPZfgtb2Fi3+I50gj?=
+ =?windows-1257?Q?RCMJjvIc6MIxb0fnJfpj8oMKfcZe9KaUM9aLSPY3+wWI64y1XqSN42PZ?=
+ =?windows-1257?Q?yB63L4VwvcucMUUdUECtooxFeKwscy/OZ6DriG7uUBIs43nyIRx0yDkn?=
+ =?windows-1257?Q?bq1hZPLpl9b+l1pE5TYNZyVE79ReoPhWcJ73WdLwoO5WpJ8vYDMov3Tx?=
+ =?windows-1257?Q?wNdY6N/izGwg3CYT6QtP7mNqL8uYDJ6T9WTHdLT9Tdtxd2CFTapI8Nol?=
+ =?windows-1257?Q?6hP8YS5OzDQ6+GwBuw6HHGC2utInPq1M/cMjFazSIcLAh/1FfIiS/Ku9?=
+ =?windows-1257?Q?SA0CVGccqZp5VRMMEdFwBtD+eq45fhB82nCkjA+sJ/ZJX/UooqzD3XuB?=
+ =?windows-1257?Q?GaInH6tnBaEhUwzTCdgdxR8tL+wnFjLlzx5xJL/t8pk9WfMuVNi65Eq1?=
+ =?windows-1257?Q?QIIm6dtrm1K1AdEFLRxJI0c9J9B9WK40ojrary124dZzH9xejU/AuGcV?=
+ =?windows-1257?Q?Wy5/bqQTEEmBz6HQC1Z+Uqa6?=
+MIME-Version: 1.0
+
+--_004_SYBPR01MB71774E103CCFB5A6F9BE9BFABF93ASYBPR01MB7177ausp_
+Content-Type: multipart/alternative;
+	boundary="_000_SYBPR01MB71774E103CCFB5A6F9BE9BFABF93ASYBPR01MB7177ausp_"
+
+--_000_SYBPR01MB71774E103CCFB5A6F9BE9BFABF93ASYBPR01MB7177ausp_
+Content-Type: text/plain; charset=WINDOWS-1257
+Content-Transfer-Encoding: quoted-printable
+
+[cid:image001.png@01DA2F6D.8AFDF1D0]
+
+
+T=E7n=E2 koutou katoa
+
+
+End of year celebration. It was great to see old members, new members, coll=
+eagues, comrades at our end-of-year social gathering on Tuesday.  We have h=
+ad a long year, and it was great to see friendly faces with happy voices, s=
+enses of humour, intelligence and wit. Noel spoke about the year that was a=
+nd the year ahead, and Jennifer and Paul ran an excellent quiz (with a unio=
+n theme). I=92ve already forgotten who won.
+
+
+
+Our take on 2023. We love what we do. We are all professionals with a stron=
+g commitment to public higher education. We value our academic freedom and =
+insist on being able to exercise it.  No one works harder than academic and=
+ professional staff to ensure that students succeed and that their degrees =
+and diplomas are earned and valued.
+
+  *   This year may have been long and challenging =96what with bargaining =
+and COVID; the sight of most other universities in Aotearoa resorting to cu=
+tting staff jobs in the face of financial difficulty; the rise of ChatGPT e=
+t al and the commensurate decline of academic integrity; the election of a =
+coalition government which has been eager to show who is boss =85
+  *   TEU members have made valuable contributions to larger university mat=
+ters, on issues as diverse as the Curriculum Transformation project, Health=
+ and Safety, workload, and academic standards.
+  *   But we have to sustain our kaupapa: working to grow local union membe=
+rship, delegate networks, and activism; standing with those in precarious p=
+ositions; empathising with those struggling with illness or nonwork issues;=
+ supporting members in dealings with managers and HR; protecting those whos=
+e workload is seen to have few limits; etc...
+
+  *   Few things worry our senior management and HR more than a self-organi=
+sed union workforce that is growing in number, in determination, and in str=
+ength.  Our branch grew to over 1500 members in 2023, and growing further m=
+ust be a high priority in 2024. We will be here long after they have gone. =
+Please continue to have discussions in your workplace that encourage non-me=
+mbers to see the material and social benefits that TEU membership offers.
+
+  *   This was a year during which our employer oversaw regression rather t=
+han progress in some important areas. We reported last week on The 2023 Gen=
+der pay gap - The University of Auckland<https://www.auckland.ac.nz/en/abou=
+t-us/about-the-university/equity-at-the-university/equity-information-for-s=
+taff/gender-equity/gender-pay-gap.html> which shows a GPG of 10.8% --more t=
+han two percentage points worse than the national average. But we should no=
+t forget the 2023 Employee Experience Survey<https://www.staff.auckland.ac.=
+nz/en/human-resources/university-culture-values/staff-surveys.html>. Inter =
+alia, the survey revealed that only 32% of academic staff and 57% of profes=
+sional staff (47% combined) think their workload is reasonable. What=92s mo=
+re, only 38% see any evidence of steps to ensure that workloads become more=
+ manageable.  More staff are not satisfied with their advancement opportuni=
+ties than are satisfied. Nonbinary staff, rainbow staff and staff with disa=
+bilities each report even more negative experiences. Despite the active ind=
+igenisation of the university, workload satisfaction has declined for M=E2o=
+ri staff to 33% and their belief in the purpose and aspirations of the univ=
+ersity are down 12 percentage points. Less than half of Pacific staff feel =
+their workload is reasonable, less than half feel energised to =93go the ex=
+tra mile,=94 and only 36% are satisfied with their advancement opportunitie=
+s.  What=92s more, we now work in an environment in which fewer than half o=
+f us (49%) feel that we can respectfully voice our opinions =93without fear=
+ of any negative impact=94. And it is much worse in some faculties.
+
+  *   Can the TEU contribute to turning some of these sorry statistics arou=
+nd? We believe so. But we need to be invited to engage, or our membership n=
+eeds to demand a place at the table.  Our employer prefers to marginalise a=
+nd ignore us.  But increased strength --in number and voice-- will make thi=
+s harder to do.
+
+
+Branch Planning Day. Yesterday we had a branch planning day. We were very h=
+appy to welcome a number of delegates and supportive members from outside t=
+he branch committee.  We had a productive day, discussing the items noted a=
+bove, as well as others (bargaining will resume in 2024). We co-opted two n=
+ew members to the Branch committee: Koro Tawa and Brent Burmester, both fro=
+m the Business School. We are very happy to have them join us. The branch a=
+nd I also agreed that I would return to the co-Presidency (Academic) until =
+the next AGM.
+
+The Siouxsie Wiles case is not just about Siouxsie Wiles.  Earlier this wee=
+k, an open letter, initiated by our colleagues Nicola Gaston, Virginia Brau=
+n, Cate Macinnis-Ng, and Helen Petousis-Harris and co-signed by 120 members=
+ of staff urged of the Council of the University of Auckland to provide imm=
+ediate assurances regarding the safety of our colleagues engaged in their w=
+ork for the university. (More details and the letter itself: More than 100 =
+University of Auckland academics sign letter complaining of unsafe workplac=
+e - NZ Herald<https://www.nzherald.co.nz/nz/more-than-100-university-of-auc=
+kland-academics-sign-letter-complaining-of-unsafe-workplace/WKMJEFQSHFD3BC4=
+BGXOI5XFYXY/>). As of this morning, Council has not responded =96or even ac=
+knowledged receipt of the letter.
+
+Medical Academic collective members. The vote to ratify the remuneration va=
+riation to the MACA was passed last week. Members on this collective should=
+ have received their updated salary and back pay in their pay this week. If=
+ members under this collective have any issues with this pay, please contac=
+t payroll/ HR in the first instance. Any further issues or questions, pleas=
+e contact nicole.wallace@teu.ac.nz<mailto:nicole.wallace@teu.ac.nz>.
+
+Results of the 2023 Council, Senate, and committee elections. Congratulatio=
+ns to all the successful candidates. And commiserations to those who were n=
+ot elected. There is next time. And getting involved in the same agenda via=
+ the TEU might even have more impact.  Results-of-the-2023-council-senate-c=
+ommittee-elections.html<https://www.staff.auckland.ac.nz/en/news-events-and=
+-notices/notices/notices-2023/quarter-4/results-of-the-2023-council-senate-=
+committee-elections.html>
+
+Job cuts confirmed at Massey U. Massey University has gone ahead with a res=
+tructure that will cut jobs and courses. Major science cuts to go ahead at =
+Massey University | Stuff.co.nz<https://www.stuff.co.nz/national/education/=
+301027250/major-science-cuts-to-go-ahead-at-massey-university>
+
+TEU member Makarena Dudley (Te Rarawa, Te Aup=F4uri, Ng=E2ti Kahu) (Psychol=
+ogy and Centre for Brain Research) says the M=E2ori assessment of neuropsyc=
+hological abilities (or Mana), available this week, will be integrated into=
+ Te Whatu Ora Health NZ for uptake by clinicians diagnosing mate wareware o=
+r dementia in M=E2ori. Researchers launch tool to detect early dementia in =
+M=E2ori (msn.com)<https://www.msn.com/en-nz/health/other/auckland-universit=
+y-researchers-launch-tool-to-detect-early-dementia-in-m%C4%81ori/ar-AA1lhWe=
+C?ocid=3Dentnewsntp&cvid=3D7a706fae5379449ba9636994330117d2&ei=3D31>
+
+=93The new Prime Minister must step up, and stop this hubristic posturing=
+=94 Dame Anne Salmond (Anthropology) on the Treaty debate: M=E2ori and P=E2=
+keh=E2 think differently (newsroom.co.nz)<https://newsroom.co.nz/2023/12/15=
+/anne-salmond-on-the-treaty-debate-maori-and-pakeha-think-differently/>
+
+Social services funded by private investors? What could possibly go wrong? =
+TEU member Tom Baker (Geography): The government hopes private investors wi=
+ll fund social services =96 the evidence isn't so optimistic (theconversati=
+on.com)<https://theconversation.com/the-government-hopes-private-investors-=
+will-fund-social-services-the-evidence-isnt-so-optimistic-218512>
+
+=93This week a group of people in Wellington will begin the process of cutt=
+ing off =93Fair Pay=94 agreements in favour of pay rates being set by the =
+=91market=92=94 but =93The people promoting this do not have their pay set =
+by =91the market=92 but by an administrative process which pays them withou=
+t regard to affordability or performance.=94 Rob Campbell (Chancellor, AUT)=
+ on The case for strong and stable pay for all =96 not just for politicians=
+ (newsroom.co.nz)<https://newsroom.co.nz/2023/12/11/the-case-for-strong-and=
+-stable-pay-and-conditions/>
+
+Academic staff, Israel-Palestine, and academic freedom. An open letter is c=
+irculating online within New Zealand universities on the impact of the Gaza=
+-Israel horrors on academic freedom here and elsewhere.  The letter Open Le=
+tter on Academic Freedom - Google Docs<https://docs.google.com/document/d/1=
+pUJDs4B9l34NZr_orDLk3cHrfMRawM_aLrulDSWmg70/edit> is focussed primarily on =
+the defence of academic freedom and states, in part, that such freedom =93i=
+s an internationally recognised and legislative entitlement needed for teac=
+hing, learning, and research, particularly on contentious and contested top=
+ics. We stand together in condemning organisations that have sought to unde=
+rmine this freedom in relation to the current situation in Israel and Pales=
+tine and we express our full solidarity with and support for educators and =
+researchers who have faced attempts to inhibit and limit their scholarship =
+on this topic.=94 Members are invited to read and add signatures if they wi=
+sh.
+=93Some researchers publish a new paper every five days, on average. Data t=
+rackers suspect not all their manuscripts were produced through honest labo=
+ur.=94 Surge in number of =91extremely productive=92 authors concerns scien=
+tists (nature.com)<https://www.nature.com/articles/d41586-023-03865-y>
+
+=93The life of an academic lacks natural narrative momentum=94. Therefore? =
+How the Movie Professor Got Cancelled | The New Yorker<https://www.newyorke=
+r.com/culture/cultural-comment/how-the-movie-professor-got-cancelled>
+
+This will be the last Update of the year. We wish all our colleagues a rest=
+orative holiday season and a beautiful summer break. We are grateful to tho=
+se who have contributed to the Update by sharing information, insights and =
+links; alerting us to issues, editing, reacting, and sharing with non-membe=
+rs; thanking us for giving their views some publicity, and for acting as a =
+lightning rod for the complaints from HR. We hope that the Updates have ser=
+ved their primary purpose of keeping members informed and engaged. We alway=
+s welcome feedback and suggestions for improving our communications for nex=
+t year.
+
+Reminders going into the summer break.
+
+  *   Professional staff. If you are starting a new role at the university =
+between 1 November 2023 and 1 February 2024, or are offered an out-of-cycle=
+ pay increase during this time, please contact Nicole Wallace (nicole.walla=
+ce@teu.ac.nz<mailto:nicole.wallace@teu.ac.nz>) with a copy of your letter o=
+f offer or memorandum and get advice before you sign it. If you have alread=
+y signed such a document effective from 1 November on, you can still seek a=
+dvice. Please send Nicole a copy. You can also see her during the office ho=
+urs Friday 10am-2pm (see information below).
+  *   Pay Equity. The TEU pay equity claim for administrative and library s=
+taff is active. This claim has the potential to affect as many as 900 UoA s=
+taff members. We are now moving into a new phase of the claim, where member=
+ involvement is very important. If you=92ve received an email from TEU admi=
+nistrator Lucy Fowler about your role, make sure you=92ve replied! If you a=
+re interested in more information, email Nicole or Lucy:  nicole.wallace@te=
+u.ac.nz<mailto:nicole.wallace@teu.ac.nz> or lucy.fowler@teu.ac.nz<mailto:lu=
+cy.fowler@teu.ac.nz>.
+  *   TEU networks in 2024. The TEU has a number of designated member netwo=
+rks: General or Professional Staff; Academic Staff; U35 Staff; Rainbow; Tia=
+kina Te Taiao (Climate); Women's; Te Uep=FB (M=E2ori staff); Tangata Pasifi=
+ka; Disabilities.  The union would like to invite you to register for the n=
+etwork/s that you would like to be part of for 2024. (see last week=92s Upd=
+ate for details).  Please use this link to register<https://www.cognitoform=
+s.com/NZTEU/_2024Networks>.
+  *   TEU delegate education in 2024. The TEU has also been refreshing and =
+updating member education opportunities and as part of this programme of wo=
+rk we are trialling an alternative way of registering your interest in atte=
+nding delegate training. These courses are open to all members who are acti=
+ve in branch committees, campaigns, activities/events, or elected to a nati=
+onal committee. You are entitled to paid time off work to attend these cour=
+ses. (see last week=92s Update for details.) Level 1: To register please cl=
+ick link here<https://www.cognitoforms.com/NZTEU/DelegateTrainingL1Effectiv=
+eDelegatesAucklandThursday7March2024>. Level 2: To register please click he=
+re<https://www.cognitoforms.com/NZTEU/DelegateTrainingL2DelegatesBuildingAn=
+OrganisedWorkplaceAucklandThursday15February2024>.
+
+fraternally
+b
+
+Barry Hughes, PhD
+302.363 Science Centre
+School of Psychology
+University of Auckland / Waipapa Taumata Rau
+
+
+
+--_000_SYBPR01MB71774E103CCFB5A6F9BE9BFABF93ASYBPR01MB7177ausp_
+Content-Type: text/html; charset=WINDOWS-1257
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:none;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParag=
+raphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListPar=
+agraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagra=
+phCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+p.vcard, li.vcard, div.vcard
+	{mso-style-name:vcard;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ligatures:standardcontextual;}
+p.Default, li.Default, div.Default
+	{mso-style-name:Default;
+	mso-style-priority:99;
+	margin:0cm;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Verdana",sans-serif;
+	color:black;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+span.xmark6ar7rors6
+	{mso-style-name:x_mark6ar7rors6;}
+span.ui-provider
+	{mso-style-name:ui-provider;}
+span.s16
+	{mso-style-name:s16;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+span.s4
+	{mso-style-name:s4;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:none;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:18045776;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-713020406 336134145 336134147 336134149 336134145 3=
+36134147 336134149 336134145 336134147 336134149;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:33241555;
+	mso-list-type:hybrid;
+	mso-list-template-ids:441113830 336134145 336134147 336134149 336134145 33=
+6134147 336134149 336134145 336134147 336134149;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:608437607;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1101395560 336134145 336134147 336134149 336134145 =
+336134147 336134149 336134145 336134147 336134149;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:1546673547;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-331965754 336134145 336134147 336134149 336134145 3=
+36134147 336134149 336134145 336134147 336134149;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l4
+	{mso-list-id:1553928054;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-937898476 336134145 336134147 336134149 336134145 3=
+36134147 336134149 336134145 336134147 336134149;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-NZ" link=3D"#0563C1" vlink=3D"#954F72" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"background:white"><a name=3D"_Hlk151731672"=
+></a><span style=3D"mso-bookmark:_Hlk151731672"><span lang=3D"PT-BR" style=
+=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:bl=
+ack"><img width=3D"140" height=3D"136" style=3D"width:1.4583in;height:1.416=
+6in" id=3D"_x0000_i1025" src=3D"cid:image001.png@01DA2F6D.8AFDF1D0"></span>=
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"color:black"><o:p>&nbsp;</o:p></span></spa=
+n></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"color:#242424;background:white"><o:p>&nbsp=
+;</o:p></span></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><a name=3D"_Hlk150521522"><span style=3D"color:black">T</=
+span></a></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"m=
+so-bookmark:_Hlk150521522"><span style=3D"color:black">=E7n=E2
+ koutou katoa&nbsp;<o:p></o:p></span></span></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D=
+"color:black"><o:p>&nbsp;</o:p></span></span></span></p>
+<p class=3D"vcard" style=3D"margin:0cm;vertical-align:baseline"><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+<b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-ser=
+if">End of year celebration.
+</span></b></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span s=
+tyle=3D"mso-bookmark:_Hlk150521522"><span style=3D"font-size:11.0pt;font-fa=
+mily:&quot;Calibri&quot;,sans-serif">It was great to see old members, new m=
+embers, colleagues, comrades at our end-of-year
+ social gathering on Tuesday.&nbsp; We have had a long year, and it was gre=
+at to see friendly faces with happy voices, senses of humour, intelligence =
+and wit. Noel spoke about the year that was and the year ahead, and Jennife=
+r and Paul ran an excellent quiz (with
+ a union theme). I=92ve already forgotten who won. <o:p></o:p></span></span=
+></span></p>
+<p class=3D"vcard" style=3D"margin:0cm;vertical-align:baseline"><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+<span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"=
+><o:p>&nbsp;</o:p></span></span></span></p>
+<p class=3D"vcard" style=3D"margin:0cm;vertical-align:baseline"><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+<b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-ser=
+if">Our take on 2023.</span></b></span></span><span style=3D"mso-bookmark:_=
+Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"fon=
+t-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+ We love what we do. We are all professionals with a strong commitment to p=
+ublic higher education. We value our academic freedom and insist on being a=
+ble to exercise it.&nbsp; No one works harder than academic and professiona=
+l staff to ensure that students succeed
+ and that their degrees and diplomas are earned and valued. <o:p></o:p></sp=
+an></span></span></p>
+<ul style=3D"margin-top:0cm" type=3D"disc">
+<li class=3D"vcard" style=3D"margin-top:0cm;margin-bottom:0cm;mso-list:l0 l=
+evel1 lfo1;vertical-align:baseline">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quo=
+t;,sans-serif">This year may have been long and challenging</span></b></spa=
+n></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-book=
+mark:_Hlk150521522"><span style=3D"font-size:11.0pt;font-family:&quot;Calib=
+ri&quot;,sans-serif">
+ =96what with bargaining and COVID; the sight of most other universities in=
+ Aotearoa resorting to cutting staff jobs in the face of financial difficul=
+ty; the rise of ChatGPT et al and the commensurate decline of academic inte=
+grity; the election of a coalition
+ government which has been eager to show who is boss =85 <o:p></o:p></span>=
+</span></span></li><li class=3D"vcard" style=3D"margin-top:0cm;margin-botto=
+m:0cm;mso-list:l0 level1 lfo1;vertical-align:baseline">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quo=
+t;,sans-serif">TEU members have made valuable contributions</span></b></spa=
+n></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-book=
+mark:_Hlk150521522"><span style=3D"font-size:11.0pt;font-family:&quot;Calib=
+ri&quot;,sans-serif">
+ to larger university matters, on issues as diverse as the Curriculum Trans=
+formation project, Health and Safety, workload, and academic standards.
+<o:p></o:p></span></span></span></li><li class=3D"vcard" style=3D"margin-to=
+p:0cm;margin-bottom:0cm;mso-list:l0 level1 lfo1;vertical-align:baseline">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quo=
+t;,sans-serif">But we have to sustain our kaupapa</span></b></span></span><=
+span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk1=
+50521522"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,s=
+ans-serif">:
+ working to grow local union membership, delegate networks, and activism; s=
+tanding with those in precarious positions; empathising with those struggli=
+ng with illness or nonwork issues; supporting members in dealings with mana=
+gers and HR; protecting those whose
+ workload is seen to have few limits; etc...&nbsp; <o:p></o:p></span></span=
+></span></li></ul>
+<ul style=3D"margin-top:0cm" type=3D"disc">
+<li class=3D"vcard" style=3D"margin-top:0cm;margin-bottom:0cm;mso-list:l4 l=
+evel1 lfo2;vertical-align:baseline">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quo=
+t;,sans-serif">Few things worry our senior management and HR more than a se=
+lf-organised union workforce</span></b></span></span><span style=3D"mso-boo=
+kmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+ that is growing in number, in determination, and in strength.&nbsp; Our br=
+anch grew to over 1500 members in 2023, and growing further must be a high =
+priority in 2024. We will be here long after they have gone. Please continu=
+e to have discussions in your workplace
+ that encourage non-members to see the material and social benefits that TE=
+U membership offers.
+<o:p></o:p></span></span></span></li></ul>
+<ul style=3D"margin-top:0cm" type=3D"disc">
+<li class=3D"Default" style=3D"color:windowtext;mso-list:l2 level1 lfo3"><s=
+pan style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk15=
+0521522"><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;=
+,sans-serif">This was a year during which our employer
+ oversaw regression rather than progress</span></b></span></span><span styl=
+e=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"=
+><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif=
+"> in some important areas. We reported last week
+ on </span></span></span><a href=3D"https://www.auckland.ac.nz/en/about-us/=
+about-the-university/equity-at-the-university/equity-information-for-staff/=
+gender-equity/gender-pay-gap.html"><span style=3D"mso-bookmark:_Hlk15173167=
+2"><span style=3D"mso-bookmark:_Hlk150521522"><span lang=3D"EN-GB" style=3D=
+"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#4472C4"=
+>The
+ 2023 </span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span=
+ style=3D"mso-bookmark:_Hlk150521522"><span style=3D"font-size:11.0pt;font-=
+family:&quot;Calibri&quot;,sans-serif;color:#4472C4">Gender pay gap - The U=
+niversity of Auckland</span></span></span><span style=3D"mso-bookmark:_Hlk1=
+51731672"><span style=3D"mso-bookmark:_Hlk150521522"></span></span></a><spa=
+n style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk1505=
+21522"><span lang=3D"EN-GB" style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif;color:black">
+ which shows a GPG of 10.8% --more than two percentage points worse than th=
+e national average. But we should not forget the
+</span></span></span><a href=3D"https://www.staff.auckland.ac.nz/en/human-r=
+esources/university-culture-values/staff-surveys.html"><span style=3D"mso-b=
+ookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#44=
+72C4">2023
+ Employee Experience Survey</span></span></span><span style=3D"mso-bookmark=
+:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"></span></span></=
+a><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_H=
+lk150521522"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot=
+;,sans-serif;color:#4472C4">.</span></span></span><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D=
+"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+<i>Inter alia</i>, the survey revealed that only 32% of academic staff and =
+57% of professional staff (47% combined) think their workload is reasonable=
+. What=92s more, only 38% see any evidence of steps to ensure that workload=
+s become more manageable.&nbsp; More staff
+ are not satisfied with their advancement opportunities than are satisfied.=
+ Nonbinary staff, rainbow staff and staff with disabilities each report eve=
+n more negative experiences. Despite the active indigenisation of the unive=
+rsity, workload satisfaction has
+ declined for M=E2ori staff to 33% and their belief in the purpose and aspi=
+rations of the university are down 12 percentage points. Less than half of =
+Pacific staff feel their workload is reasonable, less than half feel energi=
+sed to =93go the extra mile,=94 and only
+ 36% are satisfied with their advancement opportunities.&nbsp; What=92s mor=
+e, we now work in an environment in which fewer than half of us (49%) feel =
+that we can respectfully voice our opinions =93without fear of any negative=
+ impact=94. And it is much worse in some faculties.
+<b><o:p></o:p></b></span></span></span></li></ul>
+<ul style=3D"margin-top:0cm" type=3D"disc">
+<li class=3D"Default" style=3D"color:windowtext;mso-list:l1 level1 lfo4"><s=
+pan style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk15=
+0521522"><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;=
+,sans-serif">Can the TEU contribute to turning some
+ of these sorry statistics around?</span></b></span></span><span style=3D"m=
+so-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span=
+ style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"> We =
+believe so. But we need to be invited to engage,
+ or our membership needs to demand a place at the table.&nbsp; Our employer=
+ prefers to marginalise and ignore us.&nbsp; But increased strength --in nu=
+mber and voice-- will make this harder to do.&nbsp;
+<o:p></o:p></span></span></span></li></ul>
+<p class=3D"Default"><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,sans-serif;color:windowtext"><o:p>&nbsp;</o:p></span><=
+/span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><span style=3D"color:black">Branch Pla=
+nning Day.
+</span></b></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span s=
+tyle=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:black">Yesterday w=
+e had a branch planning day.<b>
+</b>We were very happy to welcome a number of delegates and supportive memb=
+ers from outside the branch committee.&nbsp; We had a productive day, discu=
+ssing the items noted above, as well as others (bargaining will resume in 2=
+024). We co-opted two new members to
+ the Branch committee: Koro Tawa and Brent Burmester, both from the Busines=
+s School. We are very happy to have them join us. The branch and I also agr=
+eed that I would return to the co-Presidency (Academic) until the next AGM.
+<o:p></o:p></span></span></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span style=
+=3D"color:black"><o:p>&nbsp;</o:p></span></b></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><a name=3D"_Hlk153263142"><b><span style=
+=3D"color:#232323;background:white">The Siouxsie Wiles case is not just abo=
+ut Siouxsie Wiles.&nbsp;
+</span></b></a></span></span><span style=3D"mso-bookmark:_Hlk151731672"><sp=
+an style=3D"mso-bookmark:_Hlk150521522"><span style=3D"mso-bookmark:_Hlk153=
+263142"><span style=3D"color:#232323;background:white">Earlier this week, a=
+n open letter, initiated by our colleagues
+</span></span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><spa=
+n style=3D"mso-bookmark:_Hlk150521522"><span style=3D"mso-bookmark:_Hlk1532=
+63142"><span style=3D"color:#202124;background:white">Nicola Gaston, Virgin=
+ia Braun, Cate Macinnis-Ng, and&nbsp;Helen Petousis-Harris
+</span></span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><spa=
+n style=3D"mso-bookmark:_Hlk150521522"><span style=3D"mso-bookmark:_Hlk1532=
+63142"><span style=3D"color:#232323;background:white">and co-signed by 120 =
+members of staff urged
+</span></span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><spa=
+n style=3D"mso-bookmark:_Hlk150521522"><span style=3D"mso-bookmark:_Hlk1532=
+63142"><span style=3D"color:#202124">of the Council of the University of Au=
+ckland
+</span></span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><spa=
+n style=3D"mso-bookmark:_Hlk150521522"><span style=3D"mso-bookmark:_Hlk1532=
+63142"><span style=3D"color:#232323;background:white">to
+</span></span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><spa=
+n style=3D"mso-bookmark:_Hlk150521522"><span style=3D"mso-bookmark:_Hlk1532=
+63142"><span style=3D"color:#202124">provide immediate assurances regarding=
+ the safety of our colleagues engaged in
+ their work for the university. (More details and the letter itself: </span=
+></span></span></span><a href=3D"https://www.nzherald.co.nz/nz/more-than-10=
+0-university-of-auckland-academics-sign-letter-complaining-of-unsafe-workpl=
+ace/WKMJEFQSHFD3BC4BGXOI5XFYXY/"><span style=3D"mso-bookmark:_Hlk151731672"=
+><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"mso-bookmark:_Hl=
+k153263142"><span style=3D"color:#4472C4">More
+ than 100 University of Auckland academics sign letter complaining of unsaf=
+e workplace - NZ Herald</span></span></span></span><span style=3D"mso-bookm=
+ark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=
+=3D"mso-bookmark:_Hlk153263142"></span></span></span></a><span style=3D"mso=
+-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span s=
+tyle=3D"mso-bookmark:_Hlk153263142">).
+</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"mso-bookmark:_Hlk153263142">=
+<span style=3D"color:#202124">As of this morning, Council has not responded=
+ =96or even acknowledged receipt of the letter.
+<o:p></o:p></span></span></span></span></p>
+<span style=3D"mso-bookmark:_Hlk153263142"></span>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><o:p>&nbsp;</o:p></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><span class=3D"apple-converted-space"><b>=
+Medical&nbsp;</b></span></span></span><span style=3D"mso-bookmark:_Hlk15173=
+1672"><span style=3D"mso-bookmark:_Hlk150521522"><span class=3D"s16"><b>Aca=
+demic
+ collective members.</b></span></span></span><span style=3D"mso-bookmark:_H=
+lk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span class=3D"appl=
+e-converted-space"><b>&nbsp;</b></span></span></span><span style=3D"mso-boo=
+kmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span class=
+=3D"s4">The
+ vote</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span =
+style=3D"mso-bookmark:_Hlk150521522"><span class=3D"apple-converted-space">=
+&nbsp;</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span=
+ style=3D"mso-bookmark:_Hlk150521522"><span class=3D"s4">to
+ ratify the&nbsp;remuneration variation to the MACA</span></span></span><sp=
+an style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150=
+521522"><span class=3D"apple-converted-space">&nbsp;</span></span></span><s=
+pan style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk15=
+0521522"><span class=3D"s4">was
+ passed last week. Members on this collective should have received their up=
+dated salary and back pay in their pay this week. If members under this col=
+lective have any issues with this pay, please contact payroll/ HR in the fi=
+rst instance. Any further issues
+ or questions, please contact </span></span></span><a href=3D"mailto:nicole=
+.wallace@teu.ac.nz"><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#4472C4">nicole.wallac=
+e@teu.ac.nz</span></span></span><span style=3D"mso-bookmark:_Hlk151731672">=
+<span style=3D"mso-bookmark:_Hlk150521522"></span></span></a><span style=3D=
+"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><sp=
+an class=3D"s4">.</span></span></span><span style=3D"mso-bookmark:_Hlk15173=
+1672"><span style=3D"mso-bookmark:_Hlk150521522"><o:p></o:p></span></span><=
+/p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span style=
+=3D"color:#111111;background:white"><o:p>&nbsp;</o:p></span></b></span></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><strong><span style=3D"font-family:&quot;=
+Calibri&quot;,sans-serif">Results of the 2023 Council, Senate, and committe=
+e elections.
+</span></strong></span></span><span style=3D"mso-bookmark:_Hlk151731672"><s=
+pan style=3D"mso-bookmark:_Hlk150521522"><strong><span style=3D"font-family=
+:&quot;Calibri&quot;,sans-serif;font-weight:normal">Congratulations to all =
+the successful candidates.</span></strong></span></span><span style=3D"mso-=
+bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><strong>=
+<span style=3D"font-family:&quot;Calibri&quot;,sans-serif">
+</span></strong></span></span><span style=3D"mso-bookmark:_Hlk151731672"><s=
+pan style=3D"mso-bookmark:_Hlk150521522"><strong><span style=3D"font-family=
+:&quot;Calibri&quot;,sans-serif;font-weight:normal">And commiserations to t=
+hose who were not elected. There is next time. And
+ getting involved in the same agenda via the TEU might even have more impac=
+t. </span>
+</strong></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><strong><span style=3D"font-family:&quot;=
+Calibri&quot;,sans-serif">&nbsp;</span></strong></span></span><a href=3D"ht=
+tps://www.staff.auckland.ac.nz/en/news-events-and-notices/notices/notices-2=
+023/quarter-4/results-of-the-2023-council-senate-committee-elections.html" =
+target=3D"_blank" title=3D"https://www.staff.auckland.ac.nz/en/news-events-=
+and-notices/notices/notices-2023/quarter-4/results-of-the-2023-council-sena=
+te-committee-elections.html"><span style=3D"mso-bookmark:_Hlk151731672"><sp=
+an style=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#4472C4">Resul=
+ts-of-the-2023-council-senate-committee-elections.html</span></span></span>=
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"></span></span></a><span style=3D"mso-bookmark:_Hlk151731672"><sp=
+an style=3D"mso-bookmark:_Hlk150521522"><span class=3D"ui-provider"><span s=
+tyle=3D"color:#4472C4"><o:p></o:p></span></span></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><span style=3D"color:#2B2B2B;backgroun=
+d:white"><o:p>&nbsp;</o:p></span></b></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><span style=3D"color:black;background:=
+white">Job cuts confirmed at Massey U.</span></b></span></span><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+<span style=3D"color:black;background:white">
+ Massey University has gone ahead with a restructure that will cut jobs and=
+ courses</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><sp=
+an style=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#4472C4;backgr=
+ound:white">.</span>
+</span></span><a href=3D"https://www.stuff.co.nz/national/education/3010272=
+50/major-science-cuts-to-go-ahead-at-massey-university"><span style=3D"mso-=
+bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span st=
+yle=3D"color:#4472C4">Major science cuts
+ to go ahead at Massey University | Stuff.co.nz</span></span></span><span s=
+tyle=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk1505215=
+22"></span></span></a><span style=3D"mso-bookmark:_Hlk151731672"><span styl=
+e=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#4472C4"><o:p></o:p><=
+/span></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><span style=3D"color:#2B2B2B;backgroun=
+d:white"><o:p>&nbsp;</o:p></span></b></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><span style=3D"color:#2B2B2B;backgroun=
+d:white">TEU member Makarena Dudley</span></b></span></span><span style=3D"=
+mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><spa=
+n style=3D"color:#2B2B2B;background:white">
+ (Te Rarawa, Te Aup=F4uri, Ng=E2ti Kahu) (Psychology and Centre for Brain R=
+esearch) says the M=E2ori assessment of neuropsychological abilities (or
+<i>Mana</i>), available this week, will be integrated into Te Whatu Ora Hea=
+lth NZ for uptake by clinicians diagnosing mate wareware or dementia in M=
+=E2ori.</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><spa=
+n style=3D"mso-bookmark:_Hlk150521522">
+</span></span><a href=3D"https://www.msn.com/en-nz/health/other/auckland-un=
+iversity-researchers-launch-tool-to-detect-early-dementia-in-m%C4%81ori/ar-=
+AA1lhWeC?ocid=3Dentnewsntp&amp;cvid=3D7a706fae5379449ba9636994330117d2&amp;=
+ei=3D31"><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-book=
+mark:_Hlk150521522"><span style=3D"color:#4472C4">Researchers
+ launch tool to detect early dementia in M=E2ori (msn.com)</span></span></s=
+pan><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:=
+_Hlk150521522"></span></span></a><span style=3D"mso-bookmark:_Hlk151731672"=
+><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#4472C4"><=
+o:p></o:p></span></span></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span style=
+=3D"color:#111111;background:white"><o:p>&nbsp;</o:p></span></b></span></sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span style=
+=3D"color:#111111;background:white">=93The new Prime Minister must step up<=
+/span></b></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span st=
+yle=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#111111;background:=
+white">,
+ and stop this hubristic posturing</span><span style=3D"color:black">=94 </=
+span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#4472C4;background:whi=
+te">Dame
+</span></span></span><a href=3D"https://newsroom.co.nz/2023/12/15/anne-salm=
+ond-on-the-treaty-debate-maori-and-pakeha-think-differently/"><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+<span style=3D"color:#4472C4">Anne Salmond
+ (Anthropology) on the Treaty debate: M=E2ori and P=E2keh=E2 think differen=
+tly (newsroom.co.nz)</span></span></span><span style=3D"mso-bookmark:_Hlk15=
+1731672"><span style=3D"mso-bookmark:_Hlk150521522"></span></span></a><span=
+ style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk15052=
+1522"><b><span style=3D"color:#111111;background:white"><o:p></o:p></span><=
+/b></span></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span style=
+=3D"color:#111111;background:white"><o:p>&nbsp;</o:p></span></b></span></sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span style=
+=3D"color:#111111;background:white">Social services funded by private inves=
+tors? What could possibly go wrong?</span></b></span></span><span style=3D"=
+mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><spa=
+n style=3D"color:#111111;background:white">
+ TEU member<b> T</b></span><span style=3D"color:black">om Baker (Geography)=
+: </span>
+</span></span><a href=3D"https://theconversation.com/the-government-hopes-p=
+rivate-investors-will-fund-social-services-the-evidence-isnt-so-optimistic-=
+218512"><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookm=
+ark:_Hlk150521522"><span style=3D"color:#4472C4">The
+ government hopes private investors will fund social services =96 the evide=
+nce isn't so optimistic (theconversation.com)</span></span></span><span sty=
+le=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522=
+"></span></span></a><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"></span></span><span style=3D"mso-bookmark:_=
+Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><o:p></o:p></span>=
+</span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span style=
+=3D"color:#111111;background:white"><o:p>&nbsp;</o:p></span></b></span></sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span style=
+=3D"color:#111111;background:white">=93This week a group of people in Welli=
+ngton</span></b></span></span><span style=3D"mso-bookmark:_Hlk151731672"><s=
+pan style=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#111111;backg=
+round:white">
+ will begin the process of cutting off =93Fair Pay=94 agreements in favour =
+of pay rates being set by the =91market=92=94 but =93The people promoting t=
+his do not have their pay set by =91the market=92 but by an administrative =
+process which pays them without regard to affordability
+ or performance.=94 </span><span style=3D"color:black">Rob Campbell (Chance=
+llor, AUT) on
+</span></span></span><a href=3D"https://newsroom.co.nz/2023/12/11/the-case-=
+for-strong-and-stable-pay-and-conditions/"><span style=3D"mso-bookmark:_Hlk=
+151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:=
+#4472C4">The case for strong and stable
+ pay for all =96 not just for politicians (newsroom.co.nz)</span></span></s=
+pan><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:=
+_Hlk150521522"></span></span></a><span style=3D"mso-bookmark:_Hlk151731672"=
+><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#4472C4"><=
+o:p></o:p></span></span></span></p>
+<p style=3D"mso-margin-top-alt:12.0pt;margin-right:0cm;margin-bottom:12.0pt=
+;margin-left:0cm">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><b><span style=3D"color:#232323;background:white">Academic staff=
+, Israel-Palestine, and academic freedom.
+</span></b></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span s=
+tyle=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#232323;background=
+:white">An open letter is circulating online within New Zealand universitie=
+s on the impact of the Gaza-Israel horrors
+ on academic freedom here and elsewhere.&nbsp; </span></span></span><span s=
+tyle=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk1505215=
+22"><span style=3D"color:black;mso-ligatures:none">The letter
+</span></span></span><a href=3D"https://docs.google.com/document/d/1pUJDs4B=
+9l34NZr_orDLk3cHrfMRawM_aLrulDSWmg70/edit"><span style=3D"mso-bookmark:_Hlk=
+151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:=
+#0070C0">Open Letter on Academic Freedom
+ - Google Docs</span></span></span><span style=3D"mso-bookmark:_Hlk15173167=
+2"><span style=3D"mso-bookmark:_Hlk150521522"></span></span></a><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+<span style=3D"color:black;mso-ligatures:none">
+ is focussed primarily on the defence of academic freedom and states, in pa=
+rt, that such freedom =93is an internationally recognised and legislative e=
+ntitlement needed for teaching, learning, and research, particularly on con=
+tentious and contested topics. We
+ stand together in condemning organisations that have sought to undermine t=
+his freedom in relation to the current situation in Israel and Palestine an=
+d we express our full solidarity with and support for educators and researc=
+hers who have faced attempts to
+ inhibit and limit their scholarship on this topic.=94 Members are invited =
+to read and add signatures if they wish.&nbsp;
+</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"font-size:12.0pt;font-family=
+:&quot;Times New Roman&quot;,serif;mso-ligatures:none"><o:p></o:p></span></=
+span></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D=
+"color:black">=93</span><b><span style=3D"color:#222222;background:white">S=
+ome researchers publish a new paper every five
+ days, on average. </span></b><span style=3D"color:#222222;background:white=
+">Data trackers suspect not all their manuscripts were produced through hon=
+est labour.=94
+</span></span></span><a href=3D"https://www.nature.com/articles/d41586-023-=
+03865-y"><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-book=
+mark:_Hlk150521522"><span style=3D"color:#4472C4">Surge in number of =91ext=
+remely productive=92 authors concerns scientists
+ (nature.com)</span></span></span><span style=3D"mso-bookmark:_Hlk151731672=
+"><span style=3D"mso-bookmark:_Hlk150521522"></span></span></a><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+<span style=3D"color:#4472C4;mso-ligatures:standardcontextual"><o:p></o:p><=
+/span></span></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span style=
+=3D"color:#232323;background:white"><o:p>&nbsp;</o:p></span></b></span></sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span style=
+=3D"color:#121212;background:white">=93The life of an academic lacks natura=
+l narrative momentum=94</span></b></span></span><span style=3D"mso-bookmark=
+:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"c=
+olor:#121212;background:white">.
+ Therefore? </span></span></span><a href=3D"https://www.newyorker.com/cultu=
+re/cultural-comment/how-the-movie-professor-got-cancelled"><span style=3D"m=
+so-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span=
+ style=3D"color:#4472C4">How the Movie Professor
+ Got Cancelled | The New Yorker</span></span></span><span style=3D"mso-book=
+mark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"></span></spa=
+n></a><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmar=
+k:_Hlk150521522"><span style=3D"color:#4472C4"><o:p></o:p></span></span></s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span style=
+=3D"color:#232323;background:white"><o:p>&nbsp;</o:p></span></b></span></sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span style=
+=3D"color:#C45911">This will be the last
+<i>Update</i> of the year. </span></b></span></span><span style=3D"mso-book=
+mark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=
+=3D"color:#C45911">We wish all our colleagues a restorative holiday season =
+and a beautiful summer break. We are grateful
+ to those who have contributed to the <i>Update</i> by sharing information,=
+ insights and links; alerting us to issues, editing, reacting, and sharing =
+with non-members; thanking us for giving their views some publicity, and fo=
+r acting as a lightning rod for
+ the complaints from HR. We hope that the <i>Update</i>s have served their =
+primary purpose of keeping members informed and engaged. We always welcome =
+feedback and suggestions for improving our communications for next year.<o:=
+p></o:p></span></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><span class=3D"MsoHyperlink"><b><span sty=
+le=3D"color:windowtext"><o:p><span style=3D"text-decoration:none">&nbsp;</s=
+pan></o:p></span></b></span></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><span class=3D"MsoHyperlink"><b><span sty=
+le=3D"color:windowtext;text-decoration:none">Reminders going into the summe=
+r break.
+<o:p></o:p></span></b></span></span></span></p>
+<ul style=3D"margin-top:0cm" type=3D"disc">
+<li class=3D"MsoListParagraphCxSpFirst" style=3D"color:black;margin-left:0c=
+m;mso-add-space:auto;mso-list:l3 level1 lfo5;background:white">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><b>Professional staff</b>. If you are starting a new role at the=
+ university between 1 November 2023 and 1 February 2024, or are offered an =
+out-of-cycle pay increase during this
+ time, please contact Nicole Wallace (</span></span><a href=3D"mailto:nicol=
+e.wallace@teu.ac.nz"><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522">nicole.wallace@teu.ac.nz</span></span><span=
+ style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk15052=
+1522"></span></span></a><span style=3D"mso-bookmark:_Hlk151731672"><span st=
+yle=3D"mso-bookmark:_Hlk150521522">)
+ with a copy of your letter of offer or memorandum and get advice <i>before=
+</i> you sign it. If you have
+<i>already</i> signed such a document effective from 1 November on, you can=
+ still seek advice. Please send Nicole a copy. You can also see her during =
+the office hours Friday 10am-2pm (see information below)</span></span><span=
+ style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk15052=
+1522"><span lang=3D"EN-US" style=3D"border:none windowtext 1.0pt;padding:0c=
+m">.</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span s=
+tyle=3D"mso-bookmark:_Hlk150521522"><span lang=3D"EN-US" style=3D"border:no=
+ne windowtext 1.0pt;padding:0cm"><o:p></o:p></span></span></span></li><li c=
+lass=3D"MsoListParagraphCxSpMiddle" style=3D"margin-left:0cm;mso-add-space:=
+auto;mso-list:l3 level1 lfo5;background:white">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><b><span style=3D"color:black">Pay Equity.</span></b></span></sp=
+an><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_=
+Hlk150521522"><span style=3D"color:black"> The
+ TEU pay equity claim for administrative and library staff is active. This =
+claim has the potential to affect as many as 900 UoA staff members. We are =
+now moving into a new phase of the claim, where member involvement is very =
+important. If you=92ve received an
+ email from TEU administrator Lucy Fowler about your role, make sure you=92=
+ve replied! If you are interested in more information, email Nicole or Lucy=
+:&nbsp;
+</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"></span></span><a href=3D"mailto:nicole.wall=
+ace@teu.ac.nz"><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"ms=
+o-bookmark:_Hlk150521522">nicole.wallace@teu.ac.nz</span></span><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+</span></span></a><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D=
+"mso-bookmark:_Hlk150521522"><span style=3D"color:#4472C4">
+</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:black">or
+</span></span></span><a href=3D"mailto:lucy.fowler@teu.ac.nz"><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+<span style=3D"color:#4472C4">lucy.fowler@teu.ac.nz</span></span></span><sp=
+an style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150=
+521522"></span></span></a><span style=3D"mso-bookmark:_Hlk151731672"><span =
+style=3D"mso-bookmark:_Hlk150521522"><span class=3D"xmark6ar7rors6"><b><spa=
+n lang=3D"EN-US" style=3D"color:black;border:none windowtext 1.0pt;padding:=
+0cm">.
+</span></b><o:p></o:p></span></span></span></li><li class=3D"MsoListParagra=
+phCxSpMiddle" style=3D"margin-left:0cm;mso-add-space:auto;mso-list:l3 level=
+1 lfo5">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><b>TEU networks in 2024.
+</b></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D=
+"mso-bookmark:_Hlk150521522">The<b>
+</b><span style=3D"color:black">TEU has a number of designated member netwo=
+rks: </span>
+<i>General or Professional Staff; Academic Staff; U35 Staff; Rainbow; Tiaki=
+na Te Taiao (Climate); Women's; Te Uep=FB (M</i></span></span><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+<i><span style=3D"color:black">=E2</span>ori
+ staff); Tangata Pasifika; Disabilities</i>.&nbsp; The union </span></span>=
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><span style=3D"color:black">would like to invite you to register=
+ for the network/s that you would like to be
+ part of for 2024. (see last week=92s Update for details). &nbsp;</span></s=
+pan></span><a href=3D"https://www.cognitoforms.com/NZTEU/_2024Networks"><sp=
+an style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150=
+521522"><span style=3D"color:#4472C4">Please use
+ this link to register</span></span></span><span style=3D"mso-bookmark:_Hlk=
+151731672"><span style=3D"mso-bookmark:_Hlk150521522"></span></span></a><sp=
+an style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150=
+521522"><span style=3D"color:black">.</span><o:p></o:p></span></span></li><=
+li class=3D"MsoListParagraphCxSpLast" style=3D"color:black;margin-left:0cm;=
+mso-add-space:auto;mso-list:l3 level1 lfo5">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><b><span style=3D"color:windowtext">TEU delegate education in 20=
+24.
+</span></b></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span s=
+tyle=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:windowtext">The<b>
+</b></span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span s=
+tyle=3D"mso-bookmark:_Hlk150521522">TEU has also been refreshing and updati=
+ng member education opportunities and as part of this programme of work we =
+are trialling an alternative way of
+ registering your interest in attending delegate training. These courses ar=
+e open to all members who are active in branch committees, campaigns, activ=
+ities/events, or elected to a national committee. You are entitled to paid =
+time off work to attend these courses.
+ (see last week=92s Update for details.)</span></span><span style=3D"mso-bo=
+okmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span s=
+tyle=3D"mso-ligatures:none"> Level 1:</span></b></span></span><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+&nbsp;</span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"></span></span><a href=3D"https://www.cognit=
+oforms.com/NZTEU/DelegateTrainingL1EffectiveDelegatesAucklandThursday7March=
+2024"><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmar=
+k:_Hlk150521522"><span style=3D"color:#4472C4">To
+ register please click link here</span></span></span><span style=3D"mso-boo=
+kmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"></span></sp=
+an></a><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookma=
+rk:_Hlk150521522">.
+<b>Level 2</b>:</span></span><span style=3D"mso-bookmark:_Hlk151731672"><sp=
+an style=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:windowtext">
+</span></span></span><a href=3D"https://www.cognitoforms.com/NZTEU/Delegate=
+TrainingL2DelegatesBuildingAnOrganisedWorkplaceAucklandThursday15February20=
+24"><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:=
+_Hlk150521522"><span style=3D"color:#4472C4">To
+ register please click here</span></span></span><span style=3D"mso-bookmark=
+:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"></span></span></=
+a><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_H=
+lk150521522">.<span class=3D"xmark6ar7rors6"><o:p></o:p></span></span></spa=
+n></li></ul>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><o:p>&nbsp;</o:p></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522">fraternally<o:p></o:p></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522">b</span></span><o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-NZ">Barry Hug=
+hes, PhD<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-NZ">302.363 S=
+cience Centre<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-NZ">School of=
+ Psychology<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-NZ">Universit=
+y of Auckland / Waipapa Taumata Rau<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-NZ"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_SYBPR01MB71774E103CCFB5A6F9BE9BFABF93ASYBPR01MB7177ausp_--
+
+--_004_SYBPR01MB71774E103CCFB5A6F9BE9BFABF93ASYBPR01MB7177ausp_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=34492;
+	creation-date="Fri, 15 Dec 2023 02:44:09 GMT";
+	modification-date="Fri, 15 Dec 2023 02:44:10 GMT"
+Content-ID: <image001.png@01DA2F6D.8AFDF1D0>
+Content-Transfer-Encoding: base64
+
+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
+RU5ErkJggg==
+
+--_004_SYBPR01MB71774E103CCFB5A6F9BE9BFABF93ASYBPR01MB7177ausp_--

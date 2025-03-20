@@ -1,0 +1,348 @@
+Received: from SY6PR01MB8444.ausprd01.prod.outlook.com (2603:10c6:10:1df::6)
+ by SYCPR01MB4863.ausprd01.prod.outlook.com with HTTPS; Mon, 11 Mar 2024
+ 01:10:08 +0000
+Received: from PS2PR04CA0011.apcprd04.prod.outlook.com (2603:1096:300:55::23)
+ by SY6PR01MB8444.ausprd01.prod.outlook.com (2603:10c6:10:1df::6) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7362.35; Mon, 11 Mar
+ 2024 01:10:06 +0000
+Received: from HK3PEPF00000220.apcprd03.prod.outlook.com
+ (2603:1096:300:55:cafe::67) by PS2PR04CA0011.outlook.office365.com
+ (2603:1096:300:55::23) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7362.35 via Frontend
+ Transport; Mon, 11 Mar 2024 01:10:05 +0000
+Authentication-Results: spf=pass (sender IP is 130.216.125.250)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=pass (signature was verified)
+ header.d=auckland.ac.nz;dmarc=pass action=none
+ header.from=auckland.ac.nz;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of list.auckland.ac.nz
+ designates 130.216.125.250 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.125.250;
+ helo=uoasmtpprd01.its.auckland.ac.nz; pr=C
+Received: from au-smtp-inbound-delivery-1.mimecast.com (103.96.20.101) by
+ HK3PEPF00000220.mail.protection.outlook.com (10.167.8.42) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7386.12 via Frontend Transport; Mon, 11 Mar 2024 01:10:04 +0000
+Received: from uoasmtpprd01.its.auckland.ac.nz
+ (uoasmtpprd01.its.auckland.ac.nz [130.216.125.250]) by relay.mimecast.com
+ with ESMTP with STARTTLS (version=TLSv1.3, cipher=TLS_AES_256_GCM_SHA384)
+ id au-mta-71-rt5kDYQAND2gwsQtJCH-4A-1; Mon, 11 Mar 2024 12:09:49 +1100
+X-MC-Unique: rt5kDYQAND2gwsQtJCH-4A-1
+Received: from sympa.auckland.ac.nz (lists.ec.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id BF9BD802480;
+	Mon, 11 Mar 2024 14:09:46 +1300 (NZDT)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz BF9BD802480
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=auckland.ac.nz;
+	s=rafal; t=1710119386;
+	bh=DcBMR5wtFlnYBV5tD16qM8j4smwzpCLs2bZDfDyFgRs=;
+	h=From:To:CC:Date:Subject:Reply-To:List-Id:List-Archive:List-Help:
+	 List-Owner:List-Post:List-Subscribe:List-Unsubscribe:From;
+	b=xMPZIMia1EBq+Dr0XiPaCnQ2ymwtKjiBM8SIfGaFO+UEE63E5U7Ek6oxY81RJJpCZ
+	 jJYLDFePidwxVfOTbLtpAV4ffqE6xmrIX11cryp1l3Oj8WRNoy+HexSB+KGO/HFrzL
+	 d2BfUpAlOuE70FgB4md4New2uCKA95aBrYqTvKTY=
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id AE17639901; Mon, 11 Mar 2024 14:09:46 +1300 (NZDT)
+X-Original-To: teu-academic@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-teu-academic@sympa.auckland.ac.nz
+Received: from au-smtp-inbound-delivery-1.mimecast.com (au-smtp-inbound-delivery-1.mimecast.com [103.96.22.101])
+	by sympa.auckland.ac.nz (Postfix) with ESMTP id BF7D835A79
+	for <teu-academic@list.auckland.ac.nz>; Mon, 11 Mar 2024 14:09:37 +1300 (NZDT)
+Received: from AUS01-SY4-obe.outbound.protection.outlook.com
+ (mail-sy4aus01lp2168.outbound.protection.outlook.com [104.47.71.168]) by
+ relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ au-mta-90-EVNOp4SJNVedKhGPTmspQA-1; Mon, 11 Mar 2024 12:09:34 +1100
+X-MC-Unique: EVNOp4SJNVedKhGPTmspQA-1
+Received: from ME3PR01MB6612.ausprd01.prod.outlook.com (2603:10c6:220:121::5)
+ by MEYPR01MB7181.ausprd01.prod.outlook.com (2603:10c6:220:144::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7362.35; Mon, 11 Mar
+ 2024 01:09:33 +0000
+Received: from ME3PR01MB6612.ausprd01.prod.outlook.com
+ ([fe80::c8ed:abe:a3e6:e6af]) by ME3PR01MB6612.ausprd01.prod.outlook.com
+ ([fe80::c8ed:abe:a3e6:e6af%3]) with mapi id 15.20.7362.035; Mon, 11 Mar 2024
+ 01:09:33 +0000
+From: Noel Zeng <noel.zeng@auckland.ac.nz>
+To: "teu-professional-staff@list.auckland.ac.nz"
+	<teu-professional-staff@list.auckland.ac.nz>,
+	"teu-academic@list.auckland.ac.nz" <teu-academic@list.auckland.ac.nz>
+CC: Nicole Wallace <Nicole.Wallace@teu.ac.nz>, Andy Hipkiss
+	<andy.hipkiss@teu.ac.nz>
+Thread-Topic: Bargaining Claims member survey
+Thread-Index: AQHac0+/YVSESZRzaUWWlJLMqbRaGQ==
+Date: Mon, 11 Mar 2024 01:09:33 +0000
+Message-ID: <ME3PR01MB6612BF1E0D62A9AF4EF8764EC7242@ME3PR01MB6612.ausprd01.prod.outlook.com>
+Accept-Language: en-NZ, en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+msip_labels:
+x-ms-traffictypediagnostic: ME3PR01MB6612:EE_|MEYPR01MB7181:EE_|HK3PEPF00000220:EE_|SY6PR01MB8444:EE_|SYCPR01MB4863:EE_
+X-MS-Office365-Filtering-Correlation-Id: e6969d56-be1c-4f9c-a719-08dc4167fc5e
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0
+X-Microsoft-Antispam-Message-Info-Original: 1W0esm6do2dgPlwmm0wZTl1fj4MZQfcKHxcq/0VIkk0Ht50XsT2xqjwUU0aqTcLcvdxttFqwSYoktfwFGmKmE5p8Rc+fMvn2tKcgCQtCe3l8VaxIcRcBYT9LalEvn4Ata1F1+nrGfO1Pa3ICvZuMLFb1aTgFmF28fhs7B0fcqYSBKXuatowxmccoyinbPm/e5NqjTkdmDEVUF6YzivdctihNNh6NTrtHWaFzuVG7+Ye4D0eC0p81Zz0okv84s6e6MmUtnUS7QUHLYh4kv4W24X6lIrXx6OfzgAnakZ574pwMiUgFIpVeYDTxbQfVDyRpTvWrJN0p9Hg0fUMBKfsubZbqTqSC4fYkmE3Vu9MyFsYfGiwRELBdJ6wuc0H4J3KajCZ+I5bZIiOYo5jFVfDWTh1S4ZgBtlPSHELonPZ2xt2wDLwhiKaHEGXFqVM7Ih/K8DE9ERwUTQKdLTihb3OME2nu93I24EZEgLaGWxhNkh5yDE04WE8xZvpvGZZ3/L8PeSnVcs2vLDLeMn6nsSo5otgRXeSEzXXcPvIQscapd+QjKNB+/Y1ydbB7Om3XSPYJdYnQoK34vZYbbjpSHuEZr8G1kRl5DQV69+Qvwj3BgOBQXrhs+mKTepH1mUCB+1SkSR7gL+4XQZvl+jkfpP+d24PVGjSWt2VON16qIL8aG9rV/XTePnuCGEXofHTGdZKVzd1XQJf4UWn/F9EEGUkWJw==
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:ME3PR01MB6612.ausprd01.prod.outlook.com;PTR:;CAT:NONE;SFS:;DIR:INT
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MEYPR01MB7181
+X-Mimecast-Originator: auckland.ac.nz
+Subject: [TEU-academic] ] Bargaining Claims member survey
+Reply-To: Noel Zeng <noel.zeng@auckland.ac.nz>
+X-Loop: teu-academic@list.auckland.ac.nz
+X-Sequence: 1393
+Errors-to: teu-academic-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: teu-academic-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <teu-academic.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/teu-academic>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:teu-academic-request@list.auckland.ac.nz>
+List-Post: <mailto:teu-academic@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20teu-academic>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20teu-academic>
+X-Mimecast-Spam-Score: 0
+Content-Language: en-NZ
+Content-Type: multipart/alternative;
+	boundary="_000_ME3PR01MB6612BF1E0D62A9AF4EF8764EC7242ME3PR01MB6612ausp_"
+Return-Path: teu-academic-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 11 Mar 2024 01:10:05.1266
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: e6969d56-be1c-4f9c-a719-08dc4167fc5e
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: d1b36e95-0d50-42e9-958f-b63fa906beaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-SkipListedInternetSender: ip=[130.216.125.250];domain=uoasmtpprd01.its.auckland.ac.nz
+X-MS-Exchange-ExternalOriginalInternetSender: ip=[130.216.125.250];domain=uoasmtpprd01.its.auckland.ac.nz
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: HK3PEPF00000220.apcprd03.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: HK3PEPF00000220.apcprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id-Prvs: dfef125a-b4ca-496f-37c7-08dc4167e985
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report: CIP:103.96.20.101;CTRY:NZ;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:NSPM;H:uoasmtpprd01.its.auckland.ac.nz;PTR:uoasmtpprd01.its.auckland.ac.nz;CAT:NONE;SFS:;DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 11 Mar 2024 01:10:04.6578
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: e6969d56-be1c-4f9c-a719-08dc4167fc5e
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-AuthSource: HK3PEPF00000220.apcprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY6PR01MB8444
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.8852091
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7362.031
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?iso-8859-4?Q?iIsgZNqAkdqPdJXBQgKWbYCGweov1ulNyyTFbDRhRq4/x+o7t1wykMcyFL?=
+ =?iso-8859-4?Q?oLe7TgjB9PNr4dRESwGbR085l7wHrwd9O0aficgC7jX5c9+OtULCZ0ctrg?=
+ =?iso-8859-4?Q?ljROab2noF9gvORhEAYCdDLFWuMOHMb88PGNzON77qeWHsgSgBL56uGMPi?=
+ =?iso-8859-4?Q?lISQ1W7gJEahdzbvqcie3dvaCDNNYcR9JJzkmYJLmT2xaf0yX6dVZ8gc/O?=
+ =?iso-8859-4?Q?5lj6u95hYmdQ9RHBOisbZAjqDCngu+eHkNEETZr4rLPCDRo0td75gaQism?=
+ =?iso-8859-4?Q?+K/UsrAgkQ42Rpn7Vx0jblklNDY16o5C5KmMqgwSzDy/spww4oqg0BfRzw?=
+ =?iso-8859-4?Q?qOhADXeBT0cUUgBi1VGcKzbTEZ3k0DgEkDWEHN5ADuEjEMX3eFOLKy5+GE?=
+ =?iso-8859-4?Q?imVai/O2XxYHGXRRfegvgvTjhdoS/ng5rBDacwbzwVLYYoKh7y77Q9IRl3?=
+ =?iso-8859-4?Q?OuvjeMbQBigw2jax//qFGc9k4YoB/MLP3+4ZkbL8Qv5q8WaNocbmMwDKJN?=
+ =?iso-8859-4?Q?BkBQllonOCboVcdTitwR4trxzygqGeVuvLuZp4s4IfE8SiaZKcIplIcchI?=
+ =?iso-8859-4?Q?L1arHcaS5qurvdb9+mlGQSPfc8ffu5LkdbD5ptziPMJYzPCa5os2gBtX2s?=
+ =?iso-8859-4?Q?weF24oH84VY7hPGsAXmfKTF6+sct0UEpxLI28+IM+EZKCBgVJauJWPUgf8?=
+ =?iso-8859-4?Q?cF3cpgd62l1OId+gFEN2oHdijnWGkM5AIEltpWquFPWqGgdAzfgj1iHQZQ?=
+ =?iso-8859-4?Q?MfvbHPlbm/2VMe8013A6hBlT7DVHwDSwCbS584qrxDqutzY4ODtD/IICmO?=
+ =?iso-8859-4?Q?PCH3fdOTSmENvTmXlg1qVWUhLaQuRyLDTeocXdi1eN3caRPmpgzswzc2fl?=
+ =?iso-8859-4?Q?o1HQHnzlN2Y9nDl0Ot3i8Rmk4X52r8gUAc+bb/udinWqSCafl7pDvSL4h4?=
+ =?iso-8859-4?Q?4Z0A/06Pg6broB2W5hQbOgrNHjAJOLuLwQ3lImq+5u5r6SxIRtnZ+iNb69?=
+ =?iso-8859-4?Q?OjL//gUE61piJA/X+NPxqugi9gxocChY8c7xBgxP1VyBmsA/2py99unAJy?=
+ =?iso-8859-4?Q?FoMTicruO9i1dnJKTOujlj7vYImxPYqgW69+M1unCeoOOS6h2LvDZBvOAo?=
+ =?iso-8859-4?Q?YSp+QrFDiIBFCPsgscY5yCwfsrs+vFjD1VBFLdx7DETcBIYi9XK8J/u15s?=
+ =?iso-8859-4?Q?sK3vwHgxjx7vi0VySkn0Xm8A+SWdaU4xCgZwITO5iFVAnkdYBMpjGwjCCQ?=
+ =?iso-8859-4?Q?6oEzb/dNK8fXn+50JNi2JGlny8ujUJz/RqmT7kdSgwwnkMPj4cejLf4CfP?=
+ =?iso-8859-4?Q?J0UpTVfe5/noHHjS1Q2ASp2Lql8Krtl7qapmZo1fBtvqJ458RSwBja0xK6?=
+ =?iso-8859-4?Q?qqZmJJPB57BEll/5u0TYa94PuZUBR7Qg3XECTsCaCC46J61ZindtXJtv7N?=
+ =?iso-8859-4?Q?77vkAa/o1740luuNaPZ0sYw05yqbWAK1whPvOj/pERTmWce70/qGvayDI0?=
+ =?iso-8859-4?Q?kZqiRSdXmY2oJD+kSCrBZbEYBhyXo2yAUFabT7YaVZHVTiidErMUvB1dvx?=
+ =?iso-8859-4?Q?cVJzWk0=3D?=
+MIME-Version: 1.0
+
+--_000_ME3PR01MB6612BF1E0D62A9AF4EF8764EC7242ME3PR01MB6612ausp_
+Content-Type: text/plain; charset="ISO-8859-4"
+Content-Transfer-Encoding: quoted-printable
+
+T=BAn=E0 t=E0tou katoa,
+
+As noted in last week's TEU Update, our current collective employment agree=
+ments will expire this year, and negotiations for new agreements will start=
+ soon. Your Branch Committee are keen to hear about what matters to you and=
+ your colleagues. What would you like to change about your pay, working con=
+ditions, and other aspects of your workplace?
+
+Please take a couple of minutes to fill out this short 5-minute survey here=
+<https://docs.google.com/forms/d/e/1FAIpQLSc8mX0uXCb7tzgf3uQBd7RuXH817Kz7fq=
+2hkhuFP-D460nHdA/viewform>.
+[https://lh5.googleusercontent.com/fV9fv5PY5q0zYoScIC1G3qm3lnZGYOJkG8lzuHS7=
+FP00WfIaMZuX8sO97RpTRGVygHqozmQjyFc=3Dw1200-h630-p]<https://docs.google.com=
+/forms/d/e/1FAIpQLSc8mX0uXCb7tzgf3uQBd7RuXH817Kz7fq2hkhuFP-D460nHdA/viewfor=
+m>
+TEU Bargaining Claims Check in<https://docs.google.com/forms/d/e/1FAIpQLSc8=
+mX0uXCb7tzgf3uQBd7RuXH817Kz7fq2hkhuFP-D460nHdA/viewform>
+Bargaining for our collective agreement begins again later this year. We wo=
+uld like to hear about what you think our claims should be. For context, in=
+ the 2022 bargaining round, our claims were: A pay increase that beats infl=
+ation Living wage as a minimum Tupu increases to get staff to top of band m=
+ore quickly Postdoctoral fellows to be brought under coverage Thank you for=
+ filling out this survey as a beginning of developing claims together.
+docs.google.com
+There will be many opportunities to get involved in this round of bargainin=
+g campaign. Stay tuned and let me know if you are interested in helping out=
+.
+
+Kind regards,
+Noel
+
+---
+Noel Zeng (he/him)
+
+University of Auckland Branch Co-President, Te Haut=FE Kahurangi Tertiary E=
+ducation Union. Join your union<https://teu.ac.nz/join>!
+
+--_000_ME3PR01MB6612BF1E0D62A9AF4EF8764EC7242ME3PR01MB6612ausp_
+Content-Type: text/html; charset="ISO-8859-4"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+4">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+T=BAn=E0 t=E0tou katoa,</div>
+<div class=3D"elementToProof"><span style=3D"font-family: Aptos, Aptos_Embe=
+ddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 1=
+2pt; color: rgb(0, 0, 0);"><br>
+</span></div>
+<div class=3D"elementToProof"><span style=3D"font-family: Aptos, Aptos_Embe=
+ddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 1=
+2pt; color: rgb(0, 0, 0);">As noted in last week's TEU Update, our current =
+collective employment agreements will
+ expire this year, and negotiations for new agreements will start soon. You=
+r Branch Committee are keen to hear about what matters to you and your coll=
+eagues. What would you like to change about your pay, working conditions, a=
+nd other aspects of your workplace?</span></div>
+<div class=3D"elementToProof"><span style=3D"font-family: Aptos, Aptos_Embe=
+ddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 1=
+2pt; color: rgb(0, 0, 0);"><br>
+</span></div>
+<div class=3D"elementToProof"><span style=3D"font-family: Aptos, Aptos_Embe=
+ddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 1=
+2pt; color: rgb(0, 0, 0);">Please take a couple of minutes to
+<a href=3D"https://docs.google.com/forms/d/e/1FAIpQLSc8mX0uXCb7tzgf3uQBd7Ru=
+XH817Kz7fq2hkhuFP-D460nHdA/viewform" id=3D"LPlnk" class=3D"OWAAutoLink" tit=
+le=3D"https://docs.google.com/forms/d/e/1FAIpQLSc8mX0uXCb7tzgf3uQBd7RuXH817=
+Kz7fq2hkhuFP-D460nHdA/viewform">
+fill out this short 5-minute&nbsp;survey here</a>.</span></div>
+<div class=3D"_Entity _EType_OWALinkPreview _EId_OWALinkPreview _EReadonly_=
+1">
+<div id=3D"LPBorder_GTaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwU=
+UxTYzhtWDB1WENiN3R6Z2YzdVFCZDdSdVhIODE3S3o3ZnEyaGtodUZQLUQ0NjBuSGRBL3ZpZXdm=
+b3Jt" class=3D"LPBorder928824" style=3D"width: 100%; margin-top: 16px; marg=
+in-bottom: 16px; position: relative; max-width: 800px; min-width: 424px;">
+<table id=3D"LPContainer928824" role=3D"presentation" style=3D"padding: 12p=
+x 36px 12px 12px; width: 100%; border-width: 1px; border-style: solid; bord=
+er-color: rgb(200, 200, 200); border-radius: 2px;">
+<tbody>
+<tr valign=3D"top" style=3D"border-spacing: 0px;">
+<td>
+<div id=3D"LPImageContainer928824" style=3D"position: relative; margin-righ=
+t: 12px; height: 126px; overflow: hidden; width: 240px;">
+<a target=3D"_blank" id=3D"LPImageAnchor928824" href=3D"https://docs.google=
+.com/forms/d/e/1FAIpQLSc8mX0uXCb7tzgf3uQBd7RuXH817Kz7fq2hkhuFP-D460nHdA/vie=
+wform"><img id=3D"LPThumbnailImageId928824" alt=3D"" style=3D"display: bloc=
+k;" height=3D"126" width=3D"240" src=3D"https://lh5.googleusercontent.com/f=
+V9fv5PY5q0zYoScIC1G3qm3lnZGYOJkG8lzuHS7FP00WfIaMZuX8sO97RpTRGVygHqozmQjyFc=
+=3Dw1200-h630-p"></a></div>
+</td>
+<td style=3D"width: 100%;">
+<div id=3D"LPTitle928824" style=3D"font-size: 21px; font-weight: 300; margi=
+n-right: 8px; font-family: &quot;wf_segoe-ui_light&quot;, &quot;Segoe UI Li=
+ght&quot;, &quot;Segoe WP Light&quot;, &quot;Segoe UI&quot;, &quot;Segoe WP=
+&quot;, Tahoma, Arial, sans-serif; margin-bottom: 12px;">
+<a target=3D"_blank" id=3D"LPUrlAnchor928824" href=3D"https://docs.google.c=
+om/forms/d/e/1FAIpQLSc8mX0uXCb7tzgf3uQBd7RuXH817Kz7fq2hkhuFP-D460nHdA/viewf=
+orm" style=3D"text-decoration: none; color: var(--themePrimary);">TEU Barga=
+ining Claims Check in</a></div>
+<div id=3D"LPDescription928824" style=3D"font-size: 14px; max-height: 100px=
+; color: rgb(102, 102, 102); font-family: &quot;wf_segoe-ui_normal&quot;, &=
+quot;Segoe UI&quot;, &quot;Segoe WP&quot;, Tahoma, Arial, sans-serif; margi=
+n-bottom: 12px; margin-right: 8px; overflow: hidden;">
+Bargaining for our collective agreement begins again later this year. We wo=
+uld like to hear about what you think our claims should be. For context, in=
+ the 2022 bargaining round, our claims were: A pay increase that beats infl=
+ation Living wage as a minimum Tupu
+ increases to get staff to top of band more quickly Postdoctoral fellows to=
+ be brought under coverage Thank you for filling out this survey as a begin=
+ning of developing claims together.</div>
+<div id=3D"LPMetadata928824" style=3D"font-size: 14px; font-weight: 400; co=
+lor: rgb(166, 166, 166); font-family: &quot;wf_segoe-ui_normal&quot;, &quot=
+;Segoe UI&quot;, &quot;Segoe WP&quot;, Tahoma, Arial, sans-serif;">
+docs.google.com</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+There will be many opportunities to get involved in this round of bargainin=
+g campaign. Stay tuned and let me know if you are interested in helping out=
+.</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Kind regards,</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Noel</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div id=3D"Signature">
+<div><span style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; fon=
+t-size: 12pt; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">-=
+--</span></div>
+<div style=3D"background-color: rgb(255, 255, 255);"><span style=3D"font-fa=
+mily: Consolas, Courier, monospace; font-size: 10pt; color: rgb(0, 0, 0);">=
+Noel Zeng (he/him)</span></div>
+<div style=3D"background-color: rgb(255, 255, 255);"><span style=3D"font-fa=
+mily: Consolas, Courier, monospace; font-size: 10pt; color: rgb(0, 0, 0);">=
+<br>
+</span></div>
+<div style=3D"background-color: rgb(255, 255, 255);"><span style=3D"font-fa=
+mily: Consolas, Courier, monospace; font-size: 10pt; color: rgb(0, 0, 0); b=
+ackground-color: white;">University of Auckland Branch Co-President, Te Hau=
+t=FE Kahurangi Tertiary Education Union.
+<a href=3D"https://teu.ac.nz/join" target=3D"_blank" id=3D"OWAb40fe2e8-53e9=
+-2182-cc98-4f1ead023245" class=3D"OWAAutoLink" rel=3D"noopener noreferrer" =
+data-auth=3D"NotApplicable" data-loopstyle=3D"linkonly" data-linkindex=3D"0=
+">
+Join your union</a>!</span></div>
+</div>
+</body>
+</html>
+
+--_000_ME3PR01MB6612BF1E0D62A9AF4EF8764EC7242ME3PR01MB6612ausp_--

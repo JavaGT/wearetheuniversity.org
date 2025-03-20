@@ -1,0 +1,2198 @@
+Received: from SY4PR01MB6640.ausprd01.prod.outlook.com (2603:10c6:10:133::11)
+ by SYCPR01MB4863.ausprd01.prod.outlook.com with HTTPS; Fri, 9 Feb 2024
+ 01:33:23 +0000
+Received: from SG2PR02CA0008.apcprd02.prod.outlook.com (2603:1096:3:17::20) by
+ SY4PR01MB6640.ausprd01.prod.outlook.com (2603:10c6:10:133::11) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7270.24; Fri, 9 Feb 2024 01:33:21 +0000
+Received: from SG1PEPF000082E7.apcprd02.prod.outlook.com
+ (2603:1096:3:17:cafe::fb) by SG2PR02CA0008.outlook.office365.com
+ (2603:1096:3:17::20) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7249.43 via Frontend
+ Transport; Fri, 9 Feb 2024 01:33:21 +0000
+Authentication-Results: spf=pass (sender IP is 103.96.20.101)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=pass (signature was verified)
+ header.d=auckland.ac.nz;dmarc=pass action=none
+ header.from=auckland.ac.nz;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of list.auckland.ac.nz
+ designates 103.96.20.101 as permitted sender)
+ receiver=protection.outlook.com; client-ip=103.96.20.101;
+ helo=au-smtp-inbound-delivery-1.mimecast.com; pr=C
+Received: from au-smtp-inbound-delivery-1.mimecast.com (103.96.20.101) by
+ SG1PEPF000082E7.mail.protection.outlook.com (10.167.240.10) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7249.19 via Frontend Transport; Fri, 9 Feb 2024 01:33:20 +0000
+Received: from uoasmtpprd01.its.auckland.ac.nz
+ (uoasmtpprd01.its.auckland.ac.nz [130.216.125.250]) by relay.mimecast.com
+ with ESMTP with STARTTLS (version=TLSv1.3, cipher=TLS_AES_256_GCM_SHA384)
+ id au-mta-65-6W46ODIMM1OFGBg36UwZXQ-1; Fri, 09 Feb 2024 12:33:05 +1100
+X-MC-Unique: 6W46ODIMM1OFGBg36UwZXQ-1
+Received: from sympa.auckland.ac.nz (list.fmhs.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id C9A0F802548;
+	Fri,  9 Feb 2024 14:32:56 +1300 (NZDT)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz C9A0F802548
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=auckland.ac.nz;
+	s=rafal; t=1707442376;
+	bh=nqnZ7Sf59sT0WPc1zKKWz2uiz+7pAkscDB400v9Ymp8=;
+	h=From:To:Date:Subject:Reply-To:List-Id:List-Archive:List-Help:
+	 List-Owner:List-Post:List-Subscribe:List-Unsubscribe:From;
+	b=cZTdgI0E1+e6GDWuxP7aR4/+B5WCkbv71IPPOjnAvX1qQQGkKZGOpvfl5rq4sE1rQ
+	 larXARiLhIaBBQBxECnc/vxZ6FK5BA5+8G/ojHOt01JCLxolryr5McPtuwcdNBus1Z
+	 726WwybytRWP602n76TSBCQbylAhbe+0sbbiMAoA=
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id 9D73639947; Fri,  9 Feb 2024 14:32:56 +1300 (NZDT)
+X-Original-To: teu-academic@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-teu-academic@sympa.auckland.ac.nz
+Received: from au-smtp-inbound-delivery-1.mimecast.com (au-smtp-delivery-1.mimecast.com [103.96.20.101])
+	by sympa.auckland.ac.nz (Postfix) with ESMTP id 02E2F39201
+	for <teu-academic@list.auckland.ac.nz>; Fri,  9 Feb 2024 14:32:47 +1300 (NZDT)
+Received: from AUS01-ME3-obe.outbound.protection.outlook.com
+ (mail-me3aus01lp2233.outbound.protection.outlook.com [104.47.71.233]) by
+ relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ au-mta-71-HdjxSHX7Nwu6JD6PoF7Fww-1; Fri, 09 Feb 2024 12:32:42 +1100
+X-MC-Unique: HdjxSHX7Nwu6JD6PoF7Fww-1
+Received: from SYBPR01MB7177.ausprd01.prod.outlook.com (2603:10c6:10:148::13)
+ by SY0PR01MB8922.ausprd01.prod.outlook.com (2603:10c6:10:20f::8) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7270.25; Fri, 9 Feb
+ 2024 01:32:40 +0000
+Received: from SYBPR01MB7177.ausprd01.prod.outlook.com
+ ([fe80::40f4:3981:a0a8:3a31]) by SYBPR01MB7177.ausprd01.prod.outlook.com
+ ([fe80::40f4:3981:a0a8:3a31%3]) with mapi id 15.20.7249.039; Fri, 9 Feb 2024
+ 01:32:40 +0000
+From: Barry Hughes <b.hughes@auckland.ac.nz>
+To: "teu-academic@list.auckland.ac.nz" <teu-academic@list.auckland.ac.nz>,
+	"teu-professional-staff@list.auckland.ac.nz"
+	<teu-professional-staff@list.auckland.ac.nz>
+Thread-Topic: TEU update
+Thread-Index: Adpa9sipMfNi9w/WSNq1EPKS/cZ37w==
+Date: Fri, 9 Feb 2024 01:32:40 +0000
+Message-ID: <SYBPR01MB71776BDB4D33F11EF4C3F6F3BF4B2@SYBPR01MB7177.ausprd01.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-bromium-msgid: 908fec16-6524-438a-a0ff-7cd9c45a7096
+x-ms-traffictypediagnostic: SYBPR01MB7177:EE_|SY0PR01MB8922:EE_|SG1PEPF000082E7:EE_|SY4PR01MB6640:EE_|SYCPR01MB4863:EE_
+X-MS-Office365-Filtering-Correlation-Id: ad0754b6-bd8a-4612-7747-08dc290f19a1
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0
+X-Microsoft-Antispam-Message-Info-Original: DDGlASV3xSHDmFUEYqGY0VO+6hrRL0PHkBY0rvvnMKOpk7JZUiRGca87c79nfXgIIG8L1pDPDEa3Qdf/F8qbcGWUiALcUkHoC6Gz6ybcpIHY5H0H78zXPSBKhJIewBVJZzno6K1MzfAs/c2BoLsA85i7J98mtt9p2GzlvTEE7HFKsVs+QTEV4MIpwkTNSQPVogF4caEHKlOWSsCbP4MUQPr4VP1sRHVY3v6mYfCHwRbuEAELGGYJ2cdkf7VJXEEkoGctY/mGsEYo2jSdOS9E7FyODVG0RiN4Gkp9mHcik9Q7ZFiLT9QP2kf0/TdcDM//4ytOYurmHjcKaF1um0JjdLWzZEeV7oYzCZhzd06mjHLq3CMBcqeix3d+VrgybSHEgslvi6TYU24GUXvZsyu2T2J8bepYbSAwzBJAMF35hwXzayR3WOuQ9wllgb4BlvFkt7tRRSiy66nTMEo0YrrVoM0BUc9qyK9Ns6dSybCS23aSU3YHB0iFNufzwYa1gxFOw80EWeHExRu+olh6Hi6JnK2nObBbwQCHI0fpVpp46ow627VOJbb/HZG1bgdnIE/Zr5z5On0c9UuvuX8Dh5wqe8YE79zdEQGCXekbJqMH10MrWOL1TZPgxnZLkBjQ2RlDcj0Q+CaP/fjreLXKGD9JfOPZga0K3kV/le/L6HnwUIMCLt0OrKeDjXLSJglQ7/Mt
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SYBPR01MB7177.ausprd01.prod.outlook.com;PTR:;CAT:NONE;SFS:;DIR:INT
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY0PR01MB8922
+X-Mimecast-Originator: auckland.ac.nz
+Subject: [TEU-academic] ] TEU update
+Reply-To: Barry Hughes <b.hughes@auckland.ac.nz>
+X-Loop: teu-academic@list.auckland.ac.nz
+X-Sequence: 1387
+Errors-to: teu-academic-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: teu-academic-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <teu-academic.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/teu-academic>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:teu-academic-request@list.auckland.ac.nz>
+List-Post: <mailto:teu-academic@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20teu-academic>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20teu-academic>
+X-Mimecast-Spam-Score: 0
+Content-Language: en-US
+Content-Type: multipart/related;
+	boundary="_005_SYBPR01MB71776BDB4D33F11EF4C3F6F3BF4B2SYBPR01MB7177ausp_";
+	type="multipart/alternative"
+Return-Path: teu-academic-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 09 Feb 2024 01:33:21.1028
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: ad0754b6-bd8a-4612-7747-08dc290f19a1
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: d1b36e95-0d50-42e9-958f-b63fa906beaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SG1PEPF000082E7.apcprd02.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: SG1PEPF000082E7.apcprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 67318a9b-3cd0-4197-8452-08dc290f0143
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report: CIP:103.96.20.101;CTRY:AU;LANG:en;SCL:-1;SRV:;IPV:CAL;SFV:NSPM;H:au-smtp-inbound-delivery-1.mimecast.com;PTR:au-smtp-inbound-delivery-1.mimecast.com;CAT:NONE;SFS:;DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 09 Feb 2024 01:33:20.7434
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: ad0754b6-bd8a-4612-7747-08dc290f19a1
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-AuthSource: SG1PEPF000082E7.apcprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY4PR01MB6640
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.9565037
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7270.024
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?windows-1257?Q?1d1TAVPLy9L6Sw1wUh5S2xO4G32jz5GBkJLHchg+jhNBRDpnWMhpyh9V?=
+ =?windows-1257?Q?fj2AEhNzfSofWhrHKmgJvWITB0HuN+hcGDqICC3yu7MOwO8mXNvuAD9k?=
+ =?windows-1257?Q?sBHgQUdl0jrR3ArRmco1qIDp+9jYmWfPI8sUIisTrD1xRYizdy4A8P9I?=
+ =?windows-1257?Q?PRUFvIAmWr8Dxbv+l6pDnNxh53U3VbChM3iC+i3zjXiwxXfyIxPiVtkx?=
+ =?windows-1257?Q?UZiS3BtdWtgVH2Qxj/NA4dtLYixDukiZ9MOcM16YmNdoDvV52OLHwQvr?=
+ =?windows-1257?Q?kkEY2iT2jjoNe/8Pd2soJVzm+RCsRD89PvJ4sWL7w5lVMnfScrW/kS9o?=
+ =?windows-1257?Q?LbnNvFqwpMCVku9zMVJGiNTqjB7URWo1cr7YUuV36ETUV0rhWnApUpdb?=
+ =?windows-1257?Q?YWauLBZudKGzY4g73j8CG2lx1jfwh3MNUVvC//oDm1scvC9DRC1aSwPs?=
+ =?windows-1257?Q?YWbetwEdxA88UJaplnAhoDylRiV5o+0VSY4eUBASQx/FajgIweBMn+Nl?=
+ =?windows-1257?Q?yc5KDpSQ5svLg99VsKQk6HkGZLYLhzJOkO51gLTFf074nxlZteEvnP4P?=
+ =?windows-1257?Q?DnJyC0KUmTjY14I4PGdAillThuev2uqEpgUIbyGSo7bbVCp/OUsgEnLb?=
+ =?windows-1257?Q?skm5QlBs9cOgLgezTygAQ0vJhnZuu6y1J43slXs/E365+zKM4pXSlybV?=
+ =?windows-1257?Q?T45kjMrAlN9NTSKuj3rE1G9GEJYd9194ZbgrqTWVeV8jDRJXNb2dW+aX?=
+ =?windows-1257?Q?EVdYvYoaAjWrOiiPGqhHoh04hHLo1+UYEFQCShz06b+qfOGSzWVsZ/Wc?=
+ =?windows-1257?Q?jgxnCJxQBEsOXEovi0A/g0KwCLqhmj2uqKDqgKR27NBh7cjivvzw1wmH?=
+ =?windows-1257?Q?5vmra35WxQGXjOk80mjKD1Thm+CODzVjkt6kChlJLzsjWfXq2d47ebBx?=
+ =?windows-1257?Q?uxbLPI9fFjUYoBfNWt4N2/yeBOLtIEyZ6/A/ZsENvymDOfH+SaCAXqLG?=
+ =?windows-1257?Q?4yyQslYauCcTn+0WHLqAK5OTYrcNzOC9wr6MIyS/SeJOchggb7W2f3p8?=
+ =?windows-1257?Q?McjjP+Go/labvEULvYNWkjbtISaY4JL4IlCvg0LU4M2mFbcqGzT3sAgM?=
+ =?windows-1257?Q?AUpUcFqzSEO2i1B31WwpHppn3Ftljygb6BTxX1M+RWRPWX/FPF0mzp8X?=
+ =?windows-1257?Q?RII8ih3ctfKLv4cwUkGJYJi8dPk5EWi/kQQxeb7AirMVqHR0lCsPmcjp?=
+ =?windows-1257?Q?Hy4wXtg6xzi8YQIvRNU1v56UvhGsrGfNB5CllJvlwsVNJ+NUwFYYz6s6?=
+ =?windows-1257?Q?x1lVGKPeObqE46uyGO6lkNzrceCL/TrYzmWNPCQhaZIM/A2FU/LbNkQ0?=
+ =?windows-1257?Q?H9E7kWltGbPHzz/4XEb4MxRNsHOw6WDmJRWORJArk3BIP6ls5qEhSiQQ?=
+ =?windows-1257?Q?kEDrMRJaiq8sHmzDNyuIZlukzr4tONhWLvwcAScEBnCw4FVoutXjgIEV?=
+ =?windows-1257?Q?EY5swhjgyn8Hjrs5ImZeADmT3l5kVagK7/8OY27oMMYJWiatucM=3D?=
+MIME-Version: 1.0
+
+--_005_SYBPR01MB71776BDB4D33F11EF4C3F6F3BF4B2SYBPR01MB7177ausp_
+Content-Type: multipart/alternative;
+	boundary="_000_SYBPR01MB71776BDB4D33F11EF4C3F6F3BF4B2SYBPR01MB7177ausp_"
+
+--_000_SYBPR01MB71776BDB4D33F11EF4C3F6F3BF4B2SYBPR01MB7177ausp_
+Content-Type: text/plain; charset="WINDOWS-1257"
+Content-Transfer-Encoding: quoted-printable
+
+[cid:image001.png@01DA5B64.334B48C0]
+
+
+T=E7n=E2 koutou katoa
+
+
+On behalf of the union leadership and branch committee, we wish all our mem=
+bers a happy new year. Activities are warming up, literally and figurativel=
+y, and we hope that our members have had been able to recover from the rigo=
+rs of 2023.
+
+
+The year ahead. The Branch committee is preparing for the upcoming year.
+
+=B7     We are preparing for another round of formal bargaining. We would l=
+ove to hear from members who are familiar with university operations (both =
+academic and professional capacities), even if they are not familiar with t=
+he bargaining process, and who would be willing to consider joining our eff=
+orts across the table from the employer. Those who have been involved in ba=
+rgaining will know that it can be an eye-opening --and an eye-watering-- ex=
+perience. If you would like to learn more about being on our bargaining tea=
+m, please contact me (if academic staff) or Noel Zeng (if professional staf=
+f).
+
+=B7     We are always looking to build our Delegate network in various work=
+spaces across the university. If you are prepared to undertake occasional o=
+rganisational efforts in your work area, please advise Nicole or Andy, our =
+organisers (details below).
+
+=B7     The Branch committee is seeking members to complete several portfol=
+ios.  We would love to hear from members interested in the following repres=
+entational roles: Te Uep=FB (M=E2ori reps), Women, Recruitment, Professiona=
+l Staff, Pasifika and GTA/TA. Of particular importance are the Te Uep=FB re=
+ps (one academic, one professional) and the GTA/TA reps. These members are =
+likely to require direct representation on issues in the near future. If yo=
+u are interested, or have any questions about the roles, email please email=
+ me, Noel, or Nicole.
+
+Membership. Membership strength is always important, but never more importa=
+nt than in a bargaining year. I am happy to report that we have been joined=
+ (or rejoined) by 28 members since the beginning of the year.  Growing our =
+membership is a matter of self-interest and self-preservation. Please conti=
+nue to have conversations with your colleagues. Ask about the issues in the=
+ workplace that matter to them. Remind them that the union works for them. =
+ And that the union=92s effectiveness is proportional to our membership den=
+sity and activity across the workplace.
+
+TEU is officially a co-governance union. A whakatau was held in Wellington =
+yesterday, formally welcoming our union=92s two co-presidents. Julie Dougla=
+s (AUT) and H=FBhana W=E2tene (Unitec) have the responsibility of leading b=
+y example and demonstrating that co-governance is not only desirable and wo=
+rkable but beneficial even in --especially in-- the current political clima=
+te. See also https://twitter.com/nzteu/status/1755389050159030466 with more=
+ photos at https://www.flickr.com/photos/195692416@N04/albums/7217772031464=
+3806/with/53514836742<https://www.flickr.com/photos/195692416@N04/albums/72=
+177720314643806/with/53514836742>.
+
+
+UoA Members=92 New Years Honours. Congratulations to TEU members Tamasailau=
+ Suaalii-Sauni and Yvonne Jasmine Te Ruki Rangi o Tangaroa Underhill who we=
+re recognised in the 2024 New Years Honours as Members of the New Zealand O=
+rder of Merit. Their Pacific-focused research and service warrants this imp=
+ortant acknowledgment.
+
+
+International Women=92s Day. Save the date for our International Women=92s =
+Day breakfast event, with panel and discussion of the UoA Gender Pay Gap Re=
+port<https://www.auckland.ac.nz/en/news/2023/12/06/pay-gap-report.html> pub=
+lished late last year. Confirmed panellists include Pro VC Equity Prof. Cat=
+hy Stinear, Prof. Nicola Gaston, and Dr. Sereana Naepi. Date: Friday, 8 Mar=
+ch. Time: 8-9 a.m. Location: Old Government House Dining Room. All TEU memb=
+ers are welcome, and an invitation will go out as soon!
+
+
+Women in Science. The Women in Science working group is going to restart it=
+s brown bag lunches, starting from next Tuesday (13 Feb). This will be held=
+ 12:30 =96 1:30pm in the 4th floor common room of Building 303. They will t=
+hen meet the first Wednesday of each month. Anyone who identifies as a woma=
+n is welcome to join us! This is just an opportunity to connect with women =
+across the faculty in a relaxed environment. Bring your own lunch. If you a=
+re interested in being included in reminders and kept up to date with any d=
+ate or location changes, please email nicolette.rattenbury@auckland.ac.nz<m=
+ailto:nicolette.rattenbury@auckland.ac.nz>
+
+Support unionised Tongan handicraft workers. Tonga Public Services Associat=
+ion, along with Tonga Handicrafts Workers=92 Association, Tonga National Wo=
+rkers=92 Council, and their exporter Pasifiki Tonga R&D Corporation, have c=
+reated an online store to assist workers in Tonga=92s handicraft sector. Th=
+ese creative workers are looking to revive livelihoods lost after the COVID=
+19 restrictions and the 2022 volcanic eruption. Check out their work for pu=
+rchase at https://www.pasifikitongarndwebsite.com/<https://www.pasifikitong=
+arndwebsite.com/>
+
+Reflections of a former PTF. Andrew Dubovyi, who served as PTF representati=
+ve on the branch committee, reflects on his decision to work elsewhere:
+
+=93Why I Left the University of Auckland
+
+As I embark on a new chapter, I wanted to reflect on my time at the Univers=
+ity of Auckland=97the good and the not so good=97in hopes that sharing my e=
+xperiences might spur positive change.
+
+First, the many blessings. I was privileged to work among wonderful, suppor=
+tive colleagues who readily shared expertise and mentored me as an early ca=
+reer academic. My fellow Professional Teaching Fellows brought tremendous d=
+edication despite heavy workloads. My department chairs empowered me to kee=
+p growing. For all this, I am enormously grateful.
+
+At the same time, there were concerning, demoralizing issues that slowly er=
+oded staff goodwill. During the negotiations of the bargaining campaign, th=
+e university callously disregarded employees' extraordinary efforts during =
+the pandemic=97hundreds and thousands of unpaid hours people collectively p=
+ut in to keep things going=97and instead used twisted facts to paint reason=
+able requests for fair pay as unreasonable demands. Watching this firsthand=
+ made me realize that this is not how you treat people.
+
+Then there was the matter of job security. I joined the university on a tem=
+porary fixed term PTF contract. It just happened that at the end of the fir=
+st one there was another course to teach, and then there was another teachi=
+ng assignment to cover, etc, etc. I think many people would find this story=
+ familiar. Being on a fixed term contract is challenging for career progres=
+sion, not to mention the anxiety around the renewal when the contract is ab=
+out to expire. While the school clearly had a need for an extra teaching pe=
+rson in a PTF role, I=92ve spent almost 6 years on various fixed term contr=
+acts until the permanent role was finally advertised. This is not okay. Of =
+course, I can say this now when I=92m on a permanent contract here and have=
+ another lined up in Sydney, but the fear to voice your concerns, the fear =
+to stand your ground, is real and no one should be put in this position.
+
+But perhaps what finally tipped the scales for me was the lack of avenues f=
+or advancement. Under the current system, Professional Teaching Fellows hav=
+e almost no pathway to progress beyond PTF4, no matter how stellar their te=
+aching and service records, while discipline researchers breeze up the hier=
+archy. This hardly incentivizes teaching excellence.
+
+If you look at position descriptions in other universities, you might find =
+something called =93education-focused academic=94. The responsibilities are=
+ very similar to those of a Professional Teaching Fellow, but those roles a=
+re on the academic scale with Lecturers, Senior Lecturers, Associate Profes=
+sors, and Professors. Yes, you can become a full professor by doing good te=
+aching, not based on your discipline research. What are the chances of a PT=
+F4 becoming an Associate Professor? Well, if you read academic standards cl=
+osely =96 pretty much zero. You can=92t be the PI on two big research grant=
+s and have 35-45 publications required for AP when 80% of your workload is =
+teaching.
+
+As I move on, my hope is that by sharing my experiences transparently, more=
+ PTFs will find the courage to speak up. You deserve job security. You dese=
+rve to be valued and respected by your employer. You deserve career progres=
+sion pathways that honour your vital contributions.
+
+The University of Auckland has so much potential to be a leader in fosterin=
+g teaching excellence. With some structural changes to promote equity and i=
+nclusion, it can set the standard for valuing all academics equally. I urge=
+ university leaders to listen to your most important asset=97your people.
+
+Wishing you all the very best for 2024!=94
+
+Trying to do your job in sweltering heat? Indoors? We have had feedback tha=
+t some workplaces are getting uncomfortably warm. Our employer must ensure =
+that the temperature is =91thermally comfortable=92. WorkSafe recommends th=
+at for those in sedentary jobs, the temperature in our workplaces should be=
+ 19-24 degrees (in winter it is 18-22 degrees).  If you are finding the tem=
+perature in your workplace is uncomfortable, bring this up with your manage=
+r.  Logging this as a health and safety observation is also recommended, as=
+ this will ensure that the Health and Safety team are aware this is an issu=
+e.  This can also be done via the website here<https://www.auckland.ac.nz/e=
+n/health-safety-wellbeing/report-concerns-hazards/injury-incidents-observat=
+ions-reporting.html>, or you can report this through the University of Auck=
+land Alert App on your phone using the Report Injury or Incident button, th=
+en use the Observation Report form.
+
+Violence in translation: when logic becomes a tool of oppression =97 Logic =
+in the Wild<https://www.logicinthewild.com/blog/6v7ouv60lpu1dblguufw2mo32za=
+l1k>. TEU member Patrick Girard (Philosophy) on the logical pitfalls of tra=
+nslation and te Tiriti o Waitangi.
+
+=93..overly coached, inordinately cautious, excessively legalistic..=94 Ran=
+dall Kennedy on why the President of Harvard U did not last six months. Ran=
+dall Kennedy =B7 Browbeating: Congress v. Harvard (lrb.co.uk)<https://www.l=
+rb.co.uk/the-paper/v46/n02/randall-kennedy/browbeating>. See also The Futur=
+e of Academic Freedom | The New Yorker<https://www.newyorker.com/news/the-w=
+eekend-essay/the-future-of-academic-freedom>
+
+=93New Zealand must follow Europe=92s lead and enact AI regulation to ensur=
+e police use of AI doesn=92t cause more problems than it solves.=94 TEU mem=
+ber Alex Sims (Commercial Law) explains. NZ police are using AI to catch cr=
+iminals =96 but the law urgently needs to catch up too (theconversation.com=
+)<https://theconversation.com/nz-police-are-using-ai-to-catch-criminals-but=
+-the-law-urgently-needs-to-catch-up-too-214833>
+
+Reminders.
+
+  *   Pay Equity. The TEU pay equity claim for administrative and library s=
+taff is active. This claim has the potential to affect as many as 900 UoA s=
+taff members. We are now moving into a new phase of the claim, where member=
+ involvement is very important. If you have received an email from TEU admi=
+nistrator Lucy Fowler about your role, make sure you have replied! If you a=
+re interested in more information, email Nicole or Lucy:  nicole.wallace@te=
+u.ac.nz<mailto:nicole.wallace@teu.ac.nz> or lucy.fowler@teu.ac.nz<mailto:lu=
+cy.fowler@teu.ac.nz>.
+  *   Office hours on campus. We have a TEU office on campus, Room 417 in t=
+he Fisher Building on Waterloo Quadrant. TEU Organisers Nicole and Andy hav=
+e walk-in office hours every Friday between 10am and 2pm. They can be conta=
+cted otherwise by email: nicole.wallace@teu.ac.nz<mailto:nicole.wallace@teu=
+.ac.nz> or andy.hipkiss@teu.ac.nz<mailto:andy.hipkiss@teu.ac.nz>
+
+
+
+Please consider sharing this and subsequent Updates (electronically or prin=
+ted) with colleagues who may benefit from knowing what the TEU is about.
+
+
+
+
+fraternally
+b
+
+
+
+Barry Hughes, PhD
+School of Psychology
+Phone: +64 9 923 5265
+Extension: 85265
+
+[cid:image002.png@01DA5B64.334B48C0]
+
+
+--_000_SYBPR01MB71776BDB4D33F11EF4C3F6F3BF4B2SYBPR01MB7177ausp_
+Content-Type: text/html; charset="WINDOWS-1257"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Aptos;}
+@font-face
+	{font-family:"Open Sans";}
+@font-face
+	{font-family:neue-haas-grotesk-text;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParag=
+raphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListPar=
+agraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagra=
+phCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+p.Default, li.Default, div.Default
+	{mso-style-name:Default;
+	margin:0cm;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Verdana",sans-serif;
+	color:black;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.elementtoproof, li.elementtoproof, div.elementtoproof
+	{mso-style-name:elementtoproof;
+	margin:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+span.xmark6ar7rors6
+	{mso-style-name:x_mark6ar7rors6;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:11.0pt;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:625234226;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1524908068 336134145 336134147 336134149 336134145 3=
+36134147 336134149 336134145 336134147 336134149;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:72.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:108.0pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:144.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:180.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:216.0pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:252.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:288.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:324.0pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:360.0pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:1962803701;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1896401236 336134145 336134147 336134149 336134145 3=
+36134147 336134149 336134145 336134147 336134149;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-NZ" link=3D"#0563C1" vlink=3D"#954F72" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"background:white"><a name=3D"_Hlk151731672"=
+></a><span style=3D"mso-bookmark:_Hlk151731672"><span lang=3D"PT-BR" style=
+=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:bl=
+ack"><img width=3D"140" height=3D"136" style=3D"width:1.4583in;height:1.416=
+6in" id=3D"_x0000_i1026" src=3D"cid:image001.png@01DA5B64.334B48C0"></span>=
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"color:black"><o:p>&nbsp;</o:p></span></spa=
+n></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"color:#242424;background:white"><o:p>&nbsp=
+;</o:p></span></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><a name=3D"_Hlk150521522"><span style=3D"color:black">T</=
+span></a></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"m=
+so-bookmark:_Hlk150521522"><span style=3D"color:black">=E7n=E2
+ koutou katoa&nbsp;<o:p></o:p></span></span></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"mso-bookma=
+rk:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D=
+"color:black"><o:p>&nbsp;</o:p></span></span></span></p>
+<p class=3D"Default"><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,sans-serif;color:windowtext">On behalf of the union le=
+adership and branch committee, we wish all our members
+ a happy new year. Activities are warming up, literally and figuratively, a=
+nd we hope that our members have had been able to recover from the rigors o=
+f 2023.<o:p></o:p></span></span></span></p>
+<p class=3D"Default"><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,sans-serif;color:windowtext"><o:p>&nbsp;</o:p></span><=
+/span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><span style=3D"color:black">The year a=
+head.
+</span></b><span style=3D"color:black">The Branch committee is preparing fo=
+r the upcoming year.
+</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:black"><o:p></o:p></sp=
+an></span></span></p>
+<p class=3D"MsoListParagraphCxSpFirst" style=3D"margin-left:1.0cm;mso-add-s=
+pace:auto;text-indent:-14.15pt;mso-list:l0 level1 lfo1">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><![if !supportLists]><span style=3D"font-family:Symbol;color:bla=
+ck"><span style=3D"mso-list:Ignore">=B7<span style=3D"font:7.0pt &quot;Time=
+s New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D"color:black">We are preparing=
+ for another round of formal
+<b>bargaining</b>. We would love to hear from members who are familiar with=
+ university operations (both academic and professional capacities), even if=
+ they are not familiar with the bargaining process, and who would be willin=
+g to consider joining our efforts
+ across the table from the employer. Those who have been involved in bargai=
+ning will know that it can be an eye-opening --and an eye-watering-- experi=
+ence. If you would like to learn more about being on our bargaining team, p=
+lease contact me (if academic staff)
+ or Noel Zeng (if professional staff). <o:p></o:p></span></span></span></p>
+<p class=3D"MsoListParagraphCxSpMiddle" style=3D"margin-left:1.0cm;mso-add-=
+space:auto;text-indent:-14.15pt;mso-list:l0 level1 lfo1">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><![if !supportLists]><span style=3D"font-family:Symbol"><span st=
+yle=3D"mso-list:Ignore">=B7<span style=3D"font:7.0pt &quot;Times New Roman&=
+quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D"color:black">We are always lo=
+oking to build our
+<b>Delegate network</b> in various workspaces across the university. If you=
+ are prepared to undertake occasional organisational efforts in your work a=
+rea, please advise Nicole or Andy, our organisers (details below).&nbsp;</s=
+pan><o:p></o:p></span></span></p>
+<p class=3D"MsoListParagraphCxSpLast" style=3D"margin-left:1.0cm;mso-add-sp=
+ace:auto;text-indent:-14.15pt;mso-list:l0 level1 lfo1">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><![if !supportLists]><span style=3D"font-family:Symbol;mso-ligat=
+ures:none"><span style=3D"mso-list:Ignore">=B7<span style=3D"font:7.0pt &qu=
+ot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D"color:black">The <b>Branch co=
+mmittee is seeking members</b> to complete</span><span style=3D"mso-ligatur=
+es:none"> several portfolios.&nbsp; We would love to hear from members inte=
+rested in the following representational
+ roles: Te Uep=FB (M=E2ori reps), Women, Recruitment, Professional Staff, P=
+asifika and GTA/TA. Of particular importance are the
+<b>Te Uep=FB reps</b> (one academic, one professional) and the <b>GTA/TA re=
+ps</b>. These members are likely to require direct representation on issues=
+ in the near future. If you are interested, or have any questions about the=
+ roles, email please email me, Noel,
+ or Nicole.<o:p></o:p></span></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><o:p>&nbsp;</o:p></b></span></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b>Membership.
+</b>Membership strength is always important, but never more important than =
+in a bargaining year. I am happy to report that we have been joined (or rej=
+oined) by 28 members since the beginning of the year.&nbsp; Growing our mem=
+bership is a matter of self-interest
+ and self-preservation. Please continue to have conversations with your col=
+leagues. Ask about the issues in the workplace that matter to them. Remind =
+them that the union works for them.&nbsp; And that the union=92s effectiven=
+ess is proportional to our membership density
+ and activity across the workplace.<o:p></o:p></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><o:p>&nbsp;</o:p></b></span></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b>TEU is officially a co-governance unio=
+n.
+</b>A whakatau was held in Wellington yesterday, formally welcoming our uni=
+on=92s two co-presidents. Julie Douglas (AUT) and H=FBhana W=E2tene (Unitec=
+) have the responsibility of leading by example and demonstrating that co-g=
+overnance is not only desirable and workable
+ but beneficial even in --especially in-- the current political climate. Se=
+e also
+</span></span><a href=3D"https://twitter.com/nzteu/status/17553890501590304=
+66"><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:=
+_Hlk150521522"><span style=3D"color:#0070C0">https://twitter.com/nzteu/stat=
+us/1755389050159030466</span></span></span><span style=3D"mso-bookmark:_Hlk=
+151731672"><span style=3D"mso-bookmark:_Hlk150521522"></span></span></a><sp=
+an style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150=
+521522">
+ with more photos at </span></span><a href=3D"https://www.flickr.com/photos=
+/195692416@N04/albums/72177720314643806/with/53514836742"><span style=3D"ms=
+o-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span =
+style=3D"color:#0070C0">https://www.flickr.com/photos/195692416@N04/albums/=
+72177720314643806/with/53514836742</span></span></span><span style=3D"mso-b=
+ookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"></span></=
+span></a><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-book=
+mark:_Hlk150521522">.<b><o:p></o:p></b></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><o:p>&nbsp;</o:p></b></span></span></p=
+>
+<p class=3D"Default"><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><b><span style=3D"font-size:11.0pt;font-fam=
+ily:&quot;Calibri&quot;,sans-serif;color:windowtext">UoA Members=92 New Yea=
+rs Honours.
+</span></b></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span s=
+tyle=3D"mso-bookmark:_Hlk150521522"><span style=3D"font-size:11.0pt;font-fa=
+mily:&quot;Calibri&quot;,sans-serif;color:windowtext">Congratulations to TE=
+U members
+</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,sans-serif">Tamasailau</span></span></span><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+<span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;=
+color:windowtext">
+ Suaalii-Sauni and Yvonne Jasmine Te Ruki Rangi o Tangaroa Underhill who we=
+re recognised in the 2024 New Years Honours as Members of the New Zealand O=
+rder of Merit. Their Pacific-focused research and service warrants this imp=
+ortant acknowledgment.
+</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"font-family:&quot;Open Sans&=
+quot;,sans-serif"><o:p></o:p></span></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><o:p>&nbsp;</o:p></b></span></span></p=
+>
+<p class=3D"elementtoproof"><span style=3D"mso-bookmark:_Hlk151731672"><spa=
+n style=3D"mso-bookmark:_Hlk150521522"><b><span style=3D"font-size:11.0pt;f=
+ont-family:&quot;Calibri&quot;,sans-serif;color:black">International Women=
+=92s Day.
+</span></b></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span s=
+tyle=3D"mso-bookmark:_Hlk150521522"><span style=3D"font-size:11.0pt;font-fa=
+mily:&quot;Calibri&quot;,sans-serif;color:black">Save the date for our Inte=
+rnational Women=92s Day breakfast event, with panel
+ and discussion of the </span></span></span><a href=3D"https://www.auckland=
+.ac.nz/en/news/2023/12/06/pay-gap-report.html"><span style=3D"mso-bookmark:=
+_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"fo=
+nt-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">UoA
+ Gender Pay Gap Report</span></span></span><span style=3D"mso-bookmark:_Hlk=
+151731672"><span style=3D"mso-bookmark:_Hlk150521522"></span></span></a><sp=
+an style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150=
+521522"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,san=
+s-serif;color:black">&nbsp;published
+ late last year. Confirmed panellists include Pro VC Equity Prof. Cathy Sti=
+near, Prof. Nicola Gaston, and Dr. Sereana Naepi. Date: Friday, 8 March. Ti=
+me: 8-9 a.m. Location: Old Government House Dining Room. All TEU members ar=
+e welcome, and an invitation will
+ go out as soon!</span></span></span><span style=3D"mso-bookmark:_Hlk151731=
+672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"font-size:11=
+.0pt;font-family:&quot;Calibri&quot;,sans-serif"><o:p></o:p></span></span><=
+/span></p>
+<p class=3D"elementtoproof"><span style=3D"mso-bookmark:_Hlk151731672"><spa=
+n style=3D"mso-bookmark:_Hlk150521522"><span style=3D"font-size:11.0pt;font=
+-family:&quot;Calibri&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span=
+></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><span lang=3D"EN-US">Women in Science<=
+/span></b></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span st=
+yle=3D"mso-bookmark:_Hlk150521522"><span lang=3D"EN-US">.
+</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522">The Women in Science working group is going=
+ to restart its brown bag lunches, starting from next Tuesday (13 Feb). Thi=
+s will be held 12:30 =96 1:30pm in the
+ 4th floor common room of Building 303. They will then meet the first Wedne=
+sday of each month. Anyone who identifies as a woman is welcome to join us!=
+ This is just an opportunity to connect with women across the faculty in a =
+relaxed environment. Bring your
+ own lunch. If you are interested in being included in reminders and kept u=
+p to date with any date or location changes, please email
+</span></span><a href=3D"mailto:nicolette.rattenbury@auckland.ac.nz" title=
+=3D"mailto:nicolette.rattenbury@auckland.ac.nz"><span style=3D"mso-bookmark=
+:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"c=
+olor:#0078D4;mso-ligatures:none;mso-fareast-language:EN-GB">nicolette.ratte=
+nbury@auckland.ac.nz</span></span></span><span style=3D"mso-bookmark:_Hlk15=
+1731672"><span style=3D"mso-bookmark:_Hlk150521522"></span></span></a><span=
+ style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk15052=
+1522"><span style=3D"color:black;letter-spacing:.2pt;background:#E4E3E2"><o=
+:p></o:p></span></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><o:p>&nbsp;</o:p></b></span></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b>Support unionised Tongan handicraft wo=
+rkers.<i>
+</i></b><i>Tonga Public Services Association, </i>along with <i>Tonga Handi=
+crafts Workers=92 Association, Tonga National Workers=92 Council</i>, and t=
+heir exporter
+<i>Pasifiki Tonga R&amp;D Corporation</i>, have created an online store <sp=
+an style=3D"color:black">
+to assist workers in Tonga=92s handicraft sector. These creative workers ar=
+e looking to revive livelihoods lost after the COVID19 restrictions and the=
+ 2022 volcanic eruption. Check out their work for purchase at
+</span></span></span><a href=3D"https://www.pasifikitongarndwebsite.com/"><=
+span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk1=
+50521522">https://www.pasifikitongarndwebsite.com/</span></span><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+</span></span></a><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D=
+"mso-bookmark:_Hlk150521522"><o:p></o:p></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><o:p>&nbsp;</o:p></b></span></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b>Reflections of a former PTF.</b> Andre=
+w Dubovyi, who served as PTF representative on the branch committee, reflec=
+ts on his decision to work elsewhere:&nbsp;&nbsp;
+<o:p></o:p></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><i><span lang=3D"EN-GB" style=3D"font-=
+size:10.0pt"><o:p>&nbsp;</o:p></span></i></b></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">=93Why I Left the=
+ University of Auckland&nbsp;&nbsp;<o:p></o:p></span></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">&nbsp;</span><o:p=
+></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">As I embark on a =
+new chapter, I wanted to reflect on my time at the University of Auckland=
+=97the good and the not so good=97in hopes that
+ sharing my experiences might spur positive change.</span><o:p></o:p></i></=
+span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">&nbsp;</span><o:p=
+></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">First, the many b=
+lessings. I was privileged to work among wonderful, supportive colleagues w=
+ho readily shared expertise and mentored
+ me as an early career academic. My fellow Professional Teaching Fellows br=
+ought tremendous dedication despite heavy workloads. My department chairs e=
+mpowered me to keep growing. For all this, I am enormously grateful.&nbsp;&=
+nbsp;</span><o:p></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">&nbsp;</span><o:p=
+></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">At the same time,=
+ there were concerning, demoralizing issues that slowly eroded staff goodwi=
+ll. During the negotiations of the bargaining
+ campaign, the university callously disregarded employees' extraordinary ef=
+forts during the pandemic=97hundreds and thousands of unpaid hours people c=
+ollectively put in to keep things going=97and instead used twisted facts to=
+ paint reasonable requests for fair
+ pay as unreasonable demands. Watching this firsthand made me realize that =
+this is not how you treat people.&nbsp;&nbsp;</span><o:p></o:p></i></span><=
+/span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">&nbsp;</span><o:p=
+></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">Then there was th=
+e matter of job security. I joined the university on a temporary fixed term=
+ PTF contract. It just happened that at
+ the end of the first one there was another course to teach, and then there=
+ was another teaching assignment to cover, etc, etc. I think many people wo=
+uld find this story familiar. Being on a fixed term contract is challenging=
+ for career progression, not to
+ mention the anxiety around the renewal when the contract is about to expir=
+e. While the school clearly had a need for an extra teaching person in a PT=
+F role, I=92ve spent almost 6 years on various fixed term contracts until t=
+he permanent role was finally advertised.
+ This is not okay. Of course, I can say this now when I=92m on a permanent =
+contract here and have another lined up in Sydney, but the fear to voice yo=
+ur concerns, the fear to stand your ground, is real and no one should be pu=
+t in this position.</span><o:p></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">&nbsp;</span><o:p=
+></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">But perhaps what =
+finally tipped the scales for me was the lack of avenues for advancement. U=
+nder the current system, Professional Teaching
+ Fellows have almost no pathway to progress beyond PTF4, no matter how stel=
+lar their teaching and service records, while discipline researchers breeze=
+ up the hierarchy. This hardly incentivizes teaching excellence.&nbsp;&nbsp=
+;</span><o:p></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">&nbsp;</span><o:p=
+></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">If you look at po=
+sition descriptions in other universities, you might find something called =
+=93education-focused academic=94. The responsibilities
+ are very similar to those of a Professional Teaching Fellow, but those rol=
+es are on the academic scale with Lecturers, Senior Lecturers, Associate Pr=
+ofessors, and Professors. Yes, you can become a full professor by doing goo=
+d teaching, not based on your discipline
+ research. What are the chances of a PTF4 becoming an Associate Professor? =
+Well, if you read academic standards closely =96 pretty much zero. You can=
+=92t be the PI on two big research grants and have 35-45 publications requi=
+red for AP when 80% of your workload
+ is teaching.&nbsp;&nbsp;</span><o:p></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">&nbsp;</span><o:p=
+></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">As I move on, my =
+hope is that by sharing my experiences transparently, more PTFs will find t=
+he courage to speak up. You deserve job
+ security. You deserve to be valued and respected by your employer. You des=
+erve career progression pathways that honour your vital contributions.</spa=
+n><o:p></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">&nbsp;</span><o:p=
+></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">The University of=
+ Auckland has so much potential to be a leader in fostering teaching excell=
+ence. With some structural changes to promote
+ equity and inclusion, it can set the standard for valuing all academics eq=
+ually. I urge university leaders to listen to your most important asset=97y=
+our people.&nbsp;&nbsp;</span><o:p></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">&nbsp;</span><o:p=
+></o:p></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB">Wishing you all t=
+he very best for 2024!=94<o:p></o:p></span></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><i><span lang=3D"EN-GB" style=3D"font-siz=
+e:10.0pt"><o:p>&nbsp;</o:p></span></i></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><span lang=3D"EN-GB">Trying to do your=
+ job in sweltering heat? Indoors?</span></b></span></span><span style=3D"ms=
+o-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><i><sp=
+an lang=3D"EN-GB">
+</span></i></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span s=
+tyle=3D"mso-bookmark:_Hlk150521522"><span lang=3D"EN-US">We have had feedba=
+ck that some workplaces are getting uncomfortably warm. Our employer must e=
+nsure that the temperature is =91thermally
+ comfortable=92.&nbsp;WorkSafe recommends that for those in sedentary jobs,=
+ the temperature in our workplaces should be 19-24 degrees (in winter it is=
+ 18-22 degrees).&nbsp; If you are finding the temperature in your workplace=
+ is uncomfortable, bring this up with your manager.&nbsp;
+ Logging this as a health and safety observation is also recommended, as th=
+is will ensure that the Health and Safety team are aware this is an issue.&=
+nbsp; This can also be done via the website
+</span></span></span><a href=3D"https://www.auckland.ac.nz/en/health-safety=
+-wellbeing/report-concerns-hazards/injury-incidents-observations-reporting.=
+html"><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmar=
+k:_Hlk150521522"><span lang=3D"EN-US" style=3D"color:#0070C0">here</span></=
+span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-b=
+ookmark:_Hlk150521522"></span></span></a><span style=3D"mso-bookmark:_Hlk15=
+1731672"><span style=3D"mso-bookmark:_Hlk150521522"><span lang=3D"EN-US">,
+ or you can report this through the University of Auckland Alert App on you=
+r phone using the Report Injury or Incident button, then use the Observatio=
+n Report form.&nbsp;
+</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span lang=3D"EN-US" style=3D"font-family:&=
+quot;Aptos&quot;,sans-serif"><o:p></o:p></span></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><span lang=3D"EN-US" style=3D"font-family=
+:&quot;Aptos&quot;,sans-serif"><o:p>&nbsp;</o:p></span></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"></span></span><a href=3D"https://www.logi=
+cinthewild.com/blog/6v7ouv60lpu1dblguufw2mo32zal1k"><span style=3D"mso-book=
+mark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><b><span sty=
+le=3D"color:#4472C4">Violence
+ in translation:</span></b></span></span><span style=3D"mso-bookmark:_Hlk15=
+1731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#4=
+472C4"> when logic becomes a tool of oppression =97 Logic in the Wild</span=
+></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"ms=
+o-bookmark:_Hlk150521522"></span></span></a><span style=3D"mso-bookmark:_Hl=
+k151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"color=
+:#4472C4">.
+</span>TEU member Patrick Girard (Philosophy) on the logical pitfalls of tr=
+anslation and te Tiriti o Waitangi.</span></span><span style=3D"mso-bookmar=
+k:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"=
+font-size:13.0pt;font-family:&quot;neue-haas-grotesk-text&quot;,serif;color=
+:black;letter-spacing:.2pt;background:#E4E3E2"><o:p></o:p></span></span></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><o:p>&nbsp;</o:p></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><span style=3D"color:#494746;backgroun=
+d:#FAFAF7">=93..overly coached, inordinately cautious, excessively legalist=
+ic</span></b><span style=3D"color:#494746;background:#FAFAF7">..=94
+ Randall Kennedy on why the President of Harvard U did not last six months.=
+ </span>
+</span></span><a href=3D"https://www.lrb.co.uk/the-paper/v46/n02/randall-ke=
+nnedy/browbeating"><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#4472C4">Randall Kenne=
+dy =B7 Browbeating: Congress v. Harvard (lrb.co.uk)</span></span></span><sp=
+an style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150=
+521522"></span></span></a><span style=3D"mso-bookmark:_Hlk151731672"><span =
+style=3D"mso-bookmark:_Hlk150521522"><span class=3D"MsoHyperlink"><span sty=
+le=3D"color:#4472C4">.
+</span></span><span class=3D"MsoHyperlink"><span style=3D"color:black">See =
+also </span>
+</span></span></span><a href=3D"https://www.newyorker.com/news/the-weekend-=
+essay/the-future-of-academic-freedom"><span style=3D"mso-bookmark:_Hlk15173=
+1672"><span style=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:#0070=
+C0">The Future of Academic Freedom | The
+ New Yorker</span></span></span><span style=3D"mso-bookmark:_Hlk151731672">=
+<span style=3D"mso-bookmark:_Hlk150521522"></span></span></a><span style=3D=
+"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"><sp=
+an style=3D"color:#0070C0;background:#FAFAF7"><o:p></o:p></span></span></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><o:p>&nbsp;</o:p></b></span></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><span style=3D"color:black;background:=
+white">=93New Zealand must follow Europe=92s lead</span></b></span></span><=
+span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk1=
+50521522"><span style=3D"color:black;background:white">
+ and enact AI regulation to ensure police use of AI doesn=92t cause more pr=
+oblems than it solves.=94 TEU member Alex Sims (Commercial Law) explains.
+</span></span></span><a href=3D"https://theconversation.com/nz-police-are-u=
+sing-ai-to-catch-criminals-but-the-law-urgently-needs-to-catch-up-too-21483=
+3"><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_=
+Hlk150521522"><span style=3D"color:#0070C0">NZ
+ police are using AI to catch criminals =96 but the law urgently needs to c=
+atch up too (theconversation.com)</span></span></span><span style=3D"mso-bo=
+okmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"></span></s=
+pan></a><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookm=
+ark:_Hlk150521522"><span style=3D"color:#0070C0"><o:p></o:p></span></span><=
+/span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><b><span style=3D"color:#0070C0"><o:p>&nb=
+sp;</o:p></span></b></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522"><span class=3D"MsoHyperlink"><b><span sty=
+le=3D"color:windowtext;text-decoration:none">Reminders</span></b></span></s=
+pan></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bo=
+okmark:_Hlk150521522"><span class=3D"MsoHyperlink"><b>.</b></span></span></=
+span><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark=
+:_Hlk150521522"><span class=3D"MsoHyperlink"><span style=3D"color:windowtex=
+t"><o:p></o:p></span></span></span></span></p>
+<ul style=3D"margin-top:0cm" type=3D"disc">
+<li class=3D"MsoListParagraphCxSpFirst" style=3D"margin-left:0cm;mso-add-sp=
+ace:auto;mso-list:l1 level1 lfo2">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><b>Pay Equity.</b></span></span><span style=3D"mso-bookmark:_Hlk=
+151731672"><span style=3D"mso-bookmark:_Hlk150521522">
+<span style=3D"color:black">The TEU pay equity claim for administrative and=
+ library staff is active. This claim has the potential to affect as many as=
+ 900 UoA staff members. We are now moving into a new phase of the claim, wh=
+ere member involvement is very important.
+ If you have received an email from TEU administrator Lucy Fowler about you=
+r role, make sure you have replied! If you are interested in more informati=
+on, email Nicole or Lucy:&nbsp;
+</span></span></span><a href=3D"mailto:nicole.wallace@teu.ac.nz"><span styl=
+e=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"=
+>nicole.wallace@teu.ac.nz</span></span><span style=3D"mso-bookmark:_Hlk1517=
+31672"><span style=3D"mso-bookmark:_Hlk150521522"></span></span></a><span s=
+tyle=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk1505215=
+22"><span style=3D"color:#4472C4">
+</span></span></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><span style=3D"color:black">or
+</span></span></span><a href=3D"mailto:lucy.fowler@teu.ac.nz"><span style=
+=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522">=
+<span style=3D"color:#4472C4">lucy.fowler@teu.ac.nz</span></span></span><sp=
+an style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150=
+521522"></span></span></a><span style=3D"mso-bookmark:_Hlk151731672"><span =
+style=3D"mso-bookmark:_Hlk150521522"><span class=3D"xmark6ar7rors6"><b><spa=
+n lang=3D"EN-US" style=3D"color:black;border:none windowtext 1.0pt;padding:=
+0cm">.
+</span></b><o:p></o:p></span></span></span></li><li class=3D"MsoListParagra=
+phCxSpMiddle" style=3D"margin-left:0cm;mso-add-space:auto;mso-list:l1 level=
+1 lfo2">
+<span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk=
+150521522"><b><span style=3D"color:black">Office hours on campus</span></b>=
+<span class=3D"xmark6ar7rors6"><span style=3D"color:black">. We have a TEU =
+office on campus, Room 417 in the Fisher Building
+ on Waterloo Quadrant. TEU Organisers Nicole and Andy have walk-in office h=
+ours every Friday between 10am and 2pm. They can be contacted otherwise by =
+email:
+</span></span></span></span><a href=3D"mailto:nicole.wallace@teu.ac.nz"><sp=
+an style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150=
+521522"><span style=3D"color:#0070C0">nicole.wallace@teu.ac.nz</span></span=
+></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookm=
+ark:_Hlk150521522"></span></span></a><span style=3D"mso-bookmark:_Hlk151731=
+672"><span style=3D"mso-bookmark:_Hlk150521522"><span class=3D"xmark6ar7ror=
+s6"><span style=3D"color:black">
+ or </span></span></span></span><a href=3D"mailto:andy.hipkiss@teu.ac.nz"><=
+span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk1=
+50521522"><span style=3D"color:#0070C0">andy.hipkiss@teu.ac.nz</span></span=
+></span><span style=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookm=
+ark:_Hlk150521522"></span></span></a><span style=3D"mso-bookmark:_Hlk151731=
+672"><span style=3D"mso-bookmark:_Hlk150521522"><span class=3D"xmark6ar7ror=
+s6"><o:p></o:p></span></span></span></li></ul>
+<p class=3D"MsoListParagraphCxSpLast" style=3D"background:white"><span styl=
+e=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"=
+><o:p>&nbsp;</o:p></span></span></p>
+<p class=3D"Default"><span style=3D"mso-bookmark:_Hlk151731672"><span style=
+=3D"mso-bookmark:_Hlk150521522"><b><span style=3D"font-size:11.0pt;font-fam=
+ily:&quot;Calibri&quot;,sans-serif;color:#00B050">Please consider sharing t=
+his and subsequent
+<i>Updates</i> (electronically or printed) with colleagues who may benefit =
+from knowing what the TEU is about.
+<o:p></o:p></span></b></span></span></p>
+<p class=3D"MsoListParagraphCxSpFirst" style=3D"background:white"><span sty=
+le=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522=
+"><o:p>&nbsp;</o:p></span></span></p>
+<p class=3D"MsoListParagraphCxSpLast" style=3D"background:white"><span styl=
+e=3D"mso-bookmark:_Hlk151731672"><span style=3D"mso-bookmark:_Hlk150521522"=
+><o:p>&nbsp;</o:p></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522">fraternally<o:p></o:p></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:_Hlk151731672"><span sty=
+le=3D"mso-bookmark:_Hlk150521522">b<o:p></o:p></span></span></p>
+<span style=3D"mso-bookmark:_Hlk150521522"></span><span style=3D"mso-bookma=
+rk:_Hlk151731672"></span>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Aptos&quot;,sans-serif;color:#174E86;mso-ligat=
+ures:none;mso-fareast-language:EN-NZ">Barry Hughes, PhD</span><span style=
+=3D"font-size:10.0pt;font-family:&quot;Aptos&quot;,sans-serif;mso-ligatures=
+:none;mso-fareast-language:EN-NZ"><br>
+<span style=3D"color:#174E86">School of Psychology</span><o:p></o:p></span>=
+</p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+10.0pt;color:#174E86;mso-ligatures:none;mso-fareast-language:EN-NZ">Phone:&=
+nbsp;+64 9 923 5265</span><span style=3D"font-size:10.0pt;color:#1F497D;mso=
+-ligatures:none;mso-fareast-language:EN-NZ"><br>
+</span><span style=3D"font-size:10.0pt;color:#174E86;mso-ligatures:none;mso=
+-fareast-language:EN-NZ">Extension:&nbsp;85265</span><span style=3D"color:#=
+242424;mso-ligatures:none;mso-fareast-language:EN-NZ"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+10.0pt;color:#1F497D;mso-ligatures:none;mso-fareast-language:EN-NZ"><br>
+</span><span style=3D"color:#242424;mso-fareast-language:EN-NZ"><img border=
+=3D"0" width=3D"218" height=3D"78" style=3D"width:2.275in;height:.8166in" i=
+d=3D"Picture_x0020_1" src=3D"cid:image002.png@01DA5B64.334B48C0"><span styl=
+e=3D"mso-ligatures:none"><o:p></o:p></span></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_SYBPR01MB71776BDB4D33F11EF4C3F6F3BF4B2SYBPR01MB7177ausp_--
+
+--_005_SYBPR01MB71776BDB4D33F11EF4C3F6F3BF4B2SYBPR01MB7177ausp_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=34492;
+	creation-date="Fri, 09 Feb 2024 01:32:38 GMT";
+	modification-date="Fri, 09 Feb 2024 01:32:38 GMT"
+Content-ID: <image001.png@01DA5B64.334B48C0>
+Content-Transfer-Encoding: base64
+
+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
+RU5ErkJggg==
+
+--_005_SYBPR01MB71776BDB4D33F11EF4C3F6F3BF4B2SYBPR01MB7177ausp_
+Content-Type: image/png; name="image002.png"
+Content-Description: image002.png
+Content-Disposition: inline; filename="image002.png"; size=18340;
+	creation-date="Fri, 09 Feb 2024 01:32:39 GMT";
+	modification-date="Fri, 09 Feb 2024 01:32:39 GMT"
+Content-ID: <image002.png@01DA5B64.334B48C0>
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAANoAAABOCAYAAABG6giOAAAAAXNSR0IArs4c6QAAIABJREFUeF7t
+XQVYVOn3focuKUUUgxBU7MJWbMXatcVO7O5ca+3GFgs7sBW7u7sTRAWRnhmGCf7POXcuDggKKu7+
+98d9nn12l7nx3XO/9/vOeU9JkN7Da4AxEnMcgsSwNtSK9F6VdV6WBLIkAECSLinUmGQBE0kgDEyq
+IkGa7svSde+sk7Ik8D8gge8DrUZfCxjbB8LQVAuy/wGpZL1ilgR+sQS+DbR6w80hyXYYhqbVhZ0s
+68iSQJYEfkQCaQONQKZneQgGJp5ZIPsR0WZdkyWBLxJIHWhlfcxgl/cQDExrICEuS15ZEsiSwE9K
+4GugVRpiCkvrQzA0rZm1k/2kdLMuz5KAVgLJgUYgs7I5CAOTWlkgy5ojWRL4dRL4ArQak0xgrHcA
+hqZ1stTFXyfgrDtlSYAkIACNnNEau4MwMq0DRZZNljU1siTwqyVAQJOgwZQjMDCtlyk7WeKvHvJv
+vN/3vYw6tJIEkMYDKg2QzQSQ6FxMMoiTA3oSwMJEuCYuHqC/i/8v3omuS1ABcgVgagwYGwBKtXBv
+Y0PAxAhITBSupyPl9eJvenqAhbGwlsoUwj10DxoeXauvB8gTAIVK+JX+bmQgPCvlQb/RfeIThLHT
+OXQuX5fi/en5dF96l7QOQ33A3Fj7fCVgZAiYat+PrtF9T3Maq0R4bspDpQYUSkCdKJxD4zLQ//o8
+kpkmxQ1MDIXz6VmZeEhQ/699MDRvmik2GQ2ehP3/8aCJQ5M6vWBTqVGzbAE4ZLfE7guPII9XCsBK
+TISBgT5aVC2CaGk8jlx9xtJoWKkQf9vAcw+FySUeSjXy57FF9eKOOHf/LYKCPiGHvTUalHXFg7dh
+uPMoGHqmRmjjWQxx8gQcuPDoy6TSTpbWnsWgUKmx78JjQK1B1VLOcLS3TvYVVGoN9l95CnmMDEUL
+5kGpArn4VeOVKtx58REvXrwHzGjB0F5G8pApkM3GHDVKucDYUB9Xn7xD8LvPwkRVqVHHww32NubY
+ef4REuLiUa6YIwrny5EqNui2b0KjcOH6c1QtXxAFctvw/Z48o+caAxoNj72ZZzFkz2aK3ZeeICIy
+TlgYxIPeNzYeljmtUN49L+yszPEpWoprT94hJjT6y4JH50kkaFKxICzpnXRe6faLD3j44gNgqF0w
+MmmuStBweiJUmRC7mKBCnty28BvaFHq6q3smvcivvm1kXDy6ztsLOe0Guh83rQfFyXF+ZV9ULeaI
+PO3m4f2HSGG1V6lhkc0EsXvH4dm7zyjUbh6vyvc2DkZxp5zwGrsJR07eBWwshFU1RoZ2f1TA5tEt
+0H5mALZsOYeqdUvi/Lxu8N17FQOn74TE2BDnlvdB1WL54dhhAYLehQuTXaZAmRJOuLm0FzafuocO
+4zYxUA4s6IHGFQp+NXLHjgsQdP8tpoxohgntPZP9PmzFEczfdFbYceiIT0Bhl1w4NL0jXHLb8J8I
+rH9M3ILDZx7wRL6+biDKueVGjlaz8fnlB2yZ1x3eNYul+WloIfHsuACedUrizNyueBceg6JdFiOG
+dm+pAt3aVsWaoX/gypMQ1BqwCnISHO2UdJCspAr4tKyMaV1rw87aPOk5n6KkmLDuJFbuuiSMn87V
+00PIlmFwyJ4t2Xhmbb+A0fP2ADbJ//6r55ME9f7KnD1TrkShgrnxxK//rx7zb7lfvFIN+zazERMt
+S10NSTkKaTwOL+gOLw835Paei48fo5KAZm5hgtDtI/E46BM8ei5hoJ1e2gs1ijsiShqPUj2X4W3Q
+J0HVi5GjZcOy2Dm+NVpN24Fduy6hYo1iuLywB3hSLNjPO2WDWiUQOK09xq49iRkrjwA00aKkWDah
+Nfo09kDpfitx594b3hl2zuqMllWLYMTqY4iIkkKirwelWoNd5x9B9jES4/o2xLQutTB+/Sm8f/cZ
+U3rVR147S7h3X4IntLMZGwGyeAQu7IEG5Vwxyf80y2VUhxrwO3IT4+fvB0wMcWpJL9Qo4chAiwiN
+QsUyBVDMKSfU8gSUK+6Ivk08sOnkPZy68hT6ZsZ4+SESp2++AGLlGNKjLub71Mfm0/fRYZAfnEs6
+4dGaAZAplCjSdTFCP0ULGoZ4xMgwqFNNLOzjxbvw8r1X8SzoEwo75kTvPyvA2EAfg5YFYvHG04KK
+rKeH1/6DYW5sCFpEaGGQ6Elw8/kHPHz+/osKnEmzK/OAFq+EW4FceLKm/3d3NKVKDcPUdOp0vHRm
+XRsaJYVb18WIjckcoJ1d2gvVijmyaXPj+XtU7r0CykQN6W7fB5qFCcvr3bbhPBFd2s9HoloDMwsT
+fNg+QtgZOi0U1CFZPAJmd0HzKu4wazoN8iBS9QwEldDSjHfQcb29GGgeA1bhRsBl9BrdAisGNkbH
+2Xuwac9lwNwEEkN9ROwahbehUSjVeBrvoHmL5INTLmtcuPmS1bxkQIuUAiqVYKPFyFGvaXkcndER
+nefsgf/aE8LCQDYaqXJqsvuUOL64J+qUdkGHmQHoULckq8vNJm/D3sM3v+z4NCcUSjjlzYHnGwYh
+IlaO6oP98PT+W2FBVKnhXtIZ5xZ2h5W5CVw7L0RQUDir5++2DEOcTIHCjaYKNqVoMxMQU9pu6Zh7
+GTnltwMtVqbAoavPkN3SDPlyWmHf5Se49/wDT46clmbo06wCapVySfUdSKhHrj1D7hxWyGltjj0X
+H+Phy48I+RyLvNkt0L95ZVQumi/Va4PConH+9isUdM4JCSRsRz19G4awKBkK582OYd7V+d/ikdlA
+u7a6H8vg8I0X6N/EA2uO3kaPv7YyAFo2KvftHc3KjHev6UOaYkzbaqg2fB0uHL2NVm2rYce4Vhi4
+PBC+608JkzlOngS0PN5z8T4k4svqTSpxtDQJaJUG++HK6ftYPbMzeniVQeOJW3CI1FoiIhRKXFzR
+B5UK50O3+XuxntQytmMNAUNSW+OTAy0iTgASHbFytPAqi10TWqOv7yEs33wWoHfQPeQJcMhtg/t+
+/WGbzZR/WR14Cz6TtgJW5slt5WgZRvvUw4xuddBz4X74+Z8BcloKRAktIGHR6NO1DpYNaIThq49h
+3upjDNS3m4ZAkgg0GOOfBLSwSCnCo+K+qKQZQU8Gzv2tQPscI8eiPVdYj/8YFYfHwZ/Rt7EHrMyN
+QUCYt+MCth24jol9vTC5c61kr/EhIhZL919HpUJ58DI0Cu8/x6Jnw7KwMDHE649RmLHlLPYfv4s5
+w//E8JaVk1378G0Ytp5+gGrueXH52XuYGRuy7aCvp4cHb8Iwae0JXLn3FjtndkSLKu58bWYD7bpf
+f+SytYBj69k46+uDqkXzo9fig1i1LBCtOnhix7dUR5qk8gQUKujAqrn/ibvoPNgPJzcNRc2STnBo
+Nx8fP2ptxDg5ts/oiNbVi+HVh0ioiKHTkyAkPAb1xmyC6lMUxvZtiL+71mZZqDWJKOlij2tPQ1Br
+yBpIaUciQMoUqFKmAE7P7wZDfT1sPX0fAxcdQHhELGBq8vNAI9BGxKH1n+WxfWwrtmdL9VwKOTGc
+IrMpftVYuaAOVysCl86L8PpNaHK1Up6Agq658XTtAGw9cx/tRvnzovNodT+457dLNjembDqLv3wP
+ANYWGYBNxk/9rUA7/+Atbj3/gEHNKqY50vXHbqPriPUIWNab1R3xCLz+gtWW3o3LpXntgoDLGDp1
+O06uH4RapZyTzlt37DaszU3QTOd+KW/iM38f/AIu49nOkXB1sP0hoAUu7I4G5dyQy3suQnVsNDNz
+E4TuGImnwZ9QrodgoxHQHO2tkLPxNOTOZYP7a2glN4N7l0VwsLfCqdld0rbRCGi0essVuLyqH4o7
+54TniPW44euDg1efocmQNYB2V6Adbdv0jsxSfo6RMZBoTgeFxYB2MGXYF6DpquE1R6zHGSI5iDxg
+1g6sAlYuWwBrRrXg3f/Ju8+oMWg1Qmn3Uql/bkfTqoS5ctvgw9bh2HzyHjrQzmOrfb7uB4uLx/55
+XdGkYiHkbT8fISFa5lM8h1TL/HZsk+2++Bgthq1jNfnFhkGwszLDxuN3+X309CTYc/EJjl98nJz5
+zTiOvnvFbwXahuN3cOflR7T2LIpK7qmreDTi/O3nw8bSFHeX90l6gZWHbvAq17FOSaai0zps/pyO
+Um4OOD2nC59Cc2Tm9vOQxivZGE/JOon3CY+Rwa7BZAzoUAOL+3r9ENBEMiRn69n49CkmiQwhoEXu
+Ho27Lz+ifM+l/EgCWv6cVrBvOxf4HIs6tUvg+MxOeBj0CYv3XMHKQU2+DTS6SbQMHVtUgv+IZnj6
+LhyF8uZA00lbceDoHcBSUL90VUeXzgsRHBIBiZEB45RYQ13VsfaoDTA3MsD+qe1x73UoKvRZwURD
+kk+KdjeFEhaWZlg9pgXaehaD7/5rGDh9F6uJyWy0jKqOWqA5O9rh1YbB2HH2IdoQ0MQFQ/eDR8sw
+b2QzDG1eCXVH++PEmfuCmiyqjpFSNKxbCoemtcesHRcweu5eVh3fbRkKKZF0zWZ8sdFI9RV9k9+F
+y4+f8NuA9iQ4HKPWHEdDDzc2YImaJjIgtcOtmy9CwqMRvnMUq3nEDE3ZdAaNKxbEp2gZapdyQYXC
+eVK91r7NHEgkEnzYOoz/Tb4i/+N3UK+sKz/3z8qF2beT8mCgNf0b1cq64ty8rgiLksI1I2RItAwr
+JrRBr0ZlUX3YOpwn24Y+frQMJSoUxN0VfbDj3EO0GbmBiYTrq/sJQGszR/AZkd3RxwszutZGjEwB
+SzNjtJy6AwEBqbCOon2jVCObpSne+A+BraUpq4Nk/MeT81l0SejYaJZ/TkdssJYMIQGQ7RUnw7he
+AhlSffg6nN9/DdOntseYNlUxceNpTPU9xGqVmakhyrk54Nzlp8LqZWSAT/vGsd+qCBEvtKMt7f2F
+dcxMoEkVqFLBDRfmdcOFB0Go1m+FQLoQYOQJkJga4dLy3qhYOC/v2leuvWCfWvDmoVAkqOBK4xXJ
+kB/HToauzHSgPV0zgN+JfEK0E41oVQWx8gSQikhqTNd6pZgdEg9azQfNDIBToTx4vm4gg6Xl1O1M
+K/dqVI7Vnw0n7sLE0ACd65aEuQ7lO3XzWUycvw/FPdxwb0UfRMbK0XzqdoxsVYVpd6KTt599AKec
+1mhTg2w0wRuboFKj98IDWLf+FFq0qcpGe4aBJo2HZ6XCODOnCztiBy46iCdvw1Awbw7M6tsARR1z
+oslfW3CQ1BZDg6+BRgORJSBgThc0r1yYx/VdoPGuJsXKiW3h07As5gdcxrDZuwWAi0ecHLtmdWaH
++Z+TtyKMdloDgXW89yoU0g8RSfQ+7WinzjyAiY0Fnm8aghyWZnDptAAfQiLYSX53VT+sPXKLVew8
++e1wY6kPbr/4iGq9l/HE/W07Gu1cMgXb1OS2OHbrFWb4n2K5u+SywbgutVGrpBO2nnmAduM3CQDU
+1/tvA+3Z2gE4fO055uy6iNOzBXVOPIjWJqO6U52SKOmSS1CV9l/jVemvUc0xqUMNNvQJHIemtk92
+7aVHwdh1/iH6NSmPAg62qD92I46duMuqzcJJ3mwHjlt3kv1US/s3SnbtoWvPcPrOG17FDfT1UKr3
+cjy8/Yo/xkFfHzQq75Zx1ZGeIFVgej8vjPGu/tVqt2TfVQyYt0+g1hVqvNg2DE65bGDgNVnY0cgR
+q1Aim7kJbq7qB7c8tkkO62p1S+LcvG5Ysu8aBkzfmRxI0nhUKV8QF+Z3Q7n+q3Dz7mshskI8YmU4
+vKgnLzQpj4qD/HD11F38PbY1xnpXQ4Nxm3D07AMOs2rdtDy2j2uFs/ffoN6A1UhQaXBhZR9UKZqf
+o15MSeUC0GzSVuw9docJllvrB6O0ay7BYf059gvrqOOEH7byKOaL9H7KAcUr4eqSE8/XDcKR6y/g
+NXCV4IJI7UhQ8SK7ZUJrNNUuTLqn7b7wGB2m7YA8QSns7np6iNs/DgqFEtmbz/zv7WgENNrezU0N
+UbpA7q9E9ujtJwTeeIGXIZ+xfN1JmOSwxIA2VTGjW21mBY/feol8dlapqnvXn73HxUdBuP3sPfw3
+n0U2B1sMaeeJyR1r8HNI2NWK5+fQnJQHkQbB4THYduo+zh27jdxuDpjYoy56NyzLp2aYdaSLyBcj
+V6BmpcJoVtUduW2zMTt66MpTHCODm6I36KOr1OjXvBITNH9vPaclGyTCx4+Tw909H+/WRAjcfxCE
+/C72bF+eufsGRyisSjvJeaCJiTAyMmD21nffVajJ7tKNxElQwrteaZTUsWvJvUHHor1X8P5NGGpW
+LYL65Qpg9eGbePn2kwAQTSJGeldHblsLtnM+hkQgr4MtBraoxO4XaXwCVhy4jq2BN4WYTJUKPZpW
+gEsua0zbcg4y3YgahRLFCuVBh9olmHy4eud18ncQP45KDVsbC4xsXYV32y1HbqUec0nn0ztSfKMm
+EY2qFUHDCgWZxSV5H77yDIEXHwmLF8mcFjKJBO1qFYdanYjtZNORDNIbXpc61DP010xXHb/nsCam
+y6rxNFhbmsFv2B+Yu/syjs/olKTWfettyJaxajAZhVxzYZ5PfSzadw3HZnRMlwCIyi7eZBqaNKsI
+b89i2HP1KXaMbZV07Q8BTbxaqhCcsDQZyJ4hcNEuIwKAPnAsBbhqvl6x6RyitOkfcuaKQcUUlEyT
+hiZ1ygBYbTgShxulDHcTg32J1Eh5WJgKoKJ4VHoeqfDk5Kb7cRyhXCAYiJCgd6CJTeeJQbgUQC0G
+NWsXCQ6qJiJGdxxioLQsXhsonUYQL8mFAoNjZcI4aDzfC/YV3521Aomw2BHAUpMFvQ8HU2uJonTN
+lF9z0j8GtIsPg/AqOBwbzjyAe04rDO9QgwNSi/dcii1jW8GjoEOab3j23hu8ffcZa07dR3lHOwzr
+4AlTY0OU7L2MQeqW54vjWfcmBOqTt18jOOQz1p6+j6ZlXDDEuzr7l8g5+3B1X5hSBPmP7mipjZh2
+GPJd0YQW4/RSO4+DaIXgVxjoBM7qnkv34okk+Xb8JT2P/iGQ0Lk0abX2aNLt6D68++HrEDNxLHQy
+q106Sz9F79PkpiiMlPf81pykWxAIWRapjCe19yQ5fCtOVnxH3fMEOvXrkdDzSf4ZGfOvwRjfJVOB
+5uqSC8/XDfhquERKLN9/DTuO3saM/g3RvlYJPmf0mhO4/CgYx2Z24ujw1A6KF1y69yoOnH0A3xHN
+0LRiIT6t/9LDTP9/a0e78vgdFu26iJuP32H71PYoXSAXYuUKdJm9BxZmxtgwolnSI8OipXDtkoEQ
+rFTBkwgjYwPkshFUGhVN0tQ+dGIiLxT0Dy0GRBZ9dSQmwszECMaGBkhQqSClc5LtGuRXUwJKFcxz
+WCK/vTVMjQxAbGoQ+fRoNRepbI0GJkaGMDMxZIqfNAPtbBDSYPT1YGtpBkMDPVDMZ3SMkOJDweEU
+XEAEFV3Dzu/0BoxrEmFsbAD7dMgim5kxDPT1ERkZKwA6jWcQM0uEFslLHIvuGJNjV4NoSpMhOZAD
+XDdu8hcCKq1bZSrQihRywLm5XbF0/zXkz26J6qWckyK/KcUjQhqP/DkseWy0EL37FM322J0XH3D7
++Qe8/RQNfYmEHciVKVJdm+pBBIcsQQUHingnbUOtwfuIWL72/utQ3Hn+AW/CotjGc81tg8rFHDlI
+lo6PkXEwNjKEjTYqncZBYCN7ikB89UEQ4lRqdgMU91mGqGhp+oKKU5NwtBQzh/yBIc0rYdKmM5hB
+way6jKB4TYwcw7rVxri21ThSveHI9cIOqDvBYuVYPLo52tcsgYALj+AzbWfyXLQYGQq45saottXY
+XsmjlWuCUo0n78Kx/+JjrDtyG68+RDC76dOmKmb2qIMHrz+h+hA/4Vna1JTdf3dgh3+cXIm6o9bj
+8cuP/LtdTivcWuoDc2MjNPlrKy5ef56cePnWhI2WcdTOwD8qYPyGk5iz+njqspApsHlKO2aZyTac
+vfKoEOeYYsczNDbEtcU92UVC8ZDnKP3IQB857a1wc4kPzIyNdMQn4TlC0UWkDa3Yfw0PHwULKnF6
+F4qfBGOmAq1k0bzYPaEtCnjP5cRFk+yWaOVZDMPbVEUJF/uvhn7z2XvM2noOey48hopCe8RAYz0J
+zKwt0LZWcYxoWy1VYoScwRSGRdcmUMS9qNurNbCwt4J3rZIY3qYK0+0pj/uvQjF981kEnH8I5ado
+ZHd1wM0lvVCm3wohB+pHAp5VGphQeNjGIWykE/Xs1mmh4CROmXYTLcNf/RpiUscaIIKnfK9lXwMt
+Rgb/ae3RsXZJZltbUVgRTxTBcd2kdklsHNsSVrqMY4oXPXrjBRoM9mPVakiX2pjfuwGeBIXDvdti
+4cxYOeaNas6OYDrazQjA1gPXhOckqJDL3hpBm4fAUF8ftUZuwOlLjwU76nuHSg0zM2OWBcWovnwf
+gUJdFkGtTV9JdjllQczvDq/yAktab4w/jp8mh7Q2jYhXVg0IaG/8B3MAQr0xG3H8/ENWSXPnsuaY
+RhpjWodCqcbgpYexYvv5tFnN771TBn/PVKCVKJIX+yZ5o5jPUkiJIKAjLh56lmaoVDQfM2E22UxB
++UO0g12nVUaugIGNBWqWcsZx7SrF15GaIlXA0Macc75KueZCNjMT9qvdfBaCKw+D+Hf+8NqJTNR9
+/XKuOHT+ERv8RjbmqFbcCSVdc7FDmGIv6dpLD+jaeOFalRpuLrlwYmYnlO77E0CLkaGZV1nsntgm
+6ZM0mrAFh8mRnTLaIVqG8X0aYGrnWiC3RZV+K1MF2trJ3uhar7QQvzd2k3AfaTzKlXTGZV8fGOhJ
+ECNPwKKdF3HsxgvExCfAwTYb6pUtgG4NyyIkPBZFOy5gUmNg51pY1NeL2b2SPks5SLl7B0/4DW7K
+4x2/4TT+Xnroy26SoIK9vTVerh/ItHqNEetx9vKT9AEtRpYUKC0Ko/7YTThG7F9KWUjjsW9OVzSt
+JJgE9H3L9FqGIEow5dyyL0AjRtvJ3hp1RvvjJCXAGhogVy4a4yAOdCBT5N6TYM7czmZiyA7sjg3K
+IIf2mW2m7cCOQzeEAOfMSRZL+va/F2jiSk4qCmUgc3q9SADoC3qzUoUibg7swyH/FtPVunYN/T8x
+X2RYizE3pGbRtbrnJaiQP292JkfK9FsJKQGJju9dq1D+GqDFyXFgfvdkCZeUqfAnxd39KqBR+opK
+jeur+qGsW25WjeqNWI8HRJ9T1jYZ/8R+UtZ2wTxoUqkQVh64DlVkXBLQ7r8OQ4nWs1G5cmGcW9Cd
+bZ4tZx6g/diNwsQWCZyfAVqcNpfNwzVp4pH623LEhi+hYuIvKYBGf776NARV+66AisBA31q7o30P
+aGX7r8It2umIZSTyR6lCPhd77JvRie1zijJy67iAM99/SGvJwK72zwAt5QBFnwiBL1qK7j3rwW9I
+UxTrtQwPKeSHKGSitUnI36J76T5EYxNRECNDa+/qDFgOiTp2W/iodB9SBdO6z68AmkKJfPly4MW6
+gWwnrgy8ib6NyoHsJbduixEUrM2IFuXwozuaniQpGoVuRXbTQVqhc1Agbgohc00NjQCeKBkGdqrJ
+O9qFh0FoO3kbbqzsy6QNqa7V+q3kUgjJouZ/FGjxSjg62eH52oE8oNVHbrEsKIaSyKavAoJ1gEZ+
+w0pF8jExRjLsPXm78A01iaw6fg9oX+26pGZTaF2R/Li/og9MjAzgs+gAVm89/3XaTgZAlJ5T/3mg
+ERulJ8GAllVQqUheREdJUb2MCwrktgWxhE9ehyKbpRl2nH2AnSfvIlEbPvTVy1FtjkSgb/OKHNcY
+Ey1FuSL5mOqnANlHLz4gm5UZZxX7H74JDe2uqRnCvwJoUVKM8qmPmd3rMDlTvvdyPPYfzGoOZTH/
+vTwwORHwo0BTazBj6B8Y3aYqEzmUicy7+rfcCCS46C9Ao4CBOEUCyhfMw8xo+b4rEPI+4msf1o8C
+LUqKcX2EWMpbLz6wWvxs0xAmrkavPYFZRHboEkQ6QOs6dy9MTY2wrF9D/tyce7blHIPC0OgHgCZO
+mhgZDi7qgUblCzKx1JLiT1MLXk4PgtJ5zj8PNK395WRnhYWDmuAPrW6uO/75uy5h2vpTiCS171v1
+O1Rq2FuZYWZvL3SpV+orESzcfRlT1p1EJO14ad3nZ4FGaSiaRDxYNwBF8tuxnTBr2g5MnOyNyZ1q
+4sX7CE6FUZEqI47hR4EmAQJmdUHzqu7Ycvq+oO6lFbKkKw0doIl/JpKm6tC1uEoER3ZKokyxJf4I
+0DQakEfw4dqBTGANW3UU82fswpRpHbhGydN3n1Gk6yKQEZC0OOgAbejKo1iw5BAOrh2ARh5u7Pqo
+PMgPN64/h2FOazxb0/+bNlqadmSUFFMGNuYxUMB6OSKfUvoL0wmg9J727wCaqDrGyDBl6B/JCsU0
+n7wde/ZdEfKSvlckRyyHFhGHIb0bYH6v+klyaD9rN7ZsOy/kV5GDMy3j92eBFhePqhULcjEdqstR
+Y/g6PH8UDNci+XB2Tlf2TXFMITFp4ir6o0DTk+DQgu6cEbH26G10p2zkDAJNk5jI/jHC1cI9lzGU
+UkqIuUwp6x8BWlw8PKsUxpnZXThwu9rQtXj9NASFiuXnuFciq+qM8cdJqgQmRmvoAG2U33HMXnII
+1vntcHt1PwbV27BolOy2GNHyBLzZOgyOOdMmQ74FtPF9vZh8uvvqI0r5CEHRmenM/ncATYRDlBSr
+J3lzGj2VNsibw5IrUa3fcTF1n0tay0lkHBaMaYnBzSri1cdIjugWUtqPAzZfxz0mu83PAi1ahjWT
+vdGtfmkkJiayY1dPX49JHaLeydlLMZgtyFemA7QJfb0wpVNNXHwYjKrEOhql8KPFyCCyjtvOPoD3
+mI2866yf0g6d65bCqTuvUbv/yvSxgDo72tUnIbj85B0G/1mBxTBj+wWMnb9PAGwKcinDrGO0DOun
+CuMjQJMs9FPIglOHRhEpog0e1gHaSL/jmLPmBI+rXBkXXFrUg2vUzVwfAAAgAElEQVSlHLj6DE1H
+++P55qHsY02LdUwTaNEybJnREd41i+PozZeCy4Ns90yMffz3AE2phl32bHiydgD+3nwWfrsuYeGI
+ZhzVX95nKdQpHbhpgYxiJ7OZcgUl371XsGjjGUzt34jZv5Ldl0DBvptvSPRngKZUw8raDK/9h8Am
+ZWFTnfEqlCoU0CUCqKJUz7qY2b0uJ8aW7u4rEBG6NmSMDAFzu3LW+bqjt9GNdi8A3VtXZeJIRsWQ
+uvviPVXTEmlwXRmJNTaJjYyRJ5EhN569h0fnhfD/uwM6aiN0eIKv0tpO4hgyuqMpVRwg/Mp/CEeT
+pHXIE0gWi/CB7EKKoUwJND9ybJsBn+PQo4MnVg9qwreavfMiO7VLONtnDGjxCbC0zYbXGwZzDt/4
+DVqbOZXA8/Sqhek5L1OBVtw9Lw5M8UbRnlo/2rdUvwQVShTOwzlQlBPF6otSheb1S/OqI6U6iWTk
+k9onRsF/MTCESrvauMJ8hfPwSneaUj7oPvIENKxTEndfhyKE7vMtB7RCiYIFcrFboFSf5YiMykBk
+SLQMXVpVxrphf7L/p+Os3ZxoSGXNaHczkEjgN7wZ8tlZJicCYuX4o35p7P2rLVe1KuqzFG8ev/uS
+NSyNh5G1OV75D+aID96daaU3M0Z2W5rMg9kvSMWKmpNhT3qxGMRMtiCFWBnoo1alQrj+NASx7yMx
+sIvgRyNnfYkuixjTB+d2Q0MtBd9jwX6sIeLBVhuVkQJoZM9dTOmwppsk2Z1SdG9TjRcBotE7kyyU
+OrLQ08PaEc2QJ3s2LoM3lwFlnjrQ2M9FNS/lWD2pLXo0KMNfnlRzql+S1o6WbIxkKmgrLG+Y2o5T
+s8jmo0pnb1OywOlBTgbPyTygaf1YFxd05zJmH0Ojvl8NlihoikVjv4dGW6Y6EYWLO6Kosz2MDPQ5
+APjm0xCoKDSKJpNUAXM7S5QtlIcnMIUN3Xr+HsFPQwRAiYVdyFdCq1YaMZRJcotPQLkSTlyFqlD3
+JUj4HgEjXqjdMc4u743qxRyx4tAN9CH1TozeoPOiZZg0qjn+6lADz0I+w73LYmgIFJpEWFmY4tWm
+IVwBiqrndpsZwLsbIcAttw3mDmjEcZ30GJocL19TQRpDvufQ7nUwr2c9HgmpVZP8juPu2zColUJE
+RoWCDhjapiqqFHNEvvbzIX3/GQO71vnisO61lGVtYmKEEwu7o0oRocxEyynbEXDwuuC0TgE0r/Gb
+cf7qU0h0IkM0mkReKHiQ8ULVrMpF8mHJ/msYMH7zV7KYOqYlxrerjsfBn1Csq69AisQnJDmseWcl
+AOpklBvqSTh7mrK9xSMtoHmN24zz157yPDHR10cxImTaVUcTbTHZif6nMXVZYKZT+zTOzAOaWgMj
+8nWsG4DW03bimuhEFaWj6/Oi/zYyQL48tnB1yI6PEbGwNDFCuYIOaFm9KKqVcEqWNkNU9vydF7H7
+5D30al4JvZp4JCt5HZ+gwvGbL7Hn/CPexcgnZG9rwVT7JyoVTU5cWulJpaEVWJcYiYtH8walMalD
+TZSg0KT0qqzyBLgXzoOHK/vx7lBxsB+u3niR3GaKV8LJKSezZWRr1B2zESeICKBa/dEydG1RGWuH
+/8kSoiE9fBXK/13I0Y5Xbjoof208lRcQ7Tt6D4US/hPbcD0V8Xj+7jPbRBT+JcY9UvCtXcvZUIRF
+JgcaRYZoa+Xb2JjjnG9PFHPMyeFiVJrt5NmH/B72Oa3YN2hhasTZ6xTKpKvd3n0Vivpke1L+WTFH
+9lXR4TFwNW5QYq1ueFh8Agq45MLTNf3Z11hr1AacpggePUnaQCONP04BJ0c73F7ZF9Za9fwroK0b
+yAHY4hhpDCZG+rDWSY+hTPHuM3YJC/H33CEZ3L1SOz3zgKat0nTNrz9WBd6E3/aLyaMAyE5xzMnZ
+zC+Dw2FrZYbiLkKpg/QeVHRndJtq6TqdJsXULWc5wTROqkBBx5ygYkGfdWMqxV2nf0OUdXNAEzKS
+08Piaa9bNp6qBJcD+aaKdlmUeipJrBwHFnRD4wqFcOL2K85eThQnoDSeS1xP7VqbYwJ1D6qHOXfn
+RUwhlZFy1HQnhzYtZmT7GhjaqjJHyKc8ngaHY8GuS1h98Do0sfEY0bMeZvesy6X6XDrMF+xBAnOc
+HHkcbHF+cU845xJKf9cbuYFjCXM52XMtlrQOiud09p7H6t+qSW3R06usEOLFC1YqqTGxcgQu7sm2
+FsVheg3yYxX7xNLeqF3aGRM2nMa0ZYeTE2E0zsg4NKpbCgenCVn3zOJSOJeRIdeGpNLfaR0P34Rh
+4a5L8Nt3VQDZj8SxpmvGJT8p84BGz4mSssBp9e5KqoPu5ElQwd01N1pWKgRjUyNuDvHhcyxGtama
+rqRPzvA9dAPDWiSv4ZiWDD5T5aTdl3mlvv8mFOaGBvA9eB1h4VRDQycANUaGQF8fbrgwacnh9KsV
+Gg3qlHXlVZb8Q/dJdU1Zj5AGl6CCU74cvFtTpMjBa8+gEbOitcmWORyyo1ZZF65qRRPv5ftInL/3
+Bu/ehAllw1NbgUnVjo2HrYMtqpd0Yr8Vpd1Q7ZN7rz7iyqNgKMnepIVDqYarox3XcImKi8eJWy+/
+ZBxzAmc88jnZoULhvPztQiPjcOracxibmzAoiJZPefD8j5Xj5K1XrDrW9XDlWjCPg8LTLrmdoIJz
+fjsOH6OFkArrahJUqFzSiW030kaevQ5LXd2XJ6BmxUKwszbjzHP+jnp6HMhNY6RdUjwE5UmDoLAo
+rkSmoerTvzFyn8aRuUCLi0ebRuU4Kt2948LklLVCiRLuedG9TkkoNIkcBEofnYCW2odM+WEpvWX5
+wevp3gHDo2WYG3CJu5bQxLGlMgLbL+A92Y4i0Mi4NtTHS/8haDczABeuPUt/GgipNUQ6UAwmqZup
+ZUKzxLUp+GTLEPuZWvS72BqJwMMFCLWtiFIDbkrBJF1LKoW2/hq9H9lzIkCSjUGbjax7H93f6e/i
++9B4yNZNyweZlEku1E9hcop2Mt1WTGk9R5QFPZvlqBZIr2+1VKJn0JhIIxDD6jjjOo0xijb79/yx
+P7Bjfe+SzAWaUo0cObLhsV9/Lvv1gmwOse8Wxbo55kT9ks4wszCGk70Nr4iZCbR5WqDdfvkRhhIJ
+Np15gM+6rYBkClT2cMPOca3g3HEBEsQqvd+XojCpZFR+gHYcrftATOEnUOmm1tPfiWQRYw8zOXI8
+zeGL40jZO028QAzW/l45ge/J51f/ziUPtPIWFy9Sp3+TGvgjr5O5QKMRxcpx0a8/V9BNlvioUKJ4
+obxo51kUaglplSa/bUej8uPWpsaYu+cyPoZFf/lAkVIsndCabZyWw9cKLGV6DrUGNtbmqOSeF8du
+vvySSa1SI2cOS1bRKG2FDy0J5JzPDs65rHGKVK2Ufj1akWknyOwGeUo1yrjnTSr9QIwhDU8s50DM
+6G1yM3yPqU2PjH7lOWoNsmUzRZWi+WBpaowYuQIXHwQhlipvpafOyK8cSzrvlflAi5GhdztP9G9a
+HsXI6CY1QquaUGWktlWLQKMnYVr7d6mOrz9GMtAW7Lv6BWgaDfQhwdutw9Fz0X4EUohUepIaSdBU
+vcnKDJ93j4H3jF3YRiXzyBaKkmLlX0LNRe7Ucvu1sLPFynFt/UCOe2xHLgCRcOF6FyqsHtEcR268
+QABlHHwjkTOd3zjt02LlmNjHiytuachuy5eDa22+DvkMPUN9rD96B1OpJVQmB9yKmd1s06Znd5cn
+wKOkE675+nCFZmIYKRO/2cQtuEZdZXQbO/60kH7NDTIfaBSpYWnGWa+1Rvnjllh3MEEFN2d7NCjl
+DBMzUh2tf4vqSE30yCA21teD/+n7CP9MGdR6PPn/bFAGvn294Nh2LjQZjX3TEj9UUs+DGEcTI1hZ
+meHJmgEwpjLbl5+gCxFCJkZwcbHHy3UD4d5zKZ5QyyOaYPQPTRCVGiO8q7Nj+Qw5hMWJR7se5dyR
+esROaG0bX259pI28oJ1QbD8ktsdl9VX5pfMqnStWuqI5ROdrSZgjy3ojKjYebUcKterZVqLf6Zmi
+6kvPIBuHx0rqGyXbGgv5hfQssq3IbiLqnX6nAG6xhS69C9lVdA7JnBYytQYSA32uiR9GvkHymYlO
+dhofPYcKJumqr/IElC/ljEsLu8PBex4igsNxdFlvWFmYoFyXxV/a9ZLqL9p+9DwaC6vr2upaVEOE
+u+FoK3/9GkylepfMBxo9NkqKTTM6cv5Py6FrBQeoQonSRfKjS+0SUGg0v5UM+RgRx1m2RIZwpAhN
+hFg5rq4biMPXn2Myl8FOp9ooilWegCLuefFwZV8U7O6L5zdfYoBPfa6RMWjlEez7qy2X/454+RHz
+J7SBZwlHlO2yCO0aeaBgvuzMuF2nxoFGhvAonAevQ6O4QA019qNiNZTCcuz6Cyil8dAzNkTjKoVR
+xs0BZ+++wemrTxmElElNPjOap9ceB+PxE1L7DJDPwRbtSM5KFdYF3kI0sW5iK1kuLSeo+EeW9voC
+NAtTNKrizmM5f/8tTl55ygCrUaYAF/x58DQE5lbm3M+MZFa+UB6QC6J0QQfYmBljYcBlFHXOCWrz
+e/L2K5y79pwXE6+KBVHBPR8uPwzG0QuPYGpqiFUjW3ALq72n7iHgxnNoVBp08yrL7DOFm30iRlGX
+CNICjYIhrJrNgOz+W6xe1ht1y7rAqdVsBlf54k7wqlAQz4PDsYUK66rUKF44L2wtTHCW1HVDfXYt
+ke/vHXXeyWT77vcALV6JQm65cXd5b072e0fdPyQSpvcblysAI2Mj5M6ejasUjW5b9avGhaTOEFNI
+gbkUn0ap9ORMJXJjVOuqPNUpS5ZUT4oeoXulPKju/pydF7k4EDm8zQwM4HfsNkI/x/BqXNHDDcen
+d0S+dvMQRTVHMmqX8Godjzsbh+DMvdcYPHELXhyZhE2n7mHSgv34dGoapm87jwVrjuPzyanoOHs3
+clmbY3yHGnge9AmepZzhSWkqV57hzcHxmLTxDBcN2jWhDa7cfwu7HJZIUKpQre9KVPNw5erL95+9
+Ry0PV47g2H/yLj4cmMAJleGfY1HQKSdmbj2PmWtP4IJff6iVKtjZWCAyTo7qA1ZDlXLHjpXjqK8P
+y7BNvxWcNLuwTwPce/oeNT1c0WFGAHbuvIgbAaO4wM2waTvgWsoFz9YMQPZWs7kVMFUp3nP6PjzL
+uvJzyBYmx0kLz2Io3nMJctpmw7axLXH38TvULO+Gtn/vRGhYNI7P7wZihV8Eh6P30kOY3b0ectmY
+w8TYEEaG+vDovZyLMSWxpvIElC3hyKoj9VXQg4RrjAxeHogtuy/DvYQTTs3pyi4Wj+KOWHX4BkZN
+2oZF0zuwy6Ji50W8c0buGY1+voexhVT9TFaPfw/QtLvaQd+eiJYq0J7i8SxMGGhNyrlytiyFT737
+FMNAE+vpU2o+VTl+FhzO5dWopBg1XnfMbcOlqSk7mEJ8yI8SGhHLuU/k9yFfCvXBotoiYnBv8KcY
+ruRbME92PAoKYz/aagJaWAzXKbmybhCordSI2dTPOIO7mYjqGBk6t6yM6V1qw3tmAE7O7ATqE/3+
+UTD3if6jcmGMXX8Km0c2g23zmXDLmx1Pn3/g5z/ZMxbrj9/GzEUHcW/PGMzcfgGJSMT4dp4o2mIW
+JCaGOL+iL4LCozFyaSDeUfO8kAic2TYc5IzuNWkr3gX+hb6LD2D/zkuo1cQDJ2d15jIOsVFSvLjx
+AuXrlwbtAtTqKDQsRUicLtCGrUWhUs548S4c6qBwHN88lHfUzoNW4/TW4aCanOPn7IFLcSfcWOID
+ly6LGEBU6GfwkDUo19gD15f48A4edvcNLu4ezdcs2HoO4fFKKF+F4qD/IMgVKrTqtQwntgzFqduv
+MX3uXujlz8F5fA/OP4KzhyuerR3ImfZPqaG7yFgT0IoLQKMq19VKOPIc8ei0iM9xyGMLpVKFTzde
+YvLUdmhdvSjcG0/DjLEtuV5onT4rOHjizaYhGL7qGHYF3kpeUSwTVMjfB7T4BFCdR2oOR8V6Ht95
+g/KVC6NXg9KIV2uY6Xr5/jNXL8qfPRuHTb35FMM7F5WlVqvUSNRQnURDhETEshr0/mMUnPJm54YX
+pBLI5QkMNAMjA+4CSuq5o50V6/dPQiLYR1bRPS+Cw6KR28YC4/xPI+hhEBo39sDW0S3g0Ho2qz8/
+rEao1DA1McLjtYJdRsBtTXUxTIzg4GCDh6v68ftsOHEHw2ft5r/3aVEJxQvk4pyyhXuuYOHKo7i3
+ezQDjVJLKC7SnbqfREvh07k2RrauDNfG0+DdrCKqlXaBZ3FHrlNPzS2CD00A1bbfceA6q1of949D
+t3l7cfHac0z2qY8cNubcv62ozxLeSZLURy07nLSjjd7Azt82DcrAs7QLqhXLz7tY/7EbcXbrcJy5
+9wZ/zdsLx6L5cWtpbxToKgCNanJOnrcPJSsWxsnZneHWdREi337CnsU92XHea+R6NG9ZGXU83FDZ
+PR9uPAtBj+HrcXrLUFaBOUDA1JAZxYkdayC7tQWaVS4M6hHw9GVyoJGNRouGedO/YSEBnm4Zhm1n
+Hgi9CQz0UaGUM7o0KMs9DIgsqew9F7PGtuJaIfUoDcnCBK82D8HI1cf/Y0CjjxkZh2UT28KjkAM8
+Oi6ARU5r5LA2h1KegE4NSsPZwRYyWQL3GaYESSoTTjvgqZsv8CgoHEqNBq52VqhbqRAD6uTNl2ha
+pTCrKBS5EBIZBxNDfZRwyYV65d1YjaSdTqXScBtfCrC9+igYW4/fQTZrc9bNiW17v3sMJvifxspN
+Z4TdLD3MV1qrXqQUc0c2w7CWlYU2SGLNk2htmktVd64b8uL2K/w9sgXqli2A8q1m4/j6gTh45SkW
+LQvE/QPjMWPb+S872h/T+WmBq/txT4ADl55gTq/6cGsyDauntefFYdCU7Xh/Ygp8Fh7Awc1nUbJe
+adxZ3hvuPkuxbUxLzNt1idsJv9wwmFs7xVHwtminpQRav5Xo1rU2/upUAwUaT8MSruQlQe/Bq3Fu
+z1hOlhwwcDXc65TC9SU9kafdfGwf1xLXnoRg4pw9KF3ZHSdmdULBbovx+U0Y9vv6cDfR07dfYd3I
+5nBpMg2zRjRjprlz3xW4vG8cTt55hfFTd0DP3ho3/fozaGZtPoMPAaNRvv8qBFMVLLHngI6NRq21
+3t57A8+6pbiTT4ney9kGvefXnxeoqqVc2DdbrvFUTJ3UFg3LuaFss+kABS7sHIU+vgex+8jt/9CO
+pqXBzYwMWHgj/I5jlf/pL6W+lCq4F8zD6hRV2KWodgIZlZGLoVZDxLhpu04eXOIDqiQ8d/NZLn9A
+vdcGTtomZE9rK2zlzJOdi65SzCBFmpABf/XRO7x9/VGI2tD2JFs6pR2vrqU7LUheH/9H1Qemnp2x
+ZmhTLuOWKEZ2xMnRokFZDG1RCVUodV6pwtwRzbiZ3+wNpzCpVwM8Cf6E5mM24swSH8zcfhHh0VLO
+Ith97iFy2VmiaH47lOrui4ZVi3CzxPFLAzGogyeHL7WcsBmbJ7ThXfDh0xA08iyKNYG3MGrxQQTv
+HYMDV55xL7Nx3tUxbv1JzNx0lt0qSVHBMTJcXDMAkbHxaNx1EXr3aYD5PvUxdulh9G9bjc/zGuyH
+imUKYPXQpth8+CYKONvDs4QTLJvNQODf7ZngGDF1B8pVL4arvj1YdQx/9RGn1gzgTIQTN19i9yRv
+jFlyCD1bVIaFqSHqDvTDn3VKsIp8/u5r7L32nFt5BYVGgQILqE/13F2XMHb1MSjFcuiyBFQuV4B3
+NOdOC/GGcvDkCdgysxObC21n7MLpWZ0xYe0JVC/tjLplCqDJqA0Ii5HjyrJe2H76AYyNDdHGsyia
+T9mOPdRM4z9jo7GzVkgV8apdAoendYBT+/l4y4mKWrqVDF76h87j6CHynhp+FUDbqLI7x7iZGRlC
+rlRxQc5zIk0uAoRoXKJzRVZNDGMSo/GjpKhToxh32XTtuBAv34YKAPwFBwGbKuhSb4EkNVRb0tvO
+2pz7BpBhT4Z+1wZlEBuvxMfwGBTKl4ONe6r8RDZJ7YqFMLVLLSwOuAyNBNh04h5C30dA39wY7euU
+ZDX6CTXrcMqJgIuPcWZuV1x48BbB7yNx43UoAikzQCLhJiBUJ/Ha0/fIb2eFiDg5DlF3G12mTaWG
+Z5kCnKN16c5rptzb1y0JM1MjPHwdygm4uy48Rti7z2hapwSKOdvj4OWnXAH6xK1XXFiJ6mQ+eBIC
+mxyWqFHSCYevPYNCqkC1MtR9RolbD4Lg3aAMrKmb64sP7MgPuPgEoR8j0dGrDPLmtMbGY7cZUB1q
+leCdk9hItUaDgLMPkCihgkpCVIittcB4UqwoaUG0cJKbqG2NYtwmzD2fXRJjWsY1F84/CsaDO2/g
+4eHKtT5P3nrJbC4RY8Hfy1H8BXPi99louoONjMOKSd6oXcoZBdvNQyIFgKaX5SNBc4ybUKeP1R/y
+kaQVW5hSSByTmMARG8E7RqDfkkNCZaXUeiX/qIAJ3LRgiMa7eB/aRcm3xH/XNpkgX45YkYt+o5QZ
+mjhyBQZSG6lG5VDkzxlCnCj5wMinRPeh6+hdqCKvIgHIZob3O0fCZ8E+HAy4IrhQzLS1HSnci8LA
+SFbkw6LnpczCpkWNfGT0b3pOymeQrMXitPRs+p3eg8K36F5iwSPye9Hf5NpitvRtye4VFzpSWekg
+kIv3pN/oniQ3eraYDS6OV+wOI8pRbJjBPjwT4d6iD4/+Rveg9xVL5ondQGm89Lv4bShdiv72n/Gj
+pZywtNsoVbi3YTCrfa2Hax2kGej0QY2+mZ2i5Mj0BonSB1KomHJ+uHEIrj59h85UOYpCrXQTq34U
+YL/yumgZBnWpxXVPnKnP9bfy4rSNDMN3jsTAZYHYsv+6ANis418jgX9mR6MJL09AdhsLvNwyDMsP
+XMeYuUSrW6RvwqvUcLC3xsaRzblZOKeZpAektNIqEnDUtxfT/uV7LBEmcCY7K3/oaxPbamcFh+wW
+oJ4E6VkIyGlMxYjCqX90ehefHxpc1kUZlcA/AzS21yTccK6QqwPurR2Ayf6nMZ2T/CzSBg1t+wSW
+WDkaNquIQ9PaM7P1/MZLQV2gCG5OyUghBgJ2gpoj5neQb8k1N0p0XQwZqVTEZP0My6j7KDEiP6Nf
+IbXzxch/Un/YdkzHIEnlpAiK71V0/hXj+6/cg1Rv4gHSId6feeV/Dmgi2KKkKF3SCVeX9ebqVxz+
+RPFuuityYiKoVkTrWiU4ITA2Ig6t6pVCzZLO3N+awnusclji/pswNvLZ5hMLXemkpATM7MRhS2W6
+L0FkdJzQUfNXpYCoNexzSpkZ/TMfJ+vazJcAB0XcfZPpGsA/CzQdsJUolh/nfX2w9dQ99KZaDpys
+SLuTsNRIlGpOi1g1sjnc833deuns/bfoO28v+9uSiBXOFpbD3MIUh+d2gW02M64rzz3PfnU6hUrN
+CwGxjZm8OGb+7PsfeQKtxaRq7z79IP1k3A/K5p8Hmgi2GBny58uBUwt7IPhTNJqN3Ygoyi8SU0i0
+KfZ6+hL4Dm/GzdPFg2u4U7Uk3Wxemu1Rcdx4/dCcznge/BlNRm9AApWlE5mtHxRaqpfR+AjAuqW+
+tY39QP0CdA/6wiIDKf6ddnDdQkFiciPdT2Rkxda6qf1/etAt3pPuo3uQfcsZyjp/FKs+izt+Ugve
+VGpiMguobeXLamsqEhLPoZ9SPivl6em+n7ajkGhj01g5M0BbfFYcB7uLiKXWabkrypsZ2F+o2aQx
+p/4dQBPBJo2HqZkxtk3yhod7HnSYsgOnqO8VORN5ckmA8GiM6dcI07vWTnoldjoevAHYamMUKWUj
+XomuzSvCd3BTrNh3FcMXHdAmU6Yz5ymjIExMhLU2p0782NQFRazGlOx2pAobGjAhQ3U9aB5Q0HMM
+UdwiqUMl6NiJmpjU2pbiPOme3GtOIoGhkT5sLEwRFilNX5VdTSLMzYw5JYVT39QarltCa0QYZZrr
+Mq+J4LQTqnhFfkEK6KawNqph8tVBIXRmxjx0HltqRExiIvutaKCxlOLzLZZXo2GHspGhAWLJHZDG
+/agdMgWcy7XtcomJtqEEYmk81NwPXDtSqpmrL4GthSm3Eyan/jsKQSObn9J50rNIZXQ+pDj/3wM0
+BptAvxNpMaRjTUztURdrD93AyOWBiCdhmpvA2EAfQduGcwnsWWtPwHdUc+7rzAwiEQGxctjnscWK
+YX9ymbrus3dj31Fq2ZTC7vtJwX11uUyB/XO6cEB07UF+zG42bVAGUzrW5D5vfIggksbDq0Zx+I9s
+hlfvI6Cnp4fF+65i496rX0KBZArUrVYEKwc2RpHuSxAfGoUF41pxakehzouQGCPHllmdEBEXj/6k
+aqcnskEaj4Y1i3OzDXWCimNCqdJvj4UH4L/nypdna3eGk/O7c7B3VKwcn2PlaD51B+Q0OVPYz/S9
+Lizvw32vi1BkfGoNI2LkWDmhNae+9BDbL6X1DWLlCJjThSN2HNvP56yFr8AWI8O4Xg249HqF/isR
+HhKBvAVy4dy8rqg9cgNeUyCE6MdUKJE/bw5c9/XBu88xSFQLQB675jgOZCTB9yfmzL8LaOKL0IeO
+kqJo0fxYM6o5lxYYufwIdh66DsfC+fBnlcJYtOks12fUtzDFCO9qWLT7CuRRUgxoXQUTutTGxftv
+0GvuXoSR118swPkTgvrupdJ4HJzXDY0qFMSqwFvoNXwtWrSthoW9vTj1JhnQ4uTo0LQ8pnerg/zk
+jKbVndhP3eYbGg1XNg7ZMRJDVhzBliO3ELp3LJMtNUduwKV7bxBzYByqDluHGylrZn5jsDTRaYdS
+RMtwcF5X5LLNhvLdl0DD9Q21W4AWaK+2DMOUzWexfuMZIT8vpQOeniNToFwpZxyd3pHv22HWbhw4
+fifVZotbZ3ZioLWm7I20volCCRennLi0oDvnLw5bdQxrtrobQAIAAAdGSURBVF/4+vxoKSb2bYTJ
+nYR2xBW6+cIujy1erB+IMn1X4AVVz9IBmpuLPe4u74NSfVYg5E0o2jQuD7+hTVGsxxI8ogwKMY7y
+ux/6x074dwJN3N207Xh7N6+ECZ1r4fX7CExcdwKnTt0XaHzSrckuSgRaNS6HiZ1r8e42Ynkg9lEL
+WxK0DqHyYyJK51XSeJxc0ot7gP1Z1R2+e65wSyD/Ec1QgKLvdXe0ODma1SsN/1HNsY9CoSDB0gPX
+cZnKvumm4UdJMWlAI04J2nn+EdrXLA4ifUq52OPorZfoUb8MSndeKLCn32gn8NUbRMSi5R8VOI4y
+v/c8BFN+oO5ztfbMzdX9OCTrxdtPCI6SYsya48KtdNW+KCm2z+nC9RspFG5Ii0o86Vkl0z2iZdj4
+dwcGGpdvSAtoUVIsHtuSy8VRL7vlAxujMJXASNmLIFqKOcOboWDe7JDo6UGj0aDd9F147T8YlQf7
+4SWV5tMBmquzPaf0FO+1HMFvw9iPe2/nSOy/8hTjyaxIb32YdE6HlKf9e4EmjpTIgFgZLO2sML69
+Jzo1KINHb8Iwa8s5XLj7Go2rumN4m2pckXdxwCXM33kJalJv0qNK/aDQUr1MGo+Lq/ph48m7CDz3
+CA82Dsb+y0/hnj8HyvRe8RXQWnmVxdIBjTBoyWGuzX/hUTCCQiKSs1/aMtz3VvThRhHtZu1G4OUn
+CNo6HOYmhui54AA2772S/iKvNAqFEjlsLfBu+wiO9PfffFbbykqntqV2R7u3ZgC3tT11+Ski1Woc
+oSxpQrQIaqUa2SxN8TlgNMdaUuY6daUp6rMMjx4HJ693Ei3Dpr87cEZCx+HrhR2SdnDdGpVqDe+K
+YQGj+Lk3n33AOO9q8ByxHucuPUkO3mgpFoxqjnx21tyN5uXeMbj+JIRrRFLl4ldpAM29xxJ8oJIJ
+icCrfePgd+QWpq+gsuA/mIOYzjn07weauLsRYxQXj5x5s2NIy8poX7cUjPX0EKtQYtWBa1i67xqk
+lC1NZZ//iaiIuHjc2jCIo+T/mrodXi0r4/DfHbhXQAFq0K6b0RwrR4c/KnAGcxFa/SUSKNRqzjD/
+iiSIkmI398J2g0XjaUgIj0HAwh74s3JhmDWayk00eMKm59AkQj9BhTPLesHe2gL1hq6BiYUJZy9T
+tHzSs7VAe7t9BJbvv4Y1u69AL5spZ0BQXmDSedq+bn2aeGDh1vMc2ta4RjEOLv5j2Nrki12UDNtm
+dUIOKzP0nREAPUtTfIiIQ3Ss7AvYYuXo0boK5vnUx9T1p2AoAaqULcCED2c8iIWd6F2j4rB0fGsU
+dcyJGh0WcG7ckw2DWN107LgQQcHJbTRSHZ/4DUC9Mf4IC/mMHq2qcLPKol0X4x2ViU9Pzcz0yDi1
+cwyMM7mA6o8O7FvXkWEsVcDSwZar/Z67/xYqKutNauQ/GUolV2DdhDacEb5m1yWmmYd0q8MpGg0p
+nlJXdZQpUL1CQSzq4wV5ghISSLD++B2sJFskpcolVaCBZ1GOZpm++hgvIrWruHMy5iRq0JCRnVue
+gGrl3bB6cBNOxKQSAPoGerj1/AP6zd8rsLK0IDDQNPAf14orHqvUao6+bzVtJ6Ios1tbrJR8m3um
+d+Q8N/8NpzjAuVjFglgz9A/UJ/eMbieeuHiM6FIbbWsWA/VGoOaHVNrhAKn4TK8LDS42TGzDrZDn
+aVliB/e82D+5Hf6cvBXvqLWTmEMXJ8ewLrXhbG+N/nP2MHXvWdUdc33qo+mkrfhAtrkIngQVcuey
+xr5J3lBrszlCo+Iw1u84HlF4W2bS+0bmgFK6///HjpYa8GhlFaOw/4kdLLUxkZpLapVow1BIFk2M
+NOhpmlwSfZruNLdJqUrjIL8XTRCdisrJ/j8DCxolw3JhWNIA9bTPJoUutYdrg5W5I6h2jMkeJZFA
+QuMWsyhE35u+HvT19Tm9JdmhlY/4XKLZU96P9mYNVe1i0HNvJiZp9A0N2MXw1f3EBYzOJbcOyTqt
+BVdbcYsy9TlTISNZHxmQcdKpRhaASn4MRyY2+P8LtB958cy+Jsm5K7J3WkdpagHPwsz9MiJdgKYc
+J59GqNS5r+7/Z+S9xPw83WvSenbKc1N7DwaPjt1G9xUTNL96D23FLfHvqT035WL1vfvR77rkTFrP
+Fu8jPjs9QegZkWvKc42p1ZX8BPQ+NUagryILaD8jzKxrsySQmgRoJ1PKT0ChaYIzk+J5LUC9v36D
+Xzzre2RJ4H9EAmSTqeJPITqyMS4v0Ga5ZgHtf+TrZ73mb5EAEx/y04iJaqQLsqwd7bdIP+sh/xMS
+EIiPM/j0rhFurpKlfOcs1fF/YhZkvWSmSkBQF89CE9MIx+ZKU3tWFtAy9Qtk3fw/LwFBXTyHxNiG
+aYEsS3X8z8+CrBfMVAkIILsARagXziyL+9azsna0TP0SWTf/b0ogERDUxQuIT/TCmUnfBFnWjvbf
+nAVZb5XZEtCn2pPKk5CENyJndHoe938S6flJttt7SQAAAABJRU5ErkJggg==
+
+--_005_SYBPR01MB71776BDB4D33F11EF4C3F6F3BF4B2SYBPR01MB7177ausp_--

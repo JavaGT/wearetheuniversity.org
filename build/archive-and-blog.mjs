@@ -66,11 +66,12 @@ function formatHeaders(parsed) {
             if (header === 'date') {
                 return [header, value.toISOString().split('T')[0]]; // Format date as YYYY-MM-DD
             }
+            value = `"${value.replaceAll('"', "'")}"`
             return [header, value];
         })
         .map(([header, value]) => {
             // Clean up the value by removing newlines and double quotes
-            const cleanedValue = ('' + value).replace(/\n/g, ' ').replaceAll(`"`, '');
+            const cleanedValue = ('' + value).replace(/\n/g, ' ')
             return `${header}: ${cleanedValue}`;
         })
         .join('\n'); // Join headers into a single string
@@ -97,10 +98,10 @@ function addFrontmatter(parsed) {
 
     return `---
 ${headers}
-slug: ${slugify(parsed.subject)}
-title: ${parsed.subject}
-author: ${author}
-author-slug: ${authorSlug}
+slug: "${slugify(parsed.subject)}"
+title: "${parsed.subject}"
+author: "${author.name}"
+author-slug: "${authorSlug}"
 ---\n`;
 }
 
@@ -219,20 +220,20 @@ async function main() {
         await fsp.mkdir('./docs/authors/', { recursive: true });
 
         for (const author of archiveAuthors) {
-            console.log(`Checking author ${author.name} with slugs ${author.slugs.join(', ')}`);
+            // console.log(`Checking author ${author.name} with slugs ${author.slugs.join(', ')}`);
             const authorPosts = archivePostsMetadata.filter(post => author.slugs.includes(post['author-slug']));
-            console.log(`Author ${author.name} has ${authorPosts.length} posts`);
+            // console.log(`Author ${author.name} has ${authorPosts.length} posts`);
             if (authorPosts.length === 0) {
                 continue;
             }
 
             const authorInfoContent = author.bio ? author.bio : '';
             let html = marked(authorInfoContent);
-            html = authorTemplate({ posts: authorPosts, authorInfoContent: html, author  });
+            html = authorTemplate({ posts: authorPosts, authorInfoContent: html, author });
 
             await fsp.mkdir(`./docs/authors/${author.slugs[0]}`, { recursive: true });
             await fsp.writeFile(`./docs/authors/${author.slugs[0]}/index.html`, html);
-            
+
             // create redirects for other slugs
             for (const slug of author.slugs.slice(1)) {
                 const html = `<meta http-equiv="refresh" content="0; url=/authors/${author.slugs[0]}">`;
