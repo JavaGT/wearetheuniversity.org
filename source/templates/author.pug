@@ -1,8 +1,6 @@
 extends ./root.pug
 block content
-    h1=author || posts[0].author
-    //- p=JSON.stringify(author)
-    //- p=JSON.stringify(posts)
+    h1=author.name || posts[0].author
     p!=author_info_content
     
     h2 Posts
@@ -10,12 +8,11 @@ block content
         p No posts
     else
         for post in posts
-            if (post.date && post.date.toISOString)
-                - let datestring = post.date.toISOString()
-                a(href=`/blog/${datestring.slice(0,4)}/${datestring.slice(5,7)}/${datestring.slice(8,10)}/${post.slug}`)
-                    h2=post.title
-                    p=post.body
-                    p=post.date.toDateString()
-            else 
-                - console.log('Post missing date: ', post)
+            - console.log(post)
+            - let date = new Date(post.date && post.date.toISOString ? post.date : new Date(0))
+            - let datestring = date.toISOString()
+            a(href=`/${post['post-type']}/${datestring.slice(0,4)}/${datestring.slice(5,7)}/${datestring.slice(8,10)}/${post.slug}`)
+                h2=post.title
+                p=post.body
+                p=date.toDateString()
             

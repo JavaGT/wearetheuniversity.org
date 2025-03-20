@@ -1,0 +1,274 @@
+[
+    {
+        "slugs": [
+            "java-grant",
+            "java"
+        ],
+        "name": "Java Grant",
+        "website": "https://javagrant.com/",
+        "bio": "Java is a PhD student at the University of Auckland researching hopeful grass-roots futures for Universities in Aotearoa."
+    },
+    {
+        "slugs": [
+            "sociological-association-of-aotearoa-new-zealand",
+            "saanz"
+        ],
+        "name": "Sociological Association of Aotearoa New Zealand",
+        "website": "https://saanz.net/"
+    },
+    {
+        "slugs": [
+            "we-are-the-university",
+            "watu"
+        ],
+        "name": "We Are The University",
+        "website": "https://wearetheuniversity.org/",
+        "bio": "We Are The University is a collective of students, staff, and alumni from the University of Auckland who are committed to transforming the university into a more democratic, inclusive, and equitable institution."
+    },
+    {
+        "slugs": [
+            "new-zealand-union-of-students-associations",
+            "nzusa"
+        ],
+        "name": "New Zealand Union of Students' Associations",
+        "website": "https://www.students.org.nz/"
+    },
+    {
+        "slugs": [
+            "new-zealand-tertiary-education-union",
+            "nzteu",
+            "teu"
+        ],
+        "name": "New Zealand Tertiary Education Union",
+        "website": "https://teu.ac.nz/"
+    },
+    {
+        "slugs": [
+            "Otago-University-Students-Association",
+            "ousa"
+        ],
+        "name": "Otago University Students' Association",
+        "website": "https://ousa.org.nz/"
+    },
+    {
+        "slugs": [
+            "auckland-university-students-association",
+            "ausa"
+        ],
+        "name": "Auckland University Students' Association",
+        "website": "https://ausa.org.nz/"
+    },
+    {
+        "slugs": [
+            "victoria-university-students-association",
+            "vusa"
+        ],
+        "name": "Victoria University Students' Association",
+        "website": "https://www.vuwsa.org.nz/"
+    },
+    {
+        "slugs": [
+            "canterbury-students-association",
+            "ucsa"
+        ],
+        "name": "Canterbury Students' Association",
+        "website": "https://ucsa.org.nz/"
+    },
+    {
+        "slugs": [
+            "waikato-students-union",
+            "wsu"
+        ],
+        "name": "Waikato Students' Union",
+        "website": "https://wsu.org.nz/"
+    },
+    {
+        "slugs": [
+            "lincoln-university-students-association",
+            "lusa"
+        ],
+        "name": "Lincoln University Students' Association",
+        "website": "https://www.lusa.org.nz/"
+    },
+    {
+        "slugs": [
+            "te-tira-ahu-pae",
+            "massey-university-students-association",
+            "musa"
+        ],
+        "name": "Te Tira Ahu Pae",
+        "website": "https://www.tetiraahupae.ac.nz/",
+        "bio": "Te Tira Āhu Pāe is the Students' Association at Massey University."
+    },
+    {
+        "slugs": [
+            "aotearoa-tertiary-students-association",
+            "atsa"
+        ],
+        "name": "Aotearoa Tertiary Students' Association",
+        "website": "https://www.instagram.com/atsa.nz/"
+    },
+    {
+        "slugs": [
+            "university-of-canterbury",
+            "uc"
+        ],
+        "name": "University of Canterbury",
+        "website": "https://www.canterbury.ac.nz/"
+    },
+    {
+        "slugs": [
+            "university-of-otago",
+            "otago-university",
+            "otago-uni",
+            "uotago",
+            "otago",
+            "uo",
+            "uoo"
+        ],
+        "name": "University of Otago",
+        "website": "https://www.otago.ac.nz/"
+    },
+    {
+        "slugs": [
+            "university-of-auckland",
+            "auckland-university",
+            "uoa",
+            "auckland"
+        ],
+        "name": "University of Auckland",
+        "website": "https://www.auckland.ac.nz/"
+    },
+    {
+        "slugs": [
+            "victoria-university-of-wellington",
+            "vuw",
+            "victoria-university",
+            "victoria"
+        ],
+        "name": "Victoria University of Wellington",
+        "website": "https://www.wgtn.ac.nz/"
+    },
+    {
+        "slugs": [
+            "massey-university",
+            "massey"
+        ],
+        "name": "Massey University",
+        "website": "https://www.massey.ac.nz/"
+    },
+    {
+        "slugs": [
+            "university-of-waikato",
+            "waikato-university",
+            "waikato"
+        ],
+        "name": "University of Waikato",
+        "website": "https://www.waikato.ac.nz/"
+    },
+    {
+        "slugs": [
+            "lincoln-university",
+            "lincoln"
+        ],
+        "name": "Lincoln University",
+        "website": "https://www.lincoln.ac.nz/"
+    },
+    {
+        "slugs": [
+            "auckland-university-of-technology",
+            "aut"
+        ],
+        "name": "Auckland University of Technology",
+        "website": "https://www.aut.ac.nz/"
+    },
+    {
+        "slugs": [
+            "unitec-institute-of-technology",
+            "unitec"
+        ],
+        "name": "Unitec Institute of Technology",
+        "website": "https://www.unitec.ac.nz/"
+    },
+    {
+        "slugs": [
+            "te-pukenga"
+        ],
+        "name": "Te Pūkenga",
+        "website": "https://www.tepukenga.ac.nz/"
+    },
+    {
+        "slugs": [
+            "te-wananga-o-aotearoa",
+            "twoa"
+        ],
+        "name": "Te Wānanga o Aotearoa",
+        "website": "https://www.twoa.ac.nz/"
+    },
+    {
+        "slugs": [
+            "brent-burmester",
+            "b-burmester"
+        ],
+        "name": "Brent Burmester",
+        "website": "https://profiles.auckland.ac.nz/b-burmester"
+    },
+    {
+        "slugs": [
+            "universities-new-zealand-te-pokai-tara",
+            "universities-new-zealand",
+            "te-pokai-tara",
+            "unz"
+        ],
+        "name": "Universities New Zealand - Te Pōkai Tara",
+        "website": "https://www.universitiesnz.ac.nz/"
+    },
+    {
+        "slugs": [
+            "new-zealand-qualifications-authority",
+            "nzqa"
+        ],
+        "name": "New Zealand Qualifications Authority",
+        "website": "https://www.nzqa.govt.nz/"
+    },
+    {
+        "slugs": [
+            "tertiary-education-commission",
+            "tec"
+        ],
+        "name": "Tertiary Education Commission",
+        "website": "https://www.tec.govt.nz/"
+    },
+    {
+        "slugs": [
+            "ministry-of-education",
+            "moe"
+        ],
+        "name": "Ministry of Education",
+        "website": "https://www.education.govt.nz/"
+    },
+    {
+        "slugs": [
+            "education-new-zealand",
+            "enz"
+        ],
+        "name": "Education New Zealand",
+        "website": "https://www.enz.govt.nz/"
+    },
+    {
+        "slugs": [
+            "new-zealand-vice-chancellors-committee",
+            "nzvcc"
+        ],
+        "name": "New Zealand Vice-Chancellors' Committee",
+        "website": "https://www.nzvcc.ac.nz/"
+    },
+    {
+        "slugs": [
+            "new-zealand-association-for-research-in-education",
+            "nzare"
+        ],
+        "name": "New Zealand Association for Research in Education",
+        "website": "https://www.nzare.org.nz/"
+    }
+]
