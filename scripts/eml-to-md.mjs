@@ -48,7 +48,7 @@ async function processEMLFile(emlFilePath) {
                     return [header, value]
                 })
                 .map(([header, value]) => `${header}: ${('' + value).replace(/\n/g, ' ').replaceAll(`"`, '')}`)
-                .join('\n')}\nslug: ${slugify(parsed.subject)}\n---\n`
+                .join('\n')}\nslug: ${slugify(parsed.subject)}\ntitle: ${parsed['subject']}\n---\n`
 
         // extract any attachments, save with name as file hash and replace the src in the body
         const attachments = parsed.attachments.filter(attachment => !attachment.contentType.includes('image'));

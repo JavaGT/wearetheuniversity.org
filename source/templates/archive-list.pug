@@ -11,7 +11,7 @@ block content
                 - let datestring;
                 - try { datestring = (new Date(post.date)).toISOString() } catch (e) { datestring = (new Date(0)).toISOString()}
                 tr
-                    each key in keys
+                    each key in ['date', 'title', 'author']
                         if (key === 'title')
                             td 
                                 a(href=`/archive/${datestring.slice(0,4)}/${datestring.slice(5,7)}/${datestring.slice(8,10)}/${post.slug}`)=`${datestring.slice(0,4)}/${datestring.slice(5,7)}/${datestring.slice(8,10)}: ${post.title}`
