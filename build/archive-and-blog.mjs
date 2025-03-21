@@ -8,6 +8,7 @@ import { marked } from 'marked';
 import pug from 'pug';
 import parse from 'front-matter';
 import { AUTHOR_DATA_FILE, EMAIL_ATTACHMENT_HOSTED_DIRECTORY, EMAIL_ATTACHMENT_OUTPUT_DIRECTORY } from '../config.mjs';
+import { arch } from 'os';
 
 // Configure logging
 const logger = winston.createLogger({
@@ -163,7 +164,7 @@ async function main() {
         const archiveFilesFiles = await fsp.glob('./source/{archive,blog}/**/*.{md,eml}');
         // const archiveEmailFiles = await fsp.glob('./source/archive/**/*.eml');
 
-        const archivePostsMetadata = [];
+        let archivePostsMetadata = [];
         const authorSet = new Set();
 
         // Process email files
@@ -241,6 +242,18 @@ async function main() {
                 await fsp.writeFile(`./docs/authors/${slug}/index.html`, html);
             }
         }
+
+        archivePostsMetadata.sort((a, b) => {
+            if (a.date && b.date) {
+                return (new Date(a.date) > new Date(b.date)) ? -1 : 1;
+            } else if (a.date) {
+                return -1;
+            } else if (b.date) {
+                return 1;
+            } else {
+                return 0;
+            }
+        });
 
         // Generate archive index page
         const archiveIndexContent = archiveIndexTemplate({ posts: archivePostsMetadata.filter(post => post['post-type'] === 'archive') });
