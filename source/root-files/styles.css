@@ -193,3 +193,40 @@ print {
         font-size: 4rem;
     }
 }
+
+#table-of-contents ul {
+    break-before: column;
+}
+
+code {
+    display: block;
+    border: 0.25rem solid var(--color-bg);
+    border-radius: var(--border-radius-sm);
+    padding: 0.5rem 1rem;
+    background-color: var(--color-bg-em);
+    color: var(--color-text);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: var(--spacing-md);
+    border: 0.25rem solid var(--color-bg);
+}
+
+th,
+td {
+    padding: 0.5rem;
+}
+
+th {
+    background-color: var(--color-bg-em);
+}
+
+tr:nth-child(even) {
+    background-color: var(--color-bg-em);
+}
+
+tr:nth-child(odd) {
+    background-color: var(--color-bg);
+}

@@ -1,0 +1,677 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>University Reading List Data – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Games</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><p><h2>Finding data on course reading lists in Aotearoa programmatically.</h2>
+<h3>Leganto</h3>
+<p>Finding leganto subdomains with Google Search</p>
+<pre><code>inurl:leganto.exlibrisgroup.com PoweredbyLeganto inurl:index.html
+</code></pre>
+<p>Bookmarklet to extract all domains from a page&#39;s links (Google results) (saved to local storage)</p>
+<pre><code class="language-javascript">javascript:(function(){const domains=new Set(JSON.parse(localStorage.getItem(&#39;domains&#39;)||&#39;[]&#39;));document.querySelectorAll(&#39;a&#39;).forEach(a=&gt;{try{const url=new URL(a.href);domains.add(url.hostname)}catch(e){console.error(&#39;error parsing url&#39;,a.href,e)}});localStorage.setItem(&#39;domains&#39;,JSON.stringify([...domains]))})()
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>Subdomain</th>
+<th>University (AI Guess)</th>
+<th>Country (AI Guess)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="https://acu.leganto.exlibrisgroup.com">acu</a></td>
+<td>Australian Catholic University</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://adelaide.leganto.exlibrisgroup.com">adelaide</a></td>
+<td>University of Adelaide</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://bu.leganto.exlibrisgroup.com">bu</a></td>
+<td>??</td>
+<td>??</td>
+</tr>
+<tr>
+<td><a href="https://cumbria.leganto.exlibrisgroup.com">cumbria</a></td>
+<td>University of Cumbria</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://gslg-lnu.leganto.exlibrisgroup.com">gslg-lnu</a></td>
+<td>??</td>
+<td>??</td>
+</tr>
+<tr>
+<td><a href="https://harper-adams.leganto.exlibrisgroup.com">harper-adams</a></td>
+<td>Harper Adams University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://icc-yvc.leganto.exlibrisgroup.com">icc-yvc</a></td>
+<td>??</td>
+<td>??</td>
+</tr>
+<tr>
+<td><a href="https://lincoln.leganto.exlibrisgroup.com">lincoln</a></td>
+<td>University of Lincoln</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://liuc.leganto.exlibrisgroup.com">liuc</a></td>
+<td>??</td>
+<td>Italy</td>
+</tr>
+<tr>
+<td><a href="https://manchester.leganto.exlibrisgroup.com">manchester</a></td>
+<td>University of Manchester</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://northampton.leganto.exlibrisgroup.com">northampton</a></td>
+<td>University of Northampton</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://salford.leganto.exlibrisgroup.com">salford</a></td>
+<td>University of Salford</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://stir.leganto.exlibrisgroup.com">stir</a></td>
+<td>University of Stirling</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://uclan.leganto.exlibrisgroup.com">uclan</a></td>
+<td>University of Central Lancashire</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://usc-psb.leganto.exlibrisgroup.com">usc-psb</a></td>
+<td>??</td>
+<td>??</td>
+</tr>
+<tr>
+<td><a href="https://usc.leganto.exlibrisgroup.com">usc</a></td>
+<td>University of the Sunshine Coast</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://usq.leganto.exlibrisgroup.com">usq</a></td>
+<td>University of Southern Queensland</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://uwa.leganto.exlibrisgroup.com">uwa</a></td>
+<td>University of Western Australia</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://uonda.leganto.exlibrisgroup.com">uonda</a></td>
+<td>University of North Dakota</td>
+<td>USA</td>
+</tr>
+<tr>
+<td><a href="https://uow.leganto.exlibrisgroup.com">uow</a></td>
+<td>University of Wollongong</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://uq.leganto.exlibrisgroup.com">uq</a></td>
+<td>University of Queensland</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://usyd.leganto.exlibrisgroup.com">usyd</a></td>
+<td>University of Sydney</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://york.leganto.exlibrisgroup.com">york</a></td>
+<td>University of York</td>
+<td>UK</td>
+</tr>
+</tbody></table>
+<h3>Talis</h3>
+<p>Finding talis subdomains with Google Search</p>
+<pre><code>inurl:rl inurl:talis.com PoweredbyTalisAspire inurl:index.html
+</code></pre>
+<p><em>Janurary 2024</em></p>
+<table>
+<thead>
+<tr>
+<th>Subdomain</th>
+<th>University (AI Guess)</th>
+<th>Country (AI Guess)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="https://aber.rl.talis.com">aber</a></td>
+<td>Aberystwyth University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://aston.rl.talis.com">aston</a></td>
+<td>Aston University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://auckland.rl.talis.com">auckland</a></td>
+<td>University of Auckland</td>
+<td>NZ</td>
+</tr>
+<tr>
+<td><a href="https://aut.rl.talis.com">aut</a></td>
+<td>Auckland University of Technology</td>
+<td>NZ</td>
+</tr>
+<tr>
+<td><a href="https://bangor.rl.talis.com">bangor</a></td>
+<td>Bangor University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://bathspa.rl.talis.com">bathspa</a></td>
+<td>Bath Spa University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://beckett.rl.talis.com">beckett</a></td>
+<td>Leeds Beckett University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://bedfordshire.rl.talis.com">bedfordshire</a></td>
+<td>University of Bedfordshire</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://bham.rl.talis.com">bham</a></td>
+<td>University of Birmingham</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://bimmu.rl.talis.com">bimmu</a></td>
+<td>BIMM University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://binorway.rl.talis.com">binorway</a></td>
+<td>BI Norwegian Business School</td>
+<td>Norway</td>
+</tr>
+<tr>
+<td><a href="https://bishopg.rl.talis.com">bishopg</a></td>
+<td>Bishop Grosseteste University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://bolton.rl.talis.com">bolton</a></td>
+<td>University of Bolton</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://bournemouth.rl.talis.com">bournemouth</a></td>
+<td>Bournemouth University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://bpp.rl.talis.com">bpp</a></td>
+<td>BPP University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://bradford.rl.talis.com">bradford</a></td>
+<td>University of Bradford</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://brighton.rl.talis.com">brighton</a></td>
+<td>University of Brighton</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://bristol.rl.talis.com">bristol</a></td>
+<td>University of Bristol</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://broadminster.rl.talis.com">broadminster</a></td>
+<td>University of Worcester</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://brookes.rl.talis.com">brookes</a></td>
+<td>Oxford Brookes University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://brunel.rl.talis.com">brunel</a></td>
+<td>Brunel University London</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://cccu.rl.talis.com">cccu</a></td>
+<td>Canterbury Christ Church University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://chichester.rl.talis.com">chichester</a></td>
+<td>University of Chichester</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://city.rl.talis.com">city</a></td>
+<td>City, University of London</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://coventry.rl.talis.com">coventry</a></td>
+<td>Coventry University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://cranfield.rl.talis.com">cranfield</a></td>
+<td>Cranfield University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://cst.rl.talis.com">cst</a></td>
+<td>University of Central Lancashire</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://deakin.rl.talis.com">deakin</a></td>
+<td>Deakin University</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://demoamerica.rl.talis.com">demoamerica</a></td>
+<td>Demo America</td>
+<td>USA</td>
+</tr>
+<tr>
+<td><a href="https://dmu.rl.talis.com">dmu</a></td>
+<td>De Montfort University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://douglascollege.rl.ca.talis.com">douglascollege</a></td>
+<td>Douglas College</td>
+<td>Canada</td>
+</tr>
+<tr>
+<td><a href="https://durham.rl.talis.com">durham</a></td>
+<td>Durham University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://edgehill.rl.talis.com">edgehill</a></td>
+<td>Edge Hill University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://exeter.rl.talis.com">exeter</a></td>
+<td>University of Exeter</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://essex.rl.talis.com">essex</a></td>
+<td>University of Essex</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://falmouth.rl.talis.com">falmouth</a></td>
+<td>Falmouth University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://glasgow.rl.talis.com">glasgow</a></td>
+<td>University of Glasgow</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://glos.rl.talis.com">glos</a></td>
+<td>University of Gloucestershire</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://gold.rl.talis.com">gold</a></td>
+<td>Goldsmiths, University of London</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://griffith.rl.talis.com">griffith</a></td>
+<td>Griffith University</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://gsa.rl.talis.com">gsa</a></td>
+<td>Glasgow School of Art</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://hcicourse.rl.talis.com">hcicourse</a></td>
+<td>HCI Course</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://herts.rl.talis.com">herts</a></td>
+<td>University of Hertfordshire</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://info.rl.talis.com">info</a></td>
+<td>Info</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://jcu.rl.talis.com">jcu</a></td>
+<td>James Cook University</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://keele.rl.talis.com">keele</a></td>
+<td>Keele University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://kent.rl.talis.com">kent</a></td>
+<td>University of Kent</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://kmms.rl.talis.com">kmms</a></td>
+<td>King&#39;s College London</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://langara.rl.ca.talis.com">langara</a></td>
+<td>Langara College</td>
+<td>Canada</td>
+</tr>
+<tr>
+<td><a href="https://latrobe.rl.talis.com">latrobe</a></td>
+<td>La Trobe University</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://lboro.rl.talis.com">lboro</a></td>
+<td>Loughborough University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://leicester.rl.talis.com">leicester</a></td>
+<td>University of Leicester</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://lincoln.rl.talis.com">lincoln</a></td>
+<td>University of Lincoln</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://liverpool.rl.talis.com">liverpool</a></td>
+<td>Liverpool John Moores University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://ltu.rl.talis.com">ltu</a></td>
+<td>Leeds Trinity University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://macewan.rl.ca.talis.com">macewan</a></td>
+<td>MacEwan University</td>
+<td>Canada</td>
+</tr>
+<tr>
+<td><a href="https://medway.rl.talis.com">medway</a></td>
+<td>University of Greenwich</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://murdoch.rl.talis.com">murdoch</a></td>
+<td>Murdoch University</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://northumbria.rl.talis.com">northumbria</a></td>
+<td>Northumbria University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://notts.rl.talis.com">notts</a></td>
+<td>University of Nottingham</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://nuigalway.rl.talis.com">nuigalway</a></td>
+<td>National University of Ireland, Galway</td>
+<td>Ireland</td>
+</tr>
+<tr>
+<td><a href="https://okanagan.rl.ca.talis.com">okanagan</a></td>
+<td>University of British Columbia</td>
+<td>Canada</td>
+</tr>
+<tr>
+<td><a href="https://ozdemo.rl.talis.com">ozdemo</a></td>
+<td>Oz Demo</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://port.rl.talis.com">port</a></td>
+<td>University of Portsmouth</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://preview.rl.talis.com">preview</a></td>
+<td>Preview</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://qmul.rl.talis.com">qmul</a></td>
+<td>Queen Mary University of London</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://qut.rl.talis.com">qut</a></td>
+<td>Queensland University of Technology</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://rau.rl.talis.com">rau</a></td>
+<td>Royal Agricultural University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://rave.rl.talis.com">rave</a></td>
+<td>Ravensbourne University London</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://reading.rl.talis.com">reading</a></td>
+<td>University of Reading</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://regents.rl.talis.com">regents</a></td>
+<td>Regent&#39;s University London</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://rhul.rl.talis.com">rhul</a></td>
+<td>Royal Holloway, University of London</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://roehampton.rl.talis.com">roehampton</a></td>
+<td>University of Roehampton</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://scu.rl.talis.com">scu</a></td>
+<td>Southern Cross University</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://shu.rl.talis.com">shu</a></td>
+<td>Sheffield Hallam University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://solent.rl.talis.com">solent</a></td>
+<td>Solent University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://soton.rl.talis.com">soton</a></td>
+<td>University of Southampton</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://southwales.rl.talis.com">southwalesruc</a></td>
+<td>University of South Wales</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://sta.rl.talis.com">sta</a></td>
+<td>St. Andrews University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://tcdlibrary.rl.talis.com">tcdlibrary</a></td>
+<td>Trinity College Dublin</td>
+<td>Ireland</td>
+</tr>
+<tr>
+<td><a href="https://technicalone.rl.talis.com">technicalone</a></td>
+<td>Technical One</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://technicaltwo.rl.talis.com">technicaltwo</a></td>
+<td>Technical Two</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://teesside.rl.talis.com">teesside</a></td>
+<td>Teesside University</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://testone.rl.talis.com">testone</a></td>
+<td>Test One</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://trial.rl.talis.com">trial</a></td>
+<td>Trial</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://tudelft.rl.talis.com">tudelft</a></td>
+<td>Delft University of Technology</td>
+<td>Netherlands</td>
+</tr>
+<tr>
+<td><a href="https://ualberta.rl.ca.talis.com">ualberta</a></td>
+<td>University of Alberta</td>
+<td>Canada</td>
+</tr>
+<tr>
+<td><a href="https://uca.rl.talis.com">uca</a></td>
+<td>University for the Creative Arts</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://ucb.rl.talis.com">ucb</a></td>
+<td>University College Birmingham</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://ucl.rl.talis.com">ucl</a></td>
+<td>University College London</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://uea.rl.talis.com">uea</a></td>
+<td>University of East Anglia</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://uhi.rl.talis.com">uhi</a></td>
+<td>University of the Highlands and Islands</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://uky.rl.talis.com">uky</a></td>
+<td>University of Kentucky</td>
+<td>USA</td>
+</tr>
+<tr>
+<td><a href="https://unmc.rl.talis.com">unmc</a></td>
+<td>University of Nebraska Medical Center</td>
+<td>USA</td>
+</tr>
+<tr>
+<td><a href="https://unnc.rl.talis.com">unnc</a></td>
+<td>University of Nottingham</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://unthsc.rl.talis.com">unthsc</a></td>
+<td>University of North Texas Health Science Center</td>
+<td>USA</td>
+</tr>
+<tr>
+<td><a href="https://uq.rl.talis.com">uq</a></td>
+<td>University of Queensland</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://utas.rl.talis.com">utas</a></td>
+<td>University of Tasmania</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td><a href="https://uwe.rl.talis.com">uwe</a></td>
+<td>University of the West of England</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://uwl.rl.talis.com">uwl</a></td>
+<td>University of West London</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://victoria.rl.talis.com">victoria</a></td>
+<td>Victoria University of Wellington</td>
+<td>NZ</td>
+</tr>
+<tr>
+<td><a href="https://vu.rl.talis.com">vu</a></td>
+<td>Vrije Universiteit Amsterdam</td>
+<td>Netherlands</td>
+</tr>
+<tr>
+<td><a href="https://waikato.rl.talis.com">waikato</a></td>
+<td>University of Waikato</td>
+<td>NZ</td>
+</tr>
+<tr>
+<td><a href="https://warwick.rl.talis.com">warwick</a></td>
+<td>University of Warwick</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://worc.rl.talis.com">worc</a></td>
+<td>University of Worcester</td>
+<td>UK</td>
+</tr>
+<tr>
+<td><a href="https://yorksj.rl.talis.com">yorksj</a></td>
+<td>York St John University</td>
+<td>UK</td>
+</tr>
+</tbody></table>
+</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>

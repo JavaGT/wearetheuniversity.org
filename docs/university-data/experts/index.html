@@ -1,0 +1,346 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>University Expert Data – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Games</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><p><script src="/table-of-contents.js"></script>
+
+<h2>Finding data on university experts in Aotearoa programmatically.</h2>
+<p><a href="https://www.symplectic.co.uk/">https://www.symplectic.co.uk/</a> provides expert search services for most New Zealand universities and they seem to have an API endpoint that can be used to search for experts. </p>
+<table>
+<thead>
+<tr>
+<th>University</th>
+<th>Expert Search</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Auckland</td>
+<td><a href="https://profiles.auckland.ac.nz/">https://profiles.auckland.ac.nz/</a></td>
+</tr>
+<tr>
+<td>AUT</td>
+<td><a href="https://academics.aut.ac.nz/">https://academics.aut.ac.nz/</a></td>
+</tr>
+<tr>
+<td>Waikato</td>
+<td><a href="https://profiles.waikato.ac.nz/">https://profiles.waikato.ac.nz/</a></td>
+</tr>
+<tr>
+<td>Victoria</td>
+<td><a href="https://people.wgtn.ac.nz/">https://people.wgtn.ac.nz/</a></td>
+</tr>
+<tr>
+<td>Canterbury</td>
+<td><a href="https://profiles.canterbury.ac.nz">https://profiles.canterbury.ac.nz</a></td>
+</tr>
+<tr>
+<td>Lincoln</td>
+<td><a href="https://researchers.lincoln.ac.nz/">https://researchers.lincoln.ac.nz/</a></td>
+</tr>
+</tbody></table>
+<p>Massey &amp; Otago use different systems for expert search.</p>
+<table>
+<thead>
+<tr>
+<th>University</th>
+<th>Expert Search</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Massey</td>
+<td><a href="https://www.massey.ac.nz/massey/expertise/">https://www.massey.ac.nz/massey/expertise/</a></td>
+</tr>
+<tr>
+<td>Otago</td>
+<td><a href="https://search.otago.ac.nz/">https://search.otago.ac.nz/</a></td>
+</tr>
+</tbody></table>
+<p>Internationally some other unis use it too.</p>
+<table>
+<thead>
+<tr>
+<th>University (AI Guess)</th>
+<th>Expert Search</th>
+<th>Country</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Arts</td>
+<td><a href="https://researchers.arts.ac.uk/">https://researchers.arts.ac.uk/</a></td>
+<td>UK</td>
+</tr>
+<tr>
+<td>Auckland</td>
+<td><a href="https://profiles.auckland.ac.nz/">https://profiles.auckland.ac.nz/</a></td>
+<td>NZ</td>
+</tr>
+<tr>
+<td>AUT</td>
+<td><a href="https://academics.aut.ac.nz/">https://academics.aut.ac.nz/</a></td>
+<td>NZ</td>
+</tr>
+<tr>
+<td>Canterbury</td>
+<td><a href="https://profiles.canterbury.ac.nz">https://profiles.canterbury.ac.nz</a></td>
+<td>NZ</td>
+</tr>
+<tr>
+<td>Chester</td>
+<td><a href="https://profiles.chester.ac.uk/">https://profiles.chester.ac.uk/</a></td>
+<td>UK</td>
+</tr>
+<tr>
+<td>Cincinnati</td>
+<td><a href="https://cincinnati.discovery.symplectic.org/">https://cincinnati.discovery.symplectic.org/</a></td>
+<td>US</td>
+</tr>
+<tr>
+<td>CMU</td>
+<td><a href="https://scholars.cmu.edu/">https://scholars.cmu.edu/</a></td>
+<td>US</td>
+</tr>
+<tr>
+<td>Deakin</td>
+<td><a href="https://experts.deakin.edu.au/">https://experts.deakin.edu.au/</a></td>
+<td>AU</td>
+</tr>
+<tr>
+<td>Duke</td>
+<td><a href="https://scholars.duke.edu/">https://scholars.duke.edu/</a></td>
+<td>US</td>
+</tr>
+<tr>
+<td>Exeter</td>
+<td><a href="https://experts.exeter.ac.uk/">https://experts.exeter.ac.uk/</a></td>
+<td>UK</td>
+</tr>
+<tr>
+<td>Griffith</td>
+<td><a href="https://experts.griffith.edu.au/">https://experts.griffith.edu.au/</a></td>
+<td>AU</td>
+</tr>
+<tr>
+<td>Keele</td>
+<td><a href="https://publications.kis.keele.ac.uk/">https://publications.kis.keele.ac.uk/</a></td>
+<td>UK</td>
+</tr>
+<tr>
+<td>KFUPM</td>
+<td><a href="https://kfupm.discovery.symplectic.org/">https://kfupm.discovery.symplectic.org/</a></td>
+<td></td>
+</tr>
+<tr>
+<td>La Trobe</td>
+<td><a href="https://scholars.latrobe.edu.au/">https://scholars.latrobe.edu.au/</a></td>
+<td>AU</td>
+</tr>
+<tr>
+<td>Lincoln</td>
+<td><a href="https://researchers.lincoln.ac.nz/">https://researchers.lincoln.ac.nz/</a></td>
+<td>NZ</td>
+</tr>
+<tr>
+<td>McMaster</td>
+<td><a href="https://experts.mcmaster.ca/">https://experts.mcmaster.ca/</a></td>
+<td>CA</td>
+</tr>
+<tr>
+<td>NHM</td>
+<td><a href="https://www.nhm.ac.uk/our-science/people.html">https://www.nhm.ac.uk/our-science/people.html</a></td>
+<td>UK</td>
+</tr>
+<tr>
+<td>NUS</td>
+<td><a href="https://discovery.nus.edu.sg/">https://discovery.nus.edu.sg/</a></td>
+<td>SG</td>
+</tr>
+<tr>
+<td>Ohio</td>
+<td><a href="https://people.ohioinnovationexchange.org">https://people.ohioinnovationexchange.org</a></td>
+<td>US</td>
+</tr>
+<tr>
+<td>Oklahoma State</td>
+<td><a href="https://experts.okstate.edu/">https://experts.okstate.edu/</a></td>
+<td>US</td>
+</tr>
+<tr>
+<td>Science Trust</td>
+<td><a href="https://prsciencetrust.discovery.symplectic.org/">https://prsciencetrust.discovery.symplectic.org/</a></td>
+<td></td>
+</tr>
+<tr>
+<td>Sun</td>
+<td><a href="https://researcherprofiles.sun.ac.za/">https://researcherprofiles.sun.ac.za/</a></td>
+<td>ZA</td>
+</tr>
+<tr>
+<td>Sussex</td>
+<td><a href="https://profiles.sussex.ac.uk/">https://profiles.sussex.ac.uk/</a></td>
+<td>UK</td>
+</tr>
+<tr>
+<td>Swinburne</td>
+<td><a href="https://experts.swinburne.edu.au/">https://experts.swinburne.edu.au/</a></td>
+<td>AU</td>
+</tr>
+<tr>
+<td>TDR</td>
+<td><a href="https://profiles.tdr-global.net/">https://profiles.tdr-global.net/</a></td>
+<td></td>
+</tr>
+<tr>
+<td>Temple</td>
+<td><a href="https://education.temple.edu/about/faculty-staff">https://education.temple.edu/about/faculty-staff</a></td>
+<td>US</td>
+</tr>
+<tr>
+<td>Toronto</td>
+<td><a href="https://discover.research.utoronto.ca/">https://discover.research.utoronto.ca/</a></td>
+<td>CA</td>
+</tr>
+<tr>
+<td>Tufts</td>
+<td><a href="https://facultyprofiles.tufts.edu/">https://facultyprofiles.tufts.edu/</a></td>
+<td>US</td>
+</tr>
+<tr>
+<td>UAB</td>
+<td><a href="https://scholars.uab.edu/">https://scholars.uab.edu/</a></td>
+<td>US</td>
+</tr>
+<tr>
+<td>UCD</td>
+<td><a href="https://people.ucd.ie/">https://people.ucd.ie/</a></td>
+<td>IE</td>
+</tr>
+<tr>
+<td>UCL</td>
+<td><a href="https://profiles.ucl.ac.uk/">https://profiles.ucl.ac.uk/</a></td>
+<td>UK</td>
+</tr>
+<tr>
+<td>UIC</td>
+<td><a href="https://uicollaboratory.uic.edu/">https://uicollaboratory.uic.edu/</a></td>
+<td>US</td>
+</tr>
+<tr>
+<td>University of Tennessee</td>
+<td><a href="https://faculty.utk.edu/">https://faculty.utk.edu/</a></td>
+<td>US</td>
+</tr>
+<tr>
+<td>UTAS</td>
+<td><a href="https://discover.utas.edu.au/">https://discover.utas.edu.au/</a></td>
+<td>AU</td>
+</tr>
+<tr>
+<td>UTS</td>
+<td><a href="https://profiles.uts.edu.au/">https://profiles.uts.edu.au/</a></td>
+<td>AU</td>
+</tr>
+<tr>
+<td>Victoria</td>
+<td><a href="https://people.wgtn.ac.nz/">https://people.wgtn.ac.nz/</a></td>
+<td>NZ</td>
+</tr>
+<tr>
+<td>Virginia Tech</td>
+<td><a href="https://experts.vt.edu/">https://experts.vt.edu/</a></td>
+<td>US</td>
+</tr>
+<tr>
+<td>Waikato</td>
+<td><a href="https://profiles.waikato.ac.nz/">https://profiles.waikato.ac.nz/</a></td>
+<td>NZ</td>
+</tr>
+<tr>
+<td>Wollongong</td>
+<td><a href="https://scholars.uow.edu.au/">https://scholars.uow.edu.au/</a></td>
+<td>AU</td>
+</tr>
+<tr>
+<td>Wolverhampton</td>
+<td><a href="https://researchers.wlv.ac.uk/">https://researchers.wlv.ac.uk/</a></td>
+<td>UK</td>
+</tr>
+<tr>
+<td>York</td>
+<td><a href="https://discover.academics.yorku.ca/">https://discover.academics.yorku.ca/</a></td>
+<td>CA</td>
+</tr>
+</tbody></table>
+<h2>Searching for Experts at Victoria University of Wellington with JavaScript</h2>
+<pre><code class="language-javascript">const QUERY = &quot;higher education&quot;;
+const request = await fetch(&quot;https://profiles.auckland.ac.nz/api/users&quot;, {
+  &quot;headers&quot;: {
+    &quot;accept&quot;: &quot;application/json&quot;,
+    &quot;accept-language&quot;: &quot;en-US,en;q=0.9&quot;,
+    &quot;cache-control&quot;: &quot;no-cache&quot;,
+    &quot;content-type&quot;: &quot;application/json&quot;,
+    &quot;pragma&quot;: &quot;no-cache&quot;,
+    &quot;sec-ch-ua&quot;: &quot;&quot;,
+    &quot;sec-ch-ua-mobile&quot;: &quot;?0&quot;,
+    &quot;sec-fetch-dest&quot;: &quot;empty&quot;,
+    &quot;sec-fetch-mode&quot;: &quot;cors&quot;,
+    &quot;sec-fetch-site&quot;: &quot;same-origin&quot;,
+    &quot;Referrer-Policy&quot;: &quot;strict-origin-when-cross-origin&quot;
+  },
+  &quot;body&quot;: JSON.stringify({
+    &quot;params&quot;: {
+      &quot;by&quot;: &quot;text&quot;,
+      &quot;type&quot;: &quot;user&quot;,
+      &quot;text&quot;: QUERY,
+    }
+  }),
+  &quot;method&quot;: &quot;POST&quot;
+});
+const data = await request.json();
+console.log(data);
+</code></pre>
+<h2>Getting a single expert at Victoria University of Wellington with JavaScript</h2>
+<pre><code class="language-javascript">const profileId = &quot;java-grant&quot;;
+fetch(`https://profiles.auckland.ac.nz/api/users/${profileId}`, {
+  &quot;headers&quot;: {
+    &quot;accept&quot;: &quot;application/json&quot;,
+    &quot;accept-language&quot;: &quot;en-US,en;q=0.9&quot;,
+    &quot;cache-control&quot;: &quot;no-cache&quot;,
+    &quot;content-type&quot;: &quot;application/json&quot;,
+    &quot;pragma&quot;: &quot;no-cache&quot;,
+    &quot;sec-ch-ua-mobile&quot;: &quot;?0&quot;,
+    &quot;sec-fetch-dest&quot;: &quot;empty&quot;,
+    &quot;sec-fetch-mode&quot;: &quot;cors&quot;,
+    &quot;sec-fetch-site&quot;: &quot;same-origin&quot;,
+    &quot;Referer&quot;: `https://profiles.auckland.ac.nz/${profileId}`,
+    &quot;Referrer-Policy&quot;: &quot;strict-origin-when-cross-origin&quot;
+  },
+  &quot;body&quot;: null,
+  &quot;method&quot;: &quot;GET&quot;
+});
+</code></pre>
+<h2>Getting a single experts publications at Auckland Uni with JavaScript</h2>
+<pre><code class="language-javascript">const profileId = &quot;java-grant&quot;;
+fetch(&quot;https://profiles.auckland.ac.nz/api/publications/linkedTo&quot;, {
+  &quot;headers&quot;: {
+    &quot;accept&quot;: &quot;application/json&quot;,
+    &quot;accept-language&quot;: &quot;en-US,en;q=0.9&quot;,
+    &quot;cache-control&quot;: &quot;no-cache&quot;,
+    &quot;content-type&quot;: &quot;application/json&quot;,
+    &quot;pragma&quot;: &quot;no-cache&quot;,
+    &quot;sec-ch-ua-mobile&quot;: &quot;?0&quot;,
+    &quot;sec-fetch-dest&quot;: &quot;empty&quot;,
+    &quot;sec-fetch-mode&quot;: &quot;cors&quot;,
+    &quot;sec-fetch-site&quot;: &quot;same-origin&quot;,
+    &quot;Referer&quot;: `https://profiles.auckland.ac.nz/${profileId}/publications`,
+    &quot;Referrer-Policy&quot;: &quot;strict-origin-when-cross-origin&quot;
+  },
+  &quot;body&quot;: JSON.stringify({
+    &quot;objectId&quot;: profileId,
+    &quot;objectType&quot;: &quot;user&quot;,
+    &quot;pagination&quot;: {
+      &quot;perPage&quot;: 25,
+      &quot;startFrom&quot;: 0
+    },
+    &quot;sort&quot;: &quot;dateDesc&quot;,
+    &quot;favouritesFirst&quot;: true
+  }),
+  &quot;method&quot;: &quot;POST&quot;
+});
+</code></pre>
+</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
