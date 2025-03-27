@@ -85,23 +85,37 @@ const umapConfig = { nComponents: 2, nNeighbors: 20, minDist: 0.5, nEpochs: 400 
 let umap = new UMAP.UMAP(umapConfig);
 const numberOfItems = 99999999999999;
 
-const data = await fetch(DATA_PATH)
+const data = await fetch('./embeddings.json')
+    // const data = await fetch(DATA_PATH)
     .then(response => response.json())
-    .then(data =>
-        data
-            .slice(0, numberOfItems)
-            .filter(item =>
-                item.title &&
-                (item.title.toLowerCase().includes('university') ||
-                    item.title.toLowerCase().includes('higher education'))
-            )
-            .map(item => {
-                // Unpack base64 encoded uint8array.
-                const array = Array.from(Uint8Array.from(atob(item.b64_title_embedding), c => c.charCodeAt(0)));
-                item.title_embedding = array.map(c => c / 255 - 0.5);
-                return item;
-            })
-    );
+    // .then(data =>
+    //     data
+    //         .slice(0, numberOfItems)
+    //         .filter(item =>
+    //             item.title &&
+    //             (item.title.toLowerCase().includes('university') ||
+    //                 item.title.toLowerCase().includes('higher education'))
+    //         )
+    //         .map(item => {
+    //             // Unpack base64 encoded uint8array.
+    //             const array = Array.from(Uint8Array.from(atob(item.b64_title_embedding), c => c.charCodeAt(0)));
+    //             item.title_embedding = array.map(c => c / 255 - 0.5);
+    //             return item;
+    //         })
+    // );
+    .then(data => {
+        return data.map(({ doi, embedding, title, authors, journal }) => {
+            return {
+                doi,
+                title,
+                authors,
+                title_embedding: embedding,
+                kind: journal,
+                year: 'N/A',
+                link: `https://doi.org/${doi}`
+            }
+        });
+    });
 console.log(data);
 
 // Populate kind dropdown using unique kinds from data.
