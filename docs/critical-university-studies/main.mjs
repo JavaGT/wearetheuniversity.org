@@ -1,4 +1,4 @@
-const DATA_PATH = './data.json';
+const DATA_PATH = './embeddings.json';
 
 // Create canvas and add to page
 const canvas = document.createElement('canvas');
@@ -8,12 +8,16 @@ const ctx = canvas.getContext('2d');
 // --- HTML Controls ---
 const controlsDiv = document.createElement('div');
 controlsDiv.style.position = 'absolute';
+controlsDiv.style.right = '0';
+controlsDiv.style.width = '300px';
 controlsDiv.style.top = '0';
-controlsDiv.style.left = '0';
-controlsDiv.style.width = '100%';
+controlsDiv.style.height = '100%';
 controlsDiv.style.padding = '10px';
-controlsDiv.style.backgroundColor = 'rgba(0,0,0,0.5)';
+controlsDiv.style.backgroundColor = 'rgba(0,0,0,0.7)';
 controlsDiv.style.zIndex = '1000';
+controlsDiv.style.color = 'white';
+controlsDiv.style.overflowY = 'auto';
+controlsDiv.style.overflowX = 'hidden';
 controlsDiv.innerHTML = `
   <input type="text" id="searchInput" placeholder="Search filter..." style="margin-right:10px;"/>
   <select id="kindFilter" style="margin-right:10px;">
@@ -24,6 +28,7 @@ controlsDiv.innerHTML = `
   <input type="number" id="umapEpochInput" placeholder="UMAP epochs" style="margin-right:10px;"/>
   <button id="runUmapButton">Re-run UMAP</button>
   <span id="umapProgress" style="margin-left:10px; color:white;">UMAP Progress: 0%</span>
+  <div id="metadata"></div>
 `;
 document.body.appendChild(controlsDiv);
 
@@ -51,11 +56,14 @@ function onResize() {
     canvas.height = window.innerHeight;
     drawBackground();
 }
+
 function drawBackground() {
     ctx.fillStyle = 'black';
     ctx.fillRect(0, 0, canvas.width, canvas.height);
 }
+
 onResize();
+
 window.addEventListener('resize', onResize);
 
 // --- Camera and Helpers ---
@@ -85,42 +93,12 @@ const umapConfig = { nComponents: 2, nNeighbors: 20, minDist: 0.5, nEpochs: 400 
 let umap = new UMAP.UMAP(umapConfig);
 const numberOfItems = 99999999999999;
 
-const data = await fetch('./embeddings.json')
-    // const data = await fetch(DATA_PATH)
+const data = await fetch(DATA_PATH)
     .then(response => response.json())
-    // .then(data =>
-    //     data
-    //         .slice(0, numberOfItems)
-    //         .filter(item =>
-    //             item.title &&
-    //             (item.title.toLowerCase().includes('university') ||
-    //                 item.title.toLowerCase().includes('higher education'))
-    //         )
-    //         .map(item => {
-    //             // Unpack base64 encoded uint8array.
-    //             const array = Array.from(Uint8Array.from(atob(item.b64_title_embedding), c => c.charCodeAt(0)));
-    //             item.title_embedding = array.map(c => c / 255 - 0.5);
-    //             return item;
-    //         })
-    // );
-    .then(data => {
-        return data.map(({ doi, embedding, title, authors, journal }) => {
-            return {
-                doi,
-                title,
-                authors,
-                title_embedding: embedding,
-                kind: journal,
-                year: 'N/A',
-                link: `https://doi.org/${doi}`
-            }
-        });
-    });
-console.log(data);
 
 // Populate kind dropdown using unique kinds from data.
 const kindFilterEl = document.getElementById('kindFilter');
-const kinds = new Set(data.map(item => item.kind));
+const kinds = new Set(data.map(item => item.journal));
 kinds.forEach(kind => {
     const option = document.createElement('option');
     option.value = kind;
@@ -130,26 +108,29 @@ kinds.forEach(kind => {
 
 // --- Points Creation ---
 const pointFocusRadius = 10;
-let points = data.map((item, i) => {
-    return {
-        // Combine several embedding dimensions plus noise.
-        x: item.title_embedding[0] * 5000 + item.title_embedding[2] * 5000 + item.title_embedding[4] * 5000 + Math.random() * 10,
-        y: item.title_embedding[1] * 5000 + item.title_embedding[3] * 5000 + item.title_embedding[5] * 5000 + Math.random() * 10,
-        size: 8,
-        color: `hsl(${item.title_embedding[0] * 3000 + 100}, 100%, 50%)`,
-        label: item.title,
-        link: item.link || item.doi
-            ? `https://doi.org/${item.doi}`
-            : `https://www.google.com/search?q=${item.title} by ${item.authors}`.replaceAll(' ', '+'),
-        authors: item.authors, // comma-separated string
-        year: item.year,
-        kind: item.kind
-    };
-});
-console.log(points.length);
+let points = data
+    // .filter(item => item.abstract)
+    .map((item, i) => {
+        return {
+            // Combine several embedding dimensions plus noise.
+            // x: item.embedding[0] * 5000 + item.embedding[2] * 5000 + item.embedding[4] * 5000 + Math.random() * 10,
+            // y: item.embedding[1] * 5000 + item.embedding[3] * 5000 + item.embedding[5] * 5000 + Math.random() * 10,
+            size: 8,
+            color: `hsl(${Math.round((item.embedding[0] + item.embedding[0]) / (65536 / 2) * 360 * 2)}, 50%, 50%)`,
+            label: item.title,
+            link: item.link || item.doi
+                ? `https://doi.org/${item.doi}`
+                : `https://www.google.com/search?q=${item.title} by ${item.authors}`.replaceAll(' ', '+'),
+            authors: item.authors, // comma-separated string
+            year: item.year,
+            kind: item.kind,
+            abstract: item.abstract,
+            embedding: item.embedding
+        };
+    });
 
 // --- UMAP Fitting for All Points Initially ---
-await umap.fitAsync(points.map(point => [point.x, point.y]), epoch => {
+await umap.fitAsync(points.map(point => point.embedding), epoch => {
     const progress = Math.floor((epoch / umapConfig.nEpochs) * 100);
     umapProgressIndicator.textContent = `UMAP Progress: ${progress}%`;
     if (epoch % 10 === 0) console.log(`Epoch ${epoch}`);
@@ -605,6 +586,7 @@ canvas.addEventListener('mousemove', e => {
     if (e.buttons === 1) {
         camera.x -= e.movementX / getScale();
         camera.y -= e.movementY / getScale();
+        cursor.isDragging = true;
     }
     cursor.x = (e.offsetX - canvas.width / 2) / getScale() + camera.x;
     cursor.y = (e.offsetY - canvas.height / 2) / getScale() + camera.y;
@@ -619,7 +601,33 @@ document.addEventListener('keydown', e => {
 });
 
 document.addEventListener('mouseup', e => {
-    if (cursor.nearestPoint && cursor.nearestPoint.link && (e.metaKey || e.ctrlKey)) {
-        window.open(cursor.nearestPoint.link, '_blank');
+    // if target is canvas
+    if (e.target === canvas) {
+        if (cursor.nearestPoint && cursor.nearestPoint.link && (e.metaKey || e.ctrlKey)) {
+            window.open(cursor.nearestPoint.link, '_blank');
+        }
+        if (!cursor.isDragging) {
+            // set the metadata div to show the metadata of the nearest point
+            const metadataDiv = document.getElementById('metadata');
+            metadataDiv.innerHTML = '';
+            if (cursor.nearestPoint) {
+                const metadata = `
+            <h4>${cursor.nearestPoint.label}</h4>
+            <p>Authors: ${cursor.nearestPoint.authors}</p>
+            <p>Year: ${cursor.nearestPoint.year || 'N/A'}</p>
+            <p>Journal: ${cursor.nearestPoint.kind}</p>
+            <p>Kind: ${cursor.nearestPoint.kind}</p>
+            <p>Link: <a href="${cursor.nearestPoint.link}" target="_blank">${cursor.nearestPoint.link}</a></p>
+            <p>Abstract: ${cursor.nearestPoint.abstract}</p>
+        `;
+                metadataDiv.innerHTML = metadata;
+            }
+        }
+        cursor.isDragging = false;
     }
+
 });
+
+document.addEventListener('click', e => {
+    // set the metadata div to show the metadata of the nearest point
+})
