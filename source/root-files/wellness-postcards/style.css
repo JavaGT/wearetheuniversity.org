@@ -1,0 +1,141 @@
+canvas {
+    border: 1px solid black;
+    max-width: 80vw;
+    max-height: 80vh;
+    margin: 0 auto;
+}
+
+#inputs {
+    display: flex;
+    flex-direction: column;
+    margin: 0 5px;
+    font-size: 0.8rem;
+    padding: 0.4em;
+    border-radius: 0.4em;
+    background: cadetblue;
+    max-width: min(100%, 30rem);
+}
+
+#inputs>* {
+    padding: 2px;
+}
+
+#inputs textarea,
+#inputs select,
+#inputs input[type="text"],
+#inputs input[type="email"] {
+    width: 100%;
+}
+
+#visual {
+    align-self: baseline;
+}
+
+section.body {
+    max-width: 99vw !important;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    /* display: flex; */
+}
+
+.flex {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    color: white;
+}
+
+form a {
+    color: white;
+}
+
+fieldset {
+    border-color: #fff6;
+    padding: 0.2em;
+}
+
+fieldset legend {
+    color: white;
+    font-size: 0.7em;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+fieldset.fieldset-submit {
+    border: none;
+    padding: 0;
+}
+
+fieldset.fieldset-submit legend {
+    display: none;
+}
+
+fieldset.fieldset-submit input {
+    width: 100%;
+}
+
+fieldset.fieldset-optional legend::after {
+    content: " (optional)";
+}
+
+fieldset.fieldset-optional {
+    border-color: #fff6;
+}
+
+fieldset.fieldset-optional legend {
+    color: #fff6;
+}
+
+label {
+    text-wrap-mode: nowrap;
+    display: inline-block;
+}
+
+#gallery {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    min-height: 16rem;
+}
+
+#gallery img {
+    /* border: 2px solid #0005; */
+    background-color: #fff2;
+    width: 20rem;
+    margin: 0.3rem;
+    border-radius: 0.4rem;
+    padding: 0.5rem;
+}
+
+.tight-two {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.tight-two svg {
+    width: 20rem;
+    min-height: 3rem;
+    margin: 0.3rem;
+    border-radius: 0.4rem;
+    padding: 0.5rem;
+    background-color: #fff2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 1rem auto;
+    max-width: 38rem;
+}
