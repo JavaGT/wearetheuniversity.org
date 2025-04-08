@@ -139,3 +139,12 @@ p {
     margin: 1rem auto;
     max-width: 38rem;
 }
+
+a {
+    text-underline-offset: 2px;
+}
+
+a:not(:is(:hover, :focus)) {
+    text-decoration-color:
+        color-mix(in srgb, currentColor, transparent 75%);
+}

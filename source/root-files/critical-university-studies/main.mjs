@@ -125,9 +125,20 @@ let points = data
             year: item.year,
             kind: item.kind,
             abstract: item.abstract,
-            embedding: item.embedding
+            // embedding is uint8array derived from a b64 encoded buffer
+            embedding: Uint16Array.from(b64toBuffer(item.embedding))
         };
     });
+
+function b64toBuffer(string) {
+    const binaryString = atob(string);
+    const len = binaryString.length;
+    const bytes = new Uint8Array(len);
+    for (let i = 0; i < len; i++) {
+        bytes[i] = binaryString.charCodeAt(i);
+    }
+    return bytes.buffer;
+}
 
 // --- UMAP Fitting for All Points Initially ---
 await umap.fitAsync(points.map(point => point.embedding), epoch => {
