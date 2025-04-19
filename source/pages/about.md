@@ -23,6 +23,6 @@ We are a community of students and staff who are committed to the University as 
 # Whakapapa
 There is great difficulty maintaining student organisations over time, and we applaud the efforts of longstanding grassroots organisations. In it's current form, We Are The University is a rebirth inspired by the work by previous student organisers in the early 2010. We are grateful for the work of those who came before us, and we hope to continue their legacy.
 
-In this same vein, we intend to invest efforts developing infrastructure for student organising. Our intention is to ensure future students have accessable avenues to the resources, strategies, and tactics we develop. This website is one such investement.
+In this same vein, we intend to invest efforts developing infrastructure for student organising. Our intention is to ensure future students have accessible avenues to the resources, strategies, and tactics we develop. This website is one such investment.
 
 [Photos of We Are The University as it existed in the early 2010s.](https://www.flickr.com/photos/67852624@N02/with/6945443611)
