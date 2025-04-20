@@ -178,6 +178,10 @@ async function main() {
                 markdown_body = await fsp.readFile(file, 'utf-8');
             }
             let { attributes, html } = markdownToHtml(markdown_body);
+            if (attributes.hidden) {
+                logger.info(`Skipping hidden post: ${attributes.title}`);
+                continue;
+            }
             html = archivePostTemplate({ attributes, content: html, title: attributes.title });
 
             authorSet.add(attributes['author-slug']);

@@ -5,6 +5,7 @@ date: 2024-08-29
 source: Adam Cragie (We Are The University)
 author: Java Grant
 author-slug: java-grant
+hidden: true
 ---
 
 This is a summary/key highlights taken by Java of Adam Cragie's Master's thesis. The thesis is subtitled "Analysis of We Are The University's Experience" and was submitted in 2013.
