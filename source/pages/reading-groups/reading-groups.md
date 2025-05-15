@@ -5,8 +5,17 @@ title: Reading Groups
 
 There are a number of cool critical reading groups at universities. Here are some which we like.
 
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| Event | Day | Time | Location | Organiser | Notes |
+| **Writing Group** | Monday | 12pm | 201-926 | Sam Vella | Pomodoro, background music |
+| **Pub Quiz** | Tuesday | 6pm | Shadows Bar | Sam Vella |     |
+| **Radical Readers** | every other Wednesday<br><br>(May 21st, June 4th, etc) | 2pm | 201-926 | Emmy Rākete |     |
+| **Critical University Studies Reading Group** | every other Thursday<br><br>(May 15th, 29th, etc) | 2pm | 201-926 | Java Grant | Reading optional.<br><br>Email Java to be added to mailing list |
+| **Capital Reading Group** | Friday | 12pm | 201-926 | Vei / Sam Vella | Near the end of vol 1 but will keep going reading Marx's other writings |
+| **Bread & Brekkies** | Wednesday | 10am | Leech Space | WSA | Follow [WSA on insta](https://www.instagram.com/workingstudentsaotearoa/ "https://www.instagram.com/workingstudentsaotearoa/") for updates. |
 
-## Critical University Studies Reading Group
+<!-- ## Critical University Studies Reading Group
 [More info](/reading-groups/critical-university-studies)
 
 ## Anti-Imperialist Theory Unit
@@ -17,7 +26,7 @@ There are a number of cool critical reading groups at universities. Here are som
 
 
 ## Politics Economy and Place (PEP)
-[More info](https://pep.blogs.auckland.ac.nz/)
+[More info](https://pep.blogs.auckland.ac.nz/) -->
 
 # International
 

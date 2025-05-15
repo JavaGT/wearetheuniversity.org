@@ -28,7 +28,8 @@
     {
         "slugs": [
             "new-zealand-union-of-students-associations",
-            "nzusa"
+            "nzusa",
+            "nzusa-new-zealand-union-of-students-associations"
         ],
         "name": "New Zealand Union of Students' Associations",
         "website": "https://www.students.org.nz/"
@@ -61,7 +62,7 @@
     {
         "slugs": [
             "victoria-university-students-association",
-            "vusa"
+            "vuwsa"
         ],
         "name": "Victoria University Students' Association",
         "website": "https://www.vuwsa.org.nz/"
@@ -177,7 +178,8 @@
     {
         "slugs": [
             "auckland-university-of-technology",
-            "aut"
+            "aut",
+            "aut-university"
         ],
         "name": "Auckland University of Technology",
         "website": "https://www.aut.ac.nz/"
@@ -257,18 +259,116 @@
     },
     {
         "slugs": [
-            "new-zealand-vice-chancellors-committee",
-            "nzvcc"
-        ],
-        "name": "New Zealand Vice-Chancellors' Committee",
-        "website": "https://www.nzvcc.ac.nz/"
-    },
-    {
-        "slugs": [
             "new-zealand-association-for-research-in-education",
             "nzare"
         ],
         "name": "New Zealand Association for Research in Education",
         "website": "https://www.nzare.org.nz/"
+    },
+    {
+        "slugs": [
+            "university-of-canterbury",
+            "uc"
+        ],
+        "name": "University of Canterbury",
+        "website": "https://www.canterbury.ac.nz/"
+    },
+    {
+        "slugs": [
+            "university-of-otago",
+            "uo"
+        ],
+        "name": "University of Otago",
+        "website": "https://www.otago.ac.nz/"
+    },
+    {
+        "slugs": [
+            "university-of-waikato",
+            "waikato"
+        ],
+        "name": "University of Waikato",
+        "website": "https://www.waikato.ac.nz/"
+    },
+    {
+        "slugs": [
+            "universities-new-zealand-te-pokai-tara",
+            "universities-new-zealand",
+            "te-pokai-tara",
+            "unz",
+            "new-zealand-vice-chancellors-committee",
+            "nzvcc"
+        ],
+        "name": "Universities New Zealand - Te Pōkai Tara",
+        "website": "https://www.universitiesnz.ac.nz/"
+    },
+    {
+        "slugs": [
+            "te-pati-maori"
+        ],
+        "name": "Te Pāti Māori",
+        "website": "https://www.maoriparty.org.nz/"
+    },
+    {
+        "slugs": [
+            "act-new-zealand",
+            "act",
+            "act-party"
+        ],
+        "name": "ACT New Zealand",
+        "website": "https://www.act.org.nz/"
+    },
+    {
+        "slugs": [
+            "new-zealand-national-party",
+            "national-party"
+        ],
+        "name": "New Zealand National Party",
+        "website": "https://www.national.org.nz/"
+    },
+    {
+        "slugs": [
+            "new-zealand-labour-party",
+            "labour-party"
+        ],
+        "name": "New Zealand Labour Party",
+        "website": "https://www.labour.org.nz/"
+    },
+    {
+        "slugs": [
+            "green-party-of-aotearoa-new-zealand",
+            "green-party"
+        ],
+        "name": "Green Party of Aotearoa New Zealand",
+        "website": "https://www.greens.org.nz/"
+    },
+    {
+        "slugs": [
+            "new-zealand-first-party",
+            "nz-first"
+        ],
+        "name": "New Zealand First Party",
+        "website": "https://www.nzfirst.nz/"
+    },
+    {
+        "slugs": [
+            "free-fares-nz"
+        ],
+        "name": "Free Fares NZ",
+        "website": "https://www.freefares.nz/"
+    },
+    {
+        "slugs": [
+            "lincoln-university"
+        ],
+        "name": "Lincoln University",
+        "website": "https://www.lincoln.ac.nz/"
+    },
+    {
+        "slugs": [
+            "new-zealand-council-of-trade-unions",
+            "nzctu"
+        ],
+        "name": "New Zealand Council of Trade Unions",
+        "website": "https://www.union.org.nz/"
     }
 ]
