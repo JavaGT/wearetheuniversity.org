@@ -1,0 +1,949 @@
+Received: from SY8P300MB0393.AUSP300.PROD.OUTLOOK.COM (::1) by
+ SY8P300MB0135.AUSP300.PROD.OUTLOOK.COM with HTTPS; Wed, 12 Jun 2024 05:11:16
+ +0000
+Received: from KL1PR01CA0072.apcprd01.prod.exchangelabs.com
+ (2603:1096:820:5::36) by SY8P300MB0393.AUSP300.PROD.OUTLOOK.COM
+ (2603:10c6:10:295::10) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7633.36; Wed, 12 Jun
+ 2024 05:11:14 +0000
+Received: from HK3PEPF0000021B.apcprd03.prod.outlook.com
+ (2603:1096:820:5:cafe::a9) by KL1PR01CA0072.outlook.office365.com
+ (2603:1096:820:5::36) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7677.20 via Frontend
+ Transport; Wed, 12 Jun 2024 05:11:13 +0000
+Authentication-Results: spf=pass (sender IP is 130.216.125.250)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=pass (signature was verified)
+ header.d=auckland.ac.nz;dmarc=pass action=none header.from=auckland.ac.nz;
+Received-SPF: Pass (protection.outlook.com: domain of list.auckland.ac.nz
+ designates 130.216.125.250 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.125.250;
+ helo=uoasmtpprd01.its.auckland.ac.nz; pr=C
+Received: from uoasmtpprd01.its.auckland.ac.nz (130.216.125.250) by
+ HK3PEPF0000021B.mail.protection.outlook.com (10.167.8.37) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7677.15 via Frontend Transport; Wed, 12 Jun 2024 05:11:12 +0000
+Received: from sympa.auckland.ac.nz (lists.ec.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id 8AB238024AB;
+	Wed, 12 Jun 2024 17:11:06 +1200 (NZST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz 8AB238024AB
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=auckland.ac.nz;
+	s=rafal; t=1718169067;
+	bh=YZC6U3GIcun5y8iuhXsXkEbFRXLsJLOGL93KxAFFJhk=;
+	h=From:To:Subject:Date:References:In-Reply-To:Reply-To:List-Id:
+	 List-Archive:List-Help:List-Owner:List-Post:List-Subscribe:
+	 List-Unsubscribe:From;
+	b=IFID/cQn9Viw8hYYtkGsAg1E6QNgiiz817AUP5YWcjBGSYbL0cmu/PGbRcHJwVhYP
+	 /qXxObZhqn4jocVbTFndoC5ikZIAws44VkvWfbV+LXEQepZYvyarph7HZ7CNXJlDLw
+	 0W7c8/GhY7bypxFEYyFwkEOYFkfRlgqVNGoemNus=
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id 341B2396D7; Wed, 12 Jun 2024 17:11:06 +1200 (NZST)
+X-Original-To: all-staff@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-all-staff@sympa.auckland.ac.nz
+Received: from AUS01-ME3-obe.outbound.protection.outlook.com (mail-me3aus01lp2233.outbound.protection.outlook.com [104.47.71.233])
+	by sympa.auckland.ac.nz (Postfix) with ESMTPS id 7FBCC31435
+	for <all-staff@list.auckland.ac.nz>; Wed, 12 Jun 2024 17:10:37 +1200 (NZST)
+ARC-Seal: i=2; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=fail;
+ b=DIDUn6bniEpGw3aY4cKXBqx0ZrSK3zP/JhTRTFx4k8uJLS5Dy9OBxgjdwPPq7ZizZI8cVpwrSMtUxf++TThFPboDEkkeB9obptq/H/YMPU4w2yNNYuRK192Ic9U+ePRo6pZ8KTM1G0/7C3siMUICeX3VsSoCRm53YXvRKhTy9UqwYTU9NAfAdQiTUocXlANBv9xy3Ya2ay0998Aq8qZG0VnFpIkLQPOE65lsbe+QjPBR024fTbxhFGBKAyXl3Mbm9KfltcEylyB51j3uOTvmEaf7VPIz6Eug6QOwhLxSPfTS/Okhc9DQ8ONQv/XraVac25I1PTz5X66NdoKWXfOGWQ==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=eBp5C/4BaNHkgjVIxQ7HI3ArWCHxDBMIkwbgcbcaWx0=;
+ b=fK+09Lq+LQk2QEREP97FGgftlnr4EMJEE1q20nSDtiFUKXVsE50RnR1iXjUefTuQlwL/YjH2hjThsfZDR463WIsBai8e6XcG52fB3KP8dhov1SzSUV8qrug6BV9/UrW20AFmy7lzdhddOs8WPMD4PAwQbHf+NCKrOsF8GbLqk/JKH8MZeWb7HX6+f7E0T0B+aHfrw+ZsdD77BOuFo/fm88PlnxCXZC/1cCkof28nzFyu97mgLRBV21g2IYaAXTVwMGiqhPRnjIcMAr8A4jEooxNN29V2BX2eMWKLClt3jsYUvo9t9mC6vyNVO8o/5x8OAWhWUdu19zWQO8dZQ7qCZQ==
+ARC-Authentication-Results: i=2; mx.microsoft.com 1; spf=pass (sender ip is
+ 130.216.95.224) smtp.rcpttodomain=list.auckland.ac.nz
+ smtp.mailfrom=auckland.ac.nz; dmarc=pass (p=none sp=none pct=100) action=none
+ header.from=auckland.ac.nz; dkim=fail (signature did not verify)
+ header.d=auckland.ac.nz; arc=fail (47)
+Received: from SG2PR02CA0123.apcprd02.prod.outlook.com (2603:1096:4:188::22)
+ by SY0P300MB0628.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:282::7) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7633.36; Wed, 12 Jun
+ 2024 05:10:34 +0000
+Received: from SG2PEPF000B66CF.apcprd03.prod.outlook.com
+ (2603:1096:4:188:cafe::cb) by SG2PR02CA0123.outlook.office365.com
+ (2603:1096:4:188::22) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7677.20 via Frontend
+ Transport; Wed, 12 Jun 2024 05:10:34 +0000
+Authentication-Results-Original: spf=pass (sender IP is 130.216.95.224)
+ smtp.mailfrom=auckland.ac.nz; dkim=fail (signature did not verify)
+ header.d=auckland.ac.nz;dmarc=pass action=none header.from=auckland.ac.nz;
+Received-SPF: Pass (protection.outlook.com: domain of auckland.ac.nz
+ designates 130.216.95.224 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.95.224;
+ helo=uxcn19-tdc-a.UoA.auckland.ac.nz; pr=C
+Received: from uxcn19-tdc-a.UoA.auckland.ac.nz (130.216.95.224) by
+ SG2PEPF000B66CF.mail.protection.outlook.com (10.167.240.23) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7677.15 via Frontend Transport; Wed, 12 Jun 2024 05:10:33 +0000
+Received: from uxcn19-ogg-a.uoa.auckland.ac.nz (10.6.5.30) by
+ uxcn19-tdc-a.UoA.auckland.ac.nz (10.6.5.32) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1544.11; Wed, 12 Jun 2024 17:10:31 +1200
+Received: from AUS01-SY4-obe.outbound.protection.outlook.com (130.216.158.20)
+ by uxcn19-ogg-a.uoa.auckland.ac.nz (10.6.5.30) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1544.11 via Frontend Transport; Wed, 12 Jun 2024 17:10:31 +1200
+Received: from SY0P300MB0369.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:27d::8) by
+ SY0P300MB0087.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:24d::14) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7633.36; Wed, 12 Jun 2024 05:10:25 +0000
+Received: from SY0P300MB0369.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::81f8:cb:7611:1395]) by SY0P300MB0369.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::81f8:cb:7611:1395%4]) with mapi id 15.20.7633.037; Wed, 12 Jun 2024
+ 05:10:25 +0000
+From: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
+To: all-staff Mailing List <all-staff@list.auckland.ac.nz>
+Subject: Vice-Chancellor's Update | Wednesday 12 June 2024
+Thread-Topic: Vice-Chancellor's Update | Wednesday 12 June 2024
+Thread-Index: AQHavIbVYKtiDnntAEKVaiLOirLUqA==
+Date: Wed, 12 Jun 2024 05:10:24 +0000
+Message-ID: <SY0P300MB0369F2D1410101115E441CD5DCC02@SY0P300MB0369.AUSP300.PROD.OUTLOOK.COM>
+References: <SY0P300MB0369BFED9E620F794E600D56DCC02@SY0P300MB0369.AUSP300.PROD.OUTLOOK.COM>
+In-Reply-To: <SY0P300MB0369BFED9E620F794E600D56DCC02@SY0P300MB0369.AUSP300.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=auckland.ac.nz;
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-traffictypediagnostic: SY0P300MB0369:EE_|SY0P300MB0087:EE_|SG2PEPF000B66CF:EE_|SY0P300MB0628:EE_|HK3PEPF0000021B:EE_|SY8P300MB0393:EE_|SY8P300MB0135:EE_
+X-MS-Office365-Filtering-Correlation-Id: 333b5186-fe68-45b0-8d55-08dc8a9e1476
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230032|366008|41050700001;
+X-Microsoft-Antispam-Message-Info-Original: NgOJNY3cXpCKGcsLkGKTDDiFc/utsPHiUqiaXHETslbyc6zkDRe+QdwU20V4fNlrdjvby0Xfj0k935qLJ6KnDU6IIozLkdqkQQBBFCNIM0xytkj8z2N2cjXs6Bf2ZdUb3DuI9Vr847y6p3Q3MAYAHFOS99mbNfL0yJaDfGUtp8yQqFs7zrQbO+xr/0RDfcgVBgPV4Bnz9jpZFIajsjrs7jCcCtOx2BAgoDdJ4Q1htk4tBUmCD9yfM+Vbis7YUsdGQDo4luv2Ppma0oEWJOES/SSwavmZLcShxz1nVomM6B8YNi/SAdc9CRfICB+c6orJde0UiElyRObSUptNYjamaL3Mf2TQz5YctS2nQVMF7WCqX5BsAV0EbXeqYrm4WQ7UDmF0ClffSeeglbUbqXXaNZYunBEVKzj9X2BmORTm26OUQpppBvW9brSy1Zi8mksevhRuOxdK+uKM3woAwDAHLQZBhru7oE8sTgo4BdCs2m7rDCPfrwnJkSBzmcWbJrKqCkfTUYmL+oOGXrDDgwVdRy8y0CA+bEHwxjgiPul9xbe76C/iGbABi7D6/s/zDeQu6RTICGRRn6JpKOCfMMZZLipk3mXRWD7C8kVVd/I76Pwn/fUZqAH9FGgmFCsR2vOoaBXhPyqw5u3jUBJMuSfI/CHfY+dbpMeiNhXEvqKrDHfujZnSzuHGtLEo+hY34bFbRVYIo81wqIx6mb2x1Z9LwyrrI5TjMApzuq0dkSUnGhHUPYwXT8vIpUrUQcbGhayXrc8OGLxB928l7W4zw8xATjFUqZ7HmvoSrvu56nvyjFEs5jAuAD7KYpX4Bazv8hfP
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SY0P300MB0369.AUSP300.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230032)(366008)(41050700001);DIR:INT;
+arc-seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=VJZA99y0mpO9JhNFTHD/RE+ahkFA5044u9InTx0JaeVny0nKK8uxNGUE5D8w6lPAfWVeJpmsvhkfm1v7c2kdZvc+F+Nix2jtXuzAfDijpT+tetfEUsiy6g2JR6hNfgbN/kwpaB88tKp4lATWIxfl7IJpQhtsc8Js2p+qad59GHrS5LBNwQksSKBKV3opIAA7ngvph0cNqQRlTiHhyUzmW9Vv/32SpSZmqxUdTKaXC0QPx2Ma2WTGXjew3oNZ3YeXJKDModPnQt7sYyMdUlYVeJHu5izOPx1kweJ5DrFZqaVQcCZ2jCtg4oV/zkl2sGYRtTo4spa6oY5iZirc0OmZxg==
+arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=RVZlGq6ve0Nc16ZXebLyEPvyPzXieSfC7PWr/AXLHnw=;
+ b=bJjiWZORHt9uY0TBI4rj1dN4A4tVtU+7GldkI8WD+GGwv9jnpUOQDycma69ufVJJIJr7t7sF7+Y5g+2Qa16QmQlNva8NFRASI1p7sLwHOguUr2dd9OKgvMFUWIUEastNWktN1l+awDs0V6PK5LpoU6acOLeOWkvoKyzeGvux3wLvaW7BrEH7pgFWp5yaukIKZBSzc+4uuxQzTuuu5oMd/H95imD0TFKROzhwgpnlVA5lX0XBGdJDB4yV+v0GvaqW0tXLcwltyQq2lvHMPteGfgG6ZgMUbTUsgSV6aS1e7S5GYvx+t+0SJpzRIQUtKPQQcBSjqMp9RcVJTZROJSjMLw==
+arc-authentication-results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=auckland.ac.nz; dmarc=pass action=none
+ header.from=auckland.ac.nz; dkim=pass header.d=auckland.ac.nz; arc=none
+x-ms-exchange-transport-crosstenantheadersstamped: SY0P300MB0087
+x-organizationheaderspreserved: SY0P300MB0087.AUSP300.PROD.OUTLOOK.COM
+x-crosspremisesheaderspromoted: uxcn19-ogg-a.UoA.auckland.ac.nz
+x-crosspremisesheadersfiltered: uxcn19-ogg-a.UoA.auckland.ac.nz
+Content-Type: multipart/alternative;
+	boundary="_000_SY0P300MB0369F2D1410101115E441CD5DCC02SY0P300MB0369AUSP_"
+X-EOPAttributedMessage: 1
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SG2PEPF000B66CF.apcprd03.prod.outlook.com
+X-MS-Office365-Filtering-Correlation-Id-Prvs: c8e6a1d4-b19e-4fbd-e77b-08dc8a9df7b6
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230032|12012899004|2092899004|3072899004|82310400018|35042699014;
+X-Microsoft-Antispam-Message-Info-Original: =?us-ascii?Q?K0U1qz1K4ZrVpjJt5jUHjXh+Z/MTSuNLpQ1lJX7Ieh0+nuMZIrhpmL4YG4DJ?=
+ =?us-ascii?Q?xJ7YGGnKujRQVSlVh/F+Nlzfjw4GZS1q57oENa4HxWKt22KR/r/OGUbn9L5G?=
+ =?us-ascii?Q?ndmSvubVnAzQ5ns68S0xJA0tgLnHhZEfYAkU83no+NtPqp7znJMZGVnMEkPc?=
+ =?us-ascii?Q?wK2JrEXHIlgAj6PKTs8apAlMV0as6GkoSOCLLVYclRYz1uFV8CxKzMZdBUEk?=
+ =?us-ascii?Q?g7VneXpYMOEpnVJdRG0yOP9QQMXjL78bXi71TaqCKaePfzZgGPHl0F4UXaJo?=
+ =?us-ascii?Q?X4ETYGgv1ikEkEKSoMP8ws1x22Tp52OpuLYUFhiDvvtC9dverubd7ohJyTKm?=
+ =?us-ascii?Q?8vFmL0QNBA0SnT6EWFg+UGNL4fbcHpFEErLFZ89i6253h2citFzKAKyHojhl?=
+ =?us-ascii?Q?3NueLOF+V9+FyA66rMBK+kWEnWrcQPmUXF+KXDvRxn8Hd5GkIMV33lmOsxii?=
+ =?us-ascii?Q?a2Ws18lBzvRPIdrnZNG1v9elLzvjR3SA01HhwvDsQVxK4zTpz5zAUZtVpWIz?=
+ =?us-ascii?Q?EUK1nuJJ5OMFgEIrxgpadsCXtyEgds3vpUSgudUnOaDKolkXPbtcj+LFo4Z6?=
+ =?us-ascii?Q?1v7L8yyToFVLOrJUweGye2jCDYeIZQAcHnvmXGLf4F9AykW/0HWdNN3ErrSR?=
+ =?us-ascii?Q?8C7qKtSjkGhfOU2RG8/axzCC0KyHYKZmgahPq7MAofhqQ677Z8BK5asrz7cr?=
+ =?us-ascii?Q?DqONJvCfHweeJykeurPlD9A18S6iIqHWd3kCBdL/f0IkJ7IM9dF8fcHeMQ61?=
+ =?us-ascii?Q?RecuB2GFxu+D8AXNfpPkgA8VLL7GxxzW5kpy3OVb/l+CXLvR4yOByosCIDjJ?=
+ =?us-ascii?Q?bvAaXdRAGlnuZEiq3YFDTNLNxP0dONd+MPOdwsjjQuPyDBxUYkoQC6ns4/hz?=
+ =?us-ascii?Q?rCDOsEqxKS0XGpPBP1OhHhFUe2TCZbn8d0dwhBaPmWnorKLnPTOVpV4PCWeW?=
+ =?us-ascii?Q?sipSryUlV4Lxmh3E4ENVmQ2Xy+VeU1tdzex6bS92mTfubGszhh5jDgiP14NG?=
+ =?us-ascii?Q?qNcwLHR8sw9RRQlDHU/n3uiHJCOl1IGHjT4cjOqD36u1JTkv0cXFwYXhuuWj?=
+ =?us-ascii?Q?ePqmt8cjbIloNwk+ZMb+wdV0GiGCkWNNdww53+qmBMQtSWmqysx8havOewoH?=
+ =?us-ascii?Q?Xkuizoz6YEKSKwDfz+W1nlomwMDSLhebbE36YyWv8A4TG2IhGfDFUNcmuWGT?=
+ =?us-ascii?Q?bfLSSLhxlzD+5S3Q/erXrDFqoC1WTupy3oZf+mLIcA7ICw6AzU/HjTKAzxjb?=
+ =?us-ascii?Q?B0EVFwNJHm35HwsBFNZXODNjsC9L08KRb6KfeA4k7l4yo6SiUP4dE3Oz2mNQ?=
+ =?us-ascii?Q?T1npsROzitrNMxahKGNOQ4PriWn8pFFu7xAbRQDqSLrxfswz8koSa9rnecuM?=
+ =?us-ascii?Q?t4jhRutuRWjpPgWbZZ+NbiwspWrLFjfmwVOKDX8YQCKes+C2sik0cNlc07EZ?=
+ =?us-ascii?Q?p/SxsurqmSQhObsHMGIPVrhZxwsRI67HMDgQ/Vmi8GTB4hXGE3RHDM+5TUA4?=
+ =?us-ascii?Q?aLz5uBGOn++GkQUdIIxeNY8bnPOgcC1a6eH2T5tbMZhATzohug4KjVJR57uC?=
+ =?us-ascii?Q?FmVWb1lR19VBD+hteZXTm2XII/L8h3hgFgrRTlVQ7h84pVXqVGu8ik8eYJ7J?=
+ =?us-ascii?Q?p3vKw3mLyZMZcx0U0XMnCBIAdBnO18DFSPa4cdYsXWuLN5RAWHwSnxhaKefj?=
+ =?us-ascii?Q?n1U08RNtDisnUhMw+iqknBgNqbcNvzmLXmR02W+WPFdm9S3Z981QG//OFMVb?=
+ =?us-ascii?Q?BZ4Cspmx0/IlrO9fpYCsPoykNYhz2smaewXdi0x2tVpJB6G/TsQaX3CsovGq?=
+ =?us-ascii?Q?m0ekhLvsP0LuzOo4mFTYwoV8iqJbNCv+BI6WS7PZnZRco3aNTtNPMC9LDX5w?=
+ =?us-ascii?Q?KXk9/Qgg/51wEX582RJqyyO2PhsFRphrVAvUzPONAoVyyy6yN0kN5u9lnm4F?=
+ =?us-ascii?Q?hOY7ITqnposX+Ym+iakEeg=3D=3D?=
+X-Forefront-Antispam-Report-Untrusted: CIP:130.216.95.224;CTRY:NZ;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:uxcn19-tdc-a.UoA.auckland.ac.nz;PTR:natgate2-1.auckland.ac.nz;CAT:NONE;SFS:(13230032)(12012899004)(2092899004)(3072899004)(82310400018)(35042699014);DIR:INB;
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY0P300MB0628
+Reply-To: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
+X-Loop: all-staff@list.auckland.ac.nz
+X-Sequence: 598
+Errors-to: all-staff-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: all-staff-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <all-staff.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/all-staff>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:all-staff-request@list.auckland.ac.nz>
+List-Post: <mailto:all-staff@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20all-staff>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20all-staff>
+Return-Path: all-staff-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 12 Jun 2024 05:11:13.2547
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 333b5186-fe68-45b0-8d55-08dc8a9e1476
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: HK3PEPF0000021B.apcprd03.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: HK3PEPF0000021B.apcprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: auckland.ac.nz
+X-MS-Office365-Filtering-Correlation-Id-Prvs: c0df9d82-47a5-4eab-f406-08dc8a9dfca3
+X-LD-Processed: d1b36e95-0d50-42e9-958f-b63fa906beaa,ExtFwd
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;ARA:13230032|12012899004|2092899004|3072899004|82310400018|35042699014;
+X-Forefront-Antispam-Report: CIP:130.216.125.250;CTRY:NZ;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKN;H:uoasmtpprd01.its.auckland.ac.nz;PTR:uoasmtpprd01.its.auckland.ac.nz;CAT:NONE;SFS:(13230032)(12012899004)(2092899004)(3072899004)(82310400018)(35042699014);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 12 Jun 2024 05:11:12.8172
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 333b5186-fe68-45b0-8d55-08dc8a9e1476
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=d1b36e95-0d50-42e9-958f-b63fa906beaa;Ip=[130.216.125.250];Helo=[uoasmtpprd01.its.auckland.ac.nz]
+X-MS-Exchange-CrossTenant-AuthSource: HK3PEPF0000021B.apcprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY8P300MB0393
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.9416281
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7633.034
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?windows-1257?Q?PWuO8IDkAymcSHGQj8hGzqOd+E1flneAvxOczWmZ1u60E/Kw9gZdhCob?=
+ =?windows-1257?Q?7Ol5ClRCOgAAwvUd+pJYQnWyd7TooOBPEUL1HttZa5NUKzcC7J873GuL?=
+ =?windows-1257?Q?T1FTmOR89oTLKnftZ2s+I/OTMiwozu8v83Q7AJL4OIuQMSU6fvUp3Npp?=
+ =?windows-1257?Q?6yS1ao9+K1BtE62QyLQ8RA7wQBlARHAdZ9w0Zqw7/rLbE9AxRcv4O56e?=
+ =?windows-1257?Q?lNlRspTPbPWmwGGjqOQas1hTvZY49jkB4OR/qCdYVkRxXTt3lgX5OTpS?=
+ =?windows-1257?Q?HR/at0k7ItdsKuJFgSiGP9xjPYbVKvCXYWnfMsRy/hVG5sQPVPkBbk29?=
+ =?windows-1257?Q?ZiLG6AfMNxbdTo21259V8uHRg39Nu+yWpFPeSnXUC0BUtke1Ya46QKCp?=
+ =?windows-1257?Q?MljxIDWkin0Kz2UVYnsN756uqfbUp8ZSlguO/tTR1ikJXAVSfqEyv6oD?=
+ =?windows-1257?Q?E79P0Sdi/L5wwxS+h7e8gPLBdyujpMTpSKqUrSTNWwck8eMoU+nry8fG?=
+ =?windows-1257?Q?vEjIxopCq2ZWNaIvmJKjC/btHl4TC/TbwbXYrP96L+/I7bfibocOk4fQ?=
+ =?windows-1257?Q?AyCI9JJdrVTkV1f4oTNe4si7aZlQKkyyxKYejsSclid4bXcTGMMtiBIi?=
+ =?windows-1257?Q?GXJbzYhXrxN/UT8Rt+O3euJp3zAuD0Geo3Wvj4qf5OBoX9VFesfdGqDg?=
+ =?windows-1257?Q?o7yUe9yIJ+icTBXXVDyiyTwxxaHrdwiM4omcZ74Qcbs3+sRSRjd4laW3?=
+ =?windows-1257?Q?QDPGsFcl5CMnoDvPYd/hSs7eL9q+GKkwV+DoeTboescE8anno6kCk0lr?=
+ =?windows-1257?Q?VQx3ojxnlCSCg6VngFCC16lAx2ogyk2I4Lipxz6vGQOqfOLwJ0qR6k6D?=
+ =?windows-1257?Q?NwIRZrYB4MNce/F+L7bVMhPH1bPB+sAtvuWRJ1mqD3PaujeNaar6m9rn?=
+ =?windows-1257?Q?2qbokwOFh4Xz5idKeN3tfUJWhBhnYpdD/8chpUv7d/nO9uJbHHtrX0lR?=
+ =?windows-1257?Q?yCtbBWqT3T+eyjLedi6L/y+6v2Gl+oyPm4mRLdiCdJT41K8+cumPeXw3?=
+ =?windows-1257?Q?19aYZDsjTMi/fT7c26Ug9xkgmAhfTbG9W+ylQdRXIo9Z+zkgZvMC7b4g?=
+ =?windows-1257?Q?5WlbcU17sIzy4NHbUr1k60TuDbQrnwKaY1RfIYbxxQJ2RcW0cOoKkARS?=
+ =?windows-1257?Q?ygFQLNvQGTIipDSkN13GfVeb5Wk+WuOZ+VWvIwO5F1Lb6ZmpZBHb1kEz?=
+ =?windows-1257?Q?zBAeDjsxEgJbiMvkQZPMtDVaV0x6xGFmAoaexCw1rCGaA6sdYQb/ImU7?=
+ =?windows-1257?Q?Jgq7N+01CoQgCoJt3fX//RtnKf08ETKjvHlSNPbWWx73tk5g4cFaFXL/?=
+ =?windows-1257?Q?ercvJogo7LYB0XH6y0ygpPUt5JmAgZTJ+X8l1rtylSqbD2J81jjh9JS2?=
+ =?windows-1257?Q?o9kSxk4dmF/3/hSbOueoUPIDArc6RDtgPZF+RFxx/q9MZigZM/IAKf4g?=
+ =?windows-1257?Q?w5rZTa91AAm52jVZo/JkHMfgvjA5vp0PFYqqhWKRhh01hVW/dxYzSJP4?=
+ =?windows-1257?Q?LK34CObB0a5jibtRiA86YBr5ckBEwbiQMNc//ejbmfMGkYMwlklSJUVe?=
+ =?windows-1257?Q?0qVglyhW4kwSo4fBO89NOkgfFjLCLyiRwLEIgSW8LqYmYTDryOOvliu9?=
+ =?windows-1257?Q?8xhKaue0j9mtZQUBygwsYPV4zGIKnI54rnOjarsgpiqU5xWqdkUFgJy0?=
+ =?windows-1257?Q?5+EmIGO9sAjD67+3U8Bj/Maqt0auBmgi15c2DLwXJtL07gV05/fNF2YN?=
+ =?windows-1257?Q?3GjqtNJgdW+Jp4ZvWeuLE10twySX7CzBz4x+Ipu9E4Z7sGApRVzoOb5P?=
+ =?windows-1257?Q?tkRjHv6WhkgBlg+uJ293pD4lnTMfDpsAKyZ7AQMwrEL5vA35HCz1oaMj?=
+ =?windows-1257?Q?oO6+0pXcIFYITsDJ/5iV2v269wa2PjNRSjhvftJffpyba1OyutVJ08LB?=
+ =?windows-1257?Q?cwkmEaDz4pUw/QVii8LKR9lGlOms2/tf6wrSiTPhyf7SXdygeQADKjX9?=
+ =?windows-1257?Q?IcjadH7kLr96KVnKqy6TgesvMGs/KI//BabOHTLjIUuuW1FqPM7Cyuwv?=
+ =?windows-1257?Q?zESD9d0GI4xNy9RbhfS5ZpPpJGGjwKhSw+BxUzmpc/JyryiamlmExO2s?=
+ =?windows-1257?Q?52Q21ql5m3rqoqzrMn8VtCAZnSimuIM8?=
+MIME-Version: 1.0
+
+--_000_SY0P300MB0369F2D1410101115E441CD5DCC02SY0P300MB0369AUSP_
+Content-Type: text/plain; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+Kia ora t=E2tou
+
+
+
+THE Impact Rankings 2024
+
+We have additional positive rankings news to celebrate this week, maintaini=
+ng our position as one of the world=92s leading universities for impact. Ra=
+nked at 13 globally in the THE Impact Rankings 2024, we remain within the t=
+op 1 percent worldwide, despite a near 25 percent increase in entries this =
+year. This outcome reflects our continued focus on integrating and enhancin=
+g sustainability across all we do. You can read more in the University of A=
+uckland in top tier worldwide for sustainability<https://www.auckland.ac.nz=
+/en/news/2024/06/12/university-of-auckland-ranked-in-top-tier-worldwide-for=
+-sustainability.html> news article.
+
+
+Universities and science system reviews
+
+Thank you to everyone who provided input into the Sir Peter Gluckman-led re=
+views into universities and the science system. The University of Auckland =
+has submitted responses to both the Science System Advisory Group (SSAG) an=
+d the University Advisory Group (UAG). The UAG will provide an initial repo=
+rt to government in August 2024 and a final report in February 2025. The SS=
+AG will develop a two-part report, with the first part delivered at the end=
+ of June, and the second at the end of October 2024. There will be opportun=
+ities to provide further input into both reviews ahead of the delivery of t=
+he final reports.
+
+
+
+Reminder - Draft Freedom of Expression & Academic Freedom Policy
+
+Consultation on the Draft Freedom of Expression & Academic Freedom Policy<h=
+ttps://www.auckland.ac.nz/en/news/notices/2024/draft-freedom-expression-aca=
+demic-freedom-policy-consultation.html> is open, and this month=92s All-Sta=
+ff forum will take place next week at 12-1pm, Monday 17 June, to facilitate=
+ discussion on the draft policy.
+
+
+
+Kawe Aroha ceremony
+
+Our annual Kawe Aroha event, where we come together during Matariki and ack=
+nowledge those who have passed, is taking place next week from 9am-12pm on =
+Monday 17 June, at the Waipapa Marae. All staff are invited to attend and j=
+oin this traditional remembrance ceremony. Sign up on the registration page=
+<https://www.eventbrite.co.nz/e/kawe-aroha-ki-waipapa-tickets-893377705767>=
+ if you would like to attend.
+
+
+
+Ng=E2 mihi nui
+
+Dawn
+
+
+
+Professor Dawn Freshwater
+
+Vice-Chancellor
+
+--_000_SY0P300MB0369F2D1410101115E441CD5DCC02SY0P300MB0369AUSP_
+Content-Type: text/html; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#467886;
+	text-decoration:underline;}
+p.Body, li.Body, div.Body
+	{mso-style-name:Body;
+	margin:0cm;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	color:black;
+	mso-style-textoutline-type:none;
+	mso-style-textoutline-outlinestyle-dpiwidth:0pt;
+	mso-style-textoutline-outlinestyle-linecap:flat;
+	mso-style-textoutline-outlinestyle-join:bevel;
+	mso-style-textoutline-outlinestyle-pctmiterlimit:0%;
+	mso-style-textoutline-outlinestyle-dash:solid;
+	mso-style-textoutline-outlinestyle-align:center;
+	mso-style-textoutline-outlinestyle-compound:simple;}
+span.None
+	{mso-style-name:None;}
+span.Hyperlink0
+	{mso-style-name:"Hyperlink\.0";
+	font-family:"Calibri",sans-serif;
+	color:#467886;
+	background:#FEFFFF;
+	mso-style-textoutline-type:none;
+	mso-style-textoutline-outlinestyle-dpiwidth:1.0pt;
+	mso-style-textoutline-outlinestyle-linecap:flat;
+	mso-style-textoutline-outlinestyle-join:miter;
+	mso-style-textoutline-outlinestyle-pctmiterlimit:100.0%;
+	mso-style-textoutline-outlinestyle-dash:solid;
+	mso-style-textoutline-outlinestyle-align:center;
+	mso-style-textoutline-outlinestyle-compound:simple;
+	mso-effects-shadow-color:black;
+	mso-effects-shadow-alpha:100.0%;
+	mso-effects-shadow-dpiradius:0pt;
+	mso-effects-shadow-dpidistance:0pt;
+	mso-effects-shadow-angledirection:0;
+	mso-effects-shadow-align:none;
+	mso-effects-shadow-pctsx:0%;
+	mso-effects-shadow-pctsy:0%;
+	mso-effects-shadow-anglekx:0;
+	mso-effects-shadow-angleky:0;
+	text-decoration:underline;}
+span.Hyperlink1
+	{mso-style-name:"Hyperlink\.1";
+	font-family:"Calibri",sans-serif;
+	color:#467886;
+	mso-style-textoutline-type:none;
+	mso-style-textoutline-outlinestyle-dpiwidth:1.0pt;
+	mso-style-textoutline-outlinestyle-linecap:flat;
+	mso-style-textoutline-outlinestyle-join:miter;
+	mso-style-textoutline-outlinestyle-pctmiterlimit:100.0%;
+	mso-style-textoutline-outlinestyle-dash:solid;
+	mso-style-textoutline-outlinestyle-align:center;
+	mso-style-textoutline-outlinestyle-compound:simple;
+	mso-effects-shadow-color:black;
+	mso-effects-shadow-alpha:100.0%;
+	mso-effects-shadow-dpiradius:0pt;
+	mso-effects-shadow-dpidistance:0pt;
+	mso-effects-shadow-angledirection:0;
+	mso-effects-shadow-align:none;
+	mso-effects-shadow-pctsx:0%;
+	mso-effects-shadow-pctsy:0%;
+	mso-effects-shadow-anglekx:0;
+	mso-effects-shadow-angleky:0;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-NZ" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"Body"><span lang=3D"IT" style=3D"font-family:&quot;Calibri&quot=
+;,sans-serif;background:#FEFFFF;mso-style-textoutline-type:none;mso-style-t=
+extoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-lin=
+ecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textoutl=
+ine-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:s=
+olid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-=
+outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-type:non=
+e;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-out=
+linestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-s=
+tyle-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlin=
+estyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style=
+-textoutline-outlinestyle-compound:simple">Kia
+ ora </span></span><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&=
+quot;,sans-serif;background:#FEFFFF;mso-style-textoutline-type:none;mso-sty=
+le-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle=
+-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-text=
+outline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-da=
+sh:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutl=
+ine-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-type=
+:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline=
+-outlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;m=
+so-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-ou=
+tlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-s=
+tyle-textoutline-outlinestyle-compound:simple">t=E2tou
+</span></span><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;=
+,sans-serif;background:#FEFFFF;mso-style-textoutline-type:none;mso-style-te=
+xtoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-line=
+cap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textoutli=
+ne-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:so=
+lid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-o=
+utlinestyle-compound:simple"><o:p></o:p></span></p>
+<p class=3D"Body"><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&q=
+uot;,sans-serif;background:#FEFFFF;mso-style-textoutline-type:none;mso-styl=
+e-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-=
+linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-texto=
+utline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-das=
+h:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutli=
+ne-outlinestyle-compound:simple"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"Body" style=3D"margin-bottom:6.0pt"><b><span lang=3D"DE" style=
+=3D"font-family:&quot;Calibri&quot;,sans-serif">THE Impact Rankings 2024</s=
+pan></b><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif;background:#FEFFFF;mso-style-textoutline-type:none;mso-style-textoutl=
+ine-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:ro=
+und;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textoutline-out=
+linestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;ms=
+o-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outline=
+style-compound:simple"><o:p></o:p></span></p>
+<p class=3D"Body"><span lang=3D"IT" style=3D"font-family:&quot;Calibri&quot=
+;,sans-serif;background:#FEFFFF;mso-style-textoutline-type:none;mso-style-t=
+extoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-lin=
+ecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textoutl=
+ine-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:s=
+olid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-=
+outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-type:non=
+e;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-out=
+linestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-s=
+tyle-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlin=
+estyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style=
+-textoutline-outlinestyle-compound:simple">We
+ have additional positive rankings news to celebrate this week, maintaining=
+ our position as one of the world=92s leading universities for impact.
+</span></span><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;=
+,sans-serif">Ranked at
+</span><span lang=3D"IT" style=3D"font-family:&quot;Calibri&quot;,sans-seri=
+f;background:#FEFFFF;mso-style-textoutline-type:none;mso-style-textoutline-=
+outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:round;=
+mso-style-textoutline-outlinestyle-join:bevel;mso-style-textoutline-outline=
+style-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-st=
+yle-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyl=
+e-compound:simple"><span style=3D"mso-style-textoutline-type:none;mso-style=
+-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-l=
+inecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textou=
+tline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash=
+:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutlin=
+e-outlinestyle-compound:simple">13
+ globally in the THE Impact Rankings 2024, we remain within the top 1 perce=
+nt worldwide, despite a near</span></span><span lang=3D"IT" style=3D"font-f=
+amily:&quot;Calibri&quot;,sans-serif">
+</span><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-s=
+erif">25 percent increase in entries this year.</span><span lang=3D"EN-US" =
+style=3D"font-family:&quot;Calibri&quot;,sans-serif;background:#FEFFFF;mso-=
+style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt=
+;mso-style-textoutline-outlinestyle-linecap:round;mso-style-textoutline-out=
+linestyle-join:bevel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;ms=
+o-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinest=
+yle-align:center;mso-style-textoutline-outlinestyle-compound:simple"><span =
+style=3D"mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle=
+-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:round;mso-style-te=
+xtoutline-outlinestyle-join:bevel;mso-style-textoutline-outlinestyle-pctmit=
+erlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutl=
+ine-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:s=
+imple">
+</span></span><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;=
+,sans-serif">This outcome reflects our continued focus on integrating and e=
+nhancing sustainability across all we do. You can read more in the
+<a href=3D"https://www.auckland.ac.nz/en/news/2024/06/12/university-of-auck=
+land-ranked-in-top-tier-worldwide-for-sustainability.html">
+University of Auckland in top tier worldwide for sustainability</a> </span>=
+<span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif;ba=
+ckground:#FEFFFF;mso-style-textoutline-type:none;mso-style-textoutline-outl=
+inestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:round;mso-=
+style-textoutline-outlinestyle-join:bevel;mso-style-textoutline-outlinestyl=
+e-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-=
+textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-co=
+mpound:simple"><span style=3D"mso-style-textoutline-type:none;mso-style-tex=
+toutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linec=
+ap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textoutlin=
+e-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:sol=
+id;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-ou=
+tlinestyle-compound:simple">news
+ article.</span></span><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,sans-serif"><o:p></o:p></span></p>
+<p class=3D"Body"><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&q=
+uot;,sans-serif;background:#FEFFFF;mso-style-textoutline-type:none;mso-styl=
+e-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-=
+linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-texto=
+utline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-das=
+h:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutli=
+ne-outlinestyle-compound:simple"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:6.0pt"><b><span style=3D"font=
+-family:&quot;Calibri&quot;,sans-serif">Universities and science system rev=
+iews</span></b><b><span style=3D"font-family:&quot;Calibri&quot;,sans-serif=
+;mso-fareast-language:EN-NZ"><o:p></o:p></span></b></p>
+<p class=3D"Body"><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&q=
+uot;,sans-serif;background:#FEFFFF;mso-style-textoutline-type:none;mso-styl=
+e-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-=
+linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-texto=
+utline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-das=
+h:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutli=
+ne-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-type:=
+none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-=
+outlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;ms=
+o-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-out=
+linestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-st=
+yle-textoutline-outlinestyle-compound:simple">Thank
+ you to everyone who provided input into the </span></span><span lang=3D"EN=
+-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif">Sir Peter Gluckma=
+n-led reviews into universities and the science system</span><span lang=3D"=
+EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif;background:#FEFF=
+FF;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwi=
+dth:0pt;mso-style-textoutline-outlinestyle-linecap:round;mso-style-textoutl=
+ine-outlinestyle-join:bevel;mso-style-textoutline-outlinestyle-pctmiterlimi=
+t:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-ou=
+tlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple"=
+><span style=3D"mso-style-textoutline-type:none;mso-style-textoutline-outli=
+nestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:round;mso-s=
+tyle-textoutline-outlinestyle-join:bevel;mso-style-textoutline-outlinestyle=
+-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-t=
+extoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-com=
+pound:simple">.
+ The University of Auckland has submitted responses to both the Science Sys=
+tem Advisory Group (SSAG) and the University Advisory Group (UAG).
+</span></span><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;=
+,sans-serif;color:#111111;background:white">The UAG will provide an initial=
+ report to government in August 2024 and a final report in February 2025. T=
+he SSAG will develop a two-part report, with the
+ first part delivered at the end of June, and the second at the end of Octo=
+ber 2024. There will be opportunities to provide further input into both re=
+views ahead of the delivery of the final reports.</span><span lang=3D"EN-US=
+" style=3D"font-family:&quot;Calibri&quot;,sans-serif;background:#FEFFFF;ms=
+o-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0=
+pt;mso-style-textoutline-outlinestyle-linecap:round;mso-style-textoutline-o=
+utlinestyle-join:bevel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;=
+mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outline=
+style-align:center;mso-style-textoutline-outlinestyle-compound:simple"><o:p=
+></o:p></span></p>
+<p class=3D"Body"><span lang=3D"IT" style=3D"font-family:&quot;Calibri&quot=
+;,sans-serif;background:#FEFFFF;mso-style-textoutline-type:none;mso-style-t=
+extoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-lin=
+ecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textoutl=
+ine-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:s=
+olid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-=
+outlinestyle-compound:simple"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"Body" style=3D"margin-bottom:6.0pt"><b><span lang=3D"EN-US" sty=
+le=3D"font-family:&quot;Calibri&quot;,sans-serif;background:#FEFFFF;mso-sty=
+le-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;ms=
+o-style-textoutline-outlinestyle-linecap:round;mso-style-textoutline-outlin=
+estyle-join:bevel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-s=
+tyle-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle=
+-align:center;mso-style-textoutline-outlinestyle-compound:simple"><span sty=
+le=3D"mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dp=
+iwidth:0pt;mso-style-textoutline-outlinestyle-linecap:round;mso-style-texto=
+utline-outlinestyle-join:bevel;mso-style-textoutline-outlinestyle-pctmiterl=
+imit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline=
+-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simp=
+le">Reminder
+ - Draft Freedom of Expression &amp; Academic Freedom Policy</span></span><=
+/b><b><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-se=
+rif;background:#FEFFFF;mso-style-textoutline-type:none;mso-style-textoutlin=
+e-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:roun=
+d;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textoutline-outli=
+nestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-=
+style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinest=
+yle-compound:simple"><o:p></o:p></span></b></p>
+<p class=3D"Body"><span lang=3D"IT" style=3D"font-family:&quot;Calibri&quot=
+;,sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlines=
+tyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:round;mso-styl=
+e-textoutline-outlinestyle-join:bevel;mso-style-textoutline-outlinestyle-pc=
+tmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-text=
+outline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compou=
+nd:simple"><span style=3D"mso-style-textoutline-type:none;mso-style-textout=
+line-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:r=
+ound;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textoutline-ou=
+tlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;m=
+so-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlin=
+estyle-compound:simple">Consultation
+ on the </span></span><span lang=3D"EN-US" style=3D"font-family:&quot;Calib=
+ri&quot;,sans-serif"><a href=3D"https://www.auckland.ac.nz/en/news/notices/=
+2024/draft-freedom-expression-academic-freedom-policy-consultation.html"><s=
+pan class=3D"Hyperlink0"><span style=3D"mso-effects-shadow-color:black;mso-=
+effects-shadow-alpha:100.0%;mso-effects-shadow-dpiradius:0pt;mso-effects-sh=
+adow-dpidistance:0pt;mso-effects-shadow-angledirection:0;mso-effects-shadow=
+-align:none;mso-effects-shadow-pctsx:0%;mso-effects-shadow-pctsy:0%;mso-eff=
+ects-shadow-anglekx:0;mso-effects-shadow-angleky:0"><span style=3D"mso-effe=
+cts-shadow-color:black;mso-effects-shadow-alpha:100.0%;mso-effects-shadow-d=
+piradius:0pt;mso-effects-shadow-dpidistance:0pt;mso-effects-shadow-angledir=
+ection:0;mso-effects-shadow-align:none;mso-effects-shadow-pctsx:0%;mso-effe=
+cts-shadow-pctsy:0%;mso-effects-shadow-anglekx:0;mso-effects-shadow-angleky=
+:0">Draft
+ Freedom of Expression &amp; Academic Freedom Policy</span></span></span></=
+a></span><span class=3D"Hyperlink0"><span lang=3D"EN-US" style=3D"mso-effec=
+ts-shadow-color:black;mso-effects-shadow-alpha:100.0%;mso-effects-shadow-dp=
+iradius:0pt;mso-effects-shadow-dpidistance:0pt;mso-effects-shadow-angledire=
+ction:0;mso-effects-shadow-align:none;mso-effects-shadow-pctsx:0%;mso-effec=
+ts-shadow-pctsy:0%;mso-effects-shadow-anglekx:0;mso-effects-shadow-angleky:=
+0"><span style=3D"mso-effects-shadow-color:black;mso-effects-shadow-alpha:1=
+00.0%;mso-effects-shadow-dpiradius:0pt;mso-effects-shadow-dpidistance:0pt;m=
+so-effects-shadow-angledirection:0;mso-effects-shadow-align:none;mso-effect=
+s-shadow-pctsx:0%;mso-effects-shadow-pctsy:0%;mso-effects-shadow-anglekx:0;=
+mso-effects-shadow-angleky:0">
+</span></span></span><span class=3D"None"><span lang=3D"IT" style=3D"font-f=
+amily:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;mso-st=
+yle-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyl=
+e-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-tex=
+toutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-d=
+ash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textout=
+line-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-typ=
+e:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutlin=
+e-outlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;=
+mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-o=
+utlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-=
+style-textoutline-outlinestyle-compound:simple">is
+ open, and this month=92s All-Staff forum will take place next week at </sp=
+an></span></span><span class=3D"None"><b><span lang=3D"IT" style=3D"font-fa=
+mily:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;mso-sty=
+le-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle=
+-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-text=
+outline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-da=
+sh:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutl=
+ine-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-type=
+:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline=
+-outlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;m=
+so-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-ou=
+tlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-s=
+tyle-textoutline-outlinestyle-compound:simple">12-1pm,
+ Monday 17 June,</span></span></b></span><span class=3D"None"><span lang=3D=
+"IT" style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-style-textoutl=
+ine-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-tex=
+toutline-outlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join=
+:bevel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textou=
+tline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:cent=
+er;mso-style-textoutline-outlinestyle-compound:simple"><span style=3D"mso-s=
+tyle-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;=
+mso-style-textoutline-outlinestyle-linecap:round;mso-style-textoutline-outl=
+inestyle-join:bevel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso=
+-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinesty=
+le-align:center;mso-style-textoutline-outlinestyle-compound:simple">
+ to facilitate discussion on the draft policy.</span></span><o:p></o:p></sp=
+an></p>
+<p class=3D"Body"><span class=3D"None"><span lang=3D"IT" style=3D"mso-style=
+-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-=
+style-textoutline-outlinestyle-linecap:round;mso-style-textoutline-outlines=
+tyle-join:bevel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-sty=
+le-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-a=
+lign:center;mso-style-textoutline-outlinestyle-compound:simple"><o:p>&nbsp;=
+</o:p></span></span></p>
+<p class=3D"Body" style=3D"margin-bottom:6.0pt"><span class=3D"None"><b><sp=
+an lang=3D"IT" style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-styl=
+e-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso=
+-style-textoutline-outlinestyle-linecap:round;mso-style-textoutline-outline=
+style-join:bevel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-st=
+yle-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-=
+align:center;mso-style-textoutline-outlinestyle-compound:simple"><span styl=
+e=3D"mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpi=
+width:0pt;mso-style-textoutline-outlinestyle-linecap:round;mso-style-textou=
+tline-outlinestyle-join:bevel;mso-style-textoutline-outlinestyle-pctmiterli=
+mit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-=
+outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simpl=
+e">Kawe
+ Aroha ceremony</span></span></b></span><span class=3D"None"><b><span lang=
+=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-style-te=
+xtoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-sty=
+le-textoutline-outlinestyle-linecap:round;mso-style-textoutline-outlinestyl=
+e-join:bevel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-=
+textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-alig=
+n:center;mso-style-textoutline-outlinestyle-compound:simple"><o:p></o:p></s=
+pan></b></span></p>
+<p class=3D"Body"><span class=3D"None"><span lang=3D"IT" style=3D"font-fami=
+ly:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;mso-style=
+-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-l=
+inecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textou=
+tline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash=
+:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutlin=
+e-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-type:n=
+one;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-o=
+utlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso=
+-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outl=
+inestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-sty=
+le-textoutline-outlinestyle-compound:simple">Our
+ annual</span></span></span><span class=3D"None"><b><span lang=3D"IT" style=
+=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:n=
+one;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-o=
+utlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso=
+-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outl=
+inestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-sty=
+le-textoutline-outlinestyle-compound:simple"><span style=3D"mso-style-texto=
+utline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-=
+textoutline-outlinestyle-linecap:round;mso-style-textoutline-outlinestyle-j=
+oin:bevel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-tex=
+toutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:c=
+enter;mso-style-textoutline-outlinestyle-compound:simple">
+</span></span></b></span><span class=3D"None"><span lang=3D"IT" style=3D"fo=
+nt-family:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;ms=
+o-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outline=
+style-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style=
+-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinesty=
+le-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-tex=
+toutline-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline=
+-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textou=
+tline-outlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:be=
+vel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutli=
+ne-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;=
+mso-style-textoutline-outlinestyle-compound:simple">Kawe
+ Aroha event, where we come together during Matariki and acknowledge those =
+who have passed, is taking place next week from 9am-12pm on Monday 17 June,=
+ at the Waipapa Marae. All staff are invited to attend and join this tradit=
+ional remembrance ceremony. Sign
+ up on </span></span></span><span lang=3D"EN-US" style=3D"font-family:&quot=
+;Calibri&quot;,sans-serif"><a href=3D"https://www.eventbrite.co.nz/e/kawe-a=
+roha-ki-waipapa-tickets-893377705767"><span class=3D"Hyperlink1"><span lang=
+=3D"IT" style=3D"mso-effects-shadow-color:black;mso-effects-shadow-alpha:10=
+0.0%;mso-effects-shadow-dpiradius:0pt;mso-effects-shadow-dpidistance:0pt;ms=
+o-effects-shadow-angledirection:0;mso-effects-shadow-align:none;mso-effects=
+-shadow-pctsx:0%;mso-effects-shadow-pctsy:0%;mso-effects-shadow-anglekx:0;m=
+so-effects-shadow-angleky:0"><span style=3D"mso-effects-shadow-color:black;=
+mso-effects-shadow-alpha:100.0%;mso-effects-shadow-dpiradius:0pt;mso-effect=
+s-shadow-dpidistance:0pt;mso-effects-shadow-angledirection:0;mso-effects-sh=
+adow-align:none;mso-effects-shadow-pctsx:0%;mso-effects-shadow-pctsy:0%;mso=
+-effects-shadow-anglekx:0;mso-effects-shadow-angleky:0">the
+ registration page</span></span></span></a></span><span class=3D"None"><spa=
+n lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-st=
+yle-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;m=
+so-style-textoutline-outlinestyle-linecap:round;mso-style-textoutline-outli=
+nestyle-join:bevel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-=
+style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyl=
+e-align:center;mso-style-textoutline-outlinestyle-compound:simple"><span st=
+yle=3D"mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-d=
+piwidth:0pt;mso-style-textoutline-outlinestyle-linecap:round;mso-style-text=
+outline-outlinestyle-join:bevel;mso-style-textoutline-outlinestyle-pctmiter=
+limit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutlin=
+e-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:sim=
+ple">
+</span></span></span><span class=3D"None"><span lang=3D"IT" style=3D"font-f=
+amily:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;mso-st=
+yle-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyl=
+e-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-tex=
+toutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-d=
+ash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textout=
+line-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-typ=
+e:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutlin=
+e-outlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;=
+mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-o=
+utlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-=
+style-textoutline-outlinestyle-compound:simple">if
+ you would like to attend.</span></span></span><span class=3D"None"><span l=
+ang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-style=
+-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-=
+style-textoutline-outlinestyle-linecap:round;mso-style-textoutline-outlines=
+tyle-join:bevel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-sty=
+le-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-a=
+lign:center;mso-style-textoutline-outlinestyle-compound:simple"><o:p></o:p>=
+</span></span></p>
+<p class=3D"Body"><span class=3D"None"><span lang=3D"IT" style=3D"font-fami=
+ly:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;mso-style=
+-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-l=
+inecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textou=
+tline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash=
+:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutlin=
+e-outlinestyle-compound:simple"><o:p>&nbsp;</o:p></span></span></p>
+<p class=3D"Body"><span class=3D"None"><span lang=3D"IT" style=3D"font-fami=
+ly:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;mso-style=
+-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-l=
+inecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textou=
+tline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash=
+:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutlin=
+e-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-type:n=
+one;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-o=
+utlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso=
+-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outl=
+inestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-sty=
+le-textoutline-outlinestyle-compound:simple">Ng=E2
+</span></span></span><span class=3D"None"><span lang=3D"FR" style=3D"font-f=
+amily:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;mso-st=
+yle-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyl=
+e-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-tex=
+toutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-d=
+ash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textout=
+line-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-typ=
+e:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutlin=
+e-outlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;=
+mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-o=
+utlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-=
+style-textoutline-outlinestyle-compound:simple">mihi
+ nui</span></span></span><span class=3D"None"><span lang=3D"IT" style=3D"fo=
+nt-family:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;ms=
+o-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outline=
+style-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style=
+-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinesty=
+le-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-tex=
+toutline-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline=
+-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textou=
+tline-outlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:be=
+vel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutli=
+ne-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;=
+mso-style-textoutline-outlinestyle-compound:simple">&nbsp;</span></span></s=
+pan><span class=3D"None"><span lang=3D"EN-US" style=3D"font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-style-textoutline-type:none;mso-style-textoutlin=
+e-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:roun=
+d;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textoutline-outli=
+nestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-=
+style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinest=
+yle-compound:simple"><o:p></o:p></span></span></p>
+<p class=3D"Body"><span class=3D"None"><span lang=3D"IT" style=3D"font-fami=
+ly:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;mso-style=
+-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-l=
+inecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textou=
+tline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash=
+:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutlin=
+e-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-type:n=
+one;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-o=
+utlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso=
+-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outl=
+inestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-sty=
+le-textoutline-outlinestyle-compound:simple">Dawn&nbsp;</span></span></span=
+><span class=3D"None"><span lang=3D"EN-US" style=3D"font-family:&quot;Calib=
+ri&quot;,sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-o=
+utlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:round;m=
+so-style-textoutline-outlinestyle-join:bevel;mso-style-textoutline-outlines=
+tyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-sty=
+le-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle=
+-compound:simple"><o:p></o:p></span></span></p>
+<p class=3D"Body"><span class=3D"None"><span lang=3D"EN-US" style=3D"font-f=
+amily:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;mso-st=
+yle-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyl=
+e-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-tex=
+toutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-d=
+ash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textout=
+line-outlinestyle-compound:simple"><o:p>&nbsp;</o:p></span></span></p>
+<p class=3D"Body"><span class=3D"None"><span lang=3D"EN-US" style=3D"font-f=
+amily:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;mso-st=
+yle-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyl=
+e-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-tex=
+toutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-d=
+ash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textout=
+line-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-typ=
+e:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutlin=
+e-outlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;=
+mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-o=
+utlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-=
+style-textoutline-outlinestyle-compound:simple">Professor
+ Dawn Freshwater</span></span></span><span class=3D"None"><span lang=3D"IT"=
+ style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-=
+type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textout=
+line-outlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bev=
+el;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutlin=
+e-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;m=
+so-style-textoutline-outlinestyle-compound:simple"><span style=3D"mso-style=
+-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-=
+style-textoutline-outlinestyle-linecap:round;mso-style-textoutline-outlines=
+tyle-join:bevel;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-sty=
+le-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-a=
+lign:center;mso-style-textoutline-outlinestyle-compound:simple">&nbsp;</spa=
+n></span></span><span class=3D"None"><span lang=3D"EN-US" style=3D"font-fam=
+ily:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;mso-styl=
+e-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-=
+linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-texto=
+utline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-das=
+h:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutli=
+ne-outlinestyle-compound:simple"><o:p></o:p></span></span></p>
+<p class=3D"Body"><span class=3D"None"><span lang=3D"IT" style=3D"font-fami=
+ly:&quot;Calibri&quot;,sans-serif;mso-style-textoutline-type:none;mso-style=
+-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-l=
+inecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso-style-textou=
+tline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash=
+:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutlin=
+e-outlinestyle-compound:simple"><span style=3D"mso-style-textoutline-type:n=
+one;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-o=
+utlinestyle-linecap:round;mso-style-textoutline-outlinestyle-join:bevel;mso=
+-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outl=
+inestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-sty=
+le-textoutline-outlinestyle-compound:simple">Vice-Chancellor</span></span><=
+/span><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-se=
+rif;color:windowtext;mso-style-textoutline-type:none;mso-style-textoutline-=
+outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:round;=
+mso-style-textoutline-outlinestyle-join:bevel;mso-style-textoutline-outline=
+style-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-st=
+yle-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyl=
+e-compound:simple"><o:p></o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_SY0P300MB0369F2D1410101115E441CD5DCC02SY0P300MB0369AUSP_--

@@ -1,0 +1,512 @@
+Received: from MEYPR01MB6598.ausprd01.prod.outlook.com (2603:10c6:220:116::14)
+ by SYCPR01MB4863.ausprd01.prod.outlook.com with HTTPS; Mon, 25 Mar 2024
+ 23:02:49 +0000
+Received: from ME0PR01CA0017.ausprd01.prod.outlook.com (2603:10c6:220:212::19)
+ by MEYPR01MB6598.ausprd01.prod.outlook.com (2603:10c6:220:116::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7409.31; Mon, 25 Mar
+ 2024 23:02:48 +0000
+Received: from MEUP300MB0058.AUSP300.PROD.OUTLOOK.COM
+ (2603:10c6:220:212:cafe::7c) by ME0PR01CA0017.outlook.office365.com
+ (2603:10c6:220:212::19) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7409.13 via Frontend
+ Transport; Mon, 25 Mar 2024 23:02:48 +0000
+Received: from PS1PR03CA0024.apcprd03.prod.outlook.com (2603:1096:803:3d::36)
+ by MEUP300MB0058.AUSP300.PROD.OUTLOOK.COM (2603:10c6:220:21b::12) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7409.32; Mon, 25 Mar
+ 2024 23:02:47 +0000
+Received: from HK3PEPF0000021D.apcprd03.prod.outlook.com
+ (2603:1096:803:3d:cafe::b5) by PS1PR03CA0024.outlook.office365.com
+ (2603:1096:803:3d::36) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7409.12 via Frontend
+ Transport; Mon, 25 Mar 2024 23:02:46 +0000
+Authentication-Results: spf=pass (sender IP is 130.216.125.250)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=pass (signature was verified)
+ header.d=auckland.ac.nz;dmarc=pass action=none
+ header.from=auckland.ac.nz;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of list.auckland.ac.nz
+ designates 130.216.125.250 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.125.250;
+ helo=uoasmtpprd01.its.auckland.ac.nz; pr=C
+Received: from au-smtp-inbound-delivery-1.mimecast.com (103.96.20.101) by
+ HK3PEPF0000021D.mail.protection.outlook.com (10.167.8.39) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7409.10 via Frontend Transport; Mon, 25 Mar 2024 23:02:45 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=auckland.ac.nz;
+	s=mimecast20200506; t=1711407764;
+	h=from:from:sender:sender:reply-to:reply-to:subject:subject:date:date:
+	 message-id:message-id:to:to:cc:mime-version:mime-version:
+	 content-type:content-type:list-id:list-help:list-owner:
+	 list-unsubscribe:list-subscribe:list-post;
+	bh=nLMWAtGuUxIUP0spk5/Dmm9WkWilcuz1dL1UNfKE4Ro=;
+	b=JcEi3Fgj3e9rAp4lVMjylyfiCwUrksyo9k5OF1R+vmOaEZdAq2jXNZTd66cMrJDerg2hfe
+	rNjyy642dm6heMcKOyVs6+WdY7alVluwXcQa2f8YFpw0QdMdWm+MyQODK0JXYAhnGWtE/e
+	lzkGclp/NYEYhb0mKWu30+YDVrFisCo=
+Received: from uoasmtpprd01.its.auckland.ac.nz
+ (uoasmtpprd01.its.auckland.ac.nz [130.216.125.250]) by relay.mimecast.com
+ with ESMTP with STARTTLS (version=TLSv1.3, cipher=TLS_AES_256_GCM_SHA384)
+ id au-mta-71-5cGTA_H9NtubPN-ETWP0gw-1; Tue, 26 Mar 2024 10:02:41 +1100
+X-MC-Unique: 5cGTA_H9NtubPN-ETWP0gw-1
+Received: from sympa.auckland.ac.nz (list.fmhs.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id D76D9802563;
+	Tue, 26 Mar 2024 12:02:37 +1300 (NZDT)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz D76D9802563
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id C61FC38D69; Tue, 26 Mar 2024 12:02:37 +1300 (NZDT)
+X-Original-To: all-staff@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-all-staff@sympa.auckland.ac.nz
+Received: from au-smtp-inbound-delivery-1.mimecast.com (au-smtp-delivery-1.mimecast.com [103.96.20.101])
+	by sympa.auckland.ac.nz (Postfix) with ESMTP id 7326C2354C
+	for <all-staff@list.auckland.ac.nz>; Tue, 26 Mar 2024 12:02:08 +1300 (NZDT)
+Received: from AUS01-SY4-obe.outbound.protection.outlook.com
+ (mail-sy4aus01lp2169.outbound.protection.outlook.com [104.47.71.169]) by
+ relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ au-mta-69-HNq-sG63PaWjpm8twIEhTA-2; Tue, 26 Mar 2024 10:02:06 +1100
+X-MC-Unique: HNq-sG63PaWjpm8twIEhTA-2
+Received: from PS2PR02CA0081.apcprd02.prod.outlook.com (2603:1096:300:5c::21)
+ by SY0P300MB0481.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:285::5) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7409.32; Mon, 25 Mar
+ 2024 23:02:05 +0000
+Received: from HK2PEPF00006FAF.apcprd02.prod.outlook.com
+ (2603:1096:300:5c:cafe::7) by PS2PR02CA0081.outlook.office365.com
+ (2603:1096:300:5c::21) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7409.13 via Frontend
+ Transport; Mon, 25 Mar 2024 23:01:59 +0000
+Received: from uxcn19-ogg-a.UoA.auckland.ac.nz (130.216.95.208) by
+ HK2PEPF00006FAF.mail.protection.outlook.com (10.167.8.5) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7409.10 via Frontend Transport; Mon, 25 Mar 2024 23:01:59 +0000
+Received: from uxcn13-tdc-a.UoA.auckland.ac.nz (10.6.3.2) by
+ uxcn19-ogg-a.UoA.auckland.ac.nz (10.6.2.5) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.2.1544.4; Tue, 26 Mar 2024 12:01:57 +1300
+Received: from uxcn19-tdc-a.uoa.auckland.ac.nz (10.6.2.4) by
+ uxcn13-tdc-a.UoA.auckland.ac.nz (10.6.3.2) with Microsoft SMTP Server (TLS)
+ id 15.0.1497.48; Tue, 26 Mar 2024 12:01:57 +1300
+Received: from SY5PR01CU010.outbound.protection.outlook.com (130.216.158.20)
+ by uxcn19-tdc-a.uoa.auckland.ac.nz (10.6.2.4) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.1544.4
+ via Frontend Transport; Tue, 26 Mar 2024 12:01:57 +1300
+Received: from SY7PR01MB8080.ausprd01.prod.outlook.com (2603:10c6:10:1e3::10)
+ by MEWPR01MB8862.ausprd01.prod.outlook.com (2603:10c6:220:1f7::15) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7409.32; Mon, 25 Mar
+ 2024 23:01:54 +0000
+Received: from SY7PR01MB8080.ausprd01.prod.outlook.com
+ ([fe80::1cb2:dfad:2f60:74d7]) by SY7PR01MB8080.ausprd01.prod.outlook.com
+ ([fe80::1cb2:dfad:2f60:74d7%7]) with mapi id 15.20.7409.031; Mon, 25 Mar 2024
+ 23:01:54 +0000
+From: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
+To: all-staff Mailing List <all-staff@list.auckland.ac.nz>
+Subject: Vice-Chancellor's Update | Tuesday 26 March 2024
+Thread-Topic: Vice-Chancellor's Update | Tuesday 26 March 2024
+Thread-Index: Adp/BznYpL0IH2DBSRiFDhR3LiM0uQ==
+Date: Mon, 25 Mar 2024 23:01:54 +0000
+Message-ID: <SY7PR01MB80806E1F5F9806B862752240DC362@SY7PR01MB8080.ausprd01.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-traffictypediagnostic: SY7PR01MB8080:EE_|MEWPR01MB8862:EE_|HK2PEPF00006FAF:EE_|SY0P300MB0481:EE_|HK3PEPF0000021D:EE_|MEUP300MB0058:EE_|MEYPR01MB6598:EE_|SYCPR01MB4863:EE_
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0
+X-Microsoft-Antispam-Message-Info-Original: pHseX2gg2bdYBDj4Eqtn6LNxnTQ7fPKSwamni9UyjrFqrLmhDeyHv31BtvQsv9fDcg5kdGviWtizWob5klymcRlQmZLovBwVqkyK5MgZehrVi1ghcNetJd+zDStPenom4FY/otBdvENDdfRbw7XmmolEPwAT7mC4erqdTVjB79Sw45KGGFNPML3xQRsm22pFzhhVy0hwpBzbusPziMzWQ/168Nuh5I6o7Mubwu7e7/+xeGL8sOiQ21l9yKVkkID/76Ai2XM2VM+FRkufipaP3XJROmt0urOnYeZ9dPpZOEPVuybEK1cG+hB29w1LeLjUkpWD3+lVMIRwYidYPrGwFQ7wfQEJt3iAB13+ZE6p7LbNxcSlNMWnxi83qJcIO/gSvcqYtVSXb7mhL3LUei+VJfo5osjKTP5yhQhQL31HJJbjmgWvoOqYjD6S47Ib6oVWU1BkEqX08aduDanGtL19mGUnEGesk6pcQ4SlvBL9Z9kkWC+9aTghZnchjtfIcxjfLP52OD/TnVupDm0+0rPdym03yd3Ypq9pZiI6cJg3jiQzqP59qYMVVDpQzTJkktnGYHC0F9Fbxt+nBljbQf0umUMkbRc6uJfdJuP+2xNHUlwwAcxS1w9g5bMJ8EhJ75R/SnphPgBO6+5bBfc6Tz0SvsJeufFY8/Z+lE3rqVI5dLtFmn4NZUQ+njyhAbApD3qH3HIVZ1wpaNfuqR7XYzxYxg==
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SY7PR01MB8080.ausprd01.prod.outlook.com;PTR:;CAT:NONE;SFS:;DIR:INT
+x-ms-exchange-transport-crosstenantheadersstamped: MEWPR01MB8862
+x-organizationheaderspreserved: MEWPR01MB8862.ausprd01.prod.outlook.com
+x-crosspremisesheaderspromoted: uxcn19-tdc-a.UoA.auckland.ac.nz
+x-crosspremisesheadersfiltered: uxcn19-tdc-a.UoA.auckland.ac.nz
+X-EOPAttributedMessage: 1
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: HK2PEPF00006FAF.apcprd02.prod.outlook.com
+X-MS-Office365-Filtering-Correlation-Id: 2e92924c-0046-4281-308f-08dc4d1faf3c
+X-Microsoft-Antispam-Untrusted: BCL:0
+X-Microsoft-Antispam-Message-Info-Original: =?us-ascii?Q?YWj9F6HYlPNRFNsjAcn6Q59rpuCbNpHMS5zn21oCrnM4O0X7hdTEd+5lojKX?=
+ =?us-ascii?Q?HtZ2LYYdRntl/nHwPegcKhrCGyTgQ+DhpHof/godbRDckWuMDp+IU6yu7HiK?=
+ =?us-ascii?Q?/tcZ8PP+AJ2rUi4JRnkAkhVXkrWyylblSaCtrymxkuXtLBLYqotnzyOpoDk/?=
+ =?us-ascii?Q?LAbGbuwkCtKjxlBd8ETm4Uh7pVy1EM840gzOcm74Ih6BR7wGnF3Hf0DuMtSV?=
+ =?us-ascii?Q?ztW+XhHEodIBXm/Kp+yeC/OPAQwhPBAPIwkIEuJqtll5Fq+UIFAzJN3sojCF?=
+ =?us-ascii?Q?x2G4C/LlMD93l3oHTazUf6pDeDNErz1zYoXHwcTLEtVkE0wx34/RB16UEeJK?=
+ =?us-ascii?Q?GDNb+JAERO/f+d8xQ3bMyDXpaHPd3RuCDOomKSa8RTtr9vBaywt8+JtQYtYp?=
+ =?us-ascii?Q?lwjXPEiNOG6VaEThtS9KHEytMqRNmL5AtlLh83qdn0bxuvi3oine5CCLTGK1?=
+ =?us-ascii?Q?YKckLe8PyM3/sqlf/jjWqOrQehxdPSnu9giflS4iL+ZlTMsuYdo48Myb6+gk?=
+ =?us-ascii?Q?Ic+0NYXS7VxbblYZbN66WXyG4PwkvT19l/k613qllgjCZ0dlDGPM5hhqAAC2?=
+ =?us-ascii?Q?nTR8HCHNm0Y2/PE3cg73bw98qxqUn4fHtdfyb9UXfi6CSrsCm57hAEz2ylHh?=
+ =?us-ascii?Q?yJG0YSkCe/bCywjRSKMoXd5WJT4KRdGVZYVmvs+RnZVt4KbdophkXZWEZ37u?=
+ =?us-ascii?Q?UvwQRark6gCTTHaPbty3w2B2JoJke2oOvyVTk04bkKfUFQGtOBsEDRse3WY7?=
+ =?us-ascii?Q?QfYQTXCgLDRg6o5yNDrNK9ebGWKtVh9MgVHJE4kxe7vI7tCSqXjkqdT5smTW?=
+ =?us-ascii?Q?aXoUSFonX1glXqUJHyofzfoNtj1WIUA/yA5UfhEr5DLfB7+UbcBLf2WHXgN6?=
+ =?us-ascii?Q?WvAMESva3WN/rNr0yQxjaIdxVB7LD1nu6PX+x0N4cPOedrMtvdMZDzvuJuv8?=
+ =?us-ascii?Q?tT59gVqQaTLytfWyO/9OKJRGmIb3XNTmkX8WW+XjS20eldPPlInVlOlnbmLL?=
+ =?us-ascii?Q?DNnwhO3vt96VHIQJolo5TvcUQloif3v4pF/sf8ldu5FRVrvUgsrAKouOHk1O?=
+ =?us-ascii?Q?qpY8zfOo/knlzIsyqbGKGwqiF7zc3UmqK2qehqnwPksiLuY8ecEcWxsvuMej?=
+ =?us-ascii?Q?Hm1kmO9F/DewT+TwRMtktqkiH5cCXvyhBf3uWgeD0nKyAQdNDEV1METuVSMb?=
+ =?us-ascii?Q?yia+RRvw7Yj46cqzchlHw7CuFWsoIc+HGNR8v/qUs5xf7xOu6amUGpfqSFGa?=
+ =?us-ascii?Q?BYD6Ij8x5aefC5uRQN4QSH1AJukrKxQVo+WtmXIdLWy11p8X0ki0c3WNMXFg?=
+ =?us-ascii?Q?fR4ZeHOCxHl35yvY/S1FnYyCPAv67HS81I2k79cCp6CdZmJpg3TfrjMdATXL?=
+ =?us-ascii?Q?+R7OSlG6fjyC3/nMQaIWMKLCAzfxUmNZmmwRY9gsMUVlfwvgbhFO0mrV50tm?=
+ =?us-ascii?Q?NxqMthtmvKH0l7b0j+n7glQMC+5gMjJngLJCcBqu5VEeThyS7TaBPZWfyths?=
+ =?us-ascii?Q?pEFTuM3OKbCI03ecMvcFi3y4jQcnm3LAli8QqLxoYuh9t7pnkb+AMHKuws+p?=
+ =?us-ascii?Q?70V+bWgbQPM9REeyPSViSzb+iD1yZpstcPqDK/WVh3D2QMb+easTQf/O6CLn?=
+ =?us-ascii?Q?G5k7PfqEishxlozRGiEog7+SfJWLdWDdWdoiqXY8y1HX03Tta3xMgHbN+8Gv?=
+ =?us-ascii?Q?g57hzmCQ4apqFnbEBjw+wQMhA/VYKcM3mbz0PZNRVFmOFW0WJIsYLLyCPfXi?=
+ =?us-ascii?Q?kKvEbqWSROuUvWU9k8QAVu/MEMV7TI6Bakn4e0DIxEiLaeX61VAOf7vHJys+?=
+ =?us-ascii?Q?qYsWeEqfE08SBmBxP8sPCRHGhZWOnOih8eIzs3gERerBBIpCkNo33kUJi/xO?=
+ =?us-ascii?Q?GKv8qjm61kvu+xx4MX58+9dAQU9UjTOo0TKdsFA7bSKIyD1WAbrjSWYXA7Wa?=
+ =?us-ascii?Q?AQe9ZfWsNrf7sL3mXQGx36EAArbtXUsW/UsxPZDA6zGontp4s/NupKY8Vw8v?=
+ =?us-ascii?Q?FLG3?=
+X-Forefront-Antispam-Report-Untrusted: CIP:130.216.95.208;CTRY:NZ;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:NSPM;H:uxcn19-ogg-a.UoA.auckland.ac.nz;PTR:natgate1-1.auckland.ac.nz;CAT:NONE;SFS:;DIR:INB
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY0P300MB0481
+Reply-To: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
+X-Loop: all-staff@list.auckland.ac.nz
+X-Sequence: 582
+Errors-to: all-staff-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: all-staff-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <all-staff.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/all-staff>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:all-staff-request@list.auckland.ac.nz>
+List-Post: <mailto:all-staff@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20all-staff>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20all-staff>
+X-Mimecast-Spam-Score: 0
+X-Mimecast-Originator: auckland.ac.nz
+Content-Language: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_SY7PR01MB80806E1F5F9806B862752240DC362SY7PR01MB8080ausp_"
+Return-Path: all-staff-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 25 Mar 2024 23:02:45.9050
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 2e92924c-0046-4281-308f-08dc4d1faf3c
+X-EOPTenantAttributedMessage: d1b36e95-0d50-42e9-958f-b63fa906beaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-SkipListedInternetSender: ip=[130.216.125.250];domain=uoasmtpprd01.its.auckland.ac.nz
+X-MS-Exchange-ExternalOriginalInternetSender: ip=[130.216.125.250];domain=uoasmtpprd01.its.auckland.ac.nz
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: HK3PEPF0000021D.apcprd03.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id-Prvs: ee65d136-d8cf-433a-2980-08dc4d1f937a
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report: CIP:103.96.20.101;CTRY:NZ;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:NSPM;H:uoasmtpprd01.its.auckland.ac.nz;PTR:uoasmtpprd01.its.auckland.ac.nz;CAT:NONE;SFS:;DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Mar 2024 23:02:45.4518
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 2e92924c-0046-4281-308f-08dc4d1faf3c
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-AuthSource: HK3PEPF0000021D.apcprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MEUP300MB0058
+X-MS-Exchange-Organization-AuthSource: HK3PEPF0000021D.apcprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.7185321
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7409.026
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?windows-1257?Q?yEOH02fwfmkH80h/h4UQ99y+hj4YbAT1/RrYEyERcL6/ZIASB2zWvMwn?=
+ =?windows-1257?Q?dhHo7gLeRY7aFd/7k8DBqGzJDTwt1H4pc+VFPmwPmDodiDoIN0MwypOu?=
+ =?windows-1257?Q?Clw8b0rwtBjUc9NYY8ls7v3nEanNv7OkTSsX6F8KxlCh8JpaJTxfbzXp?=
+ =?windows-1257?Q?n6mK03IjtvP2WYVtWTjrUduECx+36NfgkfQMvzcXx30VfgeAN45k1goc?=
+ =?windows-1257?Q?1oTCcfoIn9AGp1bgGfs+6Kyqnge+6/YtjcxN9TTrEfx9wwGdFQfdnozN?=
+ =?windows-1257?Q?riSvaol2hrf4pzlwywTWUxT2T235xjU2EGYSCDCrQ2AGyB8wwtwswLy6?=
+ =?windows-1257?Q?b4Af7rMgfIJDn+eNt0L3fLPNUoQ4k/siRMR9zA97HNwB5p9QGMokJup4?=
+ =?windows-1257?Q?SlrI9X7t2qgu8THrURYAa7JpSi7JrTdaAl1fyXCql+o1BbbohPNr5JXz?=
+ =?windows-1257?Q?Cvglfmmw1U7o24UjYDrfhztdGvoi3EkbXISnH6GB0XQxELed0bO1H354?=
+ =?windows-1257?Q?8XF3CX3wR7f4Kg5w92D8BrqFHf4MDQYQiqK75dTqblcjZ814fWoa2W4y?=
+ =?windows-1257?Q?WspRgrOMFiciAW7EQ8onpSv7/Lo396p17QuK5UzLgGr0NdYjJmWdqYcq?=
+ =?windows-1257?Q?SGAzFXC4PRJAE5tvoxkPqyQv8lb1ikB2M++N05jcZ44FM1qL7hJReraf?=
+ =?windows-1257?Q?26oyvtk13+jSyLH1StU+XomMRkQm6+Kuc3ZRVPMXwL29gVA4XPW/A1m9?=
+ =?windows-1257?Q?0gxVbWdd7Vy5cL8WrlXzRkzxd4Kydoi5zkAyFXYy8r73hbHtdt/muwO2?=
+ =?windows-1257?Q?n31nVnGtIMVNf11ZEatQLNzhWPVno9K6pizI9lpLAESstmRJCNTax2AL?=
+ =?windows-1257?Q?Sa2gnKlyXKz7Emk3rKM2OgE16s6Qdu+LCTL0L9D583JkLG8usllwZEEH?=
+ =?windows-1257?Q?hEboGj3cOG6U9fsHVKlAYL07BVyfWGYq09TZa8EWOEVf7yuZf4cnTpbm?=
+ =?windows-1257?Q?7zCjuTNHbbMqSqmHnruxHZamJEqwsoU5zejbMQJAUCs8htxItXbXmm1e?=
+ =?windows-1257?Q?85JbOuRfOtFbBJ050eEb7UoN1x5E+/l2jLOobuU0boKMByNc0Xj37WRl?=
+ =?windows-1257?Q?ANgy2fWD6TNMOZgV20ey/VLwT7mwNHvn3i7KgW833pXEKYlMR2M9kWfx?=
+ =?windows-1257?Q?7lVWOZXjW5bMz0zsIUuG1TBwWpOxuVCeLVy3hTI0uQZOrVFVoa4BSdbS?=
+ =?windows-1257?Q?+o2f00ny6+diHfxBbWsoK3zZiYtwQbDHcLzCO/cE8xmla8JCxy4ZlpvS?=
+ =?windows-1257?Q?n/xZgfTTBrHnN7/fpWZ1LbX0SOETsoUYB0o5sB33Pz3EQT0R2vkIGK9o?=
+ =?windows-1257?Q?Xc7FJVyLy0MzJuVc/vo/JmzYFW1ubudL26DXuI3hCgzRPcaRPX0b6RYi?=
+ =?windows-1257?Q?xR6MGSum7FLjWmYcjb/cV447m7VuosisGpcpVJcuDQKufx2dsPNoFz+A?=
+ =?windows-1257?Q?WpKbKUNO/YfJZ9Ajx5oL9e5X8mQ9ng177B80+AL3ubnPtDQBtmvpc8+/?=
+ =?windows-1257?Q?mtxRKnUshybMgBlx9Vk/GrGMv13YpPB8REiOWUz70uZcoNrxvMVLSkyO?=
+ =?windows-1257?Q?6SQ=3D?=
+MIME-Version: 1.0
+
+--_000_SY7PR01MB80806E1F5F9806B862752240DC362SY7PR01MB8080ausp_
+Content-Type: text/plain; charset=WINDOWS-1257
+Content-Transfer-Encoding: quoted-printable
+
+Kia ora koutou
+
+
+
+I hope you are enjoying these pleasant Autumn days and the energy across ou=
+r campuses as we settle into the rhythm of 2024.
+
+
+
+Proposed new faculty arrangements
+
+Over the past two days, I have met with academic and professional staff in =
+four of our faculties to discuss a proposed change to the alignment of our =
+faculties, which I would like to share with you.
+
+
+
+The proposal, which has been developed by a working group comprising leader=
+s of the faculties directly involved, is to establish an entirely new facul=
+ty that combines the Faculties of Arts, Education and Social Work, and part=
+s of Creative Arts and Industries (i.e. the Elam School of Fine Arts, Schoo=
+l of Music, and Dance Programme). It is proposed that the School of Archite=
+cture and Planning and the Design Programme would be aligned with either th=
+e Faculty of Engineering or the proposed new faculty.
+
+
+
+The decision to propose this change follows the University=92s prudent fina=
+ncial management during the early months of the Covid-19 pandemic. This ens=
+ured a stable financial position for the University and has enabled Univers=
+ity leaders to proactively consider how best to shape the institution for t=
+he future, responding not only to our strategy, but also to the external en=
+vironment.
+
+
+
+In this sense, the proposed change reflects the University=92s strategic go=
+als and offers an opportunity to increase collaboration across and within f=
+aculties, enhance the scale and concentration needed for future success and=
+ build on our excellence in teaching and research in those areas. It would =
+also enable greater experiential learning opportunities and provide access =
+to a wider variety of courses and subjects for our students.
+
+
+
+It is proposed that the new faculty would begin operating in January 2025.
+
+
+
+We are inviting feedback from staff and students on the proposal via an onl=
+ine form<https://auckland.au1.qualtrics.com/jfe/form/SV_6olpVs826xcPZsi> th=
+at will be open until 5pm on Tuesday 23 April. You can find out more about =
+the proposal and its rationale, and download the Proposal Document, on the =
+Notice page here<https://www.auckland.ac.nz/en/news/notices/2024/proposed-n=
+ew-faculty-arrangements.html>, and in the detailed staff FAQs<https://www.s=
+taff.auckland.ac.nz/en/news-events-and-notices/notices/notices-2024/quarter=
+-1/proposed-new-faculty-arrangements.html>.
+
+
+
+All-staff forum, Wednesday 27 March
+
+I hope you can join us at midday tomorrow for this month=92s all-staff foru=
+m, in which we will discuss the faculty proposal (outlined above) and at wh=
+ich Tim Bluett, Chief Financial Officer, will provide a summary of our 2023=
+ financial results.
+
+
+
+Ng=E2 mihi nui
+
+Dawn
+
+
+
+Professor Dawn Freshwater
+
+Vice-Chancellor
+
+--_000_SY7PR01MB80806E1F5F9806B862752240DC362SY7PR01MB8080ausp_
+Content-Type: text/html; charset=WINDOWS-1257
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#467886;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:11.0pt;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-NZ" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif">Kia ora koutou<o:p></o:p></=
+span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p=
+>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-language:EN-US">=
+I hope you are enjoying these pleasant Autumn days and the energy across ou=
+r campuses as we settle into the rhythm of 2024.
+<o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p=
+>
+<p class=3D"MsoNoSpacing" style=3D"mso-margin-top-alt:0cm;margin-right:0cm;=
+margin-bottom:6.0pt;margin-left:0cm">
+<b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-ser=
+if">Proposed new faculty arrangements<o:p></o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif">Over the past two days, I h=
+ave met with academic and professional staff in four of our faculties to di=
+scuss a proposed change to the alignment of our
+ faculties, which I would like to share with you. <o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p=
+>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif">The proposal, which has bee=
+n developed by a working group comprising leaders of the faculties directly=
+ involved, is to establish an entirely new faculty
+ that combines <span style=3D"letter-spacing:-.15pt">the Faculties of Arts,=
+ Education and Social Work, and parts of Creative Arts and Industries (i.e.=
+ the Elam School of Fine Arts, School of Music, and Dance Programme). It is=
+ proposed that the School of Architecture
+ and Planning and the Design Programme would be aligned with either the Fac=
+ulty of Engineering or the proposed new faculty.<o:p></o:p></span></span></=
+p>
+<p style=3D"margin:0cm"><span style=3D"font-size:11.0pt;font-family:&quot;C=
+alibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p style=3D"margin:0cm"><span style=3D"font-size:11.0pt;font-family:&quot;C=
+alibri&quot;,sans-serif">The decision to propose this change follows the Un=
+iversity=92s prudent financial management during the early months of the Co=
+vid-19 pandemic. This ensured a stable financial
+ position for the University and has enabled University leaders to proactiv=
+ely consider how best to shape the institution for the future, responding n=
+ot only to our strategy, but also to the external environment.<o:p></o:p></=
+span></p>
+<p style=3D"margin:0cm"><span style=3D"font-size:11.0pt;font-family:&quot;C=
+alibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p style=3D"margin:0cm"><span style=3D"font-size:11.0pt;font-family:&quot;C=
+alibri&quot;,sans-serif">In this sense, the proposed change reflects the Un=
+iversity=92s strategic goals and offers an opportunity to increase collabor=
+ation across and within faculties, enhance the scale
+ and concentration needed for future success and build on our excellence in=
+ teaching and research in those areas. It would also enable greater experie=
+ntial learning opportunities and
+<span style=3D"letter-spacing:-.15pt">provide access to a wider variety of =
+courses and subjects for our students.
+</span><o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif;letter-spacing:-.15pt"><o:p>=
+&nbsp;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif;letter-spacing:-.15pt">It is=
+ proposed that the new faculty would begin operating in January 2025<span s=
+tyle=3D"color:#0D3C26">.<o:p></o:p></span></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif;letter-spacing:-.15pt"><o:p>=
+&nbsp;</o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif;letter-spacing:-.15pt">We ar=
+e inviting feedback from staff and students on the proposal
+</span><a href=3D"https://auckland.au1.qualtrics.com/jfe/form/SV_6olpVs826x=
+cPZsi"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans=
+-serif;letter-spacing:-.15pt">via an online form</span></a><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;letter-spacing:-=
+.15pt">
+ that will be open until 5pm on Tuesday 23 April. You can find out more abo=
+ut the proposal and its rationale, and download the Proposal Document, on t=
+he
+</span><a href=3D"https://www.auckland.ac.nz/en/news/notices/2024/proposed-=
+new-faculty-arrangements.html"><span style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif;letter-spacing:-.15pt">Notice page here</spa=
+n></a><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-=
+serif;letter-spacing:-.15pt">,
+ and in the </span><a href=3D"https://www.staff.auckland.ac.nz/en/news-even=
+ts-and-notices/notices/notices-2024/quarter-1/proposed-new-faculty-arrangem=
+ents.html"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,=
+sans-serif;letter-spacing:-.15pt">detailed staff
+ FAQs</span></a><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&q=
+uot;,sans-serif;letter-spacing:-.15pt">.<o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p=
+>
+<p class=3D"MsoNoSpacing" style=3D"mso-margin-top-alt:0cm;margin-right:0cm;=
+margin-bottom:6.0pt;margin-left:0cm">
+<b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-ser=
+if">All-staff forum,&nbsp;</span></b><b><span lang=3D"EN-US" style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">Wednesday 27 March<=
+/span></b><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot=
+;,sans-serif"><o:p></o:p></span></b></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif">I hope you can join us at m=
+idday tomorrow for this month=92s all-staff forum, in which we will discuss=
+ the faculty proposal (outlined above) and at which
+ Tim Bluett, Chief Financial Officer, will provide a summary of our 2023 fi=
+nancial results.<o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p=
+>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif">Ng=E2 mihi nui<o:p></o:p></=
+span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif">Dawn<o:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p=
+>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif">Professor Dawn Freshwater<o=
+:p></o:p></span></p>
+<p class=3D"MsoNoSpacing" style=3D"margin:0cm"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif">Vice-Chancellor<o:p></o:p><=
+/span></p>
+</div>
+</body>
+</html>
+
+--_000_SY7PR01MB80806E1F5F9806B862752240DC362SY7PR01MB8080ausp_--

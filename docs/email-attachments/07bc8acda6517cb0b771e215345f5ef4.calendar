@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:New Zealand Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T030000
+TZOFFSETFROM:+1300
+TZOFFSETTO:+1200
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=1SU;BYMONTH=4
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:+1200
+TZOFFSETTO:+1300
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=9
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Dawn Freshwater:MAILTO:vice-chancellor@auckland.ac.nz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=FALSE;CN=all-staff
+  Mailing List:MAILTO:all-staff@list.auckland.ac.nz
+DESCRIPTION;LANGUAGE=en-US:Focus: Updates on the New Faculty and Recreation
+  Centre Opening\n\nNote: To join the Vice-Chancellor’s All Staff Forum\,
+  you must have the Zoom client installed on your chosen device and be sign
+ ed into the Zoom client using your University username and password.\nInst
+ ructions are available here: https://uoaprod.service-now.com/sp?id=kb_arti
+ cle&sysparm_article=KB0015207\n\nPlease click the link below to join the w
+ ebinar:\nhttps://auckland.zoom.us/j/93683428555?pwd=aGJJZlhXR00vY1N5Qkl6Rm
+ 4wKzh5Zz09\n\nPasscode: 091287\n\nOr One tap mobile :\n    +6498846780\,\,
+ 93683428555# New Zealand\n    +6436590603\,\,93683428555# New Zealand\n\nO
+ r Telephone:\n    Dial(for higher quality\, dial a number based on your cu
+ rrent location):\n    +64 9 884 6780 New Zealand\n    +64 3 659 0603 New Z
+ ealand\n    +64 4 886 0026 New Zealand\n\nWebinar ID: 936 8342 8555\n    I
+ nternational numbers available: https://auckland.zoom.us/u/aepCw3NcJD\n\n\
+ n
+UID:040000008200E00074C5B7101A82E00800000000902221811626DB01000000000000000
+ 01000000004B2DEA62C43054EA2BD73FA1C2C7270
+SUMMARY;LANGUAGE=en-US:Vice-Chancellor's All Staff Forum
+DTSTART;TZID=New Zealand Standard Time:20241030T120000
+DTEND;TZID=New Zealand Standard Time:20241030T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20241024T002000Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Zoom Webinar
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:-333928472
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

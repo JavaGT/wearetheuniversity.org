@@ -1,0 +1,320 @@
+Received: from MEUP300MB0221.AUSP300.PROD.OUTLOOK.COM (2603:10c6:220:21c::13)
+ by SY8P300MB0135.AUSP300.PROD.OUTLOOK.COM with HTTPS; Thu, 11 Apr 2024
+ 02:38:39 +0000
+ARC-Seal: i=2; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=pass;
+ b=Zpzt1YgZNkFBF9Tvju4h4gMpD1rzUYN6XL4x/JxrZB7d8MUm087WgHt61c0DKJel5m/LtorYNENMZx7aObkVugCzKDt4qpaP0ja8wx3sQ4+rsSSG3V6K9MtlmCona8M+mAPjKfrvJp2bjV+iTMzNPfXoChMIoYuT1a6viPP8zORgwB8dfUUiIVVU235ovIEtW0e4FxW9suF8CuGrnYZXItpBlXUkq/BDaZXXXfRsD0zXkXGTImYV2uZxtdE4dxxOmVLSB7KFjlMi4AGJPisVhdiMn1vrrFWi9ItpLo61C/VRMdDmbwx0+hZHEP3Cau9ljY3VHEPoBL1vwradygvxkw==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=z5yc3VaUoZbFc4XJgEalWmoIeKSyL/zuMkcGV3V2nc4=;
+ b=DUKAKO+yUL1wPxPy/zWFseZMNJTRiznMPYuiA0W58c0d1CEp28s42aH48IHVl8/CBUrDRl+Grneo0IwxL0yqH1FDyChkyNGny2YcFLnH8LVZ6Za5wtXLL/M1RPE80jSw0/EmZ97mSa3LHz6v9PGDLSPieBKTf0tObjdkiDQxNdl7l9Mxl+cg1aug5zM8lWrD2C/AsoRXrJQXNBAyAnOitMcvd6J2GA7ogXvyFPL0cECS6JYTj/I/Hn+JRX19BU///NIu9WG4cH0c+b+YmAaL+DltXYW45duJd3Cs3Cw0lgLNmBO01uOjmQF3zxi7vhAXpBCQFwWV+F0OH0vhYchQKw==
+ARC-Authentication-Results: i=2; mx.microsoft.com 1; spf=pass (sender ip is
+ 192.29.144.165) smtp.rcpttodomain=auckland.ac.nz smtp.mailfrom=rnmk.com;
+ dmarc=fail (p=none sp=none pct=100) action=none header.from=auckland.ac.nz;
+ dkim=fail (body hash did not verify) header.d=auckland.ac.nz; arc=pass (0
+ oda=0 ltdi=0 93)
+Received: from SI2PR04CA0017.apcprd04.prod.outlook.com (2603:1096:4:197::15)
+ by MEUP300MB0221.AUSP300.PROD.OUTLOOK.COM (2603:10c6:220:21c::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7472.10; Thu, 11 Apr
+ 2024 02:38:37 +0000
+Received: from SG2PEPF000B66C9.apcprd03.prod.outlook.com
+ (2603:1096:4:197:cafe::de) by SI2PR04CA0017.outlook.office365.com
+ (2603:1096:4:197::15) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7452.36 via Frontend
+ Transport; Thu, 11 Apr 2024 02:38:36 +0000
+Authentication-Results: spf=pass (sender IP is 192.29.144.165)
+ smtp.mailfrom=rnmk.com; dkim=fail (body hash did not verify)
+ header.d=auckland.ac.nz;dmarc=fail action=none
+ header.from=auckland.ac.nz;compauth=fail reason=601
+Received-SPF: Pass (protection.outlook.com: domain of rnmk.com designates
+ 192.29.144.165 as permitted sender) receiver=protection.outlook.com;
+ client-ip=192.29.144.165; helo=rntsd65.rnmk.com; pr=E
+Received: from au-smtp-inbound-delivery-1.mimecast.com (103.96.20.101) by
+ SG2PEPF000B66C9.mail.protection.outlook.com (10.167.240.20) with Microsoft
+ SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.7452.22
+ via Frontend Transport; Thu, 11 Apr 2024 02:38:36 +0000
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=dkim.mimecast.com; s=201903; t=1712803115;
+	h=from:from:reply-to:reply-to:subject:subject:date:date:
+	 message-id:message-id:to:to:cc:mime-version:mime-version:
+	 content-type:content-type:
+	 content-transfer-encoding:content-transfer-encoding:list-unsubscribe:
+	 dkim-signature; bh=z5yc3VaUoZbFc4XJgEalWmoIeKSyL/zuMkcGV3V2nc4=;
+	b=Ea9P25c9i0vYY9BnSUUobGg/yLWfDurb8bx+za+GmpdfH+IWVcj4wRl9JhqKeD1dTH3GyN
+	/xhyXv5fCH/B9QAMAOexdjBIXQ7HxakIUIloCbwf/EMlBhEcR/RQ00ualE0yK/zjELEP+D
+	qBrNw+ApGj7FQ1DXCThWqzMFXqet2lu82tJXRx5zWemoST9OxSOAtuNwbxemCcqq/mIrzA
+	oMo9Y9yGvlhZYktgFKEPMLkiR5D8uejhWhxaDZoDdUYTss7TxQfQwfAjW8VQrbzxfQi187
+	KXZZWnirY7XSZG4idnzzKtkI1CErytJzGLs5FHo6xTebnYz2sy4XSoSXwt2fwQ==
+ARC-Seal: i=1; s=201903; d=dkim.mimecast.com; t=1712803115; a=rsa-sha256;
+	cv=none;
+	b=gWiMRTf6UYG4GKwXZOvBgMI5JmUv0et02mFPkMFfv6jVGtYzVIcevNoK5Ba/Aooywh6l60
+	IBMwQRTngIY4ldfHFxhbDGgoOw/hPuXjUFJtWq7LzmneoYP7D6MpvgTOnsCvk3XhErOe7S
+	9Xc5mCIRAfy0qF4Ft7/+iBF7dWoabYr5OQuMl3t0l7nDk0aPu4vl73QkTHecrxDMXDeniA
+	TSHw8aKN31GHtqubjHB66AdRs7CyW6ndMJgi5vHDXVhWnIxgihZhqgvxr1QEvy0oxTDYyP
+	+pvKuYGvoQP2kL7gOecozH/NgplE2oe5l/+5EvGbgxDX8nzx/xFn+O7jlX7iYw==
+ARC-Authentication-Results: i=1;
+	relay.mimecast.com;
+	dkim=pass header.d=auckland.ac.nz header.s=dkimrnt30191 header.b=VtJT93tM;
+	dmarc=pass (policy=none) header.from=auckland.ac.nz;
+	spf=pass (relay.mimecast.com: domain of uoa_mktg@rnmk.com designates 192.29.144.165 as permitted sender) smtp.mailfrom=uoa_mktg@rnmk.com
+Authentication-Results-Original: relay.mimecast.com;	dkim=pass
+ header.d=auckland.ac.nz header.s=dkimrnt30191 header.b=VtJT93tM;	dmarc=pass
+ (policy=none) header.from=auckland.ac.nz;	spf=pass (relay.mimecast.com:
+ domain of uoa_mktg@rnmk.com designates 192.29.144.165 as permitted sender)
+ smtp.mailfrom=uoa_mktg@rnmk.com
+Received: from rntsd65.rnmk.com (rntsd65.rnmk.com [192.29.144.165]) by
+ relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ au-mta-109-F2VPa3xoMsuUv6ki8ec30w-7; Thu, 11 Apr 2024 12:38:32 +1000
+X-MC-Unique: F2VPa3xoMsuUv6ki8ec30w-7
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkimrnt30191; d=auckland.ac.nz;
+ h=MIME-Version:Message-Id:To:Date:Subject:List-Unsubscribe:From:Reply-To:
+ Content-Type:Content-Transfer-Encoding; i=studentinfo@auckland.ac.nz;
+ bh=4AkR3qeUtiwr6bF4V1m5MrKDS5I=;
+ b=VtJT93tMKPPGEHPQt3ZD2OS/H7AugEJ/vAI51kR836PSWCqX2rqkf7TxlxOEdr1JsKlKPKu8GfIK
+   rEEj6LNNRoXLkH/JmN2SW8IxkcJOQi2NCb+q87OxCtRRZgfuMCQwc2rv0oN+nfvlFGzZyJdTF4eV
+   SsEEQC9MJI+esnAFFaA=
+Received: from rnmdsd01.int.rightnowtech.com (10.144.0.90) by rntsd65.rnmk.com id h2t6ig35r6ct for <>; Thu, 11 Apr 2024 12:31:42 +1000 (envelope-from <uoa_mktg@rnmk.com>)
+Message-Id: <RNTM.AvN_~wpzDv8S~xb~Gv_U~yKvlaoqdR37ufTPSz7~Pv8G.0.1712802688.3BU9.870824@rnmdsd01.int.rightnowtech.com>
+To: 
+Date: Thu, 11 Apr 2024 14:31:28 +1200 (NZST)
+Subject: Vice-Chancellor's update | Thursday 11 April
+List-Unsubscribe: <mailto:studentinfo@auckland.ac.nz?subject=Unsubscribe AvN_~wpzDv8S~xb~Gv_U~yKvlaoqdR37ufTPSz7~Pv8G>
+From: "University of Auckland" <studentinfo@auckland.ac.nz>
+Reply-To: "University of Auckland" <studentinfo@auckland.ac.nz>
+X-Mimecast-Spam-Score: 0
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Return-Path: uoa_mktg@rnmk.com
+X-MS-Exchange-Organization-ExpirationStartTime: 11 Apr 2024 02:38:36.5481
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 3fcca614-63c5-4ce7-811b-08dc59d07d07
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: d1b36e95-0d50-42e9-958f-b63fa906beaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-SkipListedInternetSender: ip=[192.29.144.165];domain=rntsd65.rnmk.com
+X-MS-Exchange-ExternalOriginalInternetSender: ip=[192.29.144.165];domain=rntsd65.rnmk.com
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: SG2PEPF000B66C9:EE_|MEUP300MB0221:EE_|SY8P300MB0135:EE_
+X-MS-Exchange-Organization-AuthSource: SG2PEPF000B66C9.apcprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: 3fcca614-63c5-4ce7-811b-08dc59d07d07
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report: CIP:103.96.20.101;CTRY:AU;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:NSPM;H:rntsd65.rnmk.com;PTR:rntsd65.rnmk.com;CAT:NONE;SFS:(13230031)(82310400014)(4143199003);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 11 Apr 2024 02:38:36.2512
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 3fcca614-63c5-4ce7-811b-08dc59d07d07
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-AuthSource: SG2PEPF000B66C9.apcprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MEUP300MB0221
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.1495802
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7472.007
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?dGNZMmlSSDduNWJlU2U3WHg3MmUrblBqTTliZm5NcXVWQWpFNHFGdTFQSkFX?=
+ =?utf-8?B?TGpiNS9jQVp3YWRRSVFGU3crN2pSZExrNnZFYm41TXZDWlZqcTkzZENYekk1?=
+ =?utf-8?B?MjVDUFpaRURXL05EUGJwYVFoTHNkb3dyNmIwanBxdFBOMTNqMjFoWjVrSVV4?=
+ =?utf-8?B?dUYxd2dIeTNWOU5seVVPREgxNmdTSU55ZWNBcnE0VTRERWFzbU5NcVlPeUcz?=
+ =?utf-8?B?TGdpenFEMW92bDRCRUt5YXlBaURjbWd2Qm9SbUh3UVg3RG5Da3BvQkc5Y1o2?=
+ =?utf-8?B?ajZ3Z1ZBeEhBMHByV0UzY01jbENPTVNJWi85WGROVlN1WjNralNEb2l0RkxB?=
+ =?utf-8?B?eDVDQVI3QkMvWis4bC9GM0d5dUoxQXpIb21WRXVicDlyOW1kbXI4MXJiT09w?=
+ =?utf-8?B?cEZqemZXK01IdnZ5am9iY1NDaXpsdHBSNVdDeU5sZXBDZ2pnbUxjSzhHeU1P?=
+ =?utf-8?B?R2hmQm9HSlI5V1h4bnBpWGdsbjJKNHNoUDRhTnBCTGwvUlY4SXJ0T2EwYkhZ?=
+ =?utf-8?B?azdvbmNHNWhjcG9DY0c3bnBLTnpCZVVjYVZwaTZzNHp5aXg4M2M4YVZsS2Jl?=
+ =?utf-8?B?MEIzSzlWOElhYm8rQkxFRFBMSzdac21oU2VEMVZ1MGFWOVlZaktYVDhobjdS?=
+ =?utf-8?B?S1RGRjdCdHplTk1BQ29xdXlzK2FJV0hHb3pFOEhkY0lSUjluOXRhZmxIUXBP?=
+ =?utf-8?B?TGJOcjlzMklCZm5DaVplNzJid1NFWGc1YktadnpENWFDYzcrNlVTU3Nyc0xS?=
+ =?utf-8?B?enhtWW0xK0Y4UHlrblNUZ3NkbVlXY0VSK0tTNjVCblJmZUhycjc2T0l3TkVx?=
+ =?utf-8?B?STBZVUgwSWlBYys2Um1rZnh3MHpsS1hwZlFiaGM5ZDhURzYyUkhXcmNaM1Bz?=
+ =?utf-8?B?cDRHNC85TFhNbnFCVFRQNHhXak5pQVpaRzZuTlVDRHNNODlSUSthQTRxbzg5?=
+ =?utf-8?B?YUVXQklnNXhSMnpoQjJ2OW5HOVpLcHJLTWQ3UXVGR3FXWWltUWhsMmdXTWd6?=
+ =?utf-8?B?cEhsdWdsTGlOZmtoSjRYMG50eTV4MFlNaks2TVRIMzN4KzZ6K3hwdUVQa2cy?=
+ =?utf-8?B?RGVpMmVyR01PS3FFQUhmeWwwK0hlRlo2d1ptZUVKMFcrQ1o4QTZ6LzFJMVNM?=
+ =?utf-8?B?SEpabmlXcTFNUGZPVjVPczhwYnJvRGRkMzZiSDRxRkpyTnYxTERQeTdCVHN5?=
+ =?utf-8?B?RDl6RzlmYjRaT3JTRmpRcUNDSWs5cVhlcFVkWXFMQW04dFJPN1h4WlprSXJD?=
+ =?utf-8?B?ZjFMM2MwTWpXcFQ1elk0aGsrZGpTR29ha2pTeUJvbEpqSWNQQ21sQ2ZmQ0JY?=
+ =?utf-8?B?bG01NXY1TmVscGJWaExxV3hUTXlnUWRvQmVUalZhdVk5MUFzQWorSlFGWTZB?=
+ =?utf-8?B?ZnBoN2JoZ1VCeGUvRlZQSlV2ME53RWtUU3Q5S0hUdnhjYjlPQ1I4aDUwdWZE?=
+ =?utf-8?B?eDI2SXU1Nk5GL2ZWbGZXdml1OUlqNmZwYzhRNlRBVTBxVWxPN2E1ZWh1TVdD?=
+ =?utf-8?B?K1R2b3U4cW9Fc3JaRUxNMlh6Z1dIMFZNR1M4Ukp4eExuazA0QmlkMnF4TTRE?=
+ =?utf-8?B?QVBZSGZLYVZUOC9wTkpjVVM0UjdJcVNRcFdXeVFVbTVDb2Z6MXlEMmViU3Vx?=
+ =?utf-8?B?TEFxQkdQVXlJNzZWM3VKcnFvSWRsQWtFWGNBbmRVNmNiMUdKVHhhQzlyT2Jy?=
+ =?utf-8?B?M2NuMnNnQURQUDBaMWQ0Q1pUOEhjcmVwUXRKRlFPMlptQkpqM2lIOUNNK0tw?=
+ =?utf-8?B?VWVBVXVWdjlSR2hMUmlvb1VTU0V5ZEZIVHdOVkV6TCtydllNdkVzZDIrN05D?=
+ =?utf-8?B?NHpBZEJtZElXcDZTRWlaOFAyRWpNaGtxcFJSN3IvUC9IZXZwblMwRFFSdnZK?=
+ =?utf-8?B?TndIVU13QUVYQlBRL3dvTXQwSDE3enhoc1FuWkx5dUMxdkZGMzY5MEVkQzRR?=
+ =?utf-8?B?NFp6SFRnbm1EQ2NheC9SUVYzL3ZDYkpMKzFHbmp4VXBneFNueVVMNFoxMVVM?=
+ =?utf-8?B?OWZqQWRBaXMwZ2wwellHM2k1cHNoRWozdkUvV3BmQUpYSmlvemFVbUJMM3Vm?=
+ =?utf-8?B?N2ZFR0xCOGFBN3JKT2xwRElmbzVDME14SFdoQ2ExZXFqSVFocXhQTWg3R3R0?=
+ =?utf-8?B?MUVxWWtyZGpZQkNjNlBRamFIZ2JWL3lpUUNTLy81TVhNY0UwQVM2MmM0MTZQ?=
+ =?utf-8?B?ajRsQm9vRmQ2TFE3cFlHTG9sM0Y3OUU5ZHJXbmJrWG5BMzBYVHdTalpGYThh?=
+ =?utf-8?B?Yjdxb0RFWU1aR0cycHFLWDdFd0x2TmdrNTh2Mjk4UnR0SlFFdzhRV3dBYmZM?=
+ =?utf-8?B?N0xnZUVQdnp6MDl0am1LWGZ0NmdTajNoUEp1U1Bod3R3QUNMSGZCVmdDUXhy?=
+ =?utf-8?B?by9GWmdkbW5ZZ3RYZ1dDdFZrY1l0aUNUY1Z0MTk4UVJiQ0M2ZWswcDduRnBB?=
+ =?utf-8?B?aE01MVphOU54N1Foam4rVjNqOS9ZRXRwMmRKY0gxUXNRUHU0ZHhMNS9aZmw5?=
+ =?utf-8?B?eGxSOFpJMFZLeU9MVjRlZkszVkwwSC9DZ0Mxd1I0K016TDhoZW4vbHpobjZG?=
+ =?utf-8?B?bHUwUXMxSk5Oa0NrK1JReENMTEZIbjF2TEdXd2F3L1dQMlVlL0VrZnFRdko5?=
+ =?utf-8?B?Z3lldmZHS2Z0TW5ZeDNMUFpaRGxZNkYrTW1PZDUzQWc1TDZYaDM3Q3RJaWpE?=
+ =?utf-8?B?TXN1VTFkQTVuSnpRaU8vWjlUbTVlNklhZk1MeFdDcTJjRUl5Ty9HcjJnVENs?=
+ =?utf-8?B?dGZzNFVaQW84YzNOVmwyVnJnOEpvQjFPSFhrVjhrLy8vWDdCWTFGMWJZS0N5?=
+ =?utf-8?B?UDN3M2NKK2RTMnpFYmZ0akpVRWhFRnRCUDdPRkFMQmR1REdWdnhVc3Q2ZnVI?=
+ =?utf-8?B?MFhST2NGU2dxQmZiQlhvaWtybVRxWHQxcElqLzJIVTE5bWM4WUUwUTFlY3Jy?=
+ =?utf-8?B?Nll2dURDNEpIcUEvRDZQeDYzN25rTWlTaE1WUVZ2WCtLb1JNVGtYQlp3YmZw?=
+ =?utf-8?B?STZxV1VrK1krYytlKzBoK1ZlUDFBNXBFZmhWL3ZQRTlveFcrVTdsVktaUHlY?=
+ =?utf-8?B?RnQzekR2ellhM0xnSGM5cm4vZitJN2dpVXdCMGNJa1RGVk1IYWtPN2lGcWJC?=
+ =?utf-8?B?MUJIdE1hcTIxcnR1cmdyZ2J5Q1prNU9pLythVVhNRk9QY05LdklXamN6ajNL?=
+ =?utf-8?B?bVVyZXB3ZkNVT3RjaWdSUk92L1FjOTR2NjBuc3dEaWtZZ256VlNJNVgxQVd6?=
+ =?utf-8?B?VzkrWUhmZHMvS2Nmc1FMeUordnNIOE9hUStJbGU0OTF1Wlo3eFRXaVBCTEVE?=
+ =?utf-8?B?aEd5Z0UrSUZNN3Q3ckh3QUNVTnpvSCtlZTF2enRYNWRwWjJFT2FEWGtnNG9K?=
+ =?utf-8?B?Q29zblloMnhMeVdKWjE4OU1XaSsrdzVpcHRjRWMwbkp5eGRGdkZ0aityMTlz?=
+ =?utf-8?B?VVBrRmxWM2hBM3l4S2FrYlduemY4R2xCTWJjd0IyL1ZNMkxnRFFVT1RSelZT?=
+ =?utf-8?Q?eOfjoMzZM/7upD9It0TVXoomrXrzdmsK8zM7dg=3D?=
+MIME-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=
+=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-microsoft-com:offi=
+ce:office" xmlns:rn=3D"http://schemas.rightnow.com/crm/document"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><t=
+itle></title>
+                                                                    =20
+</head>
+<body>
+
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#BDC5C=
+C">
+<tbody>
+<tr>
+<td>
+<p>&nbsp;</p>
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"700" align=3D"center">
+<tbody width=3D"700px" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td bgcolor=3D"#FFFFFF" height=3D"76" width=3D"700"><img alt=3D"Image" bord=
+er=3D"0" src=3D"http://media.auckland.ac.nz/rightnow/OfficialCommunications=
+/scc/updated-logo/updated-logo-1.png"></td>
+</tr>
+<tr>
+<td style=3D"WIDTH: 700px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIG=
+HT: 2px" bgcolor=3D"white" valign=3D"top" border=3D"0">
+<p style=3D"FONT-SIZE: 8pt; FONT-FAMILY: Verdana" align=3D"center">&nbsp;</=
+p>
+</td>
+</tr>
+<tr>
+<td style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; WIDTH: 700px; PADDING-T=
+OP: 5px; PADDING-LEFT: 25px; PADDING-RIGHT: 25px" bgcolor=3D"white">
+<p align=3D"center"><span style=3D"FONT-SIZE: 8pt; COLOR: #808080">This ema=
+il is&nbsp;intended for</span><span style=3D"FONT-SIZE: 8pt; COLOR: #808080=
+"></span> <span style=3D"FONT-SIZE: 8pt; COLOR: #80808=
+0">(Username:&nbsp;<span style=3D"COLOR: #808080"></span>).<br>
+If you received this email in error, please advise us by return email.</spa=
+n></p>
+<p style=3D"FONT-FAMILY: Verdana">Kia ora&nbsp;koutou,</p>
+<p style=3D"FONT-FAMILY: Verdana">It=E2=80=99s been an incredibly inspiring=
+ and positive week with the excellence of our community recognised in multi=
+ple ways and a new partnership formalised.</p>
+<p style=3D"FONT-FAMILY: Verdana; FONT-WEIGHT: bold">QS subject rankings</p=
+>
+<p style=3D"FONT-FAMILY: Verdana">We have continued to perform strongly in =
+the 2024 QS World University Subject Rankings, with ten subjects in the top=
+ 50 and 23 in the top 100. This is a significant achievement, and a testame=
+nt to the commitment to research and teaching excellence that our staff emb=
+ody. Thank you and well done. Learn more about the <a style=3D"TEXT-DECORAT=
+ION: underline" target=3D"_self" href=3D"https://url.au.m.mimecastprotect.c=
+om/s/B-biCyoj4JiW5kRLuZjBdD?domain=3Duoa.custhelp.com">University of Auckla=
+nd excels in 2024 QS subject rankings</a>.</p>
+<p style=3D"FONT-FAMILY: Verdana; FONT-WEIGHT: bold">Researchers with globa=
+l impact</p>
+<p style=3D"FONT-FAMILY: Verdana">Last night the University held the The Hi=
+kina kia Tutuki, Rise to the Challenge: Researchers with Global Impact even=
+t. This event recognises the achievement of our researchers who feature in =
+this year=E2=80=99s Clarivate and Elsevier highly cited researcher rankings=
+, and celebrates the global impact of their research and the benefits to so=
+ciety in Aotearoa New Zealand and globally. Congratulations to all those ac=
+knowledged. Discover more about how the <a style=3D"TEXT-DECORATION: underl=
+ine" target=3D"_self" href=3D"https://url.au.m.mimecastprotect.com/s/HJHSCz=
+vk8xtBo9A4sXQWLl?domain=3Duoa.custhelp.com">University applauds researchers=
+ with global reach and impact</a>.</p>
+<p style=3D"FONT-FAMILY: Verdana"><span style=3D"FONT-WEIGHT: bold">Taumata=
+</span><br>
+<br>
+Another inspiring event held last week was Taumata, celebrating our 2024 Di=
+stinguished Alumni Award winners. Five exceptional alumni were recognised a=
+nd we had the honour of hearing from each of them about their successes and=
+ the meaningful impacts they are making. Learn more about the achievements =
+of the <a style=3D"TEXT-DECORATION: underline" target=3D"_self" href=3D"htt=
+ps://url.au.m.mimecastprotect.com/s/pU1kCANpL9HoA2zEh9kBOt?domain=3Duoa.cus=
+thelp.com">Outstanding University of Auckland alumni honoured</a>. Also, br=
+owse through the event photos captured in the <a style=3D"TEXT-DECORATION: =
+underline" target=3D"_self" href=3D"https://url.au.m.mimecastprotect.com/s/=
+krdYCBNqMRHm5BO8hjHLeU?domain=3Duoa.custhelp.com">2024 Taumata - photo gall=
+ery</a>.</p>
+<p style=3D"FONT-FAMILY: Verdana"><span style=3D"FONT-WEIGHT: bold">Maori a=
+nd Pacific university entrance parity</span><br>
+<br>
+This morning we pledged our commitment to improving Maori and Pacific Unive=
+rsity Entrance (UE) pass rates by signing a Memorandum of Understanding wit=
+h 12 Auckland schools. Through this partnership we have agreed to take acti=
+on to increase success at a tertiary level to achieve UE parity for Maori a=
+nd Pacific learners by 2030.&nbsp;For further information, please see&nbsp;=
+<a style=3D"TEXT-DECORATION: underline" target=3D"_self" href=3D"https://ur=
+l.au.m.mimecastprotect.com/s/pnlKCD1vOJHml0k3hl1ltv?domain=3Duoa.custhelp.c=
+om">New approach to increase Maori and Pacific success</a>.</p>
+<p style=3D"FONT-FAMILY: Verdana; FONT-WEIGHT: bold">Policy consultation</p=
+>
+<p style=3D"FONT-FAMILY: Verdana">The revision to the Intellectual Property=
+ Created by Staff and Students Policy seeks to align the policy with our pu=
+rpose and values and the current national legislative context. For more inf=
+ormation, please see <a style=3D"TEXT-DECORATION: underline" target=3D"_sel=
+f" href=3D"https://url.au.m.mimecastprotect.com/s/LALkCE8wg6HG5MNpcQ5yNK?do=
+main=3Duoa.custhelp.com">Draft =E2=80=93 Intellectual Property Created by S=
+taff and Students Policy</a>.</p>
+<p style=3D"FONT-FAMILY: Verdana">The draft policy is open for consultation=
+ until 19 April 2024. To submit feedback, you can do so&nbsp;via the <a sty=
+le=3D"TEXT-DECORATION: underline" target=3D"_self" href=3D"https://url.au.m=
+.mimecastprotect.com/s/J-j9CGv0kQtl5GQAc18SLs?domain=3Duoa.custhelp.com">In=
+tellectual Property Created by Staff and Students Policy form</a>.</p>
+<p style=3D"FONT-FAMILY: Verdana">Ng=C4=81 mihi nui,</p>
+<p style=3D"FONT-FAMILY: Verdana">Dawn</p>
+<p style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; WHITE-SPACE: normal; WOR=
+D-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(66,66,66=
+); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: =
+normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-=
+ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0p=
+x; text-decoration-thickness: initial; text-decoration-style: initial; text=
+-decoration-color: initial"><span style=3D"FONT-WEIGHT: bold">Professor Daw=
+n Freshwater</span><br>
+Vice-Chancellor<br>
+Waipapa Taumata Rau | University of Auckland<br>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#00457D" height=3D"11" width=3D"700">
+<p style=3D"FONT-SIZE: 8pt; FONT-FAMILY: Verdana; COLOR: #ffffff" align=3D"=
+center">Copyright =C2=A9 The University of Auckland, Private Bag 92019, Auc=
+kland 1142, New Zealand</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt=3D"" height=3D"1" width=3D"1" style=3D"display: none" src=3D"https=
+://uoa.custhelp.com/rd/AvN_~wpzDv8S~xb~Gv_U~yKvlaoqdR37ufTPSz7~Pv8G.gif"> <=
+/body>
+</html>
+

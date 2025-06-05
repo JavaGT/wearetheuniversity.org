@@ -1,0 +1,581 @@
+Received: from SY4PR01MB6767.ausprd01.prod.outlook.com (2603:10c6:10:136::5)
+ by SYCPR01MB4863.ausprd01.prod.outlook.com with HTTPS; Wed, 15 Nov 2023
+ 05:50:45 +0000
+Received: from SI1PR02CA0006.apcprd02.prod.outlook.com (2603:1096:4:1f7::11)
+ by SY4PR01MB6767.ausprd01.prod.outlook.com (2603:10c6:10:136::5) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7002.17; Wed, 15 Nov
+ 2023 05:50:44 +0000
+Received: from HK2PEPF00006FB0.apcprd02.prod.outlook.com
+ (2603:1096:4:1f7:cafe::8c) by SI1PR02CA0006.outlook.office365.com
+ (2603:1096:4:1f7::11) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7002.18 via Frontend
+ Transport; Wed, 15 Nov 2023 05:50:43 +0000
+Authentication-Results: spf=pass (sender IP is 103.96.22.22)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=pass (signature was verified)
+ header.d=auckland.ac.nz;dmarc=pass action=none
+ header.from=auckland.ac.nz;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of list.auckland.ac.nz
+ designates 103.96.22.22 as permitted sender) receiver=protection.outlook.com;
+ client-ip=103.96.22.22; helo=au-smtp-inbound-delivery-1.mimecast.com; pr=C
+Received: from au-smtp-inbound-delivery-1.mimecast.com (103.96.22.22) by
+ HK2PEPF00006FB0.mail.protection.outlook.com (10.167.8.6) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7002.19 via Frontend Transport; Wed, 15 Nov 2023 05:50:42 +0000
+Received: from uoasmtpprd01.its.auckland.ac.nz
+ (uoasmtpprd01.its.auckland.ac.nz [130.216.125.250]) by relay.mimecast.com
+ with ESMTP with STARTTLS (version=TLSv1.3, cipher=TLS_AES_256_GCM_SHA384)
+ id au-mta-74-wxv5FspqNcmwm-LhFTOcpA-1; Wed, 15 Nov 2023 16:50:10 +1100
+X-MC-Unique: wxv5FspqNcmwm-LhFTOcpA-1
+Received: from sympa.auckland.ac.nz (lists.fos.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id 22E68802552;
+	Wed, 15 Nov 2023 18:50:00 +1300 (NZDT)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz 22E68802552
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=auckland.ac.nz;
+	s=rafal; t=1700027400;
+	bh=mz7ta32YNkCayP1oD6cW9/xdEYJy7sSKLlyzZ6qj/2A=;
+	h=From:To:Subject:Date:References:In-Reply-To:Reply-To:List-Id:
+	 List-Archive:List-Help:List-Owner:List-Post:List-Subscribe:
+	 List-Unsubscribe:From;
+	b=W18hhWbJEspO1xba4o1bwikZ4rlO8y4jF2yKQf2VEyB/pI6LuOxESFLyJus4dbxYJ
+	 YeUFLZM/RUKTfXz/RUFR9YKG3YC/cqpay/6IeQp5FXabtz4AXxF2DTvrSfrunMphRq
+	 nQ2/ApdewiMCpfKGnUYt1puT9+YUu4lgCa8GZR1E=
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id EB67530AD7; Wed, 15 Nov 2023 18:49:59 +1300 (NZDT)
+X-Original-To: all-staff@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-all-staff@sympa.auckland.ac.nz
+Received: from au-smtp-inbound-delivery-1.mimecast.com (au-smtp-inbound-delivery-1.mimecast.com [103.13.69.101])
+	by sympa.auckland.ac.nz (Postfix) with ESMTP id 19FF529B6D
+	for <all-staff@list.auckland.ac.nz>; Wed, 15 Nov 2023 18:49:27 +1300 (NZDT)
+Received: from AUS01-SY4-obe.outbound.protection.outlook.com
+ (mail-sy4aus01lp2168.outbound.protection.outlook.com [104.47.71.168]) by
+ relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ au-mta-27-6ey6zMZ0Mw64JNtCk0iNyQ-1; Wed, 15 Nov 2023 16:49:25 +1100
+X-MC-Unique: 6ey6zMZ0Mw64JNtCk0iNyQ-1
+Received: from SG2PR06CA0206.apcprd06.prod.outlook.com (2603:1096:4:68::14) by
+ SY4PR01MB5977.ausprd01.prod.outlook.com (2603:10c6:10:f8::13) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7002.18; Wed, 15 Nov 2023 05:49:23 +0000
+Received: from SG2PEPF000B66CB.apcprd03.prod.outlook.com
+ (2603:1096:4:68:cafe::5) by SG2PR06CA0206.outlook.office365.com
+ (2603:1096:4:68::14) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6954.37 via Frontend
+ Transport; Wed, 15 Nov 2023 05:49:22 +0000
+Received: from uxcn13-tdc-b.UoA.auckland.ac.nz (130.216.95.224) by
+ SG2PEPF000B66CB.mail.protection.outlook.com (10.167.240.24) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.20.7002.20 via Frontend Transport; Wed, 15 Nov 2023 05:49:22 +0000
+Received: from uxcn13-ogg-a.UoA.auckland.ac.nz (10.6.2.2) by
+ uxcn13-tdc-b.UoA.auckland.ac.nz (10.6.3.3) with Microsoft SMTP Server (TLS)
+ id 15.0.1497.48; Wed, 15 Nov 2023 18:49:21 +1300
+Received: from AUS01-SY4-obe.outbound.protection.outlook.com (130.216.158.20)
+ by uxcn13-ogg-a.UoA.auckland.ac.nz (10.6.2.2) with Microsoft SMTP Server
+ (TLS) id 15.0.1497.48 via Frontend Transport; Wed, 15 Nov 2023 18:49:21 +1300
+Received: from SY4PR01MB6540.ausprd01.prod.outlook.com (2603:10c6:10:124::8)
+ by SYBPR01MB5663.ausprd01.prod.outlook.com (2603:10c6:10:9e::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7002.18; Wed, 15 Nov
+ 2023 05:49:19 +0000
+Received: from SY4PR01MB6540.ausprd01.prod.outlook.com
+ ([fe80::6231:239e:a8:2e8f]) by SY4PR01MB6540.ausprd01.prod.outlook.com
+ ([fe80::6231:239e:a8:2e8f%6]) with mapi id 15.20.7002.015; Wed, 15 Nov 2023
+ 05:49:19 +0000
+From: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
+To: all-staff Mailing List <all-staff@list.auckland.ac.nz>
+Subject: Vice-Chancellor's Update | Wednesday 15 November 2023 - Correction
+Thread-Topic: Vice-Chancellor's Update | Wednesday 15 November 2023 -
+ Correction
+Thread-Index: AQHaF4d5dHYhwQjquUyla6X4KvS2Kw==
+Date: Wed, 15 Nov 2023 05:49:19 +0000
+Message-ID: <SY4PR01MB6540418FA1B24331A2986B55DCB1A@SY4PR01MB6540.ausprd01.prod.outlook.com>
+References: <SY4PR01MB654051AB5B02C9EA3A44E502DCB1A@SY4PR01MB6540.ausprd01.prod.outlook.com>
+In-Reply-To: <SY4PR01MB654051AB5B02C9EA3A44E502DCB1A@SY4PR01MB6540.ausprd01.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=auckland.ac.nz
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-traffictypediagnostic: SY4PR01MB6540:EE_|SYBPR01MB5663:EE_|SG2PEPF000B66CB:EE_|SY4PR01MB5977:EE_|HK2PEPF00006FB0:EE_|SY4PR01MB6767:EE_|SYCPR01MB4863:EE_
+X-MS-Office365-Filtering-Correlation-Id: 5b21ac1f-d5c0-4c09-82e6-08dbe59ece76
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0
+X-Microsoft-Antispam-Message-Info-Original: x1dFYgUVo/DHabLQqU8LFTXeNyGILRYKVNhnigZMU2rAusOsyXNdNwbadle6iGQx3tIgieqmkbRHtYZLKOEeknK4qPrScW7Tb0dpw6P9K0KBlqoo95VY8eTz2x3eaDYHU8ICwGH4UMfsLXJ061rELt0loTAsr0VL2+1QdxSe2M8U+s9GFw2s635Cx8c24je01BwVqkfX/bMbyMLfXqYYmzchwBDQLnJD1wIDAgFeolJbdZXeiX46RkER1SDZFUzZxUpNeygcsGIpaNhE4ApOGJtGi678x7G9ykGBbZRwkVMyYpemWFPNMid3wHIiTleNmyM/AJELqQUGVRyxGTq49HJCoVLWtK8D6jpIC4gak8D5W65vfOnkYUxr1jU01WYkPBHpCkpAW0ohXV70RkWPWutTDQPED4BN98+SUbVhplbdMf/b4x8krB+9NXFp6KQxh7RSGKKI+d9cubA8ZMBLFEmxSTxVhEShDmFF0l1DzQHWwjKvgkS5Bn31/uAnDXhyNVwBLAeeDNYTdMwZ/nCgKUgT7g72ZLAIVwK1JuKaXhrKiWXYah9UR15/Zvm+OB2BrvQt/u09G4edMw4DO0y88PiTcjTrQzsQ4w7TA16RhuA4lN/DkCjezlA8ZZORltApvuf4/vU9ISklRJYanOwhKBoVL/eUJZ+bIxgl5bes2OTW/BIHgHOzrfpQ4meoOsP3DcNjdAwbHqgqOyAbkpIxMoWBbw4k5SmxY0GEKCkEgUw=
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SY4PR01MB6540.ausprd01.prod.outlook.com;PTR:;CAT:NONE;SFS:;DIR:INT
+x-ms-exchange-transport-crosstenantheadersstamped: SYBPR01MB5663
+x-organizationheaderspreserved: SYBPR01MB5663.ausprd01.prod.outlook.com
+x-crosspremisesheaderspromoted: uxcn13-ogg-a.UoA.auckland.ac.nz
+x-crosspremisesheadersfiltered: uxcn13-ogg-a.UoA.auckland.ac.nz
+X-EOPAttributedMessage: 1
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SG2PEPF000B66CB.apcprd03.prod.outlook.com
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 8a31d38d-0fc2-4674-e0f1-08dbe59e9c52
+X-Microsoft-Antispam-Untrusted: BCL:0
+X-Microsoft-Antispam-Message-Info-Original: =?us-ascii?Q?tazO3f+u9pAivK23AwbXRmhGEN8ksy+G6lns+SXvPHkZJUjo+GtXtQgTIqFs?=
+ =?us-ascii?Q?tG7xM4Lcie6MnhuKB8lf8BcJ9CCR8qFOOW9Va9kh35sXRc0x8S7JEpzRMqwK?=
+ =?us-ascii?Q?JMygDv19/CYTZDQ4dDQBQ2nOSZC+9Vdwyp+6E74IDRCYKefkfkg+ZkYn25Ra?=
+ =?us-ascii?Q?oXIe/4rerLYQd+dowiaxzLBBKGb+psF39bDAc7kDyvjdlRlcRSJxlkSuD1Ev?=
+ =?us-ascii?Q?ANLQpQ5TCDHQKK///efnhTkhX7Zw5sVAbwa9UPFLIBtMR6TFdspReKPZRVvH?=
+ =?us-ascii?Q?WkhxAj08ETwAglqtbrAYQOes42ewGtFoyd512RX+VbihsVLFQoiPaiQwyLn6?=
+ =?us-ascii?Q?3aVN15IGYZy4qAV6TA0MjV603eC19c9B6ECjy8d40BdA4ELs3VUAioRrRRc6?=
+ =?us-ascii?Q?sVdkYE2XPyC5Kgp9SBBKf6a3jjIcUjkNoJlkd0g0M+h7CK//GC5S63H1Dmte?=
+ =?us-ascii?Q?T55vt/0SnDCeyjDgQJ2WfT9GN4t5t+yb5oc81lVBT/R2/ZYVrXIP5zujK1j8?=
+ =?us-ascii?Q?Mcw3VxvArCycD3E3FBAAnU1mUioM8ygt5pB27Q0N+H4oA51z3rfY5j9RZPRI?=
+ =?us-ascii?Q?bvYjLcnixEKTKVTOlOqejPe6jo10nvf1qcv37bFcgDOXehIqyDT4BJKpjFzr?=
+ =?us-ascii?Q?r7/eVXXJq1xwvpL8gqx1/sRe0F66/JDHt17gX0YJ0WmxpdJRfitROuumCk62?=
+ =?us-ascii?Q?uwKxsnraggsDIZirm+IQrVRQ9/Za4rh/G8NSfU/FfzarShWN+bkeeyj2e/L5?=
+ =?us-ascii?Q?1HLK4JR8cRIydSJ/XcviZ5VgxDYkNRNAF9vW2PYeUXL5Cntk3Si4DjkZ4vTt?=
+ =?us-ascii?Q?YIQgvnyqApw/nMlDZ8liul22FLXbOepMTO1mdPIrB39pOJE51BCQlK3jz9ay?=
+ =?us-ascii?Q?2ONszV9YPRLvYBPtsfpPQNwVxOKJIBVvpEeHmfTl6refcCrNcL++QdAR9cjg?=
+ =?us-ascii?Q?InAMuWlcZmbPk7Oay1fTFDLfU0eKlRYu5qLdnyPhZGZ0kGpQzqcm6jaAeyz9?=
+ =?us-ascii?Q?n4edoRXGuvJQlszChB54K9mPzK8MW4LmaUKN3pNcX3HVj9TV07416LZw5aFl?=
+ =?us-ascii?Q?uaMU4G2D7ai7dRnl0rUOOI7xT2f1DhdiIKrxnV6hYRPYOoh/009VZ3XPpPBm?=
+ =?us-ascii?Q?i0zSyCxoKUezU47EQwMcSTh31Ju8Pp8edT1nOh9BvSWbqZLNHzK8WHpP7Xw4?=
+ =?us-ascii?Q?QLPClfEHmt4DR3A0pwYRHnFP1Btf7/rVP+376EaZcV3T0SpQvY0s/b/TZwdA?=
+ =?us-ascii?Q?N9Xhc/0/wuMJnteOACGlExDHMmgp1GJ/52ro8g263lsxg9LZA9GL0EdgkJiy?=
+ =?us-ascii?Q?rWmvjFwHV7JoIbuovucXRwa/+I1q0MfJzrTtPiR1AAiidFZEFUGcIOaE9wFI?=
+ =?us-ascii?Q?KwGgv1OPiKfsI1Ns8XxBbV9tNG/eEuIoDZNLZDlZRfI1wk4MdeZqS1g18Ana?=
+ =?us-ascii?Q?Al3gt/vpXs9ta0CFEVxHYB884eeuC+xUoruNbYnPbry4Mqks+SAVN762bkuP?=
+ =?us-ascii?Q?rP3iZ59gsBuba+PhAng9+9VtFBKkJtQdD9W28Vucu6+RqdQh9qJXxJHNmMvm?=
+ =?us-ascii?Q?Bg6UgCMsn7/fVSkTDTzzd7R+qehHTjo/Cg9AGKGVMWMsyhlT+o0M0GQeo4C7?=
+ =?us-ascii?Q?cBfASiCYZgx89/YWLe2e6jn9a6g4Jps7oxmHwar0dR9LONnAAHSBKw+hFd3u?=
+ =?us-ascii?Q?ocS59k7BCZ5/fTZTxxn8UXju+s71Tzi1IMBlcQBf0SbU8ItXn9eFFfv/JaGn?=
+ =?us-ascii?Q?iHMa6ucyCZe9I0Uzwhzii0ZWus3VDToG7JOT0OOzDFb7dRhFHJSaxyesHEK6?=
+ =?us-ascii?Q?xSUCGxBuLt7RtGgPKOGBPu3ZBe5wv2GpGzPWpH+Hbn19QkBa3s4sdIm/Dvu+?=
+ =?us-ascii?Q?gzKWnCJx5kZ/ZtYyvA=3D=3D?=
+X-Forefront-Antispam-Report-Untrusted: CIP:130.216.95.224;CTRY:NZ;LANG:en;SCL:-1;SRV:;IPV:CAL;SFV:NSPM;H:uxcn13-tdc-b.UoA.auckland.ac.nz;PTR:natgate2-1.auckland.ac.nz;CAT:NONE;SFS:;DIR:INB
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY4PR01MB5977
+X-Mimecast-Originator: auckland.ac.nz
+Reply-To: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
+X-Loop: all-staff@list.auckland.ac.nz
+X-Sequence: 563
+Errors-to: all-staff-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: all-staff-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <all-staff.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/all-staff>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:all-staff-request@list.auckland.ac.nz>
+List-Post: <mailto:all-staff@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20all-staff>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20all-staff>
+X-Mimecast-Spam-Score: 0
+Content-Language: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_SY4PR01MB6540418FA1B24331A2986B55DCB1ASY4PR01MB6540ausp_"
+Return-Path: all-staff-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 15 Nov 2023 05:50:43.4523
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 5b21ac1f-d5c0-4c09-82e6-08dbe59ece76
+X-EOPTenantAttributedMessage: d1b36e95-0d50-42e9-958f-b63fa906beaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: HK2PEPF00006FB0.apcprd02.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: HK2PEPF00006FB0.apcprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id-Prvs: bbae1cfa-e977-4a31-2aab-08dbe59e9e7c
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report: CIP:103.96.22.22;CTRY:AU;LANG:en;SCL:-1;SRV:;IPV:CAL;SFV:NSPM;H:au-smtp-inbound-delivery-1.mimecast.com;PTR:au-smtp-inbound-delivery-1.mimecast.com;CAT:NONE;SFS:;DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 15 Nov 2023 05:50:42.9055
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 5b21ac1f-d5c0-4c09-82e6-08dbe59ece76
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-AuthSource: HK2PEPF00006FB0.apcprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY4PR01MB6767
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.6723573
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7002.015
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?windows-1257?Q?6WXrG4IlwhbmaHSRAEw1WWb7I6raenNGFSqN3HUyd5DNDuyA4WoEggaJ?=
+ =?windows-1257?Q?GqNGirsRM8MCl//DPQY2yL/DSVzvOjG64yM3HALfURPPD9vD4sgyZIRK?=
+ =?windows-1257?Q?GpAlmVq0wwOPQphJM33BpYEr2Hitr9NrE5w5O1yKMjI5fWZxCjLVOTbM?=
+ =?windows-1257?Q?j5v3GGxx4qh0IDRnbHryPl+326CSNuIjeYtaDTN3ym975sqdd3JIRFE4?=
+ =?windows-1257?Q?oVjPVa03lv6DRhvHDxhvF9fVHEYWIC50DF3gfPkLuwbrUlnWGmJEHQYw?=
+ =?windows-1257?Q?j3Onva2qxQ/jckl9wpw6Be9Uup5dUTu6WJQ0ADgU3MQEEC/CvFcJ/7vT?=
+ =?windows-1257?Q?/lP8WyIeFB2vQJyWuujw4B/q5+jKpJxtjf6QEK2A14Deb+A5BRpfUuTy?=
+ =?windows-1257?Q?j6fYqzNWbug5IjPkYoz5zEldOXqcXZKa/BQy6fluH9M6328HO3DZA3VT?=
+ =?windows-1257?Q?vbJiOV3psxzflAXnvaAnvkEJJ6HIXtje5h/dthwm4bM+N7bf9Dhy6dPx?=
+ =?windows-1257?Q?cr3KGWseFhQxaWVBjznVq+BBodvQVbmcjghxqySc+Ou2rfLC3vnHxwzC?=
+ =?windows-1257?Q?FlEwunFlg6skYv5vqfLLmSBzSUwsT6ucnOY2/DS0QHyZy2bWyqJAFJm/?=
+ =?windows-1257?Q?g9ucFZ/CM0VOFka3zG01J93mlYuU3uDxWVwxXiEE2diblc0e1d+/3YUA?=
+ =?windows-1257?Q?uzDy73XZcO5iUR54D1lZD8JvwM9qDlQ9ugIh+kYyNRSetL/Y3wkHkNk4?=
+ =?windows-1257?Q?YL5upxCoVoHskjPpDOjs1b5+NuMDd4i+IMn/yzCZhbSkpWM/4louYiyE?=
+ =?windows-1257?Q?cb4PHnYHmQWKnmGj+SZM3pC4Tm2gSIr//iQ4TOHJKiyVdy7OkFtcqf1S?=
+ =?windows-1257?Q?niTxt1olHcRR1SW7jxGDStsvk04L+EaXDMyV3LJarXPPeURYgAoO0gRL?=
+ =?windows-1257?Q?PHg7ALtCMQT7xyZKwRf0usE7fOP94+FyLwAKz1w0p2xLofgiVDNa/i59?=
+ =?windows-1257?Q?vacET5tw5WmnAzPC3ABE5nowxsYWvEr2H4LF/9Le+wV6kTc+KtSeNJ3R?=
+ =?windows-1257?Q?qd1mpqRuMLOafU3aDE8bFhnuYKFmTOySTWETmOZ49TYEs7uzRfkE6q1h?=
+ =?windows-1257?Q?VK5IswfAy3rUUVjaJY+i+69R8nWfXcZ4HTN+AZ3Wn0jSn7L+hDvfXy2B?=
+ =?windows-1257?Q?SrSAg0vrdrfk486fSwmrxrLZQcybtsiOWktscQf9ek64SoQlx4Vc5SiR?=
+ =?windows-1257?Q?8DnmrUKR3YSf7Fd3TPkHu5zd8sm1A8+NmepUubaBAbfpHpqxgA1saAHW?=
+ =?windows-1257?Q?DyclNVL2qVHLTq/CfjLhI8s/cM4HCqSffC44h6hA7mBaOr3i06X+oTIf?=
+ =?windows-1257?Q?6PiCz1yRGp44y+eDw7bd0cNabGzJDWax8hkoVFVAhyLu7KdwOMspMZcv?=
+ =?windows-1257?Q?upY76wll7j83ZC+3A+W0Wc6lmBvN0cNqXsd7ND/+ZtJrVj0TGv3CxnC0?=
+ =?windows-1257?Q?o7Lz4YNSSb6XPUL5QidxKiqD+TIQGzv7TAgkBwHlWJwqqQ+PJsMNvdkH?=
+ =?windows-1257?Q?2SXocc1bVddTRPGRYFrQMBBteH4zUV+858ltNQ=3D=3D?=
+MIME-Version: 1.0
+
+--_000_SY4PR01MB6540418FA1B24331A2986B55DCB1ASY4PR01MB6540ausp_
+Content-Type: text/plain; charset="WINDOWS-1257"
+Content-Transfer-Encoding: quoted-printable
+
+Kia ora koutou
+
+Further to my email earlier today, and with apologies to Professor Stephen =
+May, please note the correction that Professor May is in the Faculty of Edu=
+cation and Social Work (not the Faculty of Arts).
+
+Ng=E2 mihi nui
+Dawn
+
+
+Kia ora koutou
+
+
+It has been another week of outstanding achievement by many of our academic=
+ staff members. Congratulations to all our researchers who have received so=
+me of Aotearoa New Zealand=92s most prestigious research awards, underlinin=
+g the University=92s status as the country=92s leading research institution=
+.
+
+Human rights and sustainability researcher Dr Maria Armoudian (Faculty of A=
+rts) has won the Royal Society Te Ap=E2rangi Early Career Research Excellen=
+ce Award for Social Sciences<https://www.auckland.ac.nz/en/news/2023/11/08/=
+human-rights-champion-wins-top-royal-society-award.html>. The award acknowl=
+edges Dr Armoudian's research, leadership and mentoring work to advance the=
+ interconnected goals of sustainability, human rights and good governance.
+
+Professor Stephen May, FRSNZ (Faculty of Education and Social Work) has bee=
+n awarded the Royal Society Te Ap=E2rangi Mason Durie Medal<https://www.auc=
+kland.ac.nz/en/news/2023/11/08/indigenous-language-expert-wins-mason-durie-=
+medal.html>, recognising his outstanding contributions to the social scienc=
+es for his language rights and revitalisation work, spanning applied and so=
+ciolinguistics, sociology, political theory, law and education.
+
+His work has informed and underpinned developments in te reo M=E2ori and Pa=
+cific language policy, and bilingual and immersion education in Aotearoa ov=
+er the last 30 years.
+
+
+
+Professor Nicola Gaston=92s (Faculty of Science) achievements as a leader a=
+nd driver of change have been acknowledged with one of New Zealand=92s high=
+est research honours: the Royal Society Te Ap=E2rangi Thomson Medal<https:/=
+/www.nzherald.co.nz/nz/tenacious-boldness-top-honour-for-change-making-nz-s=
+cientist/7TWX3EWDY5EPLIP6WRUIUN35DE/?fbclid=3DIwAR07Qm2wQ7ZemfxAlfgiWJey6Wf=
+Td2xLqxgr4EEs-KS65phDAC1q3Kor1w0>. The Medal recognises the way she has foc=
+ussed attention on equity gaps in the science sector, as well as her co-dir=
+ectorship of the Victoria University-hosted MacDiarmid Institute for Advanc=
+ed Materials and Nanotechnology.
+
+
+
+On behalf of the New Zealand Association of Scientists, Dr Natalie Netzler =
+(Faculty of Medicine and Health Sciences) has been awarded the Cranwell Med=
+al<https://www.auckland.ac.nz/en/news/2023/11/14/researcher-receives-medal-=
+pandemic-service.html> for excellence in communicating research and informa=
+tion to M=E2ori communities during Covid-19. She shares the medal with coll=
+aborator and doctoral candidate Chris Puli'uvea.
+
+
+Marsden Awards
+
+The University=92s research excellence was recognised earlier this month in=
+ another successful Marsden funding round<https://www.auckland.ac.nz/en/new=
+s/2023/11/02/university-marsden-research.html>. Thirty-one projects led by =
+our academics received $21.5 million in funding across the faculties of Sci=
+ence, Medical and Health Sciences, Education and Social Work, and Engineeri=
+ng, as well as ABI.
+
+World University Rankings
+
+Academic reputation and employer reputation are important components in how=
+ the University is perceived. Two of the leading world rankings are running=
+ reputation surveys to assess this.
+
+I encourage all staff to participate in the QS World University Rankings 20=
+25 Reputation Surveys by nominating your academic and employer contacts who=
+ can vouch for the University of Auckland=92s academic excellence and the s=
+uccess of our graduates. You can learn more about the QS World University R=
+ankings 2025 Reputation Surveys<https://research-hub.auckland.ac.nz/article=
+/qs-world-university-rankings-reputation-surveys> and submit your nominatio=
+ns by visiting the ResearchHub. The nomination period closes on Thursday 30=
+ November.
+
+In addition, the Times Higher Education (THE) Global Academic Reputation Su=
+rvey is underway, allowing participants to vote for the University of Auckl=
+and as well as other world-leading universities. Invitations to take part i=
+n this survey are sent directly to academic staff members from THE in Novem=
+ber.
+
+Ng=E2 mihi nui
+Dawn
+
+Professor Dawn Freshwater
+Vice-Chancellor
+
+
+
+--_000_SY4PR01MB6540418FA1B24331A2986B55DCB1ASY4PR01MB6540ausp_
+Content-Type: text/html; charset="WINDOWS-1257"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+p.xmsonospacing, li.xmsonospacing, div.xmsonospacing
+	{mso-style-name:x_msonospacing;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-language:EN-GB;}
+p.articleheading-caption, li.articleheading-caption, div.articleheading-cap=
+tion
+	{mso-style-name:article__heading-caption;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+span.mark1e9j6wj26
+	{mso-style-name:mark1e9j6wj26;}
+span.markr7v0araus
+	{mso-style-name:markr7v0araus;}
+span.EmailStyle25
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-NZ" link=3D"#0563C1" vlink=3D"#954F72" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Kia ora koutou<o:p>=
+</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Further to my email=
+ earlier today, and with apologies to Professor Stephen May, please note th=
+e correction that Professor May is in the Faculty of Education and Social W=
+ork (not the Faculty of Arts).<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Ng=E2 mihi nui<o:p>=
+</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Dawn<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;mso-l=
+igatures:none;mso-fareast-language:EN-NZ"><o:p>&nbsp;</o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black">Kia ora=
+ koutou<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"xmsonospacing" style=3D"margin:0cm"><span style=3D"font-size:11=
+.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#242424;border:none w=
+indowtext 1.0pt;padding:0cm">It has been another week of<span class=3D"appl=
+e-converted-space">&nbsp;</span><span class=3D"mark1e9j6wj26">outstanding</=
+span><span class=3D"apple-converted-space">&nbsp;</span><span class=3D"mark=
+r7v0araus">achievement</span><span class=3D"apple-converted-space">&nbsp;</=
+span>by
+ many of our academic staff members. Congratulations to all our researchers=
+ who have received some of Aotearoa New Zealand=92s most prestigious resear=
+ch awards, underlining the University=92s status as the country=92s leading=
+ research institution.</span><span style=3D"font-size:11.0pt;font-family:&q=
+uot;Calibri&quot;,sans-serif;color:#242424"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black"><o:p>&n=
+bsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;backgrou=
+nd:white">Human rights and sustainability researcher
+<b>Dr Maria Armoudian</b> (Faculty of Arts) has won </span><span style=3D"f=
+ont-size:11.0pt"><a href=3D"https://www.auckland.ac.nz/en/news/2023/11/08/h=
+uman-rights-champion-wins-top-royal-society-award.html"><span style=3D"back=
+ground:white">the Royal Society Te Ap=E2rangi
+ Early Career Research Excellence Award for Social Sciences</span></a><span=
+ style=3D"color:black;background:white">.
+</span><span style=3D"color:black">The award acknowledges Dr Armoudian's re=
+search, leadership and mentoring work to advance the interconnected goals o=
+f sustainability, human rights and good governance.</span></span><span styl=
+e=3D"font-size:10.0pt"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;color:black;backg=
+round:white">Professor Stephen May</span></b><span style=3D"font-size:11.0p=
+t;color:black;background:white">, FRSNZ (Faculty of Education and Social Wo=
+rk) has been awarded
+</span><span style=3D"font-size:11.0pt"><a href=3D"https://www.auckland.ac.=
+nz/en/news/2023/11/08/indigenous-language-expert-wins-mason-durie-medal.htm=
+l"><span style=3D"background:white">the Royal Society Te Ap=E2rangi&nbsp;Ma=
+son Durie Medal</span></a><span style=3D"color:black;background:white">,
+ recognising his outstanding contributions to the social sciences for his l=
+anguage rights and revitalisation work, spanning applied and sociolinguisti=
+cs, sociology, political theory, law and education.
+</span><o:p></o:p></span></p>
+<p style=3D"margin:0cm;background:white"><span style=3D"color:black">His wo=
+rk has informed and underpinned developments in te reo M=E2ori and Pacific =
+language policy, and bilingual and immersion education in Aotearoa over the=
+ last 30 years.</span><o:p></o:p></p>
+<p style=3D"margin:0cm;background:white"><o:p>&nbsp;</o:p></p>
+<p class=3D"articleheading-caption" style=3D"margin:0cm;background:white"><=
+b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:black">Professor Nicola Gaston=92s</span></b><span style=3D"font-si=
+ze:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">
+ (Faculty of Science) achievements as a leader and driver of change have be=
+en acknowledged with one of New Zealand=92s highest research honours:
+<a href=3D"https://www.nzherald.co.nz/nz/tenacious-boldness-top-honour-for-=
+change-making-nz-scientist/7TWX3EWDY5EPLIP6WRUIUN35DE/?fbclid=3DIwAR07Qm2wQ=
+7ZemfxAlfgiWJey6WfTd2xLqxgr4EEs-KS65phDAC1q3Kor1w0">
+the <span style=3D"background:white">Royal Society Te Ap=E2rangi </span>Tho=
+mson Medal</a>. The Medal recognises the way she has focussed attention on =
+equity gaps in the science sector, as well as her co-directorship of the Vi=
+ctoria University-hosted MacDiarmid
+ Institute for Advanced Materials and Nanotechnology.</span><span style=3D"=
+font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#0563C1">=
+<o:p></o:p></span></p>
+<p class=3D"articleheading-caption" style=3D"margin:0cm;background:white"><=
+span class=3D"MsoHyperlink"><span style=3D"color:windowtext;text-decoration=
+:none"><o:p>&nbsp;</o:p></span></span></p>
+<p class=3D"articleheading-caption" style=3D"margin:0cm;background:white"><=
+span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;c=
+olor:black">On behalf of the New Zealand Association of Scientists,
+<b>Dr Natalie Netzler</b> (Faculty of Medicine and Health Sciences) has bee=
+n awarded
+<a href=3D"https://www.auckland.ac.nz/en/news/2023/11/14/researcher-receive=
+s-medal-pandemic-service.html">
+the Cranwell Medal</a> for excellence in communicating research and informa=
+tion to M=E2ori communities during Covid-19. She shares the medal with coll=
+aborator and doctoral candidate
+<b>Chris Puli'uvea</b>.</span><span class=3D"MsoHyperlink"><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:windowtext=
+;text-decoration:none"><o:p></o:p></span></span></p>
+<p style=3D"margin:0cm;background:white"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;color:black">Mars=
+den Awards<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black"><o:p>&n=
+bsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:#242424;border=
+:none windowtext 1.0pt;padding:0cm">The University=92s research excellence =
+was recognised earlier this month in
+</span><span style=3D"font-size:11.0pt"><a href=3D"https://www.auckland.ac.=
+nz/en/news/2023/11/02/university-marsden-research.html"><span style=3D"bord=
+er:none windowtext 1.0pt;padding:0cm">another successful Marsden funding ro=
+und</span></a><span style=3D"color:#242424;border:none windowtext 1.0pt;pad=
+ding:0cm">.
+ Thirty-one projects led by our academics received $21.5 million in funding=
+ across the faculties of Science, Medical and Health Sciences, Education an=
+d Social Work, and Engineering, as well as ABI.<o:p></o:p></span></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;color:black">Worl=
+d University Rankings<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;color:black"><o:p=
+>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Academic reputation=
+ and employer reputation are important components in how the University is =
+perceived. Two of the leading world rankings are running reputation surveys=
+ to assess this.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">I encourage all sta=
+ff to participate in the
+<b>QS World University Rankings 2025 Reputation Surveys</b> by nominating y=
+our academic and employer contacts who can vouch for the University of Auck=
+land=92s academic excellence and the success of our graduates. You can
+<a href=3D"https://research-hub.auckland.ac.nz/article/qs-world-university-=
+rankings-reputation-surveys">
+learn more about the QS World University Rankings 2025 Reputation Surveys</=
+a> and submit your nominations by visiting the
+<span style=3D"border:none windowtext 1.0pt;padding:0cm">ResearchHub</span>=
+<span style=3D"color:#242424">.
+</span><span style=3D"color:black">The nomination period closes on Thursday=
+ 30 November.<o:p></o:p></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black"><o:p>&n=
+bsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">In addition, the <b=
+>Times Higher Education (THE) Global Academic Reputation Survey</b> is unde=
+rway, allowing participants to vote for the University of Auckland as well =
+as other world-leading universities.
+ Invitations to take part in this survey are sent directly to academic staf=
+f members from THE in November.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Ng=E2 mihi nui<o:p>=
+</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Dawn<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Professor Dawn Fres=
+hwater<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Vice-Chancellor<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+</div>
+</body>
+</html>
+
+--_000_SY4PR01MB6540418FA1B24331A2986B55DCB1ASY4PR01MB6540ausp_--

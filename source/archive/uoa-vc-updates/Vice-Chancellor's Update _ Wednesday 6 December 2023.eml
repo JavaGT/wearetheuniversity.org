@@ -1,0 +1,546 @@
+Received: from ME3PR01MB6803.ausprd01.prod.outlook.com (2603:10c6:220:126::10)
+ by SYCPR01MB4863.ausprd01.prod.outlook.com with HTTPS; Tue, 5 Dec 2023
+ 21:52:23 +0000
+Received: from SG2PR01CA0195.apcprd01.prod.exchangelabs.com
+ (2603:1096:4:189::17) by ME3PR01MB6803.ausprd01.prod.outlook.com
+ (2603:10c6:220:126::10) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7046.34; Tue, 5 Dec
+ 2023 21:52:22 +0000
+Received: from SG1PEPF000082E8.apcprd02.prod.outlook.com
+ (2603:1096:4:189:cafe::5d) by SG2PR01CA0195.outlook.office365.com
+ (2603:1096:4:189::17) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7046.34 via Frontend
+ Transport; Tue, 5 Dec 2023 21:52:22 +0000
+Authentication-Results: spf=pass (sender IP is 103.96.22.101)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=pass (signature was verified)
+ header.d=auckland.ac.nz;dmarc=pass action=none
+ header.from=auckland.ac.nz;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of list.auckland.ac.nz
+ designates 103.96.22.101 as permitted sender)
+ receiver=protection.outlook.com; client-ip=103.96.22.101;
+ helo=au-smtp-inbound-delivery-1.mimecast.com; pr=C
+Received: from au-smtp-inbound-delivery-1.mimecast.com (103.96.22.101) by
+ SG1PEPF000082E8.mail.protection.outlook.com (10.167.240.11) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7068.20 via Frontend Transport; Tue, 5 Dec 2023 21:52:21 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=auckland.ac.nz;
+	s=mimecast20200506; t=1701813140;
+	h=from:from:sender:sender:reply-to:reply-to:subject:subject:date:date:
+	 message-id:message-id:to:to:cc:mime-version:mime-version:
+	 content-type:content-type:in-reply-to:in-reply-to:
+	 references:references:list-id:list-help:list-owner:list-unsubscribe:
+	 list-subscribe:list-post; bh=CJ5dl6zITRqhIL3MWIkLumEgLIQsxsR62nrKaGkYnuo=;
+	b=PJFvYofcmzjTf1I/GoVkLYebJxK4svxmrYWk7Sx2eJ+fMWlvAbNZBDsdQ7TQqXAzZio2GJ
+	gcQ/RsseHEjWABY1Uqt0fxC3xXhAljRi1iN+H9UpGjEREMEmh0/aOxEy99SSTo6ZcNzymx
+	Je+VVMs22xAQXy1LjqvgPMM8s6P1cCk=
+Received: from uoasmtpprd01.its.auckland.ac.nz
+ (uoasmtpprd01.its.auckland.ac.nz [130.216.125.250]) by relay.mimecast.com
+ with ESMTP with STARTTLS (version=TLSv1.3, cipher=TLS_AES_256_GCM_SHA384)
+ id au-mta-26-F5DC725SPeyMrPdvhIrtWw-1; Wed, 06 Dec 2023 08:52:17 +1100
+X-MC-Unique: F5DC725SPeyMrPdvhIrtWw-1
+Received: from sympa.auckland.ac.nz (lists.ec.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id 11B99802626;
+	Wed,  6 Dec 2023 10:52:04 +1300 (NZDT)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz 11B99802626
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id BC5053C3DE; Wed,  6 Dec 2023 10:52:03 +1300 (NZDT)
+X-Original-To: all-staff@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-all-staff@sympa.auckland.ac.nz
+Received: from au-smtp-inbound-delivery-1.mimecast.com (au-smtp-delivery-1.mimecast.com [103.96.22.101])
+	by sympa.auckland.ac.nz (Postfix) with ESMTP id C449F34F2E
+	for <all-staff@list.auckland.ac.nz>; Wed,  6 Dec 2023 10:51:41 +1300 (NZDT)
+Received: from AUS01-SY4-obe.outbound.protection.outlook.com
+ (mail-sy4aus01lp2168.outbound.protection.outlook.com [104.47.71.168]) by
+ relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ au-mta-2-SucD1H1UP-a4cZzMcUJLzQ-2; Wed, 06 Dec 2023 08:51:39 +1100
+X-MC-Unique: SucD1H1UP-a4cZzMcUJLzQ-2
+Received: from SG2PR06CA0237.apcprd06.prod.outlook.com (2603:1096:4:ac::21) by
+ SY4PR01MB8213.ausprd01.prod.outlook.com (2603:10c6:10:1cd::9) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7046.34; Tue, 5 Dec 2023 21:51:37 +0000
+Received: from SG1PEPF000082E6.apcprd02.prod.outlook.com
+ (2603:1096:4:ac:cafe::20) by SG2PR06CA0237.outlook.office365.com
+ (2603:1096:4:ac::21) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7046.34 via Frontend
+ Transport; Tue, 5 Dec 2023 21:51:37 +0000
+Received: from uxcn13-tdc-b.UoA.auckland.ac.nz (130.216.95.224) by
+ SG1PEPF000082E6.mail.protection.outlook.com (10.167.240.9) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.20.7068.20 via Frontend Transport; Tue, 5 Dec 2023 21:51:37 +0000
+Received: from uxcn13-ogg-a.UoA.auckland.ac.nz (10.6.2.2) by
+ uxcn13-tdc-b.UoA.auckland.ac.nz (10.6.3.3) with Microsoft SMTP Server (TLS)
+ id 15.0.1497.48; Wed, 6 Dec 2023 10:51:36 +1300
+Received: from AUS01-ME3-obe.outbound.protection.outlook.com (130.216.158.20)
+ by uxcn13-ogg-a.UoA.auckland.ac.nz (10.6.2.2) with Microsoft SMTP Server
+ (TLS) id 15.0.1497.48 via Frontend Transport; Wed, 6 Dec 2023 10:51:35 +1300
+Received: from SY7PR01MB8080.ausprd01.prod.outlook.com (2603:10c6:10:1e3::10)
+ by SY4PR01MB6074.ausprd01.prod.outlook.com (2603:10c6:10:f9::8) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7046.34; Tue, 5 Dec
+ 2023 21:51:34 +0000
+Received: from SY7PR01MB8080.ausprd01.prod.outlook.com
+ ([fe80::7ed9:78e:6657:1b6f]) by SY7PR01MB8080.ausprd01.prod.outlook.com
+ ([fe80::7ed9:78e:6657:1b6f%5]) with mapi id 15.20.7046.034; Tue, 5 Dec 2023
+ 21:51:34 +0000
+From: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
+To: all-staff Mailing List <all-staff@list.auckland.ac.nz>
+Subject: Vice-Chancellor's Update | Wednesday 6 December 2023
+Thread-Topic: Vice-Chancellor's Update | Wednesday 6 December 2023
+Thread-Index: AQHaJ8U24ca9W3XVtk+B4MeIGoOuZA==
+Date: Tue, 5 Dec 2023 21:51:34 +0000
+Message-ID: <SY7PR01MB8080595136BA405423D5653FDC85A@SY7PR01MB8080.ausprd01.prod.outlook.com>
+References: <SY7PR01MB8080E9F0FA9BAB828ACC58E9DC85A@SY7PR01MB8080.ausprd01.prod.outlook.com>
+In-Reply-To: <SY7PR01MB8080E9F0FA9BAB828ACC58E9DC85A@SY7PR01MB8080.ausprd01.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=auckland.ac.nz
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-traffictypediagnostic: SY7PR01MB8080:EE_|SY4PR01MB6074:EE_|SG1PEPF000082E6:EE_|SY4PR01MB8213:EE_|SG1PEPF000082E8:EE_|ME3PR01MB6803:EE_|SYCPR01MB4863:EE_
+X-MS-Office365-Filtering-Correlation-Id: d45bed22-9976-4549-e995-08dbf5dc75d2
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0
+X-Microsoft-Antispam-Message-Info-Original: KrBimGjhhWP6GdFr3MZBZD/hENSbrudl+cWTFnuHY8TRHPOFwNuNGWa9jxyJMjUvQrjzeVuqwimfPwYnheh55Rtz7dGjfQ1nfSraAMLzNTXXcdm/B8sZsHWcf90rAtDJTZ7W0kR0P0qljpMTqHSYq+PO6hdDjBYKjAEtm6AuRVefq/nTfcZxxlmEV/r3EYQx7utc7d63C4UKEL8tUOkIN1Hp5/sE76Z/Qdy3RJ5woMN7CrJCy2l5PK7UHtE1cv+yB9lvFkK2vWgbkLi3SiMuk+ke5GhlE85SdqIETTwJZBGIrW3MrtsJPEiiWiHhFEyfrs4j1tutVtK3wxjIsZGbct7NjuHs+tQV2+9A83gXikpTY9Om53KmTeyuSLsjF8MOI4jMTmAfz1TvJERGEwU4vZfk/EsIw8JBMaIx7iMroRNTE1cDgm9iInBFM0Cwq8SIwpc2jItfe0FYP86NxNAXN3PA4po9SVWZLhkbHl3tIU++N9YMYfPw84qbtrITOU0lKysaisVSQM9FD2gGVbYzMQo8QOOvuqTm0n74tTg+NVphnBUP7nPqq52azUzf4ebX6OwsVAx+Ql/TgIFhCwty67+gpi3i0TwhiTvSnUJeOrqjDxQhIbBYpWV4jsGULgfEbYJkiB1lWkhOTHT5mDEVs2AegZvR3nieMWbB5NgsIbIkY75hEHEejatyhjlmQSvzAU4T7xbyzdgclvOxM/ldKokulKUfAARApLBgSWS/zYw=
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SY7PR01MB8080.ausprd01.prod.outlook.com;PTR:;CAT:NONE;SFS:;DIR:INT
+x-ms-exchange-transport-crosstenantheadersstamped: SY4PR01MB6074
+x-organizationheaderspreserved: SY4PR01MB6074.ausprd01.prod.outlook.com
+x-crosspremisesheaderspromoted: uxcn13-ogg-a.UoA.auckland.ac.nz
+x-crosspremisesheadersfiltered: uxcn13-ogg-a.UoA.auckland.ac.nz
+X-EOPAttributedMessage: 1
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SG1PEPF000082E6.apcprd02.prod.outlook.com
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 42d2954f-e9b0-486f-425c-08dbf5dc597c
+X-Microsoft-Antispam-Untrusted: BCL:0
+X-Microsoft-Antispam-Message-Info-Original: =?us-ascii?Q?slnWe5tO15iaAy3EaG8MJv1jlcZEBYMkzMM2hr8HhbCWQbGV7UxcbyRvHl7X?=
+ =?us-ascii?Q?d4SS7ntBExB8l4gs/PLqHNKtIQ4ojvFaI0cag3Ob+lv10ZgeYPXxLFicES5D?=
+ =?us-ascii?Q?ZcyNgwTLHUvPlbT3xdEsjwWzt5a185Ze4EXoWaam5yl/PZoZxdeH0WFCqFJL?=
+ =?us-ascii?Q?lYT4QBO3Taw1DhKdSBc7YYY1hrXhO8KOKlsQM4NcorANFp52fUuJbdW76Ysv?=
+ =?us-ascii?Q?s/euClTl/ijM4404Qhv1DP464SJCiHB7yIdOY+2v4n1/ifieBNGCHADAaswv?=
+ =?us-ascii?Q?AMdxZnKpMY7Kk+CIvg2phAhznvmX51ZsJTCgCKHY1ETv80ILNKPKLaYjnBHu?=
+ =?us-ascii?Q?fnc4ZQS3nTP7m2E1gply1sHvXWEXe0WX3fslwX1YK0EitFrGBa/iBMrye7Px?=
+ =?us-ascii?Q?6085FP/CwDOnVD/F/HXp2NT1z00M3ExjaLRSWGl3V+uy+r3b/EJ0v+o3qFEP?=
+ =?us-ascii?Q?lHZtpJuvIu6a7R6OZi/M9SRec20PFUIjLaTKf90+EbG5z3L2kFd8IRzjEdba?=
+ =?us-ascii?Q?25XkPvihlFWB4pv8Gc/U9bOI7cBaXOnO61H9YSKQYZSELrEkzy2v97CU8oRK?=
+ =?us-ascii?Q?/HcZP4nBDXsCaO7xYmPRlN2Vw2bwJ/2b25UmaS4K8pgOmFiEsXakRT3wFFpC?=
+ =?us-ascii?Q?J+QM1h7J3Z5u9+jYv7uexb2nwRK07+Ra0peEQH+1tRA6GbhDCxDIeKuEl3is?=
+ =?us-ascii?Q?dQWk0Vi6bC++Yxv2lHck1XwxRJlGKw6bZbjobygvpNrt8LvPlhC8nqT50WQ8?=
+ =?us-ascii?Q?6LThUf8j6sREnWCb3jguy0SBOLbVjoDme++n3vg4VTSBs+3Wta59xqIHkoDt?=
+ =?us-ascii?Q?O5Ed1Pd7tVPSsTlnmusFFkvdmOqtXAbfbI9GZbOegGhj7yimzD87jOWBNFPJ?=
+ =?us-ascii?Q?wYb/ob6pDUYrTGGBg1nWxdRL2ijwhKbbISiCC/5lqlr7erSKqiegHpOyDgyc?=
+ =?us-ascii?Q?dMzgtgZAKhN5RwKZ1UXmOMqHA8Idy5jy2SnXMo/JAQ971WxFFQiu8D6mt9R5?=
+ =?us-ascii?Q?wDPI1bb/aWJotCHpeTZP4NNHsIjVYDA+VRNwA5owqeDghLpgpz89YXojYja2?=
+ =?us-ascii?Q?NofD2zYdpS2WaagvX2cZ3qGS0XvkCCy77kPy8kW5+BCCKY+CmaQ4MpkMGrRC?=
+ =?us-ascii?Q?iFsqh88VsmeaIdXNkFMkNBJBg4Cdage2QoZmm3hNIHQG8A2QXbM1ssyn+m9u?=
+ =?us-ascii?Q?dIDL6lM6WHE5hODmEwbqVeb9G/xmH3UowYucBd8iiWqY8zo7E6ulCV39tFvq?=
+ =?us-ascii?Q?Y/efqvwtfRdOaNC1bE43zQlDL7umqAeNgZ0+mRsP7i/pMBnYuvbW1QEMhH79?=
+ =?us-ascii?Q?TXd3KmnkuBCKXEsS7sh5TdnFOp/rXyh0Ef3Ei5fONYTD1yFNDGhVJnPatTuK?=
+ =?us-ascii?Q?TmysKJQxczJVQL7M4KHhqVL5FkB2RfBzIVnUZHh9m3zVztnWoeY3bhMKlyuI?=
+ =?us-ascii?Q?GEUwIPyafWpq2wVLpsob+DYYlmhZQdXGBEiOXCTV0oXcsh6l2mYOVCIcGr3t?=
+ =?us-ascii?Q?XeUvjk/NV6Xbb8RxzKPvUgdrHEL+9OOdZemX2GZn9mM22hOmXv0vk2vi8MFO?=
+ =?us-ascii?Q?8lSNRP6mfyk1lGMXscIcUZePF3ho7w7osnm/YZHkJvMKXKtcgnQ3OmcOrCm2?=
+ =?us-ascii?Q?WYiP/SAH6QbjW/jSeBDlO+t5IKFM25qRpAgf2qgXsKsJWZk9+cVdITjK7YXx?=
+ =?us-ascii?Q?ghtGam5I22/XNjDa1zxC/DpMV7buQKa0TBMBpZU2tx44KZ0mS31BAcYbVekm?=
+ =?us-ascii?Q?soWfbduBoBoia1bhUquZMvd+NPKuwLf2PBK3fw1vVPo/dPolU1teuT8gr2sY?=
+ =?us-ascii?Q?M8XBSBLyFxszFjN/iXIUF2C6BXcOBcOqjpZgjsoYdNbJ31HaO3RIgou5AfGt?=
+ =?us-ascii?Q?3Ah+ZudcrjmgKEFLwtedF8mmbAMMKF2QDg8fC7FKQvFrhCuKOup9w5GcPFhI?=
+ =?us-ascii?Q?hx7Pk5JoBYwzD/knr60thoIrzcdKC72eL2LrD9Vz12o=3D?=
+X-Forefront-Antispam-Report-Untrusted: CIP:130.216.95.224;CTRY:NZ;LANG:en;SCL:-1;SRV:;IPV:CAL;SFV:NSPM;H:uxcn13-tdc-b.UoA.auckland.ac.nz;PTR:natgate2-1.auckland.ac.nz;CAT:NONE;SFS:;DIR:INB
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY4PR01MB8213
+Reply-To: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
+X-Loop: all-staff@list.auckland.ac.nz
+X-Sequence: 568
+Errors-to: all-staff-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: all-staff-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <all-staff.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/all-staff>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:all-staff-request@list.auckland.ac.nz>
+List-Post: <mailto:all-staff@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20all-staff>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20all-staff>
+X-Mimecast-Spam-Score: 0
+X-Mimecast-Originator: auckland.ac.nz
+Content-Language: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_SY7PR01MB8080595136BA405423D5653FDC85ASY7PR01MB8080ausp_"
+Return-Path: all-staff-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 05 Dec 2023 21:52:22.1424
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: d45bed22-9976-4549-e995-08dbf5dc75d2
+X-EOPTenantAttributedMessage: d1b36e95-0d50-42e9-958f-b63fa906beaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SG1PEPF000082E8.apcprd02.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: SG1PEPF000082E8.apcprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 95436bc9-673f-42a0-5e4c-08dbf5dc5b53
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report: CIP:103.96.22.101;CTRY:AU;LANG:en;SCL:-1;SRV:;IPV:CAL;SFV:NSPM;H:au-smtp-inbound-delivery-1.mimecast.com;PTR:au-smtp-delivery-1.mimecast.com;CAT:NONE;SFS:;DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 05 Dec 2023 21:52:21.7986
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: d45bed22-9976-4549-e995-08dbf5dc75d2
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-AuthSource: SG1PEPF000082E8.apcprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: ME3PR01MB6803
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.6630592
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7046.032
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?windows-1257?Q?Rlq3gDFOMQ2YjBXOxQxKQ8peI+Xfm5uOPzPAuU8RoRoJ0s/5BYn5oL4f?=
+ =?windows-1257?Q?QyfWYYGrROXooOqJPzerM/hGrp091p80QihIf+6PFj1k4xodAlVOOhi0?=
+ =?windows-1257?Q?EkglR4g36FYo7vFgDARB5LswhpMBb6B0589SIpaleh13YJvmARn3yGc0?=
+ =?windows-1257?Q?k+V+5zpMZBwom7PTug0I1tophgiEPh5H7onHXcWedzHteXlGZbr5rDg+?=
+ =?windows-1257?Q?wj5l77NhYapzU0FxetactOXvUtbtI6eBYx+/3POJwGDjrjY9adC77cUt?=
+ =?windows-1257?Q?FhGE152+Kg6qkQWIRSjJEADqya1gXejX/fNGItQV4C3JuBmgknkdxmiE?=
+ =?windows-1257?Q?RDzSO4EnFo+6HQGj20V4UlKLwMQxWT7h4ILXsCat4uFJCZJczW+HnJVe?=
+ =?windows-1257?Q?JqkAusoenLFDmMUFc0nD+umjVfUJP6VYhvxROsNgV3d8K1cmrQuHyT/c?=
+ =?windows-1257?Q?BLSB8U8RrjC4WTDbExLGg0qcblUDwS21oDRTd2xprGZ9l729ek50Pe0D?=
+ =?windows-1257?Q?3FX9bNDINKKdOI02aitltDEn99TQXfs+mlOMqyO4NxvibprK5AJePPiR?=
+ =?windows-1257?Q?KDN03mAlj1IqhWsWsW2XQ+KmUEF0ToR5tQfpWSfwwz8GgeilFCx6hzDo?=
+ =?windows-1257?Q?lHK5zIn5Xm3jmZwnU0haurK+fbX/uEE+te5saO5Qtc9jQgB9lYiaTJ2+?=
+ =?windows-1257?Q?vI9rsDb2RFlRsr3wuJ+JhSGdv0NvCWj06V8H25ovJn8Ffuxas0xGu79t?=
+ =?windows-1257?Q?RYWqSL28+bKJSq2klgoyZzdHDvtIIe2vwy+hEaPXk9UhPXjzt1N6SbC2?=
+ =?windows-1257?Q?CBCBrKBGeKyumQVe3rPBehFksm8gbGqlBCeV+Ry5ScJMHeFuOKhr3Or+?=
+ =?windows-1257?Q?lIKmz3Z0evbFLYJSPpnE5GhNRKlLKkZTebrIR29UXnj1JC3yTolljS8d?=
+ =?windows-1257?Q?xRSRCN5g7gmbed6lV0mgcUjR4rP5d8EfF6GjAGZQvXr7T4hkJE+Fw/qJ?=
+ =?windows-1257?Q?vQND2DJI3smTyNPlV0vhAt3ztOpLqpD5IWXb/yiKqoYnNJVdgWRApO3b?=
+ =?windows-1257?Q?eC4+PgqrvJ81GP3bOD5B5FiUZ62E7fYS6dPoA86k71df5Vm6g+nAS6DU?=
+ =?windows-1257?Q?SE+OXl0JjNesNKjzmSTDKfpIgoF6VUjTCnEtXJ5P3g/3xlLjCcDMWOcO?=
+ =?windows-1257?Q?G9QLhHM0XVRzt2fhRZosmCUbOlONlOQpwzxV9P6DIKRybHEqgmM9G1EM?=
+ =?windows-1257?Q?/neEkNW+SKEYIMEx49vH7iy7a1Vp7aRAZt76cutEOLFr/qLedBnzfBV6?=
+ =?windows-1257?Q?o/WqvNQJKPVMzkCzIYQn+g7utjjNXaJICL6GnLWLLgf+hCf5MPT3m7xp?=
+ =?windows-1257?Q?j+zZaYEAveyWAF41G61U2Zu0FWXd+zWlg6Zl6YBfZatUUPtqadJYlhrj?=
+ =?windows-1257?Q?nzZlDjwHe7ZZGyngof9afLS8RTJkiK9pWnu+Y/RoZNbLZB5lKyX2KPtA?=
+ =?windows-1257?Q?ROiUHLpQV11qma/QcVU7dBmF7Uw5n/HNsIZCxEExI3VcHkiPh6C7NH6M?=
+ =?windows-1257?Q?dql/2sJQP5leXnCKUnm6OAtB6rn7HihctES3Gw=3D=3D?=
+MIME-Version: 1.0
+
+--_000_SY7PR01MB8080595136BA405423D5653FDC85ASY7PR01MB8080ausp_
+Content-Type: text/plain; charset=WINDOWS-1257
+Content-Transfer-Encoding: quoted-printable
+
+Kia ora koutou
+
+As we near the end of the year and the summer break, I am writing to share =
+important news.  Both the news of our 5th placing in the 2024 QS Sustainabi=
+lity Ranking and the release of our inaugural Gender Pay Gap report are mil=
+estones that reflect, on the one hand, Waipapa Taumata Rau excellence =96 a=
+nd on the other, where we must continue to strive to be excellent in all we=
+ do.
+
+A big welcome to Education and Social Work Faculty staff who are making the=
+ much-anticipated move to the City Campus. We are thrilled to welcome you a=
+nd your community to the City Campus. More information about the move can b=
+e found here<https://www.auckland.ac.nz/en/news/notices/2023/the-epsom-move=
+.html>.
+
+QS 2024 Sustainability rankings: 5th in the world, 1st in Oceania
+Just months after being ranked 68th in the 2024 QS World University Ranking=
+s, Waipapa Taumata Rau has been ranked fifth in the world for sustainabilit=
+y and first in Oceania.
+
+This is the second year the QS organisation has highlighted the role univer=
+sities play in taking action to tackle the world=92s greatest environmental=
+, social and governance issues. Our fifth place has been assessed against 1=
+403 tertiary institutions worldwide, while our first place in Oceania ranks=
+ us at the top of 46 institutions in New Zealand, Australia and the Pacific=
+.
+
+Congratulations to everyone across our academic and professional staff who =
+have contributed to our sustainability work.
+
+You can read more about the rankings on the News pages here<https://www.auc=
+kland.ac.nz/en/news/2023/12/05/university-excels-in-2024-qs-sustainability-=
+rankings.html>.
+
+Gender Pay Gap Report 2023
+Today, we publish the inaugural Gender Pay Gap report, part of our commitme=
+nt to equity for staff.
+
+The report shows an overall Gender Pay Gap (GPG) of 10.8 per cent, against =
+a national average of 8.6 per cent. The report details gender pay gaps for =
+academic and professional staff and those with and without permanent roles =
+at the University. It also outlines the plan to include gender and ethnicit=
+y intersections in next year=92s annual report.
+
+The Pro Vice-Chancellor Equity, Professor Cathy Stinear, finalised the Gend=
+er Pay Gap Report in collaboration with the People and Culture portfolio. A=
+ sustainable plan for annual gender pay gap reporting has been developed, a=
+nd next year=92s report will include gender-ethnicity intersections. Key dr=
+ivers of pay gaps, including the distribution of genders in senior roles an=
+d gender effects on performance pay, will be investigated and reported next=
+ year.
+
+This report honours a commitment to Taumata Teitei - Vision 2030 and Strate=
+gic Plan 2025, recognising that improving data and insights is a core compo=
+nent of a =91high performing, diverse, equitable and inclusive community.=
+=92
+
+The findings are not acceptable and make it clear that new approaches are n=
+eeded to address the gap. With data providing a detailed understanding of t=
+hese pay gaps, and what perpetuates them, we will make renewed efforts to a=
+ddress structural and systemic issues.
+
+More information, including a link to this year=92s report, is available on=
+ the News pages here<https://www.auckland.ac.nz/en/news/2023/12/06/pay-gap-=
+report.html>.
+
+I am proud of what we have achieved and would like to acknowledge your work=
+ in taking our institution forward, in your commitment to excellence, and y=
+our efforts to challenge us to keep striving to be the best we can be for a=
+ll.
+
+Finally, please ensure you have time to enjoy some end-of-year celebrations=
+, and I hope that you are able to take a restorative and restful break afte=
+r another busy year.
+
+Ka pai
+
+Ng=E2 mihi nui
+Dawn
+
+Professor Dawn Freshwater
+Vice-Chancellor
+
+
+--_000_SY7PR01MB8080595136BA405423D5653FDC85ASY7PR01MB8080ausp_
+Content-Type: text/html; charset=WINDOWS-1257
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-NZ" link=3D"#0563C1" vlink=3D"#954F72" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">Kia ora koutou<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">As we near the end=
+ of the year and the summer break, I am writing to share important news.&nb=
+sp; Both the news of our 5<sup>th</sup> placing
+ in the 2024 QS Sustainability Ranking and the release of our inaugural Gen=
+der Pay Gap report are milestones that reflect, on the one hand, Waipapa Ta=
+umata Rau excellence =96 and on the other, where we must continue to strive=
+ to be excellent in all we do.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">A big welcome to E=
+ducation and Social Work Faculty staff who are making the much-anticipated =
+move to the City Campus. We are thrilled
+ to welcome you and your community to the City Campus. More information abo=
+ut the move can be found
+</span><a href=3D"https://www.auckland.ac.nz/en/news/notices/2023/the-epsom=
+-move.html"><span lang=3D"EN-GB" style=3D"font-size:11.0pt;color:blue">here=
+</span></a><span lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">.<o:=
+p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:6.0pt;text-align:justify;text=
+-autospace:none">
+<b><span lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">QS 2024 Sust=
+ainability rankings: 5<sup>th</sup> in the world, 1<sup>st</sup> in Oceania=
+<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">Just months after =
+being ranked 68<sup>th</sup> in the 2024 QS World University Rankings, Waip=
+apa Taumata Rau has been ranked fifth in
+ the world for sustainability and first in Oceania.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">This is the second=
+ year the QS organisation has highlighted the role universities play in tak=
+ing action to tackle the world=92s greatest
+ environmental, social and governance issues. Our fifth place has been asse=
+ssed against 1403 tertiary institutions worldwide, while our first place in=
+ Oceania ranks us at the top of 46 institutions in New Zealand, Australia a=
+nd the Pacific.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">Congratulations to=
+ everyone across our academic and professional staff who have contributed t=
+o our sustainability work.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">You can read more =
+about the rankings
+</span><a href=3D"https://www.auckland.ac.nz/en/news/2023/12/05/university-=
+excels-in-2024-qs-sustainability-rankings.html"><span lang=3D"EN-GB" style=
+=3D"font-size:11.0pt">on the News pages here</span></a><span lang=3D"EN-GB"=
+ style=3D"font-size:11.0pt;color:black">.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:6.0pt;text-align:justify;text=
+-autospace:none">
+<b><span lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">Gender Pay G=
+ap Report 2023<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">Today, we publish =
+the inaugural Gender Pay Gap report, part of our commitment to equity for s=
+taff.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">&nbsp;<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">The report shows a=
+n overall Gender Pay Gap (GPG) of 10.8 per cent, against a national average=
+ of 8.6 per cent. The report details gender
+ pay gaps for academic and professional staff and those with and without pe=
+rmanent roles at the University. It also outlines the plan to include gende=
+r and ethnicity intersections in next year=92s annual report.<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">&nbsp;<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">The Pro Vice-Chanc=
+ellor Equity, Professor Cathy Stinear, finalised the Gender Pay Gap Report =
+in collaboration with the People and Culture
+ portfolio. A sustainable plan for annual gender pay gap reporting has been=
+ developed, and next year=92s report will include gender-ethnicity intersec=
+tions. Key drivers of pay gaps, including the distribution of genders in se=
+nior roles and gender effects on performance
+ pay, will be investigated and reported next year. <o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">This report honour=
+s a commitment to
+</span><i><span style=3D"font-size:11.0pt;color:black">Taumata Teitei - Vis=
+ion 2030 and Strategic Plan 202</span></i><i><span lang=3D"EN-GB" style=3D"=
+font-size:11.0pt;color:black">5,</span></i><span lang=3D"EN-GB" style=3D"fo=
+nt-size:11.0pt;color:black"> recognising that
+ improving data and insights is a core component of a =91high performing, d=
+iverse, equitable and inclusive community.=92<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">&nbsp;<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">The findings are n=
+ot acceptable and make it clear that new approaches are needed to address t=
+he gap. With data providing a detailed understanding
+ of these pay gaps, and what perpetuates them, we will make renewed efforts=
+ to address structural and systemic issues.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">&nbsp;<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">More information, =
+including a link to this year=92s report, is available
+</span><a href=3D"https://www.auckland.ac.nz/en/news/2023/12/06/pay-gap-rep=
+ort.html"><span lang=3D"EN-GB" style=3D"font-size:11.0pt">on the News pages=
+ here</span></a><span lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"=
+>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><b>=
+<span lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:=
+p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">I am proud of what=
+ we have achieved and would like to acknowledge your work in taking our ins=
+titution forward, in your commitment to
+ excellence, and your efforts to challenge us to keep striving to be the be=
+st we can be for all.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN-GB=
+" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">Finally, please en=
+sure you have time to enjoy some end-of-year celebrations, and I hope that =
+you are able to take a restorative and restful
+ break after another busy year.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">Ka pai
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">Ng=E2 mihi nui<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">Dawn<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">Professor Dawn Fre=
+shwater<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-autospace:none"><sp=
+an lang=3D"EN-GB" style=3D"font-size:11.0pt;color:black">Vice-Chancellor<o:=
+p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+</div>
+</body>
+</html>
+
+--_000_SY7PR01MB8080595136BA405423D5653FDC85ASY7PR01MB8080ausp_--

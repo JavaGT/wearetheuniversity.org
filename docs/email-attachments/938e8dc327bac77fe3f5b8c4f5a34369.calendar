@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:New Zealand Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T030000
+TZOFFSETFROM:+1300
+TZOFFSETTO:+1200
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=1SU;BYMONTH=4
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:+1200
+TZOFFSETTO:+1300
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=9
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Dawn Freshwater:MAILTO:vice-chancellor@auckland.ac.nz
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=FALSE;CN=all-staff
+  Mailing List:MAILTO:all-staff@list.auckland.ac.nz
+DESCRIPTION;LANGUAGE=en-US:Topic:  Estate Strategy & Campus Updates\n\nNote
+ : To join the Vice-Chancellor’s All Staff Forum\, you must have the Zoom
+  client installed on your chosen device and be signed into the Zoom client
+  using your University username and password.\nInstructions are available 
+ here: https://uoaprod.service-now.com/sp?id=kb_article&sysparm_article=KB0
+ 015207\n\nPlease click the link below to join the webinar:\nhttps://auckla
+ nd.zoom.us/j/99876233027?pwd=d3ZSeCt1MXJ6Uy9kT2hZdHFwQm4vdz09\n\nPasscode:
+  855764\n\nOr One tap mobile :\n    New Zealand: +6448860026\,\,9987623302
+ 7#  or +6498846780\,\,99876233027#\n\nOr Telephone:\n    Dial(for higher q
+ uality\, dial a number based on your current location):\n        New Zeala
+ nd: +64 4 886 0026  or +64 9 884 6780  or +64 3 659 0603\n\nWebinar ID: 99
+ 8 7623 3027\n    International numbers available: https://auckland.zoom.us
+ /u/aebcdfvNov\n\nOr an H.323/SIP room system:\n    H.323:\n    162.255.37.
+ 11 (US West)\n    162.255.36.11 (US East)\n    115.114.131.7 (India Mumbai
+ )\n    115.114.115.7 (India Hyderabad)\n    213.19.144.110 (Amsterdam Neth
+ erlands)\n    213.244.140.110 (Germany)\n    103.122.166.55 (Australia Syd
+ ney)\n    103.122.167.55 (Australia Melbourne)\n    149.137.40.110 (Singap
+ ore)\n    64.211.144.160 (Brazil)\n    149.137.68.253 (Mexico)\n    69.174
+ .57.160 (Canada Toronto)\n    65.39.152.160 (Canada Vancouver)\n    207.22
+ 6.132.110 (Japan Tokyo)\n   149.137.24.110 (Japan Osaka)\n    Meeting ID: 
+ 998 7623 3027\n    Passcode: 855764\n    SIP: 99876233027@zoomcrc.com<mail
+ to:99876233027@zoomcrc.com>\n    Passcode: 855764\n\n
+SUMMARY;LANGUAGE=en-US:Vice-Chancellor's All Staff Forum
+DTSTART;TZID=New Zealand Standard Time:20231129T120000
+DTEND;TZID=New Zealand Standard Time:20231129T130000
+UID:040000008200E00074C5B7101A82E0080000000000F91EE8281EDA01000000000000000
+ 0100000003B52E7B2B8D32548B50608A5E2FA1ECE
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20231123T032553Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Zoom Webinar
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:-1019758617
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

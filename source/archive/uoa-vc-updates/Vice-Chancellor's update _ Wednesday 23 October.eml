@@ -1,0 +1,251 @@
+Received: from ME0P300MB0634.AUSP300.PROD.OUTLOOK.COM (2603:10c6:220:22c::13)
+ by SY3PPF1BF8F8C20.AUSP300.PROD.OUTLOOK.COM with HTTPS; Wed, 23 Oct 2024
+ 01:25:54 +0000
+Received: from SI1PR02CA0047.apcprd02.prod.outlook.com (2603:1096:4:1f5::15)
+ by ME0P300MB0634.AUSP300.PROD.OUTLOOK.COM (2603:10c6:220:22c::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8069.29; Wed, 23 Oct
+ 2024 01:25:48 +0000
+Received: from HK2PEPF00006FB3.apcprd02.prod.outlook.com
+ (2603:1096:4:1f5:cafe::82) by SI1PR02CA0047.outlook.office365.com
+ (2603:1096:4:1f5::15) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7982.34 via Frontend
+ Transport; Wed, 23 Oct 2024 01:25:47 +0000
+Authentication-Results: spf=pass (sender IP is 192.29.144.165)
+ smtp.mailfrom=rnmk.com; dkim=pass (signature was verified)
+ header.d=auckland.ac.nz;dmarc=pass action=none
+ header.from=auckland.ac.nz;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of rnmk.com designates
+ 192.29.144.165 as permitted sender) receiver=protection.outlook.com;
+ client-ip=192.29.144.165; helo=rntsd65.rnmk.com; pr=E
+Received: from rntsd65.rnmk.com (192.29.144.165) by
+ HK2PEPF00006FB3.mail.protection.outlook.com (10.167.8.9) with Microsoft SMTP
+ Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.8093.14 via
+ Frontend Transport; Wed, 23 Oct 2024 01:25:47 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkimrnt30191; d=auckland.ac.nz;
+ h=MIME-Version:Message-Id:To:Date:Subject:List-Unsubscribe:From:Reply-To:
+ Content-Type:Content-Transfer-Encoding; i=studentinfo@auckland.ac.nz;
+ bh=kXR68cWJuY2M7QkI5mp1+KydU9g=;
+ b=iD79I4lIbedFdW4iv5Qw0/5lXMAK2rF7OEmWwoGUcrqfixM/mp/GzMuZhAIZ9TM25BB5ns9JsCIz
+   +HB9XOwJdCDyPgjWlmUasHiCOBjjxet0QQyjX6ULjB8nCldeKLReaB1HVfZyLTka9dVsLvWc+fda
+   ELcK4xkugDpltcPtdlY=
+Received: from rnmdsd01.int.rightnowtech.com (10.144.0.90) by rntsd65.rnmk.com id h3189m35r8g1 for <>; Wed, 23 Oct 2024 12:24:31 +1100 (envelope-from <uoa_mktg@rnmk.com>)
+Message-Id: <RNTM.AvN8~wrdDv8S~xb~Gv_U~yIYlaoqdR37ufQRSz7~Pv~Y.0.1729646652.3BU9.777949@rnmdsd01.int.rightnowtech.com>
+To: 
+Date: Wed, 23 Oct 2024 14:24:12 +1300 (NZDT)
+Subject: Vice-Chancellor's update | Wednesday 23 October
+List-Unsubscribe: <mailto:studentinfo@auckland.ac.nz?subject=Unsubscribe AvN8~wrdDv8S~xb~Gv_U~yIYlaoqdR37ufQRSz7~Pv~Y>
+From: "University of Auckland" <studentinfo@auckland.ac.nz>
+Reply-To: "University of Auckland" <studentinfo@auckland.ac.nz>
+Content-Type: Text/Html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Return-Path: uoa_mktg@rnmk.com
+X-MS-Exchange-Organization-ExpirationStartTime: 23 Oct 2024 01:25:47.8249
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 5171410d-eac6-452f-7e49-08dcf3019f9e
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: d1b36e95-0d50-42e9-958f-b63fa906beaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: HK2PEPF00006FB3:EE_|ME0P300MB0634:EE_|SY3PPF1BF8F8C20:EE_
+X-MS-Exchange-Organization-AuthSource: HK2PEPF00006FB3.apcprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: 5171410d-eac6-452f-7e49-08dcf3019f9e
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|4022899009|69100299015|8096899003|4076899003;
+X-Forefront-Antispam-Report: CIP:192.29.144.165;CTRY:AU;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:rntsd65.rnmk.com;PTR:rntsd65.rnmk.com;CAT:NONE;SFS:(13230040)(4022899009)(69100299015)(8096899003)(4076899003);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 23 Oct 2024 01:25:47.4499
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 5171410d-eac6-452f-7e49-08dcf3019f9e
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-AuthSource: HK2PEPF00006FB3.apcprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: ME0P300MB0634
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:06.8020019
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.8069.009
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?V05zSzJSNnNXUkVzL2Y4NVdvYjliTFFnbUxLTVNpWEg2S3hob1g2NzE4dEdn?=
+ =?utf-8?B?ZC9FZGp3cEdpSDhPMmVickx4UXVKeGxqZGUzRzg0UFlpZkN4ZElJak1MTWE1?=
+ =?utf-8?B?VUN5VVJ2QXhzdWNDSzNOTXNZeXc0MDcwTkhzUkVWMzNkOVRFSkJGV01BNGZN?=
+ =?utf-8?B?SXRTU0dlUHhsNjhhZ1B5aDJpOVZsWldTZndTRGxpOEhhRTRFQVp4SElOK0dG?=
+ =?utf-8?B?MnZEOGhFbHJZcTJjUkRuVGx4b0Y1Y09jS1h3RDllMjR5TFV6WXpFT0NSenQ1?=
+ =?utf-8?B?Z1o4aEFtV1d5bndueFc1aDB5U0FteG1lSjRuMUtuYWdsOTJmc3NXSisvNnpF?=
+ =?utf-8?B?bHl4cmJTcVpvNnd5QUZTYnZrUWMxSklLTzNiNjFpQ0p6eFVoQnpKbm9uVmZm?=
+ =?utf-8?B?QURuMExTaW13MVFhc0dvKytmak5SWGF0TkdUSjhnRVE3TDJhdG1YRWcxZUIz?=
+ =?utf-8?B?L2xTVExWMTd2ckU4NjVKcll4bUk3SHBuZjJEMWRxbTZ2QzFBcmdGUGxtRU1Z?=
+ =?utf-8?B?YW8vTllKKy8rcFVkelBzemN0dVBuKzE4SnlkZzAxRjR0QVhGclFsNC9RTGZL?=
+ =?utf-8?B?MEE3V1ltVUtqRHhrZ1kzbVZaMUVXWUw4c1R0N052T3B6ZXZQOVl3SlpFRmh0?=
+ =?utf-8?B?RWdaZHJ3YmQ5bEcwdXM2WXdzMUhXc25udzV0bHhYbTNRTVlhUS9XSzdZTG9B?=
+ =?utf-8?B?dEpTVmlScG9lcGFOQ1N4RUs2b0ZjUXRMV2JaZzJucHFlRkRpV3A1b0hyS3Vj?=
+ =?utf-8?B?Tjh5NE0veGdPSWpvb2xSU1U5akk4K0JIa1ZwaDdFZ3ByWmhSa2tVNnNYMXpB?=
+ =?utf-8?B?Ykl0Vyt2dS85NlA4Vjlia2NuWHhTTjJjOERLaUdjYU1GeFE1TTNIS2VvSTFL?=
+ =?utf-8?B?aFM0QUU4WGtpQlZBUlQzcWxwL3IxY1RReXZwdUF0K1lSZWhRUXBwMVpRWDlX?=
+ =?utf-8?B?MDY3T1ZQc2lTNU5mRWhKVmY2ZWcvV2FLVExmcnlGcDc2aTB1WDJHMGFCUFJJ?=
+ =?utf-8?B?dFRqeGRKVUluTUtyVTgzWjhnak8yTk0wZUlwbHladm43YnVLVXE1L3d3NnFH?=
+ =?utf-8?B?T3RNK3lKWkF0bnFzYXNTRWdDZ1Q0NmpRMDArNktpL2ZFVTJmRUpYY0dRQjV1?=
+ =?utf-8?B?S0FSV3dESFltYTFPN0JpWWlISWhTOGFRWThLbGM3QW4zclNjQkZ0OUtvSm85?=
+ =?utf-8?B?aUt1RFRESkl1R1g0LzdhZWlTRlZJcUNwZHJEZW9lMXFsTmxNSDdHeStsVVJG?=
+ =?utf-8?B?MFJ5bnB4SEJVRlVZeDBqYTd4ZWJYTGhJQlNjUkVQbW53VEVmeWtIU3RlSFNu?=
+ =?utf-8?B?Y0NyZElRZ25FZDVCSGUzUzhOLzRheWs0T1k0ZTl4WGc4RjZybzgyU2hrd0V5?=
+ =?utf-8?B?Z3VYaGw3Z1lNNi9aenVXNlFGeWsxeUp0Q0hVNE4rQ01BZ1VEcThEOUJIdHVS?=
+ =?utf-8?B?TXNHaTFCY2VKQWZqZDZ5NkRrSzBGWXVUM1lHc2lJTDJiRDNwbEU3N0FEalJH?=
+ =?utf-8?B?UjYyZTQzSGxPWXlwSmlGNFFtU1ZUU0NaWFlZeXcxT2dtakxtSUhqcU9yY3lT?=
+ =?utf-8?B?S0VvaXZFdEdYR0gvVFJGVDEvRDN1MVhmbHVEMUNMYmwxcExRSUdhdXB4Wjd4?=
+ =?utf-8?B?STlLSlIvZXg3SThJYXRtK3ZNZmQrdmxEa0tPYTJ2QXAxLzRuQlJHbVMzd3Vo?=
+ =?utf-8?Q?bIKNEWSXoVoQQnH8wU2v?=
+MIME-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=
+=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-microsoft-com:offi=
+ce:office" xmlns:rn=3D"http://schemas.rightnow.com/crm/document"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><t=
+itle></title>
+                                                                    =20
+</head>
+<body>
+
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#BDC5C=
+C">
+<tbody>
+<tr>
+<td>
+<p>&nbsp;</p>
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"700" align=3D"center">
+<tbody width=3D"700px" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td bgcolor=3D"#FFFFFF" height=3D"76" width=3D"700"><img alt=3D"Image" bord=
+er=3D"0" src=3D"http://media.auckland.ac.nz/rightnow/OfficialCommunications=
+/scc/updated-logo/updated-logo-1.png"></td>
+</tr>
+<tr>
+<td style=3D"WIDTH: 700px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIG=
+HT: 2px" bgcolor=3D"white" valign=3D"top" border=3D"0">
+<p style=3D"FONT-SIZE: 8pt; FONT-FAMILY: Verdana" align=3D"center">&nbsp;</=
+p>
+</td>
+</tr>
+<tr>
+<td style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; WIDTH: 700px; PADDING-T=
+OP: 5px; PADDING-LEFT: 25px; PADDING-RIGHT: 25px" bgcolor=3D"white">
+<p align=3D"center"><span style=3D"FONT-SIZE: 8pt; COLOR: #808080">This ema=
+il is&nbsp;intended for</span><span style=3D"FONT-SIZE: 8pt; COLOR: #808080=
+"></span> <span style=3D"FONT-SIZE: 8pt; COLOR: #80808=
+0">(Username:&nbsp;<span style=3D"COLOR: #808080"></span>).<br>
+If you received this email in error, please advise us by return email.</spa=
+n></p>
+<p style=3D"FONT-FAMILY: Verdana">Kia ora&nbsp;t=C4=81tou,</p>
+<p style=3D"FONT-FAMILY: Verdana">I hope you are enjoying the spring days. =
+As we head towards the end of Semester Two, 2024 continues to be filled wit=
+h many positive achievements.<br>
+<br>
+<span style=3D"FONT-WEIGHT: bold">Centre for Innovation and Entrepreneurshi=
+p (CIE) celebrates 21 years</span><br>
+<br>
+Last week marked CIE=E2=80=99s 21st anniversary. This is a timely milestone=
+ as innovation and entrepreneurship, alongside commercialisation of researc=
+h at the highest levels, are crucial to the future of higher education. Fit=
+tingly, these efforts were recognised with the University named top for the=
+ second consecutive year in a survey highlighting the most active start-up =
+and spin-out companies in New Zealand and Australia. Learn more about the C=
+IE=E2=80=99s journey and achievements in the&nbsp;<a style=3D"TEXT-DECORATI=
+ON: underline" href=3D"https://uoa.custhelp.com/rd?1=3DAvN8~wrdDv8S~xb~Gv_U=
+~yIYlaoqdR37ufQRSz7~Pv~Y&amp;2=3D41564">21 years of smart ideas news story<=
+/a> and the survey results in the <a style=3D"TEXT-DECORATION: underline" h=
+ref=3D"https://uoa.custhelp.com/rd?1=3DAvN8~wrdDv8S~xb~Gv_U~yIYlaoqdR37ufQR=
+Sz7~Pv~Y&amp;2=3D41565">University at number one in SCOPR survey article</a=
+>.<br>
+<br>
+<span style=3D"FONT-WEIGHT: bold">Teaching Excellence Awards 2024</span><br=
+>
+<br>
+I am pleased to congratulate our staff who have excelled in this year=E2=80=
+=99s University of Auckland Teaching Excellence Awards. Please join me in r=
+ecognising <span style=3D"FONT-WEIGHT: bold">Dr Nasser Giacaman</span> (Fac=
+ulty of Engineering) and <span style=3D"FONT-WEIGHT: bold">Dr Karen Huang</=
+span> (Faculty of Arts) for Sustained Excellence in Teaching. <span style=
+=3D"FONT-WEIGHT: bold">Dr Amar AI Auckaili</span> (Faculty of Engineering) =
+and <span style=3D"FONT-WEIGHT: bold">Dr Moeata Keil</span> (Faculty of Art=
+s) for Early Career Excellence in Teaching. <span style=3D"FONT-WEIGHT: bol=
+d">Emma Sadera</span> (Faculty of Medical and Health Sciences) for Leadersh=
+ip in Teaching and Learning.<br>
+<br>
+<span style=3D"FONT-WEIGHT: bold">Celebrating Research Excellence Awards 20=
+24</span><br>
+<br>
+The 2024 Celebrating Research Excellence awards ceremony also took place la=
+st week. Held annually, it honours staff for their contributions to society=
+, the environment and the economy. Once again, the standard was exceptional=
+ly high, filling us with confidence for the future and excitement about the=
+ positive impact they will have on the University and the wider community. =
+Congratulations to all winners. Watch videos of the winners on our News pag=
+es:</p>
+<ul>
+<li><span style=3D"FONT-FAMILY: Verdana"><a style=3D"TEXT-DECORATION: under=
+line" href=3D"https://uoa.custhelp.com/rd?1=3DAvN8~wrdDv8S~xb~Gv_U~yIYlaoqd=
+R37ufQRSz7~Pv~Y&amp;2=3D41566">Meet the Research Excellence Medal and Resea=
+rch Impact Award Winners 2024</a></span></li>
+<li><span style=3D"FONT-FAMILY: Verdana"><a style=3D"TEXT-DECORATION: under=
+line" href=3D"https://uoa.custhelp.com/rd?1=3DAvN8~wrdDv8S~xb~Gv_U~yIYlaoqd=
+R37ufQRSz7~Pv~Y&amp;2=3D41567">Meet the Early Career Research and Best Thes=
+is award winners 2024</a></span></li>
+<li><span style=3D"FONT-FAMILY: Verdana"><a style=3D"TEXT-DECORATION: under=
+line" href=3D"https://uoa.custhelp.com/rd?1=3DAvN8~wrdDv8S~xb~Gv_U~yIYlaoqd=
+R37ufQRSz7~Pv~Y&amp;2=3D41568">Meet the inaugural Te Rau Hiringa award winn=
+ers</a></span></li>
+</ul>
+<p><span style=3D"FONT-FAMILY: Verdana"><span style=3D"FONT-WEIGHT: bold">C=
+onsultation: Draft Child Protection Policy</span><br>
+<br>
+The draft of the updated Child Protection Policy is open for consultation u=
+ntil 5pm, Friday 8 November. It complies with&nbsp;<a style=3D"TEXT-DECORAT=
+ION: underline" href=3D"https://uoa.custhelp.com/rd?1=3DAvN8~wrdDv8S~xb~Gv_=
+U~yIYlaoqdR37ufQRSz7~Pv~Y&amp;2=3D41571">section 19</a> of the Children=E2=
+=80=99s Act 2014 and prescribes procedures to follow if you suspect child a=
+buse or have well-being concerns about a child while providing children=E2=
+=80=99s services at the University. Feedback can be submitted using this <a=
+ style=3D"TEXT-DECORATION: underline" href=3D"https://uoa.custhelp.com/rd?1=
+=3DAvN8~wrdDv8S~xb~Gv_U~yIYlaoqdR37ufQRSz7~Pv~Y&amp;2=3D41570">survey link<=
+/a>.<br></span></p>
+<p style=3D"FONT-FAMILY: Verdana">Ng=C4=81 mihi nui,</p>
+<p style=3D"FONT-FAMILY: Verdana">Dawn</p>
+<p style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; WHITE-SPACE: normal; WOR=
+D-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(66,66,66=
+); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: =
+normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-=
+ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0p=
+x; text-decoration-thickness: initial; text-decoration-style: initial; text=
+-decoration-color: initial"><span style=3D"FONT-WEIGHT: bold; COLOR: #00000=
+0">Professor Dawn Freshwater</span><br>
+<span style=3D"COLOR: #000000">Vice-Chancellor</span><br>
+<span style=3D"COLOR: #000000">Waipapa Taumata Rau | University of Auckland=
+</span><br>
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#00457D" height=3D"11" width=3D"700">
+<p style=3D"FONT-SIZE: 8pt; FONT-FAMILY: Verdana; COLOR: #ffffff" align=3D"=
+center">Copyright =C2=A9 The University of Auckland, Private Bag 92019, Auc=
+kland 1142, New Zealand</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt=3D"" height=3D"1" width=3D"1" style=3D"display: none" src=3D"https=
+://uoa.custhelp.com/rd/AvN8~wrdDv8S~xb~Gv_U~yIYlaoqdR37ufQRSz7~Pv~Y.gif"> <=
+/body>
+</html>
+

@@ -67,6 +67,7 @@ function formatHeaders(parsed) {
             if (header === 'date') {
                 return [header, value.toISOString().split('T')[0]]; // Format date as YYYY-MM-DD
             }
+            if (!value.replaceAll) return [header, '']; // Handle empty values
             value = `"${value.replaceAll('"', "'")}"`
             return [header, value];
         })
