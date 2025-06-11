@@ -6,8 +6,6 @@ author: Java Grant
 author-slug: java-grant
 ---
 
-# **Online submission to the Education and Workforce Committee regarding the *Education and Training Amendment Bill (No 2\)***
-
 I am writing to express my strong opposition to the Education Amendment Bill (No 2). 
 
 As a PhD researcher examining the future of Universities in Aotearoa, I am distressed by the introduction of a very American framework inappropriate for the context of New Zealand.
