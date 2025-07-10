@@ -1,0 +1,6649 @@
+---
+title: Craccum Archive
+slug: student-magazine-archives/craccum
+date: 2024-08-31
+source: https://web.archive.org
+source_name: Wayback Machine
+author: Java Grant
+---
+
+Going through student histories is a bit difficult because of the changing structure of the Craccum website.
+I've composed working internet archive links for the issues I could find.
+
+There is work to still be done here.
+
+<script src="/table-of-contents.js"></script>
+
+
+## 2012
+
+### Issue 00 2012
+- [Editorial](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=151)
+- [Mervin Matters](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=86)
+- [Amnesty on Campus](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=84)
+- [Letters](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=82)
+- [CRACwipe 2011](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=79)
+- [Let's Talk About Love](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=77)
+- [The Art of Jamie Chapman](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=73)
+- [The Figure of the Student](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=71)
+- **[Health is Not A Priority - Profit is](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=69)**
+- **[Politics 245: Capitalism and Its Critics](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=67)**
+- [Politics 236: Propoganda in War and Peace](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=65)
+- [Book Review: The Man Who Mistook His Wife For A Hat](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=63)
+- [Book Review: The Story of My Life](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=61)
+- [Album Review: Path of Totality](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=59)
+- [Album Review: Ghost of Cimarron](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=57)
+- [Album Review: Camp](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=54)
+- [I Wanted To Make A Good Chemistry Joke, But The Best Ones Argon](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=52)
+- [Michael Parekowhai,Kapa Haka, 2008](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=47)
+- [How to Waste Time on Video Games without Flunking Out](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=44)
+- [Board Gaming with a Twist of Lime](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=42)
+- [Game Review: Sonic Generations (360/PS3/PC)](https://web.archive.org/web/20130208215816/http://craccum.ausa.auckland.ac.nz/?p=40)
+
+### Issue 01 2012
+- [Editorial](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=146)
+- [Mervin Matters](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=143)
+- [Poem: Porto](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=141)
+- [How to be Cool 101](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=139)
+- [Letters](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=134)
+- [CRACwipe 2011](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=131)
+- **[A Brief History of Student Debt](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=129)**
+- **[The Anti-Architects of Debt](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=127)**
+- **[Disabled Students at Uni](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=125)**
+- **[Housing](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=123)**
+- **[Beneficiary Bashing and the National Party](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=121)**
+- **[Do the global elite help or hurt the masses?](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=119)**
+- [The Unsane Musings of an Autistic Mind](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=117)
+- **[A Response to Paul Holmes](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=114)**
+- [A Response to Paul Holmes](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=112)
+- **[State of the University](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=109)**
+- **[Should we be paying to be taught climate denial?](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=107)**
+- [Eco-Matters](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=105)
+- [Wine](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=103)
+- [Bier Essentials: Krombacher](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=100)
+- **[Scare the Normals](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=98)**
+- [alizarinlizard](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=96)
+- [Law 121G: Law and Society](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=93)
+- [Book Review: Catch 22](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=91)
+- [Game Review: Fate of the World (PC)](https://web.archive.org/web/20130208215756/http://craccum.ausa.auckland.ac.nz/?p=89)
+
+### Issue 02 2012
+- [Shortsighted Salmon](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=209)
+- [Marvin Matters - Nek Minute](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=206)
+- [Marvin Matters - Despair](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=203)
+- [Editorial](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=200)
+- [First Up](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=198)
+- [Poetry: \[A Night Street\]](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=195)
+- [Letters](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=192)
+- [The Daily Mail Reader Lurks in All of US](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=190)
+- **[Protests - The Light of Freedom](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=188)**
+- **[Protests - Burnin' and Lootin': The London Riots](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=186)**
+- **[Protests - A History](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=184)**
+- [The Arms Trade Treaty and Civil Protest](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=181)
+- **[Uni Life is one hell of an eye-opener](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=178)**
+- [The Unsane Musings of an Autistic Mind](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=175)
+- **[A Bitter Future For Workers](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=173)**
+- **[Is social media an effective means of protest?](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=170)**
+- [The Red Ink](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=168)
+- [Wine: Riesling, Riesling, Riesling!](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=166)
+- [Bier Essentials: Better enjoying beer](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=164)
+- [Alabama 3 Live and Unplugged](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=162)
+- **[You Say You Want a Revolution?](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=160)**
+- [Maths 101](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=158)
+- [Shake Your Spear](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=156)
+- [Book Review: You Can’t Be Neutral On A Moving Train: A Personal History of Our Times](https://web.archive.org/web/20130208215729/http://craccum.ausa.auckland.ac.nz/?p=154)
+
+### Issue 03 2012
+- **[The Problem of violence.](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=270)**
+- [A Close-Reading Of Rebecca Black’s Song Friday Which Appears To Be](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=268)
+- [Letters](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=265)
+- **[The Indian Revolt](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=263)**
+- **[Students and Revolt](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=261)**
+- **[Student Revolt - From Tehran to Aotearoa](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=259)**
+- [The Coming Insurrection](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=257)
+- [Overheard @ O-Week](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=254)
+- **[Why Are You At University?](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=252)**
+- [The Unsane Musings of an Autistic Mind](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=250)
+- **[Can't Pay, Won't Pay](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=248)**
+- [Should we support military intervention in Syria?](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=246)
+- [No East Coast Fracking & Drilling](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=244)
+- **[The Banking Concept of Education](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=242)**
+- [Interview: Tariq Ali](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=240)
+- [Does Israel want a ‘no state solution’?](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=238)
+- [Art: Billy Apple, From the University of Auckland Art Collection, 2008](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=236)
+- [Bier Essentials: Moa Original](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=233)
+- [Artist Profile: Paul Ubana](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=231)
+- [WOMAD](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=229)
+- [Talking Music, Arts and Dance](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=227)
+- [Chronicle](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=225)
+- [Film Review: Tinker Tailor Soldier Spy](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=223)
+- [Film Review: The Harder They Come](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=221)
+- [Frantz Fanon](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=219)
+- [Book Review: Not Just Cobbers and Cowpats](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=217)
+- [UnNatural Acts](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=215)
+- [Theatre Review: Top Girls](https://web.archive.org/web/20130208215710/http://craccum.ausa.auckland.ac.nz/?p=213)
+
+### Issue 04 2012
+- **[Occupy?](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=334)**
+- [First Up](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=332)
+- [Poetry - Untitled by Philip McKibbin](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=330)
+- [Marvin Matters - Suave](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=327)
+- [Womans Day](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=323)
+- [Letters](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=321)
+- [British Managers Operate to Save New Zealand’s Health](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=319)
+- **[The Coming Insurrection](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=317)**
+- **[An Anxious Activist](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=315)**
+- [The Unsane Musings of an Autistic Mind](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=311)
+- **[Occupation Theory](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=309)**
+- **[Theory Turns to Practice](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=306)**
+- **[A Legal Guide to Reclamation](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=304)**
+- **[The Complete Guide to Successful University Administration](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=302)**
+- [Everyone has a bus driver story](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=300)
+- [Letter to a friend and colleague](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=298)
+- [The Weather & Capitalism - An Engineers Perspective](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=296)
+- [Jack White: Art Examines the Dynamics of Power](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=293)
+- [Labouring Through the Lamington Quagmire](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=291)
+- **[We All Wanna Change the World...](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=289)**
+- **[The Necrosocial - Civic Life, Social Death, and the University of California](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=286)**
+- **[Combat Liberalism](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=284)**
+- [Bier Essentials: 8 Wired Hopwired](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=282)
+- [Changing the Game with Sam Neill - A Film Introduction](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=280)
+- [Film Review: The Weather Underground](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=278)
+- [Film Review: Martha Marcy May Marlene](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=276)
+- [Film Review: Blue Velvet (1986)](https://web.archive.org/web/20130208215647/http://craccum.ausa.auckland.ac.nz/?p=273)
+
+### Issue 05 2012
+- [Shit the Bed, Laugh or Cry](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=630)
+- [Mervin Matters - Keen but Crap](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=627)
+- [The Urewera Trial](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=624)
+- [Poetry: A Night Street](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=622)
+- [Letters](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=620)
+- [Attention Scum... You are all Sheep.](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=617)
+- [Welcome to Veda](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=614)
+- [Is Dubstep the Beginning of the End?](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=611)
+- [Amnesty and the Niger Delta](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=609)
+- [Eye on Exec](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=606)
+- **[University Says Lost Property will "Remain Lost"](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=604)**
+- **[The End of Student Control of Student Affairs?](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=602)**
+- [Unsane Musings of an Autistic Mind](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=600)
+- [On The Waterfront](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=595)
+- **[McCutcheon's Brain](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=592)**
+- [Cynicism, Irony and Comic Relief (and Comic Relief)](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=589)
+- **[Owen G. Glenn Building... Abandoned](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=586)**
+- [Mervin Matters - Paranoia](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=581)
+- [Kony Wa Wa - Student posts Kony 2012 Video Online, Makes a Difference](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=577)
+- [Why Singers Can't Sing](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=574)
+- [Wine: The Diary of the Not-So-Average Student Wino](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=572)
+- [Bier Essentials: On The Purification of Water](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=569)
+- [Hip Hop Minimalism - The Long Lost Art of Minimalist Rap](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=566)
+- [Album Review: Free All The Monsters](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=562)
+- [Live Music: Ariel Pink's Haunted Graffiti](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=560)
+- [Film Review: The Artist](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=557)
+- [Film Review: We Need To Talk About Kevin](https://web.archive.org/web/20130208215628/http://craccum.ausa.auckland.ac.nz/?p=555)
+
+### Issue 06 2012
+- [Guest Editorial](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=710)
+- [Useful Contacts for Abuse Survivors](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=708)
+- [Editorial](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=706)
+- [Letters](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=704)
+- [The Unsane Musings of An Autistic Mind](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=701)
+- [Rape Culture 101 (Trigger Warning)](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=699)
+- [Sexual Violence in New Zealand (Trigger Warning)](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=691)
+- [Rape is Not Cool (Trigger Warning)](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=689)
+- [To all those men who don’t think the rape jokes are a problem (Trigger Warning)](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=687)
+- [Supply & Demand - The drivers behind commercial sex abuse](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=685)
+- [Some ponderings on transmasculine trajectories through Rape Culture](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=681)
+- [Rape: It’s Just a Social Media Trend](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=679)
+- [Feminism for Blokes](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=676)
+- [Police Brutality & Other Stories - The Work of Emil McAvoy](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=674)
+- [Sonny-Bill](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=672)
+- [Out of food](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=669)
+- [Mervin Matters - Break Ups](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=667)
+- [State Rape - Rapey Republicans Refuse to Respect Rights](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=665)
+- [What Happened to Entertainment?](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=662)
+- [The Feminist Movement Should Oppose Pornography](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=660)
+- [CUNT: A Declaration of Independence by Inga Muscio](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=658)
+- [Book Review: Lucky](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=655)
+- [Giant Robot Relationships: It’s complicated](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=653)
+- [Movie Review: Serenity](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=651)
+- [Bier Essentials: Wedding Beers](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=649)
+- [Wine: The Diary of the Not-So-Average Student Wino - Where Oh Where??](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=647)
+- [Sexual Assault Prevention Tips Guaranteed to Work](https://web.archive.org/web/20130208193117/http://craccum.ausa.auckland.ac.nz/?p=645)
+
+### Issue 07 2012
+- [Editorial](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=831)
+- [Mervin Matters - Education](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=829)
+- [Your daily dose of Inspiration](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=825)
+- [Poetry: Untitled](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=823)
+- [Poetry: Tea Time for Two](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=820)
+- [Letters](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=816)
+- **[An Open Letter to AUSA Regarding Auckland ProLife](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=813)**
+- [The Unsane Musings of an Autistic Mind](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=810)
+- [Fair Trade: Why it Matters](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=806)
+- [State Killers - Amnesty International Reports On The Death Penalty In 2011](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=804)
+- **[Expensive O-Week Flop?](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=802)**
+- [Crac-News](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=800)
+- [World News](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=798)
+- [Incendiary Days and Nights - Some Like It Hot: John Sanders, Editor of Craccum in 1964](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=793)
+- **[The Coming Insurrection](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=789)**
+- [This house would ban websites glamourising eating disorders](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=787)
+- [Mantra Meditation, Eh?!](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=785)
+- **[Green Piece: OMG! What if the Hippies are right?! LOL!](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=782)**
+- [Uni Parenting](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=776)
+- [Relaxing Urban Limits will lead to sprawl and a less productive economy](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=773)
+- [The Wisdom of Diogenes](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=771)
+- [Mervin Matters - Disappointment](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=768)
+- [The Rants of a Science Student](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=766)
+- [Don't Judge a Book by its Cover](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=763)
+- [New Smokefree Campus Sign Appears Mysteriously Overnight, Proclaimed Messiah](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=760)
+- [Centre Stage](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=758)
+- [Obama's Broken Promise](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=756)
+- [Art: Wellington ART](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=754)
+- [Art: Degas to Dali](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=752)
+- [Wine: Where to Shop 1 - The Wine Vault](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=750)
+- [Cheap Eats Guide: The Bluebird Vegetarian Cafe](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=747)
+- [Album Review: A New Hat and A Haircut](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=744)
+- [Album Review: The Fruit of My Labour](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=742)
+- [Album Review: Kill For Love](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=736)
+- [Interview: Grass Cannons](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=734)
+- [Silo Presents Tribes](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=732)
+- [Film Review: Submarine](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=730)
+- [Film Review: Carnage](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=727)
+- [Film Review: The Hunger Games](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=724)
+- [Film Review: Blade Runner](https://web.archive.org/web/20130208193054/http://craccum.ausa.auckland.ac.nz/?p=722)
+
+### Issue 08 2012
+- [Editorial](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=919)
+- [Equal Love Deserves Equal Recognition](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=916)
+- [An Open Letter from Prolife Auckland: What’s Yours Is Mine](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=914)
+- [Letters](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=912)
+- [Crac-News](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=910)
+- [World News](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=908)
+- [Schindlers List - The Good Nazi: Fair Trade and Enjoying the Holocaust](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=906)
+- [Roger Award 2011](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=904)
+- [Art to Aid The Cuban Five](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=900)
+- **[100% Not Ours Anymore? It’s Time For Truth About How Much New Zealand Land Is Foreign-Owned](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=897 "100% Not Ours Anymore?  It’s Time For Truth About How Much New Zealand Land Is Foreign-Owned")**
+- [Govt’s welfare reforms leading to successful schemes being cut](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=893)
+- [Uni Parenting](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=890)
+- **[Fascism and the University](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=887)**
+- [I Don’t Know Karate But I Know Ka-razee… Ka-Pow!!](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=885 "I Don’t Know Karate But I Know Ka-razee… Ka-Pow!!")
+- [Third Circle “Life, health and love are precarious – why should work be an exception?”](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=883)
+- [Power Hour](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=880)
+- [Experiences, I’ll try anything once... On the Way Out](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=878)
+- [UniSec - The Truth behind the Legend behind the Myth that is Aotearoa University Security](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=876)
+- [He Tangata (Part 1)](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=874)
+- **[Fucking Idiots](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=872)**
+- [Bier Essentials: Bier Festival 2012](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=868)
+- [Album Review: Mista Thug Isolation](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=864)
+- [Album Review: Racing into the Sun](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=862)
+- [Music Review: Born Ready to Die](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=860)
+- [Book Review: Black Tide](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=858)
+- [Rundown of the bFM Top 10](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=855)
+- [Cheap Eats: Hare Krishna Food For Life](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=853)
+- [This is a Non-Review of A Seperation (2011)](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=851)
+- [Movie Review: Battleship](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=848)
+- [Movie Review: The Hunger Games](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=845)
+- [Movie Review: Batman Returns](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=842)
+- [Theatre Review: Jersey Boys](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=839)
+- [Last Thoughts](https://web.archive.org/web/20130208193031/http://craccum.ausa.auckland.ac.nz/?p=837)
+
+### Issue 09 2012
+- [Editorial](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=1022)
+- [Dave's Word of the Week](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=1019)
+- [Poetry - Untitled](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=1017)
+- [Letters](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=1013)
+- [Crac-News](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=1011)
+- [World News](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=1008)
+- [The Maple Spring](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=1005)
+- [Fans Of Madonna Bash New Album As Being “Deep, Relevant, Addressing Social Issues”](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=1002)
+- [Man Eaten by Eldritch Horror, Continues to Tweet](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=999)
+- [CERN weaponizes Large Hadron Collider - Declares war on Earth.](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=996)
+- [Tweetoscopes](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=994)
+- **[John Key's Double Standard](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=992)**
+- [Let's Clear Up Banks' Confusion](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=990)
+- [The Unsane Musings of an Autistic Mind - The Aftermath](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=985)
+- [The Truth Shall Kill You, Sorry to Point That Out!!](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=983)
+- [The Panda and The Bear - Why they Support the Syrian Lion](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=979)
+- [The Fourth Circle - “More simple, more fun, more mobile, more secure!”](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=977)
+- **[The Adventures of Stuart McCutcheon](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=974)**
+- [Keen but Crap - Camping](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=971)
+- [Mervin Matters - Toi O Tāmaki](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=968)
+- [He Tangata (Part 2)](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=965)
+- [Bier Essentials: Lindeman's Gueuze](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=961)
+- [Cheap Eats Guide: Revive Cafe](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=958)
+- [Interview With Human Person - Completely Legit](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=955)
+- [EP Review: Street Halo / Kindred](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=951)
+- [EP Review: Live in Dunedin](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=949)
+- [Album Review: Peanut Butter Blues and Melancholy Jam](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=947)
+- [Rundown of the NZ Top Ten](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=944)
+- [Retro Film: How to Get Ahead in Advertising - 80’s Classic Worth Re-visiting](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=942)
+- [Movie Review: The Grey](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=937)
+- [Movie Review: The Avengers](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=934)
+- [Movie Review: Scott Pilgrim vs. the World](https://web.archive.org/web/20130208193012/http://craccum.ausa.auckland.ac.nz/?p=932)
+
+### Issue 10 2012
+- [Editorial](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1160)
+- [Dead Poets Society](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1157)
+- [Dave's Word(s) of the Week](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1155)
+- [Letters](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1153)
+- [Urewera 4: State Nil](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1151)
+- [Crac-News](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1149)
+- [World News](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1146)
+- [In The News: Queue Jumpers & People Smugglers](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1143)
+- [Veda - Nourishing Mind, Body And Lest We Forget The Soul](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1141)
+- [Aspie, Interupted](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1139)
+- [Living on a Budget - Pasta Sauce](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1135)
+- **[The Prime Minister Should Have Stood John Banks Down From The Outset](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1132)**
+- **[Govt needs to do the research on student loans](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1129)**
+- [The Crank - A Column about Shit That Grates.](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1126)
+- [Testing Times](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1123)
+- [Te Manaaki](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1121)
+- [From Houdini to Al-Assad, and the Great Magic Trick](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1116)
+- **[A Facelift for the University Strategic Plan](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1114)**
+- **[Where Is The University Going?](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1112)**
+- **[The Strategic Plan](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1110)**
+- **[Trust No One? Deception of Fare Value](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1107)**
+- [Environment Court Ruling Sounds Death Knell For Climate](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1105)
+- [100% Pure New Zealand?](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1103 "100% Pure New Zealand?")
+- **[And Now for Some Liberal Moralising. Apparently.](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1101)**
+- [Vegetarianism and other sustainable habits](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1098)
+- [In Praise of Procrastination](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1095)
+- [Keen but Crap - Parenting](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1092)
+- [Mervin Matters - Sexuality](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1090)
+- [A Carefree Universe](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1086)
+- [Passive-Agressive Notes: The Ups and Downs of Elevator Users](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1082)
+- **[Fear And Loathing And Fair Trade In Auckland University](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1076)**
+- [The Question of Fair Trade](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1073)
+- [I’m going to blow your mind. (By not blowing your mind)](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1071)
+- [Fifth Circle - “Less possessions, more connections!”](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1068)
+- [Mesmerising Digitally-Manipulated Scenes Of Consumerism From Auckland Artist](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1066)
+- **[The Illusion of Competence - Gay Williams](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1062)**
+- [Bier Essentials: Renaissance Stonecutter](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1059)
+- [Cheap Eats Guide: Daikoku Ramen](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1057)
+- [Interview: Home Brew's Haz Beats and Tom Scott](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1055)
+- [Album Review: Doug Jerebine is Jesse Harper](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1053)
+- [Interview: The Black Seeds' Mike Fabulous](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1050)
+- [Album Review: Black is Beautiful](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1047)
+- [Movie Review: Ghost Rider 2: Spirit of Vengeance](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1045)
+- [Movie Review: Gainsbourg: Vie Héroïque (A Heroic Life)](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1043)
+- [Movie Review: The Last Circus (Balada Triste)](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1040)
+- [Movie Review: Your Highness](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1037)
+- [Movie Review: Margin Call](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1034)
+- [Last Thoughts](https://web.archive.org/web/20130208192948/http://craccum.ausa.auckland.ac.nz/?p=1032)
+
+### Issue 11 2012
+- [Editorial](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1275)
+- [The Black Budget](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1272)
+- **[Budget Breakdown - What You Need to Know](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1270)**
+- [Dave's Word of the Week](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1268)
+- [Poetry: I Wish I Was A Basilisk](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1266)
+- [Letters](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1264)
+- [Crac-News](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1261)
+- [World News](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1259)
+- [Bravo Boris](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1255)
+- [That We Should Ban Gambling](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1252)
+- [Dramady](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1250)
+- [Living on a Budget - Minestrone Soup](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1247)
+- [The Crank](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1243)
+- [Uni Parenting](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1241)
+- **[Not Working](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1239)**
+- [Demons on the Footpath](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1236)
+- [That's Life - Gentrification](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1233)
+- [Keen but Crap](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1231)
+- [Defend GI](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1228)
+- [Dumpstering](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1225)
+- **[Generational un-generosity](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1221)**
+- [Welfare Reform = Bennett Fraud](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1219)
+- [The Life of a Potterhead - After the End](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1216)
+- [Toward Understanding](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1213)
+- [Starved in a Land of Milk and Honey](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1208)
+- [Assets](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1204)
+- **[Politics is Ordinary](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1201)**
+- [Premature Ejukation](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1198)
+- [Sixth Circle - “The environment is an industrial challenge.”](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1195)
+- [Wine: One for the Geeks](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1193)
+- [Cheap Eats Guide: Masako](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1190)
+- [In Your Dreams - A Midsummer Night's Dream](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1187)
+- [Interview: Tommy Ill](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1184)
+- [Album Review: Little Broken Hearts](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1182)
+- [Album Review: Ufabulum](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1179)
+- [Album Review: 51](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1177)
+- [Movie Review: Sucker Punch](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1175)
+- [Movie Review: Jack & Jill](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1172)
+- [Last Thoughts](https://web.archive.org/web/20130208192930/http://craccum.ausa.auckland.ac.nz/?p=1170)
+
+### Issue 12 2012
+- [Editorial](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1375)
+- **[A Guide to Identifying Businesses](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1373)**
+- [Poetry: For Jeanette Fitzsimmons](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1371)
+- [Letters](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1368)
+- **[We Are the University to March Against the Budget](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1366)**
+- **[We Are The University supports the planned student protest against the 2012 Budget](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1363)**
+- [Belligerent Beneficiaries Burgle Innocent Epsom Resident](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1361)
+- [It's The Final Countdown...](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1359)
+- [That Teachers Should Be Paid Based On Their Performance](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1357)
+- [The Crank](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1355)
+- [Living On A Budget - Nachos](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1352)
+- [How To Cross A Road The Student Way](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1349)
+- **[“Investment Approach” for Welfare Loses Sight of Social Goals](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1346)**
+- [Facebook - The Cultural Network](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1344)
+- [DIY Exam Guide - Exam–o-ram-o-rama…](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1341)
+- **[The State of Education in New Zealand](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1338)**
+- [When Children Become Heroes](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1335)
+- [Religion](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1332)
+- [Saving the World (Vicariously)](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1330)
+- [The Space Bear Problem](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1327)
+- [Food, Farmers and the TPP](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1325)
+- [Free Will?](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1322)
+- **[Leftie Realist](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1319)**
+- [Poetry: Dead Poets Society Vol. II](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1315)
+- **[Every Article About Graduate Unemployment Ever](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1313)**
+- [Seventh Circle - “We are building a civilized space here”](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1310)
+- [Café’s on Campus: Relax Lounge](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1306)
+- [Wine: Revolution, On Tap, Bro!](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1303)
+- [Cheap Eats Guide: Chinese Steamboat Cafe](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1300)
+- [Interview: Massad Barakat](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1298)
+- [Album Review: Distant Relatives](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1295)
+- [Music Review: Somebody That I Used To Know \[Tiesto Remix\]](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1292)
+- [Album Review: Hombre Lobo](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1289)
+- [Movie Review: Drive](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1286)
+- [Movie Review: Dark Shadows](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1283)
+- [Last Thoughts](https://web.archive.org/web/20130208192909/http://craccum.ausa.auckland.ac.nz/?p=1281)
+
+### Issue 13 2012
+- [Editorial](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1484)
+- [Letters](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1482)
+- [TV Ends Dead - Channel 7 has gone to Heaven...](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1480)
+- [Montreal Rising - To all Social and Trade Movements of Aotearoa](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1477)
+- [Montreal Rising - A Red Square Uprising!](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1475)
+- [Montreal Rising](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1473)
+- **[An Open Letter to Law School Re: Blockade the Budget.](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1470)**
+- **[Open Letter: Calling for a response.](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1466)**
+- **[IPCA Investigates Police Action at Blockade the Budget Protest](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1464)**
+- **[Antagonistic Minister Inflamed Protestors](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1461)**
+- **[Police Brutality on Auckland Students' Peaceful Proteset](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1458)**
+- **[On the Poverty of Student Life](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1456)**
+- **[Knowing Who To Blame](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1452)**
+- **[Find Each Other. Attach yourself to what you feel to be true. Begin There.](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1450)**
+- [Library Abusers](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1447)
+- [Uni Parenting](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1445)
+- [AUSA - WROs](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1443)
+- [A New Semester…](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1441 "A New Semester…")
+- [Gay Marriage](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1438)
+- [AUSA - The AVP](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1436)
+- [Eating Our Way To A Better World? A plea to local, fair-trade, organic food enthusiasts](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1434)
+- [AUSA - Grafton Representative](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1432)
+- [AUSA - Tamaki Representative](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1430)
+- [AUSA - Intergenerational Equity (The President)](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1428)
+- [Tumeke Cycle Space - Up-skilling Auckland Cyclists](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1426)
+- [The View with Homebrew](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1424)
+- [Politics with the Villains](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1422)
+- [SuperVillains (RMC): Vigilance is Advisable](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1420)
+- [Count to Eddie Numbers](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1418)
+- [Sunshine Sounds Like This](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1416)
+- [Resin-One Realk Talk](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1414)
+- [Bier Essentials: Hopscotch Beer Company](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1412)
+- [V48Hours 2012](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1410)
+- [Rock of Ages](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1408)
+- [Prometheus](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1406)
+- [New Zealand International Film Festival 2012](https://web.archive.org/web/20130208192850/http://craccum.ausa.auckland.ac.nz/?p=1404)
+
+### Issue 14 2012
+- [Editorial](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1638)
+- [The 28th Māori Battalion as told to me by my grandfather.](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1634)
+- [What does it mean to be Māori? Kimi-Kaire Melbourne (Ngai Tuhoe, Ngapuhi)](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1632)
+- **[The Racist Underbelly of New Zealand](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1630)**
+- [''Moriori were the first race in New Zealand, than Māori killed them all off''](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1628)
+- [I Know Why You're Naïve...](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1626)
+- [Amerika](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1624)
+- [Arguments For And Against Women Speaking During The Pōwhiri Process](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1619)
+- [The Role Of Women In The Traditional Pōwhiri Process](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1617)
+- [Mihi](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1613)
+- [Fuck Off "The GC"-Haters](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1610)
+- [What does it mean to be Māori? Eric Te Ariki Savage (Te Whanau-a-Apanui, Ngai Te Rangi, me Ngati Maniapoto)](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1607)
+- [Body Snatching](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1603)
+- [Poetry - Ancestors](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1601)
+- [Kotiro in Japan](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1598)
+- ["That's Racist"](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1596)
+- [Join the Dots](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1594)
+- [Spot The Terrorist](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1589)
+- [What does it mean to be Māori? Mania Campbell-Seymour (Te Whakatohea)](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1587)
+- [What does it mean to be Māori? Moerangi Tamati (Te Atiawa, Taranaki, Ngati Mutunga)](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1585)
+- [AUSA - Your AVP](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1582)
+- [Māori Spirituality - A Wairua on Auto-Pilot?](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1578)
+- [What does it mean to be Māori? Reeree (Ngati Porou)](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1576)
+- **[Bloody MAPAS](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1574)**
+- [Kava - An Acquired Taste](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1572)
+- [What does it mean to be Māori? Jalessa Puru (Ngapuhi & Ngati Whatua)](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1570)
+- [AUSA - Your EAO](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1568)
+- [Metiria Turei](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1566)
+- [John Tamihere](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1564)
+- [Māori Language Strategy Is Wrong](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1561)
+- [The Danger Of Māori Language Week](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1559)
+- [AUSA - Welfare](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1557)
+- [What does it mean to be Māori? Taurima Maxwell (Ngati Snurrrr and Ngapuhi)](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1555)
+- **[Education Must Be The Main Priority For Maori](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1553)**
+- [Giving It A Go: Teaching Te Reo In Primary](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1550)
+- [What does it mean to be Māori? Ben Thomason (Ngati Raukawa)](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1548)
+- **[First Semester Experience](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1544)**
+- [Once Upon a Time - Māori Myths and Legends](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1542)
+- [What does it mean to be Māori? Cameron Woodford (Ngati Kahungunu)](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1539)
+- [What does it mean to be Māori? Apenti Eruera Tamanui-Fransen (Ngati Porou)](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1537)
+- [Poetry - Pills](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1535)
+- [White Māori](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1529)
+- [State of O - It's Not Our Game!](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1524)
+- [Māori All Blacks Dream Team](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1522)
+- [AUSA - Your Tamaki Rep](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1519)
+- [What does it mean to be Māori? Gannin Bell (Tainui and Ngati Maniapoto)](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1516)
+- [Kapa Haka Regionals Review](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1509)
+- [Music - Te Ahorangi Winitana Interview](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1503)
+- [Music - Pieter T Interview](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1500)
+- [Music - Ahomairangi Interview](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1498)
+- [Music - Maisey Rika Interview](https://web.archive.org/web/20130208192831/http://craccum.ausa.auckland.ac.nz/?p=1496)
+
+### Issue 15 2012
+- [Editorial - “Zombies, Fuckin’ Zombies!!!”](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1719)
+- **[Clowns Chase Student Activists](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1717)**
+- **[R.I.P.P.P](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1715)**
+- [Refutation of the ‘Right to Know’ flier distributed by Prolife Auckland](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1712)
+- [Letters](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1710)
+- [The Unsane Musings of an Autistic Mind - ADHD Edition](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1708)
+- **[Outsourcing the News](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1704)**
+- **[Open Access to Education - A National Treasure](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1701)**
+- [How to be Happy](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1698)
+- [Passive-Aggressive Notes - Women Trolley Drivers](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1695)
+- **[The Coming Insurrection - Create Territories. Multiply Zones Of Opacity.](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1693)**
+- **[When Ideas Become A Threat Again - Some Thoughts On The Role Of University And Student Resistance To Budget Cuts](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1691)**
+- [Eurodisney: Hell](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1687)
+- [Debate - That we should legalise all drugs](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1684)
+- [Bier Essentials - Leffe Radieuse](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1681)
+- [Café Review - Penelope](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1678)
+- [Music Interview - Myth of Democracy](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1675)
+- [Music Review - Skelethon, Aesop Rock](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1671)
+- [Upcoming Ablums You Should Be Excited about](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1669)
+- [Book Review - Pie: 80+ Pies and Pastry Delights, by Dean Brettschneider](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1665)
+- [Book Review - Shattered Illusions: A Biography of Tom Mason, by Marilyn Reid](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1663)
+- [Book Review - The Landgrabbers: The New Fight Over Who Owns the Earth, by Fred Pearce](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1661)
+- [Film Review - Where the Wild Things Are](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1659)
+- [Film Review - The Dark Knight Rises](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1655)
+- [Film Review - Ted](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1653)
+- [Film Review - Moneyball](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1650)
+- [Film Review - ¡Vivan las antipodas!](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1648)
+- [Film Review - Wuthering Heights](https://web.archive.org/web/20130208192811/http://craccum.ausa.auckland.ac.nz/?p=1645)
+
+### Issue 16 2012
+- [Rings of Glory](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1803)
+- **[Always Keep One Eye on Québec, With Alain Badiou](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1800)**
+- [Dear Craccum](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1798)
+- [Share Our Future - The CLASSE Manifesto](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1796)
+- **[Fourth Wave Feminism](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1794)**
+- [The Unsane Musings - Overlong Edition](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1790)
+- [Veda - Sustainable Happiness](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1788)
+- [Uni Parenting](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1785)
+- **[AUSA - From NTM](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1782)**
+- [Fair Trade... So Misunderstood](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1779)
+- **[Interview with A Student Revolutionary.](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1776)**
+- **[AUSA - The WROs](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1773)**
+- **[AUSA - The NAO](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1770)**
+- **[The Coming Insurrection - Organize Self-Defense](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1767)**
+- [Things You Hear on the Internet](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1765)
+- **[Are Student Strikes Legal?](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1763)**
+- **[Re-thinking Success](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1761)**
+- [Management Guru - Justin Lewis and ‘Guru of Chai’](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1758)
+- [Theatre Review - Papal Smear](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1756)
+- [Bier Essentials - Fullers 1845](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1753)
+- [Piss Pantry - Irish Sangria](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1750)
+- [Cocktail Corner - Mint Julep](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1747)
+- [Wine - Un Chardonnay, S’il Vous Plait](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1744)
+- [Music Review - Handwritten, The Gaslight Anthem](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1742)
+- [Book Review - The Making of New Zealanders, By Ron Palenski](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1740)
+- [Book Review - On the Road, By Jack Kerouac](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1738)
+- [Book Review - When God Was A Rabbit, By Sarah Winman](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1735)
+- [NZIFF - Beasts of the Southern Wild](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1732)
+- [NZIFF Quickies](https://web.archive.org/web/20130208192752/http://craccum.ausa.auckland.ac.nz/?p=1730)
+
+### Issue 17 2012
+- [Tiger Style](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1876)
+- **[Politics of Post Anarchism](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1873)**
+- **[After the Now Fascism](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1871)**
+- **[The Dignity of Non-violence](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1868)**
+- **[James Martel - Divine Violence](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1866)**
+- **[... and meanwhile in Spain](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1864)**
+- [Philippine Situation](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1862)
+- [Letters](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1859)
+- [She's A Dick!](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1856)
+- [Unsane Musings - AUSA Election Special](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1853)
+- **[The Coming Insurrection](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1849)**
+- [Veda - Stay High Forever](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1846)
+- [Rebel Clown Army Manifesto](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1844)
+- [The WROs](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1839)
+- [The President Writes... I Went To Israel](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1837)
+- [Meals on a Budget - Simple Salmon Wrap](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1835)
+- [Cocktail Corner - Screwdriver](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1831)
+- [Music for The End of The World](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1829)
+- [Album Review - Yellow & Green, Baroness](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1827)
+- [Book Review - Shantaram, by Gregory David Roberts](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1825)
+- [Book Review - Eucalyptus, By Murray Bail](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1823)
+- [Film - Abraham Lincoln Vampire Hunter](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1821)
+- [Film - The Cabin In The Woods](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1819)
+- [Film - Withnail & I](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1817)
+- [Film - The Kings Speech](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1814)
+- [Poetry - Life](https://web.archive.org/web/20130208192732/http://craccum.ausa.auckland.ac.nz/?p=1812)
+
+### Issue 18 2012
+- [Cracking Up](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1950)
+- [Mental Health Contacts](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1948)
+- [Reason and Science Society](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1943)
+- [Unsane Musings - Craccum Election Special](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1941)
+- [Who to Trust? Freud and the Internal Dilemma: a Psychoanalysts Perspective](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1937)
+- [When was the last time you danced like no-one was watching (and remembered it the next day)?](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1935)
+- **[AUSA - The WROs](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1933)**
+- [Wonder why we’ve all got a mental illness? Blame Spitzer!](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1930)
+- [Veda - Help: My Mind's a Mess!](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1926)
+- [Last Breath Left](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1924)
+- [Fast-a-thon for Syria gives non-Muslim students a taste of Ramadan](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1922)
+- [Anxiously Anxious - Coping with Anxiety](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1920)
+- [Dayam... You Crazy!](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1918)
+- **[Students Don't Cry - Depression: The Hidden Illness](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1916)**
+- [The Crank - A Column About Annoying Shit](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1914)
+- **[Things Will Get Better](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1912)**
+- **[AUSA - AVP](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1910)**
+- **[AUSA - Grafton Rep](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1908)**
+- [Glen Innes: Another Seaside Suburb For The White And Wealthy?](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1906)
+- [Cocktail Corner - Margarita](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1903)
+- [Meals on a Budget - Cosy Winter Hot Pot](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1901)
+- [Wine - Academics are Idiots: The Proof](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1899)
+- [Theatre - Len Lye: The Opera](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1897)
+- [Theatre Review - The Triumphants (…And Then You Die/Nick)](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1895 "Theatre Review - The Triumphants (…And Then You Die/Nick) ")
+- [Theatre Review - The Pride](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1893)
+- [Book Review - Persepolis: The Story of an Iranian Childhood, By Marjane Satrapi](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1891)
+- [Film Review - Roman Holiday](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1888)
+- [Film Review - Water Lilies](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1885)
+- [Film Review - Magic Mike](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1883)
+- [Film Review - Memento](https://web.archive.org/web/20130208192713/http://craccum.ausa.auckland.ac.nz/?p=1881)
+
+### Issue 19 2012
+- [“Zoltar says: make your wish”](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2041)
+- [Letters](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2039)
+- **[‘Mixed messages’ at Courses and Careers Day](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2037)**
+- [Unsane Musings - Back to Work Everyone...](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2034)
+- [Poetry - Untitled, N.P.](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2029)
+- [Myths in the Media - Schizophrenia](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2027)
+- [Cuba-Redux: Breaking the Chains of Indirect Colonialism](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2025)
+- **[For Rich...](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2020)**
+- [Meals on a Budget - Thai Green Curry](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2016)
+- [Inane Puerile Chatter: K-Stew gets Slutshamed - In Defense of Kristen Stewart](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2014)
+- [Jamming Rebellion - Just for Money](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2012)
+- **[AUSA - WROs](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2008)**
+- **[AUSA - Tamaki Rep](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2006)**
+- [Art - Sweet Dairy](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2004)
+- [Music Review - Shes on Heat, The Neo-Kalashnikovs](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=2001)
+- [Music Review - Sing Along with The Yoots!, The Yoots!](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=1999)
+- [Book Review - Pounamu Pounamu, Witi Ihimaera](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=1997)
+- [Theatre Review - Free Load](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=1992)
+- [Theatre Review - Mind Reader: Rober Hayley](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=1990)
+- [Theatre Review - Beautiful Losers](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=1988)
+- [Film Interview - Hamish & Me](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=1986)
+- [Film Review - Two Little Boys](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=1981)
+- [Film Review - Expendables 2](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=1979)
+- [Adam Fresco's DVD Reviews](https://web.archive.org/web/20130208005125/http://craccum.ausa.auckland.ac.nz/?p=1976)
+
+### Issue 20 2012
+- [This Shit Is Simple](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2112)
+- [Unsane Musings - Foreign Affair (With Apologies To Tina Turner)](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2108)
+- [News](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2106)
+- [Rio Tinto, Stop Crying Wolf](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2104)
+- [Papatuanuku Is Not For Sale](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2102)
+- [Unhappy Valley](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2100)
+- [Meals on a Budget - Pumpkin Soup](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2097)
+- **[It’s The End of the World and We Know It?](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2095)**
+- [Game Changer Rio+20?](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2092)
+- [Passive-Aggressive Notes: Was It Worth It?](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2089)
+- [The Russell-Einstein Manifesto (Issued in London, 9 July 1955)](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2086)
+- [Red Bull Doodle Art Starts This Week](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2084)
+- [Global Climate Youth Movement Coming to NZ with Power Shift NZ-Pacific](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2081)
+- [Zionism and Schizophrenia - Israel’s War-machine](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2079)
+- **[AUSA - The Dignity of Difference, The Education Vice President](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2076)**
+- **[AUSA - CSO](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2074)**
+- **[AUSA - AVP](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2072)**
+- **[AUSA - WROs](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2070)**
+- [Book - One Hundred Years of Solitude, Gabriel Garcia Marquez](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2067)
+- [Book - The Satorialist: Closer, Scott Schuman](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2063)
+- [Theatre - La Petite Mort - Silo’s current production Private Lives](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2059)
+- [Film - Total Recall (1990) v Total Recall (2012)](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2055)
+- [Film Review - Headhunters (‘Hodejegerne’ Norway, 2011)](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2053)
+- [Film Review - George Harrison: Living In The Material World](https://web.archive.org/web/20130208103007/http://craccum.ausa.auckland.ac.nz/?p=2050)
+
+### Issue 21 2012
+- [Editorial - Hong Kong Phooey - I'm Going Solo On a Leaky Plastic Lilo.](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2181)
+- [Dear Craccum...](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2179)
+- [Passive-Agressive Notes - One Day When You Have Kids...](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2174)
+- [Islamophobia - An old practice recycled through the generations](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2172)
+- [Remembering Rachel](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2170)
+- **[The Womens Rights Officers](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2168)**
+- **[AUSA - The President](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2166)**
+- **[Dominant Logic Of The System](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2164)**
+- [Quick Meals - East Pasta Carbonara](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2162)
+- **[AUSA - Ngā Tauira Māori](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2158)**
+- [Death Bells Ringing?](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2156)
+- [Nothing Burns in Hell - On Delinquents and Respectable Citizens](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2154)
+- [What Is It To Die?](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2152)
+- [SEX](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2150)
+- [S.A.S Soup Appreciation Society](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2147)
+- [Music Review - The Seer, Swans](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2145)
+- [Music Review - Propagandhi, Failed States](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2143)
+- [Music Review - Coexist, The XX](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2141)
+- [Theatre Review - Michael James Manaia](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2138)
+- [Theatre Review - The Pantry Shelf](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2136)
+- [Film Review - Grave of the Fireflies](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2134)
+- [Film Review - The Room](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2132)
+- [Film Review - Resident Evil: Retribution](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2130)
+- [Film Review - The Bourne Legacy](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2128)
+- [Film Review - Total Recall (2012)](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2126)
+- [Film Review - Milk (2008)](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2124)
+- [Film Review - The Science of Sleep (2006)](https://web.archive.org/web/20130208102945/http://craccum.ausa.auckland.ac.nz/?p=2122)
+
+### Issue 22 2012
+- [Editorial](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2241)
+- **[Mein Kampus - Neoliberalism sucks the brains out of a generation.](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2239)**
+- [Passive-Aggressive Notes - Feeling Sunny on the Inside](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2237)
+- [Gushing Dopamine …Squirt.](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2235 "Gushing Dopamine …Squirt. ")
+- **[America - Politics of Delusion](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2233)**
+- [A Bad Apple](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2230)
+- **[AUSA - SGM: A Club President’s Perspective](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2228)**
+- **[AUSA - International Affairs Officer](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2226)**
+- **[AUSA - Womens Rights Officers](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2224)**
+- [Animal Rights 101 - A Basic Rundown](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2222)
+- [In Response to the Fear of Fair Trade](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2220)
+- **[AUSA - On Life Support](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2218)**
+- **[AUSA - Politics Week with the NAO](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2216)**
+- [Refugee Camps or Concentration Camps?](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2213)
+- **[The Student Forum](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2210)**
+- [Oil Drilling in Aotearoa](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2208)
+- [AUSA - Welfare](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2205)
+- [Death Throes?](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2202)
+- [Music - Key to the Kuffs, JJ Doom](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2200)
+- [Quick Meals - Chilli Con Carne](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2198)
+- [Theatre - Bucket Boy](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2196)
+- [Film - Looper](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2194)
+- [Film - Resident Evil: Retribution](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2192)
+- [Film - Goodbye Pork Pie](https://web.archive.org/web/20130208102926/http://craccum.ausa.auckland.ac.nz/?p=2189)
+
+### Issue 23 2012
+- [Editorial - Beyond the Ken](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2293)
+- [Letters](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2291)
+- **[Students 3, Police 0](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2289)**
+- **[Fight The Fees-Street Party To Freeze The Fees](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2286)**
+- [Passive-Aggressive Notes - Things That Make You Go ARHH!](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2284)
+- [Ultimate Frisbee World Champs](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2280)
+- [The Battle Against Sleep](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2278)
+- **[The Aspirational Compromiser And The Organisation Of A Student Body](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2276)**
+- **[AUSA - WROs](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2273)**
+- **[AUSA - Ngā Tauira Māori](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2271)**
+- **[An Art, An Event, Many Bodies, One Future](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2269)**
+- [China = Green Blood](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2265)
+- [New Zealand at CERN and the Discovery of a new Particle](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2263)
+- [Roots of the Palestinian Israeli Conflict](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2261)
+- [Theatre - The Bartered Bride](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2259)
+- [Book - One Day, David Nicholls](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2255)
+- [Book - The Girl Below, Bianca Zander](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2253)
+- [Quick Meals - Mexican Fajitas](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2251)
+- [Film - Kiss Kiss Bang Bang (2005](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2249)
+- [Film - The Artist](https://web.archive.org/web/20130208102909/http://craccum.ausa.auckland.ac.nz/?p=2247)
+
+### Issue 24 2012
+- [Editorial - The Last Waltz](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2331)
+- [Unsane Musings - dnE ehT.](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2329)
+- [Passive-Aggressive Notes - Pan-Computer Misappropriation](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2327)
+- [Cock-Less Love-More](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2325)
+- **[AUSA- The AVP's Last Thoughts For The Year](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2323)**
+- **[AUSA - Tamaki Rep](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2321)**
+- **[AUSA - Welfare](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2319)**
+- **[AUSA - WROs](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2316)**
+- **[Paradigm Shift](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2314)**
+- [Serving in the Israeli Defence Force: A soldier’s story](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2312)
+- [Music - NOFX, Self Entitled](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2310)
+- [Theatre - The Sex Show](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2307)
+- [Quick Meals - Roast Veg Pasta](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2304)
+- [Book - Life of Pi, Yann Martel](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2301)
+- [Book - Lord of the Flies, William Golding](https://web.archive.org/web/20130208102851/http://craccum.ausa.auckland.ac.nz/?p=2299)
+
+
+## 2013
+
+### Issue 01 2013
+- [Aditya's Editorial - Cherry Pick Your Uni Experience](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2411)
+- [Calum's Editorial](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2409)
+- **[AUSA - President, Daniel Haines](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2407)**
+- **[AUSA - Welfare Officer, Jessica Storey](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2405)**
+- [Letters to the Editors](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2403)
+- [Pokemon Of The Week Redux Week Seven Hundred And Forty Four - Pikachu](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2401)
+- [News - Poll Confirms Labour Is Flailing](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2399)
+- **[News - Orientation Week Lineup leaves students underwhelmed](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2396)**
+- **[News - Student support cuts starting to hurt](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2394)**
+- **[Interview: David Farrar](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2392)**
+- [Decline of Man](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2390)
+- **[Let Them Eat Bullets](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2388)**
+- [Bier Essentials - Beer And Pizza, A Match Made In Heaven](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2384)
+- [(Nearly) Doc Craig](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2381)
+- **[AUSA - Administrative Vice President](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2379)**
+- [Why I Hate... Law Students](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2377)
+- [The Style 101](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2375)
+- [The Horrorscopes](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2373)
+- [Theatre Q&A; - Emily Taylor, Cannonball](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2367)
+- [Theatre Interview - Mike Borgfeldt, The Uncertainty Principle](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2365)
+- [Theatre Q&A; - Virginia Frankovich, Gorge](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2363)
+- [Theatre - The Uncertainty Principle](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2361)
+- [Fan Fiction - Pokengelion by Neferius](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2358)
+- [Music - Shuffle Diaries](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2356)
+- [Film - Life of Pi](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2354)
+- [Film - Les Misérables](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2352)
+- [Film - Django Unchained](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2350)
+- [Web Series - The Most Popular Girls in School](https://web.archive.org/web/20150113130558/http://craccum.ausa.auckland.ac.nz/?p=2347)
+
+### Issue 02 2013
+- [Aditya's Editorial](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2508)
+- [Calum's Editorial](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2505)
+- [Pokemon Of The Week Redux - Week 522- Farfetch'd](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2500)
+- [Letters](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2498)
+- [”Huzzah!” cry students, as Shadows reopens](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2496)
+- [Sports - When Media Turn Nasty...](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2494)
+- [In 1973...](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2492)
+- [University to disestablish free Mediation Service](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2490)
+- **[Act Party struggles to avoid oblivion](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2488)**
+- [Obituary - Ralph Hotere](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2486)
+- [Obituary - Ralph Hotere](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2484)
+- [Hacks Gonna Hack - Jamie-Lee Ross: Do you support the proposed SkyCity convention centre?](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2481)
+- [Hacks Gonna Hack - David Clark: Do you support the proposed SkyCity convention centre?](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2479)
+- [Trojan War Feed](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2477)
+- [Twilight - Sense and Comparatively Primitive Sensibilities in the Face of an Unreceptive Academic Community](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2475)
+- [Mulan Feed](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2473)
+- [Heroic Measures](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2471)
+- [Bier Essentials - Better Enjoying Beer](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2468)
+- [(Nearly) Doc Craig - I've been having trouble falling asleep and always feel tired during the day. What should I do?](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2466)
+- **[AUSA - Administrative Vice President](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2464)**
+- **[AUSA - Clubs and Societies Officer](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2462)**
+- **[AUSA - President](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2460)**
+- [Ramayana Feed](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2458)
+- [Unsane Musings - Welcome To My Acid Dungeon](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2456)
+- **[Just a Thought - The (Un)Examined Life: The Allegory of the Cave for First Years](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2454)**
+- [Ask A Muslim](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2451)
+- **[AUSA - International Students Officer](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2449)**
+- **[AUSA - Education Vice President](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2447)**
+- **[AUSA - Women's Rights Officers](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2445)**
+- [Holding Court - Summer Shakespeare's Golden Anniversary](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2443)
+- [Theatre - King Lear](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2441)
+- [Auckland Fringe - Just Above The Clouds](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2439)
+- [Auckland Fringe - Promise and Promiscuity](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2437)
+- [Auckland Fringe - Wild Beasts](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2435)
+- [Music - Red, Taylor Swift](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2433)
+- [Music - Reality, David Bowie (2003)](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2430)
+- [Film - Argo](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2428)
+- [Film - Amour](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2426)
+- [Fan Fiction - Hooligan's Holiday](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2424)
+- [Anime - Panty and Stocking with Garterbelt](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2422)
+- [Live Music - Back to the Future](https://web.archive.org/web/20130511161013/http://craccum.ausa.auckland.ac.nz/?p=2420)
+
+### Issue 03 2013
+- [Calum's Editorial](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2596)
+- [Aditya's Editorial](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2594)
+- [Pokemon Of The Week Redux - Week Fourscore And Twenty - Jynx](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2592)
+- [Letters To The Editor](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2589)
+- [Horrorscopes](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2587)
+- [Nearly Doc Craig - This Week: Craig Tries his Hand at Mythbusting!](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2584)
+- **[In 1973... Nazis Support Tour](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2581)**
+- **[News - Qu
+- **[News - NZ Universities being sued for copyright infringement](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2576)**
+- [News - WTF? New Zealand dealing arms to Colombia?](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2574)
+- [From the Blogosphere - Julie Fairey](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2572)
+- [How I became a Rapper - The Conny G Dawg Story](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2570)
+- [Affront or Cunt?](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2568)
+- [The Jargon of Swag - Why Do We Talk So Differently?](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2566)
+- [Legit OG Profile - John Skelton](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2564)
+- **[AUSA - Women's Rights Officers](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2561)**
+- **[AUSA - President](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2559)**
+- [Grafton Rep - Daniel William](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2557)
+- **[AUSA - Education Vice President](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2555)**
+- [How To Make The Most Exciting Food Ever - Spicy Charred Potato](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2553)
+- **[AUSA - Administrative Vice President - Cate's Column](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2551)**
+- **[AUSA - Media Officer](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2549)**
+- [The Drug Diaries - Interview Mark Carswell](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2546)
+- [The Style 101](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2544)
+- [Bier Essentials - Shadows Lager](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2542)
+- [The (Un)examined Life: John Rawls (and Locke) go Clubbing](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2540)
+- [That's A Rap - Rap and its Relationship to Cinema](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2538)
+- [Top 5 Movies with Rappers](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2535)
+- [EP - 1991, Azealia Banks](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2533)
+- [Shuffle Diaries - Angel, Gavin Friday (1995)](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2530)
+- [Fan Fiction - Nobody Listens to Techno](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2527)
+- [Comedy - The Billy T Jams](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2525)
+- [Auckland Arts Festival - Rhinoceros in Love](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2523)
+- [Auckland Arts Festival - The Factory](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2521)
+- [Auckland Fringe - Cannonball](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2519)
+- [Auckland Fringe - Gorge](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2517)
+- [Live Music - Macklemore and Ryan Lewis at Vector Arena](https://web.archive.org/web/20130511153256/http://craccum.ausa.auckland.ac.nz/?p=2515)
+
+### Issue 04 2013
+- [Aditya's Editorial](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2697)
+- [Calum's Editorial](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2694)
+- [Letters](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2691)
+- [Pokemon Of The Week Redux - Week Twenny Fur, Butterfree](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2689)
+- [Horrorscopes](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2687)
+- [News - Clash of the Titans as Professors up for Council Elections](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2684)
+- **[News - Student Forum launches attack at University's ”ill-managed” O-Week](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2682)**
+- [News - Youth wings unite on marriage equality](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2680)
+- [News - Critic Slams Failient](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2678)
+- [Hacks Gonna Hack - Do You Support A Youth Wage? Jami-Lee Ross](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2675)
+- [Hacks Gonna Hack - Do You Support A Youth Wage? Dr. David Clark](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2673)
+- [AUSA - President](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2671)
+- [AUSA - Grafton Rep](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2669)
+- [I Vindicate Thee My Country](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2667)
+- [Unsane Musings - White People Can't Rap!](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2664)
+- [Bier Essentials - Warm Ale](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2662)
+- [The Rolling Stones](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2660)
+- [Drug Diaries - Moving It Forward, An Interview with Chris Fowlie](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2657)
+- **[AUSA - Administrative Vice President](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2654)**
+- **[AUSA - Education Vice President](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2652)**
+- [Why Breaking Bad Might Just Be The Best Thing Ever](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2649)
+- **[AUSA - Tamaki Rep](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2647)**
+- **[AUSA - Student Forum Chair](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2645)**
+- **[Friendly Tips for First Years](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2641)**
+- [Couples Counselling with Jing and Yaren](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2639)
+- [The (Un)examined Life: Drifting Through Life](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2637)
+- [(Nearly) Doc Craig - Dieting](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2633)
+- [Black Bean Brownies](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2631)
+- **[AUSA - Women's Rights Officers](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2629)**
+- **[AUSA - Media Officer](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2627)**
+- [Girls Season 2](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2625)
+- [Book - Money, Martin Amis](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2622)
+- [Music - True North, Bad Religion](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2620)
+- [Music - Persona 5 OST](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2618)
+- [Auckland Arts Festival - One Man, Two Guvnors](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2616)
+- [Theatre - The Strange Undoing Of Prudencia Hart](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2614)
+- [Auckland Arts Festival - Urban](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2612)
+- [Web Series - Game Grumps](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2610)
+- [Fan Fiction - Vengeance, A Buffy/Bleach fanfic by LoveDragonsForever](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2606)
+- [Film - Oz the Great and Powerful](https://web.archive.org/web/20130511152642/http://craccum.ausa.auckland.ac.nz/?p=2604)
+
+### Issue 05 2013
+- [Calum's Editorial](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2773)
+- [Aditya’s Editorial](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2771)
+- [Letters](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2769)
+- [Pokemon Of The Week Redux - Week Funf - Chansey](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2767)
+- **[News - AUSA AGM](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2765)**
+- **[News - Student Loan Repayment Rate to Increase](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2763)**
+- **[News - Where did all the markets go?](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2761)**
+- **[AUSA - Administrative Vice President](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2759)**
+- **[AUSA - Education Vice President](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2757)**
+- [Your Childhood Sucks (But So Does Mine) - Mary, Mary, Let's Be Contrary](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2755)
+- [Unsane Musings - Nostalgia Critic (or not)](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2753)
+- [Bier Essentials - Beer Bread Muffins](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2750)
+- [Rainy Sunday Mornings](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2747)
+- [Drug Diaries - An Interview with an Ex-Dealer](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2745)
+- **[AUSA - President](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2743)**
+- [Childhood Memories](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2741)
+- [Hunchback - A Crippled Child but a Flourishing Adult](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2739)
+- **[AUSA - Clubs And Societies Officer](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2736)**
+- **[AUSA - Media Officer](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2734)**
+- [Green Eggs and Ham - A Cautionary Tale on the Failings of our Legal System](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2732)
+- [Music for the Memories](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2730)
+- [Why I Hate... The Disney Channel](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2728)
+- [Where Are They Now?](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2726)
+- [The (Un)examined Life: Bentham moves into a flat with some Deontologists - Justice as (Someone Else’s) Happiness](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2724)
+- [Nearly Doc Craig - Why Me?](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2722)
+- [The Style 101](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2720)
+- **[AUSA - Sports Officer](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2718)**
+- **[AUSA - National Affairs Officer](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2716)**
+- [Music - Convergence by NZTrio](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2714)
+- [Fan Fiction - Cupcakes](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2712)
+- [Shuffle Diaries - Alohomora (2009), Pogo](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2710)
+- [Book Review - Mortal Engines by Philip Reeve](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2707)
+- [Creative Writing - Underdog by Katea Duff](https://web.archive.org/web/20131226011236/http://craccum.ausa.auckland.ac.nz/?p=2705)
+
+### Issue 06 2013
+- [Aditya's Editorial](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2861)
+- [Calum's Editorial](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2858)
+- [Pokemon Of The Week Redux - Week Dirty Tree - Tangela](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2856)
+- [Letters](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2854)
+- [Horrorscopes](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2851)
+- [News - Fire!](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2849)
+- **[News - Studylink Leaves Some Otago Students Homeless](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2847)**
+- [News - Love flourishes on Eden Crescent](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2845)
+- [Craccum Sport - Drugs!](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2842)
+- **[Public Service Announcement: How to Complain](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2840)**
+- [From the Blogosphere - Martyn "Bomber" Bradbury](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2838)
+- **[AUSA - President](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2835)**
+- **[AUSA - Media Musings](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2833)**
+- [The Kicked-the-Bucket List - Craccum Guide to the Afterlife](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2831)
+- [Losing My Religion](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2829)
+- [(Nearly) Doc Craig - Mythical Creatures](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2826)
+- [The (Un)Examined Life - The Nature of Reality](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2823)
+- [Unsane Musings - An Appeal For Tolerance](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2820)
+- [Couples Counselling with Jing and Yaren](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2817)
+- **[AUSA - Cate's Column - Administrative Vice President](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2815)**
+- **[AUSA - Morph Man On Campus](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2812)**
+- [Why I Hate... Evangelical Lady Gaga Fans](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2810)
+- [Bier Essentials - Crafty Beggars Wheat As](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2807)
+- [March of the Tin Foil Hats](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2804)
+- [Mind that Child](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2802)
+- [Drifting Through Faith - Snapshots of a Life Filled with Religion](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2800)
+- **[AUSA - Education Vice President](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2797)**
+- **[AUSA - Womens Rights Officers](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2794)**
+- [Theatre - Cloud 9](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2791)
+- [Theatre - Constantinople](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2789)
+- [Book - The Argumentative Indian by Amartya Sen](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2786)
+- [Music Preview - Time Stays, We Go](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2784)
+- [Shuffle Diaries - Felt Mountain (2000), Goldfrapp](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2782)
+- [Film - The Passion of the Chrits](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2780)
+- [Fan Fiction - Why are you Crying, Faker? by The Snow-White Kitsune](https://web.archive.org/web/20140110064958/http://craccum.ausa.auckland.ac.nz/?p=2778)
+
+### Issue 07 2013
+- [Calum's Editorial](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2936)
+- [Aditya's Editorial](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2934)
+- [Letters](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2932)
+- [Horrorscopes](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2929)
+- [World carries on as usual after same-sex marriage is passed](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2927)
+- **[AUSA introduces new Queerspace](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2925)**
+- [Craccum Sport - Twenty20 Vision](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2923)
+- [Exposed: Steve Karl (President of Meat Club)](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2921)
+- **[Jacinda Ardern: Should postgraduate students be eligible for student allowance?](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2919)**
+- **[Jami-Lee Ross: Should postgraduate students be eligible for student allowance?](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2916)**
+- [On Exchanges; or What Really Happens](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2914)
+- [Reading Writers Who Know How To Read You](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2912)
+- **[AUSA - President](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2910)**
+- **[AUSA - Administrative Vice President, Cate's Column](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2908)**
+- [(Nearly) Doc Craig - You and Your Headaches are Giving Me Headaches](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2906)
+- **[AUSA - National Affairs](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2904)**
+- [The Style 101](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2901)
+- **[AUSA - Education Vice President](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2899)**
+- **[AUSA - Morph Man on Campus, Kit Haines](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2895)**
+- [The (Un)examined Life: Hard Determinist proposes to his boyfriend](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2893)
+- [Couples Counselling with Jing and Yaren](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2891)
+- [Drug Diaries - Odyssey, An Interview With a Recovering Addict](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2889)
+- [Why I Hate - Why Willow and Jaden Smith Need to be Stopped.](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2884)
+- **[AUSA - Media Musings](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2882)**
+- **[AUSA - Womens Rights Officers](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2880)**
+- [Q&A; - Aleks Krotoski](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2878)
+- [Cheap Laughs At The Comedy Fest - A Comedy Festival Preview](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2876)
+- [Shuffle Diaries - Coldest Night of the Year (1970), Vashti Bunyan](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2874)
+- [Fan Fiction - Doom: Repercussions of Evil, Peter Chimaera](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2871)
+- [Gore Vidal's Caligula: History or Porn?](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2869)
+- [Game - Ni no Kuni](https://web.archive.org/web/20140110070639/http://craccum.ausa.auckland.ac.nz/?p=2866)
+
+### Issue 08 2013
+- [Aditya's Editorial](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3044)
+- [Calum's Editorial](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3042)
+- [Pokemon Of The Week Redux - Week Three Hundred and Four... And 30 Cents - Meowth](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3040)
+- [Letters To The Editor](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3037)
+- [Horrorscopes](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3035)
+- [News - Was your shit hacked?](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3031)
+- [News - A Redaction: NZ First on Gay Marriage](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3029)
+- [Baller Profile: Scrooge McDuck](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3026)
+- **[News - ThatcherGate Positive](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3023)**
+- **[News - ThatcherGate Negative](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3021)**
+- [Baller Profile: Furion, the Nature's Profit](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3018)
+- [Feature - Fat Cats Destined for Failure?](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3016)
+- [Baller Profile: Marisa Coulter](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3014)
+- [Baller Profile: Ma Ti](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3012)
+- [Feature - Songs That Make Yo Broke Ass Feel Rich](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3010)
+- [Baller Profile: Tom Nook](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3008)
+- **[AUSA - President](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3006)**
+- **[AUSA - Womens Rights Officers](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3004)**
+- [Unsane Musings - Wealth and Extravagance (we ain't got neither).](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3002)
+- [Couples Counselling with Jing and Yaren](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=3000)
+- [Ask A Christian - "An extravagant faith? Enough is enough – but what’s the alternative?!"](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2997)
+- [Bier Essentials - Fuller's Golden Pride](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2995)
+- **[AUSA - Education Vice President](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2992)**
+- **[AUSA - AVP Cate's Column](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2990)**
+- **[AUSA - Media Matters](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2988)**
+- [(Nearly) Doc Craig - Does Affluence Equal Happiness?](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2984)
+- [Keepin' It Real with Conny G Dawg - Foreign Correspondence.](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2981)
+- **[AUSA - Environmental Affairs](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2978)**
+- **[AUSA - Delegates](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2975)**
+- **[AUSA - Ngā Tauira Māori](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2973)**
+- [Interview - Pietra Brettkelly](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2971)
+- [Fan Fiction - Borne Back Ceaselessly into the Past, A Gatsby/Harry Potter fanfic by shupicorns](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2969)
+- [NZ International Comedy Festival - Josie Long on “Romance & Adventure”](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2967)
+- [NZ International Comedy Festival - Chris Martin](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2965)
+- [NZ International Comedy Festival - Elis James](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2963)
+- [Music - Comedown Machine, The Strokes](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2961)
+- [Music - Back to Black, André 3000 and Beyoncé](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2958)
+- [Shuffle Diaries - Birds (2010), Roseanna Gamlen-Greene](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2956)
+- [Film - Iron Man 3](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2954)
+- [Film - Star Trek Into Darkness](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2951)
+- [Game - Mount & Blade](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2949)
+- [Book - Inside Job, Charles Ferguson](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2947)
+- [Web Series - The Lizzie Bennet Diaries](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2945)
+- [Tech - Microsoft Surface RT](https://web.archive.org/web/20140110062646/http://craccum.ausa.auckland.ac.nz/?p=2943)
+
+### Issue 09 2013
+- [Calum’s Editorial](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3139)
+- [Aditya’s Editorial](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3136)
+- [Letters](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3132)
+- [Pokemon of the Week Redux - Week One Hundred And Eleven - Porygon](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3129)
+- **[News - Struggling with Student Flats](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3125)**
+- **[News - US Attorney-General speaks on campus - and no one protested](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3123)**
+- **[News - WTF is up with our politicians?](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3121)**
+- [News - Group design 3D-printed gun](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3118)
+- [Hacks Gonna Hack - Jacinda Ardern: Should we legalise same sex adoption?](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3112)
+- [Hacks Gonna Hack - Jami-Lee Ross: Should we legalise same sex adoption?](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3110)
+- [Feature - In The Valley Of The Dolls](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3108)
+- [Feature - How to Write Robots to Alienate People](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3105)
+- [Feature - A Guide to Recognising Your Robots](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3102)
+- **[AUSA - The President](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3099)**
+- **[AUSA - Cate's Column](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3097)**
+- [Bier Essentials - Speight's Golden Pale Ale](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3095)
+- [Keepin' It Real with Conny G Dawg - Robots at War, Robots in Bed](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3093)
+- [Unsane Musings - The Distant Future, The Year 2000](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3091)
+- [(Nearly) Doc Craig - Tales of Medical B
+- [The Style 101](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3087)
+- [Feature - Robo Boogie](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3085)
+- [Interview - Cleverbot](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3083)
+- [Feature - Why I can't wait to be Doctored by a Robot](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3081)
+- **[AUSA - Your Education](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3079)**
+- **[AUSA - Morphman on Campus](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3077)**
+- **[AUSA - Media Matters](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3075)**
+- [NTM - Toddy's Top Ten](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3073)
+- [Interview - Renae Maihi: Patua](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3071)
+- [Film - I'm Here](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3069)
+- [Film - Oblivion](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3067)
+- [Hatsune Miku](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3065)
+- [Anime - Gunslinger Girl](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3063)
+- [Shuffle Diaries - Group Four (1998), Massive Attack](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3061)
+- [Games - Dwarf Fortress](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3059)
+- [Fan Fiction - The Magical Persona 4 Durarara! Fic](https://web.archive.org/web/20140110084656/http://craccum.ausa.auckland.ac.nz/?p=3057)
+
+### Issue 10 2013
+- [Aditya's Editorial](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3225)
+- [Calum's Editorial](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3223)
+- [Pokemon of the Week Redux - Week Ten-Four - Calumon](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3220)
+- [Letters](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3217)
+- [Horrorscopes](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3215)
+- **[Auckland Keeps Strong Position in QS University Rankings](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3212)**
+- [News - Cheating Hysteria Reveals Nasty Racism](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3210)
+- [Second Fire at UoA](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3208)
+- **[News - University tradition comes to an end with cancellation of Kegs in the Park](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3205)**
+- [From the Blogosphere - The Civilian](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3203)
+- [Sports - Injured Life Prospects, The hard knocks of playing rugby](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3201)
+- [Procrastination 121](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3198)
+- [Mighty River Power - A Non-Political Commentary](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3196)
+- **[AUSA - Cate's Column](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3193)**
+- **[AUSA - Your Education](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3191)**
+- [Unsane Musings - Graduation Blues](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3188)
+- [Keepin It Real - Social Wars](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3185)
+- [Just a Thought - The Ambiguity of Personal Identity](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3182)
+- [(Nearly) Doc Craig - I Don't Like Alternative Medicine](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3180)
+- [Couples Counselling with Jing and Yaren](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3178)
+- [Homosexuality In Sport](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3176)
+- **[My Beef With John Key](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3174)**
+- **[AUSA - The President](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3172)**
+- **[AUSA - Climate Change](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3170)**
+- **[AUSA - Media Matters](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3168)**
+- **[AUSA - NTM - Toddy's Top Ten](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3166)**
+- **[AUSA - Womensfest!](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3164)**
+- [Theatre Interview - Oedipus](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3162)
+- [Fan Fiction - Megaman The Movie](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3160)
+- [Film - Destino, Salvador Dali & Walt Disney (Dir. Dominique Monfery)](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3157)
+- [Music - One for Daddy-O, Somethin' Else (1958), Cannonball Adderly](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3155)
+- [Shuffle Diaries - Come to Nothing (2005), Evermore](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3152)
+- [Games - Metal Gear Rising: Revengeance](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3149)
+- [Games - Orcs Must Die!](https://web.archive.org/web/20140110131400/http://craccum.ausa.auckland.ac.nz/?p=3146)
+
+### Issue 11 2013
+- [Calum's Editorial](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3301)
+- [Aditya's Editorial](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3299)
+- [Letters](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3296)
+- [Pokemon Of The Week Redux: Week Mewthree - Electrode](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3294)
+- [Horrorscopes](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3292)
+- [News - Critic Editor's Reign Cut Short?](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3290)
+- **[News - Budget 2013 brings more cuts to student support](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3288)**
+- [News - Government Screws Over the Disabled](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3285)
+- [Hacks Gonna Hack - Has New Zealand's involvement in Afghanistan been worthwhile?](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3283)
+- [Feature - Road Trip Tips](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3279)
+- [Feature - The Good George](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3277)
+- [Feature - The Shuffle Rules, Or The Game Of Sacrificial iPod](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3274)
+- **[AUSA - The President](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3272)**
+- [Keepin' It Real with Conny G Dawg - A Semester On The Road.](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3270)
+- [TThe (Un)Examined Life - Animorphs: To Eat or Not to Eat?](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3268)
+- [(Nearly) Doc Craig - The Oddities Of Psychiatry](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3266)
+- [Feature - The Great Perhaps: Nostalgic Thoughts about Places](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3264)
+- [The Style 101](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3262)
+- [Feature - What Would Aaron Do?](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3260)
+- **[AUSA - Cate's Column](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3258)**
+- **[AUSA - Student Welfare](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3255)**
+- **[AUSA - The Nation](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3253)**
+- **[AUSA - Media Matters](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3251)**
+- **[AUSA - Toddy's Top Ten](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3249)**
+- [The 2013 Auckland University Poetry Slam](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3247)
+- [Film - Spring Breakers](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3245)
+- [Fan Fiction - The DIY Fanfic](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3243)
+- [Music - Random Access Memories, Daft Punk](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3241)
+- [Manga - Yotsuba&! 1-10, Kiyohiko Azuma](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3239)
+- [Games - Faster Than Light](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3236)
+- [Games - Journey](https://web.archive.org/web/20130726191605/http://craccum.ausa.auckland.ac.nz/?p=3232)
+
+### Issue 13 2013
+- [Calum's Editorial](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3464)
+- [Letters](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3462)
+- [Horrorscopes](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3459)
+- [Sports - A Sport in Crisis](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3457)
+- [News - What happened while you were sleeping (and if you weren’t sleeping, then you wasted your holiday)](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3454)
+- [Hacks Gonna Hack](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3452)
+- **[AUSA - Cate's Column](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3448)**
+- **[AUSA - WROs](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3446)**
+- **[AUSA - The President](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3444)**
+- **[AUSA - Toddy's Top Ten Misconceptions about Māori](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3442)**
+- **[Truth, Lies and the "Pākehā Party"](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3440)**
+- [Interview - Bailey Mackey (Ngāti Porou)](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3438)
+- **[Do claims to ‘indigenous rights’ discriminate against non-indigenous people?](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3436)**
+- [Profile - Te Ra Hodges](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3434)
+- [Facing the challenge Māori boys’ achievement in education](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3432)
+- [Interview - Troy Kingi](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3430)
+- [20 Things I'm not complaining about...](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3428)
+- [Interview - Majic Paora](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3426)
+- [21 Questions with rising star Sammy J](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3424)
+- [SAS Crew](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3422)
+- **[An open letter to the Māori and Mana Party from a concerned Rangatahi](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3420)**
+- [Poem - Don’t Forget Your Roots by C. Bennett](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3417)
+- [Poem - The Product by Emerald McPhee](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3415)
+- [Profile - Julia-May Aramoana](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3413)
+- **[Ko wai te rangatira o te ao? Who runs the world?](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3411)**
+- [Re-Renaissance?](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3408)
+- [Interview - Chad Chambers](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3406)
+- [Profile - Te Wera Hauraki Mihaere](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3403)
+- [Interview - Steven Adams](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3400)
+- [Haerenga ki te Tairawhiti 2013](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3398)
+- **[Unknown Histories](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3396)**
+- [Tangihanga - A Whānau Matter or a Public Spectacle?](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3394)
+- [NBA Match Fixing](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3392)
+- [Profile - Waiora Mahaki](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3390)
+- [Theatre - Gravity Hotel](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3388)
+- [Book - Ka Mau Te Wehi , Taking kapa haka to the world: Bub & Nen’s Story, Bradford Haami](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3386)
+- [Book - The Fall of Light, Sarah Laing](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3384)
+- [Game - Sonic The Hedgehog](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3382)
+- [Film - Despicable Me 2](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3379)
+- [Anime - Attack of Titan](https://web.archive.org/web/20130726191617/http://craccum.ausa.auckland.ac.nz/?p=3377)
+
+### Issue 14 2013
+- [Aditya's Editorial](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3525)
+- [Callum's Editorial](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3523)
+- [Letters to the Editor](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3521)
+- [Horrorscopes](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3517)
+- [News - Baby Boom Bursts Bubbles Because of Bicentennial Blunder](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3515)
+- [News - ‘Race’ for Justice](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3513)
+- [News - On the Rudd Again: an Australia Update](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3510)
+- [Imagining The Unimaginable - The Appeal of H.P Lovecraft](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3507)
+- [The Essential H.P. Lovecraft](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3505)
+- [H.P. Lovecraft on Screen - An Overview](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3503)
+- [(Nearly) Doc Craig - Adjustment Difficulties](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3500)
+- [Unsane Musings - Ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3498)
+- [Style 101](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3496)
+- **[AUSA - Vice-President's Camp Column](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3491)**
+- **[AUSA - WROs](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3489)**
+- **[AUSA - President](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3486)**
+- **[AUSA - Media Matters, Will Velida](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3484)**
+- [Music Video - DyE, Fantasy, Jeremie Perin](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3482)
+- [Shuffle Diaries - Map of Your Head (2002), Muse](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3480)
+- [Film - Pacific Rim (2013)](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3477)
+- [Film - Gummo (1997)](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3475)
+- [Game - Amnesia: The Dark Descent, Frictional Games](https://web.archive.org/web/20150113130303/http://craccum.ausa.auckland.ac.nz/?p=3473)
+
+### Issue 15 2013
+- **[AUSA - The President](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3601)**
+- [Calum's Editorial](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3599)
+- [Aditya's Editorial](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3597)
+- [Horrorscopes](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3593)
+- [News - Government pushing on with plans to spy on New Zealanders](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3591)
+- **[News - Quad turns into Christmas Tree as AUSA elections begin](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3**589)
+- [News - Candidate Vs Candidate - EVP](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3587)
+- [Sports - When Politics and Sport Collide](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3585)
+- [The Outsider - Hamish Saunders on Politics](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3582)
+- [From the Blogosphere - Andrew Geddis](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3580)
+- [Flash Fiction - Beards](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3578)
+- [Flash Fiction - Six thousand, two hundred, and sixty-one holes](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3576)
+- [Flash Fiction - A Coup](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3574)
+- [Flash Fiction - Friends' Albums](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3571)
+- [Flash Fiction - Observation](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3569)
+- [Feature - An Army Within](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3566)
+- [Ask a Christian - Cessation of life as the Great Unknown](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3564)
+- [Bier Essentials - Krombacher Pils](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3560)
+- **[AUSA - Education](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3558)**
+- [Keepin' It Real - Sickness](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3556)
+- [Unsane Musings - Subject: Undefined](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3554)
+- [(Nearly) Doc Craig - If You’re Not My Patient Don’t Ask Me to Diagnose You.](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3552)
+- [Feature - Lessons From Eggs - or, How Chickens Changed Me](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3550)
+- **[AUSA - WROs](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3548)**
+- **[AUSA - Media Matters](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3546)**
+- [Form and Function - A Review of California Design](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3544)
+- [Music - Circus in the Sky, Bliss n Eso](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3542)
+- [Shuffle Diaries - Went Away (2012), The Maccabees](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3540)
+- [Film - Like Father, Like Son](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3538)
+- [Film - A Field in England](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3535)
+- [Film - Man of Steel](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3533)
+- [Books - Taipei, Tao Lin](https://web.archive.org/web/20131008132113/http://craccum.ausa.auckland.ac.nz/?p=3531)
+
+### Issue 16 2013
+- [Aditya's Editorial](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3671)
+- [Calum's Editorial](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3669)
+- [Letters](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3667)
+- [Horrorscopes](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3664)
+- **[News - Greens looking good in latest poll](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3662)**
+- [News - Wanna be stimulated by this guy?](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3660)
+- **[UoA Study: Youth Drinking in Decline](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3658)**
+- [Sports - Life at Sea - Team New Zealand](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3656)
+- **[Hacks Gonna Hack - Should employers be allowed to hire casual labour during a strike?](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3654)**
+- [The Outsider - Hamish Saunders on Politics](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3651)
+- [Feature - Captain’s Log, A Night Out](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3649)
+- [Thousands of Miles on a Sign and a Smile - A tale of hitch hiking from Montreal to Calgary PART 1 OF 8](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3647)
+- [The Craccum Speakeasy](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3645)
+- [Feature - Un-Bottling Fun - Too Young to Party](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3643)
+- [Pokemon Of The Week Redux - Week Forreal - Slowbro](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3640)
+- [Style 101](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3638)
+- **[AUSA - The President](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3635)**
+- [Keepin' It Real with Conny G Dawg - On The Lash](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3633)
+- [(Nearly) Doc Craig - Fighting the Health Effects of Poverty](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3631)
+- [Feature - Addicts by Nature?](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3629)
+- **[AUSA - Media Matters](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3627)**
+- [“Two Balls, One Fence”](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3625)
+- [Theatre Interview - Revenge Of The Amazons](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3623)
+- [Drink - Good Night Drink](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3621)
+- [Book - The Ocean at the End of the Lane, Neil Gaiman](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3619)
+- [Game - Nintendo land](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3615)
+- [Film - Much Ado About Nothing, Joss Whedon](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3613)
+- [Film - Pain & Gain, Michael Bay](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3611)
+- [Anime - Mononoke, Kenji Nakamura/Ninagawa Yaeko, Toei Animation](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3609)
+- [Creative Writing - The Remake, by Sylvia Gallagher](https://web.archive.org/web/20131006202952/http://craccum.ausa.auckland.ac.nz/?p=3607)
+
+### Issue 17 2013
+- [Calum's Editorial](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3771)
+- [Aditya’s Editorial](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3768)
+- [Letters](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3766)
+- [Pokemon of the Week Redux - Week Forreal Two - Tentacruel](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3764)
+- [Horrorscopes](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3762)
+- [News - On the Campaign Trail](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3759)
+- [The Craccum Candidate Interviews](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3757)
+- [Sports - The Fall of Australian Cricket](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3755)
+- [The Outsider - Hamish Saunders on Politics](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3753)
+- [From the Blogosphere - Marama Davidson](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3750)
+- [Feature - Thousands of Miles on a Sign and a Smile, A tale of Hitch Hiking from Montreal to Calgary (2 OF 8)](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3747)
+- [Feature - Pictures of the Floating World - Japanese Printmaking](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3745)
+- [Feature - Death of a Star - The Rise and Fall of the Empress of J-Pop](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3742)
+- [Feature - How to get into J-pop (and Lose Belly Fat in 5 Simple Steps)](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3740)
+- **[AUSA - The President](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3737)**
+- [Feature - A Short History: The Russo-Japanese War and the Ripples it Created](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3735)
+- [Unsane Musings](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3733)
+- [Poetry Corner - Kokeshi, Vivien Lei](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3731)
+- [Keepin' It Real with Conny G Dawg - Japanese Death, Japanese Food.](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3729)
+- [(Nearly) Doc Craig - Big Bad Pharmaceuticals?](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3726)
+- [Japanese Horror Cinema - A Selection of Japanese Cult Films](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3724)
+- **[AUSA - Grafton News](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3722)**
+- **[AUSA - WROs](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3720)**
+- [Music - Cantate Domino Canticum Novum - Masaaki Suzuki and his Bach Collegium Japan](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3718)
+- [Music/Film - Best Movie Soundtracks](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3716)
+- [Shuffle Diaries - Dragonfly (2012), Lavender Diamond](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3714)
+- [Books - Murakami’s Lack of Moralism](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3712)
+- [Theatre - Stomp](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3709)
+- [Game - Skulls of the Shogun, 17-Bit Entertainment](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3707)
+- [Film - The Weight of Elephants, Daniel Joseph Borgman](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3705)
+- [Film - Byzantium, Neil Jordon](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3703)
+- [Manga - It's Not My Fault I'm Not Popular!, Nico Tanigawa](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3700)
+- [Fanfic - Point of No Return, A School Days fanfic by Kazuya Sensui](https://web.archive.org/web/20131005095836/http://craccum.ausa.auckland.ac.nz/?p=3698)
+
+### Issue 18 2013
+- [Aditya's Editorial](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3852)
+- [Calum's Editorial](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3850)
+- [Letters](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3848)
+- [Horrorscopes](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3845)
+- **[News - Keep Out - Students to be locked out of fee-rise meeting](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3842)**
+- **[News - D is for...](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3838)**
+- [Hacks Gonna Hack - Do you support the proposed changes to the GCSB legislation?](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3836)
+- [Sports - The Three Amigos](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3834)
+- [Pokemon Of The Week Redux Week X’N Y - Super Mega Seaking Turbo Hd Remix](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3832)
+- [The Outsider - Hamish Saunders on Politics](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3829)
+- [Feature - Thousands of Miles on a Sign and a Smile - A tale of hitch hiking from Montreal to Calgary](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3827)
+- [Feature - Mary Jane And Me - Why I Decided To Quit Smoking Weed.](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3825)
+- [Feature - It’Is Provocative - Why ‘Death of the Author’ Can Go Die.](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3823)
+- [Feature - Pump](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3821)
+- [The Style 101](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3819)
+- [The (Un)Examined Life - Schrödinger’s Ex](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3817)
+- **[AUSA - Student Welfare](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3815)**
+- [Bier Essentials](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3813)
+- [Keepin' It Real with Conny G Dawg - Peer Pressure](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3811)
+- [(Nearly) Doc Craig - Tales from the Operating Theatre](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3809)
+- [Debate - This House Would Allow Smoking On Campus.](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3807)
+- **[AUSA - Cate's Column](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3805)**
+- **[AUSA - Education Matters](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3802)**
+- **[AUSA - The President](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3800)**
+- [Games - Tiny Stories Made of Glass, Thoughts and Impressions and Kind of a Review of The Last of Us](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3798)
+- [Fan Fiction - The Soldier, Demon Hunter, and Keyblade Master - A DMC, Final Fantasy 7, Kingdom Hearts Crossover fic. by Animedude93](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3796)
+- [Music - Something Aromatic and Fresh, South Indian Classical Music](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3794)
+- [Music - Trap Lord, A$AP Ferg](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3792)
+- [Shuffle Diaries - Hide and Seek (2005), Imogen Heap](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3790)
+- [Theatre - Revenge of the Amazons, The Female Company](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3788)
+- [Theatre - Speaking In Tongues, The Herald Theatre](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3786)
+- [Theatre - Balmy, The Basement Theatre](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3784)
+- [Visual Arts Preview - Spring Catalogue 2013 & New Works, Gow Langsford Gallery](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3782)
+- [Film - Kickass 2, Jeff Wadlow](https://web.archive.org/web/20131111014823/http://craccum.ausa.auckland.ac.nz/?p=3780)
+
+### Issue 19 2013
+- [Aditya's Editorial](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3905)
+- [Calum's Editorial](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3903)
+- [Horrorscopes](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3901)
+- [Letters](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3899)
+- [Sports - “Keep it Simple, Stupid”](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3897)
+- [The Outsider - Hamish Saunders on Politics](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3895)
+- [Thousands of Miles on a Sign and a Smile - A tale of hitch hiking from Montreal to Calgary (Part 4)](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3893)
+- [Feature - Touching on the Untouchables](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3891)
+- **[Feature - Avoiding Apathy: How University turned me into an Evangelical (of sorts).](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3889)**
+- [Opinion - Einstein = Mr Cheat Squared?](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3887)
+- [AUSA - The President](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3885)
+- [Feature - Exploitation Cinema](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3883)
+- [The (Un)Examined Life - “Nihil sub sole novum.”- Ecclesiastes 1:10](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3881)
+- [Keepin’ It Real with Conny G Dawg - Baby Boom.](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3879)
+- [Pokemon Of The Week Redux - Week Back To School - Drowzee](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3877)
+- [(Nearly) Doc Craig - The Dark Days](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3875)
+- [Debate - This House Supports Military Intervention in Syria.](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3873)
+- **[AUSA - Education Matters](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3871)**
+- [New Zealand Fashion Weekend Review](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3869)
+- [Theatre Interview - Kiss the Fish, Indian Ink Theatre Co.](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3867)
+- [Opera - Opera Box: Winter Season](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3865)
+- [Theatre Preview - Stir Fried V, Stage Two Productions](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3863)
+- [Visual Arts - A Different View: Artists address pornography](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3861)
+- [Film - Elysium, Neill Blomkamp](https://web.archive.org/web/20131111002458/http://craccum.ausa.auckland.ac.nz/?p=3859)
+
+### Issue 20 2013
+- [Editorial - Aditya](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3975)
+- [Editorial - Paul Hung](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3973)
+- [Letters](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3971)
+- [Horrorscopes](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3969)
+- **[News - Exams from home: Massey gets to do it, why can’t we?](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3967)**
+- [News - E-cigarettes might actually work](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3965)
+- [Craccum Sports - du Plessis](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3963)
+- **[News Comment - Speak confusingly, and carry an “unbelievably small” stick](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3961)**
+- **[News Comment - An Unprintable Ubiquity?](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3959)**
+- [The Outsider - Hamish Saunders on Politics](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3957)
+- [Hacks Gonna Hack - Should party leaders be chosen by party members, or by their caucus (or a mixture of the two)?](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3955)
+- [Feature - Thousands of Miles on a Sign and a Smile: A tale of hitch hiking from Montreal to Calgary (5 of 8)](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3953)
+- [Feature - Gamer: A Brief Discussion of Culture in Videogames](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3951)
+- [Feature - KA-POW! Why Comic-Book Movies Are (Mostly) Cheating](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3949)
+- [Feature - Silly Music You Might Want to Avoid](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3947)
+- [Unsane Musings - Natural Born Nerds](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3944)
+- **[AUSA - The President](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3942)**
+- **[AUSA - Womens Rights](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3939)**
+- [Style 101](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3937)
+- [The (Un)Examined Life - What is the difference between acts and omissions?](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3935)
+- [Keepin’ It Real With Conny G Dawg - Critical Mass](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3933)
+- [Pokemon Of The Week Redux - Week Seven Things - Jigglypuff](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3931)
+- [(Nearly) Doc Craig - So you want to be a Doctor?](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3929)
+- [Debate - This house would condemn social networking sites](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3927)
+- **[AUSA - Media Matters](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3925)**
+- [Anime - The Legend of Korra, Season 2 Premier](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3923)
+- [Games - Guacamelee, Drinkbox Studios](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3921)
+- [Theatre - Lord of the Flies, Auckland Theatre Company](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3919)
+- [Shuffle Diaries - C'mon Talk, Benhoft](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3917)
+- [Visual Arts Profile - Paper/Cupboard](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3915)
+- [Visual Arts - Sunset at Montmajour, Vincent Van Gogh](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3913)
+- [Film - Blue Jasmine, Woody Allen](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3911)
+- [Books - Alone Together: Why We Expect More from Technology and Less from Each Other, Sherry Turkle. 2011.](https://web.archive.org/web/20131110230054/http://craccum.ausa.auckland.ac.nz/?p=3909)
+
+### Issue 21 2013
+- [Calum’s Editorial](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4058)
+- [Aditya’s Editorial](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4056)
+- [Letters to the Editor](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4054)
+- [Horrorscopes](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4052)
+- **[News - Vote Now! Vote Often! All the Voting for All the Things](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4050)**
+- **[News - Spare a dollar? AUSA Does Something Useful](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4048)**
+- **[News Comment - Only in Texas?](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4046)**
+- [News - Minor Shake Up - Labour Party Shuffles its Deck](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4044)
+- [Sports - Sail Away, Sail Away, Sail Away](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4042)
+- **[Hacks Gonna Hack - What should we do about New Zealand’s falling university rankings?](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4040)**
+- [The Outsider - Hamish Saunders on Politics](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4037)
+- [Thousands of Miles on a Sign and a Smile - A tale of hitch hiking from Montreal to Calgary (6 of 8)](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4035)
+- [Feature - Captain Planet: 21st Century Reboot Edition](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4033)
+- [Flash Fiction - In the Dark](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4030)
+- [Flash Fiction - Motion Sensors](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4028)
+- [Flash Fiction - Only 90’s Kids Will Get This, ‘Like’ If Counting Sheep Doesn’t Fucking Work](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4026)
+- **[Feature - Overturning the American Dream](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4024)**
+- **[AUSA - Class Rep and Delegate Award Winners 2013](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4022)**
+- **[AUSA - Tamaki](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4020)**
+- [Unsane Musings - The Deadline War](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4017)
+- [Why I Hate - Microsoft Word](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4015)
+- [Keepin' It Real with Conny G Dawg - Lean with Tasker.](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4013)
+- [Pokemon Of The Week Redux - Week 2... Fight! - Dratini](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4011)
+- [(Nearly) Doc Craig - Children in Medicine](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4006)
+- [The (Un)Examined Life - Graduation: A Somewhat Hobbesian Approach](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4004)
+- [Debate - This house would take the blue pill](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4002)
+- **[AUSA - The President](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=4000)**
+- **[AUSA - Education Matters](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=3998)**
+- [Games - Grand Theft Auto V, Rockstar Games](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=3995)
+- [Theatre - Kiss the Fish, Indian Ink](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=3993)
+- [Books - Gone Girl Gillian Flynn](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=3991)
+- [Music - AM, Arctic Monkeys](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=3989)
+- [Shuffle Diaries - Baby Blue, King Krule](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=3987)
+- [Visual Arts Preview - Urban Images](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=3985)
+- [Film - Now You See Me, Louis Letterier](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=3983)
+- [Film - Red 2, Dean Parisot](https://web.archive.org/web/20131110230021/http://craccum.ausa.auckland.ac.nz/?p=3981)
+
+### Issue 22 2013
+- [Aditya’s Editorial](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4135)
+- [Calum's Editorial](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4133)
+- [Letters](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4131)
+- [Horrorscopes](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4129)
+- **[News - Mr. Money-In-The-Bank: Vice-Chancellor NZ’s Top Paid Public Servant](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4127)**
+- **[News - Home Ownership Looking Less Realistic Than Ever](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4125)**
+- [Craccum Sports - Comebacks](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4122)
+- [News - Govt Cracks Down on Legal Highs](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4120)
+- [News Comment - International CrimeWatch](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4118)
+- [News - Question Time: The Council Candidates Chatter](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4116)
+- [Craccum "News" - Judi Dench considers releasing sex tape](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4114)
+- [Craccum "News" - Craccum Editors Fall Out Over Font](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4112)
+- **[Craccum "News" - AUSA Underfed](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4110)**
+- [The Outsider - Hamish Saunders on Politics](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4108)
+- [Feature - Thousands of Miles on a Sign and a Smile: A tale of hitch hiking from Montreal to Calgary (7 of 8)](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4106)
+- [Feature - A Guide to Writing Tabloid: Is It Really That Hard?](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4104)
+- [Feature - We Only Seem To Care About Anthony's Weiner](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4102)
+- [AUSA - The President](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4100)
+- [Style 101](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4098)
+- [Debate - This House Would Encourage Drinking In Lectures](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4096)
+- [Keepin’ It Real With Conny G Dawg - Loved-up Pair Optimistic About Future.](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4094)
+- [Pokemon Of The Week Redux - Week Detoxy-Nine - Charizard](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4092)
+- [(Nearly) Doc Craig - Paternalism in Medicine](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4090)
+- [Unsane Musings - Tabloids, Eh?](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4088)
+- **[AUSA - Education Matters](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4086)**
+- [TV 'sort-of-not-really' Review - Breaking Bad, Felina](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4084)
+- [Visual Arts Interview - Amy Stewart, Artweek 2013](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4082)
+- [Shuffle Diaries - Damn Your Eyes, Alex Clare (Etta James Cover)](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4080)
+- [Music Interview - Mountaineater](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4078)
+- [Music - Mechanical Bull, Kings of Leon](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4076)
+- [Shuffle Diaries-ish - Under the Tide (2013), CHVRCHES](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4074)
+- [Music Interview - Swampland](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4072)
+- [Music - Q&A; with Bernie Griffen](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4070)
+- [Theatre - Young and Hungry, Festival of New Theatre 2013 - Opening Night](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4068)
+- [Movie Preview - Man of Steel 2](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4066)
+- [Poetry - Writer's Depression, Kurt Eastwood](https://web.archive.org/web/20131110225922/http://craccum.ausa.auckland.ac.nz/?p=4064)
+
+### Issue 23 2013
+- [Calum's Editorial](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4211)
+- [Aditya's Editorial](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4209)
+- [Letters to the Editor](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4207)
+- [Horrorscopes](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4205)
+- **[News - Finding an Occupation: Students rally in the Quad](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4202)**
+- **[News - That Sinking Feeling: UoA Falls in Second Global Ranking](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4200)**
+- [Sports - Internationalising the EPL](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4198)
+- **[News - Mooc-hing: What is a MOOC?](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4195)**
+- [News Comment - Broken, bad](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4193)
+- [Hacks Gonna Hack - Should citizens-initiated referenda be binding on Governments?](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4189)
+- [The Outsider - Hamish Saunders on Politics](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4187)
+- [From the Blogosphere - Keith Ng](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4185)
+- [Feature - Thousands of Miles on a Sign and a Smile: A tale of hitch hiking from Montreal to Calgary (8 of 8)](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4183)
+- **[Feature - Fee Increases: The Blame Game](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4181)**
+- [Feature - Failed Social Networking Pitches](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4178)
+- [Opinion - Rambling Confessions Of A Tortured Zionist](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4175)
+- **[AUSA - Cate's Column](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4173)**
+- [Debate - This House would oppose the GCSB bill](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4171)
+- [Keepin’ It Real with Conny G Dawg - Dancing With Miley](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4169)
+- [Pokemon Of The Week Redux- Week Penultimate - Mr. Mime](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4167)
+- [(Nearly) Doc Craig - Sexual Health](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4165)
+- [The (Un)Examined Life - The moral dilemma of selective abortion](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4161)
+- **[AUSA - The President](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4159)**
+- **[AUSA - Education Matters](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4157)**
+- **[AUSA - Grafton Campus](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4155)**
+- [Visual Arts Preview - A Puppet, a Pauper, a Pirate, a Poet, a Pawn and a King](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4153)
+- [Film - Grown Ups II](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4151)
+- [Shuffle Diaries-Ish - Laneway (2014) edition.](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4149)
+- [Music - Yebiisu Q&A;](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4147)
+- [Manga - Hellsing, Kouta Hirano](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4145)
+- [Games - Harry Potter: Quidditch World Cup (2003), EA](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4143)
+- [Fanfic - The Warhammer High Series by the Warhammer High Collective](https://web.archive.org/web/20131110230451/http://craccum.ausa.auckland.ac.nz/?p=4141)
+
+### Issue 24 2013
+- [Aditya's Editorial](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4298)
+- [Calum's Editorial](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4296)
+- [Letters](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4294)
+- [Horrorscopes](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4292)
+- **[News - Stephen Joyce: Cornelius Fudge?](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4290)**
+- **[News - Len Brown: Is It Really News?](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4288)**
+- [Sports - Sonny Bill Williams – A Defence](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4286)
+- [News Comment - American...](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4284)
+- [The Outsider - Hamish Saunders on Politics](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4282)
+- **[News - AUSA Executive Report Card 2013](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4280)**
+- [Feature - Caught 22: Espionage and Hypothetical Consent](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4278)
+- [Feature - Alcohocalypse Floor](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4276)
+- [Versus vs. Versus III - Fate of Two Versus](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4274)
+- [Poetry](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4272)
+- [Feature - Apocalypse Gisborne](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4270)
+- [The End is Night](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4267)
+- **[AUSA - Cate's Column](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4265)**
+- **[AUSA - A Round of Thanks](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4263)**
+- **[AUSA - The President](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4261)**
+- [Debate - This house believes that artists should not portray bad/morally wrong characters in a sympathetic light.](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4259)
+- [Keepin' It Real with Conny G Dawg - Remuernoir.](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4257)
+- [Pokemon Of The Week Redux - Week Thnks Fr Th Mmrs - Snorlax](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4255)
+- [(Nearly) Doc Craig - Private Medicine Sucks](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4251)
+- [The (Un)Examined Life - Meditations on “YOLO”: McTaggart and the Apocalypse](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4249)
+- [Ask a Christian - Wither the world?](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4245)
+- [Unsane Musings - The Final Countdown](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4243)
+- **[AUSA - Max's Goodbye Column](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4241)**
+- **[AUSA - The Treasurer](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4239)**
+- [Visual Arts Interview - Art in the Dark: Living Light Interview with Dr Siouxsie Wiles](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4237)
+- [Theatre - The Feast](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4235)
+- [Fan Fic - My Immortal, A Harry Potter Fanfic by Tara Gilesbie](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4233)
+- [Shuffle Diaries-ish - Watercolours](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4231)
+- [Shuffle Diaries-ish - Haim](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4229)
+- [Live Music - One Direction](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4227)
+- [Games - Pokémon X/Y](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4225)
+- [Games - Spec Ops: The Line, Yager Development](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4223)
+- [TV - House of Cards Season 1, Netflix](https://web.archive.org/web/20131110230337/http://craccum.ausa.auckland.ac.nz/?p=4219)
+
+
+## 2014
+
+### Issue 02 2014
+- [Spotify Playlist for Issue 2](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=6254)
+- [AUSA Executive Pokemon Cards](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5202)
+- **[News • You've Got Mail UOA - It' Your Report Card!](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5198)**
+- [Kit's Editorial](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5171)
+- [Ana's Editorial](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5168)
+- [News in Brief](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5166)
+- **[News • Vote National Because We Raised the Minimum Wage](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5164)**
+- [Good Week/Bad Week of Sports](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5162)
+- [Sportstalk](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5159)
+- **[A WEEK in the life of an AUSA TAG-A-LONG](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5157)**
+- [Hipsterview - Strata Cafe - The benefits of putting your cafE up four flights of stairs](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5152)
+- [Debate - This House prefers Stalin to Putin](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5149)
+- **[Weird and Wonderful Courses - How does the University of Auckland Compare?](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5147)**
+- [Aine's View - A Story You Might Have Missed](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5145)
+- [Unsane Musings](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5142)
+- **[How to Survive Co-Ed Education](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5140)**
+- **[MOOCs: Free tertiary education for all?](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5137)**
+- [The Adventures of Connie G-Dawg](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5135)
+- [Losing My Dick Pic Virginity: or how I learned to stop worrying and ignore the cock.](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5133)
+- [Cheap Eats at Home - Vegetable Tagine](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5130)
+- [Desperate Eats on the Go - Ana’s Tomato Soup with Croutons](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5127)
+- [Eating Out • Rad Café](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5124)
+- [Fashion • Dressing for your Degree](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5121)
+- [Health and Fitness - High Protein Diets Increase Risk of Cancer](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5119)
+- [Health and Fitness - The Badass Buddy System](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5117)
+- **[Cate's Column - A Word From the AUSA President](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5114)**
+- [Nearly Wig](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5111)
+- [The Mad Scientist - Bonnie Attenborough on Sea Cucumbers and Pearlfish](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5108)
+- [Technology - Mobile World Congress](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5106)
+- [Will Odd Future Wolf Gang Kill Us All?](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5102)
+- [Top Ten: Back to School Songs](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5099)
+- [Album • Oxymoron, Schoolboy Q](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5096)
+- [Concert • Rudimental](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5093)
+- [Musical • Mamma Mia](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5090)
+- [Album • Nas' Illmatic at 20](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5087)
+- [Silo Park Cinema: All about the Foreplay](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5085)
+- [TV • House of Cards, Season 2](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5079)
+- [Literature • Drowning City](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5076)
+- [Festival • Rapture 2014](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5073)
+- [Flat of the Week - Hardwood Manor](https://web.archive.org/web/20150113130025/http://craccum.ausa.auckland.ac.nz/?p=5069)
+
+### Issue 03 2014
+- [Spotify Playlist for Issue 3](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=6252)
+- [Editorial • Ana Lenard](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5337)
+- [Editorial • Kit Haines](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5334)
+- [News • UoA Political Debate Quiz](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5331)
+- [News • In Brief](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5329)
+- [News • Election Comes Early, Swears that it has Never Happened Before](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5326)
+- [News • Eye On Exec](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5323)
+- [Sportstalk](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5319)
+- [Good Week / Bad Week Of Sports](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5317)
+- **[Diary of an AUSA Tag-Along • Straight from our very own AUSA insider](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5315)**
+- [AUSA Executive Pokémon Collector Cards](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5311)
+- [Flat of the Week](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5308)
+- [Unsane Musings • Why Travel?](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5306)
+- [Aine's View • Tall Poppy](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5304)
+- [Hipsterview • Excel Café • That one in OGGB you walk past but never go to](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5302)
+- [Debate • This House regrets the rise of sexually assertive female popstars](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5300)
+- [Travelling in Central India: Akola and Narnala Fort](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5297)
+- [An Introduction to 360º Auckland Abroad](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5295)
+- [Tips for Sleeping in Airports](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5292)
+- [Cheap Eats • Potatoes](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5289)
+- [Eating Out • The Middle Eastern Café](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5286)
+- [The Adventures of Connie G-Dawg • Getting Lost](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5283)
+- [Love • The Love Doctor](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5280)
+- [Fashion Interview • John Mutambu on Travel and Style](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5277)
+- [Health and Fitness • Top 10 Ways to Stay Fit When Travelling](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5274)
+- **[AUSA • A Word from the WROs](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5270)**
+- **[AUSA • Cate's Column](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5268)**
+- [A Guide To Couchsurfing](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5265)
+- [Technology • Top 5 Travel Apps](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5263)
+- [Technology • Top 3 Travel Technologies](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5260)
+- [Technology • Can Telecom Sparkle?](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5257)
+- [The Mad Scientist - Bonnie Curie on Women in Science](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5255)
+- [Arts Editorial • Better Belieb It](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5252)
+- [Concert • Glory Days - An evening with the Boss](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5249)
+- [Music • Top Ten - Dancehall Tracks](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5246)
+- [Music • The Dusty Foot Philosopher, K’naan](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5243)
+- [Theatre • Pericles](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5240)
+- [Theatre • Q & A with Professor Tom Bishop](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5237)
+- [Music • Good Times, Kim Dotcom](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5234)
+- [Film Comment • Shock-Horror: Bill Murray Says No To Third ‘Garfield’ Instalment... And why you should like the Coen Brothers.](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5231)
+- [Literature • Flatter’s Survival Guide, Lauren Earl](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5228)
+- [Film • Her](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5225)
+- [Watts On • At the Movies with Melissa Watts](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5222)
+- [Top 5 Holiday Destinations](https://web.archive.org/web/20150113130012/http://craccum.ausa.auckland.ac.nz/?p=5219)
+
+### Issue 04 2014
+- [Spotify Playlist for Issue 4](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=6250)
+- [Editorial • Ana Lenard](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5662)
+- [Editorial • Kit Haines](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5647)
+- [AUSA Executive Pokémon Cards](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5659)
+- [News • Hot Racks, Cool Juggs](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5640)
+- **[News • So where is this boom in international students?](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5638)**
+- **[News • National Trying To Help the Poor: The 'Yeah Nah' Proposed Plan](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5636)**
+- **[Eye on Exec](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5634)**
+- **[Interview • Grant Robertson](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5632)**
+- [Good Week / Bad Week of Sports](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5630)
+- [Sports Talk](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5628)
+- **[Diary of an AUSA Tag-Along - "The Stein"](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5626)**
+- [Aine's View • Drug Education - What I Cannot Forget](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5624)
+- [Unsane Musings • Drugs?](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5622)
+- [Hipsterview • Law Café - The Shame of Law School](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5620)
+- [Debate • This House would make welfare conditional on drug testing](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5617)
+- [Feature • Hard Drugs - A Fair Target for Stigma?](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5615)
+- [Infographic • Drugs Around The World](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5612)
+- [Eating Out • High Tea Café](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5610)
+- [Cheap Eats • Fruit](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5608)
+- [The Love Doctor](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5606)
+- [Fashion • The Psychedelic Special](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5603)
+- [Health & Fitness](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5601)
+- [Quiz • What Type of Alcohol Do You Drink?](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5599)
+- [Feature • Which Drug Is For You?](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5590)
+- [Tech • Silk Roads, Pirates, and Magic The Gathering Exchanges: Cryptocurrency and Drugs on the Internet](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5588)
+- [The Adventures of Connie G-Dawg • Doing Cheese](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5585)
+- [The Mad Scientist • Bonnie Darwin on the Evolutionary Advantages of Drugs](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5574)
+- [Arts Editorial • Rock n’ Roll Suicide](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5566)
+- [Eat, Pray, Bud: Five doobie tracks for your buzz list](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5563)
+- [Music • Merriweather Post Pavilion](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5561)
+- [Music • Time Out, Dave Brubeck Quartet](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5558)
+- [Music • Lonerism, Tame Impala](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5556)
+- [Music • House Party Playlist](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5554)
+- [Arts Comment • Drugs in Art](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5552)
+- [Film • Inside Llewyn Davis](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5550)
+- [Concert • Welcome to the Heist, Mackelmore](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5548)
+- [Film Comment • Steve McQueen](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5546)
+- [Literature • God's Dog, Diego Marani](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5544)
+- [Music Comment • Ode to "Alex"](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5541)
+- [Flat of the Week](https://web.archive.org/web/20150113125959/http://craccum.ausa.auckland.ac.nz/?p=5539)
+
+### Issue 05 2014
+- [Spotify Playlist for Issue 5](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=6248)
+- [Editorial • Ana Lenard](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5911)
+- [Editorial • Kit Haines](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5909)
+- [News • Kim & Key: A Tale of Two Smiling Assassins](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5907)
+- **[News • Those Who Complain About Library Fines Are Too Damn High](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5905)**
+- **[Eye on the Exec](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5903)**
+- [Good Week / Bad Week of Sports](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5901)
+- [Sportstalk](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5899)
+- **[Diary of an AUSA Tag-Along • "Changing Clubs"](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5897)**
+- [AUSA Executive Pokémon Collector Cards](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5895)
+- [Unsane Musings](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5890)
+- [Aine's View • Folk Fortnight](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5888)
+- [Hipsterview • Slurp - Orange is the New Black](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5886)
+- [The News Cycle - When Does the News stop being News?](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5884)
+- [Celebrity Deaths - Hysteria, Immortalisation, and the Death of the Status Quo](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5878)
+- [The Nazis Never Spied on Me: An Attack on Godwin’s Law](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5873)
+- [Health and Fitness • How to Avoid a Cold This Winter](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5871)
+- [Cheap Eats • Pizza](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5869)
+- [Eating Out • Tanpopo Ramen](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5867)
+- [Technology • Buying Tech](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5865)
+- [The Mad Scientist • Alinghi aren’t the only wankers in the ocean](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5863)
+- [The Adventures of Connie G-Dawg • Sports](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5861)
+- [The Love Doctor](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5859)
+- [An Introduction to the World of Podcasts](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5856)
+- [Music Comment • The Cult of Kanye](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5853)
+- [Film Comment • Hidden (Motherfuckin’) Gems](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5849)
+- [Film Comment • Beginners Survival Guide to the Rialto Channel 48Hours Film Festival Weekend](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5847)
+- [Concert • Nine Inch Nails & Queens of the Stone Age](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5839)
+- [Music • Lost in the Dream, The War on Drugs](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5836)
+- [Literature • Stoner, John Edward Williams](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5832)
+- [Flat of the Week](https://web.archive.org/web/20150113125946/http://craccum.ausa.auckland.ac.nz/?p=5829)
+
+### Issue 06 2014
+- [Spotify Playlist for Issue 6](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=6242)
+- [Editorial • Kit Haines](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=6019)
+- [Editorial • Ana Lenard](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=6017)
+- **[News • Lincoln University Moving Towards Specialisation](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=6015)**
+- [News • RIP MH370](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=6012)
+- [Sports Talk](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=6010)
+- [Good Week / Bad Week Of Sports](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=6008)
+- **[Diary of an AUSA Tag-Along - "Feelin' Religious"](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=6006)**
+- [AUSA Executive Pokémon Collector Cards](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=6002)
+- [Aine's View • Science and Religion - Opposite ends of a Spectrum?](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=6000)
+- [Unsane Musings](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5998)
+- [Hipsterview • Dizengoff - Jewish Café - The power of coffee compels you!](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5996)
+- [Around the World: Religious Conflicts on the Rise](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5992)
+- [Social Comment • Religion and Art](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5990)
+- [Atheism Ascendant?](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5988)
+- [PILFS II • The Popes](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5985)
+- [Top 10 Unusual Religions](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5983)
+- [Health and Fitness • Maintaining Health during a Religious Fast](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5981)
+- [Health and Fitness • Wanderlust](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5978)
+- [The Adventures of Connie G-Dawg • Grinding Through Noah](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5975)
+- [Cheap Eats: Pasta Sauce](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5971)
+- [Eating Out • Greys Ave Deli](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5967)
+- [The Love Doctor](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5965)
+- [Arts Editorial • Bad Religion](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5957)
+- [Festival • RIP Parachute](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5955)
+- [Seven Religious Movies That You Have To See](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5953)
+- [Music • G I R L, Pharrell](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5951)
+- [Literature • His Dark Materials, Philip Pullman](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5948)
+- [Film • Noah, Darren Aronofsky](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5946)
+- [Film • The Grand Budapest Hotel, Wes Anderson](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5944)
+- [Literature • Zealot, Reza Aslan](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5942)
+- [Film • Divergent](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5939)
+- [Literature Comment • The Grumbling Reader: Some Thoughts on the Anti-Apologists](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5937)
+- [Music Comment • Good God(s): Music and Religiosity](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5934)
+- [Film Comment • God's Not Reel](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5932)
+- [Flat of the Week - The (mostly)ex-Brothel](https://web.archive.org/web/20150113125932/http://craccum.ausa.auckland.ac.nz/?p=5929)
+
+### Issue 07 2014
+- [Spotify Playlist for Issue 7](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6240)
+- [Editorial • Kit Haines](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6128)
+- [Editorial • Me, myself and Comedy.](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6126)
+- [News • Originality is Undetected Plagiarism](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6124)
+- [Good Week / Bad Week Of Sports](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6122)
+- [Sports Talk • The Garden of Eden: Our Field of Broken Dreams](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6120)
+- [News • A Royal Loss Or Win? You Decide, You’re the Monarch (For Once)](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6118)
+- [Aine's View • Comedy: Read It Again](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6116)
+- **[Diary of an AUSA Tag-Along - "The In-Along"](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6114)**
+- [Hipsterview • The Store: Eat, Pray Lo-uis Vuitton](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6112)
+- [Love is Blind at The Occidental](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6110)
+- **[Interview with a Campus Feminist](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6108)**
+- **[An Apology](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6106)**
+- [20 Questions with Guy Williams](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6103)
+- [Q&A; with Marcel Lucont](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6100)
+- [What’s Okay? Comedy and Political Correctness](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6098)
+- [Probing the Billy T Nominees](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6096)
+- [SNORT Comedy at The Basement](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6094)
+- [Women in Comedy: Kylie Sealy and Louise Beuvink](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6091)
+- [Comedy • Jeff Achtem: Puppets & Comedy](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6086)
+- [Comedy • Rhys Mathewson](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6081)
+- [Health and Fitness • Top 10 Tips](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6079)
+- [Health and Fitness • Why We Need Universal Gym Rules](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6077)
+- [Health and Fitness • Q&A; with Personal Trainer Francis](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6075)
+- [Cheap Eats • Pumpkin Soup](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6072)
+- [Top 5 Foods You Could Never Afford](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6070)
+- [Cocktail of the Week • Earl Grey Martini](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6068)
+- [Arts Editorial • Respect Flo Rida](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6066)
+- [Film • The Invisible Woman or ‘I love Ralph Fiennes’](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6060)
+- [Top 10 Comedy Songs](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6058)
+- [Literature • The Phantom Tollbooth](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6052)
+- [Music • It’s Album Time (2014)](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6047)
+- [TV • A Survey of British Panel Shows](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6045)
+- [Comedy • Where to Start With Stand-up](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6043)
+- [Comedy • Killing the Frog – Comedic Tastes](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6041)
+- [Game • South Park: The Stick of Truth](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6036)
+- [Top 5 Comedy YouTube channels you should subscribe to](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6034)
+- [Flat of the Week - Lesley (seriously, their house is called Lesley, even check the Wi-Fi)](https://web.archive.org/web/20150113125918/http://craccum.ausa.auckland.ac.nz/?p=6031)
+
+### Issue 08 2014
+- [Editorial • Ana Lenard - The Internet](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6237)
+- [Editorial • Kit Haines](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6235)
+- **[News • Rate Steven Joyce's Plans for You](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6233)**
+- [News • No More Getting High](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6231)
+- [Good Week / Bad Week Of Sports](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6229)
+- [Sports Talk • Super Rugby Half-Time Review](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6227)
+- **[An Interview with Kim Dotcom](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6225)**
+- [Aine's View • Internet: Language Matters](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6223)
+- [Unsane Musings • Life without Internet](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6221)
+- [Hipsterview • HSB Café: Consistently confusing, and still more hipster than you](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6219)
+- **[Diary of an AUSA Tag-Along - "The Brought-Along"](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6217)**
+- [Love Doctor • Blind Date](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6215)
+- [Blood and Glitter • My problem with Tumblr warriors](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6213)
+- [Debate - This House believes that Social Media is destroying our ability to interact](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6211)
+- [Five Days Without Technology](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6207)
+- **[Flame On - A Short Guide to Political Trolling](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6201)**
+- [YouTube Celebrity Survivor](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6199)
+- [Dating and the Internet](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6193)
+- [My Many Faces: A Guide to Creating Fake Facebook Personas](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6191)
+- [Fashion • Perfect Fit: A Guide to Suits](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6189)
+- [The Adventures of Connie G-Dawg • Behind Closed Doors](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6187)
+- [Health and Fitness • Yeah. Sure. I totally “Biohack.” All the time.](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6184)
+- [Health and Fitness • Q&A; with Personal Trainer Francis](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6182)
+- [Cheap Ears • Anzac Biscuits](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6179)
+- [Eating Out • Fo Guang Shan Tea House](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6175)
+- [Arts Editorial • Top 4 Websites For Cool Things To Read](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6172)
+- [Literature • Goodbye to All That](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6169)
+- [Top 10 TV Series To Watch](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6165)
+- [Music Journalism • Nardwuar the Human Serviette](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6160)
+- [Music • The New Classic, Iggy Azalea](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6152)
+- [Film Comment • I’m ready to marvel at Marvel](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6150)
+- [Music • Youtube: Majestic Casual](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6145)
+- [Art Comment • The Work of Art in the Age of Digital Reproduction](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6143)
+- [Music Comment • Music Piracy: The Good, The Bad and The Way Forward](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6141)
+- [Comedy Round Up](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6139)
+- [Tech • Interview with a DotA Trader](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6137)
+- [Top 5 Shittiest Online Gaming Sites to Play When You Are Bored](https://web.archive.org/web/20150113125906/http://craccum.ausa.auckland.ac.nz/?p=6134)
+
+### Issue 09 2014
+- [Editorial • Kit Haines](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6386)
+- [Editorial • Ana Lenard](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6383)
+- [News • Calling All Single Girls!](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6381)
+- [News • Rate the Fall From Grace](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6379)
+- **[News • Con-GRAD-ulations: Trenchers are sooo hot right now](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6376)**
+- **[News • AUSA Report Cards](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6374)**
+- [Eating our Greens • Interview with Green Party Co-Leaders, Russell Norman and Metiria Turei](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6368)
+- [Sports Talk • Racism in Sports](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6366)
+- [Good Week / Bad Week Of Sports](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6364)
+- [Aine's View • Procrastination Machine](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6362)
+- [Unsane Musings](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6360)
+- [Hipsterview • Relax Café](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6358)
+- **[Ausa Tag-Along: Return To Tag-Along Status](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6356)**
+- [The Love Surgeon](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6354)
+- [Blood and Glitter - Upworthy and BuzzFeed must die](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6352)
+- [The Adventures of Connie G-Dawg • Small Talk](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6350)
+- [Debate • In a world of driverless cars, this House would ban driving.](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6348)
+- [The Art of Procrastination](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6346)
+- [When Movies Disappoint](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6341)
+- **[#poverty - A Micro Industry](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6336)**
+- [Gambling with people’s hearts: Catfish on the Internet](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6329)
+- [Best Sleaziest Pick Up Lines](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6327)
+- [Health and Fitness • Top Tips](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6325)
+- [Health and Fitness • Who doesn’t do Jukari? ...Do you even lift?](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6323)
+- [Health and Fitness • Q&A; with Personal Trainer Francis](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6321)
+- [Cheap Eats • Tex Mex](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6318)
+- [Eating Out • Bluebells Cakery](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6315)
+- [Game • Assassin’s Creed IV – Black Flag](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6312)
+- [Tech • Top 5 Free Apps For Students](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6310)
+- [Fashion • How To: The Autumn Transition](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6308)
+- [Arts Editorial • Long Live The King](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6306)
+- [Literature • The Catcher in the Rye, J.D.Salinger](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6303)
+- [Top 10 Most Annoying Shortland Street Characters](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6301)
+- [Concert • Arctic Monkeys](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6296)
+- [Film • The Amazing Spider-Man 2](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6293)
+- [Film • Bad Neighbours](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6290)
+- [Film • The Hunt](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6285)
+- [Your NZ Music Month Playlists](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6283)
+- [Arts Comment • Tall Poppies](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6281)
+- [Swedish Music 101](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6279)
+- [Auckland Writers Festival Preview: 14-18 May](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6276)
+- [Art • Rotman Exhibition](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6271)
+- [Flat of the Week](https://web.archive.org/web/20150113125854/http://craccum.ausa.auckland.ac.nz/?p=6268)
+
+### Issue 10 2014
+- [Editorial • Kit Haines](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6500)
+- [Editorial • Ana Lenard](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6498)
+- [News • The Grate Crate Debate](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6496)
+- **[News • You'll have to reach a little higher to file your degree](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6493)**
+- **[News • Fuck John Key? Or Shut the Fuck Up? You Decide.](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6491)**
+- [News • Trash to Cash](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6489)
+- [Good Week / Bad Week Of Sports](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6487)
+- [Sports Talk](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6485)
+- **[Aine's View • Equality - Putting Belief into Practice](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6483)**
+- **[Unsane Musings • Capitalism? Communism? Why either?](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6481)**
+- [Hipsterview • Engineering Café](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6478)
+- **[Ausa Tag-Along: Diary Of The Communist](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6476)**
+- [Love is Blind at The Occidental](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6474)
+- [Blood and Glitter • Queers & Economics](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6472)
+- [The Adventures of Connie G-Dawg • The Tron](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6469)
+- **[Debate • If you were to embody the idea of communism in an individual, this House believes that he or she would be more fun that the capitalist equivalent.](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6467)**
+- **[Feudalism - The Only Way Forward](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6465)**
+- **[From Communism to Capitalism • In Love with a Time and a Place](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6458)**
+- **[More Anarchy in our Future: Against the Market and the State](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6456)**
+- **[Communism vs Capitalism - A Fight for Democracy and Equality](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6453)**
+- **[CCCR: Commies and Cappies on Campus Roundup](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6451)**
+- [Health and Fitness • Top 5 Capitalist Fitness Trends](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6449)
+- [Health and Fitness • Top 5 Communist Fitness Trends](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6447)
+- [Cheap Eats • Sausages in Eastern Europe](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6443)
+- [Eating Out • Rosie](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6440)
+- [Tech • Six Phone type stereotypes you probably know](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6437)
+- [Game • The History of FIFA Football](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6434)
+- [Fashion • Are Communists the only ones in uniforms?](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6432)
+- [Arts Editorial • Liam Finn interview](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6427)
+- [Top 10 Rich Movie Villains](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6425)
+- [Literature Comment • The Spirit Level](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6421)
+- [Music • Bryter Layter, Nick Drake](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6415)
+- [Film • Veronica Mars (2014)](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6410)
+- [Film Comment • Raining Frogs](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6405)
+- [Preview • Documentary Edge Festival](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6403)
+- [Music Comment • Eurovision or: What’s Right with Europe](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6401)
+- [Comedy Round-Up](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6396)
+- [Flat of the Week](https://web.archive.org/web/20150113070550/http://craccum.ausa.auckland.ac.nz/?p=6393)
+
+### Issue 11 2014
+- [Editorial • Kit Haines](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6603)
+- [Editorial • Ana Lenard](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6601)
+- [News • Teulia Blakely's Sex Tape vs Stephanie Key's Nude Photos](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6599)
+- [News • The Curse of the Auckland Mayoralty](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6597)
+- [Sports Talk • Of Sprigs & Spines](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6595)
+- [Sports Take • My Pokémon 1st XV](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6593)
+- [Aine's View • Why Music?](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6590)
+- [Unsane Musings • A Personal Rant](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6588)
+- [Hipsterview • POD Café - "Some people want it all, but we just want good coffee."](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6584)
+- **[AUSA Tag-Along](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6582)**
+- [Blood and Glitter • I don’t mean to be ‘heterophobic,’ but straight people on a Saturday night scare me.](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6580)
+- [The Love Doctor](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6578)
+- [Debate](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6576)
+- [Exams 101 - I need help!](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6574)
+- [P3 Foundation’s story - Maybe ‘hash tag’ poverty is a good way forward](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6571)
+- [Eight Flatmates You Never Want to Have](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6566)
+- **[Students and Money - A Paradox... Or Is It?](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6564)**
+- [Health and Fitness • Q&A; with Personal Trainer Francis](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6562)
+- [Health and Fitness • Update on Bodyhacking Workout](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6560)
+- [Health and Fitness • Top Tips](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6558)
+- [Connie G-Dawg • Gym Gaiety](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6556)
+- [Flat of the Week](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6553)
+- [Fashion • Say No To Fat Pants](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6551)
+- [Budget Eats - The Breakfast Special](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6548)
+- [Eating Out • Farina](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6545)
+- [10 Questions with Joel Thompson from Ghetto Sunrise](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6542)
+- [Top 10 One Hit Wonders](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6540)
+- [Concert • Elvis Costello & the Imposters](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6538)
+- [Literature • Sophie’s World, Jostein Gaarder](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6535)
+- [Music • Ghost Stories, Coldplay](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6532)
+- [Film • Godzilla](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6527)
+- [Theatre • Other Desert Cities](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6524)
+- [Art • The Oyler House](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6519)
+- [Comment • The Sarah Broom Poetry Prize](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6517)
+- [Comment • A Problem Ignored: Art and Bigotry](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6514)
+- [Game • Wolfenstein: The New Order](https://web.archive.org/web/20150113070539/http://craccum.ausa.auckland.ac.nz/?p=6509)
+
+### Issue 12 2014
+- **[News • California Shooting](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6692)**
+- [News • The Civilian Party](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6690)
+- [Sports Talk](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6688)
+- [Aine's View • Putting the Reading back into the Words](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6686)
+- [Unsane Musings • Self-Help](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6683)
+- [The Love Doctor](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6681)
+- [Hipsterview • The Quad Café](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6679)
+- [Blood and Glitter • Why toxic family members need to be cut out of our lives.](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6676)
+- **[AUSA Tag-Along • Diary of the Election](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6674)**
+- [Debate • This House would rather self-diagnose on Wikipedia than go to the doctor.](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6672)
+- [You and Self-Help in the Modern Day](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6670)
+- [Smoking: Can self-help cure addiction?](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6668)
+- [Cognitive Behavioural Therapy: The New Way Forward in Therapy?](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6666)
+- [Appreciate It: The Fat Acceptance Movement](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6664)
+- [Fashion • The Self-Help Edition](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6662)
+- [Health and Fitness • The Steps Of A Self-Possessed Person](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6660)
+- [Connie G • Inspiration](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6658)
+- [Flat of the Week](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6656)
+- [Budget Eats • Multi-purpose Recipes](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6653)
+- [Eating Out • Al's Deli](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6649)
+- [Film • Q&A; Cori Gonzalez-Macuer](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6644)
+- [Art • Interview with Ane Tonga](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6642)
+- [Documentary • Take Me To The River](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6637)
+- [Literature • Mindful Learning](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6634)
+- [Music • Turn Blue, The Black Keys](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6631)
+- [Film • Chef](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6626)
+- [Comedy • Tig Notaro: Live](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6624)
+- [Comedy • Q&A; Thomas Sainsbury](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6621)
+- [Theatre • Q&A; Tommy Bradson](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6615)
+- [Film • Good Vibrations](https://web.archive.org/web/20150113070527/http://craccum.ausa.auckland.ac.nz/?p=6610)
+
+### Issue 13 2014
+- **[A Message from Vice-Editor Ana Lenard (with notes from Vice-Editor Kit Haines)](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6812)**
+- **[News • Protests in New Zealand? (They Actually Happen?)](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6810)**
+- [News • Donghua Liu v Kim Dotcom: A tale of Two Wrecking Balls](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6808)
+- [News • No One Gets Stabbed In South Auckland](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6805)
+- **[News • New Zealand Well Into Election Year](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6803)**
+- [News • Holy Moly! Goodbye Irene the Trendsetter](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6801)
+- [Good Week/Bad Week of Sport](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6798)
+- [Sports Talk](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6796)
+- [Aine’s View: Guiding Stars](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6794)
+- [Connie G](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6792)
+- [Love Doctor](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6790)
+- [Health And Fitness – PT Francis](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6787)
+- **[Debating Society Column - This House would take an Arts degree](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6785)**
+- [Fashion](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6783)
+- **[What can you study? The Bachelor of Arts.](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6780)**
+- **[In Defence of the Dark Arts](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6774)**
+- **[A Guide to General Education](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6769)**
+- [A Guide to Pulling the Perfect All Nighter](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6766)
+- **[Arts Editorial - P Money is here to stay](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6763)**
+- [Top 10 weirdest things I could find on Spotify](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6761)
+- [Songs to the Scholastic Siren](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6759)
+- [Guillemots](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6757)
+- [Tom Hern Interview](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6751)
+- [Film • The Internet’s Own Boy](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6743)
+- [Preview: New Zealand International Film Festival](https://web.archive.org/web/20150113070515/http://craccum.ausa.auckland.ac.nz/?p=6740)
+
+### Issue 14 2014
+- [Editorial.](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6921)
+- **[News • RIP MH17](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6919)**
+- [News • Aftermath Of Storm](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6917)
+- [News • Holiday Shenanigans in Celebria!](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6915)
+- **[News • Why Vote?](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6913)**
+- [Sports • Fiddling While Rome Burns](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6911)
+- [Sports • Competition To Find World’s Stupidest 11 Men Finished](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6909)
+- [Good Week / Bad Week of Sports](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6907)
+- [Fashion • Sex Sells](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6905)
+- [Aine's View • A Chaste Maid in Cheapside the fight between drama and reality](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6902)
+- [Unsane Musings](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6900)
+- [Porno World! with Connie G](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6897)
+- [HispteRview • Hallelujah for Alleluya: Mouthwatering goodness.](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6889)
+- [Blood & Glitter • Let’s talk about gay sex.](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6887)
+- [Love Doctor](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6885)
+- [AUSA-Voyeur-Along • Sexcapades Edition](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6883)
+- [Love in numbers: You, me, and everybody else in our relationship](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6881)
+- [Cracmo Confessions](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6879)
+- [Rethinking Premarital Sex](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6877)
+- [Interview with a Dominatrix](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6875)
+- [Sex education in New Zealand - Is there room for abstinence?](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6873)
+- [Quiz • What is your sexual spirit animal?](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6870)
+- [Top 10 • Weirdest Fetishes](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6868)
+- [The Debating Society Presents... This House Believes Pornography Is Good For Society](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6866)
+- [Health & Fitness • Sexercises](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6864)
+- [Eating Out • The Shortland St Café](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6860)
+- [Cheap Eats: Dahl](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6858)
+- [Arts Editorial • Sexual Healing](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6856)
+- [Music • Top 10 Sexiest Songs](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6854)
+- [Arts • Burlesque!](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6852)
+- [Literature • Purgatory – Rosetta Allan](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6848)
+- [Film • Sex Tape](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6845)
+- [Arts • Satellite Sounds](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6839)
+- [Music • We Are The Angry Mob - The Kaiser Chiefs’ Nick ‘Peanut’ Baines on their new album Education, Education, Education and War.](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6832)
+- [Literature • Either/Or, Søren Kierkegaard](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6825)
+- [Flat of the Week](https://web.archive.org/web/20150113070504/http://craccum.ausa.auckland.ac.nz/?p=6822)
+
+### Issue 15 2014
+- [Kit’s Editorial.](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7032)
+- [Ana’s Editorial.](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7030)
+- [News • Keisha Castle-Hughes to Join Game of Thrones](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7028)
+- **[News • Labour Announces Failure](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7026)**
+- **[News • John Key v John Key?](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7024)**
+- **[News • “I’m sorry” say the Police. Wait, What?!](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7022)**
+- [Shocking News: Plane Doesn't Crash](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7020)
+- [An Interview with Laila Harré](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7018)
+- [Good Week / Bad Week of Sports](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7016)
+- [Sports Talk](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7014)
+- [Aine's View • On Say it Ain’t So by Stanley Fish](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7012)
+- [Unsane Musings • James’ stream of consciousness (with apologies to Suede)](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7009)
+- [Speaking in Tongues with Connie G](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7007)
+- [HipsteRview • Munchy-Mart: gimme gimme more, gimme more, gimme gimme more MORE](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7003)
+- [Blood & Glitter • Haircut debacle. A sign of something very troubling in New Zealand society.](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=7001)
+- **[AUSA-Tag-Along • I Watched Too Much West Wing And Look What Happened To Me!](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6998)**
+- [The Love Doctor's Guide To Taboo Relationships At Uni](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6996)
+- [Matariki & The Importance of Māori Language Week](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6987)
+- [Behind the Picket Fence - A Mother and A Student](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6985)
+- **[Student Democracy - Or Not?](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6981)**
+- [Crazy busy - Are You Really?](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6977)
+- **[Things you have to do before you leave uni](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6975)**
+- [The Debating Society Presents... This House, as a Tolkien fan, regrets The Desolation of Smaug](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6973)
+- [Health & Fitness • Q&A;](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6971)
+- [Top five food porn sites](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6969)
+- [Cheap Eats • Potato and Leek Soup](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6964)
+- [Arts Editorial • Carly Rae Who?](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6962)
+- [Journalism • Auckland Zinefest](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6959)
+- [Top 10 Movies You Never Want To Watch](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6957)
+- [Film • The Dark Horse](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6955) 
+- [Film • Boyhood](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6951)
+- [Film Comment • Richard Linklater](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6949)
+- [Film • The Rover](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6944)
+- [Film • Dior and I](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6940)
+- [Literature • Te Poropiti by Philip McKibbin](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6937)
+- [Flat of the Week](https://web.archive.org/web/20150113070453/http://craccum.ausa.auckland.ac.nz/?p=6934)
+
+### Issue 16 2014
+- [Ana's Editorial](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7116)
+- [Kit's Editorial](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7114)
+- **[News - Auckland Council’s City Rail Link U-Turn](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7112)**
+- **[News - John Banks Finally Gives Back to the Community](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7110)**
+- **[News - Student Graduates in Criminalism, Majoring in The Photograpy of Women’s Feet](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7108)**
+- [News Interview - Selling Our Soul Train](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7106)
+- [Good Week / Bad Week of Sport](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7104)
+- [Sports Talk - Hansen Names All Blacks Squad to Contest Rugby Championship](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7102)
+- [Aine's View - Nostalgia: Around the World](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7100)
+- [Unsane Musings - I remember it so you don’t have to.](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7098)
+- [Memoirs with Connie G](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7096)
+- [HipsteRview - Revel Café](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7093)
+- [Blood & Glitter - Cultural Stagnation: Why political nostalgia is holding New Zealand back.](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7091)
+- **[AUSA-Tag-Along: Not Moved On](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7088)**
+- [Feature - Nostalgia: It Ain’t Like It Used to Be](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7084)
+- [Feature - After Ever After: What happened to our childhood Disney heroes? Let’s find out…](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7079 "Feature - After Ever After: What happened to our childhood Disney heroes? Let’s find out…")
+- [Feature - Child Stars: Why do they go bad?](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7077)
+- [Fashion](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7075)
+- [Top 4 Technologies to be Nostalgic About](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7073)
+- [The Debating Society Presents... This house believes that the Backstreet Boys are better than Bieber.](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7071)
+- [Health and Fitness - Looking Back](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7067)
+- [Cheap Eats: Rice](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7065)
+- [Arts Editorial - Nostalgia](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7060)
+- [Top 5 - "First Time I Ever Saw..."](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7058)
+- [Film Comment - Trapped in a Glass Cage of Emotion](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7056)
+- [Literature - Sense of an Ending by Julian Barnes](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7053)
+- [Doco - Hot Air](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7051)
+- [Literature -Capital in the Twenty-First Century by Thomas Piketty](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7049)
+- [Literature Comment - Misadventures in Nostalgia](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7046)
+- [Music Comment - Nostalgic Albums](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7042)
+- [Music - Kveikur, Sigur Rós](https://web.archive.org/web/20150113070442/http://craccum.ausa.auckland.ac.nz/?p=7039)
+
+### Issue 17 2014
+- [Editorial](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7199)
+- [News • Visit a right royal waste of money](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7197)
+- [What's Hot in Māoridom Right Now?](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7195)
+- [What's Not In Māoridom Right Now?](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7193)
+- [Sports • Sonny Bill Williams • The Lebron James of the NRL?](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7191)
+- [Sports • True Legends of the NBA](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7188)
+- [News • Election Year](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7186)
+- [Top 10 Hints for the Haka Spectator](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7184)
+- [Ngāti Kahungunu ki Heretaunga](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7182)
+- [Kapa Haka • Pools are for Swimming Not for Kapa](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7180)
+- [Interview • Cliff Curtis](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7177)
+- [Mataia Keepa - Stay faithful or end up a Tikanga Māori hypocrite](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7175)
+- [A Brave New World](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7173)
+- [Whakahokia mai i a Te Urewera](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7171)
+- [What does it mean to be Māori?](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7169)
+- [What being Māori means to me?](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7167)
+- [The Culture of Ka Mate](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7165)
+- [Ngā Manu Korihi](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7162)
+- [Renormalising Te Reo Māori in New Zealand](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7160)
+- [The Relevancy of the Struggle: Te Reo](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7158)
+- [Time for bilingual Māori to join the multilingual world](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7156)
+- **[Māori and Studying...](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7153)**
+- **[Māori pay a high price for flawed tertiary education policies.](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7149)**
+- [6 Simple Questions about Māoridom](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7146)
+- [Puoro/Song • Erykah Badu - Seeing her perform and performing for her](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7142)
+- [Puoro/Song • Rising Stars: Ihi](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7139)
+- [Paki/Story • Maiden Tūhoe](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7137)
+- [Poem • Intensity](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7135)
+- [Puoro/Song • Mōteatea](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7133)
+- [Arts • Interview with Albie Raureti, a Moko Artist](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7131)
+- [Paki/Story • You People](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7129)
+- [Poem • Ancestors](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7127)
+- [Poem • Aotearoa](https://web.archive.org/web/20150113070430/http://craccum.ausa.auckland.ac.nz/?p=7124)
+
+### Issue 18 2014
+- [Guest Editorial - Levi Joule](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7295)
+- [News • Charlotte Pride Parade Gets Massive](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7293)
+- [News • Arnold Schwarzenegger’s Character in Expendables 3 is Gay](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7291)
+- [News • Transgender Procedures Added to Oregon State Healthcare Plan](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7289)
+- [News • Marriage Equality: one year on and the sky has yet to fall in](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7287)
+- [Blood & Glitter • The Fight So Far](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7285)
+- [Sports • Rugby Poetry - The Falcons, The Bingham Cup, and the rise of gay rugby](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7283)
+- [The Unsane Musings](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7281)
+- **[AUSA-Tag-Along • QRO (Queer Rights Officer) Tag-along](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7279)**
+- [Debate • This House Believes It Is Time For The LGBTI Movement To Break Up](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7277)
+- [Ko e ‘Umata ‘o e Moana Pasifiki - Rainbow Communities in the Pacific](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7275)
+- [Interview • Urzila Carlson](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7272)
+- [Bi As Hetero Chick](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7270)
+- [Love • Queer Blind Date](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7267)
+- [A Brief History of Queer Rights](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7265)
+- [Interview • Michael Kirby](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7261)
+- [The Tale Of A Trans\* Princess](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7259 "The Tale Of A Trans* Princess")
+- [We'll Get Back To You](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7257)
+- [Q&A; With Chris Olwage](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7253)
+- [Coming out as straight](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7251)
+- [Fashion • Daring to be Different](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7247)
+- [Tech • Grindr Review\*](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7245 "Tech • Grindr Review*")
+- [Healthcare and The LGBTI Community](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7243)
+- [Music Q&A; • Mainard Larkin aka Randa](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7230)
+- [Cheap Eats • Cookies](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7238)
+- [Film • Blue Is The Warmest Colour](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7236)
+- [Film • Civic Nights - A Look Back At The NZIFF 2014](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7234)
+- [Art • Young, Creative & Queer](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7217)
+- [Film • The Vito Russo Test - Bechdel For LGBTI](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7228)
+- [Music • Top 10 Pride Songs](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7226)
+- [Interview • Benjamin Henson, Theatre Director](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7221)
+- [Flat of the Week](https://web.archive.org/web/20150113070417/http://craccum.ausa.auckland.ac.nz/?p=7213)
+
+### Issue 19 2014
+- [Ana’s Editorial](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7416)
+- [Kit’s Editorial](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7414)
+- [Political Party Leader Job Descriptions](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7410)
+- **[News - Mirror Mirror On The Wall, Who Plays the Dirtiest of Them All?](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7408)**
+- **[News - How (Not) To Be A Successful Leader David Cunliffe](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7406)**
+- **[Election Policies Reviewed](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7404)**
+- [News - Vote early – because unlike essays they don’t grant extensions](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7402)
+- **[News - John Key Political Bombshell!](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7400)**
+- [News - John Key’s Naked Selfies Released](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7398)
+- [News - 50th Parliament Academy Awards](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7396)
+- [Aine's View - The Politics of Miscommunication](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7394)
+- [The Unsane Musings of an Autistic Mind](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7392)
+- [Hosking’s Hair with Connie G](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7389)
+- [HispteRview - Circus Circus and the review that was cause for cri](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7387)
+- [Blood & Glitter - Team Key or Team Cunliffe? No Thanks. I’m Team Policy.](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7385)
+- **[Diary Of The Youth Winger](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7382)**
+- **[Interview - Nicky Hager](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7378)**
+- **[Interview - Matthew Hooton](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7374)**
+- [Chatting with your Youth Wing Leaders](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7372)
+- **[ACT - All Areas Access](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7368)**
+- [Tech Review - Democracy 3](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7366)
+- [Tech - Candidate: The Tinder of Politics](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7361)
+- [Q & A with your Auckland Central Candidates](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7358)
+- **[The Private Lives of Public Figures - Should Mayors Smoke Crack?](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7356)**
+- [Arts Editorial - Pop Politix](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7354)
+- [Literature - Tenth of December, By George Saunders](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7350)
+- [Television - Political TV - The West Wing, House of Cards, and Veep](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7348)
+- [Music - FKA twigs, LP1 (2014)](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7340)
+- [Theatre - Finding Courage](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7338)
+- [Film - Producing the Turtles](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7336)
+- [Dance Theatre - Short + Sweet](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7334)
+- [Theatre - Arthur Meek](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7330)
+- [Blind Date](https://web.archive.org/web/20150113070406/http://craccum.ausa.auckland.ac.nz/?p=7327)
+
+### Issue 20 2014
+- [News - TMas is the new Xmas](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7518)
+- [Kit's Editorial](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7515)
+- [Ana's Editorial](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7512)
+- [5 ways to spot a Greenie](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7510)
+- **[News - A Dotcom & A Key Walk Into A Bar…](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7508)**
+- [News - #RIPSarahPotts](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7506)
+- [This Week In Sports](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7504)
+- [Aine's View - Climate Change: Ignoring the Unignorable](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7501)
+- [HipsteRview](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7499)
+- [Nature-Loving with Connie G](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7497)
+- [Blood & Glitter - Blue Green? It's An Oxymoron.](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7495)
+- **[AUSA-Tag-Along - The Last Moments Of The Late Craccum Columnist](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7493)**
+- [The Debating Society Presents... This House would use Large-scale Geoengineering to combat climate change](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7491)
+- [The Love Doctor On The Environment](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7489)
+- [Suicidal Environmentalism - The Cult Of Near Term Human Extinction](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7486)
+- **[Generation Zero](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7484)**
+- [Before you throw that apple core in the bin - Reduce: Reuse: Recycle: Compost](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7482)
+- [Steve Abel - Musician and Environmental Activist](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7477)
+- [Interview - Cameron Jones](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7475)
+- [Plastic Diet - Is living without plastic really that controversial?](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7471)
+- **[Poverty Simulator In the Quad](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7467)**
+- **[Uni Chemistry: Curriculum behind the times](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7463)**
+- [Tech - Is streaming saving the streams?](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7461)
+- [Health and Fitness - Musings of a paleo-phobic](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7459)
+- [Out of Our Own Back Yards (Ooooby)](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7457)
+- [Eating Out and Eating Green](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7454)
+- [Fashion - Love Me, Don't Leave Me: Sustainable Fashion](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7452)
+- [It's Not Easy Being Green](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7450)
+- [Arts Editorial - Radiohead Go Green And Save The Planet](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7448)
+- [Concert - Kanye West in Melbourne](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7446)
+- [Literature - Through the Language Glass: Why the World Looks Different in Other Languages, By Guy Deutscher](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7442)
+- [Top 10 Tracks Inspired by The Environment and Nature](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7439)
+- [Literature - Can't and Won't, By Lydia Davis](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7437)
+- [Film - The Skeleton Twins](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7434)
+- [Film Comment - Green Screen](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7431)
+- [Film - The Giver](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7428)
+- [Music - Our Love, Caribou](https://web.archive.org/web/20150113070354/http://craccum.ausa.auckland.ac.nz/?p=7425)
+
+### Issue 21 2014
+- [Editorial](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7596)
+- [Flat of the Week](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7594)
+- **[News - Revival of Labour](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7592)**
+- **[News - National MPs Get Your Fortunes Told.](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7590)**
+- [News - Citation Provided: Vandalising Wikipedia](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7587)
+- **[News - What Will My Future Be?](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7585)**
+- [Sports Talk](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7583)
+- [Aine's View - Who is that?](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7581)
+- [The Unsane Musings](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7578)
+- [Connie G - Writing To Theme](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7575)
+- [HipsteRview - Foxtrot Parlour – Hannah and Bernard take Ponsonby](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7573)
+- [Blood & Glitter - Bernard Vella on Queer Politics](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7571)
+- [The Debating Society Presents... This House believes Stannis is the rightful king](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7569)
+- [The Love Doctor](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7567)
+- **[AUSA-Tag-Along](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7564)**
+- [Misogyny Quest - Zoe Quinn, #GamerGate, and the Rampant Sexism in Gaming Culture](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7560)
+- [Who Rules The World? Nerds](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7558)
+- [Mukpuddy Interview](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7553)
+- [Geek Is Chic - Redefining Otaku Culture](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7551)
+- [Tech - The Four Most Exciting Emerging Technologies in the Entertainment Industry](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7549)
+- [Food - Elixir Soup](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7547)
+- [Battle!](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7544)
+- [Craccum’s guide to GILFs](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7542)
+- [Arts Editorial - Geekin’ out over Prince](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7540)
+- [Television - Freaks and Geeks](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7537)
+- [Literature - The Booker Prize](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7535)
+- [Literature - Fever Pitch, by Nick Hornby](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7533)
+- [Music - Vampire Weekend](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7530)
+- [Television - Girls](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7527)
+- [Top 10 Shows For Geeks/Nerds](https://web.archive.org/web/20150113070343/http://craccum.ausa.auckland.ac.nz/?p=7524)
+
+### Issue 22 2014
+- **[Aine's View - Child Poverty: Knowledge is Power](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7702)**
+- [Ana's Editorial](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7698)
+- [Kit's Editorial](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7696)
+- [What philanthropic bandwagon should you jump on?](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7694)
+- **[News - Employment Relations Amendment Act](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7692)**
+- [News - Charities and Celebrities](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7690)
+- **[News - Pragmatism or Idealism](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7688)**
+- **[News - Rate Your Protest](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7686)**
+- [News - Overheard: Good Deed Gone Bad Makes Global Headlines](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7684)
+- [Good Week / Bad Week of Sport](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7682)
+- [Sports Talk](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7680)
+- [Blood & Glitter - Narcissism dressed up as social justice](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7678)
+- [Unsane Musings](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7676)
+- [Connie G - Pink Ribbon Scam](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7674)
+- [The Love Doctor on Causes](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7672)
+- [The Debating Society Presents... This House believes that registered charities should not be permitted to push political or religious agendas.](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7670)
+- [HipsteRview - Moustache Milk and Cookie Bar: Where dreams come true](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7667)
+- **[AUSA-Tag-Along](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7665)**
+- [Animal Rights - A Student's Perspective](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7663)
+- **[Are We All Bad People?](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7661)**
+- [Change for Change - Should I give to beggars?](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7659)
+- [Sex Sells - Gender Does Not](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7657)
+- **[Rethinking Pink - Cultural Capitalism, Pink Ribbons Inc, and the Corporate Exploitation of Breast Cancer](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7655)**
+- **[One Protest, Two Chinas - The likely beginnings of an Asian Spring](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7653)**
+- **[Live Below the Line - “Pretending to be poor” or something more?](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7651)**
+- **[The Student’s Guide to Living Below the Line](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7648)**
+- [Life After Uni - Volunteering on the Thai-Burma Border](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7645)
+- [Tech - Ice challenge: hot charity donation or cool personal PR stunt?](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7643)
+- [Tech - Best Charitable Technology](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7641)
+- [Cheap Eats - Eggs](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7637)
+- [How to be charitable in the modern world - What we learned from Facebook](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7635)
+- [Top 5 Biggest Givers](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7632)
+- [A review of Get On Up: The James Brown Story, and an editorial too - Stop Holding The Movies To Ransom](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7629)
+- [Literature - The Children Act, by Ian McEwan](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7626)
+- [Film - When Less is More](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7624)
+- [Film - 10 Incredibly Strange Films From The Design Guy's Movie Collection](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7621)
+- [Film - Oscars Pistorius - Injustice at the Academy Awards](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7618)
+- [Film - Un(justly) Loved](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7616)
+- [Music - Art Official Age/Plectrumelectrum](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7613)
+- [Music - Injustice at the Grammys](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7610)
+- [Interview - Ruby Love](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7607)
+- [Our Top 5 Picks for the Tempo Festival](https://web.archive.org/web/20150113070331/http://craccum.ausa.auckland.ac.nz/?p=7604)
+
+### Issue 23 2014
+- [Kit's Editorial](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7815)
+- [Ana's Editorial](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7813)
+- **[News - Some International Students Are Throwing Money Away](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7811)**
+- **[News - Nicky Hager Raid: Right to Privacy vs Protecting Sources](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7809)**
+- **[News - Top Of The Class: The National Party](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7807)**
+- [News - Ebola Watch 2014](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7805)
+- [Good Week / Bad Week in Sport](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7803)
+- **[News - Steven Joyce Is Coming For Us](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7801)**
+- [SportsTalk](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7799)
+- [Aine's View - Critiquing the Critics](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7797)
+- [Unsane Musings](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7795)
+- [Connie G - The Wind](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7793)
+- [Blood & Glitter](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7791)
+- **[The Debating Society Presents... This House regrets National’s re-election](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7788)**
+- [Al’s Deli: Eats at the Upper West Side](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7785)
+- [The Man Who Gave Us Bruce Wayne - How the Visionary Responsible for Batman Was Forgotten](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7783)
+- [Why I don’t want to be a journalist](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7781)
+- [Enigmas of the Mystical](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7779)
+- [Some People Aren't Cut Out To Be Parents](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7777)
+- **[Education vs Productive Value - Choosing A Degree In The Modern Day](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7775)**
+- [GrabOne Anonymous - Confessions of an Online Shopaholic](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7772)
+- **[Successful Clubs on Campus: How They Do It](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7769)**
+- [Craccum Dares You - Exam Edition](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7767)
+- [On Robin Williams and Suicide](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7764)
+- **[Dating NZ Universities](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7762)**
+- [Tech - How Close Are We To Immortality?](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7760)
+- [Health and Fitness - #InstaInspo](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7758)
+- [Cheap Eats - Meat Loaf](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7756)
+- [Fashion - Guide to Op-Shopping](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7754)
+- [Theatre - Yo Future](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7751)
+- [Film - The Room](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7748)
+- [Literature - More Fool Me, by Stephen Fry](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7745)
+- [Theatre - Young and Hungry](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7741)
+- [Film - Gone Girl](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7738)
+- [ARTWEEK](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7732)
+- [Music - Nicki Minaj: Anacon-don't](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7730)
+- [Music - UoA Popular Music Programme – Songwriter of the Year Awards](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7727)
+- [Music - Laneway Festival](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7724)
+- [Music - Love in the Future, John Legend](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7720)
+- [Flat of the Week](https://web.archive.org/web/20150113070320/http://craccum.ausa.auckland.ac.nz/?p=7717)
+
+### Issue 24 2014
+- [Editorial](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7897)
+- [Craccum Reads Mean Tweets](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7895)
+- [News - Spitting The Dummy: Big Girls Don’t Cry](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7891)
+- **[News - Sell Off All The People](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7889)**
+- [Good Year / Bad Year of Sport](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7887)
+- [SportsTalk - The All-American Edition](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7885)
+- [Connie G - All Due Respect](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7883)
+- [Aine's View - Cookie Time](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7881)
+- [HipsteRview - Bern-annah Café: We can afford food here because it is actually just our house.](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7878)
+- **[The Love Doctor's Guide to Stuart McCutcheon](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7876)**
+- **[AUSA-Tag-Along](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7874)**
+- [Unsane Musings](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7872)
+- [Blood & Glitter - A Farewell](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7870)
+- **[Child Poverty: Solutions](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7868)**
+- **[Looking Back: Feminism in 2014](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7866)**
+- [Tinder Trash](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7864)
+- **[Q&A; with President Paul](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7861)**
+- **[AUS-EXPOS-A](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7859)**
+- [Tech - Instagram-mar: the do’s and don’ts of gram world](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7855)
+- [Health and Fitness - HIIT me with your best shot](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7853)
+- [Cheap Eats - Kebab Skewers](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7851)
+- [Arts Editorial - Late](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7849)
+- [TV - 10 Reasons Why I Love Reality Television](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7847)
+- [Film - An Ode to Film](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7845)
+- [Film - Sin City](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7843)
+- [Top 10 Epic (Well, Epicish) Movie Soundtracks](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7841)
+- [Literature - Mortality, by Christopher Hitchens](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7838)
+- [Radio - Poor Boy Radio](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7835)
+- [Theatre Interview - Caged Bird](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7833)
+- [Theatre Q&A; - Odyssey](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7829)
+- [Music - The Best Music of 2014 (So Far)](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7827)
+- [Music - InFinnite Talent](https://web.archive.org/web/20150113070243/http://craccum.ausa.auckland.ac.nz/?p=7824)
+
+
+## 2015
+
+### March 2015
+- [Jordan’s Editorial – I Fail Sometimes.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/jordans-editorial-i-fail-sometimes)
+- [Denton’s Editorial – Fashion, or how to best hide the flab.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/dentons-editorial-fashion-or-how-to-best-hide-the-flab)
+- [News In Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-5)
+- [News – Art Festival Rejects Mona Lisa](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-art-festival-rejects-mona-lisa)
+- [NZ Woman’s Shitly – Person Likes Kim Kardashian Shock!](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/nz-womans-shitly-person-likes-kim-kardashian-shock)
+- [News – Spy Accidentally Goes To Private Facebook Event](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-spy-accidentally-goes-to-private-facebook-event)
+- [News – Spy Agency Revealed to Be Spying](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-spy-agency-revealed-to-be-spying)
+- [News – New Zealand To Legalise Murder](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-new-zealand-to-legalise-murder)
+- [News – Carlos Craig Becomes Honorary University Fellow](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-carlos-craig-becomes-honorary-university-fellow)
+- **[News – Interview with Andrew Little](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-interview-with-andrew-little)**
+- [News – John Key The Lone Wolf In Fight Against ISIS](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-john-key-the-lone-wolf-in-fight-against-isis)
+- [Opening Night with Connie G](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [The Addict and the Immigrant Take On Kingsland](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-take-on-kingsland)
+- [Invidious: Intended to offend – What a Drag.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-what-a-drag)
+- [Kant or Won’t? Black Humour](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-black-humour)
+- [NTM Presents – Te Orokohanga o te ao](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/ntm-presents-te-orokohanga-o-te-ao)
+- [Glitter and Cludge – Very Queer Movies?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-very-queer-movies)
+- **[Unsane Musings – Does Student Culture Really Matter?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/unsane-musings-does-student-culture-really-matter)**
+- [Debate – This house would legalise all drugs](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/debate/debate-this-house-would-legalise-all-drugs)
+- [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-3)
+- [Feature – Changes Along the Ridgeline: The Gentrification of K Road](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-changes-along-the-ridgeline-the-gentrification-of-k-road)
+- **[Feature – Misunderstood and Undervalued: Life as a BA Student](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-misunderstood-and-undervalued-life-as-a-ba-student)**
+- **[The Big Bloating Bubble: New Zealand’s Rising Housing Prices, and Why Uni Students Should Care](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-big-bloating-bubble-new-zealands-rising-housing-prices-and-why-uni-students-should-care)**
+- [Feature – Have We Left The Irony On Too Long?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-have-we-left-the-irony-on-too-long)
+- [Stop, Hop and Roll](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/stop-hop-and-roll)
+- [Rawsome or Rubbish? Investigating the raw food trend](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/rawsome-or-rubbish-investigating-the-raw-food-trend)
+- [Lifestyle – ‘Are you gonna Instagram that?’](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-are-you-gonna-instagram-that)
+- [Lifestyle – Double shot through the heart](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-double-shot-through-the-heart)
+- [Arts Editorial – The Vinyl Countdown](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-the-vinyl-countdown)
+- [Film – The Theory of Everything](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-the-theory-of-everything)
+- [Film – Ida](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-ida)
+- [Music – Led Zeppelin IV, Led Zeppelin](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-led-zeppelin-iv-led-zeppelin)
+- [Book – I Shall Not Hate, Izzeldin Abuelaish](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-i-shall-not-hate-izzeldin-abuelaish)
+- [Music – The End of Everything, Plini](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-the-end-of-everything-plini)
+- [Game – Escapade](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/game-escapade)
+- [Bridging the Gap? Wes Anderson’s Target Audience](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/bridging-the-gap-wes-andersons-target-audience)
+- [Top 10 Reasons why Auckland’s Public Transport is horrific](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-reasons-why-aucklands-public-transport-is-horrific)
+- [Jordan’s Editorial – The Great Kiwi Conversation.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/jordans-editorial-the-great-kiwi-conversation)
+- [Denton’s Editorial – Vulnerability.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/dentons-editorial-vulnerability)
+- [News in Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-4)
+- [News – Kanye West Interrupts Jesus](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-kanye-west-interrupts-jesus)
+- [News – Leo and Rihanna Scandal](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-leo-and-rihanna-scandal)
+- [News – GCSB Report](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-gcsb-report)
+- [News From My Flat](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-from-my-flat)
+- [News – Auckland Council Tackles HOP Card Concession Misuse](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/8258)
+- **[News – Key Tells Andrew Little To Stop Being A “Sissy”](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-key-tells-andrew-little-to-stop-being-a-sissy)**
+- [Interview with David Shearer](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-david-shearer)
+- [Respect with Connie G](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [The Addict and the Immigrant… Drink at Home Because they’ve Run out of Money](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-drink-at-home-because-theyve-run-out-of-money)
+- [Invidious: Intended to offend – Not a Happy Gay](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-not-a-happy-gay)
+- [Kant or Won’t? Ethical Skid Marks](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-ethical-skid-marks)
+- [NTM Presents](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/ntm-presents)
+- [Glitter and Cludge – A Column.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-a-column)
+- [The Unsane Musings of An Autistic Mind – The Changing Face of Erotic Thrillers.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/the-unsane-musings-of-an-autistic-mind-the-changing-face-of-erotic-thrillers)
+- **[Debate – This House Would Not Attend Class](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/debate/debate-this-house-would-not-attend-class)**
+- [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-2)
+- **[Politics and the Media: “I Have A Theory That The Truth is Never Told During The Nine-To-Five Hours”](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/politics-and-the-media-i-have-a-theory-that-the-truth-is-never-told-during-the-nine-to-five-hours)**
+- [Something in the Water: Strange Tales from the Little City of Excess](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/something-in-the-water-strange-tales-from-the-little-city-of-excess)
+- **[The Persecution Game](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-persecution-game)**
+- [Lifestyle – Bikram Yoga or How to Lose Your Dignity in 90 Minutes](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-bikram-yoga-or-how-to-lose-your-dignity-in-90-minutes)
+- [Lifestyle – Chickpea curry (suitable for vegans and vegetarians)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-chickpea-curry-suitable-for-vegans-and-vegetarians)
+- [Lifestyle – What I Really Don’t Like](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-what-i-really-dont-like)
+- [Lifestyle – A Philosopher’s Guide to Vegetarianism](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-a-philosophers-guide-to-vegetarianism)
+- [Arts Editorial – The Edge of the Abyss](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-the-edge-of-the-abyss)
+- [Music – Finns at the Zoo](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-finns-at-the-zoo)
+- [Film – Annie Hall](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-annie-hall)
+- [Film – Kingsman: The Secret Service](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-kingsman-the-secret-service)
+- [Book – Religion for Atheists, Alain de Botton](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-religion-for-atheists-alain-de-botton)
+- [Podcast – The Flop House](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/podcast-the-flop-house)
+- [Book – The Narrow Road to the Deep North, Richard Flanagan](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-the-narrow-ro
+- [Theatre – One Night Stand: great ideas, poor follow through.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/theatre-one-night-stand-great-ideas-poor-follow-through)
+- [Blogging – On the self-indulgence of (travel) blogging](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/blogging-on-the-self-indulgence-of-travel-blogging)
+- [Top 10 – Best Awkward Conversation Starters](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-best-awkward-conversation-starters)
+- [Jordan’s Editorial – How the mediocre die young.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/jordans-editorial-how-the-mediocre-die-young)
+- [Denton’s Editorial – A Nasal Awakening.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/dentons-editorial-a-nasal-awakening)
+- [News In Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-3)
+- [News – Satirists Run Out Of Plane Jokes](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-satirists-run-out-of-plane-jokes)
+- **[News – Pre-Med Student Not Suicidal Following Failure](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-pre-med-student-not-suicidal-following-failure)**
+- [News – Taylor-Made For Harry Styles](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-taylor-made-for-harry-styles)
+- [News – Link Between Murder And Singing Voice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-link-between-murder-and-singing-voice)
+- **[News – John Key To Lead Labour Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-john-key-to-le
+- [Quotes of O-Week](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/quotes-of-o-week)
+- [Interview with Darroch Ball](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-darroch-ball)
+- [Kant or Won’t? If you could go back in time and kill any historical figure, who would it be?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-if-you-could-go-back-in-time-and-kill-any-historical-figure-who-would-it-be)
+- [Connie G – The Job Market](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [The Addict and the Immigrant… Take on Ponsonby](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-take-on-ponsonby)
+- [NTM Presents… Te Arawa iwi forge the way forward](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/ntm-presents-te-arawa-iwi-forge-the-way-forward)
+- [Glitter and Cludge – Radical Drama?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-radical-drama)
+- [The Unsane Musings of An Autistic Mind](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/the-unsane-musings-of-an-autistic-mind-9)
+- **[Debate – This house regrets The Arts Degree](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/debate/debate-this-house-regrets-the-arts-degree)**
+- [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice)
+- [Factories Of Desire: ISIL And Fundamentalism](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/factories-of-desire-isil-and-fundamentalism)
+- **[Wrong Decision for Wrong Reasons](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/wrong-decision-for-wrong-reasons)**
+- [The Good, The Bad and The Art: The Atavistic Endeavour of the Modern Pranksters](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-good-the-b
+- [On Dissection: Shouldn’t You Have The Choice?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/on-dissection-shouldnt-you-have-the-choice)
+- [Lifestyle – Booty Camp](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-booty-camp)
+- [Lifestyle – To Lift or Not to Lift: The musings of a gym rat](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-to-lift-or-not-to-lift-the-musings-of-a-gym-rat)
+- [Lifestyle – Coffee Cravings: The Top 3 Cafes near Uni](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-coffee-cravings-the-top-3-cafes-near-uni)
+- [Lifestyle – My Summer Squeeze](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-my-summer-squeeze)
+- [Arts Editorial – Ethics In Reviewing; or, When is it Okay to Take a Dump on an Artist’s Dreams](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-ethics-in-reviewing-or-when-is-it-okay-to-take-a-dump-on-an-artists-dreams)
+- [Music – If You’re Reading This It’s Too Late, Drake (2015)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-if-youre-reading-this-its-too-late-drake-2015)
+- [Film – X + Y](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-x-y)
+- [Book – A Clockwork Orange, Anthony Burgess (1962)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-a-clockwork-orange-anthony-burgess-1962)
+- [Music – Tied to a Star, J Mascis (2014)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-tied-to-a-star-j-mascis-2014)
+- [Music – Problems With Gyrating](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-problems-with-gyrating)
+- [Music – Antemasque, Antemasque](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-antemasque-antemasque)
+- [Four years in review: A judgement of O-Week concerts by someone who has never been to an O-Week Concert](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/8068)
+- [Film – Birdhood](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-birdhood)
+- [Review – The Lantern Festival, Albert Park](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/review-the-lantern-festival-albert-park)
+- [Top 10 Things You Will Hate By The End Of Your First Year.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-things-you-will-hate-by-the-end-of-your-first-year)
+- [Jordan’s Editorial – Begin at the Beginning, and go on ‘til you reach the end, then stop.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/jordans-editorial-begin-at-the-beginning-and-go-on-til-you-reach-the-end-then-stop)
+- [Denton’s Editorial – Of First Years, Maroon Jumpers, and Taxes.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/dentons-editorial-of-first-years-maroon-jumpers-and-taxes)
+- [News In Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-2)
+- [News – Dog Biting Incident Blamed on Muslims](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-dog-biting-incident-blamed-on-muslims)
+- [News – LeBron James Sex With Kate Breached Protocol](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-lebron-james-sex-with-kate-breached-protocol)
+- [News – Russell Norman Seeks Greener Pastures](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-russell-norman-seeks-greener-pastures)
+- [News – Thirteen year old turns homo after withdrawing money from ‘GAYTM’](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-thirteen-year-old-turns-homo-after-withdrawing-money-from-gaytm)
+- [News – Terrorists Stumped By Cameron’s Encryption Ban](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-terrorists-stumped-by-camerons-encryption-ban)
+- [Connie G – Parekura Bay](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [My First Column](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/my-first-column)
+- [The Addict and the Immigrant – Take on K-Road](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-take-on-k-road)
+- [Kant or Won’t? The Return of Roko Basilisk](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-the-return-of-roko-basilisk)
+- **[NTM Presents… Māori Vs Education](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/ntm-presents-maori-vs-education)**
+- [Glitter and Cludge – Oh Woe Our Youth?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-oh-woe-our-youth)
+- [The Unsane Musings of An Autistic Mind](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/the-unsane-musings-of-an-autistic-mind-8)
+- [Debate – This House Regrets 50 Shades of Grey](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/debate/debate-this-house-regrets-50-shades-of-grey)
+- [Feature – Worst Fears of First Years: Straight from a Fresher’s Mouth.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-worst-fears-of-first-years-straight-from-a-freshers-mouth)
+- [Comic – Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/comic-friends-of-justice)
+- [Feature – Last Call for Culture](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-last-call-for-culture)
+- [Interview – Chats About Mental Health And Inflatable Goods With ‘Live More Awesome’](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/interview-chats-about-mental-health-and-inflatable-goods-with-live-more-awesome)
+- [Lifestyle – 50 Shades of Whey: My Gym Fantasies](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-50-shades-of-whey-my-gym-fantasies)
+- [Lifestyle – “I’m Going Paleo”](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-im-going-paleo)
+- [Lifestyle – The Foodie Little Black Dress](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/the-foodie-little-black-dress)
+- **[Lifestyle – The Kids Are Alright](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-the-kids-are-alright)**
+- [Arts and Culture Editorial](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-and-culture-editorial)
+- [Arts – Looking Back – The Summer Festivals](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-looking-back-the-summer-festivals)
+- [Exhibition – Queer Resistance](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/exhibition-queer-resistance)
+- [Book – The Enchanted, By Rene Denfeld](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-the-enchanted-by-rene-denfeld)
+- [Theatre Interview – Michael Hurst, Director of Summer Shakespeare](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/theatre-interview-michael-hurst-director-of-summer-shakespeare)
+- [Arts – Something Creepy This Way Comes: A Review of Gibb’s Farm](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-something-creepy-this-way-comes-a-review-of-gibbs-farm)
+
+### April 2015
+- [Mourning the Non-Existent](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/mourning-the-non-existent)
+- [Disappointment](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/disappointment)
+- [News – Bomb Plot For “Too Soon” Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-bomb-plot-for-too-soon-party)
+- **[Interview with Jacinda Ardern](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-jacinda-ardern)**
+- **[News – Cuts On Funding Hit Humanities Departments Hardest](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-cuts-on-funding-hit-humanities-departments-hardest)**
+- [News – Royal Baby Is Boy And Girl](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-royal-baby-is-boy-and-girl)
+- [Travel Diary with Conrad Grimshaw](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [Invidious: Intended to offend – Good Gam-Match-Sport](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-good-gam-match-sport)
+- [The Addict and the Immigrant Take on Wynyard Quarter](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-take-on-wynyard-quarter)
+- **[Justfeministthings](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/justfeministthings)**
+- [Kant or Won’t? iSimulate](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-isimulate)
+- **[NTM Presents… Whanau of Interest.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/ntm-presents-whanau-of-interest)**
+- [Taking the Puss – Venus Flytrap](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/taking-the-puss/taking-the-puss-venus-flytrap)
+- [Glitter and Cludge – In which I ride a Bus](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-in-which-i-ride-a-bus)
+- [Unsane Musings](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/unsane-musings-11)
+- [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-5)
+- [Feature – Home is Where the Heart is](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-home-is-where-the-heart-is)
+- [Feature – New Zealand and Climate Change: Punching Below Our Weight](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-new-zealand-and-climate-change-punching-below-our-weight)
+- [Feature – Yarns Over the Years](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-yarns-over-the-years)
+- [Lifestyle – The Holy Trinity](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-the-holy-trinity)
+- [Lifestyle – Un-hashtagged heroes](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-un-hashtagged-heroes)
+- [Lifestyle – Why I don’t weigh myself](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-why-i-dont-weigh-myself)
+- [Lifestyle – A Eulogy](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-a-eulogy)
+- [Arts Editorial – Whine O’clock](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-whine-oclock)
+- [Film – The Age of Adaline](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-the-age-of-adaline)
+- [Film – Samba](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-samba)
+- [Music – Roy Haynes and the Beastiness of Jazz](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-roy-haynes-and-the-beastiness-of-jazz)
+- [Televsion – Adventure Time](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/televsion-adventure-time)
+- [Music – Sometimes I Sit And Think, And Sometimes I Just Sit, Courtney Barnett](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-sometimes-i-sit-and-think-and-sometimes-i-just-sit-courtney-barnett)
+- [Television – Fresh Off the Boat](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/television-fresh-off-the-boat)
+- [Game – Evolve](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/game-evolve)
+- [Dance – BBEALS](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/dance-bbeals)
+- **[Readers Respond – “The Persecution Game”: A response](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/readers-respond-the-persecution-game-a-response)**
+- **[Readers Respond – “The Persecution Game”: A Response To The Response](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/readers-respond-the-persecution-game-a-response-to-the-response)**
+- [Top Ten Things you should have done in the break](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-things-you-should-have-done-in-the-break)
+- [Canis Canem Edits](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/jordans-editorial-canis-canem-edits)
+- [Denton’s Editorial – Describe yourself in 600 words or less.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/dentons-editorial-describe-yourself-in-600-words-or-less)
+- [News In Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-6)
+- [News – The Bachelor NZ Shock End!](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-the-bachelor-nz-shock-end)
+- [New Zealand Woman’s Shitly – Africa Fighting Against Adoption](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/new-zealand-womans-shitly-africa-fighting-against-adoption)
+- [News – Jeremy Clarkson And Natalia Kills Swap Jobs](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/jeremy-clarkson-and-natalia-kills-swap-jobs)
+- [News – England To America $14 Flights!](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-england-to-america-14-flights)
+- **[News – Hager Joins Team Key For Northland Election](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-hager-joins-team-key-for-northland-election)**
+- [News – Cyclone Pam Goes On Date With Cyclone Jim](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-cyclone-pam-goes-on-date-with-cyclone-jim)
+- **[Interview with Judith Collins](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-judith-collins)**
+- [News – The Bachelor NZ: Finding Harry His Kiwi Bride](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-the-bachelor-nz-finding-harry-his-kiwi-bride)
+- [Coonie G – Malaysian Night](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [The Addict and the Immigrant – Go for a feed.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-go-for-a-feed)
+- [Invidious: Intended to offend – X-traordinarily Poor Taste.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-x-traordinarily-poor-taste)
+- [Kant or Won’t? – Don’t Drink the Cool Aid.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-dont-drink-the-cool-aid)
+- [NTM Presents… KatchaMāori](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/ntm-presents-katchamaori)
+- [Glitter and Cludge – The Munchy Mart Diet](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-the-munchy-mart-diet)
+- [Unsane Musings – The Putin Problem](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/unsane-musings-the-putin-problem)
+- **[Debate – This house regrets taking the bus to university](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/debate/debate-this-house-regrets-taking-the-bus-to-university)**
+- [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-4)
+- [Feature – Death of the Reading Public](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-death-of-the-reading-public)
+- [Feature – Inhospitality: Tales from Hospo](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-inhospitality-tales-from-hospo)
+- [Feature – Five Things You Don’t Know About New Zealand’s Prisons](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-five-things-you-dont-know-about-new-zealands-prisons)
+- [Feature – Drugs and Delays](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-drugs-and-delays)
+- [Lifestyle – A Gym Bro’s Guide to Blocking Out Vegetarianism](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-a-gym-bros-guide-to-blocking-out-vegetarianism)
+- [Lifestyle – Cheap Eats, Lorne Street!](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-cheap-eats-lorne-street)
+- [Lifestyle – Two Hours a Slave: My Half Marathon Trauma](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-two-hours-a-slave-my-half-marathon-trauma)
+- [Lifestyle – The Best Kind of Motivation](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-the-best-kind-of-motivation)
+- [Arts Editorial – All the World’s A (White Man’s) Stage](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-all-the-worlds-a-white-mans-stage)
+- [Television – Black Mirror](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/television-black-mirror)
+- [Television – The Honourable Woman (2014)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/television-the-honourable-woman-2014)
+- [Music – Man It Feels Like Space Again, Pond](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-man-it-feels-like-space-again-pond)
+- [Music – Creative Jazz Club, Wednesday Nights, 1885 Basement Bar, Galway Street](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-creative-jazz-club-wednesday-nights-1885-basement-bar-galway-street)
+- [Book – Is Everyone Hanging Out Without Me (And Other Concerns), by Mindy Kaling (2011)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-is-everyone-hanging-out-without-me-and-other-concerns-by-mindy-kaling-2011)
+- [The Last Hero: A Tribute to Terry Pratchett](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/the-last-hero-a-tribute-to-terry-pratchett)
+- [Film – When Harry Met Sally (1989)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-when-harry-met-sally-1989)
+- [Film – Insurgent (2015)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/film-insurgent-2015)
+- [Top 10 – Reasons for the 10kgs you will gain after leaving high school (A kilo by kilo breakdown)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-reasons-for-the-10kgs-you-will-gain-after-leaving-high-school-a-kilo-by-kilo-breakdown)
+
+### May 2015
+- [Pissed Often](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/pissed-often)
+- [I Know Why The Caged Dog Whines](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/i-know-why-the-caged-dog-whines)
+- [News In Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-10)
+- [News – Floyd Mayweather Accused Of Match Fixing](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-floyd-mayweather-accused-of-match-fixing)
+- [News – Baby Named Chardonnay Emerald Doris](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-baby-named-chardonnay-emerald-doris)
+- [Interview With Mel Blatt](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-mel-blatt)
+- [Interview With Stan Walker](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-stan-walker)
+- [News – Milliband To Return To Previous Job Following Labour Loss](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-milliband-to-return-to-previous-job-following-labour-loss)
+- [News – Royal Baby Reminds Us That NZ Is Still A Colony](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-royal-baby-reminds-us-that-nz-is-still-a-colony)
+- [News – More Gifts Planned For Offended Saudi Buinessman](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-more-gifts-planned-for-offended-saudi-buinessman)
+- **[Invidious: Intended to offend – How the Rich Ruined My Degree](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-how-the-rich-ruined-my-degree)**
+- [Just Feminist Things – Catcalling](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/just-feminist-things-catcalling)
+- [Kant or Won’t? – The God Argument](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-the-god-argument)
+- [Glitter and Cludge – The Great Pineapple Debate](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-the-great-pineapple-debate)
+- [Debate – This house regrets death](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/debate/debate-this-house-regrets-death)
+- [Unsane Musings – Columning the Columnists](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/unsane-musings-columning-the-columnists)
+- [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-9)
+- [Mental Hell](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/mental-hell)
+- [The Imaginary R Word in Feminism (race, it’s race.)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-imaginary-r-word-in-feminism-race-its-race)
+- [The Queen should be given more powers. Also, we should kill the Queen.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-queen-should-be-given-more-powers-also-we-should-kill-the-queen)
+- **[Fossil Fuel Divestment – What it is, why it matters, and how UoA can come on board](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/fossil-fuel-divestment-what-it-is-why-it-matters-and-how-uoa-can-come-on-board)**
+- [Lifestyle – An Homage to Fromage](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-an-homage-to-fromage)
+- [Lifestyle – Café Review: Rosie](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-cafe-review-rosie)
+- [Lifestyle – Warm Slice of Winter Activities](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-warm-slice-of-winter-activities)
+- [Lifestyle – Cleaning out my cranium](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-cleaning-out-my-cranium)
+- **[Arts Editorial – I Solemnly Swear That I Am Up To No Good](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-i-solemnly-swear-that-i-am-up-to-no-good)**
+- [Comedy Festival Review – Alan McElroy and Darren Jardine: Craic Up 2 – Craic Upper](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/comedy-festival-review-alan-mcelroy-and-darren-jardine-craic-up-2-craic-upper)
+- [Comedy Festival Review – 5 Star Comedy Preview](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/comedy-festival-review-5-star-comedy-preview)
+- [Film Review – Lucky Them](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-lucky-them)
+- [Film Review – Gemma Bovery](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-gemma-bovery)
+- [Farewell Parks and Recreation](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/farewell-parks-and-recreation)
+- [Theatre Review – Singin’ in the Rain](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/theatre-review-singin-in-the-rain)
+- [Why Jon Stewart’s “Retirement” from The Daily Show Is a Good Thing](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/why-jon-stewarts-retirement-from-the-daily-show-is-a-good-thing)
+- [Book Review – Chapter and Verse: New Order, Joy Division and Me by Bernard Sumner](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/book-review-chapter-and-verse-new-order-joy-division-and-me-by-bernard-sumner)
+- [Top Ten Alcoholic Drinks To Make You Look Cool.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-alcoholic-drinks-to-make-you-look-cool)
+- [Bigtory Banter](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/bigtory-banter)
+- [Just Another Saturday Night](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/just-another-saturday-night)
+- [News In Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-9)
+- [News – John Key Pulls Saudi Prince’s Hair](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-john-key-pulls-saudi-princes-hair)
+- [News – Interview With Colin Craig](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-interview-with-colin-craig)
+- [News – UK Election: Craccum Writers Pissed Off](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-uk-election-craccum-writers-pissed-off)
+- [News – Americans Declaring Candidacies For President](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-americans-declaring-candidacies-for-president)
+- [News – Putin Having A Gay Ole’ Time](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-putin-having-a-gay-ole-time)
+- [News – Wellington Phoenix Eyeing Top U.S. Prospect](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-wellington-phoenix-eyeing-top-u-s-prospect)
+- [News – Baby Born, Survives Childbirth](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-baby-born-survives-childbirth)
+- [Conrad Grimshaw – Living With My Bitches #live](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- **[Just Feminist Things – Mens Rights](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/just-feminist-things-mens-rights)**
+- [Kant or Won’t? Welcome to Forever](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-welcome-to-forever)
+- [Glitter and Cludge – Email Anxiety](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-email-anxiety)
+- [NTM Presents… Haka Demystified](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/ntm-presents-haka-demystified)
+- [AWAWS – Catullus](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/awaws-catullus)
+- [Taking the Puss – Cherry Jam](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/taking-the-puss/taking-the-puss-cherry-jam)
+- [Unsane Musings – Issue X](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/unsane-musings-issue-x)
+- [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-8)
+- **[Torture: A Matter of Degree](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/torture-a-matter-of-degree)**
+- **[Notes From A Failed Economic Experiment: The Rise And Rise Of Inequality In Nz Part 1 – Education](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/notes-from-a-failed-economic-experiment-the-rise-and-rise-of-inequality-in-nz-part-1-education)**
+- [One Flew Over The Russel’s Nest: Initial Reflections from the Green Party’s Male Co-Leadership Forum](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/8873)
+- [My Date with Ruben Wiki](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/my-date-with-ruben-wiki)
+- [Lifestyle – Keep it Simple](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-keep-it-simple)
+- [Lifestyle – The Carrot Murderer](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-the-carrot-murderer)
+- [Lifestyle – Four Hot Healthy Eating Tips for Students](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-four-hot-healthy-eating-tips-for-students)
+- [Arts Editorial – No Laughing Matter](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-no-laughing-matter)
+- [Comedy – Des Bishop: Made in China](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/comedy-des-bishop-made-in-china)
+- [Comedy – Guy Montgomery: Guy Montcomedy](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/comedy-guy-montgomery-guy-montcomedy)
+- [Comedy – The Big Show 2015](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/comedy-the-big-show-2015)
+- [Music – Glitterbug,The Wombats](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-glitterbugthe-wombats)
+- [Film Review – Cinderella](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-cinderella)
+- [Television Review – There’s Something About The Bachelor](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/television-review-theres-something-about-the-bachelor)
+- [Interview – MICXILL: Auckland’s Eminem](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/interview-micxill-aucklands-eminem)
+- [Arts Comment – Women in Comedy and Rose Matafeo: A review in which I accidentally support the patriarchy](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/arts-comment-women-in-comedy-and-rose-matafeo-a-review-in-which-i-accidentally-support-the-patriarchy)
+- [Too Soon but Long Enough: The ANZAC Backlash](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/culture-comment-too-soon-but-long-enough-the-anzac-backlash)
+- [Top Ten Causes of Travel Anxiety.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-causes-of-travel-anxiety)
+- [Guest Editorial](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/guest-editorial-2)
+- [News In Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-8)
+- [News – Teenagers Trying New Kylie Jenner Personality Trick](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-teenagers-trying-new-kylie-jenner-personality-trick)
+- [News – LGBTQIMJOWZSXPRAFKEUYHDCVN](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-lgbtqimjowzsxprafkeuyhdcvn)
+- [This Week’s Star Signs](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/this-weeks-star-signs)
+- [News – Key Defends Hair-Pulling Allegations](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-key-defends-hair-pulling-allegations)
+- [News – Interview With Metiria Turei](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-interview-with-metiria-turei)
+- [News – John Key ‘The Ponytail Tugging’ Prime Minister](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-john-key-the-ponytail-tugging-prime-minister)
+- [Invidious: Intended to offend – Gay Column](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-gay-column)
+- [Just Feminist Things – Burger King Kisses](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/just-feminist-things-burger-king-kisses)
+- [NTM Presents… My Life As A Double Minority: To Be Māori & Gay.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/ntm-presents-my-life-as-a-double-minority-to-be-maori-gay)
+- [Kant or Won’t? Queer Issue Special](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-queer-issue-special)
+- [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-7)
+- [A Very Very Queer Community](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/a-very-very-queer-community)
+- [Queer Rights](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/queer-rights)
+- [The Departure of a K-Road Icon](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-departure-of-a-k-ro
+- **[Queerness and the ability to be apolitical: A Diatribe](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/queerness-and-the-ability-to-be-apolitical-a-diatribe)**
+- [Lifestyle – Fashion (non)sense](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-fashion-nonsense)
+- [Lifestyle – Suits and the City](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-suits-and-the-city)
+- [Lifestyle – You Praise Me Up](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-you-praise-me-up)
+- [Lifestyle – The Tramp Life](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-the-tramp-life)
+- [Arts Editorial – Queer Issues](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-queer-issues)
+- [Concert Review – One Night at the Sawmill Café](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/concert-review-one-night-at-the-sawmill-cafe)
+- [Music Comment – Emulation: An Amateur Guide to Artistry](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-comment-emulation-an-amateur-guide-to-artistry)
+- [Film Comment – The Limitation Game](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-comment-the-limitation-game)
+- [Film Review – Pride](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-pride)
+- [Film Review – Noble](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-noble)
+- [Theatre Review – This Is Our Youth](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/theatre-review-this-is-our-youth)
+- [Concert Review – Gorillaz Sound System](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/concert-review-gorillaz-sound-system)
+- [TV – Orphan Black](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/tv-orphan-black)
+- [Culture – A Queer Commentary](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/culture-a-queer-commentary)
+- [Culture – Disappearing with a Poof](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/culture-disappearing-with-a-poof)
+- [Top Ten – Reasons to experiment with the same sex.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-reasons-to-experiment-with-the-same-sex)
+- [Casting Shadows](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/casting-shadows)
+- [Weekend of Gluttony](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/weekend-of-gluttony)
+- [News In Brief](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-in-brief-7)
+- **[News – New Zealand Politics Game Of Thrones Style](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-new-zealand-politics-game-of-thrones-style)**
+- [News – The Bachelor Has Faults Shock!](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-the-bachelor-has-faults-shock)
+- **[News – Vice-Chancellor Doubles Salary](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-vice-chancellor-doubles-salary)**
+- [Interview – The Bachelor](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-the-bachelor)
+- [News – Cuts in Police Force Budget Hits Wannabe Teenagers Hardest](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-cuts-in-police-force-budget-hits-wannabe-teenagers-hardest)
+- [News – TV3 To Axe The News](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-tv3-to-axe-the-news)
+- [News – Winston Bites Back](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-winston-bites-back)
+- [Conrad Grimshaw – Shirt Hell](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [Invidious: Intended to offend – Responding to the Responses of the Response](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-responding-to-the-responses-of-the-response)
+- [Just Feminist Things – Libra](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/just-feminist-things-libra)
+- [Kant or Won’t? – How does that make you feel?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-how-does-that-make-you-feel)
+- [Glitter and Cludge – Prideful Weeks](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-prideful-weeks)
+- [Taking the Puss – Fusion Cuisine: on Flavoured Condoms and Inter-Racial Sex](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/taking-the-puss/taking-the-puss-fusion-cuisine-on-flavoured-condoms-and-inter-racial-sex)
+- [Debate – This House Believes That schools in the USA should teach rap lyrics as part of their English literature curriculum](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/debate/debate-this-house-believes-that-schools-in-the-usa-should-teach-rap-lyrics-as-part-of-their-english-literature-curriculum)
+- [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-6)
+- [Feature – Charlie and the Great Glass Ceiling](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-charlie-and-the-great-glass-ceiling)
+- [Feature – Bad Rep, Good Rap: In Defence of Kanye West](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-b
+- [Feature – The Growing Plastic Pandemic and the Plastic Bottle Kayak Experience](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-the-growing-plastic-pandemic-and-the-plastic-bottle-kayak-experience)
+- [Feature – If It Bleeds, It Leads](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/feature-if-it-bleeds-it-leads)
+- [Lifestyle – Saving Grace: Goalkeeping](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-saving-grace-goalkeeping)
+- [Lifestyle – Dungeons and Dragons](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-dungeons-and-dragons)
+- [Lifestyle – Fast and Furious 15](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-fast-and-furious-15)
+- [Lifestyle – Lord Sandwich](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-lord-sandwich)
+- [Arts Editorial – Stumbling Down Memory Lane](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-stumbling-down-memory-lane)
+- [Film – Fast and Furious 7](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-fast-and-furious-7)
+- [Film – Testament of Youth](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-testament-of-youth)
+- [Music – Modern Nature, The Charlatans](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-modern-nature-the-charlatans)
+- [Music – Young Chasers, Circa Waves](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-young-chasers-circa-waves)
+- [Film – Pulp: A Film about Life, Death and Supermarkets](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-pulp-a-film-about-life-death-and-supermarkets)
+- [Television – The Jinx: The Life and Deaths of Robert Durst](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/television-the-jinx-the-life-and-deaths-of-robert-durst)
+- [Television – Utopia](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/television-utopia)
+- [Comedy, Kiwis, and Cellular Devices: An Interview with Dai Henwood](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/comedy-kiwis-and-cellular-devices-an-interview-with-dai-henwood)
+- [Top Ten – Things to do during gaps](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-things-to-do-during-gaps)
+
+### June 2015
+- [News – NZ New Flag Designs Confirmed](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-nz-new-flag-designs-confirmed)
+- [News – Campbell Live Replaced With Keeping Up With The Campbells](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-campbell-live-replaced-with-keeping-up-with-the-campbells)
+- [News – David Cameron Uses George Orwell’s 1984 As Manual](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-david-cameron-uses-george-orwells-1984-as-manual)
+- **[News – Budget 2015 Met With Strong Disapproval](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-budget-2015-met-with-strong-disapproval)**
+- [News – Ireland To Legalise Bestiality, Incest And Paedophilia](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-ireland-to-legalise-bestiality-incest-and-paedophilia)
+- **[News – Interview With Nikki Kaye](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-interview-with-nikki-kaye)**
+- **[News – Interview with Paula Bennett](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-interview-with-paula-bennett)**
+- [An Ending with Conrad Grimshaw](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- **[Auckland feminist takes break from worrying about serious worldwide issues regarding sex and gender to discuss less serious but totally blown out of proportion matter](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/just-feminist-things-auckland-feminist-takes-break-from-worrying-about-serious-worldwide-issues-regarding-sex-and-gender-to-discuss-less-serious-but-totally-blown-out-of-proportion-matter**)
+- [Invidious: Intended to offend – The Problem With Polemics](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-the-problem-with-polemics)
+- [The Addict and the Immigrant take on NZ’s Most Romantic Destinations (aka. The Boys are Back)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/the-addict-and-the-immigrant-take-on-nzs-most-romantic-destinations-aka-the-boys-are-back)
+- [Kant or Won’t? Quantum Immortality](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-quantum-immortality)
+- [Glitter and Cludge – This is Furtive](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-this-is-furtive)
+- [Unsane Musings – Civis 4channus Sum](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/unsane-musings-civis-4channus-sum)
+- [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-11)
+- **[Notes From A Failed Economic Experiment](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/notes-from-a-failed-economic-experiment-the-rise-and-rise-of-inequality-in-new-zealand)**
+- **[Lies, Damned Lies and Technology](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/lies-damned-lies-and-technology)**
+- **[Tales from the Halls](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/tales-from-the-halls)**
+- [Lifestyle – What Your Coffee Says About You](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-what-your-coffee-says-about-you)
+- [Lifestyle – My Little Black Book](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-my-little-black-book)
+- [Lifestyle – Let the (procrasti)games begin](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-let-the-procrastigames-begin)
+- [Café Review – Chuffed](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/cafe-review-chuffed)
+- [Arts Editorial – By Any Other Name](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-by-any-other-name)
+- [Film Review – Mad Max: Fury Road](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-m
+- [Film Comment – Pitch Perfect 2](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-comment-pitch-perfect-2)
+- [Comedy Review – An Evening With Noel Fielding](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/comedy-review-an-evening-with-noel-fielding)
+- [Concert Review – Jamie McDell in Twelvie Heaven](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/concert-review-jamie-mcdell-in-twelvie-heaven)
+- [Unbreakable Kimmy Schmidt](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/unbreakable-kimmy-schmidt)
+- [Rick and Morty](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/television-review-rick-and-morty)
+- [Game Comment – Can Video Games Be Considered ‘Art’?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/game-comment-can-video-games-be-considered-art)
+- [Film Comment – Me, Myself and Iron Man](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-comment-me-myself-and-iron-man)
+- [“Do you feel the buzz?” – An Interview with Hermitude](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/do-you-feel-the-buzz-an-interview-with-hermitude)
+- [Top Ten Best Procrastination Activities during Exam Time](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-best-procrastination-activities-during-exam-time)
+- [The stoner sat amused.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/jordans-editorial-the-stoner-sat-amused)
+- **[The Death of the Reading Public Part 1: RIP Whitcoulls](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/dentons-editorial)**
+- [Interview With Jonathan Coleman](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-jonathan-coleman)
+- **[News – Right Wing Parties Rule The World](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-right-wing-parties-rule-the-world)**
+- **[Interview With Grant Robertson](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-grant-robertson)**
+- [News – Harry-Mania Took Over Country](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-harry-mania-took-over-country)
+- **[Interview With David Seymour](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-david-seymour)**
+- **[News – Len Brown Rationalises Rate Hike](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/news-len-brown-rationalises-rate-hike)**
+- [Snow on the Desert Road with conrad Grimshaw](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [A Straight White Female on Straight White Males](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/a-straight-white-female-on-straight-white-males)
+- [Invidious: Intended to offend – Don’t Read This](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/invidious-intended-to-offend-dont-re
+- [Taking the Puss – Don’t Forget to Root, My Friend](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/taking-the-puss/taking-the-puss-dont-forget-to-root-my-friend)
+- **[Glitter and Cludge – Student Services My Ass](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge-student-services-my-ass)**
+- [Kant or Won’t? I am You](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-i-am-you)
+- [Australasian Women in Ancient World Studies – Pompeii Graffiti](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/awaws/australasian-women-in-ancient-world-studies-pompeii-graffiti)
+- [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-10)
+- [Listening to Saint Peter and His Violin](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/9085)
+- [The Psychology of Youtube](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-psychology-of-youtube)
+- [India: Worlds within a World](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/india-worlds-within-a-world)
+- [Lifestyle – Aerial Yoga](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-aerial-yoga)
+- [Lifestyle – Arts & Crafts (beer, that is)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-arts-crafts-beer-that-is)
+- **[Lifestyle – Faculty of Flexibility](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-faculty-of-flexibility)**
+- [Recipe – Dal Chawal](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/recipe-dal-chawal)
+- [Arts Editorial – Guilty Pleasures](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-guilty-pleasures)
+- [Film Review – Slow West](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-slow-west)
+- [Film Re-review – Jurassic Park (1993)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-re-review-jurassic-park-1993)
+- [Comedy Festival Review – Head Goes Bang – Jamie Bowen](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/comedy-festival-review-he
+- [Comedy Festival Review – The Late Show](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/comedy-festival-review-the-late-show)
+- [Album Review – The Magic Whip – Blur](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/album-review-the-magic-whip-blur)
+- [Art Exhibition Review – Billy Apple: The Artist Has To Live Like Everybody Else](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/art-exhibition-review-billy-apple-the-artist-has-to-live-like-everybody-else)
+- [Music Comment – Guide to Punk](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/music-comment-guide-to-punk)
+- [Video Game – Ori and the Blind Forest](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/video-game-ori-and-the-blind-forest)
+- [Top Ten Things You Thought Would’ve Stopped After High-School.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-things-you-thought-wouldve-stopped-after-high-school)
+
+### July 2015
+- [Arts Editorial – Picking Up The Pitchfork](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/arts-editorial-picking-up-the-pitchfork)
+- [Film Review – Learning to Drive](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-learning-to-drive)
+- [Film Review – Ted 2](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-ted-2)
+- [Film Review – Inside Out](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/film-review-inside-out)
+- [Album Review – We Are for the Wild Places](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/album-review-we-are-for-the-wild-places)
+- [True Detective (Season Two)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/true-detective-season-two)
+- [Broad City](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/bro
+- [Arts Comment – Putting A Price on Art](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/arts-comment-putting-a-price-on-art)
+- [Video Game Review – Her Story](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/video-game-review-her-story)
+- [Arts Comment – An Evening With Haruki Murakami](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/arts-comment-an-evening-with-haruki-murakami)
+- [Top 10 Best First World Problems at Auckland University](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-best-first-world-problems-at-auckland-university)
+
+### August 2015
+- [Mister Misogyny](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/mister-misogyny)
+- [Just Ewan me: An encounter with Auckland’s Kim — sorry, King — of Coffee.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/taking-the-puss/just-ewan-me-an-encounter-with-aucklands-kim-sorry-king-of-coffee)
+- [Celestial North Korea](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/celestial-north-korea)
+- [Weird and Easy Ways to Get Rid of the Wage Gap](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/the-wage-gap)
+- [Like You Just Don’t Care](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/like-you-just-dont-care)
+- [The Garden Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [Attack The Straight White Male](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/3-attack-the-straight-white-male-e)
+- [Something noisy this way fucks](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/something-noisy-this-way-fucks)
+- [From Putin With Love](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/from-putin-with-love)
+- **[Free the Nipple](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/free-the-nipple)**
+- **[Auckland’s Railways](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/aucklands-railways-the-good-the-b
+- [Shake your (Taylor) feather](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/shake-your-taylor-feather)
+- [Gym Buddies worth Avoiding](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/gym-buddies-worth-avoiding)
+- **[The dress standards at UoA are too high](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/the-dress-standards-at-uoa-are-too-high)**
+- [Step](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/step)
+- [Signs you’re secretly an old man/woman](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-signs-youre-secretly-an-old-manwoman)
+- [I Have A (Manic Pixie) Dream](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/i-have-a-manic-pixie-dream)
+- [One Year On:](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/arts-commentary/one-year-on)
+- [The Future Trajectory of “Art”](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/the-future-trajectory-of-art)
+- [Invisible Monsters](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/invisible-monsters-chuck-palahniuk)
+- [Vikings, Gingers, and the Future of Humanity](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/i-am-giant-interview)
+- [My Love is Cool](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/my-love-is-cool-wolf-alice)
+- [Hermitude (Live)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/hermitude-live)
+- [Amy (2015)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/amy)
+- [The End of the Tour](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/the-end-of-the-tour)
+- [Give Up Your Dreams, And other Life Lessons](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/give-up-your-dreams-and-other-life-lessons-from-the-phoenix-foundation)
+- [Ant-Man (2015)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/ant-man-2015-2)
+- [Circus Circus](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/circus-circus)
+- [Top 10 Best Sing-along songs when drunk](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-best-sing-along-songs-when-drunk)
+- [Avalanche City Interview](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/avalanche-city-interview)
+- [Amateur Guide to Anime](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/amateur-guide-to-anime)
+- [Yoko-Zuna Interview](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/yoko-zuna-interview)
+- [This City Is Pretty](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/this-city-is-pretty)
+- [Drones](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/drones)
+- [In Colour, Jamie xx](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/in-colour)
+- [Ranking Banter: Locating My Funny Bone](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/ranking-banter)
+- [Zero to Grinch Real Fast](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/zero-to-grinch-real-fast)
+- [Simple Stir Fry](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/simple-stir-fry)
+- [Fitness Feature JUMP](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/fitness-feature-jump)
+- [Nepal Earthquake](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/interview-the-lives-behind-the-headlines-e)
+- **[Working Casually or Casually Working?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/working-casually-or-casually-working)**
+- [Living with Disabilities](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/living-with-disabilities)
+- **[WTF did I just read?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/wtf-did-i-just-read)**
+- [Monsters of History](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/monsters-of-history)
+- [So Now I’m A Racist](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/so-now-im-a-racist)
+- **[Bad Feminists?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/b
+- [Bi Semester Toilet Review](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/glitter-and-cludge/bi-semester-toilet-review)
+- [The Hypocrisy of T-Swiz](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/3-the-hypocrisy-of-t-swiz-e)
+- [Out of Opinions and Nowhere to Go](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/out-of-opinions-and-nowhere-to-go)
+- [Clown Town](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [Wrongsplaining](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/wrongsplaining)
+- [The Death of Jung](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/the-death-of-jung)
+- [Unsane Musings](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/unsane-musings-11-2)
+- [Step Into The Light](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-step-into-the-light)
+- [This house regrets the use of drone strikes](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/debate/this-house-regrets-the-use-of-drone-strikes)
+- [Sense8](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/sense8-tv)
+- [To Kill an Icon](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/arts-commentary/arts-comment-to-kill-an-icon-the-downward-spiral-of-atticus-finch)
+- **[Behind The Cycle](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/cymbol-303-and-this-pale-fire)**
+- [Currents](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/currents-tame-impala)
+- **[NZSO presents Power and Passion](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/power-and-passion)**
+- [Top Ten Signs you’re a dick.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-signs-youre-a-dick)
+- [Interview With Len Brown](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/news/interview-with-len-brown)
+- [JustFeministThings – Chivalry is BS](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/justfeministthings-chivalry-is-bs)
+- **[Kant or Wont – Liberalism and its Discontents](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/kant-or-wont-liberalism-and-its-discontents)**
+- [Taking the Pus – Big Spender, Sachet of Splenda.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/taking-the-puss/taking-the-pus-big-spender-sachet-of-splenda)
+- [The Unsane Musings of an Autistic Mind](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/the-unsane-musings-of-an-autistic-mind-10)
+- [Friends of Justice](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/comics/friends-of-justice-12)
+- [Plot Twist](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/plot-twist)
+- [Tall Poppy Syndrome](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/tall-poppy-syndrome)
+- [Can I have a large Mocha with a side of embarrassment?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifestyle-can-i-have-a-large-mocha-with-a-side-of-embarrassment)
+- [Lifestyle – Eden Noodles](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/uncategorized/lifestyle-eden-noodles)
+
+### September 2015
+- **[Transphobic, and why I’m not. But also, goodbye.](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/transphobic-and-why-im-not-but-also-goodbye)**
+- [The Waitress’ Tail](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-waitress-tail)
+- [Sex Supply and Sex Demand](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/sex-supply-and-sex-demand)
+- [Some films just shouldn’t have sequels](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/some-films-just-shouldnt-have-sequels)
+- [Paleo Nightmare](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/paleo-nightmare)
+- [Quesadilla Recipe](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/quesadilla-recipe-e)
+- [My First V Trip](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/my-first-v-trip)
+- [Waiheke: Travels of the Penniless](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/waiheke-travels-of-the-penniless)
+- [Sandernistas and Stormin Corbyns](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/sandernistas-and-stormin-corbyns)
+- [Originality](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/originality)
+- [POV The Immigrant; or A House Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/the-addict-and-the-immigrant/pov-the-immigrant-or-a-house-party)
+- [Not Just Queer But Weird And Shit](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/not-just-queer-but-weird-and-shit)
+- [Pubs](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/pubs)
+- [Two and a half day Hangover](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/peter-dunne)
+- [The Token](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/the-token)
+- **[Fuckwit Nation, or Fuck Up Max Key](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/fuckwit-nation-or-fuck-up-max-key)**
+- **[Desperation Killed The Radio Star](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/desperation-killed-the-radio-star)**
+- [The Others Way](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/the-others-way)
+- [Sorceress and Hiatus Kaiyote](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/sorceress-and-hiatus-kaiyote)
+- [GO OUT > STAY IN > GET THINGS DONE](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/go-out-stay-in-get-things-done)
+- [Straight Outta Compton (2015)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/straight-outta-compton-2015)
+- [Badlands](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/badlands)
+- [E.MO.TION](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/e-mo-tion)
+- [Q & A](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/anna-coddington)
+- [1. Top Ten Excuses to Get Out of a Date – E](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/1-top-ten-excuses-to-get-out-of-a-date-e)
+- [Street Food Cinema](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/street-food-cinema)
+- [Hanging Out After Class](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/hanging-out-after-class)
+- [Twister Reality](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/twister-reality)
+- [Trans Shitlord](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/trans-shitlord)
+- [Joynt Venture](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- **[Beyond Profit and Privatisation](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/beyond-profit-and-privatisation)**
+- **[Unethical Ethics](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/unethical-ethics)**
+- [Ralph’s](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/ralphs)
+- [I’m not gay but…](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/im-not-gay-but)
+- [Life’s too short](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/lifes-too-short)
+- [Delaying the Empty Nest](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/delaying-the-empty-nest)
+- [The War on Rape](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/the-war-on-rape)
+- [Vagina Cupcake-gate](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/vagina-cupcake-gate)
+- [Stoner from The Big House](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/stoner-from-the-big-house)
+- [A Slip of the Arse](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/a-slip-of-the-arse)
+- [A Metaphysical Hug](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/a-metaphysical-hug)
+- [Unsafety – Crying Rivers](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/unsafety-crying-rivers)
+- [Humans (TV)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/humans-tv)
+- **[Guide to Censorship in 2015](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/guide-to-censorship-in-2015)**
+- [Top Ten Habits of a Fuckboy](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-ten-habits-of-a-fuckboy)
+- [What Makes a Song Sexy?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/what-makes-a-song-sexy)
+- [What social smoking is really doing to you](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/what-social-smoking-is-really-doing-to-you)
+- [Which chocolate 90s Disney rapper should you date?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/which-chocolate-90s-disney-rapper-should-you-date)
+- [“Drinking is a very serious business”](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/interviews/paul-henry)
+- [To Lad or Not To Lad](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/to-l
+- **[Up the Cracc, or Student Politics at UoA](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/up-the-cracc-or-student-politics-at-uoa)**
+- [Revue Review](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [Why Charities Are Shit](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/prentension-by-perry/why-charities-are-shit)
+- [Happy Now](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/happy-now)
+- [Problems Schroblems](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/problems-schroblems)
+- [Shake That](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/taking-the-puss/shake-that)
+- **[Apathy and Quality: The State of Craccum Today](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/unsane-musings/apathy-and-quality-the-state-of-craccum-today)**
+- [Don’t maca-round](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/dont-maca-round)
+- **[America Votes 2016](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/america-votes-2016)**
+- [Mainstream Hate](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/mainstream-hate)
+- [Cupcakes and Community](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/cupcakes-and-community)
+- [How to get a MRS degree](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/how-to-get-a-mrs-degree)
+- [The Lobster (2015)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/the-lobster-2015)
+- [Coming Home](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/coming-home)
+- [Conceptual Confusion](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/conceptual-confusion)
+- [For Technology](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/for-technology)
+- [Against Technology](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/against-technology)
+- [Tips to navigate life and love](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/tips-to-navigate-life-and-love)
+- **[A-pathetic University](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/a-pathetic-university)**
+- **[I Am Cait](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/i-am-cait)**
+- **[Authentically Scripted](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/kant/authentically-scripted)**
+- [Inclusive Postive Magazine](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/inclusive-postive-magazine)
+- [State of the Web](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/state-of-the-web)
+- [Campbell Dead](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/campbell-dead)
+- [The Devaluation of 50 Cent](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/features/the-devaluation-of-50-cent)
+- [A New Fish?](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/a-new-fish)
+- [Happiness (Hour) Economics 101](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/happiness-hour-economics-101)
+- [My Chocolate Days are Over](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/my-chocolate-days-are-over)
+- [Restaurant Review: Ngopi](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/lifestyle/restaurant-review-ngopi)
+- [To paint a verb](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/to-paint-a-verb)
+- [City of the Broke](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/editorial/city-of-the-broke)
+- [Last Night’s Party](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [It seems to me like you’re the expert Lena](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/just-feminist-things/it-seems-to-me-like-youre-the-expert-lena)
+- [Top 10 Conversations Overheard at UoA](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/columns/top-10/top-10-conversations-overheard-at-uoa)
+- [Mobile Orchestra](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/mobile-orchestra)
+- [Mr Robot](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/mr-robot)
+- [Déjà Vu](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/deja-vu)
+- [Magic Mike](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/magic-mike)
+- [Russell’s New Brand](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/russells-new-brand)
+- [Godzilla](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/godzilla-game)
+- [Heralding the End of the World](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/commentary/heralding-the-end-of-the-world)
+- [The Wolfpack (2015)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/the-wolfpack)
+- [Wild Tales (2014)](https://web.archive.org/web/20161201000944/http://craccum.ausa.auckland.ac.nz/reviews/wild-tales-2014)
+
+### December 2015
+- [Shouts and Whispers](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/columns/conr
+- [Homelessness](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/columns/homelessness)
+- [Rock ‘n’ Role-Modelling](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/commentary/rock-n-role-modelling)
+- [On Inspiration](https://web.archive.org/web/20160123021726/http://craccum.ausa.auckland.ac.nz/commentary/on-inspiration)
+- [The Balancing Act](https://web.archive.org/web/20160205065217/http://craccum.ausa.auckland.ac.nz/commentary/the-balancing-act)
+- [Student Culture in Canterbury](https://web.archive.org/web/20160205065217/http://craccum.ausa.auckland.ac.nz/commentary/student-culture-in-canterbury)
+
+
+## 2016
+
+### [Issue 01 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-01-2016.pdf)
+- release the craccen
+- LACTOSE INTOLERANT WHERE ARE THE BREASTFEEDING FACILITIES AT THE SATELLITE CAMPUSES?
+- **GET CHANGE FOR YOUR BUS FARE AUCKLAND TRANSPORT OVERHAULS TICKETING ON BUSES AND TRAINS**
+- #ONBREAK NOT PROUD
+- **#ONBREAK LABOUR’S TERTIARY EDUCATION PLAN FREEBIES FOR THE CLASS OF 2019**
+- lifestyle
+- WHAT’S ON
+- AGONY AUNTIES
+- THE AUCKLAND UNIVERSITY POWDER ROOM SOCIETY TOILET REVIEW
+- HOUSEPLANTS ON A BUDGET
+- CHEAT’S GNOCCHI
+- EYE ON THE GRIND: WHERE TO GET YOUR FIX NEAR CAMPUS
+- FASHION ON CAMPUS
+- **ausa From Your AUSA Media Officer**
+- Meet the Executive
+- Starting a new chapter?
+- Clear things up
+- AUSA Notices
+- culture shock
+- don’t go chasing waterfalls
+- **Back in Cracc**
+- some cool story about the debauchery of youth
+- Adore Life
+- **No Logo**
+- Dungeons & Dragons
+- Zayn: the Artiste
+- The List
+- #OscarsSoIrrelevant?
+- The Oscars Race: Will Leo Win?
+- columns Hobbit on Tour
+- Sex, Drugs and Electoral Rolls
+- Debunking Romanticism
+- Left a Little Disappointed: An Ode to John Stewart
+- The ‘Othering’ of the San Bernardino Attackers
+- The Stars Are Going Out
+- AUSA Outdoor Summer Shakespeare presents
+- the people to blame.
+- RECYCLE YOUR USED TEXTBOOKS FOR CASH!!!
+
+### [Issue 02 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-02-2016.pdf)
+- meet the fuckers
+- WHERE WOULD YOUR COEDITOR TAKE SOMEONE ON A FIRST DATE?
+- CAITLIN
+- MARK
+- WHAT IS YOUR COEDITOR'S MOST IRRITATING HABIT?
+- WHAT IS YOUR COEDITOR'S MOST USED SWEAR WORD? IF PUBLISHABLE
+- WHAT WOULD YOUR COEDITOR DO IF THEY WASHED UP ON A DESERT ISLAND?
+- WHO WOULD BE YOUR COEDITOR'S CELEBRITY HALL PASS?
+- WHAT IS THE MOST EMBARRASSING THING YOU HAVE EVER WITNESSED YOUR COEDITOR DOING?
+- news
+- **LABOUR INTENSIVE**
+- DAVID SHEARER
+- WHEN DID YOU FIRST GET INTO POLITICS?
+WHAT DO YOU THINK NEW ZEA LAND’S CURRENT ROLE IS AS A POLITICAL BODY WHEN IT COMES TO CONFLICTS IN THE - MIDDLE EAST?
+- DAVID CUNLIFFE
+- C: I ACTUALLY DON’T HAVE ANY QUESTIONS PREPARED FOR YOU.
+- **TALK TO ME ABOUT LABOUR PARTY’S NEW EDUCATION POLICY!**
+- PHIL GOFF
+- WHAT DO YOU THINK THE MOST IMPORTANT ISSUE IS FOR PEOPLE RUNNING FOR MAYOR?
+- UH, COULD YOU SUBSTANTIATE THAT A LITTLE BIT?
+- **NATIONAL STUDENT DEBT PASSED $15 BILLION DOLLARS THIS MONTH...**
+- ANDREW LITTLE
+- **C: GIVE ME A SALES PITCH FOR LABOUR’S NEW POLICY FOR THREE YEARS OF FREE STUDENT EDUCA TION.**
+- THE NAME GAME
+- DR RANGINUI WALKER IN MEMORIAM
+- **UN-BEERABLE STUDENTS PROTEST RORT**
+- AUCKLAND HAS SHIT WEATHER, SURPRISE
+- lifestyle
+- WHAT’S ON 7TH  13TH MARCH
+- AGONY AUNTIES
+- A SURVIVAL GUIDE TO: 1+ HOUR TIMETABLE BREAKS
+- DIY NOSEW CARRIER BAG
+- FASHION ON CAMPUS
+- George Fraser Gallery (25a Princes St)
+- THE CRACCUM GUIDE TO THE METRO GUIDE TO AUCKLAND’S CHEAP EATS
+- **ausa From the Media Offi cer**
+- Are you an international student?
+- WHAT IS THE INTERNATIONAL STU DENT’S OFFICER?
+- WHO CAN RUN TO BE INTERNATION AL STUDENTS’ OFFICER?
+- WHAT’S THE PROCESS FOR BECOM ING INTERNATIONAL STUDENTS’ OFFICER?
+- WE’D LOVE TO HEAR FROM YOU!
+- Tickets available from EventFinda!
+- Blood Drive
+- Become a Class Representative!
+- We offer free support, advice and information to all students.
+- **Interview With The President**
+- OK, FIRST THINGS FIRST: SHOOT, SHAG, MARRY. HILLARY CLINTON. DAVID CUNLIFFE. JUSTIN TRUDEAU.
+- SINCE YOU’VE STUDIED A LOT OF HISTORY, FAVOURITE HISTORICAL MOMENT?
+- SPOKEN LIKE A TRUE STUDENT ADVOCATE... SPEAKING OF, WHICH BEER DO YOU ADVOCATE FOR?
+- OK, BUT MOST CONSUMED?
+- WHO’S YOU FAVOURED US PRESIDEN TIAL CANDIDATE?
+- WHAT DO YOU RECKON IS THE MOST CRINGEWORTHY DONALD TRUMP MOMENT?
+- SPEAKING OF CONSPIRACY, I HEARD
+- YOUR MIDDLE NAME WAS NOR MANKIRK ARDERN?
+- YOU ARE THE PRESIDENT.
+- creative writing
+- victoria
+- risqué business
+- AFFIRMATIVE
+- **this house supports the intensification of auckland**
+- NEGATIVE
+- All the men and women merely players
+- the price of adaptation
+- Don’t Cry, Work.
+- I Like It When You Sleep For You Are So Beautiful Yet So Unaware Of It
+- Family Dinner: Volume 2
+- Much Ado About Nothing
+- Concussion
+- The Expanse
+- It's Always Sunny in Philadelphia
+- My Top 5 Renditions of Movie Themes
+- Harry Potter Music (Indian Tribute) - Tusher Lall
+- The Best of the Coen Brothers
+- Howl’s Moving Castle Theme (Murtagh Remix) - Joe Hisashi
+- Indiana Jones Theme Song (8 Bit Remix Cover Version) - 8 Bit Universe
+- Jurassic Park Acapella (Feat. Peter Hollens) - The Warp Zone
+- He’s a Pirate (Remix) - DJ AG
+- HOBBIT ON TOUR
+- columns
+- The Number 7 Wire
+- Why We Fight
+- GHETTO
+- One Layman’s Skepticism of Psychology
+- Why Are We Here?
+- So, What Do We Know About Therapy?
+- **Positivism and Beyond**
+- AUSA Outdoor Summer Shakespeare presents
+- the people to blame.
+- **AN ECONOMICS DEGREE YOU DON'T NEED TO SEE THE VALUE**
+- Win your money back! *
+
+### [Issue 03 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-03-2016.pdf)
+- mark vs. kim k
+- letters to the editor
+- news
+- PLEASE FOR THE LOVE OF GOD HELP ME
+- news
+- OUR ONE HEADLINE WITHOUT A DUMB JOKE
+- TRANS-PACIFIC PARTNERSHIP DISAGREEMENT
+- **PRO LIFERS ARE EVIL FUCK PRO LIFE A MEASURED OPINION**
+- news
+- We offer free support, advice and information to all students.
+- lifestyle
+- WHAT’S ON: 1420 MARCH
+- AGONY AUNTIES
+- “OH BOY! A SPOOKHOUSE”
+- EASY VEGE LASAGNE
+- Ingredients
+- HAPPY HOURS, HAPPY WALLETS
+- UPCOMING EXHIBITIONS
+- Also opening this week in wider Auckland:
+- Artspace: THE BILL with Fiona Clark: For Collective Unconscious, March 12 - 22 April.
+- FASHION ON CAMPUS
+- Photography by Holly Burgess 
+- **ausa From the Media Officer**
+- BLOOD DRIVE
+- BYELECTION
+- LOCKERS!
+- AUTUMN GENERAL MEETING
+- Are you that someone?
+- 1 CHECK IN.
+- 2 CALL IT AS YOU SEE IT.
+- 3 GET INVOLVED.
+- 4 GET HELP.
+- kendrick lamar
+- Shakey Graves
+- INTERVIEW BY JACK ADAMS
+- FIRST OFF, HOW’D YOU GET THE NAME SHAKEY GRAVES?
+- Q&A With Caleb from Broods
+YOU’VE PLAYED AT SOME INCREDIBLE FESTIVALS OVER THE LAST COUPLE OF YEARS. WHICH ONE HAS STOOD OUT AS A - FAVOURITE, AND WHY?
+YOUR BLUES-FOLK HYBRID MUST HAVE HAD SOME INFLUENCES OVER THE YEARS. IS THERE ANYTHING IN PARTICULAR YOU - LISTEN TO NOW, OR HAVE LISTENED TO, THAT INSPIRED YOUR SOUND TODAY?
+- AUCKLAND CITY LIMITS HAS ITS ROOTS IN MUSIC FESTIVALS IN TEXAS.
+THIS MUST’VE CHANGED OVER THE YEARS. NAMES SUCH AS SHAPESHIFTER AND KENDRICK LAMAR ARE FAR FROM THE BLUES OF - THE NATIONAL AND YOURSELF.
+- THIS CAN’T BE A POSITIVE DIRECTION FOR MUSIC? IS IT NOT ABOUT THE MUSIC THESE DAYS?
+- HOW HAS BEING ON THE ROAD,TOURING ALL OVER THE WORLD, AFFECTED THE LYRICS/SOUND OF YOUR NEW MATERIAL?
+- WHO ARE YOU EXCITED TO SEE AT AUCKLAND CITY LIMITS?
+- Dave Leaupepe from Gang of Youths
+- Dave Leaupepe really fucking hates music festivals.
+- Q&A with MAALA
+THERE ARE SOME VERY AESTHETICALLY-PLEASING PICTURES ON YOUR INSTAGRAM THAT HAVE BEEN HINTING AT NEW MUSIC. - WHAT IS YOUR WRITING PROCESS? DO YOU WRITE ALONE OR WITH OTHERS?
+WE’RE VERY EXCITED TO SEE YOUR SET AT AUCKLAND CITY LIMITS, AND HOMEGROWN LATER ON IN THE YEAR. DO YOU - APPROACH A FESTIVAL SET DIFFERENT-LY FROM A SOLO GIG?
+- WHO WOULD HEADLINE AT YOUR DREAM FESTIVAL?
+- JUST BECAUSE WE’RE CURIOUS – WHERE DOES THE NAME MAALA COME FROM?
+- One in the hand, two in the bush
+- the controversial film festival at the academy cinemas
+- Salò or the 120 Days of Sodom
+- Freaks
+- The Holy Mountain
+- I Spit On Your Grave
+- The Devils
+- Eye in the Sky
+- Gods of Egypt
+- George in the Park
+- Making a Murderer and the Role of the Documentary
+- Shefita: when you find what you didn’t know you needed
+- J.D. Salinger
+- Nine Stories
+- Raise High the Roof Beam, Caretakers and Shining: An Introduction
+- Annie and Sheldon
+- Rage
+- Stephen King Goes to the Movies
+- Everything, as per usual, began with a terrible idea at some pre’s.
+- columns
+- The Humans Are Dead
+- **Allied Preoccupation**
+- **Liberal Dialogues**
+- Jackson lights a cigarette. He starts to smoke it. Sam waits for him to go through this ritual.
+- (Spell-)Check Your Privallage
+- Sam doesn’t want to reply immediately. He sips his coffee. He squints into the distance.
+- Sam shrugs and nods his head.
+- After This Nothing Happened
+- the people to blame.
+- A Tote for Everybody...
+
+### [Issue 04 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-04-2016.pdf)
+- Sausage Sizzle. Democracy. Hot Cross Buns.
+- you’ve got male!
+- news
+- **GENERAL MEETING “DEMOCRCY IS GOOD” SAYS AUSA PREZ.**
+- MARCH MADNESS PUBLIC TRANSPORT CRUMBLES UNDER THE PRESSURE
+- **S.H.A.G**
+- BLACK CAPS MIGHT DO OKAY NATION LOSES ITS MIND
+- lifestyle
+- WHAT’S ON
+- AGONY AUNTIES
+- PREZZIES ON A BUDGET <$20
+- ASSASSIN'S PASSION CUPCAKE RECIPE
+- UPCOMING EXHIBITIONS
+- FASHION ON CAMPUS
+- ausa
+- **From the Media Officer**
+- Noticeboard
+- BLOOD DRIVE
+- AGM
+- BYELECTION
+- LOST PROPERTY SALE!
+- Lighten Your Load
+- The Long Lost Min Q Interview
+- Where was it?
+- What about wine and beer?
+- **ausa What’s Up In the Clubs?**
+- ~ 23RD MARCH - THOMAS ROSE (LIVE) ~23RD MARCH - THOMAS ROSE (LIVE) ~
+- whole lotta love and underage sex
+- browntown
+- **Phil Goff**
+- John Palino
+- Adam Holland
+- Penny Bright
+- arts
+- in worship of defecation, dead bodies and all things indecent
+- **We Can Do Anything**
+- Post Pop Depression
+- 10 Cloverfield Lane
+- TED 2016
+- House of Cards
+- Check This Shit Out
+- It Follows
+- The Power of Gower
+- Hugh will be Granted Firth place?
+- Austenian Prowess
+- On-Screen Kissing Technique
+- is column began the day I sat down in my first lecture in England.
+- columns
+- Sacred Cows: A – Z
+- Here are things that people rate really highly that I think are overrated:
+- That’s So Arbitrary
+- SEX, DRUGS & ELECTORAL ROLLS
+- CONRAD GRIMSHAW RETURNS
+- Tonga016noRegrets: Part I
+- I MAY BE WRONG ABOUT BITS OF THIS
+- Money as a Creature of the State
+- Hippies to Haters: why baby boomers are the worst generation
+- T H U R s D A Y 2 4 T H M A R C H
+- the people to blame.
+- Make your notes interesting!
+
+### [Issue 05 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-05-2016.pdf)
+- mork and miso
+- news
+- REFEREN-DUMB EDITORS ROLL OUT “DEMO-CRAZY” PUN, AGAIN.
+- **MINIMUM RAGE THE SECOND MOST CONTROVERSIAL 50 CENT**
+- ONE HAND GIVETH, THE OTHER TAKETH AWAY
+- **HOUSING GROUSING**
+- lifestyle
+- WHAT'S ON 4TH10TH APRIL
+- AGONY AUNTIES
+- AUCKLAND UNIVERSITY POWDER ROOM SOCIETY’S TOILET REVIEW
+- INNER CITY LUNCH DEALS
+- FASHION ON CAMPUS
+- THE CRACCUM GUIDE TO THE METRO GUIDE TO AUCKLAND’S CHEAP EATS: SRI PINANG
+- **From the Media Officer**
+- Noticeboard
+- EcoFest
+- ‘The Flat’
+- Student Members for MCT
+- We need to elect these students!
+- AUSA At Queer Quad!
+- ausa An Interview With Sarah ‘Shandy’ Butterfield
+- WHAT THE FUCK IS A SHANDY?
+- SHOOT. SHAG. MARRY. DAVID CAMER ON. THE QUEEN. COLIN FIRTH.
+- YOU WANT TO MARRY YOURSELF?
+- I HEAR YOU LOVE RAP, WHAT’S YOUR FAVOURITE KENDRICK LAMAR SONG?
+- IS SWIMMING POOLS ABOUT A A POOL PARTY OR B ALCOHOLISM?
+- WHAT’S THE BEST THING YOU’VE
+- EVER CROCHETED?
+- WHY DO YOU LIKE DONALD TRUMP ON FACEBOOK?
+- YOU LIKE WATCHING A TRAIN WRECK?
+- HILLARY OR BERNIE?
+- Are you that someone?
+- 1 CHECK IN.
+- 2 CALL IT AS YOU SEE IT.
+- 3 GET INVOLVED.
+- 4 GET HELP.
+- **crisis in our backyard**
+- Clear things up
+- let’s get physical
+- stumped by trump?
+- **arts**
+- the desired and the desirer
+- Batman v Superman: Dawn of Justice
+- Zootopia
+- River of Fundament
+- You and I
+- Mind of Mine
+- Balls
+- Endless Worlds Most Beautiful; or The Author’s Immortality Machine
+- The Switch
+- Denyce Su’a – Mastering Her Craft
+- Assimilation Week: England
+- Update
+- The Pop Culture Wars
+- Flag It
+- Playing A Trump Card
+- Last Night: Or Why I Write for a Student Publication
+- **Cuts to the Arts: Stupid or Sinister?**
+- Notes From the Future, Beware of the Dogs
+- Artists
+- Contributor of the Week
+- New Paperblanks now in store!
+
+### [Issue 06 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-06-2016.pdf)
+- Come dressed in many colours... Leave in just one!
+- overhurt @ university of auckland
+- People on who comment on posts are complete fuckwits.
+- news
+- **THE FOLLOW ON THE ALBERT PARK ATTACKS**
+- TRUMP BERNING UP HIS CHANCES AT THE OVAL OFFICE
+- **BASIC INCOME ISSUE HAS NO BASIC OUTCOME**
+- THE TOP 5 THINGS WE LEARNT LAST WEEK
+- 4. Albert Park is not a place you want to be after dark. Also, the internet fosters racism.
+- lifestyle
+- WHAT’S ON APRIL 11TH  17TH
+- AGONY AUNTIES
+- Domain & Ayr
+- **COLLECTIVE READING LIST**
+- Ka Whawhai Tonu Matou - Struggle Without End by Ranginui Walker:
+- Big Beat
+- On Humour by Simon Critchley
+- UPCOMING EXHIBITIONS
+- THE CRACCUM GUIDE TO THE METRO GUIDE TO AUCKLAND’S CHEAP EATS: RAMEN TAKARA
+- **From the Media Officer**
+- Run for AUSA.
+- **Reclaim Our Park**
+- **ausa**
+- Maybe like 2 hours of making spreadsheets and 28 hours of doing [other] stuff .
+- I didn’t watch Pokémon. My Mum thought it was weird, so I just have to have faith in Will’s choice.
+- No. Do I constantly feel like I’m in Shadows bar? Yes.
+I like Gin & Tonics... We have lots of tonic at our flat, because I always buy them just in case we don’t - have any. We always end up with half bottles of flat tonic...
+- No, but I’ve been well and truly scared off by members who have.
+- Clear things up
+- something wicked this way comes
+- Lighten Your Load
+- this house looks forward to a world with sex robots
+- AFFIRMATIVE
+- NEGATIVE
+- **finding art in the sciences & truth in the arts**
+- arts
+- a nightmare on film street
+- Everything You’ve Come to Expect
+- RuPaul’s Drag Race
+- The Path
+- Hunt for the Wilderpeople
+- John Cleese and Eric Idle: Together at Last... For the Very First Time
+- Cheap as chips: cinema deals
+- Do Film Critics Matter?
+- Outrageous Fortune: Taking your roots from the ground to your bed
+- The Swede Sounds of Scandinavian Pop
+- RECOMMENDED SONGS: SNOW BRIGADE, INTRO-DUCING PALACE PLAYERS, SPECIAL, COMFORTING SOUNDS
+- RECOMMENDED SONGS: LIKE YOU, HANG OUT IN HAZE, EASIER
+- RECOMMENDED SONGS: BELLADONNA, BEAU-TYPROOF, STRANGE COLOUR BLUE
+-  CHRISTY BURROWS
+- Movies My Dad Recommends
+- Labouring the Point
+- The Good, The Bad, and The High-Grossing
+- Sex, Drugs & Electoral Rolls: Thirty Xanatos Pileup
+- Playing Catchup
+- How the Republicans Win
+- Life Is Too Long: Tess Tickle Performs
+- Calendars, diaries and wallplanners all 25% off RRP*
+
+### [Issue 07 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-07-2016b.pdf)
+- abort mission
+- news
+- **CURTAIN CALL? ALL THE WORLD’S A STAGE EXCEPT THE MAIDMENT**
+- **VICIOUS CYCLE OF CRIME WHEELIE BAD SITUATION AT UOA**
+- TO BE (FOR TWO MORE WEEKS) GLOBE GETS AN EXTENDED SEASON
+- **IM-PRESS-IVE AUCKLAND UNIVERSITY LEAVES COMPETITORS DE-PRESS-ED**
+- RAIL BIG CHANGES CONSTRUCTION BEGINS ON THE CRL
+- lifestyle
+- WHAT TO DO WITH TWENTY BUCKS THIS WEEK
+- MY COLLECTION
+- NO LONGER LISTLESS IN LIM'S
+- INTRODUCING THE AUCKLAND UNIVERSITY OPSHOPPING SOCIETY
+- CRACCUM CRAFT
+- AGONY AUNTIES
+- FASHION ON CAMPUS
+- **FROM THE MEDIA OFFICER**
+- AUSA NEWS
+- PRIDE WEEK IS HERE!
+- 1 STREET CHANT
+- **ausa Interview with the WROs – Diana and Aditi**
+- WHAT’S YOUR FAVORITE TYPE OF CUPCAKE?
+- ADITI. SHOOT. SHAG. MARRY. EMMA WATSON. MALALA YOUSAFZAI. PRI YANKA CHOPRA.
+- DO YOU TWO SUPPORT HELEN CLARK’S BID FOR UN SG?
+- DO YOU THINK YOU WILL RUN FOR UN SG AT SOME POINT IN THE FUTURE?
+- DO YOU TWO HAVE ANY COMMENTS ON US POLITICS?
+- AND NZ POLITICS, ARE YOU NOW OR HAVE EITHER OF YOU EVER BEEN A MEMBER OF THE LABOUR PARTY?
+- DO YOU HAVE A COMMENT ON THE POKÉMON THAT WILL HAS ASSIGNED YOU?
+- CAN YOU TELL ME A BIT ABOUT WOMENSPACE?
+- hotline fling
+- the echo
+- Run for AUSA.
+- arts
+- on pj harvey and being yourself
+- Hope Six Demolition Project
+- The VVitch
+- The Jungle Book
+- Sticky Fingers
+- Stardew Valley
+- no-one has to die
+- I Will Be Nothing Without Your Love
+- I Married a Witch
+- WWMRD?
+- HIS INSTAGRAM ACCOUNT
+- HIS POLITICAL ACTIVISM
+- HE’S A COOL DAD
+- HE’S RIDICULOUSLY TALENTED
+- HE’S A FANBOY, TOO
+- Why Lawyers Are Sad
+- GUEST COLUMN WITH ARTHUR GUY
+- Panama Papers
+- SEX, DRUGS & ELECTORAL ROLLS
+- Kings Arms Open For Housing Development
+- **The Town Square Problem**
+- From Auckland with Suspicion
+- MARDI GRAS PARTY
+- the people to blame.
+- Baileys Prize - 2016 Shortlist
+
+### [Issue 08 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-08-2016b.pdf)
+- romeo, rome-oh no the pop up globe is closing
+- news
+- BEATING OFF
+- **BY-ELECTION SET TO ATTRACT AT LEAST 0.2% OF STUDENT POPULATION**
+- **NATIONAL LANDS THEMSELVES IN SHIT**
+- YOUTH CLINIC FACES CLOSURE
+- THE FIVE THINGS WE LEARNED THIS WEEK
+- lifestyle
+- WHAT’S ON 2  8 MAY
+- AGONY AUNTS
+- NATURE CALLS
+- Central City
+- 3) e Parnell Rose Gardens
+- 4) North Head, Devonport
+- 5) Sentinel Rd Beach and Home Bay
+- 6) ree Kings Domain
+- Further Out
+- 8) Manakau Heads
+- 9) Waitakere Ranges bush walks
+- 10) Bethell’s Beach/sand dunes
+- AUCKLAND POWDER ROOM SOCIETY’S TOILET REVIEW
+- COPING WITH ANXIETY
+- GENERAL INFORMATION
+- FASHION ON CAMPUS
+- **ausa**
+- **FROM THE MEDIA OFFICER**
+- **AUSA NEWS**
+- **AUSA NOTICEBOARD**
+- **INTERVIEW WITH THE MEDIA OFFICER - ZAVARA FARQUHAR**
+Why do you like asking people about their lives so much? Are you trying to live vicariously through them to - fill some kind of void in your own life?
+- So at least you don’t pretend that you’re doing law ‘for the community’?
+- Are you now or have you ever been a member of the Labour Party?
+- Really. Why.
+- Shoot, Shag, Marry – Kim Dotcom, Laila Harre, Hone Harawira
+- So you’re a racist gold-digger
+What’s your stance on the US Presidential Election? Hillary or Bernie? Donald or Ted? Who’s going to win in - November?
+- Would you rather have as President of the United States? Donald Trump or Joseph Kony?
+- What do you think of the Pokemon I’ve assigned you?
+- What has been the most rewarding part of being on the AUSA Executive so far?
+- WHY SHOULD I VOTE IN THE AUSA BY-ELECTION?
+- CULTURE & ARTS OFFICER
+- **gag order**
+- i bless the children down in africa
+- W T F
+- overpopulation from over-copulation
+- This is Arts related, I promise
+- good night, sweet prince
+- Trágame Tierra
+- Overwatch
+- Maya Angelou: And Still I Rise
+- Stream Team
+- NETFLIX NZ
+- Compatible devices
+- LIGHTBOX
+- Compatible devices
+- NEON
+- Compatible devices
+- Black Forest: Hansel and Gretel and the 420 Witch
+- Nish Kumar
+- Coac-hella Fashionable
+- Rose Matafeo and Nish Kumar
+- Hey there! How are you?
+- Yeah I’m from Wellington, so I’m not very good with these places.
+- For this year’s Comedy Fest you’re performing “Valley of the LOLS”, is that right?
+- So your demographic audience is 24 year old women with anxieties.
+- So what have you learnt as a 24 year old woman?
+- Any shows you’re especially keen to see?
+I just spent the entire morning watching sketches from Funny Girls... How do you come up with an idea for a - sketch?
+- So is Funny Girls coming back?
+- Have you been watching e Bachelor NZ?
+- Do you still keep in contact with Tim, Matt and Connor from U Live?
+- Have you had any awkward meetings with famous people?
+- I loved the interview with you and Amy Poehler.
+- is is your second time coming to New Zealand, right? So what have you learnt about New Zealanders?
+- Now what can we expect for your show at this year’s Comedy Fest?
+- Your face was used for the Internet Meme ‘Confused Muslim,’ what was that like?
+Did you get people coming up to you like “Oh you’re that internet meme” and you were like “Noooo... I’m a - comedian...”
+In your stand-up, you talk a lot about your experiences as a British Asian. Do you use stand-up as a - platform to discuss race?
+- Following that thread, do you think there is a line between humour and political correctness?
+- Do you think being British Asian also influenced the humour you have now?
+- And have you got any plans for exploring Auckland?
+- HOBBIT ON TOUR
+- **Reflections of a BA veteran**
+- BLACKFACE
+- SEX, DRUGS & ELECTORAL ROLLS
+- Caught Up on Canon
+- The Charity Game
+- LIFE IS TOO LONG
+- The Art of the Bantz (UoA Edition)
+- A Bantz Guide to Campus:
+- **AUSA**
+- **AULSS**
+- **WE WEAR IT TO PROTECT US ALL**
+- Baileys Prize Free Tea Tasting!
+
+### [Issue 09 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-09-2016b.pdf)
+- **Clear things up**
+- guest editorial
+- news
+- WELDON RESIGNS AFTER HILARY-OUS FUCK-UP
+- ONLINE VOTING CALLED OFF(LINE)
+- TOP 5 THINGS WE LEARNT THIS WEEK
+- FINAL FACTS
+- lifestyle
+- WHAT’S ON MAY 9  15TH
+- TRACING STEPS ON AN EMPTY DANCEFLOOR
+- AGONY AUNTS
+- HOW NOT TO BE A FAUXMINIST
+- FASHION ON CAMPUS
+- **FROM THE MEDIA OFFICER**
+- AUSA Noticeboard
+- MAORI GRADUATION
+- DISCOUNT LOCKERS
+- GET SET WITH THE NEW EVALUATIONS TOOL!
+- NEW CEREAL!
+- Interview with Grafton 2.0
+- ...RIGHT... YOU USE THE TERM “RATA” QUITE FREQUENTLY... WHAT IS A “RATA”?
+- ARE YOU CURRENTLY OR HAVE YOU EVER BEEN A MEMBER OF THE LA BOUR PARTY?
+- WHO’S GOING TO BE THE NEXT PRESIDENT OF THE UNITED STATES? #REALTALK
+- IS HILLARY A RATA OR A RATA?
+- DO YOU HAVE A COMMENT ABOUT THE POKÉMON WILL ASSIGNED YOU?
+- SHOOT. SHAG. MARRY. KHIA. HILLARY. GOLDUCK.
+- YOU COULD JUST MARRY WILL?
+- YOUR POSITION ON THE EXECUTIVE IS GRAFTON REP  WHAT’S YOUR FA VOURITE THING ABOUT GRAFTON?
+- IF GRAFTON IS SO GREAT, WHAT ARE YOU DOING TO MAKE IT BETTER?
+- MYTHBUSTING
+- THERE ARE ONLY TWO SEXES, MALE AND FEMALE.
+- BUT GENDER AND SEX ARE THE SAME THING!
+- IF GENDER IS A SOCIAL CONSTRUCT, THEN BEING TRANS IS A CHOICE.
+- NONBINARY GENDERS ARE A NEW THING.
+- THERE AREN’T THAT MANY T&GD PEOPLE, SO WHY SHOULD WE WOR RY?
+- BUT I DON’T KNOW ANY T&GD PEOPLE!
+- WHY DO SOME PEOPLE CHANGE GENDER WITH TIME, OR DECIDE TO COME OUT LATER IN LIFE?
+- SO YOU JUST NEED TO HAVE SURGERY AND THEN BE HAPPY?
+- WHICH TOILETS DO YOU USE?
+- BUT THIS ALL MEANS YOU CAN’T HAVE A NORMAL LIFE WITH FAMI LIES, RIGHT?
+- YOU’RE ALL SO BRAVE!
+- THIS ALL SOUNDS SO COMPLEX! WHAT DO YOU WANT ME TO DO?
+- References
+- Further Reading
+- **let them eat cake?**
+- EQUITY OFFICE – TE ARA TAUTIKA
+- broken pride
+- putting the t in lgbti+
+- Lighten Your Load
+- arts
+- anna calvi’s debut album
+- The Switch
+- Black Sabbath at Vector Area
+- Hyper Light Drifter
+- Game of Thrones Season Six Premiere
+- Captain America: Civil War
+- God’s Not Dead 2
+- Paolo Rotondo
+- THREE OF THE MAIN CHARACTERS IN
+- WHAT INSPIRED THE STORYLINE?
+THERE’S NO HAPPY ENDING FOR THE KIDS AT THE END OF THE FILM. WE’RE LEFT ASKING WHAT HAPPENS NEXT. WHY DID - YOU END IT LIKE THAT?
+- YOU’VE WORKED IN BOTH FILMS AND TV SHOWS. WHICH DO YOU PREFER?
+- WOULD YOU MAKE A FILM ON A MICRO-BUDGET AGAIN?
+- Les-being human
+- Troye Sivan: a young creative in the gay community
+- ORPHAN BLACK
+- NEW GIRL
+- THE WALKING DEAD
+- columns
+- HOBBIT ON TOUR
+- SEX, DRUGS & ELECTORAL ROLLS
+- On Becoming 'The Law & Order Candidate'
+- No Country for Old Methods
+- The Case Against Godlessness
+- Improv(e)ise: Premium Octane Existence
+- **No Child Left Behind**
+- the people to blame.
+- Great Graduation Gifts!
+
+### [Issue 10 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-10-2016b.pdf)
+- a rose by any other name would still stink real bad
+- An Apology
+- letters to the editor
+- news
+- **YOUR COUCH PULLS OUT AND SO DOES AUSA AUSA WITHDRAWS FROM NZUSA**
+- MOUSTACHE ON CAMPUS
+-  Please fucking vote
+- THE OTHERS:
+- Tyrone Raumati Mark omas
+- ALREADY LOST:
+- TOP FIVE
+- STUDENT ALLOWANCES SLIDE
+- lifestyle
+- WHAT’S ON 16  22 MAY
+- AGONY AUNTS
+- THE UOA FAIR TRADE CLUB PRESENTS SAMPLING SQUAD  KOKAKO
+- SOOOSH FIX
+- SOCKS AND SANDALS. SACRILEGE?
+- UPCOMING EXHIBITIONS
+- FASHION ON CAMPUS
+- Lighten Your Load
+- FIRST THINGS FIRST  HOW IS YOUR QUEST FOR THE ULTIMATE BIKINI PHOTO GOING?
+- YOU’RE AN EX AUSA WOMEN’S RIGHTS OFFICER. WHAT WOULD YOU SAY IS THE LEAST FEMINIST THING YOU’VE DONE?
+- ARE YOU NOW, OR HAVE YOU EVER BEEN A MEMBER OF THE LABOUR PARTY?
+- LET’S BE HONEST, YOU’RE ONLY ONE OF THE ROUGHLY 75% OF THE ELEC TORATE THAT THE LABOUR PARTY HAS ALIENATED.
+- WHAT ARE YOUR THOUGHTS ON THE POKEMON THAT YOU GOT ASSIGNED?
+- YOUR FRINGE IS AMAZING. WHAT BLACK MAGIC DO YOU DO TO KEEP IT SO PERFECT?
+- JESUS CHRIST.
+- LAST, BUT NOT LEAST: IF YOU COULD ICE ANYTHING ON A CUPCAKE, WHAT WOULD IT BE?
+- IS THAT TRANSMISOGYNIST?
+- ausa
+- **AUSA GIVES NOTICE OF WITHDRAWAL FROM NEW ZEALAND UNION OF STUDENTS’ASSOCIATIONS**
+- ON THE PRO LIFE CLUB
+- fifty, thrifty and thriving?
+- the artful dodgers
+- AFFIRMATIVE
+- NEGATIVE
+- arts
+- jessica jones aka survivor
+- spanish film festival 2016
+- Volcano
+- Food & Shelter
+- Embrace of the Serpent
+- Dark Souls 3
+- Spotlight
+- The Colour in Anything
+- The Five Essential Studio Ghibli Films
+- Louis Theroux and the Art of Discomfort
+- HOBBIT ON TOUR
+- Exchange Ratings: The Guide
+- **Kingston University**
+- **University of East Anglia**
+- **University of Leeds**
+- Mother’s Day
+- Of Broken Backs and Broken Media
+- Life is Too Long, Isn’t It?
+- SEX, DRUGS & ELECTORAL ROLLS
+- **The Power of Myth in Politics**
+- The Number Games
+- **Flip-Flopping**
+- the people to blame.
+- Book of the Month
+
+### [Issue 11 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-11-2016b.pdf)
+- balls
+- FEATURES EDITOR DRUNK AS A SKUNK. PIDDLER ON THE ROOF:
+- ARTS EDITOR HARRY POTTER AND THE ONE THAT ALMOST SHAT HER SELF IN THE LINE FOR PHOTOS:
+- COEDITOR W/ VAGINA:
+- COEDITOR W/OUT VAGINA:
+- news
+- TOP FIVE THINGS WE LEARNT THIS WEEK
+- SMELLS FISHY
+- POLITICS WEAK
+- Over all the key takeaways were:
+- lifestyle
+- WHAT’S ON 23  29 MAY
+- AGONY AUNTIES
+- CRACCUM CRAFT WELL IT BEATS STUDYING BOOK SCULPTURES
+- You will need:
+- Optional:
+- How to do:
+1. Open your book at centre and lay it as flat as you can (break or weaken the spine) with the pages facing - up.
+- 2. Start folding the pages. ere are several ways of doing this, depending on what sculpture you want
+- a) e Triangle Fold
+- b) Slice shape
+- c) Diamond
+- d) Flower
+- 3. Paint and/or bedazzle with glitter if you wish.
+- AUCKLAND UNIVERSITY POWDER ROOM SOCIETY’S TOILET REVIEW OF THE WEEK
+- FASHION ON CAMPUS
+- KITSCH GARDEN
+- **From the President**
+- AUSA NEWS
+- What’s on at AUSA?
+- STRESS LESS WITH AUSA!
+- CALLING ALL BANDS, MUSICIANS, SINGERSONGWRITERS TO... THE SHADOWS SESSIONS
+- ausa Meet the Tamaki Representative
+- IS THERE ANY REASON THAT WHEN YOU GET DRUNK, PEOPLE FONDLY REFER TO YOU AS ‘CRAZY AUNT’ CERVANTEE?
+- WHAT WORK HAVE YOU BEEN DOING ON TAMAKI CAMPUS?
+- ARE YOU NOW, OR HAVE YOU EVER BEEN A MEMBER OF THE LABOUR PARTY?
+- WHAT ARE YOUR THOUGHTS ON THE POKEMON THAT WILL ASSIGNED YOU?
+- ANY OTHER COMMENTS?
+- THAT’S SO SAD...
+- We offer free support, advice and information to all students.
+- full of sound and fury, signifying nothing:
+- **morality: the best policy?**
+- arts
+- CWCville and Me
+- A Moon Shaped Pool
+- Cat Power
+- The Angry Birds Movie
+- Lighten Your Load
+- favourite films
+- Inglourious Basterds
+- You didn't say the goddamn rendezvous was in a fuckin' basement
+- The Dark Knight
+- And the villain we deserve
+- Balto
+- “Can someone write a Spotlight on journo films that aren’t Spotlight?”
+- **columns What Even Is New Zealand?**
+- Caveat Emptor
+- Berning Sanders
+- **Some Things Never Change**
+- the people to blame.
+- **Clear things up**
+- **Decomposition Books are back!**
+
+### [Issue 12 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-12-2016b.pdf)
+- GERMAN LANGUAGE COURSES
+- study-leave me alone
+- news
+- DICK SMITH MINISTER UNDER FIRE FOR HOUSING COMMENTS
+- FART AIR AUCKLAND GETS A WHIFF OF CULTURE
+- TAXING TIMES POLITICAL BUTTHEADS BUTT HEADS OVER CUTS
+- MENTAL HELP INCREASE IN ACCESS TO MENTAL HEALTH SERVICES
+- THE TOP FIVE THINGS WE LEARNT THIS WEEK
+- 3. ere is no longer any grace period on
+- 4. e new University website is now live.
+- lifestyle
+- WHAT’S ON 30 MAY  5 JUNE
+- AGONY AUNTIES
+- A SERIOUS CASE OF THE SHAKES: A SALT AND PEPPER SHAKER COLLECTOR SHARES HER STORY
+- LE UNI STUDENT BY NEWSINCERITYMEMESX0X
+- BIKRAM YOGA BRITOMART REVIEW
+- THE CRACCUM GUIDE TO THE METRO GUIDE TO AUCKLAND’S CHEAP EATS: CHINOISERIE
+- FASHION ON CAMPUS
+- FROM THE MEDIA OFFICER
+- What’s Up in the Clubs?!
+- Meet the Clubs and Societies Officer
+- WHAT CLUBS DO YOU BELONG TO?
+- ARE YOU NOW, OR HAVE YOU EVER BEEN A MEMBER OF THE LABOUR PARTY?
+- YOU AND AUSA PRESIDENT WILL MATTHEWS GO WAY BACK  CARE TO EXPLAIN HOW YOU MET?
+- THIS IS YOUR SECOND YEAR ON THE EXEC, WHAT HAVE YOU LEARNED IN YOUR TIME ON THE EXEC?
+- SHOOT. SHAG. MARRY. GRANT ROB ERTSON. JOHN KEY. CAPTAIN VON TRAPP.
+- PREFERRED PRESIDENT OF THE UNITED STATES?
+- We offer free support, advice and information to all students.
+- acc help not harm – remove the barriers!
+- stimulate your mind in Europe graduate at Auckland
+- tales of tinderella
+- it’s getting hot in here
+- a road trip through the kiwi mind
+- PROLOGUE TO A PRELUDE
+- PRELUDE
+- LUDE
+- INTERLUDE
+- RELUDE
+- AFTERLUDE
+- James McAvoyeur
+- seven hundred and fifty words in defense of babe: pig in the city
+- Bangers to bang out when you’re learning guitar
+- Modern Family
+- Veep
+- Preacher
+- The Division
+- X-Men: Apocalypse
+- Books in the Public Domain
+- Dracula ‒ Bram Stoker
+- Pride and Prejudice ‒ Jane Austen
+- Great Expectations ‒ Charles Dickens
+- Jane Eyre ‒ Charlotte Brontë
+- “What the Fuck is Going on Here?” and Other Questions Regarding the X-Men Film Franchise
+- TIMELINE B  XMEN: DAYS OF FU TURE PAST AND XMEN: APOCALYPSE
+- A Guide to Good Local Bands
+- JAKOB
+- Ghostbusters & Remakes: An Honest Look
+- SCARED OF GIRLS
+- MERMAIDENS
+- CONNAN MOCKASIN
+- THE NAENAE EXPRESS
+- columns I Miss The Old Kanye: Defending The Indefensible
+- SEX, DRUGS & ELECTORAL ROLLS:
+- Anti-Social Media
+- The Conversation
+- GOAL STATUS
+- GOAL
+- GOAL STATUS
+- GOAL STATUS
+- GOAL STATUS
+- GOAL
+- What It Means to be Dead
+- Sending A Budget Down the Coal Mine
+- LIFE IS TOO LONG
+- Semester Happy Dream Time
+- Abarrane: Ikr!
+- the people to blame.
+- Clear things up
+- Crime at UBS
+
+### [Issue 13 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-13-2016b.pdf)
+- semYESter two
+- news
+- **DOUBLE DIPPED HAVEN’T STUDENTS SUFFERED ENOUGH**
+- UNIVERSADY UGHKKFDHSDKFH
+- FLU SHOT
+- lifestyle
+- WHAT’S ON 18  24 JULY
+- WHENEVER I WAKE UP
+- POEM BY BRONTE HERON
+- AUCKLAND UNIVERSITY POWDER ROOM SOCIETY’S TOILET REVIEW  THE ARTS 2 GROUND LEVEL TOILETS
+- ausa
+- FROM THE PRESIDENT
+- AUSA NEWS
+- RUN IN THE AUSA ELECTIONS!
+- WHAT POSITIONS ARE AVAILABLE?
+- STUDENTS AND STAFF FROM REFUGEE BACKGROUNDS
+- AUSA CELEBRATES OUR 125TH AN-NIVERSARY
+- the exec-utioners
+- WHAT EXACTLY IS THIS?
+- ...AND WHY SHOULD I CARE?
+- WILL MATTHEWS
+- ISOBEL GLEDHILL
+- PENELOPE JONES
+- RACHEL BURNETT
+- DEAN CUTFIELD
+- SARAH BUTTERFIELD
+- DIANA QIU & ADITI GORASIA
+- Level of ‘take-themselves-too-seriously’:
+- JESSICA PALAIRET
+- Level of ‘takes-herself-too-seriously’:
+- ZAVARA FARQUHAR
+- MIN KYU JUNG
+- CERVANTÉE WILD
+- CONOR O’HANLON
+- CYRUS LUI
+- PACIFIC ISLAND STUDENTS OFFICER
+- this house would ban all cosmetic procedures to alter one's racial appearance
+- AFFIRMATIVE
+- NEGATIVE
+- in defence of the fence
+- arts
+- (Spoilers for Orange is the New Black season four follow).
+- The Neon Demon
+- Finding Dory
+- Let’s Marathon
+- The New Zealand International Film Festival
+- Beware the Slenderman
+- DIR. IRENE TAYLOR BRODSKY
+- e Handmaiden
+- DIR. PARK CHAN-WOOK
+- Apple Pie
+- DIR. SAM HAMILTON (NZ)
+- Certain Women
+- DIR. KELLY REICHARDT
+- High-Rise
+- DIR. BEN WHEATLEY
+- A Quiet Passion
+- DIR. TERENCE DAVIES
+- Midnight Special
+- DIR. JEFF NICHOLS
+- The Cracc-sters Send Their Regards
+- 1. SANSA STARK
+- Editors’ Essentials
+- What was the first album you ever bought?
+- CAITLIN
+- ANDREW
+- MARK
+- SAMANTHA
+- WINIFRED
+- CATRIONA
+- HANNAH
+- JORDAN
+- **Brexiting: Lies, Idiocy, and A Lot Of Things Being On Fire (All At Once)**
+- Undercover With The Jocks
+- The Five Stages of Staring
+- Mayorly Interested
+- SEX, DRUGS & ELECTORAL ROLLS
+- LIFE IS TOO LONG
+- the people to blame.
+
+### [Issue 14 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-14-2016b.pdf)
+- fairfucked?
+- news
+- MAYOR WATCH [LIKE BAYWATCH, GEDDIT?]
+- UNITARY PLAN
+- FIRST DEBATE
+- AUSA NOM NOM NOMS NOMINATIONS HAVE OPENED FOR AUSA’S 2017 EXECUTIVE COMMITTEE.
+- THE TOP 5 POLITICAL EVENTS YOU MAY HAVE MISSED
+- **1. A New Zealand MP ran over a protester.**
+- lifestyle
+- WHAT’S ON 2531 JULY
+- AGONY AUNTIES
+- BRUNCHING ON A BUDGET
+- FASHION ON CAMPUS
+- MINESTRONE SOUP
+- **LOOP GROOP**
+- What’s the origin of Loop Groop
+- How did you learn to work with bikes
+- For a cyclist who doesn’t know much about bikes, do you think it is fairly easy to learn the basics
+- And people can bring their bikes to you when they need help learning how to fix it
+Do you think that Auckland as a city is becoming more aware of alternative forms of transport, including - cycling
+- Any last message for the students of University of Auckland
+- ausa
+- WHAT ARE THE CHANGES?
+- WHAT'S THE RATIONALE?
+- DEMOCRACY SAUSAGES
+- **Student Forum Now At 1.15pm On Wednesdays**
+- AUSA Executive Nominations
+- We Need You: Food Drive 2016
+- Get 10% Off At Shadows
+- Notice is hereby given of an AUSA SPECIAL GENERAL MEETING
+- CHANGES TO TREASURER
+- OFFICER POSITIONS:
+- PORTFOLIO POSITIONS:
+- CHANGES TO QUEER RIGHTS OFFICER
+- Run in the AUSA elections!
+- So why should I run?
+- ADVOCACY AND REPRESENTATION
+- EVENTS
+- WELFARE
+- I’m interested – what’s next?
+- ausa Interview With Daddy Dean*
+- ABOUT THAT, ELECTIONS ARE COM ING UP  WHY SHOULD PEOPLE RUN FOR TREASURER?
+- ARE YOU AN IDEALIST WITHOUT IDEAS?
+- LIKE?
+- WHAT’S A GLOBAL RESOURCE REPA RATIONS PAYMENTS SYSTEM?
+- SORRY I ASKED... WHAT DOES TREAS URER ACTUALLY DO?
+- WHAT’S THE WEIRDEST THING THAT’S CROPPED UP AND THAT YOU’VE HAD TO SORT OUT?
+- ARE YOU NOW OR HAVE YOU EVER BEEN A MEMBER OF LABOUR PARTY?
+- HAVE YOU BEEN FOLLOWING THE US ELECTIONS ON FOX?
+- PERSIAN IS THE POKÉMON WILL ASSIGNED YOU, DO YOU HAVE ANY COMMENTS ABOUT THAT?
+- Create a Co-QRO!
+- inspire to conspire
+- it’s all in good humour
+- Rekt-oplasm
+- Trek: Voyager
+- Beware the Slenderman
+- The Handmaiden
+- Ants on a Shrimp
+- Parson James at St Mary’s Cathedral Church
+- The Circus
+- Teens of Denial
+- **Marie Antoinette**
+- 2. Dressing Political Women:
+- Five Fictional Podcasts to Listen to in the Dark
+- THE BLACK TAPES
+- WELCOME TO NIGHT VALE
+- LIMETOWN
+- WE’RE ALIVE
+- ALICE ISN’T DEAD
+- A Guide to Underrated Romcoms
+- Stuck in Love (2012)
+- What If (2013)
+- Life After Beth (2014)
+- Hello My Name is Doris (2015)
+- What’s Your Number (2011)
+- Will Anything Stop Pokémon GO?
+- CAITLIN
+- Angus, ongs & Perfect Snogging
+- CATRIONA
+- SAMANTHA
+- WINIFRED
+- HANNAH
+- FELIXE
+- Sex and the City
+- MARK
+- A Love Poem For A Honey Badger
+- SEX, DRUGS & ELECTORAL ROLLS
+- The Monsters Within
+- The Nation, The Team
+- LIFE IS TOO LONG
+- Autists In a World Gone Mad
+- Lighten Your Load
+- the people to blame.
+- BRENDAN LOVEGROVE
+
+### [Issue 15 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-15-2016b.pdf)
+- navy blues
+- news
+- **OH,THE HUMANITIES**
+- SHOOTING GALLERY
+- **SHE BLINDED ME WITH SCIENCE, BUILDING**
+- THE TOP 5 (POSITIVE) STORIES YOU MIGHT HAVE MISSED.
+- 2. ere is going to be a Lego Batman movie.
+- SKYPATH
+- DEBATE
+- UNITARY PLAN
+- lifestyle
+- WHAT’S ON 1  7 AUGUST
+- THE UOA FAIR TRADE CLUB PRESENTS: SAMPLING SQUAD  NGOPI
+- AGONY AUNTIES
+- A FIRSTHAND GUIDE TO SECONDHAND SHOPPING
+- Jo’s Stall Bric ‘a’ Brac (598 Great North Road, Grey Lynn)
+- Mangere St Vincent de Paul (32 Coronation
+- Road)
+- Dove Shop (185 Apirana Ave)
+- Hospice Shop (17 Delta Ave, New Lynn)
+- FASHION ON CAMPUS
+- SHAKSHUKA / BAKED EGGS
+- ausa
+- AUSA Noticeboard Special General Harry Potter Week Meeting
+- Cultural Week
+- Nominations for the AUSA Executive
+- Notice is hereby given of an
+- FROM THE MO
+- **Notice is hereby given of an AUSA SPECIAL GENERAL MEETING**
+- CHANGES TO TREASURER
+- OFFICER POSITIONS:
+- PORTFOLIO POSITIONS:
+- CHANGES TO QUEER RIGHTS OFFICER
+- ausa Interview with Yilong “Party” Wang
+- WHAT ARE SOME THINGS THAT YOU THINK A DOMESTIC STUDENT DOESN’T THINK ABOUT WHEREAS AN INTERNATIONAL STUDENT - DOES?
+- AS INTERNATIONAL STUDENTS’ OFFICER, WHAT ARE YOU HOPING TO ACHIEVE IN YOUR ROLE?
+- WHAT DO YOU THINK WE CAN DO TO CREATE THAT FRIENDLY COMMUNI TY?
+- YOU CAME INTO AUSA LATER ON IN SEMESTER ONE, WHAT WERE YOUR FIRST IMPRESSIONS OF THE ORGAN IZATION?
+- ANY COMMENTS ABOUT THE POKÉMON WILL ASSIGNED YOU?
+- HAVE YOU CAUGHT A CHARMANDER YET?
+- Submissions Open for Kate
+- final fantasy?
+- Hey everyone, Brie Larson liked my tweet
+- THE WONDER WOMAN TRAILER IS A BANGER
+- LITTLE GIRLS COSPLAYED AS REY FROM THE FORCE AWAKENS; THE WORLD IS A BEAUTIFUL PLACE
+- EDDIE REDMAYNE IS AN ANGEL, TOO GOOD FOR THIS WORLD, TOO PURE
+- MARVEL IS KILLING THE CASTING GAME
+- TAIKA WAITITI’S THOR FILM IS PROBABLY GOING TO BE HILARIOUS
+- teenage mutant ninja crybabies
+- How’d It Go?
+- Boners of the Heart
+- Lights Out
+- Everybody Wants Some!!
+- Weiner
+- Captain Fantastic
+- Freetown Sound
+- Summer 08
+- Flash! Ah-ahh!
+- Harry Potter and the Top Ten NOTPs
+- MARK
+- Atlas Shrugged
+- CAITLIN
+- HANNAH
+- Anna Karenina
+- CATRIONA
+- SAMANTHA
+- New Zealand: A (Guesstimated) Recap Of The Previous 6 Months
+- SEX, DRUGS & ELECTORAL ROLLS
+- The New Fault-Line In Politics – Globalists Versus The Rest
+- Are We Being Racist To Taylor Swift?
+- Language Matters
+- Cigarettes and Disappointments Or A Story In The Night
+- the people to blame.
+- Editors
+- Subeditor
+- Designer
+- Section Editors
+- Writers
+- Cover Artist
+- Artists
+- Contributor of the Week
+- Editorial Office
+- Advertising
+- facebook.com/CraccumMagazine twitter.com/CraccumMag www.craccum.co.nz
+- Lighten Your Load
+- Get a Free Tote Bag with every Lonely Planet purchase *
+
+### [Issue 16 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-16-2016b.pdf)
+- feed your mind in the USA graduate at Auckland
+- editorial
+- everything is not as it themes
+- news
+- NIGHTMAYORS OF A NEWS EDITOR PLEASE JUST FUCKING VOTE
+- LOCAL POLITICKING
+- HOUSINGMATES
+- MASSDEBATE
+- THE TOP FIVE CRAZY THINGS THAT DONALD TRUMP HAS SAID
+- lifestyle
+- JAYWALKING: A NECESSARY THRILL
+- AGONY AUNTIES
+- Aunty Agnes
+- Aunty Ethel
+- SIMPLE APPS FOR OVERWHELMING WORLD NEWS
+- WHAT’S ON 8  14 AUGUST
+- FASHION ON CAMPUS
+- ausa Interview with Anoushka (CAO)
+- WHY DID YOU RUN FOR CAO?
+- WHAT ARE YOU LOOKING FORWARD TO MOST ABOUT CULTURAL WEEK?
+- WHAT IS THE MOST SURPRISING THING YOU’VE FOUND ABOUT BEING
+- ON THE AUSA EXECUTIVE?
+- ARE YOU NOW OR HAVE YOU EVER BEEN A MEMBER OF THE LABOUR PARTY?
+- THOUGHTS ON THE POKÉMON YOU’VE BEEN ASSIGNED?
+- SCARED OF GIRLS, PAPRIKA
+- copacabana ain’t coping
+- **this house believes that all tertiary institutions should be secular**
+- AFFIRMATIVE
+- NEGATIVE
+- Poetry Night
+- Take it t-easy
+- Peppermint tea with e King’s Speech
+- A chai latte with e Holiday
+- English breakfast tea with Crazy, Stupid, Love
+- Black coffee with Spotlight
+- Green tea with Se7en
+- A hot toddy with Inside Llewyn Davis
+- Chamomile tea with Pride & Prejudice
+- A hot chocolate with Jurassic Park
+- Mulled wine with Lord of the Rings: Return of the King at the end of a LOTR marathon
+- Jason Bourne
+- The Rehearsal
+- Hooligan Sparrow
+- The BFG
+- Stranger Things
+- Elevate your mood, dude
+- the day my bum went psycho
+- BUMLESS BODIES
+- BASED ON A TRUE STORY?
+- THE KISSER: WEIRD OR NAH?
+- BUM FIGHTING ABILITIES
+- Smile Like You Mean It, Dammit!
+- Presenting: Buffy the Vampire Slayer
+- Editors’ Essentials
+- CATRIONA
+- FELIXE
+- Gwen Stefani
+- MARK
+- ABBA
+- CAITLIN
+- Johnny Cash
+- WINIFRED
+- HANNAH
+- Simon & Garfunkel
+- SAMANTHA
+- ANDREW
+- Dead or Alive
+- columns
+- HOBBIT ON TOUR
+- SEX, DRUGS & ELECTORAL ROLLS
+- Champagne Problems
+- Lighten Your Load
+- the people to blame.
+- BOOK YOUR TICKET TO THE ULTIMATE FASHION EXPERIENCE
+- Free Tea Tasting!
+
+### [Issue 17 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-17-2016b.pdf)
+- craccum has raging election
+- GUY WHO JUST CAME TO THE QUAD TO GET BUTTER CHICKEN CHIPS AND WANTS TO BE LEFT THE FUCK ALONE: What’s
+- GWJCTTQTGBCCAWTBLTFA: Um, okay.
+- news
+- LABOURING THE POINT
+- THE TOP FIVE REASONS HOSTING THE OLYMPIC GAMES IS A BAD IDEA
+- HUMAN(ITIES) RESOURCES
+- QUESTIONING THE PLAN
+- lifestyle
+- WHAT’S ON 1522 AUGUST
+- FASHION ON CAMPUS
+- AVOIDING THE CAR OR, HERE ARE SOME DATE IDEAS
+- OPSHOP EVALUATION: PAPER BAG PRINCESS
+- VEGAN DREAMS ARE MADE OF THIS... AQUAFABA
+- Meringues
+- AGONY AUNTIES
+- election blurbs
+- Bigger and Better Events
+- **World Class Representation**
+- AUSA Rewards
+- Constitutional Reform
+- Executive Reorganisation
+- Events Management
+- CLUBS & SOCIETIES OFFICER
+- CULTURE & ARTS OFFICER
+- GRAFTON REPRESENTATIVE
+- MEDIA OFFICER
+- QUEER RIGHTS OFFICER
+- STUDENT FORUM CHAIR
+- TAMAKI REPRESENTATIVE
+- CRACCUM EDITOR
+- We offer free support, advice and information to all students.
+- ars gratia artis: art for art’s sake, part one
+- a candid date with the candidates
+- CATRIONA AND SAMANTHA
+- ANDREW
+- ANDREW
+- ANDREW
+- SAMANTHA
+- IF YOUR OPPONENTS WERE MOVIE VILLAINS, WHO WOULD THEY BE?
+- ANDREW
+- SAMANTHA & CATRIONA
+- ANDREW
+- CATRIONA
+- ANDREW
+- ANDREW
+- CAITLIN
+- ANDREW
+- SAMANTHA
+- CATRIONA
+- SAMANTHA
+- SAMANTHA
+- WHY DO YOU ACTUALLY WANT TO EDIT THE MAG?
+- SAMANTHA
+- ANDREW
+- SAMANTHA
+- Why “Forever in Blue Jeans” is the greatest song ever written and why I will fight anyone who disagrees
+- Money talks, but it don’t sing and dance, and it don’t walk.
+- Long as I can have you here with me, I’d much rather be forever in blue jeans.
+- Suicide Squad
+- Roadtrip
+- Net-flick over to the Kids section
+- Daddy Day Care
+- Scooby-Doo
+- Agent Cody Banks
+- Spirit: Stallion of the Cimarron
+- Three Animated Shows You Should Be Watching
+- VOLTRON: LEGENDARY DEFENDER
+- D.GRAY-MAN: HALLOW
+- BOJACK HORSEMAN
+- Flatbush ZOMBiES
+- Levi Patel and Suren Unka
+- DID YOU HAVE ANY MAIN INFLUENC ES OR INSPIRATIONS WHEN MAKING
+- LP + SU
+- LP + SU
+- HAS MAKING MUSIC TOGETHER CHANGED YOUR APPRECIATION OF OTHER MUSIC AND STYLES?
+- WHAT DO YOU GUYS FIND MOST RE WARDING ABOUT MAKING MUSIC?
+- ANY ADVICE TO ANYONE WHO WANTS TO GET INTO MAKING MU SIC?
+- LP + SU
+- Five albums to listen to from start to finish that are just really good
+- Bloom – Beach House (2012)
+- Rid of Me – PJ Harvey (1993)
+- Grace – Jeff Buckley (1994)
+- Heaven or Las Vegas – Cocteau Twins (1990)
+- LP1 – FKA Twigs (2014)
+- Obituary
+- I’m With The Band
+- SEX, DRUGS & ELECTORAL ROLLS
+- Mental Health & Politics: Tarred, Feathered & Straightjacketed
+- **Mo’ Democracy, Mo’ Problems**
+- Courting the Courts
+- ausa What’s on @AUSA?
+- SUBMISSIONS FOR KATE MAGAZINE OPEN NOW!
+- PLASTIC DIET, OPSOC AND THE UOA FAIR TRADE CLUB PRESENTS: CLOTHES SWAP
+- **EQUITY OFFICE “GOING ABOVE AND BEYOND” FOR STUDENTS FROM REFUGEE BACKGROUNDS**
+- NOTICE OF CONSTITUTIONAL CHANGES FOR WGM
+- CHANGES TO TREASURER
+- CHANGES TO QUEER RIGHTS OFFICER
+- CHANGES TO STUDENT FORUM
+- Who Will Be Your Next Welfare Vice-President?
+- Lighten Your Load
+- It’s our
+
+### [Issue 18 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-18-2016c.pdf)
+- here’s why the rio olympics have been a highly worthwhile and meaningful experience
+- news
+- NIGHTMARE ON HYDE STREET
+- **UOA HAS HALF-ASSED RESPONSE TO HOMOPHOBIC HARASSMENT**
+- DEJA V-UNITARY PLAN NEWS ED ROLLS OUT HIS FAVOURITE TOPIC, AGAIN
+- UCSA FORCED TO CROWDFUND
+- WOMEN SET TO TAKE OVER THE PLANET IN WORLDWIDE GYM CONSPIRACY
+- COMMUNICABLE DEGREES
+- lifestyle
+- WHAT’S ON 22  28 AUGUST
+- FASHION ON CAMPUS
+- IN DEFENCE OF WATER
+- THE EASIEST ICECREAM YOU WILL EVER MAKE
+- 2 LARGE FROZEN BANANAS ½ CAN OF COCONUT CREAM
+- THE UOA FAIR TRADE CLUB PRESENTS: SAMPLING SQUAD  CAFFE PRIMA
+- AGONY AUNTIES
+- ausa News from AUSA
+- **UNIVERSAL BASIC INCOME PUBLIC MEETING**
+- **WELCOME BACK THE BUDGIE MEAL...**
+- SUBMISSIONS FOR KATE MAGAZINE OPEN NOW!
+- AUSA BATTLE OF THE BANDS!
+- ausa 125th Anniversary Funciton
+- The HUB
+- DID YOU KNOW WE CAN HELP YOU WITH
+- TENANCY
+- EMPLOYMENT
+- Notice of Constitutional Changes for WGM
+- CHANGES TO TREASURER
+- WEDNESDAY @ 1PM
+- a fraction more friction
+- PHRESH OUT THE RUNWAY
+- arts
+- Comic, but not all that funny
+- No Man’s Sky
+- No Man's Sky: Music for an Infinite Universe
+- Harry Potter and The Cursed Child
+- Stephen King
+- Esi Edugyan
+- To Kill a Mockingbird
+- Harper Lee
+- John Steinbeck
+- Wool
+- A Clockwork Orange
+- Anthony Burgess
+- Chimamanda Ngozi Adichie
+- The Beautiful and the Damned
+- The 5 Essential Stanley Kubrick Films
+- 2001: A SPACE ODYSSEY
+- DR STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB
+- FULL METAL JACKET
+- THE SHINING
+- A CLOCKWORK ORANGE
+- The Soothing Seduction of Suffering
+- The Hunger
+- Debating the Healthiness of High Schools
+- columns
+- It’s All a Lie: a nihilist’s sermon
+- Out
+- **On The Vast Right-Wing Conspiracy To Take Back Auckland**
+- The Departing of the Party
+- the people to blame.
+- BOOK YOUR TICKET TO THE ULTIMATE FASHION EXPERIENCE
+- BIG, BIG
+
+### [Issue 19 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-19-2016b.pdf)
+- We offer free support, advice and information to all students.
+- bureaucrats, bureaucrats, everywhere, but not a drop to drink
+- July 2016
+- September 2016
+- news
+- LET’S GET MAY-O-RAL, MAY-O-RAL
+- Issue One: Debates
+- Issue Two: Policy Announcements
+- **On the transport front**
+- **On the housing front**
+- Issue Three: Voting Soon
+- NIKKI KAYE TAKES LEAVE AFTER BREAST CANCER DIAGNOSIS
+- **Part One: Lincoln University**
+- **Part Two: Unitec**
+- **Part Three: University Of Canterbury**
+- **UNIVERSITY OF AUCKLAND IS RANK(ED HIGHLY)**
+- ausa From the President
+- INTRODUCING YOUR NEW AUSA EXECUTIVE!
+- **EYE ON AUSA  WHAT HAVE YOUR STUDENT REPRESENTATIVES BEEN UP TO RECENTLY?**
+- What’s happening on campus?
+- WOMENSFEST 2016 IS COMING!
+- BASIC INCOME NEW ZEALAND PUB LIC MEETING!
+- WELCOME BACK THE BUDGIE MEAL!
+- ausa Where Is Your Money Going?
+- SUMMARY
+- RECOMMENDATIONS
+- lifestyle
+- What do I want? Where do I stand?
+- FASHION OFF CAMPUS
+- HOW TO DRESS FOR SPRING
+- 1. Denim Mini
+- 2. Satin Bomber Jacket
+- 4. Slip-On Vans
+- befriending ben: a snap story
+- What is Ben up to these days
+- this house supports kanye 2020
+- Affirmative
+- Negative
+- the heroine we deserve
+- WHAT ARE YOUR FIVE FAVOURITE THINGS, I.E. ALBUMS, BOOKS OR MOVIES?
+- WHAT DO YOU DO WHEN YOU’RE NOT DOING THIS?
+- YOU’VE PROBABLY BEEN ASKED THIS SO MANY TIMES, BUT WHAT IN SPIRED YOU TO RUN FOR MAYOR?
+- OF COURSE PEOPLE BRING UP YOUR AGE ALL THE TIME. WHAT’S THE DEAL WITH OLD PEOPLE?
+- WHAT’S THE MOST VALUABLE LES SON THAT YOU’VE TAKEN FROM THIS WHOLE EXPERIENCE?
+- HAVE YOU HAD ANY PARTICULARLY STRANGE OR AWFUL ENCOUNTERS?
+- AH. SO IN TERMS OF GETTING RE SPECT, HAS THAT BEEN A BIT OF A STRUGGLE?
+- HAS ANYTHING ABOUT AUCKLAND SURPRISED YOU THROUGHOUT THIS PROCESS?
+- FINAL THOUGHTS ON THE TITLE OF ‘MAYOR’, AND WHAT IT MEANS TO BE ‘FOR AUCKLAND’.
+- The Other Barone Boy
+- king’s cross and the stripper’s scowl
+- The Wheat Bix Kids
+- Kubo and the Two Strings
+- War Dogs
+- 22, A Million
+- Total Depravity
+- ten pieces of media that everyone should consume
+- Francis Ford Coppola
+- Quentin Tarantino
+- Howl’s Moving Castle (2004)
+- Hayao Miyazaki
+- Jacob Aaron Estes
+- Be Kind, Rewind (2008)
+- (Arts Editor’s note: we acknowledge that Mel Gibson is now pretty much just an ass)
+- The Darjeeling Limited (2007)
+- Wes Anderson
+- Morgan Spurlock
+- The Royal Tenenbaums (2001)
+- Wes Anderson
+- Alex Gibney
+- Indie Makeup Brands to Support with Your Dollar
+- Shiro Cosmetics
+- Bésame Cosmetics
+- LBCC Historical
+- Relationship Advice with Aunty Eloise
+- But you need to –
+- But I-
+- SEX, DRUGS & ELECTORAL ROLLS
+- A Fair Go For Unsafe Convictions
+- At The Show
+- Trump Tower
+
+### [Issue 23 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-23-2016b.pdf)
+- editorial
+- talent quest
+- AUCKLAND POSTGRADUATE INFORMATION EVENING
+- news
+- 2 CULTS 2 CAMPUS
+- We offer free support, advice and information to all students.
+- NEWS EDITOR READS A LENGTHY REPORT. PLEASE READ THIS SUMMARY SO HE DOESN’T FEEL SAD AND ALONE.
+- PART ONE: RETURN OF INTEREST ON STUDENT LOANS
+- PART TWO: “STUDENT FOCUSED” INSTITUTIONS
+- MASSEY’S MESSY ORIGINS
+- lifestyle
+- ROUND TWO: WHAT’S IN YOUR BAG?
+- THE AUPRS TOILET REVIEW KATE EDGER BUILDING LEVEL 2 TOILETS
+- General Information
+- FLAT OF THE WEEK
+- Highlights and lowlights of the physical space?
+- Do you have flat roles?
+- Any flat traditions?
+- What TV shows are you watching?
+- Felixe: I have heard of this, but what is it exactly?
+- What do you like about your neighbourhood and do you have any neighbours worthy of a mention?
+- AGONY AUNTIES
+- AUSA Presents: Stress Less Study Week
+- Get SET for semester two evaluations!
+- Battle of the Bands
+- i am woman, hear me roar
+- ...And Justice For All
+- The Magnificent Seven
+- Luke Cage
+- Dreams
+- A Seat at the Table
+- 22, A Million
+- I Had A Dream That You Were Mine
+- Six Must-See Docos 1. Blackfish (2013)
+- 2. Cartel Land (2015)
+- 4. Virunga (2014)
+- 5. Bowling for Columbine (2002)
+- 6. The Black Panthers: Vanguard of a Revolution (2015)
+- The Best Period Dramas, Period.
+- Pride & Prejudice (2005)
+- Jane Eyre (2011)
+- Shakespeare in Love (1998)
+- Amazing Grace (2006)
+- Bright Star (2009)
+- Atonement (2007)
+- Belle (2013)
+- Others to look out for:
+- Becoming Jane
+- Top Seven Uses for This Column
+- Choose Your Own Adventure
+- Go to (2).
+- Brash
+- PREMIUM APARTMENTS COMING SOON
+- the people to blame.
+- Check out our gorgeous range of children’s picture books
+
+### [Issue 24 2016](http://craccum.co.nz/wp-content/uploads/2021/06/Craccum-24-2016.pdf)
+- i am not afraid to keep on living, i am not afraid to walk this world alone
+- news
+- YOU AND ME GOT A WHOLE LOTTA HISTORY
+- **SEXUAL ASSAULT IGNORED IN AUSTRALIAN UNIVERSITIES**
+- **TO FEE OR NOT TO FEE**
+- OPINION: PATRICK’S SPORT SOAPBOX
+- lifestyle
+- WHAT’S ON 17-23 OCTOBER
+- WHAT’S YOUR SCENT?
+- Danielle Taylor Bachelor of Arts/Bachelor of Commerce:
+- AGONY AUNTIES
+- MAGIC NO-RISE BREAD RECIPE!
+- Ingredients:
+- Instructions:
+- AUSA – 2016 In Review
+- ausa
+- SOME PEOPLE TO THANK
+- ausa On the 19th of October your fees will rise.
+- Stress Less Study Week
+- CHILL OUT ZONE
+- **FREE BRUNCH**
+- **FREE FRUIT**
+- END OF DAZE
+- craccum 2016: a year in review by the numbers looking back in retrospect
+- SEVEN
+- SEVEN
+- THREE THOUSAND, FOUR HUNDRED AND SEVENTY FOUR
+- A WHOLE LOTTA
+- wicked games
+- arts
+- Mark, sighing
+- Caitlin, surveying Symonds St, gathers the strength to farewell her co-editor
+- Mark, wearily trudging after her
+- Mark, in a whisper
+- Mark, coughing
+- Caitlin, with a tear
+- Westworld
+- Scorpion
+- Revolution Radio
+- local tunes
+- Graeme James
+- What have you been up to lately on the music front
+- How did you get into music? What was your first record purchase
+- Did you ever imagine yourself being a musician
+- What musicians do you admire? Why
+- What are you main inspirations and why? What feelings/experiences inspired the lyrics?
+- What was the experience of busking like? Did you ever imagine you’d end up doing that?
+- What do you find most rewarding about performing/making music
+- What’s your writing process like
+- What musical advice would you give to anyone interested in pursuing music
+- A Girl Named Mo
+- How did you guys each get into music? How’d you come to be in a band together
+- Mo, how would you describe being a woman and the lead singer of a band
+- What future plans do you have
+- Tell us a little about your lyrics
+- How has it been working with the Fly My Pretties collective
+- What is your intention when making music?
+- What are your future plans
+- Ills Winter
+- How did you get into music
+- Where does the name “Ills Winter” come from?
+- How would you describe Duchess of Whispers?
+- Bailey Wiley
+- How did you get into music?
+- How do you find performing and singing your lyrics
+- What is it like being a female artist in the music industry? Has this had any impact on your work?
+- Who or what inspires you, both musically and lyrically
+- How do you find performing and singing rather personal lyrics
+- What is your intention when making music
+- What are your future plans
+- How has it been working with the Fly My Pretties collective
+- What are your future plans
+- Now That’s What I Call Debt
+- My Favourite Albums Of 2016 (So Far)
+- 4. Anderson .Paak – Malibu
+- 2016’s Best TV Shows
+- Narcos Season Two
+- And the Oscar goes to... who?
+- A Massive, Filthy, Furious Brexit Rant
+- SEX, DRUGS & ELECTORAL ROLLS
+- Post-scripts, Postludiums, and Electoral Post-Mortems
+- The Last Column
+- We Need to Talk About the Clowns
+- the people to blame.
+- Editors
+- Subeditor
+- Designer
+- Section Editors
+- Cover Artist
+- Writers
+- Artists
+- Contributor of the Week
+- Editorial Office
+- Advertising
+- facebook.com/CraccumMagazine twitter.com/CraccumMag www.craccum.co.nz
+- 360° Auckland Abroad
+- Get Organised, Study in Style
+
+
+## 2017
+
+### [Issue 01 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-01-2017.pdf)
+- Catriona Britton
+- **La La Land: The University Edition**
+- “European Students Association” Given O-Week Stall
+- By Eloise Sims
+- Safe Zone Returns For O-Week
+- By Michael Calderwood
+- OGGB Parking Fees More Than Double
+- By Nikki Addison and Eloise Sims
+- English Down, Winston Up: We Officially Live In 2003
+- By Jack Gradwell
+- **Activism Abroad**
+- WHAT ARE YOU STUDYING AT AUCKLAND UNI, AND WHY DID YOU CHOOSE UCB?
+WHAT WAS IT LIKE BEING IN THE US—AND PARTICULARLY IN UCB—WHEN DONALD TRUMP WAS INAUGURATED? AND HOW IS IT - NOW?
+WHAT IS THE GENERAL MOOD ON CAMPUS TOWARDS THE PROTESTORS? ARE THEY SEEN AS ANARCHIST TROUBLEMAKERS, OR MORE - HEROIC FIGURES?
+- HOW DOES LIVING IN THE US RIGHT NOW COMPARE TO NEW ZEALAND?
+- NEWS
+- Corrections Charges Close To $10,000 for Official Information Act Request
+- By Laura Kvigstad
+- 54% Of Kiwis Are Pro-Choice
+- By Eloise Sims
+- COMMUNITY
+- **WHAT DO YOU PLAN ON DOING TO HONOUR TE TIRITI Ō WAITANGI IF YOU’RE ELECTED INTO GOV-ERNMENT?**
+- WHAT DO YOU THINK IS THE BIGGEST ISSUE WE’RE FACING RIGHT NOW?
+- The Truth On Racism In Aotearoa
+- Auckland Pride Parade 2017
+- Shakti New Zealand
+- What’s On
+- Party in the Park with Marshmello
+- Auckland Safe Zone
+- Frankie Cosmos at REC
+- Auckland Fringe Festival
+- Guide To... Surviving Uni
+- Top 5... Coffee Places Near UoA
+- eighthirty | 35 High St
+- Federal Delicatessen | 86 Federal St
+- Miller’s | 31 Cross St
+- Scarecrow | 33 Victoria St
+- Craven ‘A’ | 4 Saint Paul St
+- Thy eternal summer shall not fade
+- CAN YOU DESCRIBE YOUR PRODUCTION IN ONE SENTENCE?
+- WHO DO YOU PLAY? WHAT DO YOU LIKE/DISLIKE ABOUT YOUR CHARACTER?
+- TALK ABOUT AS YOU LIKE IT. WHY IS IT IMPORTANT, WHAT DO YOU LIKE ABOUT IT?
+- WHAT DO YOU LIKE BEST ABOUT YOUR VERSION OF
+- ANYTHING SPECIAL YOU CAN TELL US ABOUT?
+- WHAT’S IT LIKE PERFORMING OUTDOORS, IN AN AUCKLAND SUMMER?
+- HOW DO YOU FEEL ABOUT SHAKESPEARE, AND WHY?
+- WHAT DO YOU THINK SHAKESPEARE WOULD BE DOING IN TODAY’S TIMES?
+- FAVOURITE AS YOU LIKE IT QUOTE?
+- AND FINALLY, WHY SHOULD PEOPLE COME SEE SUMMER SHAKESPEARE’S AS YOU LIKE IT?
+- As You Like It runs from the 14 th –11 th March 2017. Student tickets are $20, with ID.
+- Unichem Campus Pharmacy
+- Interview by Eloise Sims
+- **SO WE DID A BIT OF RESEARCH, AND WE NOTICED THAT STUFF CALLED YOU THE KIWI JOHN OLIVER— DID YOU FEEL A BIT - STOKED ABOUT THAT?**
+- WHAT A DUDE.
+- YOU REMEMBER EXACTLY WHERE YOU WERE AT THE HISTORIC MOMENT JOHN CAMPBELL REPLIED TO YOU.
+- WHAT DO YOU ATTRIBUTE THAT SUCCESS WITH YOUR NEW STUFF TO?
+- IT SAYS A LOT ABOUT HOW MANY PEOPLE NEED THAT ECONOMICS 101 CLASS.
+- IN A WORLD WHERE TRUMP IS A REAL AND TERRI-FYING THING—
+- “Sincerity is coming back into fashion. Everyone’s getting a bit tired of sarcastic, ironic, smug people.”
+- THAT SOUNDED LIKE AN AVRIL LAVIGNE QUOTE.
+- IT’S THAT AVRIL LAVIGNE IS THE NEW CHRIST?
+WELL, LIKE OUR VERY OWN CHLÖE SWARBRICK UP IN AUCKLAND. IS IT CHALLENGING THE WHOLE IDEA THAT POLITICIANS - ARE TERRIBLE IDIOTS?
+- SO ARE YOU IN FACT LIVING PROOF THAT STUDY-ING AT AUCKLAND CAN ACTUALLY GET YOU A JOB?
+- THIS IS GOING TO GIVE EVERYONE AT AUCKLAND UNI SO MUCH HOPE.
+LIVE YOUR LIFE. IMAGINING TIME, BUDGET AND SO ON WASN’T AN ISSUE, WHAT IS THE NUMBER ONE THING YOU’D LIKE - WHITE MAN BEHIND A DESK TO COVER?
+- NEITHER.
+- WHAT CAN WE EXPECT FROM WMBAD IN 2017?
+- WE’VE HAD NOWHERE NEAR ENOUGH WITH BILL ENGLISH.
+- BUT ALSO, OF COURSE, YOU HAVE TO COVER THE ELECTION!
+- SO MOVING ON—CAMERON SLATER. LET’S JUST TALK ABOUT CAMERON SLATER AND YOUR LOVE FOR HIM.
+- JUST LET IT RIP.
+- IS THAT THE NEXT BIG THING FOR WMBAD? FINALLY MEETING CAMERON SLATER FOR A HUG?
+- I WANT TO ARRANGE THIS.
+- DEAR CAMERON SLATER, YOU ARE ENOUGH.
+- A satire by Malinna Liang
+- Melania & The Star-Spangled Ban-Non
+- Amateur Hour
+- Rhapsodising and Taxonomising
+- How to Talk About Sport
+- The Blues To Not Do Too Badly (Maybe)
+- The Year Ahead
+- The Warriors To Make The Top 8 (Maybe)
+- By Popular Demand
+- An Introduction
+“...works destined to exist in the popular culture space tend to slip under the radar of higher-level - discussion.”
+- Quarter-Life Crisis
+- Self-Examination and Public Masturbation
+- Don’t run across my lawn! My life is full of regret
+- MOONLIGHT HAD ACTUALLY WON BEST PICTURE
+- Through the smoke and past the mirrors
+- ARTS SPOTLIGHT
+- Songs to soothe our existential pain
+- The equiTy Office – Te ArA TAuTikA
+- **About U**
+- The Orbiting Human Circus (of the Air)
+- Mimicry
+- Revolt. She Said. Revolt Again.
+- Are You Sure?
+- Issue One Quiz
+- Easy (one point)
+- Medium (two points)
+- Hard (three points)
+- Herald’s Heroes
+- the people to blame.
+
+### [Issue 02 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-02-2017.pdf)
+- Catriona Britton
+- Out, out, brief candle
+- **University Staff To Strike on March 13th**
+- Police Investigate Burger King Assault
+- Forget Salt and Vinegar—Let’s Talk About Computer Chips
+- **Foreign Investors Versus Graduate Students: The Fight For a Home**
+- NEWS
+- **Conservatives in Conserva-Tiff with DebSoc**
+- Business School Gets $2.6 Million Investment
+- **The AUESA Scandal: A Reflection**
+- Is Blood Thicker Than Prejudice?
+- Fast Fashion: Quitting The Habit
+- How can I reduce my impact?
+- Vote for fair working conditions with your dollar:
+- Charity/Organisation Of The Week:
+- HELP
+- Art+Feminism Wiki Edit-a-thon
+- What’s On
+- Thelma and Louise
+- As You Like It
+- The Encounter
+- Power Plant
+- Guide To... Free Things to Do in AKL
+- Textbook Tips & Tricks
+- The Boat That Rocked a Union
+- Out of left field?
+- Amateur Hour
+- Trying to Fill the Charisma Gap
+- Recommendations
+- How to Talk About Sport
+- The Black Stats
+- By Popular Demand
+- Ode to Pokémon: Pokémon as a Product of Post-War Japanese Trauma
+- Quarter-Life Crisis
+- **Risky Business**
+- Running for cover: a list of lies valid excuses to get you out of any situation With Anoushka Maharaj
+- **Wake Up, You Need to Make Money**
+- Words By Yasmin Brown
+- “Don’t Fuck With Our Dreams” — The Smith Street Band
+- “Nobody Really Cares If You Don’t Go to the Party” — Courtney Barnett
+- “Even My Dad Does Sometimes” — Ed Sheeran
+- “I’m Not Okay (I Promise)” — My Chemical Romance
+- “Hold Me Down” — Halsey
+- “Viper Strike” — Highly Suspect
+- “Could Be Worse” — Lower Than Atlantis
+- “Alphabet Boy” — Melanie Martinez
+- “Art School Wannabe” — Sorority Noise
+- “Ode To Sleep” — twenty one pilots
+- “Free” — Broods
+- Give ‘em the ol’ razzle dazzle
+- Words By Rachel Buckman
+- Sweet/Vicious
+- Riverdale
+- Logan
+- Whareama — Moses
+- T2 Trainspotting
+- Their Finest
+- EASY SUDOKU
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- the people to blame.
+- Lighten Your Load
+
+### [Issue 03 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-03-2017.pdf)
+- Catriona Britton
+- Being mind-full
+- Actually—It’s Also a Woman’s Job
+- Not Just Aunty Helen With Better Hair
+- Generation Z—A Conservative Shift?
+- Prisoner Tied To Bed For 37 Nights In Paremoremo
+- NEWS
+- Domestic Violence Bill Passes First Reading
+- **“Racist” Flyers Dropped In Auckland Letterboxes**
+- Living The Dream: Smashed Avo In Feilding
+- Cordiality, Chris Hipkins, And Copious Bodily Harm: The DebSoc Debate
+- COMMUNITY
+- **In Conversation With: Winston Peters**
+SO I GUESS I’LL START WITH WHAT’S MOST REL-EVANT TO OUR READERS. WHAT POLICIES DOES NEW ZEALAND FIRST HAVE - IN PLACE TO HELP STUDENTS?
+- WHAT DO YOU THINK OF BILL ENGLISH’S DECISION TO ABOLISH THE POSITION OF HOUSING MINISTER?
+ARE THERE ANY MISCONCEPTIONS SURROUNDING YOUR PARTY THAT YOU’D LIKE TO CLEAR UP—WHAT WOULD YOU LIKE - POTENTIAL VOTERS TO KNOW ABOUT NEW ZEALAND FIRST?
+- LET’S SAY YOU BECOME PRIME MINISTER THIS ELEC-TION—WHAT’S THE FIRST ISSUE THAT YOU’D WANT TO ADDRESS?
+- WOULD YOU COMMENT ON WHAT YOU THINK OF DONALD TRUMP?
+- DO YOU HAVE ANY FINAL WORDS FOR OUR READ-ERS?
+- An Open Letter To The UNICEF Guy: Thanks For The Guilt Trip
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- Arcee Rapper’s Single Release Party
+- Beer Yoga
+- ANTARCTICA - while you were sleeping
+- Horror
+- Guide To... Autumn Fashion Trends
+- Dancing Till Dawn: Boogie Spots in Auckland
+- Fashion on Campus
+- I Carry Your Boners With Me (I Carry Them In My Heart)
+- S: WE REALLY LOVE BONERS OF THE HEART. HOW DID THE PODCAST COME ABOUT?
+- R: I MEAN, YOU’RE IN THE MILK SKETCHES, SO—
+- R: DON’T DOWNPLAY IT.
+- S: WHICH IS GREAT, FOR US. WE’RE REALLY GLAD.
+- S: “THIS IS GOING TO BE GOOD CONTENT.”
+- R: “WHY AREN’T WE RECORDING RIGHT NOW?!”
+- R: BUT YOU CAME BACK TO THE BONERS OF THE HEART FORMAT FOR SEASON THREE?
+- R & S: YEAH.
+- R: AND THEN SO YOU CAME BACK HERE—
+- R: RIGHT.
+- S: YEAH, NICE. I THINK WE’RE ALL AFTER A GOOD SLEEP IN.
+- R: HE’S PRETTY MAINSTREAM.
+- R: WOULD YOU LIKE TO TELL US THE STORY BEHIND MIKE MCROBERTS?
+- R: THIS WASN’T AFTER HE WAS RUNNING THE AUCKLAND MARATHON?
+- R: WOULD YOU LIKE TO GIVE US A WOMAN?
+- **Educating minds**
+- Welcome back to uni folks!
+- WE MADE IT THROUGH O WEEK!
+- Andrew’s Lifelong Labour of Love
+- Amateur Hour
+- Youth, Life and the Big Shitty
+- How to Talk About Sport
+- racetrack trying to become a horrible struggling ok
+- By Popular Demand
+- Ode to Harry Potter: How J.K. Rowling Weaponises Her Creation
+- Quarter-Life Crisis
+- I Promise I’m Not Crazy, Would You Like A Ginger Slice?
+- Bitches get stuff done
+- We are never, ever getting back together
+- Words by Yasmin Brown
+- John Tucker Must Die
+- She’s The Man
+- 13 Going on 30
+- Bridget Jones’ Diary
+- Forgetting Sarah Marshall
+- Hidden Figures
+- All Bi Myself
+- YOU GUYS HAD A MOSTLY FEMALE CAST AND CREW. THAT’S PRETTY BADASS.
+- FAVOURITE MOMENT ON SET?
+- WHAT WERE SOME OF THE DIFFICULTIES YOU ENCOUNTERED DURING THE PRODUCTION OF ALL BI MYSELF?
+- YOU PRODUCED THE SERIES FOR YOUR MASTERS OF SCREEN PRODUCTION. WHAT WAS THAT EXPE-RIENCE LIKE?
+THE SERIES’ INCORPORATION OF TECHNOLOGY IS REALLY CLEVER. WAS THIS SOMETHING YOU WANTED TO SPECIFICALLY DRAW - ATTENTION TO?
+- YOUR FIRST EPISODE IS NOW LIVE. WHAT’S THE FEED-BACK BEEN LIKE SO FAR?
+- THE SECOND EPISODE COMES OUT IN APRIL. ARE YOU PLANNING TO CONTINUE WITH THE SERIES AFTER THAT?
+- AND WHAT ARE YOUR NEXT STEPS, NOW YOUR MA IS OVER?
+- Lighten Your Load
+- A not-so-comical look at the origins of Riverdale
+- Words by Daniel Vernon
+- Third of May / Ōdaigahara
+- Horizon: Zero Dawn
+- Thank God for Jokes
+- “Bad and Boujee”
+- “Shape of You”
+- “Something Just Like This”
+- “That’s What I Like”
+- “Greenlight”
+- Kisses and Quizzes
+- We offer free support, advice and information to all students.
+- the people to blame.
+
+### [Issue 04 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-04-2017.pdf)
+- Catriona Britton
+- In Virginia, high school football is a way of life
+- The Family Carers Case Resurfaces
+- AULSS Seeking Sign-Ups From First-Year Law Students
+- **“I Have A Dream To Be Worse Than Hitler” Says AUT European Students Association Prez**
+- NEWS
+- Half of all Aucklanders blame Asian investors for housing prices
+- 1200 Teachers Strike For Fair Pay At UoA
+- Ketamine—Party Drug to Antidepressant?
+- COMMUNITY
+- An American In Auckland
+- **Policy vs. The Politician**
+- CHARITY/ORGANISATION OF THE WEEK
+- Lighten Your Load
+- The Rebirth of Māori Representation in Pop Culture
+“...it can be downright exhausting to see such prominent Māori entertainers lay to waste an exciting new - platform with century-old problems.”
+- Satellites, Pie-endulums, and Everything In Between
+IF THIS INTERVIEW AND THE SHOW HASN’T GIVEN IT AWAY ALREADY, YOU’RE A SCIENCE COMMUNICATOR! WHAT DO YOU FIND - TO BE THE MOST REWARDING ABOUT THIS?
+- ESPECIALLY IF PEOPLE DON’T HAVE THE TECHNICAL BACKGROUND, IT’S STILL JUST INCREDIBLE TO HEAR ABOUT.
+- HAVE YOU ALWAYS BEEN THIS INTERESTED IN SPACE SCIENCE?
+- YEAH AND I GUESS NOT MANY PEOPLE THINK THAT ART AND SCIENCE CAN BE COM-BINED LIKE THAT!
+- CAN YOU TELL US A LITTLE ABOUT THE SOLAR ORBITER PROJECT THAT YOU’VE BEEN WORKING ON?
+- IT MUST BE AMAZING TO BE A PART OF THAT!
+ON THE SUBJECT OF STARS, HAVE YOU CONSIDERED WORKING ON ANY RESEARCH RELATING TO THE NEWLY DISCOVERED - TRAPPIST-1?
+YEAH, IT’S REALLY EXCITING TO SEE WHERE THAT’S GOING TO GO—IF WE GET ALL OF THAT INFORMATION IN OUR LIFETIME - AS WELL!
+- WHAT’S BEEN YOUR FAVOURITE PROJECT TO DATE?
+- THAT DEFINITELY SOUNDS WORTH IT DESPITE THE NOCTURNAL LIFESTYLE!
+YEAH, THE UNIVERSITY OF AUCKLAND IS JUST ABOUT TO LAUNCH A PROPOSAL PRO-GRAMME FOR DESIGNING A MISSION FOR A - CUBESAT.
+- YEAH! AND ACTUALLY THE WINNING PRO-POSAL GETS TO GO ON AND BUILD IT AND LAUNCH IT!
+- rewards
+- AUSA REWARDS IS HERE!
+- FREE SOFT DRINK WITH EVERY MAIN ORDERED
+- FREE UPSIZE ON COMBO 1-12
+- 50% OFF DELIVERY
+- 40% OFF GENERAL DENTAL
+- 10% OFF DENTAL TREATMENT
+- NEW USERS RECEIVE A FIRST FREE TRIP UP TO THE VALUE OF $20
+- LIFESTYLE
+- What’s On
+- Hungry for Punk
+- Carmen with L’Arlésienne
+- Bailey Wiley x Miloux Single Release Party
+- Four Days of Fashion
+- The Raw Comedy Quest
+- Little Bird Unbakery
+- Dealing with Stress
+- Search and Destroy
+- Whangaparaoa Salvation Army
+- Helensville Hospice
+- Dominion Road Salvation Army
+- Albany Hospice
+- Are we already ghosts before we die?
+- An interview with Josh Thomson from Gary of the Pacific
+YOU’VE WORKED WITH THE DOWNLOW CONCEPT BEFORE. DID THEY JUST CALL YOU UP AND ASK IF YOU WANTED TO PLAY GARY? - OR WAS THIS DECIDED LONG BEFORE?
+- WHAT IS GARY LIKE?
+- DO YOU LOVE ANYTHING ABOUT GARY?
+- IF YOU COULD PLAY ANY OTHER CHARACTER IN THE FILM, WHO WOULD IT BE?
+- I CAN IMAGINE IT WAS A GREAT TIME ON SET.
+- DID YOU FIND YOURSELF DRIFTING FROM THE SCRIPT WHILE FILMING?
+- THERE ARE A COUPLE OF CRINGE/AWKWARD MOMENTS IN THE FILM. WHAT WAS THE MOST AWKWARD FOR YOU TO FILM?
+- ARTS REVIEWS
+- The Salesman
+- Amy Schumer: The Leather Special
+- Rostered On
+- It’s Always Sunny in Philadelphia, Season 12
+- The Body Laid Bare: Masterpieces from Tate
+- FICTION
+- RECOMMENDATION
+- NOTABLE
+- POPULAR CULTURE
+- RECOMMENDATION
+- NOTABLE
+- POLITICS
+- RECOMMENDATION
+- NOTABLE
+- DOCUMENTARY
+- RECOMMENDATION
+- NOTABLE
+- INTERVIEWS
+- RECOMMENDATION
+- NOTABLE
+- We offer free support, advice and information to all students.
+- Amateur Hour
+- Stuff You
+- How to Talk About Sport
+- Super (average) Rugby (format): An Open Letter to SANZAAR
+- By Popular Demand
+- Ode to Night Vale: How Welcome to Night Vale Combats Depression
+- Quarter-Life Crisis
+- Dirty Old Town
+- Party for 24 hours straight.
+- Hey, are you going to B’s birthday party?
+- EASY SUDOKU
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- MEDIUM (TWO POINTS)
+- HARD (THREE POINTS)
+- the people to blame.
+
+### [Issue 05 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-05-2017.pdf)
+- Catriona Britton
+- Water we doing?!
+- **Anti-Fascism Group Forms On Campus**
+- **Māori Party Surge In Polls**
+- Law School Gender Report Raises Concerns of Sexist Rhetoric
+- NEWS
+- Down in the Drumpfs
+- COMMUNITY
+- **In Conversation With: James Shaw**
+SO WHILE YOU WERE LIVING OVER IN LONDON, HOW DID YOU FIND LOCAL POLITICS IN LONDON COMPARED TO LOCAL - POLITICS HERE?
+DURING THE ELECTION, HOW DOES THE GREEN PARTY PLAN TO EXPAND ITS VOTER BASE WITH-OUT JUST POACHING VOTERS - FROM LABOUR?
+HOW WOULD YOU RESPOND TO THE PERCEPTION THAT HAVING A COALITION GOVERNMENT ISN’T AS STRONG AS A SINGLE-PARTY - GOVERNMENT?
+- DID YOU CONSIDER NOT STANDING CANDIDATES IN ANY OTHER ELECTORATES?
+DO YOU THINK THERE WOULD BE ANY CIRCUM-STANCES WHERE YOU COULD WORK WITH NA-TIONAL SO THAT THERE IS AT LEAST - SOME INPUT FROM AN ENVIRONMENTAL PARTY?
+WHERE DO YOU SEE THE FUTURE OF THE GREEN PARTY? YOU’VE MOVED AWAY FROM YOUR ACTIVIST ROOTS AS YOU’VE BECOME - MORE MAIN-STREAM—HOW DO YOU SEE THAT DEVELOPING?
+- Fighting Prejudice: It Starts With You
+- By Danielle Parshotam
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- Caravãna Sun
+- Ben & Jerry’s Free Cone Day
+- Anzac Eve
+- Weave
+- Chromacon
+- Bee Aware
+- By Grace Hood-Edwards
+- Pita Bread Pizza
+- TOP 5... Vegan Eats
+- Misters
+- 12 WYNDHAM STREET
+- Lord of the Fries
+- Il buco
+- Revive Cafe
+- Giapo
+- HOW TO MESS UP YOUR LIFE
+- DRINKING
+- TOBACCO
+- DANCING
+- FLIRTING
+- Kia ora!
+- AUSA’S Eggcellent Easter
+- This house supports raising the superannuation age to 67 by 2031
+- Affirmative
+- Negative
+- All Codes Lead to Rome
+- Liberal snowflakes are melting in the street*
+- A Potted, Truncated, Brief, and Probably Just Oversimplified and Incorrect History of Irony-on-TV
+- Lighten Your Load
+- ARTS REVIEWS
+- Peer Gynt [recycled]
+- The Weight of These Wings
+- Power Rangers
+- Dave Chappelle Netflix Comedy Specials
+- Mass Effect: Andromeda
+- The Most Banging Episodes of Buzzfeed Unsolved
+- 5. The Spirits of the Whaley House
+- 4. The Bizarre Toxic Death of Gloria Ramirez
+- 3. The Chilling Exorcism of Anneliese Michel
+- 2. The Strange Disappearance of D.B. Cooper
+- 1. The Mysterious Disappearance of the Sodder Children
+- ARTS SPOTLIGHT
+- Jackie Chan Is Not My F*cking Dad
+- Chungking Express (1994)
+- Yi Yi (2000)
+- One Million Yen Girl (2008)
+- Ten Years (2015)
+- Handmaiden (2016)
+- Wired In
+- Getting the Party Started
+- How to Talk About Sport
+- Backing the Black Craps
+- By Popular Demand
+- Ode to Portal: How Portal Counters Our Growing Algorithmic Culture
+- Quarter-Life Crisis
+- I Said Yes!
+- EASY SUDOKU
+- MEDIUM (TWO POINTS)
+- the people to blame.
+- Baileys Women’s Prize for Fiction
+
+### [Issue 06 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-06-2017.pdf)
+- Catriona Britton
+- What is it with chicks and horses, huh?
+- Auckland Motels Given $1.3 Million To House Homeless
+- **Greens Propose “Public Interest” Journalism Fund**
+- Massey Professor In The Fight Against Superbugs
+- Scott Kuggelejin Selected for Black Caps Squad After Rape Trial
+- Sex Ed In Schools Audited After Wellington College Scandal
+- **“Academics Pressured To Ignore Cheating”—Survey**
+- UoA Football’s Promising Pre-season
+- Sweaty Fingers and Chocolate Dildos: The MCC Debate
+- In Conversation With: RainbowYOUTH
+- CAN YOU TELL US A BIT ABOUT THE ORGANISA-TION AND WHAT YOU GUYS DO?
+2017 IS AN ELECTION YEAR. WHAT KIND OF POLI-CIES WOULD YOU LIKE TO SEE POLITICAL PARTIES PUT IN PLACE TO - SUPPORT MEMBERS OF THE RAINBOW COMMUNITY?
+- WHAT ARE SOME OF THE INITIATIVES AND SER-VICES THAT RAINBOWYOUTH PROVIDES THAT YOU ARE MOST PROUD OF?
+- WHAT ARE SOME WAYS OUR READERS CAN SUP-PORT RAINBOWYOUTH?
+- WAYS TO SUPPORT RAINBOWYOUTH
+- **We Should All Be Feminists**
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- Mary Poppins
+- Waiheke International Jazz Festival
+- Record Store Day
+- Safari Night
+- Vegan Food Fair
+- **Making the Most Out of Uni**
+- Peanut Butter Brownie Sandwiches
+- Fight the Flu!
+- Fashion on Campus
+- Gig Venues
+- The Wine Cellar
+- Studio The Venue
+- Kings Arms Tavern
+- Shadows
+- A Peak Behind the Curtain
+- Got a legal problem e.g. Tenancy or Employment?
+- **This House Supports Jacinda Ardern for Labour Leader in the 2017 Election**
+- Affirmative
+- Negative
+- THE PLAYBOY THAT WANTS TO SETTLE DOWN
+- Arts Editorial Damn it! I can’t find my driving moccasins anywhere!
+- I’m Sorry, We Didn’t Get Chinese Takeaway
+- BEFORE WE START, DID SOMEONE ACTUALLY SAY “I’M SORRY, WE DIDN’T GET CHINESE TAKEAWAY” TO YOU AT A SHOW?
+- WERE YOU INVOLVED WITH THE INDEPENDENT MUSIC SCENE ALREADY BEFORE BEING SENT TO NEW ZEALAND?
+- WHAT WERE YOUR FIRST THOUGHTS LANDING IN AUCKLAND? WAS IT COMPLETELY DIFFERENT TO MALAYSIA?
+- TELL ME A BIT ABOUT YOUR BACKGROUND.
+- WHAT WAS THE FIRST GIG YOU WENT TO? DID IT FEEL DIFFERENT GOING TO ONE IN A FOREIGN PLACE?
+- SO DID IT BECOME A MORE INCLUSIVE SPACE FOR PEOPLE OF COLOUR OVER TIME?
+I’VE ALWAYS FOUND THAT THE CROWD THAT GO TO GIGS LOVE TO OBJECTIFY ASIAN CULTURE. WERE THERE INSTANCES WHERE - YOU’VE FELT THAT WAY TOO?
+- SO YOU’VE BEEN AROUND FOR A WHILE IN THE MUSIC SCENE, WHAT CAN YOU CONCLUDE FROM IT?
+- Lighten Your Load
+- Adele Live
+- Beauty and the Beast
+- Life
+- Legion
+- Rick and Morty: Season Three, Episode One
+- Missing Richard Simmons
+- Turn up the volume!
+- CAN YOU GIVE A BRIEF DESCRIPTION ABOUT WHAT THE VOLUME EXHIBITION SHOWCASES?
+- WHAT’S SO IMPORTANT ABOUT HAVING THIS KIND OF EXHIBITION?
+- WHAT HAS YOUR ROLE BEEN WITH CREATING THE EXHIBITION AND WHAT HAS IT ENTAILED?
+- HOW LONG WAS THE PROCESS OF CREATING THIS EXHIBITION FROM INITIAL IDEA TO THE END PRODUCT?
+- WHAT DO YOU THINK WAS THE MOST CHALLENG-ING PART OF THE PROCESS?
+- WHAT WAS THE REACTION FROM NEW ZEALAND MUSICIANS YOU APPROACHED? WERE THEY COOPERATIVE?
+- DO YOU KNOW IF ANY MUSICIANS HAVE DO-NATED THEIR OBJECTS PERMANENTLY TO THE MUSEUM?
+- HOW IMPORTANT HAS THE ELEMENT OF AU-DIENCE-OBJECT INTERACTION BEEN IN THIS EXHIBITION?
+- THIS IS A PRETTY LOADED QUESTION, BUT WHAT SETS NEW ZEALAND MUSIC APART FROM THE REST OF THE WORLD?
+WHAT ERA OF NEW ZEALAND MUSIC DO YOU CONSIDER THE MOST INFLUENTIAL IN SHAPING WHO WE ARE TODAY, BOTH - CULTURALLY AND MUSICALLY?
+- WHAT IS YOUR HOPE FOR CONTINUING TO SHOW-CASE OUR MUSIC HISTORY ONCE THIS EXHIBITION HAS ENDED?
+- WHAT NOT TO DO IN A CAFE
+- BY ALANA MISSELBROOK
+- FIONA’S FEATURES
+- **Taiwanese and New Zealand Students Association**
+- **Education and Social Work Students Association**
+- University of Auckland Glee Club
+- WHAT’S GOING ON AT AUSA?
+- We need a new Administrative Vice President!
+- AUSA’s Eggcelent Easter!
+- Are you a budding writer?
+- Contribute to Queer Craccum!
+- Do you want to be a part of Kate Magazine?
+- AUSA REWARD SPOTLIGHT
+- 50% off at Player’s Paradise
+- Wired In
+- How to Talk About Sport
+- 1 Actual typo on the Super Rugby website.
+- 3 Because a waratah is a flower, geddit?
+- Amateur Hour
+- Quarter-Life Crisis
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- the people to blame.
+- We have moved! (Downstairs)*
+
+### [Issue 07 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-07-2017.pdf)
+- SHAPE YOUR CAREER SHAPE OUR CITY
+- Catriona Britton
+- **Channels of Change**
+- NZ News Junkies More Likely To Be Islamophobic—Study
+- **“Tertiary Education A Financial Struggle For Many”— NZUSA Report**
+- Pharmac Refuses To Subsidise Tampons and Pads
+- UOA Charging $570 For Med School’s Email Access
+- World Politics Wrap Up
+- **So, who votes for these guys anyway?**
+- National: Old, rich and white?
+- Labour: Godless feminists? The working class?
+- NZ First: Old, white and racist?
+- Green: The party of poor students?
+- Public or Private: What Should Parents Choose?
+- “So bad, even introverts are here”—Science Marches Held Around The World
+- Thanks, but no thanks!
+- Introducing: Robogals
+- CHARITY/ORGANISATION OF THE WEEK
+- Upcoming Community Events
+- What’s On
+- Devising Group
+- NZ International Comedy Festival 2017
+- Dance-O-Mat
+- Down to Clown
+- Surviving Winter
+- How to Make Choice Cheese Rolls
+- Method
+- VITALI-TEA
+- Jason’s Books
+- 16 O’CONNELL ST
+- Hard to Find Books
+- Dominion Books
+- UNDER COVER: UNCOVERING THE NZSAS
+- Helping you look after
+- SLASH AND BERM
+- PREVENTING BERMICIDE
+- Cheap Laughs
+- BEST UNDER $15
+- Melanie Bracewell
+- James Roque
+- BEST UNDER $20
+- Angella Dravid
+- Scott W Long
+- TELL ME ABOUT YOUR SHOW.
+- WHY DID YOU START DOING STAND-UP?
+- DID YOUR FIRST GIG GO WELL?
+- BEST UNDER $25
+- The Fan Brigade
+- Rhys Mathewson
+- HOW DID YOU GET YOUR START IN COMEDY?
+- WHY IS YOUR SHOW CALLED RHYS CLASSIC?
+- WHAT’S RHYS CLASSIC ABOUT?
+- IS IT GOING TO BE POLITICAL?
+- THAT'S WHAT JIMI JACKSON IS.
+- YOU WON THE FRED AWARD LAST YEAR; ARE YOU HOPING FOR A REPEAT?
+- HOW WAS YOUR EXPERIENCE AT THE UNIVERSITY OF AUCKLAND?
+- YOU'VE SPENT TIME OVERSEAS. DO YOU THINK YOU'LL STAY IN NEW ZEALAND NOW?
+- HOW LONG DO YOU THINK IT WILL TAKE NEW ZEALAND TO GET TO THAT LEVEL?
+- INTERNATIONAL ACTS
+- I would give my life for Baby Groot: A note to the galactic empire that will inevitably detain me in future
+- Drowned in Moonlight, Strangled By My Own Bra: A Belated Love Letter to Carrie Fisher
+- She gave us the gift of Gary Fisher
+- Emotional Creature: The Secret Life of Girls around the World
+- The Fate of the Furious
+- Doctor Who: Series 10, Episode 1
+- Suck
+- A Longform Review: Colossal
+- Pride Week!
+- Do You Need Urgent Dental Care?
+- Wired In
+- By Popular Demand
+- Ode to Hamilton Part I: How to Build Ideas Through Music
+- Amateur Hour
+- A Man Says a Thing About Feminism
+- Quarter-Life Crisis
+- Gone Girl
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- the people to blame.
+- International students don’t forget your spectacle allowance!
+
+### [Issue 08 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-08-2017.pdf)
+- WORLD ON SALE
+- Guest Editorial
+- **AUT Introduces All–Gender Toilets**
+- Winston Said Something Racist Again, Take A Shot
+- **Budget Cuts Crippling Youth Mental Health Support**
+- **Waikato Uni Slashing Humanities Staff**
+- So What The Fuck Is Really Going On? Trump’s Syrian Foray
+- Rainbow Bridge
+- Rainbow Resources On Campus
+- FURTHER INFORMATION
+- CHARITY/ORGANISATION OF THE WEEK
+- Upcoming Community Events
+- What’s On
+- West Side Story
+- Urzila Carlson
+- The Comedy of Errors
+- The Body Laid Bare
+- Being LGBTQ+ at Auckland Uni
+- How to Make a Rad Rainbow Cake
+- Method
+- The Literal Closet
+- Proud Purchases
+- Family Bar
+- The Eagle Bar
+- Caluzzi Bar and Cabaret
+- Twist Club
+- Encore Entertainment
+- HOT LESBIANS IN ADS ARE SLOWLY KILLING US
+- FOR (STRAIGHT) WOMEN: “HOT LESBIANS” ARE JUST A FASHION
+- HEY, MEDIA! STOP IT! THAT’S ENOUGH!
+- THE UNSEEN TEENAGERS
+- SILENCE MAY NOT BE GOLDEN
+- EQUITY OFFICE – TE ARA TAUTIKA
+- Restricting the Rainbow
+- If I want to be Senator by the time I’m 30, I’ve got to stop dicking around!
+- The Rise of LGBTQ+ Issues in Mainstream Music
+- Heart Basel
+- HUMANZ
+- Personal Shopper
+- Persona 5
+- Pride Week Film Recommendations
+- The Way He Looks
+- Imagine Me and You
+- The Handmaiden
+- Big Eden
+- Wired In
+- On an Island in the Sun
+- By Popular Demand
+- Ode to X-Men: HowX-Men Portrays Social Change
+- Amateur Hour
+- Anxiety Type 2: Geo-Political (etc.)
+- Anxiety Type 3: Global
+- How to Talk About Sport
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- MEDIUM (TWO POINTS)
+- HARD (THREE POINTS)
+- Herald’s Heroes
+- Baby’s bottom sudoku
+- the people to blame.
+- Mum hard to impress?
+
+### [Issue 09 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-09-2017.pdf)
+- Catriona Britton
+- The Name’s Hole, Ass Hole
+- _ win a pair of _ SNAPCHAT SPECTACLES
+- NEWS
+- World Politics Wrap
+- AUSTRALIA
+- UNITED KINGDOM
+- SOUTH KOREA
+- FRANCE
+- Government Purchases Four Submarine-Killer Planes
+- Tinder: Helping UoA Students Cope With Loneliness?
+- On Santa, Penguins, Global Warming, Russian Submarines, Donald Trump and... You
+- UoA Football: The Mid-Season Roundup
+- **New Zealanders Take a Stand Against Homelessness**
+- **Student Advocacy Network 2017**
+- **Seek, Receive and Impart: The State of Free Speech in New Zealand**
+- Finding Sanctuary With Animals
+- What’s On
+- Ha the Unclear
+- Jordan Luck Band
+- Poparazzi Quiz
+- 2017 Official Music Month Summit
+- 90’s Club Night
+- Having a Successful Night Out
+- The Best Crumble Ever
+- Alcoholly
+- Seasonal Sweet-things
+- Fashion on Campus
+- Te Henga Walkway
+- Mercer Bay Track
+- Mt Tamahunga
+- Wairoa Loop Track
+- Tiri Tiri Track
+- DONALD TRUMP ALWAYS STARTS FIVE SENTENCES AT ONCE (And Other Wisdoms For The Aspiring Writer)
+- THE POLITICS OF LOVE
+- Do You Need Urgent Dental Care?
+- A GUIDE TO THE AUCKLAND WRITERS FESTIVAL
+- Not All White People *
+- Bondage: A Tricky Dilemma
+- Tom Hardy
+- Charlie Hunnam
+- Tom Hiddleston
+- Idris Elba
+- James McAvoy
+- Morningside
+- In Transit
+- Dislawderly
+- Everybody
+- Othello
+- ANZAC Day Tree Planting Event
+- **Social Innovation New Zealand**
+- FIONA’S FEATURES
+- Sustainability Network
+- UoA Buskers Festival
+- Quarter-Life Crisis
+- By Popular Demand
+- 13 Reasons Why: The Ethics of Suicide Media
+- Amateur Hour
+- Penal Dysfunction
+- How to Talk About Sport
+- DON’T TAKE DRUGS, KIDS, OR YOU’LL NEVER PLAY FOR THE KIWIS; but if you want to beat a guy up then go for gold
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- the people to blame.
+- Click, click, click, type, type, click and collect
+
+### [Issue 10 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-10-2017.pdf)
+- Top Countries For Migrant Workers Caucasian— NZ Herald Data
+- Otago Uni Student Convicted Of Underage Sex Offence
+- Bill English: The Man Ran-Walked Away With My Heart
+- **Minister Shuts Down Call For Mental Health Review**
+- **New Policies, New Look—New Labour?**
+- World News Wrap
+- Back Up In The Air
+- COMMUNITY
+- **Winston Peters’ policies are racist; so why are politicians so afraid to say it?**
+- By Ginny W
+- Rebecca Hallas looks at our lacklustre approach to gender and sexuality in NZ schools
+- ABOUT BIRDS & BEES
+- THEY WANT YOU!
+- LIFESTYLE
+- What’s On
+- Like Sex
+- The Stolen Flowers of Auckland
+- Stir Fried IX
+- Tiki Taane Mahuta
+- An Ode to the Turtleneck
+- By Olivia Chrisp
+- Misters
+- 12 WYNDHAM ST
+- By Nikki Addison
+- A Simple Veggie Stir-Fry
+- Method
+- Sal Valentine and the Babyshakes
+- Raiza Biza
+- The Gramophone Band
+- The Miltones
+- David Dallas
+- YELLOW PERIL, YELLOW FEVER
+- Avoiding the Glitterati
+- The Kids Aren’t Alright: An Interview With the Director of Like Sex
+- CAN YOU TELL US ABOUT THE PLAY?
+- IT’S EPISODIC. WHAT EXACTLY DOES THAT MEAN?
+- CAN YOU TALK ABOUT WHY A SHOW ABOUT SEX AND SEXUAL POLITICS IS NECESSARY IN TODAY’S TIMES?
+SO THIS IS A PLAY BASED AROUND HIGH SCHOOL-ERS, AND TEENAGE PERCEPTIONS OF SEX. WILL IT RESONATE WITH - STUDENT AUDIENCES?
+- HOW DID YOU GET INVOLVED IN LIKE SEX?
+- SO AM I RIGHT IN SAYING THIS IS YOUR DIRECTO-RIAL DEBUT? WHAT IS THAT LIKE?
+- WHERE DO YOU HOPE TO GO FROM HERE?
+- WHAT’S IMPORTANT TO YOU AS A DIRECTOR? WHAT STORIES DO YOU WANT TO TELL?
+YOU’RE THE FOUNDER OF PROUDLY ASIAN THEATRE. WHAT IS THAT, AND WHY DID YOU CREATE IT? WHAT DOES IT DO, AND - WHY IS IT IMPORTANT?
+- SO EXPOSED THEATRE IS ALL ABOUT OFFERING OPPORTUNITIES TO NEW GRADUATES. WHAT IS THE CAST LIKE?
+- AND FINALLY, WHY SHOULD WE COME SEE LIKE SEX?
+- USE PROMO CODE “SEXCODE” FOR A DISCOUNT ON TICKETS. ONLY 50 AVAILABLE.
+- Get Out
+- Common Kings
+- Master of None
+- Comedy Fest 2017
+- Powerplant
+- Harry Styles
+- Fanfare: Art and Inclusion in Welcome to Night Vale
+- Pride Week
+- Quarter-Life Crisis
+- Time After Time
+- By Popular Demand
+- Ode to Hamilton Part II: Why Hamilton Wouldn’t Exist Without Hip-Hop
+- Wired In
+- Stop in the Name of Love
+- How to Talk About Sport
+- Here’s How Bernie Can Still Win The Presidency!
+- Baby’s bottom sudoku
+- MEDIUM (TWO POINTS)
+- HARD (THREE POINTS)
+- the people to blame.
+- Do You Need Urgent Dental Care?
+
+### [Issue 11 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-11-2017.pdf)
+- The F-Word
+- **Auckland Business School Shut Down For Plagiarism**
+- “The Final Back-Up” Global Seed Vault Under Threat From Climate Change
+- **More Than Half Of All Students Broke—Survey**
+- Unpaid Work Trials: Screwing Workers Over?
+- “HACKERMAN!”—The Future of Cyberwarfare?
+- The Week in Trump
+- Amateur Historian Potentially Stole Māori Remains To Make False Claims
+- Introducing: Shakti Youth
+- WHO ARE SHAKTI YOUTH? CAN YOU TELL US WHAT KIND OF ISSUES SHAKTI YOUTH FOCUSES ON?
+- HOW DID THE YOUTH UNIT START?
+- WHY ONLY CERTAIN ETHNIC GROUPS? ARE WHITE PEOPLE ALLOWED TO JOIN?
+- WHAT IS SHAKTI YOUTH’S STANCE ON TINO RAN-GATIRATANGA?
+- YOU MENTIONED BEFORE THAT SHAKTI YOUTH WILL BE HAVING A MARCH. WHAT IS THIS ABOUT? AND WHY IS IT HAPPENING?
+I SAW THAT SHAKTI’S WELLINGTON REFUGE WAS RECENTLY FEATURED IN THE NEWS. CAN YOU TELL US A BIT MORE ABOUT - THAT?
+WHY DO WE NEED ORGANISATIONS LIKE SHAKTI YOUTH IN THE COMMUNITY? DURING THE INTERVIEW, SHAKTI YOUTH MEMBERS - DISCUSSED PERSONAL EXPERIENCES TO ANSWER THIS QUESTION.
+- What’s On
+- $5 Mystery Box Milkshakes
+- Sal & the Babyshakes EP Release
+- The Faustus Project
+- Doc Edge Film Festival
+- Jyoti Morningstar
+- WHAT INSPIRED YOU TO CREATE WE-AR?
+- CAN YOU EXPLAIN WHAT AN “ETHICAL” CLOTHING BRAND IS?
+- YOU PRODUCE THE CLOTHING IN BALI. HOW DOES THIS LOCATION CONNECT TO WE-AR’S VALUES?
+YOU DESCRIBE WE-AR AS BEING “BORN FROM A YOGIC PHILOSOPHY”. CAN YOU DESCRIBE THIS PHI-LOSOPHY? WHY IS YOGA - SO IMPORTANT TO YOU AND YOUR BRAND?
+WE-AR IS ONE OF THE PIONEERING BRANDS OF NEW ZEALAND’S GROWING SUSTAINABLE FASHION INDUS-TRY. HOW DO YOU - FEEL ABOUT OUR SUSTAINABLE FASHION INDUSTRY TODAY?
+DO YOU HAVE ANY ADVICE FOR PEOPLE PASSIONATE ABOUT ETHICAL SHOPPING AND SUSTAINABILITY IN GENERAL, AS - OP-POSED TO FASHION SPECIFICALLY?
+- YOU’VE JUST LAUNCHED A NEW AUTUMN/WINTER COLLECTION, “RHYME”. WHAT WAS THE GOAL BEHIND THIS LINE?
+- DO YOU HAVE A FAVOURITE PIECE FROM THE COL-LECTION?
+- ALCOHOLLY
+- By Grace Hood-Edwards
+- Top 5...
+- Moustache
+- Al’s Deli
+- Little Bird Unbakery
+- Cereal Killa
+- Grill & Shakes
+- PUSSY GRABS BACK
+- MY DATE WITH DAVID SEYMOUR
+- AN ACTOR’S WORST NIGHTMARE
+- WHAT INSPIRED YOU TO ATTEMPT THIS PLAY, OR THIS EXPERIMENT?
+- WHO ARE SOME OF THE PEOPLE YOU’RE GETTING TO PLAY FAUSTUS? WHY THEM? HOW MANY DIFFERENT FAUSTUS’?
+- ARE YOU NERVOUS ABOUT THE RUN?
+- EXCITED IN A NERVOUS WAY. BUT YOU HAVE NO IDEA WHAT’S GOING TO HAPPEN THOUGH?
+- YOU’RE RUNNING IT AT THE BASEMENT. WHAT IS THAT LIKE AS A THEATRE SPACE?
+- INTERVIEW
+- DO YOU HAVE AN AESTHETIC FOR THE PLAY?
+- WHAT DO YOU THINK OF MARLOWE? DOES HE MEASURE UP TO SHAKESPEARE?
+THE ORIGINAL FAUSTUS MAKES A DEAL WITH THE DEVIL FOR UNLIMITED MONEY, POWER, WOMEN AND GLORY. CAN YOU - EXPLAIN A BIT OF THAT?
+- DO YOU RELATE IN ANY WAY?
+- WHY SHOULD AUDIENCES COME SEE THE FAUS-TUS PROJECT?
+THE FAUSTUS PROJECT RUNS FROM 30TH MAY–3RD JUNE AT THE BASEMENT THEATRE. BOOK $18 & $20, OR $15 CHEAP - WEDNESDAY TICKETS ONLINE.
+- We still have a lot to look forward to—like The Bachelorette NZ
+- With Anoushka Maharaj
+- Casey: The guy who is obviously just there to promote his band
+- Rob: the slightly racist one who only ever makes backhanded compliments
+- Jesse (aka “Big Jezza”): the dudebro who is probably only there for the free food and alcohol
+- Xander: The burgeoning serial killer (because there’s always one)
+- Jeff Jr.: The farmer’s son who is incredibly dull but at least he’s not a murderer
+- Logan: The fuckboy who thinks poor people brought poverty upon themselves
+- David Seymour’s Top Five Essential House Party Bangers
+- By Mark Fullerton
+- Track One: “My House”—Kids of 88
+- Track Two: “Taxman”—The Beatles
+- Track Three: “The Trees”—Rush
+- Track Four: “Vote For ACT”—The Eversons
+- Track Five: “She Will Be Loved”—Maroon 5, Songs About Jane (2002)
+- Ryan Adams
+- The Total ME-tox: How to Ditch Your Diet, Move Your Body, & Love
+- Roadkill
+- “Strip That Down”
+- Amadeus
+- Auckland Writers Festival 2017
+- ARTS INTERVIEW
+- An Interview with Mermaidens
+- SO WHERE DOES THE BAND DRAW ITS INFLUENC-ES FROM?
+- AT THE END OF MARCH THIS YEAR YOU RELEASED THE NEW SINGLE “LIZARD”. WHAT’S THE MEAN-ING BEHIND THIS SONG?
+- IS THERE AN UPCOMING ALBUM? CAN YOU TELL US A BIT MORE ABOUT IT?
+I SEE THAT THE BAND HAS BEEN PLAYING QUITE FREQUENTLY IN AUCKLAND OVER THE YEARS. HOW DOES THE WELLINGTON - MUSIC SCENE DIFFER TO HERE?
+SO I UNDERSTAND ALL OF THIS IS PART OF MER-MAIDEN’S SATSUMA TOUR. “SATSUMA” IS THE JAPANESE WORD FOR A TYPE - OF CITRUS FRUIT, SO HOW DID ALL OF YOU COME TO THIS NAME?
+FINISHING OFF, WHAT ARE SOME SONGS MER-MAIDENS HAVE BEEN LISTENING TO LATELY AND WOULD RECOMMEND TO ALL OF - US?
+YOU CAN BUY TICKETS TO SEE MERMAIDENS LIVE AT THE BORDERLINE FESTIVAL OR AT THEIR OWN SHOW THROUGH - UNDERTHERADAR ONLINE.
+- BACKBENCHES
+- AUSA POLITICS WEEK CARNIVAL
+- BROKE STUDENTS’ BRUNCH
+- THE GREAT ANNUAL DEBATE: THE MILLENNIALS EDITION
+- Friday at 7pm
+- WHAT?
+- WHEN?
+- WHY?
+- The Opportunities Party as Bel.
+- United Future as Monique. Who?
+- Quarter-Life Crisis
+- Sock It To Me
+- Invest in some socks.
+- Amateur Hour
+- Epilogue
+- Recommendations:
+- Wired In
+- Sign of the Times
+- How to Talk About Sport
+- The Lions are coming! The Lions are coming!
+- HORROR IN HAMILTON: MCKENZIE OUT
+- COMETH THE MAN, COMETH THE HOUR
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- MEDIUM (TWO POINTS)
+- HARD (THREE POINTS)
+- the people to blame.
+- It’s winter. Must be time to curl up with a cuppa and a good book!
+
+### [Issue 12 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-12-2017.pdf)
+- NEWS
+- **Students Occupy ClockTower To Protest Fossil Fuels Investment**
+- **Tenants Should Foot Up For Landlord’s Insurance: New Bill**
+- New Zealand (Finally) Joins The Space Race
+- Internet Party To Stand In 2017 Election
+- More Evidence for Urgent Mental Health Services Review
+- **What Does The Budget Mean For Students?**
+- Local Man Yells At Moon, Adamant That “Being White In Labour Party Tough”
+- New Zealand.
+- Sports—Yay!
+- Tikanga Māori: Missing from immigration debate
+- Pay Equity: More Than Just Equal Pay
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- Wolfmother
+- Mind Games Festival
+- Matariki Dawn
+- Beers Without Borders
+- Auckland Festival of Photography
+- Eco Living
+- 15- Minute Bean and Chorizo Mingle
+- ALCOHOLLY
+- Kitekite Falls
+- Karekare Falls
+- Oakley Creek Falls
+- Vivian Falls
+- Hunua Falls
+- CAUSING A FLAP
+- 360° Auckland Abroad Add the world to your degree
+- MONEY TALKS
+- **THE FUTURE IS FEMINIST**
+- Nine-Nine!
+- With Anoushka Maharaj
+- Ladies and gentlemen, we have ourselves a homicide
+- By Samantha Gianotti
+- Twin Peaks
+- Pirates of the Caribbean: Dead Men Tell No Tales
+- Sampha
+- Stir Fried IX
+- Teenage Emotions
+- The sound of silence
+- Quarter-Life Crisis
+- Unplugged
+- Love Actually.
+- Go off the grid.
+- Amateur Hour
+- Farcebook Part II: Me, Myself, And You
+- Wired In
+- (Don’t Want) No Scrubs
+- By Popular Demand
+- Ode to Hamilton Part III: How Hamilton Breaks Its Own Rules
+- Kisses and Quizzes
+- Baby’s bottom sudoku
+- EASY (ONE POINT)
+- MEDIUM (TWO POINTS)
+- the people to blame.
+- AUCKLANDUNIVERSITYSTUDENTS’ASSOCIATIONandTHEUNIVERSITYOFAUCKLANDpresent...
+- Get exam ready at UBS!
+
+### [Issue 13 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-13-2017.pdf)
+- Square
+- Oval
+- Round
+- Triangle
+- Heart
+- EDITORIAL
+- Cracc a Cold One
+- Kate Edger and HSB Courtyard Getting Serious Foodie Upgrades
+- **AUSA Pays To Stay**
+- MORE NON-RELIGIOUS IN NEW ZEALAND THAN AUSTRALIA
+- Migration Crackdown Could Lead To Economic Slump: Study
+- Beyond The America’s Cup: The Sport You Missed Over The Break
+- Inside Chechnya—A Human Rights Wasteland
+- 360° Auckland Abroad Add the world to your degree
+- COMMUNITY
+- What is Emotional Abuse?
+YEAH TOTALLY. ARE THERE ANY COMMON RED FLAGS YOU’VE NOTICED THAT COME UP WHICH PEOPLE TYPICALLY DON’T - RECOGNISE AS BEING ABUSIVE?
+- I ALSO WANTED TO ASK ABOUT YOUR EXPERI-
+ENCE GOING THROUGH THE LIVE THE DREAM PROGRAMME (LIVETHEDREAM.ORG.NZ) AND MAYBE HOW THAT GAVE YOU THE TOOLS - TO START PREPAIR NZ?
+- DO YOU OFTEN FIND WHEN YOU WORK WITH THESE GIRLS THAT THEIR SELF-ESTEEM IS LOW?
+- WHEN YOU SPEAK AT FESTIVAL FOR THE FUTURE, WHAT ARE YOU HOPING PEOPLE LEAVE YOUR TALK WITH?
+- DO YOU HAVE ANY GENERAL TIPS OR DAY-TO-DAY THINGS THAT OUR READERS CAN DO TO LOVE THEM-SELVES A BIT MORE?
+- Zinefest!
+- LIFESTYLE
+- What's On
+- Wildlife Photographer of the Year
+- World Press Photo Exhibition
+- NZ International Film Festival
+- Auckland Food Show
+- Galaxy Bear
+- Zinefest
+- Mastering Hump Day: Wednesdays Espresso Bar
+- Easiest, Ultimate White Bread
+- Top 5...
+- Local Parks Cornwall Park
+- Auckland Domain
+- Western Springs
+- Albert Park
+- Dove-Myer Robinson Park
+- FEAT DRAX PROJECT
+- FEATUREISSUE 3, 1937
+- ISSUE 10, 1957
+- ISSUE 1, 1977
+- ISSUE 1, 1997
+- Starting a new chapter?
+- An animated super-pig changed my life
+- 1 By pretentious and arguably short-sighted articles like
+- An Interview with .hans.
+- HEY HANJU, TELL ME ABOUT YOURSELF AND HOW YOU GOT STARTED?
+- HAVE YOU BEEN INTO RAP FOR A WHILE NOW? WHO ARE YOUR INFLUENCES?
+YOU MENTIONED YOU GREW UP ON THE NORTH SHORE. I KNOW IT’S A PLACE WITH LOTS OF EAST ASIAN INFLUENCES. IS - THIS SOMETHING THAT INSPIRES YOU AS AN ARTIST?
+- WHAT ARE YOUR THOUGHTS ON TRENDING EAST ASIAN RAPPERS?
+A LOT OF EAST ASIAN HIP-HOP ARTISTS HAVE BEEN ACCUSED OF APPROPRIATING BLACK CUL-TURE. HOW DO YOU FEEL ABOUT - THIS?
+YOU TALKED ABOUT REPRESENTING EAST ASIAN CULTURE EARLIER ON. SO HOW DOES YOUR IDENTITY AND BACKGROUND PLAY A - ROLE IN YOUR MUSIC?
+- WHERE DID YOU LEARN MUSIC PRODUCTION? WAS IT SELF-TAUGHT?
+AS A PERSON OF COLOUR, WHAT ARE YOUR THOUGHTS TOWARDS REPRESENTATION IN THE NEW ZEALAND MUSIC INDUSTRY? HAS - IT BEEN DIFFICULT FOR YOUR MUSIC TO BE RECOGNISED?
+- WHAT ARE SOME SONGS YOU’VE BEEN LISTENING TO LATELY THAT YOU CAN RECOMMEND TO US?
+- The Miltones
+- “Pine and Clover”
+- Friends From College
+- “Stay on the Grind”: An Interview with Strangely Arousing
+- SO YOU WEREN’T HUNGOVER?
+- WHAT SORT OF INFLUENCES WENT INTO THIS? DID YOU HAVE DIFFERENT THINGS THAT INSPIRED YOU?
+- WOW. HOW DID YOU GET THROUGH THAT? WAS THERE ANY DRAMA?
+- AUSA
+- NOTICES
+- **NOTICE IS HEREBY GIVEN OF AN AUSA SPECIAL GENERAL MEETING**
+- US LEADERSHIP TOUR 2018
+- Introducing AUSA Online Referenda
+- WHAT IS AUSA ONLINE REFERENDA?
+- WHY DOES AUSA ONLINE REFERENDA MATTER?
+- HOW WILL I KNOW THE PROS AND CONS FOR EACH REFERENDA QUESTION?
+- KEY DATES
+- Quarter-Life Crisis
+- Cracc City Bitch Cracc Cracc City Bitch
+- Do something you will tell your children about one day.
+- To my children, on what Craccum taught me:
+- Amateur Hour
+- Craccstotelian Virtue Theory
+- How to Talk About Sport
+- THE TRY-IONS
+- On this tour safeguarding the future of the Lions:
+- On the draw:
+- On Beauden kicking instead of Jordie, even though Jordie kicks instead of Beauden for the Hurricanes:
+- YAY-MERICA’S CUP
+- CHAMPIONS (OF TRYING THEIR BEST) TROPHY
+- NBA FINAL-LY THAT SHIT FINISHED.
+- By Popular Demand
+- Ode to Community: The Show That Endured the Harshness of Television
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- HARD (THREE POINTS)
+- Herald’s Heroes
+- the people to blame.
+- **New name. Same DNA.**
+
+### [Issue 14 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-14-2017.pdf)
+- Catriona Britton
+- AUS-EH?
+- The Barclay Scandal: Everything You Need To Know
+- **Greens Publish New Welfare Policies**
+- AUSA In Women’s Rights Officers Voting Debacle
+- Billboards Up, Boots On
+- Synthetic Cannabis Epidemic Gripping Auckland
+- Sausage Rolls, Lamingtons and an 11 Grand Book: Get Ed-ucated
+- **New Survey Blames Suicide Rates On Poverty**
+- Citizenship, Shitizenship
+- **Introducing: Your New Innovation Hub**
+- NOTICES
+- US LEADERSHIP TOUR 2018
+- ASEAN Night 2017
+- Student Services Online (SSO) is changing!!!!
+- AUSA Online Referenda
+- KEY DATES
+- #IAmMetiria
+- An opinion by Rebecca Hallas
+- **A lonely, poor student in a capitalist, therein fairly evil world**
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- Being Chinese in Aotearoa
+- One Night of Queen
+- Looking at Stuff in Clouds
+- Famous Movie Foods Night
+- Spring Style
+- The Best Water Ever
+- Food Makes Us Happy
+- Top 5... City Fringe Cafés
+- Kokako
+- Cali
+- Rad
+- Spilt Milk
+- Rosie
+- SEEING THE SOUNDSCAPE
+- Lighten Your Load
+- Political Murder?
+- THE RUSSIAN INCIDENT: A PLAY IN THREE PARTS
+- I think I love my hometown
+- With Anoushka Maharaj
+- Welcome to the O.C., bitch
+- By Nikki Addison
+- 1. The Seth Cohen:
+- Baby Driver
+- Lust For Life
+- Mura Masa
+- Out In The Storm
+- Patti Cake$
+- Looking at Stuff in Clouds
+- The Return Of Sex, Drugs And Electoral Rolls
+- Terrorise Your Elected Representative
+- Amateur Hour
+- Student Weirdness
+- How to Talk About Sport
+- We Made The Rules Of The America’s Cup, So You Don’t Have To!
+- By Popular Demand
+- Ode to Emojis Part I: Fun Little Pictures, Phenomenology, and You
+- Baby’s bottom sudoku
+- the people to blame.
+- TUESDAY
+- INTRODUCTORY PRICES!
+
+### [Issue 15 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-15-2017.pdf)
+- Catriona Britton
+- Valar morgulis
+- Womb! There It Is
+- **Cracks Forming In The Greens-Labour Consensus**
+- Where’s Alina? A Defence of New Zealand
+- Who Run The World: Girls
+- **National Government Admits Incompetence, Surprises Nobody**
+- NEWS
+- Understanding Privatised Healthcare
+- Government Comes Under Fire for Visa Issues
+- **All Rise, Queen Jacinda**
+- **Boris Johnson Visits NZ: Another Brit Fleeing Brexit**
+- **The War Machine on Campus**
+- By Auckland Peace Action
+- Weapons Investment
+- Weapons Research
+- **New Zealand & the Global Arms Trade**
+- Why Should I Bother Voting For A Third Party?
+- By Rebecca Hallas
+- Why should I bother voting for a third party? They won’t win anyway!
+- CHARITY/ORGANISATION OF THE WEEK
+- Vote Equal Pay 2017!
+- Refugees Welcome!
+- What’s On
+- Kanohi Ki Te Kanohi: Poetry
+- **The Experiment 2017**
+- The Effect
+- Auckland Tertiary Policy Conference
+- “Rhapsody in Blue”
+- Essential Apps for Every Student
+- OneNote/Evernote
+- Apple/Android/Windows | Free
+- Sleep Cycle Alarm Clock
+- Apple/Android | Free
+- Office Lens
+- Apple/Android/Windows | Free
+- Dropbox/Box
+- Apple/Android/Windows | Free
+- Wunderlist
+- Apple/Android/Windows | Free
+- Bestie, Saint Kevins Arcade
+- Homemade Tortilla Chips
+- Top 5... Local Mexican Eateries
+- Mexico
+- Mexican Café
+- Frida Cocina
+- Dos Amigos
+- Little Mexico
+- A LAMENT FOR THE GREEN PARTY
+- **Party Organisation**
+- **Old Policies—The Good, The Bad, and The Nonsensical**
+- The Silent Struggle
+- He Tohu: A Declaration, A Treaty, A Petition
+- RUN FOR THE 2018 AUSA EXECUTIVE
+- **A concept: hot boys talking politics**
+- With Anoushka Maharaj
+- Classic reads for your winter needs
+- The Catcher in the Rye by J.D. Salinger
+- The Beautiful and the Damned by F. Scott Fitzgerald
+- Milk and Honey by Rupi Kaur
+- South of the Border, West of the Sun by Haruki Murakami
+- To The Bone
+- The Love Witch
+- The Beguiled
+- A Ghost Story
+- Spiderman: Homecoming
+- The Best Albums of 2017 (So Far)
+- HELEN’S PICKS
+- Jay Som – Everybody Works
+- Japanese Breakfast – Soft Sounds From Another Planet
+- CHRIS’S PICKS
+- Lorde – Melodrama
+- AUSA
+- US LEADERSHIP TOUR 2018
+- Womensfest 2017
+- Amateur Hour
+- An Inappropriate Question
+- Quarter-Life Crisis
+- Erasebook
+- Sanitise your social media profiles.
+- How to Talk About Sport
+- Things That Are Called Sports That Are Not Sports
+- BOXING
+- DRESSAGE
+- BOBSLEIGH
+- LUGE
+- SKELETON
+- CHESS
+- SQUASH
+- By Popular Demand
+- Ode to Emojis Part II: Navigating the Racial Politics of Emojis
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- the people to blame.
+- TUESDAY
+- Relive all the Harry Potter magic with these awesome new editions and gift ideas
+
+### [Issue 16 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-16-2017.pdf)
+- Catriona Britton
+- Balls Up
+- **The (Unofficial) History of AUESA**
+- **Postgraduate Students Want To Merge with AUSA**
+- Name-Dropping Feminism: The Women’s Choice Election Forum Kicks Off
+- Journalistic Freefall? How “Clickbait” News Is Taking Over Social Media
+- NZ And UK Unveil New Anti-Climate Change Transport Plans
+- **Housing Costs Now Take Up Majority of Kiwi Wages**
+- **Jacinda Ardern could make the difference for Labour, but only if the Party changes with the Leader**
+- COMMUNITY
+- Tackling Rape Culture at University
+- WHAT ARE THE PROBLEMS?
+- THE UNIVERSITY ENVIRONMENT
+- LENIENT SENTENCES
+- WHITE MALE PRIVILEGE
+- SPEAKING UP
+- THE STATISTICS
+- WHAT CAN WE DO?
+- THE ROOT OF THE PROBLEM
+- CONSENT EDUCATION
+- STOP VICTIM BLAMING
+- THE LAW
+- CHARITY/ORGANISATION OF THE WEEK
+- Plastic Diet Boot Camp!
+- What’s On
+- The Pickle King
+- Italian Short Film Night
+- Fa’aafa
+- Auckland Law Revue: Case in Pointe
+- Boho-ifying Your Room
+- Helping out with your hangover!
+- Summery Sangria
+- Top 5... Places for Brunch
+- L’Assiette
+- Circus Circus
+- Remedy Coffee
+- Oaken
+- Scullery
+- I Know It Was You
+- Lighten Your Load
+- Weet-Bix is Fucking Great
+- All Hail the Gacha Revolution
+- I’m a lot of fun at parties
+- The Cluster Will Live On
+- Super Dark Times
+- The Killing of a Sacred Deer
+- Dunkirk
+- My Year With Helen
+- Black Marks on the White Page
+- A Bone To Pick With To The Bone
+- THE ORGANISERS
+- THE TEAM BEHIND THE ORGANISERS THAT NO ONE EVER ACKNOWLEDGES
+- AUSA was Ballin’
+- SATURDAY 5 AUGUST - IT’S THE DAY OF THE BALL
+- AUSA Online Referenda
+- Amateur Hour
+- **Political Party, or A Cheap Shot**
+- By Popular Demand
+- How to Talk About Sport
+- Sadboi Savea, And Other Sporting Jokes That Went On Way Too Long
+- THE WARRIORS
+- ANY GAME OF
+- AMERICAN FOOTBALL EVER
+- GOLF IN NEW ZEALAND
+- THIS COLUMN
+- JUSTIN MARSHALL
+- Guest Who
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- HARD (THREE POINTS)
+- the people to blame.
+- The Man Booker Prize Long list 2017
+
+### [Issue 17 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-17-2017.pdf)
+- Catriona Britton
+- **Giving a Shit**
+- **NZUSA Launches New Youth Vote Campaign**
+- **Will Philanthropy Save Auckland From Its Housing Crisis?**
+- Medical Students Fighting to Finish Degrees
+- The Lifeline Debacle
+- Have Your Say... AUSA Online Referendum
+- Studies First—Football Freestyling Later
+- Big Brother
+- Farewell Metiria
+- CHARITY/ORGANISATION OF THE WEEK
+- Child Poverty Action Group!
+- What’s On
+- The Hunting Ground
+- A Streetcar Named Desire
+- National Poetry Day
+- Taste of Terror Tour
+- Sprucing Up Your Student Room
+- Little & Friday,
+- Spring Gardening
+- A Waffle Iron-Free Waffle Recipe
+- Top 5... Cocktails
+- Mojito
+- Old Fashioned
+- Espresso Martini
+- Margarita
+- Negroni
+- FINDING FEMINISM WITH JOSIE & T
+- Even before I had started writing this, I could feel her taking control of what I said about her...
+- GETTING INKED
+- THE FIGHT FOR IHUMĀTAO
+- Timeline of historic disputes over the land at Ihumātao:
+- PRESIDENT
+- ADMINISTRATIVE VICE-PRESIDENT
+- 2018 AUSA Election Blurbs
+- EDUCATION VICE-PRESIDENT
+- WELFARE VICE-PRESIDENT
+- TREASURER
+- CULTURE & COMMUNICATIONS OFFICER
+- ENVIRONMENTAL AFFAIRS OFFICER (2018)
+- GRAFTON REPRESENTATIVE
+- INTERNATIONAL STUDENTS’ OFFICER
+- POLITICAL ENGAGEMENT OFFICER
+- QUEER RIGHTS OFFICER
+- STUDENT ENGAGEMENT OFFICER
+- WOMEN’S RIGHTS OFFICER
+- CRACCUM EDITOR
+- ENVIRONMENTAL AFFAIRS OFFICER (2017)
+- **Self-care routine: drink water, eat three meals a day, punch Nazis with your friends**
+- “OMG” & “Havana”
+- Midnight Sun
+- Valerian and the City of A Thousand Planets
+- Kedi
+- Annabelle: Creation
+- Getting to Know Indian Ink
+- SO, INDIAN INK’S CURRENT SHOW IS CALLED THE PICKLE KING—TELL US A BIT MORE ABOUT THAT.
+- INDIAN INK HAS BEEN PRETTY BUSY THIS YEAR. HOW MANY SHOWS DO YOU DO?
+- INDIAN INK DEALS WITH SOME HEAVIER TOPICS. HAS IT BEEN HARD TO GET PEOPLE ON BOARD WITH SOME OF THE IDEAS?
+- YOU ALSO INCORPORATE HUMOUR INTO YOUR SHOWS TO PORTRAY THESE IDEAS. HOW HAS THE RESPONSE BEEN SO FAR?
+- I Think I'm Quite Ready For Another Adventure
+- OFFICIAL NOTICES
+- ASEAN Night Summary
+- Amateur Hour
+- I'm Never Quite Sure
+- Quarter-Life Crisis
+- I Walk Through the Valley of the Shadows of Death
+- Become a connoisseur in something.
+- Day One: “Yeast Infection”
+- Day Two: “Don’t Fart in the Elevator”
+- Day Three: “Revenge of the Riblets”
+- How to Talk About Sport
+- Why Does SKY TV Insist On Being Such A Digital Douchebag?
+- Baby’s bottom sudoku
+- Herald’s Heroes
+- the people to blame.
+
+### [Issue 18 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-18-2017.pdf)
+- On Family & Reading Habits by Catriona
+- On Craccum & My Mum by Catriona
+- On Unrequited Love & Kindness by Catriona
+- Labour Unveil Controversial New Water Policy
+- Charlottesville, Change and Casual Racism: What’s Next for the US?
+- Teenagers Violently Sexually Assaulted on Train
+- New Fruit and Veg Stall at Quad Marketplace
+- NEWS
+- Preacher Sparks Hate Speech Row
+- So What The Fuck Is Actually Going On In Australian Politics?
+- Calls for Comprehensive Consent Education
+- **ProLife Auckland—Where Has It Been, Where Is It Going**
+- New Zealand Animal Law Association: 2017 Conference
+- By Kari Schmidt
+- Like Minds, Like Mine: Conversations for Change
+- By Claudia Russell
+- CHARITY/ORGANISATION OF THE WEEK
+- Leaders Debate
+- What’s On
+- Hug A Pug
+- Women of Influence Forum
+- Mexico de mis Sabores
+- Chinese Food Tour
+- Festival Fashion
+- Fairy Cakes for all
+- Mini-Break Madness
+- The Botanist,
+- Top 5... Juice/ Smoothie Bars
+- Organic Mechanic
+- Tank
+- Sip Kitchen
+- Wedge Juice Bar
+- CeresFresh Market
+- The Divided State of Us
+“And while the battle cry of our heroes has been to fight hate with love, I must remind you that love is not passivity, it is not compliance, it is not having your worth determined by another person, it is not - allowing yourself to be crushed into non-existence. Love and fury can coexist.”
+- Hold the system to account
+- But what about the immigrants?
+- Reflections (On Life) Behind The Windscreen Of A Sigma
+- One woman riot (vol. 1)
+- With Anoushka Maharaj
+- The Soundtrack Of StudyLink
+- ARTS REVIEWS
+- Ocean Alley @ Studio
+- How Did We Get So Dark?
+- stardustexhalemarrakechdreams Zhu
+- Come Over When You’re Sober Pt. 1
+- “I Like The Way You Mov(i)e” – BodyRockers (2005)
+- Studio Ghibli Film Festival
+- A Ghost Story at Academy Cinemas
+- Flashback Fridays at Event Cinemas
+- Our Most Inexhaustible Source of Magic
+- Be a Human Book!
+- Attention all international students!
+- OFFICIAL NOTICES
+- By Popular Demand
+- Ode to Found Footage Horror
+- Wildest Police Videos
+- How to Talk About Sport
+- Hockey Is My Life. I Can't Run Away With You. Who Would Take Care Of The Pucks?
+- The Disaffiliation Situation
+- FOR DISAFFILIATION
+- AGAINST DISAFFILIATION
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- HARD (THREE POINTS)
+- the people to blame.
+- Don’t forget Father’s Day Sunday 3rd September
+
+### [Issue 19 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-19-2017.pdf)
+- Catriona Britton
+- A deep-seated issue
+- NEWS
+- **How Each Party’s Policies Will Affect Auckland Students**
+- Green:
+- Labour:
+- National:
+- ACT:
+- NZ First:
+- A Eulogy for The Green Party
+- **How the Meme Vote will determine the election. Seriously.**
+- **Ardern Proposes Removing Abortion from Crimes Act**
+- Government Reveals Lifeline Cuts
+- YOU VOTE EVERY DAY.
+- FAST TRACK YOUR CAREER IN POLITICS OR GOVERNMENT
+- The World Is Screwed: A Foul-Mouthed Guide to North Korea
+- Family First Deregistered From Charities Board
+- COMMUNITY
+- In Conversation With: Lady Heeni Phillips-Williams
+- WHAT IS THE HISTORY BEHIND THE SIR PETER WILLIAMS QC PENAL REFORM LEAGUE?
+- WHAT IS THE LEAGUE’S MISSION?
+- HOW DOES THE LEAGUE DIFFER FROM THE HOW-ARD LEAGUE?
+- WHAT HAS THE LEAGUE FOCUSED ON THIS YEAR AND WHAT WILL IT BE FOCUSING ON FOR THE REST OF THE YEAR?
+- WHAT DO YOU CONSIDER THE MOST PRESSING ISSUE THAT NEEDS ADDRESSING CONCERNING THE MĀORI PENAL POPULATION?
+- WHAT DO YOU CONSIDER ARE THE KEY SYSTEMIC ISSUES IN OUR JUSTICE SYSTEM THAT MAY PUT MĀORI AT A DISADVANTAGE?
+- WHAT DO YOU THINK OF NATIONAL’S “BOOT CAMP” POLICY FOR YOUNG OFFENDERS?
+- HOW CAN STUDENTS GET MORE INVOLVED WITH PENAL REFORM ISSUES?
+- Why Te Reo Māori should be compulsory in schools
+- CHARITY / ORGANISATION OF THE WEEK
+- Intuitive Flow Yoga and Oro Atua Māori Sound Healing session!
+- What’s On
+- That Bloody Woman
+- The Chocolate and Coffee Show 2017
+- Bacchae: Fuse
+- Photography interview: Erica Sinclair
+- WHAT INITIALLY DREW YOU TO PHOTOGRAPHY AND WHAT MADE YOU WANT TO PURSUE IT AS A CAREER?
+- HOW DID YOU BEGIN TO FORGE THIS CAREER?
+YOU SAY ON YOUR WEBSITE THAT YOUR FAVOURITE THING ABOUT PHOTOGRAPHY IS TELLING STORIES OF MĀORI CULTURE. WHY - IS THIS YOUR FAVOURITE THING TO DO?
+IS THERE A PARTICULAR ASPECT OF MĀORI CULTURE YOU ESPECIALLY ENJOY PHOTOGRAPHING/FEEL IT IS IMPORTANT TO - PHOTOGRAPH?
+- A LOT OF YOUR PHOTOS ARE OF PEOPLE. DO YOU PREFER TO SHOOT PEOPLE RATHER THAN SCENERY?
+DO YOU HAVE ANY ADVICE FOR BUDDING ARTISTS AND PHOTOGRAPHERS, OR FOR MĀORI ARTISTS AND PHOTOGRAPHERS IN - PARTICULAR?
+- FINALLY, WHAT’S NEXT FOR YOU AND YOUR WORK?
+- Gienipha Tutaki
+- WHAT INSPIRED YOU TO BECOME A FASHION DESIGNER?
+HOW WOULD YOU DESCRIBE THE STYLE OF YOUR DESIGNS? IF THEY ARE INFLUENCED BY YOUR MĀORI HERITAGE, HOW DID YOU - INCORPORATE THIS INTO YOUR WORK?
+YOUR COLLECTION ALSO PLAYS ON THE PAST AND PRESENT, MODERNISING TRADITIONAL LOOKS. WHY WAS THIS IMPORTANT TO - YOU?
+THERE IS QUITE A MUTED TONE TO YOUR COL-LECTION, WITH NATURAL COLOURS AND DREAMY SILHOUETTES. WHAT WAS THE - REASON FOR THIS?
+- THIS YEAR MARKS YOUR FIRST YEAR AT NZ FASHION WEEK. WHAT WAS YOUR VISION FOR YOUR SHOW?
+- LASTLY, WHAT’S NEXT FOR YOU AND YOUR DE-SIGNS?
+- Te Waihou Walkway
+- Waitangi Treaty Grounds
+- Mount Manaia
+- Waiotapu Geothermal Park
+- Tāne Mahuta
+- The Revitalisation of Te Reo Māori
+- “So are you Māori or...?”
+- Kava ceremony (Opening)
+- Culture and Arts Week
+- The Great University Gallery Guide
+- Projectspace Gallery , Elam School of Fine Arts (Ground Floor, Main Fine Arts Building, 20 Whitaker Place)
+- George Fraser Gallery, Princes Street (25a Princes St, Auckland Central)
+- Gus Fisher Gallery , Shortland Street (The Kenneth Myers Centre, 74 Shortland Street)
+- Welcome to the Losers’ Club
+- NGARO
+- WHAT IS THE BASIC PREMISE BEHIND NGARO?
+NGARO IS DESCRIBED AS A MULTI-MEDIA WORK. CAN YOU TELL US WHAT THIS MEANS, AND HOW IS IT SHOWN IN THE - PERFORMANCE?
+- HOW WAS THE IDEA FOR NGARO FORMED?
+- HOW DID THE COLLABORATION EMERGE WITH PADDY FREE AND RONA NGAHUIA OSBORNE?
+- CAN YOU EXPLAIN HOW MĀORI PERSPECTIVES OF MENTAL HEALTH MAY DIFFER FROM WESTERN PERSPECTIVES?
+- WHAT CAN CREATIVITY DO TO RELIEVE SYMPTOMS OF MENTAL HEALTH?
+- How prominent are Māori voices and perspectives in the Aotearoa New Zealand dance scene?
+I WONDERED HOW THE IDEA OF TRANSLATING THE FILM INTO TE REO CAME ABOUT, AND HOW WERE YOU APPROACHED TO BE A - PART OF THE PROCESS?
+- Moana Reo Māori
+- WHAT WAS THE TRANSLATION PROCESS LIKE? DID YOU ALL TACKLE EACH SCENE COLLABORATIVELY?
+- COULD YOU TALK ABOUT YOUR VIEW ON THE IMPORTANCE OF BRINGING TE REO INTO THE MAINSTREAM OF POPULAR CULTURE?
+ARE THERE ANY UPCOMING PROJECTS SIMILAR TO THE TRANSLATION OF MOANA THAT YOU ARE INVOLVED IN, OR ANY THAT - YOU WOULD LIKE TO SEE COME ABOUT?
+- Matilda: The Musical
+- Decent Exposure
+- Forced Witness
+- Saturation II
+- Girls Trip
+- Hellblade: Senua’s Sacrifice
+- We Adore Amy Shark
+- YOUR BIG HIT HAS BEEN “ADORE”. WAS THERE A SPECIFIC INSPIRATION, OR A STORY BEHIND THAT SONG?
+- YEAH, ABSOLUTELY! SO, WHAT’S YOUR SORT OF PROCESS WHEN IT COMES TO LYRIC WRITING?
+- RIGHT, BECAUSE YOU’VE BEEN ALL OVER LATELY, ON TOUR. HOW’S THAT BEEN?
+YEAH, ABSOLUTELY. I WAS WONDERING, IF YOU WERE MAKING ANOTHER ALBUM, WHO WOULD BE YOUR ABSOLUTE DREAM COLLAB - TO BE SONG-WRITING AND SINGING WITH?
+- YOUR NEW ZEALAND SHOW IS COMING UP, OF COURSE—ARE YOU LOOKING FORWARD TO
+- Amateur Hour
+- A Column Formerly Titled “The Jacinda Defect”, Now Titled “A Confusion of Dunces”
+- By Popular Demand
+- Ode to Moana Reo Māori: How Language Dances with Culture
+- How to Talk About Sport
+- The Māori-Only All Blacks
+- 1 – Kane Hames: Joe Moody is fine, but looks like an overgrown man baby.
+- 3 – Ben May: Seems decent, I guess. 1
+- Quarter-Life Crisis
+- Kore rawa e rawaka te reo kotahi
+- Baby’s bottom sudoku
+- HARD (THREE POINTS)
+- Herald’s Heroes
+- the people to blame.
+
+### [Issue 21 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-21-2017.pdf)
+- Catriona Britton
+- All the President’s Men
+- “TOP” Of The Food Chain?
+- **Auckland Experiences Fuel Crisis**
+- Māori Party Wiped Out of Parliament
+- **How Will Child Poverty Look Under A New Government?**
+- The Rohingya Refugee Crisis
+- Paula Bennett criticised after campaign text
+- UoA Women Take Out AFF Cup
+- **Child Poverty Action Group**
+In the wake of the election, it has become clear that child poverty is one of the biggest issues facing New - Zealand. Rebecca Hallas had a chat with Child Poverty Action Group
+- HOW DID CPAG GET STARTED?
+- WHAT ARE YOUR GOALS?
+- CAN YOU TALK A BIT ABOUT THE CPAG V AG CASE AND WHAT YOU ACCOMPLISHED?
+DID ANY OF THE POLITICAL PARTIES THIS ELEC-TION HAVE POLICIES YOU SUPPORT? IF NOT, WHAT KINDS OF POLICIES - WOULD YOU HAVE LIKED TO SEE THEM PROMOTE?
+- HOW CAN OUR READERS GET INVOLVED WITH CPAG?
+- What the loss of the Māori Party means for New Zealand
+- An opinion by Rebecca Hallas
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- Trams Remembered
+- Sassy Best Friend
+- Youthline Dinner Series
+- Oktoberfest
+- Flower Power
+- Lemon cake
+- Shop Kiwiana!
+- Top 5 Markets
+- Coatesville Markets
+- La Cigale French Markets
+- Avondale Markets
+- Matakana Farmers’ Market
+- Cross Street Market
+- Craccum Creative Writing Competition
+- Amtrak
+- Aphotic
+- SECOND PLACE PROSE
+- How To Become a Writer
+- ausa CAI Grants
+- Held Court
+- THIRD PLACE PROSE
+- Bracing for the worst
+- Syria
+- Everybody wants to rule the world
+- With Anoushka Maharaj
+- Bill’s Bangers
+- Jacinda’s Jams
+- Shaw’s Serenades
+- David’s Ditties
+- Winnie’s Winners
+- The Cat Pack
+- Annie Lennox (from Eurythmics)
+- Bono (from U2)
+- Michael Jackson
+- Elton John
+- ARTS REVIEWS
+- Kingsman: The Golden Circle
+- mother!
+- Waiting for Morning to Come
+- Half-Light
+- Comic Books to Blockbuster Films: A Cinematic Marvel
+- By Dario Davidson
+- AUSA
+- AUSA October Online Referenda
+- KEY DATES
+- Amateur Hour
+- Ummm, errr, column
+- By Popular Demand
+- Ode to Blade Runner: How We Got over the Crisis of Conscience
+- How to Talk About Sport
+- Sporty Bites
+- Black Ferns Not As Blacklisted As Everyone Thought
+- Fuck The All Blacks
+- “Racing the Storm: The Story of the Mobile Bay Sailing Disaster” – Smithsonian Mag
+- “The Fallout From Sportswriting's Filthiest Fuck-Up” – Deadspin
+- Quarter-Life Crisis
+- Please Look After This Columnist Thank You
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- HARD (THREE POINTS)
+- Herald’s Heroes
+- the people to blame.
+- MAKE SPACE FOR SCIENCE FICTION...
+
+### [Issue 22 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-22-2017.pdf)
+- Catriona Britton
+- **We the People**
+- Auckland Council Agrees to Māori Seats “In Principle”
+- Philanthropist Donates Over $1 Million To THE Uni
+- **Who Is “Craccum Sucks”?**
+- Submissions on Equal Pay Bill Now Open
+- **AUSA REFERENDUM QUESTION DEEMED UNCONSTITUTIONAL**
+- Synthetic Pot Is “Overwhelming” New Zealand Customs
+- Who Polices the Policemen?
+- Nationalism, Europe and its Future
+- The 1.5 Generation and Asian Political Representation
+- An opinion by Janna Tay
+- By Josie Adams
+- CHARITY/ORGANISATION OF THE WEEK
+- What’s On
+- GLOW
+- LATE 2017
+- New Telepathics Single Release Party
+- Diwali Festival 2017
+- Guide to City Travellin’
+- DIY Bath Bombs
+- Gifts on a Budget
+- Britomart Country Club
+- TOP 5 Cycle Tracks in AKL
+- Te Ara Tehuna Estuary Cycleway
+- Te Ara Whiti
+- Tamaki Drive Cycle Route
+- Wattle Downs Cycle Ride
+- Pakuranga Rotary Shared Path
+- Nasty Women and Lipstick on Pigs
+- ausa CAI Grants
+- Reflections on the Pursuit of Academia
+- Youth does not discredit you
+- **People actually want to hear what you have to say if you are brave enough to say it**
+- Prepare to be questioned
+- Regardless of age we’re bound together by a passion for what we do
+- Apply, apply, apply
+- HISTORY HAS ITS EYES ON YOU
+- Enter: A Constitution for Aotearoa New Zealand
+- America’s past is our present
+- SEX WEEK
+- I’m like the Joan Cusack character in the romantic comedy of your life
+- The mother! of all metaphors
+- Mimicry 3
+- Pleasuredome
+- American Assassin
+- “Homemade Dynamite (Remix)”
+- Scream
+- “Rockstar”
+- Student Notices
+- Attention all international students!
+- AUSA October Online Referenda
+- KEY DATES:
+- AUPISA Turns 20 This Month!
+- AUSA Presents: Sex Week
+- SEXPO
+- WEDNESDAY 11 OCTOBER, 10AM - 3PM QUAD, CITY CAMPUS
+- EROTIC FAN FICTION READING
+- FRIDAY 13 OCTOBER, 4PM - 5:30PM GARDEN ROOM, SHADOWS BAR, CITY CAMPUS
+- By Popular Demand
+- Ode to Game of Thrones: Experiencing the No Spoiler Zone
+- How to Talk About Sport
+- S-PO-RT-LITICAL
+- Quarter-Life Crisis
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- Herald’s Heroes
+- the people to blame.
+- 2018 Paper Blanks Diaries
+
+### [Issue 23 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-23-2017.pdf)
+- Catriona Britton
+- Hitting for six
+- UoA Research Says Bisexual Women “Invisible” In High Schools
+- Auckland Uni Botches Graduation Ceremony
+- “Lack Of Financial Support” To Blame For Enrolment Decline
+- Auckland Café Found To Be Ripping Off Migrant Workers
+- “Thoughts and Prayers” Do Nothing For Vegas Killings
+- NEWS
+- Catalonian Independence: Is Spain Only One Country?
+- I Don’t Ever Want To Hear White Nerd Boys Shame Me For Liking Frappuccinos Ever Again, You Weird Man-Babies
+- P R E S E N T S
+- COMMUNITY
+- **In Conversation With: Fossil Free UoA**
+- WHAT IS THE CONCEPT OF DIVESTMENT FROM FOSSIL FUELS?
+WHAT IS THE SIGNIFICANCE OF DIVESTMENT IN THE CONTEXT OF A TERTIARY INSTITUTION, SUCH AS THE UNIVERSITY OF - AUCKLAND, IN THE WIDER FIGHT AGAINST CLIMATE CHANGE?
+- **Everybody Eats**
+- CHARITY/ORGANISATION OF THE WEEK
+- **Flood the Campus**
+- What's On
+- Pleasuredome The Musical
+- Armageddon Expo
+- The Little Mermaid
+- Punky Reggae Party
+- Spicy Vegetarian Stir-fry
+- Get on the hobby-horse!
+- By Grace Hood-Edwards
+- Doing Summer the Kiwi Way GUIDE TO:
+- Be Mindful
+- Top 5 Breweries
+- Hallertau
+- Brothers Beer
+- Liberty Brewing Co
+- Sweat Shop Brew Kitchen
+- Beer Spot
+- In Defence of Letters
+- ausa CAI Grants
+- WILL THE REAL SLIM SHADY PLEASE STAND UP?
+- SEAN SPICER GOES TO THE OSCARS, 2018
+- 8:47 AM, 1 DAY BEFORE
+- 11:32 AM, 1 DAY BEFORE
+- 1:19 PM, 1 DAY BEFORE
+- 2:23 PM, 1 DAY BEFORE
+- 2:24 PM, 1 DAY BEFORE
+- 2:25 PM, 1 DAY BEFORE
+- 4:49 PM, 1 DAY BEFORE
+- 11:39 AM, DAY OF
+- 12:40 PM, DAY OF
+- 12:55 PM, DAY OF
+- 1:30 PM, DAY OF
+- 2:13 PM, DAY OF
+- 3:59 PM, DAY OF
+- 6:45 PM, NIGHT OF
+- 8:39 PM, NIGHT OF
+- 8:58 PM, NIGHT OF
+- 11:29 PM, NIGHT OF
+- 4:21 AM, MORNING AFTER
+- Get schwifty
+- With Anoushka Maharaj
+- TEDx meets UoA: An Interview with Sharndré Kushor
+- TELL ME A BIT ABOUT YOURSELF SINCE WE LAST SAW EACH OTHER IN HIGH SCHOOL. DID YOU CONTINUE STUDYING?
+- WHAT DOES CRIMSON EDUCATION DO AND WHAT WAS THE GREATEST INSPIRATION BEHIND THE COMPANY?
+- DID YOUR UPBRINGING PLAY A BIG ROLE IN YOUR CHOICE TO ENTER THE EDUCATION SECTOR?
+HOW DOES IT FEEL BEING UNDER 30 AND ALREADY LEADING A GLOBAL COMPANY? ARE THERE CHALLENGES YOU FACE FROM THE - AGE GAP?
+AS A WOMAN OF COLOUR DID THIS MAKE A DIFFERENCE TO YOUR EXPERIENCES WITHIN THE INDUSTRY? WHO ARE SOME PEOPLE - YOU LOOK UP TO?
+- WHAT ADVICE WOULD YOU GIVE TO YOUNG WOMEN OUT THERE?
+- TELL US ABOUT YOUR FUTURE PLANS.
+- American Vandal
+- Tell Me You Love Me
+- Being So Normal
+- P R E S E N T S
+- ARTS FEATURE
+- Blade Runner 2049 and the Next Generation Sequel
+- By Popular Demand
+- Ode to Doctor Who: What is a Female Doctor?
+- Quarter-Life Crisis
+- Wanderlost: A Visual Saga
+- Point your finger at a map and go there.
+- How to Talk About Sport
+- Boys Will Be Boys Behaving Badly
+- ausa Financial Hardship Grants
+- Baby’s bottom sudoku
+- MEDIUM (TWO POINTS)
+- HARD (THREE POINTS)
+- Herald’s Heroes
+- the people to blame.
+- October New Releases
+
+### [Issue 24 2017](http://www.craccum.co.nz/wp-content/uploads/2018/07/Craccum-24-2017.pdf)
+- Catriona Britton
+- And the Fellowship of the Ring, Though Eternally Bound by Friendship and Love, Was Ended
+- “Bird Of The Year” Hacked (Again)
+- NEWS
+- Fees Are Going To Rise (Again)
+- **Craccum Actually Won Something (So Keep Paying Us, Jesus Christ)**
+- **Otago Uni Cutting Jobs**
+- **Referendum Proposes Stripping Section Editors of Pay**
+- **Saying “Bonjour” to Weird New Zealand Politics**
+- “Five Eyes” Paranoid Over Chinese Government Intrusion in Western Universities
+- Older White Male Has A Stroke At Local K-Mart After Realising that Immigrants Exist
+- **We Are Beneficiaries**
+- WHAT DID YOU HOPE TO ACHIEVE THROUGH VI-SUALISING THESE STORIES THROUGH ARTWORK?
+- HOW CAN PEOPLE GET INVOLVED WITH YOUR CAUSE?
+- **Creating a Fairer, Safer and Just New Zealand**
+- Zero Waste Approach!
+- Mt Eden Wellbeing Market!
+- LIFESTYLE
+- Speakeasy
+- Mexfestival
+- Show Me Shorts Film Festival
+- Summer sips and snacks
+- Restaurant Review: Oaken
+- 130 Quay St, Britomart
+- Guide to: Summer Break
+- Music Festival Top Tips
+- SUNCREAM
+- TOP 5 SANDWICH JOINTS
+- Fort Greene
+- Hero Sandwich House
+- Pastrami & Rye
+- Swanson’s Sandwich Bar
+- The Store
+- Happy Craccum to all, and to all a good night!
+- FOUR THOUSAND, TWO HUNDRED AND TWELVE
+- FIVE
+- FIVE HUNDRED AND FIVE THOUSAND AND SIXTEEN
+- ONE HUNDRED AND EIGHTY SEVEN
+- TWO HUNDRED AND SIXTY NINE
+- TWENTY-TWO
+- TWO HUNDRED AND FIFTY ONE
+- THIRTY-EIGHT
+- FORTY-ONE
+- SEVENTY-ONE
+- ONE HUNDRED AND SIXTEEN
+- THIRTY-TWO
+- TWO
+- THREE
+- GIVE HOPE! LEGALISE DOPE!
+- P R E S E N T S
+- GIVE IT THE BOOT!
+- Myth: Military training provides motivation
+- Myth: Military training promotes respect for authority
+- Myth: Military training promotes respect for others
+- Myth: Military training develops honesty
+- Myth: Military instructors provide good role models
+- Myth: The military is an untapped resource waiting to be put to use
+- Myth: Military training is more than just push-ups
+- Truly there is no such thing as finality
+- With Anoushka Maharaj
+- My Playing-Card Poet
+- But she didn’t really look for adventure
+- Not like she did when she was younger
+- Finally her story began to draw to its narrative end
+- ARTS REVIEWS
+- **MASSEDUCTION**
+- The Foreigner
+- Big Mouth
+- Lotta Sea Lice
+- Geostorm
+“F” Is For Friends Who Do Stuff Together, “U” Is For You And Me, “N” Is For Anywhere And Anytime At All Down - Here In The Deep, Blue Sea
+- The TC Williams Titans
+- The Boston Globe Spotlight Team
+- Woodward and Bernstein
+- The 1988 Winter Olympics Jamaican Bobsled Team
+- Dracula’s Lament
+- The Hundred Acre Wood Family
+- By Popular Demand
+- A Conclusion
+- Amateur Hour
+- #metoo
+- Quarter-Life Crisis
+- Closing Time
+- How to Talk About Sport
+- What Next?
+- ausa Financial Hardship Grants
+- Baby’s bottom sudoku
+- Kisses and Quizzes
+- EASY (ONE POINT)
+- MEDIUM (TWO POINTS)
+- HARD (THREE POINTS)
+- Herald’s Heroes
+- the people to blame.
+- 360 International
+- Stand out from the crowd!
+- Interested in semester long exchange?
+- There’s still time to ace your exams!
