@@ -1,0 +1,545 @@
+Received: from SY8P300MB0759.AUSP300.PROD.OUTLOOK.COM (::1) by
+ SY3PPF1BF8F8C20.AUSP300.PROD.OUTLOOK.COM with HTTPS; Wed, 23 Jul 2025
+ 20:22:09 +0000
+Received: from PS2PR02CA0071.apcprd02.prod.outlook.com (2603:1096:300:5a::35)
+ by SY8P300MB0759.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:295::9) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8964.22; Wed, 23 Jul
+ 2025 20:22:04 +0000
+Received: from OSA0EPF000000C6.apcprd02.prod.outlook.com
+ (2603:1096:300:5a:cafe::ea) by PS2PR02CA0071.outlook.office365.com
+ (2603:1096:300:5a::35) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.8964.22 via Frontend Transport; Wed,
+ 23 Jul 2025 20:22:03 +0000
+Authentication-Results: spf=fail (sender IP is 130.216.125.250)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=fail (no key for signature)
+ header.d=auckland.ac.nz;dmarc=fail action=none header.from=auckland.ac.nz;
+Received-SPF: Fail (protection.outlook.com: domain of list.auckland.ac.nz does
+ not designate 130.216.125.250 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.125.250;
+ helo=uoasmtpprd01.its.auckland.ac.nz;
+Received: from uoasmtpprd01.its.auckland.ac.nz (130.216.125.250) by
+ OSA0EPF000000C6.mail.protection.outlook.com (10.167.240.52) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8964.20 via Frontend Transport; Wed, 23 Jul 2025 20:22:02 +0000
+Received: from sympa.auckland.ac.nz (list.fmhs.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id 6E636802821;
+	Thu, 24 Jul 2025 08:21:53 +1200 (NZST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz 6E636802821
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=auckland.ac.nz;
+	s=rafal; t=1753302113;
+	bh=uPh67H70DXquL+WoS2iTB4EAZixAvl9jRxNwPiyasEE=;
+	h=From:To:Subject:Date:Reply-To:List-Id:List-Archive:List-Help:
+	 List-Owner:List-Post:List-Subscribe:List-Unsubscribe:From;
+	b=OEwmLyB/W7YG4+IXEzce4qNPNwtDhhakGz/hcwk8t/hBr2SBta18LrFgN0rccCBMg
+	 6M0iJ8ddHVXT22x2mLslDk+VxB/P421EMWmUYBwLGOTY5BXZoGCXyH2yt3BosPWNAJ
+	 SEqETImOcvMOWH+leCtEwg51y2pl+C+oXhF2AbdQ=
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id 599F133D12; Thu, 24 Jul 2025 08:21:53 +1200 (NZST)
+X-Original-To: all-staff@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-all-staff@sympa.auckland.ac.nz
+Received: from SY5PR01CU010.outbound.protection.outlook.com (mail-australiaeastazlp17012049.outbound.protection.outlook.com [40.93.136.49])
+	by sympa.auckland.ac.nz (Postfix) with ESMTPS id 0D0A33030C
+	for <all-staff@list.auckland.ac.nz>; Thu, 24 Jul 2025 08:21:05 +1200 (NZST)
+ARC-Seal: i=2; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=fail;
+ b=HMR6Cn2fqD0olsD6F2Umlc5dfFmrTesSSm/bxcni1wyadcWVo2DyG632MSrGZb8pD4xFl21pNgCuLQvLLhwCNMXSXTp6fuZB7VmGB9EHrojDM36+aIVJarptzRWXsrIpQ1jaTjnnV1jZe+pTHEw4BybaFQjtq6VTS3wlPqRvsmjbf4au1Zqs0HSgotiMXrDuLRyWFJofhoBgI6MWvFIRMNSvv0xGT8Vkx7GF9rE2x71IDbRJpkeFYLSxvWKQxw2bId0OXtXmfvNp6ZRhJD2KQvvn9fP7Bj9Alj6H1SryBvRHlkQ0GGlDjrMZW4Pb9z0h6lrPu8ditAlEk9LQp7mgBA==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=FKNskORVwx33Ui8av2BbBTBNK29ZTuS9MWZuny1qNbA=;
+ b=BJnOFmpz03lfmzYqcTijhQok/QkNK1Jc0BNosvF0XZyhWk/d4nmqD/0FDsWTtfOwom4BJ6q7q7Zol9B59d+eMIELA0sKdAxLoF95+jFuzuUlHDNYtcMf94D5odGZZ/20+kULpp0a608I74bCx3NnQrqc7Fvw/s+ONmwuPms/iWIHS4Tq/uTFztF5V0OuGMLMAvnvvaDobqSORVWZBFRNvMLEGvb4eiayVHFqtTUDHYwrLyS27sZqbHLgQcT5Mu23vo3Bcem6c0d+nV+vRlvU0gYA/mB1l/Ij9iKyuAQOZHxhxBY6FLkJiaJjMdQRktMMDS6PaasXjySvOPPFdwJNfQ==
+ARC-Authentication-Results: i=2; mx.microsoft.com 1; spf=fail (sender ip is
+ 130.216.95.208) smtp.rcpttodomain=list.auckland.ac.nz
+ smtp.mailfrom=auckland.ac.nz; dmarc=fail (p=none sp=reject pct=100)
+ action=none header.from=auckland.ac.nz; dkim=fail (signature did not verify)
+ header.d=auckland.ac.nz; arc=fail (47)
+Received: from SG2PR06CA0252.apcprd06.prod.outlook.com (2603:1096:4:ac::36) by
+ SY8P300MB0774.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:295::21) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8964.22; Wed, 23 Jul 2025 20:19:59 +0000
+Received: from SG1PEPF000082E5.apcprd02.prod.outlook.com
+ (2603:1096:4:ac:cafe::37) by SG2PR06CA0252.outlook.office365.com
+ (2603:1096:4:ac::36) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.8964.22 via Frontend Transport; Wed,
+ 23 Jul 2025 20:19:59 +0000
+Authentication-Results-Original: spf=fail (sender IP is 130.216.95.208)
+ smtp.mailfrom=auckland.ac.nz; dkim=fail (signature did not verify)
+ header.d=auckland.ac.nz;dmarc=fail action=none header.from=auckland.ac.nz;
+Received-SPF: Fail (protection.outlook.com: domain of auckland.ac.nz does not
+ designate 130.216.95.208 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.95.208;
+ helo=uxcn19-ogg-a.UoA.auckland.ac.nz;
+Received: from uxcn19-ogg-a.UoA.auckland.ac.nz (130.216.95.208) by
+ SG1PEPF000082E5.mail.protection.outlook.com (10.167.240.8) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8964.20 via Frontend Transport; Wed, 23 Jul 2025 20:19:57 +0000
+Received: from uxcn19-tdc-a.uoa.auckland.ac.nz (10.6.5.32) by
+ uxcn19-ogg-a.UoA.auckland.ac.nz (10.6.5.30) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1544.11; Thu, 24 Jul 2025 08:19:56 +1200
+Received: from SY5PR01CU010.outbound.protection.outlook.com (130.216.158.20)
+ by uxcn19-tdc-a.uoa.auckland.ac.nz (10.6.5.32) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1544.11 via Frontend Transport; Thu, 24 Jul 2025 08:19:56 +1200
+Received: from SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:23b::7) by
+ SY8P300MB0441.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:295::19) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8964.22; Wed, 23 Jul 2025 20:19:52 +0000
+Received: from SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::2a68:fd51:1035:2be0]) by SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::2a68:fd51:1035:2be0%3]) with mapi id 15.20.8964.019; Wed, 23 Jul 2025
+ 20:19:52 +0000
+From: Julie Tomov <j.tomov@auckland.ac.nz>
+To: all-staff Mailing List <all-staff@list.auckland.ac.nz>
+Subject: Professional staff Registration - September 2025 Graduation
+ Ceremonies
+Thread-Topic: Professional staff Registration - September 2025 Graduation
+ Ceremonies
+Thread-Index: Adv7i59q+XgSdecLSlOSmQuwRPxVBA==
+Date: Wed, 23 Jul 2025 20:19:52 +0000
+Message-ID: <SY7P300MB01688E93E7F8610FD54343EFDC5FA@SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=auckland.ac.nz;
+x-ms-traffictypediagnostic: SY7P300MB0168:EE_|SY8P300MB0441:EE_|SG1PEPF000082E5:EE_|SY8P300MB0774:EE_|OSA0EPF000000C6:EE_|SY8P300MB0759:EE_|SY3PPF1BF8F8C20:EE_
+X-MS-Office365-Filtering-Correlation-Id: 2092c5ec-7eeb-433c-7c68-08ddca26960e
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|366016|8096899003|13003099007|41050700001;
+X-Microsoft-Antispam-Message-Info-Original: AxgzmT3zWNZJX7jApsK6MimolXwuO9WAt9SCd8ff7zLdFgAKxYz6lJENhgCv10X1ZamKbArwrg8u1cOrzuL/ejQkzXBO28xFspbxt3Q9ThU/ARsbNaZcGe/KZwVFOAcnmhaXPlqP31xl7M/AX64UNmaafOkfbvfB/yLpluaMkz95jV3+xVy8l7M8YI7xgvInsZFMrTwyM4z3Jc9esHFopkmNSoqIBXT2StaRMnNbrpS5zhEtnUteG6Oqjjpmw5uBAKiDRcwVk3c4WfFo9NKzewe7yrgW5DMgVzBs5T0qzzxM5LK6b1eUkJIkj5rseP9qwKyxTE16hQb2bPLj5Puqoz3m6MiBF5d6rze3Ak6mvQKTMyc93YEHRGu7SnwRqRNZ+s8b5g3hoxFFOTFXUDQL4psGr59xhNOHDx8opx5Ezocfb+5vcv+FMtnrmgyiF7M1UszekmC2XfAIpAnCPHJSjIkPS1FaS68IO5K7I2EVgwj3pNEa4UOfGK0AIr2P2g4mA47M3qd9dLuRD+qd/I/IxSdNZ1qNfMwB8NXUfH+zaJai4h4AMUjwrCg2YSI2YVZZ6bEAZFwn5BjECWcb92LsbyUqoUUoFt9pZXg+RDxmYnn7A0PgKSTmmBBNzOgYoxli47t8K/SKpZ2/MS4pjR+ns5mx6qGPPzk73mAbbnjP3NAoIcu8XPKYbAmFmHxSmJh//nj/ythq63ixzSQeEU3oKb4GCjJ4AUEJqZIlQ2fsbDPYXpfPw0pBm+4jjCRrSLZ/
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(366016)(8096899003)(13003099007)(41050700001);DIR:INT;
+arc-seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=qVw+Q/a+CI4ZBW5AK1Oog9Gtq7RLPENzh+is9GI52B3UEyE4nRHVqoUM8Nx1sTuSXuGx48Kdm99Fc73+9U1X/Rros/WSYhJt6u2/DoNHbv0pFku//QM7J0HISLD7ImYJqC3uUTAHNJ6xjYzozi1UlXrFVRTh4HIvDqLEm1xMCBgm/wj28a7aVe8YPWrejL7kXmL2LOJAcv+ubA+RZo3y+43R0UjuKdKibxqYY+swzzMGLcwV0Kb4be5hAswVV6dqaBnEP98Uhcc9JR+eTWlc478q8p/tRj26dbr+z5ZKmYru5yYwEaFzDEPpR219+Dh0epMUPfsfEpAjxv5hY/ArHQ==
+arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=WlKvHGkRxE24eti4B9hOkZKnd5wqZ5y8QIJEZ8EXV2c=;
+ b=n9XxvscSQqxxGQamvkhQ1a01D0YsGnn7z2oS9CDkXJhez7O797SV3X/EPSfXFp1/EQQ6d+2E3VmnfneSoP3lrMVklqVhqK1FmjVPNGcMnIiFYPC1XqMFXNPuJKKE6aPKoUsmsZHOEfesatxhSzCHQ4/XKCYRqcyxXClUV3AyyqRuozR4f2G1ASCSKRRK00Od3UdZqHFrhtDI7dTT7A8VTE9G9r0P2nAzm5j90PaEOx7DfhVOJbxlF42kTQLqY45HaD2J4mGG/MvMLzvjpWZBjlkkutuc67pKMEQGMg8AEhXK6F3A/JHEySuxD9uOvTX+L2P+x4aV2/XtwgV9Ofnt+w==
+arc-authentication-results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=auckland.ac.nz; dmarc=pass action=none
+ header.from=auckland.ac.nz; dkim=pass header.d=auckland.ac.nz; arc=none
+x-ms-exchange-transport-crosstenantheadersstamped: SY8P300MB0441
+x-organizationheaderspreserved: SY8P300MB0441.AUSP300.PROD.OUTLOOK.COM
+x-crosspremisesheaderspromoted: uxcn19-tdc-a.UoA.auckland.ac.nz
+x-crosspremisesheadersfiltered: uxcn19-tdc-a.UoA.auckland.ac.nz
+Content-Type: multipart/alternative;
+	boundary="_000_SY7P300MB01688E93E7F8610FD54343EFDC5FASY7P300MB0168AUSP_"
+X-EOPAttributedMessage: 1
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SG1PEPF000082E5.apcprd02.prod.outlook.com
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 6c9ad878-bb95-4616-4981-08ddca264870
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|35042699022|82310400026|30052699003|13003099007|8096899003;
+X-Microsoft-Antispam-Message-Info-Original: =?us-ascii?Q?WblnDg6WftE2IEZ+HNYOQBrL6vRWS3jkOIh5ALDzcB76fJnr1MptrOSqplsL?=
+ =?us-ascii?Q?7DXp+BuJbD4eXl5aNGBB5KoC+iEsu2jRMroGNJZn6ixc5cUUUXtivKaUrLF8?=
+ =?us-ascii?Q?H6czOfMNTtIligdnA5NTZ5KfvvhNd8Ot0TR7nvvTQ7axaSD5gQCtyA8P+EDp?=
+ =?us-ascii?Q?pP3Tkd3BZ5ISW28kQ2TJeKM+0XTuREbLiWBsnolByN4sSZx/6OSBeOoWRzV9?=
+ =?us-ascii?Q?OkqGLWW7nKqW78EBmAZnIW3/lYXIWSQFReCHVMtNitBffZQD+f/hVjfGY03x?=
+ =?us-ascii?Q?NS6a/Wqy4LU43v3aCB5y+V2TxvNDnlB/OA9ZqJzYJZEDN0yRnp2DBhj5U4c/?=
+ =?us-ascii?Q?7hi0uQvZYzCJSUtZbgrNKtKbz7I7MQitfeIX/dCBwTyazl5+2aDgfzGECdat?=
+ =?us-ascii?Q?0iJFmRD4MPkXHWNKZ+usT4u3bZ8biv4vUgmEFlzozcO8o1Rs6FT5v6M3fK1f?=
+ =?us-ascii?Q?LixPePkmpX1cmkZGuGM8Bbc1j7U6WGonRqr4XCbZGShAapK7maXYTObW2/wW?=
+ =?us-ascii?Q?eqMUdwLtcHOUf3q8n+xBZ6FBcUXCpwCyG21vlHhq27YackZ1BilK3Ucq4SN6?=
+ =?us-ascii?Q?x8TkRoD2gOROzY5yG6mju6VipSAv+u3cSf7p4m+sBbj09IQr/W/LHeoush/w?=
+ =?us-ascii?Q?vjcXJ7P2o3uZLRu2SKElVqWFCZ7j3n2MI/sfkvdl7wNS9D/x5Qi7KRxPLdCg?=
+ =?us-ascii?Q?j4Nl5fDpCCa6CP0CJE9hESoKc4Cu6Zt5hSPDHcQdwaXr832xATPlGH0N7Ns2?=
+ =?us-ascii?Q?o5Oc/0ZzIC2GMt/px3LIeC1WpOQesvaey09O8WAaE4bGPxR2WTJXBZ07vwaL?=
+ =?us-ascii?Q?TqK5tK8G51l0ZfxrukGa9HIlnelCKtgZQDjRXSj1f14qISjVt069GG5Hstfn?=
+ =?us-ascii?Q?0bnuBunzoDqGj3OQ5+OcEGJ7TFGkdL9Chfbhpu9zBUIOJjrscPaGnhhouBoo?=
+ =?us-ascii?Q?yb5gh3yQxi7AZYw7gOe09PNa/lQ5Cpjf7LpHIt094q0WdSmk7z/y9tGkUy0X?=
+ =?us-ascii?Q?wpei3N3EtIEdpm7rkEzl9ZocKRVSe48ERPXTzyQ7m8A+qLMCnpXZpTQX31ZQ?=
+ =?us-ascii?Q?2obYSnmZ4x9V8uC4/KTR3Vyi9ISyJQY5EKI8BWSPNsl8+sB4yFPzQbHHSHrJ?=
+ =?us-ascii?Q?KbHN8EcXe5n2xqgjdkILN+YQvBy3g5GspGvMZWsugtimFjc8Yd4FOwiquoMN?=
+ =?us-ascii?Q?VDHN5CVjK3rEwNWRmXbGVmVYdv+apvzo1pBeV0UwpE5JoZSo/k9yu9C+0zjU?=
+ =?us-ascii?Q?aEBVNCrhJj+nJ3OsJn/H2oWOsn6u28EX5Da3u9lJ035xknsDbLIrPzgbrhRs?=
+ =?us-ascii?Q?KcPrt9uJ1OfGC+s76SoaxwkWC9UDXQ38CNswU5mfiZ0b26jIso3dRQsyiHf1?=
+ =?us-ascii?Q?ayJ145n9PpaU0CSgb85B63ROEB335/5mAnzeTiBgy+8IF6kALI5rWeAv3sfu?=
+ =?us-ascii?Q?YH6o7ccDTVXmiYvUwAqum271kSDu9o3FExjrUKoewdB4fmAd56dimKsyCEsH?=
+ =?us-ascii?Q?dzimzP6jNq/xgOiri9M60K1i9aSTCT6SI7y7yHWO1zO9k7he9Dn5VjQ1Euxy?=
+ =?us-ascii?Q?UyqNHQsZ27xnkTlypImavyek+CwG5uUZyT5YL718SgpvITXulw7PPBWvAM/R?=
+ =?us-ascii?Q?H0lm8c36hO9i8Y7xKAPBg6D5iEqu+J+q6Fwq4dzPE+Znr3vkQjjdnRhMk4bL?=
+ =?us-ascii?Q?BohKrNOvWbRC5nHvNi8xzMWenFu0+iuchUNXZINXsjY2xu+2/VtdtWa690iA?=
+ =?us-ascii?Q?WCBPY9iLDlTLoxrN9XnFK8cfZXTp4yhptuoKezBpW8zAykt+B/q/tlYIX/FW?=
+ =?us-ascii?Q?PN57i0JdGKZ87Td/i/DAowtNhF1RpeB1r6y0epWDz5ZM2mYSlYg3maiPgLrZ?=
+ =?us-ascii?Q?3e/tQSW8tDqcuCiGzFxZsDdbN0NzN0+UzK3rMkfX8cA3zBRP+VbqTdBoLsZs?=
+ =?us-ascii?Q?P53HejEr/rVvlmIHcPDNgBX5mEKyZ0UU/kvQWvf0997bGdV+5rT1uprnFkZp?=
+ =?us-ascii?Q?3n8oV3J7GE7PpZRUU4GlEwSrh18DYfITUgLfph2LfB/87hj7WcGEV+He6W/J?=
+ =?us-ascii?Q?/1iAdHQd/JGgyjgybgbrTJPGWapi3b5bDaJ0C3oGROhQoeelMsFM3Hc3vo1O?=
+ =?us-ascii?Q?zUABI9t6AB4lURvwHTN4G/+9u75jJ6eNvw=3D=3D?=
+X-Forefront-Antispam-Report-Untrusted: CIP:130.216.95.208;CTRY:NZ;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:uxcn19-ogg-a.UoA.auckland.ac.nz;PTR:natgate1-1.auckland.ac.nz;CAT:NONE;SFS:(13230040)(35042699022)(82310400026)(30052699003)(13003099007)(8096899003);DIR:INB;
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY8P300MB0774
+Reply-To: Julie Tomov <j.tomov@auckland.ac.nz>
+X-Loop: all-staff@list.auckland.ac.nz
+X-Sequence: 647
+Errors-to: all-staff-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: all-staff-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <all-staff.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/all-staff>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:all-staff-request@list.auckland.ac.nz>
+List-Post: <mailto:all-staff@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20all-staff>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20all-staff>
+Return-Path: all-staff-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 23 Jul 2025 20:22:03.1578
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 2092c5ec-7eeb-433c-7c68-08ddca26960e
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: OSA0EPF000000C6.apcprd02.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: OSA0EPF000000C6.apcprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: UOA.onmicrosoft.com
+X-MS-Office365-Filtering-Correlation-Id-Prvs: cfa7974f-ab17-4c1a-d5b1-08ddca264b73
+X-LD-Processed: d1b36e95-0d50-42e9-958f-b63fa906beaa,ExtFwd
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|35042699022|82310400026|4022899009|30052699003|13003099007|8096899003;
+X-Forefront-Antispam-Report: CIP:130.216.125.250;CTRY:NZ;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKN;H:uoasmtpprd01.its.auckland.ac.nz;PTR:uoasmtpprd01.its.auckland.ac.nz;CAT:NONE;SFS:(13230040)(35042699022)(82310400026)(4022899009)(30052699003)(13003099007)(8096899003);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 23 Jul 2025 20:22:02.7499
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 2092c5ec-7eeb-433c-7c68-08ddca26960e
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=d1b36e95-0d50-42e9-958f-b63fa906beaa;Ip=[130.216.125.250];Helo=[uoasmtpprd01.its.auckland.ac.nz]
+X-MS-Exchange-CrossTenant-AuthSource: OSA0EPF000000C6.apcprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY8P300MB0759
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:07.1289628
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.8964.021
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?windows-1257?Q?bUoDgNK8sE3Jb3KR8mZiMqYFBoLn3Wp+NsKCE5HgQZ5w1JsvE9tbXcMr?=
+ =?windows-1257?Q?UdzrczG8IggBoVzbODreXxGDe9EdPju1c6mzE3lkrriBvFk5NTafp2vj?=
+ =?windows-1257?Q?yMWRUgNIrpTImiY7ZldRY5JwsMiA7wpRwWh2RSsbrh2v7mH1UkwwJGZu?=
+ =?windows-1257?Q?PrkJBVdlWXq73sCeaoey7jhtlMWoiy6ODVfftYkN2wlxFrGye4aMgffU?=
+ =?windows-1257?Q?9Z9bYyEm4lX6TpUD40EXwgDQsKd6V8/gmw06Xu6uwZF2rjUs9waauJfn?=
+ =?windows-1257?Q?+RnYLfVzZkmpN8EcKgGk5TIdf7Tw4kC64XhaE6jgqx4NcV1gYJgFjyv+?=
+ =?windows-1257?Q?6j3msNi8JPWzio4IgAdf9vvrSkEna8K2VurPali92izH/5FaYOYRHBUp?=
+ =?windows-1257?Q?BcW7eIOwPPxzCY8NLdT6G4mqPBHFLdsn+wX98U10ekWW0L67csndIHY+?=
+ =?windows-1257?Q?XwMt5t3xCEtrP29q9Y2+zaaIfjece+6b1J4JJnvHsrbzupfvmjqAlnzS?=
+ =?windows-1257?Q?w6Evgum1nu1/v+qZuxwZOmG7B31xSBtq3QStafkrtBIyCyEXmeqgu8tz?=
+ =?windows-1257?Q?WGQwOXlsDAXkGxpO3bGeB01LoW1Skmn3Ct3Mmj5GrJnxi+UKOi3jQptH?=
+ =?windows-1257?Q?mHlpNdk/1VAKz0cMWhwC2eXZ+ifuqjLUIXypXDfscHFNlJ4BzZwkeMHF?=
+ =?windows-1257?Q?sVDyHT8qOvf0rVNgR6xq6gVrWo8kfQUxPNDELBvrHC5kW2MrICHwFNOH?=
+ =?windows-1257?Q?uE44KyunMz5h8gQu2nocvkQ1UkngifdKLHojbhiwGlYL1muOqsBxfIxI?=
+ =?windows-1257?Q?/vO/NOMUyFb6LPvmD2LqMjJIDLA6JkRcS8jXyfSHP5/e8yNd2IV+w1GR?=
+ =?windows-1257?Q?ZvZgwrpfiMGMI5PNtBdq8eYU+JBoNFFd0kcTTWv2OqsG7Tx+ZxzDaRbF?=
+ =?windows-1257?Q?1GRFqGtLZ8VDekOSrowJXMyY3rCJhDo2d/Qr9Kv5Tg77UPexrvQG/0m+?=
+ =?windows-1257?Q?C88WblRoHp+0pYYl9yVzAwLMdfMgBqPaCpUQplfg79cAte0zPNr/ba7S?=
+ =?windows-1257?Q?9ZC0ErYGdOZ5vGxtCLLy+Et1+kQVTNKk0enQDAFqRtprmjyKAa0jcWGT?=
+ =?windows-1257?Q?ksGjm+vHcM+zVzk69S2V3fR/44n+HneeoE+WusVwqqcPHsjowVAOPQ1I?=
+ =?windows-1257?Q?fv8tM/9oWiuuwDXZoYkRgEaoXAAMhUZ4V4dzx01HtftSTMk2xt6yYayr?=
+ =?windows-1257?Q?dFG0Fh5Hl3gdNi1MQE5Kve+e+oMXPVVs36Scz7ys6+RR9uG0sLiI3iAo?=
+ =?windows-1257?Q?Lxcy6J8Kgk2ME6FzG0ju67FkdunnIg63Tsuz7zxzkYZEQuhEcf+r3ir7?=
+ =?windows-1257?Q?NurSgJ3RgQlHcweWC+fOyZCuyjnQmcDY9zVYqrlemqPJkfMWCpGqGcTT?=
+ =?windows-1257?Q?RbncNMJLo2TFg0h5aBrpRu/RANzT0X2jfswzhFH16AvFyxCXXDkAGzC7?=
+ =?windows-1257?Q?sJy9jxMeSV/+TS9g/Qt49OkpwY4iIFR4wR+4Um6c8jS+p3Scj1zOxvRp?=
+ =?windows-1257?Q?LMT7UeCSq1lOgGkAIDBjjo6ssmDXUhtKON/Hkzbht3P+DoHGDDUvGQEE?=
+ =?windows-1257?Q?plyRuphLrRseQMo/DBnlGMbuXHNdqbV7ItVmfoailSNE+8jjaPXIoRZl?=
+ =?windows-1257?Q?lPixQDckx7zokKtJpnMfBq8ZSwrLnIA74fjQnqWWsOdF+C1f7zn7FCFu?=
+ =?windows-1257?Q?jLiW8FrY6t7t8mOOiKhN9dri0NgXlviE/vAjqrBnXu9LHAlpg9z2OUQz?=
+ =?windows-1257?Q?6DduFv/dno213YzKuziccJRNiAf5xzuBUxJVAmwfbu3bOr3985ybQaq/?=
+ =?windows-1257?Q?rgfH5B56hPEHardvYohQiKoVKO0m5dGkqW5+81IPsdIwEbJcBP+ZRKh7?=
+ =?windows-1257?Q?jqJHo7BilXEehBAmZtjjIL3WARuef6F9PreqhmiABskMFLyWRIJjwB45?=
+ =?windows-1257?Q?3AaYMNWZqlA57EK/pCF84dx6CNzPj0U1KuGdFV3IhRaiwq0gYASU7UAT?=
+ =?windows-1257?Q?g+7vktFL4rsBFb4vNT7kSWIDHkfEslKxjQ2DAYJl4mRuoTGch7Mwu1PS?=
+ =?windows-1257?Q?9U/lmwFXd2AA9BfMozggXyv6a/B7+oRMOSlMS8cJkkKSTFXKQ4LUmUPU?=
+ =?windows-1257?Q?g5EGFmvnQsjby+d6CTpqBsN3cIkhrokMy9Ng9etr1rzR8J2IfIKD9kuG?=
+ =?windows-1257?Q?AWtJhDJZ8qjCLdDK+S+c19VBpjucT5YLEHfjUd1bl+arVBh5JQuQRQ64?=
+ =?windows-1257?Q?Me0K35sjeCYLoehlJP+y1GeLKiHwraNLBQVQvkYnZh43ty43rO9aC8nA?=
+ =?windows-1257?Q?MEpqMjbbaGHwkWGhgfHjr/WEi7CWaF4JYIrIEpFr5Zuh94z4KrmM0a6T?=
+ =?windows-1257?Q?pCYnINoxR5Jg+mKeha2cLUANyVhBLWPp3g+bNF82QcLjtnJ8/HqCN+WD?=
+ =?windows-1257?Q?L7fYcp+s6Jc2e+D9NPtwLDfRbwjobVOw+K52LeYzwuUJsz06sf0=3D?=
+MIME-Version: 1.0
+
+--_000_SY7P300MB01688E93E7F8610FD54343EFDC5FASY7P300MB0168AUSP_
+Content-Type: text/plain; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+Please do not reply to this message =96 please send any queries to graduati=
+on@auckland.ac.nz<mailto:graduation@auckland.ac.nz>
+
+For Academic Staff registering to sit on stage please refer to the email se=
+nt to you from your Director of Faculty Operations with separate instructio=
+ns.
+
+
+T=E7n=E2 koutou katoa
+
+Our =91Spring=92 Graduation ceremonies will take place on Monday 8th, Tuesd=
+ay 9th and Wednesday 10th of September at the Auckland Town Hall and we are=
+ seeking your help with the ceremonies.
+
+The success of graduation is dependent upon support from staff who assist d=
+uring each graduation day. We would appreciate your registration as a volun=
+teer to assist with marshalling the graduands.
+
+Below are details of how you can volunteer at these Graduation Ceremonies.
+
+To indicate your availability to marshal click here<https://www.student.adm=
+in.auckland.ac.nz/psp/ps/EMPLOYEE/HRMS/c/UOA_DEVELOPMENT.UOA_GRAD_WEB_FORM.=
+GBL?PORTALPARAM_PTCNAV=3DUOA_GRAD_WEB_FORM_GBL&EOPP.SCNode=3DHRMS&EOPP.SCPo=
+rtal=3DEMPLOYEE&EOPP.SCName=3DHCSR_RECORDS_AND_REGISTRATION&EOPP.SCLabel=3D=
+Records%20and%20Enrolment&EOPP.SCPTfname=3DHCSR_RECORDS_AND_REGISTRATION&Fo=
+lderPath=3DPORTAL_ROOT_OBJECT.HCSR_RECORDS_AND_REGISTRATION.HCSR_GRADUATION=
+.UOA_GRAD_WEB_FORM_GBL&IsFolder=3Dfalse> and log in.
+Select the =91Graduation Marshalling=92 button to access the form, your reg=
+alia requirements can be entered on the form before submitting.
+If you register to attend more than one ceremony it is likely that you will=
+ be assigned to more than one ceremony.
+
+Please complete the form by close of business on Friday 15 August.
+
+Whilst we aim to assign roles to as many staff as possible, it=92s possible=
+ that not all staff will be assigned a role. If you do not receive a role, =
+it is because more staff than we have roles for have requested to marshal d=
+uring a ceremony.  If you are assigned a role please make sure you have blo=
+cked that time out of your calendar and that you=92re able to fulfil that r=
+ole for the entirety of when it=92s needed.
+
+Once roles have been assigned, a detailed list of duties will be forwarded =
+to all participants who have been assigned a role. Briefings will be held f=
+or staff who have been assigned roles. Details for the briefings are as fol=
+lows, please note the dates and times in case you are selected for a role.
+
+Briefing # 1- Tuesday 2nd September (Section Coordinators and Section Check=
+ers) =96 1.30 pm via Zoom
+Briefing # 2 - Tuesday 2nd September (for roles inside the auditorium) =96 =
+2.30 pm via Zoom
+
+Briefing # 1- Wednesday 3rd September (Section Coordinators and Section Che=
+ckers) =96 10.am via Zoom
+Briefing # 2- Wednesday 3rd September (for roles inside the auditorium) =96=
+ 11 am via Zoom
+
+If you cannot attend one of the briefing sessions, you must contact the Gra=
+duation Office regarding training. There is no opportunity on the day of gr=
+aduation to direct people in their tasks, so we can=92t roster staff to hel=
+p if they do not attend a briefing.
+
+The schedule of ceremonies and information regarding marshalling is availab=
+le on the staff intranet<https://www.staff.auckland.ac.nz/uoa/home/staff-in=
+tranet/teaching-and-students/services-for-students/graduation-2>.
+
+Link to the form to register to volunteer:
+http://tinyurl.com/n3w728h
+
+We appreciate your attendance and hope to see you there =96 if you have any=
+ queries please email: graduation@auckland.ac.nz<mailto:graduation@auckalnd=
+.ac.nz>
+
+Noho ora mai
+Graduation Office
+
+
+--_000_SY7P300MB01688E93E7F8610FD54343EFDC5FASY7P300MB0168AUSP_
+Content-Type: text/html; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#467886;
+	text-decoration:underline;}
+span.EmailStyle18
+	{mso-style-type:personal-compose;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-NZ" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><a name=3D"x__Hlk55976082"><b><span style=3D"font-si=
+ze:11.0pt;color:red">Please do not reply to this message =96 please send an=
+y queries to
+</span></b></a><a href=3D"mailto:graduation@auckland.ac.nz"><span style=3D"=
+mso-bookmark:x__Hlk55976082"><b><span style=3D"font-size:11.0pt">graduation=
+@auckland.ac.nz</span></b></span><span style=3D"mso-bookmark:x__Hlk55976082=
+"></span></a><span style=3D"mso-bookmark:x__Hlk55976082"><b><span style=3D"=
+font-size:11.0pt"><o:p></o:p></span></b></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:x__Hlk55976082"><b><span=
+ style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></span></b></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:x__Hlk55976082"><b><span=
+ lang=3D"EN-AU" style=3D"font-size:11.0pt;background:yellow;mso-highlight:y=
+ellow">For Academic Staff registering to sit on stage please refer to the e=
+mail sent to you from your Director of Faculty
+ Operations with separate instructions.</span></b></span><span style=3D"mso=
+-bookmark:x__Hlk55976082"><b><span style=3D"font-size:11.0pt"><o:p></o:p></=
+span></b></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:x__Hlk55976082"><b><span=
+ style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></span></b></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:x__Hlk55976082"><span la=
+ng=3D"mi-NZ" style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></span></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:x__Hlk55976082"><span st=
+yle=3D"font-size:11.0pt">T</span></span><span style=3D"font-size:11.0pt">=
+=E7n=E2 koutou katoa<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Our =91Spring=92 Gr=
+aduation ceremonies will take place on Monday 8<sup>th</sup>, Tuesday 9<sup=
+>th
+</sup>and Wednesday 10<sup>th</sup> of September at the Auckland Town Hall =
+and we are seeking your help with the ceremonies.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU" style=3D"font-size:11.0pt">The =
+success of graduation is dependent upon support from staff who assist durin=
+g each graduation day. We would appreciate your registration as a volunteer=
+ to assist with marshalling the graduands.
+</span><span style=3D"font-size:11.0pt"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU" style=3D"font-size:11.0pt">Belo=
+w are details of how you can volunteer at these Graduation Ceremonies.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU" style=3D"font-size:11.0pt"><o:p=
+>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU" style=3D"font-size:11.0pt">To i=
+ndicate your availability to marshal click
+</span><span style=3D"font-size:11.0pt"><a href=3D"https://www.student.admi=
+n.auckland.ac.nz/psp/ps/EMPLOYEE/HRMS/c/UOA_DEVELOPMENT.UOA_GRAD_WEB_FORM.G=
+BL?PORTALPARAM_PTCNAV=3DUOA_GRAD_WEB_FORM_GBL&amp;EOPP.SCNode=3DHRMS&amp;EO=
+PP.SCPortal=3DEMPLOYEE&amp;EOPP.SCName=3DHCSR_RECORDS_AND_REGISTRATION&amp;=
+EOPP.SCLabel=3DRecords%20and%20Enrolment&amp;EOPP.SCPTfname=3DHCSR_RECORDS_=
+AND_REGISTRATION&amp;FolderPath=3DPORTAL_ROOT_OBJECT.HCSR_RECORDS_AND_REGIS=
+TRATION.HCSR_GRADUATION.UOA_GRAD_WEB_FORM_GBL&amp;IsFolder=3Dfalse" target=
+=3D"_blank">here</a>
+</span><span lang=3D"EN-AU" style=3D"font-size:11.0pt">and log in. <o:p></o=
+:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU" style=3D"font-size:11.0pt">Sele=
+ct the =91<b>Graduation Marshalling</b>=92 button to access the form, your =
+regalia requirements can be entered on the form before submitting.<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-AU" style=3D"font-size:11.0pt">If y=
+ou register to attend more than one ceremony it is likely that you will be =
+assigned to more than one ceremony.</span><span style=3D"font-size:11.0pt">=
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Please complete the=
+ form by close of business on
+<b>Friday 15 August. </b><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Whilst we aim to as=
+sign roles to as many staff as possible, it=92s possible that not all staff=
+ will be assigned a role. If you do not receive a role, it is because more =
+staff than we have roles for have requested
+ to marshal during a ceremony.&nbsp; If you are assigned a role please make=
+ sure you have blocked that time out of your calendar and that you=92re abl=
+e to fulfil that role for the entirety of when it=92s needed.<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Once roles have bee=
+n assigned, a detailed list of duties will be forwarded to all participants=
+ who have been assigned a role. Briefings will be held for staff who have b=
+een assigned roles. Details for the
+ briefings are as follows, please note the dates and times in case you are =
+selected for a role.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;background:yellow;ms=
+o-highlight:yellow">Briefing # 1- Tuesday 2<sup>nd</sup> September (Section=
+ Coordinators and Section Checkers) =96 1.30 pm via Zoom<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;background:yellow;ms=
+o-highlight:yellow">Briefing # 2 - Tuesday 2<sup>nd</sup> September (for ro=
+les inside the auditorium) =96 2.30 pm via Zoom</span><span style=3D"font-s=
+ize:11.0pt"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;background:yellow;ms=
+o-highlight:yellow">Briefing # 1- Wednesday 3<sup>rd</sup> September (Secti=
+on Coordinators and Section Checkers) =96 10.am via Zoom<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;background:yellow;ms=
+o-highlight:yellow">Briefing # 2- Wednesday 3<sup>rd</sup> September (for r=
+oles inside the auditorium) =96 11 am via Zoom</span><span style=3D"font-si=
+ze:11.0pt"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">If you cannot atten=
+d one of the briefing sessions, you
+<b>must</b> contact the Graduation Office regarding training. There is no o=
+pportunity on the day of graduation to direct people in their tasks, so we =
+can=92t roster staff to help if they do not attend a briefing.<o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">The schedule of cer=
+emonies and information regarding marshalling is available on the
+<a href=3D"https://www.staff.auckland.ac.nz/uoa/home/staff-intranet/teachin=
+g-and-students/services-for-students/graduation-2" target=3D"_blank" title=
+=3D"http://web.auckland.ac.nz/uoa/for/staff/admin_services/student_admin/gr=
+aduation/">
+staff intranet</a>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt">Link to the form=
+ to register to volunteer:<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><a href=3D"http://t=
+inyurl.com/n3w728h">http://tinyurl.com/n3w728h</a><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">We appreciate your =
+attendance and hope to see you there =96 if you have any queries please ema=
+il:
+<a href=3D"mailto:graduation@auckalnd.ac.nz">graduation@auckland.ac.nz</a><=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Noho ora mai<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Graduation Office<o=
+:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+</div>
+</body>
+</html>
+
+--_000_SY7P300MB01688E93E7F8610FD54343EFDC5FASY7P300MB0168AUSP_--

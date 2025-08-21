@@ -1,0 +1,673 @@
+Received: from SY7P300MB0736.AUSP300.PROD.OUTLOOK.COM (::1) by
+ SY3PPF1BF8F8C20.AUSP300.PROD.OUTLOOK.COM with HTTPS; Sun, 23 Feb 2025
+ 20:01:15 +0000
+Received: from SI2PR02CA0049.apcprd02.prod.outlook.com (2603:1096:4:196::7) by
+ SY7P300MB0736.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:28f::13) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8466.20; Sun, 23 Feb 2025 20:01:12 +0000
+Received: from SG1PEPF000082E1.apcprd02.prod.outlook.com
+ (2603:1096:4:196:cafe::ea) by SI2PR02CA0049.outlook.office365.com
+ (2603:1096:4:196::7) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.8466.20 via Frontend Transport; Sun,
+ 23 Feb 2025 20:01:11 +0000
+Authentication-Results: spf=pass (sender IP is 130.216.125.250)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=fail (no key for signature)
+ header.d=auckland.ac.nz;dmarc=pass action=none header.from=auckland.ac.nz;
+Received-SPF: Pass (protection.outlook.com: domain of list.auckland.ac.nz
+ designates 130.216.125.250 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.125.250;
+ helo=uoasmtpprd01.its.auckland.ac.nz; pr=C
+Received: from uoasmtpprd01.its.auckland.ac.nz (130.216.125.250) by
+ SG1PEPF000082E1.mail.protection.outlook.com (10.167.240.4) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8466.11 via Frontend Transport; Sun, 23 Feb 2025 20:01:11 +0000
+Received: from sympa.auckland.ac.nz (lists.ec.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id 58D24802855;
+	Mon, 24 Feb 2025 09:01:09 +1300 (NZDT)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz 58D24802855
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=auckland.ac.nz;
+	s=rafal; t=1740340869;
+	bh=po7O5QYhf4Hl0qEFVZ1bNzRZ4U7z+BipkU+wb0UWOBY=;
+	h=From:To:Subject:Date:Reply-To:List-Id:List-Archive:List-Help:
+	 List-Owner:List-Post:List-Subscribe:List-Unsubscribe:From;
+	b=R8zVpcMLb4iDvL9i+GxfMt0qVDJDVXfXDxRuhTP0C+TWCRy/90jmO0iepjR1Lw7Va
+	 aMq0Tju1fCP+KDCHUrxSnVDNeACMzKp5dLe0Vl2/SJbPYRoddh2E0r924M/X4wu3zc
+	 j99lXow1bxS2aICpaTDrsm93ftEWWbVcqbRrsTzg=
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id 42FEB39EB7; Mon, 24 Feb 2025 09:01:09 +1300 (NZDT)
+X-Original-To: all-staff@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-all-staff@sympa.auckland.ac.nz
+Received: from AUS01-SY4-obe.outbound.protection.outlook.com (mail-sy4aus01lp2169.outbound.protection.outlook.com [104.47.71.169])
+	by sympa.auckland.ac.nz (Postfix) with ESMTPS id 2AF7D26AD7
+	for <all-staff@list.auckland.ac.nz>; Mon, 24 Feb 2025 09:00:07 +1300 (NZDT)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=wCFINWRbyKSGsPMQfhaMtQqQYNmiyIGKTTMgnpXfa+oppPSg+aKFjOWAO+aKtvM1U244g/BSpR6NIGlzFfvSUkQKMlmIkvdACqz2Nk2f9RMLLyiJWFzqNN2krlZtTPNP83pTvXFhdlFdjN07cZYI9SlY95qA8qCNkv1reSPYYGZ/vw6q/dRxmOkSfBiKCSoFMhIJijF3WmFssdC84yf213dDUIPRpBsJWRtVona3sa0vC0dNHl5jZgFA4odteJ5YNaTqYswRaWrfveVluiBddRtjk2u3JI/HHMvLh3N2b9fGdmeY5LcAraEQu5e3fhcUXCv7Gih61IcS9nJPp/8x7w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=AL7c41WzSoNfjd/xSLif9OJV17v3WEYBMPrrDHk14JM=;
+ b=Y0HCGS6XyWupmmFnTpTcAkCJfDXDidi4SBK6CHPfY5Vlfmpf4eW8xGp6/ngHh4hJEduUBYfsf/SzYfYuWtRjDKS+8Y0qcIm8ce4gRGMrksEM+IXlfUIVbznJdT6Ec9DV9gsS5KaiBN3apcnt0fAE/JMBt/B2P2t7SlyheBGU5LEDXP76laXoFYe7AxU833XedhQx1kRMFDolJ+uNmmTraGcMbLev6JqzODh0lRHC9XpD180sBPwxrEZ8xhqpmyN+syoMpX8FnoqHsw45lRjgI5KYUjA6yQ4UOe8sMqjyDxiGT73xZUKWc/+Kvh6p4F7jBqAVhxCKk1MirSBB/6wgdg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=auckland.ac.nz; dmarc=pass action=none
+ header.from=auckland.ac.nz; dkim=pass header.d=auckland.ac.nz; arc=none
+Received: from SY3PPF28159464C.AUSP300.PROD.OUTLOOK.COM (2603:10c6:18::48b) by
+ SY0P300MB0309.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:24b::11) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8466.20; Sun, 23 Feb 2025 20:00:05 +0000
+Received: from SY3PPF28159464C.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::b177:e1f5:d85c:749b]) by SY3PPF28159464C.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::b177:e1f5:d85c:749b%8]) with mapi id 15.20.8466.016; Sun, 23 Feb 2025
+ 20:00:05 +0000
+From: Staff Communications <staff-comms@auckland.ac.nz>
+To: "all-staff@list.auckland.ac.nz" <all-staff@list.auckland.ac.nz>
+Subject: Hono is live | log in today
+Thread-Topic: Hono is live | log in today
+Thread-Index: AQHbhishH28GMynAT0WTGEbtLEiYoQ==
+Date: Sun, 23 Feb 2025 20:00:00 +0000
+Message-ID: <SY3PPF28159464C8F313853012024CFA9A3C3C12@SY3PPF28159464C.AUSP300.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-GB
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-reactions: allow
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=auckland.ac.nz;
+x-ms-traffictypediagnostic: SY3PPF28159464C:EE_|SY0P300MB0309:EE_|SG1PEPF000082E1:EE_|SY7P300MB0736:EE_|SY3PPF1BF8F8C20:EE_
+X-MS-Office365-Filtering-Correlation-Id: 0ebf595d-9dbb-433f-f112-08dd5444d238
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|366016|8096899003|41050700001;
+X-Microsoft-Antispam-Message-Info-Original: k4Pll5AqXsDJRuwJ8w4JIYkdb8+//xyB8VQqGug+e0QtSlZLbsP02gsGEONK2MAjh77S8sQSq3gNJX4DKdVrx0vyPk2Lf1r0t6LptaNiBEhxQ9Vf2FaV9YGxkSlXx5+9ffv3PTlpx/FvUHIzL72zvXuGlT3oW5pKpXGMWVDQ2YeFxmi/U/GJuXwt/anCJU9EX7rjv45eHmkwXrSdMASCif3OoDysKrTx5ds3ayfxywuaOCYXj8kAKedt5ayEPxSppnK6sTyfTcGvjfeaRXhTPq2Fz2GDUQhyAWWi4kWpnrgUmBwEV7CmnTkHstpL8oKVZxECXD0phlf7JSmJDwVz6WtaYDfOi145ozdrjuwYGQmZHuc4CRWdlQ4HJ38FxCfQNTssJ5hK9GHJlNZxIF3MZ6LHRaFLiA4E5ad6YFJ9GBeK+SugLl8u7A0HlDKgXY2R0+zeAViVRyAwL8m55wwwxAMy2oOaAHH1vJJJmT+LttfXyuzvrzHhbUBei1vd7zbrsm43vBWDU7VV7giqHn73MfJQXU4kGoTsPn7qTSePwgDqNNAIiW4qhSc3kIrz66MFqEwLA411l1spWK34seRickMZHLy/FikWE6SpD2SoOFivj4HalSUmhm6n5CtnHDmFEuzk2hQnqpUFxkakVEWXYX+2AfVAq8KNYII45PiHgW574cvzfXIKfVMdplTPmi3sq0rxRsVLIljCpH8iI7ZooEe2BZCE17xpDD3OIxh+Yb4FhuJQ4UH0CPlfY4OpiRUr
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SY3PPF28159464C.AUSP300.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(366016)(8096899003)(41050700001);DIR:INT;
+Content-Type: multipart/alternative;
+	boundary="_000_SY3PPF28159464C8F313853012024CFA9A3C3C12SY3PPF28159464C_"
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY0P300MB0309
+Reply-To: Staff Communications <staff-comms@auckland.ac.nz>
+X-Loop: all-staff@list.auckland.ac.nz
+X-Sequence: 627
+Errors-to: all-staff-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: all-staff-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <all-staff.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/all-staff>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:all-staff-request@list.auckland.ac.nz>
+List-Post: <mailto:all-staff@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20all-staff>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20all-staff>
+Return-Path: all-staff-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 23 Feb 2025 20:01:11.7934
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 0ebf595d-9dbb-433f-f112-08dd5444d238
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SG1PEPF000082E1.apcprd02.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: SG1PEPF000082E1.apcprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: UOA.onmicrosoft.com
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 335b2848-48d5-4561-28dc-08dd5444aa74
+X-LD-Processed: d1b36e95-0d50-42e9-958f-b63fa906beaa,ExtFwd
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|82310400026|4022899009|35042699022|13003099007|8096899003;
+X-Forefront-Antispam-Report: CIP:130.216.125.250;CTRY:NZ;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKN;H:uoasmtpprd01.its.auckland.ac.nz;PTR:uoasmtpprd01.its.auckland.ac.nz;CAT:NONE;SFS:(13230040)(82310400026)(4022899009)(35042699022)(13003099007)(8096899003);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 23 Feb 2025 20:01:11.4184
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 0ebf595d-9dbb-433f-f112-08dd5444d238
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=d1b36e95-0d50-42e9-958f-b63fa906beaa;Ip=[130.216.125.250];Helo=[uoasmtpprd01.its.auckland.ac.nz]
+X-MS-Exchange-CrossTenant-AuthSource: SG1PEPF000082E1.apcprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY7P300MB0736
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.9986960
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.8466.015
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?windows-1257?Q?Z4h+IFLdk13tDioIlYG7lroXABFIp8PPod2TAsjMWizYkg24nsREhjP6?=
+ =?windows-1257?Q?qygZ9WQoOc25syf6UAYuUsrvQW8k6FPiBZQynWBi4Re5GLySYS0Aqp30?=
+ =?windows-1257?Q?3EXCvCR0PRGoOwaVXgK/QYJnmmITM00TGStYVm2Tmf4LWJKSR8XIdKLy?=
+ =?windows-1257?Q?uE4dchuqmWkeHYZZ+JckkvYMOGwoRGTcpk8+9EW8ul5CYkHyovvsAhIB?=
+ =?windows-1257?Q?gPMNRdqsS2Y/exJcuq+3k/haM+JwXDiopvQJBbg01dVERhcqyazQ9kDo?=
+ =?windows-1257?Q?kO1jOaUdd0ZYawpzCQBzgXPD0nhYiNgynxYO9nMmx9ag3V8WnQG5Y6Gp?=
+ =?windows-1257?Q?l2lTHrP1buZUizDqJKkMvdtEuOoJb5tdgkOM83dOQgqT6ikQuaCVWlLs?=
+ =?windows-1257?Q?By7LKHL25tXYAwvJVrNTNrYvbsU/5UhEOMBNHvoW3uMUNUHdfidcOp7g?=
+ =?windows-1257?Q?/Bitji233I5wKNwZyTMiulSPVkqxRMm27cWRJf/zCPOAFcUunaPDCbOB?=
+ =?windows-1257?Q?UQoQ7jch6Sn7+aYCAHE3yjCuOJNNixpG4Ga2qf0FEeV0gqaOKaEgqMwF?=
+ =?windows-1257?Q?fy8lnXQhNfvnHv7QGs0I37OMRobiNR8gl4BggJioz+HjtwIarnevFZ3G?=
+ =?windows-1257?Q?2PCLLQB6XPPVudcs4XTiwLzsk4WYogkh6pFiGvzzLmhPha8x28wLWvln?=
+ =?windows-1257?Q?sRgoLrUvx8PjjAb40yZ+hFMxc4U/pLN4KYgU4EpLsGohHtNxSPauZyze?=
+ =?windows-1257?Q?0XlA5/06etnXrLi1KcRmG4F/7HLXij0AoqYRupTtWYCeQp0uOXEqBG2K?=
+ =?windows-1257?Q?5WrUmChLRYGkeXK65+ADnzxmjh8AGbQ8M23wBLxPu/CLw4TqQT7IMi/M?=
+ =?windows-1257?Q?loXfYJdLieMoFrtX7CSh02sav8X51ntVjl1aGquhIN1zNM4o4N+WypLf?=
+ =?windows-1257?Q?SWvqE3WLkwP5YYtad/yEix+TzfHKTQm5DStTaHJAcafeQ2P8p9VcEmJL?=
+ =?windows-1257?Q?hO7EHlxjFINRP/eAZmKtBAo4giGgTdcyeWeRWrYgs6PTJiij9rzmyqen?=
+ =?windows-1257?Q?ZVWgss4jj4O9o887vrBd939Vnta6NZUM1J2zhMmKMaFg4VGyAAK8l/rP?=
+ =?windows-1257?Q?kEztcSyqHV6MPqEUf6BhqL7vMPrn9pz0r7W/dMaa8mehdcxeh4G0LSIn?=
+ =?windows-1257?Q?v47Had01tfbOac4TEivF8t3B5jIma6fRMDF9BtPT5XMaj9tunmFpylKh?=
+ =?windows-1257?Q?5nmibtCfjjPbIEH0TQBjYmtHspBS+7ClcSXwrg/YlNF8xJiRuKTswTxy?=
+ =?windows-1257?Q?v1VVc/K2ZuPHEO7V414nMyOtd/8uTauIR45otQQ0N//xLisHYsrI2sE6?=
+ =?windows-1257?Q?NL2bE4iOhNlBV8R7NcnpjegxcxMvtku9dTiDTkHntJOz9AiD3cPXX4ub?=
+ =?windows-1257?Q?pSIeza4whL8PAb6+6N8jUF0Zv/IWndXHfydUaj3Jv2ODNdH0WCFOshZa?=
+ =?windows-1257?Q?Qlsmy+AKQG5ZVlFWuCa6H/kYDDyxQ0fTM1vH5qqWQ58ECu2CtU5uzCLe?=
+ =?windows-1257?Q?t+8v/ykjcL4vpi9hDfTnDIEkr3MaDsmyEfHf537R2MUV7rO6CxwYUnhD?=
+ =?windows-1257?Q?FgCI/MuJNdfF7tqlIqxLJUZJnJ2FXzfSnu+HWdCjiHoAYMOWDldp3xZU?=
+ =?windows-1257?Q?7czrunK6yciCyNMZKAZ05LG/xHD2Djn9LvHm2KV37nhLOyFwU8psH2YA?=
+ =?windows-1257?Q?rKacM1Ci/unbwxsf8w/ucrqXXH9+/zIWbmDHn0MZL6SYV7WDU7m5HPEa?=
+ =?windows-1257?Q?Gk5eF1Z8RSf72K32/BDBnEDk9QJ3qIo/nUSp0TrqdAYjppsT2TzRdnUk?=
+ =?windows-1257?Q?9c0deVDjqrqTGfgFglMiBA37AadpOvxz8HszxXCTY+UDZ+ygwATsAVCv?=
+ =?windows-1257?Q?YtaQ1gG34EuaO2YdIdABx234yvwfNYAmTntdGNBjIc0a8ihsRdGjbw6t?=
+ =?windows-1257?Q?Z0b2p+DOVvCKmpQGmxo3tJCDvCLeo7y6pUeYKEb2LEON1NdwYbcIjeNL?=
+ =?windows-1257?Q?lbGNPzgaV8IjaJ7/wGPZmM0+4Rr1lciFSDnCsPB6TFC1AFcednZ9G5kr?=
+ =?windows-1257?Q?x6mHheeAgUceqtjk5sUReDkd0tCNLjluU2p5aHOPHUPjlzQ/hGaj0bTP?=
+ =?windows-1257?Q?tOL++ydD7/kTrMynv8ZZY3oBdG1bmKRB9pIAitRy59i9uibNGJXyvdbb?=
+ =?windows-1257?Q?MiSzORnSZQwTPOj4oCKEYyGhrlM1qgl7odTBXSuziblaNBm9QGmCBsDd?=
+ =?windows-1257?Q?FpU3uNCcHUhFEfuYsyNhKm94W8Td0yboAYOXm/1Ed7rM4k5lqL/2lvTX?=
+ =?windows-1257?Q?sTalT/HhjuCkvNPUXNhEHw/DQppoSIKxBbhDrmeNP7qzApeLiGUsK6tE?=
+MIME-Version: 1.0
+
+--_000_SY3PPF28159464C8F313853012024CFA9A3C3C12SY3PPF28159464C_
+Content-Type: text/plain; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+Kia ora koutou
+
+Today marks a significant step forward in enhancing your experience at the =
+University with the launch of Hono | Human Connections, our new HR ecosyste=
+m.
+
+Login to Hono using your University credentials<https://wd102.myworkday.com=
+/auckland/d/home.htmld>.
+
+Hono on the go
+
+Hono is available on any device, and you can choose to download the mobile =
+app from the Apple Store or Google Play. Search =91Workday=92 or use the QR=
+ code from your online profile. Our organisation code is =91auckland=92.
+
+Getting started
+
+Check your personal profile
+
+  *   Ensure your bank account and home address (NZ, under 50 characters) a=
+re correct.
+
+  *   Confirm your date of birth is entered.
+
+Leave
+
+  *   Log any upcoming leave in Hono today
+
+  *   Any leave taken during the shutdown cannot be backdated. You will nee=
+d to submit a service cloud request to have this actioned
+
+Support & Training
+
+  *   Training: Complete the required Employee eLearn<https://uoa.csod.com/=
+ui/lms-learning-details/app/course/d7f19d74-bd75-4fa3-8870-d993debeb11e> or=
+ Manager eLearn<https://uoa.csod.com/ui/lms-learning-details/app/course/038=
+8dc22-675b-4929-9dba-45b5c962ae86>
+
+  *   Resources: Use Hono Helper within the system, search the staff intran=
+et or refer to the Staff Service Centre (SSC) knowledge base for step-by-st=
+ep guides<https://superuoa.custhelp.com/app/answers/list/kw/hono/search/1>.
+
+  *   Change Champions: Connect with your team=92s Change Champions for gui=
+dance.
+
+  *   Need Help? Check the known issues register<https://www.auckland.ac.nz=
+/en/intranet/stay-informed/staff-communications/notices/hono-known-issues.h=
+tml> or submit a Staff Service Centre request<https://superuoa.custhelp.com=
+/app/home>.
+
+This launch has been a tremendous team effort with the programme team worki=
+ng tirelessly to bring Hono to life. Our HR and Staff Service Centre teams =
+will now continue working hard to support this transition.
+
+As with any major technology transformation, some refinements may be needed=
+. The programme team is actively addressing any issues and continuously enh=
+ancing the system=92s functionality. We appreciate your patience and unders=
+tanding as we transition to this new way of working.
+
+Thank you for your cooperation and support.
+
+Ng=E2 mihi nui
+
+Andrew Phipps
+
+Human Resources Director
+
+--_000_SY3PPF28159464C8F313853012024CFA9A3C3C12SY3PPF28159464C_
+Content-Type: text/html; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+</head>
+<body>
+<div dir=3D"ltr">
+<div dir=3D"ltr" style=3D"font-family:Aptos,Arial,Helvetica,sans-serif; fon=
+t-size:12pt">
+<div style=3D"text-decoration: none; margin: 0px; font-family: &quot;Segoe =
+UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif; font-size: =
+12px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">
+<div style=3D"margin:0px; clear:both">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-GB" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-variant-ligatures:none!important"><span s=
+tyle=3D"margin:0px">K</span><span style=3D"margin:0px">ia</span><span style=
+=3D"margin:0px">&nbsp;</span><span style=3D"margin:0px; background-position=
+:0px 100%; background-repeat:repeat-x; border-bottom-width:1px; border-bott=
+om-style:solid; border-bottom-color:transparent">ora</span><span style=3D"m=
+argin:0px">&nbsp;koutou</span></span><span data-ccp-props=3D"{}" style=3D"m=
+argin:0px; font-size:10pt; line-height:19.7625px; font-family:Verdana,Verda=
+na_EmbeddedFont,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</div>
+<div style=3D"margin:0px; clear:both">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-US" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-variant-ligatures:none!important"><span s=
+tyle=3D"margin:0px">Today marks a significant
+ step forward in enhancing your experience at the University with the launc=
+h of </span>
+</span><span data-contrast=3D"auto" lang=3D"EN-US" style=3D"margin:0px; fon=
+t-size:10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFon=
+t,Verdana_MSFontService,sans-serif; font-weight:bold; font-variant-ligature=
+s:none!important"><span style=3D"margin:0px">Hono
+ | Human Connections</span></span><span data-contrast=3D"auto" lang=3D"EN-U=
+S" style=3D"margin:0px; font-size:10pt; line-height:19.7625px; font-family:=
+Verdana,Verdana_EmbeddedFont,Verdana_MSFontService,sans-serif; font-variant=
+-ligatures:none!important"><span style=3D"margin:0px">,
+ our new HR ecosystem.</span></span></p>
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span style=3D"font-family:Verdana,Verdana_EmbeddedFont,Verdana_MSFontServi=
+ce,sans-serif; font-size:10pt"><a href=3D"https://wd102.myworkday.com/auckl=
+and/d/home.htmld">Login to Hono using your University credentials</a>.</spa=
+n><span style=3D"font-family: Verdana, Verdana_EmbeddedFont, Verdana_MSFont=
+Service, sans-serif; font-size: 10pt; color: rgb(209, 52, 56);">&nbsp;</spa=
+n></p>
+</div>
+<div style=3D"margin:0px; clear:both">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-weight:bold; font-variant-ligatures:none!=
+important"><span style=3D"margin:0px">Hono
+ on the go</span></span><span data-ccp-props=3D"{}" style=3D"margin:0px; fo=
+nt-size:10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFo=
+nt,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</div>
+<div style=3D"margin:0px; clear:both">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-GB" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-variant-ligatures:none!important"><span s=
+tyle=3D"margin:0px">Hono is available on
+ any device, and you can choose to download the mobile app from the Apple S=
+tore or Google Play.
+</span><span style=3D"margin:0px">Search =91Workday=92 or use the QR code f=
+rom your online profile.</span><span style=3D"margin:0px">&nbsp;O</span><sp=
+an style=3D"margin:0px">ur o</span><span style=3D"margin:0px">rganisation c=
+ode is
+</span><span style=3D"margin:0px">=91</span><span style=3D"margin:0px; back=
+ground-position:0px 100%; background-repeat:repeat-x; border-bottom-width:1=
+px; border-bottom-style:solid; border-bottom-color:transparent">auckland</s=
+pan><span style=3D"margin:0px">=92</span><span style=3D"margin:0px">.</span=
+><span style=3D"margin:0px">&nbsp;</span></span><span data-ccp-props=3D"{}"=
+ style=3D"margin:0px; font-size:10pt; line-height:19.7625px; font-family:Ve=
+rdana,Verdana_EmbeddedFont,Verdana_MSFontService,sans-serif">&nbsp;</span><=
+/p>
+</div>
+<div style=3D"margin:0px; clear:both">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-weight:bold; font-variant-ligatures:none!=
+important"><u><span style=3D"margin:0px">Get</span><span style=3D"margin:0p=
+x">ting</span><span style=3D"margin:0px">&nbsp;</span><span style=3D"margin=
+:0px">s</span><span style=3D"margin:0px">tarted</span></u></span><span data=
+-ccp-props=3D"{}" style=3D"margin:0px; font-size:10pt; line-height:19.7625p=
+x; font-family:Verdana,Verdana_EmbeddedFont,Verdana_MSFontService,sans-seri=
+f">&nbsp;</span></p>
+</div>
+<div style=3D"margin:0px; clear:both">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-weight:bold; font-variant-ligatures:none!=
+important"><span style=3D"margin:0px">Check
+ your personal profile</span></span><span data-ccp-props=3D"{}" style=3D"ma=
+rgin:0px; font-size:10pt; line-height:19.7625px; font-family:Verdana,Verdan=
+a_EmbeddedFont,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</div>
+<ul>
+<li data-leveltext=3D"&#61623;" data-font=3D"Symbol" data-listid=3D"9" data=
+-list-defn-props=3D"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quo=
+t;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769=
+242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quo=
+t;:&quot;&#61623;&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" data=
+-aria-posinset=3D"1" data-aria-level=3D"1" style=3D"clear:both; font-size:1=
+0pt; font-family:Verdana,Verdana_MSFontService,sans-serif">
+<p style=3D"margin:0px; white-space:pre-wrap; font-weight:normal; font-kern=
+ing:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; line-heigh=
+t:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana_MSFontService=
+,sans-serif; font-variant-ligatures:none!important"><span style=3D"margin:0=
+px">Ensure your bank account and home address
+</span><span style=3D"margin:0px">(NZ, under 50 characters)</span><span sty=
+le=3D"margin:0px">&nbsp;are correct.</span></span><span data-ccp-props=3D"{=
+}" style=3D"margin:0px; line-height:19.7625px; font-family:Verdana,Verdana_=
+EmbeddedFont,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</li><li data-leveltext=3D"&#61623;" data-font=3D"Symbol" data-listid=3D"9"=
+ data-list-defn-props=3D"{&quot;335552541&quot;:1,&quot;335559685&quot;:720=
+,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;4=
+69769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;46977780=
+4&quot;:&quot;&#61623;&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}"=
+ data-aria-posinset=3D"2" data-aria-level=3D"1" style=3D"clear:both; font-s=
+ize:10pt; font-family:Verdana,Verdana_MSFontService,sans-serif">
+<p style=3D"margin:0px; white-space:pre-wrap; font-weight:normal; font-kern=
+ing:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; line-heigh=
+t:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana_MSFontService=
+,sans-serif; font-variant-ligatures:none!important"><span style=3D"margin:0=
+px">Confirm your date of birth is entered.</span></span><span data-ccp-prop=
+s=3D"{}" style=3D"margin:0px; line-height:19.7625px; font-family:Verdana,Ve=
+rdana_EmbeddedFont,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</li></ul>
+<div style=3D"margin:0px; clear:both">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-weight:bold; font-variant-ligatures:none!=
+important"><span style=3D"margin:0px">L</span><span style=3D"margin:0px">ea=
+ve</span></span></p>
+</div>
+<ul>
+<li data-leveltext=3D"&#61623;" data-font=3D"Symbol" data-listid=3D"15" dat=
+a-list-defn-props=3D"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&qu=
+ot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;46976=
+9242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&qu=
+ot;:&quot;&#61623;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;=
+}" data-aria-posinset=3D"1" data-aria-level=3D"1" style=3D"clear:both; font=
+-size:10pt; font-family:Verdana,Verdana_MSFontService,sans-serif">
+<p style=3D"margin:0px; white-space:pre-wrap; font-weight:normal; font-kern=
+ing:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; line-heigh=
+t:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana_MSFontService=
+,sans-serif; font-variant-ligatures:none!important"><span style=3D"margin:0=
+px">Log any upcoming leave in Hono today</span></span><span data-ccp-props=
+=3D"{}" style=3D"margin:0px; line-height:19.7625px; font-family:Verdana,Ver=
+dana_EmbeddedFont,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</li><li data-leveltext=3D"&#61623;" data-font=3D"Symbol" data-listid=3D"15=
+" data-list-defn-props=3D"{&quot;335552541&quot;:1,&quot;335559685&quot;:72=
+0,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;=
+469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;4697778=
+04&quot;:&quot;&#61623;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&=
+quot;}" data-aria-posinset=3D"2" data-aria-level=3D"1" style=3D"clear:both;=
+ font-size:10pt; font-family:Verdana,Verdana_MSFontService,sans-serif">
+<p style=3D"margin:0px; white-space:pre-wrap; font-weight:normal; font-kern=
+ing:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; line-heigh=
+t:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana_MSFontService=
+,sans-serif; font-variant-ligatures:none!important"><span style=3D"margin:0=
+px">Any l</span><span style=3D"margin:0px">eave
+ taken during the shutdown cannot be backdate</span><span style=3D"margin:0=
+px">d</span><span style=3D"margin:0px">. You will need to
+</span><span style=3D"margin:0px">submit</span><span style=3D"margin:0px">&=
+nbsp;a </span><span style=3D"margin:0px">s</span><span style=3D"margin:0px"=
+>ervice
+</span><span style=3D"margin:0px">c</span><span style=3D"margin:0px">loud r=
+eques</span><span style=3D"margin:0px">t to have</span><span style=3D"margi=
+n:0px">&nbsp;this actioned</span></span><span data-ccp-props=3D"{}" style=
+=3D"margin:0px; line-height:19.7625px; font-family:Verdana,Verdana_Embedded=
+Font,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</li></ul>
+<div style=3D"margin:0px; clear:both">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-weight:bold; font-variant-ligatures:none!=
+important"><span style=3D"margin:0px">Support
+ &amp; Training</span></span><span data-ccp-props=3D"{}" style=3D"margin:0p=
+x; font-size:10pt; line-height:19.7625px; font-family:Verdana,Verdana_Embed=
+dedFont,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</div>
+<ul>
+<li data-leveltext=3D"&#61623;" data-font=3D"Symbol" data-listid=3D"8" data=
+-list-defn-props=3D"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quo=
+t;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769=
+242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quo=
+t;:&quot;&#61623;&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" data=
+-aria-posinset=3D"1" data-aria-level=3D"1" style=3D"clear:both; font-size:1=
+0pt; font-family:Verdana,Verdana_MSFontService,sans-serif">
+<p style=3D"margin:0px; white-space:pre-wrap; font-weight:normal; font-kern=
+ing:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; line-heigh=
+t:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana_MSFontService=
+,sans-serif; font-weight:bold; font-variant-ligatures:none!important"><span=
+ style=3D"margin:0px">Training</span><span style=3D"margin:0px">:
+</span></span><span data-contrast=3D"auto" lang=3D"EN-US" style=3D"margin:0=
+px; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana=
+_MSFontService,sans-serif; font-variant-ligatures:none!important"><span sty=
+le=3D"margin:0px">Complete the required
+</span></span><span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0=
+px; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana=
+_MSFontService,sans-serif; font-variant-ligatures:none!important"><span sty=
+le=3D"margin:0px">Employee
+</span></span><a href=3D"https://uoa.csod.com/ui/lms-learning-details/app/c=
+ourse/d7f19d74-bd75-4fa3-8870-d993debeb11e" target=3D"_blank" rel=3D"norefe=
+rrer noopener" style=3D"margin:0px; text-decoration:none"><span data-contra=
+st=3D"none" lang=3D"EN-NZ" style=3D"margin: 0px; text-decoration: underline=
+; line-height: 19.7625px; font-family: Verdana, Verdana_EmbeddedFont, Verda=
+na_MSFontService, sans-serif; font-variant-ligatures: none !important; colo=
+r: rgb(70, 120, 134);"><span data-ccp-charstyle=3D"Hyperlink" style=3D"marg=
+in:0px">eLearn</span></span></a><span data-contrast=3D"auto" lang=3D"EN-US"=
+ style=3D"margin:0px; font-size:12pt; line-height:22.0875px; font-family:Ap=
+tos,Aptos_EmbeddedFont,Aptos_MSFontService,sans-serif; font-variant-ligatur=
+es:none!important"><span style=3D"margin:0px">&nbsp;</span></span><span dat=
+a-contrast=3D"auto" lang=3D"EN-US" style=3D"margin:0px; line-height:19.7625=
+px; font-family:Verdana,Verdana_EmbeddedFont,Verdana_MSFontService,sans-ser=
+if; font-variant-ligatures:none!important"><span style=3D"margin:0px">or
+</span></span><span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0=
+px; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana=
+_MSFontService,sans-serif; font-variant-ligatures:none!important"><span sty=
+le=3D"margin:0px">Manager
+</span></span><a href=3D"https://uoa.csod.com/ui/lms-learning-details/app/c=
+ourse/0388dc22-675b-4929-9dba-45b5c962ae86" target=3D"_blank" rel=3D"norefe=
+rrer noopener" style=3D"margin:0px; text-decoration:none"><span data-contra=
+st=3D"none" lang=3D"EN-NZ" style=3D"margin: 0px; text-decoration: underline=
+; line-height: 19.7625px; font-family: Verdana, Verdana_EmbeddedFont, Verda=
+na_MSFontService, sans-serif; font-variant-ligatures: none !important; colo=
+r: rgb(70, 120, 134);"><span data-ccp-charstyle=3D"Hyperlink" style=3D"marg=
+in:0px">eLearn</span></span></a><span data-contrast=3D"auto" lang=3D"EN-US"=
+ style=3D"margin:0px; line-height:19.7625px; font-family:Verdana,Verdana_Em=
+beddedFont,Verdana_MSFontService,sans-serif; font-variant-ligatures:none!im=
+portant"><span style=3D"margin:0px">&nbsp;</span></span><span data-ccp-prop=
+s=3D"{}" style=3D"margin:0px; line-height:19.7625px; font-family:Verdana,Ve=
+rdana_EmbeddedFont,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</li><li data-leveltext=3D"&#61623;" data-font=3D"Symbol" data-listid=3D"8"=
+ data-list-defn-props=3D"{&quot;335552541&quot;:1,&quot;335559685&quot;:720=
+,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;4=
+69769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;46977780=
+4&quot;:&quot;&#61623;&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}"=
+ data-aria-posinset=3D"2" data-aria-level=3D"1" style=3D"clear:both; font-s=
+ize:10pt; font-family:Verdana,Verdana_MSFontService,sans-serif">
+<p style=3D"margin:0px; white-space:pre-wrap; font-weight:normal; font-kern=
+ing:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; line-heigh=
+t:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana_MSFontService=
+,sans-serif; font-weight:bold; font-variant-ligatures:none!important"><span=
+ style=3D"margin:0px">Resources</span><span style=3D"margin:0px">:
+</span></span><span data-contrast=3D"auto" lang=3D"EN-US" style=3D"margin:0=
+px; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana=
+_MSFontService,sans-serif; font-variant-ligatures:none!important"><span sty=
+le=3D"margin:0px">Use Hono Helper</span><span style=3D"margin:0px">&nbsp;wi=
+thin
+ the system</span><span style=3D"margin:0px">,</span><span style=3D"margin:=
+0px">&nbsp;search the staff intranet or
+<a href=3D"https://superuoa.custhelp.com/app/answers/list/kw/hono/search/1"=
+>refer to the Staff Service Centre (SSC) knowledge base&nbsp;for step-by-st=
+ep guides</a></span><span style=3D"margin:0px">.&nbsp;</span></span><span d=
+ata-ccp-props=3D"{}" style=3D"margin:0px; line-height:19.7625px; font-famil=
+y:Verdana,Verdana_EmbeddedFont,Verdana_MSFontService,sans-serif">&nbsp;</sp=
+an></p>
+</li><li data-leveltext=3D"&#61623;" data-font=3D"Symbol" data-listid=3D"8"=
+ data-list-defn-props=3D"{&quot;335552541&quot;:1,&quot;335559685&quot;:720=
+,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;4=
+69769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;46977780=
+4&quot;:&quot;&#61623;&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}"=
+ data-aria-posinset=3D"3" data-aria-level=3D"1" style=3D"clear:both; font-s=
+ize:10pt; font-family:Verdana,Verdana_MSFontService,sans-serif">
+<p style=3D"margin:0px; white-space:pre-wrap; font-weight:normal; font-kern=
+ing:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; line-heigh=
+t:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana_MSFontService=
+,sans-serif; font-weight:bold; font-variant-ligatures:none!important"><span=
+ style=3D"margin:0px">Change Champions</span><span style=3D"margin:0px">:
+</span></span><span data-contrast=3D"auto" lang=3D"EN-US" style=3D"margin:0=
+px; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana=
+_MSFontService,sans-serif; font-variant-ligatures:none!important"><span sty=
+le=3D"margin:0px">Connect with your team=92s
+ Change Champions for guidance.</span></span><span data-ccp-props=3D"{}" st=
+yle=3D"margin:0px; line-height:19.7625px; font-family:Verdana,Verdana_Embed=
+dedFont,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</li><li data-leveltext=3D"&#61623;" data-font=3D"Symbol" data-listid=3D"8"=
+ data-list-defn-props=3D"{&quot;335552541&quot;:1,&quot;335559685&quot;:720=
+,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;4=
+69769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;46977780=
+4&quot;:&quot;&#61623;&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}"=
+ data-aria-posinset=3D"4" data-aria-level=3D"1" style=3D"clear:both; font-s=
+ize:10pt; font-family:Verdana,Verdana_MSFontService,sans-serif">
+<p style=3D"margin:0px; white-space:pre-wrap; font-kerning:none; text-align=
+:left"><span data-contrast=3D"auto" lang=3D"EN-US" style=3D"margin:0px; lin=
+e-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verdana_MSFont=
+Service,sans-serif; font-variant-ligatures:none!important"><span style=3D"m=
+argin:0px"><b>Need
+ Help? </b><a href=3D"https://www.auckland.ac.nz/en/intranet/stay-informed/=
+staff-communications/notices/hono-known-issues.html">Check the known issues=
+ register</a> or
+<a href=3D"https://superuoa.custhelp.com/app/home">submit a Staff Service C=
+entre request</a></span></span><span data-contrast=3D"auto" lang=3D"EN-US" =
+style=3D"font-weight:normal; margin:0px; line-height:19.7625px; font-family=
+:Verdana,Verdana_EmbeddedFont,Verdana_MSFontService,sans-serif; font-varian=
+t-ligatures:none!important"><span style=3D"margin:0px">.</span></span></p>
+</li></ul>
+</div>
+<div style=3D"text-decoration: none; margin: 0px; clear: both; font-family:=
+ &quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif=
+; font-size: 12px; orphans: 2; widows: 2; background-color: rgb(255, 255, 2=
+55);">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-variant-ligatures:none!important"><span s=
+tyle=3D"margin:0px">This launch has been
+ a tremendous team effort</span><span style=3D"margin:0px">&nbsp;with the <=
+/span><span style=3D"margin:0px">programme team work</span><span style=3D"m=
+argin:0px">ing</span><span style=3D"margin:0px">&nbsp;tirelessly</span><spa=
+n style=3D"margin:0px">&nbsp;</span><span style=3D"margin:0px">to
+ bring Hono to life. Our HR and Staff Service Centre teams will</span><span=
+ style=3D"margin:0px">&nbsp;now</span><span style=3D"margin:0px">&nbsp;cont=
+inue working
+</span><span style=3D"margin:0px">hard</span><span style=3D"margin:0px">&nb=
+sp;to support this transition.</span></span><span data-ccp-props=3D"{}" sty=
+le=3D"margin:0px; font-size:10pt; line-height:19.7625px; font-family:Verdan=
+a,Verdana_EmbeddedFont,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</div>
+<div style=3D"text-decoration:none; margin:0px; clear:both; font-family:&qu=
+ot;Segoe UI&quot;,&quot;Segoe UI Web&quot;,Arial,Verdana,sans-serif; font-s=
+ize:12px; orphans:2; widows:2">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-US" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-variant-ligatures:none!important"><span s=
+tyle=3D"margin:0px"><span style=3D"background-color: rgb(255, 255, 255);">A=
+s
+ with any major technology transformation, some refinements may be needed. =
+The programme team is actively addressing any issues
+<span style=3D"text-decoration: none; margin: 0px; font-size: 13.3333px; fo=
+nt-variant-ligatures: none; background-color: rgb(255, 255, 255);">
+and continuously enhancing the system=92s functionality. We appreciate your=
+ patience and
+</span><span style=3D"text-decoration: none; margin: 0px; font-size: 13.333=
+3px; font-variant-ligatures: none; background-color: rgb(255, 255, 255);">u=
+nderstanding</span><span style=3D"text-decoration: none; margin: 0px; font-=
+size: 13.3333px; font-variant-ligatures: none; background-color: rgb(255, 2=
+55, 255);">&nbsp;as
+ we transition to this new way of working.</span></span></span></span></p>
+</div>
+<div style=3D"text-decoration: none; margin: 0px; clear: both; font-family:=
+ &quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif=
+; font-size: 12px; orphans: 2; widows: 2; background-color: rgb(255, 255, 2=
+55);">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-variant-ligatures:none!important"><span s=
+tyle=3D"margin:0px">Thank you for your cooperation
+ and support.&nbsp;</span></span><span data-ccp-props=3D"{}" style=3D"margi=
+n:0px; font-size:10pt; line-height:19.7625px; font-family:Verdana,Verdana_E=
+mbeddedFont,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</div>
+<div style=3D"text-decoration: none; margin: 0px; clear: both; font-family:=
+ &quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif=
+; font-size: 12px; orphans: 2; widows: 2; background-color: rgb(255, 255, 2=
+55);">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-variant-ligatures:none!important"><span s=
+tyle=3D"margin:0px; background-position:0px 100%; background-repeat:repeat-=
+x; border-bottom-width:1px; border-bottom-style:solid; border-bottom-color:=
+transparent">Ng=E2</span><span style=3D"margin:0px">&nbsp;mihi
+</span><span style=3D"margin:0px; background-position:0px 100%; background-=
+repeat:repeat-x; border-bottom-width:1px; border-bottom-style:solid; border=
+-bottom-color:transparent">nui</span></span><span data-ccp-props=3D"{}" sty=
+le=3D"margin:0px; font-size:10pt; line-height:19.7625px; font-family:Verdan=
+a,Verdana_EmbeddedFont,Verdana_MSFontService,sans-serif">&nbsp;</span></p>
+</div>
+<div style=3D"text-decoration: none; margin: 0px; clear: both; font-family:=
+ &quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif=
+; font-size: 12px; orphans: 2; widows: 2; background-color: rgb(255, 255, 2=
+55);">
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-variant-ligatures:none!important"><span s=
+tyle=3D"margin:0px">Andrew Phipps</span></span></p>
+<p style=3D"margin:0px 0px 10.6667px; white-space:pre-wrap; font-weight:nor=
+mal; font-kerning:none; text-align:left">
+<span data-contrast=3D"auto" lang=3D"EN-NZ" style=3D"margin:0px; font-size:=
+10pt; line-height:19.7625px; font-family:Verdana,Verdana_EmbeddedFont,Verda=
+na_MSFontService,sans-serif; font-variant-ligatures:none!important"><span s=
+tyle=3D"margin:0px">Human Resources Director</span></span></p>
+</div>
+</div>
+<div id=3D"ms-outlook-mobile-signature" dir=3D"ltr"></div>
+</div>
+</body>
+</html>
+
+--_000_SY3PPF28159464C8F313853012024CFA9A3C3C12SY3PPF28159464C_--

@@ -1,0 +1,443 @@
+Received: from SY3PPFC3E8FB408.AUSP300.PROD.OUTLOOK.COM (::1) by
+ SY3PPF1BF8F8C20.AUSP300.PROD.OUTLOOK.COM with HTTPS; Mon, 18 Aug 2025
+ 23:25:53 +0000
+Received: from TYAPR04CA0001.apcprd04.prod.outlook.com (2603:1096:404:15::13)
+ by SY3PPFC3E8FB408.AUSP300.PROD.OUTLOOK.COM (2603:10c6:18::4ab) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9031.24; Mon, 18 Aug
+ 2025 23:25:50 +0000
+Received: from TY2PEPF0000AB84.apcprd03.prod.outlook.com
+ (2603:1096:404:15:cafe::3b) by TYAPR04CA0001.outlook.office365.com
+ (2603:1096:404:15::13) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.9031.21 via Frontend Transport; Mon,
+ 18 Aug 2025 23:25:49 +0000
+Authentication-Results: spf=pass (sender IP is 130.216.125.250)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=fail (no key for signature)
+ header.d=auckland.ac.nz;dmarc=pass action=none header.from=auckland.ac.nz;
+Received-SPF: Pass (protection.outlook.com: domain of list.auckland.ac.nz
+ designates 130.216.125.250 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.125.250;
+ helo=uoasmtpprd01.its.auckland.ac.nz; pr=C
+Received: from uoasmtpprd01.its.auckland.ac.nz (130.216.125.250) by
+ TY2PEPF0000AB84.mail.protection.outlook.com (10.167.253.9) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.9052.8 via Frontend Transport; Mon, 18 Aug 2025 23:25:49 +0000
+Received: from sympa.auckland.ac.nz (lstappprd01.its.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id 0DEEE802544;
+	Tue, 19 Aug 2025 11:25:40 +1200 (NZST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz 0DEEE802544
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=auckland.ac.nz;
+	s=rafal; t=1755559540;
+	bh=D9jp8NzkWbm8YchGnLF2evG11pdLZ9hpwVFBc2Qqckw=;
+	h=From:To:Subject:Date:References:In-Reply-To:Reply-To:List-Id:
+	 List-Archive:List-Help:List-Owner:List-Post:List-Subscribe:
+	 List-Unsubscribe:From;
+	b=D1j5Ss7WPsEhTAe1MQ7UVDHa9jWu2SfuNLnau3IGscXRmaBayCCRLteFfr4vG3sgd
+	 jJuC4+V9O3ilcURrRP2TRWG26v5eJGC7CVduA6XF5QdDTSuR6D3Yh+VThh3tgC8x5i
+	 oL8OmnkbPIxlVx9B8Us/SEBqT0Q2VeqxBxYyv0Q8=
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id E162F3310B; Tue, 19 Aug 2025 11:25:39 +1200 (NZST)
+X-Original-To: all-staff@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-all-staff@sympa.auckland.ac.nz
+Received: from SY2PR01CU004.outbound.protection.outlook.com (mail-australiaeastazlp17011029.outbound.protection.outlook.com [40.93.136.29])
+	by sympa.auckland.ac.nz (Postfix) with ESMTPS id A49B63322F
+	for <all-staff@list.auckland.ac.nz>; Tue, 19 Aug 2025 11:24:53 +1200 (NZST)
+ARC-Seal: i=2; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=fail;
+ b=J4zn9jxgLEOVLHqc/25CULMG4snU+7i0zytFmDBOzd6X1l+DssZNg6dM1n1ZQcXG5AleiD9z4EQn5MDAE/RGgKk7lRJsXcyNT9eKxxPYiQtBYpB6xJBIV2CQdMMeEIq9Ce9m2pJwVlNxi7gfguwnmOmHz7D1+BZ7UKSjwcypJC2ev5qoQZ3lCkxpAgApV6eKEE3dSNbg0+f3bHcZrSN2+GZH/7H7XuDIX7LdcSTtscOTpBLW8t56b2seAPMdXcEQt5QmOHL2riUqAGo/v8YRpHZualGETG+R+prXoAP1/WQrZAnY8mBkABSIyxxciKewETEpByfyrkLnbcolGkXt2A==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=oXWJBCuf57SHAv3m0XT4MzlEHorAPaa4GWM8h2/6gcc=;
+ b=aQNQuktNP6isHlcjj6a3mM/esUkzujzmnwxbrqwvLd6zadIDu8No7MF1DRVlU9QHbx+4DOc++wnr+qzDlyO0i32g++ykJueyXhLOXsr8YGyi1incT2+6QLnnqo2x2T62EaeQWHKm1qS66BIVUTqVXxTI97iRwg+vYqsKRea7DeA8LkMgaf7AEKbbIz7moUJ5uQzoYgmBxt1tEXWDSWv4pzPRd/lhg4TaH613zy+VInjsrkili12UPKYd7kl7bqvzyIeNE4BABCJ/tn9Au02NxCtFnwxiQQlUavMYOCHufie9am3xKu5dnnqnE49/c7A1H3VSATbMwjXcJjuj5qiD8g==
+ARC-Authentication-Results: i=2; mx.microsoft.com 1; spf=fail (sender ip is
+ 130.216.95.208) smtp.rcpttodomain=list.auckland.ac.nz
+ smtp.mailfrom=auckland.ac.nz; dmarc=fail (p=none sp=reject pct=100)
+ action=none header.from=auckland.ac.nz; dkim=fail (signature did not verify)
+ header.d=auckland.ac.nz; arc=fail (47)
+Received: from SI2PR04CA0002.apcprd04.prod.outlook.com (2603:1096:4:197::17)
+ by SY7P300MB0621.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:28e::7) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9031.24; Mon, 18 Aug
+ 2025 23:24:48 +0000
+Received: from SG2PEPF000B66CB.apcprd03.prod.outlook.com
+ (2603:1096:4:197:cafe::94) by SI2PR04CA0002.outlook.office365.com
+ (2603:1096:4:197::17) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.9031.22 via Frontend Transport; Mon,
+ 18 Aug 2025 23:24:48 +0000
+Authentication-Results-Original: spf=fail (sender IP is 130.216.95.208)
+ smtp.mailfrom=auckland.ac.nz; dkim=fail (signature did not verify)
+ header.d=auckland.ac.nz;dmarc=fail action=none header.from=auckland.ac.nz;
+Received-SPF: Fail (protection.outlook.com: domain of auckland.ac.nz does not
+ designate 130.216.95.208 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.95.208;
+ helo=uxcn19-ogg-a.UoA.auckland.ac.nz;
+Received: from uxcn19-ogg-a.UoA.auckland.ac.nz (130.216.95.208) by
+ SG2PEPF000B66CB.mail.protection.outlook.com (10.167.240.24) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.9052.8 via Frontend Transport; Mon, 18 Aug 2025 23:24:46 +0000
+Received: from uxcn19-tdc-a.uoa.auckland.ac.nz (10.6.5.32) by
+ uxcn19-ogg-a.UoA.auckland.ac.nz (10.6.5.30) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1544.33; Tue, 19 Aug 2025 11:24:44 +1200
+Received: from SY5PR01CU010.outbound.protection.outlook.com (130.216.158.20)
+ by uxcn19-tdc-a.uoa.auckland.ac.nz (10.6.5.32) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1544.33 via Frontend Transport; Tue, 19 Aug 2025 11:24:44 +1200
+Received: from SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:23b::7) by
+ SY8P300MB0212.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:25f::6) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.9031.24; Mon, 18 Aug 2025 23:24:43 +0000
+Received: from SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::2a68:fd51:1035:2be0]) by SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::2a68:fd51:1035:2be0%3]) with mapi id 15.20.9031.023; Mon, 18 Aug 2025
+ 23:24:43 +0000
+From: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
+To: all-staff Mailing List <all-staff@list.auckland.ac.nz>
+Subject: Vice-Chancellor's Update | 19 August 2025
+Thread-Topic: Vice-Chancellor's Update | 19 August 2025
+Thread-Index: AQHcEJdHwpbf0LU000WGj/HBIMYjUQ==
+Date: Mon, 18 Aug 2025 23:24:43 +0000
+Message-ID: <SY7P300MB01688FF546516706DBF8A394DC31A@SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM>
+References: <SY7P300MB0168D5304C543C332579B01DDC31A@SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM>
+ <SY7P300MB01682D8FC7E4A6C3EEE9F3E5DC31A@SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM>
+In-Reply-To: <SY7P300MB01682D8FC7E4A6C3EEE9F3E5DC31A@SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=auckland.ac.nz;
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-traffictypediagnostic: SY7P300MB0168:EE_|SY8P300MB0212:EE_|SG2PEPF000B66CB:EE_|SY7P300MB0621:EE_|TY2PEPF0000AB84:EE_|SY3PPFC3E8FB408:EE_|SY3PPF1BF8F8C20:EE_
+X-MS-Office365-Filtering-Correlation-Id: 36487d0a-9529-49a8-2812-08dddeae9101
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|366016|8096899003|41050700001;
+X-Microsoft-Antispam-Message-Info-Original: eDU4wDwTPl1Xa0h4jaSKKrcUK4nwC044DJ8jcwOM7GJgd0LjwjsmHGplb0GMMRCVs5mHBpYYP0IjaVYioCM/mV2uYEG5oY+WpuWii/CHQww+VDgL2kS+vUHZQelJjeJ23DClq6T0cy03kIKIYdWimBXsUtqFQdYAgVsqJuT3EF9+/lcbeq78V3YwkAAJabUWoVUEDti5zcZfRsS/x6qNf8GdMXJTZ6UesQzB4yItg74pNyjKjmuMWylTvLgCLzQmAi/QXGSQWMZkaKRcNX01EzX/ulGu2u/vZ4VBDASocYpVVHWh26flvzyg6eruUNGux4RJIGid6O0VlTLa9cmo8oty85dQbRnN1cJyNAeBlgERomSGaJwivQdvIFW8TXAf+f2j9K4BrRxW71o+cxhSCYpMbZ6up4toiosxWyJBlWu1Xx6nbJuuz5tUtp/Mn9JbZo7Cif7OJPlLiBNYl6zP4HsvJBXBQsL7rfDwZ6gVeefV/yicKOo4h4QVmWBOqUXwCK55hcMdn40IM56zCz6/Ew3xhKJRfVnYrOiUjkKOwO8BnkVlwkK5H5AVVuLomNlKyA7e+MS7IW0RAsTZNBlRhRt9YucWoVInH0V/RHM3K33GE5sNnyi6r5eLD7idA/faM+ZZHu/rQtZa6RUiUtfI6/jj+MabN4sQBCt9Gdb7f0/JBNcxr+KhDUtGdxUlODPLB7voJLWgatLKjRM+nhKYQdnKUMTHTjsr1HvlFrx4NKlYyPe/5hl2+/fOVnhlWqr9
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SY7P300MB0168.AUSP300.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(366016)(8096899003)(41050700001);DIR:INT;
+arc-seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=Mw3gmXMlgcNjxtvPv55RZBuiyPJona+bb9BMSPAtTJSPurVP3sgppm1SWuaPyrh8PfxP+sojZ95ptV32D3DP+go5nUxPO+i0YFFieYAHraho0lMRgw3lqTQk9MIkKHguZI2kzrBg9OPMyzvWpMe2NXlJttdOHO4rWdeasBPlGn7VjBFLQuj7HPU3pCZxLjVOPYKjP1sZmwgzsjEBczqKXeNUz0qqZ3b2+wSO+O5aY5hK+tCFGwJaNtw4cL8txdVKCwIP7rJY6uTIDDBGe/nAnsA9EdRBhirR+V6OU4cGfC83GXTIvWEOhQhyV9RMYsQMRq6pK2RtKQ3zcuMrC7y1+g==
+arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=Row4ido6EqQKH0gpMLgqCoY3DCiZXq+xqYfkD3Ia2cs=;
+ b=ZFMi51Pj2u3g6eD1PnPBxm+G81PME8THu7nCdaVY9qWOYXsMqCNGdII9GHptIlMUwYDKqgcxaiR4IAD9lLa5/Yb30MBXYuUKrxBt5GZ+P161xXZrW/X/c9ll77mTffJrT07jNM5b2EAo1eLHEDU4PKWK0xztt/xuvxFF4OIwjd887dRIRNB69QMMh0Sbv+qrnk2570yw4IRaemErFmVFCr2lWV3wk2LW+k3fygl+tvI9MedmuNs/gkDTGO9KEuHdMNGswt53JY2K6ZJxuUHPGGcQOPoxaQAUiQDV+fyG2XRy9/bg6ByK8qhRwEeKaLGfdQbiNUXU4g4n/pMdpvReag==
+arc-authentication-results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=auckland.ac.nz; dmarc=pass action=none
+ header.from=auckland.ac.nz; dkim=pass header.d=auckland.ac.nz; arc=none
+x-ms-exchange-transport-crosstenantheadersstamped: SY8P300MB0212
+x-organizationheaderspreserved: SY8P300MB0212.AUSP300.PROD.OUTLOOK.COM
+x-crosspremisesheaderspromoted: uxcn19-tdc-a.UoA.auckland.ac.nz
+x-crosspremisesheadersfiltered: uxcn19-tdc-a.UoA.auckland.ac.nz
+Content-Type: multipart/alternative;
+	boundary="_000_SY7P300MB01688FF546516706DBF8A394DC31ASY7P300MB0168AUSP_"
+X-EOPAttributedMessage: 1
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SG2PEPF000B66CB.apcprd03.prod.outlook.com
+X-MS-Office365-Filtering-Correlation-Id-Prvs: a3478840-aa33-4538-156c-08dddeae69e1
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|30052699003|82310400026|35042699022|13003099007|8096899003;
+X-Microsoft-Antispam-Message-Info-Original: =?us-ascii?Q?93HAkwXhimhR3WszPaFvKYNcXUE6d11kxj7ZWedS7snpjhDaU7/zk6eomsx0?=
+ =?us-ascii?Q?g/bUIoFaSl6mDOBy7lsJK9JUjzL7h+KOCOa2yCabiEhCUGx/MAIGIy1uDGxw?=
+ =?us-ascii?Q?L5RcePOYjntUvkLYlhYt8+Mo3QDhOAZqrsZcYNDFL4EaCRWLUPNSHyXSPEoR?=
+ =?us-ascii?Q?x7nxYNocjsQWdPkQEA1IbZYiV2febB+7AVbdl/b+9b+YcjOVc7+7vkKHfly1?=
+ =?us-ascii?Q?Atk/eSUxd6DFhCFwVi2DibqzC47k9lNd5GMa6Cw8AW3P3eVySiS+CU7wgZDM?=
+ =?us-ascii?Q?2WUJ0PCs8p3EHz3l/RnxZkHjc2DAB/C6l7Q9YDuKWgna0hvRuPaPpklLNJNi?=
+ =?us-ascii?Q?oC2SQNiCIlHbMhE18ib4j81am+xjllXi2P0Dj2giU2WmXJjg12hzejUqXT7R?=
+ =?us-ascii?Q?2LZoE0q2KvIKdssf+mPahVNntHp7ynfzYE/RsTR4pFqF4gqApm+JNe8Uip/4?=
+ =?us-ascii?Q?nzYT5dHyxMBMhtGKncQUxW91Iisupd7zRb6XvR2jOA9cgbRgDwJjPaK562y7?=
+ =?us-ascii?Q?0GSePpOurOGQ8AhOXbeZxt2hAvY3mHx7hLEBiO0puedekNcwMDAhm5i/4ymv?=
+ =?us-ascii?Q?8aioMpP1AwYVC9MCWffc6NTnAlho5ss8on9mDG+R7t6Cj4iz5cjhDkApp54C?=
+ =?us-ascii?Q?LDwjFGHbuXUeL6xGmJhl/rsDfCqINXfLO3cnPQjYEKuxPrhCNtl3d5oIM7PT?=
+ =?us-ascii?Q?D69Yc3AJK2NXCV3M7tnzvd3bJ/UcqRvhHMwN038Dl6/e98zfxiaJQqOV4NhH?=
+ =?us-ascii?Q?CNLmXy/r9O9T7ZSjz9m5YvdV0VCo5WYDMLOCOxoEAXv9mpN3NPiobaZUhjg0?=
+ =?us-ascii?Q?fV9KzJPh3Umct8o5VswZaOWgmz3bxnQhx5BbCMR8o/uPlC3tv/OJpu0uLtmJ?=
+ =?us-ascii?Q?VZsp+69pHy+2zRUg6NfHMJ210ZLIRGFyUHac9b9Zha6kWihE1KuT/wWPO+wz?=
+ =?us-ascii?Q?dxdtga2aX1Ty2tmXyj8s4OxkLa/L76mmRUD/5vYsYgzYH6NLAPbDJzu1dJJk?=
+ =?us-ascii?Q?iEI5PWQ3F63oQa30rtZwjRzbMvJ80RCwVljU6vJ81GWU90mrsV85WgGkn8GY?=
+ =?us-ascii?Q?3//f/8VrJI1+zumFCBfd/A2I6UkSId9mn5Mv9gWTvJ58qO4zIGiL179q7DIZ?=
+ =?us-ascii?Q?WFqlo/y9XaKzHZBhSr2bFSazGutqBaCIWq08iJwMbniUgf9pwQe/QYvKdv0p?=
+ =?us-ascii?Q?I7yLgPKaIegx5r5hYeuVryah42YXhW8MOeWeSxExe7BFjAsjvuD/qXvnPJSS?=
+ =?us-ascii?Q?vu5zw1McvRzPd8YnM1604LW6BLtL/jRXJ+dRM0KOOn5OyQXjzd+GhdDUKxfb?=
+ =?us-ascii?Q?O1u348wIxFu08kaCPojVx37JhYqugXOvvLuMyqNr3wjw56zqrv+P0OFe2UZi?=
+ =?us-ascii?Q?TvsYCsGJUA909LfYFQdKBzFm9XAYIeyc8pK1aeQzUfIFo7Y+LpAP4UzpuNgR?=
+ =?us-ascii?Q?lPFMD+PGrsmFeK5mPOZ9oFw/KbHCCsoyTS2IISViNfRiOhic5i/m3iU1adUq?=
+ =?us-ascii?Q?bQ7/L3uzSG+83/5EcD2io5Eywjsv78Bg1fWT6Kkbm5Bzz+TTlr4SIb21Q7hy?=
+ =?us-ascii?Q?vcHXP+BqWk2vxhDZln1+ptc4ak2G+LIwcBhvBSCAxJ5kaBwsC9SabiWqyhqG?=
+ =?us-ascii?Q?sruSwu9FpfPVVp4Yt+hm+aNYviKKhw+EC6JvZ0gXx3HR5bv6WkgJSFpsBaig?=
+ =?us-ascii?Q?R9+n5Hr03XRyKiMtRoLZPSJM59h1UCrODtq2KnYA/FXP/PtMUqpKTLBKttEG?=
+ =?us-ascii?Q?yZin+E53gl2TxIRmj6c4TxHJtLq4HjTZWxBRNmv301KduF6LAprDSU690wGt?=
+ =?us-ascii?Q?fg1F8Bqn5b5e2xV7Wuu5MmlITANkuxgUeN0gmSnsBt6dToRN7h5nFCcnIwsu?=
+ =?us-ascii?Q?exgFLsYjCBQTvE6l42HCneIPkiaQZu6d4TZcuWI9D0ycWe+kTtzufP1vIsbL?=
+ =?us-ascii?Q?QcDonmwQGCyRiDUcpejbwkXxw11h5VjS96pCqWui+em/lH50A+sSF7+/C/k6?=
+ =?us-ascii?Q?SxBHeyaKo2gf9PVqwpCncHDyHOZN6pDEnZdKF9J1yL9MP20RviX6jTeRBry9?=
+ =?us-ascii?Q?sZl1tyGyvTB85Ns2HUAEeBB9hiBZeQB/vB/M3K34KFrqOc0kLKecQKhQ0Ee5?=
+ =?us-ascii?Q?lLFA5j/ud6pcfAulyh652LLZGS1/3/vA8nym5VyUHu/AHNLs7lvyoDwEJCq8?=
+ =?us-ascii?Q?j1HxbgB+AwaUgDIZ0k8BHpCgN4ALLTqfXitl9g=3D=3D?=
+X-Forefront-Antispam-Report-Untrusted: CIP:130.216.95.208;CTRY:NZ;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:uxcn19-ogg-a.UoA.auckland.ac.nz;PTR:natgate1-1.auckland.ac.nz;CAT:NONE;SFS:(13230040)(30052699003)(82310400026)(35042699022)(13003099007)(8096899003);DIR:INB;
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY7P300MB0621
+Reply-To: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
+X-Loop: all-staff@list.auckland.ac.nz
+X-Sequence: 649
+Errors-to: all-staff-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: all-staff-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <all-staff.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/all-staff>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:all-staff-request@list.auckland.ac.nz>
+List-Post: <mailto:all-staff@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20all-staff>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20all-staff>
+Return-Path: all-staff-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 18 Aug 2025 23:25:49.4926
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 36487d0a-9529-49a8-2812-08dddeae9101
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: TY2PEPF0000AB84.apcprd03.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: TY2PEPF0000AB84.apcprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: auckland.ac.nz
+X-MS-Office365-Filtering-Correlation-Id-Prvs: d5180b27-e767-455f-b4cd-08dddeae6ba7
+X-LD-Processed: d1b36e95-0d50-42e9-958f-b63fa906beaa,ExtFwd
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:4;ARA:13230040|4022899009|82310400026|35042699022|8096899003|13003099007;
+X-Forefront-Antispam-Report: CIP:130.216.125.250;CTRY:NZ;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKN;H:uoasmtpprd01.its.auckland.ac.nz;PTR:uoasmtpprd01.its.auckland.ac.nz;CAT:NONE;SFS:(13230040)(4022899009)(82310400026)(35042699022)(8096899003)(13003099007);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 18 Aug 2025 23:25:49.0975
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 36487d0a-9529-49a8-2812-08dddeae9101
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=d1b36e95-0d50-42e9-958f-b63fa906beaa;Ip=[130.216.125.250];Helo=[uoasmtpprd01.its.auckland.ac.nz]
+X-MS-Exchange-CrossTenant-AuthSource: TY2PEPF0000AB84.apcprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY3PPFC3E8FB408
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.5722504
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.9031.000
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?windows-1257?Q?h4sei0AP8j61svqy4XamBQI9MuaJE8XCH1hsm1Ypv0hCPxRQGph5d6Zx?=
+ =?windows-1257?Q?LKuWHxLazNeWetj1E5m6TFKGsD2uFk0u3+W++pOfmYVGqXrUC1g6qSHz?=
+ =?windows-1257?Q?QRvzTNlZ481hsEk/aSf1YnzK74VXFjnroZNzsDkqZ92Q3jHSu2S8cbx4?=
+ =?windows-1257?Q?1kOl09W+44wuo9VsLdx8o2BF+8qGhryf0a0WuOVckpT9jDpxFJn3/3Vp?=
+ =?windows-1257?Q?USeHnZC9L2RDlBEkMR86ck24AY+SQG0zqB3Amv5zFsJd0moce+AEGhM3?=
+ =?windows-1257?Q?WXIix4frQKYfnUFqk63TTP6w7gWLjUCJBMTx3LFWwfwvmx4vE2um/Enw?=
+ =?windows-1257?Q?fwQKqzXoJNtBA7ZzI3K763pJdZ/heBQUFCJeFmAmoUSHHcqFdTZrYeD7?=
+ =?windows-1257?Q?3t9BJkKvWmkOpvTdVKCVfUDPgE8dHa49o4nMZX+qVA++Bw+MaeJzkeTb?=
+ =?windows-1257?Q?yrzbJQdmDxEqSh2RB3fMsf69qiEgO7fg1+SxfdtYXB7M4UOD9GAxzpF/?=
+ =?windows-1257?Q?JbGDPwREvVMh842iHg+2G08Z/eGCgMTdy+UoGlqIcYVnx4SHq52zQ5a3?=
+ =?windows-1257?Q?0/cHW3C3n8q4TCj/LlUXSkaInvneJCk48LQbxIp8tnBRD2rND58DqYuu?=
+ =?windows-1257?Q?HZPp8kLsLJ14qOx4T4RSlySKwXilDsgFxtrti931dMgh4ztuIW/EZwDT?=
+ =?windows-1257?Q?64Ue2xq+DgL1c7ZKlf9D5H70pMFA3zRXRKhoI52CkNjPnd0iwOdVY/ZK?=
+ =?windows-1257?Q?Cq/BNJJWjtmerzrSCrugpXj7xM8u/XoUpDRfH+YieEIXrUdIT183q1dz?=
+ =?windows-1257?Q?nVohO8jmjVS5EFxMyjDC5W3sop8ICXSAk6izWaa4T4J5LNZZ+Eg2fuhy?=
+ =?windows-1257?Q?98lI4cuma7Dl35Xh/4EQKYtr1xvc7YzJ05sTvxw1Y8lp1/TC5zBJHXZF?=
+ =?windows-1257?Q?PRzVlaXddICuIpYigTCmuNzzwEBsomRnPZvEFASVjCCwJeYWRc++ATl4?=
+ =?windows-1257?Q?O8euuU6fC1GSRkC1+elsBgKq/98C94Uh8phNcEw30wN4euixCgmHg8Xs?=
+ =?windows-1257?Q?9n3BwNkbET71zDoDrSH2jMGE7k4Tq/cFp/WN6/blr97eNxv6biEf3Dqe?=
+ =?windows-1257?Q?lERYtpo0v3LYMRYdra7TVGzQCiA1+Du6F+OG9nLt3/bkrIrfEpt3WrR1?=
+ =?windows-1257?Q?7tDzegreN3l7+mRCLci7ae6WLlbAnfZ55YOicp4WC9sdeHz0Bbl5S7dd?=
+ =?windows-1257?Q?Kazay0LLBita2gZt6vXqnMS+qPVV6fyfhEKEeQy+580FCclrmw48+4pC?=
+ =?windows-1257?Q?vvkVbRWNvk6OO3Ox7MMHpjcTaD4Zu5kUJUxB9GTJdwTFGqHu/z6bawJ0?=
+ =?windows-1257?Q?6ZVpXeB+9ghBTQDcx0m4HjAIRs1dgDs99OG2T+i28umg3xTPfBBHTHSj?=
+ =?windows-1257?Q?OwPV7gsQpxqieaTJ60jMJjT8aiPqFIITIOsa89+JPpcLFV8KyzV8gdQO?=
+ =?windows-1257?Q?KqIQHMgEfpjGIXqvGxxRdAdcHeGg4WUXhqkLhjgbOVNFJAYKnc478swR?=
+ =?windows-1257?Q?9JV4dITz6GqCDhv0NEYzUYwGYdHU854Uizp0DpxwFccUGocahjrnPxPF?=
+ =?windows-1257?Q?qh+AdRYtZVDzmXJT8BpXTD9BCZUJmLjH1gBMb2cOeyIw+KsDgAZAvRX5?=
+ =?windows-1257?Q?KQwoK4brv5uTjX5+EQgnVCHPxF7S/9wlOIxDltQmHEAdLMhc/kRus3+Y?=
+ =?windows-1257?Q?sot7RQPGp83WV7XJHzZ2Nm/Cgmcy3CdMhUwZAY4ao4VGFgFiO6ydul/9?=
+ =?windows-1257?Q?yvFhYnWj2OsyAC0VPpalaiHnFAPzPsPyG3gwdCKV0KPuVIBH3MUtevl2?=
+ =?windows-1257?Q?0tcDF88P0gKvJ2HIz7PEBv0Ev5Wjahpvb7R3NnTRQgcpz7K87R0KuefH?=
+ =?windows-1257?Q?iV732D7MKu8hu8LZdHIyL6OrZUefjkLybgqUsaRUoFTiJwqxxkc5wt9N?=
+ =?windows-1257?Q?HNhmD8x5tEQpODcRLTpFp/Avif+tUuAT2+KMGNPmecP9f76fTpClvOO/?=
+ =?windows-1257?Q?HEQD2zkzXRzSVj1Nxq+q3HBo7pGrBIKRt1VwV1vg5KTKcy6VF/5Wkd+z?=
+ =?windows-1257?Q?YYKpubpqHXcVY6b1L/iJiJzcsu2sggWhHMHizU/+wM/XLgb0o5t754Fb?=
+ =?windows-1257?Q?F5ZTHSsF6J+qCjVO+FCGzwqroEBn3WJExJSHQXRgRXCeAGOXnKukI7o0?=
+ =?windows-1257?Q?YQkoAOvJUXU1wnZkbM3zmrO/uWkt+EBQNsoJCDYmBAuANTSHF33uM/1+?=
+ =?windows-1257?Q?Hj1PNbtg54109W8+Pc1AEEUywRKkxXj01J9NXL7WA8W7dB6nEgFiRxlL?=
+ =?windows-1257?Q?4mukOKKoIeT17XgFGVgbBVL1oGakMki0EvF6gjJU5CFeYarM0hZAXyv0?=
+MIME-Version: 1.0
+
+--_000_SY7P300MB01688FF546516706DBF8A394DC31ASY7P300MB0168AUSP_
+Content-Type: text/plain; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+Kia ora t=E2tou
+
+Appointment of the Chief Operating Officer & Registrar
+Following an international search, I am pleased to announce that Mark Grego=
+ry will commence as our new Chief Operating Officer and Registrar in Decemb=
+er.
+
+We are deeply appreciative of Adrienne Cleland for her longstanding leaders=
+hip of the Enabling Environment portfolio, and to Tim Bluett for stepping u=
+p to facilitate leadership of a range of University-wide projects.  Both Ad=
+rienne and Tim will continue in role until later in the year, enabling a sm=
+ooth transition for Mark.
+
+Retirement of Professor Nuala Gregory
+Professor Nuala Gregory, Dean, Te P=FBtahi M=E2tauranga, Faculty of Arts an=
+d Education, has announced her intention to retire and return to Ireland ea=
+rly next year, after serving the University for nearly 28 years in a number=
+ of academic and leadership positions. There will be an opportunity to refl=
+ect on Nuala=92s contribution and achievements at her farewell to be schedu=
+led early next year.
+
+K=F4rero Mai Staff Engagement Survey
+Thank you to everyone who participated in the recent K=F4rero Mai Staff Eng=
+agement Survey. I=92m pleased to share that 70 percent of eligible staff to=
+ok part. This is a strong response that reflects a shared desire to keep im=
+proving the experience of working at the University and one that sits above=
+ the 65 percent average for comparable higher education institutions in Oce=
+ania. In the coming weeks, the survey findings will be reviewed to identify=
+ the areas where change will have the greatest impact. Find out more on the=
+ intranet<https://www.auckland.ac.nz/en/intranet/stay-informed/staff-commun=
+ications/staff-surveys.html>.
+
+All-staff forum update
+Due to a scheduling conflict with the Council meeting, the all-staff forum =
+planned for 27 August has been cancelled. The forum will return on Wednesda=
+y 24 September with an invitation to follow shortly. If you were unable to =
+join us last month, you can watch a recording of the Online Town Hall on th=
+e intranet<https://www.auckland.ac.nz/en/intranet/stay-informed/staff-commu=
+nications/staff-forums/05.html>.
+
+Ng=E2 mihi nui
+Dawn
+
+Professor Dawn Freshwater
+Vice-Chancellor
+
+--_000_SY7P300MB01688FF546516706DBF8A394DC31ASY7P300MB0168AUSP_
+Content-Type: text/html; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#467886;
+	text-decoration:underline;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-NZ" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Kia ora t=E2tou<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:6.0pt"><b><span style=3D"font=
+-size:11.0pt">Appointment of the Chief Operating Officer &amp; Registrar<o:=
+p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Following an intern=
+ational search, I am pleased to announce that Mark Gregory will commence as=
+ our new Chief Operating Officer and Registrar in December.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">We are deeply appre=
+ciative of Adrienne Cleland for her longstanding leadership of the Enabling=
+ Environment portfolio, and to Tim Bluett for stepping up to facilitate lea=
+dership of a range of University-wide
+ projects.&nbsp; Both Adrienne and Tim will continue in role until later in=
+ the year, enabling a smooth transition for Mark.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p=
+></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:6.0pt"><b><span style=3D"font=
+-size:11.0pt">Retirement of Professor Nuala Gregory<o:p></o:p></span></b></=
+p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Professor Nuala Gre=
+gory, Dean, Te P=FBtahi M=E2tauranga, Faculty of Arts and Education, has an=
+nounced her intention to retire and return to Ireland early next year, afte=
+r serving the University for nearly 28 years
+ in a number of academic and leadership positions. There will be an opportu=
+nity to reflect on Nuala=92s contribution and achievements at her farewell =
+to be scheduled early next year.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p=
+></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:6.0pt"><b><span style=3D"font=
+-size:11.0pt">K=F4rero Mai Staff Engagement Survey</span></b><b><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt">Than=
+k you to everyone who participated in the recent K=F4rero Mai Staff Engagem=
+ent Survey. I=92m pleased to share that 70 percent of eligible staff took p=
+art. This is a strong response that reflects
+ a shared desire to keep improving the experience of working at the Univers=
+ity and one that sits above the 65 percent average for comparable higher ed=
+ucation institutions in Oceania. In the coming weeks, the survey findings w=
+ill be reviewed to identify the
+ areas where change will have the greatest impact. Find out more </span><sp=
+an style=3D"font-size:11.0pt"><a href=3D"https://www.auckland.ac.nz/en/intr=
+anet/stay-informed/staff-communications/staff-surveys.html"><span lang=3D"E=
+N-US">on the intranet</span></a></span><span lang=3D"EN-US" style=3D"font-s=
+ize:11.0pt">.</span><span style=3D"font-size:11.0pt"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p=
+></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:6.0pt"><b><span style=3D"font=
+-size:11.0pt">All-staff forum update<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Due to a scheduling=
+ conflict with the Council meeting, the all-staff forum planned for 27 Augu=
+st has been cancelled. The forum will return on Wednesday 24 September with=
+ an invitation to follow shortly. If
+ you were unable to join us last month, you can watch a recording of the On=
+line Town Hall
+<a href=3D"https://www.auckland.ac.nz/en/intranet/stay-informed/staff-commu=
+nications/staff-forums/05.html">
+on the intranet</a>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Ng=E2 mihi nui&nbsp=
+;<br>
+Dawn&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt">Professor Dawn Fres=
+hwater&nbsp;<br>
+Vice-Chancellor&nbsp;<o:p></o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_SY7P300MB01688FF546516706DBF8A394DC31ASY7P300MB0168AUSP_--

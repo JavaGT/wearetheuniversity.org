@@ -1,0 +1,953 @@
+Received: from SY0P300MB0110.AUSP300.PROD.OUTLOOK.COM (::1) by
+ SY8P300MB0135.AUSP300.PROD.OUTLOOK.COM with HTTPS; Tue, 27 Aug 2024 02:02:54
+ +0000
+Received: from PU1PR01CA0033.apcprd01.prod.exchangelabs.com
+ (2603:1096:803:16::21) by SY0P300MB0110.AUSP300.PROD.OUTLOOK.COM
+ (2603:10c6:10:250::12) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7897.25; Tue, 27 Aug
+ 2024 02:02:47 +0000
+Received: from HK2PEPF00006FB2.apcprd02.prod.outlook.com
+ (2603:1096:803:16:cafe::4f) by PU1PR01CA0033.outlook.office365.com
+ (2603:1096:803:16::21) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7784.34 via Frontend
+ Transport; Tue, 27 Aug 2024 02:02:46 +0000
+Authentication-Results: spf=pass (sender IP is 130.216.125.250)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=fail (no key for signature)
+ header.d=auckland.ac.nz;dmarc=pass action=none header.from=auckland.ac.nz;
+Received-SPF: Pass (protection.outlook.com: domain of list.auckland.ac.nz
+ designates 130.216.125.250 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.125.250;
+ helo=uoasmtpprd01.its.auckland.ac.nz; pr=C
+Received: from uoasmtpprd01.its.auckland.ac.nz (130.216.125.250) by
+ HK2PEPF00006FB2.mail.protection.outlook.com (10.167.8.8) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7918.13 via Frontend Transport; Tue, 27 Aug 2024 02:02:45 +0000
+Received: from sympa.auckland.ac.nz (lists.fos.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id 472AA802626;
+	Tue, 27 Aug 2024 14:02:41 +1200 (NZST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz 472AA802626
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=auckland.ac.nz;
+	s=rafal; t=1724724161;
+	bh=1wZHLttoCaIkupYrdUkhBpuPxs69m9Ju+/cQUNvjJhI=;
+	h=From:To:Subject:Date:References:In-Reply-To:Reply-To:List-Id:
+	 List-Archive:List-Help:List-Owner:List-Post:List-Subscribe:
+	 List-Unsubscribe:From;
+	b=JevAPjrZ1FtrMWyhVn0tqLJ0vIjO8EarmDkuvgPsp38PfzLurwW2N5fbyl4MiTXaO
+	 qJX89CGteDWWoTACXVDt6Y/JmMZQsoaYr9FbQNKM9PrltmuqzV74QHtxYQJu+13XIM
+	 aQOWC11VA11KkRrGWeGDa7UXQOWLxAzjv9lxUIN4=
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id 323B5392E8; Tue, 27 Aug 2024 14:02:41 +1200 (NZST)
+X-Original-To: all-staff@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-all-staff@sympa.auckland.ac.nz
+Received: from AUS01-ME3-obe.outbound.protection.outlook.com (mail-me3aus01lp2239.outbound.protection.outlook.com [104.47.71.239])
+	by sympa.auckland.ac.nz (Postfix) with ESMTPS id 0D1872ECC7
+	for <all-staff@list.auckland.ac.nz>; Tue, 27 Aug 2024 14:01:54 +1200 (NZST)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=Zaa1JJTSaaYRvaBE8TCb5UJoZzk+nP5dBYfLqSrcCSqA2DXEojXQu8ujnTvXXGBfzcBqG9KkDSSiVOdmLR0IgZHnXl4O7HzaZJOLM7NEyBrwfZhg5TXn18X3xOawiWI1QzOfvCGFpBt8p/W3ebsLeob3IkCfcEv1IABy+zfA4L9wnleoIAp9Dzyqvfsv22D24c27UjwmYdXz8Q3VW0+PmhEuMc9HtohLwaOkNQFDJn+aFJm+wFYLcEUdn5iYe1/xh3y9ZUBlx4WttaXaR0fTBTwyx30YRvo8VxVqML9J7xzQK+mcIg7OhIOgmbIcOcNw3CCMjXi62KPZJwoPbcLrRQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=RoTGxMMdUbCSeQOVjwEVMPEDPBO6wjDlEb6nTq3OEGA=;
+ b=KfLBG5oAblki7SoOke6hj2826IWCuyuuRMWVruaq6q0q23U9vhPtupxCE7WK3/ev3VxqMnHnuWgodSbQTYhKh+ik1j7Tl3xLVeMKI1t2kc86hraAEKb06r5i0PPJ8H/1aNgLh76hwiBWH0sTGFOGDOczPm+S/aVUgLFyrQkRC1v94I+7cWP434nbHXc7XguIhJmORs3vN5oR4lO21pFdk8xmCljrSzeneG4AH1C1abpSLlj2D6sByiqnejPqmLVmpjuEEgX0jqoHINTsN+1SkJE4jmYbRoWAu+WI2V961U8nw67x6wV+5CVEiFBYBdN3YpdZiHaGL7ll2NhTmdXeHQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=auckland.ac.nz; dmarc=pass action=none
+ header.from=auckland.ac.nz; dkim=pass header.d=auckland.ac.nz; arc=none
+Received: from SY0P300MB0980.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:27d::5) by
+ SY7P300MB0009.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:219::12) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7897.25; Tue, 27 Aug 2024 02:01:52 +0000
+Received: from SY0P300MB0980.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::228a:9313:9fa0:6fd2]) by SY0P300MB0980.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::228a:9313:9fa0:6fd2%5]) with mapi id 15.20.7897.021; Tue, 27 Aug 2024
+ 02:01:52 +0000
+From: Staff Communications <staff-comms@auckland.ac.nz>
+To: all-staff Mailing List <all-staff@list.auckland.ac.nz>
+Subject: Important: System Transition and Go-Live Dates for Hono | Human
+ Connections 
+Thread-Topic: Important: System Transition and Go-Live Dates for Hono | Human
+ Connections 
+Thread-Index: AQHa+CUV241sD4wzGUabHcGhYcn7pA==
+Date: Tue, 27 Aug 2024 02:01:52 +0000
+Message-ID: <SY0P300MB0980A311471914B5F1B6A9A2A3942@SY0P300MB0980.AUSP300.PROD.OUTLOOK.COM>
+References: <SY0P300MB098041967D8D93BBF862C83FA38B2@SY0P300MB0980.AUSP300.PROD.OUTLOOK.COM>
+ <SY0P300MB09805A18C390C9E146E2AB9EA3942@SY0P300MB0980.AUSP300.PROD.OUTLOOK.COM>
+In-Reply-To: <SY0P300MB09805A18C390C9E146E2AB9EA3942@SY0P300MB0980.AUSP300.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=auckland.ac.nz;
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-traffictypediagnostic: SY0P300MB0980:EE_|SY7P300MB0009:EE_|HK2PEPF00006FB2:EE_|SY0P300MB0110:EE_|SY8P300MB0135:EE_
+X-MS-Office365-Filtering-Correlation-Id: 7a71d05f-c1c1-4c06-0963-08dcc63c586c
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|366016|41050700001;
+X-Microsoft-Antispam-Message-Info-Original: i3FENPyYk/yev/iF+z4SOPt4WDvBi1MoOt+/Shc3bu6oKTgLSbAzOMB5/ud6tUPM8Jxxwoo8JlIUGwpszJB5HPowNIqITVB9ARB58OPHsIoUtO+m+p3yTT+oeF91HYzewOGZ3SMQWlfjBuq5Rxedl77cIWQL/7CmDR2/bJTY83bLOdpN1iTufeoq/wAy0njgN9jRa9QYL8tZyn3cYKQdwMaybd9iiXnLM7RBiI3MupuFKWDNO18dCkaRKtpV+JnstbfQpxa5dhFYUIJEUqw1rMShUkV1AMkWQ64uBFhs1/ZhPcora+oXVCSUod6ZDfBi659mCpuJ9O3qBGjya8A3Rm90SDnlYZ7antWdseDWhjYrI3pp7vRTFN58G0P1UF0FRLAJt4vyfU7Iew2UhEcE72aUQ1ApBUHy5x7r+yJAqSly4/hUg1q/6iMh96WLt52ms4SEmU1NOzX07ofW1ejYpUS9Sg2oUvVsK+YyEN3oTDQWNsHlxu86yYUn055LzC/YSIy0n0c1bPKcOJ4WM63ipUNs7mUU0CMB+0buqoE/KhAM8HDAjlaucILmzy1ltcq9jgC3B6PWAXB5uV0NnmQvkztshK+mQ8PC0Vy/CtpuVh8gK6hBnypj/RuefI7VXuwUXYZ2shKBPV1HZQ/lZHevoR46KP9sym+y8rdU1U4n6tzr5EvV8Y0iTMpYF1yP+3dhzrOFgP81zY0o4qt01QIZdlh8VL/7DV42QXqhgowGm/w4LcVsB5oo/Cqyir/zN7ElQlj1tUducJP3RQtesAf1L60SixLnNwz206fMEPDmAdE=
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SY0P300MB0980.AUSP300.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(366016)(41050700001);DIR:INT;
+Content-Type: multipart/alternative;
+	boundary="_000_SY0P300MB0980A311471914B5F1B6A9A2A3942SY0P300MB0980AUSP_"
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY7P300MB0009
+Reply-To: Staff Communications <staff-comms@auckland.ac.nz>
+X-Loop: all-staff@list.auckland.ac.nz
+X-Sequence: 611
+Errors-to: all-staff-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: all-staff-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <all-staff.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/all-staff>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:all-staff-request@list.auckland.ac.nz>
+List-Post: <mailto:all-staff@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20all-staff>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20all-staff>
+Return-Path: all-staff-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 27 Aug 2024 02:02:46.3580
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 7a71d05f-c1c1-4c06-0963-08dcc63c586c
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: HK2PEPF00006FB2.apcprd02.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: HK2PEPF00006FB2.apcprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: UOA.onmicrosoft.com
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 6ff18e2a-c067-4c3a-4374-08dcc63c3813
+X-LD-Processed: d1b36e95-0d50-42e9-958f-b63fa906beaa,ExtFwd
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|35042699022|4022899009|3072899012|12012899012|82310400026|2092899012;
+X-Forefront-Antispam-Report: CIP:130.216.125.250;CTRY:NZ;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKN;H:uoasmtpprd01.its.auckland.ac.nz;PTR:uoasmtpprd01.its.auckland.ac.nz;CAT:NONE;SFS:(13230040)(35042699022)(4022899009)(3072899012)(12012899012)(82310400026)(2092899012);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 27 Aug 2024 02:02:45.9205
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 7a71d05f-c1c1-4c06-0963-08dcc63c586c
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=d1b36e95-0d50-42e9-958f-b63fa906beaa;Ip=[130.216.125.250];Helo=[uoasmtpprd01.its.auckland.ac.nz]
+X-MS-Exchange-CrossTenant-AuthSource: HK2PEPF00006FB2.apcprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY0P300MB0110
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:08.4329405
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7897.019
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?windows-1257?Q?Y1xCM5QLPt56U+yDS/Y4Vbo4yO+pKR/aMwOVP0GIw+pvHoEHsSayCOoA?=
+ =?windows-1257?Q?jUwZdnSLvbJ/vuswflzzOMWOue+RaxDyZi8V2Sej21jqdG4tq3j6kV2X?=
+ =?windows-1257?Q?8TRyOX6hzTlTQKSd7+olvr2fdAXvMcEl8cCsJDgor/IXNBBBTqGw1OP0?=
+ =?windows-1257?Q?yTuEy5IYQHbuEguZ//axWdYn0qdeIZj1DLg1JvhVjN1gm7OjnmspKaLa?=
+ =?windows-1257?Q?ZcCNnL1FYNb8wgsVjS5z1YHOQSMNV6GuzUPPVcLTCYL5hW1LfJNMcnRt?=
+ =?windows-1257?Q?H0Sme3Hg6soUaiMwi7ty3Sf899xJST3nmMOe4f4SxNy8K3iJCcdEM+Yt?=
+ =?windows-1257?Q?3RCZm3RkJW774qMenBH8UE+wWpcOSXraOb6jzksdOdbINbZ0UOcz1W9X?=
+ =?windows-1257?Q?QfHyCx72JTbJt1xFEWJ5emOrgTWJllMxLJMpoJrHuzqrxpiQ7QDhSUzB?=
+ =?windows-1257?Q?guRpOnTzovL2SWmGZCKZw1hUgLr7GmIwsIGsnO96Kohi9NYbgsWdPPHb?=
+ =?windows-1257?Q?3zlSYCSrtqpOWOA2lfKfgSMTbU7y7gq+EJS8UXGP64WvUUTaqeCVoiFa?=
+ =?windows-1257?Q?nmPkfsnUa2CcvjCPsqFGG1+ImLwXwfVVNNM/fSeU+dm4YtsNromyrevr?=
+ =?windows-1257?Q?fDiYQqCPyPJwjBbJCtvxuMv3AlFRCNVxyhEOqlU4Qpdg0HQIsYk2xSN1?=
+ =?windows-1257?Q?IaV2cAUgFS9vv4bdjOIfyZOy5QNGyFKczOc4tLTHWSnENIPTDfTMlg+c?=
+ =?windows-1257?Q?If0DhsulGR+ZXV4jN8Y6rbtButW5hZ2CffRx9KairE8Q1W8Y2TcwRBhV?=
+ =?windows-1257?Q?peprh3Zv5oC0zeCrwl5QltPRJC/eH394UeybGiXeCRJQprs73+t5o5xC?=
+ =?windows-1257?Q?XDMTNT2XEq5CPj968Jk+0aZxQwviHvpGs+SgOSufAOVaSCDUSFjeoLkt?=
+ =?windows-1257?Q?Is1bWJCtVIP/WxjpG3o1OvnxSyav4auMrNxcU5/960w+iv3+2gyuhOSx?=
+ =?windows-1257?Q?etIL5uAs4ukOp4IZJD0pelK7FcTnfpb/tcnEOPbZvqNwAzyTAXwmmp2G?=
+ =?windows-1257?Q?PBYWvZBEGBZkoeW9Fc5G90MifKrCkc/RJYVJ0ESipvZzfDwXE9uerpEM?=
+ =?windows-1257?Q?dUJUnwxadujDUKRbtgau9fGdRvbhiCNuseItLlwPx+TEU1GzLzfnN02E?=
+ =?windows-1257?Q?VvJeb2iCDMYFgv6TA8Jvv51E9TPuxLsnf8xiqcofdbJ4rdiDOEqIPknD?=
+ =?windows-1257?Q?SaJ5wZWM8GnkxwRRQljnzMVaNy6cTXFSlCCSmtW8a6nVue8SCc7aVe57?=
+ =?windows-1257?Q?SC1Sw5i6Jc4C6JPTWtGQCQkUVN+1a04EfSQfbdIENuzIb+RfjdepejW+?=
+ =?windows-1257?Q?L2LpPAFxj9suoMT6sVXNS+Qx45/CprDAp2R5U57gCxM2/pkgodaM973t?=
+ =?windows-1257?Q?F+kwqUOk2Fw34VmUJg1Wv7SO9eQRxccP1gIK/Mm9in2I+7XV+6v0Wb31?=
+ =?windows-1257?Q?YeKzL5DxIJByku0gw05ukt8XI8F6cE8PXWnddjveDn+1yM0dXdE1VmrF?=
+ =?windows-1257?Q?5xcs76fKBhsYiEmMiNrv2ie+KzrdGT7Lq6MlrHSj2ntiS5EnwOKcxYn3?=
+ =?windows-1257?Q?b6Uy4a2G39v3xmJez3xv14PuVLLKKaN6i9etnS+Wzy8Rvd/D5emLpuEO?=
+ =?windows-1257?Q?QWbgZGWzeVdsypLVp0pVD2ONzqS1zP0f2G7w8LGJwksF1rJDFxGZl90e?=
+ =?windows-1257?Q?+9PGxzO4wO706KjX0PGI4uD37HFFSqcKUV8WZdvRHpSHtCXD+vzVysoq?=
+ =?windows-1257?Q?6yH5JCfwuh+H1PKkH1p494PtZdyg6R0Bm27LbToY6TRGNtKXTz7tvNwK?=
+ =?windows-1257?Q?pgU2EnWOtjffH+NNkhNpUr7ieJOSGIJSuHSIWGzzSH4BKiEyvbMgY+Ig?=
+ =?windows-1257?Q?v7uCMXrzIXTYVBIPRMqQzlH+7GC4wDGcj2406jK41YQyWRTpwqdHvx/5?=
+ =?windows-1257?Q?0ilnTU2b7mfy7s5H8mrjirybCE3UW16Ayn30d6aH/Up+oiOmyV8NTS4L?=
+ =?windows-1257?Q?ilF4+nuuc767EbI/kftoRvThtWjKx2Huh9j5n9232AOoZxd6VefqPeNc?=
+ =?windows-1257?Q?Zex00U8WLEWzAqGksEsPnEX673aTmUlNObg+fq4URJ5yN5cU43GTcYVz?=
+ =?windows-1257?Q?bNkVtFIgqXy+4k3EbrlDJBWrhUeJ7UuUGKNT+gXzRd34endGMV1GWAjh?=
+ =?windows-1257?Q?lHisa2r74Raaq0otTmVVgLE4FllBTSHwKbLxYs6gWU6whKBkwBszwB7n?=
+ =?windows-1257?Q?qUobinFHojbGMM9pDm89XHHbz7T1YzhCRaOHQwOCQqeCzTO4/kAbC7Qa?=
+ =?windows-1257?Q?s9nS0628vt//qkHBCstNJmDWYTXeejGXKbE=3D?=
+MIME-Version: 1.0
+
+--_000_SY0P300MB0980A311471914B5F1B6A9A2A3942SY0P300MB0980AUSP_
+Content-Type: text/plain; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+Sent on behalf of Andrew Phipps, Human Resources Director
+
+Kia ora koutou
+
+I am excited to announce the upcoming launch of Hono | Human Connections<ht=
+tps://www.staff.auckland.ac.nz/en/how-the-university-works/projects-and-pro=
+grammes/hr-ecosystem.html>. The team is working exceptionally hard towards =
+a target go-live date of Tuesday 12 November 2024. This change is a signifi=
+cant step forward for the University and we need your help to ensure a seam=
+less process.
+
+The transition requires a pause in our usual operations with a system shutd=
+own from Monday 21 October to Monday 11 November 2024.
+
+During the shutdown the following systems will not be available:
+
+  *   PeopleSoft HR
+  *   SilkRoad Onboarding
+  *   Cornerstone =96 learning (Career tools)
+  *   SmartRecruiters
+
+Here=92s what to expect:
+
+Business ramp down and clean-up phase (now until Sunday 20 October)
+
+  *   Critical action: ensure unsubmitted used leave is entered and approve=
+d now.
+  *   If you plan to take leave before Tuesday 12 November, submit your lea=
+ve request(s) as soon as possible.
+  *   Complete your online courses to prevent having to restart them in the=
+ new system.
+  *   Managers will need to schedule casual staff requirements during the s=
+hutdown and make sure they are submitted and approved by Sunday 20 October =
+2024.
+
+System shutdown (Monday 21 October to Monday 11 November)
+
+  *   No changes in the systems as data is moved out of legacy systems into=
+ Hono
+
+Hono Go Live (Tuesday 12 November)
+
+  *   Catch-up period where systems are updated
+  *   Staff using timesheets enter their time worked in preparation for nex=
+t payroll
+  *   Staff get used to the new system
+
+Detailed information about the processes impacted by the shutdown and ramp =
+down activities are available on the staff intranet<https://www.staff.auckl=
+and.ac.nz/en/how-the-university-works/projects-and-programmes/hr-ecosystem/=
+hono-cutover-plan/business-process-cutoff-information.html>. If you have an=
+y questions or concerns, please email hrecosystem@auckland.ac.nz<mailto:hre=
+cosystem@auckland.ac.nz>.
+
+Ng=E2 mihi nui,
+
+Andrew Phipps
+Human Resources Director
+Human Resources
+
+--_000_SY0P300MB0980A311471914B5F1B6A9A2A3942SY0P300MB0980AUSP_
+Content-Type: text/html; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#467886;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+span.EmailStyle21
+	{mso-style-type:personal-compose;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:237324773;
+	mso-list-template-ids:1026071456;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1012882316;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1283168350 336134145 336134147 336134149 336134145 =
+336134147 336134149 336134145 336134147 336134149;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:1029453475;
+	mso-list-template-ids:-1870261944;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3
+	{mso-list-id:1082986723;
+	mso-list-type:hybrid;
+	mso-list-template-ids:164383842 336134145 336134147 336134149 336134145 33=
+6134147 336134149 336134145 336134147 336134149;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l4
+	{mso-list-id:1251114242;
+	mso-list-template-ids:152977266;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5
+	{mso-list-id:1333096367;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1785179082 336134145 336134147 336134149 336134145 =
+336134147 336134149 336134145 336134147 336134149;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l5:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l5:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l5:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l5:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l5:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l5:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l5:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l5:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l6
+	{mso-list-id:2124154772;
+	mso-list-template-ids:-406438922;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-NZ" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,sa=
+ns-serif;background:silver;mso-highlight:silver">Sent on behalf of Andrew P=
+hipps, Human Resources Director</span></b><b><span style=3D"font-family:&qu=
+ot;Calibri&quot;,sans-serif"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif">Kia ora koutou<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif">I am excited to announce the upcoming launch of
+<a href=3D"https://www.staff.auckland.ac.nz/en/how-the-university-works/pro=
+jects-and-programmes/hr-ecosystem.html">
+Hono | Human Connections</a>. The team is working exceptionally hard toward=
+s a target go-live date of
+<b>Tuesday 12 November 2024</b>. This change is a significant step forward =
+for the University and we need your help to ensure a seamless process.&nbsp=
+;
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif">The transition requires a pause in our usual operations with a syste=
+m shutdown from
+<b><u>Monday 21 October to Monday 11 November 2024</u></b>. <o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif">During the shutdown the following systems will not be available:
+<o:p></o:p></span></p>
+<ul style=3D"margin-top:0cm" type=3D"disc">
+<li class=3D"MsoListParagraph" style=3D"margin-left:0cm;mso-list:l3 level1 =
+lfo3"><span style=3D"font-family:&quot;Calibri&quot;,sans-serif">PeopleSoft=
+ HR
+<o:p></o:p></span></li><li class=3D"MsoListParagraph" style=3D"margin-left:=
+0cm;mso-list:l3 level1 lfo3"><span style=3D"font-family:&quot;Calibri&quot;=
+,sans-serif">SilkRoad Onboarding
+<o:p></o:p></span></li><li class=3D"MsoListParagraph" style=3D"margin-left:=
+0cm;mso-list:l3 level1 lfo3"><span style=3D"font-family:&quot;Calibri&quot;=
+,sans-serif">Cornerstone =96 learning (Career tools)
+<o:p></o:p></span></li><li class=3D"MsoListParagraph" style=3D"margin-left:=
+0cm;mso-list:l3 level1 lfo3"><span style=3D"font-family:&quot;Calibri&quot;=
+,sans-serif">SmartRecruiters
+<o:p></o:p></span></li></ul>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,sa=
+ns-serif">Here=92s what to expect:<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,sa=
+ns-serif">Business ramp down and clean-up phase (now until Sunday 20 Octobe=
+r)
+<o:p></o:p></span></b></p>
+<ul style=3D"margin-top:0cm" type=3D"disc">
+<li class=3D"MsoListParagraph" style=3D"margin-left:0cm;mso-list:l5 level1 =
+lfo6"><b><span style=3D"font-family:&quot;Calibri&quot;,sans-serif">Critica=
+l action</span></b><span style=3D"font-family:&quot;Calibri&quot;,sans-seri=
+f">: ensure unsubmitted used leave is entered and approved now.
+<o:p></o:p></span></li><li class=3D"MsoListParagraph" style=3D"margin-left:=
+0cm;mso-list:l5 level1 lfo6"><span style=3D"font-family:&quot;Calibri&quot;=
+,sans-serif">If you plan to take leave before Tuesday 12 November, submit y=
+our leave request(s) as soon as possible.
+<o:p></o:p></span></li><li class=3D"MsoListParagraph" style=3D"margin-left:=
+0cm;mso-list:l5 level1 lfo6"><span style=3D"font-family:&quot;Calibri&quot;=
+,sans-serif">Complete your online courses to prevent having to restart them=
+ in the new system.
+<o:p></o:p></span></li><li class=3D"MsoListParagraph" style=3D"margin-left:=
+0cm;mso-list:l5 level1 lfo6"><span style=3D"font-family:&quot;Calibri&quot;=
+,sans-serif">Managers will need to schedule casual staff requirements durin=
+g the shutdown and make sure they are submitted and approved by Sunday
+ 20 October 2024. <o:p></o:p></span></li></ul>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,sa=
+ns-serif">System shutdown (Monday 21 October to Monday 11 November)
+<o:p></o:p></span></b></p>
+<ul style=3D"margin-top:0cm" type=3D"disc">
+<li class=3D"MsoListParagraph" style=3D"margin-left:0cm;mso-list:l1 level1 =
+lfo9"><span style=3D"font-family:&quot;Calibri&quot;,sans-serif">No changes=
+ in the systems as data is moved out of legacy systems into Hono
+<o:p></o:p></span></li></ul>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,sa=
+ns-serif">Hono Go Live (Tuesday 12 November)
+<o:p></o:p></span></b></p>
+<ul style=3D"margin-top:0cm" type=3D"disc">
+<li class=3D"MsoListParagraph" style=3D"margin-left:0cm;mso-list:l1 level1 =
+lfo9"><span style=3D"font-family:&quot;Calibri&quot;,sans-serif">Catch-up p=
+eriod where systems are updated&nbsp;&nbsp;
+<o:p></o:p></span></li><li class=3D"MsoListParagraph" style=3D"margin-left:=
+0cm;mso-list:l1 level1 lfo9"><span style=3D"font-family:&quot;Calibri&quot;=
+,sans-serif">Staff using timesheets enter their time worked in preparation =
+for next payroll
+<o:p></o:p></span></li><li class=3D"MsoListParagraph" style=3D"margin-left:=
+0cm;mso-list:l1 level1 lfo9"><span style=3D"font-family:&quot;Calibri&quot;=
+,sans-serif">Staff get used to the new system<o:p></o:p></span></li></ul>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif">Detailed information about the processes impacted by the shutdown an=
+d ramp down activities are
+<a href=3D"https://www.staff.auckland.ac.nz/en/how-the-university-works/pro=
+jects-and-programmes/hr-ecosystem/hono-cutover-plan/business-process-cutoff=
+-information.html">
+available on the staff intranet</a>. If you have any questions or concerns,=
+ please email
+<a href=3D"mailto:hrecosystem@auckland.ac.nz">hrecosystem@auckland.ac.nz</a=
+>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif">Ng=E2 mihi nui,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif">Andrew Phipps
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif">Human Resources Director
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif">Human Resources<o:p></o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_SY0P300MB0980A311471914B5F1B6A9A2A3942SY0P300MB0980AUSP_--

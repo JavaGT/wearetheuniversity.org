@@ -1,0 +1,600 @@
+Received: from SY8P300MB0042.AUSP300.PROD.OUTLOOK.COM (::1) by
+ SY3PPF1BF8F8C20.AUSP300.PROD.OUTLOOK.COM with HTTPS; Wed, 16 Oct 2024
+ 03:57:57 +0000
+Received: from PS2PR03CA0024.apcprd03.prod.outlook.com (2603:1096:300:5b::36)
+ by SY8P300MB0042.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:265::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8069.18; Wed, 16 Oct
+ 2024 03:57:50 +0000
+Received: from HK3PEPF0000021A.apcprd03.prod.outlook.com
+ (2603:1096:300:5b:cafe::3c) by PS2PR03CA0024.outlook.office365.com
+ (2603:1096:300:5b::36) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8069.18 via Frontend
+ Transport; Wed, 16 Oct 2024 03:57:48 +0000
+Authentication-Results: spf=pass (sender IP is 130.216.125.250)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=fail (no key for signature)
+ header.d=auckland.ac.nz;dmarc=pass action=none header.from=auckland.ac.nz;
+Received-SPF: Pass (protection.outlook.com: domain of list.auckland.ac.nz
+ designates 130.216.125.250 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.125.250;
+ helo=uoasmtpprd01.its.auckland.ac.nz; pr=C
+Received: from uoasmtpprd01.its.auckland.ac.nz (130.216.125.250) by
+ HK3PEPF0000021A.mail.protection.outlook.com (10.167.8.36) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8069.17 via Frontend Transport; Wed, 16 Oct 2024 03:57:47 +0000
+Received: from sympa.auckland.ac.nz (lists.ec.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id ECE5280255B;
+	Wed, 16 Oct 2024 16:57:37 +1300 (NZDT)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz ECE5280255B
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=auckland.ac.nz;
+	s=rafal; t=1729051058;
+	bh=0exVU5rGj9Krlxs5ctW/HWEq5vW9rznjXZMFsoAVmXU=;
+	h=From:To:Subject:Date:Reply-To:List-Id:List-Archive:List-Help:
+	 List-Owner:List-Post:List-Subscribe:List-Unsubscribe:From;
+	b=fGFlxOnHDWKwxxJNmTE4DUywUNuBLa4R/APVfJkJnt6t4BwFqu2zd4F5ldIh7DruW
+	 xpWUKASwMN1O5zdxxUGVXhBnoP5sOsehJqPaSfs+xoG3e52mvSjd5IsnOEueA6Tmgz
+	 K8dnO8r8wYE/ZAyIZC0/jBvbgeeFJFyjGX63/xj0=
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id DC18F39AD9; Wed, 16 Oct 2024 16:57:37 +1300 (NZDT)
+X-Original-To: all-staff@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-all-staff@sympa.auckland.ac.nz
+Received: from AUS01-SY4-obe.outbound.protection.outlook.com (mail-sy4aus01lp2172.outbound.protection.outlook.com [104.47.71.172])
+	by sympa.auckland.ac.nz (Postfix) with ESMTPS id B1DED31B2F
+	for <all-staff@list.auckland.ac.nz>; Wed, 16 Oct 2024 16:56:42 +1300 (NZDT)
+ARC-Seal: i=2; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=fail;
+ b=UWIm2njgRKfLMxYjSBH33sMlVBmZJgzT2vlCq9MQFspELnZN3gZwdy3HMYEyd22iTCrPv+z42GJTBBjxYrj3Nl2YQMm/buDUHq10nI1uA5DrxnwvivlbV79is9yn6DjB8UA6T3y4ZfERTDEuLj2oeKxmp6yKmK9OECBgqzxMeL4iWPrQRjXVOwPKhl2tbA0QEvtFhoVXpWjZr/wWFTDfFTgsGsENnhcpIoAHFDvjLMhiEoeF2eDu3ubcUn8n3PdyG+jg4KeLnX13gyGajP9hJPd+y6l5jkWB3BXRnTpTOWmlvov/EZpZwGAGKRO0jD4JS0sqAHHP7sXxOLjy7ctKDg==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=m5+iSbNH+Daw/VZgrLJyKhit5VMk15I5XK/2/FNhth8=;
+ b=T3GPENxsYPCfNDCixMJqaYAA1yC5Xq6fnl12DglQFtGj35N0mIW1gea7NU3fJk//qmhxSUbrNhnRJG4YOhFzUZAzsOc3t06qOoTZDkR7LB4xgfbrgObIGhjqPJfnmRu6kOW4EJeIt0tLUi8oY2O1ww7nGeygoYIZKKLQ/YP8bq5YUWrYsJ+A2WDDHLR+kAnwYU9yXpSh+uhd3pnhYVik9Sf+RGH16miLTYrZKdu1KJD6UXZHWDFeH+YlJYclq0pLtVVVSF7lW/DjmQ0/VXADylHI5AXE4NnLkMk1vhQwZcAz6+SuUzpNyMhxZq2w2YdQIEgUo7D2m9HHwp9nwuRpnA==
+ARC-Authentication-Results: i=2; mx.microsoft.com 1; spf=pass (sender ip is
+ 130.216.95.224) smtp.rcpttodomain=list.auckland.ac.nz
+ smtp.mailfrom=auckland.ac.nz; dmarc=pass (p=none sp=none pct=100) action=none
+ header.from=auckland.ac.nz; dkim=fail (signature did not verify)
+ header.d=auckland.ac.nz; arc=fail (47)
+Received: from SG2P153CA0025.APCP153.PROD.OUTLOOK.COM (2603:1096:4:c7::12) by
+ ME0P300MB0698.AUSP300.PROD.OUTLOOK.COM (2603:10c6:220:22c::7) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8069.18; Wed, 16 Oct 2024 03:56:38 +0000
+Received: from SG1PEPF000082E3.apcprd02.prod.outlook.com
+ (2603:1096:4:c7:cafe::35) by SG2P153CA0025.outlook.office365.com
+ (2603:1096:4:c7::12) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8093.5 via Frontend
+ Transport; Wed, 16 Oct 2024 03:56:38 +0000
+Authentication-Results-Original: spf=pass (sender IP is 130.216.95.224)
+ smtp.mailfrom=auckland.ac.nz; dkim=fail (signature did not verify)
+ header.d=auckland.ac.nz;dmarc=pass action=none header.from=auckland.ac.nz;
+Received-SPF: Pass (protection.outlook.com: domain of auckland.ac.nz
+ designates 130.216.95.224 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.95.224;
+ helo=uxcn19-tdc-a.UoA.auckland.ac.nz; pr=C
+Received: from uxcn19-tdc-a.UoA.auckland.ac.nz (130.216.95.224) by
+ SG1PEPF000082E3.mail.protection.outlook.com (10.167.240.6) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7918.13 via Frontend Transport; Wed, 16 Oct 2024 03:56:37 +0000
+Received: from uxcn19-tdc-a.uoa.auckland.ac.nz (10.6.5.32) by
+ uxcn19-tdc-a.UoA.auckland.ac.nz (10.6.5.32) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1544.11; Wed, 16 Oct 2024 16:56:35 +1300
+Received: from AUS01-SY4-obe.outbound.protection.outlook.com (130.216.158.20)
+ by uxcn19-tdc-a.uoa.auckland.ac.nz (10.6.5.32) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1544.11 via Frontend Transport; Wed, 16 Oct 2024 16:56:35 +1300
+Received: from SY0P300MB0369.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:27d::8) by
+ SY2PPF8DF785A0F.AUSP300.PROD.OUTLOOK.COM (2603:10c6:18::3a6) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8048.27; Wed, 16 Oct 2024 03:56:33 +0000
+Received: from SY0P300MB0369.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::81f8:cb:7611:1395]) by SY0P300MB0369.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::81f8:cb:7611:1395%5]) with mapi id 15.20.8048.020; Wed, 16 Oct 2024
+ 03:56:33 +0000
+From: Andrew Phipps <a.phipps@auckland.ac.nz>
+To: all-staff Mailing List <all-staff@list.auckland.ac.nz>
+Subject: TEU and PSA strike action
+Thread-Topic: TEU and PSA strike action
+Thread-Index: AdsffwILfMaqlidmR3q8Mdf9NMxnLw==
+Date: Wed, 16 Oct 2024 03:56:33 +0000
+Message-ID: <SY0P300MB0369508A1697925F1056C844DC462@SY0P300MB0369.AUSP300.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=auckland.ac.nz;
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-traffictypediagnostic: SY0P300MB0369:EE_|SY2PPF8DF785A0F:EE_|SG1PEPF000082E3:EE_|ME0P300MB0698:EE_|HK3PEPF0000021A:EE_|SY8P300MB0042:EE_|SY3PPF1BF8F8C20:EE_
+X-MS-Office365-Filtering-Correlation-Id: 0fdd2270-7a46-450a-95c0-08dced96b2ad
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|366016|41050700001;
+X-Microsoft-Antispam-Message-Info-Original: yI/zzwA3URlSN3m4PfG7bhgz4huQ2VXJaca27HM8uNkXiXr/tgapp4D6qVfKWoKRSFeqxgDMjfhZUC7Zy9gcI44nrUmSi1GhnidzHa6knAvx6g+oHdjy8tXQ/1vo/WsZa8A9jxgGF5nwP2hndW4hg+Q05v0npEmLr4V9bD74h867Gm5jW4KQBs0KYz2t4jpKq33lGOvPhoihP1+7/4N2wK1Lg9Wolj4de1V5fry/VtoN7BNC5Qy94oZDLW0xNbsYLo5gv2dDQXyO7to0iFAWeJGmgyofglItgtKMuRp4Rwma8rNcDE7eiRvE6cs0T00O6MZc4augKn+5OTu6XwgcHlXXbbNOupGGA2eDSOCvNyH6q5WzbE8PiVwwIxizPfX80QXnuS3PcFce8aMvydf+IOOrOkKsSdrGS/ko1EpX/2Mnm4zEPorJqoUov8D6d3NC6pjdF2Bs1oGGlMEVwHY+mjSpa7cgbfcfbHtw/lVIOQqBLc409Y9GJMFD9dxrSRYsUX8kEaSbK367fLag6jiLZlNjsF3gh2NMZju1v73w9lU1/ljflIqIiYcFsqvgWA6wH391sKWGqtbKsQBXTDhNjf6ONLy905rAXadGgbdc6n3hIyVswgf2vOGLbrKeCJgwF9ZJLh9DQgluD9vAz7dhwsnpCPoDdsbR0vVUrZEtpEOF8XRol/4X4+VCSQj5Ox8qqbB1lp6DfosRMUrxUPjPUyClddmfhhDbyqEFEpZ+wXbsUgA7k7LEJDtiLyOQCgWAmHyvzXrGfxoyRQQRC8kOEA==
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SY0P300MB0369.AUSP300.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(366016)(41050700001);DIR:INT;
+arc-seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=aojexbkZr55LmBZEMcV7n7Pke4NIGh0GEswt0ORGtPxbej4YWnqwu0MbE4ga8OS2muviycMZFL6OxIHnsjigLvKuwbRZCKfhRVXPmcRheqn2DgyWsdoO2jy3gHv5hMz9YJYEnMAVnSkFy2oVKAk9OyMF29CCnJ+IqRRnkSNT70l1Ul5TpCt6bwBWkAgBfyY7Ezcy+GvwNv5aOeNx4iA3jqM/sNd/d6oUkahVQ3B4LeKt+uSRML1p0KIM2yRw9H31rsKsV1FGnm8WoSG4nN28KXWiW1y4XwHvKTQp6J/dO/agR3YbOVCwwaT/sklaHOE1QIpTz3KMzZ4bxbWIGnWKAA==
+arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=ujLGUGTczWvc2zOdVdj2sIjBKtifMVWzZOdleSuBfzk=;
+ b=amjrUtV1dElZrncCd1UMPg0Q3yNNQQ1xPQZQuR66HUH5czKsi2rPnKY8VVPUUV4tj0bbaKWMmhYMWHIj+kY6BgZ/GaLpIBFnYbaJieTHHu9zxQZJJcWyDdRXod6qhgy5cClFvw+2ykEzZxyq+ZrxRx1G3DmGvg3H7jqkpjADhUv4R/NaAQhLfH3hz2oEast3E4YCKeJp7P4AHwmX9OWwNyqSa5PXpMbLnH5WRBFVgArbHXJg1L05liTDw9+l+IFWqr3x+H1KYdR7EtZoCvQxdb/ofQE1w8bcKW8Z8tfEQpOR0lDBTXpP09w1zgMXdh4e39osYoJoClSnsTw44Fba/A==
+arc-authentication-results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=auckland.ac.nz; dmarc=pass action=none
+ header.from=auckland.ac.nz; dkim=pass header.d=auckland.ac.nz; arc=none
+x-ms-exchange-transport-crosstenantheadersstamped: SY2PPF8DF785A0F
+x-organizationheaderspreserved: SY2PPF8DF785A0F.AUSP300.PROD.OUTLOOK.COM
+x-crosspremisesheaderspromoted: uxcn19-tdc-a.UoA.auckland.ac.nz
+x-crosspremisesheadersfiltered: uxcn19-tdc-a.UoA.auckland.ac.nz
+Content-Type: multipart/alternative;
+	boundary="_000_SY0P300MB0369508A1697925F1056C844DC462SY0P300MB0369AUSP_"
+X-EOPAttributedMessage: 1
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SG1PEPF000082E3.apcprd02.prod.outlook.com
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 8dec52e4-f6e6-497d-893b-08dced968687
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|35042699022|30052699003|3072899012|82310400026|2092899012|12012899012;
+X-Microsoft-Antispam-Message-Info-Original: =?us-ascii?Q?HZYV/ij7GGaKUjkaYOsnmmZvQCqyN8TiKJ/59ge9OKGH8L+IWwcFTlOkEp1r?=
+ =?us-ascii?Q?VAKcuI3OStRTc1TrImsM63AyckOl6HGyxPsdrkzpY0pTuWKe7z4gcE2XL0Km?=
+ =?us-ascii?Q?Zl3RqcdjtxEBRooBZb/yASrTItwt0i9eV2G0aWrQiBrdkE05//n9Gy6Zapoi?=
+ =?us-ascii?Q?QWn43KlGkZEc9Bq1GfYZLjndSQ2seeYKjXlpjCzx93sHrfcCpgzvnLhG6VmU?=
+ =?us-ascii?Q?oGqjtsrHQzSHhD9sXYwgRuYnXItNQtpmsoOlOyf8qGKGY4D/6+EW9N5AF0cJ?=
+ =?us-ascii?Q?oN64rvJuZSI3woJpGTf2tdsOhC15+nksWSUadN9aGo6X8q8oUBDatlFmzyPS?=
+ =?us-ascii?Q?izsGhh+Qfge3HT6gdU0oDMLv/AzbKqFhDi1/irWJlYCEUth8/LI7CWzgeChk?=
+ =?us-ascii?Q?NdQWAlwqeQjodNqczmMeQN6qLgmUdHbXwemOMMhtEk2Bej9BTxCST3Y23FAG?=
+ =?us-ascii?Q?txkHarxyUVAEutqO9GGE4D6e43cGMPNYO6oAOvaXp7x6IyzRwslCz4R9YCu0?=
+ =?us-ascii?Q?TUbLpOGf2iCmHUoHgqDfiykWs06BPSD/0woiFFmmUhLVH7kKyR/PAG0MX/D8?=
+ =?us-ascii?Q?OlopCQvAsze0o3Yi52ZyL/eZ9Yprew9B/6DJwYcKXoOqMEpz8BYRMplBLHsf?=
+ =?us-ascii?Q?+RgYOp9DF2KuAzIrkTdNHbpXIFsT2pWCbRg7jZlrSEv8Xkt6XdKW77fvc729?=
+ =?us-ascii?Q?kPovy3lbSkTlx6iQp2Uy+mTOoyibtQ/PTiXQ2t2oubsP2XbfFxwlKvcouGLT?=
+ =?us-ascii?Q?S79N5Nks/Er1Um7j2xwn9T6bhn4xMNLdCdbQICCYC/Mb0VrXmnfDQkTr/CiQ?=
+ =?us-ascii?Q?NPmiX4ZB6kumNZt7bVzm7EqnV860r58fJcJn4kISdP7ebr1YoGHjfHluUUia?=
+ =?us-ascii?Q?d8dF5YAhHxkK6crj1UOXOxgLaTe8UYLHmOBjS41rLfyAn1o3nyirkg7KCwYe?=
+ =?us-ascii?Q?S7v04u2Tp+iXOhv4x5k7o6YculLyVK4OoaHOQB4/v/wKD5utkZeSwF5zofkO?=
+ =?us-ascii?Q?xdPX1pl7D8x59o1C++hVRvOlRSg4FtnWzApcTlLQIvwqlxvSx1spJ9Awm3jP?=
+ =?us-ascii?Q?n+df+6OVN/a1hTkbHcExIGlgZaRMiIp1mawYaVclCNQMs5HBW/VqIfRPPPoq?=
+ =?us-ascii?Q?WsDIX52WqgS2Y6w3IhcaMBNdDz6+piNcZr45QUV3lIRvLzpcLAxz1mNvpoz+?=
+ =?us-ascii?Q?D+6Qj8ihvsVAe1azN8JSYP5PUzhv5RCl2kdyeJU6ezGLqLQLF0vhr63uLp6k?=
+ =?us-ascii?Q?KNyFxrt6gPC9aqJ9tLFsTWdtTNxMwrlS5cOrJi7Zvd3FGk0mr0BlWYkNxLFf?=
+ =?us-ascii?Q?7jCnVZ0msWO9o5iG3W5TgmIRYlRrvb1AR9ELG+QuNKYpW80bRJYHMpLus7T8?=
+ =?us-ascii?Q?V0SZzY8YgwwWUswvNNl5oCk+lb88gsSfPiSQkgBb2G1mWNDd6GOmnsQ4+etn?=
+ =?us-ascii?Q?QfVWw4Q8ywNDlSoDuBnY3nWl0413t0DdPnwo8nltQDgetFhcqqBUGRNL7o9h?=
+ =?us-ascii?Q?yKQa9PVRcKr6SNAiIDtGIVwzhsdSpNtXI+9I2M4Vz/rCnlxR2VSOoAQYXhfd?=
+ =?us-ascii?Q?OmtkS/YVPTbBnfKeaVk6znaNR5tjTpdcreKUCBC7YHpEPBdqkN2TjgjDFhKc?=
+ =?us-ascii?Q?RKAYs5Ie/rU+hCIIWynXS919cYE/tbWclX9bjJkbW12Dd9UEF9Bk2o+awG2U?=
+ =?us-ascii?Q?Uy1AemW+IdOVzG3WOCM7sH6lIl4GpddOv5s52bZho1/pY+IROCzTPBevCYrI?=
+ =?us-ascii?Q?JZ88Np5INV3TtBytALFs8ugwZTzdaULTA5yVdZTqMcZE+NvO6AjqA1Bd7GUr?=
+ =?us-ascii?Q?+yBV4SwmXnCQkB8RJIz4Lc7rAfTMNsaKKBBkFW0DJbronJcuXFG95lAXRUHH?=
+ =?us-ascii?Q?Yb+qw5i0gTlLMIhBjP/Sz8D8FietOpk1VJSBe4k=3D?=
+X-Forefront-Antispam-Report-Untrusted: CIP:130.216.95.224;CTRY:NZ;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:uxcn19-tdc-a.UoA.auckland.ac.nz;PTR:natgate2-1.auckland.ac.nz;CAT:NONE;SFS:(13230040)(35042699022)(30052699003)(3072899012)(82310400026)(2092899012)(12012899012);DIR:INB;
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: ME0P300MB0698
+Reply-To: Andrew Phipps <a.phipps@auckland.ac.nz>
+X-Loop: all-staff@list.auckland.ac.nz
+X-Sequence: 615
+Errors-to: all-staff-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: all-staff-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <all-staff.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/all-staff>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:all-staff-request@list.auckland.ac.nz>
+List-Post: <mailto:all-staff@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20all-staff>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20all-staff>
+Return-Path: all-staff-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 16 Oct 2024 03:57:47.8365
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 0fdd2270-7a46-450a-95c0-08dced96b2ad
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: HK3PEPF0000021A.apcprd03.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: HK3PEPF0000021A.apcprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: auckland.ac.nz
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 32873364-3af5-43bf-e165-08dced9688af
+X-LD-Processed: d1b36e95-0d50-42e9-958f-b63fa906beaa,ExtFwd
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|12012899012|3072899012|2092899012|35042699022|82310400026|4022899009;
+X-Forefront-Antispam-Report: CIP:130.216.125.250;CTRY:NZ;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKN;H:uoasmtpprd01.its.auckland.ac.nz;PTR:uoasmtpprd01.its.auckland.ac.nz;CAT:NONE;SFS:(13230040)(12012899012)(3072899012)(2092899012)(35042699022)(82310400026)(4022899009);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 16 Oct 2024 03:57:47.3990
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 0fdd2270-7a46-450a-95c0-08dced96b2ad
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=d1b36e95-0d50-42e9-958f-b63fa906beaa;Ip=[130.216.125.250];Helo=[uoasmtpprd01.its.auckland.ac.nz]
+X-MS-Exchange-CrossTenant-AuthSource: HK3PEPF0000021A.apcprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY8P300MB0042
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:09.9367745
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.8069.009
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?windows-1257?Q?80Ik9oCcezUw7HM8MQleOItJXwJwQwNUnm/9+Z6329snHsxpu/XrD8Pr?=
+ =?windows-1257?Q?ACdHgbN5xbpnuk+5/bDg3YOxSPfaDVFEtDgJ8l7FOLkh0qwI3VXpRBVV?=
+ =?windows-1257?Q?YUnEFL5ZbybO0mcBArtFwbibM4t2gLfW0so8hFuveB4J6ZmAnWQEi10N?=
+ =?windows-1257?Q?kLGhY0nSML2GB1YfNiokQkRNloY+jR8YePnF3/PCjPErDmfqKbpS1ZlP?=
+ =?windows-1257?Q?mbamqiscI+nC1pA5FdsdID40Ox54F3DYQymQMkE6YmlxT9xJ0vW3wtCn?=
+ =?windows-1257?Q?mpdxfr7MUFytf6NklT5W88QBQJRMIqhpQQZ2uMNMiE6h93wA6nkT3mjE?=
+ =?windows-1257?Q?Or0Is7jY/UmTOmsqJ6mNm12/x002yVgT51AnBvAHyuFNUCMKv92DKU2W?=
+ =?windows-1257?Q?tfm5J6jRjHL/tjPphMOc5AXcquMiST4bkYDxiYdiEVffxdH30WATv2i3?=
+ =?windows-1257?Q?4yYew132oG37WoK4lQjrva7bUi/FCQEDx5bglxNFXLd/pUVA1bal+wv7?=
+ =?windows-1257?Q?vCJDpRFE+alkfwGrypQ3WhXrnSUfLH5YAslb9rqAkqe0BvtQ7xJBUzMK?=
+ =?windows-1257?Q?ENhpjJGMcGpiDCvfpnxsYz5n0vwKu65XKUgT+dQXo8pp0fwbbIpU0Wbb?=
+ =?windows-1257?Q?uhhlReBcnkpHZYs3ZMUN404uJHPBM54TjvnFZaqptt8V8/F3jVYSg/dP?=
+ =?windows-1257?Q?GxY1t2vX4f98p9xlMxClvbk7MkE6e62Y0Nw/4LKnukUuKRptBC7eoa4+?=
+ =?windows-1257?Q?DYPnakZEbBKsBTg233RpshYnoPInvV3K5x/2GVOWAhHLxgbs8hDtyxCM?=
+ =?windows-1257?Q?hY+MKxYmhFCI0embn2f6cibaEz8elTT7z7vyWfOX52K9c24uRyzxGqGS?=
+ =?windows-1257?Q?5KGCUWTmqhSXn4BTMk1jQJ+IOZlhcU7e5dgNVSvIEq5x5iFkt+6Tgbro?=
+ =?windows-1257?Q?YoeI8ME4I1wCHOo6/pIhqUNN3rk/32+1bauLutHSZrywprpAc7dZYnaQ?=
+ =?windows-1257?Q?ovoe8knUHJ2kLGqF7bT9xqebCAK/6a4gBGN2hLWyE1oehpKI/cHOQ6zJ?=
+ =?windows-1257?Q?PpMK4GvAslpji5lRjZR4svivsi4aGpFdREit9nXnV7dUARyU/+B6v6hu?=
+ =?windows-1257?Q?tITh+OEOO9RBJhl4MlGdktnnHfY0xunOzVlmi0vInT0rHkb50ilQAK9f?=
+ =?windows-1257?Q?uha3hHqKqQNtTzxigi4OK0/ZUl/WX2xyeiF98uGjREGziLkoydREoQjH?=
+ =?windows-1257?Q?SakFRwololaL94/tzzHv2fXl/YBkJiad+6Zt1tw0KxOTU56yfFIFQ6DM?=
+ =?windows-1257?Q?JrVefSmG56eZYpBN/8vBOh4A3hVH4qTk3Ax6jX5uN8ya2QbGcV9cHpP7?=
+ =?windows-1257?Q?+Zhuz4zyaRehLiMoFTt4Or6JqnABd77iJ7YaKi1+Q2f3wS7Srxr/Q7dX?=
+ =?windows-1257?Q?QPNzwoHckwhPslOMNsmVwITXRyBospnhLyHGVhw0E5OrceZ695Eef1Oi?=
+ =?windows-1257?Q?nWlfVpfbMAUs9uwpyEemd7KVH585MicvMHVeemN40GpzgIekUct05beJ?=
+ =?windows-1257?Q?sxyAnk7DaEbJZNo0yhYqnMgUHU0Q8ATGZ5ycey9F9EO4wb/hfYgvJ8dB?=
+ =?windows-1257?Q?eA3AHqgXH5aZ9pVqbhmnfLc+jwcigmqHa2VfDZ+KWg60XAaKzGuzNRN2?=
+ =?windows-1257?Q?1K//2OHZjV+v6bcHuTv1WC5xytL8hnSTzNcfXRo3yqN23QEYVw+8/wZt?=
+ =?windows-1257?Q?Jiyp95FneLnCsmT7tSca33gNdU72NAHRu/jzD0HUrIFjCa7/5SJXiAES?=
+ =?windows-1257?Q?tSICd3neXL0KHu3JBO58ogDf4MODLGYDocfrg7VSmxEvcZSOLFZrXxnJ?=
+ =?windows-1257?Q?Qh0CwkjGdI/+o1cphRjTAdprUNLvvdAFRob9SiiMTPQmIorvUuc+OpnB?=
+ =?windows-1257?Q?ksm3AYXi/z3IpRyJUO81/VBekQasCZbLBrqyJx7ChdZEHg6gLAH6GhMl?=
+ =?windows-1257?Q?aHeiTa8U8kLTirRFwSRscBYjtiSImAIpD467iztYkkgHHrxfCXGAucb6?=
+ =?windows-1257?Q?uzrLubFJl/O8sJ02PTeD+A2dY+ty4kVIssanpNgMHtmA3DXMsa5gJFMW?=
+ =?windows-1257?Q?imPu/4cTW/3naYDs5A7t0nXzGHWhwsLI5etHewJnz5zU9BmKFOuOnbza?=
+ =?windows-1257?Q?2jgpE6WR1KVMqGbfL32OLC8oyWEbGv42WP/6pho+0Yd4zZxc60P86a8O?=
+ =?windows-1257?Q?EIuXa00NxeWleennpPVGaFJDeAk5hmMyKvuiGwks?=
+MIME-Version: 1.0
+
+--_000_SY0P300MB0369508A1697925F1056C844DC462SY0P300MB0369AUSP_
+Content-Type: text/plain; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+Kia ora koutou
+
+We have received notices that Tertiary Education Union (TEU) and Public Ser=
+vice Association (PSA) members who are covered by the current bargaining fo=
+r the University of Auckland Academic Staff Collective Agreement, Professio=
+nal Staff Collective Agreement, Medical Academics Collective Agreement and =
+Security & Gardeners Collective Agreement will be taking strike action this=
+ Friday, 18 October 2024.
+
+For TEU members, the notice specifies strike action will be taken from 1.08=
+pm until 5.00pm. For PSA members, strike action will be from 1.00pm to 5.00=
+pm.  During this time, union members have given notice that they do not int=
+end to perform any work.
+
+As we have previously communicated, bargaining for Academic, Professional a=
+nd Security & Gardeners has been on-going since early July 2024.  Medical A=
+cademics bargaining began in August 2024.  In these good faith discussions,=
+ the University has presented a pay offer that recognises cost-of-living pr=
+essures for our employees.  Unfortunately, we have not been able to reach a=
+greement to date.  We are again disappointed to have received notice of str=
+ike action at this stage, when discussions are on-going.
+
+The University acknowledges the right to strike and staff who participate i=
+n lawful strike action are entitled to do so.
+
+We have compiled some Frequently Asked Questions (FAQs) below for staff reg=
+arding strike action (below) and we will be communicating further with unio=
+n members and managers ahead of the strike action.  Note: this email is for=
+ all staff, whether union members or not, to provide information on the upc=
+oming strike action.  Union members will also receive separate communicatio=
+ns.  If you receive those separate union member communications and you do n=
+ot believe you are a member of the union, please contact strike.notificatio=
+n@auckland.ac.nz<mailto:strike.notification@auckland.ac.nz>.
+
+We remain committed to bargaining in good faith and are hopeful that we wil=
+l be able to find a constructive solution to address any issues through the=
+ bargaining process.
+
+Ng=E2 mihi nui
+Andrew
+
+Andrew Phipps
+Manutaki P=FBmanawa Tangata | Director of Human Resources
+Waipapa Taumata Rau | The University of Auckland
+
+
+FAQs =96 Strike action
+
+What is the University=92s approach to strike action?
+The University is committed to continuing to teach, research and to serve i=
+ts communities during strike action.  We also work to minimise any disrupti=
+on or other negative effects on students and staff as far as possible.
+
+Who can strike?
+The intended strike action is in relation to collective bargaining currentl=
+y in progress for the University of Auckland and relates to TEU and PSA mem=
+bers covered by current bargaining for the Academic, Medical Academics, Sec=
+urity & Gardeners and Professional Staff Collective Agreements.  Only those=
+ members can take strike action.  This means people currently covered by on=
+e of these agreements, along with Academic casual staff and Professional st=
+aff members who are in Band H.
+
+Non-union staff and staff who are members of other unions and employed unde=
+r different collective agreements cannot lawfully strike at this time.
+
+What if I do not want to strike?
+The strike notices issued by the TEU and PSA are given on behalf of all mem=
+bers covered by the Academic, Medical Academic, Security & Gardeners and Pr=
+ofessional bargaining.  Therefore, the University will assume all union mem=
+bers covered by the notices will be on strike.
+
+We recognise that employees have the lawful right to strike, and no adverse=
+ view will be taken of this.  However, previous experience suggests that fo=
+r a variety of reasons there may be individuals who, while covered by the s=
+trike notice, do not actually participate in the strike.
+
+Any staff who do not intend to participate in the strike action will need t=
+o inform their managers as soon as possible.  They should also email strike=
+.notification@auckland.ac.nz<mailto:strike.notification@auckland.ac.nz> of =
+their intention not to strike.
+
+Do I get paid when I am on strike?
+The employer is entitled to withhold pay from employees who participate in =
+strike action.
+Employees who participate in strike action will be suspended and are not en=
+titled to be paid for the duration of the strike.
+
+What if a strike occurs when I usually take my lunch break?
+As the strike notice informs the University you are on strike, you will be =
+regarded as being on strike and not on your lunch break and therefore salar=
+y will be deducted equivalent to the duration of the strike.
+
+What if I am on approved leave e.g. sick leave, annual leave, research and =
+study leave when a strike occurs?
+If you are on approved leave, the University will regard you as being on le=
+ave and not being on strike for the period of time the approved leave and t=
+he strike overlap.
+
+Can my manager try to persuade me not to go on strike and can there be othe=
+r consequences if I go on strike?
+No. The University recognises the lawful right to strike and therefore your=
+ manager cannot attempt to persuade you not to strike.  They can ask you if=
+ you intend to take strike action.
+
+Covering the work of striking staff
+Non-striking staff who are not employed principally to do the work of a str=
+iking employee can be requested to do the work of staff on strike.  New sta=
+ff cannot be employed to do their work.  Staff have the right to refuse to =
+do the work of striking staff, unless it is already within the scope of the=
+ir usual duties.
+
+Further information or advice
+Union members should contact their union representative for further informa=
+tion or advice.
+
+All other staff requiring further information or advice, should contact the=
+ir manager, their HR Manager or email strike.notification@auckland.ac.nz<ma=
+ilto:a.phipps@auckland.ac.nz>
+
+
+
+--_000_SY0P300MB0369508A1697925F1056C844DC462SY0P300MB0369AUSP_
+Content-Type: text/html; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#467886;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:11.0pt;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-NZ" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Kia ora koutou<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">We have received notices </span=
+>that Tertiary Education Union (TEU) and Public Service Association (PSA) m=
+embers who are covered by the current bargaining for the University of Auck=
+land Academic Staff Collective Agreement,
+ Professional Staff Collective Agreement, Medical Academics Collective Agre=
+ement and Security &amp; Gardeners Collective Agreement will be taking stri=
+ke action this Friday, 18 October 2024.&nbsp;&nbsp;
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">For TEU members, the notice specifies strike action =
+will be taken from 1.08pm until 5.00pm. For PSA members, strike action will=
+ be from 1.00pm to 5.00pm.&nbsp; During this time, union members have given=
+ notice that they do not intend to perform
+ any work.<o:p></o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">As we have previously communica=
+ted, bargaining for Academic, Professional and Security &amp; Gardeners has=
+ been on-going since early July 2024.&nbsp; Medical Academics bargaining be=
+gan in August 2024.&nbsp; In these good faith discussions,
+ the University has presented a pay offer that recognises cost-of-living pr=
+essures for our employees.&nbsp; Unfortunately, we have not been able to re=
+ach agreement to date.&nbsp; We are again disappointed to have received not=
+ice of strike action at this stage, when discussions
+ are on-going.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">The University acknowledges the=
+ right to strike and staff who participate in lawful strike action are enti=
+tled to do so.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">We have compiled some Frequentl=
+y Asked Questions (FAQs) below for staff regarding strike action (below) an=
+d we will be communicating further with union members and managers ahead of
+<a name=3D"_Int_bmVqopQx">the strike</a> action.&nbsp; <b>Note</b>: this em=
+ail is for all staff, whether union members or not, to provide information =
+on the upcoming strike action.&nbsp; Union members will also receive separa=
+te communications.&nbsp; If you receive those separate
+ union member communications and you do not believe you are a member of the=
+ union, please contact
+</span><a href=3D"mailto:strike.notification@auckland.ac.nz"><span lang=3D"=
+EN-US">strike.notification@auckland.ac.nz</span></a><span lang=3D"EN-US">.<=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">We remain committed to bargaini=
+ng in good faith and are hopeful that
+</span>we will be able to find a constructive solution to address any issue=
+s through the bargaining process.<o:p></o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Ng</span><span lang=3D"mi-NZ">=
+=E2</span><span lang=3D"EN-US"> mihi nui<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Andrew <o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal">Andrew Phipps<o:p></o:p></p>
+<p class=3D"MsoNormal">Manutaki P=FBmanawa Tangata | Director of Human Reso=
+urces<o:p></o:p></p>
+<p class=3D"MsoNormal">Waipapa Taumata Rau | The University of Auckland<o:p=
+></o:p></p>
+<div style=3D"mso-element:para-border-div;border:none;border-bottom:solid w=
+indowtext 1.0pt;padding:0cm 0cm 1.0pt 0cm">
+<p class=3D"MsoNormal" style=3D"border:none;padding:0cm"><b><o:p>&nbsp;</o:=
+p></b></p>
+</div>
+<p class=3D"MsoNormal"><b><o:p>&nbsp;</o:p></b></p>
+<p class=3D"MsoNormal"><b>FAQs =96 Strike action </b><i><span lang=3D"EN-US=
+"><o:p></o:p></span></i></p>
+<p class=3D"MsoNormal"><b><o:p>&nbsp;</o:p></b></p>
+<p class=3D"MsoNormal"><b>What is the University=92s approach to strike act=
+ion? <o:p>
+</o:p></b></p>
+<p class=3D"MsoNormal">The University is committed to continuing to teach, =
+research and to serve its communities during strike action.&nbsp; We also w=
+ork to minimise any disruption or other negative effects on students and st=
+aff as far as possible.&nbsp;
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><b><o:p>&nbsp;</o:p></b></p>
+<p class=3D"MsoNormal"><b>Who can strike?<o:p></o:p></b></p>
+<p class=3D"MsoNormal">The intended strike action is in relation to collect=
+ive bargaining currently in progress for the University of Auckland and rel=
+ates to TEU and PSA members covered by current bargaining for the Academic,=
+ Medical Academics, Security &amp; Gardeners
+ and Professional Staff Collective Agreements.&nbsp; Only those members can=
+ take strike action.&nbsp; This means people currently covered by one of th=
+ese agreements, along with Academic casual staff and Professional staff mem=
+bers who are in Band H.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Non-union staff and staff who are members of other u=
+nions and employed under different collective agreements cannot lawfully st=
+rike at this time.&nbsp;
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b>What if I do not want to strike?<o:p></o:p></b></=
+p>
+<p class=3D"MsoNormal">The strike notices issued by the TEU and PSA are giv=
+en on behalf of all members covered by the Academic, Medical Academic, Secu=
+rity &amp; Gardeners and Professional bargaining.&nbsp; Therefore, the Univ=
+ersity will assume
+<b>all</b> union members covered by the notices will be on strike.<o:p></o:=
+p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">We recognise that employees have the lawful right to=
+ strike, and no adverse view will be taken of this.&nbsp; However, previous=
+ experience suggests that for a variety of reasons there may be individuals=
+ who, while covered by the strike notice,
+ do not actually participate in the strike.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Any staff who do not intend to participate in the st=
+rike action will need to inform their managers as soon as possible.&nbsp; T=
+hey should also email
+<a href=3D"mailto:strike.notification@auckland.ac.nz">strike.notification@a=
+uckland.ac.nz</a>
+<span lang=3D"EN-US">of their intention not to strike.&nbsp; </span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b>Do I get paid when I am on strike? <o:p></o:p></b=
+></p>
+<p class=3D"MsoNormal">The employer is entitled to withhold pay from employ=
+ees who participate in strike action.&nbsp;
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Employees who participate in strike action will be s=
+uspended and are not entitled to be paid for the duration of the strike.<o:=
+p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b>What if a strike occurs when I usually take my lu=
+nch break?<o:p></o:p></b></p>
+<p class=3D"MsoNormal">As the strike notice informs the University you are =
+on strike, you will be regarded as being on strike and not on your lunch br=
+eak and therefore salary will be deducted equivalent to the duration of the=
+ strike.
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b>What if I am on approved leave e.g. sick leave, a=
+nnual leave, research and study leave when a strike occurs?<o:p></o:p></b><=
+/p>
+<p class=3D"MsoNormal">If you are on approved leave, the University will re=
+gard you as being on leave and not being on strike for the period of time t=
+he approved leave and the strike overlap.
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b>Can my manager try to persuade me not to go on st=
+rike and can there be other consequences if I go on strike?<o:p></o:p></b><=
+/p>
+<p class=3D"MsoNormal">No. The University recognises the lawful right to st=
+rike and therefore your manager cannot attempt to persuade you not to strik=
+e.&nbsp; They can ask you if you intend to take strike action.&nbsp;
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b>Covering the work of striking staff<o:p></o:p></b=
+></p>
+<p class=3D"MsoNormal">Non-striking staff who are not employed principally =
+to do the work of a striking employee can be requested to do the work of st=
+aff on strike.&nbsp; New staff cannot be employed to do their work.&nbsp; S=
+taff have the right to refuse to do the work
+ of striking staff, unless it is already within the scope of their usual du=
+ties.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b>Further information or advice<o:p></o:p></b></p>
+<p class=3D"MsoNormal">Union members should contact their union representat=
+ive for further information or advice.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">All other staff requiring further information or adv=
+ice, should contact their manager, their HR Manager or email
+<a href=3D"mailto:a.phipps@auckland.ac.nz" target=3D"_blank" title=3D"mailt=
+o:Strike.Notification@auckland.ac.nz">
+strike.notification@auckland.ac.nz</a> <o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_SY0P300MB0369508A1697925F1056C844DC462SY0P300MB0369AUSP_--

@@ -1,0 +1,830 @@
+Received: from SY0P300MB0723.AUSP300.PROD.OUTLOOK.COM (::1) by
+ SY3PPF1BF8F8C20.AUSP300.PROD.OUTLOOK.COM with HTTPS; Mon, 11 Aug 2025
+ 03:48:31 +0000
+Received: from SI2PR01CA0042.apcprd01.prod.exchangelabs.com
+ (2603:1096:4:193::23) by SY0P300MB0723.AUSP300.PROD.OUTLOOK.COM
+ (2603:10c6:10:282::17) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9009.21; Mon, 11 Aug
+ 2025 03:48:25 +0000
+Received: from SG2PEPF000B66CC.apcprd03.prod.outlook.com
+ (2603:1096:4:193:cafe::3b) by SI2PR01CA0042.outlook.office365.com
+ (2603:1096:4:193::23) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.9009.21 via Frontend Transport; Mon,
+ 11 Aug 2025 03:47:55 +0000
+Authentication-Results: spf=fail (sender IP is 130.216.125.250)
+ smtp.mailfrom=list.auckland.ac.nz; dkim=fail (no key for signature)
+ header.d=auckland.ac.nz;dmarc=fail action=none header.from=auckland.ac.nz;
+Received-SPF: Fail (protection.outlook.com: domain of list.auckland.ac.nz does
+ not designate 130.216.125.250 as permitted sender)
+ receiver=protection.outlook.com; client-ip=130.216.125.250;
+ helo=uoasmtpprd01.its.auckland.ac.nz;
+Received: from uoasmtpprd01.its.auckland.ac.nz (130.216.125.250) by
+ SG2PEPF000B66CC.mail.protection.outlook.com (10.167.240.25) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.9031.11 via Frontend Transport; Mon, 11 Aug 2025 03:48:24 +0000
+Received: from sympa.auckland.ac.nz (lists.ec.auckland.ac.nz [130.216.191.21])
+	by uoasmtpprd01.its.auckland.ac.nz (Postfix) with ESMTPS id 8B70C80280C;
+	Mon, 11 Aug 2025 15:48:23 +1200 (NZST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 uoasmtpprd01.its.auckland.ac.nz 8B70C80280C
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=auckland.ac.nz;
+	s=rafal; t=1754884103;
+	bh=nlBn6qVR+NxSq9PDwJqUZ7W0ttDYjTZuOV5HOZFN57g=;
+	h=From:To:Subject:Date:Reply-To:List-Id:List-Archive:List-Help:
+	 List-Owner:List-Post:List-Subscribe:List-Unsubscribe:From;
+	b=PgRHICD0B4X5YAQJHxopizZ06UsQ2NOxltAD1BQKbtTwopu267DIUlZs5Q21hjR3L
+	 1/K7gIuHeQlnhUkGTB+8ulkOMcvoibskbVp0IACKLk4aVTAYbcpFD2yF7LMZ8W+ElT
+	 1G4ir/wp23QUBsLFoCH0eB7/IkeJcZvauo8oPg3Y=
+Received: by sympa.auckland.ac.nz (Postfix, from userid 498)
+	id 7955630FA6; Mon, 11 Aug 2025 15:48:23 +1200 (NZST)
+X-Original-To: all-staff@list.auckland.ac.nz
+Delivered-To: list.auckland.ac.nz-all-staff@sympa.auckland.ac.nz
+Received: from SY2PR01CU004.outbound.protection.outlook.com (mail-australiaeastazlp17011029.outbound.protection.outlook.com [40.93.136.29])
+	by sympa.auckland.ac.nz (Postfix) with ESMTPS id 62443346AB
+	for <all-staff@list.auckland.ac.nz>; Mon, 11 Aug 2025 15:47:35 +1200 (NZST)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=chTkzoasjmS7tsYER/ASmkUUOPAO/bP4h7TIg5p3An8Rs5K6Xh/G484OGnUqt5z610i+xGmj3qsDJN6nDXy2rPdGWRm9sl+cM6zytgfy/7PcGIwKKqb0dEYdzEwZq2YEy+wFPXbc3kgd8U861ldBbLQef7Mr8UZdv+ZsyD1mPLiTbxzAEqjdUQAuBx/GElYcwgC1/brEEfkeeicbOm1DgCujv18u9ri9dJMuBFfCg5ZDrevhaeRkDItSd6Wq6qC4TnnvQjpMc2eEDL2fYfK9se/YnvLywjTtMRI6WiUQwtHuZ6x65aUW6qLYNd8Gf54RzUch/UFBUnEsGdrHqa0ddw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=o3S4RJ8ldRKHIcyHoXeyWcAL5EpwHHiIcQAS2E1iqm4=;
+ b=ymun9I/Q6WRDW1cOMJCTeIEOrHDdG/5JHsLzlBR/WXPa4nr5VWkCYGYnQM0wOp9WIceN35gF76wKfnFmB1/Wq8hFyKq+YX4cn+9dNZieWUJQRVxMQE8/ykrvk37b9f8KKOTbVRNbG2s91NRUBDrK7E+xm9+1qEKBk6oXDxnNTyDCjr2atRQne62ehpEE5Phhnre5/EujgT/jdy+xPLnYSS2F1rZDJfDsHLkbCX8GmYpZkLRzJb6/bRImVBCpAYdR0IaW5k5r1s3NxeQoKohlC4bMD6Dp5T7A0Q68j7ZsXGL6t9/1R6EpYWGEW3XgZYqWUFf7MM6Vqp24OEiv6Apetw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=auckland.ac.nz; dmarc=pass action=none
+ header.from=auckland.ac.nz; dkim=pass header.d=auckland.ac.nz; arc=none
+Received: from SY0P300MB0963.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:27e::18)
+ by SY7P300MB0165.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:23c::8) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9009.21; Mon, 11 Aug
+ 2025 03:47:33 +0000
+Received: from SY0P300MB0963.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::949b:8365:b291:fb06]) by SY0P300MB0963.AUSP300.PROD.OUTLOOK.COM
+ ([fe80::949b:8365:b291:fb06%4]) with mapi id 15.20.9009.018; Mon, 11 Aug 2025
+ 03:47:33 +0000
+From: Connect Change & Incident <change&incident@auckland.ac.nz>
+To: all-staff Mailing List <all-staff@list.auckland.ac.nz>
+Subject: University Device Upgrade: Windows 11 Transition Underway
+Thread-Topic: University Device Upgrade: Windows 11 Transition Underway
+Thread-Index: AQHcCnFt0xjA+EnonUWD4nAKoCNHuA==
+Date: Mon, 11 Aug 2025 03:47:20 +0000
+Message-ID: <SY0P300MB096320AD6B965785D2EAC7DAE128A@SY0P300MB0963.AUSP300.PROD.OUTLOOK.COM>
+Accept-Language: en-NZ, en-GB, en-US
+Content-Language: en-GB
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-reactions: allow
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=auckland.ac.nz;
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-traffictypediagnostic: SY0P300MB0963:EE_|SY7P300MB0165:EE_|SG2PEPF000B66CC:EE_|SY0P300MB0723:EE_|SY3PPF1BF8F8C20:EE_
+X-MS-Office365-Filtering-Correlation-Id: 09867086-d17f-4aec-dea4-08ddd889ecda
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|366016|8096899003|41050700001;
+X-Microsoft-Antispam-Message-Info-Original: H+tWVbW0xJh6YBeKwnGJcLwEHRWXVCFd8+fgSlxKVwM41yZhjerf3BtLa4bbq4SDeC3ZO9ZHDD1HfZj7HfqazxjhVZsNou19nJXFSyD60TlL+Eo0AT7RMyCZ495zI/LEHBuaIC1WBrnUCZXrwAy6tKvI20WQXnc2ivFAcr9uCXoJ+aUv3HVJZcGlK+y01k/eJZIhoAnR7Dn4qTzuREzuYOZIrzQGM41x/HIXHHRns4w0MjGTBh04iscg9t+1r+xF4Trd7uzMYre2beQGNS7rooJ0Yv+9FLDJTLj/joynDS93SzLWqGQWLMTJ+ocWBZdVNEAlf99uQrXJtiyzIYrafTZVkshVsV9w4UJdsWmc3pI1DfwskItrjvVLLnuBGvF69BwWXHMrTiL4vOCfIBGX7gfe/GQd2AoLOBf14Aqok0QnfvrGAMB+m4aEblDAamWhThbTKx9QWIqFjpYxJcgxTiiEJ7O2eYPHM8dYI6EsM1FrKFzeJ3aK4Gp2MuKM/ygc4Id5kFVjFYPRzXIrYHeSAXbwYs7oqkoBu1zxOl4Jeqiygd85f4KUWWWLW7jkoWFRhtYqAuawSO/rWT+hGJPQfeSx9P+1IAor0iXIHgROW+eCWZ8MfjLWpyikQ5OFQuafenlJ2PkdZzwgmwnWMdmJqXXHmd0AC/i0LVDySkXmzYLflIRm5b9RN8NKov42kOPOPmJI8KSTcjtGZrGT2x1cLnj6CKQwPXVr8fUXFIA101oW2jCHCyaYiK/GHHw9gp/Y
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SY0P300MB0963.AUSP300.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(366016)(8096899003)(41050700001);DIR:INT;
+Content-Type: multipart/alternative;
+	boundary="_000_SY0P300MB096320AD6B965785D2EAC7DAE128ASY0P300MB0963AUSP_"
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY7P300MB0165
+Reply-To: Connect Change & Incident <change&incident@auckland.ac.nz>
+X-Loop: all-staff@list.auckland.ac.nz
+X-Sequence: 649
+Errors-to: all-staff-owner@list.auckland.ac.nz
+Precedence: bulk
+Sender: all-staff-request@list.auckland.ac.nz
+X-no-archive: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+List-Id: <all-staff.list.auckland.ac.nz>
+List-Archive: <https://list.auckland.ac.nz/sympa/arc/all-staff>
+List-Help: <mailto:sympa@list.auckland.ac.nz?subject=help>
+List-Owner: <mailto:all-staff-request@list.auckland.ac.nz>
+List-Post: <mailto:all-staff@list.auckland.ac.nz>
+List-Subscribe: <mailto:sympa@list.auckland.ac.nz?subject=subscribe%20all-staff>
+List-Unsubscribe: <mailto:sympa@list.auckland.ac.nz?subject=unsubscribe%20all-staff>
+Return-Path: all-staff-owner@list.auckland.ac.nz
+X-MS-Exchange-Organization-ExpirationStartTime: 11 Aug 2025 03:48:25.2364
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 09867086-d17f-4aec-dea4-08ddd889ecda
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SG2PEPF000B66CC.apcprd03.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: SG2PEPF000B66CC.apcprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: auckland.ac.nz
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 9366d72d-a044-4ad7-026d-08ddd889cdce
+X-LD-Processed: d1b36e95-0d50-42e9-958f-b63fa906beaa,ExtFwd
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|35042699022|82310400026|4022899009|13003099007|8096899003;
+X-Forefront-Antispam-Report: CIP:130.216.125.250;CTRY:NZ;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKN;H:uoasmtpprd01.its.auckland.ac.nz;PTR:uoasmtpprd01.its.auckland.ac.nz;CAT:NONE;SFS:(13230040)(35042699022)(82310400026)(4022899009)(13003099007)(8096899003);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 11 Aug 2025 03:48:24.8791
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 09867086-d17f-4aec-dea4-08ddd889ecda
+X-MS-Exchange-CrossTenant-Id: d1b36e95-0d50-42e9-958f-b63fa906beaa
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=d1b36e95-0d50-42e9-958f-b63fa906beaa;Ip=[130.216.125.250];Helo=[uoasmtpprd01.its.auckland.ac.nz]
+X-MS-Exchange-CrossTenant-AuthSource: SG2PEPF000B66CC.apcprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY0P300MB0723
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:06.2330466
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.9009.009
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(4710137)(4999163)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?windows-1257?Q?wlvK6uY5KgZQkfqlz9EGaiMnjeqmyvxA8nvgd9xiRqlLlN27FScheqSO?=
+ =?windows-1257?Q?DP5XW69l2SxL2UtHqK+8iGX9T75fBlPLFAK+o4YsTVlqdnhSwYUWQPv3?=
+ =?windows-1257?Q?kpYjFLkJ6UMK03iUN9Lpmth7g4ViUNIcs1Ecqjj47CsC1Ow0BFoX1IPW?=
+ =?windows-1257?Q?aXxC7Rgk5VMBiesJSHH/Rei9bsQJdwewsrBNTV8oXQwEaDhjUutIMNZv?=
+ =?windows-1257?Q?ZMkIf0G2t9L9Myk4BSDVR9TTDU0v2AeR7OWXDlrbIwoDLMlH4IKY/ZRe?=
+ =?windows-1257?Q?jiywFH3b1McB8QVVeL620J7ixLdYUaj1NuaaFTOTByNdzb3bm9PfSu2o?=
+ =?windows-1257?Q?Yk1dU32G3w37qcqSgxyUfqnNg4JkN5eOWNe0+66dvnhhoiXLbaLFpjCy?=
+ =?windows-1257?Q?17rULywk1SZ0CwXd2ENog8WJnvMzWSsXrklUNqa5il8w9F7DkxG+7vtZ?=
+ =?windows-1257?Q?TmL5ANkX9Y7+J29LFTSSI0uKPef1GtH6ExVl497zQ4FiFfM2KCD+pyY9?=
+ =?windows-1257?Q?QCHb1b8oZusgYBNzSacg630He0XgsP0Dbo2pdKHJnOir1Fd0MlJtn32l?=
+ =?windows-1257?Q?dhXZIzxI5VpVDMgVfyb8n4z6dPBMHP4S5NhBtpypAkDpub2LdAthq1mZ?=
+ =?windows-1257?Q?+veIKjITPknv2+1OAmL40BtiRKcKZH03urskjeT/Rt12uEAWKpwmr77E?=
+ =?windows-1257?Q?s/ZHY/Xuc+AMwKc9Nkd85C6GPz3GEgfZqt8FtTvG4GEYWdJeJbHbl7ti?=
+ =?windows-1257?Q?og7xFFxkKkQAwiiGjAPTcxHVhkzvzqS1keRUIQCBpXhU65nBZNnYeqa+?=
+ =?windows-1257?Q?GuvfLmk0ZACI94dXqO8WUzDr6dPwPEhT9KDleDjwOL3/Djv1itsWiayQ?=
+ =?windows-1257?Q?n2UV+gvlKsgljyKbCtQ8ZNxgGaaXpWIrfriIG3iIAHqbXiZK0GCNii/g?=
+ =?windows-1257?Q?2c0CZNSNO/zCx+8WCz/z6SS06AdPFG4WH601j/RBzmoKFMJbodkJ/tPj?=
+ =?windows-1257?Q?lsqb8EvCr9/2i5BBboUXOzM+d3rrZjVC/pXXM7leD2M1w8WlJeyj+C9O?=
+ =?windows-1257?Q?nzCEk1fh7ijvbFxl+SsltLChczf9yT/EwzQ7z9gvWe0ST8OJewu0cJEe?=
+ =?windows-1257?Q?tC5ztC85ScPLYtBO6X317E9FHbeTJDDtoRObdNJ9alnm1+8EK3l1yZj8?=
+ =?windows-1257?Q?tnSPK+ibTe1Dd4T/oO45TAIY5rRtr3u6Wippd6QWTV3GIdd1hBAuNhup?=
+ =?windows-1257?Q?i4V1AM7omTp2Be+JKO/wKY+YcXG++V6+n1r0S8707OHVRNXPAiP8DP25?=
+ =?windows-1257?Q?Ie5ou53QwvE8fA7DBHOR/hsesFdFsi29gJQzDf3gxdcbPzp23ZD5Kar7?=
+ =?windows-1257?Q?lYcrATSTMD4+fgDwCqLM3Nuw/w89RLoTplcmDw/YRkDfUOoK0ICWcOJU?=
+ =?windows-1257?Q?tBhupUzXg6hFtwQtXF5MjTjMTRxFP/LAbzUMU0WiojESW2MEizZx32nP?=
+ =?windows-1257?Q?r31rfc4lXqqxHnGdsLgzPNsZrpEvFeL7IWEnbZQpAuqTn9p09UAN1gG4?=
+ =?windows-1257?Q?pf4Kd1BDDmndZP2reqS1U+l4hLgASGXlI5wp/4nblB96Y1PDX56ED6bu?=
+ =?windows-1257?Q?fgAjN7MarZs6hI8BjsVdtH3zDUfUuMqeujIyIfAoS++W6jIu1ldNtcUH?=
+ =?windows-1257?Q?SemwAyWVYqs4YNFTDaiwlqVg33hMfdYzJ8bvFQfQYAW5Gq/yRkU1uBAE?=
+ =?windows-1257?Q?1UxeUDDbykoPdIF7TDhLBtnZrwMwj8HvJlXxQ+WmZH2FYfo6yCg+dZEf?=
+ =?windows-1257?Q?JSa6Bkxdki9xR8RxXr4pzX4Feq9d/nAhCrT2If2XkqBZ0sRUXh4m9XVu?=
+ =?windows-1257?Q?4rPfsiTrSFVm3P3bv/xAgWwzcbGpAupA5EjV5BwrRoZl9Hocz+P3/qNe?=
+ =?windows-1257?Q?xHnYz4HWCMrq4LyAzKAAd6VngvrftJeUWfcfe3I4LD1Qg49f6SJAg/rs?=
+ =?windows-1257?Q?vwIC7kYP8R563hh5YdHLWk+bOmpPysTRdSoa7DTrfnO9VLkh5VZ8lso0?=
+ =?windows-1257?Q?P4N2PyRPi8x1FWGj6RC6N9tyb99AqiDFQlXlq2Yh8WcKyq9cGj4U3QGA?=
+ =?windows-1257?Q?snnyGL3mzm3k+ZpSS0K/9f/U0tEMbXIIAKd45CM5MlHhUHxj58e4hN/8?=
+ =?windows-1257?Q?MJ+oDEA7TCJuhwqf8l8qNLceYyQ3U86Chzpc+mw9JN8sqKBnFlU1aywR?=
+ =?windows-1257?Q?QI+nmw5CrQPzjkBC8RbiaMoJYyCnvFzNP6el7TGTjyTRaRxyp4MLRsau?=
+ =?windows-1257?Q?NxfONdoxU7efo0y6zAhSaD2X7+cq0eGVGfdFk0Z+SxbA/IPXgtQIT0g4?=
+ =?windows-1257?Q?WZq9vqkF0Yv9COByXak1oClbdWntzFIYzv21YfOjysWz222g7DR90rnH?=
+ =?windows-1257?Q?FwoWihymKeYd/ECDdWy3MVmtwGjSYAuWOEmnGVCkzvGSh7bkKBQwpAdZ?=
+ =?windows-1257?Q?XD8s/Hnjxpa2+lIOJWKzHfBvAKr/DGR+viSbaeShXQahNqo29FeOb35D?=
+ =?windows-1257?Q?iXHLxs/Isrsgjg4k0FMrgCrifBEwRlGSt1+WfmhQvcqmBJwBEUMAwOK2?=
+ =?windows-1257?Q?g9ty3AlbJrNAFyuoLZBeNYXn0G2i7PZ9/N9gD01dYaGUN+LJA4vMSmPs?=
+ =?windows-1257?Q?d839n3vHodooITdoXZNFS3Pvj4vqhVgIF2RmwX6yZSYlbiqpMLfrdGTs?=
+ =?windows-1257?Q?iEyMl4tVvJ0hsVGWxGOEn+tjRK6P1QFrtZ8zHbT8D2L19cZQqpnfttVE?=
+ =?windows-1257?Q?W8CVymmRg2J4DcRJ1jxFTnETacBXM9l3uX7huDLK+KNizaRnhmzKG194?=
+ =?windows-1257?Q?4Uhiz4iAwGIIaAvu9tpPSnlOKg+z6V7bxJ04KzEwa/gqNOXVHHO5+9HG?=
+ =?windows-1257?Q?VFg4/OAuavoxKB2a9PPwC8I6SIhkqfR0BfRzl4Z5KdjWdNeR7YDYvnuA?=
+ =?windows-1257?Q?N7TfSOSXzOwX9H6/OOGSoJBAkBN4SiM8dqdOF1CmoaxYchkpL3M=3D?=
+MIME-Version: 1.0
+
+--_000_SY0P300MB096320AD6B965785D2EAC7DAE128ASY0P300MB0963AUSP_
+Content-Type: text/plain; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+Kia ora koutou,
+As part of the University=92s commitment to maintaining a secure and suppor=
+ted digital environment, we are currently undertaking a major upgrade proje=
+ct to transition all University-managed devices from Windows 10 to Windows =
+11.
+Microsoft will end support for Windows 10 in October 2025, and to ensure co=
+ntinuity of support, security, and compatibility, we are asking all staff t=
+o upgrade any University device that is still running Windows 10.
+What you need to do:
+
+  *   Check your device: If you're still using Windows 10, please upgrade y=
+our device to Windows 11 as soon as possible. If you are already running wi=
+ndows 11 or any other OS, no action is required.
+To find out your operating system in the search bar, type =93About your PC=
+=94.  Open and scroll down to Windows specifications.  If the Edition is sh=
+owing Windows 10, you can follow the instructions below to upgrade.
+
+  *   How to upgrade: Follow the UoA Windows 11 Upgrade Guide <https://uoap=
+rod.service-now.com/sp?id=3Dkb_article_view&sys_kb_id=3D92efbe6c93fd6a9010f=
+ffaba6aba105e&table=3Dkb_knowledge&searchTerm=3Dwindows%2010%20> from our s=
+taff intranet for step-by-step instructions.
+  *   Need help? If your device does not meet the upgrade requirements or y=
+ou encounter any issues, please submit a ticket<https://uoaprod.service-now=
+.com/sp?id=3Dsc_cat_item&sys_id=3D527e81e61bbb29d0388d2029b04bcbc4&table=3D=
+sc_cat_item&searchTerm=3Dos%20upgrade> and select " Update operating system=
+ (OS) through the Staff Service Centre.
+Why this is important:
+
+  *   Support: Devices running unsupported systems will no longer receive u=
+pdates, putting University data at risk.
+  *   Future-readiness: Staying current ensures compatibility with future a=
+pplications, systems, and services.
+You can access upgrade information and self-service guides by visiting the =
+Windows 11 Upgrade<https://www.auckland.ac.nz/en/intranet/stay-informed/imp=
+rovement-projects-programmes/windows-11-upgrade.html> page on the Staff Int=
+ranet homepage under =91Projects & Initiatives=92.
+We appreciate your cooperation in helping the University stay up to date an=
+d secure.
+
+Ng=E2 mihi,
+Paul Boakes  (he/him).
+Head of Digital Workspace.
+Connect | R=E2tonga Matihiko.
+Waipapa Taumata Rau | The University of Auckland.
+
+
+
+--_000_SY0P300MB096320AD6B965785D2EAC7DAE128ASY0P300MB0963AUSP_
+Content-Type: text/html; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Aptos;
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#467886;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:190186749;
+	mso-list-template-ids:710548414;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:280647097;
+	mso-list-template-ids:-389094994;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%2\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7 ;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:483862145;
+	mso-list-template-ids:-630924758;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3
+	{mso-list-id:602617827;
+	mso-list-template-ids:1570694380;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4
+	{mso-list-id:1599411415;
+	mso-list-template-ids:1460929874;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7 ;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style>
+</head>
+<body lang=3D"EN-GB" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;line-=
+height:115%;font-family:&quot;Verdana&quot;,sans-serif;color:black">Kia ora=
+ koutou,</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;line-height:1=
+15%;font-family:&quot;Verdana&quot;,sans-serif"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;line-height:normal">
+<span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana&qu=
+ot;,sans-serif;color:black;mso-ligatures:none;mso-fareast-language:EN-GB">A=
+s part of the University=92s commitment to maintaining a secure and support=
+ed digital environment, we are currently undertaking
+ a major upgrade project to transition all University-managed devices from&=
+nbsp;<b>Windows 10 to Windows 11</b>.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;line-height:normal">
+<span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana&qu=
+ot;,sans-serif;color:black;mso-ligatures:none;mso-fareast-language:EN-GB">M=
+icrosoft will end support for Windows 10 in&nbsp;<b>October 2025</b>, and t=
+o ensure continuity of support, security, and compatibility,
+ we are asking all staff to upgrade any University device that is still run=
+ning Windows 10.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;line-height:normal">
+<b><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana=
+&quot;,sans-serif;color:black;mso-ligatures:none;mso-fareast-language:EN-GB=
+">What you need to do:<o:p></o:p></span></b></p>
+<ul type=3D"disc">
+<li class=3D"MsoNormal" style=3D"color:black;mso-margin-top-alt:auto;mso-ma=
+rgin-bottom-alt:auto;line-height:normal;mso-list:l1 level1 lfo3">
+<b><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana=
+&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:EN-GB">Check your=
+ device</span></b><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-famil=
+y:&quot;Verdana&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:EN=
+-GB">:
+ If you're still using Windows 10, please upgrade your device to Windows 11=
+ as soon as possible. If you are already running windows 11 or any other OS=
+, no action is required.&nbsp;
+<o:p></o:p></span></li></ul>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;margin-left:36.0pt;line-height:normal">
+<span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana&qu=
+ot;,sans-serif;color:black;mso-ligatures:none;mso-fareast-language:EN-GB">T=
+o find out your operating system in the search bar, type =93About your PC=
+=94.&nbsp; Open and scroll down to Windows specifications.&nbsp;
+ If the Edition is showing Windows 10, you can follow the instructions belo=
+w to upgrade.
+<o:p></o:p></span></p>
+<ul type=3D"disc">
+<li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:auto;line-height:normal;mso-list:l1 level1 lfo3">
+<b><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana=
+&quot;,sans-serif;color:black;mso-ligatures:none;mso-fareast-language:EN-GB=
+">How to upgrade</span></b><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;f=
+ont-family:&quot;Verdana&quot;,sans-serif;color:black;mso-ligatures:none;ms=
+o-fareast-language:EN-GB">:
+</span><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Ver=
+dana&quot;,sans-serif;mso-fareast-language:EN-GB">Follow the&nbsp;</span><s=
+pan lang=3D"EN-NZ"><a href=3D"https://uoaprod.service-now.com/sp?id=3Dkb_ar=
+ticle_view&amp;sys_kb_id=3D92efbe6c93fd6a9010fffaba6aba105e&amp;table=3Dkb_=
+knowledge&amp;searchTerm=3Dwindows%2010%20"><span style=3D"font-size:11.0pt=
+;font-family:&quot;Verdana&quot;,sans-serif;mso-fareast-language:EN-GB">UoA
+ Windows 11 Upgrade Guide&nbsp;</span></a></span><span lang=3D"EN-NZ" style=
+=3D"font-size:11.0pt;font-family:&quot;Verdana&quot;,sans-serif">from our s=
+taff intranet
+</span><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Ver=
+dana&quot;,sans-serif;mso-fareast-language:EN-GB">for step-by-step instruct=
+ions.
+<o:p></o:p></span></li><li class=3D"MsoNormal" style=3D"color:black;mso-mar=
+gin-top-alt:auto;mso-margin-bottom-alt:auto;line-height:normal;mso-list:l1 =
+level1 lfo3">
+<b><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana=
+&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:EN-GB">Need help?=
+</span></b><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot=
+;Verdana&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:EN-GB">&n=
+bsp;If
+ your device does not meet the upgrade requirements or you encounter any is=
+sues, </span>
+<span lang=3D"EN-NZ" style=3D"color:windowtext"><a href=3D"https://uoaprod.=
+service-now.com/sp?id=3Dsc_cat_item&amp;sys_id=3D527e81e61bbb29d0388d2029b0=
+4bcbc4&amp;table=3Dsc_cat_item&amp;searchTerm=3Dos%20upgrade"><span style=
+=3D"font-size:11.0pt;font-family:&quot;Verdana&quot;,sans-serif;mso-ligatur=
+es:none;mso-fareast-language:EN-GB">please
+ submit a ticket</span></a></span><span lang=3D"EN-NZ" style=3D"font-size:1=
+1.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#215E99;mso-ligature=
+s:none;mso-fareast-language:EN-GB">
+</span><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Ver=
+dana&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:EN-GB">and se=
+lect &quot; Update operating system (OS) through the Staff Service Centre.
+<o:p></o:p></span></li></ul>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;line-height:normal">
+<b><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana=
+&quot;,sans-serif;color:black;mso-ligatures:none;mso-fareast-language:EN-GB=
+">Why this is important:<o:p></o:p></span></b></p>
+<ul type=3D"disc">
+<li class=3D"MsoNormal" style=3D"color:black;mso-margin-top-alt:auto;mso-ma=
+rgin-bottom-alt:auto;line-height:normal;mso-list:l0 level1 lfo7">
+<b><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana=
+&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:EN-GB">Support</s=
+pan></b><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Ve=
+rdana&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:EN-GB">:
+ Devices running unsupported systems will no longer receive updates, puttin=
+g University data at risk.<o:p></o:p></span></li><li class=3D"MsoNormal" st=
+yle=3D"color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;line-=
+height:normal;mso-list:l0 level1 lfo7">
+<b><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana=
+&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:EN-GB">Future-rea=
+diness</span></b><span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family=
+:&quot;Verdana&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:EN-=
+GB">:
+ Staying current ensures compatibility with future applications, systems, a=
+nd services.<o:p></o:p></span></li></ul>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;line-height:normal">
+<span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana&qu=
+ot;,sans-serif;color:black;mso-ligatures:none;mso-fareast-language:EN-GB">Y=
+ou can access upgrade information and self-service guides by visiting the
+</span><span lang=3D"EN-NZ"><a href=3D"https://www.auckland.ac.nz/en/intran=
+et/stay-informed/improvement-projects-programmes/windows-11-upgrade.html"><=
+span style=3D"font-size:11.0pt;font-family:&quot;Verdana&quot;,sans-serif;m=
+so-ligatures:none;mso-fareast-language:EN-GB">Windows
+ 11 Upgrade</span></a></span><span lang=3D"EN-NZ" style=3D"font-size:11.0pt=
+;font-family:&quot;Verdana&quot;,sans-serif;color:black;mso-ligatures:none;=
+mso-fareast-language:EN-GB"> page on the Staff Intranet homepage under =91P=
+rojects &amp; Initiatives=92.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;line-height:normal">
+<span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana&qu=
+ot;,sans-serif;color:black;mso-ligatures:none;mso-fareast-language:EN-GB">W=
+e appreciate your cooperation in helping the University stay up to date and=
+ secure.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;line-height:normal">
+<span lang=3D"EN-NZ" style=3D"font-size:11.0pt;font-family:&quot;Verdana&qu=
+ot;,sans-serif;color:black;mso-ligatures:none;mso-fareast-language:EN-GB"><=
+o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;line-height:115%;fon=
+t-family:&quot;Verdana&quot;,sans-serif">Ng=E2 mihi,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;line-height:115%;=
+font-family:&quot;Verdana&quot;,sans-serif">Paul Boakes&nbsp; (he/him).</sp=
+an></b><span style=3D"font-size:11.0pt;line-height:115%;font-family:&quot;V=
+erdana&quot;,sans-serif"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;line-height:normal"><span=
+ style=3D"font-size:11.0pt;font-family:&quot;Verdana&quot;,sans-serif">Head=
+ of Digital Workspace.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;line-height:normal"><span=
+ style=3D"font-size:11.0pt;font-family:&quot;Verdana&quot;,sans-serif">Conn=
+ect&nbsp;|&nbsp;<b>R=E2tonga Matihiko.</b><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;line-height:normal"><span=
+ style=3D"font-size:11.0pt;font-family:&quot;Verdana&quot;,sans-serif">Waip=
+apa Taumata Rau&nbsp;|&nbsp;The University of Auckland.<o:p></o:p></span></=
+p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;line-=
+height:115%;font-family:&quot;Verdana&quot;,sans-serif"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;line-height:115%"><o=
+:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_SY0P300MB096320AD6B965785D2EAC7DAE128ASY0P300MB0963AUSP_--
